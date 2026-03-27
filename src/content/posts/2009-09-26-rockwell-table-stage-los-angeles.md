@@ -1,0 +1,67 @@
+---
+title: Rockwell Table & Stage, Los Angeles
+pubDate: '2009-09-26'
+author: The Thirsty Pig
+source: thirstypig.com
+originalUrl: http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
+categories:
+- Hollywood
+tags:
+- Bar
+- Burgers
+- Lounge
+description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
+archiveUrl: https://web.archive.org/web/20161106094719/http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
+draft: false
+---
+
+[![img_0926](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0926.jpg?resize=222%2C166 "img_0926")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0926-2/)
+
+[![img_0922](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0922.jpg?resize=222%2C166 "img_0922")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0922-3/)
+
+[![img_0917](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0917.jpg?resize=222%2C167 "img_0917")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0917-2/)
+
+[![img_0921](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0921.jpg?resize=380%2C507 "img_0921")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0921-2/)
+
+[![img_0924](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0924.jpg?resize=301%2C401 "img_0924")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0924/)
+
+[![img_0920](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0920.jpg?resize=301%2C401 "img_0920")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0920-2/)
+
+[![img_0915](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0915.jpg?resize=403%2C302 "img_0915")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0915-3/)
+
+[![img_0913](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0913.jpg?resize=199%2C149 "img_0913")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0913-4/)
+
+[![img_0918](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0918.jpg?resize=199%2C149 "img_0918")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0918-3/)
+
+[![img_0925](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0925.jpg?resize=282%2C211 "img_0925")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0925/)
+
+[![img_0912](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0912.jpg?resize=282%2C212 "img_0912")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0912-2/)
+
+[![img_0911](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0911.jpg?resize=320%2C427 "img_0911")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0911-2/)
+
+[![img_0923](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0923.jpg?resize=217%2C289 "img_0923")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0923-3/)
+
+[![img_0914](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0914.jpg?resize=385%2C289 "img_0914")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0914-3/)
+
+The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a lounge in the back.
+
+I was looking for a place to go, when I saw the listings of new places in the LA weekly. The LA Weekly also listed it as one of the top ten romantic venues as well. I’m always on the look out for new bars and lounges in LA, that are not necessarily in Hollywood or Santa Monica. I like the Los Feliz and the Downtown LA areas, they seem to be less crowded and offer a better crowd.
+
+Being that its fairly new, doesn’t mean it isn’t crowded already. It seems people have already discovered this place and news travels fast. The valet parking, located in the back, was already filled to capacity at 10:15pm on a Saturday night. I guess arriving fashionably late, won’t matter if you can’t find parking in LA. Luckily, I found a great spot on the street on the same block.
+
+As I mentioned before, there is no real signage on Vermont except a foldup word board pointing to valet parking in the back. We hesitated in entering through the front of what we thought was just the restaurant. We weren’t sure if we were invading a nice place with a small bar in the back, called Rockwell. The restaurant was dimly lit place and looked as if they had a small jazz band with a singer on one side. I opened the front and quietly & quickly ask where was the lounge.
+
+Luckily, we were at the right place, as the waiter pointed us down the hall, right behind him. Not sure what to expect, not even from the pictures from other Yelpers, we scurried down the hall into a open night sky in the festive courtyard of Rockwell. There is a large tree with little hanging lanterns creating an ambient scene. Though it was crowded, it didn’t feel like a typical hollywood elbow to elbow night. The crowd is a bit more mature with the DJ playing hip hop, R&B, and pop throughout the night.
+
+We were also fortunate, with good parking, to grab two stools right at the bar. Things went well tonight. On top of that, they had my favorite Gin – Tanqueray Rangpur.
+
+The bar had a large lit bookshelf that went all the way to the raised ceilings. They put all their top shelf liquor along with wines on this shelf. I should have glanced at their wine list, since I am beginning to look at more wines. The drinks were fine, except i noticed that we had clear plastic glasses. I thought it was kinda weird to be using these unbreakable glasses at a nice place like this.
+
+The cool area is the upstairs lounge. As you walk up the stairs to the open 2nd floor, it circles around the big tree in the middle. High tables with stools allow small groups to enjoy this big tree. Then toward the back there’s small ramp leading up a private group area where the views extend out toward Los Angeles’ skyline. This second floor area make this place an ideal date place.
+
+At the end, I think I would come here again. Its a good place to bring a small group. I’d try to get there early for parking. And I would avoid weekends, and try to go during the week. It was a good night at Rockwell.
+
+[Rating](http://blog.thethirstypig.com/2009/09/new-thirsty-pig-rating-system.html)
+3 pigs, $$
+
+##### [Rockwell](http://rockwell-la.com/) 1714 N. Vermont Ave Los Angeles, CA 90027 (323) 669-1550

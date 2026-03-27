@@ -1,0 +1,29 @@
+---
+title: Sunday lunch with old friends at the old spaghetti factory
+pubDate: '2018-03-05'
+author: The Thirsty Pig
+source: instagram
+draft: false
+heroImage: /images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg
+images:
+- /images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg
+- /images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17913962626125102.jpg
+- /images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17902058542186409.jpg
+tags:
+- duarte
+- spaghetti
+- cheesebread
+- spumoni
+- icecream
+- sausage
+- thirstypig
+description: Sunday lunch with old friends at the old spaghetti factory
+---
+
+![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg)
+
+![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17913962626125102.jpg)
+
+![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17902058542186409.jpg)
+
+Sunday lunch with old friends at the old spaghetti factory #Duarte @oldspaghettifactory @yalin_wu #thirstypig

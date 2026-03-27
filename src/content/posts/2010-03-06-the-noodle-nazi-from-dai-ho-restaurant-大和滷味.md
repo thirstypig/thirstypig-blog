@@ -1,0 +1,27 @@
+---
+title: The Noodle Nazi from Dai Ho Restaurant 大和滷味
+pubDate: '2010-03-06'
+author: The Thirsty Pig
+source: thethirstypig.com
+originalUrl: http://www.thethirstypig.com/2010/03/06/the-noodle-nazi-from-dai-ho-restaurant-%e5%a4%a7%e5%92%8c%e6%bb%b7%e5%91%b3/
+heroImage: /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0155.JPG
+images:
+- /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0155.JPG
+- /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0157.JPG
+- /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0159.JPG
+- /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0161.JPG
+- /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0165.JPG
+categories:
+- Noodles
+- Taiwanese
+- San Gabriel Valley
+- $
+- 3 pigs
+tags:
+- LA's San Gabriel Valley
+description: 'This place has been around for almost 10 years. Dai Ho’s owner, in its early days, was notorious for being mean to the customers. Everyone in the community knew he wasn’t the most cordial, yet people '
+archiveUrl: https://web.archive.org/web/20110106000131/http://www.thethirstypig.com/2010/03/06/the-noodle-nazi-from-dai-ho-restaurant-%e5%a4%a7%e5%92%8c%e6%bb%b7%e5%91%b3/
+draft: false
+---
+
+AKPC\_IDS += "209,";

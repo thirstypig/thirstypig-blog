@@ -1,0 +1,28 @@
+---
+title: Da Kitchen Cafe, Kahului Maui Hawaii
+pubDate: '2015-06-22'
+author: The Thirsty Pig
+source: thirstypig.com
+originalUrl: http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/
+categories:
+- Maui
+tags:
+- Hawaiian
+description: Large Portions, I mean LARGE Classic Hawaiian dishes Lau Lau is yummy Lunch & Dinner Only They opened to serve large portions as one of their goals
+archiveUrl: https://web.archive.org/web/20161018120507/http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/
+draft: false
+---
+
+[![IMG_3082](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3082.jpg?resize=301%2C226 "IMG_3082")](http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/img_3082/)
+
+[![IMG_3084](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3084.jpg?resize=301%2C226 "IMG_3084")](http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/img_3084/)
+
+#Large Portions, I mean LARGE
+#Classic Hawaiian dishes
+#Lau Lau is yummy
+#Lunch & Dinner Only
+#They opened to serve large portions as one of their goals
+
+[Yelp](https://www.yelp.com/biz/da-kitchen-cafe-kahului)
+
+#### Da Kitchen Cafe 425 Koloa St Kahului, HI 96732 11AM–9PM (808) 871-7782 <http://dakitchen.com/> [places.singleplatform.com](http://places.singleplatform.com) [chownow.com](http://chownow.com)

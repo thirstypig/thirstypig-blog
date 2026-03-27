@@ -1,0 +1,55 @@
+---
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	title: string;
+	pubDate: Date;
+	description?: string;
+	heroImage?: string;
+	categories?: string[];
+	slug: string;
+}
+
+const { title, pubDate, description, heroImage, categories = [], slug } = Astro.props;
+---
+
+<article class="group">
+	<a href={`/posts/${slug}/`} class="block no-underline">
+		<div class="aspect-[4/3] overflow-hidden rounded-xl bg-cream-dark mb-3">
+			{heroImage ? (
+				<img
+					src={heroImage}
+					alt={title}
+					class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300"
+					loading="lazy"
+				/>
+			) : (
+				<div class="w-full h-full flex items-center justify-center bg-gradient-to-br from-amber/10 to-rust/10">
+					<span class="font-serif text-4xl text-amber/30">TP</span>
+				</div>
+			)}
+		</div>
+		<div class="space-y-1.5">
+			{categories.length > 0 && (
+				<div class="flex flex-wrap gap-1.5">
+					{categories.slice(0, 3).map(cat => (
+						<span class="text-xs font-medium text-amber bg-amber/10 px-2 py-0.5 rounded-full">
+							{cat}
+						</span>
+					))}
+				</div>
+			)}
+			<h3 class="font-serif text-lg font-semibold text-ink group-hover:text-amber transition-colors leading-snug">
+				{title}
+			</h3>
+			<p class="text-sm text-stone">
+				<FormattedDate date={pubDate} />
+			</p>
+			{description && (
+				<p class="text-sm text-ink-light line-clamp-2">
+					{description}
+				</p>
+			)}
+		</div>
+	</a>
+</article>

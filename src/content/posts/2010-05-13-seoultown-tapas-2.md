@@ -1,0 +1,27 @@
+---
+title: Debbie Lee’s Seoultown Tapas at Breadbar, Los Angeles
+pubDate: '2010-05-13'
+author: The Thirsty Pig
+source: thethirstypig.com
+originalUrl: http://www.thethirstypig.com/2010/05/13/seoultown-tapas-2/
+heroImage: /images/posts/seoultown-tapas-2/IMG_1296-185x185.jpg
+images:
+- /images/posts/seoultown-tapas-2/IMG_1296-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1303-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1304-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1305-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1306-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1308-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1313-185x185.jpg
+- /images/posts/seoultown-tapas-2/IMG_1313-300x225.jpg
+- /images/posts/seoultown-tapas-2/IMG_1314-185x185.jpg
+categories:
+- Korean
+tags:
+- Hollywood
+description: On this night we were able to sample almost everything on the menu. Here are the highlights from the meal. Korean rice cylinders, maple smoked bacon and jalapeno ponzu Chicken meat balls with magnolia
+archiveUrl: https://web.archive.org/web/20110105155043/http://www.thethirstypig.com/2010/05/13/seoultown-tapas-2/
+draft: false
+---
+
+AKPC\_IDS += "240,";

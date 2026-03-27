@@ -1,0 +1,42 @@
+---
+title: Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...
+pubDate: '2020-02-10'
+author: The Thirsty Pig
+source: instagram
+draft: false
+heroImage: /images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg
+images:
+- /images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg
+- /images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17871046597595944.jpg
+- /images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18099179392120290.jpg
+- /images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18128354647060037.jpg
+tags:
+- dtla
+- sundays
+- food
+- eat
+- eating
+- eeeeeats
+- porchetta
+- yucca
+- yelpsucks
+- riceballs
+description: Porchetta sandwich at and pastrami burnt ends from ans rice balls and fried yucca from a place I forgot the name . . . . . .
+---
+
+![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)
+
+![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17871046597595944.jpg)
+
+![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18099179392120290.jpg)
+
+![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18128354647060037.jpg)
+
+Porchetta sandwich at @porchettarepublic and pastrami burnt ends from @uglydrum ans rice balls @mamamusubi and fried yucca from a place I forgot the name
+.
+.
+.
+.
+.
+.
+@smorgasburgla @yalin_wu

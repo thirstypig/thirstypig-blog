@@ -1,0 +1,34 @@
+---
+title: Colabo, Shanghai
+pubDate: '2011-04-29'
+author: The Thirsty Pig
+source: thethirstypig.com
+originalUrl: http://www.thethirstypig.com:80/2011/04/29/colabo-shanghai/
+categories:
+- 2 pigs
+- Italian
+- Price Range 2 $/¥/NT
+tags:
+- Shanghai
+description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 20%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
+archiveUrl: https://web.archive.org/web/20110502071602/http://www.thethirstypig.com:80/2011/04/29/colabo-shanghai/
+draft: false
+---
+
+#gallery-2 {
+margin: auto;
+}
+#gallery-2 .gallery-item {
+float: left;
+margin-top: 10px;
+text-align: center;
+width: 20%;
+}
+#gallery-2 img {
+border: 2px solid #cfcfcf;
+}
+#gallery-2 .gallery-caption {
+margin-left: 0;
+}
+
+AKPC\_IDS += "4673,";

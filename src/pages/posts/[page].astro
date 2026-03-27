@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostGrid from '../../components/PostGrid.astro';
+import Pagination from '../../components/Pagination.astro';
+
+export async function getStaticPaths() {
+	const POSTS_PER_PAGE = 12;
+	const posts = (await getCollection('posts'))
+		.filter(p => !p.data.draft)
+		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+	const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+
+	return Array.from({ length: totalPages }, (_, i) => ({
+		params: { page: String(i + 1) },
+		props: {
+			posts: posts.slice(i * POSTS_PER_PAGE, (i + 1) * POSTS_PER_PAGE),
+			currentPage: i + 1,
+			totalPages,
+		},
+	}));
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
+---
+
+<BaseLayout title={`Archive - Page ${currentPage}`}>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Archive</h1>
+		<p class="text-stone mb-8">
+			Page {currentPage} of {totalPages}
+		</p>
+		<PostGrid posts={posts} />
+		<Pagination currentPage={currentPage} totalPages={totalPages} baseUrl="/posts" />
+	</section>
+</BaseLayout>

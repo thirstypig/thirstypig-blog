@@ -1,0 +1,31 @@
+---
+import PostCard from './PostCard.astro';
+
+interface Props {
+	posts: Array<{
+		id: string;
+		data: {
+			title: string;
+			pubDate: Date;
+			description?: string;
+			heroImage?: string;
+			categories?: string[];
+		};
+	}>;
+}
+
+const { posts } = Astro.props;
+---
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+	{posts.map((post) => (
+		<PostCard
+			title={post.data.title}
+			pubDate={post.data.pubDate}
+			description={post.data.description}
+			heroImage={post.data.heroImage}
+			categories={post.data.categories}
+			slug={post.id}
+		/>
+	))}
+</div>

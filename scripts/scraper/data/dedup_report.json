@@ -1,0 +1,1157 @@
+{
+  "total_input": 1157,
+  "total_output": 929,
+  "duplicates_removed": 228,
+  "duplicates": [
+    {
+      "winner": "http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/",
+      "loser": "http://www.thethirstypig.com/2009/10/22/mahan-indian-restaurant-alhambra/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/mahan-indian-restaurant-alhambra.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/",
+      "loser": "http://www.thethirstypig.com/2009/11/19/pho-kim-long-san-jose/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/pho-kim-long-san-jose.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/",
+      "loser": "http://www.thethirstypig.com/2010/05/15/lillian-cakes/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/",
+      "loser": "http://www.thethirstypig.com/2010/07/30/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-of-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/",
+      "loser": "http://www.thethirstypig.com/2010/07/29/taiwanese-sausage-%E9%A6%99%E8%85%B8/?0:opts.fx==",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/02/05/dennys/",
+      "loser": "http://www.thethirstypig.com:80/2011/02/24/dennys/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/03/25/nanas-green-tea-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/04/11/fu-sing-shark-fin-seafood-restaurant-hong-kong/",
+      "loser": "http://www.thethirstypig.com:80/2011/04/13/fu-sing-shark-fin-seafood-restaurant-hong-kong/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/04/26/lunch-with-jean-georges/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/06/10/chas-restaurant-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/08/28/burger-and-beer-at-the-waterhouse-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/",
+      "loser": "http://www.thethirstypig.com/2011/08/23/renaissance-bangkok-ratchaprasong-hotel/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/09/12/food-fusion-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/09/16/food-fusion-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/09/23/boxing-cat-brewery-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/09/19/maya-brunch-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/09/19/maya-brunch-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/10/06/huangshan-%e9%bb%84%e5%b1%b1/",
+      "loser": "http://www.thethirstypig.com/2011/10/10/huangshan-%e9%bb%84%e5%b1%b1/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/12/21/itsuki-teppanyaki-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/12/10/le-saleya-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/12/28/le-saleya-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/12/17/bistro-burger-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/12/19/burger-bistro-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2011/12/17/dr-beer-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2011/12/23/dr-beer-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2012/06/12/new-york-style-steak-burger-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2012/06/25/new-york-style-steak-and-burger-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2012/06/21/tikka-indian-cuisine-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2012/06/21/tikka-indian-cuisine-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2012/08/20/le-cafe-des-stagiaires-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/03/18/tocks/",
+      "loser": "http://thirstypig.com/2014/03/25/er-guang-wontons-shanghai/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/08/nom-nom-dessert-bar/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/11/manchurian-1993-shanghai-%e4%b8%9c%e5%8c%97%e4%ba%ba-2/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/21/coquille/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/22/beef-noodle-diaspora-part-deux-austin-hu-madison/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/29/sheng-xin-tang-yuan-shanghai-%e7%9b%9b%e5%85%b4%e6%b1%a4%e5%9c%86/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/",
+      "loser": "http://thirstypig.com/2014/04/30/kelley-lees-shanghai-gastropub-liquid-laundry/",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/20/elsie-l/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/elsie-l.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/20/jason-c/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/jason-c.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2008/12/20/michi-f/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/michi-f.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/2nd-attempt-la-jimmys/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/2nd-attempt-la-jimmys.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/amy-l/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/amy-l.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/bing-y/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/bing-y.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/james-y/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/james-y.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/jimmy-c/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/jimmy-c.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/la-jimmys-ultimate-dining-guide-circa-1996/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/la-jimmys-ultimate-dining-guide-circa.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/steve-b-seoul/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/steve-b-seoul.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/21/yifan-c-taipei/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/yifan-c-taipei.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/29/about-the-thirsty-pig/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/about-thirsty-pig.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2008/12/31/cocktail-of-the-week-the-extra-dirty-3-olive-vodka-martini/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/extra-dirty-3-olive-vodka-martini.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/02/cocktail-of-the-week-white-russian/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/cocktail-of-week-white-russian.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/02/efficient-korean-bbq-dgm/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/efficient-korean-bbq.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/02/home-of-the-pug-burger-the-hungry-cat/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/pug-burger.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/02/kimchi-fried-rice-hodori/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/kimchi-fried-rice.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/03/myungdong-hadonggwan/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/myungdong-hadonggwan.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/03/the-drunken-cure-jinju-gomtang/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/jinju-gomtang.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/04/poke-bowls-forever-daichan/",
+      "loser": "http://blog.thethirstypig.com:80/2008/01/poke-bowls.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/04/the-korean-taco-truck-kogi-bbq/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/kogi-bbq-korean-taco-truck.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/05/%e9%8d%8b%e8%86%b3-guo-shan/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/guo-shan.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/05/sixes-must-dine-in-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/sixes-must-dine-in-los-angeles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2009/01/06/new-thirsty-pig-logo/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/new-thirsty-pig-logo.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/magic-dumplings-din-tai-fung.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/08/best-fish-tacos-hands-down/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/best-fish-tacos-hands-down.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/09/cocktail-of-the-week-gin-and-tonic/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/cocktail-of-week-gin-and-tonic.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/10/%e5%ae%9a%e9%a3%9f-8-japanese-teishoku/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/8-japanese-teishoku.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/13/omelet-ramen-koraku/",
+      "loser": "http://blog.thethirstypig.com:80/2008/12/omelet-ramen-koraku.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/13/the-thirsty-pig-forums/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/thirsty-pig-forums.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/14/honey-pig-korean-bbq/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/honey-pig-korean-bbq.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/14/pho-to-chau-vietnamese-restaurant-honolulu-hi/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/pho-to-chau-vietnamese-restaurant.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/14/sixes-hole-in-the-wall-mexican-food/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/sixes-hole-in-wall-mexican-food.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/16/cocktail-of-the-week-jack-and-coke/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/cocktail-of-week-jack-and-coke.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/best-pastrami-in-world-katz.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/20/great-hole-in-the-wall-meatball-sandwich/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/great-hole-in-wall-meatball-sandwich.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/21/southern-california-farmers-markets/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/southern-california-farmers-markets.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/22/worlds-best-%e6%b5%b7%e5%8d%97%e9%9b%9e%e9%a3%af-hainan-chicken-rice-savoy/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/worlds-best-hainan-chicken-rice-savoy.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/23/this-is-the-place/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/this-is-place.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/mundo-cafe-restaurant.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/29/sixes-underrated-japanese-restaurants-in-southern-california/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/sixes-underrated-japanese-restaurants.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/breakfast-gem-in-mammoth_30.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/02/10/shinsen-gumi-ramen-torrance/",
+      "loser": "http://blog.thethirstypig.com:80/2009/02/shinsen-gumi-ramen-torrance.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/02/13/top-10-sandwiches/",
+      "loser": "http://blog.thethirstypig.com:80/2009/02/top-10-sandwiches.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/02/24/dozo-izakaya-%e2%80%a7-dining-bar/",
+      "loser": "http://blog.thethirstypig.com:80/2009/02/dozo-izakaya-dining-bar.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/02/26/mexican-corn-cafe-habana/",
+      "loser": "http://blog.thethirstypig.com:80/2009/02/mexican-corn-cafe-habana.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/04/worlds-best-street-food/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/worlds-best-street-food.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/10/boiling-crab/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/boiling-crab.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/11/the-famous-pasadena-salad-green-street-cafe/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/famous-pasadena-salad-green-street-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/13/sixes-top-hawaiian-restaurants-in-southern-california/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/sixes-top-hawaiian-restaurants-in.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/17/cocktail-of-the-week-er-guo-to-%e4%ba%8c%e9%94%85%e5%a4%b4/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/cocktail-of-week-gin-and-tonic_19.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/garlic-ramen-omfg-ramenya.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/20/coles-french-dip/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/coles-french-dip.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/22/my-top-10-barbecue-joints-in-l-a-from-eat-drink-or-die/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/my-top-10-barbecue-joints-in-la-from.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/25/chicken-waffles-woot-roscoes/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/chicken-waffles-woot-roscos.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/30/pantry/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/pantry.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/02/tasty-dessert-the-secret-dessert-place/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/tasty-dessert-secret-dessert-place.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/abalone-congee-mountain-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/08/%e9%bb%9e%e5%bf%83dim-sum-jade-garden-hkg/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/dim-sum-jade-garden-hkg.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/12/cha-cha-cha/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/cha-cha-cha.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/14/santoka-amazing-ramen/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/santoka-amazing-ramen.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/20/afternoon-delight-at-the-dodger-game/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/afternoon-delight-at-dodger-game.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/22/chinese-tamale-bah-zhang-or-zhong-zi%e7%b3%ad%e5%ad%90-%e7%8e%8b%e8%a8%98%e5%ba%9c%e5%9f%8e%e8%82%89%e7%b2%bd/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/chinese-tamale-bah-zhang-or-zhong-zi.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/22/late-night-yummies-jj-cafe/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/late-night-yummies-jj-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/04/29/seoul-food-in-san-gabriel-valley-young-dong-tofu/",
+      "loser": "http://blog.thethirstypig.com:80/2009/04/seoul-food-in-san-gabriel-valley-young.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/",
+      "loser": "http://blog.thethirstypig.com:80/2009/05/bamboodles-not-just-noodles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/05/16/the-creator-of-the-pearl-milk-tea-%e6%98%a5%e6%b0%b4%e5%a0%82/",
+      "loser": "http://blog.thethirstypig.com:80/2009/05/creator-of-pearl-milk-tea.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/06/03/cocktail-of-the-week-godmother/",
+      "loser": "http://blog.thethirstypig.com:80/2009/01/cocktail-of-week-godmother.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/06/18/tenkaiipin/",
+      "loser": "http://blog.thethirstypig.com:80/2009/06/tenkaiipin.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/11/violets-cakes-pasadena/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/violets-cakes-pasadena.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/12/johnny-rockets/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/johnny-rockets.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/24/los-angeles-barbeque-festival-2008/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/los-angeles-barbeque-festival-2008.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/24/upcoming-food-wine-event-plate-by-plate-august-1st-2009/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/upcoming-food-wine-event-plate-by-plate.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/27/marked-5-and-their-rice-burgers/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/marked-5.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/07/30/project-by-project-the-food-and-people/",
+      "loser": "http://blog.thethirstypig.com:80/2009/07/project-by-project-post-2.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/01/tips-on-attending-a-foodwine-festivals/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/tips-on-attending-foodwine-festivals.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/03/plate-by-plate-2009/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/plate-by-plate-2009.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/04/tacos-el-gallito-the-late-night-savior/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/tacos-el-gallito-late-night-savior.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/05/wurstkuche-you-use-what-kind-of-meat/",
+      "loser": "http://blog.thethirstypig.com:80/2009/06/wurstkuche-restaurant.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/06/santa-monica-wednesday-farmers-market/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/santa-monica-wednesday-farmers-market.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/07/%e5%8f%89%e7%87%92%e9%a3%af-bbq-pork-on-rice-in-hong-kong/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/bbq-pork-on-rice-in-hong-kong.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/10/the-rose-cafe-market-venice/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/rose-cafe-market-santa-monica.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/11/pizza-pizza-pizza/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/pizza-pizza-pizza.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/12/tanqueray-rangpur/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/tanqueray-rangpur.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/13/lucky-boy-drive-in-the-bacon-burrito-err-breakfast-burrito/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/lucky-boy-drive-in-bacon-burrito-err.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/17/the-tried-and-true-the-hat/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/tried-and-true-hat.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/18/umami-burger-the-5th-taste-sensation/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/umami-burger-5th-taste-sensation.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/20/shows-podcasts-twitters-and-sites-i-frequent/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/shows-podcasts-twitters-and-sites-i.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/21/carnitas-michoacan-late-night-yummies/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/carnitas-michoacan-late-night-yummies.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/22/polkatots/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/polkatots.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/25/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/dots-cupcakes.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/26/another-taco-truck-don-chow-tacos/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/another-taco-truck-don-chow-tacos.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/27/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/secret-lunch-find-in-pasadena.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/08/28/california-chicken-cafe-hollywood/",
+      "loser": "http://blog.thethirstypig.com:80/2009/08/california-chicken-cafe-hollywood.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/01/the-sub-guilianos/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/sub-guilianos.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/03/pasadenas-best-burger-joint/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/pasadenas-best-burger-joint.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/09/fresh-roach-coaches-on-the-1st-friday/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/fresh-roach-coaches-on-1st-friday.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/11/dodger-game-taiwan-my-town/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/dodger-game-taiwan-my-town.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/12/animal-style-burgers-from-southern-californias-own-burger-joint/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/animal-style-burgers-from-southern.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/14/my-favorite-breakfast-burrito-from-tops-pasadena/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/my-favorite-breakfast-burrito-from-tops.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/14/the-thirsty-pig-monthly-newsletter-email/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/thirsty-pig-monthly-newsletter-email.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2009/09/17/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/langers.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/18/a-little-gem-in-pasadena-green-street-tavern/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/little-gem-in-pasadena-green-street.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/19/peruvian-cuisine-in-downtown-los-angeles-mo-chica/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/mo-chica.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/22/new-thirsty-pig-rating-system/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/new-thirsty-pig-rating-system.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/22/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/what-high-school-kids-eat-to-grow-big.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/23/hot-stuff-cafe-thats-right-i-am-hot-stuff/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/hot-stuff-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/09/30/to-the-slaughterhouse-we-go-las-animal/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/animal.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/01/westside-tavern-i-can-has-a-cheezburger/",
+      "loser": "http://blog.thethirstypig.com:80/2009/09/westside-tavern.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/03/good-times-at-rockwell/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/good-times-at-rockwell.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/04/taiwanese-favorites-from-old-country-cafe/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/old-country-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/05/taiwanese-food-at-jurassic/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/taiwanese-food-at-jurassic.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/06/the-familiarity-of-wan-heng-taiwanese-restaurant/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/famiilarity-of-wan-heng-taiwanese.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/07/toast-tea-at-tea-station/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/toast-tea-at-tea-station.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/08/icelandic-glacial-water/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/icelandic-glacial-water.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/09/buca-di-beppo-pasadena/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/buca-di-beppo-pasadena.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/18/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/why-do-we-have-to-share-i-want-my-own.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/19/sweet-savory/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/sweet-savory.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/20/marstons/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/marstons.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/21/argentine-fare-in-pasadena-malbec/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/argentine-fare-in-pasadean-malbec.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/22/hi-sushi/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/hi-sushi.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/23/bar-food-october-choice/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/bar-food-october-choice.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/24/eggs-should-be-a-food-group-omelette-house/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/eggs-should-be-food-group-omelette.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/10/30/original-tommys-world-famous-hamburgers-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2009/10/original-tommys-world-famous-hamburgers.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/15/marios-peruvian-seafood/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/marios-peruvian-seafood.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/17/foodbuzz/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/foodbuzz.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/18/pintxo-47-at-the-google-campus/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/pintxo-47-at-google-campus.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/20/holders-country-inn-cupertino/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/holders-country-inn-cupertino.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/24/cav-wine-bar/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/cav-wine-bar.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/24/dohatsuten-of-palo-alto/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/dohatsuten-of-palo-alto.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/25/dutch-crunch-why-dont-we-have-that-in-la-ikes-place/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/dutch-crunch-why-dont-we-have-that-in.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/11/30/tips-on-taking-pictures-of-food/",
+      "loser": "http://blog.thethirstypig.com:80/2009/11/tips-on-taking-pictures-of-food.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/12/02/burgers-from-five-guys/",
+      "loser": "http://blog.thethirstypig.com:80/2009/12/burgers-from-five-guys.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/12/03/royal-claytons-english-pub/",
+      "loser": "http://blog.thethirstypig.com:80/2009/12/royal-claytons-english-pub.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/12/15/blt-steakhouse/",
+      "loser": "http://blog.thethirstypig.com:80/2009/12/blt-steakhouse.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/06/pho-garden-san-francisco/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/pho-garden.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/07/whisknladle-la-jolla/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/whisknladle.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/10/yoshida-sushi-san-marino/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/yoshida-sushi-san-marino.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/12/country-bistro-rowland-heights/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/country-bistro.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/12/shin-sen-gumi-gardena/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/shin-sen-gumi-gardena.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/14/asa-ramen-gardena/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/asa-ramen.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/15/cafe-hiro-cypress/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/cafe-hiro-cypress.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/16/curry-house-rowland-heights/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/curry-house-rowland-heights.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/18/strawberry-cones-japanese-pizza-pasta-san-gabriel/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/ninya-pizza.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/19/lazy-ox-canteen-downtown-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/lazy-ox-tavern.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/20/the-gorbals-downtown-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/gorbals-downtown-los-angeles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/21/wurstku%cc%88che-downtown-la-update/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/wurstkuche-downtown-la-update.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/22/blu-la-cafe-downtown-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/blu-la-cafe-downtown-los-angeles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/25/espn-zone-downtown-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/espn-zone-downtown-los-angeles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/01/26/craft-century-city/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/craft-century-city.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/02/italian-in-downtown-la-drago-centro/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/italian-in-downtown-la-drago-centro.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/03/fried-chicken-at-restaurant3-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/fried-chicken-at-restaurant3-los.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/04/bay-cities-deli-santa-monica/",
+      "loser": "http://blog.thethirstypig.com/2010/02/bay-cities-deli-santa-monica.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/05/bossam-%eb%b3%b4%ec%8c%88-at-the-kobawoo-house-los-angeles/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/bossam-at-kobawoo-house-los-angeles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/10/ayce-korean-bbq-in-rowland-heights-korea-house/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/ayce-korean-bbq-in-rowland-heights.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/12/afternoon-tea-at-half-half-%e4%bc%b4%e4%bc%b4%e5%a0%82-san-gabriel/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/half-half.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/20/even-marbling-of-fat-enjoyed-at-man-soo-korean-bbq-%eb%a7%8c%ec%88%98/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/even-marbling-of-fat-enjoyed-at-man-soo.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/02/21/hot-pot-%E7%81%AB%E9%8D%8B-at-happy-sheep-shabu-grill-%E5%B0%8F%E8%82%A5%E7%BE%8A-san-gabriel/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/hot-pot-at-happy-sheep-shabu-grill-san.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/23/cracked-dungeness-crab-from-crustacean-beverly-hills/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/cracked-dungeness-crab-from-crustacean.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/23/steam-buns-at-the-noodle-house-%e9%ba%b5%e9%a6%99%e5%9c%92-monterey-park/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/steam-buns-at-noodle-house-monterey.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/02/26/pork-sour-casserole-at-happy-kitchen-%e6%9f%b3%e6%a3%95%e5%9c%92%e7%be%8e%e9%a3%9f%e5%9d%8a-in-san-gabriel/",
+      "loser": "http://blog.thethirstypig.com:80/2010/01/happy-kitchen-alhambra.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/04/truck-feasting-the-buttermilk-truck-and-slice-truck/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/truck-feasting-buttermilk-truck-and.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/06/the-noodle-nazi-from-dai-ho-restaurant-%e5%a4%a7%e5%92%8c%e6%bb%b7%e5%91%b3/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/noodle-nazi-from-dai-ho-restaurant.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/07/japon-bistro/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/japon-bistro.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/08/mountain-cafe-revisited/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/mountain-cafe-revisited.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/10/ono-hawaiian-grill/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/ono-hawaiian-grill.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/12/uncle-johns-ham-eggs-dtla/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/uncle-johns-ham-eggs-dtla.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/14/tokyo-wako-arcadia/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/tokyo-wako-arcadia.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/15/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/cheese-nite-w-mac-cheeza-and-grill.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/16/dong-nguyen-restaurant-alhambra/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/dong-nguyen-restaurant-alhambra.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/17/el-mercado-east-la/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/el-mercado-east-la.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/18/seongbukdong/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/seongbukdong.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/19/big-wangs-the-sports-bar-for-dtla/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/big-wangs-sports-bar-for-dtla.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/03/20/j-js-sandwich-shop-dtla/",
+      "loser": "http://blog.thethirstypig.com:80/2010/02/j-sandwich-shop.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/22/mendocino-farms-dtla/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/mendocino-farms-dtla.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/23/best-fish-tacos-in-ensenada/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/best-fish-tacos-in-ensenada.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/24/best-bbq-in-pasadena-perdues/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/best-bbq-in-pasadena-perdues.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/25/dinos-chicken-and-burgers/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/dinos-chicken-and-burgers.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/26/breakfast-at-bottega-louie/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/breakfast-at-bottega-louie.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/03/30/edison-the-radio-room-with-the-best-bartenders-from-coast-to-coast/",
+      "loser": "http://blog.thethirstypig.com:80/2010/03/edison-radio-room-with-best-bartenders.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/04/01/a-sweet-little-wine-bar-bacaro/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/sweet-little-wine-bar-bacaro.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/04/02/chego-the-offspring-of-kogi/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/chego.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/04/05/border-grill-truck-with-chilaquiles-tacos/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/border-grill-truck-with-chilaquiles.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/04/07/the-magic-sauce-from-lomo-arigato/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/magic-sauce-from-lomo-arigato.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com:80/2010/04/08/more-truck-feasting-the-flying-pig-truck/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/more-truck-feasting-flying-pig-truck.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2010/04/15/astoria-cafe/",
+      "loser": "http://blog.thethirstypig.com:80/2010/04/astoria-cafe.html",
+      "method": "exact"
+    },
+    {
+      "winner": "http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/",
+      "loser": "http://www.thethirstypig.com/2009/09/09/fresh-roach-coaches-on-the-1st-friday/",
+      "method": "fuzzy",
+      "ratio": 0.914
+    },
+    {
+      "winner": "http://thirstypig.com/2009/11/09/dohatsuten-palo-alto/",
+      "loser": "http://www.thethirstypig.com/2009/11/24/dohatsuten-of-palo-alto/",
+      "method": "fuzzy",
+      "ratio": 0.93
+    },
+    {
+      "winner": "http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2010/11/30/nanbantei-of-tokyo-shanghai/",
+      "method": "fuzzy",
+      "ratio": 0.931
+    },
+    {
+      "winner": "http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/",
+      "loser": "http://www.thethirstypig.com:80/2010/12/07/david-laris-yucca-shanghai/",
+      "method": "fuzzy",
+      "ratio": 0.881
+    },
+    {
+      "winner": "http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/",
+      "loser": "http://www.thethirstypig.com:80/2011/04/27/part-ii-the-shanghai-reuben-sandwich-challenge-city-deli/",
+      "method": "fuzzy",
+      "ratio": 0.865
+    },
+    {
+      "winner": "http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/",
+      "loser": "http://www.thethirstypig.com/2011/08/30/lanxin-shanghai/",
+      "method": "fuzzy",
+      "ratio": 0.857
+    },
+    {
+      "winner": "http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/",
+      "loser": "http://www.thethirstypig.com/2011/09/07/la-finca-shanghai-restaurant-week/",
+      "method": "fuzzy",
+      "ratio": 0.868
+    },
+    {
+      "winner": "http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/",
+      "loser": "http://www.thethirstypig.com/2011/12/30/the-purple-onion-shanghai/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=thirstypig",
+      "method": "fuzzy",
+      "ratio": 0.877
+    },
+    {
+      "winner": "http://thirstypig.com/2012/05/12/gram-bodega-shanghai/",
+      "loser": "http://www.thethirstypig.com:80/2012/05/31/gran-bodega-shanghai/",
+      "method": "fuzzy",
+      "ratio": 0.95
+    },
+    {
+      "winner": "http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/",
+      "loser": "http://blog.thethirstypig.com:80/2009/03/ass-kicking-raman-orochon.html",
+      "method": "fuzzy",
+      "ratio": 0.96
+    }
+  ]
+}

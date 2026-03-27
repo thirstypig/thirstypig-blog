@@ -1,0 +1,40 @@
+# build output
+dist/
+
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# environment variables
+.env
+.env.production
+.env.local
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Scraper intermediate data (large JSON caches)
+scripts/scraper/data/html/
+scripts/scraper/data/fetched_posts.json
+scripts/scraper/data/parsed_posts.json
+scripts/scraper/data/posts_with_images.json
+
+# Instagram raw extraction (already copied to public/)
+scripts/instagram/data/media/
+scripts/instagram/data/your_instagram_activity/

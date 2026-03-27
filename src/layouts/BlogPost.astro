@@ -1,0 +1,83 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import { slugify } from '../utils';
+import FormattedDate from '../components/FormattedDate.astro';
+
+type Props = CollectionEntry<'posts'>['data'];
+
+const { title, description, pubDate, heroImage, categories = [], tags = [], author, source, originalUrl } = Astro.props;
+---
+
+<BaseLayout
+	title={title}
+	description={description}
+	image={heroImage}
+	type="article"
+	publishDate={pubDate}
+	categories={categories}
+>
+	<article class="max-w-3xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
+		<!-- Header -->
+		<header class="mb-8">
+			{categories.length > 0 && (
+				<div class="flex flex-wrap gap-2 mb-4">
+					{categories.map(cat => (
+						<a
+							href={`/categories/${slugify(cat)}/`}
+							class="text-xs font-medium text-amber bg-amber/10 px-2.5 py-1 rounded-full hover:bg-amber/20 transition-colors no-underline"
+						>
+							{cat}
+						</a>
+					))}
+				</div>
+			)}
+			<h1 class="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-ink leading-tight mb-4">
+				{title}
+			</h1>
+			<div class="flex items-center gap-3 text-sm text-stone">
+				<span>By {author || 'The Thirsty Pig'}</span>
+				<span class="text-cream-dark">&bull;</span>
+				<FormattedDate date={pubDate} />
+			</div>
+		</header>
+
+		<!-- Hero Image -->
+		{heroImage && (
+			<div class="mb-8 -mx-4 sm:mx-0">
+				<img
+					src={heroImage}
+					alt={title}
+					class="w-full rounded-none sm:rounded-xl shadow-lg"
+					loading="eager"
+				/>
+			</div>
+		)}
+
+		<!-- Content -->
+		<div class="prose max-w-none">
+			<slot />
+		</div>
+
+		<!-- Tags -->
+		{tags.length > 0 && (
+			<div class="mt-10 pt-6 border-t border-cream-dark">
+				<div class="flex flex-wrap gap-2 items-center">
+					<span class="text-sm text-stone mr-1">Tags:</span>
+					{tags.map(tag => (
+						<span class="text-xs text-stone bg-cream-dark px-2.5 py-1 rounded-full">
+							{tag}
+						</span>
+					))}
+				</div>
+			</div>
+		)}
+
+		<!-- Source attribution -->
+		{originalUrl && (
+			<div class="mt-6 text-xs text-stone">
+				Originally published on {source}
+			</div>
+		)}
+	</article>
+</BaseLayout>

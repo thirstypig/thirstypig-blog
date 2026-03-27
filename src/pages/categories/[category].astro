@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostGrid from '../../components/PostGrid.astro';
+import { slugify } from '../../utils';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+	// Build set of all categories
+	const categorySet = new Map<string, typeof posts>();
+	posts.forEach(post => {
+		post.data.categories?.forEach(cat => {
+			const slug = slugify(cat);
+			if (!slug) return; // skip categories that slugify to empty
+			if (!categorySet.has(slug)) {
+				categorySet.set(slug, []);
+			}
+			categorySet.get(slug)!.push(post);
+		});
+	});
+
+	return [...categorySet.entries()].map(([slug, catPosts]) => ({
+		params: { category: slug },
+		props: {
+			category: catPosts[0].data.categories!.find(
+				c => slugify(c) === slug
+			) || slug,
+			posts: catPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+		},
+	}));
+}
+
+const { category, posts } = Astro.props;
+---
+
+<BaseLayout title={`${category} Posts`} description={`All posts in the ${category} category on The Thirsty Pig.`}>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<div class="mb-8">
+			<a href="/categories" class="text-sm text-amber hover:text-rust no-underline">&larr; All Categories</a>
+			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mt-2">{category}</h1>
+			<p class="text-stone">{posts.length} post{posts.length === 1 ? '' : 's'}</p>
+		</div>
+		<PostGrid posts={posts} />
+	</section>
+</BaseLayout>

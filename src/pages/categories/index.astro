@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { slugify } from '../../utils';
+
+const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+// Build category map with counts
+const categoryMap = new Map<string, number>();
+posts.forEach(post => {
+	post.data.categories?.forEach(cat => {
+		categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
+	});
+});
+
+const categories = [...categoryMap.entries()]
+	.sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="Categories">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Categories</h1>
+		<p class="text-stone mb-8">{categories.length} categories</p>
+
+		<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+			{categories.map(([cat, count]) => (
+				<a
+					href={`/categories/${slugify(cat)}/`}
+					class="flex items-center justify-between p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
+				>
+					<span class="font-medium text-ink group-hover:text-amber transition-colors">{cat}</span>
+					<span class="text-sm text-stone">{count}</span>
+				</a>
+			))}
+		</div>
+	</section>
+</BaseLayout>

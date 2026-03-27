@@ -1,0 +1,95 @@
+---
+title: Design Boutique Hotel 蝶尚非经验酒店, Huangshan
+pubDate: '2011-10-07'
+author: The Thirsty Pig
+source: thirstypig.com
+originalUrl: http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/
+categories:
+- Huangshan
+tags:
+- Hotel
+description: OLYMPUS DIGITAL CAMERA
+archiveUrl: https://web.archive.org/web/20161106094711/http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/
+draft: false
+---
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-48.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-75/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-34.jpg?resize=217%2C163 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-66/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![design-hotel-huangshan-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-07.jpg?resize=217%2C122 "design-hotel-huangshan-07")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/design-hotel-huangshan-07/)
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-32.jpg?resize=210%2C157 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-64/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-42.jpg?resize=210%2C157 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-72/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![design-hotel-huangshan-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-08.jpg?resize=179%2C318 "design-hotel-huangshan-08")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/design-hotel-huangshan-08/)
+
+[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-30.jpg?resize=209%2C157 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-62/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-41.jpg?resize=209%2C157 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-71/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-33.jpg?resize=199%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-65/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-35.jpg?resize=199%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-67/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-37.jpg?resize=200%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-68/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-44.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-73/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-40.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-70/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-39.jpg?resize=403%2C302 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-69/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![design-hotel-huangshan-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-06.jpg?resize=344%2C194 "design-hotel-huangshan-06")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/design-hotel-huangshan-06/)
+
+[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-47.jpg?resize=258%2C194 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-74/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-31.jpg?resize=363%2C273 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-63/)
+
+OLYMPUS DIGITAL CAMERA
+
+[![design-hotel-huangshan-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-05.jpg?resize=239%2C134 "design-hotel-huangshan-05")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/design-hotel-huangshan-05/)
+
+[![design-hotel-huangshan-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-04.jpg?resize=239%2C135 "design-hotel-huangshan-04")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/design-hotel-huangshan-04/)
+
+The Design Boutique Hotel, located in the heart of Huangshan City, creates an whimsical and colorful atmosphere for guests. With the natural (like Huangshan), the ancient (like Xidi and Hongcun Village), and some shopping (like Old Street) attractions nearby, Huangshan is boasts a thriving tourism economy. Strangely, there aren’t many hotel chains. Independently hotels, like the Design Boutique Hotel, dot the area.
+
+Once you arrive at the hotel, you are greeted with an traditional and ancient foyer entrance. The initial glass lobby features lots of natural light with an indoor pond. The side entrances of the western and Chinese restaurant flank the sides of the room. As you continue into the main lobby, it feels as if you are going from a traditional space to a more contemporary one. The first thing you notice in the main lobby is the uniquely lit red tubed ceiling. I liked the little details with the butterfly chaise, the colorful flower chest seat, and various other works on the walls. The western restaurant serves up western dishes that Chinese would like, like steaks and chicken, with a breakfast buffet, that is a bit inadequate, in the morning.
+
+The room was also kept the artistic theme with the mosaic bathroom and large wallpaper art. Keep in mind if you are shy, the bathroom features a partial view obscured window into the bedroom. Little details can also be found in the teas and decorative mugs. Though there isn’t much of a view, the hotel is still interesting enough to recommend and try. The rate we had during this busy time was around RMB 398 with breakfast for 2.
+
+[Rating](http://www.thethirstypig.com/rating-system/)
+2 Pigs
+Price Range 2 $/¥/NT
+
+Links
+[Dao Dao](http://www.daodao.com/Hotel_Review-g303685-d1827312-Reviews-Design_Boutique_Hotels-Huangshan_Anhui.html), [Trip Advisor](http://www.tripadvisor.com/Hotel_Review-g303685-d1827312-Reviews-Design_Boutique_Hotels-Huangshan_Anhui.html), [China Hotels](http://www.chinahotels.net/en-hotel-41302071-design_boutique_hotel_huangshan.html), [ChinaHotel.com](http://www.chinahotel.com.cn/Hotels-5907.html), [17u](http://www.17u.net/ebook/HotelComments-16268_1.html), [LV Ping](http://www.lvping.com/hotel_review-d19-s78770-Huangshan_Design_Boutique_Hotels.html), [E Long](http://hotel.elong.com/detailcmt_cn_41302071_good_1.html), [17u](http://tuan.17u.cn/hotel/detail-1615.html), [Ai Bang](http://www.aibang.com/detail/1093007232-1495666154), [Hotels at CTHY](http://hotels.cthy.com/hotel.asp?hotels_id=16272)
+
+##### 蝶尚非经验酒店 Design Boutique Hotels 安徽省黄山市屯溪区仙人洞北路1-6号 No.1-6 Fairy Cave North Road, Tunxi District, Huangshan 245000, China

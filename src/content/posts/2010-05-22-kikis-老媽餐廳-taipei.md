@@ -1,0 +1,78 @@
+---
+title: Kiki’s 老媽餐廳, Taipei
+pubDate: '2010-05-22'
+author: The Thirsty Pig
+source: thirstypig.com
+originalUrl: http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/
+categories:
+- Songshan
+tags:
+- Sichuan
+- Spicy
+description: 'Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the '
+archiveUrl: https://web.archive.org/web/20161105084713/http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/
+draft: false
+---
+
+[![img_2202](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2202.jpg?resize=403%2C302 "img_2202")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2202/)
+
+[![img_2192](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2192.jpg?resize=199%2C149 "img_2192")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2192/)
+
+[![img_2207](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2207.jpg?resize=199%2C149 "img_2207")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2207-2/)
+
+[![img_2196](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2196.jpg?resize=199%2C150 "img_2196")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2196/)
+
+[![img_2197](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2197.jpg?resize=199%2C150 "img_2197")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2197/)
+
+[![img_2205](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2205.jpg?resize=200%2C150 "img_2205")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2205-2/)
+
+[![img_2190](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2190-1.jpg?resize=199%2C149 "img_2190")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2190-2/)
+
+[![img_2203](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2203.jpg?resize=199%2C149 "img_2203")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2203-2/)
+
+[![img_2210](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2210.jpg?resize=403%2C302 "img_2210")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2210/)
+
+[![img_2201](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2201-1.jpg?resize=301%2C226 "img_2201")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2201-2/)
+
+[![img_2200](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2200.jpg?resize=301%2C226 "img_2200")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2200/)
+
+[![img_2206](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2206.jpg?resize=403%2C302 "img_2206")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2206-2/)
+
+[![img_2199](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2199.jpg?resize=199%2C149 "img_2199")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2199/)
+
+[![img_2189](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2189.jpg?resize=199%2C149 "img_2189")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2189/)
+
+[![img_2195](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2195.jpg?resize=199%2C150 "img_2195")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2195/)
+
+[![img_2204](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2204.jpg?resize=199%2C150 "img_2204")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2204-2/)
+
+[![img_2194](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2194.jpg?resize=200%2C150 "img_2194")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2194/)
+
+Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.
+
+Kiki’s features a menu littered with items that are known for its spiciness. Kiki’s, been around for years, has a menu with heavy influences from Szechuan cuisine. Almost all the favored and popular dishes, in which my group ordered, was spicy. With a few locations, Kiki’s draws crowds, in which reservations are suggested, for both lunch and dinner.
+
+The first thing that arrived to our table was the crispy deep fried egg tofu. I remembered having this dish almost 10 years ago, and thus with the same texture and consistency. Soft on the inside, the subtle egg flavor comes out nicely. I don’t think you even needed chili or hot sauce with it. Ah, i remember now, it was one of the few non-spicy dishes I thoroughly enjoyed.
+
+Next up was the diced chicken with sesame and pepper sauce, served cold. Looking like a mound smothered with a thick orange sauce, with unappealing initial reactions, it tu rend out to be my favorite dish. There’s spicy beef, spicy pork, but i think spicy chicken is the best spicy version of the big three meats. Strangely, this dish, almost an appetizer is served cold. I t goes great with rice with the spicy sauce component. With the tender chicken, it’s almost as an after thought with this sesame and pepper sauce.
+
+Warning, Westerners or faint at heart, please don’t read this next paragraph.
+
+Next up, we had the Pork intestine in the coagulated duck blood. Even reading this makes me queasy. And no, i didn’t even try this dish, myself. The blood red soup, red from the spicy peppers, had the large slices of intestine swimming with cubes of duck blood. Intestine, from my experience, is cooked till it goes from a chewy texture to a soft more malleable feel. Duck blood, when cubed, is a Taiwanese favorite, which appears to melt into the “soup”, which it does not. Also known for it’s texture, duck blood is praised for it health benefits. But I’ll sit this one out.
+
+We also had a couple of vegetable dishes, a Chinese white cabbage with bacon and a sliced winter melon. Both were nice contrasts to the spicy theme of the meal.
+
+Kiki’s is a nice restaurant with a contemporary take on Szechuan inspired dishes.
+
+[Lemonade Ellen Post](http://www.wretch.cc/blog/lemonadellen/20980947)
+
+[Rating](http://www.thethirstypig.com/rating-system/)
+2 Pigs
+$$
+
+Kiki 老媽餐廳
+[台北市復興南路一段28號](http://maps.google.com.tw/maps?hl=zh-TW&q=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B528%E8%99%9F&um=1&ie=UTF-8&sa=N&tab=wl)
+28, Fuxing South Road Sec. 1
++886 2 2752-2781
+
+<http://www.kiki1991.com/>

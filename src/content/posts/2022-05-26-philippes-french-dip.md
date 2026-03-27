@@ -1,0 +1,40 @@
+---
+title: Philippe’s French Dip
+pubDate: '2022-05-26'
+author: The Thirsty Pig
+source: instagram
+draft: false
+heroImage: /images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg
+images:
+- /images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg
+- /images/posts/ig-2022-05-26-philippes-french-dip/17904496955502483.jpg
+- /images/posts/ig-2022-05-26-philippes-french-dip/17932590224213160.jpg
+- /images/posts/ig-2022-05-26-philippes-french-dip/17904209786598310.jpg
+tags:
+- frenchdip
+- frenchdipsandwich
+- doubledip
+- sandwich
+- lunch
+- dtla
+- beefsandwich
+- mustad
+- horseradish
+- dtla
+description: Philippe’s French Dip. Beef double dip, cold slaw, and lemon meringue pie. The spicy horse radish mustard is a must have with your sandwich. Makes all the difference. Today was a good day. . . . .
+---
+
+![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg)
+
+![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17904496955502483.jpg)
+
+![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17932590224213160.jpg)
+
+![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17904209786598310.jpg)
+
+Philippe’s French Dip. Beef double dip, cold slaw, and lemon meringue pie. The spicy horse radish mustard is a must have with your sandwich.  Makes all the difference.  Today was a good day. 
+.
+.
+.
+.
+@philippetheog

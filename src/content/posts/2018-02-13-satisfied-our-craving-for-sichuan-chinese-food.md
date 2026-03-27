@@ -1,0 +1,29 @@
+---
+title: Satisfied our craving for Sichuan Chinese food
+pubDate: '2018-02-13'
+author: The Thirsty Pig
+source: instagram
+draft: false
+heroImage: /images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909076649124484.jpg
+images:
+- /images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909076649124484.jpg
+- /images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909291356127218.jpg
+- /images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17893356097168601.jpg
+- /images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17919438670068544.jpg
+tags:
+- sichuanfood
+- sfchinatown
+- spicy
+- huajiao
+description: Satisfied our craving for Sichuan Chinese food
+---
+
+![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909076649124484.jpg)
+
+![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909291356127218.jpg)
+
+![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17893356097168601.jpg)
+
+![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17919438670068544.jpg)
+
+Satisfied our craving for Sichuan Chinese food #sichuanfood #sfchinatown #spicy #huajiao
