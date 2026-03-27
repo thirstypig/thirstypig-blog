@@ -38,3 +38,4 @@ scripts/scraper/data/posts_with_images.json
 # Instagram raw extraction (already copied to public/)
 scripts/instagram/data/media/
 scripts/instagram/data/your_instagram_activity/
+tina/__generated__/
