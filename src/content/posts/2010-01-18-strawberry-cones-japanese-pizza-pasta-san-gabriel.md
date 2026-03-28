@@ -15,11 +15,15 @@ categories:
 - 1 pig
 - $
 - Pizza
+- San Gabriel
 tags:
 - LA's San Gabriel Valley
 description: One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.
 archiveUrl: https://web.archive.org/web/20110105210618/http://www.thethirstypig.com/2010/01/18/strawberry-cones-japanese-pizza-pasta-san-gabriel/
 draft: false
+location: Strawberry Cones Japanese Pizza & Pasta
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.

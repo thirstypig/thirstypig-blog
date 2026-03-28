@@ -18,6 +18,7 @@ tags:
 - modelo
 - michelada
 description: Go Dodgers! . . . . .
+location: Go Dodgers
 ---
 
 ![Go Dodgers](/images/posts/ig-2021-09-14-go-dodgers/17960752738478883.jpg)

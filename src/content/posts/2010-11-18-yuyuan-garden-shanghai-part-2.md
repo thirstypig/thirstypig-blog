@@ -30,6 +30,9 @@ categories:
 description: On my second trip to Yuyuan Garden, I was finally able to get a ticket and go inside the famed walled garden. A couple of classmates and I found a day to not only see the and taste some of the food ve
 archiveUrl: https://web.archive.org/web/20101119160721/http://www.thethirstypig.com:80/2010/11/18/yuyuan-garden-shanghai-part-2/
 draft: false
+location: Yuyuan Garden Shanghai Part 2
+city: Shanghai
+region: Shanghai
 ---
 
 On my second trip to Yuyuan Garden, I was finally able to get a ticket and go inside the famed walled garden. A couple of classmates and I found a day to not only see the and taste some of the food vendors outside of the tourist attraction, but secured three tickets to see the garden and sample the tea’s at the tea shop.

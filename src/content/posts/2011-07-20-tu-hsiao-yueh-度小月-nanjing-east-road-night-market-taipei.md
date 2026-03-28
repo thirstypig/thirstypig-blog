@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/
 categories:
 - Songshan
+- Taipei
 tags:
 - Market
 - Taiwanese
 description: A few months ago, I wrote about Tu Hsiao Yueh, the original from Tainan. I found this knock off copy cat at a little night market in Taipei near Nanjing East Road. I sort of just stumbled upon it whil
 archiveUrl: https://web.archive.org/web/20161105000232/http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/
 draft: false
+location: Tu Hsiao Yueh 度小月, on Nanjing East Road Night Market
+city: Taipei
+region: Taipei
 ---
 
 [![taipei-restaurant-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Taipei-Restaurant-08.jpg?resize=403%2C301 "taipei-restaurant-08")](http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/taipei-restaurant-08/)

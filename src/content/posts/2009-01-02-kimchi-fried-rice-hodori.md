@@ -9,11 +9,16 @@ categories:
 - Koreatown
 - Hole In the Wall
 - Late Night
+- Hodori
 tags:
 - LA's Koreatown
 description: 'Last night, after the film festival, our friends and I was craving a late night snack. We went to one of steady favorites Hodori. I have been going here since the early 1990′s. I have brought so many '
 archiveUrl: https://web.archive.org/web/20110105195038/http://www.thethirstypig.com/2009/01/02/kimchi-fried-rice-hodori/
 draft: false
+location: Kimchi Fried Rice
+city: Hodori
+region: Koreatown
+address: 1001 South Vermont Ave
 ---
 
 Last night, after the film festival, our friends and I was craving a late night snack. We went to one of steady favorites Hodori. I have been going here since the early 1990′s. I have brought so many friends to Hodori. This Korean Denny’s, is open late with good Food. Though some of my Korean don’t seem to think this is all that good. I know my friend, who used to work with Ang Lee, gets requests from Ang to come here when he is in LA.

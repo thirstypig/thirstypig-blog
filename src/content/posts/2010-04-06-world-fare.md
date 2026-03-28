@@ -23,6 +23,7 @@ categories:
 description: This week, I will trying different Food Trucks. People ask me how do I find these great trucks and how can I track them? Here are a couple of places I look - the Find LA Food Truck twitter feedshttp:/
 archiveUrl: https://web.archive.org/web/20100417225839/http://blog.thethirstypig.com:80/2010/04/world-fare.html
 draft: false
+location: World Fare
 ---
 
 This week, I will trying different Food Trucks. People ask me how do I find these great trucks and how can I track them? Here are a couple of places I look - the [Find LA Food Truck twitter feeds](http://www.findlafoodtrucks.com/), [TruxMap](http://la.truxmap.com/), and [Roaming Hunger](http://www.roaminghunger.com/la).

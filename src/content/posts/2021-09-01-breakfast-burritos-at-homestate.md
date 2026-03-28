@@ -20,6 +20,7 @@ tags:
 - breakfasttacos
 - brisket
 description: Breakfast burritos at Homestate. Had the brisket taco and the trinity taco. And of course had to have the chips and queso. . . . . .
+location: Breakfast burritos at Homestate
 ---
 
 ![Breakfast burritos at Homestate](/images/posts/ig-2021-09-01-breakfast-burritos-at-homestate/17880522572427444.jpg)

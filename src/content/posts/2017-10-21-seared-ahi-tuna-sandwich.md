@@ -21,6 +21,7 @@ tags:
 - shrimpcocktail
 - sgv
 description: Seared ahi tuna sandwich! I thought this place was a bit pricey. I liked the sandwich. But wish i wish the ahi tuna was a tad thicker.
+location: Seared ahi tuna sandwich
 ---
 
 ![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17848873897206995.jpg)

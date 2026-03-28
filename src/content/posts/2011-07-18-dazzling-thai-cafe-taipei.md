@@ -21,11 +21,15 @@ images:
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-35-494x370.jpg
 categories:
 - Songshan
+- Taipei
 tags:
 - Thai
 description: An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool l
 archiveUrl: https://web.archive.org/web/20161106024515/http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/
 draft: false
+location: Dazzling Thai Cafe
+city: Taipei
+region: Taipei
 ---
 
 [![dazzling-thai-cafe-08](/images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-02-494x370.jpg "dazzling-thai-cafe-08")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-08/)

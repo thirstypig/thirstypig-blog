@@ -21,6 +21,7 @@ tags:
 - greenbeans
 - soulfood
 description: Harlem Fried Chicken at Sylvia’s Restaurant. Also had some bbq ribs, but was unfortunately dry - seems liked it was sitting under a heat lamp for awhile. The fried chicken was awesome - tender and fla
+location: Harlem Fried Chicken at Sylvia’s Restaurant
 ---
 
 ![Harlem Fried Chicken at Sylvia’s Restaurant](/images/posts/ig-2018-01-02-harlem-fried-chicken-at-sylvias-restaurant/17892095407189180.jpg)

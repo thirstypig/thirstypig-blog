@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/
 categories:
 - Gubei
+- Shanghai
 tags:
 - Bbq
 - Hot Pot
@@ -13,6 +14,9 @@ tags:
 description: The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit tha
 archiveUrl: https://web.archive.org/web/20161018163248/http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/
 draft: false
+location: Drunk Garden 酣庭院‎
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3700](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3700.jpg?resize=282%2C211 "img_3700")](http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/img_3700/)

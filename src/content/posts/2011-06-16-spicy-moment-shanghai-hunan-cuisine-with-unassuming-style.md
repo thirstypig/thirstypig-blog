@@ -8,11 +8,15 @@ categories:
 - 2 pigs
 - Hunan
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20110717091421/http://www.thethirstypig.com:80/2011/06/16/spicy-moment-shanghai-hunan-cuisine-with-unassuming-style/
 draft: false
+location: Spicy Moment
+city: Shanghai
+region: Shanghai
 ---
 
 After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With [Di Shui Dong](http://www.thethirstypig.com/2010/12/16/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/) and [Guyi](http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/) are the two more well-known establishments in Shanghai, now enters Spicy Moment.

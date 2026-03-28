@@ -26,6 +26,10 @@ tags:
 - thirstypig
 - tastemakersapp
 description: Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long
+location: Kimchi pancake, rice box
+city: and skewers at Dan Sung Sa
+categories:
+- and skewers at Dan Sung Sa
 ---
 
 ![Kimchi pancake, rice box, and skewers at Dan Sung Sa](/images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/18140007442350961.jpg)

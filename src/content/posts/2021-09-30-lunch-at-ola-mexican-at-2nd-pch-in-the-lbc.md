@@ -21,6 +21,7 @@ tags:
 - casadragones
 - carnitas
 description: Lunch at Ola Mexican at 2nd & PCH in the LBC. . . . .
+location: Lunch at Ola Mexican at 2nd & PCH in the LBC
 ---
 
 ![Lunch at Ola Mexican at 2nd & PCH in the LBC](/images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17902884575228976.jpg)

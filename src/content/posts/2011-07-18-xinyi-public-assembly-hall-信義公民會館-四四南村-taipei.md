@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Bakery
 - Dessert
@@ -13,6 +14,9 @@ tags:
 description: The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incomi
 archiveUrl: https://web.archive.org/web/20161105051821/http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/
 draft: false
+location: Xinyi Public Assembly Hall 信義公民會館 四四南村
+city: Taipei
+region: Taipei
 ---
 
 [![xinyi-military-village-taipei-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-05.jpg?resize=403%2C302 "xinyi-military-village-taipei-05")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-05/)

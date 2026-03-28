@@ -20,6 +20,7 @@ tags:
 - thirstypig
 - 900post
 description: Mild chicken sandwich and mild leg/thigh 📱📷 by . Arrived at 10, an hour before opening, and there was a 30+ ppl line ahead. Left at 11:40ish with a line longer than we arrived.
+location: Mild chicken sandwich and mild leg/thigh  📱📷 by
 ---
 
 ![Mild chicken sandwich and mild leg/thigh  📱📷 by](/images/posts/ig-2017-12-13-mild-chicken-sandwich-and-mild-legthigh-by/17899522813102724.jpg)

@@ -6,13 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/24/bikini-shanghai-closed/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Hot Dogs
 - Sausage
 - Spanish
+- closed
 description: Bikini 47 Yongfu Lu, near Fuxing Lu 永福路47号， 近复兴路
 archiveUrl: https://web.archive.org/web/20161105010357/http://thirstypig.com/2012/03/24/bikini-shanghai-closed/
 draft: false
+location: Bikini
+city: Shanghai
+region: Shanghai
 ---
 
 [![bikini-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/bikini.shanghai.06.jpg?resize=403%2C302 "bikini-shanghai-06")](http://thirstypig.com/2012/03/24/bikini-shanghai-closed/bikini-shanghai-06/)

@@ -19,6 +19,7 @@ tags:
 - chickenfeet
 - pigstomach
 description: Hunanese lunch. Spicy chicken feet and pig ear with tofu, spicy Pig stomach, and spicy sliced potatoes. Wife loves this stuff. Dong Ting Chun 洞庭春 . . . .
+location: Hunanese lunch
 ---
 
 ![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/18064523041049308.jpg)

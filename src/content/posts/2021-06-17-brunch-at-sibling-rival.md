@@ -19,6 +19,7 @@ tags:
 - food
 - thirstypig
 description: Brunch at Sibling Rival. Breakfast burrito and the puffed grain bowl. Nice and bright decor. Food was ok. Nothing special. Had the Sunday Bloody with mezcal. Was quite strong. I’d visit again and reco
+location: Brunch at Sibling Rival
 ---
 
 ![Brunch at Sibling Rival](/images/posts/ig-2021-06-17-brunch-at-sibling-rival/18049099396293812.jpg)

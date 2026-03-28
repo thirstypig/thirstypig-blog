@@ -12,7 +12,11 @@ categories:
 - Barbeque
 - Korean
 - Price Range 2 $/¥/NT
+- Shanghai
 description: 'What is Qing He Gu? Qing He Gu is a Korean BBQ restaurant chain. Located on outskirts of downtown Shanghai in the district of Min Hang, Qing He Gu caters toward area’s large Korean population. On the '
 archiveUrl: https://web.archive.org/web/20130710002914/http://www.thethirstypig.com:80/2012/07/05/qing-he-gu-%E9%9D%92%E9%B6%B4%E8%B0%B7-korean-bbq-shanghai/
 draft: false
+location: Qing He Gu 青鶴谷 – Korean BBQ
+city: Shanghai
+region: Shanghai
 ---

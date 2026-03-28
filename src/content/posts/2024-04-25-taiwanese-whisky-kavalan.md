@@ -28,6 +28,10 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Taiwanese Whisky - Kavalan. Visited the distillery in Yilan and blended my own bottle and went on a tour. Good times. Got to taste and blend a flavor profile that I liked and was able to bottle one to
+location: Taiwanese Whisky
+city: Kavalan
+categories:
+- Kavalan
 ---
 
 ![Taiwanese Whisky - Kavalan](/images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/18426973984053758.jpg)

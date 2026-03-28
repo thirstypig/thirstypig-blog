@@ -26,6 +26,7 @@ tags:
 - templecity
 - thirstypig
 description: Dinner at Bonchon. We had spicy and soy-garlic fried chicken, ttokboki, udon, bbimbop, japchae, fried, and chicken katsu. . . .
+location: Dinner at Bonchon
 ---
 
 ![Dinner at Bonchon](/images/posts/ig-2018-05-18-dinner-at-bonchon/17872952473233124.jpg)

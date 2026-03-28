@@ -16,6 +16,7 @@ tags:
 - sgv
 - eeeeeats
 description: Cold and hot desserts at Blackball Desserts. But quite pricey. $7+ for that cup of ice with only two peanut rice balls. And $7+ for the hot desserts . . .
+location: Cold and hot desserts at Blackball Desserts
 ---
 
 ![Cold and hot desserts at Blackball Desserts](/images/posts/ig-2019-03-15-cold-and-hot-desserts-at-blackball-desserts/18045734860005778.jpg)

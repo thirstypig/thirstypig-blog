@@ -23,6 +23,7 @@ tags:
 - xiamen
 - china
 description: 小埕戏 is one of the best design restaurants that I have ever been to. Amazing views, excellent blend of modern and traditional Chinese dining furnishings, and indoor, yet outdoor feel with a retractable
+location: 小埕戏 is one of the best design restaurants that I have ever been to
 ---
 
 ![小埕戏 is one of the best design restaurants that I have ever been to](/images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18008504744399398.jpg)

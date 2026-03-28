@@ -23,6 +23,7 @@ tags:
 - sandwich
 - mustard
 description: Just a couple of sandwiches for dinner at Katz. A Rueben and a Pastrami. . . .
+location: Just a couple of sandwiches for dinner at Katz
 ---
 
 ![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17963389465263388.jpg)

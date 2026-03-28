@@ -18,6 +18,7 @@ tags:
 - ahituna
 - eeeeeats
 description: Had the grilled ahi tuna taco and the braised beef birria taco. And also had a tacocita bowl with carnitas. All were pretty good. The ahi was a bit dry. But everything was really good. . . . . .
+location: Had the grilled ahi tuna taco and the braised beef birria taco
 ---
 
 ![Had the grilled ahi tuna taco and the braised beef birria taco](/images/posts/ig-2020-10-06-had-the-grilled-ahi-tuna-taco-and-the-braised-beef-birria-ta/17853951887263850.jpg)

@@ -29,11 +29,15 @@ categories:
 - 2 pigs
 - Downtown LA
 - Italian
+- Downtown Los Angeles
 tags:
 - $$
 description: What is lacks in spectacular opulence that Angeleno’s are used to, it makes up with solid Italian fare. You might pay more for the ambiance and food at Drago Centro, but at Colori Kitchen makes up wit
 archiveUrl: https://web.archive.org/web/20100530100829/http://www.thethirstypig.com:80/2010/05/24/colori-kitchen/
 draft: false
+location: Risotto from Colori Kitchen
+city: Downtown Los Angeles
+region: Downtown LA
 ---
 
 SHARETHIS.addEntry({ title: "Risotto from Colori Kitchen, Downtown Los Angeles", url: "http://www.thethirstypig.com/2010/05/24/colori-kitchen/" });

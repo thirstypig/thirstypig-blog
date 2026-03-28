@@ -6,9 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/06/huntington-library-san-marino/
 categories:
 - SGV
+- San Marino
+- San Gabriel Valley
 description: Huntington Libraryhttp://www.huntington.org/ 1151 Oxford Rd San Marino, CA 91108
 archiveUrl: https://web.archive.org/web/20161019153954/http://thirstypig.com/2011/02/06/huntington-library-san-marino/
 draft: false
+location: Huntington Library
+city: San Marino
+region: San Gabriel Valley
+address: 1151 Oxford Rd San Marino, CA 91108
 ---
 
 [![img_7728](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_7728.jpg?resize=191%2C143 "img_7728")](http://thirstypig.com/2011/02/06/huntington-library-san-marino/img_7728/)

@@ -9,6 +9,7 @@ categories:
 - Price Range 2 $/¥/NT
 - Xuhui District
 - 3 pigs
+- Shanghai
 tags:
 - Indian
 - Shanghai
@@ -17,6 +18,9 @@ tags:
 description: What is Tikka Indian Cuisine? In the heart of the Shanghai, there’s a new Indian Restaurant, Tikka. The little restaurant area near Maoming lu, Jinxian lu, and Changle lu. Tikka originates from the sa
 archiveUrl: https://web.archive.org/web/20160602080515/http://thirstypig.com/2012/06/21/tikka-indian-cuisine-shanghai/
 draft: false
+location: Tikka Indian Cuisine
+city: Shanghai
+region: Shanghai
 ---
 
 **What is Tikka Indian Cuisine?**

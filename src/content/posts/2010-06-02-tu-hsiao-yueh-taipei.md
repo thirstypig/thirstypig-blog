@@ -26,12 +26,17 @@ images:
 categories:
 - 3 pigs
 - Taiwanese
+- Taipei
 tags:
 - Eastern District 台北東區
 - Taipei 台北
 description: 'Tu Hsiao Yueh, hails from Tainan – a city in southern Taiwan, is known for traditional Taiwanese food. You’ll find all sorts of foreign visitors waiting for a table, like Americans, Japanese,and Hong '
 archiveUrl: https://web.archive.org/web/20110105131923/http://www.thethirstypig.com/2010/06/02/tu-hsiao-yueh-taipei/
 draft: false
+location: Braised Pork Rice at 台南度小月 Tu Hsiao Yueh
+city: Taipei
+region: Taipei
+address: 4 Jhongsiao E. Road
 ---
 
 Tu Hsiao Yueh, hails from Tainan – a city in southern Taiwan, is known for traditional Taiwanese food. You’ll find all sorts of foreign visitors waiting for a table, like Americans, Japanese,and Hong Kongers. Their flagship location, in the heart of the eastern district of Taipei on Jhong Hsiao East Road, is on a bustling alley of the main road. Some of the best neighborhood restaurants are off the beaten path.

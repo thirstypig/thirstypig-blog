@@ -24,6 +24,10 @@ tags:
 - macandcheese
 - yummy
 description: Dinner at in We had the sausage pizza, the lasagna, Caesar salad, Mac & cheese, and portobello mushroom fries. Also had a couple of the woodchuck Apple cider - yum! The lasagna was one of the best I h
+location: Dinner at  in   We had the sausage pizza, the lasagna, Caesar salad
+city: Mac & ch...
+categories:
+- Mac & ch...
 ---
 
 ![Dinner at  in   We had the sausage pizza, the lasagna, Caesar salad, Mac & ch...](/images/posts/ig-2017-11-26-dinner-at-in-we-had-the-sausage-pizza-the-lasagna-caesar-sal/17883949882156343.jpg)

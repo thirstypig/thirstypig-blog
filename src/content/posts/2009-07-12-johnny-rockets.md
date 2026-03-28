@@ -13,11 +13,15 @@ categories:
 - San Gabriel Valley
 - American
 - Hamburgers
+- Los Angeles
 tags:
 - Los Angeles
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103140338/http://www.thethirstypig.com/2009/07/12/johnny-rockets/
 draft: false
+location: Johnny Rocket’s
+city: Los Angeles
+region: San Gabriel Valley
 ---
 
 I’m not sure what I would categorize Johnny Rocket’s. It’s similar to fast food, but you have waiter service. It’s similar to a dine-in restaurant, yet they mostly have burger and fries. I like Johnny Rocket’s for several reasons.

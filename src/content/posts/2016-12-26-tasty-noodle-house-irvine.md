@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/26/tasty-noodle-house-irvine/
 categories:
 - OC
+- Irvine
+- Orange County
 tags:
 - Chinese 2
 - Rice
 description: Dry Oil Noodles was tasty and reminiscent of noodles from Shanghai Shanghainese cuisine with other Chinese cuisines Water boiled dumplings were pretty good Small restaurant, but is popular with the lo
 archiveUrl: https://web.archive.org/web/20161227032411/http://thirstypig.com/2016/12/26/tasty-noodle-house-irvine/
 draft: false
+location: Tasty Noodle House
+city: Irvine
+region: Orange County
+address: 15333 Culver Dr St
 ---
 
 [![IMG_3919](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3919-1.jpg?resize=158%2C211 "IMG_3919")](http://thirstypig.com/img_3919-2/)

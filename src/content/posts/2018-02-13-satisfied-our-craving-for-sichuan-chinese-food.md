@@ -16,6 +16,7 @@ tags:
 - spicy
 - huajiao
 description: Satisfied our craving for Sichuan Chinese food
+location: Satisfied our craving for Sichuan Chinese food
 ---
 
 ![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909076649124484.jpg)

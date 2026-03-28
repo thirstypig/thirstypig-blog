@@ -9,6 +9,7 @@ images:
 - /images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg
 categories:
 - Huangpu
+- Shanghai
 tags:
 - Bar
 - Bund
@@ -16,6 +17,9 @@ tags:
 description: Bar Rouge is one of the best nightclubs in the world, not just in Shanghai. Been around for years, Bar Rouge is internationally renown for it fabulous views of the Shanghai nighttime lights, the Huang
 archiveUrl: https://web.archive.org/web/20161018174536/http://thirstypig.com/2010/11/01/bar-rouge-shanghai/
 draft: false
+location: Bar Rouge
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_5572](/images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg "img_5572")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5572/)

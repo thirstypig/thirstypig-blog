@@ -14,6 +14,7 @@ images:
 - /images/posts/ig-2021-09-26-sunday-dinner-at-at/17893275350291542.jpg
 - /images/posts/ig-2021-09-26-sunday-dinner-at-at/17990437786376342.jpg
 description: Sunday dinner at at
+location: Sunday dinner at  at
 ---
 
 ![Sunday dinner at  at](/images/posts/ig-2021-09-26-sunday-dinner-at-at/17886336572372073.jpg)

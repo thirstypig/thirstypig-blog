@@ -8,11 +8,15 @@ categories:
 - 3 pigs
 - Lounge
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: Nighttime views of Shanghai aren’t hard to come by, with M1NThttp://www.thethirstypig.com/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/, Flairhttp://www.thethirstypig.com/2011/03/16/flair-loung
 archiveUrl: https://web.archive.org/web/20110703035437/http://www.thethirstypig.com:80/2011/06/17/char-terrace-shanghais-best-rooftop-daytime-views/
 draft: false
+location: Char Terrace
+city: Shanghai
+region: Shanghai
 ---
 
 Nighttime views of Shanghai aren’t hard to come by, with [M1NT](http://www.thethirstypig.com/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/), [Flair](http://www.thethirstypig.com/2011/03/16/flair-lounge-shanghai/), Vue, and Bar Rouge. But there’s a new player in town, Char Terrace at the Hotel Indigo.

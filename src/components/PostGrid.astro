@@ -10,6 +10,7 @@ interface Props {
 			description?: string;
 			heroImage?: string;
 			categories?: string[];
+			tags?: string[];
 		};
 	}>;
 }
@@ -25,6 +26,7 @@ const { posts } = Astro.props;
 			description={post.data.description}
 			heroImage={post.data.heroImage}
 			categories={post.data.categories}
+			tags={post.data.tags}
 			slug={post.id}
 		/>
 	))}

@@ -12,6 +12,10 @@ tags:
 description: Great food, but seemed like a mall food court experience with dining room in the lobby of the Aria The Spanish Tortilla was great. The ham was also very tasty, too One of the better restaurants in Ari
 archiveUrl: https://web.archive.org/web/20160915042607/http://thirstypig.com/2015/02/18/julian-serrano-aria-las-vegas/
 draft: false
+location: Julian Serrano at the Aria
+city: Las Vegas
+region: Las Vegas
+address: 3730 S Las Vegas Blvd
 ---
 
 [![IMG_2245](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2245.jpg?resize=296%2C222 "IMG_2245")](http://thirstypig.com/2015/02/18/julian-serrano-aria-las-vegas/img_2245/)

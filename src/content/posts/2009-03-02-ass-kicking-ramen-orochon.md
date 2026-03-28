@@ -11,11 +11,16 @@ categories:
 - Japanese
 - Noodles
 - Ramen
+- Oc
+- Orange County
 tags:
 - LA's Little Tokyo
 description: On the subject of Ramen . . . I thought I’d talk about a Orochon
 archiveUrl: https://web.archive.org/web/20110105063918/http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
 draft: false
+location: Ass Kicking Ramen!
+city: Oc
+region: Orange County
 ---
 
 On the subject of Ramen . . . I thought I’d talk about a Orochon!

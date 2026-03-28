@@ -17,6 +17,7 @@ tags:
 description: When people talk about BBQ, emotions and feelings run high. You almost get into fighting words when comparing the different BBQ’s. With the Carolina’s you get the smokey pulled pork and with the Kansa
 archiveUrl: https://web.archive.org/web/20110307210002/http://www.thethirstypig.com:80/2011/03/02/smoke-city-market/
 draft: false
+location: The BBQ Beef Rib at Smoke City Market
 ---
 
 When people talk about BBQ, emotions and feelings run high. You almost get into fighting words when comparing the different BBQ’s. With the Carolina’s you get the smokey pulled pork and with the Kansas City style, you get the saucey on baby back ribs

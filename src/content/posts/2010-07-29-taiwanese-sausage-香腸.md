@@ -10,12 +10,16 @@ categories:
 - Price Range $/¥/NT
 - 3 pigs
 - Late Night
+- Taipei
 tags:
 - Sausage
 - Taiwanese
 description: My last post, for awhile about Taiwan, ends with a short one about Taiwanese Sausage. At least one thing in Taiwan never changes and will always stay the same – Taiwanese Sausages香腸.
 archiveUrl: https://web.archive.org/web/20161105010728/http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/
 draft: false
+location: Taiwanese Sausage 香腸
+city: Taipei
+region: Taipei
 ---
 
 [![img_0883](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0883.jpg?resize=403%2C302 "img_0883")](http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/img_0883-3/)

@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/08/holders-country-inn-san-jose/
 categories:
 - San Jose
+- Bay Area
 tags:
 - Breakfast
 - Brunch
@@ -13,6 +14,10 @@ tags:
 description: Yelphttps://www.yelp.com/biz/holders-country-inn-san-jose-2
 archiveUrl: https://web.archive.org/web/20160828103323/http://thirstypig.com/2009/11/08/holders-country-inn-san-jose/
 draft: false
+location: Holder’s Country Inn
+city: San Jose
+region: Bay Area
+address: 1424 Saratoga Ave San Jose, CA 95129
 ---
 
 [![DSCN0114](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0114.jpg?resize=423%2C317 "DSCN0114")](http://thirstypig.com/2009/11/08/holders-country-inn-san-jose/dscn0114/)

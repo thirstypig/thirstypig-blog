@@ -23,11 +23,15 @@ categories:
 - $
 - 3 pigs
 - Taiwanese
+- Rowland Heights
 tags:
 - LA's San Gabriel Valley
 description: Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.
 archiveUrl: https://web.archive.org/web/20110105211310/http://www.thethirstypig.com/2010/01/12/country-bistro-rowland-heights/
 draft: false
+location: Country Bistro
+city: Rowland Heights
+region: San Gabriel Valley
 ---
 
 Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.

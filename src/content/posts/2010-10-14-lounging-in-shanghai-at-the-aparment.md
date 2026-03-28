@@ -20,6 +20,10 @@ categories:
 description: The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.
 archiveUrl: https://web.archive.org/web/20101017223621/http://www.thethirstypig.com:80/2010/10/14/lounging-in-shanghai-at-the-aparment/
 draft: false
+location: Lounging in Shanghai at The Aparment
+city: Shanghai
+region: Shanghai
+address: 47 Yongfu Rd
 ---
 
 The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.

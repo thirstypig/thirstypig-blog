@@ -8,9 +8,14 @@ categories:
 - 3 pigs
 - hotel
 - Nightclub
+- Taipei
 description: Located in the heart of the XinYi district, Home Hotel is the latest trend of new hotels to pop up, with the Le Meridian, the W, and Tango opening recently. Home Hotel is an upscale boutique hotel wit
 archiveUrl: https://web.archive.org/web/20110727201831/http://www.thethirstypig.com:80/2011/07/22/taipeis-home-hotel/
 draft: false
+location: Taipei’s Home Hotel
+city: Taipei
+region: Taipei
+address: 90 SongRen Road
 ---
 
 Located in the heart of the XinYi district, Home Hotel is the latest trend of new hotels to pop up, with the Le Meridian, the W, and Tango opening recently. Home Hotel is an upscale boutique hotel with the service and comfort of a Bed & Breakfast.

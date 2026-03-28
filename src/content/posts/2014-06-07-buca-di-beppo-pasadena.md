@@ -19,6 +19,10 @@ tags:
 description: I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. Wi
 archiveUrl: https://web.archive.org/web/20160914223844/http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/
 draft: false
+location: Buca Di Beppo
+city: Pasadena
+region: Pasadena
+address: 80 W Green St
 ---
 
 [![psb-46](/images/posts/buca-di-beppo-pasadena/IMG_0638.jpg "psb-46")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-46/)

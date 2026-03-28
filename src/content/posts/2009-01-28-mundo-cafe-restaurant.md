@@ -15,6 +15,9 @@ tags:
 description: What a nice little restaurant.
 archiveUrl: https://web.archive.org/web/20110105202901/http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/
 draft: false
+location: Mundo Cafe & Restaurant
+city: New York
+region: New York
 ---
 
 What a nice little restaurant.

@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/16/shanghai-marriott-hotel-city-centre-%e4%b8%8a%e6%b5%b7%e9%9b%85%e5%b1%85%e4%b9%90%e4%b8%87%e8%b1%aa%e9%85%92%e5%ba%97/
 categories:
 - People's Square
+- Shanghai
 tags:
 - Hotel
 description: Shanghai Marriott Hotel City Centre 555 Xi Zang Road Middle, Huangpu District, Shanghai 200003 China +86-21-2312 9888
 archiveUrl: https://web.archive.org/web/20161105021755/http://thirstypig.com/2012/02/16/shanghai-marriott-hotel-city-centre-%e4%b8%8a%e6%b5%b7%e9%9b%85%e5%b1%85%e4%b9%90%e4%b8%87%e8%b1%aa%e9%85%92%e5%ba%97/
 draft: false
+location: Shanghai Marriott Hotel City Centre 上海雅居乐万豪酒店
+city: Shanghai
+region: Shanghai
+address: 555 Xi Zang Road
 ---
 
 [![marriott-city-center-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Marriott-City-Center-Shanghai-03.jpg?resize=239%2C158 "marriott-city-center-shanghai-03")](http://thirstypig.com/2012/02/16/shanghai-marriott-hotel-city-centre-%e4%b8%8a%e6%b5%b7%e9%9b%85%e5%b1%85%e4%b9%90%e4%b8%87%e8%b1%aa%e9%85%92%e5%ba%97/marriott-city-center-shanghai-03/)

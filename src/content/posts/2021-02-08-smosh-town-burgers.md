@@ -20,6 +20,7 @@ tags:
 - wagyubeef
 - eeeeeats
 description: Smosh Town burgers! The smashed burger patty burgers. Great texture and taste. Too bad I am going vegetarian the rest of February. . . . . . . .
+location: Smosh Town burgers
 ---
 
 ![Smosh Town burgers](/images/posts/ig-2021-02-08-smosh-town-burgers/18029298583290640.jpg)

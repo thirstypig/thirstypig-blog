@@ -9,9 +9,13 @@ categories:
 - hotel
 - Lounge
 - Price Range 2 $/¥/NT
+- Shanghai
 description: Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten p
 archiveUrl: https://web.archive.org/web/20120116090821/http://www.thethirstypig.com:80/2011/08/25/upstairs-urbn-hotel-shanghai/
 draft: false
+location: Upstairs URBN Hotel
+city: Shanghai
+region: Shanghai
 ---
 
 Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten path, it offers a secluded setting, much like the hotel. After dining at Downstairs, the David Laris restaurant, you could mosey up to the rooftop lounge.

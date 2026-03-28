@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/
 categories:
 - Luwan
+- Shanghai
 tags:
 - Late Night
 - Noodles
 description: I found this little late night eatery, by sheer chance. I was going home from a late night of drinking with some friends and my stomach was taking over. My mouth started to moving, in probably, the be
 archiveUrl: https://web.archive.org/web/20161019094719/http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/
 draft: false
+location: Shanghai Spicy Noodle Restaurant 沪上一家辣肉面馆
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_0053](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_0053.jpg?resize=282%2C211 "img_0053")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_0053/)

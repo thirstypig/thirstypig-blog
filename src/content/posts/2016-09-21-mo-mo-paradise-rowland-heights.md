@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/
 categories:
 - SGV
+- Rowland Heights
+- San Gabriel Valley
 tags:
 - Ayce
 - Hot Pot
@@ -13,6 +15,10 @@ tags:
 description: Yelp Listinghttps://www.yelp.com/biz/mo-mo-paradise-rowland-heights-2
 archiveUrl: https://web.archive.org/web/20161120162946/http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/
 draft: false
+location: Mo-Mo-Paradise
+city: Rowland Heights
+region: San Gabriel Valley
+address: 17596 Colima Rd Rowland Heights, CA 91748
 ---
 
 [![img_0395](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0395.jpg?resize=148%2C198 "img_0395")](http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/img_0395-5/)

@@ -9,12 +9,17 @@ categories:
 - Vietnamese
 - 2 pigs
 - $
+- Bay Area
 tags:
 - San Jose
 - Vietnamese
 description: Yelphttps://www.yelp.com/biz/pho-kim-long-restaurant-san-jose
 archiveUrl: https://web.archive.org/web/20160828111201/http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/
 draft: false
+location: Pho Kim Long
+city: San Jose
+region: Bay Area
+address: 2082 N Capitol Ave San Jose, CA 95132
 ---
 
 [![DSCN0131](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0131.jpg?resize=296%2C222 "DSCN0131")](http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/dscn0131/)

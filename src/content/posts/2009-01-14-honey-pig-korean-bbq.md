@@ -16,11 +16,15 @@ categories:
 - Korean
 - Koreatown
 - Barbeque
+- Korean BBQ
 tags:
 - LA's Koreatown
 description: I’ve been asked to write a little about this place. So, here it goes. . .
 archiveUrl: https://web.archive.org/web/20110105195114/http://www.thethirstypig.com/2009/01/14/honey-pig-korean-bbq/
 draft: false
+location: Honey Pig
+city: Korean BBQ
+region: Koreatown
 ---
 
 I’ve been asked to write a little about this place. So, here it goes. . .

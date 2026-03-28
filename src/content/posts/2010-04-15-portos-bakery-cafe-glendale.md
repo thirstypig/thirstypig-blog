@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/
 categories:
 - SFV
+- Glendale
+- San Fernando Valley
 tags:
 - Bakery
 - Cafe
@@ -15,6 +17,10 @@ tags:
 description: Who has not heard of Porto’s? Who has not gone to Porto’s more importantly. This Cuban bakery probably the most popular place in Glendale, perhaps even more than the Americana. Probably, just at lunch
 archiveUrl: https://web.archive.org/web/20161106014645/http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/
 draft: false
+location: Porto’s Bakery & Cafe
+city: Glendale
+region: San Fernando Valley
+address: 315 N Brand Blvd Glendale, CA 91203
 ---
 
 [![img_1422](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1422.jpg?resize=403%2C302 "img_1422")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1422/)

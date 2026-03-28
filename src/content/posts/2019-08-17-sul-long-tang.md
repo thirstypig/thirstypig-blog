@@ -13,6 +13,7 @@ tags:
 - seolleongtang
 - koreanfood
 description: Sul Long Tang. Korean beef stew. . . .
+location: Sul Long Tang
 ---
 
 ![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17871699586441662.jpg)

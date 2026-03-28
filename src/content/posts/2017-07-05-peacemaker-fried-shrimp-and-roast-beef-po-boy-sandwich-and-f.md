@@ -17,6 +17,10 @@ tags:
 - nola
 - thirstypig
 description: peacemaker - fried shrimp and roast beef Po-Boy sandwich and fried shrimp platter with fries and potato salad. Could barely finish the PO-boy but shrimp platter. So full the potato salad was yummy!
+location: peacemaker
+city: fried shrimp and roast beef Po-Boy sandwich and fried shrimp pla...
+categories:
+- fried shrimp and roast beef Po-Boy sandwich and fried shrimp pla...
 ---
 
 ![peacemaker - fried shrimp and roast beef Po-Boy sandwich and fried shrimp pla...](/images/posts/ig-2017-07-05-peacemaker-fried-shrimp-and-roast-beef-po-boy-sandwich-and-f/17875493281111999.jpg)

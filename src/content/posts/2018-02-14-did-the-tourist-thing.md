@@ -14,6 +14,7 @@ tags:
 - clamchowder
 - lobsterbisque
 description: Did the tourist thing
+location: Did the tourist thing
 ---
 
 ![Did the tourist thing](/images/posts/ig-2018-02-14-did-the-tourist-thing/17864939845210324.jpg)

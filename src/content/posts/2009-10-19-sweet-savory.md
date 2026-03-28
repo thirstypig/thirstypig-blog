@@ -23,11 +23,16 @@ categories:
 - 2 pigs
 - $
 - Dessert
+- Santa Monica
+- Westside
 tags:
 - Los Angeles
 description: Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.
 archiveUrl: https://web.archive.org/web/20111103144203/http://www.thethirstypig.com/2009/10/19/sweet-savory/
 draft: false
+location: Sweet & Savory
+city: Santa Monica
+region: Westside
 ---
 
 Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.

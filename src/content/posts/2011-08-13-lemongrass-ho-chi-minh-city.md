@@ -11,6 +11,8 @@ tags:
 description: Tourists, foreigners, and out of towners usually have little or no expectation for food, unless they specifically researched prior to their trip. Yet, the onus of pressure, lies with the host or frien
 archiveUrl: https://web.archive.org/web/20161105232236/http://thirstypig.com/2011/08/13/lemongrass-ho-chi-minh-city/
 draft: false
+location: Lemongrass
+city: Ho Chi Minh City
 ---
 
 [![img_0286](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0286.jpg?resize=380%2C507 "img_0286")](http://thirstypig.com/2011/08/13/lemongrass-ho-chi-minh-city/img_0286/)

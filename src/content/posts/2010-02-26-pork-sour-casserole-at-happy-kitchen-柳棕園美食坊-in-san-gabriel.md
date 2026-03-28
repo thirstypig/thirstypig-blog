@@ -24,4 +24,6 @@ tags:
 description: I’ve been an amateur journalist that eats for some time now. And occasionally, my friends will insist upon me trying a place. They will drag me to some corner place and lay claim as if they were preac
 archiveUrl: https://web.archive.org/web/20110105031038/http://www.thethirstypig.com/2010/02/26/pork-sour-casserole-at-happy-kitchen-%e6%9f%b3%e6%a3%95%e5%9c%92%e7%be%8e%e9%a3%9f%e5%9d%8a-in-san-gabriel/
 draft: false
+location: Pork Sour Casserole at Happy Kitchen 柳棕園美食坊 in San Gabriel
+region: San Gabriel Valley
 ---

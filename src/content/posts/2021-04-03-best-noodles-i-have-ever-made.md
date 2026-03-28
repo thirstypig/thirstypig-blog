@@ -23,6 +23,11 @@ tags:
 - soysauce
 - shoyu
 description: Best noodles I have ever made. Shanghai scallion of noodles 蔥油拌麵 and with, of course, a fried egg. So simple and yummy. Love it. With olive oil, light & dark soy sauce, sesame oil, and some sugar. I u
+location: Best noodles I have ever made
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Best noodles I have ever made](/images/posts/ig-2021-04-03-best-noodles-i-have-ever-made/17911675588685661.jpg)

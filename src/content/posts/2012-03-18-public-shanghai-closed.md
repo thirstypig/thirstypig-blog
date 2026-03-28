@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/18/public-shanghai-closed/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - American
 - Beer
@@ -13,9 +14,13 @@ tags:
 - Brunch
 - Burgers
 - Chicken
+- closed
 description: The Public, Shanghai Closed 2/F, 174 Xiangyang Nan Lu, near Fuxing Zhong Lu 襄阳南路174号2楼， 近复兴中路 +86 21 6417 1679
 archiveUrl: https://web.archive.org/web/20161106084421/http://thirstypig.com/2012/03/18/public-shanghai-closed/
 draft: false
+location: The Public
+city: Shanghai
+region: Shanghai
 ---
 
 [![public-shanghai-42](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Public.Shanghai.42.jpg?resize=257%2C170 "public-shanghai-42")](http://thirstypig.com/2012/03/18/public-shanghai-closed/public-shanghai-42/)

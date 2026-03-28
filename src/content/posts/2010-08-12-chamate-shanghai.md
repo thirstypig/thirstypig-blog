@@ -26,12 +26,16 @@ categories:
 - 2 pigs
 - Price Range $/¥/NT
 - Tea
+- Shanghai
 tags:
 - Luwan District 上海卢湾区
 - Shanghai 上海
 description: Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers a
 archiveUrl: https://web.archive.org/web/20110106021300/http://www.thethirstypig.com/2010/08/12/chamate-shanghai/
 draft: false
+location: Chamate 一茶一坐
+city: Shanghai
+region: Shanghai
 ---
 
 Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers an assortment of teas – hot and cold, with light snacks and entrees.

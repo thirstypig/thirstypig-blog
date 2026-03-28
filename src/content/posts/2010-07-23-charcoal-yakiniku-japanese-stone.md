@@ -25,11 +25,14 @@ categories:
 - Barbeque
 - Japanese
 - Price Range 2 $/¥/NT
+- Taoyuan
 tags:
 - Taoyuan 桃園
 description: “All You Can Eat” AYCE in Taiwan and China is translated as “Eat till Full” 吃到飽. Not as attractive sounding as the American English moniker – it seems a bit unappealing. Yet, these types of restaurant
 archiveUrl: https://web.archive.org/web/20110104131516/http://www.thethirstypig.com:80/2010/07/23/charcoal-yakiniku-japanese-stone/
 draft: false
+location: Eat till Full at Charcoal Yakiniku Japanese stone 石頭日式炭火燒肉
+city: Taoyuan
 ---
 
 “All You Can Eat” (AYCE) in Taiwan and China is translated as “Eat till Full” (吃到飽). Not as attractive sounding as the American English moniker – it seems a bit unappealing. Yet, these types of restaurants are popular in Taiwan and China.

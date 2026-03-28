@@ -23,6 +23,11 @@ tags:
 - eats
 - eeeeeats
 description: 'Late night eats at an old favorite in a new location. The katsudon - pork cutlet with eggs and onion over rice. I usually get the oyakudon, but tonight I wanted something different. Unfortunately, it '
+location: Late night eats at an old favorite in a new location
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Late night eats at an old favorite in a new location](/images/posts/ig-2024-04-08-late-night-eats-at-an-old-favorite-in-a-new-location/17916456932913668.jpg)

@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Chinese 2
 - Hotel
 description: The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all y
 archiveUrl: https://web.archive.org/web/20161105144348/http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/
 draft: false
+location: The Cook at the Kerry Hotel
+city: Shanghai
+region: Shanghai
+address: 1388 Hua Mu Road
 ---
 
 [![cook-kerry-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-10.jpg?resize=403%2C302 "cook-kerry-shanghai-10")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-10/)

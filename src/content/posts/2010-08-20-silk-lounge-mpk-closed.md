@@ -6,11 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/20/silk-lounge-mpk-closed/
 categories:
 - SGV
+- Mpk
+- San Gabriel Valley
 tags:
 - Bar
+- closed
 description: I recently made a short trip back to the US, and one stop I knew I had to make was stopping by Silk Lounge. Not only as one of my favorite stomping grounds, I used to be one of the managers. You might
 archiveUrl: https://web.archive.org/web/20161018172805/http://thirstypig.com/2010/08/20/silk-lounge-mpk-closed/
 draft: false
+location: Silk Lounge
+city: Mpk
+region: San Gabriel Valley
+address: 123 South Lincoln Ave
 ---
 
 [![04162007961](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/08/04162007961.jpg?resize=385%2C289 "04162007961")](http://thirstypig.com/2010/08/20/silk-lounge-mpk-closed/attachment/04162007961/)

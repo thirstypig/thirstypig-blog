@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/
 categories:
 - Songshan
+- Taipei
 tags:
 - Japanese
 - Sushi
 description: Shaburi, at Breeze Center, is a nice unassuming and non-pretentious Japanese restaurant. With high expectations on presentation and food, lunch was nice treat.
 archiveUrl: https://web.archive.org/web/20161106123640/http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/
 draft: false
+location: Shaburi 紗舞縭壽司屋, Breeze Center 微風廣場
+city: Taipei
+region: Taipei
+address: 599 Sushi Set featuring Uni and Scallop and the Dr
 ---
 
 [![img_2374](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2374.jpg?resize=403%2C302 "img_2374")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2374/)

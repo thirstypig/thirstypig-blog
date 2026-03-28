@@ -17,9 +17,13 @@ categories:
 - 2 pigs
 - Price Range $/¥/NT
 - Taiwanese
+- Shanghai
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20111014113348/http://www.thethirstypig.com/2011/09/20/bellagio-shanghai/
 draft: false
+location: Bellagio
+city: Shanghai
+region: Shanghai
 ---
 
 Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What can you? For me, one of my favorite comfort foods in Taiwanese cuisine. In Shanghai, one of the better options is Bellagio 鹿港小镇. And thank goodness it is open late.

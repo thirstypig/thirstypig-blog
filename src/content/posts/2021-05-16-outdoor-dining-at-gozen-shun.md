@@ -21,6 +21,11 @@ tags:
 - eats
 - thirstypig
 description: Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. Tonkatsu and miso Black Cod, with tempura and karage. . . . . .
+location: Outdoor dining at Gozen Shun
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17908499326747509.jpg)

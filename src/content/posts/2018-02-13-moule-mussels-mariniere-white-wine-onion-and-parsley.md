@@ -15,6 +15,10 @@ tags:
 - moule
 - thirstypig
 description: Moule (mussels) mariniere (white wine, onion, and parsley). Yum! And a French burger. And fries. Oh and the French onion soup - might be the best I ever had
+location: Moule (mussels) mariniere (white wine, onion
+city: and parsley)
+categories:
+- and parsley)
 ---
 
 ![Moule (mussels) mariniere (white wine, onion, and parsley)](/images/posts/ig-2018-02-13-moule-mussels-mariniere-white-wine-onion-and-parsley/17924557276002418.jpg)

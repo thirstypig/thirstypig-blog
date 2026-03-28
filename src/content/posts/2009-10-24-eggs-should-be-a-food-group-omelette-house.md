@@ -22,6 +22,8 @@ tags:
 description: This past week, I had to be in Garden Grove for a short meeting, and needed a pre-meeting place to meet & eat. After scouring yelp for breakfast places, I found the Omelette House.
 archiveUrl: https://web.archive.org/web/20110105205659/http://www.thethirstypig.com/2009/10/24/eggs-should-be-a-food-group-omelette-house/
 draft: false
+location: Eggs should be a Food Group . . .Omelette House
+region: Orange County
 ---
 
 This past week, I had to be in Garden Grove for a short meeting, and needed a pre-meeting place to meet & eat. After scouring yelp for breakfast places, I found the Omelette House.

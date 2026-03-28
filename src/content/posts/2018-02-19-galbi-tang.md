@@ -16,6 +16,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Galbi Tang
+location: Galbi Tang
 ---
 
 ![Galbi Tang](/images/posts/ig-2018-02-19-galbi-tang/17927925121031855.jpg)

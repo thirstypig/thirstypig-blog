@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/16/huashan-creative-park-%e8%8f%af%e5%b1%b11914%e6%96%87%e5%89%b5%e5%9c%92%e5%8d%80-taipei/
 categories:
 - Zhongzhen
+- Taipei
 tags:
 - Shopping
 description: Huashan Creative Park is the cultural center for not only Taipei, but for the country of Taiwan as well. With the combination of art and food, the park provides a historic setting.
 archiveUrl: https://web.archive.org/web/20161104202415/http://thirstypig.com/2011/07/16/huashan-creative-park-%e8%8f%af%e5%b1%b11914%e6%96%87%e5%89%b5%e5%9c%92%e5%8d%80-taipei/
 draft: false
+location: Huashan Creative Park 華山1914文創園區
+city: Taipei
+region: Taipei
 ---
 
 [![hua-shan-taipei-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Hua-Shan-Taipei-12.jpg?resize=403%2C302 "hua-shan-taipei-12")](http://thirstypig.com/2011/07/16/huashan-creative-park-%e8%8f%af%e5%b1%b11914%e6%96%87%e5%89%b5%e5%9c%92%e5%8d%80-taipei/hua-shan-taipei-12/)

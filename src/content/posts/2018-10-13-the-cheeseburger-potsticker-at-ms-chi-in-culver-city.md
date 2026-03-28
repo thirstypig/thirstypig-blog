@@ -21,6 +21,7 @@ tags:
 - chinesefood
 - culvercity
 description: The cheeseburger potsticker at Ms Chi in Culver City. Crispy chicken, Maobo tofu, tator tots, Brussels sprouts, and Buddha beer. . . . .
+location: The cheeseburger potsticker at Ms Chi in Culver City
 ---
 
 ![The cheeseburger potsticker at Ms Chi in Culver City](/images/posts/ig-2018-10-13-the-cheeseburger-potsticker-at-ms-chi-in-culver-city/17929224838202462.jpg)

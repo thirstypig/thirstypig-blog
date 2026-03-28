@@ -29,6 +29,7 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Japanese BBQ at Hibiki in the SGV. Had to check out this place. Cool decor. Good service. They grill the meats for you, in case you don’t want to or don’t know how to. But I think they grill it for yo
+location: Japanese BBQ at Hibiki in the SGV
 ---
 
 ![Japanese BBQ at Hibiki in the SGV](/images/posts/ig-2024-08-31-japanese-bbq-at-hibiki-in-the-sgv/18122616829345569.jpg)

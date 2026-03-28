@@ -15,11 +15,16 @@ categories:
 - Mexican
 - Breakfast
 - Latin
+- Cafe Habana
 tags:
 - New York City
 description: This was my first experience with Mexican Corn – and hopefully wasn’t my last. This was the best corn I have ever had. The spices and cheese combination was awesome. I’ve tried different Mexican corn,
 archiveUrl: https://web.archive.org/web/20110105093645/http://www.thethirstypig.com/2009/02/26/mexican-corn-cafe-habana/
 draft: false
+location: Mexican Corn
+city: Cafe Habana
+region: New York
+address: 229 Elizabeth St
 ---
 
 This was my first experience with Mexican Corn – and hopefully wasn’t my last. This was the best corn I have ever had. The spices and cheese combination was awesome. I’ve tried different Mexican corn, here in Los Angeles, but they all don’t compare to the Mexican Corn from NYC at Cafe Habana (a Cuban restaurant)

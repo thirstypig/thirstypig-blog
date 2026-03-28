@@ -22,6 +22,12 @@ tags:
 - arcadia
 - monrovia
 description: Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had the egg pancake 蛋皮 and fried dumplings. Yi Mei is one of the better Taiwanese breakfast restaurants. . . . . .
+location: Taiwanese breakfast at Yi Mei
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18096871207129836.jpg)

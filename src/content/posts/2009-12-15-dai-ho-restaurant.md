@@ -12,6 +12,8 @@ images:
 description: This is almost as good as my mom's Taiwanese beef noodle stew, but definitely the best you can get outside of a Taiwanese household. Family run and seems like they're hardly ever open since they can a
 archiveUrl: https://web.archive.org/web/20100103040512/http://blog.thethirstypig.com:80/2009/12/dai-ho-restaurant.html
 draft: false
+location: Dai Ho Restaurant
+address: 9148 Las Tunas Dr Temple City, CA 91780
 ---
 
 [![](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s200/IMG_7555.JPG)](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s1600-h/IMG_7555.JPG)

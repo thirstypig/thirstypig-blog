@@ -16,6 +16,10 @@ tags:
 - arkansas
 - roadtrip
 description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename th
+location: First Walmart
+city: now is the Walmart Museum
+categories:
+- now is the Walmart Museum
 ---
 
 ![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17936385863323997.jpg)

@@ -27,6 +27,7 @@ tags:
 - pulledpork
 - beefbrisket
 description: Texas BBQ dinner with old friends at Bludso’s. Pork Ribs, Rib Tips, Pulled Pork, and beef brisket. With collard greens and cole slaw. So much food. Yum! . . . .
+location: Texas BBQ dinner with old friends at Bludso’s
 ---
 
 ![Texas BBQ dinner with old friends at Bludso’s](/images/posts/ig-2018-08-06-texas-bbq-dinner-with-old-friends-at-bludsos/17938370692181796.jpg)

@@ -21,6 +21,7 @@ tags:
 - eats
 - eeeeeats
 description: Sunday Brunch at Americano in the Art’s District. Pulled pork and polenta and fried chicken and waffles. And of course huge Bloody Mary. . . . . .
+location: Sunday Brunch at Americano in the Art’s District
 ---
 
 ![Sunday Brunch at Americano in the Art’s District](/images/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/17945791804559805.jpg)

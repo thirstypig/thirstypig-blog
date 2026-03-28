@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/16/animal-los-angeles/
 categories:
 - Hollywood
+- Los Angeles
 tags:
 - Beef
 - Los Angeles
@@ -13,6 +14,10 @@ tags:
 description: 'With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making '
 archiveUrl: https://web.archive.org/web/20160828054123/http://thirstypig.com/2009/09/16/animal-los-angeles/
 draft: false
+location: Animal
+city: Los Angeles
+region: Hollywood
+address: 435 N Fairfax Ave Los Angeles, CA 90036
 ---
 
 [![IMG_4881](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4881.jpg?resize=423%2C317 "IMG_4881")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4881/)

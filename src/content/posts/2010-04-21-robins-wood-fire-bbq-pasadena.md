@@ -11,6 +11,10 @@ tags:
 description: Yelp Listinghttps://www.yelp.com/biz/robins-wood-fire-bbq-pasadena
 archiveUrl: https://web.archive.org/web/20161106123634/http://thirstypig.com/2010/04/21/robins-wood-fire-bbq-pasadena/
 draft: false
+location: Robin’s Wood Fire BBQ
+city: Pasadena
+region: Pasadena
+address: 395 N Rosemead Blvd Pasadena, CA 91107
 ---
 
 [![img_1473](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1473.jpg?resize=403%2C302 "img_1473")](http://thirstypig.com/2010/04/21/robins-wood-fire-bbq-pasadena/img_1473/)

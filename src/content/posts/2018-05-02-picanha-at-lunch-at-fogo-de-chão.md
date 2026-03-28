@@ -20,6 +20,7 @@ tags:
 - powerlunch
 - yummy
 description: Picanha at lunch at Fogo de Chão. Picanha is one of the best cuts of beef. Yum! . .
+location: Picanha at lunch at Fogo de Chão
 ---
 
 ![Picanha at lunch at Fogo de Chão](/images/posts/ig-2018-05-02-picanha-at-lunch-at-fogo-de-chão/17928565228107952.jpg)

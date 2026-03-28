@@ -16,6 +16,7 @@ tags:
 - spicy
 - hunanfood
 description: Hunan Food in
+location: Hunan Food in
 ---
 
 ![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17861265631174266.jpg)

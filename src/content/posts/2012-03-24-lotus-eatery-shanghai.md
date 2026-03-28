@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/24/lotus-eatery-shanghai/
 categories:
 - Changning
+- Shanghai
 tags:
 - Yunan
 description: 'Lotus Eatery Closed 85 Yangzhai Lu, near Xinhua Lu 杨宅路85号, 近新华路 PHONE: 6282 7756'
 archiveUrl: https://web.archive.org/web/20161104233126/http://thirstypig.com/2012/03/24/lotus-eatery-shanghai/
 draft: false
+location: Lotus Eatery
+city: Shanghai
+region: Shanghai
 ---
 
 [![lotus-eatery-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/lotus.eatery.shanghai.09.jpg?resize=239%2C158 "lotus-eatery-shanghai-09")](http://thirstypig.com/2012/03/24/lotus-eatery-shanghai/lotus-eatery-shanghai-09/)

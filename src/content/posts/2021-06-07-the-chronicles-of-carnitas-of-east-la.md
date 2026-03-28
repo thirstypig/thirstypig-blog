@@ -23,6 +23,7 @@ tags:
 - eats
 - pork
 description: The Chronicles of Carnitas of East LA. Starting off with the Zamora Bros. Heard about these guys awhile ago. Had three tacos and torta. And also had a half pound of the chicharrones. The torta was exc
+location: The Chronicles of Carnitas of East LA
 ---
 
 ![The Chronicles of Carnitas of East LA](/images/posts/ig-2021-06-07-the-chronicles-of-carnitas-of-east-la/18183879700105476.jpg)

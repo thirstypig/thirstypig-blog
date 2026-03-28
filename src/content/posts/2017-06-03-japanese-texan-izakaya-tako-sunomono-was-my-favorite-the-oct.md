@@ -26,6 +26,12 @@ tags:
 - chicken
 - rice
 description: 'Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese '
+location: Japanese "Texan" izakaya Tako sunomono was my favorite
+city: Oc
+region: Orange County
+categories:
+- Oc
+- Orange County
 ---
 
 ![Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more...](/images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17857889098181367.jpg)

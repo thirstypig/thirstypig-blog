@@ -13,11 +13,16 @@ images:
 categories:
 - Cantonese
 - Chinese
+- Monterey Park
+- San Gabriel Valley
 tags:
 - LA's San Gabriel Valley
 description: Located in the back of a mini mall in Monterey Park, L’Amour Cafe is a hidden gem that specializes in traditional Cantonese cuisine. Monterey Park has always been known for cantonese faire – especiall
 archiveUrl: https://web.archive.org/web/20110106003625/http://www.thethirstypig.com/2009/06/01/lamour-cafe/
 draft: false
+location: L’Amour Cafe
+city: Monterey Park
+region: San Gabriel Valley
 ---
 
 Located in the back of a mini mall in Monterey Park, L’Amour Cafe is a hidden gem that specializes in traditional Cantonese cuisine. Monterey Park has always been known for cantonese faire – especially with the late night cafes and dim sum palaces. But L’Amour Cafe goes away from that tradition to offer a non-cafe style ambience. They strive to offer higher quality selection without the expanse of a large banquet style dim sum restaurant.

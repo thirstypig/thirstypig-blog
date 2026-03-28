@@ -19,6 +19,7 @@ tags:
 - boba
 - drinks
 description: Boba and popcorn chicken from Boba Ave. Nice little restaurant that has driv thru for boba drinks and Taiwanese popcorn chicken. . . . . . . .
+location: Boba and popcorn chicken from Boba Ave
 ---
 
 ![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17919479245536140.jpg)

@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/16/greenology-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Vegetarian
 description: Greenology 392 Tianping Lu, near Hengshan Lu 天平路392号， 近衡山路 +86 21 3469 2857
 archiveUrl: https://web.archive.org/web/20161104200557/http://thirstypig.com/2012/04/16/greenology-shanghai/
 draft: false
+location: Greenology
+city: Shanghai
+region: Shanghai
 ---
 
 [![greenology-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/greenology.shanghai.12.jpg?resize=403%2C268 "greenology-shanghai-12")](http://thirstypig.com/2012/04/16/greenology-shanghai/greenology-shanghai-12/)

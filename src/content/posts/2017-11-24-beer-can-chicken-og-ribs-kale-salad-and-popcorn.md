@@ -23,6 +23,10 @@ tags:
 - kale
 - roychoi
 description: Beer can chicken, OG Ribs, kale salad, and popcorn. The chicken was nice and crispy without heavy flour type fried chicken. Salad was refreshing and acidic - good with the chicken.
+location: Beer can chicken, OG Ribs, kale salad
+city: and popcorn
+categories:
+- and popcorn
 ---
 
 ![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17885669857137020.jpg)

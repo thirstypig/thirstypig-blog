@@ -26,6 +26,11 @@ tags:
 - thirstypig
 - å
 description: Taiwanese street food - . We had the beef Ban Mien (noodles) - 牛肉麵. The broth was rich and slightly spicy - very good. Noodles were interesting but good - soaked up the broth. Loved the pickled mustar
+location: Taiwanese street food -
+city: Taipei
+region: Taipei
+categories:
+- Taipei
 ---
 
 ![Taiwanese street food -](/images/posts/ig-2017-09-13-taiwanese-street-food/17873207422186876.jpg)

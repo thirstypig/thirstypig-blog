@@ -14,9 +14,13 @@ images:
 - /images/posts/project-by-project-the-food-and-people/post+2.3.jpg
 categories:
 - Food/Wine Event
+- The Food and People
 description: Only 3 days till Plate by Plate I can’t wait. It has been awhile since I attended their food/wine event. On this particular post, I was forwarded some great pictures of past events. I thought you guys
 archiveUrl: https://web.archive.org/web/20110106033956/http://www.thethirstypig.com/2009/07/30/project-by-project-the-food-and-people/
 draft: false
+location: Project by Project
+city: The Food and People
+address: 700 State Dr
 ---
 
 Only 3 days till Plate by Plate!!! I can’t wait. It has been awhile since I attended their food/wine event. On this particular post, I was forwarded some great pictures of past events. I thought you guys might enjoy.

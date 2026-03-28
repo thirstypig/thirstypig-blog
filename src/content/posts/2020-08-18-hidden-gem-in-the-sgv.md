@@ -18,6 +18,7 @@ tags:
 - diner
 - sgv
 description: Hidden gem in the SGV. Diner American/Mexican food at the El Monte Airport. Very cool spot to watch planes take off and land up close. Open during COVID. Outdoor seating. I had the Annia’s special gro
+location: Hidden gem in the SGV
 ---
 
 ![Hidden gem in the SGV](/images/posts/ig-2020-08-18-hidden-gem-in-the-sgv/18158162833043062.jpg)

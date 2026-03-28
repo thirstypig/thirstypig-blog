@@ -21,6 +21,10 @@ tags:
 - eastla
 - losangelesfood
 description: The final addition to the Chronicles of Carnitas of East Los Angeles - Carnitas Michoacán. I argue that the best Mexican food region in the US is right here in East Los Angeles/Boyle Heights. The long
+location: The final addition to the Chronicles of Carnitas of East Los Angeles
+city: Carnit...
+categories:
+- Carnit...
 ---
 
 ![The final addition to the Chronicles of Carnitas of East Los Angeles - Carnit...](/images/posts/ig-2021-06-11-the-final-addition-to-the-chronicles-of-carnitas-of-east-los/17930036932577943.jpg)

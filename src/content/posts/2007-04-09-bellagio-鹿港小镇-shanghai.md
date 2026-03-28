@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/
 categories:
 - Gubei
+- Shanghai
 tags:
 - Dessert
 - Taiwanese
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20161106101600/http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/
 draft: false
+location: Bellagio 鹿港小镇
+city: Shanghai
+region: Shanghai
 ---
 
 [![04092007876](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/04092007876.jpg?resize=403%2C302 "04092007876")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/attachment/04092007876/)

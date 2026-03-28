@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/
 categories:
 - Bund
+- Shanghai
 tags:
 - Breakfast
 - Brunch
@@ -13,6 +14,9 @@ tags:
 description: When I think of a hotel’s Sunday brunch, I think of a lavish food spread with all kinds of goodies with Bloody Mary’s and Champagne’s flowing. It’s time to be with family and friends to relax and enjo
 archiveUrl: https://web.archive.org/web/20161105172336/http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/
 draft: false
+location: Sunday Brunch at the Stage – The Westin Bund Center
+city: Shanghai
+region: Shanghai
 ---
 
 [![westin-brunch-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-15.jpg?resize=403%2C302 "westin-brunch-shanghai-15")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-15/)

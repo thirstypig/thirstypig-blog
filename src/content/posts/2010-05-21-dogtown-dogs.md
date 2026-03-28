@@ -19,7 +19,10 @@ categories:
 - American
 - Food Truck
 - Hot Dogs
+- Yet Another Food Truck in Los Angeles
 description: Hot dogs are meant to be simple. They don’t need to be fancy and have all the crazy trimmings. That’s what sausage is for. Hot dog can have ketchup, mustard, and occasionally sauerkraut. But I guess o
 archiveUrl: https://web.archive.org/web/20110105230622/http://www.thethirstypig.com/2010/05/21/dogtown-dogs/
 draft: false
+location: Dogtown Dogs
+city: Yet Another Food Truck in Los Angeles
 ---

@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/
 categories:
 - Huangpu District
+- Shanghai
 tags:
 - Hotel
 - Shanghai
 description: Nighttime views of Shanghai aren’t hard to come by, with M1NT, Flair, Vue, and Bar Rouge. But there’s a new player in town, Char Terrace at the Hotel Indigo.
 archiveUrl: https://web.archive.org/web/20160910225844/http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/
 draft: false
+location: Char Terrace, Hotel Indigo
+city: Shanghai
+region: Shanghai
 ---
 
 [![char-terrace-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Char-Terrace-Shanghai-01.jpg?resize=423%2C316 "char-terrace-shanghai-01")](http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/char-terrace-shanghai-01/)

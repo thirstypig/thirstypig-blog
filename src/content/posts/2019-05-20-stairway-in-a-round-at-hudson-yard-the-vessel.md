@@ -21,6 +21,10 @@ tags:
 - springtimeinnyc
 - thirstypig
 description: Stairway in a round at Hudson Yard - The Vessel. They wouldn’t let me on the elevator so I had to hike up. They wouldn’t let me DOWN the elevator 🤬😢. . . .
+location: Stairway in a round at Hudson Yard
+city: The Vessel
+categories:
+- The Vessel
 ---
 
 ![Stairway in a round at Hudson Yard - The Vessel](/images/posts/ig-2019-05-20-stairway-in-a-round-at-hudson-yard-the-vessel/18037865347131531.jpg)

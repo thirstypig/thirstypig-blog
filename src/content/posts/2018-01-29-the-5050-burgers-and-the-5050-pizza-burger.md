@@ -18,6 +18,11 @@ tags:
 - thirstypig
 - suckyphotos
 description: The 50/50 burgers and the 50/50 pizza burger. Onion rings and Mac and cheese balls.
+location: The 50/50 burgers and the 50/50 pizza burger
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![The 50/50 burgers and the 50/50 pizza burger](/images/posts/ig-2018-01-29-the-5050-burgers-and-the-5050-pizza-burger/17847567217242291.jpg)

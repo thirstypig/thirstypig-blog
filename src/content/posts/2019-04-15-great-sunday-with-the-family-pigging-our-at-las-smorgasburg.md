@@ -27,6 +27,7 @@ tags:
 - eeeeeats
 - yummy
 description: Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from A
+location: Great Sunday with the family pigging our at LA’s Smorgasburg
 ---
 
 ![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17937880822302179.jpg)

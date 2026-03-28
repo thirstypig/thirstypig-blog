@@ -13,6 +13,7 @@ tags:
 - softserve
 - atx
 description: Soft serve ice cream Fluffer Nutter and Caramelized Banana Split
+location: Soft serve ice cream  Fluffer Nutter and Caramelized Banana Split
 ---
 
 ![Soft serve ice cream  Fluffer Nutter and Caramelized Banana Split](/images/posts/ig-2017-06-04-soft-serve-ice-cream-fluffer-nutter-and-caramelized-banana-s/17870628385117383.jpg)

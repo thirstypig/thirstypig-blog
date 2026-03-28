@@ -25,6 +25,7 @@ tags:
 - factorytour
 - thirstypig
 description: Went to the Louisville Slugger Museum. Amazing place of history and fascinating production of baseball bats. Saw Babe Ruth’s bat and a bunch of others. Unfortunately we missed our appointment, but luc
+location: Went to the Louisville Slugger Museum
 ---
 
 ![Went to the Louisville Slugger Museum](/images/posts/ig-2022-11-14-went-to-the-louisville-slugger-museum/17931650594452228.jpg)

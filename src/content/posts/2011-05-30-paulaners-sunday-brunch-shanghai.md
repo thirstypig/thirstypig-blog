@@ -13,9 +13,14 @@ categories:
 - Brunch
 - German
 - Price Range 2 $/¥/NT
+- Shanghai
 description: Paulaner, Xintiandi 太仓路181号, 新天地北里, 近马当路 House 19-20, North Block Xintiandi, Lane 181 Taicang Road, 200021 Shanghai CHNhttp://maps.google.com/maps/place?cid=15403504959748163525&q=xintiandi&hl=en&sll=
 archiveUrl: https://web.archive.org/web/20111104222815/http://www.thethirstypig.com/2011/05/30/paulaners-sunday-brunch-shanghai/
 draft: false
+location: Paulaner’s Sunday Brunch
+city: Shanghai
+region: Shanghai
+address: 181 Taicang Road
 ---
 
 Paulaner, Xintiandi

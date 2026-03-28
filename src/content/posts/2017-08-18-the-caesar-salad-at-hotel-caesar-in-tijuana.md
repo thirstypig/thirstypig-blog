@@ -24,6 +24,7 @@ tags:
 - timelapse
 - video
 description: The Caesar Salad at Hotel Caesar in Tijuana. Invented in 1927, this is where it all began. The Caesar Salad is my favorite salad.
+location: The Caesar Salad at Hotel Caesar in Tijuana
 ---
 
 ![The Caesar Salad at Hotel Caesar in Tijuana](/images/posts/ig-2017-08-18-the-caesar-salad-at-hotel-caesar-in-tijuana/17871412321136013.jpg)

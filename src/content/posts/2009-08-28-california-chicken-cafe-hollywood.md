@@ -25,6 +25,9 @@ tags:
 description: California Chicken Cafe is my favorite chicken place. I’ve been a loyal fan and have been going to the Melrose location for over 10 years. Situated near Highland and on Melrose, California Chicken Caf
 archiveUrl: https://web.archive.org/web/20110105153314/http://www.thethirstypig.com/2009/08/28/california-chicken-cafe-hollywood/
 draft: false
+location: California Chicken Cafe
+city: Hollywood
+region: Hollywood
 ---
 
 California Chicken Cafe is my favorite chicken place. I’ve been a loyal fan and have been going to the Melrose location for over 10 years. Situated near Highland and on Melrose, California Chicken Cafe is a local lunch favorite for the studios nearby.

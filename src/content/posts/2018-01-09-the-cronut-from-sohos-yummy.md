@@ -23,6 +23,7 @@ tags:
 - nyc
 - soho
 description: The cronut from SOHO’s Yummy. We also got a canale, which was the best my wife ever had.
+location: The cronut from SOHO’s    Yummy
 ---
 
 ![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17844243631232614.jpg)

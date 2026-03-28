@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/
 categories:
 - Sgv
+- San Gabriel Valley
 tags:
 - Arcadia
 - Chinese 2
@@ -15,6 +16,10 @@ tags:
 description: Overrated Couldn’t Do Sichuan’s Most Famous Dish, Water Boiled Fish, right Great Decor Scallops were terrible Spicy dry noodles were really good
 archiveUrl: https://web.archive.org/web/20160828111541/http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/
 draft: false
+location: Dongpo
+city: Sgv
+region: San Gabriel Valley
+address: 400 South Baldwin Ave
 ---
 
 [![IMG_0455](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0455.jpg?resize=151%2C164 "IMG_0455")](http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/img_0455/)

@@ -20,6 +20,7 @@ tags:
 - tatortots
 - tots
 description: Cole’s French Dip. I had to have Cole’s also. But in reality, I had Cole’s first then Phillipe’s. Everyone will ask - which is better? Let’s point out the differences - thicker slices of beef at Cole’
+location: Cole’s French Dip
 ---
 
 ![Cole’s French Dip](/images/posts/ig-2022-05-27-coles-french-dip/18012507118405797.jpg)

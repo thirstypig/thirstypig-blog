@@ -13,6 +13,10 @@ images:
 tags:
 - ramen
 description: 'A chilly windy day in Had some hot and hearty had the karaka - the spicy noodles, the shiromaru- the classic pork broth, and the akamaru tamago - rich fatty pork broth with egg. Yum. The thin noodles '
+location: A chilly windy day in   Had some hot and hearty   had the karaka
+city: the spicy ...
+categories:
+- the spicy ...
 ---
 
 ![A chilly windy day in   Had some hot and hearty   had the karaka - the spicy ...](/images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17925914527010309.jpg)

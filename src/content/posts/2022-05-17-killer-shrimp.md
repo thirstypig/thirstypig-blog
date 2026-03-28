@@ -14,6 +14,7 @@ tags:
 - killershrimp
 - shrimp
 description: Killer shrimp!!! . . . .
+location: Killer shrimp
 ---
 
 ![Killer shrimp](/images/posts/ig-2022-05-17-killer-shrimp/17970774415590100.jpg)

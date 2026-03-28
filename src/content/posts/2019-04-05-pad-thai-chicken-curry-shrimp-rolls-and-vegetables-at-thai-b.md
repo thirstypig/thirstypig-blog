@@ -21,6 +21,10 @@ tags:
 - padthai
 - shrimprolls
 description: Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ. Average Thai American restaurant. Noodles were too chewy and the chicken was tough. Not sure if there was suppose to be lemongrass, w
+location: Pad Thai, chicken curry, shrimp rolls
+city: and vegetables at Thai BBQ
+categories:
+- and vegetables at Thai BBQ
 ---
 
 ![Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ](/images/posts/ig-2019-04-05-pad-thai-chicken-curry-shrimp-rolls-and-vegetables-at-thai-b/17987009461223253.jpg)

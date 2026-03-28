@@ -20,6 +20,7 @@ tags:
 - licensing
 - japanese
 description: Why do I see Hello Kitty everywhere???? . . .
+location: Why do I see Hello Kitty everywhere????
 ---
 
 ![Why do I see Hello Kitty everywhere????](/images/posts/ig-2019-02-23-why-do-i-see-hello-kitty-everywhere/18021635788129058.jpg)

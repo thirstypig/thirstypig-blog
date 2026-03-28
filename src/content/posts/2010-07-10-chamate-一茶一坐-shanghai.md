@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/
 categories:
 - Los Angeles
+- Shanghai
 tags:
 - Taiwanese
 - Tea
 description: Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers a
 archiveUrl: https://web.archive.org/web/20161019153941/http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/
 draft: false
+location: Chamate 一茶一坐
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3120](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3120.jpg?resize=403%2C302 "img_3120")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3120/)

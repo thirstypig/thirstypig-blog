@@ -20,6 +20,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Enjoying a dodger win on a nice summer night! Great tee shirt on Japan Night 🇯🇵 was eyeing the Los Doyers tee shirt, too. . . . . .
+location: Enjoying a dodger win on a nice summer night
 ---
 
 ![Enjoying a dodger win on a nice summer night](/images/posts/ig-2018-07-14-enjoying-a-dodger-win-on-a-nice-summer-night/17888326069226754.jpg)

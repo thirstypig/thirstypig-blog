@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/21/hot-stuff-cafe-sgv-closed/
 categories:
 - Sgv
+- San Gabriel Valley
 tags:
 - Asian
 - Los Angeles
+- closed
 archiveUrl: https://web.archive.org/web/20160828112603/http://thirstypig.com/2009/09/21/hot-stuff-cafe-sgv-closed/
 draft: false
+location: Hot Stuff Cafe
+city: Sgv
+region: San Gabriel Valley
 ---
 
 [![DSCN0001 4](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0001-4.jpg?resize=423%2C317 "DSCN0001 4")](http://thirstypig.com/2009/09/21/hot-stuff-cafe-sgv-closed/dscn0001-4/)

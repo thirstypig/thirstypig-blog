@@ -16,11 +16,15 @@ categories:
 - Hole In the Wall
 - Hamburgers
 - San Gabriel Valley
+- Alhambra
 tags:
 - Los Angeles
 description: The Hat is one of the places I have frequented for awhile, now. This old fashioned hamburger stand sits on the corner of Garfield and Valley in Alhambra. The Hat just celebrated its 60th anniversary a
 archiveUrl: https://web.archive.org/web/20111103145543/http://www.thethirstypig.com/2009/08/17/the-tried-and-true-the-hat/
 draft: false
+location: The tried and true . . . The Hat
+city: Alhambra
+region: San Gabriel Valley
 ---
 
 The Hat is one of the places I have frequented for awhile, now. This old fashioned hamburger stand sits on the corner of Garfield and Valley in Alhambra. The Hat just celebrated its 60th anniversary a couple of years ago. Nothing’s changed much, at the original stand, over the years, except the prices. The simple outdoor seating in the back adjacent the parking lot, that might have for the 50′s style drive-in’s.

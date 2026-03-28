@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/
 categories:
 - Da-an
+- Taipei
 tags:
 - Hot Pot
 - Lamb
 description: Off the beaten path, so to speak, Mo Zai Yang sits on the outskirts of Taipei proper serving up Lamb – any way you like it.
 archiveUrl: https://web.archive.org/web/20161106045042/http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/
 draft: false
+location: Mo Zai Yang 莫宰羊
+city: Taipei
+region: Taipei
 ---
 
 [![img_1929](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1929.jpg?resize=403%2C302 "img_1929")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1929/)

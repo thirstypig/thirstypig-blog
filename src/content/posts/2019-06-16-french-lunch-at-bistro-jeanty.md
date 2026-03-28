@@ -20,6 +20,7 @@ tags:
 - tomatosoupð
 - yountville
 description: French lunch at Bistro Jeanty. The French onion soup, cold asparagus soup, and the tomato puff pastry soup, and the boeuf bourguignon. Also saw an awesome Ford Shelby Cobra. . . . .jeanty 🍅
+location: French lunch at Bistro Jeanty
 ---
 
 ![French lunch at Bistro Jeanty](/images/posts/ig-2019-06-16-french-lunch-at-bistro-jeanty/17861814127426462.jpg)

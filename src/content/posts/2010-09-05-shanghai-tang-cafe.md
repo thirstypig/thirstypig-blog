@@ -27,12 +27,17 @@ images:
 - /images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-34-88x88.jpg
 categories:
 - Luwan
+- Shanghai
 tags:
 - Dim Sum
 - Shanghainese
 description: When I first heard that there was a Shanghai Tang Cafe, I knew I should look into it. But then when I heard they had a Sunday Brunch, I was more intrigued. Yet, when I found out that the all-you-can-e
 archiveUrl: https://web.archive.org/web/20161019201451/http://thirstypig.com/2010/09/05/shanghai-tang-cafe/
 draft: false
+location: Shanghai Tang Cafe
+city: Shanghai
+region: Shanghai
+address: 333 Huang Pi Nan Road
 ---
 
 [![shanghai-tang-cafe-10](/images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-05-88x88.jpg "shanghai-tang-cafe-10")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-10/)

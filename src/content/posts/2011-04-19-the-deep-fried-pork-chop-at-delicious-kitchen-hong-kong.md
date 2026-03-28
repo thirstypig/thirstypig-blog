@@ -21,11 +21,16 @@ categories:
 - 2 pigs
 - Cantonese
 - Price Range $/¥/NT
+- Hong Kong
 tags:
 - Hong Kong
 description: I had heard about their fried pork chop through friends in Hong Kong. Yet, strangely, fried pork chops aren’t even the part of Cantonese cuisine. But when you travel to someplace, the locals will boas
 archiveUrl: https://web.archive.org/web/20110820003054/http://www.thethirstypig.com/2011/04/19/the-deep-fried-pork-chop-at-delicious-kitchen-hong-kong/
 draft: false
+location: The Deep Fried Pork Chop at Delicious Kitchen
+city: Hong Kong
+region: Hong Kong
+address: 11 Cleveland St
 ---
 
 I had heard about their fried pork chop through friends in Hong Kong. Yet, strangely, fried pork chops aren’t even the part of Cantonese cuisine. But when you travel to someplace, the locals will boast about the best non-local cuisine. For instance, my buddy Mr. B, raved about Sushi in LA, or when Mr. K, who insisted on this great Japanese restaurant in Seoul, and even Mr. F, who at times craves Cantonese in Shanghai. Perhaps it is because it is a treat for them to have something different when guests are in town.

@@ -21,12 +21,16 @@ categories:
 - 3 pigs
 - Price Range 2 $/¥/NT
 - Shanghainese
+- Shanghai
 tags:
 - Jingan District 上海静安区
 - Shanghai 上海
 description: If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your ju
 archiveUrl: https://web.archive.org/web/20110105170113/http://www.thethirstypig.com/2010/09/23/sweating-at-%E5%A4%8F%E5%91%B3%E9%A6%86-xia-restaurant-of-shanghai/
 draft: false
+location: Sweating at 夏味馆 Xia Restaurant of Shanghai
+city: Shanghai
+region: Shanghai
 ---
 
 If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your judgement on the dining experience. A cockroach could probably mean the death of a restaurant if just a couple of patrons see it scurrying about. Not that I saw anything crawling around, but that was almost the case with 夏味馆 Xia Restaurant.

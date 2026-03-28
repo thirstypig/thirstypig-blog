@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/19/cantina-agave-shanghai/
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Mexican
 - Shanghai
 description: I try to avoid certain ethnic cuisines while in Asia, Mexican being one of them. I have tried for years to try to accept Mexican foods in Taiwan, Hong Kong, and now Shanghai. Both in Taiwan and Hong K
 archiveUrl: https://web.archive.org/web/20160914223841/http://thirstypig.com/2010/12/19/cantina-agave-shanghai/
 draft: false
+location: Cantina Agave
+city: Shanghai
+region: Shanghai
 ---
 
 [![catina-agave-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-19.jpg?resize=399%2C532 "catina-agave-shanghai-19")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-19/)

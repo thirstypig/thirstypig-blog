@@ -23,6 +23,10 @@ tags:
 - jewishdeli
 - eeeeeats
 description: This was a life changing experience - the pastrami sandwich at Katz Deli. I’ve had pastrami sandwiches in LA at multiple places and nothing compares. I was shaking my head the whole time eating. I had
+location: This was a life changing experience
+city: the pastrami sandwich at Katz Deli
+categories:
+- the pastrami sandwich at Katz Deli
 ---
 
 ![This was a life changing experience - the pastrami sandwich at Katz Deli](/images/posts/ig-2018-05-25-this-was-a-life-changing-experience-the-pastrami-sandwich-at/17948920966062118.jpg)

@@ -22,11 +22,15 @@ categories:
 - $$
 - San Gabriel Valley
 - 2 pigs
+- Korea House
 tags:
 - LA's San Gabriel Valley
 description: I am not the biggest fan of AYCEall-you-can-eat places, including Korean BBQ, because of the impending repercussions. We all try to manage our intake, yet there are those that fail . . . like me. http
 archiveUrl: https://web.archive.org/web/20110105031733/http://www.thethirstypig.com/2010/02/10/ayce-korean-bbq-in-rowland-heights-korea-house/
 draft: false
+location: AYCE Korean BBQ in Rowland Heights
+city: Korea House
+region: San Gabriel Valley
 ---
 
 I am not the biggest fan of AYCE(all-you-can-eat) places, including Korean BBQ, because of the impending repercussions. We all try to manage our intake, yet there are those that fail . . . like me.

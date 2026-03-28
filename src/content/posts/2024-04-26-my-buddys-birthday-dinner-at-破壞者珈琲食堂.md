@@ -26,6 +26,11 @@ tags:
 - eats
 - eeeeeats
 description: My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses
+location: My buddy’s birthday dinner at 破壞者珈琲食堂
+city: Taipei
+region: Taipei
+categories:
+- Taipei
 ---
 
 ![My buddy’s birthday dinner at 破壞者珈琲食堂](/images/posts/ig-2024-04-26-my-buddys-birthday-dinner-at-破壞者珈琲食堂/17940023951714123.jpg)

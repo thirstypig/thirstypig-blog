@@ -16,6 +16,7 @@ tags:
 - rolls
 - springrolls
 description: Lunch at Golden Deli. Pho, spring rolls, and rolls. Yummy! . . .
+location: Lunch at Golden Deli
 ---
 
 ![Lunch at Golden Deli](/images/posts/ig-2019-11-10-lunch-at-golden-deli/17849140762724048.jpg)

@@ -14,6 +14,7 @@ tags:
 - dtla
 - thirstypig
 description: Too much ice cream. One of the most flavorful and tart strawberry ice cream!!
+location: Too much ice cream
 ---
 
 ![Too much ice cream](/images/posts/ig-2018-01-15-too-much-ice-cream/17901290287092331.jpg)

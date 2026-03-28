@@ -13,6 +13,8 @@ tags:
 description: Tian Tian Seafood restaurant, in Dalian, is your typical Chinese seafood restaurant. Since Dalian is by the ocean, specifically the Yellow Sea. The abundant seafood coupled with its relatively warm wa
 archiveUrl: https://web.archive.org/web/20160829010227/http://thirstypig.com/2010/09/10/tian-tian-seafood%e5%a4%a9%e5%a4%a9%e9%b1%bc%e6%b8%af-dalian/
 draft: false
+location: Tian Tian Seafood天天鱼港
+city: Dalian
 ---
 
 [![Tien Tien Seafood, Dalian 52](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/Tien-Tien-Seafood-Dalian-52.jpg?resize=245%2C184 "Tien Tien Seafood, Dalian 52")](http://thirstypig.com/2010/09/10/tian-tian-seafood%e5%a4%a9%e5%a4%a9%e9%b1%bc%e6%b8%af-dalian/tien-tien-seafood-dalian-52/)

@@ -26,6 +26,7 @@ tags:
 - japanesefood
 - southbay
 description: Yakitori at Shin Sen Gumi in Gardena. Haven’t been here in years! . . . .
+location: Yakitori at Shin Sen Gumi in Gardena
 ---
 
 ![Yakitori at Shin Sen Gumi in Gardena](/images/posts/ig-2018-11-19-yakitori-at-shin-sen-gumi-in-gardena/17986046902112201.jpg)

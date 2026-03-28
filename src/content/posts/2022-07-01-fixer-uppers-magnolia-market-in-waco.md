@@ -26,6 +26,7 @@ tags:
 - tea
 - sweettea
 description: Fixer Upper’s Magnolia Market in Waco. This is now Waco’s most famous thing to do and see. Other than Baylor university and that other thing with the FBI, a long time ago. Anyways . . . The famous HDT
+location: Fixer Upper’s Magnolia Market in Waco
 ---
 
 ![Fixer Upper’s Magnolia Market in Waco](/images/posts/ig-2022-07-01-fixer-uppers-magnolia-market-in-waco/17928765722240370.jpg)

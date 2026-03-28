@@ -24,6 +24,10 @@ tags:
 - softboiledegg
 - japanesefood
 description: Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After
+location: Japanese noodles
+city: mazesoba from Nagoya
+categories:
+- mazesoba from Nagoya
 ---
 
 ![Japanese noodles, mazesoba from Nagoya](/images/posts/ig-2022-03-20-japanese-noodles-mazesoba-from-nagoya/17856185774720842.jpg)

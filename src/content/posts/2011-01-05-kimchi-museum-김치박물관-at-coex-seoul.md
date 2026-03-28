@@ -8,11 +8,15 @@ categories:
 - 3 pigs
 - Korean
 - Price Range $/¥/NT
+- Seoul
 tags:
 - Seoul 서울
 description: 'This past holiday season, I was fortunate to have time to visit a good friend in Seoul. I spent Christmas and New Year’s in this great metropolis. On my short list of things to do, see, and eat – was '
 archiveUrl: https://web.archive.org/web/20110105165645/http://www.thethirstypig.com/2011/01/05/kimchi-museum-%ea%b9%80%ec%b9%98%eb%b0%95%eb%ac%bc%ea%b4%80-at-coex-seoul/
 draft: false
+location: Kimchi Museum 김치박물관 at COEX Seoul
+city: Seoul
+region: Seoul
 ---
 
 This past holiday season, I was fortunate to have time to visit a good friend in Seoul. I spent Christmas and New Year’s in this great metropolis. On my short list of things to do, see, and eat – was the Kimchi Museum.

@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/07/ikes-place-san-francisco/
 categories:
 - San Francisco
+- Bay Area
 tags:
 - San Francisco
 - Sandwich
 description: When we first got to Ike’s Place, at 11:30am, there was already a line outside the door – 10 deep. By the time we got our food, the line extended even longer. This hole-in-the-wall sandwich shop draws
 archiveUrl: https://web.archive.org/web/20160828115357/http://thirstypig.com/2009/11/07/ikes-place-san-francisco/
 draft: false
+location: Ike’s Place
+city: San Francisco
+region: Bay Area
+address: 2239 Market St San Francisco, CA 94114
 ---
 
 [![DSCN0016](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0016-3.jpg?resize=423%2C317 "DSCN0016")](http://thirstypig.com/2009/11/07/ikes-place-san-francisco/dscn0016-4/)

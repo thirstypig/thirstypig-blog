@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/
 categories:
 - Los Angeles
+- K-Town
+- Koreatown
 tags:
 - Bbq
 - Korean
@@ -13,6 +15,9 @@ tags:
 description: Excellent Korean BBQ – quality meats Long waits Parking is valet in Ktown with Street Parking is tough to find Don’t forget to order the Kimchi fried rice The cheese is a great accompaniment
 archiveUrl: https://web.archive.org/web/20160828010050/http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/
 draft: false
+location: Kang Ho Dong Baekjeong
+city: K-Town
+region: Koreatown
 ---
 
 [![IMG_3889](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3889.jpg?resize=209%2C279 "IMG_3889")](http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/img_3889/)

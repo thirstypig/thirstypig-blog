@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
 categories:
 - Da-an
+- Taipei
 tags:
 - Dessert
 - Tea
+- closed
 description: VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 archiveUrl: https://web.archive.org/web/20161105154755/http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
 draft: false
+location: VVG Bon Bon 好樣棒棒
+city: Taipei
+region: Taipei
 ---
 
 [![img_1961](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1961.jpg?resize=403%2C302 "img_1961")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1961/)

@@ -16,12 +16,16 @@ categories:
 - Noodles
 - Price Range $/¥/NT
 - Taiwanese
+- Shanghai
 tags:
 - Nanhui District 上海南汇区
 - Shanghai 上海
 description: I was going to say that I don’t usually do fast food joints, but on reflection – I have In-N-Out and Tommy’s, so doing Master Kong’s was not a stretch. This noodle chain, specializes in beef soup nood
 archiveUrl: https://web.archive.org/web/20110106030732/http://www.thethirstypig.com/2010/09/29/master-kong-chefs-table/
 draft: false
+location: Beef Noodle Soup at Master Kong Chef’s Table 康师傅私房牛肉面
+city: Shanghai
+region: Shanghai
 ---
 
 I was going to say that I don’t usually do fast food joints, but on reflection – I have In-N-Out and Tommy’s, so doing Master Kong’s was not a stretch. This noodle chain, specializes in beef soup noodles.

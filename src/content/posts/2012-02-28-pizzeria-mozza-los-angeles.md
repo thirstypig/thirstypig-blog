@@ -9,9 +9,12 @@ categories:
 - Pizza
 - Price Range 2 $/¥/NT
 - Salad
+- Los Angeles
 description: What is Mozza Mozza is a pizza restaurant with traditional Italian recipes the simple dish of pizza. Nancy Silverton of La Brea Bakery and Campanile, Mario Batali of Food TV fame and owns several rest
 archiveUrl: https://web.archive.org/web/20120302233117/http://www.thethirstypig.com:80/2012/02/28/pizzeria-mozza-los-angeles/
 draft: false
+location: Pizzeria Mozza
+city: Los Angeles
 ---
 
 **What is Mozza**

@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/
 categories:
 - Luwan
+- Shanghai
 tags:
 - Japanese
 description: With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Centr
 archiveUrl: https://web.archive.org/web/20161019093329/http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/
 draft: false
+location: Itoya 伊藤家
+city: Shanghai
+region: Shanghai
+address: 381 Middle Huaihai Road
 ---
 
 [![itoya-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-02.jpg?resize=380%2C507 "itoya-shanghai-02")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-02/)

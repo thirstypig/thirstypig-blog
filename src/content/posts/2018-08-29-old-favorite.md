@@ -20,6 +20,7 @@ tags:
 - paella
 - coconutshrimp
 description: Old favorite! Haven’t been here in over 20 years. Dinner with classmates at Killer Shrimp. I had the regular with French bread. We also ordered the coconut shrimp, paella, and the shrimp, crab, and lo
+location: Old favorite
 ---
 
 ![Old favorite](/images/posts/ig-2018-08-29-old-favorite/17844311413292913.jpg)

@@ -16,11 +16,15 @@ categories:
 - $$
 - San Gabriel Valley
 - 2 pigs
+- Rowland Heights
 tags:
 - LA's San Gabriel Valley
 description: This is the last in a series of Japanese restaurants. I started earlier this week with Yoshida Sushi, Shin Sen Gumi, Cafe Hiro, and now The Curry House.
 archiveUrl: https://web.archive.org/web/20110105211417/http://www.thethirstypig.com/2010/01/16/curry-house-rowland-heights/
 draft: false
+location: Curry House
+city: Rowland Heights
+region: San Gabriel Valley
 ---
 
 This is the last in a series of Japanese restaurants. I started earlier this week with Yoshida Sushi, Shin Sen Gumi, Cafe Hiro, and now The Curry House.

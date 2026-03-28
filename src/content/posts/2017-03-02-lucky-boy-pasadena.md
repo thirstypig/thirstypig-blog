@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/02/lucky-boy-pasadena/
 categories:
 - Los Angeles
+- Pasadena
 tags:
 - Breakfast
 - Mexican
@@ -13,6 +14,9 @@ tags:
 description: Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friend
 archiveUrl: https://web.archive.org/web/20170303072357/http://thirstypig.com/2017/03/02/lucky-boy-pasadena/
 draft: false
+location: Lucky Boy
+city: Pasadena
+region: Pasadena
 ---
 
 [![e4c2d13f-425f-46e4-94c7-f4767508637e](http://i1.wp.com/thirstypig.com/wp-content/uploads/2017/03/E4C2D13F-425F-46E4-94C7-F4767508637E.jpg?resize=222%2C166 "e4c2d13f-425f-46e4-94c7-f4767508637e")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/e4c2d13f-425f-46e4-94c7-f4767508637e/)

@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/12/honey-bird-la-canada/
 categories:
 - Pasadena
+- La Canada
 tags:
 - American
 - Chicken
 description: 'Southern/Soul cuisine featuring yummy fried chicken I love the sides, the cornbread, collard greens, cole slaw, and red potato salad. I could have a meal with just the sides Parking on the street and '
 archiveUrl: https://web.archive.org/web/20170113012752/http://thirstypig.com/2017/01/12/honey-bird-la-canada/
 draft: false
+location: Honey Bird
+city: La Canada
+region: Pasadena
+address: 714 Foothill Blvd
 ---
 
 [![IMG_0794](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0794-1.jpg?resize=385%2C289 "IMG_0794")](http://thirstypig.com/2017/01/12/honey-bird-la-canada/img_0794-2/)

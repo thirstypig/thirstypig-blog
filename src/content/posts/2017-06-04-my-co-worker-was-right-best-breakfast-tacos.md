@@ -24,6 +24,10 @@ tags:
 - texmex
 - yum
 description: my co-worker was right - best breakfast tacos!!! The real deal Holyfield taco With a side of brisket and pork ribs! !
+location: my co-worker was right
+city: best breakfast tacos
+categories:
+- best breakfast tacos
 ---
 
 ![my co-worker was right - best breakfast tacos](/images/posts/ig-2017-06-04-my-co-worker-was-right-best-breakfast-tacos/17868425449090460.jpg)

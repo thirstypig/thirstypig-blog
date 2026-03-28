@@ -18,6 +18,7 @@ tags:
 - eat
 - eeeeeats
 description: The Smosh Town burger. Crispy and tasty burgers! Tarot tots with chili and cheese. Yum . . . . .
+location: The Smosh Town burger
 ---
 
 ![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17866486280161884.jpg)

@@ -6,12 +6,19 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/
 categories:
 - DTLA
+- Dtla
+- Downtown LA
 tags:
 - Bar
 - English
+- closed
 description: 'Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an '
 archiveUrl: https://web.archive.org/web/20161105111317/http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/
 draft: false
+location: Royal Claytons
+city: Dtla
+region: Downtown LA
+address: 1855 Industrial St Los Angeles, CA 90021
 ---
 
 [![dscn0007](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0007.jpg?resize=222%2C166 "dscn0007")](http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/dscn0007-5/)

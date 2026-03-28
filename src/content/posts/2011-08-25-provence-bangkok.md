@@ -11,6 +11,10 @@ tags:
 description: Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time t
 archiveUrl: https://web.archive.org/web/20161105143718/http://thirstypig.com/2011/08/25/provence-bangkok/
 draft: false
+location: Provence
+city: Bangkok
+region: Bangkok
+address: 153 Rajdamri Rd
 ---
 
 [![provence-bangkok-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-02.jpg?resize=403%2C302 "provence-bangkok-02")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-02/)

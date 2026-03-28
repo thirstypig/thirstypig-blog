@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/05/langers-dtla/
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Los Angeles
 - Sandwich
 description: I was at Langer’s recently and I wanted to rant and rave about their pastrami – again
 archiveUrl: https://web.archive.org/web/20160828021813/http://thirstypig.com/2009/09/05/langers-dtla/
 draft: false
+location: Langer’s
+city: Dtla
+region: Downtown LA
+address: 704 S Alvarado St Los Angeles, CA 90057
 ---
 
 [![Corned Beef Sauerkraut and Swiss Cheese Grilled on Rye](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/Corned-Beef-Sauerkraut-and-Swiss-Cheese-Grilled-on-Rye.jpg?resize=246%2C138 "Corned Beef Sauerkraut and Swiss Cheese Grilled on Rye")](http://thirstypig.com/2009/09/05/langers-dtla/corned-beef-sauerkraut-and-swiss-cheese-grilled-on-rye/)

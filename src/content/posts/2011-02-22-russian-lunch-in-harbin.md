@@ -14,11 +14,14 @@ categories:
 - 2 pigs
 - Price Range $/¥/NT
 - Seafood
+- Harbin
 tags:
 - Harbin
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103140519/http://www.thethirstypig.com/2011/02/22/russian-lunch-in-harbin/
 draft: false
+location: Russian Lunch on Central Street
+city: Harbin
 ---
 
 The best meal I had in Harbin was at this Russian Restaurant near our hotel. Though I forgot the name of the restaurant on central street 中央大街, I have pictures to bring back fond memories.

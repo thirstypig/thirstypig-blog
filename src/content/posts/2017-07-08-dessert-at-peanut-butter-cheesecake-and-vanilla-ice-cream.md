@@ -17,6 +17,7 @@ tags:
 - frenchquarter
 - thirstypig
 description: Dessert at peanut butter cheesecake and vanilla ice cream
+location: Dessert at  peanut butter cheesecake and vanilla ice cream
 ---
 
 ![Dessert at  peanut butter cheesecake and vanilla ice cream](/images/posts/ig-2017-07-08-dessert-at-peanut-butter-cheesecake-and-vanilla-ice-cream/17874601372123242.jpg)

@@ -16,6 +16,7 @@ tags:
 - southbay
 - fridaynight
 description: Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière. Good times good company good food. . . . .
+location: Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière
 ---
 
 ![Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière](/images/posts/ig-2022-06-11-fish-stew-cioppino-and-pablo-crusted-filet-of-sole-meunière/17874197345686086.jpg)

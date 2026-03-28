@@ -27,11 +27,15 @@ categories:
 - American
 - Los Angeles
 - Los Feliz
+- Central LA
 tags:
 - $$
 description: But in sell honesty, Allston Yacht Club is for the yuppies of the westside, or downtown LA, or even a few miles east to silver lake.
 archiveUrl: https://web.archive.org/web/20100528125911/http://www.thethirstypig.com:80/2010/05/24/allston-yacht-club/
 draft: false
+location: Allston Yacht Club of Echo Park
+city: Los Feliz
+region: Central LA
 ---
 
 SHARETHIS.addEntry({ title: "Allston Yacht Club of Echo Park", url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });

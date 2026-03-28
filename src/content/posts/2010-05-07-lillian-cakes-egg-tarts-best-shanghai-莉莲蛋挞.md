@@ -8,6 +8,7 @@ categories:
 - Dessert
 - Xuhui
 - 3 pigs
+- Shanghai
 tags:
 - Shanghai 上海
 - Cantonese
@@ -15,6 +16,9 @@ tags:
 description: Quite possibly the best egg tart in Shanghai. Indeed
 archiveUrl: https://web.archive.org/web/20161105184110/http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
 draft: false
+location: Lillian Cakes’ Egg Tarts
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_1859](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1859.jpg?resize=380%2C507 "img_1859")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1859/)

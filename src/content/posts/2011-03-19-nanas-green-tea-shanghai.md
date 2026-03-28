@@ -11,12 +11,16 @@ categories:
 - Xuhui
 - 2 pigs
 - Dessert
+- Shanghai
 tags:
 - Japanese
 - Shanghai
 description: Green Tea, with China origins, has been cultivated extensively by the Japanese. In fact, Japanese green tea is simply referred as Japanese tea. Green tea is used for desserts, cooking, and just tea. A
 archiveUrl: https://web.archive.org/web/20161019091749/http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/
 draft: false
+location: Nana’s Green Tea
+city: Shanghai
+region: Shanghai
 ---
 
 [![nanas-green-tea-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-04.jpg?resize=160%2C120 "nanas-green-tea-shanghai-04")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-04/)

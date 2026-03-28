@@ -25,6 +25,7 @@ tags:
 - racetrack
 - horseracing
 description: Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day w
+location: Might be the best corned beef sandwich I’ve ever had
 ---
 
 ![Might be the best corned beef sandwich I’ve ever had](/images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18036501766049141.jpg)

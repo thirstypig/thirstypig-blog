@@ -19,6 +19,11 @@ tags:
 - spammusubi
 - spam
 description: Fried Chicken from Top Restaurant in Pasadena. Also ordered the spam masubi and the loco moco plate. Top restaurant is an interesting restaurant that offers Indonesian Hawaiian cuisine. Their fried ch
+location: Fried Chicken from Top Restaurant in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Fried Chicken from Top Restaurant in Pasadena](/images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasadena/18027006542634931.jpg)

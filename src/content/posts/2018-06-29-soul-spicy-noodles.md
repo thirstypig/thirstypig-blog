@@ -15,6 +15,7 @@ tags:
 - spicy
 - spicynoodles
 description: SOul Spicy Noodles. 🌶 instant noodles from Taiwan 🇹🇼 tasty and good. . . . . .
+location: SOul Spicy Noodles
 ---
 
 ![SOul Spicy Noodles](/images/posts/ig-2018-06-29-soul-spicy-noodles/17857973035263832.jpg)

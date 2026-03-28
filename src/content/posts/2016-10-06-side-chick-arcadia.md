@@ -9,11 +9,17 @@ images:
 - /images/posts/side-chick-arcadia/IMG_0460.jpg
 categories:
 - SGV
+- Arcadia
+- San Gabriel Valley
 tags:
 - Chicken
 description: Johnny Lee’s Hainan Chicken now in a permanent location Solid Effort and is getting better. May eventually dethrone Savoy. I like the roast chicken better than the poached one Good location in Arcadia
 archiveUrl: https://web.archive.org/web/20161105155522/http://thirstypig.com/2016/10/06/side-chick-arcadia/
 draft: false
+location: Side Chick
+city: Arcadia
+region: San Gabriel Valley
+address: 400 Baldwin Ave Arcadia, CA 91007
 ---
 
 [![img_0455](/images/posts/side-chick-arcadia/IMG_0460.jpg "img_0455")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0455-3/)

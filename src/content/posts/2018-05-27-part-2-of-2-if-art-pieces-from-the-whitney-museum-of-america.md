@@ -26,6 +26,7 @@ tags:
 - art
 - thirstypig
 description: Part 2 of 2 if art pieces from the Whitney Museum of American Art. With Andy Warhol and others.
+location: Part 2 of 2 if art pieces from the Whitney Museum of American Art
 ---
 
 ![Part 2 of 2 if art pieces from the Whitney Museum of American Art](/images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17874738046236790.jpg)

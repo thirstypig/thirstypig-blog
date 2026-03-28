@@ -25,6 +25,11 @@ tags:
 - duarte
 - lunch
 description: The Arnold Palmer at The Old Spaghetti Factory. Remember the Hollywood location back in the day? Now the closet one is in Duarte. This Italian American is a friend’s favorite. I didn’t realize how pop
+location: The Arnold Palmer at The Old Spaghetti Factory
+city: Hollywood
+region: Hollywood
+categories:
+- Hollywood
 ---
 
 ![The Arnold Palmer at The Old Spaghetti Factory](/images/posts/ig-2022-03-23-the-arnold-palmer-at-the-old-spaghetti-factory/17955052444665552.jpg)

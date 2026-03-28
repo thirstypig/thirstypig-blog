@@ -11,9 +11,17 @@ categories:
 - Japanese
 - San Fernando Valley
 - Hole In the Wall
+- Daichan
 description: Daichan has one of the few things in this world I would eat everyday. Their poke bowls are hearty, yet healthy. With the combination of the salad components with the fish and rice make this meal compl
 archiveUrl: https://web.archive.org/web/20111103144055/http://www.thethirstypig.com/2009/01/04/poke-bowls-forever-daichan/
 draft: false
+location: Poke Bowls Forever
+city: Daichan
+address: '11288 Ventura Blvd
+
+  Ste F
+
+  St'
 ---
 
 Daichan has one of the few things in this world I would eat everyday. Their poke bowls are hearty, yet healthy. With the combination of the salad components with the fish and rice make this meal complete. I’ve been going to Daichan for years, yet only a couple of times a year. Not exactly close to where I live, but Daichan is well worth the trek.

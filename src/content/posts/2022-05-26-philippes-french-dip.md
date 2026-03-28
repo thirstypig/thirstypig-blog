@@ -22,6 +22,7 @@ tags:
 - horseradish
 - dtla
 description: Philippe’s French Dip. Beef double dip, cold slaw, and lemon meringue pie. The spicy horse radish mustard is a must have with your sandwich. Makes all the difference. Today was a good day. . . . .
+location: Philippe’s French Dip
 ---
 
 ![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg)

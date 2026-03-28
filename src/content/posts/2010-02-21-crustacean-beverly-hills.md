@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/21/crustacean-beverly-hills/
 categories:
 - Beverly HIlls
+- Beverly Hills
+- Westside
 tags:
 - Noodles
 - Seafood
@@ -13,6 +15,10 @@ tags:
 description: Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us reme
 archiveUrl: https://web.archive.org/web/20161104223911/http://thirstypig.com/2010/02/21/crustacean-beverly-hills/
 draft: false
+location: Crustacean
+city: Beverly Hills
+region: Westside
+address: 9646 S Santa Monica Blvd Beverly Hills, CA 90210
 ---
 
 [![img_0485](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0485.jpg?resize=403%2C302 "img_0485")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0485/)

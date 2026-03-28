@@ -13,6 +13,10 @@ tags:
 - pork
 - thirstypig
 description: Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market
+location: Gas Station Snacks
+city: Cracklin
+categories:
+- Cracklin
 ---
 
 ![Gas Station Snacks - Cracklin](/images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17878323493076163.jpg)

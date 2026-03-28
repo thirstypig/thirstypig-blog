@@ -8,9 +8,13 @@ categories:
 - 2 pigs
 - Bakery
 - Price Range $/¥/NT
+- Taipei
 description: The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incomi
 archiveUrl: https://web.archive.org/web/20120116073938/http://www.thethirstypig.com:80/2011/08/11/xinyi-public-assembly-hall-taipei/
 draft: false
+location: Xinyi Public Assembly Hall
+city: Taipei
+region: Taipei
 ---
 
 The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incoming new immigrants soldiers from China. This historic site shows the life & times of the people who helped rebuild Taiwan after the Japanese occupation and two world wars. Additionally, there’s a cultural gift shop, Taiwanese food court, and museum galleries.

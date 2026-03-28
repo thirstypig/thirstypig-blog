@@ -10,9 +10,13 @@ categories:
 - Jazz
 - Lounge
 - Price Range 3 $/¥/NT
+- Shanghai
 description: Where did the Thirsty Pig crawl to? The Long Bar at the Waldorf Astoria, on the Bund, is a lounge that features live Jazz Music. As you walk in, it looks as if you stepped back into the grandeur of 19
 archiveUrl: https://web.archive.org/web/20120203100548/http://www.thethirstypig.com:80/2012/01/05/long-bar-at-the-waldorf-astoria-hotel-shanghai/
 draft: false
+location: Long Bar at the Waldorf Astoria Hotel
+city: Shanghai
+region: Shanghai
 ---
 
 **Where did the Thirsty Pig crawl to?**

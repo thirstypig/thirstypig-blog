@@ -14,6 +14,10 @@ tags:
 - beverlyhills
 - lawrys
 description: Diamond Jim Cut at Lawry’s The Prime Rib the Yorkshire pudding, creamed corn, and cream spinach. Great meal. It’s had been a minute since I was last here. I’m hope next time isn’t as long.
+location: Diamond Jim Cut at Lawry’s The Prime Rib  the Yorkshire pudding
+city: creamed corn...
+categories:
+- creamed corn...
 ---
 
 ![Diamond Jim Cut at Lawry’s The Prime Rib  the Yorkshire pudding, creamed corn...](/images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg)

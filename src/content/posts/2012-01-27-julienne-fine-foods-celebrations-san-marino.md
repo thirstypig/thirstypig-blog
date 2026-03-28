@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/27/julienne-fine-foods-celebrations-san-marino/
 categories:
 - SGV
+- San Marino
+- San Gabriel Valley
 tags:
 - Breakfast
 - Brunch
@@ -13,6 +15,10 @@ tags:
 description: Julienne Fine Foods And Celebrationshttp://juliennetogo.com 2649 Mission St San Marino, CA 91108 626 441-2299
 archiveUrl: https://web.archive.org/web/20161105130238/http://thirstypig.com/2012/01/27/julienne-fine-foods-celebrations-san-marino/
 draft: false
+location: Julienne Fine Foods And Celebrations
+city: San Marino
+region: San Gabriel Valley
+address: 2649 Mission St San Marino, CA 91108
 ---
 
 [![img_1554](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1554.jpg?resize=234%2C175 "img_1554")](http://thirstypig.com/2012/01/27/julienne-fine-foods-celebrations-san-marino/img_1554/)

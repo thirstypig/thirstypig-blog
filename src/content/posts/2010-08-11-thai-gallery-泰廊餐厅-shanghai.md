@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/
 categories:
 - Jingan
+- Shanghai
 tags:
 - Dessert
 - Spicy
@@ -13,6 +14,10 @@ tags:
 description: Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gal
 archiveUrl: https://web.archive.org/web/20161019120625/http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/
 draft: false
+location: Thai Gallery 泰廊餐厅
+city: Shanghai
+region: Shanghai
+address: 1 Da Tian Road
 ---
 
 [![thai-gallery-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-19.jpg?resize=158%2C211 "thai-gallery-shanghai-19")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-19/)

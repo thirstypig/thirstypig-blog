@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/17/kechara-tea-house-shanghai/
 categories:
 - Hongqiao
+- Shanghai
 tags:
 - Vegetarian
 description: Kechara Tea House G113, Block 28, 570 Huaihai Xi Lu, near Hongqiao Lu 淮海西路570号28号楼G113, 近虹桥路
 archiveUrl: https://web.archive.org/web/20161105081059/http://thirstypig.com/2012/04/17/kechara-tea-house-shanghai/
 draft: false
+location: Kechara Tea House
+city: Shanghai
+region: Shanghai
 ---
 
 [![kechara-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/kechara.shanghai.06.jpg?resize=403%2C268 "kechara-shanghai-06")](http://thirstypig.com/2012/04/17/kechara-tea-house-shanghai/kechara-shanghai-06/)

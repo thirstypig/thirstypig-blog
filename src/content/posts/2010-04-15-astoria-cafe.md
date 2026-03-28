@@ -19,6 +19,9 @@ tags:
 description: It was so many years back when I noticed this famous cafe ‘Astoria Cafe 明星咖啡館http://www.astoria.com.tw/‘ in 隱地http://zh.wikipedia.org/wiki/%E9%9A%B1%E5%9C%B0‘s books. He was one of my favourite Chines
 archiveUrl: https://web.archive.org/web/20110105142951/http://www.thethirstypig.com/2010/04/15/astoria-cafe/
 draft: false
+location: Astoria Cafe
+city: Taipei
+region: Taipei
 ---
 
 It was so many years back when I noticed this famous cafe ‘[Astoria Cafe (明星咖啡館)](http://www.astoria.com.tw/)‘ in [隱地](http://zh.wikipedia.org/wiki/%E9%9A%B1%E5%9C%B0)‘s books. He was one of my favourite Chinese writers when I was a NZ high school student. He often mentioned that Astoria Cafe was a cafe where most literary authors loved to spend the whole day in there while only ordered **one** cup of coffee! The Astoria Cafe was closed in 1989 and what he missed that good old time so much.

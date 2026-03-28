@@ -24,6 +24,7 @@ tags:
 - chorizo
 - lambsausage
 description: Saturday Brunch at Manuela DTLA. Airy little restaurant. We had the pork collar & eggs, lamb sausage, chorizo burger, biscuits, and green beans. Liked the place but a bit pricey. . . . .
+location: Saturday Brunch at Manuela DTLA
 ---
 
 ![Saturday Brunch at Manuela DTLA](/images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17945467303148472.jpg)

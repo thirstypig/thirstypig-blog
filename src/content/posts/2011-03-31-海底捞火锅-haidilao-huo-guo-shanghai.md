@@ -11,11 +11,15 @@ categories:
 - 2 pigs
 - Hot Pot
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimen
 archiveUrl: https://web.archive.org/web/20110404023751/http://www.thethirstypig.com:80/2011/03/31/%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%81%AB%E9%94%85-haidilao-huo-guo-shanghai/
 draft: false
+location: 海底捞火锅 Haidilao Hot Pot
+city: Shanghai
+region: Shanghai
 ---
 
 Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimentary services. With dozens of locations throughout China, Haidilao is one of the well-known hot pot chains.

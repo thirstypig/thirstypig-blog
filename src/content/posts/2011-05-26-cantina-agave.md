@@ -13,11 +13,15 @@ categories:
 - Burrito
 - Mexican
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: Cantina Agave 静安区富民路291号悟锦世纪大楼1楼01A-2室近长乐路 291号 Fumin Road, Xuhui, Shanghai, China 021-61701310 www.cantinaagave.comhttp://www.cantinaagave.com
 archiveUrl: https://web.archive.org/web/20111103155240/http://www.thethirstypig.com/2011/05/26/cantina-agave/
 draft: false
+location: Cantina Agave
+city: Shanghai
+region: Shanghai
 ---
 
 ***Cantina Agave***

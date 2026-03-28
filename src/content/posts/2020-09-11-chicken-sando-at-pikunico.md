@@ -19,6 +19,7 @@ tags:
 - eeeeeats
 - eats
 description: 'Chicken sando at pikunico. Yummy. One of the best if not the best chicken sandwich I have ever had. Just enough spiciness and flavor. Good crunchy texture for mouth feel. The side salad was good too. '
+location: Chicken sando at pikunico
 ---
 
 ![Chicken sando at pikunico](/images/posts/ig-2020-09-11-chicken-sando-at-pikunico/18083662414201272.jpg)

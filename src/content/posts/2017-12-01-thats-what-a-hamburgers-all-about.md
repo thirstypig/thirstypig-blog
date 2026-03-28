@@ -17,6 +17,7 @@ tags:
 - doubledouble
 - fries
 description: “That’s what a hamburger’s all about!”
+location: “That’s what a hamburger’s all about
 ---
 
 ![“That’s what a hamburger’s all about](/images/posts/ig-2017-12-01-thats-what-a-hamburgers-all-about/17893658827085613.jpg)

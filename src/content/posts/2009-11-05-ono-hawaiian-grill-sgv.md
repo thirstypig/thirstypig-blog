@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/
 categories:
 - Sgv
+- San Gabriel Valley
 tags:
 - Hawaiian
 - Los Angeles
 description: Hawaiian Fast Food Chain Some argue that it is better than L&L Has my favorites – Spam Musabi and Kalua pork Doesn’t have all of my favorites – like Lomi lomi and lau lau Just fast food, SGV doesn’t r
 archiveUrl: https://web.archive.org/web/20160828115351/http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/
 draft: false
+location: Ono Hawaiian Grill
+city: Sgv
+region: San Gabriel Valley
+address: 3638 Rosemead Blvd Rosemead, CA 91770
 ---
 
 [![IMG_1013](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1013.jpg?resize=228%2C303 "IMG_1013")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1013/)

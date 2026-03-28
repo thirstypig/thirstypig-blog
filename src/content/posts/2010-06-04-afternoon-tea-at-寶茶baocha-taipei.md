@@ -26,12 +26,16 @@ images:
 categories:
 - 3 pigs
 - Tea
+- Taipei
 tags:
 - Eastern District 台北東區
 - Taipei 台北
 description: 'Baocha is a tea house with all the traditional details you’d expect. A serene setting just meters away from the busiest street in Taipei. This oasis features speciality Chinese teas as well as unique '
 archiveUrl: https://web.archive.org/web/20110105134219/http://www.thethirstypig.com/2010/06/04/afternoon-tea-at-%e5%af%b6%e8%8c%b6baocha-taipei/
 draft: false
+location: Afternoon Tea at 寶茶Baocha
+city: Taipei
+region: Taipei
 ---
 
 Baocha is a tea house with all the traditional details you’d expect. A serene setting just meters away from the busiest street in Taipei. This oasis features speciality Chinese teas as well as unique ornamental pieces.

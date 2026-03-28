@@ -22,6 +22,10 @@ tags:
 - duck
 - eeeeeats
 description: Bo Kho - beef stew with bread and Pho with rare steak. Also had the spring rolls and the steam buns with pork belly and duck. The beef stew Bo Kho is my favorite Vietnamese dish. I’m glad we found it.
+location: Bo Kho
+city: beef stew with bread and Pho with rare steak
+categories:
+- beef stew with bread and Pho with rare steak
 ---
 
 ![Bo Kho - beef stew with bread and Pho with rare steak](/images/posts/ig-2021-05-29-bo-kho-beef-stew-with-bread-and-pho-with-rare-steak/18115290172230719.jpg)

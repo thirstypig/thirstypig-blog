@@ -11,9 +11,15 @@ images:
 - /images/posts/dai-ho-restaurant-temple-city/IMG_7555.JPG
 categories:
 - SGV
+- Temple City
+- San Gabriel Valley
 description: 'This place has been around for almost 10 years. Dai Ho’s owner, in its early days, was notorious for being mean to the customers. Everyone in the community knew he wasn’t the most cordial, yet people '
 archiveUrl: https://web.archive.org/web/20161105131924/http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/
 draft: false
+location: Dai Ho Restaurant
+city: Temple City
+region: San Gabriel Valley
+address: 9148 E Las Tunas Dr Temple City, CA 91780
 ---
 
 [![o](/images/posts/dai-ho-restaurant-temple-city/IMG_7553.JPG "o")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-5/)

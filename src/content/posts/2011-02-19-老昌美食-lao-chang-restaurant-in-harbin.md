@@ -11,11 +11,15 @@ categories:
 - 2 pigs
 - Chinese
 - Price Range $/¥/NT
+- Shanghai
 tags:
 - Harbin
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103151801/http://www.thethirstypig.com/2011/02/19/%e8%80%81%e6%98%8c%e7%be%8e%e9%a3%9f-lao-chang-restaurant-in-harbin/
 draft: false
+location: 老昌美食 Lao Chang Restaurant in Harbin
+city: Shanghai
+region: Shanghai
 ---
 
 Lao Chang is a restaurant chain based in northern China. They feature a pancake-like food that you stuff with vegetables and meat, which is tasty as hell. After a day of sightseeing, Lao Chang was suggested by our local Harbin driver.

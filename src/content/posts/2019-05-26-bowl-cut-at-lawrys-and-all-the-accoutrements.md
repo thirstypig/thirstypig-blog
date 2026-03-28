@@ -26,6 +26,7 @@ tags:
 - creamedspinach
 - yorkshirepudding
 description: Bowl Cut at Lawry’s and all the accoutrements. . . .
+location: Bowl Cut at Lawry’s and all the accoutrements
 ---
 
 ![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18039157528134134.jpg)

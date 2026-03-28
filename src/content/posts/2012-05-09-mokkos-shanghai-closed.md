@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/09/mokkos-shanghai-closed/
 categories:
 - Bund
+- Shanghai
 tags:
 - Bar
 - Japanese
+- closed
 description: Mokkos 1/F, 68 Jinling Dong Lu, near Jiangxi Lu 金陵东路68号1楼, 近江西路 3331 6559
 archiveUrl: https://web.archive.org/web/20161106062733/http://thirstypig.com/2012/05/09/mokkos-shanghai-closed/
 draft: false
+location: Mokkos
+city: Shanghai
+region: Shanghai
 ---
 
 [![mokkos-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mokkos.shanghai.13.jpg?resize=318%2C211 "mokkos-shanghai-13")](http://thirstypig.com/2012/05/09/mokkos-shanghai-closed/mokkos-shanghai-13/)

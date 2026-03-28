@@ -21,6 +21,9 @@ categories:
 description: 'Opened by Shandongense, Hanyang features traditional Korean BBQ cuisine. With the standard Korean BBQ grilling tables, gas powered, raw meats are cooked by the patrons. This interactive restaurant is '
 archiveUrl: https://web.archive.org/web/20100721034035/http://www.thethirstypig.com:80/2010/07/12/hanyang-korean-cuisine-taipei/
 draft: false
+location: Hanyang Korean Cuisine
+city: Taipei
+region: Taipei
 ---
 
 SHARETHIS.addEntry({ title: "Hanyang Korean Cuisine, Taipei 韓國料理漢陽館", url: "http://www.thethirstypig.com/2010/07/12/hanyang-korean-cuisine-taipei/" });

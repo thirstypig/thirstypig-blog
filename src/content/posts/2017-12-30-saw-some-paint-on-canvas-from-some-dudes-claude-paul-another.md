@@ -28,6 +28,10 @@ tags:
 - rousseau
 - jacksonpollock
 description: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri, and another Henri, Pablo, Salvador, Piet, Georges, Jackson and Vincent. Never go on the busiest week of the year on Free F
+location: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri
+city: '...'
+categories:
+- '...'
 ---
 
 ![Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri,...](/images/posts/ig-2017-12-30-saw-some-paint-on-canvas-from-some-dudes-claude-paul-another/17891371879130093.jpg)

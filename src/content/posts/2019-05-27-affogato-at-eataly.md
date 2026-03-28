@@ -21,6 +21,7 @@ tags:
 - gelato
 - lavazza
 description: Affogato at Eataly. A new favorite drink (or dessert). What is it? It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a
+location: Affogato at Eataly
 ---
 
 ![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/18070324510027426.jpg)

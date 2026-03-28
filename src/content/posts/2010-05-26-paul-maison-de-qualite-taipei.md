@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Bakery
 - French
 description: Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quit
 archiveUrl: https://web.archive.org/web/20161105151258/http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
 draft: false
+location: Paul, Maison De Qualite
+city: Taipei
+region: Taipei
 ---
 
 [![img_2262](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2262.jpg?resize=403%2C302 "img_2262")](http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/img_2262/)

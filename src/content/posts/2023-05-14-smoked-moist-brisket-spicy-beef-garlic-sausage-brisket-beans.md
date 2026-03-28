@@ -22,6 +22,10 @@ tags:
 - eeeeeats
 - thistypig
 description: Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw. Everything was spot on. The burnt ends were phenomenal. Only wish it had a little more char. . .
+location: Smoked moist Brisket, spicy beef garlic sausage, brisket beans
+city: Korean pork b...
+categories:
+- Korean pork b...
 ---
 
 ![Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork b...](/images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/17994928285770701.jpg)

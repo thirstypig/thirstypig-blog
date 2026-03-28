@@ -14,11 +14,15 @@ categories:
 - Cantonese
 - Dessert
 - Price Range $/¥/NT
+- Hong Kong
 tags:
 - Hong Kong
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110622025325/http://www.thethirstypig.com:80/2011/03/08/kam-fung-cafe-wanchai-hong-kong/
 draft: false
+location: Kam Fung Cafe, Wanchai
+city: Hong Kong
+region: Hong Kong
 ---
 
 One of the best desserts in the world is the simple cantonese egg tart 蛋撻 or 蛋挞. There are a few accounts on the origins of the mini egg tarts, found today in Chinese Bakeries & Dim Sum Restaurants. I tend to believe the Portuguese story with the tart deriving from the pastel de nata.

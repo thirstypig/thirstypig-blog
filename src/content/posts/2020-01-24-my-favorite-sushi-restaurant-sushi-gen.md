@@ -23,6 +23,7 @@ tags:
 - eeeeeats
 - eat
 description: My favorite Sushi Restaurant- Sushi Gen. Kaz is the best. Used to drink with him when they allowed it. Had many good times before and had a great time last night. Happy Anniversary! Had Uni, Hirame, T
+location: My favorite Sushi Restaurant- Sushi Gen
 ---
 
 ![My favorite Sushi Restaurant- Sushi Gen](/images/posts/ig-2020-01-24-my-favorite-sushi-restaurant-sushi-gen/17843854960902512.jpg)

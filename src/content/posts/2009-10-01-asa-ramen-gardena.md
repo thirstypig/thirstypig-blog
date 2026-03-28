@@ -18,12 +18,18 @@ images:
 - /images/posts/asa-ramen-gardena/IMG_0954.JPG
 categories:
 - Southbay
+- Gardena
+- South Bay
 tags:
 - Japanese
 - Ramen
 description: Yelp Listinghttps://www.yelp.com/biz/asa-ramen-gardena
 archiveUrl: https://web.archive.org/web/20161104194557/http://thirstypig.com/2009/10/01/asa-ramen-gardena/
 draft: false
+location: Asa Ramen
+city: Gardena
+region: South Bay
+address: 18202 S Western Ave Gardena, CA 90248
 ---
 
 [![dscn0027-3](/images/posts/asa-ramen-gardena/IMG_0933.JPG "dscn0027-3")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/dscn0027-3/)

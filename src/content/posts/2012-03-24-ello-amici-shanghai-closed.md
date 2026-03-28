@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Pizza
+- closed
 description: Ello Amici 102 Xiangyang Nan Lu, near Nanchang Lu 襄阳路102号， 近南昌路
 archiveUrl: https://web.archive.org/web/20161106040235/http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/
 draft: false
+location: Ello Amici
+city: Shanghai
+region: Shanghai
 ---
 
 [![ello-amici-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/ello.amici_.shanghai.06.jpg?resize=403%2C268 "ello-amici-shanghai-06")](http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/ello-amici-shanghai-06/)

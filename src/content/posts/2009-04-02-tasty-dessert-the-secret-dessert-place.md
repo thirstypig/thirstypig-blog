@@ -12,9 +12,12 @@ images:
 categories:
 - Chinese
 - Late Night
+- The Secret Dessert Place!!
 description: Mango Delight was its name. . .
 archiveUrl: https://web.archive.org/web/20110105163117/http://www.thethirstypig.com/2009/04/02/tasty-dessert-the-secret-dessert-place/
 draft: false
+location: Tasty Dessert
+city: The Secret Dessert Place!!
 ---
 
 Mango Delight was its name. . .

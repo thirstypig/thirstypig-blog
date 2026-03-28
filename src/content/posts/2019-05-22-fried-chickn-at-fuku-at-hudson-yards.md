@@ -25,6 +25,7 @@ tags:
 - friedchicken
 - notforeveryone
 description: Fried Chick’n at Fuku at Hudson Yards. We had fried chicken, chicken fingers, slaw, fries, and chickpea mac’n cheese. I liked the fried chicken and skin. But it isn’t for everyone. . . .
+location: Fried Chick’n at Fuku at Hudson Yards
 ---
 
 ![Fried Chick’n at Fuku at Hudson Yards](/images/posts/ig-2019-05-22-fried-chickn-at-fuku-at-hudson-yards/17876456308367196.jpg)

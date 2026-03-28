@@ -23,12 +23,16 @@ categories:
 - 2 pigs
 - Price Range 2 $/¥/NT
 - Wine
+- Shanghai
 tags:
 - Jingan District 上海静安区
 - Shanghai 上海
 description: Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the Americ
 archiveUrl: https://web.archive.org/web/20101219015454/http://www.thethirstypig.com:80/2010/08/07/pizza-wine-and-good-times-at-just-grapes-shanghai/
 draft: false
+location: Pizza, Wine, and Good Times at Just Grapes
+city: Shanghai
+region: Shanghai
 ---
 
 Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the American trend of grastropubs, wine bars, and tapas restaurants, Shanghai is embracing restaurants like Just Grapes.

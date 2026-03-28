@@ -22,9 +22,13 @@ categories:
 - 1 pig
 - San Gabriel Valley
 - $$
+- Arcadia
 tags:
 - LA's San Gabriel Valley
 description: Tokyo Wako has been the go-to place for my family for birthdays. We have been coming here for years. Tokyo Wako, which also has a location in Pasadena, is a Japanese Teppanyaki鉄板焼き restaurant.
 archiveUrl: https://web.archive.org/web/20110106015142/http://www.thethirstypig.com/2010/03/14/tokyo-wako-arcadia/
 draft: false
+location: Tokyo Wako
+city: Arcadia
+region: San Gabriel Valley
 ---

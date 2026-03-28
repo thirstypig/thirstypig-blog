@@ -23,6 +23,7 @@ tags:
 - worthit
 - thirstypig
 description: Weekend Chicken and Waffles at
+location: Weekend Chicken and Waffles at
 ---
 
 ![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17869764496138058.jpg)

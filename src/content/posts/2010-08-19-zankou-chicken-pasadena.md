@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/19/zankou-chicken-pasadena/
 categories:
 - Los Angeles
+- Pasadena
 tags:
 - Chicken
 description: 'Rarely does an foreign cuisine cross over from ethic peculiarity to mainstream popularity. Sushi or Teppan-yaki is considered an event in itself, Mexican can arguably fill late night urges, and other '
 archiveUrl: https://web.archive.org/web/20161019112833/http://thirstypig.com/2010/08/19/zankou-chicken-pasadena/
 draft: false
+location: Zankou Chicken
+city: Pasadena
+region: Pasadena
+address: 1415 E Colorado St Glendale, CA 91205
 ---
 
 [![zankou-chicken-glendale-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Zankou-Chicken-Glendale-11.jpg?resize=222%2C166 "zankou-chicken-glendale-11")](http://thirstypig.com/2010/08/19/zankou-chicken-pasadena/zankou-chicken-glendale-11/)

@@ -14,6 +14,10 @@ tags:
 description: Best Breakfast Burrito . . . Period The potatoes sliced and grilled which provides great texture Humongous amount of fries, onion rings, and zucchini on both the small and large order The chili for th
 archiveUrl: https://web.archive.org/web/20160828011909/http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/
 draft: false
+location: The Original Tops
+city: Pasadena
+region: Pasadena
+address: 3838 E Colorado Blvd Pasadena, CA 91107
 ---
 
 [![IMG_2225](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2225.jpg?resize=223%2C167 "IMG_2225")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/img_2225/)

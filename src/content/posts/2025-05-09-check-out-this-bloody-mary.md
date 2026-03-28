@@ -23,6 +23,7 @@ tags:
 - washingtonstate
 - pokebowl
 description: Check out this Bloody Mary. Looks delish - amirite???? But my friends thought the BM gross. It’s thick and spicy and a meal all unto itself. They don’t appreciate the nuances of this drink. Yummy! I t
+location: Check out this Bloody Mary
 ---
 
 ![Check out this Bloody Mary](/images/posts/ig-2025-05-09-check-out-this-bloody-mary/18222879235291909.jpg)

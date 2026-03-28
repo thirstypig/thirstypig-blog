@@ -12,7 +12,11 @@ categories:
 - Late Night
 - Lounge
 - Price Range 3 $/¥/NT
+- Shanghai
 description: What is Bar Rouge Bar Rouge is one of the best nightclubs in the world, not just in Shanghai. Been around for years, Bar Rouge is internationally renown for it fabulous views of the Shanghai nighttime
 archiveUrl: https://web.archive.org/web/20120928043232/http://www.thethirstypig.com:80/2012/09/11/bar-rouge-shanghai/
 draft: false
+location: Bar Rouge
+city: Shanghai
+region: Shanghai
 ---

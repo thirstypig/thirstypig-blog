@@ -13,11 +13,16 @@ categories:
 - American
 - Deli
 - Sandwich
+- Katz
 tags:
 - New York City
 description: This is the place where Meg Ryan had the famous scene in When Harry Met Sally. Among other things, this place has a pretty good Pastrami and Corned Beef Sandwich. It is also New York’s oldest deli. No
 archiveUrl: https://web.archive.org/web/20110105202931/http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/
 draft: false
+location: Best Pastrami in the World
+city: Katz
+region: New York
+address: 205 E Houston St
 ---
 
 This is the place where Meg Ryan had the famous scene in When Harry Met Sally. Among other things, this place has a pretty good Pastrami and Corned Beef Sandwich. It is also New York’s oldest deli. Not just good, but probably the best in the world.

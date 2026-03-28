@@ -15,11 +15,15 @@ categories:
 - San Gabriel Valley
 - Hole In the Wall
 - Breakfast
+- Pasadena
 tags:
 - LA's San Gabriel Valley
 description: 'A couple of months ago, I wrote about the Lucky Boy’s breakfast burrito. Linkhttp://blog.thethirstypig.com/2009/08/lucky-boy-drive-in-bacon-burrito-err.html Lucky Boy’s is probably the famous notable '
 archiveUrl: https://web.archive.org/web/20110106052934/http://www.thethirstypig.com/2009/09/14/my-favorite-breakfast-burrito-from-tops-pasadena/
 draft: false
+location: My Favorite Breakfast Burrito from Tops
+city: Pasadena
+region: Pasadena
 ---
 
 A couple of months ago, I wrote about the Lucky Boy’s breakfast burrito. [Link](http://blog.thethirstypig.com/2009/08/lucky-boy-drive-in-bacon-burrito-err.html) Lucky Boy’s is probably the famous notable and famous breakfast burrito in Pasadena. But on the far eastside of Pasadena is another local favorite from Tops. They make one that I call my favorite.

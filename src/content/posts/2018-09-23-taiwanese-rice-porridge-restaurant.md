@@ -23,6 +23,7 @@ tags:
 - egg
 - yummy
 description: Taiwanese Rice Porridge Restaurant. Been here for years. I first went here over 25 years ago. Lu’s Garden. Menu hasn’t changed at all. Open somewhat late. Fatty pork belly, spicy pork belly, fried egg
+location: Taiwanese Rice Porridge Restaurant
 ---
 
 ![Taiwanese Rice Porridge Restaurant](/images/posts/ig-2018-09-23-taiwanese-rice-porridge-restaurant/17984986780051080.jpg)

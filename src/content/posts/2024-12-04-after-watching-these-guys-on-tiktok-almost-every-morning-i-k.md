@@ -21,6 +21,7 @@ tags:
 - chorizoandegg
 - eats
 description: After watching these guys on TikTok almost every morning I knew I had to stop by a grab a burrito. This morning I took a screenshot of their TikTok feed and decided to ride a line scooter to snag one.
+location: After watching these guys on TikTok almost every morning I knew I had to stop...
 ---
 
 ![After watching these guys on TikTok almost every morning I knew I had to stop...](/images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18015272360415790.jpg)

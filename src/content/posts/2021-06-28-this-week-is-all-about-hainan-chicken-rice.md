@@ -20,6 +20,12 @@ tags:
 - chicken
 - rice
 description: This week is all about Hainan Chicken Rice. The chronicles starts with Savoy Kitchen in Alhambra. Arguably the most famous Hainan Chicken restaurant in the greater Los Angeles area. 海南雞飯 has origins i
+location: This week is all about Hainan Chicken Rice
+city: Alhambra
+region: San Gabriel Valley
+categories:
+- Alhambra
+- San Gabriel Valley
 ---
 
 ![This week is all about Hainan Chicken Rice](/images/posts/ig-2021-06-28-this-week-is-all-about-hainan-chicken-rice/18189336205099545.jpg)

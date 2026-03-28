@@ -16,6 +16,7 @@ tags:
 - burgers
 - eats
 description: Lunch at The Bike Shed in DTLA. Hanging with my brother and his family, especially with the nephews. One of my favorite venues in DTLA, arts district. . . . .
+location: Lunch at The Bike Shed in DTLA
 ---
 
 ![Lunch at The Bike Shed in DTLA](/images/posts/ig-2024-08-20-lunch-at-the-bike-shed-in-dtla/17884330629095914.jpg)

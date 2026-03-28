@@ -35,6 +35,10 @@ categories:
 description: When I first heard that there was a Shanghai Tang Cafe, I knew I should look into it. But then when I heard they had a Sunday Brunch, I was more intrigued. Yet, when I found out that the all-you-can-e
 archiveUrl: https://web.archive.org/web/20101118110229/http://www.thethirstypig.com:80/2010/11/16/shanghai-tang-cafe/
 draft: false
+location: Shanghai Tang Cafe
+city: Shanghai
+region: Shanghai
+address: 333 Huang Pi Nan Road
 ---
 
 When I first heard that there was a Shanghai Tang Cafe, I knew I should look into it. But then when I heard they had a Sunday Brunch, I was more intrigued. Yet, when I found out that the all-you-can-eat brunch included drinks – Beer . . . I needed to get there!

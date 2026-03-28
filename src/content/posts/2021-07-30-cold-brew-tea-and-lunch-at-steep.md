@@ -26,6 +26,7 @@ tags:
 - chicken
 - soupnoodles
 description: Cold brew tea and lunch at Steep. Had the braised pork on rice, the chicken rice, and pork soup noodles. I think the pork soup noodles were the best. I loved the flavorful broth. The chicken rice, sim
+location: Cold brew tea and lunch at Steep
 ---
 
 ![Cold brew tea and lunch at Steep](/images/posts/ig-2021-07-30-cold-brew-tea-and-lunch-at-steep/17887830779267293.jpg)

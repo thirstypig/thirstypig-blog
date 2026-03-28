@@ -24,6 +24,7 @@ tags:
 - tastemakersapp
 - bbq
 description: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山. One of the best meals I’ve had in in Asia. Outstanding beef - marbling, flavor with just salt, and tender buttery texture. Decor was cool. They even have a
+location: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山
 ---
 
 ![Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山](/images/posts/ig-2024-04-28-wagyu-beef-yakiniku-at-zonzen-yakiniku-燒肉中山/17944073714804886.jpg)

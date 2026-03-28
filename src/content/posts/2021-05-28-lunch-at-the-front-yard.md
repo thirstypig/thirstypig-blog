@@ -23,6 +23,7 @@ tags:
 - fries
 - fries
 description: Lunch at The Front Yard. Patty Melt, Royale with Cheese, and Brussels Sprouts. Good flavor from the sprouts. Burger, with ground short rib, was tasty too. Nice outdoor dining area. Had to have my Bloo
+location: Lunch at The Front Yard
 ---
 
 ![Lunch at The Front Yard](/images/posts/ig-2021-05-28-lunch-at-the-front-yard/17880565292263402.jpg)

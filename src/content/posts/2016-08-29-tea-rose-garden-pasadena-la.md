@@ -16,6 +16,10 @@ tags:
 description: for girls best for afternoon tea a nice outdoor area would have been nice sandwiches tea
 archiveUrl: https://web.archive.org/web/20160830110359/http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/
 draft: false
+location: Tea Rose Garden
+city: Pasadena
+region: Pasadena
+address: 70 N Raymond Ave Pasadena, CA 91103
 ---
 
 [![IMG_0453](/images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg "IMG_0453")](http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/img_0453/)

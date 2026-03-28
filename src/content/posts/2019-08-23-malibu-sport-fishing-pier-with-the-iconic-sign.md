@@ -17,6 +17,7 @@ tags:
 - la
 - fishing
 description: Malibu Sport Fishing Pier with the iconic sign. . . . .
+location: Malibu Sport Fishing Pier with the iconic sign
 ---
 
 ![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/17885517511403240.jpg)

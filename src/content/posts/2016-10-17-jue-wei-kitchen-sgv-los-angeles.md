@@ -6,12 +6,20 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
 categories:
 - SGV
+- Sgv
+- San Gabriel Valley
 tags:
 - Hunan
 - Spicy
 description: Sells Chinese snacks like duck neck, duck wing, and tofu for take out Really good onion pancake – my favorite Wife likes the Beef Noodle Soup with Rice Noodles Specializes in the different hot wok dis
 archiveUrl: https://web.archive.org/web/20161104194029/http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
 draft: false
+location: Jue Wei Kitchen
+city: Sgv
+region: San Gabriel Valley
+address: '651 West Duarte Rd
+
+  St'
 ---
 
 [![IMG_0017](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0017.jpg?resize=234%2C175 "IMG_0017")](http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/img_0017/)

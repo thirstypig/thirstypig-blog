@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
 categories:
 - Hongqiao
+- Shanghai
 tags:
 - Korean
 description: Every major metropolitan city features little enclaves or ghettos where pockets of individual ethnicities congregate. Whether you’re in London’s Indian Southall, São Paulo’s Japanese Liberdade, or Mel
 archiveUrl: https://web.archive.org/web/20161019141337/http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
 draft: false
+location: BawuBawu 巴屋巴屋
+city: Shanghai
+region: Shanghai
 ---
 
 [![bawu-bawu-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-16.jpg?resize=208%2C277 "bawu-bawu-shanghai-16")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-16/)

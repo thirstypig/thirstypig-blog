@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/22/dong-nguyen-sgv/
 categories:
 - SGV
+- Sgv
+- San Gabriel Valley
 tags:
 - Chicken
 - Vietnamese
 description: Dong Nguyen is a neighborhood favorite in San Gabriel. Their menu features languages in Vietnamese, Chinese, English, and Thai. You could say this is the All American restaurant of different nationali
 archiveUrl: https://web.archive.org/web/20161104233558/http://thirstypig.com/2010/01/22/dong-nguyen-sgv/
 draft: false
+location: Dong Nguyen
+city: Sgv
+region: San Gabriel Valley
+address: 1433 E Valley Blvd Alhambra, CA 91801
 ---
 
 [![img_0228](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0228-1.jpg?resize=403%2C302 "img_0228")](http://thirstypig.com/2010/01/22/dong-nguyen-sgv/img_0228-2/)

@@ -17,9 +17,13 @@ categories:
 - Japanese
 - Price Range $/¥/NT
 - Ramen
+- Bangkok
 description: 'Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding '
 archiveUrl: https://web.archive.org/web/20111014113253/http://www.thethirstypig.com/2011/09/22/ra-men-bankara-bangkok/
 draft: false
+location: Ra-men Bankara
+city: Bangkok
+region: Bangkok
 ---
 
 Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding the motorcycles, but now my perspiration from the ramen I was happily consuming in this hot summer heat in Bangkok. With the sights, sounds, flavors, and sensory overload, I just about worn out from this experience in Bangkok, after only 4 days. But it was just the start of a crazy night for us in Bangkok.

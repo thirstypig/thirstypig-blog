@@ -8,9 +8,14 @@ categories:
 - 2 pigs
 - Price Range 2 $/¥/NT
 - Shanghainese
+- Shanghai
 description: Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features ori
 archiveUrl: https://web.archive.org/web/20111123073642/http://www.thethirstypig.com/2011/08/31/restaurant-art-salon-shanghai/
 draft: false
+location: Restaurant Art Salon
+city: Shanghai
+region: Shanghai
+address: 164 Nanchang Road
 ---
 
 Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features original full size artwork from local painters, as well as from the brothers themselves.

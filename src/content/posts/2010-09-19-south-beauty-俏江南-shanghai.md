@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/19/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Shanghai
 - Sichuan
@@ -13,6 +14,9 @@ tags:
 description: The tea scroll, featuring several different varieties of tea
 archiveUrl: https://web.archive.org/web/20160914022648/http://thirstypig.com/2010/09/19/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
 draft: false
+location: South Beauty 俏江南
+city: Shanghai
+region: Shanghai
 ---
 
 [![south-beauty-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/South-Beauty-Shanghai-18-1.jpg?resize=423%2C317 "south-beauty-shanghai-18")](http://thirstypig.com/2010/09/19/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/south-beauty-shanghai-18-2/)

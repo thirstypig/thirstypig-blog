@@ -20,6 +20,7 @@ tags:
 - beef
 - frenchbread
 description: Vietnamese Dinner tonight at we had pho and chicken curry. The pho is a favorite of my wife’s. I’m ok with it. It’s not something I would go out of my way to choose or order. Therefore my selection of
+location: Vietnamese Dinner tonight at  we had pho and chicken curry
 ---
 
 ![Vietnamese Dinner tonight at  we had pho and chicken curry](/images/posts/ig-2017-11-22-vietnamese-dinner-tonight-at-we-had-pho-and-chicken-curry/17909440537039114.jpg)

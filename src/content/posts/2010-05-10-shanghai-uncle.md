@@ -17,9 +17,13 @@ images:
 categories:
 - 2 pigs
 - Shanghainese
+- Shanghai
 tags:
 - Shanghai 上海
 description: With a contemporary decor and furnishings, Shanghai Uncle provides an excellent atmosphere for large groups. You’ll see large tour groups stroll in for Shanghainese feasts. The large colorful menus wi
 archiveUrl: https://web.archive.org/web/20110106001958/http://www.thethirstypig.com/2010/05/10/shanghai-uncle/
 draft: false
+location: My Favorite Uncle
+city: Shanghai
+region: Shanghai
 ---

@@ -6,11 +6,14 @@ source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/01/13/seouls-shinjiku-gangnam-station-%ea%b0%95%eb%82%a8%ec%97%ad/
 categories:
 - 2 pigs
+- Gangnam Station 강남역
 tags:
 - Seoul
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103151452/http://www.thethirstypig.com/2011/01/13/seouls-shinjiku-gangnam-station-%ea%b0%95%eb%82%a8%ec%97%ad/
 draft: false
+location: Seoul’s Shinjiku
+city: Gangnam Station 강남역
 ---
 
 There is an area of Seoul where the young come out to play. Just old enough to go stay out late, but not that late. Known by the subway station nearby, Gangnam Station 강남역, this area is arguably the most popular area in Seoul. Brimming with shops, restaurants, and street vendors, this chilly night appeared to me that it hardly made a dent in foot traffic. Thigh high boots girls and suave dudes stood out as we were strolling around.

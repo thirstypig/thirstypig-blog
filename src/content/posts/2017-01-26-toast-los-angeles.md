@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/26/toast-los-angeles/
 categories:
 - Hollywood
+- Los Angeles
 tags:
 - American
 - Breakfast
@@ -13,6 +14,9 @@ tags:
 description: Wonderful breakfast joint Had the Eggs Florentine which was healthy and good Valet parking available, but there is some street parking, if you can find it On 3rd street, with other great little restau
 archiveUrl: https://web.archive.org/web/20170203043943/http://thirstypig.com/2017/01/26/toast-los-angeles/
 draft: false
+location: Toast
+city: Los Angeles
+region: Hollywood
 ---
 
 [![IMG_1006](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1006.jpg?resize=403%2C302 "IMG_1006")](http://thirstypig.com/2017/01/26/toast-los-angeles/img_1006/)

@@ -16,6 +16,9 @@ tags:
 description: Went to my first one in Hong Kong, in 2003 Love the bbq pork and roast pork Gets crowded fast. Especially before and after the clubs open and close The Pineapple buns are good and popular. Probably th
 archiveUrl: https://web.archive.org/web/20160915042555/http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
 draft: false
+location: Tsui Wah
+city: Shanghai
+region: Shanghai
 ---
 
 [![IMG_1195](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1195.jpg?resize=316%2C421 "IMG_1195")](http://thirstypig.com/2014/06/07/tsui-wah-shanghai/img_1195/)

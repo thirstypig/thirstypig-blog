@@ -12,11 +12,14 @@ categories:
 - Korean
 - Food Truck
 - Late Night
+- Kogi BBQ
 tags:
 - Los Angeles
 description: Right outside my friend’s birthday, Kogi had stationed itself right outside on the sidewalk. We were lucky to have them nearby. I only wish they didn’t have to leave so early and wished they would hav
 archiveUrl: https://web.archive.org/web/20111103144052/http://www.thethirstypig.com/2009/01/04/the-korean-taco-truck-kogi-bbq/
 draft: false
+location: The Korean Taco Truck!
+city: Kogi BBQ
 ---
 
 Right outside my friend’s birthday, Kogi had stationed itself right outside on the sidewalk. We were lucky to have them nearby. I only wish they didn’t have to leave so early and wished they would have come back around 2am. . .

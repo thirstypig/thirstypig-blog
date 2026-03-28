@@ -23,6 +23,12 @@ tags:
 - eeeeeats
 - thirstypig
 description: Finally made it to the hyped Chubby Cattle in Rosemead. This place has been the rage on the interwebs with their curry restaurant and high end joint - and On there was some controversy about source of
+location: Finally made it to the hyped Chubby Cattle in Rosemead
+city: Rosemead
+region: San Gabriel Valley
+categories:
+- Rosemead
+- San Gabriel Valley
 ---
 
 ![Finally made it to the hyped Chubby Cattle in Rosemead](/images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/18031639997309736.jpg)

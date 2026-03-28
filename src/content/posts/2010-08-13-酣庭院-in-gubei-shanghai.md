@@ -30,12 +30,16 @@ categories:
 - 2 pigs
 - Korean
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Gubei 上海古北
 - Shanghai 上海
 description: The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit tha
 archiveUrl: https://web.archive.org/web/20110105211641/http://www.thethirstypig.com/2010/08/13/%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-in-gubei-shanghai/
 draft: false
+location: 酣庭院‎ in Gubei
+city: Shanghai
+region: Shanghai
 ---
 
 The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit that area more often in the future. But on this night, we were able to get our Korean classmates to bring us to have food of their land.

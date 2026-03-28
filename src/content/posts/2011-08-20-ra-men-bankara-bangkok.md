@@ -21,6 +21,9 @@ tags:
 description: 'Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding '
 archiveUrl: https://web.archive.org/web/20161106110012/http://thirstypig.com/2011/08/20/ra-men-bankara-bangkok/
 draft: false
+location: Ra-men Bankara
+city: Bangkok
+region: Bangkok
 ---
 
 [![ra-men-bankara-bangkok-05](/images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-01-494x370.jpg "ra-men-bankara-bangkok-05")](http://thirstypig.com/2011/08/20/ra-men-bankara-bangkok/ra-men-bankara-bangkok-05/)

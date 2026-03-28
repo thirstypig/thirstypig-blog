@@ -20,6 +20,11 @@ tags:
 - tastemakersapp
 - eats
 description: Happy Mooncake eating festival day. 中秋節Also known as Mid Autumn Festival. Mooncakes are big and heavy to eat. Usually I can only eat a small portion of one, this year about 1/4. Today we decided to ha
+location: Happy Mooncake eating festival day
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Happy Mooncake eating festival day](/images/posts/ig-2022-09-11-happy-mooncake-eating-festival-day/17955739850054622.jpg)

@@ -25,6 +25,7 @@ tags:
 - maltagliati
 - dtla
 description: Dinner at Rossoblu. Northern Italian cuisine. Had the Salumi plate and braised pork meat balls to start. Then went for the MALTAGLIATI, RISOTTO and NONNA’S TAGLIATELLE AL RAGU’ BOLOGNESE. And finished
+location: Dinner at Rossoblu
 ---
 
 ![Dinner at Rossoblu](/images/posts/ig-2018-02-28-dinner-at-rossoblu/17921997064066420.jpg)

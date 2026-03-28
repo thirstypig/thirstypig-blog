@@ -17,6 +17,7 @@ tags:
 - avocado
 - frenchbulldog
 description: Brunch at Toast. The protein omelette and the avocado toast. Plus a cool looking French bulldog chillin’ next to me . . . .
+location: Brunch at Toast
 ---
 
 ![Brunch at Toast](/images/posts/ig-2018-10-07-brunch-at-toast/17879930377272752.jpg)

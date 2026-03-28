@@ -25,6 +25,11 @@ tags:
 - shrimptempura
 - thirstypig
 description: Tempura from at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay loc
+location: Tempura from  at their latest location in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Tempura from  at their latest location in Pasadena](/images/posts/ig-2024-10-06-tempura-from-at-their-latest-location-in-pasadena/17878898190154027.jpg)

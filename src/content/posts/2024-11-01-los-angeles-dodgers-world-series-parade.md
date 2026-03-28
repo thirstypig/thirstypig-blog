@@ -21,6 +21,10 @@ tags:
 - itfdb
 - baseball
 description: Los Angeles Dodgers World Series parade!8th World Series - 2024 Champs! 7 buses of champions! . . .
+location: Los Angeles Dodgers World Series parade
+city: Los Angeles
+categories:
+- Los Angeles
 ---
 
 ![Los Angeles Dodgers World Series parade](/images/posts/ig-2024-11-01-los-angeles-dodgers-world-series-parade/17951926751747480.jpg)

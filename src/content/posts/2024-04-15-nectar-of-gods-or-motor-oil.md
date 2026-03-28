@@ -20,6 +20,7 @@ tags:
 - thirsty
 - thirstypig
 description: Nectar of gods or motor oil. Moutai Jiu is undisputed and most popular white wine of China. My classmates and I had a great dinner with Moutai. From the southwest region of China in Guizhou, Moutai ha
+location: Nectar of gods or motor oil
 ---
 
 ![Nectar of gods or motor oil](/images/posts/ig-2024-04-15-nectar-of-gods-or-motor-oil/18036737953845894.jpg)

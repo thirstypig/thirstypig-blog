@@ -24,6 +24,7 @@ tags:
 - bourbondistillery
 - bourbontrail
 description: Castle & Key distillery. Really nice distillery at a picturesque location by a hill and stream. The Castle is the Old Taylor Distillery Company and the key is where the natural spring. The Key, is cov
+location: Castle & Key distillery
 ---
 
 ![Castle & Key distillery](/images/posts/ig-2022-11-21-castle-key-distillery/17954167376238548.jpg)

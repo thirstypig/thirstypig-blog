@@ -19,9 +19,13 @@ categories:
 - 2 pigs
 - Korean
 - Tofu
+- Taipei
 tags:
 - Da'an District 台北大安區
 description: 'Sundubu jjigae 순두부찌개 is not easily copied well from Korea or LA’s Koreatown. But Ari Tofu House does it well. The piping hot soup with tofu, with the shrimp or pork or beef. As on the national dishes '
 archiveUrl: https://web.archive.org/web/20110105064755/http://www.thethirstypig.com/2010/05/18/ari-tofu-house/
 draft: false
+location: Sundubu Jjigae done right at Ari Tofu House
+city: Taipei
+region: Taipei
 ---

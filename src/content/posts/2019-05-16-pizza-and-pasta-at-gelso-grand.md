@@ -18,6 +18,7 @@ tags:
 - gelsoandgrand
 - thirstypig
 description: Pizza and pasta at Gelso & Grand. And hello to our new friends from LA! . . .
+location: Pizza and pasta at Gelso & Grand
 ---
 
 ![Pizza and pasta at Gelso & Grand](/images/posts/ig-2019-05-16-pizza-and-pasta-at-gelso-grand/18037866418136923.jpg)

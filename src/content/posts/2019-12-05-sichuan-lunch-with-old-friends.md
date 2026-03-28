@@ -24,6 +24,7 @@ tags:
 - eeeeeats
 - eat
 description: Sichuan lunch with old friends. Finally got a chance to visit Szechuan Impression. Had the spicy boiled fish, sausage, veggies, pork belly with rice flour, mapo tofu. Crazy spicy with the Sichuan pepp
+location: Sichuan lunch with old friends
 ---
 
 ![Sichuan lunch with old friends](/images/posts/ig-2019-12-05-sichuan-lunch-with-old-friends/17842272547861280.jpg)

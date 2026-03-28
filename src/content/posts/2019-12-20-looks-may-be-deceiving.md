@@ -16,6 +16,12 @@ tags:
 - sgv
 - arcadia
 description: Looks may be deceiving. Had a really bad meal at May’s Chinese Restaurant in Arcadia. Food was a big NG - No Good. I should have known. The ownership has changed so many times, the menu feature Taiwan
+location: Looks may be deceiving
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Looks may be deceiving](/images/posts/ig-2019-12-20-looks-may-be-deceiving/18009516850266426.jpg)

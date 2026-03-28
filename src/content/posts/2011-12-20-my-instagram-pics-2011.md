@@ -6,9 +6,13 @@ source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/12/20/my-instagram-pics-2011/
 categories:
 - Blog
+- Taipei
 description: These are my favorite pictures, that I took, from my Instagram submissions, this past year. I hope you enjoy them.
 archiveUrl: https://web.archive.org/web/20120104144538/http://www.thethirstypig.com/2011/12/20/my-instagram-pics-2011/
 draft: false
+location: My Instagram Pics 2011
+city: Taipei
+region: Taipei
 ---
 
 These are my favorite pictures, that I took, from my Instagram submissions, this past year. I hope you enjoy them.

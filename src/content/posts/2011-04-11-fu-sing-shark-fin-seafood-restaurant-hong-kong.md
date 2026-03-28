@@ -10,6 +10,7 @@ categories:
 - Cantonese
 - Price Range 3 $/¥/NT
 - 3 pigs
+- Hong Kong
 tags:
 - Chinese 2
 - Bbq
@@ -20,6 +21,10 @@ tags:
 description: Good BBQ Pork – Char Siu is not that difficult to find. Siu Mei’s are often hit or miss. If you are polite and ask the right questions, you can more than often get a good cut of the BBQ Pork. But some
 archiveUrl: https://web.archive.org/web/20160602090146/http://thirstypig.com/2011/04/11/fu-sing-shark-fin-seafood-restaurant-hong-kong/
 draft: false
+location: Fu Sing Shark Fin Seafood Restaurant
+city: Hong Kong
+region: Hong Kong
+address: 353 Lockhart Road
 ---
 
 Good BBQ Pork – Char Siu is not that difficult to find. Siu Mei’s are often hit or miss. If you are polite and ask the right questions, you can more than often get a good cut of the BBQ Pork. But sometimes you just get the ideal slice . . . and that’s when you feel things are just right. At Fu Sing Sharkfin restaurant, I had the best BBQ pork EVER!

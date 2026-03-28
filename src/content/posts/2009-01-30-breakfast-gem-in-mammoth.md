@@ -15,6 +15,8 @@ categories:
 description: this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called brea
 archiveUrl: https://web.archive.org/web/20110105203807/http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/
 draft: false
+location: Breakfast Gem in Mammoth
+address: 2987 Main St
 ---
 
 this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called breakfast club. yes it’s a cute and punny name. kinda makes me wanna barf. fortunately, the food does not.

@@ -20,6 +20,7 @@ tags:
 - onehundredpercentnatural
 - onehundredpercentyoungcoconut
 description: Pink Coconut Water from Nutrivsta. Better that water when you’re dehydrated! . . .
+location: Pink Coconut Water from Nutrivsta
 ---
 
 ![Pink Coconut Water from Nutrivsta](/images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/17856078694352176.jpg)

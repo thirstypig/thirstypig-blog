@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/24/yoshida-san-marino/
 categories:
 - SGV
+- San Marino
+- San Gabriel Valley
 tags:
 - Japanese
 - Sushi
 description: My personal sushi policy as I have stated here is a quirky, one might say. I feel that you should stay with one particular sushi restaurant to develop a personal relationship with the place. Get to kn
 archiveUrl: https://web.archive.org/web/20161105203458/http://thirstypig.com/2009/11/24/yoshida-san-marino/
 draft: false
+location: Yoshida
+city: San Marino
+region: San Gabriel Valley
+address: 2026 Huntington Dr San Marino, CA 91108
 ---
 
 [![dscn0031](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0031.jpg?resize=403%2C302 "dscn0031")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0031-3/)

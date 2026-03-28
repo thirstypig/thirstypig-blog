@@ -35,9 +35,14 @@ categories:
 - Lunch
 - Price Range 3 $/¥/NT
 - Shanghainese
+- Shanghai
 description: The Whampoa Club at Three on the Bund is promoting their new Shanghai Dim Sum lunch.http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/ I was able to round up
 archiveUrl: https://web.archive.org/web/20111027143319/http://www.thethirstypig.com/2011/10/11/whampoa-club-weekend-brunch-shanghai/
 draft: false
+location: Whampoa Club Weekend Brunch
+city: Shanghai
+region: Shanghai
+address: 3 Zhongshan Dongyi Road
 ---
 
 The Whampoa Club at Three on the Bund is promoting their new [Shanghai Dim Sum lunch.](http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/) I was able to round up a group of friends that were willing to make it a go. As you know, brunch in Shanghai is big event with so many notable restaurants offering brunch deals and specials. I almost had to do a hard sell to my finicky friends to try this unknown. Thank goodness the Whampoa Club was (and hopefully still are) offering a deal a 2 for 1 All-You-Can-Eat weekend deal.

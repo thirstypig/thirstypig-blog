@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/15/goko-seas-%e5%be%a1%e5%91%b3%e9%81%93-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Ayce
 - Hot Pot
@@ -14,6 +15,10 @@ tags:
 description: Dingping Listinghttp://www.dianping.com/shop/2558077
 archiveUrl: https://web.archive.org/web/20161105235221/http://thirstypig.com/2012/03/15/goko-seas-%e5%be%a1%e5%91%b3%e9%81%93-shanghai/
 draft: false
+location: Goko Seas 御味道
+city: Shanghai
+region: Shanghai
+address: 328 Pudian Rd
 ---
 
 [![dsc_0022](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0022-1.jpg?resize=403%2C268 "dsc_0022")](http://thirstypig.com/2012/03/15/goko-seas-%e5%be%a1%e5%91%b3%e9%81%93-shanghai/dsc_0022-3/)

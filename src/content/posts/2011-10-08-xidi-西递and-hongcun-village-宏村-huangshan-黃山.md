@@ -6,9 +6,12 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/08/xidi-%e8%a5%bf%e9%80%92and-hongcun-village-%e5%ae%8f%e6%9d%91-huangshan-%e9%bb%83%e5%b1%b1/
 categories:
 - Huangshan
+- Huangshan 黃山
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106040224/http://thirstypig.com/2011/10/08/xidi-%e8%a5%bf%e9%80%92and-hongcun-village-%e5%ae%8f%e6%9d%91-huangshan-%e9%bb%83%e5%b1%b1/
 draft: false
+location: Xidi 西递and Hongcun Village 宏村
+city: Huangshan 黃山
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xidi-Village-西递-96.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/08/xidi-%e8%a5%bf%e9%80%92and-hongcun-village-%e5%ae%8f%e6%9d%91-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-154/)

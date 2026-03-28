@@ -23,6 +23,10 @@ tags:
 - tastemakersapp
 - thirstypig
 description: American Whiskey Maker - with their Cool tasting room with pretty good pizza from . They had few different old fashioned including a peanut butter banana, S’mores, strawberry cheesecake, and a toffee.
+location: American Whiskey Maker
+city: with their Cool tasting room with pretty good pizza...
+categories:
+- with their Cool tasting room with pretty good pizza...
 ---
 
 ![American Whiskey Maker -  with their Cool tasting room with pretty good pizza...](/images/posts/ig-2025-05-15-american-whiskey-maker-with-their-cool-tasting-room-with-pre/18492883246064740.jpg)

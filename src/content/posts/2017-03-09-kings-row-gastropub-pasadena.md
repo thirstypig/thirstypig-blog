@@ -13,6 +13,10 @@ tags:
 description: My Goto spot for food and sporting events in Old Town Pasadena Burger. Good. Cool outdoor seating area, but is a little tight Darts Live Music
 archiveUrl: https://web.archive.org/web/20170310024920/http://thirstypig.com/2017/03/09/kings-row-gastropub-pasadena/
 draft: false
+location: King’s Row Gastropub
+city: Pasadena
+region: Pasadena
+address: 20 E Colorado Blvd Pasadena, CA 91103
 ---
 
 [![IMG_4222](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4222.jpg?resize=385%2C289 "IMG_4222")](http://thirstypig.com/2017/03/09/kings-row-gastropub-pasadena/img_4222/)

@@ -11,6 +11,7 @@ images:
 tags:
 - spiceology
 description: Taiwanese ice dessert
+location: Taiwanese ice dessert
 ---
 
 ![Taiwanese ice dessert](/images/posts/ig-2017-08-05-taiwanese-ice-dessert/17887003846066741.jpg)

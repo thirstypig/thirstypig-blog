@@ -8,9 +8,13 @@ categories:
 - 3 pigs
 - Price Range 3 $/¥/NT
 - Sushi
+- Taipei
 description: 'What is 高玉 高玉 or Kao Yu is a sushi restaurant in Taipei with 2 locations. They also have 小高玉 also known as Sushi Express, which is the more inexpensive restaurant chain with the ever popular conveyor '
 archiveUrl: https://web.archive.org/web/20120429113348/http://www.thethirstypig.com:80/2012/03/08/kao-yu-taipei/
 draft: false
+location: Kao Yu 高玉
+city: Taipei
+region: Taipei
 ---
 
 **What is 高玉**

@@ -11,6 +11,7 @@ images:
 tags:
 - bai
 description: Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman bao is luscious and juicy! Dumpling bao is spicy.
+location: Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman ba...
 ---
 
 ![Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman ba...](/images/posts/ig-2017-08-05-chairman-bao-pork-belly-and-dumpling-bao-pork-and-chicken-th/17877601183090902.jpg)

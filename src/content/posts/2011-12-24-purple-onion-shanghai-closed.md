@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - French
+- closed
 description: Where did the Thirsty Pig Go? The Purple Onion, part of famed Shanghai restauranteur David Laris empire, nice little European bistro. Though it is tucked away in a small alley, it is still convenientl
 archiveUrl: https://web.archive.org/web/20161106075156/http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/
 draft: false
+location: The Purple Onion
+city: Shanghai
+region: Shanghai
 ---
 
 [![purple-onion-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-02.jpg?resize=394%2C315 "purple-onion-shanghai-02")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-02/)

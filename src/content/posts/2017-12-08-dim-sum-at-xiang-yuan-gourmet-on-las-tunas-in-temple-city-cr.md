@@ -15,6 +15,12 @@ tags:
 - taro
 - thirstypig
 description: Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels.
+location: Dim sum at Xiang Yuan Gourmet
+city: Temple City
+region: San Gabriel Valley
+categories:
+- Temple City
+- San Gabriel Valley
 ---
 
 ![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City  Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17884972897155499.jpg)

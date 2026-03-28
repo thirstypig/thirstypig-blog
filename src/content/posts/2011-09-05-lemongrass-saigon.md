@@ -11,9 +11,12 @@ categories:
 - 1 pig
 - Price Range 2 $/¥/NT
 - Vietnamese
+- Saigon
 description: Tourists, foreigners, and out of towners usually have little or no expectation for food, unless they specifically researched prior to their trip. Yet, the onus of pressure, lies with the host or frien
 archiveUrl: https://web.archive.org/web/20111103233628/http://www.thethirstypig.com/2011/09/05/lemongrass-saigon/
 draft: false
+location: Lemongrass
+city: Saigon
 ---
 
 Tourists, foreigners, and out of towners usually have little or no expectation for food, unless they specifically researched prior to their trip. Yet, the onus of pressure, lies with the host or friends, who may often stress about restaurant selections. You’d think an old college buddy visiting, is like the queen of England in preparation when going for a bite to eat. I know when friends come to visit, I sometimes have a hard time in picking places to go to live up to expectations. Or perhaps it is just me . . . I just might stress out too much.

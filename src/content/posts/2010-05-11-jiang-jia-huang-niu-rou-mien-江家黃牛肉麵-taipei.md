@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/
 categories:
 - Da-an
+- Taipei
 tags:
 - Beef
 - Breakfast
@@ -15,6 +16,9 @@ tags:
 description: Traditional Taiwanese breakfast from the famous Yong He Dou Jiang and Dumpling & Noodles from Jiang Jia Hung both found at one location.
 archiveUrl: https://web.archive.org/web/20161105100224/http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/
 draft: false
+location: Jiang Jia Huang Niu Rou Mien 江家黃牛肉麵
+city: Taipei
+region: Taipei
 ---
 
 [![img_1935](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1935.jpg?resize=234%2C175 "img_1935")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1935/)

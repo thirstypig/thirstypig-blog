@@ -27,6 +27,11 @@ tags:
 - spaghetti
 - linguine
 description: 'Dinner with an old friend from Shanghai. Got a same day reservation at Babbo. Mario Batali and Joe Bastianich’s Italian restaurant. We started off by sharing a baby wild arugula salad. Then I had the '
+location: Dinner with an old friend from Shanghai
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Dinner with an old friend from Shanghai](/images/posts/ig-2018-05-21-dinner-with-an-old-friend-from-shanghai/17918179489147127.jpg)

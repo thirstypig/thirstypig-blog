@@ -22,6 +22,7 @@ tags:
 - andywarhol
 - contemporaryart
 description: A visit to see the contemporary art at the Broad. Saw works from Warhol, Koons, and Basquiat. We missed Murakami’s exhibition by a month. . . . . .
+location: A visit to see the contemporary art at the Broad
 ---
 
 ![A visit to see the contemporary art at the Broad](/images/posts/ig-2023-03-13-a-visit-to-see-the-contemporary-art-at-the-broad/17957914472393676.jpg)

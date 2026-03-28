@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/31/just-grapes-shanghai/
 categories:
 - Huangpu
+- Shanghai
 tags:
 - Wine
 description: Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the Americ
 archiveUrl: https://web.archive.org/web/20161018174412/http://thirstypig.com/2010/07/31/just-grapes-shanghai/
 draft: false
+location: Just Grapes
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3477](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3477-1.jpg?resize=208%2C277 "img_3477")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3477-2/)

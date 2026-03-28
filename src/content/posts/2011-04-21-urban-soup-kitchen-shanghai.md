@@ -15,11 +15,15 @@ categories:
 - Salad
 - Sandwich
 - Soup
+- Shanghai
 tags:
 - Shanghai
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110427005158/http://www.thethirstypig.com:80/2011/04/21/urban-soup-kitchen-shanghai/
 draft: false
+location: Urban Soup Kitchen
+city: Shanghai
+region: Shanghai
 ---
 
 On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.

@@ -15,6 +15,7 @@ tags:
 - losangeles
 - slomo
 description: Lights and electricity at got to see the Tesla Coil in action at the observatory
+location: Lights and electricity at  got to see the Tesla Coil in action at the observa...
 ---
 
 ![Lights and electricity at  got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)

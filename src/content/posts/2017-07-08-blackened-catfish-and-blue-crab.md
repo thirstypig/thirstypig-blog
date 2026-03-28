@@ -18,6 +18,7 @@ tags:
 - thirstypig
 - catfish
 description: Blackened catfish and blue crab. With corn and hush puppies. Yum!
+location: Blackened catfish and blue crab
 ---
 
 ![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17887584181008810.jpg)

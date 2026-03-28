@@ -9,11 +9,14 @@ images:
 - /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
 categories:
 - 3 pigs
+- the City by the Sea
 tags:
 - Dalian
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144407/http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/
 draft: false
+location: Dalian 大连
+city: the City by the Sea
 ---
 
 I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach life,

@@ -11,7 +11,11 @@ categories:
 - 2 pigs
 - Price Range 3 $/¥/NT
 - Spanish
+- Shanghai
 description: What is De Bellotas? De Bellotas is a Spanish restaurant located near Shanghai’s Xintaindi. Situated just a 5 minute walk away, with a couple of other interesting restaurants like Tenya, Bellagio, and
 archiveUrl: https://web.archive.org/web/20120724110206/http://www.thethirstypig.com:80/2012/07/10/de-bellotas-%E8%B4%9D%E4%BC%98%E5%A1%94-shanghai/
 draft: false
+location: de Bellotas 贝优塔
+city: Shanghai
+region: Shanghai
 ---

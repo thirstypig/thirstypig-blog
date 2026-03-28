@@ -8,11 +8,15 @@ categories:
 - 3 pigs
 - Price Range $/¥/NT
 - Ramen
+- Shanghai
 tags:
 - Shanghai
 description: We’ve been hearing so much about Kin with the different events, that we should also remember that Kin also does food, and pretty good, too. Kin is a boutique that features streetwear and goods, that y
 archiveUrl: https://web.archive.org/web/20110702232723/http://www.thethirstypig.com:80/2011/06/27/slurping-ramen-at-kin/
 draft: false
+location: Slurping Ramen at Kin
+city: Shanghai
+region: Shanghai
 ---
 
 We’ve been hearing so much about Kin with the different events, that we should also remember that Kin also does food, and pretty good, too. Kin is a boutique that features streetwear and goods, that you’d typically find in the US. But Kin is also a ramen house – that you’d most likely *not find inside* a boutique. But then again, I shouldn’t be surprised to find some darn good Japanese style ramen, either.

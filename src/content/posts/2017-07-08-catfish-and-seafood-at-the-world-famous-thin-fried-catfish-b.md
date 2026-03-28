@@ -23,6 +23,10 @@ tags:
 - nola
 - thirstypig
 description: Catfish and seafood at the world famous thin fried catfish, boiled blue crab, fried soft shell crab, boiled shrimp, potatoes, hush puppies, and cole slaw
+location: Catfish and seafood at the world famous thin fried catfish, boiled blue crab
+city: '...'
+categories:
+- '...'
 ---
 
 ![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17888711638025180.jpg)

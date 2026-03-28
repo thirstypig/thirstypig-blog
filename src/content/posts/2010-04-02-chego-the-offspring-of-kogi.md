@@ -30,9 +30,14 @@ categories:
 - 2 pigs
 - West LA
 - $
+- the offspring of Kogi
+- Westside
 description: 'Chef Roy Choi’s, of the Kogi Taco Trucks, newest spawn is Chego. Going against the norm, again. While traditional restaurants are considering mobile food trucks to expand their businesses, Choi opens '
 archiveUrl: https://web.archive.org/web/20100417225901/http://www.thethirstypig.com:80/2010/04/02/chego-the-offspring-of-kogi/
 draft: false
+location: Chego
+city: the offspring of Kogi
+region: Westside
 ---
 
 ---

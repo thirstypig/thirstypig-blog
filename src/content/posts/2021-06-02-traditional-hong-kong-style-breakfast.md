@@ -24,6 +24,7 @@ tags:
 - noodles
 - spam
 description: Traditional Hong Kong style breakfast. With the rice porridge, pineapple buns, macaroni spam in soup, rice noodle with dried shrimp, and the dry noodles. Reminiscent of my short time in Hong Kong year
+location: Traditional Hong Kong style breakfast
 ---
 
 ![Traditional Hong Kong style breakfast](/images/posts/ig-2021-06-02-traditional-hong-kong-style-breakfast/17911804117740395.jpg)

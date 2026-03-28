@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/11/half-half-sgv/
 categories:
 - SGV
+- Sgv
+- San Gabriel Valley
 tags:
 - Cafe
 - Taiwanese
 description: 'You don’t usually find guys at a tea house on a weekday afternoon. With my flexible schedule, I was able to invade this oasis usually reserved for the estrogen genders. There’s actually a lot of cute '
 archiveUrl: https://web.archive.org/web/20161105232231/http://thirstypig.com/2009/11/11/half-half-sgv/
 draft: false
+location: Half & Half
+city: Sgv
+region: San Gabriel Valley
+address: 120 N San Gabriel Blvd St
 ---
 
 [![dscn0019](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0019.jpg?resize=403%2C302 "dscn0019")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0019-5/)

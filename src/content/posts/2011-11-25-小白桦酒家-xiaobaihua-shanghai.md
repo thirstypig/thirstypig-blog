@@ -8,9 +8,14 @@ categories:
 - 3 pigs
 - Price Range $/¥/NT
 - Shanghainese
+- Shanghai
 description: XiaoBaiHua is a small hole-in-the-wall restaurant specializing in Shanghainese cuisine. My friends call it home style cooking. But I would also add that they add a little flair and unique creativity t
 archiveUrl: https://web.archive.org/web/20120116075359/http://www.thethirstypig.com:80/2011/11/25/%E5%B0%8F%E7%99%BD%E6%A1%A6%E9%85%92%E5%AE%B6-xiaobaihua-shanghai/
 draft: false
+location: 小白桦酒家 XiaoBaiHua
+city: Shanghai
+region: Shanghai
+address: 3 WanPing Road
 ---
 
 XiaoBaiHua is a small hole-in-the-wall restaurant specializing in Shanghainese cuisine. My friends call it home style cooking. But I would also add that they add a little flair and unique creativity that rivals even the [Original Jesse 吉士](http://www.thethirstypig.com/2010/12/22/restaurant-jesse-吉士-of-shanghai/).

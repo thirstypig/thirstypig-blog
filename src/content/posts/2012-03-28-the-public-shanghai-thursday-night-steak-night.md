@@ -7,9 +7,14 @@ originalUrl: http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thur
 categories:
 - American
 - Steak
+- Shanghai
 description: Every Thursday night…
 archiveUrl: https://web.archive.org/web/20130804043314/http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thursday-night-steak-night/
 draft: false
+location: The Public
+city: Shanghai
+region: Shanghai
+address: 1 Kg Grain Fed Australian Tomahawk St
 ---
 
 **Every Thursday night…

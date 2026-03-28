@@ -9,6 +9,8 @@ images:
 - /images/posts/smorgasburg-los-angeles-dtla/IMG_0987.jpg
 categories:
 - DTLA
+- Dtla
+- Downtown LA
 tags:
 - Farmers Market
 - Food Truck
@@ -16,6 +18,10 @@ tags:
 description: Lots and lots of food vendors Get crowded, but there is sufficient parking Try to go in the late afternoon, with the risk of vendors running out Finally got to try the Ramen Burger Belly & Snout had a
 archiveUrl: https://web.archive.org/web/20161105012233/http://thirstypig.com/2016/10/08/smorgasburg-los-angeles-dtla/
 draft: false
+location: Smorgasburg Los Angeles
+city: Dtla
+region: Downtown LA
+address: 785 Bay St Los Angeles, CA 90021
 ---
 
 [![IMG_0984](/images/posts/smorgasburg-los-angeles-dtla/IMG_0987.jpg "IMG_0984")](http://thirstypig.com/2016/10/08/smorgasburg-los-angeles-dtla/img_0984/)

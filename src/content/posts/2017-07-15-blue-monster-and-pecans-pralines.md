@@ -12,6 +12,7 @@ images:
 tags:
 - icecream
 description: blue monster and pecans pralines
+location: blue monster and pecans pralines
 ---
 
 ![blue monster and pecans pralines](/images/posts/ig-2017-07-15-blue-monster-and-pecans-pralines/17864802052147533.jpg)

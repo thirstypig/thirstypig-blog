@@ -6,12 +6,19 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/
 categories:
 - SGV
+- Mpk
+- San Gabriel Valley
 tags:
 - Italian
 - Pizza
+- closed
 description: After reviewing Zelo’s Pizza. . .I felt I should submit my review for Bollini’s.
 archiveUrl: https://web.archive.org/web/20161105081122/http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/
 draft: false
+location: Bollini’s Pizzeria Napolitana
+city: Mpk
+region: San Gabriel Valley
+address: 2315 S Garfield Ave Monterey Park, CA 91754
 ---
 
 [![img_1132](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1132.jpg?resize=403%2C302 "img_1132")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1132/)

@@ -20,6 +20,7 @@ tags:
 - xlb
 - å
 description: Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast. . . . .
+location: Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐  Ate too fast
 ---
 
 ![Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐  Ate too fast](/images/posts/ig-2019-08-15-xiao-long-bao-小籠包-xlb-at-ding-tai-fung-鼎泰豐-ate-too-fast/17883968602392064.jpg)

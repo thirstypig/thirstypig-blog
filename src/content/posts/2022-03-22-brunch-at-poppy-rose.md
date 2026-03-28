@@ -21,6 +21,7 @@ tags:
 - bloodymary
 - downtownviews
 description: Brunch at Poppy & Rose. Benedict’s - avocado and fried chicken. And of course a Bloody Mary. Rooftop outdoor dining patio on top of a parking structure at DTLA’a flower district. Make sure you make re
+location: Brunch at Poppy & Rose
 ---
 
 ![Brunch at Poppy & Rose](/images/posts/ig-2022-03-22-brunch-at-poppy-rose/17925127934227972.jpg)

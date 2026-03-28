@@ -24,6 +24,10 @@ tags:
 - qingdaobreadfood
 - noodles
 description: Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce. Qingdao Bread Food 青島麵館 in Montere
+location: Pan fried bread pork and cabbage dumplings
+city: pan fried pork and leek dumplings...
+categories:
+- pan fried pork and leek dumplings...
 ---
 
 ![Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings...](/images/posts/ig-2019-04-19-pan-fried-bread-pork-and-cabbage-dumplings-pan-fried-pork-an/17992250047208252.jpg)

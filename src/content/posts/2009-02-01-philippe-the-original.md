@@ -9,11 +9,15 @@ categories:
 - Breakfast
 - Chinatown
 - Sandwich
+- Downtown LA
 tags:
 - Downtown LA
 description: A little Los Angeles history for you…
 archiveUrl: https://web.archive.org/web/20110105093347/http://www.thethirstypig.com/2009/02/01/philippe-the-original/
 draft: false
+location: Philippe The Original
+city: Chinatown
+region: Downtown LA
 ---
 
 A little Los Angeles history for you…

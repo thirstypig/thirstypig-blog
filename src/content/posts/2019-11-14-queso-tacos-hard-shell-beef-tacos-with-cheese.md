@@ -26,6 +26,10 @@ tags:
 - noho
 - foodtruck
 description: Queso-Tacos, hard shell beef tacos with cheese. And the Quesa-birria, the beef and cheese quesadilla. Also had the beef consume dipping sauce/soup. I was in the area and I thought I should try Birrier
+location: Queso-Tacos
+city: hard shell beef tacos with cheese
+categories:
+- hard shell beef tacos with cheese
 ---
 
 ![Queso-Tacos, hard shell beef tacos with cheese](/images/posts/ig-2019-11-14-queso-tacos-hard-shell-beef-tacos-with-cheese/17939782051311638.jpg)

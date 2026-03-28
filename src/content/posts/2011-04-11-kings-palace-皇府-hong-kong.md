@@ -12,11 +12,15 @@ categories:
 - Barbeque
 - Cantonese
 - Price Range 2 $/¥/NT
+- Hong Kong
 tags:
 - Hong Kong
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110525021556/http://www.thethirstypig.com:80/2011/04/11/kings-palace-%E7%9A%87%E5%BA%9C-hong-kong/
 draft: false
+location: King’s Palace 皇府
+city: Hong Kong
+region: Hong Kong
 ---
 
 One of the most treasured Asian culinary creations is Cantonese BBQ Pork. Known as Char Siu叉燒, this is a common dish from a Siu Mei 燒味, a small hole-in-the-wall Hong Kong style Chinese deli, which also specializes in Duck, Goose, Pork, and Chicken. You can easily recognize these little restaurants with the meats hanging in the window of the restaurant kitchen. In the US, you can find them in Chinatown’s in large Metropolitan cities. The prominence of these deli’s in the US, is a result of the early immigrants from Southern China or the Canton/Hong Kong area. Cantonese cuisine is one of the most popular of the different Chinese variations, which also include dim sum.

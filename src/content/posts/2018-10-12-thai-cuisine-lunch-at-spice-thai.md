@@ -15,6 +15,7 @@ tags:
 - tomyumsoup
 - thirstypig
 description: Thai cuisine lunch at Spice Thai. Had a big bowl of spicy Tom Yum soup. Coworkers had fried rice and curry. Soup was memorable and flavorful. . . . .
+location: Thai cuisine lunch at Spice Thai
 ---
 
 ![Thai cuisine lunch at Spice Thai](/images/posts/ig-2018-10-12-thai-cuisine-lunch-at-spice-thai/17991322729049152.jpg)

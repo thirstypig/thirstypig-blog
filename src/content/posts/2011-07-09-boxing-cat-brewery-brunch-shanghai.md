@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - American
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20161018123242/http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/
 draft: false
+location: Boxing Cat Brewery Brunch
+city: Shanghai
+region: Shanghai
 ---
 
 [![boxing-cat-brunch-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-09.jpg?resize=403%2C302 "boxing-cat-brunch-09")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-09/)

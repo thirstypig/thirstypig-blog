@@ -26,11 +26,16 @@ categories:
 - 2 pigs
 - Price Range 2 $/¥/NT
 - Sichuanese
+- Hong Kong
 tags:
 - Hong Kong
 description: Located on the 6th floor in a non-descript office building in the crowded district of central is Yellow Door Kitchen. The Yellow Door Kitchen specializes the renown spicy Sichuan cuisine. The Michelin
 archiveUrl: https://web.archive.org/web/20110424172405/http://www.thethirstypig.com:80/2011/04/20/yellow-door-kitchen-hong-kong/
 draft: false
+location: Yellow Door Kitchen
+city: Hong Kong
+region: Hong Kong
+address: 37 Cochrane St
 ---
 
 Located on the 6th floor in a non-descript office building in the crowded district of central is Yellow Door Kitchen. The Yellow Door Kitchen specializes the renown spicy Sichuan cuisine. The Michelin Guide recently awarded them Bib Gourmand, which emphasizes acceptable pricing standards for locals. The small restaurant, which can be reserved for private dining parties, features only a 6 tables.

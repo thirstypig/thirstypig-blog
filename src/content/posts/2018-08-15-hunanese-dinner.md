@@ -22,6 +22,7 @@ tags:
 - pork
 - egg
 description: Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu strips, fried egg with vegetables, and steamed pork with some sort of flour. I almost have no idea how to describe/name these dishes. Bu
+location: Hunanese dinner
 ---
 
 ![Hunanese dinner](/images/posts/ig-2018-08-15-hunanese-dinner/17896932763232332.jpg)

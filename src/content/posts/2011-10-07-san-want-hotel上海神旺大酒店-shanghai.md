@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/
 categories:
 - Hongqiao
+- Shanghai
 tags:
 - Hotel
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161105124210/http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/
 draft: false
+location: San Want Hotel上海神旺大酒店
+city: Shanghai
+region: Shanghai
+address: 650 Yishan Road
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-20.jpg?resize=264%2C197 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-160/)

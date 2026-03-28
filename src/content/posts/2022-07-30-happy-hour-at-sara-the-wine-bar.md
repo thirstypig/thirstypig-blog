@@ -21,6 +21,7 @@ tags:
 - culvercity
 - eat
 description: Happy Hour at Sara the Wine Bar. Bruschetta, margarhetti pizza, seafood pasta. Fresh pasta made in-house. Cool little spot that’s not too crowded. Would return and would recommend . . . . .
+location: Happy Hour at Sara the Wine Bar
 ---
 
 ![Happy Hour at Sara the Wine Bar](/images/posts/ig-2022-07-30-happy-hour-at-sara-the-wine-bar/18209853493081803.jpg)

@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
 categories:
 - Venice
+- Westside
 tags:
 - Food Truck
 description: 'The first Friday of every month is festival ritual in the heart of Venice. Shops, galleries, and bars open late to slow walking crowds. But unfortunately for the restaurants on Abbot Kinney Road, the '
 archiveUrl: https://web.archive.org/web/20161105212138/http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
 draft: false
+location: Fresh Roach Coaches on the 1st Friday
+city: Venice
+region: Westside
 ---
 
 [![dscn0040-3](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0040-3.jpg?resize=403%2C302 "dscn0040-3")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0040-3-2/)

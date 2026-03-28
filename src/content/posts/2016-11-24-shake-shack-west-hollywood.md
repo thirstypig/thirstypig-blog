@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/24/shake-shack-west-hollywood/
 categories:
 - Hollywood
+- West Hollywood
+- Westside
 tags:
 - American
 - Burgers
 description: First California location with crazy hype and long ass lines Might just be better than In-N-Out Burger has great flavor and taste, unique from In-N-Out Like the Crinkle Cut Fries Big fan of the Roadsi
 archiveUrl: https://web.archive.org/web/20161214042530/http://thirstypig.com/2016/11/24/shake-shack-west-hollywood/
 draft: false
+location: Shake Shack
+city: West Hollywood
+region: Westside
+address: 8520 Santa Monica Blvd West Hollywood, CA 90069
 ---
 
 [![IMG_0516](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0516.jpg?resize=404%2C505 "IMG_0516")](http://thirstypig.com/2016/11/24/shake-shack-west-hollywood/img_0516/)

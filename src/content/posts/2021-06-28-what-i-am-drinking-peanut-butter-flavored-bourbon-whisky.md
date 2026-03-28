@@ -15,6 +15,7 @@ tags:
 - whiskey
 - whisky
 description: What I am drinking Peanut butter flavored bourbon whisky. Really good. Used my YETI to keep my drink cold! First sampled at BevMo, then bought a bottle at Costco. . . . . .
+location: What I am drinking   Peanut butter flavored bourbon whisky
 ---
 
 ![What I am drinking   Peanut butter flavored bourbon whisky](/images/posts/ig-2021-06-28-what-i-am-drinking-peanut-butter-flavored-bourbon-whisky/17938497328533528.jpg)

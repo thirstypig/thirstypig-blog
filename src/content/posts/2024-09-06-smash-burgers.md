@@ -21,6 +21,7 @@ tags:
 - hamburgers
 - grilling
 description: Smash burgers! First time making and grilling them. Used 73/27% beef, when I should have used 80/20. This time it was just too much fat dripping out when grilling. Added garlic powder, pepper, and wor
+location: Smash burgers
 ---
 
 ![Smash burgers](/images/posts/ig-2024-09-06-smash-burgers/17896110699062433.jpg)

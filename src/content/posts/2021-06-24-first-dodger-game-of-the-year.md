@@ -19,6 +19,7 @@ tags:
 - hardicetea
 - gododgers
 description: First dodger game of the year! Go dodgers!! . . . . .
+location: First dodger game of the year
 ---
 
 ![First dodger game of the year](/images/posts/ig-2021-06-24-first-dodger-game-of-the-year/17927259088627293.jpg)

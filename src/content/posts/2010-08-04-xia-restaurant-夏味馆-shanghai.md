@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
 categories:
 - Jingan
+- Shanghai
 tags:
 - Shanghainese
 description: If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your ju
 archiveUrl: https://web.archive.org/web/20161019153946/http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
 draft: false
+location: Xia Restaurant 夏味馆 of Shanghai
+city: Shanghai
+region: Shanghai
 ---
 
 [![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-05.jpg?resize=403%2C302 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05/)

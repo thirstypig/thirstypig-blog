@@ -19,6 +19,7 @@ tags:
 - æ
 - koreatown
 description: lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons. Yummy. Everything was great. Would recommend a
+location: lunch with old friends in Koreatown
 ---
 
 ![lunch with old friends in Koreatown](/images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18047950916707924.jpg)

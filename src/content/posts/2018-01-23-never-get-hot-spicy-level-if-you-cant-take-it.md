@@ -17,6 +17,12 @@ tags:
 - koreanhotpot
 - thirstypig
 description: Never get “hot” spicy level if you can’t take it. Had the “Korean” hot pot at Was way too hot for me. Wifey had the “beef” hot pot but was fine with the “hot” level.
+location: Never get “hot” spicy level if you can’t take it
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Never get “hot” spicy level if you can’t take it](/images/posts/ig-2018-01-23-never-get-hot-spicy-level-if-you-cant-take-it/17923371760033649.jpg)

@@ -33,10 +33,13 @@ categories:
 - Latin
 - Mexican
 - Price Range 2 $/¥/NT
+- Downtown Los Angeles
 tags:
 - Downtown LA
 - Los Angeles
 description: On this night, I had to arrange dinner for a large group, of about 40 people – my classmates from USC, for a unique Los Angeles dining experience. I wanted to find a cuisine that represented Los Angel
 archiveUrl: https://web.archive.org/web/20110105190042/http://www.thethirstypig.com/2010/07/13/ciudad-downtown-los-angeles/
 draft: false
+location: Ciudad
+city: Downtown Los Angeles
 ---

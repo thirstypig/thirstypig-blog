@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/05/grumpy-pig-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Burgers
 - Ramen
 description: Grumpy Pighttp://www.thegrumpypig.com/ 65-4 Maoming Bei Lu, near Yan’an Lu 茂名北路65-4号, 近延安路
 archiveUrl: https://web.archive.org/web/20161106022018/http://thirstypig.com/2010/04/05/grumpy-pig-shanghai/
 draft: false
+location: Grumpy Pig
+city: Shanghai
+region: Shanghai
 ---
 
 [![dsc_0230](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0230.jpg?resize=318%2C211 "dsc_0230")](http://thirstypig.com/2010/04/05/grumpy-pig-shanghai/dsc_0230/)

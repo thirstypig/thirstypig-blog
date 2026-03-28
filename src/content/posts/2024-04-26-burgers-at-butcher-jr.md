@@ -21,6 +21,7 @@ tags:
 - onionrings
 - milkshake
 description: Burgers at Butcher Jr. I had the milk caramel burger, which had a pleasant sweetness that I never experienced before. It was recommend by the cashier. The fries were crispy and the onion rings, too. O
+location: Burgers at Butcher Jr
 ---
 
 ![Burgers at Butcher Jr](/images/posts/ig-2024-04-26-burgers-at-butcher-jr/17864878077109496.jpg)

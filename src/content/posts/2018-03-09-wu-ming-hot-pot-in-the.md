@@ -21,6 +21,7 @@ tags:
 - chongqinghotpot
 - hotpot
 description: Wu Ming Hot Pot in the . Might be the most popular hour pot at this time. OMG ass fire spicy. Check out the
+location: Wu Ming Hot Pot in the
 ---
 
 ![Wu Ming Hot Pot in the](/images/posts/ig-2018-03-09-wu-ming-hot-pot-in-the/17899834027162254.jpg)

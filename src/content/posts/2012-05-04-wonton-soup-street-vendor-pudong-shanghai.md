@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/04/wonton-soup-street-vendor-pudong-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Soup
 - Wonton
 description: Wonton Soup Street Vendor, Pudong Shanghai Lulin Road
 archiveUrl: https://web.archive.org/web/20161106110406/http://thirstypig.com/2012/05/04/wonton-soup-street-vendor-pudong-shanghai/
 draft: false
+location: Wonton Soup Street Vendor
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_2551](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2551.jpg?resize=403%2C302 "img_2551")](http://thirstypig.com/2012/05/04/wonton-soup-street-vendor-pudong-shanghai/img_2551/)

@@ -26,6 +26,7 @@ tags:
 - barbecue
 - bbq
 description: APL Barbecue. Adam Perry Lang, BBQ Hall of Famer, in my neck of the woods! APL, a YETI brand ambassador, has a new barbecue joint featuring smoked Beef Ribs! Though there’s no brisket, I feel beef rib
+location: APL Barbecue
 ---
 
 ![APL Barbecue](/images/posts/ig-2022-03-30-apl-barbecue/17945476768878177.jpg)

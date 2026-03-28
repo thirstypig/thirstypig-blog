@@ -27,6 +27,11 @@ tags:
 - eeeeeats
 - thirstypig
 description: Had barbecue with my relatives at one of the most popular American Barbecue restaurants in Taipei. As a visitor to Taipei, I don’t look for western fare while overseas. But my friends know that I am a
+location: Had barbecue with my relatives at one of the most popular American Barbecue r...
+city: Taipei
+region: Taipei
+categories:
+- Taipei
 ---
 
 ![Had barbecue with my relatives at one of the most popular American Barbecue r...](/images/posts/ig-2024-05-05-had-barbecue-with-my-relatives-at-one-of-the-most-popular-am/18018385982512563.jpg)

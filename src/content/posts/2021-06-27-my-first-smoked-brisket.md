@@ -18,6 +18,7 @@ tags:
 - thirstypig
 - familylunch
 description: My first smoked brisket. From Costco USDA prime. Smoked on my Weber Smokey Mountain. I think I smoked it at a temperature that was bit too high. Regardless it came out really good. Taste great. Only u
+location: My first smoked brisket
 ---
 
 ![My first smoked brisket](/images/posts/ig-2021-06-27-my-first-smoked-brisket/17878787144457635.jpg)

@@ -17,6 +17,7 @@ tags:
 - tmbbqtop50
 - bourbon
 description: Beef Brisket was good but the spicy sausage was even better. Pull pork and pork ribs were ok. I like the cabbage slaw and button mushrooms. Blantons was tasty
+location: Beef Brisket was good but the spicy sausage was even better
 ---
 
 ![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17861747095180115.jpg)

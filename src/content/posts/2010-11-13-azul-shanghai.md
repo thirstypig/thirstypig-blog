@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/13/azul-shanghai/
 categories:
 - Jingan
+- Shanghai
 tags:
 - Spanish
 description: Azul Tapas Lounge 378 Wukang Rd, Xuhui, Shanghai, China +86 21 5405 2252
 archiveUrl: https://web.archive.org/web/20161019014500/http://thirstypig.com/2010/11/13/azul-shanghai/
 draft: false
+location: Azul Tapas Lounge
+city: Shanghai
+region: Shanghai
+address: 378 Wukang Rd
 ---
 
 [![azul-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Azul-Shanghai-10-1.jpg?resize=380%2C507 "azul-shanghai-10")](http://thirstypig.com/2010/11/13/azul-shanghai/azul-shanghai-10-2/)

@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/07/capital-seafood-arcadia/
 categories:
 - SGV
+- Arcadia
+- San Gabriel Valley
 tags:
 - Cantonese
 - Dim Sum
 description: Yelp Listinghttps://www.yelp.com/biz/capital-seafood-arcadia
 archiveUrl: https://web.archive.org/web/20161106105405/http://thirstypig.com/2010/04/07/capital-seafood-arcadia/
 draft: false
+location: Capital Seafood
+city: Arcadia
+region: San Gabriel Valley
+address: 333 E Huntington Dr Arcadia, CA 91006
 ---
 
 [![img_1242](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1242.jpg?resize=403%2C302 "img_1242")](http://thirstypig.com/2010/04/07/capital-seafood-arcadia/img_1242-2/)

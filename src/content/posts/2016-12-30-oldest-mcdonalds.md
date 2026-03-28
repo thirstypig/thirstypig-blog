@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/30/oldest-mcdonalds/
 categories:
 - OC
+- Orange County
 tags:
 - American
 - Burgers
@@ -13,6 +14,10 @@ tags:
 description: Drive-up style restaurant reminiscent of the 1950’s Food is all the same Museum next door at the out door dining area Still sells original fried apple pies Has the old Speedee mascot
 archiveUrl: https://web.archive.org/web/20161231004335/http://thirstypig.com/2016/12/30/oldest-mcdonalds/
 draft: false
+location: Oldest McDonald’s
+city: OC
+region: Orange County
+address: 10207 Lakewood Blvd Downey, CA 90241
 ---
 
 [![IMG_4212](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4212.jpg?resize=380%2C507 "IMG_4212")](http://thirstypig.com/2016/12/30/oldest-mcdonalds/img_4212/)

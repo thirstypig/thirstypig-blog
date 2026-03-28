@@ -11,6 +11,10 @@ tags:
 description: Papilles Bistrohttp://www.papillesla.com/ 6221 Franklin Ave Los Angeles, CA 90028 323 871-2026 5:30–10:30PM
 archiveUrl: https://web.archive.org/web/20161106092910/http://thirstypig.com/2012/01/28/papilles-bistro-hollywood/
 draft: false
+location: Papilles Bistro
+city: Hollywood
+region: Hollywood
+address: 6221 Franklin Ave Los Angeles, CA 90028
 ---
 
 [![papilles-bistro-los-angeles-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Papilles-Bistro-Los-Angeles-03.jpg?resize=300%2C199 "papilles-bistro-los-angeles-03")](http://thirstypig.com/2012/01/28/papilles-bistro-hollywood/papilles-bistro-los-angeles-03/)

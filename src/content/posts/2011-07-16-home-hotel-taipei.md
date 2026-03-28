@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/16/home-hotel-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Hotel
 description: Located in the heart of the XinYi district, Home Hotel is the latest trend of new hotels to pop up, with the Le Meridian, the W, and Tango opening recently. Home Hotel is an upscale boutique hotel wit
 archiveUrl: https://web.archive.org/web/20161106022408/http://thirstypig.com/2011/07/16/home-hotel-taipei/
 draft: false
+location: Home Hotel
+city: Taipei
+region: Taipei
+address: 90 SongRen Road
 ---
 
 [![home-hotel-taipei-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/07/Home-Hotel-Taipei-17.jpg?resize=403%2C302 "home-hotel-taipei-17")](http://thirstypig.com/2011/07/16/home-hotel-taipei/home-hotel-taipei-17/)

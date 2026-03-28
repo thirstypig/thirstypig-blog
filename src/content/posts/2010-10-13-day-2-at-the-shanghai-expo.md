@@ -16,11 +16,15 @@ images:
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-751-88x88.jpg
 categories:
 - 3 pigs
+- Shanghai
 tags:
 - Shanghai 上海
 description: After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.
 archiveUrl: https://web.archive.org/web/20110105105953/http://www.thethirstypig.com/2010/10/13/day-2-at-the-shanghai-expo/
 draft: false
+location: Day 2 at the Shanghai Expo
+city: Shanghai
+region: Shanghai
 ---
 
 After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.

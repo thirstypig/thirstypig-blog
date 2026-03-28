@@ -14,11 +14,15 @@ images:
 categories:
 - 2 pigs
 - Taiwanese
+- Taipei
 tags:
 - Shida District 台北師大
 description: Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowlor two, if I am hungry late at night, o
 archiveUrl: https://web.archive.org/web/20110105015251/http://www.thethirstypig.com/2010/06/10/lu-ro-fan-at-da-lai-kodate-taipei/
 draft: false
+location: Lu Ro Fan at Da Lai Kodate大來小館
+city: Taipei
+region: Taipei
 ---
 
 Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowl(or two), if I am hungry late at night, or if I don’t have much time, and is one of the primary things I have at a Taiwanese restaurant.

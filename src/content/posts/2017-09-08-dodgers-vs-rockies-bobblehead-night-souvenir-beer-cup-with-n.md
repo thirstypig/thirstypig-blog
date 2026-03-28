@@ -21,6 +21,7 @@ tags:
 - dodgerstadium
 - thirstypig
 description: Dodgers vs Rockies bobblehead night souvenir beer cup with need more hard cider at Dodger Stadium Almost got a T-shirt. Used a free iPhone charger from Spectrum
+location: Dodgers vs Rockies  bobblehead night    souvenir beer cup with    need more h...
 ---
 
 ![Dodgers vs Rockies  bobblehead night    souvenir beer cup with    need more h...](/images/posts/ig-2017-09-08-dodgers-vs-rockies-bobblehead-night-souvenir-beer-cup-with-n/17897390575030900.jpg)

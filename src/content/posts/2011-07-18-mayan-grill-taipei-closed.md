@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
 categories:
 - ZhongShan
+- Taipei
 tags:
 - Mexican
+- closed
 description: With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like Maya, everyday type of restaurants like Cantina Agave, and almost fast food types
 archiveUrl: https://web.archive.org/web/20161105005205/http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
 draft: false
+location: Mayan Grill
+city: Taipei
+region: Taipei
 ---
 
 [![mayan-taipei-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-13.jpg?resize=403%2C302 "mayan-taipei-13")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-13/)

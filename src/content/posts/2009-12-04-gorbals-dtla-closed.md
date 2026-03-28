@@ -6,11 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/04/gorbals-dtla-closed/
 categories:
 - DTLA
+- Dtla
+- Downtown LA
 tags:
 - American
+- closed
 description: Yelp Listinghttps://www.yelp.com/biz/the-gorbals-los-angeles
 archiveUrl: https://web.archive.org/web/20161105201432/http://thirstypig.com/2009/12/04/gorbals-dtla-closed/
 draft: false
+location: The Gorbals
+city: Dtla
+region: Downtown LA
 ---
 
 [![dscn0016](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0016.jpg?resize=234%2C175 "dscn0016")](http://thirstypig.com/2009/12/04/gorbals-dtla-closed/dscn0016-5/)

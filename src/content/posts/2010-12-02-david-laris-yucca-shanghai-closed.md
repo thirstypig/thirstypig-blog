@@ -6,13 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/
 categories:
 - Jingan
+- Shanghai
 tags:
 - Bar
 - Lounge
 - Mexican
+- closed
 description: 'I recently got invited to Yucca – David Laris’ latest hot spot – Yucca. Coined as a micro-lounge, Yucca is located the Sinan Mansions 思南公馆. Yucca is a Mexican inspired menu and venue. Perhaps will be '
 archiveUrl: https://web.archive.org/web/20161019154003/http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/
 draft: false
+location: David Laris’ Yucca
+city: Shanghai
+region: Shanghai
 ---
 
 [![_mg_5404](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/MG_5404.jpg?resize=244%2C163 "_mg_5404")](http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/_mg_5404/)

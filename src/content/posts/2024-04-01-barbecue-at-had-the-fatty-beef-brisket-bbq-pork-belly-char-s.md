@@ -23,6 +23,10 @@ tags:
 - thirstypig
 - porkbelly
 description: 'Barbecue at Had the fatty beef brisket, bbq pork belly char siu, roast pork belly siu yuk, pork ribs, dirty rice, and mapo chili. Went with my fellow bbq judges. Big thanks to for setting it up! Glad '
+location: Barbecue at  Had the fatty beef brisket, bbq pork belly char siu
+city: roast pork ...
+categories:
+- roast pork ...
 ---
 
 ![Barbecue at  Had the fatty beef brisket, bbq pork belly char siu, roast pork ...](/images/posts/ig-2024-04-01-barbecue-at-had-the-fatty-beef-brisket-bbq-pork-belly-char-s/18410253916067111.jpg)

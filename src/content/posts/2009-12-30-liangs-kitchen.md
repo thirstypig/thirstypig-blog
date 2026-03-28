@@ -20,9 +20,16 @@ categories:
 - 3 pigs
 - San Gabriel Valley
 - Taiwanese
+- San Gabriel
 description: I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang's Kitchen is my new favorite local Taiwanese restaurant. I would almost s
 archiveUrl: https://web.archive.org/web/20100103040517/http://blog.thethirstypig.com:80/2009/12/liangs-kitchen.html
 draft: false
+location: Liang's Kitchen 梁媽媽家
+city: San Gabriel
+region: San Gabriel Valley
+address: '1027 S. Baldwin Ave
+
+  Arcadia, CA 91007'
 ---
 
 I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang's Kitchen is my new favorite local Taiwanese restaurant. I would almost say hole-in-the-wall. But they have 3 San Gabriel Valley locations.

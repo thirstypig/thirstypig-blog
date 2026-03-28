@@ -11,6 +11,9 @@ tags:
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106094711/http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/
 draft: false
+location: Design Boutique Hotel 蝶尚非经验酒店
+city: Huangshan
+address: 6 Fairy Cave North Road
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Design-Hotel-Huangshan-48.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/design-boutique-hotel-%e8%9d%b6%e5%b0%9a%e9%9d%9e%e7%bb%8f%e9%aa%8c%e9%85%92%e5%ba%97-huangshan/olympus-digital-camera-75/)

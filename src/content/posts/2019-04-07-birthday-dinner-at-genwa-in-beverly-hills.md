@@ -21,6 +21,12 @@ tags:
 - beef
 - porkbelly
 description: Birthday Dinner at Genwa in Beverly Hills. So much food. .
+location: Birthday Dinner at Genwa in Beverly Hills
+city: Beverly Hills
+region: Westside
+categories:
+- Beverly Hills
+- Westside
 ---
 
 ![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18013219483172525.jpg)

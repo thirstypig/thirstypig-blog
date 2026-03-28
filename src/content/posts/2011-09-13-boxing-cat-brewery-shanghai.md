@@ -10,11 +10,15 @@ categories:
 - Xuhui
 - Southern
 - 2 pigs
+- Shanghai
 tags:
 - American
 description: When it comes to comfort food, almost nothing compares to good ole hearty American Southern cuisine. As much as we hate it, lard, butter, and grease are all necessary evils and ingredients for wholeso
 archiveUrl: https://web.archive.org/web/20161105165307/http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/
 draft: false
+location: Boxing Cat Brewery
+city: Shanghai
+region: Shanghai
 ---
 
 [![boxing-cat-brewery-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-06.jpg?resize=395%2C295 "boxing-cat-brewery-shanghai-06")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-06/)

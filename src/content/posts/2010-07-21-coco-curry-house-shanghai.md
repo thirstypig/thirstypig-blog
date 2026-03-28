@@ -22,12 +22,16 @@ images:
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-9-88x88.jpg
 categories:
 - Jingan
+- Shanghai
 tags:
 - Curry
 - Japanese
 description: Curry has origins from India, yet, is arguably perfected in Japan. House Foods Corporation has spread the Curry Gospel to the US with the Curry House.
 archiveUrl: https://web.archive.org/web/20161018163241/http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/
 draft: false
+location: CoCo Curry House
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3335](/images/posts/coco-curry-house-shanghai/Coco-Curry-House-1-88x88.jpg "img_3335")](http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/img_3335/)

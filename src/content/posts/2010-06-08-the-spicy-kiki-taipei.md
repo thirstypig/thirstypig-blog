@@ -19,12 +19,16 @@ images:
 categories:
 - 2 pigs
 - Szechuan
+- Taipei
 tags:
 - Eastern District 台北東區
 - Taipei 台北
 description: 'Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the '
 archiveUrl: https://web.archive.org/web/20110105124934/http://www.thethirstypig.com/2010/06/08/the-spicy-kiki-taipei/
 draft: false
+location: The Spicy Kiki’s 老媽餐廳
+city: Taipei
+region: Taipei
 ---
 
 Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.

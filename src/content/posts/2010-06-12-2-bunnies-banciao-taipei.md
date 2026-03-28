@@ -18,11 +18,15 @@ categories:
 - 1 pig
 - Cafe
 - Japanese
+- Taipei
 tags:
 - Banciao 板橋
 description: One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.
 archiveUrl: https://web.archive.org/web/20110105014517/http://www.thethirstypig.com/2010/06/12/2-bunnies-banciao-taipei/
 draft: false
+location: 2 Bunnies Cafe in Banciao
+city: Taipei
+region: Taipei
 ---
 
 One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.

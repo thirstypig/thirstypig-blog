@@ -14,11 +14,15 @@ categories:
 - San Gabriel Valley
 - Chicken
 - Curry
+- Rotisserie Chicken of California
 tags:
 - Los Angeles
 description: Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie an
 archiveUrl: https://web.archive.org/web/20111103144039/http://www.thethirstypig.com/2009/08/27/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/
 draft: false
+location: Secret Lunch Find in Pasadena
+city: Rotisserie Chicken of California
+region: San Gabriel Valley
 ---
 
 Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie and California restaurants all over the place. So, to me. . . coming here was almost moot. But my friend insisted we go. INSISTED!!

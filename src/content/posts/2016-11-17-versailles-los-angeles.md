@@ -13,6 +13,9 @@ tags:
 description: 'Good Cuban Food Roast Pork is a must order. Also the Roast Chicken is a popular favorite Will try the Cubano Sandwich next time Had my first fried Yucca like potatoes Versailles is also the name of a '
 archiveUrl: https://web.archive.org/web/20161212143609/http://thirstypig.com/2016/11/17/versailles-los-angeles/
 draft: false
+location: Versailles
+city: Los Angeles
+address: 1415 S La Cienega Blvd Culver City, CA 90035
 ---
 
 [![IMG_0444](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0444.jpg?resize=301%2C226 "IMG_0444")](http://thirstypig.com/2016/11/17/versailles-los-angeles/img_0444/)

@@ -16,11 +16,15 @@ categories:
 - American
 - $$
 - French
+- I am HOT STUFF!
 tags:
 - LA's San Gabriel Valley
 description: I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.
 archiveUrl: https://web.archive.org/web/20110105235913/http://www.thethirstypig.com/2009/09/23/hot-stuff-cafe-thats-right-i-am-hot-stuff/
 draft: false
+location: Hot Stuff Cafe – that’s right
+city: I am HOT STUFF!
+region: San Gabriel Valley
 ---
 
 I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.

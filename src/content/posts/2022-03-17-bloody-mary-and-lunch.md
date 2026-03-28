@@ -26,6 +26,7 @@ tags:
 - alpastortacos
 - cauliflower
 description: Bloody Mary and Lunch. Cauliflower tacos and Al Pastor tacos, with fries and chicken strips. Also the caipirinha with mezcal and cachaça and passion fruit juice was raves about. Excellent day for a ro
+location: Bloody Mary and Lunch
 ---
 
 ![Bloody Mary and Lunch](/images/posts/ig-2022-03-17-bloody-mary-and-lunch/17894449022595997.jpg)

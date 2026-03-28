@@ -20,6 +20,11 @@ tags:
 - eat
 - eeeeeats
 description: Pasadena Greek Fest. Gyros, Souvlakia, Baklava, and chicken souvlaki. Yum. The Gyros are awesome!!! Going on all weekend 9/20-22 . . . .
+location: Pasadena Greek Fest
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Pasadena Greek Fest](/images/posts/ig-2019-09-20-pasadena-greek-fest/18072480292143796.jpg)

@@ -20,6 +20,7 @@ tags:
 - dessert
 - å
 description: Boba drinks at Class 302. Taiwanese restaurant that offers Taiwanese comfort food with drinks and desserts. Only had drinks this time. I had the milk with brown sugar boba and egg custard. Not bad. Bu
+location: Boba drinks at Class 302
 ---
 
 ![Boba drinks at Class 302](/images/posts/ig-2019-12-13-boba-drinks-at-class-302/17868254041531942.jpg)

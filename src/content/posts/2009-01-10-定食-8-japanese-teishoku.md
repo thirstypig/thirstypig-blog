@@ -18,11 +18,15 @@ images:
 categories:
 - Japanese
 - Taipei
+- Japanese teishoku
 tags:
 - Taipei
 description: I hardly write things in English, other than work related stuff. Since my uncle\, Thirsty Pig, invited me to post some restaurants in Taiwan, I tried my best to write something here for the restaurant
 archiveUrl: https://web.archive.org/web/20111103150752/http://www.thethirstypig.com/2009/01/10/%e5%ae%9a%e9%a3%9f-8-japanese-teishoku/
 draft: false
+location: 定食 8
+city: Japanese teishoku
+region: Taipei
 ---
 
 I hardly write things in English, other than work related stuff. Since my uncle\*, Thirsty Pig, invited me to post some restaurants in Taiwan, I tried my best to write something here for the restaurant “[定食8](http://www.sushi-express.com.tw/sushi_group/set/index.php) (Teishoku 8)” I have been yesterday and today.

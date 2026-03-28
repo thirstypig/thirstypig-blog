@@ -16,6 +16,7 @@ tags:
 - tacos
 - migas
 description: Breakfast tacos at
+location: Breakfast tacos at
 ---
 
 ![Breakfast tacos at](/images/posts/ig-2017-06-17-breakfast-tacos-at/17884250974004247.jpg)

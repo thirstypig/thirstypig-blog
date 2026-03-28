@@ -14,6 +14,7 @@ tags:
 - beignets
 - milk
 description: we only had 1 order (of three). We might try to return for more
+location: we only had 1 order (of three)
 ---
 
 ![we only had 1 order (of three)](/images/posts/ig-2017-07-06-we-only-had-1-order-of-three/17862793105178735.jpg)

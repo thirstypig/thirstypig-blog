@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/21/mesa-grill-vegas/
 categories:
 - Las Vegas
+- Vegas
 tags:
 - Mexican
 description: Bobby Flay’s restaurant Went in without any expectation, but throughly enjoyed the food Great Drinks Yellow and blue corn cornbread muffins Everything was really good
 archiveUrl: https://web.archive.org/web/20161212082953/http://thirstypig.com/2016/11/21/mesa-grill-vegas/
 draft: false
+location: Mesa Grill
+city: Vegas
+region: Las Vegas
+address: 3570 Las Vegas Boulevard
 ---
 
 [![IMG_3597](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3597-1.jpg?resize=208%2C277 "IMG_3597")](http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/img_3597-2/)

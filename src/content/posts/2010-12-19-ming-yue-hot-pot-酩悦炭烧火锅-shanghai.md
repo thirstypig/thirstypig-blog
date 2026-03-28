@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/
 categories:
 - Changning
+- Shanghai
 tags:
 - Hot Pot
 description: 'Traditional hot pot is used, not as a simple round bowl, but one with a small chimney on top. In the olden days, when electricity wasn’t available, people used to use charcoal and open fire flames to '
 archiveUrl: https://web.archive.org/web/20161019014438/http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/
 draft: false
+location: Ming Yue Hot Pot 酩悦炭烧火锅
+city: Shanghai
+region: Shanghai
+address: 1018 Changning Road
 ---
 
 [![charcoal-hot-pot-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-05.jpg?resize=403%2C302 "charcoal-hot-pot-shanghai-05")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-05/)

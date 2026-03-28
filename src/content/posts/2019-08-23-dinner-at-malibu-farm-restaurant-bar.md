@@ -24,6 +24,7 @@ tags:
 - avocado
 - lasagna
 description: Dinner at Malibu Farm Restaurant & Bar. Avocado Hurache, skirt steak, Salmon, Spaghetti Squash Lasagna, cauliflower pizza, and coconut carrot cake. Yummy and healthy. No guilt. . . . .
+location: Dinner at Malibu Farm Restaurant & Bar
 ---
 
 ![Dinner at Malibu Farm Restaurant & Bar](/images/posts/ig-2019-08-23-dinner-at-malibu-farm-restaurant-bar/18028120348200591.jpg)

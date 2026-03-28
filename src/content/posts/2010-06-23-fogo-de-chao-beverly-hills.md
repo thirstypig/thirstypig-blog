@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/23/fogo-de-chao-beverly-hills/
 categories:
 - Beverly Hills
+- Westside
 tags:
 - Bbq
 - Beef
@@ -15,6 +16,10 @@ tags:
 description: Fogo de Chao is a Brazilian Churrasco BBQ. BBQ with the universally accepted meaning of roasting and grilling meats over open flames. Korean also have a BBQ as well as Americans.
 archiveUrl: https://web.archive.org/web/20160914022204/http://thirstypig.com/2010/06/23/fogo-de-chao-beverly-hills/
 draft: false
+location: Fogo de Chao
+city: Beverly Hills
+region: Westside
+address: 133 N. La Cienega Blvd Beverly Hills, CA 90211
 ---
 
 [![img_2958](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_2958.jpg?resize=245%2C184 "img_2958")](http://thirstypig.com/2010/06/23/fogo-de-chao-beverly-hills/img_2958/)

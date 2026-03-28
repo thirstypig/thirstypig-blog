@@ -23,6 +23,11 @@ tags:
 - eat
 - la
 description: Baked Chicken at Love Baked Wings on Melrose. Still with a nice crackle but without the greasy fried crust. I first had baked chicken in Seoul at Oppadak with a couple of local elementary school teach
+location: Baked Chicken at Love Baked Wings  on Melrose
+city: Seoul
+region: Seoul
+categories:
+- Seoul
 ---
 
 ![Baked Chicken at Love Baked Wings  on Melrose](/images/posts/ig-2019-11-21-baked-chicken-at-love-baked-wings-on-melrose/18006380785268260.jpg)

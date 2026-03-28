@@ -22,6 +22,8 @@ tags:
 description: On a chilly dark November night, an unsuspecting friend was smuggled into the unknown . . . Cav. My friends brought me for some drinks at a downtown SF wine bar called Cav. Nice little place with spra
 archiveUrl: https://web.archive.org/web/20110105200356/http://www.thethirstypig.com/2009/11/24/cav-wine-bar/
 draft: false
+location: Cav Wine Bar
+region: Bay Area
 ---
 
 On a chilly dark November night, an unsuspecting friend was smuggled into the unknown . . . Cav. My friends brought me for some drinks at a downtown SF wine bar called Cav. Nice little place with spray painted decor.

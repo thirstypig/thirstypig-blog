@@ -20,11 +20,15 @@ categories:
 - Japanese
 - 0 pigs
 - San Gabriel Valley
+- San Marino
 tags:
 - LA's San Gabriel Valley
 description: I’ve heard about Yoshida for awhile now. I have been meaning to go, but never had a chance. Thought I rarely try new sushi restaurants due to my personal sushi policy.
 archiveUrl: https://web.archive.org/web/20110106001026/http://www.thethirstypig.com/2010/01/10/yoshida-sushi-san-marino/
 draft: false
+location: Yoshida Sushi
+city: San Marino
+region: San Gabriel Valley
 ---
 
 I’ve heard about Yoshida for awhile now. I have been meaning to go, but never had a chance. Thought I rarely try new sushi restaurants due to my personal sushi policy.

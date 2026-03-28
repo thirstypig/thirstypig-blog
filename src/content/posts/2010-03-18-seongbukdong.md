@@ -29,4 +29,7 @@ tags:
 description: This place is a find. This is probably one of the better Korean meals, I have had in awhile. Seongbukdong is known for having excellent Korean comfort food. Perhaps known for the simplicity of the dis
 archiveUrl: https://web.archive.org/web/20110105093051/http://www.thethirstypig.com/2010/03/18/seongbukdong/
 draft: false
+location: Seongbukdong
+city: Koreatown
+region: Koreatown
 ---

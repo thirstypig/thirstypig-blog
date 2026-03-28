@@ -20,6 +20,10 @@ tags:
 - brunch
 - chickensandwich
 description: Didn't know brunch was serious in , pastrami hash, and Bloody Mary were yummy
+location: Didn't know brunch was serious in   , pastrami hash
+city: and Bloody Mary were yummy
+categories:
+- and Bloody Mary were yummy
 ---
 
 ![Didn't know brunch was serious in   , pastrami hash, and Bloody Mary were yummy](/images/posts/ig-2017-06-25-didnt-know-brunch-was-serious-in-pastrami-hash-and-bloody-ma/17884819894001006.jpg)

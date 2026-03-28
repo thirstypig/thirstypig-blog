@@ -14,6 +14,7 @@ categories:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103142320/http://www.thethirstypig.com/2009/11/30/tips-on-taking-pictures-of-food/
 draft: false
+location: Tips on Taking Pictures of Food
 ---
 
 I thought share my tips on taking pictures of food. And by no means am I an expert on taking pictures of food. These are just some pointers that I came up with, and also from my friends.

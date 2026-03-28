@@ -24,6 +24,7 @@ tags:
 - eat
 - shavedice
 description: Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage
+location: Taiwanese dinner at Monja Taiker
 ---
 
 ![Taiwanese dinner at Monja Taiker](/images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/18107338234005795.jpg)

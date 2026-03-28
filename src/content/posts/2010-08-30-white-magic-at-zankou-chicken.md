@@ -28,6 +28,7 @@ categories:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154803/http://www.thethirstypig.com:80/2010/08/30/white-magic-at-zankou-chicken/
 draft: false
+location: White Magic Garlic Sauce at Zankou Chicken
 ---
 
 #gallery-2 {

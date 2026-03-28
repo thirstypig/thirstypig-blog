@@ -14,11 +14,14 @@ images:
 categories:
 - American
 - Barbeque
+- Gus’s Barbecue
 tags:
 - LA's San Gabriel Valley
 description: Recently renovated, Gus’s Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently t
 archiveUrl: https://web.archive.org/web/20110106003432/http://www.thethirstypig.com/2009/10/01/south-pasadenas-own-barbecue-joint-guss-barbecue/
 draft: false
+location: South Pasadena’s own Barbecue Joint
+city: Gus’s Barbecue
 ---
 
 Recently renovated, Gus’s Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently taken over by the same group/family that owns Tops in Pasadena. They did a complete makeover to the place along with a new website.

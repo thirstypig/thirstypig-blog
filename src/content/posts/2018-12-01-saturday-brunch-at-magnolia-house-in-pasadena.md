@@ -21,6 +21,11 @@ tags:
 - sgv
 - bloodymary
 description: Saturday brunch at Magnolia House in Pasadena. Chicken and waffles, pork belly with egg Sandro, and chiliquilles . . . .
+location: Saturday brunch at Magnolia House in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/17973204751160379.jpg)

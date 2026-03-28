@@ -22,6 +22,7 @@ tags:
 - clampizza
 - chickenparmesan
 description: The famous clam pizza at Lombardi’s. Also had the chicken parmesan, half white and sausage pizza, and an Italian salad. Solid pizza! . . .
+location: The famous clam pizza at Lombardi’s
 ---
 
 ![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17849587021438362.jpg)

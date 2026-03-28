@@ -18,6 +18,7 @@ tags:
 - sausage
 - thirstypig
 description: Sunday lunch with old friends at the old spaghetti factory
+location: Sunday lunch with old friends at the old spaghetti factory
 ---
 
 ![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg)

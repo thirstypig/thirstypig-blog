@@ -18,6 +18,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Quick lunch at NYC KTown Food Gallery. Seafood mini hot pot and chicken kimchi fried rice.. . . .
+location: Quick lunch at NYC KTown Food Gallery
 ---
 
 ![Quick lunch at NYC KTown Food Gallery](/images/posts/ig-2018-05-23-quick-lunch-at-nyc-ktown-food-gallery/17875686520231777.jpg)

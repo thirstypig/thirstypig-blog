@@ -21,6 +21,7 @@ tags:
 - lunch
 - thirstypig
 description: Lunch at Plate 38. Pretty decent burger. Unexpectedly good experience . . .
+location: Lunch at Plate 38
 ---
 
 ![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17943715648260730.jpg)

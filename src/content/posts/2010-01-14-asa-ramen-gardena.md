@@ -21,11 +21,15 @@ categories:
 - South Bay
 - 2 pigs
 - $
+- Gardena
 tags:
 - LA's South Bay
 description: Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.
 archiveUrl: https://web.archive.org/web/20110105204432/http://www.thethirstypig.com/2010/01/14/asa-ramen-gardena/
 draft: false
+location: Asa Ramen
+city: Gardena
+region: South Bay
 ---
 
 Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.

@@ -25,6 +25,7 @@ tags:
 - frenchdining
 - thirstypig
 description: Last night in NYC. had the chicken & foie gras, lamb chop, and lobster
+location: Last night in NYC
 ---
 
 ![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17889966739165003.jpg)

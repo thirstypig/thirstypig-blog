@@ -8,9 +8,13 @@ categories:
 - 2 pigs
 - Northern Chinese
 - Price Range 2 $/¥/NT
+- Taipei
 description: What is 北平都一處 Beijing, Do It True 北平都一處 is a northern Chinese cuisine restaurant which is located in Taipei. With a long history dating back a few decades, this restaurant is one of the more famed est
 archiveUrl: https://web.archive.org/web/20120316011349/http://www.thethirstypig.com:80/2012/03/12/beijing-do-it-true-%E5%8C%97%E5%B9%B3%E9%83%BD%E4%B8%80%E8%99%95-taipei/
 draft: false
+location: Beijing, Do It True 北平都一處
+city: Taipei
+region: Taipei
 ---
 
 **What is 北平都一處**

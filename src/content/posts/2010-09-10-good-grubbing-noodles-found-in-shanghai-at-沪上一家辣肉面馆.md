@@ -19,4 +19,5 @@ tags:
 description: I found this little late night eatery, by sheer chance. I was going home from a late night of drinking with some friends and my stomach was taking over. My mouth started to moving, in probably, the be
 archiveUrl: https://web.archive.org/web/20110106010105/http://www.thethirstypig.com/2010/09/10/good-grubbing-noodles-found-in-shanghai-at-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86/
 draft: false
+location: Good Grubbing Noodles . . . Found in Shanghai at 沪上一家辣肉面馆
 ---

@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/09/oinkster-eagle-rock/
 categories:
 - Los Angeles
+- Oc
+- Orange County
 tags:
 - American
 - Burgers
@@ -13,6 +15,10 @@ tags:
 description: Yelp Listinghttps://www.yelp.com/biz/the-oinkster-los-angeles
 archiveUrl: https://web.archive.org/web/20161105045220/http://thirstypig.com/2010/03/09/oinkster-eagle-rock/
 draft: false
+location: Oinkster
+city: Oc
+region: Orange County
+address: 2005 Colorado Blvd Los Angeles, CA 90041
 ---
 
 [![img_0667](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0667.jpg?resize=403%2C302 "img_0667")](http://thirstypig.com/2010/03/09/oinkster-eagle-rock/img_0667/)

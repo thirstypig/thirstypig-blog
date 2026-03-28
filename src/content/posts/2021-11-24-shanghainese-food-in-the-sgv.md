@@ -20,6 +20,11 @@ tags:
 - noodles
 - chinesefood
 description: Shanghainese food in the SGV. Pan fried dumplings 生煎包 were great! After living in Shanghai for six years, you miss some of the these things. . . . . . . .
+location: Shanghainese food in the SGV
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Shanghainese food in the SGV](/images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/18019586896338132.jpg)

@@ -26,9 +26,12 @@ categories:
 - $
 - Mexican
 - Los Angeles
+- East LA
 tags:
 - Los Angeles
 description: This past weekend, I finally found time to go to El Mercado in East LA. Translated as the Market, this place is 3 floors of swap meet, food court, market, and restaurant all rolled into one.
 archiveUrl: https://web.archive.org/web/20110105092758/http://www.thethirstypig.com/2010/03/17/el-mercado-east-la/
 draft: false
+location: El Mercado
+city: East LA
 ---

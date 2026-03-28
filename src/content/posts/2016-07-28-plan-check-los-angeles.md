@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/07/28/plan-check-los-angeles/
 categories:
 - DTLA
+- Los Angeles
+- Downtown LA
 tags:
 - American
 - Burgers
@@ -14,6 +16,10 @@ tags:
 description: Great Burgers and one of the best fried chicken – Can’t stop thinking about the SMOKEY FRIED CHICKEN – jidori chicken, smoked milk gravy, yam preserves, spicy pickled okra The evolution of the gastrop
 archiveUrl: https://web.archive.org/web/20161018163747/http://thirstypig.com/2016/07/28/plan-check-los-angeles/
 draft: false
+location: Plan Check
+city: Los Angeles
+region: Downtown LA
+address: 1111 Wilshire Blvd
 ---
 
 [![IMG_3804](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3804.jpg?resize=403%2C302 "IMG_3804")](http://thirstypig.com/2016/07/28/plan-check-los-angeles/img_3804/)

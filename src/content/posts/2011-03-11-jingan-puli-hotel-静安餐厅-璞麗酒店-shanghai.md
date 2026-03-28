@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/
 categories:
 - Jingan
+- Shanghai
 tags:
 - French
 - Hotel
 description: Restaurant Week Shanghai has come and gone, but luckily I got to try a great place. Based on the suggestion of a friend, I got a reservation at the Jing’An at the Puli Hotel.
 archiveUrl: https://web.archive.org/web/20161019110306/http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/
 draft: false
+location: Jing’An at the Puli Hotel 静安餐厅 璞麗酒店
+city: Shanghai
+region: Shanghai
+address: 1 ChangDe Road
 ---
 
 [![jingan-at-the-puli-hotel-shanghai-20](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-20.jpg?resize=403%2C301 "jingan-at-the-puli-hotel-shanghai-20")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-20/)

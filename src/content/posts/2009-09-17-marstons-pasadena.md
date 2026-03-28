@@ -13,6 +13,10 @@ tags:
 description: Famous for their Cornflake French Toast Parking lot is small and fills up fast One of the local favorite brunch and breakfast restaurants in the area Eggs Benedict is yummy Open only for Breakfast, Br
 archiveUrl: https://web.archive.org/web/20160828061938/http://thirstypig.com/2009/09/17/marstons-pasadena/
 draft: false
+location: Marstons
+city: Pasadena
+region: Pasadena
+address: 151 E Walnut St. Pasadena, CA 91103
 ---
 
 [![DSCN0034 2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0034-2.jpg?resize=245%2C184 "DSCN0034 2")](http://thirstypig.com/2009/09/17/marstons-pasadena/dscn0034-2/)

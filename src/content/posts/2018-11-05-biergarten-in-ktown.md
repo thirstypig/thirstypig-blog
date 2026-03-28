@@ -17,6 +17,7 @@ tags:
 - ktown
 - nfl
 description: Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice t
+location: Biergarten in Ktown
 ---
 
 ![Biergarten in Ktown](/images/posts/ig-2018-11-05-biergarten-in-ktown/17996466097051283.jpg)

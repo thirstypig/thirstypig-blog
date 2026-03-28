@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/
 categories:
 - Bund
+- Shanghai
 tags:
 - Chicken
 - Yunan
 description: 'Lost Heaven, located near the Bund in Shanghai, is visual experience much as it is a culinary one. A fusion of Burmese, Thai, and Yunnan dishes, Lost Heaven is ideal for an intimate date as well as a '
 archiveUrl: https://web.archive.org/web/20161104194834/http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/
 draft: false
+location: Lost Heaven on the Bund
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_1777](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1777.jpg?resize=380%2C507 "img_1777")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1777/)

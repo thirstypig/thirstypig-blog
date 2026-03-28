@@ -14,6 +14,10 @@ tags:
 description: Underrated Pasadena restaurant Good American-French food done right Great Service Must order the mussels Roasted Chicken was juicy and not dry
 archiveUrl: https://web.archive.org/web/20160914221954/http://thirstypig.com/2014/05/24/bistro-45-pasadena/
 draft: false
+location: Bistro 45
+city: Pasadena
+region: Pasadena
+address: 45 S Mentor Ave Pasadena, CA 91106
 ---
 
 [![IMG_0926](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0926.jpg?resize=156%2C208 "IMG_0926")](http://thirstypig.com/2014/05/24/bistro-45-pasadena/img_0926/)

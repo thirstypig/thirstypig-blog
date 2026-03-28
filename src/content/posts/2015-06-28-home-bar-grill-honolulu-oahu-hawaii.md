@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/06/28/home-bar-grill-honolulu-oahu-hawaii/
 categories:
 - Oahu
+- Hawaii
 tags:
 - American
 - Asian
@@ -13,6 +14,10 @@ tags:
 description: 'Hawaiian, American, and Asian cuisine. Good for large groups Bustling Sports Bar and Grill, with a good selection of beers and spirits Kimchi fried rice and Seared Tuna were really good. Located near '
 archiveUrl: https://web.archive.org/web/20161019081706/http://thirstypig.com/2015/06/28/home-bar-grill-honolulu-oahu-hawaii/
 draft: false
+location: Home Bar and Grill
+city: Hawaii
+region: Hawaii
+address: 1683 Kalakaua Ave
 ---
 
 [![IMG_3139](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3139.jpg?resize=403%2C302 "IMG_3139")](http://thirstypig.com/2015/06/28/home-bar-grill-honolulu-oahu-hawaii/img_3139/)

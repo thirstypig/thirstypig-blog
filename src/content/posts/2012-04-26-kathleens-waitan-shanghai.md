@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/26/kathleens-waitan-shanghai/
 categories:
 - People's Square
+- Shanghai
 tags:
 - American
 description: Kathleen’s Waitanhttp://www.kwaitan.com/ 4/F, 200 Huangpu Lu, near Qingpu Lu 黄浦路200号4楼, 近青浦路
 archiveUrl: https://web.archive.org/web/20161106105358/http://thirstypig.com/2012/04/26/kathleens-waitan-shanghai/
 draft: false
+location: Kathleen’s Waitan
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_2488](http://i1.wp.com/thirstypig.com/wp-content/uploads/2012/04/IMG_2488.jpg?resize=403%2C302 "img_2488")](http://thirstypig.com/2012/04/26/kathleens-waitan-shanghai/img_2488/)

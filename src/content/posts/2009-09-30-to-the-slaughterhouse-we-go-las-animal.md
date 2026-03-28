@@ -19,6 +19,7 @@ tags:
 description: 'With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making '
 archiveUrl: https://web.archive.org/web/20110106000023/http://www.thethirstypig.com/2009/09/30/to-the-slaughterhouse-we-go-las-animal/
 draft: false
+location: To the Slaughterhouse We Go! . . . LA’s Animal
 ---
 
 With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making Animal the ideal place to eat when you want to return back to your roots. Many people have talked about this restaurant, since day 1, about their unique skill with beef, pork, and other land animal meat.

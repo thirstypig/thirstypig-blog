@@ -17,6 +17,7 @@ tags:
 - vietnamesefood
 - shotoniphonex
 description: Pho at Pho Fillet 2 in . Good alternative to Golden Deli.
+location: Pho at Pho Fillet 2 in
 ---
 
 ![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17928704200018729.jpg)

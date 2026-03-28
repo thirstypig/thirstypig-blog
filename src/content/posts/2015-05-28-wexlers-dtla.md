@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/05/28/wexlers-dtla/
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Deli
 - Los Angeles
@@ -13,6 +14,9 @@ tags:
 description: Come for the Pastrami, stay for the lox & bagels Has a great Instagram Feedhttps://www.instagram.com/wexlersdeli Suggest you just parking the structure next door for Wexler’s and the other shops at Gr
 archiveUrl: https://web.archive.org/web/20160829101227/http://thirstypig.com/2015/05/28/wexlers-dtla/
 draft: false
+location: Wexler’s
+city: Dtla
+region: Downtown LA
 ---
 
 [![IMG_3450](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3450.jpg?resize=404%2C303 "IMG_3450")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3450/)

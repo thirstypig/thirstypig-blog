@@ -17,6 +17,10 @@ tags:
 - food
 - desserts
 description: we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?
+location: we had the hibiscus donut, the maple
+city: and the Homer Simpson
+categories:
+- and the Homer Simpson
 ---
 
 ![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857093546185438.jpg)

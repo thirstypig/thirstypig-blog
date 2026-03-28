@@ -20,6 +20,7 @@ tags:
 - eats
 - eeeeeats
 description: Guerrilla Tacos with carne asada taco and potato and cheese taquito. Also had the posole and oysters!!! Everything was great. Every bite’s purpose was to satisfy cravings was met. Love this place, but
+location: Guerrilla Tacos with carne asada taco and potato and cheese taquito
 ---
 
 ![Guerrilla Tacos with carne asada taco and potato and cheese taquito](/images/posts/ig-2024-12-08-guerrilla-tacos-with-carne-asada-taco-and-potato-and-cheese/17887253391162891.jpg)

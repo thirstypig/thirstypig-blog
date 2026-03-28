@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
 categories:
 - Jingan
+- City Deli (Closed)
 tags:
 - Sandwich
+- closed
 description: On my search for the Reuben Pastrami sandwich, this challenge has brought me to City Deli. I had read about City Deli, along with New York Deli, from the different punits – Smart Shanghai, Urbanatomy,
 archiveUrl: https://web.archive.org/web/20161019031835/http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
 draft: false
+location: The Shanghai Reuben Sandwich Challenge
+city: City Deli (Closed)
 ---
 
 [![city-deli-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-04.jpg?resize=403%2C302 "city-deli-shanghai-04")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-04/)

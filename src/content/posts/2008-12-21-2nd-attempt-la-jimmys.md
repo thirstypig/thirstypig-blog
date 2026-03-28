@@ -11,9 +11,12 @@ images:
 categories:
 - Contributors
 - Blog
+- LA Jimmy’s
 description: LA Jimmy’s was my 2nd attempt at a food blog. This lasted less than a year, from May ’06 till March ’07
 archiveUrl: https://web.archive.org/web/20110105193746/http://www.thethirstypig.com/2008/12/21/2nd-attempt-la-jimmys/
 draft: false
+location: 2nd attempt
+city: LA Jimmy’s
 ---
 
 LA Jimmy’s was my 2nd attempt at a food blog. This lasted less than a year, from May ’06 till March ’07

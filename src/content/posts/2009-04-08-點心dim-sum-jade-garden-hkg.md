@@ -17,11 +17,16 @@ categories:
 - Chinese
 - Cantonese
 - Breakfast
+- HKG
 tags:
 - Hong Kong 香港
 description: One night. . . after stumbling for a few hours in Hong Kong and Macau, we were all heading back to out hotels around 6am. But being that we were on vacation, we decided to stay up for breakfast. Break
 archiveUrl: https://web.archive.org/web/20110105025354/http://www.thethirstypig.com/2009/04/08/%e9%bb%9e%e5%bf%83dim-sum-jade-garden-hkg/
 draft: false
+location: 點心Dim Sum – Jade Garden
+city: HKG
+region: Hong Kong
+address: 1 Hysan Ave
 ---
 
 One night. . . after stumbling for a few hours in Hong Kong and Macau, we were all heading back to out hotels around 6am. But being that we were on vacation, we decided to stay up for breakfast. Breakfast in Hong Kong means Dim Sum.

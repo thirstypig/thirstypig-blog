@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/
 categories:
 - Los Angeles
+- Oc
+- Orange County
 tags:
 - Los Angeles
 - Soul Food
+- closed
 description: Grubstreethttp://www.grubstreet.com/2012/11/larkins-closing-eagle-rock.html Yelphttps://www.yelp.com/biz/larkins-eagle-rock Eater 1http://la.eater.com/2012/11/5/6525917/larkins-soul-food-joint-finally
 archiveUrl: https://web.archive.org/web/20160829002202/http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/
 draft: false
+location: Larkin’s
+city: Oc
+region: Orange County
 ---
 
 [![IMG_0918](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0918-1.jpg?resize=423%2C317 "IMG_0918")](http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/img_0918-2/)

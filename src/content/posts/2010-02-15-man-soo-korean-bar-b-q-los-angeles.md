@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/
 categories:
 - K-Town
+- Los Angeles
+- Koreatown
 tags:
 - Bbq
 - Korean
 description: The thing about new Korean BBQ restaurants – it is said that they offer morein their servings to entice new customers, smell nicersince they don’t have the stench in the walls, and less crowdedtill th
 archiveUrl: https://web.archive.org/web/20161105033627/http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/
 draft: false
+location: Man Soo Korean Bar-B-Q
+city: Los Angeles
+region: Koreatown
 ---
 
 [![img_0462](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0462.jpg?resize=403%2C302 "img_0462")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0462/)

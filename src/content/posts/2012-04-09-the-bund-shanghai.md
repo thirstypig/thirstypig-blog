@@ -6,8 +6,12 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/09/the-bund-shanghai/
 categories:
 - Bund
+- Shanghai
 archiveUrl: https://web.archive.org/web/20161106065322/http://thirstypig.com/2012/04/09/the-bund-shanghai/
 draft: false
+location: The Bund
+city: Shanghai
+region: Shanghai
 ---
 
 [![dsc_0172](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0172.jpg?resize=403%2C268 "dsc_0172")](http://thirstypig.com/2012/04/09/the-bund-shanghai/dsc_0172/)

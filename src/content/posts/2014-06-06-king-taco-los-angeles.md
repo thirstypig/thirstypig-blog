@@ -17,6 +17,8 @@ tags:
 description: My late night go-to restaurant, if I am without my wife . . . open 24 Hours Everyone loves the carne asada Beef, but I like the al pasto Pork Brough a King Taco Burrito to a Dodger Game FTW I also lov
 archiveUrl: https://web.archive.org/web/20160914223847/http://thirstypig.com/2014/06/06/king-taco-los-angeles/
 draft: false
+location: King Taco
+city: Los Angeles
 ---
 
 [![IMG_1125](/images/posts/king-taco-los-angeles/psb-8.jpg "IMG_1125")](http://thirstypig.com/2014/06/06/king-taco-los-angeles/img_1125/)

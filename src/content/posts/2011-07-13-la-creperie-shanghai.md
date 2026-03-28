@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/13/la-creperie-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Dessert
 - French
 description: La Creperie 1 Taojiang Rd, Xuhui Shanghai, China +86 21 5465 9055
 archiveUrl: https://web.archive.org/web/20161106105401/http://thirstypig.com/2011/07/13/la-creperie-shanghai/
 draft: false
+location: La Creperie
+city: Shanghai
+region: Shanghai
+address: 1 Taojiang Rd
 ---
 
 [![img_9884](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_9884.jpg?resize=403%2C302 "img_9884")](http://thirstypig.com/2011/07/13/la-creperie-shanghai/img_9884/)

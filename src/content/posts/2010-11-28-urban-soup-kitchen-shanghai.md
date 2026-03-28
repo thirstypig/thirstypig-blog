@@ -9,11 +9,15 @@ images:
 - /images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg
 categories:
 - Luwan
+- Shanghai
 tags:
 - Soup
 description: On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.
 archiveUrl: https://web.archive.org/web/20161019103504/http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/
 draft: false
+location: Urban Soup Kitchen
+city: Shanghai
+region: Shanghai
 ---
 
 [![urban-soup-kitchen-shanghai-11](/images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg "urban-soup-kitchen-shanghai-11")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-11/)

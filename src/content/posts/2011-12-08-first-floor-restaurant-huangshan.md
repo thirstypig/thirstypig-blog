@@ -9,9 +9,12 @@ categories:
 - Anhui Cuisine
 - Chinese
 - Price Range 2 $/¥/NT
+- Huangshan
 description: The First Floor Restaurant 老街第一楼, located in the historic Old Street, in the TunXi district of Huangshan city, is arguably the most popular restaurant in town. On a recent trip to see the famed Huangs
 archiveUrl: https://web.archive.org/web/20120116091452/http://www.thethirstypig.com:80/2011/12/08/first-floor-restaurant-huangshan/
 draft: false
+location: First Floor Restaurant 老街第一楼
+city: Huangshan
 ---
 
 The First Floor Restaurant 老街第一楼, located in the historic Old Street, in the TunXi district of Huangshan city, is arguably the most popular restaurant in town. On a recent trip to see the famed [Huangshan (Yellow Mountain)](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/), we spent a day in the nearby town to check out the local sights.

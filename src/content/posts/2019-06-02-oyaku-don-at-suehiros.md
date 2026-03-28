@@ -19,6 +19,7 @@ tags:
 - rememberthisplace
 - favoritedish
 description: Oyaku-Don at Suehiro’s. One of my favorite Japanese dishes - chicken, egg, and onion over rice. Simple and hearty. Ramen was also not bad. . . .
+location: Oyaku-Don at Suehiro’s
 ---
 
 ![Oyaku-Don at Suehiro’s](/images/posts/ig-2019-06-02-oyaku-don-at-suehiros/18062436043078337.jpg)

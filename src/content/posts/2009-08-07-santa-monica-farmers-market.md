@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/07/santa-monica-farmers-market/
 categories:
 - Santa Monica
+- Westside
 tags:
 - Farmers Market
 description: Wednesdays in Santa Monica mean one thing – Farmer’s Market day The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of t
 archiveUrl: https://web.archive.org/web/20161019152434/http://thirstypig.com/2009/08/07/santa-monica-farmers-market/
 draft: false
+location: Santa Monica Farmers Market
+city: Santa Monica
+region: Westside
 ---
 
 [![DSCN0012 2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0012-2-1.jpg?resize=403%2C302 "DSCN0012 2")](http://thirstypig.com/2009/08/07/santa-monica-farmers-market/dscn0012-2-2/)

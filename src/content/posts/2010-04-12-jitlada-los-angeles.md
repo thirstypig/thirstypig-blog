@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/12/jitlada-los-angeles/
 categories:
 - Hollywood
+- Los Angeles
 tags:
 - Seafood
 - Thai
 description: Jitlada specializes in southern Thai style cuisine. Arguably the best Thai restaurant in Southern California, Jitlada can also be found at some of summer Food & Wine festivals. Several LA food writers
 archiveUrl: https://web.archive.org/web/20161106015446/http://thirstypig.com/2010/04/12/jitlada-los-angeles/
 draft: false
+location: Jitlada
+city: Los Angeles
+region: Hollywood
+address: 5233 W Sunset Blvd Los Angeles, CA 90027
 ---
 
 [![img_1363](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1363.jpg?resize=234%2C175 "img_1363")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1363/)

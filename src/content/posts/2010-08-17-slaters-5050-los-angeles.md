@@ -12,6 +12,9 @@ tags:
 description: As long as I can remember, I have always enjoyed eating hamburgers. But whenever I saw a pink color in the meat, I was told it was a “No-No”. Pink meant that it was non fully cooked, and perhaps unsaf
 archiveUrl: https://web.archive.org/web/20161019154007/http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/
 draft: false
+location: Slater’s 50/50
+city: Los Angeles
+address: 6362 E Santa Ana Canyon Rd, Anaheim Hills, CA 92807
 ---
 
 [![slaters-5050-anaheim-hills-ca-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-15.jpg?resize=380%2C507 "slaters-5050-anaheim-hills-ca-15")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-15/)

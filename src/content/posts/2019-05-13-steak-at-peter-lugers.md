@@ -26,6 +26,7 @@ tags:
 - porterhouse
 - ribeye
 description: Steak at Peter Luger’s. We had the rib steak and the steak for two. Yum! Glad we went! . . .
+location: Steak at Peter Luger’s
 ---
 
 ![Steak at Peter Luger’s](/images/posts/ig-2019-05-13-steak-at-peter-lugers/17851651582426314.jpg)

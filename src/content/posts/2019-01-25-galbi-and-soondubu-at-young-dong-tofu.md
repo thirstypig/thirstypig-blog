@@ -19,6 +19,7 @@ tags:
 - sangabriel
 - tofu
 description: Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grilled chicken, and dumpling soondubu. Spicy . . .
+location: Galbi and Soondubu at Young Dong Tofu
 ---
 
 ![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17951856751232594.jpg)

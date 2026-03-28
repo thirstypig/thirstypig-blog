@@ -30,11 +30,15 @@ categories:
 - South Bay
 - $$
 - 3 pigs
+- Gardena
 tags:
 - Los Angeles
 description: Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ram
 archiveUrl: https://web.archive.org/web/20111103150423/http://www.thethirstypig.com/2010/01/12/shin-sen-gumi-gardena/
 draft: false
+location: Shin Sen Gumi
+city: Gardena
+region: South Bay
 ---
 
 Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ramen houses, chanko nabe, shabu-shabu, and yakitori. This particular Shin Sen Gumi specializes in yakitori.

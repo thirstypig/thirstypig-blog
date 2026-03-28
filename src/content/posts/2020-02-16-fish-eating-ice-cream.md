@@ -16,6 +16,7 @@ tags:
 - fish
 - dessert
 description: Fish eating ice cream! Matcha and milk ice cream with fish shaped pastry. I like the soft serve. They also added a powdered flavor which you could barely taste. Not bad. I would go again. . . . . . .
+location: Fish eating ice cream
 ---
 
 ![Fish eating ice cream](/images/posts/ig-2020-02-16-fish-eating-ice-cream/17932147102346114.jpg)

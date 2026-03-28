@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Shanghainese
 description: Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features ori
 archiveUrl: https://web.archive.org/web/20161105172325/http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/
 draft: false
+location: Restaurant Art Salon 屋里香
+city: Shanghai
+region: Shanghai
+address: 164 Nanchang Road
 ---
 
 [![art-salon-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-01.jpg?resize=403%2C301 "art-salon-shanghai-01")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-01/)

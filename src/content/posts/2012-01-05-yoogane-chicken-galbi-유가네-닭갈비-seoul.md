@@ -12,6 +12,9 @@ tags:
 description: Yoogane Chicken Galbi 유가네 닭갈비 서울 중구 명동2가 3-1 3-1 Myeongdong 2i-ga 10:45am to 12:00am
 archiveUrl: https://web.archive.org/web/20161105020721/http://thirstypig.com/2012/01/05/yoogane-chicken-galbi-%ec%9c%a0%ea%b0%80%eb%84%a4-%eb%8b%ad%ea%b0%88%eb%b9%84-seoul/
 draft: false
+location: Yoogane Chicken Galbi 유가네 닭갈비
+city: Seoul
+region: Seoul
 ---
 
 [![img_1483](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1483-1.jpg?resize=234%2C175 "img_1483")](http://thirstypig.com/2012/01/05/yoogane-chicken-galbi-%ec%9c%a0%ea%b0%80%eb%84%a4-%eb%8b%ad%ea%b0%88%eb%b9%84-seoul/img_1483-3/)

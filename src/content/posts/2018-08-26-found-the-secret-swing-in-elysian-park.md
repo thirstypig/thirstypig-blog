@@ -17,6 +17,7 @@ tags:
 - thirstypig
 - iphonexphotography
 description: Found the Secret Swing in Elysian Park. Easy to find but a bit of a tough ascent. Well worth the views. . . . .
+location: Found the Secret Swing in Elysian Park
 ---
 
 ![Found the Secret Swing in Elysian Park](/images/posts/ig-2018-08-26-found-the-secret-swing-in-elysian-park/17944111633153216.jpg)

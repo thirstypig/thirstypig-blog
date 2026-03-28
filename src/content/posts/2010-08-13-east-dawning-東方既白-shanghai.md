@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Chinese 2
 description: On a recent trip back to the US, I feeling a little hungry while waiting for my flight. Feeling adventurous, at the Shanghai Pudong Airport PVG, I went searching for something to put in my mouth. I re
 archiveUrl: https://web.archive.org/web/20161019154253/http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/
 draft: false
+location: East Dawning 東方既白
+city: Shanghai
+region: Shanghai
 ---
 
 [![shanghai-pudong-airport-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-02.jpg?resize=222%2C166 "shanghai-pudong-airport-02")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-02/)

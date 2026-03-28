@@ -10,6 +10,7 @@ categories:
 - Luwan District
 - Hamburgers
 - 3 pigs
+- Shanghai
 tags:
 - american
 - American
@@ -20,6 +21,9 @@ tags:
 description: What is New York Style Steak & Burger?
 archiveUrl: https://web.archive.org/web/20160602081525/http://thirstypig.com/2012/06/12/new-york-style-steak-burger-shanghai/
 draft: false
+location: New York Style Steak and Burger
+city: Shanghai
+region: Shanghai
 ---
 
 **What is New York Style Steak & Burger?**

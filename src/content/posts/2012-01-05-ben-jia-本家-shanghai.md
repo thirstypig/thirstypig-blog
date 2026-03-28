@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/05/ben-jia-%e6%9c%ac%e5%ae%b6-shanghai/
 categories:
 - Gubei
+- Shanghai
 tags:
 - Korean
 description: Ben Jia 本家 Shanghaihttp://bornga.co.kr/bonga/index.asp 1339 Wuzhong Lu, near Jinhui Nan Lu, next to Scholars Hotel 吴中路1339号, 近金汇路 +86 21 5118 2777
 archiveUrl: https://web.archive.org/web/20161106031407/http://thirstypig.com/2012/01/05/ben-jia-%e6%9c%ac%e5%ae%b6-shanghai/
 draft: false
+location: Ben Jia 本家 Shanghai
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_1467](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1467.jpg?resize=403%2C302 "img_1467")](http://thirstypig.com/2012/01/05/ben-jia-%e6%9c%ac%e5%ae%b6-shanghai/img_1467/)

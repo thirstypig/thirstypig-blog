@@ -27,6 +27,7 @@ tags:
 - tastemakersapp
 - ilovelou
 description: Woodford Reserve Bourbon Distillery. Picturesque off a hill. The famed copper kettle distillery. Amazing place. . . . . .
+location: Woodford Reserve Bourbon Distillery
 ---
 
 ![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17961173944980784.jpg)

@@ -12,6 +12,9 @@ tags:
 description: 35 Years and counting Parking in the Pasadena High School lot get crowded and congested fast. Look for parking off of North Altadena Drive Good selection of vegetables and fruits Dog Friendly
 archiveUrl: https://web.archive.org/web/20160913103415/http://thirstypig.com/2015/09/12/pasadena-farmers-market/
 draft: false
+location: Pasadena Farmers’ Market
+city: Pasadena
+region: Pasadena
 ---
 
 [![jimmymarriesyalin.22](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/jimmymarriesyalin.22.jpg?resize=218%2C291 "jimmymarriesyalin.22")](http://thirstypig.com/2015/09/12/pasadena-farmers-market/jimmymarriesyalin-22/)

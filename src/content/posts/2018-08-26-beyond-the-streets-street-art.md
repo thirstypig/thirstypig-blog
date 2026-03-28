@@ -24,6 +24,10 @@ tags:
 - thirstypig
 - art
 description: Beyond the Streets - street art. Great look and up close exhibition of art with some well known artists like and . . . .
+location: Beyond the Streets
+city: street art
+categories:
+- street art
 ---
 
 ![Beyond the Streets - street art](/images/posts/ig-2018-08-26-beyond-the-streets-street-art/17958239404112795.jpg)

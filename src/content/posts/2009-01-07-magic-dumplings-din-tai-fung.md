@@ -13,11 +13,18 @@ categories:
 - San Gabriel Valley
 - Chinese
 - Taiwanese
+- Din Tai Fung
 tags:
 - LA's San Gabriel Valley
 description: Steamed Pork Dumplings known as Shaio Long Bao or Xiao Long Bao is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve
 archiveUrl: https://web.archive.org/web/20110106034139/http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/
 draft: false
+location: Magic Dumplings
+city: Din Tai Fung
+region: San Gabriel Valley
+address: '1108 S. Baldwin Ave.
+
+  Arcadia, CA 91007'
 ---
 
 Steamed Pork Dumplings (known as Shaio Long Bao or Xiao Long Bao) is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve had steamed dumplings in Taipei, Hong Kong, the US, and even Shanghai. Though, arguably, people will say the original Din Tai Fung, in Taipei has the best. Everything here is made fresh and never frozen. You can see all the dumplings being made from the large glass window in the front. Anyways. . .

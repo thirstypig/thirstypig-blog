@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
 categories:
 - Chinatown
+- Dtla
+- Downtown LA
 tags:
 - American
 - Mexican
@@ -13,6 +15,10 @@ tags:
 description: This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.
 archiveUrl: https://web.archive.org/web/20161105201427/http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
 draft: false
+location: Homegirl Cafe and Catering
+city: Dtla
+region: Downtown LA
+address: 130 W Bruno St Los Angeles, CA 90012
 ---
 
 [![img_1043](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1043.jpg?resize=191%2C143 "img_1043")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1043-2/)

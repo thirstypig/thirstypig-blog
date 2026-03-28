@@ -25,6 +25,7 @@ tags:
 - endive
 - unibacon
 description: Dinner in DTLA. Joined the DTLA Dinner Club and had a great dinner with six courses. First was the endive lobster boat, then 2nd was the caramelized fennel and leek gratin. For the third course, we ha
+location: Dinner in DTLA
 ---
 
 ![Dinner in DTLA](/images/posts/ig-2021-06-24-dinner-in-dtla/17950949710449956.jpg)

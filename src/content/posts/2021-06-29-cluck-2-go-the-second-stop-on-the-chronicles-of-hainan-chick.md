@@ -20,6 +20,10 @@ tags:
 - food
 - thirstypig
 description: Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯. Cluck2go has locations in Pasadena, Rowland Heights and Hacienda Heights. They portion is one of the larger ones among the on
+location: Cluck 2 Go
+city: the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯
+categories:
+- the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯
 ---
 
 ![Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯](/images/posts/ig-2021-06-29-cluck-2-go-the-second-stop-on-the-chronicles-of-hainan-chick/17925314674643503.jpg)

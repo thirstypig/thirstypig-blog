@@ -9,9 +9,14 @@ categories:
 - Brunch
 - Dim Sum
 - Shanghainese
+- Shanghai
 description: I am actually pretty interested to try this Shanghianese Dim Sum, if it is any different from Cantonese dim sum. But, it does mention they are serving up deep fried sping rolls with shredded pork, cab
 archiveUrl: https://web.archive.org/web/20111014113356/http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/
 draft: false
+location: Weekend Brunch at Whampoa Club
+city: Shanghai
+region: Shanghai
+address: 3 Zhongshan Dongyi Road
 ---
 
 I am actually pretty interested to try this Shanghianese Dim Sum, if it is any different from Cantonese dim sum. But, it does mention they are serving up deep fried sping rolls with shredded pork, cabbage and bamboo shoots, and pan fried Shanghainese pork buns. I hope to visit soon

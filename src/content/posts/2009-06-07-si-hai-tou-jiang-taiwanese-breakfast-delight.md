@@ -13,9 +13,13 @@ images:
 categories:
 - Breakfast
 - Taiwanese
+- Taiwan
 description: There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿
 archiveUrl: https://web.archive.org/web/20110105232210/http://www.thethirstypig.com/2009/06/07/si-hai-tou-jiang-taiwanese-breakfast-delight/
 draft: false
+location: Si Hai Tou Jiang
+city: Taiwan
+region: Taiwan
 ---
 
 There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿

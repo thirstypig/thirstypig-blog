@@ -25,6 +25,11 @@ tags:
 - bowls
 - ceramics
 description: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata. Creative designs!
+location: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Japanese ceramics from LA Little Tokyo Utsuwa No Yakata](/images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17865580090104331.jpg)

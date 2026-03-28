@@ -22,6 +22,7 @@ tags:
 - oc
 - oceats
 description: Barbecue at Blake’s Place in the OC. This neighborhood bbq joint has a pretty good following. They specialize in bbq sandwiches. This is the place with does her eating feats with their famous “The Bea
+location: Barbecue at Blake’s Place in the OC
 ---
 
 ![Barbecue at Blake’s Place in the OC](/images/posts/ig-2025-02-03-barbecue-at-blakes-place-in-the-oc/18047607503336224.jpg)

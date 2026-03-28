@@ -11,6 +11,9 @@ tags:
 description: 'We were all giddy with excitement while waiting for our food to come, or was that our stomachs growling and body’s trembling from low blood sugar. Perhaps both. I know we ripped through the bread and '
 archiveUrl: https://web.archive.org/web/20161106084416/http://thirstypig.com/2010/01/25/craft-los-angeles/
 draft: false
+location: Craft
+city: Los Angeles
+address: 10100 Constellation Blvd Los Angeles, CA 90067
 ---
 
 [![img_0278](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0278.jpg?resize=403%2C302 "img_0278")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0278/)

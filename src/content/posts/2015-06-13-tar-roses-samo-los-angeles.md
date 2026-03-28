@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/
 categories:
 - Santa Monica
+- SaMo Los Angeles
+- Westside
 tags:
 - American
 - Los Angeles
 description: Must order the Deep fried whole snapper, Strawberry Ricotta Crostata with honeycomb Great Beer SelectionSmall Restaurant Wonderful Meal Would return immediately if it wasn’t so far
 archiveUrl: https://web.archive.org/web/20160913205017/http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/
 draft: false
+location: Tar & Roses
+city: SaMo Los Angeles
+region: Westside
+address: 602 Santa Monica Blvd Santa Monica, CA 90401
 ---
 
 [![IMG_0960](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0960.jpg?resize=166%2C222 "IMG_0960")](http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/img_0960/)

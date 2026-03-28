@@ -20,6 +20,7 @@ tags:
 - cheesecake
 - birthday
 description: Dinner with friends at Sixth+Mill pizzeria. . . .
+location: Dinner with friends at Sixth+Mill pizzeria
 ---
 
 ![Dinner with friends at Sixth+Mill pizzeria](/images/posts/ig-2019-03-16-dinner-with-friends-at-sixthmill-pizzeria/18045399874046683.jpg)

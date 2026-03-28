@@ -18,6 +18,9 @@ tags:
 description: 'Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an '
 archiveUrl: https://web.archive.org/web/20110105194820/http://www.thethirstypig.com/2009/12/03/royal-claytons-english-pub/
 draft: false
+location: Royal Clayton’s English Pub
+city: Downtown LA
+region: Downtown LA
 ---
 
 Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an excellent destination drinking place for a group of friends.

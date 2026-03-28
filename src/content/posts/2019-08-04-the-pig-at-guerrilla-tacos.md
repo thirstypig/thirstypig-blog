@@ -17,6 +17,7 @@ tags:
 - codfishtacos
 - sweetpotato
 description: The pig at Guerrilla Tacos. Amazing cod fish tacos, sweet potato taco, and beef taco. We only stopped by to check it out and share some tacos. But we were amazed by the tacos! . . .
+location: The pig at Guerrilla Tacos
 ---
 
 ![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/17906031595344082.jpg)

@@ -10,11 +10,18 @@ images:
 categories:
 - Korean
 - San Gabriel Valley
+- Young Dong Tofu
 tags:
 - LA's San Gabriel Valley
 description: There aren’t many good Korean restaurants in the San Gabriel valley. . . So when there is a decent one, they seem to do a combination of things well.
 archiveUrl: https://web.archive.org/web/20110105163434/http://www.thethirstypig.com/2009/04/29/seoul-food-in-san-gabriel-valley-young-dong-tofu/
 draft: false
+location: Seoul Food in San Gabriel Valley
+city: Young Dong Tofu
+region: San Gabriel Valley
+address: '927 E Las Tunas Dr
+
+  San Gabriel, CA 91776'
 ---
 
 There aren’t many good Korean restaurants in the San Gabriel valley. . . So when there is a decent one, they seem to do a combination of things well.

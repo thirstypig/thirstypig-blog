@@ -21,6 +21,10 @@ tags:
 - eeeeeats
 - eats
 description: Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ankimo monkfish liver. Nice variety at Tonchinkan. Will certainly try their other dishes next time. The uni was not bad. The s
+location: Japanese dinner - premium sushi set, amberjack collar, tuna rice set
+city: and ank...
+categories:
+- and ank...
 ---
 
 ![Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ank...](/images/posts/ig-2021-03-18-japanese-dinner-premium-sushi-set-amberjack-collar-tuna-rice/17918761222587981.jpg)

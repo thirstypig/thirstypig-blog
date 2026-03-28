@@ -19,6 +19,11 @@ tags:
 - happybirthday
 - littletoyko
 description: Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted. Glad to also hear that Kouraku, the Japanese Denny’s in Little Tokyo is alive and well. . . . . . .
+location: Fired Chicken at Kouraku by   Juicy and tasty chicken fire roasted
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Fired Chicken at Kouraku by   Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg)

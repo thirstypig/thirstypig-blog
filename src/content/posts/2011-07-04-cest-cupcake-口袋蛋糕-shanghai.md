@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/
 categories:
 - Hongqiao
+- Shanghai
 tags:
 - Dessert
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20161018205729/http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/
 draft: false
+location: C’est Cupcake 口袋蛋糕
+city: Shanghai
+region: Shanghai
 ---
 
 [![cest-cupcake-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-18.jpg?resize=403%2C301 "cest-cupcake-18")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-18/)

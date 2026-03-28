@@ -16,11 +16,15 @@ images:
 categories:
 - American
 - Downtown LA
+- Downtown La
 tags:
 - Downtown LA
 description: I was recently back at Wurstküche again. Not much has changed since I first went there. But it did get more crowded and popular. This time, I will just post up some pictures.
 archiveUrl: https://web.archive.org/web/20110105210506/http://www.thethirstypig.com/2010/01/21/wurstku%cc%88che-downtown-la-update/
 draft: false
+location: Wurstküche
+city: Downtown La
+region: Downtown LA
 ---
 
 I was recently back at Wurstküche again. Not much has changed since I first went there. But it did get more crowded and popular. This time, I will just post up some pictures.

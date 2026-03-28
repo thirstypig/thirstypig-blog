@@ -6,12 +6,21 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
 categories:
 - SGV
+- Arcadia
+- San Gabriel Valley
 tags:
 - Chinese 2
 - Taiwanese
+- closed
 description: In the 1st half of the last century, there was a large migration of Chinese to the small island country of Taiwan. Most were in the military following Chiang Kai Shek. They settled in little pockets i
 archiveUrl: https://web.archive.org/web/20161106014441/http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
 draft: false
+location: Liang’s Village Cuisine
+city: Arcadia
+region: San Gabriel Valley
+address: '1027 S Baldwin Ave
+
+  Arcadia, CA 91007'
 ---
 
 [![dscn0009](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0009-1.jpg?resize=234%2C175 "dscn0009")](http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/dscn0009-6/)

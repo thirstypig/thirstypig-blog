@@ -26,6 +26,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Bloody Mary at The Girl & the Goat. Brunch consisted of the little piggy (sausage sandwich), parantha, and shrimp fried rice. The sausage egg sandwich was the best thing. Though I am not sure what Sic
+location: Bloody Mary at The Girl & the Goat
 ---
 
 ![Bloody Mary at The Girl & the Goat](/images/posts/ig-2021-08-02-bloody-mary-at-the-girl-the-goat/17910115705958074.jpg)

@@ -20,6 +20,7 @@ tags:
 - palmtrees
 - california
 description: Andreas Canyons near Palm Springs. Amazing little walk/trail . . .
+location: Andreas Canyons near Palm Springs
 ---
 
 ![Andreas Canyons near Palm Springs](/images/posts/ig-2019-01-08-andreas-canyons-near-palm-springs/17902378903303099.jpg)

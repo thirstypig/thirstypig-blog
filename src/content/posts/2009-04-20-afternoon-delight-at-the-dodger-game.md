@@ -18,6 +18,7 @@ tags:
 description: I was fortunate enough to get to go to a Dodger game and experience a Dodger win. Amidst the game, there was some great fare. We had a regular dodger dog, a super dodger dog, bratwurst, chili cheese f
 archiveUrl: https://web.archive.org/web/20110105162946/http://www.thethirstypig.com/2009/04/20/afternoon-delight-at-the-dodger-game/
 draft: false
+location: Afternoon Delight at the Dodger Game
 ---
 
 I was fortunate enough to get to go to a Dodger game and experience a Dodger win. Amidst the game, there was some great fare. We had a regular dodger dog, a super dodger dog, bratwurst, chili cheese fries, and garlic fries. I tried a taste of each. Each were different and was a change from the traditional American foods you would find at the ball park.

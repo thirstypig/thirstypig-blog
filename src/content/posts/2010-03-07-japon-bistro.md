@@ -26,4 +26,6 @@ tags:
 description: 'Japon Bistro, yes – with an “O”, is located in the heart of Pasadena off of Colorado near Lake. Pasadena features a one of most diverse collection of Japanese restaurants around, and is up there with '
 archiveUrl: https://web.archive.org/web/20111103132828/http://www.thethirstypig.com/2010/03/07/japon-bistro/
 draft: false
+location: Japon Bistro
+region: San Gabriel Valley
 ---

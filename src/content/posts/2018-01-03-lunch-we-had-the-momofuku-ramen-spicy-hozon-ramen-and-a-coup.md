@@ -21,6 +21,10 @@ tags:
 - koreanchef
 - ramen
 description: Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns. I liked the pork belly with the shredded pork shoulder in my ramen. My wife liked the fried chickpeas in the hozon. We bo
+location: Lunch    we had the momofuku ramen, spicy hozon ramen
+city: and a couple of pork buns
+categories:
+- and a couple of pork buns
 ---
 
 ![Lunch    we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns](/images/posts/ig-2018-01-03-lunch-we-had-the-momofuku-ramen-spicy-hozon-ramen-and-a-coup/17892226279131536.jpg)

@@ -15,6 +15,7 @@ tags:
 - tacos
 - cincodemayo
 description: Birrieria tacos. Yummy. Second time here and won’t be the last. . . . .
+location: Birrieria tacos
 ---
 
 ![Birrieria tacos](/images/posts/ig-2022-05-06-birrieria-tacos/17959345390685170.jpg)

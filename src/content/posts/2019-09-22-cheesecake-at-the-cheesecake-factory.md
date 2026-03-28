@@ -18,6 +18,7 @@ tags:
 - eeeeeats
 - food
 description: Cheesecake at the Cheesecake Factory. Adams’s Peanut Butter Cup Fudge Ripple Cheesecake. Had the flat bread and salad lunch and thai salad wraps. Guilty pleasures. . . . .
+location: Cheesecake at the Cheesecake Factory
 ---
 
 ![Cheesecake at the Cheesecake Factory](/images/posts/ig-2019-09-22-cheesecake-at-the-cheesecake-factory/17850797941602236.jpg)

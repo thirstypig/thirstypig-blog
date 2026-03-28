@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
 categories:
 - Changning
+- Shanghai
 tags:
 - Korean
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20161019014425/http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
 draft: false
+location: Mapuwu 麻浦屋
+city: Shanghai
+region: Shanghai
 ---
 
 [![mapowu-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-11.jpg?resize=403%2C302 "mapowu-shanghai-11")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-11/)

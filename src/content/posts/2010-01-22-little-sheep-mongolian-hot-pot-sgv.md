@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/22/little-sheep-mongolian-hot-pot-sgv/
 categories:
 - SGV
+- Sgv
+- San Gabriel Valley
 tags:
 - Chinese 2
 - Hot Pot
 description: Yelp Listinghttps://www.yelp.com/biz/little-sheep-mongolian-hot-pot-san-gabriel
 archiveUrl: https://web.archive.org/web/20161105172322/http://thirstypig.com/2010/01/22/little-sheep-mongolian-hot-pot-sgv/
 draft: false
+location: Little Sheep Mongolian Hot Pot
+city: Sgv
+region: San Gabriel Valley
+address: 140 W Valley Blvd St
 ---
 
 [![img_0249](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0249.jpg?resize=403%2C302 "img_0249")](http://thirstypig.com/2010/01/22/little-sheep-mongolian-hot-pot-sgv/img_0249/)

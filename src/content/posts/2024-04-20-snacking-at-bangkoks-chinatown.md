@@ -28,6 +28,7 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights inclu
+location: Snacking at Bangkok’s Chinatown
 ---
 
 ![Snacking at Bangkok’s Chinatown](/images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/17881605435048262.jpg)

@@ -12,12 +12,16 @@ categories:
 - Xuhui District
 - Hamburgers
 - 2 pigs
+- Shanghai
 tags:
 - Shanghai
 - Burger
 description: Burger Bistro has just introduced their new burger challenge. In 20 mins, one has to finish a Bistro Belt Buster Burger with fries and milkshake. Priced at 160 RMB, the burger is a 3 stack 600 grams t
 archiveUrl: https://web.archive.org/web/20160912113713/http://thirstypig.com/2011/12/17/bistro-burger-shanghai/
 draft: false
+location: Bistro Burger
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_1090](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1090.jpg?resize=166%2C222 "img_1090")](http://thirstypig.com/2011/12/17/bistro-burger-shanghai/img_1090/)

@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/01/annion-kitchen-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Korean
 description: Annion Kitchen – No. 37, Jiashan Market, Lane 550 Shaanxi Nan Lu, near Shaoxing Lu 陕西南路550弄37号嘉善市场, 近绍兴路 3428-1855
 archiveUrl: https://web.archive.org/web/20161019201447/http://thirstypig.com/2011/06/01/annion-kitchen-shanghai/
 draft: false
+location: Annion Kitchen
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_9188](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_9188.jpg?resize=234%2C175 "img_9188")](http://thirstypig.com/2011/06/01/annion-kitchen-shanghai/img_9188/)

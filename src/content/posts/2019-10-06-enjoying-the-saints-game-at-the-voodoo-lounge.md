@@ -19,6 +19,7 @@ tags:
 - whodat
 - whodatnationâ
 description: Enjoying the Saints game at the Voodoo lounge. Abita beer, cider, and a bunch of bloody Mary’s. . . . ⚜️
+location: Enjoying the Saints game at the Voodoo lounge
 ---
 
 ![Enjoying the Saints game at the Voodoo lounge](/images/posts/ig-2019-10-06-enjoying-the-saints-game-at-the-voodoo-lounge/17878924783448816.jpg)

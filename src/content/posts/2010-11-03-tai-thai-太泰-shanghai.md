@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Thai
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20161019105021/http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
 draft: false
+location: Tai Thai 太泰
+city: Shanghai
+region: Shanghai
 ---
 
 [![tai-thai-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-18.jpg?resize=158%2C211 "tai-thai-shanghai-18")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-18/)

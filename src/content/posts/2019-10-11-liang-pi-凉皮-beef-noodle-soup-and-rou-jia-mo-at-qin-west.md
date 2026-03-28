@@ -21,6 +21,10 @@ tags:
 - eeeeeats
 - eat
 description: Liang Pi 凉皮, Beef Noodle Soup, and Rou Jia Mo at Qin West. I asked for mild Liang Pi and my mouth was on fire. FIRE - I say! But it was good. I must and always have to have the Rou Jia Mo 肉夾饃. . . . .
+location: Liang Pi 凉皮, Beef Noodle Soup
+city: and Rou Jia Mo at Qin West
+categories:
+- and Rou Jia Mo at Qin West
 ---
 
 ![Liang Pi 凉皮, Beef Noodle Soup, and Rou Jia Mo at Qin West](/images/posts/ig-2019-10-11-liang-pi-凉皮-beef-noodle-soup-and-rou-jia-mo-at-qin-west/18106591048017475.jpg)

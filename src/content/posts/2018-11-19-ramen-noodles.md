@@ -22,6 +22,7 @@ tags:
 - theoc
 - lakeforest
 description: Ramen noodles! Had the black sesame broth with my tonkatsu ramen. . . . .
+location: Ramen noodles
 ---
 
 ![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/17846037169306624.jpg)

@@ -24,6 +24,7 @@ tags:
 - taiwanese
 - dinner
 description: More Taiwanese Beef Noodle Soup. Tonight we ventured to Sinbala for a pipping hot bowl. The noodles were slightly over cooked and too soft. The soup was nice and spicy, but not too spicy. They already
+location: More Taiwanese Beef Noodle Soup
 ---
 
 ![More Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-12-more-taiwanese-beef-noodle-soup/17874952684488456.jpg)

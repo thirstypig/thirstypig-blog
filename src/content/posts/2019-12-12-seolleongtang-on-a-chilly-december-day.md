@@ -16,6 +16,7 @@ tags:
 - beef
 - brisket
 description: Seolleongtang on a chilly December day. Not that chilly today in Southern Cal but regardless it’s still a good and hearty. Seolleongtang is a Korean beef and glass noodle soup. We had the beef brisket
+location: Seolleongtang on a chilly December day
 ---
 
 ![Seolleongtang on a chilly December day](/images/posts/ig-2019-12-12-seolleongtang-on-a-chilly-december-day/18117902647042703.jpg)

@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/
 categories:
 - ZhongShan
+- Taipei
 tags:
 - Dumplings
 - Soup
 description: 'Hot and Sour soup is about personal preference, as is food. We, each, like to believe that we maintain some sort of high respectable palette when it comes to food.Yet, society, friends, or other food '
 archiveUrl: https://web.archive.org/web/20161105033723/http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/
 draft: false
+location: Fu Tai Shandong Steamed Dumpling King福大山東蒸餃大王
+city: Taipei
+region: Taipei
 ---
 
 [![img_2003](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2003.jpg?resize=403%2C302 "img_2003")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2003/)

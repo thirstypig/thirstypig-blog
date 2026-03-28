@@ -18,12 +18,16 @@ images:
 - /images/posts/goga-shanghai/Goga-Shanghai-18-494x370.jpg
 categories:
 - Xuhui
+- Shanghai
 tags:
 - American
 - Burgers
 description: The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine cul
 archiveUrl: https://web.archive.org/web/20161106021505/http://thirstypig.com/2011/07/12/goga-shanghai/
 draft: false
+location: GOGA
+city: Shanghai
+region: Shanghai
 ---
 
 [![goga-03](/images/posts/goga-shanghai/Goga-Shanghai-01-494x370.jpg "goga-03")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-03/)

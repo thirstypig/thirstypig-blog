@@ -23,6 +23,7 @@ tags:
 - eeeeeats
 - thirstypig
 description: 'Spicy Chicken in Koreatown. Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro. They will also add fried rice to the pot, and you wait for '
+location: Spicy Chicken in Koreatown
 ---
 
 ![Spicy Chicken in Koreatown](/images/posts/ig-2024-09-05-spicy-chicken-in-koreatown/17888575470017263.jpg)

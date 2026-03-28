@@ -24,6 +24,7 @@ tags:
 - food
 - bonemarrow
 description: Prime Ribeye birthday dinner with old friends. Bone marrow, beef tartare, and crab fried rice. . . . .real.mike.gin
+location: Prime Ribeye birthday dinner with old friends
 ---
 
 ![Prime Ribeye birthday dinner with old friends](/images/posts/ig-2018-11-03-prime-ribeye-birthday-dinner-with-old-friends/17978196139126772.jpg)

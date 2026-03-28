@@ -9,6 +9,7 @@ categories:
 - Mexican
 - Xuhui
 - 3 pigs
+- Shanghai
 tags:
 - Brunch
 - Mexican
@@ -16,6 +17,9 @@ tags:
 description: Miss F was craving something Mexican, as I was, so we ventured to Maya for Sunday brunch. She had heard that Maya was arguably the best Mexican restaurant in town. With that, it sounded like a challen
 archiveUrl: https://web.archive.org/web/20161106003225/http://thirstypig.com/2011/09/19/maya-brunch-shanghai/
 draft: false
+location: Maya Brunch
+city: Shanghai
+region: Shanghai
 ---
 
 [![Eggs Benedict](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-08.jpg?resize=282%2C211 "Eggs Benedict")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-23/)

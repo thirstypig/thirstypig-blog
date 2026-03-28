@@ -17,9 +17,14 @@ categories:
 - 3 pigs
 - Lounge
 - Shanghai
+- Grand Re-Opening on November 11th
 description: I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 archiveUrl: https://web.archive.org/web/20101116015547/http://www.thethirstypig.com:80/2010/11/09/racks-shanghai-grand-re-opening-on-november-11th/
 draft: false
+location: Racks Shanghai
+city: Grand Re-Opening on November 11th
+region: Shanghai
+address: 221 Jinxian Road near Maoming Road
 ---
 
 I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.

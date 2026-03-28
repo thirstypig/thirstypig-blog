@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/06/el-torito-pasadena/
 categories:
 - Los Angeles
+- Pasadena
 tags:
 - Mexican
 - Pork
 description: Mexican restaurant for a casual dining experience Nice sized bar to enjoy drinks, sporting events, and karaoke They have pretty good weekday specials Unlimited chips and salsa the friday special for M
 archiveUrl: https://web.archive.org/web/20170307030845/http://thirstypig.com/2017/03/06/el-torito-pasadena/
 draft: false
+location: El Torito
+city: Pasadena
+region: Pasadena
+address: 3333 E Foothill Blvd Pasadena, CA 91107
 ---
 
 [![img_0403](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0403.jpg?resize=199%2C266 "img_0403")](http://thirstypig.com/2017/03/06/el-torito-pasadena/img_0403/)

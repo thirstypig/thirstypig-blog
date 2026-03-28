@@ -12,6 +12,9 @@ tags:
 description: Marouch 4905 Santa Monica Blvd, Los Angeles, CA 90029 323 662-9325 marouchrestaurant.comhttp://www.marouchrestaurant.com/
 archiveUrl: https://web.archive.org/web/20161019014451/http://thirstypig.com/2011/02/09/marouch-los-angeles/
 draft: false
+location: Marouch
+city: Los Angeles
+address: 4905 Santa Monica Blvd, Los Angeles, CA 90029
 ---
 
 [![marouch-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Marouch-06.jpg?resize=380%2C507 "marouch-06")](http://thirstypig.com/2011/02/09/marouch-los-angeles/marouch-06/)

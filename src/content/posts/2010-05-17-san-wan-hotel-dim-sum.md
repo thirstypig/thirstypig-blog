@@ -19,10 +19,14 @@ images:
 categories:
 - 2 pigs
 - Dim Sum
+- Taipei
 tags:
 - Eastern District 台北東區
 - Taipei 台北
 description: With the impeccable service, Chao Ping Ji makes you wonder if you truely belong there. With 1st class attentive service dish by dish. You won’t see dim sum carts pushed around. What you lose with trad
 archiveUrl: https://web.archive.org/web/20110105135341/http://www.thethirstypig.com/2010/05/17/san-wan-hotel-dim-sum/
 draft: false
+location: Chao Ping Ji Dim Sum at San Want Hotel
+city: Taipei
+region: Taipei
 ---

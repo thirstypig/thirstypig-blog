@@ -6,9 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/13/racks-shanghai-closed/
 categories:
 - Jingan
+- Shanghai
 description: I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 archiveUrl: https://web.archive.org/web/20161018030122/http://thirstypig.com/2010/10/13/racks-shanghai-closed/
 draft: false
+location: Racks
+city: Shanghai
+region: Shanghai
+address: 221 Jinxian Road near Maoming Road
+tags:
+- closed
 ---
 
 [![racks-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-02.jpg?resize=403%2C302 "racks-shanghai-02")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-02/)

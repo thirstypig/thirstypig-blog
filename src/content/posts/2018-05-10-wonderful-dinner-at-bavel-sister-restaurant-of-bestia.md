@@ -27,6 +27,10 @@ tags:
 - dtla
 - artsdistrictla
 description: Wonderful dinner at Bavel, sister restaurant of Bestia. Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have. We had foie gras halva and olives to start. Then we had my favorite -
+location: Wonderful dinner at Bavel
+city: sister restaurant of Bestia
+categories:
+- sister restaurant of Bestia
 ---
 
 ![Wonderful dinner at Bavel, sister restaurant of Bestia](/images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17918798581142937.jpg)

@@ -13,6 +13,7 @@ images:
 tags:
 - westwood
 description: Had a chance to visit Lou’s Café in Westwood thought it was really good. I kinda like this interior better than the Ktown one I like the counter. It’s kind of cool to sit at a counter. This time we ha
+location: Had a chance to visit Lou’s Café in Westwood thought it was really good
 ---
 
 ![Had a chance to visit Lou’s Café in Westwood thought it was really good](/images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/18317145559253607.jpg)

@@ -21,6 +21,7 @@ tags:
 - thirstypig
 - soup
 description: Pho at Pho Kinh Do in Vegas . . .
+location: Pho at Pho Kinh Do in Vegas
 ---
 
 ![Pho at Pho Kinh Do in Vegas](/images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18016189561038545.jpg)

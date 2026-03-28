@@ -10,6 +10,7 @@ categories:
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106011311/http://thirstypig.com/2011/10/06/huangshan-%e9%bb%84%e5%b1%b1/
 draft: false
+location: Huangshan 黄山
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Mountain-246.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/huangshan-%e9%bb%84%e5%b1%b1/olympus-digital-camera-41/)

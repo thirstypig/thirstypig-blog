@@ -19,6 +19,10 @@ tags:
 description: 'Love the tater tots I like how they use sweet Hawaiian Bread on everything This is a guilty pleasure that isn’t healthy Fast Casual Food that is going against the health trend Burgers and Sausage are '
 archiveUrl: https://web.archive.org/web/20160914224653/http://thirstypig.com/2016/05/31/dog-haus-los-angeles/
 draft: false
+location: Dog Haus
+city: Los Angeles
+region: Pasadena
+address: 410 E Main St Alhambra, CA 91801
 ---
 
 [![IMG_1020](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1020.jpg?resize=218%2C163 "IMG_1020")](http://thirstypig.com/2016/05/31/dog-haus-los-angeles/img_1020/)

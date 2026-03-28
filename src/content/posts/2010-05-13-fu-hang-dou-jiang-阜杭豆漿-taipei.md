@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/
 categories:
 - Zhongzhen
+- Taipei
 tags:
 - Breakfast
 - Taiwanese
 description: Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.
 archiveUrl: https://web.archive.org/web/20161106115928/http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/
 draft: false
+location: Fu Hang Dou Jiang 阜杭豆漿
+city: Taipei
+region: Taipei
 ---
 
 [![img_1956](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1956.jpg?resize=403%2C302 "img_1956")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1956/)

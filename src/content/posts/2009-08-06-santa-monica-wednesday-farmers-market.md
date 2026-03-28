@@ -18,11 +18,16 @@ images:
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0029.JPG
 categories:
 - Farmers' Markets
+- Santa Monica
+- Westside
 tags:
 - Los Angeles
 description: Wednesdays in Santa Monica mean one thing – Farmer’s Market day The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of t
 archiveUrl: https://web.archive.org/web/20111103145206/http://www.thethirstypig.com/2009/08/06/santa-monica-wednesday-farmers-market/
 draft: false
+location: Santa Monica Wednesday Farmer’s Market
+city: Santa Monica
+region: Westside
 ---
 
 Wednesdays in Santa Monica mean one thing – Farmer’s Market day! The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of the, after more than 20 years, some of the best known chefs and restaurants have frequented this market. KCRW also has a weekly show – Evan Kleiman’s Good Food about the market update with Laura Avery. She will talk with some of the growers about what’s fresh and speak to one of the local chefs about a favorite recipe.

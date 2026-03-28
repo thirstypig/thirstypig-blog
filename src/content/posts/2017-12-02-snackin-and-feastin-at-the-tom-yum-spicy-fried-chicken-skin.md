@@ -20,6 +20,11 @@ tags:
 - chickenskin
 - thirstypig
 description: Snackin’ and Feastin’ at the Tom Yum Spicy Fried Chicken skin was amazing (yes I shouldn’t use amazing, but it was). also had the spicy Chicken sando with the bolo bun (HK Bolo (pineapple) bun) from a
+location: Snackin’ and Feastin’ at   the Tom Yum Spicy Fried Chicken skin was amazing (...
+city: Hollywood
+region: Hollywood
+categories:
+- Hollywood
 ---
 
 ![Snackin’ and Feastin’ at   the Tom Yum Spicy Fried Chicken skin was amazing (...](/images/posts/ig-2017-12-02-snackin-and-feastin-at-the-tom-yum-spicy-fried-chicken-skin/17896307659127499.jpg)

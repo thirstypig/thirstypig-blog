@@ -19,6 +19,7 @@ images:
 tags:
 - thebroad
 description: Our 3rd visit to The Broad. Nice little afternoon visit with a 40 minute wait.
+location: Our 3rd visit to The Broad
 ---
 
 ![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17896304128000545.jpg)

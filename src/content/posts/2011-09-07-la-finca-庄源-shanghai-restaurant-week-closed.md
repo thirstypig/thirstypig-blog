@@ -6,11 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/
 categories:
 - Huangpu
+- Shanghai
 tags:
 - Spanish
+- closed
 description: Our next venture during the Fall Shanghai Restaurant Weekhttp://www.shanghairestaurantweek.com/ is La Finca, located in the Xintiandi area. La Finca is an upscale Spanish restaurant featuring tapas, S
 archiveUrl: https://web.archive.org/web/20161105185346/http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/
 draft: false
+location: La Finca 庄源
+city: Shanghai
+region: Shanghai
+address: 373 South Huangpi Road
 ---
 
 [![la-finca-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Finca-Shanghai-05.jpg?resize=380%2C507 "la-finca-shanghai-05")](http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/la-finca-shanghai-05/)

@@ -15,11 +15,17 @@ categories:
 - American
 - Soul
 - Breakfast
+- Roscoe’s
 tags:
 - Los Angeles
 description: 'This famous Los Angeles restaurant – originating near South Central Los Angeles, features southern style comfort food. Their staple of fried chicken and waffle is a favorite of Angelo’s and Hollywood '
 archiveUrl: https://web.archive.org/web/20111103144720/http://www.thethirstypig.com/2009/03/25/chicken-waffles-woot-roscoes/
 draft: false
+location: Chicken & Waffles Woot!
+city: Roscoe’s
+address: '830 N Lake Ave
+
+  Pasadena, CA 91104'
 ---
 
 This famous Los Angeles restaurant – originating near South Central Los Angeles, features southern style comfort food. Their staple of fried chicken and waffle is a favorite of Angelo’s and Hollywood stars at their Hollywood address. The Pasadena location caters to the northern Pasadena, San Gabriel Valley, and Altadena communities.

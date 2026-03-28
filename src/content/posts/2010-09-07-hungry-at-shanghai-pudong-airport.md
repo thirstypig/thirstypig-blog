@@ -40,6 +40,7 @@ tags:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20110105042301/http://www.thethirstypig.com/2010/09/07/hungry-at-shanghai-pudong-airport/
 draft: false
+location: Hungry at Shanghai Pudong Airport
 ---
 
 #gallery-2 {

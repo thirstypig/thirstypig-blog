@@ -17,6 +17,7 @@ tags:
 - eats
 - eeeats
 description: Enjoying a Dodger Dog at the game . . .
+location: Enjoying a Dodger Dog at the game
 ---
 
 ![Enjoying a Dodger Dog at the game](/images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18052128761250145.jpg)

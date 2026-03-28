@@ -25,6 +25,7 @@ tags:
 - sushi
 - tamago
 description: Kaiseki dinner at I-Naba. Excellent service and great experience. Lots of the dishes were quite good. The miso infused cheese, fish ball, soba noodles, green mochi were stand outs. Unfortunately the s
+location: Kaiseki dinner at I-Naba
 ---
 
 ![Kaiseki dinner at I-Naba](/images/posts/ig-2022-07-16-kaiseki-dinner-at-i-naba/18304348006017454.jpg)

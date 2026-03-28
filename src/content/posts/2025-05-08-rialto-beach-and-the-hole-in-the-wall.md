@@ -22,6 +22,7 @@ tags:
 - beach
 - driftwood
 description: Rialto Beach and the Hole-in-the-wall. Some of 20k steps later and lots of complaining we did a jaunt or walk along the picturesque and driftwood strewn beach. We almost made it to the Hole-in-the-wal
+location: Rialto Beach and the Hole-in-the-wall
 ---
 
 ![Rialto Beach and the Hole-in-the-wall](/images/posts/ig-2025-05-08-rialto-beach-and-the-hole-in-the-wall/17924318691063355.jpg)

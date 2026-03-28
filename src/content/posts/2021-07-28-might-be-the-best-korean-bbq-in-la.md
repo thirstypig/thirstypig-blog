@@ -27,6 +27,7 @@ tags:
 - ktown
 - eeeeeats
 description: 'Might be the best Korean BBQ in LA. Known for their highly selective cuts of beef, saying they only pick the top 3% for their Daedo cut. The daedo cut has ribeye roll, ribeye strips, and the next cut '
+location: Might be the best Korean BBQ in LA
 ---
 
 ![Might be the best Korean BBQ in LA](/images/posts/ig-2021-07-28-might-be-the-best-korean-bbq-in-la/17895131246203634.jpg)

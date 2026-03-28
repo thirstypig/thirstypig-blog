@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/
 categories:
 - Huangpu
+- Shanghai
 tags:
 - Shanghainese
 description: The steady stalwart, Shanghai Uncle, is the go-to place when I come to Shanghai on short trips. My business partners usually leave full and happy.
 archiveUrl: https://web.archive.org/web/20161019081701/http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/
 draft: false
+location: Shanghai Uncle 海上阿叔
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_1746](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1746.jpg?resize=234%2C175 "img_1746")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1746/)

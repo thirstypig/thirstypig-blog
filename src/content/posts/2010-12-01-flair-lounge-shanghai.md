@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/01/flair-lounge-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Bar
 - Lounge
 description: Shanghai offers some of the best city views in the world. With the famous Bund, the former foreign embassies, overlooking Huangpu river, and skyscrapers on the other side, in Pudong. The nighttime spa
 archiveUrl: https://web.archive.org/web/20161018152740/http://thirstypig.com/2010/12/01/flair-lounge-shanghai/
 draft: false
+location: Flair Lounge
+city: Shanghai
+region: Shanghai
+address: 8 Century Ave
 ---
 
 [![flair-lounge-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-19.jpg?resize=380%2C507 "flair-lounge-shanghai-19")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-19/)

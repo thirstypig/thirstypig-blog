@@ -16,11 +16,15 @@ categories:
 - San Gabriel Valley
 - 0 pigs
 - $$
+- Malbec
 tags:
 - LA's San Gabriel Valley
 description: Located in between the shopping areas of Lake Avenue and Old Town, sits a nice little restaurant, Malbec. An Argentinian restaurant that, as most others do, they specializes in beef. My only other exp
 archiveUrl: https://web.archive.org/web/20110105205149/http://www.thethirstypig.com/2009/10/21/argentine-fare-in-pasadena-malbec/
 draft: false
+location: Argentine Fare in Pasadena
+city: Malbec
+region: San Gabriel Valley
 ---
 
 Located in between the shopping areas of Lake Avenue and Old Town, sits a nice little restaurant, Malbec. An Argentinian restaurant that, as most others do, they specializes in beef. My only other experience, an unfortunate one, was with Gaucho Grill.

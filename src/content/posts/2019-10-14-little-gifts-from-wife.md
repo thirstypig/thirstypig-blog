@@ -17,6 +17,7 @@ tags:
 - wife
 - gifts
 description: Little gifts from wife. Wife went to Bordeaux and Madrid. Can’t wait to try it! . . . .
+location: Little gifts from wife
 ---
 
 ![Little gifts from wife](/images/posts/ig-2019-10-14-little-gifts-from-wife/17843514154731858.jpg)

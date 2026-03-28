@@ -12,6 +12,7 @@ categories:
 - 0 pigs
 - Price Range 3 $/¥/NT
 - Happy Hour
+- Shanghai
 tags:
 - Hotel
 - Burgers
@@ -20,6 +21,10 @@ tags:
 description: Anticipated and Overrated.
 archiveUrl: https://web.archive.org/web/20161106062859/http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/
 draft: false
+location: Burger and Beer at the Waterhouse
+city: Shanghai
+region: Shanghai
+address: 3 Maojiayuan Rd
 ---
 
 [![burger-and-beer-waterhouse-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-05.jpg?resize=403%2C301 "burger-and-beer-waterhouse-shanghai-05")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-05/)

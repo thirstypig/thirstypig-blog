@@ -7,9 +7,13 @@ originalUrl: http://www.thethirstypig.com:80/2010/09/09/welcome-to-the-sgv-monte
 categories:
 - Los Angeles
 - San Gabriel Valley
+- San Gabriel
 description: Welcome to the SGV Monterey Park, Alhambra, San Gabriel by Andrew Fung
 archiveUrl: https://web.archive.org/web/20100919050115/http://www.thethirstypig.com:80/2010/09/09/welcome-to-the-sgv-monterey-park-alhambra-san-gabriel/
 draft: false
+location: Welcome to the SGV (Monterey Park, Alhambra
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 Welcome to the SGV (Monterey Park, Alhambra, San Gabriel)

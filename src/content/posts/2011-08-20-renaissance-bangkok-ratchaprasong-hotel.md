@@ -15,6 +15,10 @@ tags:
 description: As you step inside Bangkok’s Renaissance Ratchaprasong Hotel, you feel the sultry allure that epitomizes this great country. Everything you heard about Thailand, from the beaches of Phuket, to the exo
 archiveUrl: https://web.archive.org/web/20161104192033/http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/
 draft: false
+location: Renaissance Bangkok Ratchaprasong Hotel
+city: Bangkok
+region: Bangkok
+address: 8 Ploenchit Road
 ---
 
 [![renaissance-marriot-bangkok-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Renaissance-Marriot-Bangkok-12.jpg?resize=403%2C302 "renaissance-marriot-bangkok-12")](http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/renaissance-marriot-bangkok-12/)

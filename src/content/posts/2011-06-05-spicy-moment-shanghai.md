@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
 categories:
 - Xuhui District
+- Shanghai
 tags:
 - Hunan
 - Shanghai
@@ -13,6 +14,9 @@ tags:
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20160910230000/http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
 draft: false
+location: Spicy Moment
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_0510](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0510.jpg?resize=423%2C316 "img_0510")](http://thirstypig.com/2011/06/05/spicy-moment-shanghai/img_0510-3/)

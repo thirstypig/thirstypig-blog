@@ -24,6 +24,7 @@ tags:
 - beer
 - eeeeeats
 description: Good times with old friends at Inko Nito. Great venue and location. . . .
+location: Good times with old friends at Inko Nito
 ---
 
 ![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18075864619068245.jpg)

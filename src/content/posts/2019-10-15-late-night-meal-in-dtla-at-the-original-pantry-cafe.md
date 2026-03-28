@@ -25,6 +25,7 @@ tags:
 - potatoes
 - eggs
 description: Late night meal in DTLA at the Original Pantry Cafe. Breakfast all day and night. Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup. I love this place. I like
+location: Late night meal in DTLA at the Original Pantry Cafe
 ---
 
 ![Late night meal in DTLA at the Original Pantry Cafe](/images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17884093936436542.jpg)

@@ -22,6 +22,12 @@ tags:
 - northernchinesecuisine
 - eeeeeats
 description: Family Din Din at Lao Xi Noodle House 老西儿 in Arcadia. Knife Cut noodle with chicken ，刀削麵, chinese pasta in soup, meat balls 貓耳朵, cold dishes with tofu, pig ear, and sliced beef. . . .
+location: Family Din Din at Lao Xi Noodle House 老西儿 in Arcadia
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Family Din Din at Lao Xi Noodle House 老西儿 in Arcadia](/images/posts/ig-2018-05-19-family-din-din-at-lao-xi-noodle-house-老西儿-in-arcadia/17873653171226866.jpg)

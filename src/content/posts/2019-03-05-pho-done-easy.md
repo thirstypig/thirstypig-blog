@@ -21,6 +21,7 @@ tags:
 - spicy
 - goldendeli
 description: Pho done easy. . . I choose to have chicken curry with a French roll. I really dig the bread dipping at Golden Deli . . . . . .
+location: Pho done easy
 ---
 
 ![Pho done easy](/images/posts/ig-2019-03-05-pho-done-easy/17873676424319881.jpg)

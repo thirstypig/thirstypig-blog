@@ -15,11 +15,15 @@ categories:
 - San Gabriel Valley
 - Cupcakes
 - Dessert
+- Pasadena
 tags:
 - LA's San Gabriel Valley
 description: In the spirit of Cupcakes – the third in my Pasadena trilogy of cupcakes – Dots Cupcakes. Recently I posted my thoughts about Violet’s Cakes and Polkatots, both in Pasadena.
 archiveUrl: https://web.archive.org/web/20110105224727/http://www.thethirstypig.com/2009/08/25/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/
 draft: false
+location: lets finger a taste of the frosting at Dots Cupcakes
+city: Pasadena
+region: Pasadena
 ---
 
 In the spirit of Cupcakes – the third in my Pasadena trilogy of cupcakes – Dots Cupcakes. Recently I posted my thoughts about Violet’s Cakes and Polkatots, both in Pasadena.

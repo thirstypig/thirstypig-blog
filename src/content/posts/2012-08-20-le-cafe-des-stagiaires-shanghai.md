@@ -11,6 +11,7 @@ categories:
 - Xuhui
 - 2 pigs
 - Happy Hour
+- Shanghai
 tags:
 - Beer
 - Pizza
@@ -19,6 +20,9 @@ tags:
 description: What is Le Cafe des Stagiaireshttp://www.cafestagiaires.com/?
 archiveUrl: https://web.archive.org/web/20161105003516/http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/
 draft: false
+location: Le Cafe des Stagiaires Shanghai
+city: Shanghai
+region: Shanghai
 ---
 
 [![dsc_0010](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0010.jpg?resize=403%2C268 "dsc_0010")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0010/)

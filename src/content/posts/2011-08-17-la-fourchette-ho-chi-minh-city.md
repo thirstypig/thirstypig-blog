@@ -6,11 +6,14 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/17/la-fourchette-ho-chi-minh-city/
 categories:
 - Ho Chi Minh City
+- Hồ Chí Minh City
 tags:
 - French
 description: La Fourchette 11 Ngô Đức Kế, Hồ Chí Minh 700000, Vietnam +84 8 3829 8143 11:30AM–3:30PM, 6–10:30PM
 archiveUrl: https://web.archive.org/web/20161106101259/http://thirstypig.com/2011/08/17/la-fourchette-ho-chi-minh-city/
 draft: false
+location: La Fourchette
+city: Hồ Chí Minh City
 ---
 
 [![l1070211-copy](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/L1070211-copy.jpg?resize=217%2C122 "l1070211-copy")](http://thirstypig.com/2011/08/17/la-fourchette-ho-chi-minh-city/l1070211-copy/)

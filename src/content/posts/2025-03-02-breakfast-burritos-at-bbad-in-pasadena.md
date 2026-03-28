@@ -19,6 +19,11 @@ tags:
 - sgv
 - brunch
 description: Breakfast burritos at BBAD in Pasadena. The basic Bae-con and the pork chile verde. Both were yumalicious. The basic had really good bacon texture and almost over-the-top bacon flavor. The crunchy pot
+location: Breakfast burritos at BBAD in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Breakfast burritos at BBAD in Pasadena](/images/posts/ig-2025-03-02-breakfast-burritos-at-bbad-in-pasadena/18070895182831051.jpg)

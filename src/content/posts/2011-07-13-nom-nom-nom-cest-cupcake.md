@@ -9,11 +9,15 @@ categories:
 - Cupcakes
 - Dessert
 - Price Range $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20110715015556/http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
 draft: false
+location: Nom nom nom . . . C’est Cupcake
+city: Shanghai
+region: Shanghai
 ---
 
 In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.

@@ -25,6 +25,7 @@ images:
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-17-88x88.jpg
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Cantonese
 - Chinese 2
@@ -33,6 +34,10 @@ tags:
 description: One would expect traditional Portuguese cuisine at a restaurant name Lisboa. Named after the capital of Portugal, this chain features Macanese cuisine – a combination of Cantonese and Portuguese flavo
 archiveUrl: https://web.archive.org/web/20160914223936/http://thirstypig.com/2010/11/21/lisboa-restaurant-shanghai/
 draft: false
+location: Lisboa Restaurant
+city: Shanghai
+region: Shanghai
+address: 269 Wujiang Road
 ---
 
 [![lisboa-restaurant-shanghai-04](/images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-01-88x88.jpg "lisboa-restaurant-shanghai-04")](http://thirstypig.com/2010/11/21/lisboa-restaurant-shanghai/lisboa-restaurant-shanghai-04/)

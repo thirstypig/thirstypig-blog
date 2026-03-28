@@ -24,6 +24,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Bloody Mary and lunch with the buds. Pastrami sandwich, cauliflower poppers, oysters, and lobster Mac and cheese. Good views on an overcast day. . . . . . .
+location: Bloody Mary  and lunch with the buds
 ---
 
 ![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17919066523717764.jpg)

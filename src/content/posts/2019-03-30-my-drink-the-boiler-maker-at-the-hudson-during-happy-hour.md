@@ -18,6 +18,10 @@ tags:
 - macandcheese
 - santamonicablvd
 description: My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese.
+location: My drink, the Boiler Maker
+city: at the Hudson during Happy Hour
+categories:
+- at the Hudson during Happy Hour
 ---
 
 ![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18051062521018873.jpg)

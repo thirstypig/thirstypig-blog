@@ -9,6 +9,7 @@ images:
 - /images/posts/daikokuya-dtla/IMG_2229.jpg
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Dtla
 - Japanese
@@ -17,6 +18,9 @@ tags:
 description: Daikokuya has the best ramen in Downtown Los Angeles. You’ll see crowds waiting for a table or a stool.
 archiveUrl: https://web.archive.org/web/20160915042605/http://thirstypig.com/2016/02/16/daikokuya-dtla/
 draft: false
+location: Daikokuya
+city: Dtla
+region: Downtown LA
 ---
 
 [![IMG_2229](/images/posts/daikokuya-dtla/IMG_2229.jpg "IMG_2229")](http://thirstypig.com/2016/02/16/daikokuya-dtla/img_2229/)

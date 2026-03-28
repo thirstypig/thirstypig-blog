@@ -11,11 +11,14 @@ categories:
 - 1 pig
 - Brazilian
 - Price Range 2 $/¥/NT
+- Los Angeles
 tags:
 - Downtown LA
 description: When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown
 archiveUrl: https://web.archive.org/web/20101207161248/http://www.thethirstypig.com:80/2010/12/05/the-brazilian-pot-pies-at-wood-spoon-in-los-angeles/
 draft: false
+location: The Brazilian Pot Pies at Wood Spoon in Los Angeles
+city: Los Angeles
 ---
 
 When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown Los Angeles Brazilian restaurant had a pot pie that was worth the visit.

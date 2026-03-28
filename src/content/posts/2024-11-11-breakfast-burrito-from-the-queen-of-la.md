@@ -15,6 +15,7 @@ tags:
 - breakfastburrito
 - breakfast
 description: Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sau
+location: Breakfast Burrito from the Queen of LA
 ---
 
 ![Breakfast Burrito from the Queen of LA](/images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18006783689497144.jpg)

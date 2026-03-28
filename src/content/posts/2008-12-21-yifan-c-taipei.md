@@ -15,6 +15,9 @@ tags:
 description: Yifan C. – Taipei aka 露露http://www.blogger.com/profile/08446448073954436949
 archiveUrl: https://web.archive.org/web/20110105193544/http://www.thethirstypig.com/2008/12/21/yifan-c-taipei/
 draft: false
+location: Yifan C.
+city: Taipei
+region: Taipei
 ---
 
 Yifan C. – Taipei aka [露露](http://www.blogger.com/profile/08446448073954436949)

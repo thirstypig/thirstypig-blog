@@ -16,6 +16,7 @@ tags:
 - noir
 - amtrak
 description: Union Station before my daily ride. . . . .
+location: Union Station before my daily ride
 ---
 
 ![Union Station before my daily ride](/images/posts/ig-2018-07-13-union-station-before-my-daily-ride/17945186497116570.jpg)

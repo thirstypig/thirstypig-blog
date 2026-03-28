@@ -22,6 +22,7 @@ tags:
 - river
 - stream
 description: Bogachiel River rain forest. A nice 3 mile loop. I wasn’t planning to complete it but I passed the point of no return a long time ago, so I was begrudgingly forced to finish. Luckily I found a Gandalf
+location: Bogachiel River rain forest
 ---
 
 ![Bogachiel River rain forest](/images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg)

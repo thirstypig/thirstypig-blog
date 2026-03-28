@@ -12,6 +12,9 @@ tags:
 description: First of the recent gourmet burger trend Does not offer ketchup or substitutions or modifications on the burger or any menu items – Take it or leave it 2nd location in Culver City has nice outdoor pat
 archiveUrl: https://web.archive.org/web/20160828021904/http://thirstypig.com/2015/10/31/fathers-office-los-angeles/
 draft: false
+location: Father’s Office
+city: Los Angeles
+address: 3229 Helms Ave Los Angeles, CA 90034
 ---
 
 [![IMG_3783](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3783.jpg?resize=228%2C303 "IMG_3783")](http://thirstypig.com/2015/10/31/fathers-office-los-angeles/img_3783/)

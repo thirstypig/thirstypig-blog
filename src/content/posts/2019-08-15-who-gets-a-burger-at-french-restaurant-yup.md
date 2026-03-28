@@ -20,6 +20,7 @@ tags:
 - wagyuburger
 - yummy
 description: Who gets a burger at French restaurant? Yup. I do. The grilled octopus was pretty good, too . . . .
+location: Who gets a burger at French restaurant?  Yup
 ---
 
 ![Who gets a burger at French restaurant?  Yup](/images/posts/ig-2019-08-15-who-gets-a-burger-at-french-restaurant-yup/18060380623178685.jpg)

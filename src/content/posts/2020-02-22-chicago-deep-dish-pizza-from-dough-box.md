@@ -22,6 +22,7 @@ tags:
 - eastla
 - dtla
 description: Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. The crust was really good and held up. The tomato sauce seemed to be a bit watery. Too bad parking sucked and they don’t h
+location: Chicago Deep Dish pizza from Dough Box
 ---
 
 ![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/18088428730149258.jpg)

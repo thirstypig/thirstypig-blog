@@ -7,25 +7,35 @@ interface Props {
 	description?: string;
 	heroImage?: string;
 	categories?: string[];
+	tags?: string[];
 	slug: string;
 }
 
-const { title, pubDate, description, heroImage, categories = [], slug } = Astro.props;
+const { title, pubDate, description, heroImage, categories = [], tags = [], slug } = Astro.props;
+const isClosed = tags.some(t => t.toLowerCase() === 'closed') || title.toLowerCase().includes('closed');
 ---
 
 <article class="group">
 	<a href={`/posts/${slug}/`} class="block no-underline">
-		<div class="aspect-[4/3] overflow-hidden rounded-xl bg-cream-dark mb-3">
+		<div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-cream-dark mb-3">
 			{heroImage ? (
 				<img
 					src={heroImage}
 					alt={title}
-					class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300"
+					class:list={[
+						'w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300',
+						isClosed && 'grayscale opacity-75'
+					]}
 					loading="lazy"
 				/>
 			) : (
 				<div class="w-full h-full flex items-center justify-center bg-gradient-to-br from-amber/10 to-rust/10">
 					<span class="font-serif text-4xl text-amber/30">TP</span>
+				</div>
+			)}
+			{isClosed && (
+				<div class="absolute top-3 right-3 bg-rust text-cream text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wide shadow-lg">
+					Closed
 				</div>
 			)}
 		</div>
@@ -39,7 +49,10 @@ const { title, pubDate, description, heroImage, categories = [], slug } = Astro.
 					))}
 				</div>
 			)}
-			<h3 class="font-serif text-lg font-semibold text-ink group-hover:text-amber transition-colors leading-snug">
+			<h3 class:list={[
+				'font-serif text-lg font-semibold group-hover:text-amber transition-colors leading-snug',
+				isClosed ? 'text-stone' : 'text-ink'
+			]}>
 				{title}
 			</h3>
 			<p class="text-sm text-stone">

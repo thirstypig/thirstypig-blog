@@ -10,9 +10,14 @@ categories:
 - Spanish
 - Tapas
 - Wine
+- Shanghai
 description: El Willy is constantly on the top of many lists of best restaurants in Shanghai. Not an easy perch to maintain, yet, in my humble opinion and limited Shanghai experience, I think Guillermo ‘Willy’Trul
 archiveUrl: https://web.archive.org/web/20111105003021/http://www.thethirstypig.com/2011/09/01/el-willy-shanghai/
 draft: false
+location: El Willy
+city: Shanghai
+region: Shanghai
+address: 1 Shaanxi Nan Lu St
 ---
 
 El Willy is constantly on the top of many lists of best restaurants in Shanghai. Not an easy perch to maintain, yet, in my humble opinion and limited Shanghai experience, I think Guillermo ‘Willy’Trullas Moreno does a good job at it.

@@ -21,6 +21,10 @@ tags:
 - sgv
 - elmonte
 description: Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯, Beef ball soup 貢丸湯. Yummy classic Taiwanese dishes. The beef noodle soup is ordered by almost everyone. Enjoyed the hearty
+location: Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯
+city: '...'
+categories:
+- '...'
 ---
 
 ![Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯,...](/images/posts/ig-2017-10-25-beef-noodle-soup-牛肉麵-minced-pork-noodles-雜醬麵-fried-pork-chop/17892070285106432.jpg)

@@ -15,6 +15,7 @@ tags:
 - tacos
 - breakfasttacos
 description: Great Breakfast Tacos
+location: Great Breakfast Tacos
 ---
 
 ![Great Breakfast Tacos](/images/posts/ig-2017-06-24-great-breakfast-tacos/17861170288158702.jpg)

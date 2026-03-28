@@ -18,9 +18,12 @@ categories:
 - 2 pigs
 - American
 - Food Truck
+- The Frysmith Food Truck
 description: This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill. http://4.bp.blogspot.com/UYnRoOEBBM/S7JvtSLChWI/AAAAAAAAA
 archiveUrl: https://web.archive.org/web/20100418081924/http://blog.thethirstypig.com:80/2010/03/frysmith-food-truck.html
 draft: false
+location: Truck Feasting at its best
+city: The Frysmith Food Truck
 ---
 
 This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill.

@@ -18,6 +18,7 @@ tags:
 - japanesefood
 - shoyuramen
 description: Yet another hot bowl of ramen noodle soup at in Brooklyn. Also had the boneless chicken, fried chicken wings, and a spinach salad. The boneless chicken was better than the chicken wings. The spinach s
+location: Yet another hot bowl of ramen noodle soup at  in Brooklyn
 ---
 
 ![Yet another hot bowl of ramen noodle soup at  in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17904406126129840.jpg)

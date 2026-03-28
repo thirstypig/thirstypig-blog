@@ -18,11 +18,16 @@ images:
 categories:
 - 3 pigs
 - Taiwanese
+- Arcadia
+- San Gabriel Valley
 tags:
 - Los Angeles
 description: I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang’s Kitchen is my new favorite local Taiwanese restaurant. I would almost s
 archiveUrl: https://web.archive.org/web/20111103145210/http://www.thethirstypig.com/2009/12/30/liangs-kitchen-%e6%a2%81%e5%aa%bd%e5%aa%bd%e5%ae%b6-arcadia/
 draft: false
+location: Liang’s Kitchen 梁媽媽家
+city: Arcadia
+region: San Gabriel Valley
 ---
 
 I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang’s Kitchen is my new favorite local Taiwanese restaurant. I would almost say hole-in-the-wall. But they have 3 San Gabriel Valley locations.

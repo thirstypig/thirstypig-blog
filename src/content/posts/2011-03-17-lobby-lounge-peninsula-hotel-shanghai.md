@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/17/lobby-lounge-peninsula-hotel-shanghai/
 categories:
 - Huangpu
+- Shanghai
 tags:
 - Hotel
 - Tea
 description: When you think of English afternoon tea, you think of high society sipping on tea with crumpets at a posh hotel, like the Peninsula. At the Lobby Lounge, that’s what you’ll find. With a live 3 piece s
 archiveUrl: https://web.archive.org/web/20161018163251/http://thirstypig.com/2011/03/17/lobby-lounge-peninsula-hotel-shanghai/
 draft: false
+location: Lobby Lounge
+city: Shanghai
+region: Shanghai
+address: 32 Zhongshan East First Road
 ---
 
 [![afternoon-tea-pennisula-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Afternoon-Tea-Pennisula-Shanghai-02.jpg?resize=403%2C302 "afternoon-tea-pennisula-shanghai-02")](http://thirstypig.com/2011/03/17/lobby-lounge-peninsula-hotel-shanghai/afternoon-tea-pennisula-shanghai-02/)

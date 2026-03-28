@@ -16,12 +16,17 @@ categories:
 - 1 pig
 - Japanese
 - Price Range 2 $/¥/NT
+- Shanghai
 tags:
 - Luwan District 上海卢湾区
 - Shanghai 上海
 description: With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Centr
 archiveUrl: https://web.archive.org/web/20110106023221/http://www.thethirstypig.com/2010/09/06/a-lunch-to-be-forgotten-at-%e4%bc%8a%e8%97%a4%e5%ae%b6-itoya-shanghai-luwan/
 draft: false
+location: A Lunch to be Forgotten at 伊藤家 Itoya
+city: Shanghai
+region: Shanghai
+address: 381 Middle Huaihai Road
 ---
 
 With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Central Plaza.

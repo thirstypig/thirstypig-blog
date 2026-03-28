@@ -25,6 +25,7 @@ tags:
 - eeeeeats
 - eat
 description: Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to the SGV. Known as SBD Korean Bbq - they offer their traditional dishes, that made them well known, but also offering DIY kbbq. Their Ga
+location: Galbi Jim at SBD BBQ
 ---
 
 ![Galbi Jim at SBD BBQ](/images/posts/ig-2019-11-16-galbi-jim-at-sbd-bbq/17893421731421402.jpg)

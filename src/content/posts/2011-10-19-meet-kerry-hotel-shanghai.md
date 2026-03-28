@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - American
 - Hotel
@@ -13,6 +14,9 @@ tags:
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106060450/http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
 draft: false
+location: Meet, Kerry Hotel
+city: Shanghai
+region: Shanghai
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-58.jpg?resize=282%2C211 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-165/)

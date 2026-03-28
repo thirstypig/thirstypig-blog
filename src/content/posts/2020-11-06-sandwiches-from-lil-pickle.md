@@ -19,6 +19,7 @@ tags:
 - food
 - italiansub
 description: 'Sandwiches from Lil Pickle. Had the Lil'' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I '
+location: Sandwiches from Lil Pickle
 ---
 
 ![Sandwiches from Lil Pickle](/images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17886598237793484.jpg)

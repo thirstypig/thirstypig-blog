@@ -23,6 +23,7 @@ tags:
 - beeftaquitos
 - rip
 description: Family dinner with mom picking Mexican Food. We shared and couldn’t finish everything. We had pork carnitas, cheese enchiladas, beef taquitos, chicken quesadilla, beef tacos, chicken tacos, and Mexica
+location: Family dinner with mom picking Mexican Food
 ---
 
 ![Family dinner with mom picking Mexican Food](/images/posts/ig-2018-07-23-family-dinner-with-mom-picking-mexican-food/17962240885062530.jpg)

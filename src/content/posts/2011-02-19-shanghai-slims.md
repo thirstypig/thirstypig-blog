@@ -9,12 +9,16 @@ images:
 - /images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg
 categories:
 - Luwan
+- Shanghai
 tags:
 - American
 - Steak
 description: 'Shanghai Slim is your classic unabashed American steakhouse. Located in the Sinan Mansion, Chef Adam Levin, from New York Style Steak & Burger, helms this classic surf & turf restaurant with with the '
 archiveUrl: https://web.archive.org/web/20161019152430/http://thirstypig.com/2011/02/19/shanghai-slims/
 draft: false
+location: Shanghai Slims
+city: Shanghai
+region: Shanghai
 ---
 
 [![shanghai-slims-10](/images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg "shanghai-slims-10")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-10/)

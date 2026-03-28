@@ -8,11 +8,15 @@ categories:
 - 2 pigs
 - Price Range 2 $/¥/NT
 - Sichuanese
+- Shanghai
 tags:
 - Shanghai
 description: 品川 Pin Chuan 桃江路47号 近乌鲁木齐南路 47 Taojiang Lu by Wulumuqi Nan Luhttp://maps.google.com/maps?client=safari&q=%E6%A1%83%E6%B1%9F%E8%B7%AF47%E5%8F%B7&oe=UTF-8&ie=UTF8&hl=en&hq=%E6%A1%83%E6%B1%9F%E8%B7%AF47%
 archiveUrl: https://web.archive.org/web/20111104180200/http://www.thethirstypig.com/2011/05/24/pin-chuan-shanghai/
 draft: false
+location: Pin Chuan
+city: Shanghai
+region: Shanghai
 ---
 
 品川 Pin Chuan

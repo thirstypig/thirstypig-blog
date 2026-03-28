@@ -13,11 +13,15 @@ categories:
 - San Gabriel Valley
 - Cupcakes
 - Dessert
+- Pasadena
 tags:
 - LA's San Gabriel Valley
 description: Everyone knows about DOT’s in Pasadena. . . . but not everyone knows about Violet’s. Violet’s is hidden behind the hustle and bustle of Old Town Pasadena. I recently went there after lunch to try some
 archiveUrl: https://web.archive.org/web/20110106011115/http://www.thethirstypig.com/2009/07/11/violets-cakes-pasadena/
 draft: false
+location: Violet’s Cakes
+city: Pasadena
+region: Pasadena
 ---
 
 Everyone knows about DOT’s in Pasadena. . . . but not everyone knows about Violet’s. Violet’s is hidden behind the hustle and bustle of Old Town Pasadena. I recently went there after lunch to try some cupcakes.

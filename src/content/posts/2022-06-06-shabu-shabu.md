@@ -22,6 +22,11 @@ tags:
 - dtla
 - littletokyo
 description: Shabu Shabu. All-You-Can-Eat at Kushi Shabu in DTLA little Tokyo. Haven’t Ben to Kushi in years. Had a great time. Great service. Would go again. And recommend. . . . . . .
+location: Shabu Shabu
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Shabu Shabu](/images/posts/ig-2022-06-06-shabu-shabu/17896104665546195.jpg)

@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/
 categories:
 - Los Angeles
+- Connie & Ted’s and Cousins – Los Angeles
 tags:
 - Seafood
 description: Inside Cousin’s Maine
 archiveUrl: https://web.archive.org/web/20161019003843/http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/
 draft: false
+location: LA Lobster Roll Crawl – EMC
+city: Connie & Ted’s and Cousins – Los Angeles
+address: 8171 Santa Monica Blvd
 ---
 
 [![Cousin's Maine](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3285.jpg?resize=218%2C290 "Cousin's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3285/)

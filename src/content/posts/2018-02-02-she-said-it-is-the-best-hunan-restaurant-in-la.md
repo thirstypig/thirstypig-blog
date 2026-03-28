@@ -19,6 +19,7 @@ tags:
 - sgv
 - thirstypig
 description: She said it is the best hunan restaurant in LA. Quite authentic.
+location: She said it is the best hunan restaurant in LA
 ---
 
 ![She said it is the best hunan restaurant in LA](/images/posts/ig-2018-02-02-she-said-it-is-the-best-hunan-restaurant-in-la/17922069892022937.jpg)

@@ -23,6 +23,7 @@ tags:
 - beefjerky
 - icon
 description: A gas station. But this is no ordinary gas station. This is a Buc-ee’s!!! This is the largest gas station that I have ever been to. Also, the food. OMG. They have beef jerky, nuts, bbq sandwiches, etc
+location: A gas station
 ---
 
 ![A gas station](/images/posts/ig-2022-06-30-a-gas-station/17957025772868820.jpg)

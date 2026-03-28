@@ -6,12 +6,20 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/
 categories:
 - SGV
+- Monrovia
+- San Gabriel Valley
 tags:
 - Bakery
 - Cuban
 description: Merengue brings Cuban food to a hidden and underrated neighborhood in Monrovia. Old Town, on Mrytle Avenue, consists of quaint local shops & restaurants with lined trees and sidewalk benches with a sm
 archiveUrl: https://web.archive.org/web/20161105133856/http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/
 draft: false
+location: Merengue Bakery & Cafe
+city: Monrovia
+region: San Gabriel Valley
+address: '417 S Myrtle Ave
+
+  Monrovia, CA 91016'
 ---
 
 [![img_1384](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1384.jpg?resize=403%2C302 "img_1384")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1384/)

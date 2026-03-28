@@ -13,11 +13,15 @@ categories:
 - Burrito
 - San Gabriel Valley
 - Breakfast
+- Los Angeles
 tags:
 - LA's San Gabriel Valley
 description: Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friend
 archiveUrl: https://web.archive.org/web/20110106024247/http://www.thethirstypig.com/2009/08/13/lucky-boy-drive-in-the-bacon-burrito-err-breakfast-burrito/
 draft: false
+location: Lucky Boy Drive-in. . . The bacon burrito. . .err breakfast burrito
+city: Los Angeles
+region: San Gabriel Valley
 ---
 
 Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friends say Lucky Boy has the best breakfast burrito. I had once before . . . but i didn’t think it was memorable.

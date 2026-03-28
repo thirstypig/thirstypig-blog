@@ -15,11 +15,15 @@ categories:
 - French
 - Price Range 2 $/¥/NT
 - Tea
+- Taipei
 tags:
 - Taipei
 description: Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quit
 archiveUrl: https://web.archive.org/web/20111103134642/http://www.thethirstypig.com/2010/07/22/paul-taipei-french-bakery/
 draft: false
+location: Paul Bakery
+city: Taipei
+region: Taipei
 ---
 
 Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quite sure myself. I know I was out of place, when I noticed that 90% of the people were females.

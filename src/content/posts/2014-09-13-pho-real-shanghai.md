@@ -9,6 +9,7 @@ images:
 - /images/posts/pho-real-shanghai/IMG_1341.jpg
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Noodles
 - Shanghai
@@ -16,6 +17,10 @@ tags:
 description: Solid Vietnamese Noodle restaurant featuring Pho RIP Fred. Glad I got to meet him, unfortunate that he passed away so young Personal favorite is the beef tomato broth with dipping french bread – Bo Kh
 archiveUrl: https://web.archive.org/web/20160913215734/http://thirstypig.com/2014/09/13/pho-real-shanghai/
 draft: false
+location: Pho Real
+city: Shanghai
+region: Shanghai
+address: 166 Fumin Rd
 ---
 
 [![IMG_1341](/images/posts/pho-real-shanghai/IMG_1341.jpg "IMG_1341")](http://thirstypig.com/2014/09/13/pho-real-shanghai/img_1341/)

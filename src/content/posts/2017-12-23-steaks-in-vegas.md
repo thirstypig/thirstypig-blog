@@ -14,6 +14,7 @@ images:
 - /images/posts/ig-2017-12-23-steaks-in-vegas/17914550599061465.jpg
 - /images/posts/ig-2017-12-23-steaks-in-vegas/17891922712137173.jpg
 description: Steaks in Vegas
+location: Steaks in Vegas
 ---
 
 ![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17901609556118658.jpg)

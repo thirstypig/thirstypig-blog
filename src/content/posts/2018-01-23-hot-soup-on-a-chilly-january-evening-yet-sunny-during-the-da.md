@@ -17,6 +17,10 @@ tags:
 - koreanfood
 - thirstypig
 description: Hot soup on a chilly January evening, yet sunny during the day. Favorite soup on cold days. .kao
+location: Hot soup on a chilly January evening
+city: yet sunny during the day
+categories:
+- yet sunny during the day
 ---
 
 ![Hot soup on a chilly January evening, yet sunny during the day](/images/posts/ig-2018-01-23-hot-soup-on-a-chilly-january-evening-yet-sunny-during-the-da/17919521062055902.jpg)

@@ -24,6 +24,11 @@ tags:
 - panfrieddumplings
 - noodles
 description: Shanghainese Lunch at Tasty Noodle House in Irvine. Haven’t had this cuisine for awhile. 蔥油拌麵，炒年糕，生煎包，大餛飩，紅燒肉和四季豆 we had scallion noodles, pan fried dumplings, black pepper rice cake noodles, soup dum
+location: Shanghainese Lunch at Tasty Noodle House in Irvine
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Shanghainese Lunch at Tasty Noodle House in Irvine](/images/posts/ig-2018-05-03-shanghainese-lunch-at-tasty-noodle-house-in-irvine/17943796072056711.jpg)

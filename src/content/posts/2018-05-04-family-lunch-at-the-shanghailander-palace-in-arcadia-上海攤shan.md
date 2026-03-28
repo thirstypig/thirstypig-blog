@@ -26,6 +26,12 @@ tags:
 - pork
 - fish
 description: 'Family lunch at the Shanghailander Palace, in Arcadia 上海攤。Shanghainese food 2 days in row! Yay! 生煎包，紅燒肉，鹹肉百頁結，熏魚，蔥油拌麵，菜飯，苔條魚. Pan fried dumplings, braised pork belly, salted pork with tofu, vegetable '
+location: Family lunch at the Shanghailander Palace
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Family lunch at the Shanghailander Palace, in Arcadia 上海攤。Shanghainese food 2...](/images/posts/ig-2018-05-04-family-lunch-at-the-shanghailander-palace-in-arcadia-上海攤shan/17942498362030580.jpg)

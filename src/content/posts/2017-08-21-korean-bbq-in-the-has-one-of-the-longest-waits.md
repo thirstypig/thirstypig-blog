@@ -25,6 +25,7 @@ tags:
 - thirstypig
 - baekjeongbbq
 description: Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight
+location: Korean BBQ in the   has one of the longest waits
 ---
 
 ![Korean BBQ in the   has one of the longest waits](/images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17895001045036569.jpg)

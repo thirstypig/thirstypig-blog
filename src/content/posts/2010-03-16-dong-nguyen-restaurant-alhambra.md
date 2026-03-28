@@ -16,9 +16,13 @@ categories:
 - Chinese
 - 2 pigs
 - $
+- Alhambra
 tags:
 - Los Angeles
 description: Dong Nguyen is a neighborhood favorite in San Gabriel. Their menu features languages in Vietnamese, Chinese, English, and Thai. You could say this is the All American restaurant of different nationali
 archiveUrl: https://web.archive.org/web/20111103143915/http://www.thethirstypig.com/2010/03/16/dong-nguyen-restaurant-alhambra/
 draft: false
+location: Dong Nguyen Restaurant
+city: Alhambra
+region: San Gabriel Valley
 ---

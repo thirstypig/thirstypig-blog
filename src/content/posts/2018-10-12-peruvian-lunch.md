@@ -24,6 +24,7 @@ tags:
 - medlheads
 - yorkie
 description: Peruvian lunch. Wish the portions were larger. But after an hour we realized we were quite full from lunch. Say hello to Rose the yorkie. . . . . .
+location: Peruvian lunch
 ---
 
 ![Peruvian lunch](/images/posts/ig-2018-10-12-peruvian-lunch/17896989988260234.jpg)

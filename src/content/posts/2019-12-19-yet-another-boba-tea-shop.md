@@ -15,6 +15,7 @@ tags:
 - tea
 - drink
 description: Yet another Boba Tea Shop. We were actually looking for boba ice cream bars - but they were sold out and had a one week wait for new orders. Crazy!! . . . .
+location: Yet another Boba Tea Shop
 ---
 
 ![Yet another Boba Tea Shop](/images/posts/ig-2019-12-19-yet-another-boba-tea-shop/17904606040399105.jpg)

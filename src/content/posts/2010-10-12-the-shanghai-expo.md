@@ -49,11 +49,15 @@ images:
 - /images/posts/the-shanghai-expo/Shanghai-Expo-2010-98-88x88.jpg
 categories:
 - 3 pigs
+- Shanghai
 tags:
 - Shanghai 上海
 description: I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so
 archiveUrl: https://web.archive.org/web/20110105112851/http://www.thethirstypig.com/2010/10/12/the-shanghai-expo/
 draft: false
+location: The Shanghai Expo
+city: Shanghai
+region: Shanghai
 ---
 
 I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so close.

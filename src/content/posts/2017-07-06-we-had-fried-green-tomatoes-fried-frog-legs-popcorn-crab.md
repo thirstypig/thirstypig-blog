@@ -23,6 +23,10 @@ tags:
 - drumfish
 - crab
 description: we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a
+location: we had fried green tomatoes, fried frog legs
+city: popcorn crab
+categories:
+- popcorn crab
 ---
 
 ![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862310810191444.jpg)

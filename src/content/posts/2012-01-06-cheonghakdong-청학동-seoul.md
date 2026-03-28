@@ -11,6 +11,9 @@ tags:
 description: 256-12 Gongdeok-dong, Mapo-gu, Seoul, South Korea 02-715-3775
 archiveUrl: https://web.archive.org/web/20161105131919/http://thirstypig.com/2012/01/06/cheonghakdong-%ec%b2%ad%ed%95%99%eb%8f%99-seoul/
 draft: false
+location: Cheonghakdong 청학동
+city: Seoul
+region: Seoul
 ---
 
 [![img_1260](http://i1.wp.com/thirstypig.com/wp-content/uploads/2012/01/IMG_1260.jpg?resize=403%2C302 "img_1260")](http://thirstypig.com/2012/01/06/cheonghakdong-%ec%b2%ad%ed%95%99%eb%8f%99-seoul/img_1260-3/)

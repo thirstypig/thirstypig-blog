@@ -27,6 +27,11 @@ tags:
 - tastemaker
 - tastemakers
 description: Lunch at an old favorite with an old friend. I usually go here at least once every time I’m in Taipei. I realize I should have stopped by the one in Tainan - my mistake. My friend and I walked here fr
+location: Lunch at an old favorite with an old friend
+city: Taipei
+region: Taipei
+categories:
+- Taipei
 ---
 
 ![Lunch at an old favorite with an old friend](/images/posts/ig-2024-05-07-lunch-at-an-old-favorite-with-an-old-friend/17867079138102571.jpg)

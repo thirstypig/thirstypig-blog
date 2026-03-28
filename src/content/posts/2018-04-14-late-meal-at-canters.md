@@ -21,6 +21,7 @@ tags:
 - canters
 - fairfax
 description: Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes. And some pickles.
+location: Late meal at Canter’s
 ---
 
 ![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17911119247147192.jpg)

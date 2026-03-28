@@ -14,6 +14,10 @@ tags:
 - pasta
 - coleslaw
 description: Burger, pasta, and cole slaw at House of Blues Great Burger!
+location: Burger, pasta
+city: and cole slaw at House of Blues  Great Burger
+categories:
+- and cole slaw at House of Blues  Great Burger
 ---
 
 ![Burger, pasta, and cole slaw at House of Blues  Great Burger](/images/posts/ig-2017-12-23-burger-pasta-and-cole-slaw-at-house-of-blues-great-burger/17899549465127821.jpg)

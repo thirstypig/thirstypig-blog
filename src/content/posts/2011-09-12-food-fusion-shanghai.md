@@ -10,11 +10,15 @@ categories:
 - Huangpu
 - Price Range $/¥/NT
 - 2 pigs
+- Shanghai
 tags:
 - Malaysian
 description: Mr. D, a classmate of mine, had taken us on a Southeast Asian food tour, starting withMy Dining Placehttp://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/ – a Singaporean restaurant, and t
 archiveUrl: https://web.archive.org/web/20161105180117/http://thirstypig.com/2011/09/12/food-fusion-shanghai/
 draft: false
+location: Food Fusion
+city: Shanghai
+region: Shanghai
 ---
 
 [![food-fusion-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-05.jpg?resize=403%2C301 "food-fusion-shanghai-05")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-05/)

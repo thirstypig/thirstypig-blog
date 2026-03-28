@@ -11,6 +11,12 @@ tags:
 description: Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie an
 archiveUrl: https://web.archive.org/web/20161105141609/http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/
 draft: false
+location: Rotisserie Chicken of California
+city: Pasadena
+region: Pasadena
+address: '26 Los Robles Ave.
+
+  Pasadena, CA 91101'
 ---
 
 [![dscn0045](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0045.jpg?resize=403%2C302 "dscn0045")](http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/dscn0045/)

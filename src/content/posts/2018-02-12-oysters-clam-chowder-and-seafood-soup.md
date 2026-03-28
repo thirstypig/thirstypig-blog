@@ -19,6 +19,10 @@ tags:
 - clams
 - oysters
 description: Oysters, clam chowder, and seafood soup
+location: Oysters, clam chowder
+city: and seafood soup
+categories:
+- and seafood soup
 ---
 
 ![Oysters, clam chowder, and seafood soup](/images/posts/ig-2018-02-12-oysters-clam-chowder-and-seafood-soup/17898987214135480.jpg)

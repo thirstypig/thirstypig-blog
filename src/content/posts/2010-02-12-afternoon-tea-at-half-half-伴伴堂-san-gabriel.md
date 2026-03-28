@@ -19,11 +19,15 @@ categories:
 - San Gabriel Valley
 - 2 pigs
 - $
+- San Gabriel
 tags:
 - LA's San Gabriel Valley
 description: Lately, I’ve been frequenting this little tea house, in the afternoons, to do some work. Half & Half is a quaint Taiwanese tea house in San Gabriel valley. http://1.bp.blogspot.com/37fRXLoLUPo/SwDC3Pr
 archiveUrl: https://web.archive.org/web/20110105031346/http://www.thethirstypig.com/2010/02/12/afternoon-tea-at-half-half-%e4%bc%b4%e4%bc%b4%e5%a0%82-san-gabriel/
 draft: false
+location: Afternoon Tea at Half & Half 伴伴堂
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 Lately, I’ve been frequenting this little tea house, in the afternoons, to do some work. Half & Half is a quaint Taiwanese tea house in San Gabriel valley.

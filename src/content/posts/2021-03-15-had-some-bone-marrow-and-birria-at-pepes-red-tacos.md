@@ -20,6 +20,11 @@ tags:
 - eeeeeats
 - eats
 description: 'Had some bone marrow and birria at Pepe’s red tacos. Bone marrow at a taco truck. Awesome. The birria with the consume was also decadent and rich. So good. So glad they are in Pasadena. Special shout '
+location: Had some bone marrow and birria at Pepe’s red tacos
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Had some bone marrow and birria at Pepe’s red tacos](/images/posts/ig-2021-03-15-had-some-bone-marrow-and-birria-at-pepes-red-tacos/17916530563609220.jpg)

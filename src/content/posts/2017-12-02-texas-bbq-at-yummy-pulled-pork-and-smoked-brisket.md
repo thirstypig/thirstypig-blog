@@ -17,6 +17,7 @@ tags:
 - pulledporkbbq
 - thirstypig
 description: Texas BBQ at yummy pulled pork and smoked brisket.
+location: Texas BBQ at   yummy pulled pork and smoked brisket
 ---
 
 ![Texas BBQ at   yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17881776544175032.jpg)

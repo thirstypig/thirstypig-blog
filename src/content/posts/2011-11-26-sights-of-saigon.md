@@ -9,6 +9,7 @@ categories:
 description: <-- //LinkWithinCodeStart var linkwithin\site\id = 187727; var linkwithin\div\class = "linkwithin\hook"; //LinkWithinCodeEnd -->
 archiveUrl: https://web.archive.org/web/20120116092443/http://www.thethirstypig.com:80/2011/11/26/sights-of-saigon/
 draft: false
+location: Sights of Saigon
 ---
 
 - Share this:

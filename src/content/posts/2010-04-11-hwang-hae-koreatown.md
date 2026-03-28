@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/11/hwang-hae-koreatown/
 categories:
 - K-Town
+- Koreatown
 tags:
 - Korean
 description: Not your typical Korean BBQ restaurant, Hwang Hae Do HHD specializes in boiled beef cooked in a mixed broth. Sundays were a ritual for a few of us to try different Korean restaurants. Rather than havi
 archiveUrl: https://web.archive.org/web/20161106052549/http://thirstypig.com/2010/04/11/hwang-hae-koreatown/
 draft: false
+location: Hwang Hae Do
+city: Koreatown
+region: Koreatown
+address: 429 N Western Ave Los Angeles, CA 90004
 ---
 
 [![img_1339](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1339.jpg?resize=234%2C175 "img_1339")](http://thirstypig.com/2010/04/11/hwang-hae-koreatown/img_1339/)

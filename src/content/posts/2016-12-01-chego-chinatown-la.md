@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/01/chego-chinatown-la/
 categories:
 - Chinatown
+- Downtown LA
 tags:
 - Asian
 - Chicken
@@ -14,6 +15,9 @@ tags:
 description: Chubby Pork Belly Bowl is my favorite at Chego Ooey Gooey Fries are quite popular The Beefy T is not bad, but better with the fried egg Outdoor picnic table seating available Cool area with lots of ea
 archiveUrl: https://web.archive.org/web/20161213073036/http://thirstypig.com/2016/12/01/chego-chinatown-la/
 draft: false
+location: Chego
+city: Chinatown
+region: Downtown LA
 ---
 
 [![IMG_0549](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0549.jpg?resize=403%2C302 "IMG_0549")](http://thirstypig.com/2016/12/01/chego-chinatown-la/img_0549/)

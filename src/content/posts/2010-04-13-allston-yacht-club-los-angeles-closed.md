@@ -8,9 +8,13 @@ categories:
 - Los Angeles
 tags:
 - American
+- closed
 description: Yelp Listinghttps://www.yelp.com/biz/allston-yacht-club-los-angeles
 archiveUrl: https://web.archive.org/web/20161106043752/http://thirstypig.com/2010/04/13/allston-yacht-club-los-angeles-closed/
 draft: false
+location: Allston Yacht Club
+city: Los Angeles
+address: 1320 Echo Park Ave Los Angeles, CA 90026
 ---
 
 [![img_1399](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1399.jpg?resize=403%2C302 "img_1399")](http://thirstypig.com/2010/04/13/allston-yacht-club-los-angeles-closed/img_1399/)

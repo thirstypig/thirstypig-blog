@@ -11,9 +11,15 @@ categories:
 - Chinese
 - Cantonese
 - Late Night
+- JJ Cafe
 description: JJ Cafe is your typical Monterey Park/Alhambra Cantonese late night cafe. You might have tried Garden Cafe, ABC, Sunday Bistro, and others. They all serve similar items on their menus. JJ’s features s
 archiveUrl: https://web.archive.org/web/20110105162716/http://www.thethirstypig.com/2009/04/22/late-night-yummies-jj-cafe/
 draft: false
+location: Late Night Yummies
+city: JJ Cafe
+address: '447 W Garvey Ave
+
+  Monterey Park, CA 91754'
 ---
 
 JJ Cafe is your typical Monterey Park/Alhambra Cantonese late night cafe. You might have tried Garden Cafe, ABC, Sunday Bistro, and others. They all serve similar items on their menus. JJ’s features several rice dishes including Fu Zhou Fried Rice as well as some noodle dishes.

@@ -27,6 +27,10 @@ tags:
 - jgold101
 - jonathangold
 description: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC. Excellent seafood. Fresh and tasty. Yummy . . .
+location: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado
+city: near USC
+categories:
+- near USC
 ---
 
 ![Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC](/images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/18061059733132780.jpg)

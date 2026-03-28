@@ -17,6 +17,7 @@ tags:
 - rockefellercenter
 - thirstypig
 description: Holidays at the Rockefeller Center. We also saw a successful marriage proposal on the ice. Heard a nice show a Saks Fifth Avenue Department Store. And saw a replica at the LEGO store.
+location: Holidays at the Rockefeller Center
 ---
 
 ![Holidays at the Rockefeller Center](/images/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17887982968167282.jpg)

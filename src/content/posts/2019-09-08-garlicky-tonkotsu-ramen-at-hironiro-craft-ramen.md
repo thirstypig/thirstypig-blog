@@ -23,6 +23,11 @@ tags:
 - japanesefood
 - noodles
 description: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. At
+location: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Garlicky Tonkotsu Ramen at Hironiro Craft Ramen](/images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18081230185097104.jpg)

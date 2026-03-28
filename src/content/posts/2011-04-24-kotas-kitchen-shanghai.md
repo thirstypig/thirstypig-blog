@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
 categories:
 - Changning District
+- Shanghai
 tags:
 - Japanese
 - Shanghai
 description: Kota’s is a small yakitori restaurant near the Shanghai Stadium. This establishment combines the western culture of the Beatles with the traditional Japanese setting. This cozy place bring intimacy wi
 archiveUrl: https://web.archive.org/web/20160911044418/http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
 draft: false
+location: Kota’s Kitchen
+city: Shanghai
+region: Shanghai
 ---
 
 [![kotas-kitchen-shanghai-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-20.jpg?resize=423%2C317 "kotas-kitchen-shanghai-20")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-20/)

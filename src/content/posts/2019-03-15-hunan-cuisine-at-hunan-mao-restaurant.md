@@ -19,6 +19,7 @@ tags:
 - hunancuisine
 - food
 description: Hunan cuisine at Hunan Mao Restaurant. My favorite Hunan Restaurant in LA. Preserved pork, eggplant and green beans, pork belly, steamed spare rib with steamed cake . . .
+location: Hunan cuisine at Hunan Mao Restaurant
 ---
 
 ![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17864235973344775.jpg)

@@ -11,6 +11,10 @@ tags:
 description: When you greeted by the beautiful hostesses at Naj and shown to your table in the white motif’d dining room, the feeling of elegance.
 archiveUrl: https://web.archive.org/web/20161104212846/http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/
 draft: false
+location: Naj Exquisite Thai Cuisine
+city: Bangkok
+region: Bangkok
+address: 42 Convent Road
 ---
 
 [![naj-thai-bangkok-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-11.jpg?resize=403%2C302 "naj-thai-bangkok-11")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-11/)

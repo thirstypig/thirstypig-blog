@@ -24,6 +24,7 @@ tags:
 - shabu
 - hotpot
 description: Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right afte
+location: Shabu Shabu at Kagaya
 ---
 
 ![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18045032158324153.jpg)

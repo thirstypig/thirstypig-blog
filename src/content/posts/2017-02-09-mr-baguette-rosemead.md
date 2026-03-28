@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/09/mr-baguette-rosemead/
 categories:
 - SGV
+- Rosemead
+- San Gabriel Valley
 tags:
 - Sandwich
 - Vietnamese
 description: Simple, yet delicious Banh Mi Vietnamese Sandwiches Bread is baked fresh right in the shop Arguably better than Mr. Lee’s Sandwiches I like the grilled pork and meatball Spacious parking lot, but fill
 archiveUrl: https://web.archive.org/web/20170210055537/http://thirstypig.com/2017/02/09/mr-baguette-rosemead/
 draft: false
+location: Mr. Baguette
+city: Rosemead
+region: San Gabriel Valley
+address: 8702 E Valley Blvd
 ---
 
 [![IMG_1047](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1047-1.jpg?resize=344%2C258 "IMG_1047")](http://thirstypig.com/2017/02/09/mr-baguette-rosemead/img_1047-2/)

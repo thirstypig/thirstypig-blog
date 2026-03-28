@@ -21,6 +21,7 @@ tags:
 - eats
 - eeeeeats
 description: The Chronicles of Carnitas continues at Porky’s Carnitas. Had to try a place with such a eponymous name. Though not a fan of offal and unfried pork skin - the mixto taco with everything was really goo
+location: The Chronicles of Carnitas continues at Porky’s Carnitas
 ---
 
 ![The Chronicles of Carnitas continues at Porky’s Carnitas](/images/posts/ig-2021-06-10-the-chronicles-of-carnitas-continues-at-porkys-carnitas/18116173276223118.jpg)

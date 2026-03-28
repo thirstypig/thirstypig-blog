@@ -28,6 +28,12 @@ tags:
 - peanutbuttertoast
 - eats
 description: 'Stone pot rice with Chinese sausage at a Hong Kong style cafe in Monterey park. Brings back memories of late night meals after a night of drinking. Or when I was stumbling around in LKF, also after a '
+location: Stone pot rice with Chinese sausage at a Hong Kong style cafe in Monterey park
+city: Monterey Park
+region: San Gabriel Valley
+categories:
+- Monterey Park
+- San Gabriel Valley
 ---
 
 ![Stone pot rice with Chinese sausage at a Hong Kong style cafe in Monterey park](/images/posts/ig-2024-09-12-stone-pot-rice-with-chinese-sausage-at-a-hong-kong-style-caf/18022371920166506.jpg)

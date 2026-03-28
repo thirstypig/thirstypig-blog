@@ -12,6 +12,7 @@ tags:
 - burrito
 - tandorichicken
 description: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station. Not bad. Saucey
+location: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station
 ---
 
 ![Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station](/images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17911415848185975.jpg)

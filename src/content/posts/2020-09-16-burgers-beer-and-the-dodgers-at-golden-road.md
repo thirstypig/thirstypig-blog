@@ -15,6 +15,10 @@ tags:
 - burger
 - dodgers
 description: Burgers, beer, and the dodgers at Golden Road. Octoberfest at Golden Road. Got a cool dodger cup and octoberfest mug. Surprising the special octoberfest beer was really good. Also Golden Road has spec
+location: Burgers, beer
+city: and the dodgers at Golden Road
+categories:
+- and the dodgers at Golden Road
 ---
 
 ![Burgers, beer, and the dodgers at Golden Road](/images/posts/ig-2020-09-16-burgers-beer-and-the-dodgers-at-golden-road/18049870132260643.jpg)

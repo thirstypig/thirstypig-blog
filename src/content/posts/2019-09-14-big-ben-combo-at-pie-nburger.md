@@ -22,6 +22,11 @@ tags:
 - eat
 - pie
 description: Big Ben Combo at Pie n’Burger. I don’t remember having the burger here. I think I always came for breakfast or just pie. But this time, was Burger time. It was a truly good experience. Juicy, almost t
+location: Big Ben Combo at Pie n’Burger
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Big Ben Combo at Pie n’Burger](/images/posts/ig-2019-09-14-big-ben-combo-at-pie-nburger/17894451082376874.jpg)

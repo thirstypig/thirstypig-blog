@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/17/pantry-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Bakery
 - Dessert
 description: Pantry 205 Wulumuqi Nan Lu, near Jianguo Xi Lu 乌鲁木齐南路205号, 近建国西路 Shanghai
 archiveUrl: https://web.archive.org/web/20161106075153/http://thirstypig.com/2012/03/17/pantry-shanghai/
 draft: false
+location: Pantry
+city: Shanghai
+region: Shanghai
 ---
 
 [![pantry-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pantry.Shanghai.05.jpg?resize=403%2C268 "pantry-shanghai-05")](http://thirstypig.com/2012/03/17/pantry-shanghai/pantry-shanghai-05/)

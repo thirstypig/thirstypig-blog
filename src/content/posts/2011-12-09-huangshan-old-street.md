@@ -9,6 +9,7 @@ categories:
 description: 'In the town of Huangshan 黄山 Yellow Mountain, there is the famous tourist destination Old Street 老街. The Tunxi district, which is the main shopping district, is where the Old Street starts. The rustic '
 archiveUrl: https://web.archive.org/web/20120116092448/http://www.thethirstypig.com:80/2011/12/09/huangshan-old-street/
 draft: false
+location: Huangshan’s Old Street
 ---
 
 In the town of Huangshan 黄山 (Yellow Mountain), there is the famous tourist destination Old Street 老街. The Tunxi district, which is the main shopping district, is where the Old Street starts. The rustic traditional Anhui buildings house touristy gifts, Chinese calligraphy instruments, tasty sweets, and “antiques”. You’ll also find tea houses, snacks, and restaurants. On one end of the street is the famed [First Floor Restaurant](http://www.thethirstypig.com/2011/12/08/first-floor-restaurant-huangshan/), which is arguably the most popular restaurant in town. At the end of our trip from [Huangshan](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/) and [Xidi & Hongcun Village](http://www.thethirstypig.com/2011/12/07/xidi-and-hongcun-village-huangshan/), Old Street was a nice change and a good place to shop for gifts.

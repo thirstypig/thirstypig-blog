@@ -9,11 +9,14 @@ categories:
 - Barbeque
 - Korean
 - Price Range 2 $/¥/NT
+- Korean BBQ
 tags:
 - Seoul
 description: .http://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103143934/http://www.thethirstypig.com/2011/01/24/the-born-%ec%83%88%eb%a7%88%ec%9d%84%ec%8b%9d%eb%8b%b9%ec%8b%a0%ec%82%ac%ec%97%ad%ec%a0%90-korean-bbq/
 draft: false
+location: The Born 새마을식당신사역점
+city: Korean BBQ
 ---
 
 [.](http://www.addtoany.com/share_save)

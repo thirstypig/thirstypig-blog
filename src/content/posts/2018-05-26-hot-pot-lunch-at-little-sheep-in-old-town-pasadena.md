@@ -22,6 +22,11 @@ tags:
 - pasadena
 - sgv
 description: Hot Pot lunch at Little Sheep in old town Pasadena. 小肥羊
+location: Hot Pot lunch at Little Sheep in old town Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17848494745266491.jpg)

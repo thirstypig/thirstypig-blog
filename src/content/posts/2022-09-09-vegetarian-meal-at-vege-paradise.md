@@ -16,6 +16,7 @@ tags:
 - vegan
 - vegetarian
 description: Vegetarian meal at Vege Paradise.
+location: Vegetarian meal at Vege Paradise
 ---
 
 ![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17977125382723596.jpg)

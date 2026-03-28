@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/25/ciudad-dtla-closed/
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Los Angeles
 - Mexican
+- closed
 description: Ciudad is a Latin restaurant located in downtown Los Angeles, which is part of the Mary Sue Milliken and Susan Feniger food empire. Noted restaurateurs, television celebrities, and chefs, Ciudad offer
 archiveUrl: https://web.archive.org/web/20160914023144/http://thirstypig.com/2010/06/25/ciudad-dtla-closed/
 draft: false
+location: Ciudad
+city: Dtla
+region: Downtown LA
+address: 445 S. Figueroa St. Los Angeles, CA 90071
 ---
 
 [![4772799377_703d757479_o](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/4772799377_703d757479_o.jpg?resize=423%2C317 "4772799377_703d757479_o")](http://thirstypig.com/2010/06/25/ciudad-dtla-closed/4772799377_703d757479_o/)

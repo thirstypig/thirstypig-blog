@@ -12,6 +12,7 @@ categories:
 - Lounge
 - Xuhui
 - 2 pigs
+- Shanghai
 tags:
 - Beer
 - American
@@ -20,6 +21,9 @@ tags:
 description: Dr. Beer is a new entrant in the Micro-Bewery or gastropubs in Shanghai. Dr. Beer will compete on a few different fronts with other establishments. Related to Dr. Wine, just located down the street on
 archiveUrl: https://web.archive.org/web/20161105140521/http://thirstypig.com/2011/12/17/dr-beer-shanghai/
 draft: false
+location: Dr. Beer
+city: Shanghai
+region: Shanghai
 ---
 
 [![dr-beer-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-03.jpg?resize=403%2C302 "dr-beer-shanghai-03")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-03/)

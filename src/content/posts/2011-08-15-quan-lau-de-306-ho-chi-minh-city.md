@@ -11,6 +11,8 @@ tags:
 description: Goat, I’ve thought, was never that strange of a meat to eat. Its a domesticated animal much like a pig or a cow. Goats aren’t exotic creatures like pangolins, snakes, or even rabbits. But it still doe
 archiveUrl: https://web.archive.org/web/20161106113710/http://thirstypig.com/2011/08/15/quan-lau-de-306-ho-chi-minh-city/
 draft: false
+location: Quán Lẩu Dê 306
+city: Ho Chi Minh City
 ---
 
 [![quan-la%cc%82%cc%89u-de%cc%82-306-saigon-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Quán-Lẩu-Dê-306-Saigon-04.jpg?resize=403%2C302 "quan-la%cc%82%cc%89u-de%cc%82-306-saigon-04")](http://thirstypig.com/2011/08/15/quan-lau-de-306-ho-chi-minh-city/quan-la%cc%82%cc%89u-de%cc%82-306-saigon-04/)

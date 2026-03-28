@@ -12,9 +12,13 @@ images:
 categories:
 - 2 pigs
 - Yunnan
+- Shanghai
 tags:
 - Shanghai
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110608053115/http://www.thethirstypig.com:80/2010/05/07/the-temple-in-the-sky-at-lost-heaven-on-the-bund-shanghai/
 draft: false
+location: The Temple in the Sky at Lost Heaven on the Bund
+city: Shanghai
+region: Shanghai
 ---

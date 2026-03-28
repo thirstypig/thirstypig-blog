@@ -12,6 +12,8 @@ tags:
 description: One of the first nitrogen ice cream shops in LA Had the blue velvet ice cream If you check in on Yelp you get a free waffle cone on your first visit Little Tokyo location faces a lot of competition wi
 archiveUrl: https://web.archive.org/web/20170815074730/http://thirstypig.com:80/2017/02/02/ice-cream-lab-los-angeles/
 draft: false
+location: Ice Cream Lab
+city: Los Angeles
 ---
 
 [![IMG_0490](https://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0490.jpg?w=199&h=266&crop "IMG_0490")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_0490/)

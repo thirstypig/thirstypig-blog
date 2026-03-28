@@ -19,6 +19,7 @@ categories:
 description: Don Chow’s Tacos were located, last Friday, in a cool area of Silverlake. I didn’t know that there was a hip crowd with some cool venues in that part of LA. I’ve been meaning to try all these differen
 archiveUrl: https://web.archive.org/web/20110105232341/http://www.thethirstypig.com/2009/08/26/another-taco-truck-don-chow-tacos/
 draft: false
+location: Another Taco Truck??? . . . Don Chow Tacos
 ---
 
 Don Chow’s Tacos were located, last Friday, in a cool area of Silverlake. I didn’t know that there was a hip crowd with some cool venues in that part of LA. I’ve been meaning to try all these different taco trucks. Don Chow is the third different one that I have tried this year – after Kogi and El Gallito.

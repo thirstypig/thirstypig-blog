@@ -20,6 +20,7 @@ tags:
 - westside
 - thirstypig
 description: Wild Animals seen in Century City! Frogcats from Dreamscape Immersive VR. Saw Alien Zoo. Want to The Blu and Magic Projector next! . . .
+location: Wild Animals seen in Century City
 ---
 
 ![Wild Animals seen in Century City](/images/posts/ig-2018-12-16-wild-animals-seen-in-century-city/17980102246152980.jpg)

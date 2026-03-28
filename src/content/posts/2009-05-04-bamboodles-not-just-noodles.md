@@ -14,11 +14,15 @@ categories:
 - Noodles
 - Chinese
 - Cantonese
+- Shanghai
 tags:
 - LA's San Gabriel Valley
 description: I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winn
 archiveUrl: https://web.archive.org/web/20110105144940/http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/
 draft: false
+location: Bamboodles. . . not just noodles
+city: Shanghai
+region: Shanghai
 ---
 
 I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winning food critic for LA Weekly. So, anything he says and write is “Gold!” Anyways. . .

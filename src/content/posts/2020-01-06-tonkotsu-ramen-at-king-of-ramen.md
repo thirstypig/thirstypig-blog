@@ -20,6 +20,11 @@ tags:
 - eat
 - eeeeeats
 description: Tonkotsu ramen at King of Ramen. Pork and soft boiled egg was really good. One of the better ramen joints in SGV and Pasadena. But the chicken karage was not so good. . . . .
+location: Tonkotsu ramen at King of Ramen
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Tonkotsu ramen at King of Ramen](/images/posts/ig-2020-01-06-tonkotsu-ramen-at-king-of-ramen/18123601645008651.jpg)

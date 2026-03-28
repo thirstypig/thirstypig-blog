@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2010/04/23/the-bazaar/
 categories:
 - Beverly HIlls
+- Beverly Hills
+- Westside
 tags:
 - Beverly Hills
 - Los Angeles
@@ -13,6 +15,9 @@ tags:
 description: The Bazaar, Beverly Hills
 archiveUrl: https://web.archive.org/web/20160523111949/http://thirstypig.com:80/2010/04/23/the-bazaar/
 draft: false
+location: The Bazaar
+city: Beverly Hills
+region: Westside
 ---
 
 The Bazaar, Beverly Hills

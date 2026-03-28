@@ -27,6 +27,11 @@ tags:
 - xiamen
 - china
 description: Random photos of my Taiwan trip. Lots of first for me even though I’ve been here many times. Lots of lasting memories of my past. Saw my grandparents home in Tainan. My old apartment in Taipei. My old
+location: Random photos of my Taiwan trip
+city: Taipei
+region: Taipei
+categories:
+- Taipei
 ---
 
 ![Random photos of my Taiwan trip](/images/posts/ig-2024-05-16-random-photos-of-my-taiwan-trip/18014038238124003.jpg)

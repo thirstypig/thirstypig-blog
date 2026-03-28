@@ -22,6 +22,7 @@ tags:
 - eats
 - thirstypig
 description: Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty! . . . . . . .
+location: Birria Burritos from Burritos La Palma
 ---
 
 ![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17904603691723444.jpg)

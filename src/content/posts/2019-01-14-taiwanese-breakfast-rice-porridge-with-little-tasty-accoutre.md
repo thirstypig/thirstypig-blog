@@ -23,6 +23,10 @@ tags:
 - 99ranchmarket
 - porkfloss
 description: Taiwanese Breakfast - rice porridge with little tasty accoutrements. Makes boring porridge more yummy. Pork floss, Japanese spicy dried garlic, seaweed paste, and wheat gluten with peanuts. Don’t know
+location: Taiwanese Breakfast
+city: rice porridge with little tasty accoutrements
+categories:
+- rice porridge with little tasty accoutrements
 ---
 
 ![Taiwanese Breakfast - rice porridge with little tasty accoutrements](/images/posts/ig-2019-01-14-taiwanese-breakfast-rice-porridge-with-little-tasty-accoutre/18022246054051328.jpg)

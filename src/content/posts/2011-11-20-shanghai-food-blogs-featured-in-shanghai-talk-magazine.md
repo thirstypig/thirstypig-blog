@@ -7,9 +7,13 @@ originalUrl: http://www.thethirstypig.com:80/2011/11/20/shanghai-food-blogs-feat
 categories:
 - 2 pigs
 - Blog
+- Shanghai
 description: I was also recently featured, along with other food bloggers in Shanghai Talk Magazine. The picture they choose to feature was my picture from my post with Mayahttp://www.thethirstypig.com/2011/09/19/
 archiveUrl: https://web.archive.org/web/20120411011347/http://www.thethirstypig.com:80/2011/11/20/shanghai-food-blogs-featured-in-shanghai-talk-magazine/
 draft: false
+location: Shanghai Food Blogs
+city: Shanghai
+region: Shanghai
 ---
 
 I was also recently featured, along with other food bloggers in Shanghai Talk Magazine. The picture they choose to feature was my picture from my post with [Maya](http://www.thethirstypig.com/2011/09/19/maya-brunch-shanghai/).

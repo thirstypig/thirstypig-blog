@@ -24,9 +24,13 @@ categories:
 - Downtown LA
 - $
 - 3 pigs
+- The Buttermilk Truck and Slice Truck
 tags:
 - Downtown LA
 description: On this nice day, we found ourselves heading to the LA Mart to look for the Buttermilk Truck. Luckily, Ms. C “willed” parking for us and we found a spot. . . two blocks away.
 archiveUrl: https://web.archive.org/web/20110106030624/http://www.thethirstypig.com/2010/03/04/truck-feasting-the-buttermilk-truck-and-slice-truck/
 draft: false
+location: Truck Feasting
+city: The Buttermilk Truck and Slice Truck
+region: Downtown LA
 ---

@@ -12,9 +12,13 @@ categories:
 - Pastrami
 - Price Range 2 $/¥/NT
 - Sandwich
+- Shanghai
 description: What is The Public The Public is a gastropub in every sense of the word. In Los Angeles, gastropubs popped up to serve food with a smattering selection of beers and drinks. The Public, does not featur
 archiveUrl: https://web.archive.org/web/20130802053241/http://www.thethirstypig.com:80/2012/03/27/the-public-shanghai/
 draft: false
+location: The Public
+city: Shanghai
+region: Shanghai
 ---
 
 **What is The Public**

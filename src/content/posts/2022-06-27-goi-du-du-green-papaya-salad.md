@@ -22,6 +22,10 @@ tags:
 - springrolls
 - eeeeeats
 description: Goi Du Du - green papaya salad. And Goi Guon - fresh spring rolls. Yum. Nice spot for a light dinner. . . . .
+location: Goi Du Du
+city: green papaya salad
+categories:
+- green papaya salad
 ---
 
 ![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17961253870758446.jpg)

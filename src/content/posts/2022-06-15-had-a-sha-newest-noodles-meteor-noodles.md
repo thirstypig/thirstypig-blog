@@ -25,6 +25,10 @@ tags:
 - tastemakersapp
 - homemadefood
 description: Had A-sha newest noodles - Meteor noodles. Great texture and flavor. Noodles did a good job in soaking up the sauce. There’s a sign up on the link in the description. Asha was started by my good frien
+location: Had A-sha newest noodles
+city: Meteor noodles
+categories:
+- Meteor noodles
 ---
 
 ![Had A-sha newest noodles - Meteor noodles](/images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/18146198236300546.jpg)

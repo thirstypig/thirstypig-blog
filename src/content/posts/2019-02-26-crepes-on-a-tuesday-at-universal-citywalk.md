@@ -18,6 +18,7 @@ tags:
 - å
 - eeeeeats
 description: Crepes on a Tuesday at Universal Citywalk. I was in the mood for something savory - so I got a pizza crepe. An Italian JianBing as I would call it. 意大利建兵. . . .
+location: Crepes on a Tuesday at Universal Citywalk
 ---
 
 ![Crepes on a Tuesday at Universal Citywalk](/images/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/18039546481032032.jpg)

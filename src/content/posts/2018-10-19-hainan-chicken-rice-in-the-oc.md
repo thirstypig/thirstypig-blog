@@ -19,6 +19,7 @@ tags:
 - chicken
 - popcornchicken
 description: Hainan Chicken Rice in the OC. But they ran out of the rice. 海南雞飯 usually comes with flavor rice - which is steamed with ginger, herbs, and sometimes chicken broth. But this time they said they ran ou
+location: Hainan Chicken Rice in the OC
 ---
 
 ![Hainan Chicken Rice in the OC](/images/posts/ig-2018-10-19-hainan-chicken-rice-in-the-oc/17891910655270970.jpg)

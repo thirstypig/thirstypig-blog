@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Bar
 - Lounge
 description: The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.
 archiveUrl: https://web.archive.org/web/20161018172436/http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/
 draft: false
+location: The Apartment Lounge
+city: Shanghai
+region: Shanghai
+address: 47 Yongfu Rd
 ---
 
 [![the-apartment-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-07.jpg?resize=403%2C302 "the-apartment-shanghai-07")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-07/)

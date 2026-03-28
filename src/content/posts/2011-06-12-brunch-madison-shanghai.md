@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/12/brunch-madison-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - American
 - Brunch
@@ -13,6 +14,10 @@ tags:
 description: One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I wa
 archiveUrl: https://web.archive.org/web/20161019030317/http://thirstypig.com/2011/06/12/brunch-madison-shanghai/
 draft: false
+location: Brunch at Madison
+city: Shanghai
+region: Shanghai
+address: 1414 Huaihai Middle Rd
 ---
 
 [![madion-brunch-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-14.jpg?resize=403%2C302 "madion-brunch-14")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-14/)

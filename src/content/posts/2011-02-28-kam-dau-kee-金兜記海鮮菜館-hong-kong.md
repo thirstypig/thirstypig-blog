@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/28/kam-dau-kee-%e9%87%91%e5%85%9c%e8%a8%98%e6%b5%b7%e9%ae%ae%e8%8f%9c%e9%a4%a8-hong-kong/
 categories:
 - Wan Chai
+- Hong Kong
 tags:
 - Cantonese
 - Seafood
 description: 'Roast Goose 燒鵝 is the preferred fowl in Hong Kong. Yet, geese are much more pricey than other winged animals, such as the duck or chicken, except maybe an ostrich. Economics is the reason why duck is '
 archiveUrl: https://web.archive.org/web/20161018014235/http://thirstypig.com/2011/02/28/kam-dau-kee-%e9%87%91%e5%85%9c%e8%a8%98%e6%b5%b7%e9%ae%ae%e8%8f%9c%e9%a4%a8-hong-kong/
 draft: false
+location: Kam Dau Kee 金兜記海鮮菜館
+city: Hong Kong
+region: Hong Kong
+address: 3 Wanchai Rd
 ---
 
 [![kam-dau-kee-seafood-hkg-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Kam-Dau-Kee-Seafood-HKG-08.jpg?resize=403%2C302 "kam-dau-kee-seafood-hkg-08")](http://thirstypig.com/2011/02/28/kam-dau-kee-%e9%87%91%e5%85%9c%e8%a8%98%e6%b5%b7%e9%ae%ae%e8%8f%9c%e9%a4%a8-hong-kong/kam-dau-kee-seafood-hkg-08/)

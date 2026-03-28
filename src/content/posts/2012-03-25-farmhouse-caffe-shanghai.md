@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/25/farmhouse-caffe-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Breakfast
 - Brunch
@@ -14,6 +15,9 @@ tags:
 description: The Farmhouse Caffe 69 Yongkang Lu, near Xiangyang Lu, Xuhui district 徐汇区永康路69号, 近襄阳路
 archiveUrl: https://web.archive.org/web/20161106105410/http://thirstypig.com/2012/03/25/farmhouse-caffe-shanghai/
 draft: false
+location: The Farmhouse Caffe
+city: Shanghai
+region: Shanghai
 ---
 
 [![farmhouse-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/farmhouse.shanghai.03.jpg?resize=403%2C268 "farmhouse-shanghai-03")](http://thirstypig.com/2012/03/25/farmhouse-caffe-shanghai/farmhouse-shanghai-03/)

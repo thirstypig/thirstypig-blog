@@ -16,11 +16,16 @@ categories:
 - West LA
 - $
 - American
+- Santa Monica
+- Westside
 tags:
 - West LA
 description: Based on the reviews on Yelp, Bay Cities is THE place for sandwiches in Santa Monica. http://1.bp.blogspot.com/UYnRoOEBBM/S05hoUXbfFI/AAAAAAAAAuQ/Iv-myvhRdM/s400/IMG0176.JPGhttp://1.bp.blogspot.com/UY
 archiveUrl: https://web.archive.org/web/20110105031845/http://www.thethirstypig.com/2010/02/04/bay-cities-deli-santa-monica/
 draft: false
+location: Bay Cities Deli
+city: Santa Monica
+region: Westside
 ---
 
 Based on the reviews on Yelp, Bay Cities is THE place for sandwiches in Santa Monica.

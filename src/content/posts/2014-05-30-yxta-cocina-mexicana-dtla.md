@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/05/30/yxta-cocina-mexicana-dtla/
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Los Angeles
 - Mexican
 description: Love the Mexican corn. Going to try to make it at home Thank you Nina for taking us to Yxta Parking sucks Great cocktails ”The restaurant was named after owner Jesse Gomez’s professor at Loyola Law Sc
 archiveUrl: https://web.archive.org/web/20160914223812/http://thirstypig.com/2014/05/30/yxta-cocina-mexicana-dtla/
 draft: false
+location: Yxta Cocina Mexicana
+city: Dtla
+region: Downtown LA
+address: 601 S. Central Ave
 ---
 
 [![IMG_0997](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0997.jpg?resize=218%2C291 "IMG_0997")](http://thirstypig.com/2014/05/30/yxta-cocina-mexicana-dtla/img_0997/)

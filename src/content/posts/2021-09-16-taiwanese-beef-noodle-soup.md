@@ -17,6 +17,7 @@ tags:
 - soup
 - noodles
 description: Taiwanese Beef Noodle Soup. Rich and hearty soup with great noodles and large slices of beef. Yum! . . . . . .
+location: Taiwanese Beef Noodle Soup
 ---
 
 ![Taiwanese Beef Noodle Soup](/images/posts/ig-2021-09-16-taiwanese-beef-noodle-soup/18147426412170409.jpg)

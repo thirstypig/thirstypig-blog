@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/
 categories:
 - Changning
+- Shanghai
 tags:
 - Shanghainese
 description: 'I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes '
 archiveUrl: https://web.archive.org/web/20161018152735/http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/
 draft: false
+location: Jade Butterfly 蝶翠轩
+city: Shanghai
+region: Shanghai
 ---
 
 [![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-19.jpg?resize=403%2C302 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19/)

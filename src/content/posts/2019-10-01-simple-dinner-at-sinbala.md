@@ -19,6 +19,7 @@ tags:
 - rice
 - dinner
 description: Simple Dinner at Sinbala. Fried pork chop on rice and pork belly on rice. Sinbala is a small popular Taiwanese Restaurant. They also have traditional Taiwanese shaved ice, where you can pick and choos
+location: Simple Dinner at Sinbala
 ---
 
 ![Simple Dinner at Sinbala](/images/posts/ig-2019-10-01-simple-dinner-at-sinbala/18068485573147939.jpg)

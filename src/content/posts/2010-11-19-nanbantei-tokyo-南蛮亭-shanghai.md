@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Japanese
 - Yakitori
 description: After reading the reaming that City Weekend gave by Dan Ouyang wrotehttp://www.cityweekend.com.cn/shanghai/listings/dining/japanese/has/nanbantei/ and Christopher St Cavish of SmartShanghai.comhttp://
 archiveUrl: https://web.archive.org/web/20161018163254/http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/
 draft: false
+location: Nanbantei of Tokyo 南蛮亭
+city: Shanghai
+region: Shanghai
+address: 1 Yueyang Road
 ---
 
 [![nanbantei-of-tokyo-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-12.jpg?resize=403%2C302 "nanbantei-of-tokyo-shanghai-12")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-12/)

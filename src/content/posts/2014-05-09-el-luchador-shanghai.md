@@ -13,6 +13,10 @@ tags:
 description: My Favorite Mexican Restaurant in Shanghai – El Luchadorhttp://thirstypig.com/2014/05/09/el-luchador-shanghai/
 archiveUrl: https://web.archive.org/web/20150430030952/http://thirstypig.com/2014/05/09/el-luchador-shanghai/
 draft: false
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ## [My Favorite Mexican Restaurant in Shanghai – El Luchador](http://thirstypig.com/2014/05/09/el-luchador-shanghai/)

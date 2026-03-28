@@ -20,6 +20,11 @@ tags:
 - usc
 - akpsi
 description: Happy Hour at Wolf & Crane in DTLA Little Tokyo. Cool spot that got crowded fast. Luckily we got there early to get a table. . . . . .
+location: Happy Hour at Wolf & Crane in DTLA Little Tokyo
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17937014233943319.jpg)

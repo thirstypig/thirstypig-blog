@@ -27,12 +27,16 @@ categories:
 - Noodles
 - Price Range $/¥/NT
 - Ramen
+- Taipei
 tags:
 - Eastern District 台北東區
 - Taipei 台北
 description: Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.
 archiveUrl: https://web.archive.org/web/20110105140123/http://www.thethirstypig.com/2010/07/24/ramen-rakumenya-taipei/
 draft: false
+location: Ramen at 樂麵屋 Rakumenya
+city: Taipei
+region: Taipei
 ---
 
 Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.

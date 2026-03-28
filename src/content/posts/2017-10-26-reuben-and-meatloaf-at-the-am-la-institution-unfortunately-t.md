@@ -20,6 +20,10 @@ tags:
 - thirstypig
 - unsatisfying
 description: Reuben and meatloaf at the am LA institution - unfortunately the Reuben (grislely) and meatloaf (carrots undercooked) was so-so. I should have gotten a simple breakfast.
+location: Reuben and meatloaf at the am LA institution
+city: unfortunately the Reuben (gri...
+categories:
+- unfortunately the Reuben (gri...
 ---
 
 ![Reuben and meatloaf at the am LA institution -  unfortunately the Reuben (gri...](/images/posts/ig-2017-10-26-reuben-and-meatloaf-at-the-am-la-institution-unfortunately-t/17888473690091393.jpg)

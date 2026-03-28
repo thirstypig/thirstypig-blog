@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/10/eggslut-dtla/
 categories:
 - DTLA
+- Dtla
+- Downtown LA
 tags:
 - Breakfast
 - Eggs
 description: Get there early or arrive around 3pm in the afternoon on the weekdays to avoid the long lines The Eggslut is the coddled egg, which is pretty good, but you have to let it cool down a bit The egg sandw
 archiveUrl: https://web.archive.org/web/20161105195901/http://thirstypig.com/2016/10/10/eggslut-dtla/
 draft: false
+location: Eggslut
+city: Dtla
+region: Downtown LA
 ---
 
 [![img_0430](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0430.jpg?resize=148%2C198 "img_0430")](http://thirstypig.com/2016/10/10/eggslut-dtla/img_0430/)

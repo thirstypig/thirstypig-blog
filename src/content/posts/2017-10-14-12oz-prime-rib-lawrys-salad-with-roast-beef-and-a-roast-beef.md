@@ -15,6 +15,10 @@ tags:
 - primerib
 - gokingsgo
 description: 12oz prime rib, lawry’s salad with roast beef, and a roast beef dip sandwich. Good pregame meal before the King’s game
+location: 12oz prime rib, lawry’s salad with roast beef
+city: and a roast beef dip sandwich
+categories:
+- and a roast beef dip sandwich
 ---
 
 ![12oz prime rib, lawry’s salad with roast beef, and a roast beef dip sandwich](/images/posts/ig-2017-10-14-12oz-prime-rib-lawrys-salad-with-roast-beef-and-a-roast-beef/17886509233094593.jpg)

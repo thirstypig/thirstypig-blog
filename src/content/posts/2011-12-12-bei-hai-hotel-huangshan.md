@@ -9,9 +9,12 @@ categories:
 - Anhui Cuisine
 - hotel
 - Price Range 2 $/¥/NT
+- Huangshan
 description: 'North Sea Hotel, directly translated from Bei Hai Hotel or 黄山北海宾馆, is a strange name for a hotel being that it is located in a land locked province. Yet, after visiting, you realize the poetic sea of '
 archiveUrl: https://web.archive.org/web/20120118003430/http://www.thethirstypig.com:80/2011/12/12/bei-hai-hotel-huangshan/
 draft: false
+location: Bei Hai Hotel
+city: Huangshan
 ---
 
 North Sea Hotel, directly translated from Bei Hai Hotel or 黄山北海宾馆, is a strange name for a hotel being that it is located in a land locked province. Yet, after visiting, you realize the poetic sea of clouds that surround the [mountains](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/) make the name quite appropriate.

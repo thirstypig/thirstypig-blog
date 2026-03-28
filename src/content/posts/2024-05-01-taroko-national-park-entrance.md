@@ -23,6 +23,7 @@ tags:
 - hualientravel
 - taiwantravel
 description: Taroko National Park entrance. Due to the recent earthquake, the park is shut down for at least 6 months. This iconic park brings back memories when I was kid visiting with my family, then later on wi
+location: Taroko National Park entrance
 ---
 
 ![Taroko National Park entrance](/images/posts/ig-2024-05-01-taroko-national-park-entrance/18352918132097220.jpg)

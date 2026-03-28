@@ -16,11 +16,15 @@ categories:
 - Taco Truck
 - San Gabriel Valley
 - Mexican
+- the Late Night Savior
 tags:
 - Los Angeles
 description: 'Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this '
 archiveUrl: https://web.archive.org/web/20111103153447/http://www.thethirstypig.com/2009/08/04/tacos-el-gallito-the-late-night-savior/
 draft: false
+location: Tacos El Gallito
+city: the Late Night Savior
+region: San Gabriel Valley
 ---
 
 Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this night, we decided on Tacos!!!

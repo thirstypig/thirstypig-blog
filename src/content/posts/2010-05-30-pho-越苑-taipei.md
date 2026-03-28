@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
 categories:
 - Songshan
+- Taipei
 tags:
 - Noodles
 - Vietnamese
 description: 'Sriracha sauce Thai: ศรีราชา sǐrātɕʰā, a Thai spicy sauce, is not from Thailand or even Vietnam It is from Rosemeadhttp://www.huyfong.com/ in Southern California, with Thai roots. In the states, the R'
 archiveUrl: https://web.archive.org/web/20161105081109/http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
 draft: false
+location: Pho 越苑
+city: Taipei
+region: Taipei
 ---
 
 [![img_2369](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2369.jpg?resize=282%2C211 "img_2369")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2369/)

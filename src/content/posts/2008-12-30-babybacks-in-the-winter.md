@@ -15,4 +15,5 @@ tags:
 description: I don’t know how he does it. . .but my buddy makes some of the best homemade babyback ribs. He is quite unorthodox in his bbq, yet is still tasty and tender. Here are some pictures of the BBQ.
 archiveUrl: https://web.archive.org/web/20110105193223/http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/
 draft: false
+location: Babybacks in the Winter
 ---

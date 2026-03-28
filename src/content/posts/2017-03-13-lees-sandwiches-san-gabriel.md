@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
 categories:
 - SGV
+- San Gabriel
+- San Gabriel Valley
 tags:
 - Bakery
 - Sandwich
@@ -13,6 +15,12 @@ tags:
 description: Yelp Listinghttps://www.yelp.com/biz/lees-sandwiches-rosemead
 archiveUrl: https://web.archive.org/web/20170314134535/http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
 draft: false
+location: Lee’s Sandwiches
+city: San Gabriel
+region: San Gabriel Valley
+address: '8779 E Valley Blvd
+
+  Rosemead, CA 91770'
 ---
 
 [![img_0511](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0511.jpg?resize=301%2C401 "img_0511")](http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/img_0511-4/)

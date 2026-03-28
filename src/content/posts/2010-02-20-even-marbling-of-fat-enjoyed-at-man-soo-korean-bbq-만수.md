@@ -35,6 +35,9 @@ tags:
 description: Miss C made the daring selection for us tonight. Since she is Korean, I trust her judgment in K-Town selections . . . thank goodness. She said she noticed Man Soo, which was opening, while driving aro
 archiveUrl: https://web.archive.org/web/20110105030917/http://www.thethirstypig.com/2010/02/20/even-marbling-of-fat-enjoyed-at-man-soo-korean-bbq-%eb%a7%8c%ec%88%98/
 draft: false
+location: Even Marbling of Fat Enjoyed at Man Soo Korean BBQ 만수
+city: Koreatown
+region: Koreatown
 ---
 
 Miss C made the daring selection for us tonight. Since she is Korean, I trust her judgment in K-Town selections . . . thank goodness. She said she noticed Man Soo, which was opening, while driving around in K-Town. . .

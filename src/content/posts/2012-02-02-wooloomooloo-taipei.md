@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/02/wooloomooloo-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Pizza
 - Western
 description: Wooloomooloo 台北市信義路4段379號 379 Hsinyi Road Section 4, Taipei +886 2 8789 0128 7:30AM–12AM
 archiveUrl: https://web.archive.org/web/20161105190123/http://thirstypig.com/2012/02/02/wooloomooloo-taipei/
 draft: false
+location: Wooloomooloo
+city: Taipei
+region: Taipei
+address: 379 Hsinyi Road
 ---
 
 [![wooloomooloo-taipei-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wooloomooloo-Taipei-04.jpg?resize=403%2C268 "wooloomooloo-taipei-04")](http://thirstypig.com/2012/02/02/wooloomooloo-taipei/wooloomooloo-taipei-04/)

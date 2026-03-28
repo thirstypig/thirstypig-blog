@@ -16,11 +16,14 @@ categories:
 - Food Truck
 - Price Range $/¥/NT
 - 2 pigs
+- Los Angeles
 tags:
 - Los Angeles
 description: The latest craze in Los Angeles are the “taco trucks” that roam around serving delicious food. One such truck is called Marked5.
 archiveUrl: https://web.archive.org/web/20111103140315/http://www.thethirstypig.com/2009/07/27/marked-5-and-their-rice-burgers/
 draft: false
+location: Marked 5 and their Rice Burgers!
+city: Los Angeles
 ---
 
 The latest craze in Los Angeles are the “taco trucks” that roam around serving delicious food. One such truck is called Marked5.

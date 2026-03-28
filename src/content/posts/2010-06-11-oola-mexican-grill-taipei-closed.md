@@ -6,11 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
 categories:
 - Zhongzhen
+- Taipei
 tags:
 - Mexican
+- closed
 description: One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taip
 archiveUrl: https://web.archive.org/web/20161105031435/http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
 draft: false
+location: Oola Mexican Grill
+city: Taipei
+region: Taipei
+address: 136 Alley Roosevelt Road
 ---
 
 [![img_2682](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2682.jpg?resize=403%2C302 "img_2682")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2682/)

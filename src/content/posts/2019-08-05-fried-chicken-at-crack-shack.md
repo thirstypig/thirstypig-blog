@@ -19,6 +19,7 @@ tags:
 - biscuits
 - chickenoysters
 description: Fried chicken at Crack Shack. Yum . . .
+location: Fried chicken at Crack Shack
 ---
 
 ![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17852015587518298.jpg)

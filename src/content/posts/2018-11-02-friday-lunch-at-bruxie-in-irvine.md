@@ -19,6 +19,7 @@ tags:
 - wafflefries
 - bruxiewaffles
 description: Friday Lunch at Bruxie in Irvine. OMG. Didn’t know half a sandwich was so filling. Had the Irish nachos! . . . . .
+location: Friday Lunch at Bruxie in Irvine
 ---
 
 ![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17979735007115477.jpg)

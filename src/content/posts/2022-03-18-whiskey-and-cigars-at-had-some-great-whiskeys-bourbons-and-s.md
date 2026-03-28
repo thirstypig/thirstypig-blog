@@ -26,6 +26,10 @@ tags:
 - bourbonwhiskey
 - ibericoham
 description: Whiskey and Cigars at had some great whiskeys, bourbons and scotches. also had a cigar. And had some iberico ham to snack on. . . . . .
+location: Whiskey and Cigars at   had some great whiskeys
+city: bourbons and scotches
+categories:
+- bourbons and scotches
 ---
 
 ![Whiskey and Cigars at   had some great whiskeys, bourbons and scotches](/images/posts/ig-2022-03-18-whiskey-and-cigars-at-had-some-great-whiskeys-bourbons-and-s/17913699929385316.jpg)

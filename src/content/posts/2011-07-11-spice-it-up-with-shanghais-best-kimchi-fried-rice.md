@@ -8,11 +8,15 @@ categories:
 - 3 pigs
 - Korean
 - Price Range $/¥/NT
+- Shanghai
 tags:
 - Shanghai
 description: This short article is from the June 16-29 City Weekend print magazine, page 41. Here is the link to the online versionhttp://www.cityweekend.com.cn/shanghai/articles/mag-sh/best/spice-it-up-with-shang
 archiveUrl: https://web.archive.org/web/20110714130227/http://www.thethirstypig.com:80/2011/07/11/spice-it-up-with-shanghais-best-kimchi-fried-rice/
 draft: false
+location: Spice It Up with Shanghai’s Best Kimchi Fried Rice
+city: Shanghai
+region: Shanghai
 ---
 
 This short article is from the June 16-29 City Weekend print magazine, page 41. Here is the [link to the online version](http://www.cityweekend.com.cn/shanghai/articles/mag-sh/best/spice-it-up-with-shanghais-best-kimchi-fried-rice/). Stay tuned for full write-ups about each restaurant.

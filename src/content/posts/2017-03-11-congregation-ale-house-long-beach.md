@@ -7,12 +7,19 @@ originalUrl: http://thirstypig.com/2017/03/11/congregation-ale-house-long-beach/
 categories:
 - Los Angeles
 - Pasadena
+- Long Beach
 tags:
 - Beer
 - Gastropub
 description: Yelp Listinghttps://www.yelp.com/biz/congregation-ale-house-long-beach
 archiveUrl: https://web.archive.org/web/20170312130936/http://thirstypig.com/2017/03/11/congregation-ale-house-long-beach/
 draft: false
+location: Congregation Ale House
+city: Long Beach
+region: Long Beach
+address: '201 E Broadway Ave
+
+  Long Beach, CA 90802'
 ---
 
 [![img_0504](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0504.jpg?resize=199%2C266 "img_0504")](http://thirstypig.com/2017/03/11/congregation-ale-house-long-beach/img_0504/)

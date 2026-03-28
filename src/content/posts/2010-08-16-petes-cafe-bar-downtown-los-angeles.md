@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/
 categories:
 - DTLA
+- Downtown Los Angeles
+- Downtown LA
 tags:
 - American
 - Burgers
 description: Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Chees
 archiveUrl: https://web.archive.org/web/20161018073342/http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/
 draft: false
+location: Pete’s Cafe & Bar
+city: Downtown Los Angeles
+region: Downtown LA
+address: 400 South Main St
 ---
 
 [![petes-cafe-and-bar-dtla-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-15.jpg?resize=403%2C302 "petes-cafe-and-bar-dtla-15")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-15/)

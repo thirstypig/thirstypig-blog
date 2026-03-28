@@ -24,6 +24,11 @@ tags:
 - friedchicken
 - clevelandbrownswin
 description: Fried chicken and accoutrements at The Crack Shack. Fried chicken with sauces, biscuits, deviled eggs, and schmaltz fries. So glad opened one in Pasadena. Good food with good people. So glad the Laker
+location: Fried chicken and  accoutrements at The Crack Shack
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Fried chicken and  accoutrements at The Crack Shack](/images/posts/ig-2018-12-16-fried-chicken-and-accoutrements-at-the-crack-shack/17983640821189712.jpg)

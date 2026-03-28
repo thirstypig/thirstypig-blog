@@ -21,6 +21,9 @@ categories:
 description: VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 archiveUrl: https://web.archive.org/web/20101015120947/http://www.thethirstypig.com:80/2010/05/19/the-ultimate-afternoon-tea-at-vvg-bon-bon-%E5%A5%BD%E6%A8%A3%E6%A3%92%E6%A3%92-taipei/
 draft: false
+location: The Ultimate Afternoon Tea at VVG Bon Bon 好樣棒棒
+city: Taipei
+region: Taipei
 ---
 
 VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.

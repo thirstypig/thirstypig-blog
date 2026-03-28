@@ -25,6 +25,7 @@ tags:
 - sgv
 - rowlandheights
 description: All You Can Eat Korean BBQ in Rowland Heights. OMG Friday night traffic sucks. Quality was pretty good. Beef tongue, brisket, spicy pork, baby octopus, steamed egg, and tofu soup. . . . .kbbq
+location: All You Can Eat Korean BBQ in Rowland Heights
 ---
 
 ![All You Can Eat Korean BBQ in Rowland Heights](/images/posts/ig-2019-02-09-all-you-can-eat-korean-bbq-in-rowland-heights/17850629473351692.jpg)

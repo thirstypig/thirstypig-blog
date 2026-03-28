@@ -21,6 +21,7 @@ tags:
 - yummy
 - sausage
 description: The BBQ from Texas Monthly 2017 my friend says the moist brisket is better than Snows and Valentina's. I think they are very close. We had to also get some .
+location: The  BBQ from Texas Monthly 2017    my friend says the moist brisket is bette...
 ---
 
 ![The  BBQ from Texas Monthly 2017    my friend says the moist brisket is bette...](/images/posts/ig-2017-06-04-the-bbq-from-texas-monthly-2017-my-friend-says-the-moist-bri/17882878252056577.jpg)

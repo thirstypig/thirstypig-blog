@@ -25,6 +25,7 @@ tags:
 - poachedegg
 - oc
 description: 'An Okinawan lunch at Habuya in Tustin, CA. Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating. The pork belly with poached egg '
+location: An Okinawan lunch at Habuya in Tustin
 ---
 
 ![An Okinawan lunch at Habuya in Tustin, CA](/images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17901288130064844.jpg)

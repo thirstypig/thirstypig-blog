@@ -22,6 +22,11 @@ tags:
 - fries
 - slaw
 description: Lunch at The Crack Shack in Pasadena. Had the Coop Deville sandwich, Hot Chicken Oysters, Slaw, and Schmaltz Fries. Fries were amazing. . .
+location: Lunch at The Crack Shack in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Lunch at The Crack Shack in Pasadena](/images/posts/ig-2019-04-18-lunch-at-the-crack-shack-in-pasadena/18040805998104360.jpg)

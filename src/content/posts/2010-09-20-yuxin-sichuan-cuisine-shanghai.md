@@ -33,6 +33,7 @@ images:
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Shanghai
 - Sichuan
@@ -40,6 +41,9 @@ tags:
 description: Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 archiveUrl: https://web.archive.org/web/20160914030516/http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/
 draft: false
+location: Yuxin Sichuan Cuisine Shanghai
+city: Shanghai
+region: Shanghai
 ---
 
 [![yuxin-sichuan-cuisine-shanghai-18](/images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-01-88x88.jpg "yuxin-sichuan-cuisine-shanghai-18")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-18-2/)

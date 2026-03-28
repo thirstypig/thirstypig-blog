@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/01/five-guys-la/
 categories:
 - Los Angeles
+- Pasadena
 tags:
 - Burgers
 description: A decent burger from the East Coast, Five Guys Burgers and Fries, makes its way to my stomach. Though the image of the burger is not appetizing . . .almost looks like a sad burger, it is actually a pr
 archiveUrl: https://web.archive.org/web/20161105183051/http://thirstypig.com/2009/12/01/five-guys-la/
 draft: false
+location: Five Guys
+city: Pasadena
+region: Pasadena
+address: 20700 Avalon Blvd Carson, CA 90746
 ---
 
 [![dscn0036](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0036.jpg?resize=403%2C302 "dscn0036")](http://thirstypig.com/2009/12/01/five-guys-la/dscn0036-4/)

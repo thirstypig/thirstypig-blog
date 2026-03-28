@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/14/craft-shanghai/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Bar
 - Lounge
 description: Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singa
 archiveUrl: https://web.archive.org/web/20161106075149/http://thirstypig.com/2011/07/14/craft-shanghai/
 draft: false
+location: Craft
+city: Shanghai
+region: Shanghai
 ---
 
 [![craft-vodka-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-12.jpg?resize=403%2C301 "craft-vodka-shanghai-12")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-12/)

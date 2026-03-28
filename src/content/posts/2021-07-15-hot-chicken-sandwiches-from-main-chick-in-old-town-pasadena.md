@@ -22,6 +22,11 @@ tags:
 - eats
 - oldtownpasadena
 description: Hot chicken sandwiches from Main Chick in old town Pasadena. Got the dark meat chicken sandwich with mild spiciness. I know I couldn’t handle anything spicier. Also got some spiced fries, coke slaw, a
+location: Hot chicken sandwiches from Main Chick in old town Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Hot chicken sandwiches from Main Chick in old town Pasadena](/images/posts/ig-2021-07-15-hot-chicken-sandwiches-from-main-chick-in-old-town-pasadena/17972467312380906.jpg)

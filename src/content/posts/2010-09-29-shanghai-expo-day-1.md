@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/29/shanghai-expo-day-1/
 categories:
 - Shanghai
+- Day 1
 tags:
 - Expo
 description: I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so
 archiveUrl: https://web.archive.org/web/20161019044906/http://thirstypig.com/2010/09/29/shanghai-expo-day-1/
 draft: false
+location: The Shanghai Expo
+city: Day 1
+region: Shanghai
 ---
 
 [![shanghai-expo-2010-176](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Expo-2010-176.jpg?resize=403%2C302 "shanghai-expo-2010-176")](http://thirstypig.com/2010/09/29/shanghai-expo-day-1/shanghai-expo-2010-176/)

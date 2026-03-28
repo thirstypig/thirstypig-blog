@@ -19,6 +19,10 @@ tags:
 - dumplings
 - xlb
 description: Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scallion pancakes. Yum! . . . . .
+location: Lunch in Pasadena at  steamed pork dumplings, fried pork dumplings
+city: and scall...
+categories:
+- and scall...
 ---
 
 ![Lunch in Pasadena at  steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17928719719763336.jpg)

@@ -19,6 +19,7 @@ tags:
 - waves
 - keyholearch
 description: Keyhole arch at Pfieffer state beach
+location: Keyhole arch at Pfieffer state beach
 ---
 
 ![Keyhole arch at Pfieffer state beach](/images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17917614883073539.jpg)

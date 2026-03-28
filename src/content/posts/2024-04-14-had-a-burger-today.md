@@ -21,6 +21,11 @@ tags:
 - chinesefastfood
 - eats
 description: 'Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. These are great. Shaanxi cuisine. Typically lamb is used. But you can find chicken, pork, or beef. The meat is stir fried with '
+location: Had a burger today
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Had a burger today](/images/posts/ig-2024-04-14-had-a-burger-today/18024204629101913.jpg)

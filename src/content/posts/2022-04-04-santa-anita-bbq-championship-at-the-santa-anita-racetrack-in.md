@@ -27,6 +27,12 @@ tags:
 - bbqchicken
 - bbqpork
 description: Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia. Got to try a bunch of different bbq including, Pulled Pork Nachos, BBQ chicken, BBQ pork tenderloin, BBQ pulled pork tacos, BBQ po
+location: Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia](/images/posts/ig-2022-04-04-santa-anita-bbq-championship-at-the-santa-anita-racetrack-in/17925657512103165.jpg)

@@ -9,8 +9,12 @@ categories:
 tags:
 - Asian
 - Los Angeles
+- closed
 archiveUrl: https://web.archive.org/web/20160828103429/http://thirstypig.com/2009/10/09/asia-de-cuba-hollywood-closed/
 draft: false
+location: Asia de Cuba
+city: Hollywood
+region: Hollywood
 ---
 
 [![DSCN0034](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0034-1.jpg?resize=423%2C317 "DSCN0034")](http://thirstypig.com/2009/10/09/asia-de-cuba-hollywood-closed/dscn0034-3/)

@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/
 categories:
 - Luwan
+- Shanghai
 tags:
 - Bar
 - Cantonese
 description: Opulence is the word that I would choose in describing modern Chinese cuisine and interior restaurant decor. Fabulous, flashy, glamorous, bold, exciting, intriguing, are other words I would pick. TMSK
 archiveUrl: https://web.archive.org/web/20161018195425/http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/
 draft: false
+location: TMSK. Shanghai XinTianDi 新天地
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3387](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3387.jpg?resize=385%2C289 "img_3387")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3387/)

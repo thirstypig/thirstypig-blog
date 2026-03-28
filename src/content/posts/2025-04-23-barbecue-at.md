@@ -19,6 +19,7 @@ tags:
 - macncheese
 - cornbread
 description: Barbecue at . Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and gla
+location: Barbecue at
 ---
 
 ![Barbecue at](/images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg)

@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/14/seongbukdong-los-angeles/
 categories:
 - K Town
+- Los Angeles
 tags:
 - Beef
 - Korean
@@ -13,6 +14,8 @@ tags:
 description: This place is a find. This is probably one of the better Korean meals, I have had in awhile. Seongbukdong is known for having excellent Korean comfort food. Perhaps known for the simplicity of the dis
 archiveUrl: https://web.archive.org/web/20160912104110/http://thirstypig.com/2010/03/14/seongbukdong-los-angeles/
 draft: false
+location: Seongbukdong
+city: Los Angeles
 ---
 
 [![IMG_0918](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0918.jpg?resize=316%2C421 "IMG_0918")](http://thirstypig.com/2010/03/14/seongbukdong-los-angeles/img_0918/)

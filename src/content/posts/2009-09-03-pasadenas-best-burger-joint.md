@@ -17,11 +17,15 @@ categories:
 - Hole In the Wall
 - Hamburgers
 - Dessert
+- Los Angeles
 tags:
 - Los Angeles
 description: Pie ‘N Burger, located near Caltech, features a simple menu of burgers and, of all things, pie. Strange bedfellows they are, burgers and pies is your All American fare. Not much has changed in the 50+
 archiveUrl: https://web.archive.org/web/20111103140329/http://www.thethirstypig.com/2009/09/03/pasadenas-best-burger-joint/
 draft: false
+location: Pasadena’s Best Burger Joint
+city: Los Angeles
+region: San Gabriel Valley
 ---
 
 Pie ‘N Burger, located near Caltech, features a simple menu of burgers and, of all things, pie. Strange bedfellows they are, burgers and pies is your All American fare. Not much has changed in the 50+ years since it opened in 1963, as you can see from the interior. I was kind of excited about going to Pie ‘N Burger. I had passed by so many times that I never had the chance to try it.

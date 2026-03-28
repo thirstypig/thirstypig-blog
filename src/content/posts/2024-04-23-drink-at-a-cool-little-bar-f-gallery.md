@@ -24,6 +24,10 @@ tags:
 - thirstypig
 - bar
 description: Drink at a cool little bar - F Gallery. They have big ice cubes for my makers mark old fashioned, which I liked. Wish I could have had more drinks. But it was a school night. Couldn’t stay out too lat
+location: Drink at a cool little bar
+city: F Gallery
+categories:
+- F Gallery
 ---
 
 ![Drink at a cool little bar - F Gallery](/images/posts/ig-2024-04-23-drink-at-a-cool-little-bar-f-gallery/17954729504779779.jpg)

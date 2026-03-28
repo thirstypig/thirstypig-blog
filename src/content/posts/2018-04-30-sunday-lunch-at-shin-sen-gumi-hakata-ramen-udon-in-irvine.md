@@ -22,6 +22,7 @@ tags:
 - irvine
 - theoc
 description: Sunday lunch at Shin-Sen-Gumi Hakata Ramen & Udon in Irvine. Had the standard Hakata Ramen, Cod Roe Udon, small side of the Beef & Rice Bowl, and the small Minced Chicken Rice Bowl. Ramen was good but
+location: Sunday lunch at Shin-Sen-Gumi Hakata Ramen & Udon in Irvine
 ---
 
 ![Sunday lunch at Shin-Sen-Gumi Hakata Ramen & Udon in Irvine](/images/posts/ig-2018-04-30-sunday-lunch-at-shin-sen-gumi-hakata-ramen-udon-in-irvine/17914899625148346.jpg)

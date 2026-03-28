@@ -22,6 +22,11 @@ tags:
 - thirstypig
 - tastemakersapp
 description: 'Really good sandwich from All''Antico Vinaio. This was the La Paradiso with Mortadella, stracciatella, pistachio cream, pistachio. This was their most popular sandwich. I first found and heard of this '
+location: Really good sandwich from All'Antico Vinaio
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Really good sandwich from All'Antico Vinaio](/images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18049905596141367.jpg)

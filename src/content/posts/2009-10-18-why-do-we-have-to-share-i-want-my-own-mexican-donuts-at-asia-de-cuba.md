@@ -31,6 +31,9 @@ tags:
 description: Long over due, I realize I haven’t made a new post about my food adventures lately . . .I apologize. I have been busy with some other stuff lately. But I want to especially talk about this place – Asi
 archiveUrl: https://web.archive.org/web/20110105154820/http://www.thethirstypig.com/2009/10/18/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/
 draft: false
+location: Why do we have to share . . . I want my own! Mexican Donuts at Asia de Cuba
+city: Hollywood
+region: Hollywood
 ---
 
 Long over due, I realize I haven’t made a new post about my food adventures lately . . .I apologize. I have been busy with some other stuff lately. But I want to especially talk about this place – Asia de Cuba.

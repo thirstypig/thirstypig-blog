@@ -24,6 +24,7 @@ tags:
 - hotdogs
 - nyc
 description: Doubleheader at Yankee stadium watching Baltimore at New York. Check out that thick cut bacon. When is that coming to LA? . . .
+location: Doubleheader at Yankee stadium watching Baltimore at New York
 ---
 
 ![Doubleheader at Yankee stadium watching Baltimore at New York](/images/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18061216726065771.jpg)

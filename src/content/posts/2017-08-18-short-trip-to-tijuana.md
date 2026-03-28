@@ -23,6 +23,10 @@ tags:
 - museums
 - carnitas
 description: Short trip to Tijuana. Got to visit Hotel Caesar for the famous Caesar Salad. walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican
+location: Short trip to Tijuana
+city: Los Angeles
+categories:
+- Los Angeles
 ---
 
 ![Short trip to Tijuana](/images/posts/ig-2017-08-18-short-trip-to-tijuana/17868817990161459.jpg)

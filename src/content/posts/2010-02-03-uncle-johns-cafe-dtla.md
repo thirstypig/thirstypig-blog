@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/
 categories:
 - DTLA
+- Dtla
+- Downtown LA
 tags:
 - Breakfast
 - Cantonese
@@ -13,6 +15,10 @@ tags:
 description: 'I was browsing around different sites and I found one that talked about how Uncle John’s is one of the best breakfast finds in Los Angeles. Since I’m a big fan of breakfast and joints in Downtown LA, '
 archiveUrl: https://web.archive.org/web/20161106040238/http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/
 draft: false
+location: Uncle John’s Cafe
+city: Dtla
+region: Downtown LA
+address: 834 S Grand Ave Los Angeles, CA 90017
 ---
 
 [![img_0310](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0310.jpg?resize=282%2C211 "img_0310")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0310/)

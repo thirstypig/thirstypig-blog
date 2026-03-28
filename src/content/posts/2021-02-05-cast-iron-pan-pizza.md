@@ -25,6 +25,7 @@ tags:
 - homemade
 - homecook
 description: Cast iron pan pizza. Learned from I had to experiment a few times in order to get the crust just right. Really like this pizza recipe. Yummy! I used regular all purpose flour. Mozzarella cheese, peppe
+location: Cast iron pan pizza
 ---
 
 ![Cast iron pan pizza](/images/posts/ig-2021-02-05-cast-iron-pan-pizza/17950070503414023.jpg)

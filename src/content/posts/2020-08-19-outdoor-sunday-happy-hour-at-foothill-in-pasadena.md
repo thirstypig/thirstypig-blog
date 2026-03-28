@@ -18,6 +18,11 @@ tags:
 - fishandchips
 - peachcobbler
 description: Outdoor Sunday happy hour at Foothill in Pasadena. They turned their parking lot into and outdoor patio with coverings and umbrellas. Looks like a lot of people liked this place. Plenty of space for p
+location: Outdoor Sunday happy hour at Foothill in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Outdoor Sunday happy hour at Foothill in Pasadena](/images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/17899150579558788.jpg)

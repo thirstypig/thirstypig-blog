@@ -7,6 +7,7 @@ originalUrl: http://blog.thethirstypig.com:80/2010/05/new-chapter.html
 description: Please check out the latest posts on the new site - <http://www.thethirstypig.com>
 archiveUrl: https://web.archive.org/web/20100523224932/http://blog.thethirstypig.com:80/2010/05/new-chapter.html
 draft: false
+location: New Chapter
 ---
 
 Please check out the latest posts on the new site - <http://www.thethirstypig.com>

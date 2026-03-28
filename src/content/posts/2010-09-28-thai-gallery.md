@@ -30,12 +30,17 @@ categories:
 - 1 pig
 - Price Range 2 $/¥/NT
 - Thai
+- Shanghai
 tags:
 - Jingan District 上海静安区
 - Shanghai 上海
 description: Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gal
 archiveUrl: https://web.archive.org/web/20110105222349/http://www.thethirstypig.com/2010/09/28/thai-gallery/
 draft: false
+location: My Harem at Thai Gallery 泰廊餐厅
+city: Shanghai
+region: Shanghai
+address: 1 Da Tian Road
 ---
 
 Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gallery’s interior out-shined their offering.

@@ -20,6 +20,7 @@ tags:
 - culvercity
 - thristypig
 description: Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an
+location: Lunch at Destroyer
 ---
 
 ![Lunch at Destroyer](/images/posts/ig-2024-09-24-lunch-at-destroyer/18021720575453302.jpg)

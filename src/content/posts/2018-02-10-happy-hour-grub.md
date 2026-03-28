@@ -13,6 +13,11 @@ tags:
 - thirstypig
 - saturdaynight
 description: Happy hour grub
+location: Happy hour grub
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Happy hour grub](/images/posts/ig-2018-02-10-happy-hour-grub/17906064166095481.jpg)

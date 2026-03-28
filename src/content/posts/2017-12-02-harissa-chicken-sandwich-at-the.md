@@ -17,6 +17,7 @@ tags:
 - thirstypig
 - dirtymartini
 description: Harissa Chicken Sandwich at the .la The Sandwich was quite juicy and flavorful. One of the better chicken sandwiches ever.
+location: Harissa Chicken Sandwich at the
 ---
 
 ![Harissa Chicken Sandwich at the](/images/posts/ig-2017-12-02-harissa-chicken-sandwich-at-the/17851859512212826.jpg)

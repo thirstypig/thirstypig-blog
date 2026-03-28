@@ -26,4 +26,5 @@ tags:
 description: Unlike Shanghai Uncle and Lost Heaven, Gu Yi doesn’t attempt to meld fusion elements in their traditional plates. At least, from my limited experience with Hunanese, I didn’t see it. The beef ribs wer
 archiveUrl: https://web.archive.org/web/20110105192414/http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/
 draft: false
+location: Gu Yi Hunan Restaurant 古意湘味浓
 ---

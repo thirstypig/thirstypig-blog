@@ -22,6 +22,7 @@ tags:
 - imcomingback
 - sundayfunday
 description: Awesome Taiwanese breakfast at JJ Bakery & Cafe. We shared the Rice burrito with fried egg and sausage 特製鹹飯糰 （香腸&蛋）what makes this better was the crispy Chinese oil donut. The one at Four Seas was too
+location: Awesome Taiwanese breakfast at JJ Bakery & Cafe
 ---
 
 ![Awesome Taiwanese breakfast at JJ Bakery & Cafe](/images/posts/ig-2017-11-26-awesome-taiwanese-breakfast-at-jj-bakery-cafe/17852284981200414.jpg)

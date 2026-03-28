@@ -8,9 +8,14 @@ categories:
 - Pasadena
 tags:
 - Bbq
+- closed
 description: Maybe I shouldn’t have said “Best” but it sure tasted like it that day. With the stars aligned, with a full moon, and on my birthday the meat consumed like gods on this day. Everything was clicking li
 archiveUrl: https://web.archive.org/web/20161105172340/http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/
 draft: false
+location: Perdue’s Barbeque
+city: Pasadena
+region: Pasadena
+address: 456 E Orange Grove Ave Pasadena, CA 91104
 ---
 
 [![img_0694](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0694.jpg?resize=403%2C302 "img_0694")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0694/)

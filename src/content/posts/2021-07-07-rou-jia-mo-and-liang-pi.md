@@ -20,6 +20,11 @@ tags:
 - sgv
 - westfieldsantaanita
 description: 'Rou Jia Mo and Liang Pi. This is Shaanxi or Xi’an Cuisine. You could say this street food. Rou Jia Mo is a Chinese Sandwich with braised pork. You can also have it with lamb or beef, too. I think Rou '
+location: Rou Jia Mo and Liang Pi
+city: Shanghai
+region: Shanghai
+categories:
+- Shanghai
 ---
 
 ![Rou Jia Mo and Liang Pi](/images/posts/ig-2021-07-07-rou-jia-mo-and-liang-pi/17884088138355282.jpg)

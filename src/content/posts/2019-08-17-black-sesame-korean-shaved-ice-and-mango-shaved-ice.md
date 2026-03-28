@@ -13,6 +13,7 @@ tags:
 - shavedice
 - sgv
 description: Black Sesame Korean shaved ice and Mango shaved ice. . . . .
+location: Black Sesame Korean shaved ice and Mango shaved ice
 ---
 
 ![Black Sesame Korean shaved ice and Mango shaved ice](/images/posts/ig-2019-08-17-black-sesame-korean-shaved-ice-and-mango-shaved-ice/17845706059565076.jpg)

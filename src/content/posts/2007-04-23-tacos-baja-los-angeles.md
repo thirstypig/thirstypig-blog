@@ -12,6 +12,9 @@ tags:
 description: Ok, so a lot of place make fish tacos…some chains and even a place on Hillhurst called something like “World’s Best Tacos” but the best fish taco place is in East L.A called Tacos Baja. The crazy thin
 archiveUrl: https://web.archive.org/web/20160828014911/http://thirstypig.com/2007/04/23/tacos-baja-los-angeles/
 draft: false
+location: Tacos Baja
+city: Los Angeles
+address: 5385 Whittier Blvd
 ---
 
 [![IMG_0903](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0903.jpg?resize=423%2C317 "IMG_0903")](http://thirstypig.com/2007/04/23/tacos-baja-los-angeles/img_0903/)

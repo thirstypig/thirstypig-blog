@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/
 categories:
 - Xuhui District
+- Shanghai
 tags:
 - Shanghai
 - Shanghainese
 description: Xinjishi is the GO-TO place I often take guest from out of town. Though I would rather take them to original Jishi, the original, I know it is always crowded and tough to get reservations. Xinjishi, m
 archiveUrl: https://web.archive.org/web/20160914224709/http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/
 draft: false
+location: Xinjishi 新吉士, Shanghai – June 8
+city: Shanghai
+region: Shanghai
 ---
 
 [![xinjishi-xintiandi-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Xinjishi-Xintiandi-Shanghai-05.jpg?resize=423%2C317 "xinjishi-xintiandi-shanghai-05")](http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/xinjishi-xintiandi-shanghai-05/)

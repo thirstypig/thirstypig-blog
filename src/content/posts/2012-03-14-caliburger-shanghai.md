@@ -10,9 +10,13 @@ categories:
 - Hamburgers
 - Lunch
 - Price Range 2 $/¥/NT
+- Shanghai
 description: What is Caliburger Caliburger is a burger restaurant that embodies a typical Southern California burger joint, in Shanghai. There has been so much written about what Caliburger did in copying the famo
 archiveUrl: https://web.archive.org/web/20121114053923/http://www.thethirstypig.com:80/2012/03/14/caliburger-shanghai/
 draft: false
+location: Caliburger
+city: Shanghai
+region: Shanghai
 ---
 
 **What is Caliburger**

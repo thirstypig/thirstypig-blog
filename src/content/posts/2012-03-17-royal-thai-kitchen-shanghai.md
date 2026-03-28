@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/17/royal-thai-kitchen-shanghai/
 categories:
 - Gubei
+- Shanghai
 tags:
 - Thai
 description: Royal Thai Kitchen Villa 3, 3911 Hongmei Lu 虹梅路3911号3号楼， 近虹桥路 +86 21 6242 3023
 archiveUrl: https://web.archive.org/web/20161106013054/http://thirstypig.com/2012/03/17/royal-thai-kitchen-shanghai/
 draft: false
+location: Royal Thai Kitchen
+city: Shanghai
+region: Shanghai
 ---
 
 [![dsc_0040](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0040.jpg?resize=403%2C268 "dsc_0040")](http://thirstypig.com/2012/03/17/royal-thai-kitchen-shanghai/dsc_0040/)

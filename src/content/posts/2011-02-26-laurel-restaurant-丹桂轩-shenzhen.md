@@ -11,6 +11,8 @@ tags:
 description: Shenzhen is the city located right across the border from Hong Kong. You might say it is the Tijuana of China. A little over 30 years ago, this sleepy town, with around 30,000 people, is growing to ov
 archiveUrl: https://web.archive.org/web/20161019091800/http://thirstypig.com/2011/02/26/laurel-restaurant-%e4%b8%b9%e6%a1%82%e8%bd%a9-shenzhen/
 draft: false
+location: Laurel Restaurant 丹桂轩
+city: Shenzhen
 ---
 
 [![laurel-restaurant-shenzhen-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Laurel-Restaurant-Shenzhen-12.jpg?resize=403%2C302 "laurel-restaurant-shenzhen-12")](http://thirstypig.com/2011/02/26/laurel-restaurant-%e4%b8%b9%e6%a1%82%e8%bd%a9-shenzhen/laurel-restaurant-shenzhen-12/)

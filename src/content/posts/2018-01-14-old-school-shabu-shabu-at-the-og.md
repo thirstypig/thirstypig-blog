@@ -14,6 +14,7 @@ tags:
 - dtla
 - thirstypig
 description: Old school Shabu Shabu at the OG. Open for 27 years
+location: Old school Shabu Shabu at the OG
 ---
 
 ![Old school Shabu Shabu at the OG](/images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581821025252.jpg)

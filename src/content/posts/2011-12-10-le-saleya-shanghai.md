@@ -9,11 +9,15 @@ categories:
 - 2 pigs
 - Xuhui
 - French
+- Shanghai
 tags:
 - French
 description: Where Did the Thirsty Pig Go? We were looking for a French restaurant and I hate to say it. . . it looks as if I settled on Le Saleya. Unfortunately, I made the mistake of trying to find and make rese
 archiveUrl: https://web.archive.org/web/20161105154752/http://thirstypig.com/2011/12/10/le-saleya-shanghai/
 draft: false
+location: Le Saleya
+city: Shanghai
+region: Shanghai
 ---
 
 [![la-saleya-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-05.jpg?resize=403%2C301 "la-saleya-shanghai-05")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-05/)

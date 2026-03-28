@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
 categories:
 - Santa Monica
+- SaMo
+- Westside
 tags:
 - Deli
 - Italian
@@ -13,6 +15,10 @@ tags:
 description: 'Unfortunately, I am giving Bay Cities Deli a big zero Pig rating for their sandwiches. A big 0 I won’t feel bad either. Maybe the people of Santa Monica never had a good sandwich. If you want a solid '
 archiveUrl: https://web.archive.org/web/20161106040228/http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
 draft: false
+location: Bay Cities Italian Deli
+city: SaMo
+region: Westside
+address: 1517 Lincoln Blvd Santa Monica, CA 90401
 ---
 
 [![img_0166](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0166.jpg?resize=403%2C302 "img_0166")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0166/)

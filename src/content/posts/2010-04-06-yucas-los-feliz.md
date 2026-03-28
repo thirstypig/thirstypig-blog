@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/06/yucas-los-feliz/
 categories:
 - Los Angeles
+- Los Feliz
+- Central LA
 tags:
 - Burgers
 - Mexican
 description: Yelp Listinghttps://www.yelp.com/biz/yucas-los-angeles
 archiveUrl: https://web.archive.org/web/20161106022412/http://thirstypig.com/2010/04/06/yucas-los-feliz/
 draft: false
+location: Yuca’s
+city: Los Feliz
+region: Central LA
+address: 2056 Hillhurst Ave Los Angeles, CA 90027
 ---
 
 [![img_1231](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1231-1.jpg?resize=222%2C166 "img_1231")](http://thirstypig.com/2010/04/06/yucas-los-feliz/img_1231-3/)

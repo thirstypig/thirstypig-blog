@@ -21,6 +21,7 @@ tags:
 - bayarea
 - yum
 description: Our favorite bakery in Berkeley- Acme Bread Co. . . . 🥐
+location: Our favorite bakery in Berkeley- Acme Bread Co
 ---
 
 ![Our favorite bakery in Berkeley- Acme Bread Co](/images/posts/ig-2019-06-16-our-favorite-bakery-in-berkeley-acme-bread-co/17979964378257578.jpg)

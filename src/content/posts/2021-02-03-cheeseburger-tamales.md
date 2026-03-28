@@ -22,6 +22,7 @@ tags:
 - cheddarcheese
 - cheddar
 description: Cheeseburger Tamales! That’s right! Cheeseburger!!!! Using corn husks and pre-made mixed masa from .supermarkets I experimented and added ground beef 80/20 with burger seasoning and sharp cheddar chee
+location: Cheeseburger Tamales
 ---
 
 ![Cheeseburger Tamales](/images/posts/ig-2021-02-03-cheeseburger-tamales/17904801091711887.jpg)

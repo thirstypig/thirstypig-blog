@@ -23,6 +23,12 @@ tags:
 - tastemakers
 - noodles
 description: 'The trendy Japanese omurice dish, made famous by is now in the SGV Arcadia at .official I had to try it. This was my third attempt in trying to get a table. The first couple of times I tried the wait '
+location: The trendy Japanese omurice dish
+city: Arcadia
+region: San Gabriel Valley
+categories:
+- Arcadia
+- San Gabriel Valley
 ---
 
 ![The trendy Japanese omurice dish, made famous by  is now in the SGV Arcadia at](/images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/18269022787264462.jpg)

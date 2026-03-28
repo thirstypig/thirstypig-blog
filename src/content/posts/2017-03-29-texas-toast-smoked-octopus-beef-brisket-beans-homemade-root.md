@@ -19,6 +19,10 @@ images:
 tags:
 - sanantonio
 description: Texas Toast, smoked octopus, beef brisket, beans, homemade root beer
+location: Texas Toast, smoked octopus, beef brisket, beans
+city: homemade root beer
+categories:
+- homemade root beer
 ---
 
 ![Texas Toast, smoked octopus, beef brisket, beans, homemade root beer](/images/posts/ig-2017-03-29-texas-toast-smoked-octopus-beef-brisket-beans-homemade-root/17876201263044030.jpg)

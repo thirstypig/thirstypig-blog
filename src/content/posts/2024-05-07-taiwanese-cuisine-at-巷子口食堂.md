@@ -28,6 +28,7 @@ tags:
 - taipei
 - taipeifood
 description: Taiwanese cuisine at 巷子口食堂. Traditional dishes that you won’t find at night markets or on the street. Pork and seafood dishes done well. We almost polished off a bottle of Kaoliang,Taiwanese white win
+location: Taiwanese cuisine at 巷子口食堂
 ---
 
 ![Taiwanese cuisine at 巷子口食堂](/images/posts/ig-2024-05-07-taiwanese-cuisine-at-巷子口食堂/18004420247585710.jpg)

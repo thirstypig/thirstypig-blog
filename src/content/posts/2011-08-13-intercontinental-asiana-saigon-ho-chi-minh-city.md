@@ -32,6 +32,8 @@ tags:
 description: 'Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo '
 archiveUrl: https://web.archive.org/web/20161106040231/http://thirstypig.com/2011/08/13/intercontinental-asiana-saigon-ho-chi-minh-city/
 draft: false
+location: Intercontinental Asiana Saigon
+city: Ho Chi Minh City
 ---
 
 [![intercontinental-asiana-saigon-02](/images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-01-494x370.jpg "intercontinental-asiana-saigon-02")](http://thirstypig.com/2011/08/13/intercontinental-asiana-saigon-ho-chi-minh-city/intercontinental-asiana-saigon-02/)

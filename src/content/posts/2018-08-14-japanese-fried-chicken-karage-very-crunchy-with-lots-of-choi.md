@@ -21,6 +21,7 @@ tags:
 - littletokyo
 - jtown
 description: Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with lots of choices for dipping sauces. Yummy . . . . .
+location: Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with lots of choices for dip...
 ---
 
 ![Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with lots of choices for dip...](/images/posts/ig-2018-08-14-japanese-fried-chicken-karage-very-crunchy-with-lots-of-choi/17896127077233301.jpg)

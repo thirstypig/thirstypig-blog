@@ -19,6 +19,8 @@ tags:
 description: Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type o
 archiveUrl: https://web.archive.org/web/20110105162608/http://www.thethirstypig.com/2009/04/12/cha-cha-cha/
 draft: false
+location: Cha Cha Cha
+city: Los Angeles
 ---
 
 Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type of cuisine of little dishes, sort of like appetizers. Food is great with wine or Sangria.

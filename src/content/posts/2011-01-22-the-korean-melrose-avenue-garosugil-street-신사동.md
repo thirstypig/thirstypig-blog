@@ -6,11 +6,14 @@ source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/22/the-korean-melrose-avenue-garosugil-street-%EC%8B%A0%EC%82%AC%EB%8F%99/
 categories:
 - Korean
+- Garosugil Street 신사동
 tags:
 - Seoul 서울
 description: There’s nice little lane in Seoul where people crowd the sidewalks to shop, eat, and play. Yet, there could be a few places in Seoul that describe it. But Garosugil Street 신사동 in the Sinsa-dong Distri
 archiveUrl: https://web.archive.org/web/20110211070033/http://www.thethirstypig.com:80/2011/01/22/the-korean-melrose-avenue-garosugil-street-%EC%8B%A0%EC%82%AC%EB%8F%99/
 draft: false
+location: The Korean Melrose Avenue
+city: Garosugil Street 신사동
 ---
 
 There’s nice little lane in Seoul where people crowd the sidewalks to shop, eat, and play. Yet, there could be a few places in Seoul that describe it. But Garosugil Street 신사동 in the Sinsa-dong District 가로수길 is distinctively different.

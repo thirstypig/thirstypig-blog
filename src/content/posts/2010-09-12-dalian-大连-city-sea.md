@@ -6,11 +6,14 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/12/dalian-%e5%a4%a7%e8%bf%9e-city-sea/
 categories:
 - Dalian
+- the City by the Sea
 tags:
 - Dalian
 description: I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach
 archiveUrl: https://web.archive.org/web/20161018232348/http://thirstypig.com/2010/09/12/dalian-%e5%a4%a7%e8%bf%9e-city-sea/
 draft: false
+location: Dalian 大连
+city: the City by the Sea
 ---
 
 [![dalian-sight-seeing-day-3-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dalian-Sight-Seeing-Day-3-05.jpg?resize=234%2C175 "dalian-sight-seeing-day-3-05")](http://thirstypig.com/2010/09/12/dalian-%e5%a4%a7%e8%bf%9e-city-sea/dalian-sight-seeing-day-3-05/)

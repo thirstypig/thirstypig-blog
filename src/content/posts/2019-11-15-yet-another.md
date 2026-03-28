@@ -20,6 +20,12 @@ tags:
 - beef
 - hearty
 description: Yet another . . . Taiwanese Beef Noodle Soup, this time from Old Country Cafe 老鄉親. The broth was ok, not overly flavorful or slightly spicy as one would expect. It appeared to be cloudy, which isn’t a
+location: Yet another
+city: Alhambra
+region: San Gabriel Valley
+categories:
+- Alhambra
+- San Gabriel Valley
 ---
 
 ![Yet another](/images/posts/ig-2019-11-15-yet-another/17847668887733591.jpg)

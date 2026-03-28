@@ -16,11 +16,15 @@ categories:
 - San Gabriel Valley
 - 2 pigs
 - $
+- Taco Lita
 tags:
 - LA's San Gabriel Valley
 description: High School kids need to eat simple things like meat and some sort of starch – like bread, tortilla, or rice. They don’t really want to eat vegetables, fruits, and healthy things. Taco Lita serves tha
 archiveUrl: https://web.archive.org/web/20110106033401/http://www.thethirstypig.com/2009/09/22/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/
 draft: false
+location: What high school kids eat to grow big and tall
+city: Taco Lita
+region: San Gabriel Valley
 ---
 
 High School kids need to eat simple things like meat and some sort of starch – like bread, tortilla, or rice. They don’t really want to eat vegetables, fruits, and healthy things. Taco Lita serves that purpose for growing kids in San Gabriel Valley.

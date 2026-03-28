@@ -15,6 +15,7 @@ tags:
 - consume
 - mexicanfood
 description: Birria Tacos! . . . .
+location: Birria Tacos
 ---
 
 ![Birria Tacos](/images/posts/ig-2022-04-13-birria-tacos/18215124097193996.jpg)

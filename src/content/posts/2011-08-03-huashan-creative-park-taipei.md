@@ -10,9 +10,13 @@ categories:
 - Lunch
 - Price Range 2 $/¥/NT
 - Taiwanese
+- Taipei
 description: Huashan Creative Park is the cultural center for not only Taipei, but for the country of Taiwan as well. With the combination of art and food, the park provides a historic setting.
 archiveUrl: https://web.archive.org/web/20111018164249/http://www.thethirstypig.com:80/2011/08/03/huashan-creative-park-taipei/
 draft: false
+location: Huashan Creative Park
+city: Taipei
+region: Taipei
 ---
 
 Huashan Creative Park is the cultural center for not only Taipei, but for the country of Taiwan as well. With the combination of art and food, the park provides a historic setting.

@@ -10,6 +10,7 @@ categories:
 - Jingan District
 - 2 pigs
 - Curry
+- Shanghai
 tags:
 - Shanghai
 - Cantonese
@@ -17,6 +18,9 @@ tags:
 description: Cha’s, which opened in 2009, looks like its been there for years. A typical Hong Kong Cantonese cafe/diner – Cha features great Cantonese dishes. The original chain is based out of Hong Kong, and is b
 archiveUrl: https://web.archive.org/web/20160910224243/http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/
 draft: false
+location: Cha’s Restaurant
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_0548](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0548-1.jpg?resize=398%2C533 "img_0548")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0548-2/)

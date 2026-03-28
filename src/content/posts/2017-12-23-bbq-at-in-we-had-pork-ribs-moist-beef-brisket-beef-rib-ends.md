@@ -19,6 +19,10 @@ tags:
 - shotoniphonex
 - texasbbq
 description: BBQ at in we had pork ribs, moist beef brisket, beef rib ends, shredded pork, corn bread, collard greens, and baked beans. So much food. I dig the brisket, baked beans, collard greens, and pork ribs.
+location: BBQ at  in  we had pork ribs, moist beef brisket, beef rib ends
+city: shredded por...
+categories:
+- shredded por...
 ---
 
 ![BBQ at  in  we had pork ribs, moist beef brisket, beef rib ends, shredded por...](/images/posts/ig-2017-12-23-bbq-at-in-we-had-pork-ribs-moist-beef-brisket-beef-rib-ends/17887955011193127.jpg)

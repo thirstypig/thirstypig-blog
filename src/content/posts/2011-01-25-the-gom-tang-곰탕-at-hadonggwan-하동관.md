@@ -10,11 +10,15 @@ images:
 categories:
 - 3 pigs
 - Korean
+- Seoul
 tags:
 - Seoul
 description: All Restaurants usually have one dish, perhaps two dishes that especially stand out, either publicly, unofficially, or blatantly. HaDongGwan 하동관 is a Gom Tang Jip which means, in Korea, that they spec
 archiveUrl: https://web.archive.org/web/20111103142116/http://www.thethirstypig.com/2011/01/25/the-gom-tang-%ea%b3%b0%ed%83%95-at-hadonggwan-%ed%95%98%eb%8f%99%ea%b4%80/
 draft: false
+location: The Gom Tang 곰탕 at HaDongGwan 하동관
+city: Seoul
+region: Seoul
 ---
 
 *All* Restaurants usually have one dish, perhaps two dishes that especially stand out, either publicly, unofficially, or blatantly. HaDongGwan 하동관 is a Gom Tang Jip which means, in Korea, that they specialize in the one dish – Gom Tang.

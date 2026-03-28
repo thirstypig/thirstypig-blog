@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
 categories:
 - Oakland
+- Bay Area
 tags:
 - American
 - Breakfast
@@ -13,6 +14,9 @@ tags:
 description: Buttermilk Fried Chicken & Cornmeal Wafﬂe is a must order. Chicken is tender and juicy Beignets were almost too much to have at the end, but were yummy – light and fluffy BBQ Shrimp and grits had stro
 archiveUrl: https://web.archive.org/web/20170102232036/http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
 draft: false
+location: Brown Sugar Kitchen
+city: Oakland
+region: Bay Area
 ---
 
 [![IMG_3985](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3985.jpg?resize=199%2C266 "IMG_3985")](http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/img_3985/)

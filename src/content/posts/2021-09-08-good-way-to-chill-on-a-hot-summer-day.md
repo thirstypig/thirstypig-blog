@@ -20,6 +20,7 @@ tags:
 - drinks
 - thirstypig
 description: Good way to chill on a hot summer day. It’s still summer, right??? . . . . . .
+location: Good way to chill on a hot summer day
 ---
 
 ![Good way to chill on a hot summer day](/images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/18126992854219407.jpg)

@@ -18,9 +18,13 @@ categories:
 - Sports Bar
 - Downtown LA
 - 1 pig
+- Dtla
 tags:
 - Downtown LA
 description: Big Wangs, with a funny name for a Sports Bar, is located in the heart of Downtown LA. I visited there with a friend, Mr. J, for a short happy hour and to just check out the place.
 archiveUrl: https://web.archive.org/web/20110105090157/http://www.thethirstypig.com/2010/03/19/big-wangs-the-sports-bar-for-dtla/
 draft: false
+location: Big Wangs
+city: Dtla
+region: Downtown LA
 ---

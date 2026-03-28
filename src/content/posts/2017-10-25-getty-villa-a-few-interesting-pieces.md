@@ -24,6 +24,10 @@ tags:
 - sculpture
 - malibu
 description: Getty Villa - a few interesting pieces.
+location: Getty Villa
+city: a few interesting pieces
+categories:
+- a few interesting pieces
 ---
 
 ![Getty Villa - a few interesting pieces](/images/posts/ig-2017-10-25-getty-villa-a-few-interesting-pieces/17880681277130428.jpg)

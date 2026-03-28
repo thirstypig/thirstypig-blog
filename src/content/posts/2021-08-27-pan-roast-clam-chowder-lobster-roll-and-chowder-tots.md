@@ -20,6 +20,10 @@ tags:
 - eeeeeats
 - thirstypig
 description: Pan Roast, clam chowder, lobster roll, and chowder tots. The Pan Roast is similar to the Vegas’ Station Casino’s Oyster Bar version. Yum! . . . . .
+location: Pan Roast, clam chowder, lobster roll
+city: and chowder tots
+categories:
+- and chowder tots
 ---
 
 ![Pan Roast, clam chowder, lobster roll, and chowder tots](/images/posts/ig-2021-08-27-pan-roast-clam-chowder-lobster-roll-and-chowder-tots/17920592734758669.jpg)

@@ -25,6 +25,7 @@ tags:
 - gansevoort
 - meatpackingdistrict
 description: Grant Wood’s American Gothic at the Whitney Museum of American Art. Part 1 of 2 posts. Plus a bunch of other interesting art pieces.
+location: Grant Wood’s American Gothic at the Whitney Museum of American Art
 ---
 
 ![Grant Wood’s American Gothic at the Whitney Museum of American Art](/images/posts/ig-2018-05-27-grant-woods-american-gothic-at-the-whitney-museum-of-america/17919349621179258.jpg)

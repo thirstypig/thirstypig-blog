@@ -12,6 +12,8 @@ tags:
 description: Yelp Listinghttps://www.yelp.com/biz/la-nueva-fuente-restaurant-los-angeles
 archiveUrl: https://web.archive.org/web/20161104234833/http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/
 draft: false
+location: La Nueva Fuente Restaurant
+city: Los Angeles
 ---
 
 [![img_0721](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0721.jpg?resize=403%2C302 "img_0721")](http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/img_0721/)

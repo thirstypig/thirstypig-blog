@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/
 categories:
 - Maui
+- Hawaii
 tags:
 - Hawaiian
 - Japanese
 description: Noodles, both soup and soupless dry, is the speciality Loco Moco is also pretty good Get crowded at lunch on weekends Cash only Seems like it has been around forever, as a local favorite
 archiveUrl: https://web.archive.org/web/20161018215556/http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/
 draft: false
+location: Sam Sato’s Wailuku Maui Hawaii
+city: Maui
+region: Hawaii
 ---
 
 [![IMG_3106](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3106.jpg?resize=301%2C401 "IMG_3106")](http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/img_3106/)

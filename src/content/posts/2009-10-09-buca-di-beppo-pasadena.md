@@ -15,11 +15,15 @@ categories:
 - Italian
 - San Gabriel Valley
 - 2 pigs
+- Pasadena
 tags:
 - LA's San Gabriel Valley
 description: I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. Wi
 archiveUrl: https://web.archive.org/web/20110105210357/http://www.thethirstypig.com/2009/10/09/buca-di-beppo-pasadena/
 draft: false
+location: Buca di Beppo
+city: Pasadena
+region: Pasadena
 ---
 
 I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. With all the visuals – pictures, statues, and even the staff, this place might have gone a bit too far. But I think that’s part of the fun.

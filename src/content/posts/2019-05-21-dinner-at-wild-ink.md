@@ -28,6 +28,7 @@ tags:
 - dumplings
 - shortrib
 description: 'Dinner at Wild Ink. Started with edamame, bacon & shrimp Sau Mai, Mapo tofu dumplings, Beef Bulgogi Puffs, and grilled octopus. For our mains we shared 3 cup chicken, grilled cabbage, and the braised '
+location: Dinner at Wild Ink
 ---
 
 ![Dinner at Wild Ink](/images/posts/ig-2019-05-21-dinner-at-wild-ink/18053174683108031.jpg)

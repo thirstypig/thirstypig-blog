@@ -6,11 +6,14 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/08/first-floor-restaurant-%e8%80%81%e8%a1%97%e7%ac%ac%e4%b8%80%e6%a5%bc-huangshan%e9%bb%83%e5%b1%b1/
 categories:
 - Huangshan
+- Huangshan黃山
 tags:
 - Chinese 2
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106034442/http://thirstypig.com/2011/10/08/first-floor-restaurant-%e8%80%81%e8%a1%97%e7%ac%ac%e4%b8%80%e6%a5%bc-huangshan%e9%bb%83%e5%b1%b1/
 draft: false
+location: First Floor Restaurant 老街第一楼
+city: Huangshan黃山
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Old-Street-Market-94.jpg?resize=403%2C302 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/08/first-floor-restaurant-%e8%80%81%e8%a1%97%e7%ac%ac%e4%b8%80%e6%a5%bc-huangshan%e9%bb%83%e5%b1%b1/olympus-digital-camera-90/)

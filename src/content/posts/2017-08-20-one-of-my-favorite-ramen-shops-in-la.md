@@ -18,6 +18,7 @@ tags:
 - hatethewait
 - shinsengumi
 description: One of my favorite ramen shops in LA. Super crowded on a Saturday night. It strangely they are now the Spirit Airlines of ramen, which means everything is a la carte. Their basic ramen is just noodles
+location: One of my favorite ramen shops in LA
 ---
 
 ![One of my favorite ramen shops in LA](/images/posts/ig-2017-08-20-one-of-my-favorite-ramen-shops-in-la/17867762344172008.jpg)

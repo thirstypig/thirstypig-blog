@@ -21,6 +21,11 @@ tags:
 - japanesefood
 - monday
 description: Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA. Had the spicy miso ramen, chicken egg onion rice and California Rolls. . .
+location: Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA
+city: Tokyo
+region: Tokyo
+categories:
+- Tokyo
 ---
 
 ![Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA](/images/posts/ig-2019-04-16-dinner-with-the-wife-at-daikokuya-ramen-in-little-tokyo-in-d/18020352979164341.jpg)

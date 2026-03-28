@@ -17,6 +17,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
+location: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
 ---
 
 ![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17875590688231344.jpg)

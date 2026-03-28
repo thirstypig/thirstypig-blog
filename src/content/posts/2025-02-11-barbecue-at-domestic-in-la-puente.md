@@ -24,6 +24,7 @@ tags:
 - brisket
 - sausage
 description: 'Barbecue at Domestic in La Puente. My college buddies and I had a find a restaurant to have our annual fantasy baseball winter meetings. And I choose Domestic, since it was somewhat midway between LA '
+location: Barbecue at Domestic in La Puente
 ---
 
 ![Barbecue at Domestic in La Puente](/images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17969206526833173.jpg)

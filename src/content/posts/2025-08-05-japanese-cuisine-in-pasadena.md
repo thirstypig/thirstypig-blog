@@ -20,6 +20,11 @@ tags:
 - yakinikuð
 - beef
 description: Japanese cuisine in Pasadena. Yakiniku. The best thing we had was the beef bone marrow fried rice. The grilled beef was very good. Great service. Would return again. . . . 🐮
+location: Japanese cuisine in Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg)

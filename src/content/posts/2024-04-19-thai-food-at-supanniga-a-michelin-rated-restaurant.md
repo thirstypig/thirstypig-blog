@@ -23,6 +23,10 @@ tags:
 - bangkok
 - shrimp
 description: Thai food at Supanniga - a Michelin rated restaurant. Very good lunch with an old buddy. Haven’t been to Bangkok since 2011. Fresh coconut juice was refreshing and set my expectations high. . . .
+location: Thai food at Supanniga
+city: a Michelin rated restaurant
+categories:
+- a Michelin rated restaurant
 ---
 
 ![Thai food at Supanniga - a Michelin rated restaurant](/images/posts/ig-2024-04-19-thai-food-at-supanniga-a-michelin-rated-restaurant/18220920673286613.jpg)

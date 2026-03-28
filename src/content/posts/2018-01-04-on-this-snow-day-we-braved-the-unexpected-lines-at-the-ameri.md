@@ -19,6 +19,7 @@ tags:
 - teddyroosevelt
 - snowday
 description: On this Snow day we braved the unexpected lines at the American Natural History Museum. Had a great tour with Art. Saw big dinosaur fossils, model whales, and other animals and prehistoric items.
+location: On this Snow day we braved the unexpected lines at the American Natural Histo...
 ---
 
 ![On this Snow day we braved the unexpected lines at the American Natural Histo...](/images/posts/ig-2018-01-04-on-this-snow-day-we-braved-the-unexpected-lines-at-the-ameri/17857514902209284.jpg)

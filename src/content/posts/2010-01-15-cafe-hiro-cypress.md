@@ -15,11 +15,15 @@ categories:
 - Orange County
 - $$
 - 3 pigs
+- Cypress
 tags:
 - LA's Orange County
 description: I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.
 archiveUrl: https://web.archive.org/web/20110105210946/http://www.thethirstypig.com/2010/01/15/cafe-hiro-cypress/
 draft: false
+location: Cafe Hiro
+city: Cypress
+region: Orange County
 ---
 
 I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.

@@ -27,6 +27,10 @@ tags:
 - iphonephotography
 - latinamerica
 description: Comuna 13 of Medellin, Columbia. Graffiti art adorned this interesting area of Medellin. Popular area had street performers with bars and street food. Glad we went during the week, since I could imagi
+location: Comuna 13 of Medellin
+city: Columbia
+categories:
+- Columbia
 ---
 
 ![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18030378658592135.jpg)

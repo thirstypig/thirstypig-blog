@@ -23,6 +23,7 @@ tags:
 - victoriabccanadað
 - victoriabcð
 description: Brunch in Victoria. Of course I had to have a Bloody Mary. And since I was still in Canada, I had to have more poutine. Which reminds me - that when I get home, that I should try to order the “wet fri
+location: Brunch in Victoria
 ---
 
 ![Brunch in Victoria](/images/posts/ig-2025-05-11-brunch-in-victoria/18190766269309003.jpg)

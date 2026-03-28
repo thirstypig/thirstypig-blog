@@ -16,6 +16,7 @@ tags:
 - summerconcert
 - music
 description: Blues Traveler in DTLA. Summer concerts at Pershing Park. . . . .
+location: Blues Traveler in DTLA
 ---
 
 ![Blues Traveler in DTLA](/images/posts/ig-2019-08-18-blues-traveler-in-dtla/17849594749553529.jpg)

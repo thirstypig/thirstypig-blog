@@ -17,6 +17,11 @@ tags:
 - indianfood
 - thirstypig
 description: Modern Indian food at radhika south Pasadena
+location: Modern Indian food at radhika south Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17910863497118580.jpg)

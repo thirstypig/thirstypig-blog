@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/19/woobar-w-hotel-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Bar
 - Hotel
 description: WooBarhttp://www.woobartaipei.com/en/ W Hotel 110, Taiwan Taipei City Xinyi District Section 5 Zhongxiao East Road, 10號10F +886 2 7703 8887 10AM–2AM
 archiveUrl: https://web.archive.org/web/20161106041517/http://thirstypig.com/2011/07/19/woobar-w-hotel-taipei/
 draft: false
+location: WooBar W Hotel
+city: Taipei
+region: Taipei
+address: 5 Zhongxiao East Road
 ---
 
 [![img_0218](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0218.jpg?resize=403%2C302 "img_0218")](http://thirstypig.com/2011/07/19/woobar-w-hotel-taipei/img_0218/)

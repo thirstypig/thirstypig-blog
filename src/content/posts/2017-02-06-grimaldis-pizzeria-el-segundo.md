@@ -6,6 +6,8 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/06/grimaldis-pizzeria-el-segundo/
 categories:
 - Southbay
+- El Segundo
+- South Bay
 tags:
 - Italian
 - Pasta
@@ -13,6 +15,10 @@ tags:
 description: New York’s finest pizzeria, here in LA Coal burning pizza oven Large restaurant, good for groups Validated parking available for the nearby parking structure bunch of location all over the US
 archiveUrl: https://web.archive.org/web/20170207060826/http://thirstypig.com/2017/02/06/grimaldis-pizzeria-el-segundo/
 draft: false
+location: Grimaldi’s Pizzeria
+city: El Segundo
+region: South Bay
+address: 2121 Rosecrans Ave
 ---
 
 [![IMG_4135](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4135.jpg?resize=222%2C166 "IMG_4135")](http://thirstypig.com/2017/02/06/grimaldis-pizzeria-el-segundo/img_4135/)

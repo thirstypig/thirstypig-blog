@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Cantonese
 - Seafood
@@ -13,6 +14,9 @@ tags:
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20161019141341/http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/
 draft: false
+location: JingPuHui晶浦会 of Pudong
+city: Shanghai
+region: Shanghai
 ---
 
 [![jingpuhui-pudong-shanghai-32](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Jingpuhui-Pudong-Shanghai-32.jpg?resize=403%2C302 "jingpuhui-pudong-shanghai-32")](http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/jingpuhui-pudong-shanghai-32/)

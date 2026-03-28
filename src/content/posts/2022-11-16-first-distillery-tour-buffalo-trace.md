@@ -27,6 +27,10 @@ tags:
 - ilovelou
 - louisville
 description: First Distillery tour - Buffalo Trace. Amazing distillery with one of the hottest tours in Louisville. Buffalo Trace, Wellers, Pappy’s, Fireball, Blantons, and other bourbons are made here. Got to see
+location: First Distillery tour
+city: Buffalo Trace
+categories:
+- Buffalo Trace
 ---
 
 ![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18330931573019685.jpg)

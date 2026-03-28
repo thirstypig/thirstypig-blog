@@ -12,11 +12,15 @@ images:
 categories:
 - 2 pigs
 - Japanese
+- 微風廣場Breeze Center
 tags:
 - Taipei
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103153508/http://www.thethirstypig.com/2010/06/03/shaburi-sushi-breeze-center/
 draft: false
+location: Sushi at 紗舞縭壽司屋Shaburi
+city: 微風廣場Breeze Center
+address: 599 Sushi Set featuring Uni and Scallop and the Dr
 ---
 
 Shaburi, at Breeze Center, is a nice unassuming and non-pretentious Japanese restaurant. With high expectations on presentation and food, lunch was nice treat.

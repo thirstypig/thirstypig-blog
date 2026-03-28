@@ -9,9 +9,13 @@ categories:
 - Korean
 - Late Night
 - Price Range $/¥/NT
+- Shanghai
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20120116080803/http://www.thethirstypig.com:80/2011/08/08/mapuwu-shanghai/
 draft: false
+location: Mapuwu
+city: Shanghai
+region: Shanghai
 ---
 
 Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – till 5am.

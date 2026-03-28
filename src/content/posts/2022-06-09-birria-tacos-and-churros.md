@@ -18,6 +18,7 @@ tags:
 - eastla
 - dtla
 description: Birria tacos and churros! Freshly made churros are the best. Check out the sweet Dodgers churro Beatle! Birrieria Pavon is my favorite Birria taco stand. Convenient and open late. . . . . .
+location: Birria tacos and churros
 ---
 
 ![Birria tacos and churros](/images/posts/ig-2022-06-09-birria-tacos-and-churros/18213887719145026.jpg)

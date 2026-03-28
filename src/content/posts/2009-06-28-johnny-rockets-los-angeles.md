@@ -12,6 +12,8 @@ tags:
 description: Concept based on West LA’s Apple Panhttps://en.wikipedia.org/wiki/TheApplePan restaurant, opened in 1947 First location was on Melrose, but closed in 2015 Decent burgers and shakes The staff would oft
 archiveUrl: https://web.archive.org/web/20160828021658/http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/
 draft: false
+location: Johnny Rockets
+city: Los Angeles
 ---
 
 [![IMG_0665](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0665.jpg?resize=130%2C174 "IMG_0665")](http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/img_0665/)

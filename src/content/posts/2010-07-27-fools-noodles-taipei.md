@@ -22,11 +22,15 @@ categories:
 - Chinese
 - Noodles
 - Taiwanese
+- Taipei
 tags:
 - Taipei 台北
 description: Fool’s Noodles is a noodle shop that features simple “dry” soup-less or non wet noodles. A small chain, Fool’s Noodles apparently does and specializes in one thing – Sha Gua Gan Mian 傻瓜干面, a version o
 archiveUrl: https://web.archive.org/web/20110106020449/http://www.thethirstypig.com/2010/07/27/fools-noodles-taipei/
 draft: false
+location: Fool’s Noodles 小南門福州傻瓜乾麵
+city: Taipei
+region: Taipei
 ---
 
 Fool’s Noodles is a noodle shop that features simple “dry” (soup-less or non wet noodles). A small chain, Fool’s Noodles apparently does and specializes in one thing – Sha Gua Gan Mian (傻瓜干面, a version of 熱乾麵).

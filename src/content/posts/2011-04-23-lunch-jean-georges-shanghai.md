@@ -9,6 +9,7 @@ categories:
 - French
 - Bund
 - 3 pigs
+- Shanghai
 tags:
 - Shanghai
 - Brunch
@@ -16,6 +17,9 @@ tags:
 description: Last Saturday the world-renown 3-Star Michelin chef Jean-Georges Vongerichten was in town, Shanghai, showcasing a cooking demonstration & class at his restaurant Jean Georges Shanghai.
 archiveUrl: https://web.archive.org/web/20161018102047/http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
 draft: false
+location: Lunch with Jean-Georges
+city: Shanghai
+region: Shanghai
 ---
 
 [![jean-georges-cooking-demo-shanghai-21](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Jean-Georges-Cooking-Demo-Shanghai-21.jpg?resize=234%2C175 "jean-georges-cooking-demo-shanghai-21")](http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/jean-georges-cooking-demo-shanghai-21/)

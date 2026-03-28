@@ -15,11 +15,15 @@ categories:
 - San Gabriel Valley
 - Cupcakes
 - Dessert
+- Pasadena
 tags:
 - Los Angeles
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144007/http://www.thethirstypig.com/2009/08/22/polkatots/
 draft: false
+location: Polkatots
+city: Pasadena
+region: Pasadena
 ---
 
 Does Pasadena really need 50 cupcake shops? Will one more really matter? Well, in this case, Polkatots it does. Located far from the trendy part of Pasadena’s Old Town and South Lake shopping area. Polkatots is north of the 210 hidden in the back of a little mini mall.

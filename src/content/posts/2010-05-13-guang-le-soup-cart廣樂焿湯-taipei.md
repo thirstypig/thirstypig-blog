@@ -6,11 +6,15 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
 categories:
 - Da-an
+- Taipei
 tags:
 - Tofu
 description: street cart Stinky Tofu
 archiveUrl: https://web.archive.org/web/20161105232239/http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
 draft: false
+location: Guang Le Soup Cart廣樂焿湯
+city: Taipei
+region: Taipei
 ---
 
 [![img_1977](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1977.jpg?resize=403%2C302 "img_1977")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1977-2/)

@@ -11,9 +11,14 @@ categories:
 - Duck
 - Lunch
 - Price Range $/¥/NT
+- Shanghai
 description: Xiao San Tang is a nice little cafe with a Chinese menu with a touch of whimsy, a western ideal, and just the right amount of elegances.
 archiveUrl: https://web.archive.org/web/20111104114517/http://www.thethirstypig.com/2011/08/08/xiao-san-tang-shanghai/
 draft: false
+location: Xiao San Tang
+city: Shanghai
+region: Shanghai
+address: 25 TaiKang Rd
 ---
 
 Xiao San Tang is a nice little cafe with a Chinese menu with a touch of whimsy, a western ideal, and just the right amount of elegances.

@@ -18,6 +18,11 @@ tags:
 - sgv
 - yum
 description: Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena. Unfortunately, I had to share. 😩😎 . . .
+location: Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena](/images/posts/ig-2019-02-09-pumpkin-pie-cheesecake-ice-cream-from-coolhaus-pasadena/18024247093078020.jpg)

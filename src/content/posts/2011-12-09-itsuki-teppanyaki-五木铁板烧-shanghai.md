@@ -10,11 +10,15 @@ categories:
 - Japanese
 - Xuhui
 - 2 pigs
+- Shanghai
 tags:
 - Japanese
 description: Itsuki is an all you can eat Japanese Teppanyaki/BBQ restaurant. Located in the Donghu hotel, they have a pretty good deal for 150 RMB, which also includes all you can drink alcohol included. For beef
 archiveUrl: https://web.archive.org/web/20161105221134/http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/
 draft: false
+location: Itsuki Teppanyaki 五木铁板烧
+city: Shanghai
+region: Shanghai
 ---
 
 [![wu-mu-japanese-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-02.jpg?resize=234%2C175 "wu-mu-japanese-shanghai-02")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-02/)

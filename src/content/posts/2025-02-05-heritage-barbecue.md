@@ -20,6 +20,7 @@ tags:
 - thirstypig
 - tastemakersapp
 description: Heritage Barbecue. We went here last year and I had forgotten to post this. We had plans a couple of weeks before, which had me thinking about it almost every day. I had heard about Heritage from frie
+location: Heritage Barbecue
 ---
 
 ![Heritage Barbecue](/images/posts/ig-2025-02-05-heritage-barbecue/18055992724856086.jpg)

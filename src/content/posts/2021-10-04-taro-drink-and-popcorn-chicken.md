@@ -15,6 +15,7 @@ tags:
 - thirstypig
 - milktea
 description: Taro drink and popcorn chicken. Way too spicy for me . . . . .
+location: Taro drink and popcorn chicken
 ---
 
 ![Taro drink and popcorn chicken](/images/posts/ig-2021-10-04-taro-drink-and-popcorn-chicken/17922266512819162.jpg)

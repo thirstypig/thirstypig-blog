@@ -18,6 +18,7 @@ tags:
 - baseball
 - dodgerdogs
 description: Dodger game. Watching an almost no-hitter by future all-star Tyler Anderson broken up by MVP Shohei Ohtani in the ninth. Had a grilled Dodger Dog - yum! Had a and it was tasty! . . . .
+location: Dodger game
 ---
 
 ![Dodger game](/images/posts/ig-2022-06-16-dodger-game/17928576734357005.jpg)

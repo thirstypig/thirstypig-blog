@@ -33,4 +33,5 @@ tags:
 description: Glamor is a universal feeling that people naturally desire. From Hollywood celebrities, to the Hampton debutantes, the plush Marquee maintains this mantle in Taipei.
 archiveUrl: https://web.archive.org/web/20110105125528/http://www.thethirstypig.com/2010/07/01/marquee-taipei/
 draft: false
+location: Marquee of Taipei
 ---

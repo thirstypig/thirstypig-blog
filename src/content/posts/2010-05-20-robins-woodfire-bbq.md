@@ -22,4 +22,5 @@ tags:
 description: The Bodacious “Que” Stacker is the barbecue sandwich to end all barbecue sandwiches. With pulled pork, tri tip, and a hot link, all smothered with sauce and pepperjack cheese, you can’t possibly go wr
 archiveUrl: https://web.archive.org/web/20110106051254/http://www.thethirstypig.com/2010/05/20/robins-woodfire-bbq/
 draft: false
+location: Robin’s Woodfire BBQ of Pasadena
 ---

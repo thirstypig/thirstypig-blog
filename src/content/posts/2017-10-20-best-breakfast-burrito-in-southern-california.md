@@ -17,6 +17,7 @@ tags:
 - thirstypig
 - luckyboypasadena
 description: Best Breakfast Burrito in Southern California. Better than Lucky Boy. It’s all about the potato’s.
+location: Best Breakfast Burrito in Southern California
 ---
 
 ![Best Breakfast Burrito in Southern California](/images/posts/ig-2017-10-20-best-breakfast-burrito-in-southern-california/17891569438111873.jpg)

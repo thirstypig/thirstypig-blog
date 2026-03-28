@@ -13,6 +13,10 @@ tags:
 description: Gotta have the Pastrami . . . What else do you order at a Jewish Deli? The place isn’t cheap, but arguably worth it, at a late hour As a non Jew, I think the food is pretty good, but I am not an exper
 archiveUrl: https://web.archive.org/web/20161214112409/http://thirstypig.com/2016/12/08/canters-deli-hollywood/
 draft: false
+location: Canter’s Deli
+city: Hollywood
+region: Hollywood
+address: 419 N Fairfax Ave Los Angeles, CA 90036
 ---
 
 [![IMG_0669](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0669.jpg?resize=439%2C329 "IMG_0669")](http://thirstypig.com/2016/12/08/canters-deli-hollywood/img_0669/)

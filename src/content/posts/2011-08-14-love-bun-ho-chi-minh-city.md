@@ -12,6 +12,8 @@ tags:
 description: While I was in Ho Chi Minh city, we stumbled across I Love Bun after shopping at Ben Thanh market. How could you resist a place with the name I Love Bun. The modest place seemed like a typical quick s
 archiveUrl: https://web.archive.org/web/20161104195030/http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/
 draft: false
+location: I Love Bún
+city: Ho Chi Minh City
 ---
 
 [![IMG_0442](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/6073493255_4d5285a9be_o.jpg?resize=403%2C302 "IMG_0442")](http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/img_0442-2/)

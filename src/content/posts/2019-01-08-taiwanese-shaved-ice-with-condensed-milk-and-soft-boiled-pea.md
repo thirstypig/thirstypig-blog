@@ -19,6 +19,10 @@ tags:
 - arcadia
 - sgv
 description: Taiwanese shaved ice - with condensed milk and soft boiled peanuts. Strange combination, but one of my secret favorite desserts. Too bad most shaved ice joints only offer preselected combinations. I l
+location: Taiwanese shaved ice
+city: with condensed milk and soft boiled peanuts
+categories:
+- with condensed milk and soft boiled peanuts
 ---
 
 ![Taiwanese shaved ice - with condensed milk and soft boiled peanuts](/images/posts/ig-2019-01-08-taiwanese-shaved-ice-with-condensed-milk-and-soft-boiled-pea/18019464193003441.jpg)

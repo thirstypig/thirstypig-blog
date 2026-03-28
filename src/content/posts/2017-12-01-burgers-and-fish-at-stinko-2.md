@@ -22,6 +22,7 @@ tags:
 - fish
 - onionrings
 description: Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like
+location: Burgers and fish at  Stinko 2
 ---
 
 ![Burgers and fish at  Stinko 2](/images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17850818986216471.jpg)

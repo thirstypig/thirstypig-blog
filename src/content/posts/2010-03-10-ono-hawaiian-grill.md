@@ -22,4 +22,6 @@ tags:
 description: 'I love Hawaiian food – the traditional lau lau, kalua pig, and spam musabi. This hearty cuisine is what makes those big Samoan Hawaiian guys so big for football. And Ono Hawaiian Grill serves up some '
 archiveUrl: https://web.archive.org/web/20110106012127/http://www.thethirstypig.com/2010/03/10/ono-hawaiian-grill/
 draft: false
+location: Ono Hawaiian Grill
+region: San Gabriel Valley
 ---

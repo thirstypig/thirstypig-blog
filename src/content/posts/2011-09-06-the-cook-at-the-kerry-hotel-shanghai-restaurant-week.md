@@ -24,9 +24,14 @@ categories:
 - Dessert
 - hotel
 - Price Range 3 $/¥/NT
+- Shanghai
 description: The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all y
 archiveUrl: https://web.archive.org/web/20111011065910/http://www.thethirstypig.com/2011/09/06/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/
 draft: false
+location: The Cook at the Kerry Hotel
+city: Shanghai
+region: Shanghai
+address: 1388 Hua Mu Road
 ---
 
 The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all you can eat, with distinct cuisine bars, such as Western, Japanese, Italian, Chinese, Cheese, Deli, Noodle, and a great dessert bar.

@@ -14,6 +14,7 @@ images:
 - /images/posts/ig-2017-03-31-the-holy-land/17876112307058295.jpg
 - /images/posts/ig-2017-03-31-the-holy-land/17864207176123832.jpg
 description: The holy land
+location: The holy land
 ---
 
 ![The holy land](/images/posts/ig-2017-03-31-the-holy-land/17876063980021808.jpg)

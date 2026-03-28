@@ -22,4 +22,5 @@ tags:
 description: Holy crap . . . what a find. Did you know that Dino’s has the most yelp burger reviews in Los Angeles, except for Tommy’s? And Dino’s doesn’t even specialize in burgers.
 archiveUrl: https://web.archive.org/web/20110105085647/http://www.thethirstypig.com/2010/03/25/dinos-chicken-and-burgers/
 draft: false
+location: Dino’s Chicken and Burgers
 ---

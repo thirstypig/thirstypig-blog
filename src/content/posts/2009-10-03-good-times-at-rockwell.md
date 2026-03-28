@@ -18,11 +18,15 @@ categories:
 - Los Feliz
 - Lounge
 - 3 pigs
+- Central LA
 tags:
 - LA's Los Feliz
 description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
 archiveUrl: https://web.archive.org/web/20110106014934/http://www.thethirstypig.com/2009/10/03/good-times-at-rockwell/
 draft: false
+location: Good Times at Rockwell
+city: Los Feliz
+region: Central LA
 ---
 
 The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a lounge in the back.

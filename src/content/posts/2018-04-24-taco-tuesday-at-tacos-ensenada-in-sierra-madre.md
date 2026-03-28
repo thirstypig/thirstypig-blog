@@ -19,6 +19,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Taco Tuesday at Tacos Ensenada In Sierra Madre. Fish tacos. I was thinking about reducing my diet of Tilapia. Heard and read a few reports about tilapia not being so good for you. . .
+location: Taco Tuesday at Tacos Ensenada In Sierra Madre
 ---
 
 ![Taco Tuesday at Tacos Ensenada In Sierra Madre](/images/posts/ig-2018-04-24-taco-tuesday-at-tacos-ensenada-in-sierra-madre/17927787835096567.jpg)

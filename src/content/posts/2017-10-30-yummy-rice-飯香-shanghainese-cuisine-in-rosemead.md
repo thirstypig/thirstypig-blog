@@ -25,6 +25,12 @@ tags:
 - fish
 - ç
 description: Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving 蔥油拌麵 scallion oil noodles - so I coerced my family to have Shanghainese food tonight. Yummy Rice (yes it is a funny name) featured a sta
+location: Yummy Rice 飯香
+city: Rosemead
+region: San Gabriel Valley
+categories:
+- Rosemead
+- San Gabriel Valley
 ---
 
 ![Yummy Rice 飯香 - Shanghainese cuisine in Rosemead](/images/posts/ig-2017-10-30-yummy-rice-飯香-shanghainese-cuisine-in-rosemead/17893210189114533.jpg)

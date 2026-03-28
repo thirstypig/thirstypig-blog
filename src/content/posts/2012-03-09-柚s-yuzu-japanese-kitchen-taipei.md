@@ -9,9 +9,13 @@ categories:
 - Japanese
 - Price Range 3 $/¥/NT
 - Sushi
+- Taipei
 description: 'What is 柚’s Yuzu is a Japanese restaurant that also offers sushi. Tucked away in a alley, Yuzu offers a dining experience that takes you away from the hustle and bustle of Taipei. I have to admit, it '
 archiveUrl: https://web.archive.org/web/20120312092201/http://www.thethirstypig.com:80/2012/03/09/%E6%9F%9As-yuzu-japanese-kitchen-taipei/
 draft: false
+location: 柚’s Yuzu Japanese Kitchen
+city: Taipei
+region: Taipei
 ---
 
 **What is 柚’s**

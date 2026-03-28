@@ -18,6 +18,10 @@ tags:
 - tko
 - macaroon
 description: Bouchon Bakery with the humongous macaroons, the T.K.O. the Thomas Keller Oreo, brownie, and croissant. Yum . . . 🥐
+location: Bouchon Bakery with the humongous macaroons
+city: the T
+categories:
+- the T
 ---
 
 ![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17861231473427225.jpg)

@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/
 categories:
 - Luwan
+- Shanghai
 tags:
 - Cantonese
 - Dim Sum
 description: 'I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they '
 archiveUrl: https://web.archive.org/web/20161018084337/http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/
 draft: false
+location: Crystal Jade 翡翠酒家
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3178](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3178.jpg?resize=403%2C302 "img_3178")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3178/)

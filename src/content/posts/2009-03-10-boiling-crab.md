@@ -19,6 +19,8 @@ tags:
 description: After hearing so many positive things about this place. . . I had to try it. My friends all rave about this place with its great Crustacean fare.
 archiveUrl: https://web.archive.org/web/20111103144001/http://www.thethirstypig.com/2009/03/10/boiling-crab/
 draft: false
+location: Boiling Crab
+region: San Gabriel Valley
 ---
 
 After hearing so many positive things about this place. . . I had to try it. My friends all rave about this place with its great Crustacean fare.

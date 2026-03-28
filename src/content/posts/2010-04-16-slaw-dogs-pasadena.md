@@ -12,6 +12,10 @@ tags:
 description: Slaw Dogs opened with much excitement in the blogger and yelp community. In the Los Angeles area, there is Pink’s, Fab Hot Dogs, and now Slaw Dogs. Each of them have similar diverse menus, but serving
 archiveUrl: https://web.archive.org/web/20161105024416/http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/
 draft: false
+location: The Slaw Dogs
+city: Pasadena
+region: Pasadena
+address: 720 N Lake Ave St
 ---
 
 [![img_1444](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1444-1.jpg?resize=403%2C302 "img_1444")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1444-2/)

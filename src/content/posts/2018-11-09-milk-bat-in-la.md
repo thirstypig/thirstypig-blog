@@ -25,6 +25,7 @@ tags:
 - icecream
 - thirstypig
 description: Milk Bat in LA. B’day milk quake, cereal milk, crack pie, thanksgiving croissant. Yum. Finally in LA. . . . .
+location: Milk Bat in LA
 ---
 
 ![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17968935565182840.jpg)

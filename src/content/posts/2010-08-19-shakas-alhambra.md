@@ -28,6 +28,8 @@ images:
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-17-88x88.jpg
 categories:
 - SGV
+- Alhambra
+- San Gabriel Valley
 tags:
 - Breakfast
 - Hawaiian
@@ -35,6 +37,10 @@ tags:
 description: Hawaiian culture and cuisine has been apart of Southern California life in many ways that you might not notice. Obviously, beginning with the beach & surf culture, Hawaiian cuisine has a nice followin
 archiveUrl: https://web.archive.org/web/20161018102042/http://thirstypig.com/2010/08/19/shakas-alhambra/
 draft: false
+location: Shaka’s
+city: Alhambra
+region: San Gabriel Valley
+address: 101 W Main St
 ---
 
 [![shakas-alhambra-ca-08](/images/posts/shakas-alhambra/Shakas-Alhambra-CA-01-370x494.jpg "shakas-alhambra-ca-08")](http://thirstypig.com/2010/08/19/shakas-alhambra/shakas-alhambra-ca-08/)

@@ -15,9 +15,14 @@ categories:
 - Cocktail
 - Price Range $/¥/NT
 - Steak
+- Shanghai
 description: Arguably, the best happy hour on the Pudong side of Shanghai is at Morton’s the Steakhouse at the IFC shopping center. I recently had a chance to sample their great deal – for RMB 38 martini’s and com
 archiveUrl: https://web.archive.org/web/20110817035025/http://www.thethirstypig.com/2011/08/12/happy-hour-at-mortons-the-steakhouse/
 draft: false
+location: Happy Hour at Morton’s the Steakhouse
+city: Shanghai
+region: Shanghai
+address: 8 Century Ave
 ---
 
 Arguably, the best happy hour on the Pudong side of Shanghai is at Morton’s the Steakhouse at the IFC shopping center. I recently had a chance to sample their great deal – for RMB 38 martini’s and complimentary petite filet mignon steak sandwiches. You could also get cosmopolitan, or appletini, or chocolate martini. I know I must have had 4 or 5 of these little sandwiches to go along with my 4 extra dirty vodka martini’s. I don’t consider myself a martini drinker, but if push comes to shove, I’d gladly take an extra dirty one with 3 or 4 olives. The only gripe I had was the smallish size of the green olives, with hand-stuffed blue cheese. I like the big juicy ones.

@@ -8,11 +8,15 @@ categories:
 - 3 pigs
 - Price Range 3 $/¥/NT
 - Sichuanese
+- Shanghai
 tags:
 - Shanghai
 description: 俏江南 South Beauty 上海市静安区延安中路881号, 881 Yan’an Zhong Lu, near Tongren Lu, Shanghaihttp://maps.google.com/maps?f=q&source=sq&hl=en&geocode=&q=south+beauty&aq=&sll=31.222803,121.457441&sspn=0.011781,0.0152
 archiveUrl: https://web.archive.org/web/20110824085005/http://www.thethirstypig.com/2011/05/17/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
 draft: false
+location: South Beauty 俏江南
+city: Shanghai
+region: Shanghai
 ---
 
 俏江南 South Beauty

@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/16/marsalis-home-hotel-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - Bar
 - Lounge
 description: Marsalis, located in the 3rd floor lobby of the Home Hotel, is a Jazz/Whiskey Lounge. The combination of Jazz and Whiskey offers a refiner experience for the discerning.
 archiveUrl: https://web.archive.org/web/20161105011840/http://thirstypig.com/2011/07/16/marsalis-home-hotel-taipei/
 draft: false
+location: Marsalis at Home Hotel
+city: Taipei
+region: Taipei
+address: 90 SongRen Road
 ---
 
 [![marsalis-taipei-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Marsalis-Taipei-02-1.jpg?resize=403%2C302 "marsalis-taipei-02")](http://thirstypig.com/2011/07/16/marsalis-home-hotel-taipei/marsalis-taipei-02-2/)

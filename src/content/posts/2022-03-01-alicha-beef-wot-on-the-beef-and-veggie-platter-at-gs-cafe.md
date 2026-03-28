@@ -22,6 +22,7 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe. Great flavors and different experience having Ethiopian cuisine. Haven’t had it in years. Had the Tej, the sweet honey wine, like mead. I rea
+location: Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe
 ---
 
 ![Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe](/images/posts/ig-2022-03-01-alicha-beef-wot-on-the-beef-and-veggie-platter-at-gs-cafe/17852451575721720.jpg)

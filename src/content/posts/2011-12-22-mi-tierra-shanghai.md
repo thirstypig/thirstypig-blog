@@ -11,9 +11,14 @@ categories:
 - 1 pig
 - Mexican
 - Price Range 2 $/¥/NT
+- Shanghai
 description: I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things t
 archiveUrl: https://web.archive.org/web/20120103162514/http://www.thethirstypig.com/2011/12/22/mi-tierra-shanghai/
 draft: false
+location: Mi Tierra
+city: Shanghai
+region: Shanghai
+address: 17 YongJia Rd
 ---
 
 I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things to do, eat, and people to get in trouble with, is Mexican food. I can’t help it. . .I really like (love) Mexican food. I the spiciness, the fresh salsa, and the tender carnitas. I have this need that I fill at least once a month while in Shanghai ([or Taiwan](http://www.thethirstypig.com/2011/12/15/mayan-grill-taipei/)). Chances are, if there’s a Mexican restaurant to be found/tried in Shanghai, I am going to do it. Though El Mexicano in that food court in Jing’an wasn’t that great. (I am going to have to make a trek to their main location).

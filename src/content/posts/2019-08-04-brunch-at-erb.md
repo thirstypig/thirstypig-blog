@@ -19,6 +19,7 @@ tags:
 - burger
 - shrimpburger
 description: Brunch at ERB . . .
+location: Brunch at ERB
 ---
 
 ![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18045829861175577.jpg)

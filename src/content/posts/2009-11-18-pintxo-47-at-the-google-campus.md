@@ -24,6 +24,8 @@ tags:
 description: A good friend of mine, who works at Google, invited me to have lunch at their main campus recently. She choose Pintxo 47, since this week the menu is inspired by Thomas Keller. Pintxo 47 is the Google
 archiveUrl: https://web.archive.org/web/20110105201024/http://www.thethirstypig.com/2009/11/18/pintxo-47-at-the-google-campus/
 draft: false
+location: Pintxo 47 at the Google Campus
+region: Bay Area
 ---
 
 A good friend of mine, who works at Google, invited me to have lunch at their main campus recently. She choose Pintxo 47, since this week the menu is inspired by Thomas Keller. Pintxo 47 is the Google Cafe that specializes in tapas.

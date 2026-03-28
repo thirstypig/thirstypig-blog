@@ -14,9 +14,13 @@ categories:
 - Brunch
 - Mexican
 - Price Range 2 $/¥/NT
+- Shanghai
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20111103155041/http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-brunch-shanghai/
 draft: false
+location: Boxing Cat Brewery – Sunday Brunch
+city: Shanghai
+region: Shanghai
 ---
 
 Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up early and got to go with a few friends to Kelley Lee’s Boxing Cat Brewery for brunch.

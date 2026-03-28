@@ -12,11 +12,18 @@ categories:
 - Hollywood
 - Hamburgers
 - Late Night
+- The Hungry Cat
 tags:
 - Hollywood
 description: The burger here at the Hungry Cat, known as the Pug Burger, is not a big burger. It’s quite small, in fact. But it is one of the better tasting burgers around. I realize most of these Hollywood, Bever
 archiveUrl: https://web.archive.org/web/20110105154708/http://www.thethirstypig.com/2009/01/02/home-of-the-pug-burger-the-hungry-cat/
 draft: false
+location: Home of the Pug Burger
+city: The Hungry Cat
+region: Hollywood
+address: '1535 Vine St
+
+  Hollywood, CA 90028'
 ---
 
 The burger here at the Hungry Cat, known as the Pug Burger, is not a big burger. It’s quite small, in fact. But it is one of the better tasting burgers around. I realize most of these Hollywood, Beverly Hills, Santa Monica restaurants are all featuring burgers. The one thing they do, to justify the $16 price, is using fancier cheese (like gruyere) and higher quality meat.

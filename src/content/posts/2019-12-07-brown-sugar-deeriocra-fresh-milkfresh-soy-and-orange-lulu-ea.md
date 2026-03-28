@@ -19,6 +19,7 @@ tags:
 - sangabriel
 - drinks
 description: Brown sugar deeriocra (fresh milk/fresh soy) and orange lulu earl grey with orange. The Alley is another chinese or Taiwanese imported boba tea shop. To me they are all the same. Very hard for me to t
+location: Brown sugar deeriocra (fresh milk/fresh soy) and orange lulu earl grey with o...
 ---
 
 ![Brown sugar deeriocra (fresh milk/fresh soy) and orange lulu earl grey with o...](/images/posts/ig-2019-12-07-brown-sugar-deeriocra-fresh-milkfresh-soy-and-orange-lulu-ea/18084039133190158.jpg)

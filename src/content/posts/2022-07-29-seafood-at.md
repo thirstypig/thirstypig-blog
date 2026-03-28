@@ -28,6 +28,7 @@ tags:
 - lobsterroll
 - clams
 description: Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara u
+location: Seafood at
 ---
 
 ![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17843287757817907.jpg)

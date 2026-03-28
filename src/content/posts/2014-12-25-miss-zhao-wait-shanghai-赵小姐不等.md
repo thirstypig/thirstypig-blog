@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
 categories:
 - Luwan District
+- Shanghai
 tags:
 - Crab
 - Seafood
@@ -14,6 +15,9 @@ tags:
 description: 赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish. If you haven’t guesse
 archiveUrl: https://web.archive.org/web/20160523080922/http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
 draft: false
+location: Miss Zhao Does Not Wait for a Seat
+city: Shanghai
+region: Shanghai
 ---
 
 赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish.  If you haven’t guessed, the most interesting thing about this place is the name and the back story.  The owner, a well-known writer, was dating Miss Zhao 赵若虹 whom they later married, and decided to open a restaurant.

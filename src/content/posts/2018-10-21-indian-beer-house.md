@@ -22,6 +22,7 @@ tags:
 - ä
 - é¹½é
 description: Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - thr
+location: Indian Beer House
 ---
 
 ![Indian Beer House](/images/posts/ig-2018-10-21-indian-beer-house/17990659756006741.jpg)

@@ -9,11 +9,15 @@ categories:
 - Chicken
 - Korean
 - Price Range $/¥/NT
+- Seoul
 tags:
 - Seoul 서울
 description: Things I know after visiting Oppadak - Some of the best tasting chicken I have had in a long time. - Baked Chicken is really Yummy - Korean Girls like chicken - Never go outside in late December in Se
 archiveUrl: https://web.archive.org/web/20110114000326/http://www.thethirstypig.com:80/2011/01/12/oppadak-baked-chicken-of-seoul-%EC%98%A4%EB%B9%A0%EB%8B%AD/
 draft: false
+location: Oppadak Baked Chicken of Seoul 오빠닭
+city: Seoul
+region: Seoul
 ---
 
 Things I know after visiting Oppadak

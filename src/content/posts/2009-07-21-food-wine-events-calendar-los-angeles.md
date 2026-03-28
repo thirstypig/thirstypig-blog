@@ -6,9 +6,13 @@ source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/07/21/food-wine-events-calendar-los-angeles/
 categories:
 - Uncategorized
+- Los Angeles
 description: 'Here is a list of the Food & Wine Events in and around Los Angeles. I know some of them have past . . .but you can check for them next year as well. These are some of the events that I plan to attend '
 archiveUrl: https://web.archive.org/web/20110106015300/http://www.thethirstypig.com/2009/07/21/food-wine-events-calendar-los-angeles/
 draft: false
+location: Food & Wine Events Calendar Los Angeles
+city: Los Angeles
+address: 2107 Westwood Blvd. Los Angeles, CA 90025
 ---
 
 Here is a list of the Food & Wine Events in and around Los Angeles. I know some of them have past . . .but you can check for them next year as well. These are some of the events that I plan to attend or have attended.

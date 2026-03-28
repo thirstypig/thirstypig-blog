@@ -17,6 +17,7 @@ tags:
 - fries
 - shotoniphone
 description: Cheeseburger and fries from pretty good burger. Fries were a bit dry - but that’s me being picky. I don’t know five guys doesn’t get much respect - all I hear is and And Sucks
+location: Cheeseburger and fries from  pretty good burger
 ---
 
 ![Cheeseburger and fries from  pretty good burger](/images/posts/ig-2017-11-04-cheeseburger-and-fries-from-pretty-good-burger/17906689483029357.jpg)

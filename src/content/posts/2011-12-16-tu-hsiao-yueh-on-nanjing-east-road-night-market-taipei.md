@@ -8,9 +8,13 @@ categories:
 - 2 pigs
 - Price Range $/¥/NT
 - Taiwanese
+- Taipei
 description: A few months ago, I wrote about Tu Hsiao Yuehhttp://www.thethirstypig.com/2010/06/02/tu-hsiao-yueh-taipei/, the original from Tainan. I found this knock off copy cat at a little night market in Taipei
 archiveUrl: https://web.archive.org/web/20120116091203/http://www.thethirstypig.com:80/2011/12/16/tu-hsiao-yueh-on-nanjing-east-road-night-market-taipei/
 draft: false
+location: Tu Hsiao Yueh on Nanjing East Road Night Market
+city: Taipei
+region: Taipei
 ---
 
 A few months ago, I wrote about [Tu Hsiao Yueh](http://www.thethirstypig.com/2010/06/02/tu-hsiao-yueh-taipei/), the original from Tainan. I found this knock off copy cat at a little night market in Taipei near Nanjing East Road. I sort of just stumbled upon it while I was going back to my hotel. I simply asked the taxi driver to find me a place that had good hole-in-the-wall Taiwanese dishes. Sometimes, [**you find some of the best places to eat, by talking to taxi cab drivers**](http://www.thethirstypig.com/2010/09/10/good-grubbing-noodles-found-in-shanghai-at-沪上一家辣肉面馆/). Anyways. . .

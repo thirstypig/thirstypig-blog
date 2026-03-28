@@ -6,11 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/21/rico-rico-shanghai-closed/
 categories:
 - Bund
+- Shanghai
 tags:
 - Spanish
+- closed
 description: Rico Ricohttp://www.ricorico.sh/ 601 Waima rd, Bld 3, Local 114, near zhuhangmatoujie Rd, Shanghai, China +86 21-33300977
 archiveUrl: https://web.archive.org/web/20161104192503/http://thirstypig.com/2012/02/21/rico-rico-shanghai-closed/
 draft: false
+location: Rico Rico
+city: Shanghai
+region: Shanghai
 ---
 
 [![rico-rico-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Rico-Rico-Shanghai-05.jpg?resize=403%2C268 "rico-rico-shanghai-05")](http://thirstypig.com/2012/02/21/rico-rico-shanghai-closed/rico-rico-shanghai-05/)

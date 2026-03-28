@@ -28,6 +28,7 @@ tags:
 - thirstypig
 - driftwoodart
 description: Sculptures TIL a lot about the most well know Japanese American Sculpture. He volunteered to be interned during WWII. Amazing museum about an amazing man.
+location: Sculptures  TIL a lot about the most well know Japanese American Sculpture
 ---
 
 ![Sculptures  TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17911166575070552.jpg)

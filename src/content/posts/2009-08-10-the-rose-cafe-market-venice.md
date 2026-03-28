@@ -15,11 +15,16 @@ categories:
 - West LA
 - Dessert
 - Sandwich
+- Venice
+- Westside
 tags:
 - West LA
 description: I found The Rose Cafe through their yummy Lemon Hazelnut Meringue. But this trek, started years ago – over 15 years ago, when I first had the dessert in Pasadena. The Old Town Bakery, had a terrific d
 archiveUrl: https://web.archive.org/web/20110106020348/http://www.thethirstypig.com/2009/08/10/the-rose-cafe-market-venice/
 draft: false
+location: The Rose Cafe & Market
+city: Venice
+region: Westside
 ---
 
 I found The Rose Cafe through their yummy Lemon Hazelnut Meringue. But this trek, started years ago – over 15 years ago, when I first had the dessert in Pasadena. The Old Town Bakery, had a terrific dessert offering, which featured the Meringue. Then a couple years later, they unfortunately closed. So, for a few years, I was without my favorite dessert. Later, I found out that the dessert had moved to Santa Monica, somewhere on Montana Avenue, though the restaurant’s name escapes me. Luckily, I was able to savory it once more. But then I found out later, that they, too, had closed down soon after. I was beginning to feel that I was cursed or the dessert was cursed. Then, a few years ago, I found the delicious cake (but not sure what to call it) at Maria’s Italian Kitchen. I saw the picture and everything, but when I tried to order it, they told me that they no longer had it. Just when I was about to give up hope a couple of years ago, I was dreaming about food and desserts, I decided to google the name once more. Viola! Venice! The Lemon Hazelnut Meringue had found a new home – The Rose Cafe, on Main Street.

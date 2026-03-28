@@ -21,6 +21,11 @@ tags:
 - healthy
 - vegetarian
 description: Lunch with classmates in Old Town Pasadena. Trying to be healthy - so we decided on Sage Bistro - vegan cuisine. Awesome space with a nice outdoor patio. I remember this space was brewery when it firs
+location: Lunch with classmates in Old Town Pasadena
+city: Pasadena
+region: Pasadena
+categories:
+- Pasadena
 ---
 
 ![Lunch with classmates in Old Town Pasadena](/images/posts/ig-2023-08-11-lunch-with-classmates-in-old-town-pasadena/18276612235144880.jpg)

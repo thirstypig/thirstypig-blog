@@ -19,11 +19,15 @@ categories:
 - 0 pigs
 - Price Range 2 $/¥/NT
 - Thai
+- Shanghai
 tags:
 - French Concession 上海法租界
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20110104165901/http://www.thethirstypig.com/2010/12/20/tai-thai-at-tianzifang-shanghai/
 draft: false
+location: Tai Thai 太泰 at Tianzifang
+city: Shanghai
+region: Shanghai
 ---
 
 First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to get pique your interest.

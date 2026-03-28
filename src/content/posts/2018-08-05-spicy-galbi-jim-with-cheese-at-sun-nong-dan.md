@@ -16,6 +16,7 @@ tags:
 - jgold
 - thirstypig
 description: Spicy Galbi Jim with Cheese at Sun Nong Dan. With a couple of soups. . . . .
+location: Spicy Galbi Jim with Cheese at Sun Nong Dan
 ---
 
 ![Spicy Galbi Jim with Cheese at Sun Nong Dan](/images/posts/ig-2018-08-05-spicy-galbi-jim-with-cheese-at-sun-nong-dan/17951654788116613.jpg)

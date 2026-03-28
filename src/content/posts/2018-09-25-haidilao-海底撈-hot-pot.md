@@ -17,6 +17,7 @@ tags:
 - haidilao
 - noodles
 description: Haidilao 海底撈 hot pot! With the famous noodle dance performance. Happy moon festival 🌙 . . . . .
+location: Haidilao 海底撈 hot pot
 ---
 
 ![Haidilao 海底撈 hot pot](/images/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17981502436060971.jpg)

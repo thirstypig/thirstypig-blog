@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/16/bottega-louie-dtla/
 categories:
 - Dtla
+- Downtown LA
 tags:
 - Brunch
 - Dtla
@@ -14,6 +15,10 @@ tags:
 description: 'Perhaps I should have made a few more visits to Bottega Louie, but with the suggestion of some friends, I knew I had to visit this place. The space occupies a prime 1st floor space on a corner in the '
 archiveUrl: https://web.archive.org/web/20160829110429/http://thirstypig.com/2010/03/16/bottega-louie-dtla/
 draft: false
+location: Bottega Louie
+city: Dtla
+region: Downtown LA
+address: 700 S Grand Ave Los Angeles, CA 90017
 ---
 
 [![IMG_0780](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0780-1.jpg?resize=423%2C317 "IMG_0780")](http://thirstypig.com/2010/03/16/bottega-louie-dtla/img_0780-2/)

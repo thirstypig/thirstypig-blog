@@ -19,6 +19,7 @@ tags:
 - bloodymary
 - fundaysaturday
 description: Pork Sandwich and Bloody Mary I haven’t had it in a long time. Was way better than expected. I liked the bread with the slight crunchy and crispness, chewy. The dip was deal with this chewy bread. The
+location: Pork Sandwich and Bloody Mary  I haven’t had it in a long time
 ---
 
 ![Pork Sandwich and Bloody Mary  I haven’t had it in a long time](/images/posts/ig-2017-12-09-pork-sandwich-and-bloody-mary-i-havent-had-it-in-a-long-time/17887204810191962.jpg)

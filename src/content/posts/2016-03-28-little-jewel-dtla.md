@@ -6,12 +6,18 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/03/28/little-jewel-dtla/
 categories:
 - Chinatown
+- Dtla
+- Downtown LA
 tags:
 - Cajun
 - Sandwich
 description: Market & Restaurant featuring Cajun/Creole sandwiches and foods Sandwiches, Muffulettas, and Po’boys Must order the epic Crawfish Mac N Cheese Their dessert lineup looks unique, unlike anything else i
 archiveUrl: https://web.archive.org/web/20161019103253/http://thirstypig.com/2016/03/28/little-jewel-dtla/
 draft: false
+location: Little Jewel
+city: Dtla
+region: Downtown LA
+address: 207 Ord St Los Angeles, CA 90012
 ---
 
 [![IMG_3299](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3299.jpg?resize=199%2C266 "IMG_3299")](http://thirstypig.com/2016/03/28/little-jewel-dtla/img_3299/)

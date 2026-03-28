@@ -6,11 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/
 categories:
 - Xuhui
+- Shanghai
 tags:
 - Mexican
+- closed
 description: I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things t
 archiveUrl: https://web.archive.org/web/20161104230941/http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/
 draft: false
+location: Mi Tierra
+city: Shanghai
+region: Shanghai
+address: 17 YongJia Rd
 ---
 
 [![mi-tierra-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-01.jpg?resize=403%2C302 "mi-tierra-shanghai-01")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-01/)

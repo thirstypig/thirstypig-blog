@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
 categories:
 - Hollywood
+- Los Angeles
 tags:
 - Bar
 - Burgers
@@ -13,6 +14,10 @@ tags:
 description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
 archiveUrl: https://web.archive.org/web/20161106094719/http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
 draft: false
+location: Rockwell Table & Stage
+city: Los Angeles
+region: Hollywood
+address: 1714 N. Vermont Ave Los Angeles, CA 90027
 ---
 
 [![img_0926](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0926.jpg?resize=222%2C166 "img_0926")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0926-2/)

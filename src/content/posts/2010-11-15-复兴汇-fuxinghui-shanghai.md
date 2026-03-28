@@ -29,11 +29,16 @@ categories:
 - 2 pigs
 - Price Range 3 $/¥/NT
 - Shanghainese
+- Shanghai
 tags:
 - Shanghai 上海
 description: Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.
 archiveUrl: https://web.archive.org/web/20110105103758/http://www.thethirstypig.com/2010/11/15/%e5%a4%8d%e5%85%b4%e6%b1%87-fuxinghui-shanghai/
 draft: false
+location: 复兴汇 Fuxinghui Shanghai
+city: Shanghai
+region: Shanghai
+address: 1479 Middle Fuxing Road
 ---
 
 Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.

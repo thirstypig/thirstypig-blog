@@ -27,6 +27,10 @@ tags:
 - brisket
 - maztoballsoup
 description: 'Sandwiches we had the brisket, corned beef, and pastrami. With the chicken noodle and matzo ball soups. Without the mustard the brisket was quite dry. The corned beef wasn’t as tender as it could be. '
+location: Sandwiches  we had the brisket, corned beef
+city: and pastrami
+categories:
+- and pastrami
 ---
 
 ![Sandwiches  we had the brisket, corned beef, and pastrami](/images/posts/ig-2017-12-29-sandwiches-we-had-the-brisket-corned-beef-and-pastrami/17858460205206311.jpg)

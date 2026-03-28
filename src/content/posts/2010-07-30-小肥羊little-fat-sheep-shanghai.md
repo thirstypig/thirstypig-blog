@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/
 categories:
 - Pudong
+- Shanghai
 tags:
 - Chinese 2
 - Hot Pot
 description: Lamb is a main staple of many westerner Chinese. With roots from Mongolia and south west China, Little Sheep brings a family style hot pot cuisine. Some Americans are non-receptive to lamb, because of
 archiveUrl: https://web.archive.org/web/20161018102051/http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/
 draft: false
+location: 小肥羊Little Fat Sheep
+city: Shanghai
+region: Shanghai
 ---
 
 [![img_3432](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3432.jpg?resize=234%2C175 "img_3432")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3432/)

@@ -25,6 +25,11 @@ tags:
 - nightmarketsong
 - thirstypig
 description: Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the wa
+location: Night+Market
+city: Hollywood
+region: Hollywood
+categories:
+- Hollywood
 ---
 
 ![Night+Market](/images/posts/ig-2021-06-14-nightmarket/17891205173108412.jpg)

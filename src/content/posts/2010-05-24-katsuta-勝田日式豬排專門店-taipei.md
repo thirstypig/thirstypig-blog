@@ -6,12 +6,16 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/
 categories:
 - Songshan
+- Taipei
 tags:
 - Japanese
 - Pork
 description: Katsuta is a small Japanese Curry House that only locals in the nearby neighborhood would know about. They specialize in pork cutlet with their special curry sauce.
 archiveUrl: https://web.archive.org/web/20161106034145/http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/
 draft: false
+location: Katsuta 勝田日式豬排專門店
+city: Taipei
+region: Taipei
 ---
 
 [![img_2230](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2230.jpg?resize=403%2C302 "img_2230")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2230-2/)

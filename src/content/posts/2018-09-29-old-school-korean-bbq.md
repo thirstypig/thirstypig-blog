@@ -18,6 +18,7 @@ tags:
 - thirstypig
 - beefrib
 description: Old school Korean BBQ. Haven’t been here in ages - over 25 years. Had the premium rib and the Yu Ki Jang. . . . .
+location: Old school Korean BBQ
 ---
 
 ![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17876924110276574.jpg)

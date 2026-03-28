@@ -18,6 +18,10 @@ tags:
 - thirstypig
 - hazelleophoebe
 description: Pizza and pasta at Thai chicken pizza, an old favorite. Spaghetti bolognese and Penna with sun dried tomatoes.
+location: Pizza and pasta at   Thai chicken pizza
+city: an old favorite
+categories:
+- an old favorite
 ---
 
 ![Pizza and pasta at   Thai chicken pizza, an old favorite](/images/posts/ig-2017-12-02-pizza-and-pasta-at-thai-chicken-pizza-an-old-favorite/17884880566147779.jpg)

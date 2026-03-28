@@ -19,6 +19,10 @@ tags:
 - restaurant
 - ewwww
 description: pork belly, chicken karage, and fried beets was great as was the spicy chicken karage (Thai style). The beets had good texture and subtle flavor. Could do without the aioli. Too many ants on the picni
+location: pork belly, chicken karage
+city: and fried beets   was great as was the spicy chic...
+categories:
+- and fried beets   was great as was the spicy chic...
 ---
 
 ![pork belly, chicken karage, and fried beets   was great as was the spicy chic...](/images/posts/ig-2017-06-02-pork-belly-chicken-karage-and-fried-beets-was-great-as-was-t/17883489826057272.jpg)

@@ -9,6 +9,7 @@ images:
 - /images/posts/five-star-hainanese-chicken-rice-五星海南鸡饭-shanghai/IMG_1257.jpg
 categories:
 - Jingan District
+- Shanghai
 tags:
 - Chicken
 - Hainan
@@ -16,6 +17,9 @@ tags:
 description: Solid Hainan chicken. I like it. Might be the best in Shanghai I am not Singaporean, so I am not an expert Gets crowded fast. Queue form up quickly at lunchtime There is a good parking lot about a 5 m
 archiveUrl: https://web.archive.org/web/20160915042600/http://thirstypig.com/2014/06/14/five-star-hainanese-chicken-rice-%e4%ba%94%e6%98%9f%e6%b5%b7%e5%8d%97%e9%b8%a1%e9%a5%ad-shanghai/
 draft: false
+location: Five Star Hainanese Chicken Rice 五星海南鸡饭
+city: Shanghai
+region: Shanghai
 ---
 
 [![IMG_2502](/images/posts/five-star-hainanese-chicken-rice-五星海南鸡饭-shanghai/IMG_1257.jpg "IMG_2502")](http://thirstypig.com/2014/06/14/five-star-hainanese-chicken-rice-%e4%ba%94%e6%98%9f%e6%b5%b7%e5%8d%97%e9%b8%a1%e9%a5%ad-shanghai/img_2502/)

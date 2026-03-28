@@ -11,6 +11,7 @@ tags:
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161105020926/http://thirstypig.com/2011/10/06/huangshans-old-street-%e9%bb%83%e5%b1%b1%e8%80%81%e8%a1%97/
 draft: false
+location: Huangshan’s Old Street 黃山老街
 ---
 
 [![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Old-Street-Market-81.jpg?resize=380%2C507 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/huangshans-old-street-%e9%bb%83%e5%b1%b1%e8%80%81%e8%a1%97/olympus-digital-camera-108/)

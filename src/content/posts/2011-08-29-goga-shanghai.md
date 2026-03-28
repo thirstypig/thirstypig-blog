@@ -21,9 +21,13 @@ categories:
 - American
 - Hamburgers
 - Price Range 2 $/¥/NT
+- Shanghai
 description: The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine cul
 archiveUrl: https://web.archive.org/web/20111011065029/http://www.thethirstypig.com/2011/08/29/goga-shanghai/
 draft: false
+location: Goga
+city: Shanghai
+region: Shanghai
 ---
 
 The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine culinary dining from Japan, Italy, France, as well as regional Chinese and with Goga, we see (and taste) decent American food.

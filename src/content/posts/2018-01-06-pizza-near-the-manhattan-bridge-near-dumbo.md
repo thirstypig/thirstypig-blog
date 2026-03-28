@@ -16,6 +16,7 @@ tags:
 - manhattanbridge
 - frontstreetpizza
 description: Pizza near the Manhattan Bridge near DUMBO. We paid over $2 a slice. “Never pay more than a buck”.
+location: Pizza near the Manhattan Bridge near DUMBO
 ---
 
 ![Pizza near the Manhattan Bridge near DUMBO](/images/posts/ig-2018-01-06-pizza-near-the-manhattan-bridge-near-dumbo/17889135397162611.jpg)

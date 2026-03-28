@@ -23,6 +23,7 @@ tags:
 - sushi
 - spicytunaroll
 description: Happy Hour at RA Sushi Bar Restaurant. Uni Sea Urchin. . . . . .
+location: Happy Hour at RA Sushi Bar Restaurant
 ---
 
 ![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17958732574063545.jpg)

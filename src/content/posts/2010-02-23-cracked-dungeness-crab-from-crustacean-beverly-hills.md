@@ -27,9 +27,13 @@ categories:
 - West LA
 - $$$
 - 3 pigs
+- Westside
 tags:
 - West LA
 description: Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us reme
 archiveUrl: https://web.archive.org/web/20110105031501/http://www.thethirstypig.com/2010/02/23/cracked-dungeness-crab-from-crustacean-beverly-hills/
 draft: false
+location: Cracked Dungeness Crab from Crustacean Beverly Hills
+city: West LA
+region: Westside
 ---

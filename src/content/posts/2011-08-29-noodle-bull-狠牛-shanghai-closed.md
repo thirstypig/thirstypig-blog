@@ -6,12 +6,17 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/
 categories:
 - Jingan
+- Shanghai
 tags:
 - Noodles
 - Taiwanese
+- closed
 description: Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full
 archiveUrl: https://web.archive.org/web/20161104232542/http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/
 draft: false
+location: Noodle Bull 狠牛
+city: Shanghai
+region: Shanghai
 ---
 
 [![noodle-bull-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-08.jpg?resize=403%2C302 "noodle-bull-shanghai-08")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-08/)

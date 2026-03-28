@@ -27,6 +27,7 @@ tags:
 - ducksoup
 - lunch
 description: Roast duck at Silk Place. It was pretty good. The duck skin wrapped rice with cheese was something I never had - it will be quite memorable. The standard duck in green crepe skin was familiar, yet had
+location: Roast duck at Silk Place
 ---
 
 ![Roast duck at Silk Place](/images/posts/ig-2024-04-24-roast-duck-at-silk-place/18016890218261686.jpg)

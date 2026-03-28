@@ -6,6 +6,7 @@ source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/
 categories:
 - Xinyi
+- Taipei
 tags:
 - American
 - Bbq
@@ -13,6 +14,9 @@ tags:
 description: 'My first experience at Chili’s was in high school, in Southern California. Back then, it was such a cool experience, different from fast food joints we were used to. Chili’s was the first type of sit '
 archiveUrl: https://web.archive.org/web/20161106105408/http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/
 draft: false
+location: Chili’s Grill and Bar
+city: Taipei
+region: Taipei
 ---
 
 [![img_2395](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2395.jpg?resize=403%2C302 "img_2395")](http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/img_2395/)

@@ -11,6 +11,9 @@ tags:
 description: 'Dim sum is Cantonese for desserts 點心 or 点心. This was evolved from Yum Chahttp://en.wikipedia.org/wiki/Dimsum – 飲茶 or to drink tea. In the olden days, travelers on the silk road and field labors would '
 archiveUrl: https://web.archive.org/web/20161019153950/http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/
 draft: false
+location: Che’s Cantonese Restaurant 車氏粵菜軒
+city: Wan Chai
+address: 62 Lockhart Road
 ---
 
 [![ches-cantonese-restaurant-hong-kong-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-05.jpg?resize=403%2C302 "ches-cantonese-restaurant-hong-kong-05")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-05/)

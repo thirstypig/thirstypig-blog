@@ -13,6 +13,7 @@ tags:
 - oleego
 - korean
 description: Grilled Shrimp bowl from says the grilled shrimp was really good.
+location: Grilled Shrimp bowl from    says the grilled shrimp was really good
 ---
 
 ![Grilled Shrimp bowl from    says the grilled shrimp was really good](/images/posts/ig-2017-11-04-grilled-shrimp-bowl-from-says-the-grilled-shrimp-was-really/17847279019212817.jpg)

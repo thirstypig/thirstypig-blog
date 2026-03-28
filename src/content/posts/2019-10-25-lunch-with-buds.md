@@ -22,6 +22,7 @@ tags:
 - fridays
 - tgif
 description: Lunch with buds. Plan Check’s patty melt, burger, and asian salad. Yum! . . . .
+location: Lunch with buds
 ---
 
 ![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/18027537859236087.jpg)

@@ -18,6 +18,7 @@ tags:
 - chicken
 - pork
 description: Braised pork over rice and fried chicken leg over rice. Classic Taiwanese dishes. Yum. 滷肉飯 and 雞腿飯. . . . .
+location: Braised pork over rice and fried chicken leg over rice
 ---
 
 ![Braised pork over rice and fried chicken leg over rice](/images/posts/ig-2021-05-13-braised-pork-over-rice-and-fried-chicken-leg-over-rice/18181546918108778.jpg)

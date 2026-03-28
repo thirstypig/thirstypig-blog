@@ -25,6 +25,8 @@ tags:
 description: Old Country Cafe, also known as 老鄉親, has been serving Taiwanese comfort dishes for almost two decades, maybe longer. Anyways. . . I love this place.
 archiveUrl: https://web.archive.org/web/20110105231945/http://www.thethirstypig.com/2009/10/04/taiwanese-favorites-from-old-country-cafe/
 draft: false
+location: Taiwanese Favorites from Old Country Cafe
+region: San Gabriel Valley
 ---
 
 Old Country Cafe, also known as 老鄉親, has been serving Taiwanese comfort dishes for almost two decades, maybe longer. Anyways. . . I love this place.

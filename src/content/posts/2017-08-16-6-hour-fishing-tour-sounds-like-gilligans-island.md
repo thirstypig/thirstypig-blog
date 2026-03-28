@@ -20,6 +20,10 @@ tags:
 - mackerel
 - sportfishing
 description: 6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to c
+location: 6 hour fishing tour
+city: sounds like Gilligan’s Island
+categories:
+- sounds like Gilligan’s Island
 ---
 
 ![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17868971677179565.jpg)

@@ -19,4 +19,5 @@ tags:
 description: 'Excellent view. Creative plating. This is a perfect ladies’ lunch spot. Complimentary consumme and fresh baked popovers to whet your appetite. I sent back the day’s “special,” because they overcooked '
 archiveUrl: https://web.archive.org/web/20110831194927/http://www.thethirstypig.com/2009/06/20/mariposa-of-neiman-marcus/
 draft: false
+location: Mariposa of Neiman Marcus
 ---
