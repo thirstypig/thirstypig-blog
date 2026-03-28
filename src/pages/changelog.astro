@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Changelog" description="History of updates to The Thirsty Pig blog.">
+	<section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Changelog</h1>
+		<p class="text-stone mb-10">A history of updates to this site.</p>
+
+		<div class="prose max-w-none">
+
+			<h2>March 2026 — The Rebuild</h2>
+
+			<h3>March 28 — Features & Polish</h3>
+			<ul>
+				<li><strong>Search</strong> — Added client-side instant search across all 2,100+ posts</li>
+				<li><strong>Restaurant Map</strong> — Interactive map showing 782 restaurant locations using Leaflet.js and OpenStreetMap</li>
+				<li><strong>Best Of pages</strong> — Curated lists organized by cuisine, type, and region</li>
+				<li><strong>Related Posts</strong> — "You might also enjoy" recommendations on every post, matched by city, cuisine, and category</li>
+				<li><strong>Closed restaurant badges</strong> — 39 closed restaurants detected and marked with CLOSED badge and grayscale thumbnail</li>
+				<li><strong>Restaurant categorization</strong> — Extracted restaurant names (1,649), cities (1,034), and regions (810) from post content</li>
+				<li><strong>Image optimization</strong> — All 7,503 images converted to WebP format (40% size reduction)</li>
+			</ul>
+
+			<h3>March 27 — Content Import</h3>
+			<ul>
+				<li><strong>Instagram import</strong> — 1,649 posts imported from Instagram data export, including 4,664 images and 213 videos</li>
+				<li><strong>Thirsty Pig logo</strong> — Added the pig-with-beer logo to header and footer</li>
+				<li><strong>Social media links</strong> — Instagram, X, Facebook, TikTok, YouTube, and Vimeo links in footer</li>
+				<li><strong>WordPress cleanup</strong> — Removed AKPC, Popularity, AddToAny, and LinkWithin plugin remnants from 900+ posts</li>
+				<li><strong>Tina CMS</strong> — Added configuration for visual content editing at /admin</li>
+				<li><strong>GitHub + Vercel</strong> — Repository pushed to GitHub, deployed to Vercel with custom domain</li>
+				<li><strong>DNS setup</strong> — thirstypig.com (primary), thethirstypig.com (redirect), and www variants configured</li>
+			</ul>
+
+			<h3>March 26 — Foundation</h3>
+			<ul>
+				<li><strong>Wayback Machine scraper</strong> — Built Python scraper to recover content from three archived domains</li>
+				<li><strong>Content recovery</strong> — 1,166 posts fetched, 1,157 parsed, 228 duplicates removed = 923 unique blog posts</li>
+				<li><strong>Image recovery</strong> — 2,846 images recovered across two passes (Wayback Machine + Blogspot CDN + CDX search)</li>
+				<li><strong>Astro site</strong> — Scaffolded with Tailwind CSS v4, Content Collections, sitemap, RSS feed</li>
+				<li><strong>SEO</strong> — Open Graph tags, Twitter Cards, JSON-LD structured data, canonical URLs</li>
+				<li><strong>Pages</strong> — Homepage, post detail, paginated archive, category pages, about page</li>
+			</ul>
+
+			<hr />
+
+			<h2>2017 — Original Blog Ends</h2>
+			<p>
+				Final post published on thirstypig.com in March 2017. Instagram becomes the primary
+				platform for The Thirsty Pig's food content.
+			</p>
+
+			<h2>2013 — Migration to thirstypig.com</h2>
+			<p>
+				Blog migrated from thethirstypig.com to thirstypig.com on WordPress.
+				Content coverage expanded to include restaurants in Shanghai, Taipei, Tokyo,
+				Seoul, Hong Kong, Bangkok, and other international cities.
+			</p>
+
+			<h2>2009 — Migration to WordPress</h2>
+			<p>
+				Blog moved from Blogspot to WordPress at thethirstypig.com. Added categories,
+				tags, a pig rating system, and the Cocktail of the Week series.
+			</p>
+
+			<h2>2008 — The Beginning</h2>
+			<p>
+				The Thirsty Pig launched on Blogspot at blog.thethirstypig.com. First posts
+				covered LA dining favorites, Korean BBQ, ramen, and the emerging food truck scene.
+			</p>
+
+		</div>
+
+		<p class="mt-10">
+			<a href="/about" class="text-sm text-amber hover:text-rust no-underline">&larr; Back to About</a>
+		</p>
+	</section>
+</BaseLayout>

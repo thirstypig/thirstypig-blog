@@ -39,3 +39,6 @@ scripts/scraper/data/posts_with_images.json
 scripts/instagram/data/media/
 scripts/instagram/data/your_instagram_activity/
 tina/__generated__/
+
+# WebP optimized copies (generated locally, not source content)
+*.webp

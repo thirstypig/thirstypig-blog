@@ -1,26 +1,130 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+const blogPosts = posts.filter(p => ['thirstypig.com', 'thethirstypig.com', 'blog.thethirstypig.com'].includes(p.data.source));
+const igPosts = posts.filter(p => p.data.source === 'instagram');
+const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCase() === 'closed')).length;
 ---
 
-<BaseLayout title="About" description="About The Thirsty Pig - a food, drink, and dining adventure blog.">
+<BaseLayout title="About" description="About The Thirsty Pig - a food, drink, and dining adventure blog since 2007.">
 	<section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
 		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-8">About The Thirsty Pig</h1>
 
 		<div class="prose max-w-none">
 			<p>
+				<strong>Snapshots of the Wet, Savory, & Delectable.</strong>
+			</p>
+
+			<p>
 				The Thirsty Pig is a food, drink, and dining adventure blog that has been exploring
-				restaurants, street food, cocktails, and culinary culture since 2007.
+				restaurants, street food, cocktails, and culinary culture since 2007. From the legendary
+				Hainan Chicken at Savoy Kitchen in the SGV to late-night ramen runs in Little Tokyo,
+				from cocktail experiments to food truck hunts across LA — and culinary adventures in
+				Shanghai, Taipei, Tokyo, Seoul, and beyond — this blog documents it all.
+			</p>
+
+			<h2>The Numbers</h2>
+
+			<ul>
+				<li><strong>{posts.length.toLocaleString()}</strong> total posts</li>
+				<li><strong>{blogPosts.length}</strong> blog posts recovered from the archives (2007-2017)</li>
+				<li><strong>{igPosts.length.toLocaleString()}</strong> Instagram posts imported</li>
+				<li><strong>{closedCount}</strong> restaurants that have since closed</li>
+			</ul>
+
+			<h2>History</h2>
+
+			<p>
+				The Thirsty Pig started in late 2008 on <strong>Blogspot</strong> at
+				<code>blog.thethirstypig.com</code>, documenting dining adventures across
+				Los Angeles and the San Gabriel Valley. The blog quickly grew with restaurant
+				reviews, cocktail-of-the-week features, and dining guides.
 			</p>
 
 			<p>
-				From the legendary Hainan Chicken at Savoy Kitchen in the SGV to late-night ramen runs
-				in Little Tokyo, from cocktail experiments to food truck hunts across LA — this blog
-				documents it all.
+				In 2009, the blog moved to <strong>WordPress</strong> at <code>thethirstypig.com</code>,
+				adding more structure with categories, tags, and a proper theme. By 2011, it had
+				expanded to cover restaurants in Shanghai, Taipei, and other cities around the world.
 			</p>
 
 			<p>
-				Originally published across multiple platforms over the years, this site brings together
-				the complete archive of The Thirsty Pig's culinary adventures, all in one place.
+				Around 2013, the site migrated again to <code>thirstypig.com</code> on WordPress,
+				where it continued publishing through 2017.
+			</p>
+
+			<p>
+				Meanwhile, the <strong>Instagram account</strong> (<a href="https://instagram.com/thirstypig" target="_blank" rel="noopener">@thirstypig</a>)
+				became the primary platform for sharing food adventures, with posts dating back to 2011
+				and continuing to the present day.
+			</p>
+
+			<h2>The Rebuild (2026)</h2>
+
+			<p>
+				In March 2026, the entire Thirsty Pig archive was rebuilt from scratch using modern
+				web technology. Here's where all the content came from:
+			</p>
+
+			<h3>Wayback Machine Recovery</h3>
+			<p>
+				All three original domains had gone offline, but the
+				<a href="https://web.archive.org" target="_blank" rel="noopener">Internet Archive's Wayback Machine</a>
+				had preserved the content. A custom Python scraper was built to:
+			</p>
+			<ul>
+				<li>Query the Wayback Machine's CDX API for all archived URLs across three domains</li>
+				<li>Fetch and parse 1,166 archived HTML pages</li>
+				<li>Extract titles, dates, categories, tags, and body content</li>
+				<li>Convert HTML to Markdown</li>
+				<li>Deduplicate 228 posts that existed on multiple domains</li>
+				<li>Download 2,846 images from Wayback Machine and Blogspot CDN archives</li>
+			</ul>
+
+			<h3>Instagram Import</h3>
+			<p>
+				1,649 Instagram posts were imported from Meta's data export (JSON format), including
+				4,664 images and 213 videos. Posts with missing timestamps were recovered using
+				media-level timestamps and folder date metadata.
+			</p>
+
+			<h3>Restaurant Categorization</h3>
+			<p>
+				An automated categorizer script parsed post titles and content to extract restaurant
+				names, cities, and regions — mapping each to categories like San Gabriel Valley,
+				Downtown LA, Pasadena, Shanghai, and more. 39 permanently closed restaurants were
+				detected and marked.
+			</p>
+
+			<h2>Tech Stack</h2>
+			<ul>
+				<li><strong>Astro</strong> — static site generator (zero JavaScript shipped by default)</li>
+				<li><strong>Tailwind CSS v4</strong> — utility-first styling</li>
+				<li><strong>Tina CMS</strong> — Git-backed visual content editing</li>
+				<li><strong>Vercel</strong> — hosting and deployment</li>
+				<li><strong>Python</strong> — scraper, importer, and categorizer scripts</li>
+				<li><strong>Leaflet.js</strong> — interactive restaurant map</li>
+			</ul>
+
+			<p>
+				The entire site is static — no database, no server-side processing. Every page is
+				pre-built as plain HTML and served from Vercel's global CDN. The site builds
+				{posts.length.toLocaleString()}+ pages in under 60 seconds.
+			</p>
+
+			<h2>Connect</h2>
+			<ul>
+				<li><a href="https://instagram.com/thirstypig" target="_blank" rel="noopener">Instagram</a></li>
+				<li><a href="https://x.com/thirstypig" target="_blank" rel="noopener">X / Twitter</a></li>
+				<li><a href="https://facebook.com/thirstypig" target="_blank" rel="noopener">Facebook</a></li>
+				<li><a href="https://tiktok.com/@thirstypig" target="_blank" rel="noopener">TikTok</a></li>
+				<li><a href="https://youtube.com/@thirstypig" target="_blank" rel="noopener">YouTube</a></li>
+				<li><a href="https://vimeo.com/thirstypig" target="_blank" rel="noopener">Vimeo</a></li>
+			</ul>
+
+			<p class="text-sm text-stone mt-8">
+				<a href="/changelog" class="text-amber hover:text-rust">View the changelog</a> for a detailed history of site updates.
 			</p>
 		</div>
 	</section>
