@@ -19,4 +19,3 @@ draft: false
 ---
 
 Located in the Samcheongdong area of Seoul is 청수정 Cheongsujeong is a little traditional Korean restaurant. They specialize in 반찬 or Banchan. Strangely, most restaurants Korean restaurants will have another main dish as their forte, like for example – tofu, beef, chicken, or what have you.
-AKPC\_IDS += "3285,";

@@ -23,5 +23,3 @@ description: 'Romankan makes a type of sandwich that features a specific type of
 archiveUrl: https://web.archive.org/web/20110106014237/http://www.thethirstypig.com/2010/07/02/katsu-sandwiches-romankan-yokohama-breeze-center-taipei/
 draft: false
 ---
-
-AKPC\_IDS += "1140,";

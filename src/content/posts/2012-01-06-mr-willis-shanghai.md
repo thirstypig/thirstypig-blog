@@ -90,8 +90,6 @@ Rucola Pizza - tomato, mozzarella, Prosciutto crudo, rucola, parmesan - 98 RMB
 
 Grilled zucchini, olives, olive oil
 
-AKPC\_IDS += "6008,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/01/06/mr-willis-shanghai/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/01/06/mr-willis-shanghai/?share=email "Click to email this to a friend")

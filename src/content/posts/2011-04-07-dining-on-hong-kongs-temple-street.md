@@ -34,4 +34,3 @@ The pork chop was a bit tough, gristle is the word that comes to mind. It was gr
 The cool spring night in Hong Kong was perfect for outdoor grubbing. I kept saying how lucky we were to have this great weather. The wonton noodle soup and the fried chow fun noodles are typical Hong Kong dishes.
 
 Good times outside dining in Hong Kong.
-AKPC\_IDS += "4476,";

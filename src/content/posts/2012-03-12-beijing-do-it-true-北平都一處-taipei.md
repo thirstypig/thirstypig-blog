@@ -34,8 +34,6 @@ Price Range 2 $/¥/NT
 No. 506, Section 4, Rén’ài Road, Sinyi District Taipei City, Taiwan 110
 +886 2-2729-7853
 
-AKPC\_IDS += "6415,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/03/12/beijing-do-it-true-%e5%8c%97%e5%b9%b3%e9%83%bd%e4%b8%80%e8%99%95-taipei/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/03/12/beijing-do-it-true-%e5%8c%97%e5%b9%b3%e9%83%bd%e4%b8%80%e8%99%95-taipei/?share=email "Click to email this to a friend")

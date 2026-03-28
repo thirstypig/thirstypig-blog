@@ -34,7 +34,3 @@ Cafe Habana
 New York, NY 10012
 (212) 625-2002
 [ecoeatery.com](http://www.ecoeatery.com/)
-
-AKPC\_IDS += "66,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

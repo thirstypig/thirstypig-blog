@@ -142,7 +142,5 @@ The clown was quite funny
 
 Probably the best Hotel Sunday Champagne Buffet Brunch in Shanghai
 
-AKPC\_IDS += "5247,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/27/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/?share=facebook "Share on Facebook")

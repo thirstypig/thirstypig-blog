@@ -65,5 +65,3 @@ Mac and Cheese. I know why I ordered it. . . yet I would still order it, again. 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-08-494x370.jpg "Kin Shanghai")
 
 The homemade lemon bar. The crusty and sweet graham cracker cuts right through the lemony sourness - great combination. I'm glad I had it, though I didn't have much room in my stomach.
-
-AKPC\_IDS += "4873,";

@@ -14,5 +14,3 @@ draft: false
 ---
 
 
-
-AKPC\_IDS += "6870,";

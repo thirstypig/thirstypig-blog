@@ -156,7 +156,5 @@ Traditional dumpling with sesame
 
 Traditional Red Bean Rice Cake
 
-AKPC\_IDS += "5575,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/10/11/whampoa-club-weekend-brunch-shanghai/?share=facebook "Share on Facebook")

@@ -23,7 +23,3 @@ description: 'I love Hawaiian food – the traditional lau lau, kalua pig, and s
 archiveUrl: https://web.archive.org/web/20110106012127/http://www.thethirstypig.com/2010/03/10/ono-hawaiian-grill/
 draft: false
 ---
-
-AKPC\_IDS += "212,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -32,6 +32,4 @@ I’m not sure if I would visit again, if I had only had a week in Los Angeles. 
 1 Pigs
 Price Range 2 $/¥/NT
 
-AKPC\_IDS += "2128,";
-
 [[Translate]](javascript:show_translate_popup('en', 'post', 2128);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)

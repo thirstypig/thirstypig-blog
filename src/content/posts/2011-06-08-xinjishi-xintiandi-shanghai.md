@@ -106,5 +106,3 @@ Vegetable Soup with Mushrooms. Mushrooms are a big part of Shanghainese, let alo
 ![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-01-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 Chinese broccoli - The requisite vegetable dish
-
-AKPC\_IDS += "2812,";

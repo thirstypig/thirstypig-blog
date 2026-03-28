@@ -156,7 +156,3 @@ iNOMthings
 hungryintaipei
 
 If you have other sites, shows, twitters, or podcasts that I should consider, please let me know.
-
-AKPC\_IDS += "127,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -25,7 +25,3 @@ draft: false
 ---
 
 On a chilly dark November night, an unsuspecting friend was smuggled into the unknown . . . Cav. My friends brought me for some drinks at a downtown SF wine bar called Cav. Nice little place with spray painted decor.
-
-AKPC\_IDS += "171,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

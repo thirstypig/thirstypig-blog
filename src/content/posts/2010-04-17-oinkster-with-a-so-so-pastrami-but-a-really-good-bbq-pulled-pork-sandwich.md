@@ -25,4 +25,3 @@ draft: false
 ---
 
 Slow Fast Food is Oinkster’s mantra for their pastrami, burgers, and fries.
-AKPC\_IDS += "236,";

@@ -21,5 +21,3 @@ Steve B. – Seoul aka [Steve](http://www.blogger.com/profile/084388685045843398
 
 Posts
 01/02/09 [MYUNGDONG: “HaDongGwan”](http://blog.thethirstypig.com/2009/01/myungdong-hadonggwan.html)
-
-AKPC\_IDS += "19,";

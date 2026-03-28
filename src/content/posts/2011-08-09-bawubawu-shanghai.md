@@ -102,5 +102,3 @@ Business Card
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Bawu-Bawu-Shanghai-02-494x369.jpg "Bawu Bawu Shanghai")
 
 The back of the business card with a map. I hope Koreans, in Shanghai, don't hate for revealing this secret Koreatown
-
-AKPC\_IDS += "4836,";

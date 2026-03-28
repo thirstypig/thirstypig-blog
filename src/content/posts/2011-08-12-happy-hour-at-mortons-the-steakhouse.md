@@ -63,5 +63,3 @@ Get there early before 5pm, between Monday through Friday, for outdoor seating. 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghai-Mortons-Happy-Hour-09-494x369.jpg "Shanghai Morton's Happy Hour")
 
 Just like the American original's, Morton's specializes in steaks. This place gets packed fast. Lots of neighboring building empty out around happy hour to head to Morton's, in IFC.
-
-AKPC\_IDS += "4882,";

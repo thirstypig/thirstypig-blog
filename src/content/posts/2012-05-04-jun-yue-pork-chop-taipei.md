@@ -44,5 +44,3 @@ Jun Yue is what it is. It doesn’t try to be more or less. Is it a place where 
 [Tranews](http://0227519783.tw.tranews.com/), [iPeen](http://www.ipeen.com.tw/shop/22209-君悅排骨), [Fashion Guide Blog](http://blog.fashionguide.com.tw/BlogD.asp?Num=32997), [Yuann](http://yuann.tw/?p=2684), [WOM Guide](http://www.womguide.com/meet-the-contributors/simple-pleasures/taipei-food-trek-extraordinaire), [Fu’F Sweet Blog](http://blog.udn.com/fufsweet/4277095), [Where is Kelly Blog](http://whereiskelly.tumblr.com/tagged/taiwan), [Silence 4017 Blog](http://silence4017.pixnet.net/blog/post/24981039-君悅排骨-敦北直營店), [My Paper Blog](http://mypaper.pchome.com.tw/yss167/post/1322794974), [Facebook Listing](https://www.facebook.com/pages/君悅排骨/136719006390809), [Happy Sewing Blog](http://www.wretch.cc/blog/HappySewing/9557136)
 
 **Click on the Pictures below to enlarge**
-
-AKPC\_IDS += "6792,";

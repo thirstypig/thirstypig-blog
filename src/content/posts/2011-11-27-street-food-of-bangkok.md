@@ -11,7 +11,5 @@ archiveUrl: https://web.archive.org/web/20120116091407/http://www.thethirstypig.
 draft: false
 ---
 
-AKPC\_IDS += "5661,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/27/street-food-of-bangkok/?share=facebook "Share on Facebook")

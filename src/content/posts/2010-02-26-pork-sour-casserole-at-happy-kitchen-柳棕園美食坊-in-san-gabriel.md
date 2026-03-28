@@ -25,5 +25,3 @@ description: I’ve been an amateur journalist that eats for some time now. And 
 archiveUrl: https://web.archive.org/web/20110105031038/http://www.thethirstypig.com/2010/02/26/pork-sour-casserole-at-happy-kitchen-%e6%9f%b3%e6%a3%95%e5%9c%92%e7%be%8e%e9%a3%9f%e5%9d%8a-in-san-gabriel/
 draft: false
 ---
-
-AKPC\_IDS += "206,";

@@ -22,6 +22,3 @@ Philippe’s, known as the birthplace of French Dip sandwiches, has been around 
 
 ![](http://1.bp.blogspot.com/_hbnc4cerye8/SYXSfhdvZ7I/AAAAAAAAAX0/PTAMyTThAhM/s320/DSC01213.JPG)
 Pickled Egg
-AKPC\_IDS += "59,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -31,7 +31,3 @@ Santa Monica Peir
 
 <http://www.labbqfest.com/>
 Tickets $10, $50 (VIP)
-
-AKPC\_IDS += "112,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

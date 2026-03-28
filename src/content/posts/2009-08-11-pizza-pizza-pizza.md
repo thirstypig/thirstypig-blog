@@ -23,7 +23,3 @@ Varasano’s blog about his quest for the ultimate pizza is a great read. He tal
 GQ recently had a feature about the top pizzas in the US. They have little snippets about pizzas from Los Angeles, to Arizona, Chicago, and, of course, New York. The US features many different types of pies – including Chicago Deep Dish and New York’s thin crust. This listing is an interesting look at different pizzas across the nation.
 
 This last site – LA Pizza blog, discusses pizza, here in Los Angeles. The site reviews different pizzas all throughout the southland. Its a great resource.
-
-AKPC\_IDS += "122,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

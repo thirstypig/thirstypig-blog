@@ -16,5 +16,3 @@ description: Santoka is located at three locations around L.A. and all are in th
 archiveUrl: https://web.archive.org/web/20110105163319/http://www.thethirstypig.com/2009/04/14/santoka-amazing-ramen/
 draft: false
 ---
-
-AKPC\_IDS += "83,";

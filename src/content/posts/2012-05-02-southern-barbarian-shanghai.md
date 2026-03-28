@@ -34,5 +34,3 @@ Southern Barbarian is a nice choice for a different dining experience. They also
 [China Daily](http://www.chinadaily.com.cn/citylife/2008-04/22/content_6635938_2.htm), [Trip Advisor](http://www.tripadvisor.com/Restaurant_Review-g308272-d948160-Reviews-Southern_Barbarian-Shanghai.html), [CNNGo](http://www.cnngo.com/shanghai/eat/southern-barbarian), [Shanghaiist](http://shanghaiist.com/2007/01/11/wed_kill_to_eat_1.php), [Travel Pod](http://blog.travelpod.com/travel-blog-entries/sanjon/4/1304777496/tpod.html), [City Weekend](http://www.cityweekend.com.cn/shanghai/listings/dining/yunnan/has/southern-barbarian/), [Smart Shanghai](http://www.smartshanghai.com/venue/2725/Southern_Barbarian_shanghai), [Go China](http://gochina.about.com/od/wheretoeatinshanghai/gr/SouBar_SH.htm), [Zagat](http://www.zagat.com/r/southern-barbarian-shanghai-china), [Dianping Listing](http://www.dianping.com/shop/2201962), [Xiaomishu](http://www.xiaomishu.com/shop/AESH10014455/)
 
 **Click on the Pictures below to enlarge**
-
-AKPC\_IDS += "6448,";

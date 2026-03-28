@@ -32,5 +32,3 @@ The other menu item that most people get here are the fries. Whether with chili,
 Another favorite here is the the tuna salad sandwich on wheat. Its a large soggy sandwich, well held together with wheat bread. This “light & healthy” sandwich is a nice change from the savory burgers and pastrami’s.
 
 They have a few locations – Monterey Park, Alhambra, Temple City, Pasadena, etc. Great little hole-in-the-wall. . .I only wish they were open late – till 2 or 3am for the late night cravings.
-
-AKPC\_IDS += "125,";

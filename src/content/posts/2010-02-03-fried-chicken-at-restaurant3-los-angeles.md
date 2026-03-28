@@ -23,6 +23,3 @@ draft: false
 ---
 
 On the suggestion from a friend, Miss J, I was told that Restaurant3, formerly known as Cynthia’s had some of the best fried chicken.
-AKPC\_IDS += "197,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

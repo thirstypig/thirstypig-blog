@@ -30,5 +30,3 @@ Tacos El Gallito is a taco truck located on Fair Oaks in Pasadena. They have a w
 Unfortunately, I can’t tell the difference between Tacos El Gallito and King Taco. To me, with the untrained Mexican taste, they are very similar. Coupled with the late night cravings with the buzz from the alcohol, just an hour ago. . . Tacos El Gallito is the best thing EVER – well at that time for me, at least.
 
 Anyways. . . since it is in Pasadena, Tacos El Gallito is a nice little late night joint that I would recommend to anyone.
-
-AKPC\_IDS += "117,";

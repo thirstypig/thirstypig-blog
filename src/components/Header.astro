@@ -9,7 +9,12 @@ const pathname = Astro.url.pathname;
 		<div class="flex items-center justify-between h-16">
 			<!-- Logo / Site Title -->
 			<a href="/" class="flex items-center gap-2 no-underline group">
-				<span class="text-2xl font-serif font-bold text-ink group-hover:text-amber transition-colors">
+				<img
+					src="/images/thirstypig-logo.jpg"
+					alt="Thirsty Pig"
+					class="h-10 w-auto rounded-sm"
+				/>
+				<span class="text-xl font-serif font-bold text-ink group-hover:text-amber transition-colors hidden sm:inline">
 					{SITE_TITLE}
 				</span>
 			</a>

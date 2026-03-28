@@ -37,5 +37,3 @@ With other little dainty shops, boutiques, and small bistro’s, Sweet & Savory 
 As a continuance of my quest for cupcakes – as I was dragged by my obsessed friend, Sweet & Savory features mini and regular sized sweets. These cakes, like others, were sweet (but not savory). I know I enjoyed them, since they weren’t too sweet. I prefer the mini bite-sized ones, since I don’t think I could eat a whole one, if it was too sweet.
 
 Nice little place. They offer sandwiches and quiche, too. I like quiche. . . actually anything with eggs.
-
-AKPC\_IDS += "158,";

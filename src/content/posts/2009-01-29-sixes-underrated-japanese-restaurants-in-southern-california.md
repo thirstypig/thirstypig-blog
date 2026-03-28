@@ -29,5 +29,3 @@ draft: false
 4. [Musha Restaurant](http://www.yelp.com/biz/musha-restaurant-torrance) – Probably the best Izakaya in Los Angeles.
 5. [Santouka Ramen](http://www.yelp.com/biz/santouka-ramen-torrance) – Best sliced pork ramen. – <http://www.santouka.co.jp/>
 6. [Sushi Dokoro Ki Ra La](http://www.sushikirala.com/) – So underrated that no one knows about. Went there for my birthday a couple years ago.
-
-AKPC\_IDS += "57,";

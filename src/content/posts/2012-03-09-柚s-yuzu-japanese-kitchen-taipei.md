@@ -34,8 +34,6 @@ Price Range 3 $/¥/NT
 台北市光復南路260巷7號
 #7, Ln 260, Guangfu S Rd, Taipei, Taiwan
 
-AKPC\_IDS += "6353,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/03/09/%e6%9f%9as-yuzu-japanese-kitchen-taipei/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/03/09/%e6%9f%9as-yuzu-japanese-kitchen-taipei/?share=email "Click to email this to a friend")

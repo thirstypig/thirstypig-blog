@@ -21,5 +21,3 @@ Favorite Shanghainese Restaurants
 Honorable Mention. [HaiJinZi海金滋添加分店 , Shanghai](http://www.thethirstypig.com/2011/10/28/hai-jinzi-shanghai/) – the egg dish
 
 These pages will be a collection of lists. List of favorite dishes, restaurants, lounges, hotels, drinks, etc. I will also include places that I would like to visit as well. This page will be updated regularly. I hope you like my lists and helps make your stay on the Thirsty Pig more enjoyable. Please visit often and comment based on your opinions.
-
-AKPC\_IDS += "6663,";

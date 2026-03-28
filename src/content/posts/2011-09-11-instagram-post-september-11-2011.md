@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — September 11, 2011](/images/posts/ig-2011-09-11-instagram-post-september-11-2011/17842672048049948.jpg)
-

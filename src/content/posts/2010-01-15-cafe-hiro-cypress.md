@@ -23,5 +23,3 @@ draft: false
 ---
 
 I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.
-
-AKPC\_IDS += "187,";

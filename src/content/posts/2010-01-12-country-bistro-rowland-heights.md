@@ -33,7 +33,3 @@ draft: false
 Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.
 
 Personally, I am a big fan of soups. I like Asian style clear soups. Western style, or Americans, prefer having their soups thick. Asians, mostly Chinese, like soups clear, broth-like or like a consume. These clear soups boost a lot of flavor. They are often cooked a long time. Southern Chinese, from the Guangdong province, will cook soups often for 24 hours at a time. Bone will dissolve into the soups. Broths will turn white from the white bones. Anyways. . .
-
-AKPC\_IDS += "184,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

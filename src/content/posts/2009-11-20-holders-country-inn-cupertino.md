@@ -25,7 +25,3 @@ draft: false
 ---
 
 Originally, I wanted to focus on hole-in-the-walls and breakfast joints, but I got a bit sidetracked. Holder’s Country Inn is a place I would have posted about either way.
-
-AKPC\_IDS += "170,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

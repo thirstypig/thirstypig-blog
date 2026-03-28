@@ -21,5 +21,3 @@ Lukang was also selected to have the honor of hosting this year’s Taiwan Lante
 
 Links
 [Hungry in Taipei](http://hungryintaipei.blogspot.com/2011/02/happy-lantern-festival-taiwanese-i.html)
-
-AKPC\_IDS += "6365,";

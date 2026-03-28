@@ -18,7 +18,3 @@ description: This is almost as good as my mom’s Taiwanese beef noodle stew, bu
 archiveUrl: https://web.archive.org/web/20110105194324/http://www.thethirstypig.com/2009/12/16/dai-ho-restaurant-temple-city/
 draft: false
 ---
-
-AKPC\_IDS += "178,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

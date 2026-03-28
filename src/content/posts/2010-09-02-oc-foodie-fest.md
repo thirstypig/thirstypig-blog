@@ -26,5 +26,3 @@ Passed by the major line at Worldfare Bus and decided to go for dessert instead 
 Cannot wait until the next mouth watering gourmet food truck event – [Munch LA](http://munchla.com/) at Fairfax High School on Saturday, September 18th. My mission is to try Crepe N Around, Frysmith, Dosa and Lake Street Creamery.
 
 Posted by FoodieplusFashionista
-
-AKPC\_IDS += "2144,";

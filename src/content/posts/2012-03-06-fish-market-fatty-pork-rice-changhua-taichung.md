@@ -36,8 +36,6 @@ Changhua’s Fish Market Fatty Pork Rice
 +886 4-7220505
 06:30 ～ 16:30
 
-AKPC\_IDS += "6343,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/03/06/fish-market-fatty-pork-rice-changhua-taichung/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/03/06/fish-market-fatty-pork-rice-changhua-taichung/?share=email "Click to email this to a friend")

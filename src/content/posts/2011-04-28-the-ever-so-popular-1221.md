@@ -13,7 +13,5 @@ archiveUrl: https://web.archive.org/web/20120108164713/http://www.thethirstypig.
 draft: false
 ---
 
-AKPC\_IDS += "3720,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/04/28/the-ever-so-popular-1221/?share=facebook "Share on Facebook")

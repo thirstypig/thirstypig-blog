@@ -81,5 +81,3 @@ Taste literally and figuratively is at C'est Cupcakes, as seen in this cute art 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-01-494x369.jpg "C'est Cupcake")
 
 Look for this sign on Hongmei Lu 虹梅路.
-
-AKPC\_IDS += "4981,";

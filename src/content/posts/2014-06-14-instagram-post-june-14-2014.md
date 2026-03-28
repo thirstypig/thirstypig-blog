@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — June 14, 2014](/images/posts/ig-2014-06-14-instagram-post-june-14-2014/17841915709049948.jpg)
-

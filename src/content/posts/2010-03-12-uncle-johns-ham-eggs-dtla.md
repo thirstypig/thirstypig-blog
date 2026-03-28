@@ -22,5 +22,3 @@ description: 'I was browsing around different sites and I found one that talked 
 archiveUrl: https://web.archive.org/web/20110106022313/http://www.thethirstypig.com/2010/03/12/uncle-johns-ham-eggs-dtla/
 draft: false
 ---
-
-AKPC\_IDS += "213,";

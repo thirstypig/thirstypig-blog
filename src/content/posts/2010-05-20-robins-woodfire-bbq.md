@@ -23,5 +23,3 @@ description: The Bodacious “Que” Stacker is the barbecue sandwich to end all
 archiveUrl: https://web.archive.org/web/20110106051254/http://www.thethirstypig.com/2010/05/20/robins-woodfire-bbq/
 draft: false
 ---
-
-AKPC\_IDS += "477,";

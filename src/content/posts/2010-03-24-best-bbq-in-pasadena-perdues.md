@@ -25,5 +25,3 @@ description: Maybe I shouldn’t have said “Best” in the title, but it sure 
 archiveUrl: https://web.archive.org/web/20110105085227/http://www.thethirstypig.com/2010/03/24/best-bbq-in-pasadena-perdues/
 draft: false
 ---
-
-AKPC\_IDS += "223,";

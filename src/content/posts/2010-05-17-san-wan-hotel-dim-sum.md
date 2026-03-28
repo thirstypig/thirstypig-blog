@@ -26,5 +26,3 @@ description: With the impeccable service, Chao Ping Ji makes you wonder if you t
 archiveUrl: https://web.archive.org/web/20110105135341/http://www.thethirstypig.com/2010/05/17/san-wan-hotel-dim-sum/
 draft: false
 ---
-
-AKPC\_IDS += "716,";

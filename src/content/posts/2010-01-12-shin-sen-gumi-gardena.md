@@ -38,5 +38,3 @@ draft: false
 ---
 
 Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ramen houses, chanko nabe, shabu-shabu, and yakitori. This particular Shin Sen Gumi specializes in yakitori.
-
-AKPC\_IDS += "185,";

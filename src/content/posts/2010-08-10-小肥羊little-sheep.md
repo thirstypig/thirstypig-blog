@@ -13,5 +13,3 @@ draft: false
 ---
 
 Lamb is a main staple of many westerner Chinese. With roots from Mongolia and south west China, Little Sheep brings a family style hot pot cuisine. Some Americans are non-receptive to lamb, because of the gaminess and smell. I have learned, that some Chinese have similar feelings. I believe that people, once they have a bad experience with something, they tend not to return or try that.
-
-AKPC\_IDS += "1707,";

@@ -30,4 +30,3 @@ draft: false
 ---
 
 I am not the biggest fan of AYCE(all-you-can-eat) places, including Korean BBQ, because of the impending repercussions. We all try to manage our intake, yet there are those that fail . . . like me.
-AKPC\_IDS += "200,";

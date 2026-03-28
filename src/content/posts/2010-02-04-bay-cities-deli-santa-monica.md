@@ -24,6 +24,3 @@ draft: false
 ---
 
 Based on the reviews on Yelp, Bay Cities is THE place for sandwiches in Santa Monica.
-AKPC\_IDS += "198,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

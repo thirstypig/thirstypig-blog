@@ -117,7 +117,5 @@ Dried Scallops & Seafood Rice from the Chinese Wok
 
 Daily Dessert
 
-AKPC\_IDS += "5442,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/06/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/?share=facebook "Share on Facebook")

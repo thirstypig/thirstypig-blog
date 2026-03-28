@@ -27,4 +27,3 @@ draft: false
 ---
 
 Lately, I’ve been frequenting this little tea house, in the afternoons, to do some work. Half & Half is a quaint Taiwanese tea house in San Gabriel valley.
-AKPC\_IDS += "201,";

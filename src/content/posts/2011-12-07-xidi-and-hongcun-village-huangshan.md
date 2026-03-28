@@ -75,7 +75,5 @@ The small lake surrounding ancient village structures
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-34-494x277.jpg "Hongcun Village 宏村")
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-165-370x494.jpg "Hongcun Village 宏村")
 
-AKPC\_IDS += "5945,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/07/xidi-and-hongcun-village-huangshan/?share=facebook "Share on Facebook")

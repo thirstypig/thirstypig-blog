@@ -20,4 +20,3 @@ draft: false
 ---
 
 When people talk about BBQ, emotions and feelings run high. You almost get into fighting words when comparing the different BBQ’s. With the Carolina’s you get the smokey pulled pork and with the Kansas City style, you get the saucey on baby back ribs
-AKPC\_IDS += "4012,";

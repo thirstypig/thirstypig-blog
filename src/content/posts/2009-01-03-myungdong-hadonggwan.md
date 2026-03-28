@@ -13,5 +13,3 @@ description: 'HaDongGwan is a “GomTang Jip” which is basically a restaurant 
 archiveUrl: https://web.archive.org/web/20111103145000/http://www.thethirstypig.com/2009/01/03/myungdong-hadonggwan/
 draft: false
 ---
-
-AKPC\_IDS += "34,";

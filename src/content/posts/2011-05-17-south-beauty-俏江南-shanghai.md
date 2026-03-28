@@ -86,5 +86,3 @@ Links
 [Smart Shanghai](http://www.smartshanghai.com/venue/1608/881_South_Beauty_(Yanan_Rd)_shanghai), [Best Shanghai Restaurants](http://www.best-shanghai-restaurants.com/shanghai_restaurants/southbeauty.html), [Foodnut](http://www.foodnut.com/589/south-beauty-restaurant-review-shanghai/), [10 Best](http://www.10best.com/destinations/china/shanghai/all/restaurants/881-south-beauty/)
 
 I’m going to try a new format. Without much writing, just focus on putting up pictures. I want to see if people would rather drool at food porn that read my rants.
-
-AKPC\_IDS += "2342,";

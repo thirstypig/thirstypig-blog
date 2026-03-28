@@ -42,7 +42,3 @@ The bar had a large lit bookshelf that went all the way to the raised ceilings. 
 The cool area is the upstairs lounge. As you walk up the stairs to the open 2nd floor, it circles around the big tree in the middle. High tables with stools allow small groups to enjoy this big tree. Then toward the back there’s small ramp leading up a private group area where the views extend out toward Los Angeles’ skyline. This second floor area make this place an ideal date place.
 
 At the end, I think I would come here again. Its a good place to bring a small group. I’d try to get there early for parking. And I would avoid weekends, and try to go during the week. It was a good night at Rockwell.
-
-AKPC\_IDS += "150,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -17,7 +17,3 @@ draft: false
 ---
 
 LA Jimmy’s was my 2nd attempt at a food blog. This lasted less than a year, from May ’06 till March ’07
-
-AKPC\_IDS += "23,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

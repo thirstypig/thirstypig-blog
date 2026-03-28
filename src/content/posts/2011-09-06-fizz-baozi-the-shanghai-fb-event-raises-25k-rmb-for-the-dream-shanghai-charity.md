@@ -30,7 +30,5 @@ Links
 
 The Shanghai F&B community raises 25k RMB for the Dream Shanghai Charity
 
-AKPC\_IDS += "5455,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/06/fizz-baozi-the-shanghai-fb-event-raises-25k-rmb-for-the-dream-shanghai-charity/?share=facebook "Share on Facebook")

@@ -85,7 +85,5 @@ Bathroom
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-35-494x370.jpg "Design Hotel Huangshan")
 
-AKPC\_IDS += "5926,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/13/design-boutique-hotel-huangshan/?share=facebook "Share on Facebook")

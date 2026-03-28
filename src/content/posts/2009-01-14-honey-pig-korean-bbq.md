@@ -38,7 +38,3 @@ Korea Town
 3400 W 8th St
 Los Angeles, CA 90005
 (213) 380-0256
-
-AKPC\_IDS += "47,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

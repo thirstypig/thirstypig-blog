@@ -30,5 +30,3 @@ description: This place is a find. This is probably one of the better Korean mea
 archiveUrl: https://web.archive.org/web/20110105093051/http://www.thethirstypig.com/2010/03/18/seongbukdong/
 draft: false
 ---
-
-AKPC\_IDS += "218,";

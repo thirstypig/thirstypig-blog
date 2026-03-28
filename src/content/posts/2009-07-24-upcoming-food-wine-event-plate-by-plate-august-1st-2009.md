@@ -44,5 +44,3 @@ Tickets:
 $150, $275 (VIP)
 $200 day of the event
 <http://www.platebyplate.org>
-
-AKPC\_IDS += "111,";

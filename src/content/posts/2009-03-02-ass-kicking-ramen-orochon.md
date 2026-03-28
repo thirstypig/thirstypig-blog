@@ -35,5 +35,3 @@ Orochon Ramen
 Los Angeles, CA 90012
 Little Tokyo
 (213) 617-1766<http://www.orochonramen.com/>
-
-AKPC\_IDS += "68,";

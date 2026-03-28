@@ -216,5 +216,3 @@ The large exhibit space at Huashan is a great venue for artist community in Taiw
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-82-494x370.jpg "Hua Shan Taipei")
 
 The Huashan Creative Park is one of the top destinations in Taiwan for tourists.
-
-AKPC\_IDS += "5052,";

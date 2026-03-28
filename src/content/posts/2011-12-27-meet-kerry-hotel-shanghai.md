@@ -47,7 +47,5 @@ Open: 5:30pm-10pm
 
 Candied Desserts
 
-AKPC\_IDS += "5830,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/27/meet-kerry-hotel-shanghai/?share=facebook "Share on Facebook")

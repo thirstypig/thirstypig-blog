@@ -30,5 +30,3 @@ At the Boiling Crab, they substitute plates and silver with bags of shrimp & cra
 This type of dining, where you use you hands and must get a little intimate with the food – is in my opinion a great place for a 1st date. Some people disagree with the fact “getting down’n'dirty” with your food means great a date experience. But the idea of using your hands bringing out your animalistic instincts with food heightens the moment.
 
 Expect the bill to be about 25-35 dollars a person including alcohol. With a small parking lot, expect to park on the street.
-
-AKPC\_IDS += "70,";

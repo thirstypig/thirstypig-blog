@@ -28,5 +28,3 @@ East Village
 345 E 12th St
 New York, NY 10003
 (212) 358-7912 [www.smacnyc.com]( http://www.smacnyc.com)
-
-AKPC\_IDS += "60,";

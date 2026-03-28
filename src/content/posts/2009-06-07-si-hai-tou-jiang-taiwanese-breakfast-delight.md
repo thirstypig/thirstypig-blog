@@ -19,5 +19,3 @@ draft: false
 ---
 
 There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿
-
-AKPC\_IDS += "102,";

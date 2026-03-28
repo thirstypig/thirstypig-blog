@@ -77,5 +77,3 @@ http://www.mydiningplacesh.com/index2.htm
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-01-494x370.jpg "My Dining Place Shanghai")
 
 My Dining Place
-
-AKPC\_IDS += "4935,";

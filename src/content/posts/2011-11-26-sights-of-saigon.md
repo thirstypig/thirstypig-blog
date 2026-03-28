@@ -11,7 +11,5 @@ archiveUrl: https://web.archive.org/web/20120116092443/http://www.thethirstypig.
 draft: false
 ---
 
-AKPC\_IDS += "5687,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/26/sights-of-saigon/?share=facebook "Share on Facebook")

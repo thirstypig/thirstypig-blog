@@ -35,5 +35,3 @@ The fries were a bit over cooked – meaning more brown and crispier than usual 
 I wish I got the name of my waitress. She was an old fashioned waitress, with the uniform and all. She was one that could banter with the regulars. She also provided great service. And she also convinced me – pretty easily to order a pie. I kinda knew I might have to order a pie, since this was my first time here. My favorite pie of all time is Pumpkin pie, but if I order that, it would feel a bit weird. So, I got the lemon meringue. This pie’s meringue was piled really high. It was good but not too sweet and lemonly. I don’t like dessert or foods that are overly sweet – and this pie was ideal. I think I might have a new favorite Pie.
 
 Pie ‘N Burger’s a great little place if you are craving a burger and pie! I hope to try their breakfast soon.
-
-AKPC\_IDS += "135,";

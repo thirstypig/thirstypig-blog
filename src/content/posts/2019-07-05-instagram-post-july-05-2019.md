@@ -7,4 +7,3 @@ draft: false
 ---
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-07-05-instagram-post-july-05-2019/17849317714486372.mp4" type="video/mp4"></video>
-

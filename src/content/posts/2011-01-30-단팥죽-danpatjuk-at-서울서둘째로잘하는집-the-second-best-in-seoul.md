@@ -20,4 +20,3 @@ draft: false
 ---
 
 Dessert for some is a religious experience. They associate sweets like chocolate to an almost sensual feel. I know a guy who lives for desserts and can’t stop endlessly talk about them. Girls could be conned to do almost anything with the right cupcake or sweet. In Korea, the sweet red bean is the kryptonite to almost anyone.
-AKPC\_IDS += "3273,";

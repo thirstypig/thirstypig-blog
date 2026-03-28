@@ -31,5 +31,3 @@ This particular Food & Wine event also had a great silent auction. Other similar
 In short, I think the food was a bit lacking, in comparison to other events, but the silent auction more than made up for the event. Tickets were $100. I’m not sure about their VIP tickets.
 
 <http://www.thesabanfreeclinic.org/index.php?option=com_content&task=view&id=50&Itemid=91>
-
-AKPC\_IDS += "109,";

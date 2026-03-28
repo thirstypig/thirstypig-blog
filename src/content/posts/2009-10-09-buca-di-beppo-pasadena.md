@@ -33,7 +33,3 @@ This pizza we got, was good, but non memorable. No biggie.
 The dessert, the tiramisu, was not my first choice this past visit. Its kinda funny, a tiramisu is a layered dessert, similar to that of a layered pasta, lasagna. The bread pudding was my favorite, but is discontinued and no longer offered. I was sad. This semi-sweet dessert was the my only disappointment from Buca.
 
 Anyways. .. Buca’s a good place, I’m sure you’ve heard.
-
-AKPC\_IDS += "156,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

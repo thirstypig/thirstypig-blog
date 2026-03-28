@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — January 10, 2016](/images/posts/ig-2016-01-10-instagram-post-january-10-2016/17853390187008216.jpg)
-

@@ -32,7 +32,3 @@ Mundo Cafe & Restaurant
 Astoria, NY 11106
 (718) 777-2829
  [http://www.mundoastoria.com](http://www.mundoastoria.com/index.html)
-
-AKPC\_IDS += "56,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

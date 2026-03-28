@@ -117,7 +117,3 @@ Cool rickshaw!
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Char-Terrace-Shanghai-14-494x328.jpg "Char Terrace Shanghai")
 
 A bit off the beaten path of the Bund, yet still close enough to relevant
-
-AKPC\_IDS += "4814,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

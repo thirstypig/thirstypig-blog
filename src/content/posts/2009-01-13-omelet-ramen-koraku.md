@@ -34,5 +34,3 @@ Koraku Restaurant
 314 E 2nd St
 Los Angeles, CA 90012
 (213) 687-4972
-
-AKPC\_IDS += "46,";

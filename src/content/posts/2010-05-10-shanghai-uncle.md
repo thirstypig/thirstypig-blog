@@ -23,5 +23,3 @@ description: With a contemporary decor and furnishings, Shanghai Uncle provides 
 archiveUrl: https://web.archive.org/web/20110106001958/http://www.thethirstypig.com/2010/05/10/shanghai-uncle/
 draft: false
 ---
-
-AKPC\_IDS += "565,";

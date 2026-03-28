@@ -18,7 +18,3 @@ draft: false
 4. [Bruddah’s Hawaiian Foods](http://www.yelp.com/biz/bruddahs-hawaiian-foods-gardena) – Lau Lau, Lomi, & almost everything here is great.
 5. [Back Home In Lahaina](http://www.backhomeinlahaina.com/) – Just good Hawaiian – Loco Moco!
 6. [The Loft Hawaiian Restaurant](http://www.thelofthawaii.com/) – Island Style Fried Chicken is the best fried Chicken around.
-
-AKPC\_IDS += "72,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -68,5 +68,3 @@ Marsalis also features a couple of private rooms.
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-11-494x370.jpg "Marsalis Taipei")
 
 Check out this 32 year old scotch from the private owner's collection. This has to be worth thousands of dollars.
-
-AKPC\_IDS += "5037,";

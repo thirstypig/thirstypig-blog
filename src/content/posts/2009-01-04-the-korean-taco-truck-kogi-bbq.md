@@ -36,5 +36,3 @@ Various Locations
 [kogibbq.com](http://www.kogibbq.com)
 Follow them on Twitter for location updates
 <http://twitter.com/kogibbq>
-
-AKPC\_IDS += "37,";

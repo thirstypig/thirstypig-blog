@@ -30,7 +30,3 @@ in Korea Town
 Los Angeles, CA 90005
 (213) 487-7615
 Open 24 hours
-
-AKPC\_IDS += "80,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

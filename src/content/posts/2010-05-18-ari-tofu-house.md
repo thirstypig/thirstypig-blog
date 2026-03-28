@@ -25,5 +25,3 @@ description: 'Sundubu jjigae 순두부찌개 is not easily copied well from Kore
 archiveUrl: https://web.archive.org/web/20110105064755/http://www.thethirstypig.com/2010/05/18/ari-tofu-house/
 draft: false
 ---
-
-AKPC\_IDS += "740,";

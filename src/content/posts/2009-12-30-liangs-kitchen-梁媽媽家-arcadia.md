@@ -26,5 +26,3 @@ draft: false
 ---
 
 I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang’s Kitchen is my new favorite local Taiwanese restaurant. I would almost say hole-in-the-wall. But they have 3 San Gabriel Valley locations.
-
-AKPC\_IDS += "180,";

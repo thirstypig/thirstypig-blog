@@ -23,5 +23,3 @@ description: Ever since I had a taste of their sandwiches at the Project by Proj
 archiveUrl: https://web.archive.org/web/20110105091918/http://www.thethirstypig.com/2010/03/22/mendocino-farms-dtla/
 draft: false
 ---
-
-AKPC\_IDS += "221,";

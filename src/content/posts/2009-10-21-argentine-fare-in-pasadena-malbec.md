@@ -32,5 +32,3 @@ My companion choose to get the steak meal. Not exactly a typical order for lunch
 I know I did like the starter appetizer of bread with olive oil/garlic spread. I thought it was quite good. The salad was ok, nothing special. Though did remember the large pieces of shrimp. The empanadas were pretty good.
 
 At the end of the day. I thought the restaurant itself was a nice place. If I remember correctly, they only had beer and wine. I don’t think I had a very good experience, but perhaps I should not gone for lunch at a typical dinner restaurant.
-
-AKPC\_IDS += "160,";

@@ -48,7 +48,3 @@ On the their website, do research on the restaurants and wines that you want to 
 My other post about Project by Project’s Plate by Plate
 [The Food and the People](http://blog.thethirstypig.com/2009/07/project-by-project-post-2.html)
 [Upcoming Food & Wine Event – Plate by Plate, August 1st, 2009](http://blog.thethirstypig.com/2009/07/upcoming-food-wine-event-plate-by-plate.html)
-
-AKPC\_IDS += "115,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

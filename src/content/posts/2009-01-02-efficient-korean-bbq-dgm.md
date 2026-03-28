@@ -28,5 +28,3 @@ DwitGolMok Daepojip a.k.a. DGM
 3101 W 8th St
 Los Angeles, CA 90005
 (213) 388-0067
-
-AKPC\_IDS += "32,";

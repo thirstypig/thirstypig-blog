@@ -25,6 +25,3 @@ I have downed many a sandwich in my day. When it comes to food conveyances, the 
 One could say that we owe the very cornerstone of modern society to the sandwich. It’s the people’s food and everyone and their mother enjoys sandwiches from the hard working factory-laborer to the leaders of the world. But there have been some sandwiches that stick out as the greatest. For some reason, their unique pairings of flavors come together to make not just a food, but cultural icons. Not counting hamburgers or hotdogs (can you even really call those sandwiches?), these are MySweetRhodora’s Top 10 Sandwiches.
 
 10) BLT
-AKPC\_IDS += "62,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

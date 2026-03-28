@@ -91,5 +91,3 @@ Blue Fin Tuna, Foie Gras Torchon On a Spoon - Avocado stack with Pickled Shoyu O
 Graphics in the men's restroom
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Geisha-Shanghai-23-368x494.jpg "Geisha, Shanghai")
-
-AKPC\_IDS += "5855,";

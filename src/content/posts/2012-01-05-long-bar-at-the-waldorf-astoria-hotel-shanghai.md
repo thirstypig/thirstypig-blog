@@ -69,8 +69,6 @@ Check out the oyster bar in the back
 
 Merry Christmas!
 
-AKPC\_IDS += "6057,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/01/05/long-bar-at-the-waldorf-astoria-hotel-shanghai/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/01/05/long-bar-at-the-waldorf-astoria-hotel-shanghai/?share=email "Click to email this to a friend")

@@ -31,5 +31,3 @@ I was also able to try the their famous torpedo. This simple sandwich – their 
 I realize after all these years, my tolerance for spicy foods is improving. I used to know be able to eat spicy foods – but nowadays I will add some spice to most everything I eat.
 
 Each of these sandwiches are reasonably priced and I would be willing to try all the other sandwiches, if i had the chance. I also wish they had more locations – like in Pasadena.
-
-AKPC\_IDS += "134,";

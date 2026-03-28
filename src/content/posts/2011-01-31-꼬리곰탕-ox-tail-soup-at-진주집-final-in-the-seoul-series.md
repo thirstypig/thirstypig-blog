@@ -21,4 +21,3 @@ draft: false
 ---
 
 Late night meals after drinking are great. You need them to help sober up, fill the hunger, and soothe your stomach. Hot soups are arguably the best things to remedy an alcohol fun filled night. [설렁탕 Seolleongtang](http://en.wikipedia.org/wiki/Seolleongtang) Beef Soup or 꼬리곰탕 Ggori Gom-tang Ox Tail Soup will hit the spot.
-AKPC\_IDS += "3454,";

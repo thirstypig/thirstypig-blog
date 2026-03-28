@@ -123,7 +123,5 @@ Beef with Radish
 
 Soup
 
-AKPC\_IDS += "5179,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/14/kikori-yakitori-bar-taipei/?share=facebook "Share on Facebook")

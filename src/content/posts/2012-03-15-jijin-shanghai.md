@@ -15,5 +15,3 @@ draft: false
 ---
 
 Click the pictures below to enlarge them
-
-AKPC\_IDS += "6248,";

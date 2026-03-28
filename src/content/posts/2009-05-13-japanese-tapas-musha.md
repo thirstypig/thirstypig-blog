@@ -25,6 +25,3 @@ Musha
 1725 W Carson St
 Torrance, CA 90501
 (310) 787-7344
-AKPC\_IDS += "92,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

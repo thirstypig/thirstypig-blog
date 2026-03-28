@@ -27,5 +27,3 @@ Shinsen Gumi Hakata Ramen
 Gardena, CA 90247
 (310) 329-1335
 <http://www.shinsengumiusa.com/>
-
-AKPC\_IDS += "61,";

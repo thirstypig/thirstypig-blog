@@ -28,5 +28,3 @@ Posts
 02/25/09 [味一番つばさ – ramen in Sapporo](http://blog.thethirstypig.com/2009/02/ramen-in-sapporo.html)
 02/24/09 [DOZO Izakaya ‧ Dining Bar](http://blog.thethirstypig.com/2009/02/dozo-izakaya-dining-bar.html)
 01/10/09 [定食 8 – Japanese teishoku](http://blog.thethirstypig.com/2009/01/8-japanese-teishoku.html)
-
-AKPC\_IDS += "21,";

@@ -19,7 +19,3 @@ The Gin and Tonic
 Tanqueray Rangpur Gin, Hendrick’s, Bombay Sapphire are, in my opinion, the best Gins. I do not and cannot drink Gin straight. Nor do I like Gin Martini’s. I only like my Gin’s with Tonic. I guess I need that little sweetener.
 
 In the song “Piano Man” by Billy Joel, there is a lyric, “Making love to his Tonic and Gin”
-
-AKPC\_IDS += "43,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

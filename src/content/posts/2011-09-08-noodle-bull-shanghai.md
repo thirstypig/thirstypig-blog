@@ -97,7 +97,5 @@ Roasted Beef Noodle 35 RMB
 
 Spicy & Sour Noodle 28 RMB
 
-AKPC\_IDS += "5410,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/08/noodle-bull-shanghai/?share=facebook "Share on Facebook")

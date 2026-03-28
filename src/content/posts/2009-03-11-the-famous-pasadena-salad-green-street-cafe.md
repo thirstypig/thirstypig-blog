@@ -27,7 +27,3 @@ Green Street
 146 Shoppers Ln
 Pasadena, CA 91101
 (626) 577-7170 [www.greenstreetrestaurant.com](http://www.greenstreetrestaurant.com/)
-
-AKPC\_IDS += "71,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

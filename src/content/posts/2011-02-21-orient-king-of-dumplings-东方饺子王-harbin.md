@@ -20,4 +20,3 @@ draft: false
 ---
 
 One of the more popular restaurant chains in Harbin is Orient King 东方饺子王 (Dongfang Jiaozi Wang). Based on referrals from locals, the hotel, and the drivers, Orient King was a place that we had to try.
-AKPC\_IDS += "3587,";

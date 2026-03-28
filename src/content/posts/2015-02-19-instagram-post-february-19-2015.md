@@ -7,4 +7,3 @@ draft: false
 ---
 
 <video controls width="100%"><source src="/videos/posts/ig-2015-02-19-instagram-post-february-19-2015/17843157931049948.mp4" type="video/mp4"></video>
-

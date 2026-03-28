@@ -33,5 +33,3 @@ But my experience at Gus’s was a good one. Not a great one but good. I did enj
 The baby back ribs were good, not exceptional. They had a few different kinds of bbq ribs – St. Louis, Memphis, and Carolina. I couldn’t really tell the difference unless I read the menu. In fact they all tasted quite good. I don’t really have a preference. In my eyes, good barbeque must have good texture – meaning that the meat has to fall off the bone as you rip it easily from the bone with your teeth. I do like the smokiness of the Carolina’s and the sweetness from the Memphis.
 
 I do want to proceed to expand my bbq experience. But in order to do that, I am going to have to try a lot of other BBQ places. If you guys have suggestions, please let me know.
-
-AKPC\_IDS += "148,";

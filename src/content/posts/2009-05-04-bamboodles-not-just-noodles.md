@@ -30,5 +30,3 @@ Anyways. . .with regards to the food. We ordered 3 main dishes, a shrimp won ton
 Anyways, just to recap, I would order the tan tan nooodles, the spare ribs rice, and perhaps the pork won ton noodle soup. Get there early, parking is a pain. Except to pay about $10 per head, no alcohol.
 
 You can listen to the original podcast here – http://www.kcrw.com/etc/programs/gf/gf090425god\_in\_a\_cup\_food\_an
-
-AKPC\_IDS += "89,";

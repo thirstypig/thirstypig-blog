@@ -142,7 +142,5 @@ Pan fried dumplings
 
 One of the great things about Old Shanghai Moon Restaurant - is that it is open 24 hours a day.
 
-AKPC\_IDS += "4813,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/01/old-shanghai-moon-restaurant/?share=facebook "Share on Facebook")

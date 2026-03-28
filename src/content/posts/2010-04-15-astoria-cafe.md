@@ -32,5 +32,3 @@ Astoria Cafe is pretty easy to find the way – just opposite of the City God Te
 Probably because of the TV news of that previous day, there were so many people in the Cafe.
 
 Astoria was established in 1949 by a few Russians. It was used to be a home restaurant for those Russians escaped from Communists Russia to China and then to Taiwan. [Chiang Ching-Kuo](http://en.wikipedia.org/wiki/Chiang_Ching-kuo) ([蔣經國](http://zh.wikipedia.org/zh-tw/%E8%92%8B%E7%BB%8F%E5%9B%BD)) and [his Russian wife](http://en.wikipedia.org/wiki/Chiang_Fang-liang) were used to come here a lot for family events or Russian cultural events.
-
-AKPC\_IDS += "237,";

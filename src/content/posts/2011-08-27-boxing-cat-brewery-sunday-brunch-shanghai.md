@@ -62,7 +62,5 @@ BBQ Pulled Pork Quesadillas with Homemade Sour Cream BBQ Sauce 60 RMB
 
 Texan Wake Up Call - Imagine A Cheese Quesadilla Filled with Roasted Green Chilies, Crack an egg inside and smother it with our signature chili. That's a wake up call! Served with a side of Roasted Potatoes. 75 RMB taken from the Boxing Cat Brewery Menu.
 
-AKPC\_IDS += "5275,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-brunch-shanghai/?share=facebook "Share on Facebook")

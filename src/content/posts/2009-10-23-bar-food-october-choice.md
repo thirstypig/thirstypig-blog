@@ -32,7 +32,3 @@ draft: false
 On the suggestion of an Elite Yelper, we decided to make the trek to West Los Angeles to try Bar Food. I know nowadays, that I am a little more pickier from this blog and with the expectations of my friends. I know I have to take into account distance & traffic, price & value, and palate & taste. Lately, I think I have a better understanding of what I like and what I don’t like.
 
 Unfortunately, the friend who suggested this place wasn’t there. But our friend who recently got engaged was fortunately here and we were all able to celebrate! I’m glad we choose Bar Food – since the venue is great for groups.
-
-AKPC\_IDS += "163,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

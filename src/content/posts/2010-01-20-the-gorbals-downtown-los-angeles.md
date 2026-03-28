@@ -27,5 +27,3 @@ draft: false
 The Gorbals is new restaurant that opened in Downtown LA, late last year, in 2009. They are in an interesting space on the first floor of a converted loft apartment building.
 
 Check out the video from [Dine LA](http://discoverlosangeles.com/play/dining/dining-videos.html)
-
-AKPC\_IDS += "191,";

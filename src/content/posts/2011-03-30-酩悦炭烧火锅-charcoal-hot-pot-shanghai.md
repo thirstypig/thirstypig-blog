@@ -19,4 +19,3 @@ draft: false
 ---
 
 Traditional hot pot is used, not as a simple round bowl, but one with a small chimney on top. In the olden days, when electricity wasn’t available, people used to use charcoal and open fire flames to simmer their hot pots. The middle smoke stack was used to aerate the smoke, rather from the sides. At 酩悦炭烧火锅 Ming Yue Hot Pot, we had the traditional style of hot pot with these great bowls.
-AKPC\_IDS += "2975,";

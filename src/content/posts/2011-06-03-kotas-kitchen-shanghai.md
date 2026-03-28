@@ -120,5 +120,3 @@ Chicken Breast
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-13-494x370.jpg "Kotas Kitchen Shanghai")
 
 More Chicken Breast Skewers
-
-AKPC\_IDS += "4707,";

@@ -22,5 +22,3 @@ Old Fashion Glass or Collins Glass
 \* 1 part Jack Daniel’s Tennessee Whiskey
 \* 3 parts Coca-Cola
 \* Ice
-
-AKPC\_IDS += "50,";

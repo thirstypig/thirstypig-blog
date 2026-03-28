@@ -23,4 +23,3 @@ Lighting is the number one factor in producing great pictures. Without lighting 
 
 Restaurants and food
 Back to flash photography. I suggest that you don’t take pictures with flash in restaurants. Flash can draw unwanted attention and can ruin the ambiance. Though I am not a restaurant owner, but I would venture to say that restaurants like people who take pictures of food. They understand that power of pictures and the online word of mouth.
-AKPC\_IDS += "174,";

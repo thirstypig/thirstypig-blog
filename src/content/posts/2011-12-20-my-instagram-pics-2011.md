@@ -145,7 +145,5 @@ I took a quick snapshot, before the Apple staff told me not to take pictures. Th
 
 At the Shanghai Pudong International Airport. I was just waiting around and I saw how the light reflected on the floor.
 
-AKPC\_IDS += "5514,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/20/my-instagram-pics-2011/?share=facebook "Share on Facebook")

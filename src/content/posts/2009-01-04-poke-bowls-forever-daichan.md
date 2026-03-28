@@ -23,5 +23,3 @@ Daichan
 Ste F
 Studio City, CA 91604
 (818) 980-8450
-
-AKPC\_IDS += "36,";

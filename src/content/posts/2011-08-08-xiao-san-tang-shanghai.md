@@ -69,5 +69,3 @@ Fresh Asparagus - Pan Fried, Garlicky, Black Bean 35 RMB - We choose our simply 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-06-494x369.jpg "Xiao San Tang Shanghai")
 
 Nice little ducks. . . ready for a wet day.
-
-AKPC\_IDS += "4805,";

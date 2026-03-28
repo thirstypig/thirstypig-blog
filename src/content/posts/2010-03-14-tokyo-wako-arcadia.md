@@ -28,5 +28,3 @@ description: Tokyo Wako has been the go-to place for my family for birthdays. We
 archiveUrl: https://web.archive.org/web/20110106015142/http://www.thethirstypig.com/2010/03/14/tokyo-wako-arcadia/
 draft: false
 ---
-
-AKPC\_IDS += "214,";

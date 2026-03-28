@@ -26,4 +26,3 @@ draft: false
 ---
 
 With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants.
-AKPC\_IDS += "205,";

@@ -75,7 +75,5 @@ Eggs! 蟹粉蛋 Xie Fen Dan
 
 葱烤大排
 
-AKPC\_IDS += "4914,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/10/28/hai-jinzi-shanghai/?share=facebook "Share on Facebook")

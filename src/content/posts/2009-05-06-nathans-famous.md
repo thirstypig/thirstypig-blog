@@ -28,7 +28,3 @@ Nathan’s Famous
 Coney Island
 1310 Surf Ave
 Brooklyn, NY 11224
-
-AKPC\_IDS += "90,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

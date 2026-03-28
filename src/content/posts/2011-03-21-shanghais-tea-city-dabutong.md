@@ -18,4 +18,3 @@ draft: false
 ---
 
 There’s a place in Shanghai call DaBuTong Tea City. Its a massive complex, with traditional ornamental Chinese architecture. It looks as if there is a large castle on the corner of this busy street. There are shops on the street side with a large multileveled mall on the inside.
-AKPC\_IDS += "3780,";

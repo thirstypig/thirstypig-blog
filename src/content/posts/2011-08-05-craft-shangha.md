@@ -83,7 +83,5 @@ The eclectic details of Craft are from owner Jerrica Lee.
 
 Pipes! This industrial feel gives you a feeling of almost Russian industrialism with what they were drinking. . . Vodka
 
-AKPC\_IDS += "4993,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/05/craft-shangha/?share=facebook "Share on Facebook")

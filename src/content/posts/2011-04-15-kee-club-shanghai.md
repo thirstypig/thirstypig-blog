@@ -21,5 +21,3 @@ draft: false
 
 > “Membership has its privileges”
 > - American Express Slogan from the 80′s
-
-AKPC\_IDS += "4522,";

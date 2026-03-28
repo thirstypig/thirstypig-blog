@@ -32,5 +32,3 @@ draft: false
 ---
 
 Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the American trend of grastropubs, wine bars, and tapas restaurants, Shanghai is embracing restaurants like Just Grapes.
-
-AKPC\_IDS += "1729,";

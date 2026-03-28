@@ -15,7 +15,3 @@ I found this listing of 5 crazy College Drinks from Digg. Some of these I have n
 
 Here is the original link.
 <http://www.manolith.com/2009/05/14/top-5-of-the-gnarliest-college-drinks-known-to-man/>
-
-AKPC\_IDS += "95,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

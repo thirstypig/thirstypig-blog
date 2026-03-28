@@ -71,7 +71,5 @@ Ibutamiso - Noodle in Miso soup topped with pork - B240
 
 Chicken Karage
 
-AKPC\_IDS += "5634,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/22/ra-men-bankara-bangkok/?share=facebook "Share on Facebook")

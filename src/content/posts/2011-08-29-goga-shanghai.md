@@ -93,7 +93,5 @@ The fries. Flavorful and crispy. Nice touch with the leafy greens. But I kinda p
 
 People I've met, friends, and other foodies have all raved about Goga. I'm glad I was finally about to make a visit. Next time, I hope to try some other dishes.
 
-AKPC\_IDS += "5205,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/29/goga-shanghai/?share=facebook "Share on Facebook")

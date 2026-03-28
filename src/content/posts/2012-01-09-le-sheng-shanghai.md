@@ -40,8 +40,6 @@ Links
 +86 21 5406 6011
 [leshengsh.com](http://www.leshengsh.com/)
 
-AKPC\_IDS += "6068,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/01/09/le-sheng-shanghai/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/01/09/le-sheng-shanghai/?share=email "Click to email this to a friend")

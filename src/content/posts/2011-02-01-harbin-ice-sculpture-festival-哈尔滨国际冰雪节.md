@@ -18,4 +18,3 @@ draft: false
 ---
 
 The thing to see in Harbin in the cold freeze month of January is the International Ice and Snow Sculpture Festival 哈尔滨国际冰雪节. This is the main reason why my classmates and I endured this bone chilling fun time. Though, there were lots of times I wondered why I was there.
-AKPC\_IDS += "3880,";

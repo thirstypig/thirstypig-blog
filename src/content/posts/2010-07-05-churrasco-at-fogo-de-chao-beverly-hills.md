@@ -43,5 +43,3 @@ description: Fogo de Chao is a Brazilian Churrasco BBQ. BBQ with the universally
 archiveUrl: https://web.archive.org/web/20110105150832/http://www.thethirstypig.com/2010/07/05/churrasco-at-fogo-de-chao-beverly-hills/
 draft: false
 ---
-
-AKPC\_IDS += "1337,";

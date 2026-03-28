@@ -49,5 +49,3 @@ What not to Order:
 [Rating](http://www.thethirstypig.com/rating-system/)
 3 Pigs
 Price Range 1 $/¥/NT
-
-AKPC\_IDS += "1930,";

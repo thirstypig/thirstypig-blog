@@ -26,5 +26,3 @@ Jinju Gomtang
 3377 Wilshire Blvd
 Los Angeles, CA 90010
 (213) 383-6789
-
-AKPC\_IDS += "35,";

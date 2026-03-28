@@ -23,5 +23,3 @@ draft: false
 ---
 
 One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.
-
-AKPC\_IDS += "189,";

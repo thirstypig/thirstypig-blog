@@ -65,5 +65,3 @@ The Famous Hunan Spicy Fish Head. Quite spicy. Though there was great flavor, th
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-08-494x368.jpg "Spicy Moment Shanghai")
 
 Pumpkin dessert with black sesame glutinous rice balls. The pumpkin has a subdued flavor with the thick slightly sweet broth. Very good!
-
-AKPC\_IDS += "4791,";

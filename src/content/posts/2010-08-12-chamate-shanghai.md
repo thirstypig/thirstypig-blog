@@ -35,4 +35,3 @@ draft: false
 ---
 
 Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers an assortment of teas – hot and cold, with light snacks and entrees.
-AKPC\_IDS += "1626,";

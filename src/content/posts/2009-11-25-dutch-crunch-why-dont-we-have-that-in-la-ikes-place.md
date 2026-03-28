@@ -25,5 +25,3 @@ draft: false
 ---
 
 Ike’s Place in San Francisco is a local sandwich place that has a bread called Dutch Crunch. Dutch Crunch is a type of sourdough that a bit crunchy, yet not too hard, that is only found in SF. I really wish we had it here in LA.
-
-AKPC\_IDS += "173,";

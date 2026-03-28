@@ -45,5 +45,3 @@ Since I haven’t had the sandwiches, other baked goods, or the jams & Jellies, 
 [That’s Shanghai](http://www.thatsmags.com/shanghai/article/detail/715/obsession-of-the-week), [Twitter](http://twitter.com/#!/pantrybythecoop), [Shanghai Family](http://www.shfamily.com/venue/httphosted-verticalresponse-com9268930cef3110241611525623423d235b2b), [Untour Shanghai](http://www.untourshanghai.com/blog/2011/08/best-delivery-service-in-shanghai/), [City Weekend](http://www.cityweekend.com.cn/shanghai/listings/dining/delivery/has/pantry-co-op/), [Time Out Shanghai](http://www.timeoutshanghai.com/features/Food__Drink-Food__Drink/3335/Spotlight-Pantry-by-the-Co-op.html), [Dianping](http://www.dianping.com/shop/5229220), [City Weekend Blog Post](http://www.cityweekend.com.cn/shanghai/articles/blogs-shanghai/shanghai-dining/co-op-welcomes-you-pantry/), [Four Square](https://foursquare.com/v/pantry-by-the-coop/)
 
 **Click on the Pictures below to enlarge**
-
-AKPC\_IDS += "6492,";

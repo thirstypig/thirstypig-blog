@@ -31,7 +31,3 @@ This particular night, I had to have Guinness, which is Irish. I guess I could h
 Anyways. . .
 
 With no expectations at all – Royal Clayton’s has me wanting to come back a 2nd time.
-
-AKPC\_IDS += "176,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

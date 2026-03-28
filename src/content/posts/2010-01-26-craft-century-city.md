@@ -33,7 +33,3 @@ draft: false
 ---
 
 Restaurant Week Los Angeles began with me and my friends at Craft. I had been wanting to try Craft, for awhile now, but venturing to Westside is few and far between for me. And finally, Miss B was able to get us all together and set it up. Though, I kinda wish we had a later reservation. One other note, Tom Colicchio, of Top Chef fame, is founder of Craft restaurants. Top Chef, on Bravo, is a show I have been wanting to watch.
-
-AKPC\_IDS += "195,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

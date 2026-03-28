@@ -27,5 +27,3 @@ description: Unlike Shanghai Uncle and Lost Heaven, Gu Yi doesn’t attempt to m
 archiveUrl: https://web.archive.org/web/20110105192414/http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/
 draft: false
 ---
-
-AKPC\_IDS += "673,";

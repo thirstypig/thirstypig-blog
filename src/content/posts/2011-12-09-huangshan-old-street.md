@@ -44,7 +44,5 @@ The starting point of Old Street
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Huangshan-Old-Street-Market-43-494x370.jpg "Huangshan Old Street Market 黄山老街")
 
-AKPC\_IDS += "5964,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/09/huangshan-old-street/?share=facebook "Share on Facebook")

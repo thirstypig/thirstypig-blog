@@ -23,7 +23,3 @@ description: I believe the direction and concept that The Best Fish Tacos in Ens
 archiveUrl: https://web.archive.org/web/20110105092452/http://www.thethirstypig.com/2010/03/23/best-fish-tacos-in-ensenada/
 draft: false
 ---
-
-AKPC\_IDS += "222,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

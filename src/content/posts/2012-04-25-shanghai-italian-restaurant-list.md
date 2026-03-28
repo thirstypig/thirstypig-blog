@@ -35,5 +35,3 @@ Italian restaurants in Shanghai are some of the best. I’d argue that Shanghai 
 [Il Nascondiglio](http://www.cityweekend.com.cn/shanghai/listings/dining/italian/has/il-nascondiglio---venetian-private-dinner/)
 [Yuzu 柚日式餐厅](http://www.cityweekend.com.cn/shanghai/listings/dining/italian/has/yuzu/)
 [Va Bene](http://www.cityweekend.com.cn/shanghai/listings/dining/italian/has/va-bene-italian-restaurant/)
-
-AKPC\_IDS += "6773,";

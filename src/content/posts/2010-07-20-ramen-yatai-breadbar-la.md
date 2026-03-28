@@ -32,5 +32,3 @@ description: The standout of the night was the foie gras ramen. In the light bro
 archiveUrl: https://web.archive.org/web/20110105145932/http://www.thethirstypig.com/2010/07/20/ramen-yatai-breadbar-la/
 draft: false
 ---
-
-AKPC\_IDS += "1320,";

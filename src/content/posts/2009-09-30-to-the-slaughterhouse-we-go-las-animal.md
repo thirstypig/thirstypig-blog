@@ -34,5 +34,3 @@ And did I tell you about the pork belly? And I almost had to fault my server for
 In addition we had the bacon chocolate crunch bar, with anglaise. I don’t have an idea what the anglaise is. But the combination of bacon with chocolate brought a new taste sensation in chocolate that I have never tasted before.
 
 I think I will have to make another trip to Animal. I like this place.
-
-AKPC\_IDS += "147,";

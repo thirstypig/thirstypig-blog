@@ -36,4 +36,3 @@ Lower East Side
 New York, NY 10002
 (212) 254-2246
 [www.katzdeli.com](http://www.katzdeli.com/)
-AKPC\_IDS += "51,";

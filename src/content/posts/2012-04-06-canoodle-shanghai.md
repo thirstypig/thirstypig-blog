@@ -34,7 +34,3 @@ Canoodle isn’t that bad. Though I honestly won’t recommend it to anyone. But
 [Dianping Listing](http://www.dianping.com/shop/5399090), [City Weekend Listing](http://www.cityweekend.com.cn/shanghai/listings/dining/taiwanese/has/canoodle/), [City Weekend Post](http://www.cityweekend.com.cn/shanghai/articles/mag-sh/new-eats/oodles-noodles-canoodle/), [Foursquare](https://foursquare.com/v/canoodle/4f5b387be4b0c4b6888b710c), [SH DDMap](http://sh.ddmap.com/map/21/point-957118-%C5%A8%BE%A2-.htm), [City Fu](http://cityfu.com/shanghai/articles/mag-sh/new-eats/oodles-noodles-canoodle/), [Facebook Page](https://www.facebook.com/pages/Canoodle/267288906650653)
 
 **Click on the Pictures below to enlarge**
-
-AKPC\_IDS += "6575,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

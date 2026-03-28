@@ -28,5 +28,3 @@ In this unassuming building in the re-zoned industrial area of Los Angeles, Wurs
 I had the Duck & Bacon with Jalapeño Pepper sausage which was good. I remember it being better with the mustard than without, but I guess that’s personally preference. My friend had the Kielbasa sausage, which was actually a bit better than mine. Like I said before, the fries were great – with the sauces. They also had a nice selection of bottle sodas.
 
 Anyways. . . They are planning to open later than their midnight closing for the late night apres clubbing crowd. They have lots of street parking and is conveniently located in Downtown Los Angeles.
-
-AKPC\_IDS += "118,";

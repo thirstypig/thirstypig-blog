@@ -138,5 +138,3 @@ Located in the heart of Taipei chic XinYi district, Home Hotel has great walking
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Home-Hotel-Taipei-25-494x370.jpg "Home Hotel Taipei")
 
 Special thanks for Theresa, Karen, Elaine, Mavis, Edison, and Jennifer for making my stay memorable.
-
-AKPC\_IDS += "5011,";

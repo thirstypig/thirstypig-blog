@@ -54,5 +54,3 @@ Urban Soup Kitchen
 China
 021-33311861
 [urbansoupkitchen.com](http://www.urbansoupkitchen.com)
-
-AKPC\_IDS += "3764,";

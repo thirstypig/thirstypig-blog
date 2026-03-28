@@ -60,7 +60,5 @@ Famous Boat Noodle with Special Beef 205 BHT
 
 Thai Ice Tea
 
-AKPC\_IDS += "5650,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/23/provence-bangkok/?share=facebook "Share on Facebook")

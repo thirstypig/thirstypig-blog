@@ -108,7 +108,5 @@ Lots of little snacks, gifts, and trinkets
 
 Homemade and hand-packed ice cream
 
-AKPC\_IDS += "5108,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/11/xinyi-public-assembly-hall-taipei/?share=facebook "Share on Facebook")

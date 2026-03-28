@@ -59,5 +59,3 @@ The Bathroom
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-19-494x370.jpg "San Want Hotel, Shanghai")
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-20-494x370.jpg "San Want Hotel, Shanghai")
-
-AKPC\_IDS += "5881,";

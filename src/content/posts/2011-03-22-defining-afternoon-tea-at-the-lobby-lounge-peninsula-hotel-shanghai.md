@@ -20,4 +20,3 @@ draft: false
 ---
 
 When you think of English afternoon tea, you think of high society sipping on tea with crumpets at a posh hotel, like the Peninsula. At the Lobby Lounge, that’s what you’ll find. With a live 3 piece string triplet playing, you can relax the afternoon away.
-AKPC\_IDS += "4258,";

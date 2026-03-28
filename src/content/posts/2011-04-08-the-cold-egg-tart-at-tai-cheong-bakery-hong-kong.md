@@ -35,4 +35,3 @@ Something wonderful happened. . .
 This egg tart 蛋撻 was magnificently great. It was yummalicious! (I should trademark this – exclamation and all). The egg custard filling was firm on top – just enough and gooey inside. The crust was buttery like American apple pie crust, but not greasy. It was actually cold, like a simple Western dessert, which was surprisingly good, regardless. Though, I like a nice warm one, not pipping hot, which I think are the best. I couldn’t believe how good it was. It was way better than other egg tarts from other so-called [specialists](http://www.thethirstypig.com/2010/05/28/portos/). It was flat out one of the best desserts I have ever had.
 
 We both couldn’t stop talking about it all day. This egg tart made my little trip to Hong Kong worth while.
-AKPC\_IDS += "4460,";

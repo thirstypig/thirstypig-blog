@@ -69,4 +69,3 @@ Yellow Door Kitchen
 6/F, Cheung Hing Commercial Building, 37 Cochrane Street, Central
 +852 2858 6555
 [yellowdoorkitchen.com.hk](http://www.yellowdoorkitchen.com.hk)
-AKPC\_IDS += "4465,";

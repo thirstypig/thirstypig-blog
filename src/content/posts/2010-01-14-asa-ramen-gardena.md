@@ -29,7 +29,3 @@ draft: false
 ---
 
 Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.
-
-AKPC\_IDS += "186,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

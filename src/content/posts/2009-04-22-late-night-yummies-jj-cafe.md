@@ -31,6 +31,3 @@ Monterey Park, CA 91754
 Open till 4am everyday
 
 Fu Zhou Fried Rice
-AKPC\_IDS += "86,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

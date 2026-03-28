@@ -40,5 +40,3 @@ description: On this night, I had to arrange dinner for a large group, of about 
 archiveUrl: https://web.archive.org/web/20110105190042/http://www.thethirstypig.com/2010/07/13/ciudad-downtown-los-angeles/
 draft: false
 ---
-
-AKPC\_IDS += "1470,";

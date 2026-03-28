@@ -34,5 +34,3 @@ The mango ice dessert that we had also was really good. Imagine all the goodness
 Lastly, we had some teas. Since this place is called Tea Station, part of the Ten Ren chain, we had to have some teas. I don’t remember what my friends had, but I know I always go for my favorite – the Apple Green Tea. Apples and tea somehow go together nicely. Though it can be a little sweet. And I am pretty sure they use an artificial apple flavored sweeter, I really don’t care. It’s pretty good and I like it, and that’s all that matter. Other teas that I suggest are the hot fruit tea and regular unsweetened green tea.
 
 And if you have time, just wander around the traditional tea shop, next to the sit down area.
-
-AKPC\_IDS += "154,";

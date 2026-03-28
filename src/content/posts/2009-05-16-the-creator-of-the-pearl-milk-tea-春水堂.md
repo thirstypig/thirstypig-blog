@@ -26,6 +26,3 @@ Chun Shui Tang
 台北市南京東路一段29號
 TEL：02-25213359
 [http://www.icetea.com.tw/](http://www.icetea.com.tw/ )
-AKPC\_IDS += "93,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

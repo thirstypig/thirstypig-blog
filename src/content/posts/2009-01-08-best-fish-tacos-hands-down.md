@@ -20,5 +20,3 @@ description: Ok, so a lot of place make fish tacos…some chains and even a plac
 archiveUrl: https://web.archive.org/web/20111103133903/http://www.thethirstypig.com/2009/01/08/best-fish-tacos-hands-down/
 draft: false
 ---
-
-AKPC\_IDS += "42,";

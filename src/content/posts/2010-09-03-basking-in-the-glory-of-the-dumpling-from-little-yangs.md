@@ -24,5 +24,3 @@ draft: false
 ---
 
 There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have something to say.
-
-AKPC\_IDS += "1686,";

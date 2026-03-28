@@ -25,7 +25,5 @@ A slightly more indulgent breakfast is ‘[Youtao](http://www.thethirstypig.com/
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Little-Yangs-Fried-Dumplings-7-494x370.jpg "Little-Yangs-Fried-Dumplings-7-494x370")
 
-AKPC\_IDS += "5981,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/06/breakfast-in-china/?share=facebook "Share on Facebook")

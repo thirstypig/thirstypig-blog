@@ -27,5 +27,3 @@ description: 'Japon Bistro, yes – with an “O”, is located in the heart of 
 archiveUrl: https://web.archive.org/web/20111103132828/http://www.thethirstypig.com/2010/03/07/japon-bistro/
 draft: false
 ---
-
-AKPC\_IDS += "210,";

@@ -31,5 +31,3 @@ The mini cupcakes are just right in my opinion. I don’t necessarily like a hug
 You can see from their website the different custom made cupcakes. You can see the different designs. They take pride in their cupcakes.
 
 Too bad they are located in a high traffic area with more exposure.
-
-AKPC\_IDS += "129,";

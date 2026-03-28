@@ -16,5 +16,3 @@ description: I don’t know how he does it. . .but my buddy makes some of the be
 archiveUrl: https://web.archive.org/web/20110105193223/http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/
 draft: false
 ---
-
-AKPC\_IDS += "26,";

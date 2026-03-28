@@ -17,5 +17,3 @@ description: 'Seating is limited and the wait is rewarded with good service and 
 archiveUrl: https://web.archive.org/web/20110105194438/http://www.thethirstypig.com/2009/12/17/the-open-door-monterey-park/
 draft: false
 ---
-
-AKPC\_IDS += "179,";

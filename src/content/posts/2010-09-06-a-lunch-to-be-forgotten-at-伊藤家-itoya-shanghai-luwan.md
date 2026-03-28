@@ -62,5 +62,3 @@ border: 2px solid #cfcfcf;
 #gallery-2 .gallery-caption {
 margin-left: 0;
 }
-
-AKPC\_IDS += "2150,";

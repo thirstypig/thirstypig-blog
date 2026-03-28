@@ -92,7 +92,5 @@ Brownies!
 
 Mayan also features some pretty spicy hot sauce. You use an eye dropper - for drops of hot sauce. It is pretty hot.
 
-AKPC\_IDS += "5323,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/15/mayan-grill-taipei/?share=facebook "Share on Facebook")

@@ -34,5 +34,3 @@ My stomach got the best of me, when I was looking for some eggs on this recent w
 [City Weekend](http://www.cityweekend.com.cn/shanghai/listings/dining/cafes/has/farmhouse-caffe/), [Smart Shanghai](http://www.smartshanghai.com/venue/6798/The_Farmhouse_Caffe), [Time Out Shanghai](http://www.timeoutshanghai.com/venue/Food__Drink-Cafes__Teahouses/5332/Farmhouse-Caffe.html), [City Weekend Article](http://www.cityweekend.com.cn/shanghai/articles/mag-sh/new-eats/farmhouse-caffe-another-cozy-eatery-yongkang-lu/)
 
 **Click on the Pictures below to enlarge**
-
-AKPC\_IDS += "6620,";

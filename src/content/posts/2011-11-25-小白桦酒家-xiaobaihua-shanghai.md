@@ -120,7 +120,5 @@ Dessert with glutinous rice balls
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-24-494x370.jpg "Xiao Bai Hua")
 
-AKPC\_IDS += "5808,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/25/%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-xiaobaihua-shanghai/?share=facebook "Share on Facebook")

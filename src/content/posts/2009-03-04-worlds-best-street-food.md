@@ -28,7 +28,3 @@ Street cooks are magicians: With little more than a cart and a griddle, mortar, 
 Sadly, street food has acquired a reputation as a potential trip-wrecker, which means too many travelers leave, say, Singapore without having a steaming bowl of fish head curry or a few skewers of saté. No one wants to get sick, but avoiding street food means denying yourself an essential part of the travel experience. So peruse our list of some of the world’s best street food vendors, and don’t be afraid to try something new. But pack a little Pepto—just in case.
 
 The dish: Banh mi
-
-AKPC\_IDS += "69,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

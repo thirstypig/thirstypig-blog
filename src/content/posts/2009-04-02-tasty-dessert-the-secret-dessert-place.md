@@ -30,7 +30,3 @@ Once I saw The Mango Dessert on the menu, I knew I had to order it. I know it wo
 Another dish that I would like try here at Tasty Dessert are the knife cut noodles. These are my favorite style of noodles. They take a large pieces of dough and hand slice, with a knife, strands right into the boiling water. The doughy and soft chewy texture make the noodles unqiue. You can have the noodles in style – dry (without soup), and soupy. Unfortunately, I did not try it. I know of two of places in Southern California that feature this style of noodle.
 
 Anyways. . .overall, I do suggest that you try Tasty Dessert for their unique dishes. With the noodles, I must plan another visit.
-
-AKPC\_IDS += "79,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

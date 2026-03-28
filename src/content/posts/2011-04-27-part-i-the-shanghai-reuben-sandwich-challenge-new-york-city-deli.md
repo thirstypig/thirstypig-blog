@@ -15,7 +15,5 @@ archiveUrl: https://web.archive.org/web/20120118001824/http://www.thethirstypig.
 draft: false
 ---
 
-AKPC\_IDS += "4630,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/04/27/part-i-the-shanghai-reuben-sandwich-challenge-new-york-city-deli/?share=facebook "Share on Facebook")

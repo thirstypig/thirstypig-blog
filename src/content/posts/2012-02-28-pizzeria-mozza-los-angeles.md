@@ -39,8 +39,6 @@ Pizzeria Mozza
 +1 323 297 0101, +1 877 50-MOZZA
 [www.mozza-la.com](http://www.mozza-la.com), [pizzeriamozza.com](http://www.PizzeriaMozza.com)
 
-AKPC\_IDS += "6178,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/02/28/pizzeria-mozza-los-angeles/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/02/28/pizzeria-mozza-los-angeles/?share=email "Click to email this to a friend")

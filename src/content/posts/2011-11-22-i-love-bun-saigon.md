@@ -42,7 +42,5 @@ Pho Noodles
 
 Spicy Noodle Soup
 
-AKPC\_IDS += "5642,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/22/i-love-bun-saigon/?share=facebook "Share on Facebook")

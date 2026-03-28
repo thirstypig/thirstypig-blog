@@ -30,5 +30,3 @@ D. They have old-fashion milk shakes
 I don’t think I have to say much more. . .most of you know about Johnny Rockets and have been there before.
 
 One last note. . . one place in West Los Angeles that features some of the same types of menus – perhaps Johnny Rocket’s copied. . .is the Apple Pan – just great burgers.
-
-AKPC\_IDS += "108,";

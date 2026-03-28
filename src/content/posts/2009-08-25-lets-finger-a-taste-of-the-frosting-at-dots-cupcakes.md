@@ -31,5 +31,3 @@ Dots Cupcakes, probably the most well known of the three – among my friends, h
 I had a mini cupcake of the Lemon Drop and my friend had her favorite Strawberry Shortcake. I was craving for something not too sweet and a bit tart. . . funny – kinda describes some girls I know. I like the mini’s, like the ones at Polkatots. One thing I did like more was the airy cake. Not too sweet – again – and I like that. The frostings is not as pretty as Polkatots, but still quite good. Though the cupcakes at Voilet’s had these great fillings – I don’t know if Dots had them.
 
 At the end of the day. . .I would rank – Violets as my favorite – though I wish they had mini’s. Then I would select Dots, because of the convenience and the mini’s. But Polkatot wouldn’t be that far behind.
-
-AKPC\_IDS += "130,";

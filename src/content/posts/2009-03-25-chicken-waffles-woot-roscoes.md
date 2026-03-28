@@ -36,6 +36,3 @@ Pasadena, CA 91104
 (626) 791-4890<http://www.roscoeschickenandwaffles.com/>
 
 1/2 of a Fried Chicken
-AKPC\_IDS += "77,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -35,5 +35,3 @@ It was a fun little morning just to walk around looking at the different fruits 
 
 Check out my previous post about other farmer’s markets in the Southern California area.
 <http://blog.thethirstypig.com/2009/01/southern-california-farmers-markets.html>
-
-AKPC\_IDS += "119,";

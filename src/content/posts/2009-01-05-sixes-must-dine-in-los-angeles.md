@@ -28,5 +28,3 @@ Sixes – Must Dine in Los Angeles
 6. [Din Tai Fung](http://www.dintaifungusa.com/) – The world renown steamed dumplings, originated from Taiwan.
 
 (edited to include 1 sentence descriptions)
-
-AKPC\_IDS += "39,";

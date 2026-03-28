@@ -23,5 +23,3 @@ description: On this night we were able to sample almost everything on the menu.
 archiveUrl: https://web.archive.org/web/20110105155043/http://www.thethirstypig.com/2010/05/13/seoultown-tapas-2/
 draft: false
 ---
-
-AKPC\_IDS += "240,";

@@ -35,6 +35,3 @@ Los Angeles, CA 90064
 310 575 9337
 11:30am – 9:30pm daily
 <http://www.ramenya-usa.com/>
-AKPC\_IDS += "73,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

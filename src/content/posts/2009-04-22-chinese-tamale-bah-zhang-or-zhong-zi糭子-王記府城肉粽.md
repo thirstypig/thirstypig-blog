@@ -30,5 +30,3 @@ Once my two aunts from Taiwan visited and we all helped make a large batch of th
 王記府城肉粽
 台北市八徳路二段374號
 2731-6647 営業時間 10:00-03:00
-
-AKPC\_IDS += "85,";

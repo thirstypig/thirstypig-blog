@@ -58,7 +58,3 @@ $200 day of the event
 <http://www.platebyplate.org>
 
 Check out the Project by Project facebook page . . . <http://www.facebook.com/group.php?gid=2229201573>
-
-AKPC\_IDS += "114,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

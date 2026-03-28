@@ -24,7 +24,3 @@ draft: false
 4. [El Tepeyac Cafe](http://www.yelp.com/biz/el-tepeyac-cafe-los-angeles) – Hugh portions
 5. [El Abajeno](http://www.yelp.com/biz/el-abajeno-culver-city) – Best Carnitas
 6. [King Taco](http://www.kingtaco.com/) – Quick, Dirty, Fast, and Easy. . .
-
-AKPC\_IDS += "49,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

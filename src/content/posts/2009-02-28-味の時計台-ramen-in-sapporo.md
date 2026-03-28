@@ -25,6 +25,3 @@ draft: false
 The second ramen shop we visited in Sapporo was [味の時計台](http://www.ajino-tokeidai.co.jp/). It is a chain restaurant where you can visit not only in Sapporo, also in Hokkaido, even in Haneda Airport in Tokyo!
 
 ↓ one of the chain shops in the underground shopping street of Susukino Station. This one was not quite new but still lots of customers kept coming in after 2PM!
-AKPC\_IDS += "67,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

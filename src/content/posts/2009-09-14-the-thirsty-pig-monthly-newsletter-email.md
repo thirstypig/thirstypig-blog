@@ -19,5 +19,3 @@ I just want to announce that I am starting a monthly newsletter email. When you 
 
 Here is the Sign up Link for the newsletter
 <http://tiny.cc/pig985>
-
-AKPC\_IDS += "140,";

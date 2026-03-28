@@ -33,21 +33,3 @@ But my experience at Gus's was a good one. Not a great one but good. I did enjoy
 The baby back ribs were good, not exceptional. They had a few different kinds of bbq ribs - St. Louis, Memphis, and Carolina. I couldn't really tell the difference unless I read the menu. In fact they all tasted quite good. I don't really have a preference. In my eyes, good barbeque must have good texture - meaning that the meat has to fall off the bone as you rip it easily from the bone with your teeth. I do like the smokiness of the Carolina's and the sweetness from the Memphis.
 
 I do want to proceed to expand my bbq experience. But in order to do that, I am going to have to try a lot of other BBQ places. If you guys have suggestions, please let me know.
-
-[![](http://2.bp.blogspot.com/_37fRXLoLUPo/SljpsiG1nEI/AAAAAAAAAfk/Ug5ONYRMC-0/s400/IMG_0679.jpg)](http://2.bp.blogspot.com/_37fRXLoLUPo/SljpsiG1nEI/AAAAAAAAAfk/Ug5ONYRMC-0/s1600-h/IMG_0679.jpg)
-[![](http://4.bp.blogspot.com/_37fRXLoLUPo/SljpsLA5flI/AAAAAAAAAfc/mpprQ-EMy7I/s400/IMG_0678.JPG)](http://4.bp.blogspot.com/_37fRXLoLUPo/SljpsLA5flI/AAAAAAAAAfc/mpprQ-EMy7I/s1600-h/IMG_0678.JPG)
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/Sljpr7G9XCI/AAAAAAAAAfU/UfRGYf7LSkI/s400/IMG_0677.jpg)](http://3.bp.blogspot.com/_37fRXLoLUPo/Sljpr7G9XCI/AAAAAAAAAfU/UfRGYf7LSkI/s1600-h/IMG_0677.jpg)
-[![](http://2.bp.blogspot.com/_37fRXLoLUPo/SljpqknpMYI/AAAAAAAAAfM/YBE86f6Y-Co/s400/IMG_0676.jpg)](http://2.bp.blogspot.com/_37fRXLoLUPo/SljpqknpMYI/AAAAAAAAAfM/YBE86f6Y-Co/s1600-h/IMG_0676.jpg)
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/SljpqTVX6NI/AAAAAAAAAfE/dlYmQa56Jtk/s400/IMG_0675.jpg)](http://3.bp.blogspot.com/_37fRXLoLUPo/SljpqTVX6NI/AAAAAAAAAfE/dlYmQa56Jtk/s1600-h/IMG_0675.jpg)
-
-[Rating](http://blog.thethirstypig.com/2009/09/new-thirsty-pig-rating-system.html)
-2 pigs, $
-
-Gus's Barbecue
-808 Fair Oaks
-South Pasadena, CA
-(626) 799-3251
-<http://www.gussbbq.com/>
-
-[![Gus's Barbecue on Urbanspoon](/images/posts/south-pasadenas-own-barbecue-joint-guss/minilink.gif)](http://www.urbanspoon.com/r/5/353111/restaurant/LA/Pasadena/Guss-Barbecue-South-Pasadena)
-[![Gus's Barbeque in Los Angeles](http://www.fooddigger.com/BlogImage/score.ashx?id=18859&uid=8065&rating=)](http://www.fooddigger.com/RestaurantDetail.aspx?id=18859)

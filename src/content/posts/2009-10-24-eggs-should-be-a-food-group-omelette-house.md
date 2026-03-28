@@ -25,7 +25,3 @@ draft: false
 ---
 
 This past week, I had to be in Garden Grove for a short meeting, and needed a pre-meeting place to meet & eat. After scouring yelp for breakfast places, I found the Omelette House.
-
-AKPC\_IDS += "164,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

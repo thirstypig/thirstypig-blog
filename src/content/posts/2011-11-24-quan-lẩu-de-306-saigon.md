@@ -74,7 +74,5 @@ Goat Breast Meat with Herbs
 
 Goat Meat
 
-AKPC\_IDS += "5621,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/24/quan-l%e1%ba%a9u-de-306-saigon/?share=facebook "Share on Facebook")

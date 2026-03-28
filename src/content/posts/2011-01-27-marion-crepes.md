@@ -20,4 +20,3 @@ draft: false
 Crêpes is original French dessert-type pancake. The Japanese have taken crêpes to obsession to create savory meals with them. In Seoul, the franchise from Japan – Marion Crêpes has spread the crêpes to mass markets in malls, like Yongsan iPark Mall.
 
 Just after watching a movie and lunch, we decided to have crêpes for dessert. After browsing the some 30 odd selections including sweet and savory ones, I decided on the ever popular (number #3 choice) ham & cheese crêpe. We also decided on the sweets strawberry ice cream and cheese cake crêpe.
-AKPC\_IDS += "3395,";

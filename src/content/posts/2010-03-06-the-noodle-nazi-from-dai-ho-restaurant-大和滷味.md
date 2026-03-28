@@ -23,5 +23,3 @@ description: 'This place has been around for almost 10 years. Dai Ho’s owner, 
 archiveUrl: https://web.archive.org/web/20110106000131/http://www.thethirstypig.com/2010/03/06/the-noodle-nazi-from-dai-ho-restaurant-%e5%a4%a7%e5%92%8c%e6%bb%b7%e5%91%b3/
 draft: false
 ---
-
-AKPC\_IDS += "209,";

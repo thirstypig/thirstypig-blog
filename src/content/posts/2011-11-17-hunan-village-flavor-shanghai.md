@@ -77,7 +77,5 @@ The Pork Chop. This dish had great flavor and is recommended.
 
 剁椒鱼头 Duojiao Opium Fish Head - 48 RMB
 
-AKPC\_IDS += "5217,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/17/hunan-village-flavor-shanghai/?share=facebook "Share on Facebook")

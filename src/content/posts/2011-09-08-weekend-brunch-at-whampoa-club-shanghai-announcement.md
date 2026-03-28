@@ -27,7 +27,5 @@ Three on the Bund, 5F, 3 Zhongshan Dongyi Road, Shanghai
 Links
 [Food Tourist](http://www.foodtourist.com/ftguide/Content/I2126.htm), [Smart Shanghai](http://www.smartshanghai.com/venue/435/Whampoa_Club_shanghai), [Chowhound Discussion](http://chowhound.chow.com/topics/322027), [Zagat](http://www.zagat.com/r/whampoa-club-shanghai-china), [Dining City](http://www.diningcity.com/restaurants/en/china/shanghai/restaurantwhampoaclub/index.html;jsessionid=BA84B711EC8C4658D7DEB3D49B95487F), [City weekend](http://www.cityweekend.com.cn/shanghai/listings/dining/shanghai/has/whampoa-club/)
 
-AKPC\_IDS += "5511,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/?share=facebook "Share on Facebook")

@@ -35,5 +35,3 @@ Price Range 3 $/¥/NT
 台北市民生東路三段8號B1
 No. 8, Ming Sheng East Road, Section 3, B1
 +886 2-2503-2215
-
-AKPC\_IDS += "6402,";

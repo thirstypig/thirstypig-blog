@@ -56,4 +56,3 @@ Delicious Kitchen
 銅鑼灣加寧街9-11號地下B舖
 Shop B, 9-11 Cleveland Street, Causeway Bay, Hong Kong Island Side
 +852 2577 8350
-AKPC\_IDS += "4496,";

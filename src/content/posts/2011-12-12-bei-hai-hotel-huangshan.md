@@ -137,7 +137,5 @@ Scrambled eggs with tomatoes - lunch
 
 Fried Rice - Lunch
 
-AKPC\_IDS += "5895,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/12/bei-hai-hotel-huangshan/?share=facebook "Share on Facebook")

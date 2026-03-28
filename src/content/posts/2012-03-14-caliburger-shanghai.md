@@ -55,5 +55,3 @@ Caliburger
 Sun-Thu 10am-10pm, Fri-Sat 10am-Midnight
 
 Click here to enlarge the pictures
-
-AKPC\_IDS += "6332,";

@@ -33,5 +33,3 @@ draft: false
 ---
 
 Curry has origins from India, yet, is arguably perfected in Japan. House Foods Corporation has spread the Curry Gospel to the US with the Curry House. See [my previous post](http://www.thethirstypig.com/2010/01/16/curry-house-rowland-heights/) about the Rowland Heights location, a few month ago. In [2004](http://housefoods.jp/en/company/information/history.html), House Foods, opened CoCo Curry House.
-
-AKPC\_IDS += "1573,";

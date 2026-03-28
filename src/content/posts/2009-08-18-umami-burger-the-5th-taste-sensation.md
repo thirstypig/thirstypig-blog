@@ -27,5 +27,3 @@ At this Umami Burger, open sometime last year, I had to try their signature Burg
 Their fries and onion rings are really good and compliment each of the burgers. I did get a chance to try the pork burger – which I enjoyed a bit more than the Umami one. i would go back to Umami to have the other burgers, not necessarily the umami one. In Los Angeles, we are fortunate to have some many gourmet burgers. Though, I am not suppose to eat too much red meat, with my occasional bouts with gout.
 
 As to what I said before about Japanese people and the way they eat. Japanese eat with their eyes. Chinese eat with their mouths. Korean eat with their stomachs. Japanese take presentation of food of a higher importance. Chinese people enjoy taste more than their counterparts. And Koreans like the fire in their bellies.
-
-AKPC\_IDS += "126,";

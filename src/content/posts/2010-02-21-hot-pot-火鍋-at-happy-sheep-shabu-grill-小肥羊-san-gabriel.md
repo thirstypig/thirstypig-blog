@@ -28,4 +28,3 @@ draft: false
 ---
 
 Happy Sheep Shabu Shabu is traditional Chinese hot pot restaurant featuring the goodness of Lamb!
-AKPC\_IDS += "203,";

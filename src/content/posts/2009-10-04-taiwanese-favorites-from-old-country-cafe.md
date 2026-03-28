@@ -40,7 +40,3 @@ I used to come here years ago to just have their shaved ice. They were one of th
 I know white people wouldn’t think of walking in here to eat, unless dragged in by an Asian. But being American born, I have a lot of American/Western taste sensibilities. I know white people could easily eat this stuff without issue if they only tried it. We’re not talking about intestine or oysters or other crazy things that Taiwanese people eat, I talking about pork chops, fried chicken boneless chicken breast, and soups. These are simple things. Anyways. . .
 
 To some of my friends Old Country Cafe is sort of like Denny’s but to me, it is a great treat since I don’t have it as much.
-
-AKPC\_IDS += "151,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

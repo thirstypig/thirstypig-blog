@@ -38,7 +38,3 @@ Our entrees came – the Orange Roughy and my Beef Short ribs. I was hesitate to
 The dessert – the “Hot Stuff” Chocolate Cake was good to round out the meal. It was nicely presented. I didn’t expect it to be that good – but it was good.
 
 I wouldn’t say that this place is overrated since I have not been here before, nor is this a place I would strongly consider going back again. Though i am tempted to try the Bacon Wrapped Filet Mignon on their sizzling dish. I feel that Hot Stuff Cafe is a nice place for dinner but not an ideal place for lunch. The selections for lunch are similar to that of dinner.
-
-AKPC\_IDS += "146,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

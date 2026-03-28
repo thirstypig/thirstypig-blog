@@ -24,5 +24,3 @@ description: 'The soup base at Daikokuya is quite good. But you can take it to a
 archiveUrl: https://web.archive.org/web/20110106005043/http://www.thethirstypig.com/2010/05/13/daikokuya/
 draft: false
 ---
-
-AKPC\_IDS += "577,";

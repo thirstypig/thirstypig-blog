@@ -111,7 +111,5 @@ Banana fritter
 
 Banana fritter dessert
 
-AKPC\_IDS += "5423,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/05/lemongrass-saigon/?share=facebook "Share on Facebook")

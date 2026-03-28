@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — January 26, 2022](/images/posts/ig-2022-01-26-instagram-post-january-26-2022/18368246005170001.jpg)
-

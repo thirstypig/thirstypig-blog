@@ -17,7 +17,3 @@ description: 'The popovers are so good that they actually give you the recipe to
 archiveUrl: https://web.archive.org/web/20110105154925/http://www.thethirstypig.com/2009/12/15/blt-steakhouse/
 draft: false
 ---
-
-AKPC\_IDS += "177,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

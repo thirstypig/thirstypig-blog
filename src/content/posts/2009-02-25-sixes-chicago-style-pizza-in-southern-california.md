@@ -19,5 +19,3 @@ draft: false
 4. Numero Uno Pizza, various locations
 5. [BJ’s Restaurant & Brewhouse](http://www.bjsbrewhouse.com/), Various locations
 6. [Rush Street](http://www.rushstreetculvercity.com), Culver City
-
-AKPC\_IDS += "64,";

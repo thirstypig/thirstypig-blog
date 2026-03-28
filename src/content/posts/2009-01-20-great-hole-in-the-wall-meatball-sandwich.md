@@ -18,5 +18,3 @@ description: Sorry but the picture just does not do the sandwich any justice. Ju
 archiveUrl: https://web.archive.org/web/20110105203405/http://www.thethirstypig.com/2009/01/20/great-hole-in-the-wall-meatball-sandwich/
 draft: false
 ---
-
-AKPC\_IDS += "52,";

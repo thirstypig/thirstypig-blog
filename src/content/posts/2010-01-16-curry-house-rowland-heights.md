@@ -24,7 +24,3 @@ draft: false
 ---
 
 This is the last in a series of Japanese restaurants. I started earlier this week with Yoshida Sushi, Shin Sen Gumi, Cafe Hiro, and now The Curry House.
-
-AKPC\_IDS += "188,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

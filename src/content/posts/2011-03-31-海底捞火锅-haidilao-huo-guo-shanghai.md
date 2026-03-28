@@ -19,4 +19,3 @@ draft: false
 ---
 
 Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimentary services. With dozens of locations throughout China, Haidilao is one of the well-known hot pot chains.
-AKPC\_IDS += "4366,";

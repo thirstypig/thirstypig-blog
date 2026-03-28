@@ -32,7 +32,3 @@ Boring is far from the experience of the nachos, here at Michoacan. They had lar
 I don’t know why my friends ordered carne asada burritos at a place called Carnitas Michoacan. I knew I had to order something Carnitas, so I got the carnitas burrito. OMIGOSH. . .the sauce, which is dark red in color, was awesome. I am not usually accustomed to any red colored (ass burning) sauce. But this sauce was great. Not too spicy. Just right, in fact. And you know what. . . the burritos need this sauce, it gives it a bite and more flavor. Personally, I like carnitas more than carne asada (I’m probably one of the few).
 
 Anyways. .. check the place out. . .go there after clubbing and drinking. You won’t regret it. On another note. . . there is nothing better than Orange Bang! Whipped, Sweet, and Yummy!!! I might try to add a little vodka in the future.
-
-AKPC\_IDS += "128,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

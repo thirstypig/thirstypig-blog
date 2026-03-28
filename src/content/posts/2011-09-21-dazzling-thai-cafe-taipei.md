@@ -106,7 +106,5 @@ Minced Pork with Rice and Egg
 
 Dazzling Yogurt Strawberry 150 NTD
 
-AKPC\_IDS += "5284,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/21/dazzling-thai-cafe-taipei/?share=facebook "Share on Facebook")

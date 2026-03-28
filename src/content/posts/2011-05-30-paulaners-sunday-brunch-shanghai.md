@@ -96,7 +96,5 @@ Mountain Cheese Special, Melted Cheese on Toasted Farm Bread, Topped with cooked
 
 Paulaner's famous Apple Strudel
 
-AKPC\_IDS += "4615,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/05/30/paulaners-sunday-brunch-shanghai/?share=facebook "Share on Facebook")

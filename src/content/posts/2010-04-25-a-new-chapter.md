@@ -17,4 +17,4 @@ With regard to my online journal featuring me, The Thirsty Pig & friends, I have
 
 Only hours away from my trip, I realize I still have content to post. During this last week with my LA bucket list – I went to some of my old favorites and some exciting Foo-Foo ones that I wouldn’t have necessarily tried. I hope to show you Bazaar, Chaya, Gjelina, and others soon.
 
-Anyways. . .once I get settled in, I hope share new food adventures with you all.AKPC\_IDS += "253,";
+Anyways. . .once I get settled in, I hope share new food adventures with you all.

@@ -47,4 +47,3 @@ New Star Seafood
 旺角廣華街15-33號明威閣地下至2樓
 G/F-2/F, Mainway Court, 15-33 Kwong Wa Street, Mong Kok
 [newstar-catering.com](http://newstar-catering.com/)
-AKPC\_IDS += "4423,";

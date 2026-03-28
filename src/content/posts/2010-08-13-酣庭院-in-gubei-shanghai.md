@@ -39,4 +39,3 @@ draft: false
 ---
 
 The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit that area more often in the future. But on this night, we were able to get our Korean classmates to bring us to have food of their land.
-AKPC\_IDS += "1775,";

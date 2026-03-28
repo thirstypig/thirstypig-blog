@@ -33,5 +33,3 @@ We each ordered a sandwich and a side. I got the pork with blue cheese and a sid
 Unfortunately, the parking is horrible. Only street and some 3 dollar lots, during the day. I suggest that you circle around the block nearby and hope for the best. The parking meters are also 3 dollars/hour as well. So, make sure you bring lots of coins. With a soda and a side with a sandwich, expect your bill to be about USD 15+ per person plus tip.
 
 Another note, Cole’s is not only a great sandwich place, but is also a nice Downtown bar. It’s a great place to have a drink if you don’t want the large club atmospheres. Downtown LA’s Artwork, which is once a month, goes right by Cole’s. It’s a great place to eat before or after the artwork as well. Cole’s sister bars in downtown also have similar vibes – Broadway Bar and Golden Gopher. These two bar/lounges are my personal favorites.
-
-AKPC\_IDS += "75,";

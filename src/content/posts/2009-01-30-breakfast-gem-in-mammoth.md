@@ -32,7 +32,3 @@ Breakfast Club
 2987 Main Street
 
 Mammoth Lakes, CA 93546
-
-AKPC\_IDS += "58,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

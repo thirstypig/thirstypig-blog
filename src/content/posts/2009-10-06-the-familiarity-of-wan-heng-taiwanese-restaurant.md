@@ -40,5 +40,3 @@ Then we had the Bbh-zhang, which is a Taiwanese steamed rice burrito. I love bah
 At some of these restaurants, you can also purchase frozen water dumplings and bah-zhang, and Wan Heng’s specialty – Taiwanese Sausage. My friend tempted me to purchase some sausage to go, but I realized, I can’t exactly cook it well. Anyways . . .I should learn.
 
 Of all the different Taiwanese restaurants in the San Gabriel valley, Wan Heng is one of the better ones. This hole-in-wall has been here for years and will continue, hopefully, for years to come. It is located right next to one of the better Vietnamese Pho restaurants – Golden Deli.
-
-AKPC\_IDS += "153,";

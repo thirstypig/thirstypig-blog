@@ -17,7 +17,5 @@ draft: false
 ---
 
 The Xin Jiang Province, شىنجاڭ‎ or 新疆, is located in the far west portion of China. With a population that is heavily influenced from the Kazaks and Hans, there is a blending of the different cultures and cuisines.
-AKPC\_IDS += "4346,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/03/21/horse-meat-at-%e8%a5%bf%e5%9f%9f%e9%a3%8e%e6%83%85-xinjiang-style-restaurant-shanghai/?share=facebook "Share on Facebook")

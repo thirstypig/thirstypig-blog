@@ -32,4 +32,3 @@ At the end of the day, I like animal style, but wouldn’t order every time. I l
 You can find out more about the In-N-Out secret menu here
 
 <http://en.wikipedia.org/wiki/In-N-Out_Burger_products>
- AKPC\_IDS += "138,";

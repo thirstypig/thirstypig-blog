@@ -24,5 +24,3 @@ draft: false
 ---
 
 Not your typical Korean restaurant . . . Kobawoo has pretty good pork – bossam dish. It seems that I am attracted to pork, not sure why.
-
-AKPC\_IDS += "199,";

@@ -39,5 +39,3 @@ Follow them on Twitter to find out where they will be. I know I do . . .
 Marked5
 <http://www.marked5.com>
 <http://twitter.com/Marked5>
-
-AKPC\_IDS += "113,";

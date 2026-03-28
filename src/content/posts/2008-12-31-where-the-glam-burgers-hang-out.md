@@ -49,7 +49,3 @@ The Terrace. Though there’s a great sirloin burger on the nightly menu, on Sun
 25 Degrees. This retro hotel bar serves flavorful, assemble-your-own burgers, wrapped in parchment like a gift. Hollywood Roosevelt Hotel, 7000 Hollywood Blvd., Hollywood, (323) 785-7244. $9 and up. [http://www.25degreesrestaurant.com](http://www.25degreesrestaurant.com/)
 
 – Amy Scattergood
-
-AKPC\_IDS += "29,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

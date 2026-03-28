@@ -86,7 +86,5 @@ The interior is like an antique store crossed with a cafe.
 
 At 164 Nanchang Road
 
-AKPC\_IDS += "5137,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/31/restaurant-art-salon-shanghai/?share=facebook "Share on Facebook")

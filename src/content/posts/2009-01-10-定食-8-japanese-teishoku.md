@@ -30,5 +30,3 @@ I hardly write things in English, other than work related stuff. Since my uncle\
 You wouldn’t believe I had lunch in 2 days at the same restaurant! (hmmm actually different branches) I am fascinated of the cheap Japanese teishoku and the rice.
 
 This restaurant is a sub-business of Sushi Express Group (爭鮮). It has [8 different Japanese teishoku](http://www.sushi-express.com.tw/sushi_group/set/sayap2.php), each costs NT$200. Rice, miso soup, sauces and cabbage salad are all free to refill – ALL YOU CAN EAT.
-
-AKPC\_IDS += "44,";

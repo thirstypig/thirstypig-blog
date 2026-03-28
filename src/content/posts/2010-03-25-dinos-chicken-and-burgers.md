@@ -23,5 +23,3 @@ description: Holy crap . . . what a find. Did you know that Dino’s has the mos
 archiveUrl: https://web.archive.org/web/20110105085647/http://www.thethirstypig.com/2010/03/25/dinos-chicken-and-burgers/
 draft: false
 ---
-
-AKPC\_IDS += "224,";

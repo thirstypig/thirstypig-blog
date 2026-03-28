@@ -20,7 +20,3 @@ draft: false
 ---
 
 A decent burger from the East Coast, Five Guys Burgers and Fries, makes its way to my stomach. Though the image of the burger is not appetizing . . .almost looks like a sad burger, it is actually a pretty good burger.
-
-AKPC\_IDS += "175,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

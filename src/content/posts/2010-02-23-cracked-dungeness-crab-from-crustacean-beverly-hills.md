@@ -33,5 +33,3 @@ description: Our food adventure tonight brought us to Crustacean. Originally we 
 archiveUrl: https://web.archive.org/web/20110105031501/http://www.thethirstypig.com/2010/02/23/cracked-dungeness-crab-from-crustacean-beverly-hills/
 draft: false
 ---
-
-AKPC\_IDS += "204,";

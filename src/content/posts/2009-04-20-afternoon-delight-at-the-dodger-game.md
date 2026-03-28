@@ -29,5 +29,3 @@ The bratwurst, another new feature for the last few years, is catered to those w
 The garlic fries and the chili cheese fries were probably the best thing, after the dogs. The chili, with bean and all, was quite good. One of the best chili cheese fries I had had. If I remember correctly, the chili cheese fries were about $5 and the garlic ones about $5 as well. I know my friends enjoyed the fries.
 
 All and all, the food at Dodger Stadium is pretty good. In fact, most people in LA go to the game for the dogs. . . and hope for a win at the game. Personally, I like both equally.
-
-AKPC\_IDS += "84,";

@@ -57,5 +57,3 @@ Shanghai Slims
 Bldg. 10-12, Sinan Mansions, 523 Fuxing Zhong Lu, near Sinan Lu
 Luwan, Shanghai, China
 +86 21-64260171
-
-AKPC\_IDS += "4110,";

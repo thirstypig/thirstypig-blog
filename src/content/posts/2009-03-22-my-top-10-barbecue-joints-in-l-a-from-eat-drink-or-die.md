@@ -26,6 +26,3 @@ From Michael Lippman’s Blog on Eat, Drink or Die -
 Why are people so passionate about barbecue? Why does barbecue take hold of the imagination so strongly? What about barbecue gives it an almost spiritual dimension? And … where’s the best barbecue in Los Angeles? (with links)
 
 1. [JAY BEE’S BAR-B-Q](http://www.jaybeesbbq.com/)
-AKPC\_IDS += "76,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

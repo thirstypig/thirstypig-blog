@@ -16,5 +16,3 @@ draft: false
 ---
 
 Opulence is the word that I would choose in describing modern Chinese cuisine and interior restaurant decor. Fabulous, flashy, glamorous, bold, exciting, intriguing, are other words I would pick. TMSK, South Beauty, and Lan all represent stylistic statements in both food and design.
-
-AKPC\_IDS += "1674,";

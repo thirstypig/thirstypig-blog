@@ -27,7 +27,3 @@ draft: false
 ---
 
 I found this place on a recommendation from a friend. We were looking for a non-Asian place to go. Then my buddy starts talking about a cafe, how cool it is, with artwork, and great burgers. All I heard blah blah blah and GREAT BURGERS!
-
-AKPC\_IDS += "193,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

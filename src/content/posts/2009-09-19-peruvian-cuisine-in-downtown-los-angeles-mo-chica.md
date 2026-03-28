@@ -36,7 +36,3 @@ Tonight, on this Monday, the space was sparse and felt like a lazy Sunday. I was
 The purple corn tea and the cebada, the barley herbal drink was something to round off the meal. I liked the old fashion jugs they had with the drinks.
 
 Tonight’s event was a success in introducing my palate to finer Peruvian Cuisine. It is a hidden gem among the many other Latin food experiences here Los Angeles.
-
-AKPC\_IDS += "143,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

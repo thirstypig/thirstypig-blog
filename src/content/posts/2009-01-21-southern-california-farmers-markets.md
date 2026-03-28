@@ -31,7 +31,3 @@ Saturdays,
 
 Here’s a link for more farmers’ markets.
 <http://www.farmernet.com>
-
-AKPC\_IDS += "53,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

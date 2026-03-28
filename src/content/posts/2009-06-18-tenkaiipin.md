@@ -14,7 +14,3 @@ description: Thank goodness they moved my favorite ramen spot from Waikiki to Ka
 archiveUrl: https://web.archive.org/web/20110106005730/http://www.thethirstypig.com/2009/06/18/tenkaiipin/
 draft: false
 ---
-
-AKPC\_IDS += "105,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

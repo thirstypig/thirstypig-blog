@@ -88,7 +88,3 @@ One of the private dining rooms.
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Ye-Olde-Shanghai-Station-03-494x369.jpg "Ye Olde Shanghai Station")
 
 You can see the old railway cars just beyond the windows. Yes, I know I should have gotten a better picture or two.
-
-AKPC\_IDS += "4900,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

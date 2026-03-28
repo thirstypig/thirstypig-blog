@@ -34,5 +34,3 @@ I’m not saying that I don’t like it. I did like it. In fact, my high school 
 I wouldn’t suggest the quesadilla, since they are like a burrito but more oily and greasy. Its just cheese, and lots of it, in a tortilla, but shaped like a burrito. I shouldn’t have ordered it last time.
 
 And OMIGOD, did I tell you about the Taco Lita sauce? This stuff is great. Not spicy, but a bit tangy and vinegary. I know some people liken this to ketchup. But I dig it with almost anything. I even save it for other tacos and burritos.
-
-AKPC\_IDS += "145,";

@@ -31,7 +31,5 @@ Tel: (+86) 21 6467 1001 / Fax: (+86) 21 6467 1002
 电话：（+86）21 6467 1001 – 传真：（+86）21 6467 1002
 [www.pluswines.com](http://www.pluswines.com)
 
-AKPC\_IDS += "5985,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/06/plus-wines-holiday-tasting-event-on-december-10-in-shanghai/?share=facebook "Share on Facebook")

@@ -43,5 +43,3 @@ The popcorn chicken, another dish I ordered, is an old standby that I got, that 
 One of the best things about Jurassic is the alcohol. The Beer, sold by the pitchers, is cheap and good. They have amber bock, by Michelob, and a few different Sake’s. One of my favorite sake we drank was Sho Chiku Bai, which is a ginjo sake. Don’t ask me what a ginjo sake is, but I am trying to refine my sake taste and learn more about sake. I think sake goes well with spicy food, since the alcohol cuts through the spiciness and the vinegar.
 
 Anyways. . . I am not sure I would venture out this far for Jurassic again. I think there are other Taiwanese places that are comparable in this area, if not better.
-
-AKPC\_IDS += "152,";

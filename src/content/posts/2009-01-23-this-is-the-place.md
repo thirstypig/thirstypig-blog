@@ -18,7 +18,3 @@ description: Nickel Diner opened on Main Street in Downtown Los Angeles last Aug
 archiveUrl: https://web.archive.org/web/20110105203001/http://www.thethirstypig.com/2009/01/23/this-is-the-place/
 draft: false
 ---
-
-AKPC\_IDS += "55,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

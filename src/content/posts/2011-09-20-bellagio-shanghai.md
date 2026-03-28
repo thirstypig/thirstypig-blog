@@ -84,7 +84,5 @@ The Egg omelette. Goes great with rice.
 
 Fruit Tea and a Iced Mango with Jelly
 
-AKPC\_IDS += "5567,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/20/bellagio-shanghai/?share=facebook "Share on Facebook")

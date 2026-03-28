@@ -21,4 +21,3 @@ draft: false
 ---
 
 On a recent trip to Harbin, I got to try and sample some of the local cuisine. I went to a restaurant called 正宗杀猪菜 从头吃到尾 (translated as Authentic butcher food – End from the beginning to eat). They specialize in the Pig.
-AKPC\_IDS += "3610,";

@@ -26,7 +26,3 @@ Grub
 Los Angeles, CA 90038
 (323) 461-3663
 <http://www.grub-la.com/>
-
-AKPC\_IDS += "25,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

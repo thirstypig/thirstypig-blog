@@ -25,5 +25,3 @@ I forget the namse, but I know where it is. Every time I go back to Hong Kong, n
 BBQ Pork on Rice is comfort food in Hong Kong, like mac’n cheese in the States. You can almost find a Cantonese BBQ restaurant every couple of blocks in Hong Kong. In Los Angeles, you can find plenty of them in Chinatown, Monterey Park, and Alhambra, going by the name Sam Woo BBQ. Though the states have BBQ pork, they rarely have great BBQ pork. I have yet to find a great BBQ pork place that I can frequent. And I’ve tried a lot of places.
 
 The key about GREAT BBQ pork is the fat content. The ideal BBQ is not lean, but with about 50% fat – for flavor and texture. Otherwise, without the fat, the pork meat is a bit tough and doesn’t melt in your mouth. BBQ pork is sweet, yet savory – a great combination. One of my friends hates these types of tummy-filling meals – he thinks its just meat and rice.. . . . I just think he can’t appreciate the simple things in life.
-
-AKPC\_IDS += "120,";

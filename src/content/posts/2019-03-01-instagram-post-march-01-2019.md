@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — March 01, 2019](/images/posts/ig-2019-03-01-instagram-post-march-01-2019/18020035756120786.jpg)
-

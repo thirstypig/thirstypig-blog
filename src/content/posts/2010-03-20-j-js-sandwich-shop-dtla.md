@@ -22,5 +22,3 @@ description: J J’s Sandwich Shop is the type of place where you could literall
 archiveUrl: https://web.archive.org/web/20110319224901/http://www.thethirstypig.com:80/2010/03/20/j-js-sandwich-shop-dtla/
 draft: false
 ---
-
-AKPC\_IDS += "220,";

@@ -45,5 +45,3 @@ draft: false
 [DOZO](http://www.dozo.com.tw/) is not an ordinary Japanese restaurant – mixed of izakaya (dining bar), lounge bar with very creative Japanese cuisine. The price is not ordinarily cheap either…….that was why every time I came here only for company events.
 
 I love nearly every dish we ordered – really enjoy the food, atmosphere and bear/cocktails! oh, of course, also enjoyed the time with friends/colleagues.
-
-AKPC\_IDS += "63,";

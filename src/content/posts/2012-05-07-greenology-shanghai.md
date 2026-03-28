@@ -12,5 +12,3 @@ description: Click on the pictures above to enlarge
 archiveUrl: https://web.archive.org/web/20120512113116/http://www.thethirstypig.com:80/2012/05/07/greenology-shanghai/
 draft: false
 ---
-
-AKPC\_IDS += "6732,";

@@ -19,4 +19,3 @@ draft: false
 ---
 
 One of the things to see in Harbin during the winter months is the Snow Sculpture Festival. Along with the more famous [Winter Ice Festival](http://www.thethirstypig.com/2011/02/01/harbin-ice-sculpture-festival-哈尔滨国际冰雪节/), the snow sculpture festival features many craftsman like structures.
-AKPC\_IDS += "3822,";

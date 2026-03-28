@@ -50,5 +50,3 @@ Homegirl Cafe
 Los Angeles, CA 90012
 (323) 526-1254
 [homeboy-industries.org/homegirl-cafe](http://www.homeboy-industries.org/homegirl-cafe.php)
-
-AKPC\_IDS += "396,";

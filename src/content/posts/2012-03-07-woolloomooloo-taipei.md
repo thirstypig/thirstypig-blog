@@ -34,8 +34,6 @@ Woolloomooloo
 No. 379 Xinyi Road Section 4, Taipei 台北市信義路四段379號 +886 2 8789 0128
 No. 95, Fujin Street, Taipei 台北市富錦街95號, +886 2 2546 8318
 
-AKPC\_IDS += "6429,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/03/07/woolloomooloo-taipei/?share=facebook "Share on Facebook")
 - [Email](http://www.thethirstypig.com/2012/03/07/woolloomooloo-taipei/?share=email "Click to email this to a friend")

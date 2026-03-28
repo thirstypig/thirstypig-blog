@@ -41,7 +41,3 @@ Din Tai Fung
 Arcadia, CA 91007
 (626) 574-7068
 <http://www.dintaifungusa.com/>
-
-AKPC\_IDS += "41,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

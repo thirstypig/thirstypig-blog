@@ -25,5 +25,3 @@ One story I’d like to share, was when I was at a cafe in Ningbo, China – wai
 Godmother
 \*1.5 oz. Vodka
 \*1.5 oz. Amaretto
-
-AKPC\_IDS += "100,";

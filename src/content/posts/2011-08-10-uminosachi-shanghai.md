@@ -31,7 +31,5 @@ Uminosachi (海之幸)
 新乐路169号, 近东湖路
 +86 21 5403 0303
 
-AKPC\_IDS += "4945,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/10/uminosachi-shanghai/?share=facebook "Share on Facebook")

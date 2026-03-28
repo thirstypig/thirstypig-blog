@@ -20,7 +20,3 @@ draft: false
 ---
 
 I started writing about food in 1996 with my first website – LA Jimmy’s Ultimate Dining Guide. This was when I first worked for a short lived Internet firm in Los Angeles – Emagine Studios. This foray was my hobbie at the time. I used Frontpage to build the site. These listings are so old that some of these establishments are no longer here. Some have changed names or closed.
-
-AKPC\_IDS += "22,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

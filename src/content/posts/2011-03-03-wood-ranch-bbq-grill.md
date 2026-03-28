@@ -21,4 +21,3 @@ draft: false
 ---
 
 Barbecue is a backyard American tradition. The birthright of males, during summer weekends, can be tasted over barbecuing grills. Steaks, hot dogs, and chicken are skillfully torched. The popularity of traditional regional barbecue of beef brisket, pulled pork, and hot links can be seen butchered by amateur Barbecuists.
-AKPC\_IDS += "4064,";

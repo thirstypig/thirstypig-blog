@@ -30,4 +30,3 @@ draft: false
 ---
 
 Radio Room with the best bartenders in the country.
-AKPC\_IDS += "226,";

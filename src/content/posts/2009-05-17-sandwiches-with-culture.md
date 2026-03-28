@@ -13,5 +13,3 @@ draft: false
 
 I saw these posting from the Chicago Tribune. To see more about sandwiches click here.
 <http://www.chicagotribune.com/features/lifestyle/chi-090513-sandwiches-pg,0,2544727.photogallery>
-
-AKPC\_IDS += "94,";

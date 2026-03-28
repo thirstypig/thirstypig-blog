@@ -27,7 +27,3 @@ Young Dong Tofu
 927 E Las Tunas Dr
 San Gabriel, CA 91776
 (626) 286-6031
-
-AKPC\_IDS += "87,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

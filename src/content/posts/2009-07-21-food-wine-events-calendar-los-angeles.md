@@ -42,7 +42,3 @@ LA BBQ Festival
 May 9th/10th, 2009, Noon-6pm
 Santa Monica Beach Pier
 $10, $50
-
-AKPC\_IDS += "110,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

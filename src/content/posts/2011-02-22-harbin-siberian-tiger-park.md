@@ -16,4 +16,3 @@ draft: false
 ---
 
 Harbin’s Siberian Tiger Park is unique outdoor wildlife conservatory. Which essentially means an outdoor zoo, with Siberian Tigers.
-AKPC\_IDS += "3929,";

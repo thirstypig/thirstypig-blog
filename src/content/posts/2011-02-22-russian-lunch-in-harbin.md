@@ -22,4 +22,3 @@ draft: false
 ---
 
 The best meal I had in Harbin was at this Russian Restaurant near our hotel. Though I forgot the name of the restaurant on central street 中央大街, I have pictures to bring back fond memories.
-AKPC\_IDS += "3631,";

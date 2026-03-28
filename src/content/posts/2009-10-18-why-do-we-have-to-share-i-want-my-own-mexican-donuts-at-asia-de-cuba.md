@@ -66,7 +66,3 @@ Funny thing, just prior, this same friend replied from a question from her husba
 “Uh, no, why do we have to share. I want my own!”, she replied.
 
 Anyways. . . this night brought back some nice memories of the place, since I hadn’t been here in years. But I think if taking everything into consideration – traffic, locale, price points, and food . . . unfortunately, Asia de Cuba doesn’t get high marks this time.
-
-AKPC\_IDS += "157,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

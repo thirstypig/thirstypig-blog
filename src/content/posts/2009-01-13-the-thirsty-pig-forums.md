@@ -13,7 +13,3 @@ draft: false
 ---
 
 [The Thirsty Pig Forums](http://n2.nabble.com/The-Thirsty-Pig-Forums-f2129134.html)
-
-AKPC\_IDS += "45,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

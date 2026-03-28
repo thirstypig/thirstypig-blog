@@ -42,4 +42,3 @@ open daily from 7:30am to midnight.
  [A link from open rice](http://www.openrice.com/restaurant/sr2.htm?shopid=2049)
 
 lo bak go, Turnip cake and taro cake (the purple one)
-AKPC\_IDS += "81,";

@@ -38,4 +38,3 @@ draft: false
 ---
 
 Miss C made the daring selection for us tonight. Since she is Korean, I trust her judgment in K-Town selections . . . thank goodness. She said she noticed Man Soo, which was opening, while driving around in K-Town. . .
-AKPC\_IDS += "202,";

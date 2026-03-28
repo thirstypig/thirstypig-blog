@@ -39,4 +39,3 @@ draft: false
 ---
 
 I attended the LA Weekly 2nd Annual Gold Standard Food & Wine Event at the Petersen Automotive Museum with my friend Miss J. I just wanted to show this car, since it is my favorite car of all time.
-AKPC\_IDS += "207,";

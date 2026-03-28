@@ -19,4 +19,3 @@ draft: false
 ---
 
 There is a part of Seoul that is called Toppokki Town 떡볶이 타운. It started with small restaurant called Sinadong Toppokki 신당동 떡볶이 in 1953. These ladies produced 떡볶이 Toppokki or Ddukbokki, which is a dish similar to Budaejeongol in which a communal bowl is share with lots of goodies are boiled and cooked together. Now as grandmothers, with their pictures all on the wall, you see their fame from TV shows, newspaper, and magazines. You’ll still see some of the grandmothers working to this day.
-AKPC\_IDS += "3349,";

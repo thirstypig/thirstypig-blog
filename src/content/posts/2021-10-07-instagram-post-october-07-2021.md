@@ -10,4 +10,3 @@ images:
 ---
 
 ![Instagram Post — October 07, 2021](/images/posts/ig-2021-10-07-instagram-post-october-07-2021/17909989010012261.jpg)
-

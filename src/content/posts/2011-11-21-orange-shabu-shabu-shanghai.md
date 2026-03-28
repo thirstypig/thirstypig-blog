@@ -80,5 +80,3 @@ This one of the unique treats at Orange - the rice porridge they make using the 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-20-494x368.jpg "Orange Hot Pot Shanghai")
 
 The flan custard dessert
-
-AKPC\_IDS += "5311,";

@@ -29,5 +29,3 @@ This dessert is so good that, it once beat out pumpkin pie at a Thanksgiving din
 I had the seared tuna sandwich and my friend had the poached salmon. As a big fan Tuna steak sandwiches, I knew I had to order it. The tuna itself was good, though the bread was not the best choice. This panini roll was a bit tough. I would have preferred either a white or wheat style bread, rather than a roll. But, I would order it again. The poached salmon was good, just the right size for lunch. But I didn’t come here for the sandwiches or fish. . . .I came here for the dessert!
 
 The Rose Cafe is a great little neighborhood lunch/brunch place. On the northern section of Main Street, in Venice, The cafe offer either a walk up counter or a waitress service dining area. There is outdoor seating for both. There is even a little gift shop next door that features some handicrafts and wares of local artisans. The airy building sits in on a lot with ample parking in the back.
-
-AKPC\_IDS += "121,";

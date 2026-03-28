@@ -27,5 +27,3 @@ draft: false
 ---
 
 On the edge of J-Town, yet still part of Downtown exist a new must-and-check-out space, Lazy Ox Canteen.
-
-AKPC\_IDS += "190,";

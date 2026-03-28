@@ -44,5 +44,3 @@ Hwang Hae Do
 429 N Western Ave
 Los Angeles, CA 90004
 (323) 468-3839
-
-AKPC\_IDS += "632,";

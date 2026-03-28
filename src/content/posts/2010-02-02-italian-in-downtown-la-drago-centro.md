@@ -27,7 +27,3 @@ draft: false
 ---
 
 Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their [menu](http://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445) during their promotion. Unfortunately, I didn’t get to try their dineLA menu.
-
-AKPC\_IDS += "196,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

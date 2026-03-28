@@ -23,5 +23,3 @@ draft: false
 ---
 
 One of my first experiences, of many, at Tommy’s was during my freshman year at USC. I was in the USC marching band, and they had a hazing ritual that included a trip to Tommy’s with their famous chili. All the freshman were required to eat/drink a concoction with chili and root beer. The upperclassmen also added bits and pieces of the pepperoncini’s, onions, fries, and anything else they could get their hands on. Luckily, I think, I just got root beer and chili. This rite of passage was special since the band often went to Tommy’s after sporting events, gigs, and performances.
-
-AKPC\_IDS += "165,";

@@ -72,7 +72,5 @@ Sandwich. Sorry, I forgot the name of this fried egg breakfast sandwich. It sure
 
 Their weekend brunches, on both Saturday and Sunday, go from 12 to 3pm.
 
-AKPC\_IDS += "4890,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/02/brunch-at-madison-shanghai/?share=facebook "Share on Facebook")

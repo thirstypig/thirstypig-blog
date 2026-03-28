@@ -20,4 +20,3 @@ draft: false
 ---
 
 Joy Hing is your typical Siu Mei, Cantonese Deli Restaurant located in Wan Chai. This is your greasy grimy hole-in-the-wall restaurant that everyone loves, but hates to admit. You sit on short round stool sharing tables with often 5 or 6 strangers, elbow to elbow. I think I’ve been to Joy Hing at least 10 times. This is one of my required visits whenever I visit Hong Kong.
-AKPC\_IDS += "4451,";

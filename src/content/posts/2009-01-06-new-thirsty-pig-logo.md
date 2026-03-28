@@ -16,5 +16,3 @@ draft: false
 ---
 
 I want to thank sochon for designing the new Thirsty Pig Logo. I think its great. I know others have told me that they all like it!
-
-AKPC\_IDS += "40,";

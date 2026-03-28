@@ -74,7 +74,5 @@ Stir fried vegetables
 
 Outdoor courtyard
 
-AKPC\_IDS += "5607,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/10/12/naj-exquisite-thai-cuisine-bangkok/?share=facebook "Share on Facebook")

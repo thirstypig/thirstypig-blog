@@ -15,7 +15,3 @@ description: 'Monterey Park’s own izakaya spot. Opened by two friends from the
 archiveUrl: https://web.archive.org/web/20110105144728/http://www.thethirstypig.com/2009/05/24/the-open-door/
 draft: false
 ---
-
-AKPC\_IDS += "96,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

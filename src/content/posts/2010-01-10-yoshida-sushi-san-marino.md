@@ -28,5 +28,3 @@ draft: false
 ---
 
 I’ve heard about Yoshida for awhile now. I have been meaning to go, but never had a chance. Thought I rarely try new sushi restaurants due to my personal sushi policy.
-
-AKPC\_IDS += "183,";

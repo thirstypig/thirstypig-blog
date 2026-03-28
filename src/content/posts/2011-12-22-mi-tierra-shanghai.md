@@ -67,7 +67,5 @@ Chicken Fajitas
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-07-494x370.jpg "Mi Tierra Shanghai")
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-08-494x370.jpg "Mi Tierra Shanghai")
 
-AKPC\_IDS += "5810,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/22/mi-tierra-shanghai/?share=facebook "Share on Facebook")

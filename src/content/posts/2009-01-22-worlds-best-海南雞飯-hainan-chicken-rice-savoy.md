@@ -33,7 +33,3 @@ Alhambra, CA 91801
 Hours:
 Mon-Thu. 11:00 a.m. – 9:30 p.m.
 Fri-Sat. 11:00 a.m. – 10:00 p.m.
-
-AKPC\_IDS += "54,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -65,7 +65,5 @@ Fish Soup
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-13-494x368.jpg "Taipei Restaurant")
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-14-494x368.jpg "Taipei Restaurant")
 
-AKPC\_IDS += "5166,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/16/tu-hsiao-yueh-on-nanjing-east-road-night-market-taipei/?share=facebook "Share on Facebook")

@@ -26,4 +26,3 @@ Hodori
 1001 South Vermont Avenue #102
 Los Angeles, CA 90006-2756
 (213) 383-3554
-AKPC\_IDS += "31,";

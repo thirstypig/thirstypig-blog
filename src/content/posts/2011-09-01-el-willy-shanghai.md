@@ -78,7 +78,5 @@ Crispy suckling pig cooked 12 hours, apple tatin & 5 spice sauce 88 RMB
 
 Willy's very special lobster & mixed seafood dry paella 388 RMB
 
-AKPC\_IDS += "5398,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/01/el-willy-shanghai/?share=facebook "Share on Facebook")

@@ -21,6 +21,4 @@ draft: false
 [.](http://www.addtoany.com/share_save)
 
 Budaejeongol 부대전골 style of meal is common type of gathering in Asia. We see communal bowls, pots, dishes, and plates that people share in different cultures and cuisines. In China, hot pot is common and cause for celebration, in Japan Shabu Shabu is sometimes shared with a boiling cauldron, and in Korea – they seem to share everything.
-AKPC\_IDS += "3383,";
-
 [.](http://www.addtoany.com/share_save)

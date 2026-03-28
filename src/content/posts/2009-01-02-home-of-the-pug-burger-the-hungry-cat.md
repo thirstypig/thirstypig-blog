@@ -28,4 +28,3 @@ The Hungry Cat
 Hollywood, CA 90028
 (323) 462-2155
 <http://www.thehungrycat.com/>
-AKPC\_IDS += "30,";

@@ -28,7 +28,3 @@ Located just west of Echo Park and north of the 101, Cha Cha Cha is located righ
 But they also have food. . . pretty good food, too. When you get a chance, make sure you get the Jerk Chicken Pizza, Mushrooms, Fried Yuca, and the Empanadas. If only ordering for two, this is more than enough food. The Jerk Chicken Pizza is probably my favorite. The Jerk sweetness and spicyness is one of those things, when you think of it, your mouth starts to water. Traditional tapas is spanish cuisine. I always get the Yuca, as well. If you go with a larger group, try the paella. I’m sure you’ll also go through a pitcher or two of the Sangria.
 
 They have valet parking, since street parking is not readily available. Expect to spend about $30+ per person including alcohol.
-
-AKPC\_IDS += "82,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

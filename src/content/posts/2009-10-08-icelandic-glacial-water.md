@@ -26,7 +26,3 @@ From what I’ve learned and unlike other bottle waters, IGW uses 100% carbon ne
 
 Icelandic Glacial Water
 [http://www.icelandicglacial.com](http://www.icelandicglacial.com/)
-
-AKPC\_IDS += "155,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

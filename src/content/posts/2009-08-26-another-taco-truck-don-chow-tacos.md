@@ -28,7 +28,3 @@ Anyways. . . Lawrence and Dominic, of Don Chowâ€™s Tacos, feature Tacos, Tortaâ€
 Anyways. .. check them out at
 [http://www.donchowtacos.com](http://www.donchowtacos.com/)
 <http://twitter.com/donchowtacos>
-
-AKPC\_IDS += "131,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

@@ -29,7 +29,3 @@ $$ – Typical casual dining and around $20 or so
 $$$ – Expected exceptional dining with pricing $25+
 
 I am going to try to go back and put ratings on my past posts. In addition, you will be able to sort through the rating system on the cloud of categories.
-
-AKPC\_IDS += "144,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

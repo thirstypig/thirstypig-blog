@@ -136,7 +136,5 @@ I was hungry
 
 My Pho Noodles. Excellent Breakfast
 
-AKPC\_IDS += "5351,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/09/09/intercontinental-asiana-saigon-ho-chi-minh-city/?share=facebook "Share on Facebook")

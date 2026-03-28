@@ -44,4 +44,3 @@ Then you move to a showcase room with imagery featuring the recent past of China
 [China Pavilion No. 2](http://vimeo.com/15721848) from [The Thirsty Pig](http://vimeo.com/user4644147) on [Vimeo](http://vimeo.com).
 
 There was also an statue of four horses, in a separate area, which was 2000 years old. Quite impressive, though I expected a bit more, since we stood in a line just to see it.
-AKPC\_IDS += "2596,";

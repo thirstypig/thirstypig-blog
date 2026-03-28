@@ -32,5 +32,3 @@ description: 'Perhaps I should have made a few more visits to Bottega Louie, but
 archiveUrl: https://web.archive.org/web/20110105090531/http://www.thethirstypig.com/2010/03/26/breakfast-at-bottega-louie/
 draft: false
 ---
-
-AKPC\_IDS += "225,";

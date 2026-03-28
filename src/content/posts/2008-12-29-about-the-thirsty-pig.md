@@ -18,7 +18,3 @@ Hole-in-the-Wall restaurants, Japanese and Sushi, almost all types of Chinese. C
 
 My dislikes. . .
 Super Spicy (BTS is bad!), anything dairy unfortunately . . I do not like Vodka straight . . . still reeling from my experience in College. . .
-
-AKPC\_IDS += "24,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

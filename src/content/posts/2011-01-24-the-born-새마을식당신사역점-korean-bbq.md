@@ -72,6 +72,4 @@ border: 2px solid #cfcfcf;
 margin-left: 0;
 }
 
-AKPC\_IDS += "3189,";
-
 [.](http://www.addtoany.com/share_save)

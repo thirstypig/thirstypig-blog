@@ -26,5 +26,3 @@ Yung Ho (永和豆漿)
 533 W Valley Blvd
 San Gabriel, CA 91776
 (626) 570-0860
-
-AKPC\_IDS += "88,";

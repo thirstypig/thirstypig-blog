@@ -80,7 +80,5 @@ Kimchi Fried Rice! Yummy!
 
 Mapowu's version of Kimchi fried rice is good, but not the best I have had. I wish it was a little more spicier.
 
-AKPC\_IDS += "4923,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/08/mapuwu-shanghai/?share=facebook "Share on Facebook")

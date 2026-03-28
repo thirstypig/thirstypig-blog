@@ -38,5 +38,3 @@ Aside from the wraps – the other thing I want to rave about is the sides. They
 I’ve been to the location in Westwood and Santa Monica and they are all the same – crazy busy at lunch. They are so busy at lunch, they have a separate line for the take out/phone-in line. You could see a rack full of to-go order ready to go. If i worked closer or lived closer to one – I’d probably go more often.
 
 I’ve tried countless other wraps at other restaurants and chicken places and “california cuisine” spots – but nothing compares to California Chicken Cafe. I fully recommend going there for lunch.
-
-AKPC\_IDS += "133,";

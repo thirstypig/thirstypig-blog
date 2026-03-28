@@ -123,5 +123,3 @@ Just Chicken Soup. A flavorful consume
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-20-494x370.jpg "Dessert")
 
 Fried Sweet Bread Sticks
-
-AKPC\_IDS += "4292,";

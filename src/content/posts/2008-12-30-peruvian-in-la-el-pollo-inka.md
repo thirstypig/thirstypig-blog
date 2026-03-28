@@ -28,7 +28,3 @@ Ste 12
 Gardena, CA 90248
 (310) 516-7378
 [www.elpolloinka.com](http://www.elpolloinka.com)
-
-AKPC\_IDS += "27,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

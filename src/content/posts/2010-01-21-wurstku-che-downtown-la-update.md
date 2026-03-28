@@ -27,5 +27,3 @@ I was recently back at Wurstküche again. Not much has changed since I first we
 
 Check out my first post about it, here.
 <http://blog.thethirstypig.com/2009/06/wurstkuche-restaurant.html>
-
-AKPC\_IDS += "192,";

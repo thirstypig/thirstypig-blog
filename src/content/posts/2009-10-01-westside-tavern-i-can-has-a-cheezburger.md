@@ -44,7 +44,3 @@ Included in its choices for entrees, for tonight, we could either have the chees
 I hoped that my dessert, the bread pudding, would make up for my bad choice for the entree. But I was wrong. Though it looked great and sounded great, the dessert was way too sweet. I wasn’t expecting all that chocolate to be blended in the dessert. It was just way too sweet for my taste. I had a bite of the toffee cake, which was quite good. I thought it looked like a chocolate cake. It wasn’t that sweet which fit my taste quite well.
 
 Aside from the bread pudding and the cheeseburger, I liked Westside Tavern. Good location, at the Westside Pavilion, with either free self parking or valet parking in the back.
-
-AKPC\_IDS += "149,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

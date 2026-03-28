@@ -27,5 +27,3 @@ draft: false
 ---
 
 A good friend of mine, who works at Google, invited me to have lunch at their main campus recently. She choose Pintxo 47, since this week the menu is inspired by Thomas Keller. Pintxo 47 is the Google Cafe that specializes in tapas.
-
-AKPC\_IDS += "168,";

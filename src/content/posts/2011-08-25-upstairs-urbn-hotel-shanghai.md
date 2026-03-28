@@ -64,7 +64,5 @@ Great place to chill after a date
 
 Moet Chandon is the primary sponsor for Upstairs
 
-AKPC\_IDS += "5388,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/08/25/upstairs-urbn-hotel-shanghai/?share=facebook "Share on Facebook")

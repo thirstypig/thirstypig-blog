@@ -16,7 +16,3 @@ description: Located in Downtown LA with an impressive wine collection. I went f
 archiveUrl: https://web.archive.org/web/20110105144344/http://www.thethirstypig.com/2009/05/24/drago-centro/
 draft: false
 ---
-
-AKPC\_IDS += "97,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

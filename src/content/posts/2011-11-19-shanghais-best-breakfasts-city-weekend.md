@@ -27,7 +27,5 @@ Yummy!
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-18-at-11.37.33-AM-494x426.jpg "Screen Shot of City Weekend")
 
-AKPC\_IDS += "5770,";
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/19/shanghais-best-breakfasts-city-weekend/?share=facebook "Share on Facebook")

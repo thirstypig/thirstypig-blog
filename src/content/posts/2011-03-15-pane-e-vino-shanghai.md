@@ -19,4 +19,3 @@ draft: false
 ---
 
 Sometimes food prepared the traditional simple manner is all you need. But of course you need quality ingredients. Echo and her husband, Antonio have done just that. With imported Italian floor, spices, and wines, Pane e Vino is able to recreate time tested & honored recipes, here in Shanghai.
-AKPC\_IDS += "2685,";

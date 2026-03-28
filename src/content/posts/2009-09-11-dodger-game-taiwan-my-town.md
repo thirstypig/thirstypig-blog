@@ -33,7 +33,3 @@ The Shacha Sauce Spiced Pork wasn’t that good, in my opinion. I could barely t
 Personally, I think this is a great promotion for the Dodgers. These seats, in section 56 and 60, are the worst seats in the house. These seats are even worse than the outfield pavilion seats – where at least you can catch a homerun. But the dodgers and the community leaders created this night that people crave for. The T-Shirt is probably the driving factor. I repeated asked different souvenir vendors if they had the My Town t-shirts sold after each of those nights – each time with the polite answer of No. I recently saw a Filipino My Town Shirt on ebay going for $68.99. I do wish the price of the tickets – plus the $5.50 service charge was a bit lower. But it appears, that demand will maintain this lofty price – I know the USC My Town section is sold out.
 
 Other countries that the LA Dodgers have honored includes the Dominican Republic, Mexico, USC, UCLA, Italy, Korea, the Philippines.
-
-AKPC\_IDS += "137,";
-
-Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]

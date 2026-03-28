@@ -20,5 +20,3 @@ description: 'Excellent view. Creative plating. This is a perfect ladies’ lunc
 archiveUrl: https://web.archive.org/web/20110831194927/http://www.thethirstypig.com/2009/06/20/mariposa-of-neiman-marcus/
 draft: false
 ---
-
-AKPC\_IDS += "106,";
