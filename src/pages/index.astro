@@ -54,6 +54,33 @@ const topCategories = [...categoryMap.entries()]
 		<PostGrid posts={recentPosts} />
 	</section>
 
+	<!-- Quick Links -->
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 border-t border-cream-dark">
+		<div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-12">
+			<a href="/best-of" class="flex items-center gap-3 p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group">
+				<span class="text-2xl">🏆</span>
+				<div>
+					<span class="font-serif font-bold text-ink group-hover:text-amber transition-colors">Best Of</span>
+					<p class="text-xs text-stone">Curated lists by cuisine & region</p>
+				</div>
+			</a>
+			<a href="/map" class="flex items-center gap-3 p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group">
+				<span class="text-2xl">📍</span>
+				<div>
+					<span class="font-serif font-bold text-ink group-hover:text-amber transition-colors">Map</span>
+					<p class="text-xs text-stone">Explore restaurants on a map</p>
+				</div>
+			</a>
+			<a href="/search" class="flex items-center gap-3 p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group">
+				<span class="text-2xl">🔍</span>
+				<div>
+					<span class="font-serif font-bold text-ink group-hover:text-amber transition-colors">Search</span>
+					<p class="text-xs text-stone">Find any restaurant or cuisine</p>
+				</div>
+			</a>
+		</div>
+	</section>
+
 	<!-- Categories -->
 	{topCategories.length > 0 && (
 		<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 border-t border-cream-dark">

@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Map" description="Explore restaurants on a map — The Thirsty Pig food blog.">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Restaurant Map</h1>
+		<p class="text-stone mb-6">Explore all the places we've eaten, across LA and around the world.</p>
+
+		<!-- Map container -->
+		<div id="map" class="w-full h-[500px] sm:h-[600px] rounded-xl border border-cream-dark shadow-sm mb-4"></div>
+		<p id="map-count" class="text-sm text-stone"></p>
+	</section>
+
+	<!-- Leaflet CSS -->
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+	<!-- Leaflet JS -->
+	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+	<script>
+		async function initMap() {
+			const resp = await fetch('/map.json');
+			const markers = await resp.json();
+
+			// @ts-ignore
+			const L = window.L;
+			const map = L.map('map').setView([34.05, -118.25], 10);
+
+			L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+				attribution: '&copy; OpenStreetMap contributors',
+				maxZoom: 18,
+			}).addTo(map);
+
+			// Cluster-like approach: use circle markers for density
+			const markerGroup = L.featureGroup();
+
+			markers.forEach((m: any) => {
+				const color = m.closed ? '#9A3412' : '#B45309';
+				const marker = L.circleMarker([m.lat, m.lng], {
+					radius: 6,
+					fillColor: color,
+					color: '#fff',
+					weight: 1.5,
+					opacity: 1,
+					fillOpacity: 0.85,
+				});
+
+				const imgHtml = m.heroImage
+					? `<img src="${m.heroImage}" alt="${m.title}" style="width:200px;height:130px;object-fit:cover;border-radius:6px;margin-bottom:6px;" loading="lazy" />`
+					: '';
+				const closedBadge = m.closed
+					? '<span style="color:#9A3412;font-weight:bold;font-size:11px;"> CLOSED</span>'
+					: '';
+
+				marker.bindPopup(`
+					<div style="max-width:220px;font-family:system-ui;">
+						${imgHtml}
+						<a href="/posts/${m.id}/" style="font-weight:600;font-size:14px;color:#1A1A1A;text-decoration:none;">
+							${m.title}${closedBadge}
+						</a>
+						<div style="font-size:12px;color:#78716C;margin-top:4px;">
+							${m.city}${m.region && m.region !== m.city ? ' · ' + m.region : ''} · ${m.date}
+						</div>
+					</div>
+				`);
+
+				markerGroup.addLayer(marker);
+			});
+
+			markerGroup.addTo(map);
+
+			// Fit bounds to show all markers
+			if (markers.length > 0) {
+				map.fitBounds(markerGroup.getBounds().pad(0.1));
+			}
+
+			document.getElementById('map-count')!.textContent =
+				`${markers.length} restaurants mapped`;
+		}
+
+		initMap();
+	</script>
+</BaseLayout>

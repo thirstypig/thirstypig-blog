@@ -49,6 +49,24 @@ const pathname = Astro.url.pathname;
 					Categories
 				</a>
 				<a
+					href="/search"
+					class:list={[
+						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
+						pathname === '/search' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+					]}
+				>
+					Search
+				</a>
+				<a
+					href="/map"
+					class:list={[
+						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
+						pathname === '/map' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+					]}
+				>
+					Map
+				</a>
+				<a
 					href="/about"
 					class:list={[
 						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
@@ -77,6 +95,8 @@ const pathname = Astro.url.pathname;
 				<a href="/" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Home</a>
 				<a href="/posts" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Archive</a>
 				<a href="/categories" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Categories</a>
+				<a href="/search" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Search</a>
+				<a href="/map" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Map</a>
 				<a href="/about" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">About</a>
 			</div>
 		</div>

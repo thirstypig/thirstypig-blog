@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search" description="Search The Thirsty Pig blog for restaurants, cuisines, and locations.">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Search</h1>
+		<p class="text-stone mb-6">Find restaurants, cuisines, and locations across all posts.</p>
+
+		<!-- Search input -->
+		<div class="relative mb-8">
+			<input
+				id="search-input"
+				type="text"
+				placeholder="Search restaurants, cities, cuisines..."
+				class="w-full px-4 py-3 pl-12 rounded-xl border border-cream-dark bg-white text-ink placeholder-stone focus:outline-none focus:border-amber focus:ring-2 focus:ring-amber/20 text-lg"
+				autocomplete="off"
+			/>
+			<svg class="absolute left-4 top-3.5 w-5 h-5 text-stone" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+				<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+			</svg>
+		</div>
+
+		<!-- Results count -->
+		<p id="results-count" class="text-sm text-stone mb-4"></p>
+
+		<!-- Results grid -->
+		<div id="search-results" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+		</div>
+
+		<!-- No results -->
+		<div id="no-results" class="hidden text-center py-12">
+			<p class="text-stone text-lg">No posts found. Try a different search term.</p>
+		</div>
+	</section>
+</BaseLayout>
+
+<script>
+	let searchIndex: any[] = [];
+	let debounceTimer: number;
+
+	async function loadIndex() {
+		const resp = await fetch('/search.json');
+		searchIndex = await resp.json();
+	}
+
+	function search(query: string) {
+		if (!query || query.length < 2) {
+			renderResults(searchIndex.slice(0, 12));
+			document.getElementById('results-count')!.textContent = `Showing recent posts. ${searchIndex.length} total posts.`;
+			return;
+		}
+
+		const terms = query.toLowerCase().split(/\s+/);
+		const results = searchIndex.filter(post => {
+			const searchable = [
+				post.title, post.description, post.location,
+				post.city, post.region, ...post.categories, ...post.tags
+			].join(' ').toLowerCase();
+			return terms.every(term => searchable.includes(term));
+		});
+
+		renderResults(results.slice(0, 30));
+
+		const countEl = document.getElementById('results-count')!;
+		const noResultsEl = document.getElementById('no-results')!;
+
+		if (results.length === 0) {
+			countEl.textContent = '';
+			noResultsEl.classList.remove('hidden');
+		} else {
+			countEl.textContent = `${results.length} result${results.length === 1 ? '' : 's'} found`;
+			noResultsEl.classList.add('hidden');
+		}
+	}
+
+	function renderResults(posts: any[]) {
+		const container = document.getElementById('search-results')!;
+		const noResults = document.getElementById('no-results')!;
+		noResults.classList.add('hidden');
+
+		container.innerHTML = posts.map(post => {
+			const isClosed = post.tags?.some((t: string) => t.toLowerCase() === 'closed') || post.title.toLowerCase().includes('closed');
+			const cats = (post.categories || []).slice(0, 3);
+			const dateStr = new Date(post.date).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' });
+
+			return `
+				<article class="group">
+					<a href="/posts/${post.id}/" class="block no-underline">
+						<div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-gradient-to-br from-amber/5 to-rust/5 mb-3">
+							${post.heroImage
+								? `<img src="${post.heroImage}" alt="${post.title}" class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 ${isClosed ? 'grayscale opacity-75' : ''}" loading="lazy" />`
+								: `<div class="w-full h-full flex items-center justify-center"><span class="font-serif text-4xl text-amber/30">TP</span></div>`
+							}
+							${isClosed ? '<div class="absolute top-3 right-3 bg-[#9A3412] text-[#FAF7F2] text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wide shadow-lg">Closed</div>' : ''}
+						</div>
+						<div class="space-y-1.5">
+							${cats.length > 0 ? `<div class="flex flex-wrap gap-1.5">${cats.map((c: string) => `<span class="text-xs font-medium text-[#B45309] bg-[#B45309]/10 px-2 py-0.5 rounded-full">${c}</span>`).join('')}</div>` : ''}
+							<h3 class="font-serif text-lg font-semibold ${isClosed ? 'text-[#78716C]' : 'text-[#1A1A1A]'} group-hover:text-[#B45309] transition-colors leading-snug">${post.title}</h3>
+							<p class="text-sm text-[#78716C]">${dateStr}</p>
+						</div>
+					</a>
+				</article>
+			`;
+		}).join('');
+	}
+
+	// Initialize
+	loadIndex().then(() => {
+		search('');
+
+		const input = document.getElementById('search-input') as HTMLInputElement;
+		input.addEventListener('input', () => {
+			clearTimeout(debounceTimer);
+			debounceTimer = window.setTimeout(() => {
+				search(input.value.trim());
+			}, 200);
+		});
+
+		// Focus on load
+		input.focus();
+	});
+</script>

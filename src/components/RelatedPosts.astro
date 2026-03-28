@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	currentId: string;
+	categories?: string[];
+	tags?: string[];
+	city?: string;
+	cuisine?: string[];
+	limit?: number;
+}
+
+const { currentId, categories = [], tags = [], city, cuisine = [], limit = 4 } = Astro.props;
+
+// Get all posts
+const allPosts = (await getCollection('posts')).filter(p => !p.data.draft && p.id !== currentId);
+
+// Score each post by relevance
+const scored = allPosts.map(post => {
+	let score = 0;
+	const postCats = post.data.categories || [];
+	const postTags = post.data.tags || [];
+	const postCuisine = post.data.cuisine || [];
+
+	// Matching categories (high weight)
+	for (const cat of categories) {
+		if (postCats.includes(cat)) score += 3;
+	}
+
+	// Matching city
+	if (city && post.data.city === city) score += 5;
+
+	// Matching cuisine
+	for (const c of cuisine) {
+		if (postCuisine.includes(c)) score += 2;
+	}
+
+	// Matching tags
+	for (const tag of tags) {
+		if (postTags.includes(tag)) score += 1;
+	}
+
+	return { post, score };
+}).filter(s => s.score > 0)
+  .sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
+  .slice(0, limit);
+---
+
+{scored.length > 0 && (
+	<div class="mt-12 pt-8 border-t border-cream-dark">
+		<h3 class="font-serif text-xl font-bold text-ink mb-6">You might also enjoy</h3>
+		<div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+			{scored.map(({ post }) => {
+				const isClosed = (post.data.tags || []).some(t => t.toLowerCase() === 'closed');
+				return (
+					<a href={`/posts/${post.id}/`} class="flex gap-4 no-underline group">
+						<div class="relative w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden bg-cream-dark">
+							{post.data.heroImage ? (
+								<img
+									src={post.data.heroImage}
+									alt={post.data.title}
+									class:list={[
+										'w-full h-full object-cover group-hover:scale-105 transition-transform duration-300',
+										isClosed && 'grayscale opacity-75'
+									]}
+									loading="lazy"
+								/>
+							) : (
+								<div class="w-full h-full flex items-center justify-center bg-gradient-to-br from-amber/10 to-rust/10">
+									<span class="font-serif text-xl text-amber/30">TP</span>
+								</div>
+							)}
+							{isClosed && (
+								<div class="absolute top-1 right-1 bg-rust text-cream text-[10px] font-bold px-1.5 py-0.5 rounded-full uppercase">
+									Closed
+								</div>
+							)}
+						</div>
+						<div class="flex-1 min-w-0">
+							<h4 class="font-serif text-sm font-semibold text-ink group-hover:text-amber transition-colors leading-snug line-clamp-2">
+								{post.data.title}
+							</h4>
+							<p class="text-xs text-stone mt-1">
+								<FormattedDate date={post.data.pubDate} />
+							</p>
+							{post.data.city && (
+								<p class="text-xs text-stone mt-0.5">{post.data.city}</p>
+							)}
+						</div>
+					</a>
+				);
+			})}
+		</div>
+	</div>
+)}
