@@ -15,8 +15,12 @@ categories:
 description: Here are three sites that I came across about Pizza. One is about a one man’s quest to make a great pizza – in Atlanta. Another is from men’s magazine that talks about US’s top 25 pizzas. And the last
 archiveUrl: https://web.archive.org/web/20110105232054/http://www.thethirstypig.com/2009/08/11/pizza-pizza-pizza/
 draft: false
-location: Pizza Pizza Pizza . . .
+location: Pizza Patron
 city: Los Angeles
+address: 223 W Anaheim St, Wilmington, CA 90744
+coordinates:
+  lat: 33.780102
+  lng: -118.264189
 ---
 
 Here are three sites that I came across about Pizza. One is about a one man’s quest to make a great pizza – in Atlanta. Another is from men’s magazine that talks about US’s top 25 pizzas. And the last site is about a blog about pizzas in Los Angeles.

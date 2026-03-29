@@ -23,9 +23,13 @@ tags:
 - fish
 - soup
 description: Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid q
-location: Cantonese dinner with friends
+location: Friends of Foster Children
 city: Arcadia
 region: San Gabriel Valley
+address: 1105 Arcadia Ave, Arcadia, CA 91007
+coordinates:
+  lat: 34.139916
+  lng: -118.035407
 ---
 
 ![Cantonese dinner with friends](/images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17962773406078568.jpg)

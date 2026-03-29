@@ -19,9 +19,13 @@ tags:
 - sandwich
 - burbank
 description: Cubans sandwich with a refugiado and concha. Was a good sandwich. Been craving a Cubano for a long time. . . . .
-location: Cubans sandwich with a refugiado and concha
+location: Inspire Martial Arts & Fitness
 city: Burbank
 region: San Fernando Valley
+address: 175 E Olive Ave (at San Fernando Blvd.), Burbank, CA 91502
+coordinates:
+  lat: 34.180761
+  lng: -118.309185
 ---
 
 ![Cubans sandwich with a refugiado and concha](/images/posts/ig-2020-06-29-cubans-sandwich-with-a-refugiado-and-concha/18093424357172102.jpg)

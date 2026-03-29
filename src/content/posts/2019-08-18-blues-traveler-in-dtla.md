@@ -16,9 +16,13 @@ tags:
 - summerconcert
 - music
 description: Blues Traveler in DTLA. Summer concerts at Pershing Park. . . . .
-location: Blues Traveler in DTLA
+location: Row Dtla
 city: Downtown LA
 region: Los Angeles
+address: 777 Alameda St, Los Angeles, CA 90021
+coordinates:
+  lat: 34.03369
+  lng: -118.2413
 ---
 
 ![Blues Traveler in DTLA](/images/posts/ig-2019-08-18-blues-traveler-in-dtla/17849594749553529.jpg)

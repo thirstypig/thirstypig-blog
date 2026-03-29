@@ -28,7 +28,11 @@ tags:
 description: Seemly a Hollywood story, Starry Kitchen started its humble beginnings out of a small kitchen apartment. They had weekly dining events jam packed with friends and family. Soon, more friends of friends
 archiveUrl: https://web.archive.org/web/20110105184343/http://www.thethirstypig.com/2010/07/19/starry-kitchen-of-downtown-los-angeles/
 draft: false
-location: Starry Kitchen of Downtown Los Angeles
+location: Hermes Bitcoin ATM - Downtown Los Angeles
 city: Los Angeles
 region: Los Angeles
+address: 221 W 8th St, Los Angeles, CA 90014
+coordinates:
+  lat: 34.043634
+  lng: -118.254231
 ---

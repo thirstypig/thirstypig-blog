@@ -12,9 +12,13 @@ tags:
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20161018205729/http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/
 draft: false
-location: C’est Cupcake 口袋蛋糕
+location: C'est Cupcake
 city: Shanghai
 region: Shanghai
+address: Changning, 上海市
+coordinates:
+  lat: 31.195433
+  lng: 121.378896
 ---
 
 

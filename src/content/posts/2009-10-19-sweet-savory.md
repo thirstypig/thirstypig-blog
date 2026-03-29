@@ -30,9 +30,13 @@ tags:
 description: Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.
 archiveUrl: https://web.archive.org/web/20111103144203/http://www.thethirstypig.com/2009/10/19/sweet-savory/
 draft: false
-location: Sweet & Savory
+location: Sweetfin Poké
 city: Santa Monica
 region: Westside
+address: 829 Broadway (at Lincoln Ct), Santa Monica, CA 90401
+coordinates:
+  lat: 34.018755
+  lng: -118.489466
 ---
 
 Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.

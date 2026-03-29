@@ -16,12 +16,16 @@ tags:
 - oc
 - theoc
 description: Lunch with Shanghai friends, who now live in Irvine. A good hearty bowl of ramen on a hot summer day! The standard Hakata Ramen. . . . .
-location: Lunch with Shanghai friends
+location: Pepper Lunch
 city: Irvine
 region: Orange County
 categories:
 - Irvine
 - Orange County
+address: 2750 Alton Pkwy (Jamboree Blvd), Irvine, CA 92606
+coordinates:
+  lat: 33.688403
+  lng: -117.832805
 ---
 
 ![Lunch with Shanghai friends, who now live in Irvine](/images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17918734087174835.jpg)

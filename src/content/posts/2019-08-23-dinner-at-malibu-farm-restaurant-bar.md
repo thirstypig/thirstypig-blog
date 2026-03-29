@@ -24,9 +24,13 @@ tags:
 - avocado
 - lasagna
 description: Dinner at Malibu Farm Restaurant & Bar. Avocado Hurache, skirt steak, Salmon, Spaghetti Squash Lasagna, cauliflower pizza, and coconut carrot cake. Yummy and healthy. No guilt. . . . .
-location: Dinner at Malibu Farm Restaurant & Bar
+location: Malibu Farm Restaurant & Bar
 city: Malibu
 region: Los Angeles
+address: 23000 Pacific Coast Hwy, Malibu, CA 90265
+coordinates:
+  lat: 34.03711
+  lng: -118.676517
 ---
 
 ![Dinner at Malibu Farm Restaurant & Bar](/images/posts/ig-2019-08-23-dinner-at-malibu-farm-restaurant-bar/18028120348200591.jpg)

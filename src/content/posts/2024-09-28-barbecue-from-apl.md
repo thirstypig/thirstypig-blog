@@ -25,9 +25,13 @@ tags:
 - thirstypig
 - eats
 description: Barbecue from APL. Beef rib, pork ribs, pulled pork, cornbread, and stuffed pig trotter. Amazing bbq from a Hall of Famer and YETI ambassador - APL Adam Perry Lang. The boneless pig trotter was stuffe
-location: Barbecue from APL
+location: Wise Barbecue Company Truck
 city: Venice
 region: Los Angeles
+address: Santa Monica, CA
+coordinates:
+  lat: 33.990245
+  lng: -118.463816
 ---
 
 ![Barbecue from APL](/images/posts/ig-2024-09-28-barbecue-from-apl/18070603288587245.jpg)

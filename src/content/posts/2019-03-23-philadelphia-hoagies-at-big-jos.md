@@ -17,9 +17,13 @@ tags:
 - cheese
 - chilifries
 description: Philadelphia Hoagies at Big Jo’s. Ate too much!
-location: Philadelphia Hoagies at Big Jo’s
+location: Big Dean's Ocean Front Cafe
 city: Santa Monica
 region: Los Angeles
+address: 1615 Ocean Front Walk, Santa Monica, CA 90401
+coordinates:
+  lat: 34.010338
+  lng: -118.495578
 ---
 
 ![Philadelphia Hoagies at Big Jo’s](/images/posts/ig-2019-03-23-philadelphia-hoagies-at-big-jos/17952602071258997.jpg)

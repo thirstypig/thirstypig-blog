@@ -25,11 +25,15 @@ tags:
 - duarte
 - lunch
 description: The Arnold Palmer at The Old Spaghetti Factory. Remember the Hollywood location back in the day? Now the closet one is in Duarte. This Italian American is a friend’s favorite. I didn’t realize how pop
-location: The Arnold Palmer at The Old Spaghetti Factory
+location: (the) handbag factory
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 1336 S Grand Ave, Los Angeles, CA 90015
+coordinates:
+  lat: 34.037844
+  lng: -118.264778
 ---
 
 ![The Arnold Palmer at The Old Spaghetti Factory](/images/posts/ig-2022-03-23-the-arnold-palmer-at-the-old-spaghetti-factory/17955052444665552.jpg)

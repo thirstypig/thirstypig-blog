@@ -14,9 +14,13 @@ tags:
 description: On my short list of things to do before I came to Seoul included having Galbi Jjim. Galbi Jjim is braised beef ribs, in a sweet and savory sauce. I first had Galbi Jjim from a small place in Los Angel
 archiveUrl: https://web.archive.org/web/20110122120543/http://www.thethirstypig.com:80/2011/01/18/galbi-jjim-at-%EA%B0%95%EB%82%A8%EB%A9%B4%EC%98%A5-gangnam-myeonok-in-seoul/
 draft: false
-location: Galbi Jjim at 강남면옥 Gangnam-myeonok in Seoul
+location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul
+address: 중구 남대문로 81, 소공동, 중구, 서울특별시, 04533
+coordinates:
+  lat: 37.565722
+  lng: 126.981009
 ---
 
 On my short list of things to do before I came to Seoul included having Galbi Jjim. Galbi Jjim is braised beef ribs, in a sweet and savory sauce. I first had Galbi Jjim from a small place in Los Angeles called [Seong Buk Dong](http://www.thethirstypig.com/2010/03/18/seongbukdong/). And I fell in love with this tender beef dish. So, when we were able to finally go to Gangnam-myeonok (I have no idea how to pronounce this) in Sinsadong (신사동) – I was ecstatic. I giddy with joy!

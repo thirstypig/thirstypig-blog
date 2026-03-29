@@ -20,9 +20,13 @@ tags:
 - goatcheese
 - brusselsprouts
 description: Dinner with wife at Public School 213. She had the PS burger and I had the Roasted Beet & Goat Cheese Salad with a side of Brussels Sprouts. I always liked this gastropub . . . .
-location: Dinner with wife at Public School 213
+location: Los Angeles Public Library - Central
 city: Downtown LA
 region: Los Angeles
+address: 630 W 5th St (btwn Flower & Grand Ave), Los Angeles, CA 90071
+coordinates:
+  lat: 34.050562
+  lng: -118.255366
 ---
 
 ![Dinner with wife at Public School 213](/images/posts/ig-2018-08-24-dinner-with-wife-at-public-school-213/17895427555244042.jpg)

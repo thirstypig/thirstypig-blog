@@ -25,11 +25,15 @@ tags:
 - taiwanart
 - tauwaneseart
 description: Taipei DangDai art & ideas. Got to check out the Taipei art show. Taiwanese artist with artists from around the world including Japan, Europe and Africa. Galleries were also from around the world, too
-location: Taipei DangDai art & ideas
+location: Legacy Taipei
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 八德路一段1號, 台北市,  100
+coordinates:
+  lat: 25.044934
+  lng: 121.529331
 ---
 
 ![Taipei DangDai art & ideas](/images/posts/ig-2024-05-09-taipei-dangdai-art-ideas/18002558783579780.jpg)

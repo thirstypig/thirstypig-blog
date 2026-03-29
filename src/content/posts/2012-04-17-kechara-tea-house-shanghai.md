@@ -15,6 +15,10 @@ draft: false
 location: Kechara Tea House
 city: Shanghai
 region: Shanghai
+address: Changning, 上海市
+coordinates:
+  lat: 31.200657
+  lng: 121.418567
 ---
 
 

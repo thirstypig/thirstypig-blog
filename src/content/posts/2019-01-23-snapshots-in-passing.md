@@ -19,9 +19,13 @@ tags:
 - metro
 - metrolink
 description: Snapshots in passing . . . . . .
-location: Snapshots in passing
+location: Electric Dusk Drive-In
 city: Los Angeles
 region: Los Angeles
+address: 1000 San Julian St (11th St), Los Angeles, CA 90015
+coordinates:
+  lat: 34.036526
+  lng: -118.252402
 ---
 
 ![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/17952341554231884.jpg)

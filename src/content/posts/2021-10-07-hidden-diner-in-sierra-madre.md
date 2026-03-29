@@ -18,9 +18,13 @@ tags:
 - eats
 - eeeeeats
 description: Hidden diner in Sierra Madre. Lunch in the hills of sierra madre. . . . . .
-location: Hidden diner in Sierra Madre
+location: Sierra Madre Playhouse
 city: Sierra Madre
 region: San Gabriel Valley
+address: 87 W Sierra Madre Blvd, Sierra Madre, CA 91024
+coordinates:
+  lat: 34.162084
+  lng: -118.054632
 ---
 
 ![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17925738541842115.jpg)

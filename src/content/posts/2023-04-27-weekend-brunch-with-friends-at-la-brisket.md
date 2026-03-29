@@ -24,9 +24,13 @@ tags:
 - bbq
 - barbecue
 description: Weekend brunch with friends at LA Brisket. Smoked brisket, pulled chicken, slaw, brisket salad, Texas toast, and fried chicken skin. Yes I said fried chicken skin. That was unique and really good (and
-location: Weekend brunch with friends at LA Brisket
+location: BADMAASH Downtown LA
 city: Los Angeles
 region: Los Angeles
+address: 108 W 2nd St (at Main St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.051342
+  lng: -118.244571
 ---
 
 ![Weekend brunch with friends at LA Brisket](/images/posts/ig-2023-04-27-weekend-brunch-with-friends-at-la-brisket/18093630853322404.jpg)

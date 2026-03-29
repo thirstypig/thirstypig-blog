@@ -28,9 +28,13 @@ tags:
 - eats
 - eeeeeats
 description: 'Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste '
-location: Cantonese cuisine tonight
+location: Cantonese Cuisine and Dimsum
 city: Taipei
 region: Taipei
+address: Jhongjheng District
+coordinates:
+  lat: 25.035088
+  lng: 121.529515
 ---
 
 ![Cantonese cuisine tonight](/images/posts/ig-2024-05-11-cantonese-cuisine-tonight/18320626333176815.jpg)

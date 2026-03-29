@@ -24,6 +24,10 @@ draft: false
 location: Buca di Beppo
 city: Pasadena
 region: Pasadena
+address: 80 W Green St, Pasadena, CA 91105
+coordinates:
+  lat: 34.1443
+  lng: -118.15218
 ---
 
 I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. With all the visuals – pictures, statues, and even the staff, this place might have gone a bit too far. But I think that’s part of the fun.

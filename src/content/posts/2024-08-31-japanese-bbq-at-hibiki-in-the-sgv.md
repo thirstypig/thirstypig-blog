@@ -29,9 +29,13 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Japanese BBQ at Hibiki in the SGV. Had to check out this place. Cool decor. Good service. They grill the meats for you, in case you don’t want to or don’t know how to. But I think they grill it for yo
-location: Japanese BBQ at Hibiki in the SGV
+location: The Ortega-Vigare Adobe
 city: San Gabriel
 region: San Gabriel Valley
+address: 616 S Ramona St, San Gabriel, CA 91776
+coordinates:
+  lat: 34.09444
+  lng: -118.107547
 ---
 
 ![Japanese BBQ at Hibiki in the SGV](/images/posts/ig-2024-08-31-japanese-bbq-at-hibiki-in-the-sgv/18122616829345569.jpg)

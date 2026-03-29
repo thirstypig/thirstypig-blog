@@ -20,11 +20,15 @@ tags:
 - usc
 - akpsi
 description: Happy Hour at Wolf & Crane in DTLA Little Tokyo. Cool spot that got crowded fast. Luckily we got there early to get a table. . . . . .
-location: Happy Hour at Wolf & Crane in DTLA Little Tokyo
+location: Park Hyatt Tokyo (パークハイアット東京)
 city: Tokyo
 region: Tokyo
 categories:
 - Tokyo
+address: 西新宿3-7-1-2 (新宿パークタワー), 新宿区, 東京都, 163-1055
+coordinates:
+  lat: 35.685575
+  lng: 139.690639
 ---
 
 ![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17937014233943319.jpg)

@@ -27,9 +27,13 @@ categories:
 description: An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool l
 archiveUrl: https://web.archive.org/web/20111014113248/http://www.thethirstypig.com/2011/09/21/dazzling-thai-cafe-taipei/
 draft: false
-location: Dazzling Thai Cafe
+location: Dazzling Cafe Pink
 city: Taipei
 region: Taipei
+address: 忠孝東路四段205巷7弄11號, 台北市,  106
+coordinates:
+  lat: 25.042007
+  lng: 121.552391
 ---
 
 An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool lounge in Taipei and Shanghai. With the smaller group VVG, their little group extends from a French eatery, [dessert cafe](http://www.thethirstypig.com/2010/05/19/the-ultimate-afternoon-tea-at-vvg-bon-bon-好樣棒棒-taipei/), and a luxury boutique bed+breakfast. With the Dazzling, their empire reaches to a champagne lounge bar, a shabu-shabu restaurant, jewelry, and restaurants. It is fascinating how these groups leverage their brand marketing across these different ventures.

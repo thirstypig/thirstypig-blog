@@ -20,9 +20,13 @@ tags:
 - wagyubeef
 - eeeeeats
 description: Smosh Town burgers! The smashed burger patty burgers. Great texture and taste. Too bad I am going vegetarian the rest of February. . . . . . . .
-location: Smosh Town burgers
+location: Old Town Pasadena
 city: Pasadena
 region: San Gabriel Valley
+address: Pasadena, CA 91105
+coordinates:
+  lat: 34.145657
+  lng: -118.152145
 ---
 
 ![Smosh Town burgers](/images/posts/ig-2021-02-08-smosh-town-burgers/18029298583290640.jpg)

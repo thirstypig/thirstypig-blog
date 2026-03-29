@@ -19,9 +19,13 @@ tags:
 - sangabriel
 - tofu
 description: Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grilled chicken, and dumpling soondubu. Spicy . . .
-location: Galbi and Soondubu at Young Dong Tofu
+location: Pulciano's Deli & Cafe
 city: San Gabriel
 region: San Gabriel Valley
+address: 327 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
+coordinates:
+  lat: 34.097536
+  lng: -118.108801
 ---
 
 ![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17951856751232594.jpg)

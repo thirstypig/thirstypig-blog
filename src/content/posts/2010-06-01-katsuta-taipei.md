@@ -30,9 +30,13 @@ categories:
 description: Katsuta is a small Japanese Curry House that only locals in the nearby neighborhood would know about. They specialize in pork cutlet with their special curry sauce.
 archiveUrl: https://web.archive.org/web/20100721034030/http://www.thethirstypig.com:80/2010/06/01/katsuta-taipei/
 draft: false
-location: Katsuta, The Japanese Pork Chop Shop
+location: Mitsui Japanese Cuisine (三井日式料理)
 city: Taipei
 region: Taipei
+address: 農安街30號, 台北市,  104
+coordinates:
+  lat: 25.064923
+  lng: 121.526655
 ---
 
 Katsuta is a small Japanese Curry House that only locals in the nearby neighborhood would know about. They specialize in pork cutlet with their special curry sauce.

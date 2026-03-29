@@ -30,6 +30,10 @@ draft: false
 location: Asa Ramen
 city: Gardena
 region: South Bay
+address: 18202 S Western Ave (182nd St), Gardena, CA 90248
+coordinates:
+  lat: 33.86534
+  lng: -118.308221
 ---
 
 Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.

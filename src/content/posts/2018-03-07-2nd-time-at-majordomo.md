@@ -26,9 +26,13 @@ tags:
 - humpday
 - bing
 description: 2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy B
-location: 2nd time at Majordomo
+location: Majordomo
 city: Downtown LA
 region: Los Angeles
+address: 1725 Naud St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.069166
+  lng: -118.226142
 ---
 
 ![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17871597709207324.jpg)

@@ -20,9 +20,13 @@ tags:
 - hussongscantina
 - usc
 description: Margaritas at Hussongs. Where the margarita was created. And the oldest and best known cantina. One of the best tasting margaritas, if not the best. And the best deal. For 70 pesos each or $3.50 each.
-location: Margaritas at Hussongs
+location: Hussong's
 city: Ensenada
 region: Mexico
+address: 'Ave Ruiz #113 (e/ Primera y Segunda), 22800 Ensenada, Baja California'
+coordinates:
+  lat: 31.865002
+  lng: -116.628687
 ---
 
 ![Margaritas at Hussongs](/images/posts/ig-2018-06-26-margaritas-at-hussongs/17954745178022702.jpg)

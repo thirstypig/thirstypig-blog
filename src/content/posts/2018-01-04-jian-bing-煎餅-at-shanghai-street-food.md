@@ -16,11 +16,15 @@ tags:
 - dekalb
 - thirstypig
 description: Jian Bing 煎餅 at Shanghai Street Food. Very close to what we had in Shanghai, except for the USD 13 price and the added smoked bacon. When. I saw bacon, I had to try it.
-location: Jian Bing 煎餅 at  Shanghai Street Food
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 ![Jian Bing 煎餅 at  Shanghai Street Food](/images/posts/ig-2018-01-04-jian-bing-煎餅-at-shanghai-street-food/17902241089125413.jpg)

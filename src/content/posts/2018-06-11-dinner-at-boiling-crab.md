@@ -21,9 +21,13 @@ tags:
 - eeeeeats
 - thirstypig
 description: Dinner at Boiling Crab. Long ass wait for New Orleans inspired crustacean cuisine. We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters. Personally I don’t eat a lot of shellfi
-location: Dinner at Boiling Crab
+location: The Boiling Crab
 city: Rosemead
 region: San Gabriel Valley
+address: 3514 Rosemead Blvd, Rosemead, CA 91770
+coordinates:
+  lat: 34.072908
+  lng: -118.070917
 ---
 
 ![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17860760758256912.jpg)

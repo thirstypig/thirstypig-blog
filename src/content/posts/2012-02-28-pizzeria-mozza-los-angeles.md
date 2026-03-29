@@ -15,6 +15,10 @@ archiveUrl: https://web.archive.org/web/20120302233117/http://www.thethirstypig.
 draft: false
 location: Pizzeria Mozza
 city: Los Angeles
+address: 641 N Highland Ave, Los Angeles, CA 90036
+coordinates:
+  lat: 34.083136
+  lng: -118.33858
 ---
 
 **What is Mozza**

@@ -18,9 +18,13 @@ tags:
 - eastla
 - dtla
 description: Birria tacos and churros! Freshly made churros are the best. Check out the sweet Dodgers churro Beatle! Birrieria Pavon is my favorite Birria taco stand. Convenient and open late. . . . . .
-location: Birria tacos and churros
+location: Papi Tacos & Churros
 city: East LA
 region: Los Angeles
+address: 2622 W Jefferson Blvd (7th ave), Los Angeles, CA 90018
+coordinates:
+  lat: 34.025397
+  lng: -118.324477
 ---
 
 ![Birria tacos and churros](/images/posts/ig-2022-06-09-birria-tacos-and-churros/18213887719145026.jpg)

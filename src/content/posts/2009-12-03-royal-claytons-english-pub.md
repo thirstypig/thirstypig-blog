@@ -18,9 +18,13 @@ tags:
 description: 'Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an '
 archiveUrl: https://web.archive.org/web/20110105194820/http://www.thethirstypig.com/2009/12/03/royal-claytons-english-pub/
 draft: false
-location: Royal Clayton’s English Pub
+location: Casey's Irish Pub
 city: Downtown LA
 region: Downtown LA
+address: 613 S Grand Ave (at 6th St), Los Angeles, CA 90017
+coordinates:
+  lat: 34.048461
+  lng: -118.255696
 ---
 
 Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an excellent destination drinking place for a group of friends.

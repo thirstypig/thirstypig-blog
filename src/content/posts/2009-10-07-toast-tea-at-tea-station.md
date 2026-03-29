@@ -20,9 +20,13 @@ tags:
 description: Here’s one last post about Taiwanese cuisine that I wanted to briefly spout about. Its not necessarily a meal, but more of a late night snack or dessert. Though this place also has entrees, is the des
 archiveUrl: https://web.archive.org/web/20111103144634/http://www.thethirstypig.com/2009/10/07/toast-tea-at-tea-station/
 draft: false
-location: Toast & Tea at Tea Station
+location: Tea Master Matcha Cafe and Green Tea Shop
 city: Los Angeles
 region: San Gabriel Valley
+address: 450 E 2nd St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.047085
+  lng: -118.238598
 ---
 
 Here’s one last post about Taiwanese cuisine that I wanted to briefly spout about. Its not necessarily a meal, but more of a late night snack or dessert. Though this place also has entrees, is the desserts, snacks, and drinks that people come for.

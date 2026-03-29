@@ -25,4 +25,8 @@ draft: false
 location: Dong Nguyen Restaurant
 city: Alhambra
 region: San Gabriel Valley
+address: 1433 E Valley Blvd (at N New Ave), Alhambra, CA 91801
+coordinates:
+  lat: 34.080487
+  lng: -118.109534
 ---

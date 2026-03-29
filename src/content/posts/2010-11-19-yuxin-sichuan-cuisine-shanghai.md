@@ -40,9 +40,13 @@ categories:
 description: Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 archiveUrl: https://web.archive.org/web/20101120070329/http://www.thethirstypig.com:80/2010/11/19/yuxin-sichuan-cuisine-shanghai/
 draft: false
-location: Yuxin Sichuan Cuisine Shanghai
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.

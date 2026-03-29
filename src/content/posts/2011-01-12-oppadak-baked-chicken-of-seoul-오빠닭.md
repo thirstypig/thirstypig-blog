@@ -15,9 +15,13 @@ tags:
 description: Things I know after visiting Oppadak - Some of the best tasting chicken I have had in a long time. - Baked Chicken is really Yummy - Korean Girls like chicken - Never go outside in late December in Se
 archiveUrl: https://web.archive.org/web/20110114000326/http://www.thethirstypig.com:80/2011/01/12/oppadak-baked-chicken-of-seoul-%EC%98%A4%EB%B9%A0%EB%8B%AD/
 draft: false
-location: Oppadak Baked Chicken of Seoul 오빠닭
+location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul
+address: 중구 남대문로 81, 소공동, 중구, 서울특별시, 04533
+coordinates:
+  lat: 37.565722
+  lng: 126.981009
 ---
 
 Things I know after visiting Oppadak

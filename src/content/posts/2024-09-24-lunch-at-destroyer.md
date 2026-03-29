@@ -20,9 +20,13 @@ tags:
 - culvercity
 - thristypig
 description: Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an
-location: Lunch at Destroyer
+location: The Bar At Culver Hotel
 city: Culver City
 region: Los Angeles
+address: 9400 Culver Blvd, Culver City, CA 90232
+coordinates:
+  lat: 34.023971
+  lng: -118.394228
 ---
 
 ![Lunch at Destroyer](/images/posts/ig-2024-09-24-lunch-at-destroyer/18021720575453302.jpg)

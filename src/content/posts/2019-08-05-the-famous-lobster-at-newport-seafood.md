@@ -17,9 +17,13 @@ tags:
 - cantonesefood
 - sgv
 description: The famous lobster at Newport Seafood. . . .
-location: The famous lobster at Newport Seafood
+location: Newport Seafood Restaurant
 city: San Gabriel
 region: San Gabriel Valley
+address: 518 W Las Tunas Dr, San Gabriel, CA 91776
+coordinates:
+  lat: 34.10231
+  lng: -118.106975
 ---
 
 ![The famous lobster at Newport Seafood](/images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/17869084033441637.jpg)

@@ -13,9 +13,13 @@ tags:
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20161106101600/http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/
 draft: false
-location: Bellagio 鹿港小镇
+location: Bellagio (鹿港小鎮)
 city: Shanghai
 region: Shanghai
+address: 999 Huaihai M Rd | 淮海中路999号 (1/F-43 iapm Mall | 环贸iapm商场), Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.216985
+  lng: 121.453364
 ---
 
 

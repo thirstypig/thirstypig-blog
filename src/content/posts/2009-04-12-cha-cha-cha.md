@@ -21,6 +21,10 @@ archiveUrl: https://web.archive.org/web/20110105162608/http://www.thethirstypig.
 draft: false
 location: Cha Cha Cha
 city: Los Angeles
+address: 7953 Santa Monica Blvd, West Hollywood, CA 90046
+coordinates:
+  lat: 34.091036
+  lng: -118.36316
 ---
 
 Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type of cuisine of little dishes, sort of like appetizers. Food is great with wine or Sangria.

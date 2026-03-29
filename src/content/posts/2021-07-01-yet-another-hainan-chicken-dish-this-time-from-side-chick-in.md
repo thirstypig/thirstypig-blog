@@ -22,12 +22,16 @@ tags:
 - lunch
 - rice
 description: 'Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa Anita Westfield shopping center mall. Fourth stop in the chronicles of Hainan Chicken Rice. I think Side Chick stands out '
-location: Yet another Hainan Chicken dish
+location: Chicken Now
 city: Arcadia
 region: San Gabriel Valley
 categories:
 - Arcadia
 - San Gabriel Valley
+address: 400 S Baldwin Ave (at Westfield Santa Anita), Arcadia, CA 91007
+coordinates:
+  lat: 34.135286
+  lng: -118.049391
 ---
 
 ![Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa...](/images/posts/ig-2021-07-01-yet-another-hainan-chicken-dish-this-time-from-side-chick-in/17917567621782916.jpg)

@@ -21,9 +21,13 @@ tags:
 - lunch
 - thirstypig
 description: Lunch at Plate 38. Pretty decent burger. Unexpectedly good experience . . .
-location: Lunch at Plate 38
+location: The Lounge At Mi Piace
 city: Pasadena
 region: San Gabriel Valley
+address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
+coordinates:
+  lat: 34.145855
+  lng: -118.1499
 ---
 
 ![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17943715648260730.jpg)

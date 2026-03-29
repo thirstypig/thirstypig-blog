@@ -37,9 +37,13 @@ tags:
 description: The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit tha
 archiveUrl: https://web.archive.org/web/20110105211641/http://www.thethirstypig.com/2010/08/13/%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-in-gubei-shanghai/
 draft: false
-location: 酣庭院‎ in Gubei
+location: Hermès Maison in Shanghai (上海爱马仕之家)
 city: Shanghai
 region: Shanghai
+address: 217 Huaihai M Rd  | 淮海中路217号, Huangpu, 上海市
+coordinates:
+  lat: 31.225927
+  lng: 121.471388
 ---
 
 The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit that area more often in the future. But on this night, we were able to get our Korean classmates to bring us to have food of their land.

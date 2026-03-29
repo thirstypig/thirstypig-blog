@@ -17,9 +17,13 @@ tags:
 - thirstypig
 - dirtymartini
 description: Harissa Chicken Sandwich at the .la The Sandwich was quite juicy and flavorful. One of the better chicken sandwiches ever.
-location: Harissa Chicken Sandwich at the
+location: Dynasty Typewriter At The Hayworth
 city: Los Angeles
 region: Los Angeles
+address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
+coordinates:
+  lat: 34.0606
+  lng: -118.280585
 ---
 
 ![Harissa Chicken Sandwich at the](/images/posts/ig-2017-12-02-harissa-chicken-sandwich-at-the/17851859512212826.jpg)

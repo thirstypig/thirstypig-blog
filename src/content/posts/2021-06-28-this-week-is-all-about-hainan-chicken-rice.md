@@ -20,12 +20,16 @@ tags:
 - chicken
 - rice
 description: This week is all about Hainan Chicken Rice. The chronicles starts with Savoy Kitchen in Alhambra. Arguably the most famous Hainan Chicken restaurant in the greater Los Angeles area. 海南雞飯 has origins i
-location: This week is all about Hainan Chicken Rice
+location: The Chicken Koop
 city: Alhambra
 region: San Gabriel Valley
 categories:
 - Alhambra
 - San Gabriel Valley
+address: 101 W Main St (1st St), Alhambra, CA 91801
+coordinates:
+  lat: 34.094808
+  lng: -118.128163
 ---
 
 ![This week is all about Hainan Chicken Rice](/images/posts/ig-2021-06-28-this-week-is-all-about-hainan-chicken-rice/18189336205099545.jpg)

@@ -25,9 +25,13 @@ tags:
 description: The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine cul
 archiveUrl: https://web.archive.org/web/20161106021505/http://thirstypig.com/2011/07/12/goga-shanghai/
 draft: false
-location: GOGA
+location: Goga
 city: Shanghai
 region: Shanghai
+address: 1 Yueyang Rd. (at Dongping Rd.), 上海市, 上海市
+coordinates:
+  lat: 31.210292
+  lng: 121.447232
 ---
 
 [![goga-03](/images/posts/goga-shanghai/Goga-Shanghai-01-494x370.jpg "goga-03")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-03/)

@@ -20,11 +20,15 @@ tags:
 - yakinikuð
 - beef
 description: Japanese cuisine in Pasadena. Yakiniku. The best thing we had was the beef bone marrow fried rice. The grilled beef was very good. Great service. Would return again. . . . 🐮
-location: Japanese cuisine in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg)

@@ -13,9 +13,13 @@ tags:
 description: Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.
 archiveUrl: https://web.archive.org/web/20161106115928/http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/
 draft: false
-location: Fu Hang Dou Jiang 阜杭豆漿
+location: Fu Hang Dou Jiang (阜杭豆漿)
 city: Taipei
 region: Taipei
+address: 忠孝東路一段108號2F (紹興南街), 台北市,  100
+coordinates:
+  lat: 25.044182
+  lng: 121.524947
 ---
 
 

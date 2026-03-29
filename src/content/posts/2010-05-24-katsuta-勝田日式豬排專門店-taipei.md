@@ -13,9 +13,13 @@ tags:
 description: Katsuta is a small Japanese Curry House that only locals in the nearby neighborhood would know about. They specialize in pork cutlet with their special curry sauce.
 archiveUrl: https://web.archive.org/web/20161106034145/http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/
 draft: false
-location: Katsuta 勝田日式豬排專門店
+location: 珍蜜咖啡專門店
 city: Taipei
 region: Taipei
+address: 八德路三段2號, 松山區, 臺北市 105
+coordinates:
+  lat: 25.048091
+  lng: 121.548998
 ---
 
 

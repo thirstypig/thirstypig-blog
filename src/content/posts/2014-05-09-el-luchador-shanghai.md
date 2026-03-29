@@ -17,7 +17,11 @@ city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
-location: 09 May of 2014 by The Thirsty Pig
+location: The Living Room by Octave (The Living Room by Octave (Living Room by Octave | 音昱听堂))
+address: 357 Jianguo W Rd | 建国西路357号 (Taiyuan Rd | 太原路), Xúhuì, Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.206111
+  lng: 121.451386
 ---
 
 ## [My Favorite Mexican Restaurant in Shanghai – El Luchador](http://thirstypig.com/2014/05/09/el-luchador-shanghai/)

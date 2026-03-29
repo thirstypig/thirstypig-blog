@@ -26,11 +26,15 @@ tags:
 - thirstypig
 - å
 description: Taiwanese street food - . We had the beef Ban Mien (noodles) - 牛肉麵. The broth was rich and slightly spicy - very good. Noodles were interesting but good - soaked up the broth. Loved the pickled mustar
-location: Taiwanese street food -
+location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 忠孝東路四段112號2樓, 台北市,  106
+coordinates:
+  lat: 25.041346
+  lng: 121.546908
 ---
 
 ![Taiwanese street food -](/images/posts/ig-2017-09-13-taiwanese-street-food/17873207422186876.jpg)

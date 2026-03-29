@@ -14,9 +14,13 @@ tags:
 description: In my limited experience, I believe most Korean dishes are spicy in heat. The hearty nature in the food, fills the stomach, though in forgo’ing taste and appearance. At Yurim, they have a hot pot styl
 archiveUrl: https://web.archive.org/web/20110211070009/http://www.thethirstypig.com:80/2011/01/19/yurim-food-seoul/
 draft: false
-location: Yurim 유림 of Seoul
+location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul
+address: 중구 남대문로 81, 소공동, 중구, 서울특별시, 04533
+coordinates:
+  lat: 37.565722
+  lng: 126.981009
 ---
 
 In my limited experience, I believe most Korean dishes are spicy in heat. The hearty nature in the food, fills the stomach, though in forgo’ing taste and appearance. At Yurim, they have a hot pot style meal featuring chicken.

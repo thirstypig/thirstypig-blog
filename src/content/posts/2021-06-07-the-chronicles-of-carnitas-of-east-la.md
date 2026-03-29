@@ -23,9 +23,13 @@ tags:
 - eats
 - pork
 description: The Chronicles of Carnitas of East LA. Starting off with the Zamora Bros. Heard about these guys awhile ago. Had three tacos and torta. And also had a half pound of the chicharrones. The torta was exc
-location: The Chronicles of Carnitas of East LA
+location: The Little Jewel of New Orleans
 city: Los Angeles
 region: Los Angeles
+address: 207 Ord St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.060036
+  lng: -118.23826
 ---
 
 ![The Chronicles of Carnitas of East LA](/images/posts/ig-2021-06-07-the-chronicles-of-carnitas-of-east-la/18183879700105476.jpg)

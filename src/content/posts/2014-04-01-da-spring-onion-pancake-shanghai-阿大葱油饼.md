@@ -32,7 +32,11 @@ city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
-location: 01 April of 2014 by The Thirsty Pig
+location: The Living Room by Octave (The Living Room by Octave (Living Room by Octave | 音昱听堂))
+address: 357 Jianguo W Rd | 建国西路357号 (Taiyuan Rd | 太原路), Xúhuì, Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.206111
+  lng: 121.451386
 ---
 
 ## [Best Cong You Bing (Scallion Pancakes) in Shanghai, at A Da 阿大葱油饼](http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/)

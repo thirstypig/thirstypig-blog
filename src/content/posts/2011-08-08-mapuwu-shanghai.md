@@ -13,9 +13,13 @@ categories:
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20120116080803/http://www.thethirstypig.com:80/2011/08/08/mapuwu-shanghai/
 draft: false
-location: Mapuwu
+location: Mapuwu (麻浦屋)
 city: Shanghai
 region: Shanghai
+address: 虹泉路1051弄209号2楼 | 2/F, No. 209, Lane 1051 Hongquan Rd. (近金汇路 | near Jinhui Rd.), 上海市, 上海市, 200000
+coordinates:
+  lat: 31.171461
+  lng: 121.369343
 ---
 
 Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – till 5am.

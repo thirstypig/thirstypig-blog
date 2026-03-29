@@ -22,9 +22,13 @@ tags:
 - whisky
 - japanesewhisky
 description: Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. Only tried fried tofu and the scallion pancakes. But I think the sauce is more Shanghainese with the sweetness. I am mor
-location: Taiwanese food at Accomplice
+location: The Bar At Culver Hotel
 city: Culver City
 region: Los Angeles
+address: 9400 Culver Blvd, Culver City, CA 90232
+coordinates:
+  lat: 34.023971
+  lng: -118.394228
 ---
 
 ![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17916950354481811.jpg)

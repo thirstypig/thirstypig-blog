@@ -22,11 +22,15 @@ tags:
 - coldwintersnight
 - thirstypig
 description: Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are the best for a cold winter night. We also had the spicy oxtail soup (Sogogi Gukbap) and kimchi pancake (Jeon). Unfortunately the seolleon
-location: Seolleongtang at Gammeeok
+location: Water Court at California Plaza
 city: Koreatown
 region: Koreatown
 categories:
 - Koreatown
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Seolleongtang at Gammeeok, in NYC Koreatown](/images/posts/ig-2018-01-04-seolleongtang-at-gammeeok-in-nyc-koreatown/17914609630065490.jpg)

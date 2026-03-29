@@ -30,8 +30,12 @@ tags:
 description: 'Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over '
 archiveUrl: https://web.archive.org/web/20101216024600/http://www.thethirstypig.com:80/2010/12/13/cooks-tortas/
 draft: false
-location: Cook’s Tortas
+location: Super Tortas D.F.
 city: Los Angeles
+address: 1098 E 41st St, Los Angeles, CA 90011
+coordinates:
+  lat: 34.009115
+  lng: -118.256704
 ---
 
 Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over and developed by the French in the early 1800′s. Then by using locally cured and marinated meats, the Mexicans produced wonderful sandwiches.

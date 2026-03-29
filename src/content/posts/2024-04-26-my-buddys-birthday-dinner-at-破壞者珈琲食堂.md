@@ -26,11 +26,15 @@ tags:
 - eats
 - eeeeeats
 description: My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses
-location: My buddy’s birthday dinner at 破壞者珈琲食堂
+location: Komeda’s Coffee (客美多咖啡)
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 南京東路二段204號, 中山區, 臺北市 104
+coordinates:
+  lat: 25.052091
+  lng: 121.535709
 ---
 
 ![My buddy’s birthday dinner at 破壞者珈琲食堂](/images/posts/ig-2024-04-26-my-buddys-birthday-dinner-at-破壞者珈琲食堂/17940023951714123.jpg)

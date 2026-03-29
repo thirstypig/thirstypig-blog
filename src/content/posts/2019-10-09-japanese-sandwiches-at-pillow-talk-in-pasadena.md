@@ -20,11 +20,15 @@ tags:
 - sgv
 - lakeave
 description: Japanese Sandwiches at Pillow Talk in Pasadena. Pretty good sandwiches. I like the hot tamago egg sandwich the best. The egg salad sandwich with the hard boiled egg was also very good. Heck anything w
-location: Japanese Sandwiches at Pillow Talk in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Japanese Sandwiches at Pillow Talk in Pasadena](/images/posts/ig-2019-10-09-japanese-sandwiches-at-pillow-talk-in-pasadena/17846703739676764.jpg)

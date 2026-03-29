@@ -29,6 +29,10 @@ draft: false
 location: Noodle Bull
 city: Shanghai
 region: Shanghai
+address: Changshou lu Shanxi bei lu, Changning, 上海市
+coordinates:
+  lat: 31.209521
+  lng: 121.428919
 ---
 
 Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full of expats.

@@ -28,9 +28,13 @@ tags:
 - lobsterroll
 - clams
 description: Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara u
-location: Seafood at
+location: Hop Li Seafood Restaurant
 city: Silver Lake
 region: Los Angeles
+address: 526 Alpine St (at Yale St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.062902
+  lng: -118.240577
 ---
 
 ![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17843287757817907.jpg)

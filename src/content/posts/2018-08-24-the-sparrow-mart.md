@@ -28,9 +28,13 @@ tags:
 - eeeeeats
 - fridaynights
 description: The Sparrow Mart .... last day - tomorrow! Interesting stuffed everyday products. Maruchan Ramen, Jameson, and Heinz Ketchup were the best sellers. Compelling and fascinating concept. . . . . .
-location: The Sparrow Mart
+location: The Echo Park Time Travel Mart
 city: Downtown LA
 region: Los Angeles
+address: 1714 W Sunset Blvd (at Logan St), Los Angeles, CA 90026
+coordinates:
+  lat: 34.077387
+  lng: -118.25902
 ---
 
 ![The Sparrow Mart](/images/posts/ig-2018-08-24-the-sparrow-mart/17941379218164291.jpg)

@@ -28,9 +28,13 @@ tags:
 - tastemakersapp
 - thirstypig
 description: Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights inclu
-location: Snacking at Bangkok’s Chinatown
+location: Floral Café at Napasorn
 city: Bangkok
 region: Bangkok
+address: 67 Chak Phet Rd (at Napasorn), พระนคร, กรุงเทพมหานคร 10200
+coordinates:
+  lat: 13.742175
+  lng: 100.496668
 ---
 
 ![Snacking at Bangkok’s Chinatown](/images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/17881605435048262.jpg)

@@ -22,9 +22,13 @@ tags:
 description: Eel Noodles is a delicacy that is part of Tainan cuisine. This dish is first stir-fried with the eel with scallions, onions, vinegar, soy sauce and other ingredients. The sauce, thickened, then served
 archiveUrl: https://web.archive.org/web/20110105020342/http://www.thethirstypig.com/2010/07/25/tainan-eel/
 draft: false
-location: Tainan Eel Noodles
+location: Tainan Eel Noodles (台南鱔魚意麵)
 city: Taipei
 region: Taipei
+address: 師大路45號, 台北市,  106
+coordinates:
+  lat: 25.024241
+  lng: 121.528492
 ---
 
 Eel Noodles is a delicacy that is part of Tainan cuisine. This dish is first stir-fried with the eel with scallions, onions, vinegar, soy sauce and other ingredients. The sauce, thickened, then served on noodles. It may seem simple to prepare, it often takes a master to make it just right. And at A-Hui, they have almost perfected it in Taipei, so much that you don’t have to go to Tainan to have it. But personally, I was not a big fan of it. I think you have to grow up with it to like it. The eel’s texture is a bit tougher than I would have liked. The eel is stir fried to almost a crispy texture. The taste is delicate with flavors that are subtle. It is not overly salt from the soy sauce, which is good for me. But I can see why it may be difficult to get just right. There’s a balance between the vinegar and soy sauce with the subtle flavors of the eel without being overly savory with flavors from the scallions. This dish goes for about NT$110 (about USD 4).

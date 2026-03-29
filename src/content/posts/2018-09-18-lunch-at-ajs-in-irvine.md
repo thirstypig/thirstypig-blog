@@ -18,9 +18,13 @@ tags:
 - chickenrice
 - beefnoodlesoup
 description: Lunch at A&J’s in Irvine. We had the spicy beef noodle soup 牛肉麵, pork chop rice 排骨飯, fried chicken rice 雞排飯. The soup noodles were good. And the chicken too. But the pork chop was not so good. Also ha
-location: Lunch at A&J’s in Irvine
+location: AC Hotel Irvine
 city: Irvine
 region: Orange County
+address: 3309 Michelson Dr, Irvine, CA 92612
+coordinates:
+  lat: 33.672436
+  lng: -117.844526
 ---
 
 ![Lunch at A&J’s in Irvine](/images/posts/ig-2018-09-18-lunch-at-ajs-in-irvine/17953571929184270.jpg)

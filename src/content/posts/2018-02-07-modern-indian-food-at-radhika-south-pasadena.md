@@ -17,11 +17,15 @@ tags:
 - indianfood
 - thirstypig
 description: Modern Indian food at radhika south Pasadena
-location: Modern Indian food at radhika south Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17910863497118580.jpg)

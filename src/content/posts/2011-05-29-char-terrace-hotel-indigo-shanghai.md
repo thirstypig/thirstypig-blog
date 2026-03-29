@@ -13,9 +13,13 @@ tags:
 description: Nighttime views of Shanghai aren’t hard to come by, with M1NT, Flair, Vue, and Bar Rouge. But there’s a new player in town, Char Terrace at the Hotel Indigo.
 archiveUrl: https://web.archive.org/web/20160910225844/http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/
 draft: false
-location: Char Terrace, Hotel Indigo
+location: CHAR
 city: Shanghai
 region: Shanghai
+address: 29F, Hotel Indigo, 585 Zhongshan East 2nd Rd (at Dongmen Rd.), Huangpu, 上海市, 200010
+coordinates:
+  lat: 31.228187
+  lng: 121.495556
 ---
 
 

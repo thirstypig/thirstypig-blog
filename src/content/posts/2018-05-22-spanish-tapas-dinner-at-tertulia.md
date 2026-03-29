@@ -25,9 +25,13 @@ tags:
 - chickenpaella
 - sangria
 description: Spanish tapas dinner at Tertulia. We had tortilla -Spanish omelette, radish salad, roasted potatoes, iberico ham, sardines, and a large chicken paella. Sorry for the washes out photos. . . . . .
-location: Spanish tapas dinner at Tertulia
+location: Bazar Tapas Bar and Restaurant
 city: New York
 region: New York
+address: 31 W 26th St, New York, NY 10010
+coordinates:
+  lat: 40.744409
+  lng: -73.990141
 ---
 
 ![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17932803655117274.jpg)

@@ -20,11 +20,15 @@ tags:
 - sgv
 - foodtruck
 description: Smashed burgers at Pasadena’s Smosh Town. So chilly to be eating outside. But the burgers made it worth it. Nice taste of the pure burger and cheese. Whoever thought of the taste combination of beef w
-location: Smashed burgers at Pasadena’s Smosh Town
+location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: Pasadena, CA 91105
+coordinates:
+  lat: 34.145657
+  lng: -118.152145
 ---
 
 ![Smashed burgers at Pasadena’s Smosh Town](/images/posts/ig-2020-01-20-smashed-burgers-at-pasadenas-smosh-town/17855615314739069.jpg)

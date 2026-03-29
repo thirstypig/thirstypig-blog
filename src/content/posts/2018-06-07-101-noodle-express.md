@@ -15,9 +15,13 @@ tags:
 - 101noodleexpress
 - eeeeeats
 description: 101 Noodle Express. Dinner with family in the OC
-location: 101 Noodle Express
+location: Capital Noodle Bar
 city: Irvine
 region: Orange County
+address: 3850 Barranca Pkwy Ste E (Barranca and Culver), Irvine, CA 92606
+coordinates:
+  lat: 33.68419
+  lng: -117.811743
 ---
 
 ![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17889023413223345.jpg)

@@ -19,6 +19,10 @@ draft: false
 location: The Public
 city: Shanghai
 region: Shanghai
+address: Xiang Yang Road (Nanchang Road), 上海市, 上海市
+coordinates:
+  lat: 31.215245
+  lng: 121.45263
 ---
 
 **What is The Public**

@@ -16,9 +16,13 @@ tags:
 description: Mr. D, a classmate of mine, had taken us on a Southeast Asian food tour, starting withMy Dining Placehttp://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/ – a Singaporean restaurant, and t
 archiveUrl: https://web.archive.org/web/20161105180117/http://thirstypig.com/2011/09/12/food-fusion-shanghai/
 draft: false
-location: Food Fusion
+location: FOOD FUSION Malaysian Cuisine (融合马来西亚美食)
 city: Shanghai
 region: Shanghai
+address: Huaihai Rd. (Shaanxi South Rd.), 上海市, 上海市
+coordinates:
+  lat: 31.219572
+  lng: 121.455011
 ---
 
 

@@ -13,9 +13,13 @@ tags:
 description: 'Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the '
 archiveUrl: https://web.archive.org/web/20161105084713/http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/
 draft: false
-location: Kiki’s 老媽餐廳
+location: Umeko (梅子餐廳)
 city: Taipei
 region: Taipei
+address: 林森北路107巷1號, 台北市,  104
+coordinates:
+  lat: 25.050338
+  lng: 121.525298
 ---
 
 

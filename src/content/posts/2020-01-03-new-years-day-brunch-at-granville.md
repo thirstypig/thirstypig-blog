@@ -21,9 +21,13 @@ tags:
 - chips
 - macandcheese
 description: New Year’s Day brunch at Granville. Liked the Mac and cheese and the housemade potato chips . . . . .
-location: New Year’s Day brunch at Granville
+location: The Lounge At Mi Piace
 city: Pasadena
 region: San Gabriel Valley
+address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
+coordinates:
+  lat: 34.145855
+  lng: -118.1499
 ---
 
 ![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17844248404883754.jpg)

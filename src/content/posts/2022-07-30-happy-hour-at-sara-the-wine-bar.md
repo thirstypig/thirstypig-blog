@@ -21,9 +21,13 @@ tags:
 - culvercity
 - eat
 description: Happy Hour at Sara the Wine Bar. Bruschetta, margarhetti pizza, seafood pasta. Fresh pasta made in-house. Cool little spot that’s not too crowded. Would return and would recommend . . . . .
-location: Happy Hour at Sara the Wine Bar
+location: Bar Bohémien
 city: Culver City
 region: Los Angeles
+address: 9355 Culver Blvd, Culver City, CA 90232
+coordinates:
+  lat: 34.024973
+  lng: -118.394005
 ---
 
 ![Happy Hour at Sara the Wine Bar](/images/posts/ig-2022-07-30-happy-hour-at-sara-the-wine-bar/18209853493081803.jpg)

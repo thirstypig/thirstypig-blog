@@ -17,9 +17,13 @@ tags:
 description: Jia Jia Tang Bao might be arguably the best steamed dumpling in Shanghai. Bold and ostentatious it may seem, but these xiao long bao’s小籠包 are darn good. I could have probably finished off two “long’s”
 archiveUrl: https://web.archive.org/web/20161018163306/http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/
 draft: false
-location: Jia Jia Tang Bao 佳家汤包 of Shanghai
+location: Capella Hotel (上海建业里嘉佩乐酒店)
 city: Shanghai
 region: Shanghai
+address: Jian Ye Li, 480 Jianguo W Rd | 建国西路480号建业里 (Yueyang Rd | 近岳阳路), Xúhuì, Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.205291
+  lng: 121.447273
 ---
 
 

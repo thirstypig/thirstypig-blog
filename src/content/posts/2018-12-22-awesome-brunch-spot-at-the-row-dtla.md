@@ -24,9 +24,13 @@ tags:
 - eggs
 - yummy
 description: Awesome brunch spot at the ROW DTLA. Rappahannock Oyster Bar - with lobster Benedict, shrimp and grits, and brioche French toast and yummy kimchi biscuits! . . .
-location: Awesome brunch spot at the ROW DTLA
+location: Gallery Row
 city: Downtown LA
 region: Los Angeles
+address: 816 S Broadway LA, CA 90014 (Main & Spring btwn 2nd & 9th), Los Angeles, CA 90014
+coordinates:
+  lat: 34.047812
+  lng: -118.24971
 ---
 
 ![Awesome brunch spot at the ROW DTLA](/images/posts/ig-2018-12-22-awesome-brunch-spot-at-the-row-dtla/17986863451136662.jpg)

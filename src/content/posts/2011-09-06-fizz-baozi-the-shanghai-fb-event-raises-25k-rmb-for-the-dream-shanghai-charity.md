@@ -14,9 +14,13 @@ categories:
 description: On Thursday the 25th, Shanghai’s Food and Beverage F&B industry got together for a fund-raising event at Zeal, and raised more than 25k RMB for charity
 archiveUrl: https://web.archive.org/web/20111123072121/http://www.thethirstypig.com/2011/09/06/fizz-baozi-the-shanghai-fb-event-raises-25k-rmb-for-the-dream-shanghai-charity/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=thirstypig
 draft: false
-location: Fizz & Baozi
+location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai
+address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
+coordinates:
+  lat: 31.224154
+  lng: 121.443505
 ---
 
 On Thursday the 25th, Shanghai’s Food and Beverage (F&B) industry got together for a fund-raising event at Zeal, and raised more than 25k RMB for charity!

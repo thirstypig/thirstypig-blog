@@ -14,9 +14,13 @@ tags:
 description: 'My first experience at Chili’s was in high school, in Southern California. Back then, it was such a cool experience, different from fast food joints we were used to. Chili’s was the first type of sit '
 archiveUrl: https://web.archive.org/web/20161106105408/http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/
 draft: false
-location: Chili’s Grill and Bar
+location: Chili's Grill & Bar
 city: Taipei
 region: Taipei
+address: 忠誠路二段200號B館2樓 (市東路), 台北市,  111
+coordinates:
+  lat: 25.112257
+  lng: 121.531791
 ---
 
 

@@ -22,6 +22,10 @@ draft: false
 location: Bistro Burger
 city: Shanghai
 region: Shanghai
+address: A Mansion, 291 Fumin Rd (Changle Rd), Xuhui, 上海市
+coordinates:
+  lat: 31.219599
+  lng: 121.448189
 ---
 
 

@@ -24,9 +24,13 @@ tags:
 - shabu
 - hotpot
 description: Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right afte
-location: Shabu Shabu at Kagaya
+location: Kagaya
 city: Little Tokyo
 region: Los Angeles
+address: 418 E 2nd St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.04696
+  lng: -118.238625
 ---
 
 ![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18045032158324153.jpg)

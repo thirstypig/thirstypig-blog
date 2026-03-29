@@ -14,9 +14,13 @@ tags:
 description: The tea scroll, featuring several different varieties of tea
 archiveUrl: https://web.archive.org/web/20160914022648/http://thirstypig.com/2010/09/19/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
 draft: false
-location: South Beauty 俏江南
+location: South Beauty (俏江南)
 city: Shanghai
 region: Shanghai
+address: 829 Nanjing E Rd | 南京东路829号 (百联世茂国际广场东扩9楼), Huangpu, 上海市
+coordinates:
+  lat: 31.236728
+  lng: 121.471493
 ---
 
 

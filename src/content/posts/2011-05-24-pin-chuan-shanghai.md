@@ -17,6 +17,10 @@ draft: false
 location: Pin Chuan
 city: Shanghai
 region: Shanghai
+address: 99 Xianxia Rd | 仙霞路99号 (3/F-12 L'Avenue | 尚嘉中心), Xiānxiá, Changning, 上海市, 200051
+coordinates:
+  lat: 31.207869
+  lng: 121.402169
 ---
 
 品川 Pin Chuan

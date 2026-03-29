@@ -23,12 +23,16 @@ tags:
 - tastemakers
 - noodles
 description: 'The trendy Japanese omurice dish, made famous by is now in the SGV Arcadia at .official I had to try it. This was my third attempt in trying to get a table. The first couple of times I tried the wait '
-location: The trendy Japanese omurice dish
+location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley
 categories:
 - Arcadia
 - San Gabriel Valley
+address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
+coordinates:
+  lat: 34.13803
+  lng: -118.04792
 ---
 
 ![The trendy Japanese omurice dish, made famous by  is now in the SGV Arcadia at](/images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/18269022787264462.jpg)

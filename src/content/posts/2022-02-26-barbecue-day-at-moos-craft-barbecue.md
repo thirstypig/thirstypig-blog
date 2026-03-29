@@ -24,9 +24,13 @@ tags:
 - pulledpork
 - barbecue
 description: 'Barbecue Day at Moo’s Craft Barbecue. Beef brisket, pork ribs, pulled pork, pork belly burnt ends, sides of corn, Mac and cheese, and slaw. Yummy. Too bad they were out of beef ribs. I heard that not '
-location: Barbecue Day at Moo’s Craft Barbecue
+location: Water Court at California Plaza
 city: East LA
 region: Los Angeles
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Barbecue Day at Moo’s Craft Barbecue](/images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/17945603227815543.jpg)

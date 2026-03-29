@@ -15,9 +15,13 @@ tags:
 - itfdb
 - gododgers
 description: Beef Dip Sandwich and wedge fries. Clearman’s Galley - the boat is my go to place to enjoy sports. Love this place
-location: Beef Dip Sandwich and wedge fries
+location: Pulciano's Deli & Cafe
 city: San Gabriel
 region: San Gabriel Valley
+address: 327 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
+coordinates:
+  lat: 34.097536
+  lng: -118.108801
 ---
 
 ![Beef Dip Sandwich and wedge fries](/images/posts/ig-2017-10-07-beef-dip-sandwich-and-wedge-fries/17885914636083563.jpg)

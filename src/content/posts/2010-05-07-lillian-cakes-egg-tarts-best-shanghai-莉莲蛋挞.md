@@ -16,9 +16,13 @@ tags:
 description: Quite possibly the best egg tart in Shanghai. Indeed
 archiveUrl: https://web.archive.org/web/20161105184110/http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
 draft: false
-location: Lillian Cakes’ Egg Tarts
+location: Chicken & Egg
 city: Shanghai
 region: Shanghai
+address: 291 Fumin Rd (Changle Rd), Xuhui, 上海市
+coordinates:
+  lat: 31.219302
+  lng: 121.447747
 ---
 
 

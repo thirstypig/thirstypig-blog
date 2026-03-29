@@ -13,9 +13,13 @@ tags:
 description: Off the beaten path, so to speak, Mo Zai Yang sits on the outskirts of Taipei proper serving up Lamb – any way you like it.
 archiveUrl: https://web.archive.org/web/20161106045042/http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/
 draft: false
-location: Mo Zai Yang 莫宰羊
+location: Mo-Mo-Paradise
 city: Taipei
 region: Taipei
+address: 復興南路一段42號, 台北市
+coordinates:
+  lat: 25.04534
+  lng: 121.543898
 ---
 
 

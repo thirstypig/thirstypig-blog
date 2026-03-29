@@ -22,11 +22,15 @@ tags:
 - dtla
 - littletokyo
 description: Shabu Shabu. All-You-Can-Eat at Kushi Shabu in DTLA little Tokyo. Haven’t Ben to Kushi in years. Had a great time. Great service. Would go again. And recommend. . . . . . .
-location: Shabu Shabu
+location: Shabu Shabu Onyasai (しゃぶしゃぶ温野菜)
 city: Tokyo
 region: Tokyo
 categories:
 - Tokyo
+address: 中馬込2-8-1 (日経エスプラナード 2F), 大田区, 東京都, 143-0027
+coordinates:
+  lat: 35.597064
+  lng: 139.708525
 ---
 
 ![Shabu Shabu](/images/posts/ig-2022-06-06-shabu-shabu/17896104665546195.jpg)

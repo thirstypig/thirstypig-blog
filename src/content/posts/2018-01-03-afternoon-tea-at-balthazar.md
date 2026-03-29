@@ -18,9 +18,13 @@ tags:
 - profiteroles
 - afternoontea
 description: Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider.
-location: Afternoon tea at Balthazar
+location: Lady Mendl's Tea Salon
 city: New York
 region: New York
+address: 56 Irving Pl (btwn 17th & 18th St), New York, NY 10003
+coordinates:
+  lat: 40.736064
+  lng: -73.98727
 ---
 
 ![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17904596176106034.jpg)

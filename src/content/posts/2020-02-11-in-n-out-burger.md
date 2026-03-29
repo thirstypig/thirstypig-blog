@@ -23,6 +23,10 @@ description: In-N-Out Burger. They had single cheese burgers while I had to make
 location: In-N-Out Burger
 city: Pasadena
 region: San Gabriel Valley
+address: 2114 E Foothill Blvd (at Craig Ave), Pasadena, CA 91107
+coordinates:
+  lat: 34.149519
+  lng: -118.106795
 ---
 
 ![In-N-Out Burger](/images/posts/ig-2020-02-11-in-n-out-burger/17842400434995430.jpg)

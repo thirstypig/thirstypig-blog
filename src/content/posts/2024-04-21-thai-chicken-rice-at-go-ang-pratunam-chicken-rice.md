@@ -25,9 +25,13 @@ tags:
 - eeeeeats
 - chicken
 description: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice. A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant. The chicken is boi
-location: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice
+location: Jae Yee Chicken Rice (ข้าวมันไก่เจ๊ยี)
 city: Bangkok
 region: Bangkok
+address: 457/9 Chakkraphatdiphong Rd, ป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร 10200
+coordinates:
+  lat: 13.753147
+  lng: 100.509186
 ---
 
 ![Thai Chicken Rice at Go-Ang Pratunam Chicken Rice](/images/posts/ig-2024-04-21-thai-chicken-rice-at-go-ang-pratunam-chicken-rice/17879264823000817.jpg)

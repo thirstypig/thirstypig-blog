@@ -29,9 +29,13 @@ tags:
 description: Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.
 archiveUrl: https://web.archive.org/web/20110105211310/http://www.thethirstypig.com/2010/01/12/country-bistro-rowland-heights/
 draft: false
-location: Country Bistro
+location: Garden Bistro
 city: Rowland Heights
 region: San Gabriel Valley
+address: '1390 Fullerton Rd #101 (at Diamond Plz), Rowland Heights, CA 91748'
+coordinates:
+  lat: 33.99345
+  lng: -117.904321
 ---
 
 Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.

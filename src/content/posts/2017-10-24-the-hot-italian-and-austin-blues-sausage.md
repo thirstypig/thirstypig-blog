@@ -18,9 +18,13 @@ tags:
 - ketchup
 - chipotle
 description: The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce. DTLA favorite
-location: The hot Italian and Austin blues sausage
+location: Girl & The Goat
 city: Downtown LA
 region: Los Angeles
+address: 555 Mateo St, Los Angeles, CA 90013
+coordinates:
+  lat: 34.040179
+  lng: -118.233225
 ---
 
 ![The hot Italian and Austin blues sausage](/images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17881408327139443.jpg)

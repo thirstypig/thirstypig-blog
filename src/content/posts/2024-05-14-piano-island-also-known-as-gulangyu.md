@@ -26,10 +26,14 @@ tags:
 - xiamencity
 - zhengchenggongstatue
 description: Piano island also known as Gulangyu. Small island located less than a 15 min boat ride away from Xiamen. Similar to Los Angeles’ Catalina island, this getaway island was home to the wealthy, has no ga
-location: Piano island also known as Gulangyu
+location: Museum as Retail Space
 city: Los Angeles
 categories:
 - Los Angeles
+address: 649 S Anderson St (Jessy Street), Los Angeles, CA 90023
+coordinates:
+  lat: 34.037029
+  lng: -118.223546
 ---
 
 ![Piano island also known as Gulangyu](/images/posts/ig-2024-05-14-piano-island-also-known-as-gulangyu/18013033838139143.jpg)

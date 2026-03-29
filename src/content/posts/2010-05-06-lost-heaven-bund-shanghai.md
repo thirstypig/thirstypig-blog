@@ -13,9 +13,13 @@ tags:
 description: 'Lost Heaven, located near the Bund in Shanghai, is visual experience much as it is a culinary one. A fusion of Burmese, Thai, and Yunnan dishes, Lost Heaven is ideal for an intimate date as well as a '
 archiveUrl: https://web.archive.org/web/20161104194834/http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/
 draft: false
-location: Lost Heaven on the Bund
+location: Lost Heaven Lounge (花马天堂酒吧)
 city: Shanghai
 region: Shanghai
+address: 3-4/F, 17 Yan'an Rd. East (at Sichuan Rd. South), Huangpu, 上海市, 200002
+coordinates:
+  lat: 31.23436
+  lng: 121.486421
 ---
 
 

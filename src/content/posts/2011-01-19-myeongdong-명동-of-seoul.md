@@ -12,9 +12,13 @@ tags:
 description: One of my favorite areas in Seoul was Myeongdong 명동. This bustling shopping area was lively and crowded at all times. Given that it was close to Mr. B’s apartment, I went there a few times by myself.
 archiveUrl: https://web.archive.org/web/20110211070507/http://www.thethirstypig.com:80/2011/01/19/myeongdong-%EB%AA%85%EB%8F%99-of-seoul/
 draft: false
-location: Myeongdong 명동 of Seoul
+location: Myeongdong Street (명동길)
 city: Seoul
 region: Seoul
+address: 중구 명동8길, 명동길 (명동), 명동, 서울특별시, 서울특별시, 100-021
+coordinates:
+  lat: 37.562454
+  lng: 126.984798
 ---
 
 One of my favorite areas in Seoul was Myeongdong 명동. This bustling shopping area was lively and crowded at all times. Given that it was close to Mr. B’s apartment, I went there a few times by myself.

@@ -60,9 +60,13 @@ categories:
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20100922105055/http://www.thethirstypig.com:80/2010/09/16/jingpuhui-pudong/
 draft: false
-location: 晶浦会 Jingpuhui of Pudong
+location: Pudong Riverside Promenade (浦东滨江大道)
 city: Shanghai
 region: Shanghai
+address: Riverside Promenade (along Huangpu River), Lùjiāzuǐ, Huangpu, 上海市, 200030
+coordinates:
+  lat: 31.237746
+  lng: 121.492163
 ---
 
 > You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . .

@@ -28,9 +28,13 @@ tags:
 - food
 - chinesefood
 description: Lunch at Pine & Crane. Taiwanese fare in Silver Lake, minutes from DTLA. Couldn’t order in Taiwanese, was skeptical. But was slightly surprised. Shrimp dumplings had good sauce. Noodle texture was rig
-location: Lunch at Pine & Crane
+location: Wolf & Crane Bar
 city: Silver Lake
 region: Los Angeles
+address: 366 E 2nd St (Central Ave), Los Angeles, CA 90012
+coordinates:
+  lat: 34.047816
+  lng: -118.239695
 ---
 
 ![Lunch at Pine & Crane](/images/posts/ig-2018-05-10-lunch-at-pine-crane/17918743441141558.jpg)

@@ -18,6 +18,10 @@ draft: false
 location: Philippe The Original
 city: Chinatown
 region: Downtown LA
+address: 1001 N Alameda St (at Ord St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.059622
+  lng: -118.237013
 ---
 
 A little Los Angeles history for you…

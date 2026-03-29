@@ -19,9 +19,13 @@ tags:
 - food
 - italiansub
 description: 'Sandwiches from Lil Pickle. Had the Lil'' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I '
-location: Sandwiches from Lil Pickle
+location: Ike's Love & Sandwiches
 city: Costa Mesa
 region: Orange County
+address: 1835 Newport Blvd, Costa Mesa, CA 92627
+coordinates:
+  lat: 33.640995
+  lng: -117.920604
 ---
 
 ![Sandwiches from Lil Pickle](/images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17886598237793484.jpg)

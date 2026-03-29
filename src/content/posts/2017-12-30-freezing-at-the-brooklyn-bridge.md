@@ -20,9 +20,13 @@ tags:
 - nyc
 - windchill
 description: Freezing at the Brooklyn Bridge.
-location: Freezing at the Brooklyn Bridge
+location: Under the Brooklyn Bridge
 city: New York
 region: New York
+address: Brooklyn Bridge (FDR Dr), New York, NY 11201
+coordinates:
+  lat: 40.703952
+  lng: -73.994197
 ---
 
 ![Freezing at the Brooklyn Bridge](/images/posts/ig-2017-12-30-freezing-at-the-brooklyn-bridge/17890870741132893.jpg)

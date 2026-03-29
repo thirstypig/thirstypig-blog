@@ -16,9 +16,13 @@ tags:
 description: Went to my first one in Hong Kong, in 2003 Love the bbq pork and roast pork Gets crowded fast. Especially before and after the clubs open and close The Pineapple buns are good and popular. Probably th
 archiveUrl: https://web.archive.org/web/20160915042555/http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
 draft: false
-location: Tsui Wah
+location: Tsui Wah Restaurant (翠华餐厅)
 city: Shanghai
 region: Shanghai
+address: 618 Xujiahui Rd  | 徐家汇路618号 (1/F-A01 SML Center | 日月光中心广场), Dǎ pǔ qiáo, Huangpu, 上海市, 200025
+coordinates:
+  lat: 31.209229
+  lng: 121.463235
 ---
 
 

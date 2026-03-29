@@ -26,9 +26,13 @@ tags:
 - creamedspinach
 - yorkshirepudding
 description: Bowl Cut at Lawry’s and all the accoutrements. . . .
-location: Bowl Cut at Lawry’s and all the accoutrements
+location: CUT Beverly Hills
 city: Beverly Hills
 region: Los Angeles
+address: 9500 Wilshire Blvd ((at the Beverly Wilshire, A Four Seasons Hotel)), Beverly Hills, CA 90212
+coordinates:
+  lat: 34.066425
+  lng: -118.400761
 ---
 
 ![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18039157528134134.jpg)

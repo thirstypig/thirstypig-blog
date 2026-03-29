@@ -26,7 +26,11 @@ tags:
 description: With the impeccable service, Chao Ping Ji makes you wonder if you truely belong there. With 1st class attentive service dish by dish. You won’t see dim sum carts pushed around. What you lose with trad
 archiveUrl: https://web.archive.org/web/20110105135341/http://www.thethirstypig.com/2010/05/17/san-wan-hotel-dim-sum/
 draft: false
-location: Chao Ping Ji Dim Sum at San Want Hotel
+location: 台北馥華商旅(松江館) Forward Hotel Taipei
 city: Taipei
 region: Taipei
+address: No3 Yijiang Street, 台北市
+coordinates:
+  lat: 25.050956
+  lng: 121.531528
 ---

@@ -18,9 +18,13 @@ tags:
 description: Green Tea, with China origins, has been cultivated extensively by the Japanese. In fact, Japanese green tea is simply referred as Japanese tea. Green tea is used for desserts, cooking, and just tea. A
 archiveUrl: https://web.archive.org/web/20161019091749/http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/
 draft: false
-location: Nana’s Green Tea
+location: Nana's Green Tea (七叶和茶)
 city: Shanghai
 region: Shanghai
+address: 999 Huaihai M Rd | 淮海中路999号 (1/F iapm Mall | 环贸iapm商场), Xīntiāndì, Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.217301
+  lng: 121.453192
 ---
 
 

@@ -22,9 +22,13 @@ tags:
 - saturday
 - usc
 description: Was hungry . . . So we planned to trip to have barbecue at APL in Venice. They opened at 12:30ish (really at 12:45) and we decided to get there early. So. . . We arrived and got Nightclub-inthefront-b
-location: Was hungry
+location: Beach Cities Car Wash & Detailing
 city: Venice
 region: Los Angeles
+address: Lincoln Blvd, Los Angeles, CA 90291, Los Angeles, CA 90291
+coordinates:
+  lat: 33.994154
+  lng: -118.453538
 ---
 
 ![Was hungry](/images/posts/ig-2024-11-17-was-hungry/18073847905529359.jpg)

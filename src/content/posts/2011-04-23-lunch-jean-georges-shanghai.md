@@ -17,9 +17,13 @@ tags:
 description: Last Saturday the world-renown 3-Star Michelin chef Jean-Georges Vongerichten was in town, Shanghai, showcasing a cooking demonstration & class at his restaurant Jean Georges Shanghai.
 archiveUrl: https://web.archive.org/web/20161018102047/http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
 draft: false
-location: Lunch with Jean-Georges
+location: Jean Georges
 city: Shanghai
 region: Shanghai
+address: 4/F 3 Zhongshan E 1st Rd (at Guangdong Rd), Huangpu, 上海市, 200002
+coordinates:
+  lat: 31.23638
+  lng: 121.486543
 ---
 
 

@@ -23,9 +23,13 @@ tags:
 - eeeeeats
 - thirstypig
 description: 'Spicy Chicken in Koreatown. Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro. They will also add fried rice to the pot, and you wait for '
-location: Spicy Chicken in Koreatown
+location: Sultan Chicken
 city: Koreatown
 region: Los Angeles
+address: 311 W 6th St (btwn Hill & Broadway), Los Angeles, CA 90014
+coordinates:
+  lat: 34.046982
+  lng: -118.252241
 ---
 
 ![Spicy Chicken in Koreatown](/images/posts/ig-2024-09-05-spicy-chicken-in-koreatown/17888575470017263.jpg)

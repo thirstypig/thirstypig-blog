@@ -21,10 +21,14 @@ tags:
 - itfdb
 - baseball
 description: Los Angeles Dodgers World Series parade!8th World Series - 2024 Champs! 7 buses of champions! . . .
-location: Los Angeles Dodgers World Series parade
+location: Los Angeles Theatre
 city: Los Angeles
 categories:
 - Los Angeles
+address: 615 S Broadway (btwn 6th & 7th), Los Angeles, CA 90014
+coordinates:
+  lat: 34.046397
+  lng: -118.252587
 ---
 
 ![Los Angeles Dodgers World Series parade](/images/posts/ig-2024-11-01-los-angeles-dodgers-world-series-parade/17951926751747480.jpg)

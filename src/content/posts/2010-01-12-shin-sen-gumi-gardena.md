@@ -36,9 +36,13 @@ tags:
 description: Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ram
 archiveUrl: https://web.archive.org/web/20111103150423/http://www.thethirstypig.com/2010/01/12/shin-sen-gumi-gardena/
 draft: false
-location: Shin Sen Gumi
+location: Shin-Sen-Gumi Yakitori
 city: Gardena
 region: South Bay
+address: 18517 S Western Ave (at West 186th St), Gardena, CA 90248
+coordinates:
+  lat: 33.862784
+  lng: -118.309459
 ---
 
 Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ramen houses, chanko nabe, shabu-shabu, and yakitori. This particular Shin Sen Gumi specializes in yakitori.

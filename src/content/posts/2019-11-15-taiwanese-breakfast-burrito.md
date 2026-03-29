@@ -16,11 +16,15 @@ tags:
 - sgv
 - arcadia
 description: Taiwanese Breakfast Burrito. 飯糰 and egg pancake. This was my daily breakfast when I lived in Taipei. Must have the fried egg. Only with the curlers 油條 was more crispy. Other than that it was good. Als
-location: Taiwanese Breakfast Burrito
+location: Taiwanese Breakfast (想彳早餐)
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 萬壽里,  108
+coordinates:
+  lat: 25.04379
+  lng: 121.50678
 ---
 
 ![Taiwanese Breakfast Burrito](/images/posts/ig-2019-11-15-taiwanese-breakfast-burrito/17887879384441531.jpg)

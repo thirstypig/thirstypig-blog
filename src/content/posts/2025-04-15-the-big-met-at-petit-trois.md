@@ -24,9 +24,13 @@ tags:
 - beligianendivesalad
 - frenchfood
 description: The big Met at Petit Trois. This is the famous burger at Petit Trois, a French cuisine restaurant. Tucked in a mini mall without any prominent signage, Chef Ludo has been one of the top restauranteurs
-location: The big Met at Petit Trois
+location: Big Man Bakes
 city: Los Angeles
 region: Los Angeles
+address: 413 S Main St (btwn E 4th & Winston St), Los Angeles, CA 90013
+coordinates:
+  lat: 34.047693
+  lng: -118.247532
 ---
 
 ![The big Met at Petit Trois](/images/posts/ig-2025-04-15-the-big-met-at-petit-trois/18073767958798749.jpg)

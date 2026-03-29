@@ -14,9 +14,13 @@ tags:
 description: 'This past holiday season, I was fortunate to have time to visit a good friend in Seoul. I spent Christmas and New Year’s in this great metropolis. On my short list of things to do, see, and eat – was '
 archiveUrl: https://web.archive.org/web/20110105165645/http://www.thethirstypig.com/2011/01/05/kimchi-museum-%ea%b9%80%ec%b9%98%eb%b0%95%eb%ac%bc%ea%b4%80-at-coex-seoul/
 draft: false
-location: Kimchi Museum 김치박물관 at COEX Seoul
+location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul
+address: 중구 남대문로 81, 소공동, 중구, 서울특별시, 04533
+coordinates:
+  lat: 37.565722
+  lng: 126.981009
 ---
 
 This past holiday season, I was fortunate to have time to visit a good friend in Seoul. I spent Christmas and New Year’s in this great metropolis. On my short list of things to do, see, and eat – was the Kimchi Museum.

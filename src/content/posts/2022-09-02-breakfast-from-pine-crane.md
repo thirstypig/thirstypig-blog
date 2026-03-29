@@ -23,11 +23,15 @@ tags:
 - eats
 - thirstypig
 description: Breakfast from Pine & Crane. Taiwanese breakfast is one of my favorite meals. Similar to a western breakfast, it features hearty foods with eggs, rice, and fried pastries. Had the Chive and egg pocket
-location: Breakfast from Pine & Crane
+location: ACME Breakfast CLUB
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 3F., No. 10, Ln. 27, Chengdu Rd.,, 台北市,  108
+coordinates:
+  lat: 25.043211
+  lng: 121.506733
 ---
 
 ![Breakfast from Pine & Crane](/images/posts/ig-2022-09-02-breakfast-from-pine-crane/17922625073452298.jpg)

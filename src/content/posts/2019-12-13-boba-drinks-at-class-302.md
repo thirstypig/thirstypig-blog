@@ -20,9 +20,13 @@ tags:
 - dessert
 - å
 description: Boba drinks at Class 302. Taiwanese restaurant that offers Taiwanese comfort food with drinks and desserts. Only had drinks this time. I had the milk with brown sugar boba and egg custard. Not bad. Bu
-location: Boba drinks at Class 302
+location: Boba Time
 city: Rowland Heights
 region: San Gabriel Valley
+address: 19820 E Colima Rd (at Brea Canyon Cut-off Rd), Walnut, CA 91789
+coordinates:
+  lat: 33.986742
+  lng: -117.869181
 ---
 
 ![Boba drinks at Class 302](/images/posts/ig-2019-12-13-boba-drinks-at-class-302/17868254041531942.jpg)

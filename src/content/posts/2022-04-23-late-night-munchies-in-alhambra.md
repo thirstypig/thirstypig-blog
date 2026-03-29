@@ -22,12 +22,16 @@ tags:
 - food
 - ramen
 description: Late night munchies in Alhambra. Glad they’re open late. Also glad they have skewers and ramen. . . . . . . .restaurant.gr
-location: Late night munchies in Alhambra
+location: Regal Edwards Alhambra Renaissance
 city: Alhambra
 region: San Gabriel Valley
 categories:
 - Alhambra
 - San Gabriel Valley
+address: 1 E Main St, Alhambra, CA 91801
+coordinates:
+  lat: 34.095904
+  lng: -118.12699
 ---
 
 ![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17961381331653643.jpg)

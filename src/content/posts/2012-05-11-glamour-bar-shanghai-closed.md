@@ -18,6 +18,10 @@ draft: false
 location: Glamour Bar
 city: Shanghai
 region: Shanghai
+address: 6/F, 5 Guangdong Rd, 上海市, 上海市
+coordinates:
+  lat: 31.236486
+  lng: 121.48629
 ---
 
 

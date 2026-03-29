@@ -19,9 +19,13 @@ tags:
 - boba
 - drinks
 description: Boba and popcorn chicken from Boba Ave. Nice little restaurant that has driv thru for boba drinks and Taiwanese popcorn chicken. . . . . . . .
-location: Boba and popcorn chicken from Boba Ave
+location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley
+address: 139 E Huntington Dr, Arcadia, CA 91006
+coordinates:
+  lat: 34.1403
+  lng: -118.026696
 ---
 
 ![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17919479245536140.jpg)

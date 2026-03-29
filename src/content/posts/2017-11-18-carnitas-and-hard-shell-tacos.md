@@ -15,9 +15,13 @@ tags:
 - shotoniphone
 - food
 description: Carnitas and hard shell tacos. Local Mexican restaurant that’s been around for year. Salsa kind of sucked for the chips. The carnitas was just ok.
-location: Carnitas and hard shell tacos
+location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley
+address: 139 E Huntington Dr, Arcadia, CA 91006
+coordinates:
+  lat: 34.1403
+  lng: -118.026696
 ---
 
 ![Carnitas and hard shell tacos](/images/posts/ig-2017-11-18-carnitas-and-hard-shell-tacos/17899658731078086.jpg)

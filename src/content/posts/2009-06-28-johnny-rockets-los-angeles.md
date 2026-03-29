@@ -14,6 +14,10 @@ archiveUrl: https://web.archive.org/web/20160828021658/http://thirstypig.com/200
 draft: false
 location: Johnny Rockets
 city: Los Angeles
+address: 6801 Hollywood Blvd (at N Highland Ave), Hollywood, CA 90028
+coordinates:
+  lat: 34.102022
+  lng: -118.339547
 ---
 
 

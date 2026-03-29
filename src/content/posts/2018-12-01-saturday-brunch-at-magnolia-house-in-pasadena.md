@@ -21,11 +21,15 @@ tags:
 - sgv
 - bloodymary
 description: Saturday brunch at Magnolia House in Pasadena. Chicken and waffles, pork belly with egg Sandro, and chiliquilles . . . .
-location: Saturday brunch at Magnolia House in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/17973204751160379.jpg)

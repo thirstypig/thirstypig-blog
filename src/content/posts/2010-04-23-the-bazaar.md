@@ -15,9 +15,13 @@ tags:
 description: The Bazaar, Beverly Hills
 archiveUrl: https://web.archive.org/web/20160523111949/http://thirstypig.com:80/2010/04/23/the-bazaar/
 draft: false
-location: The Bazaar
+location: The Cheese Store of Beverly Hills
 city: Beverly Hills
 region: Westside
+address: 419 N Beverly Dr, Beverly Hills, CA 90210
+coordinates:
+  lat: 34.070357
+  lng: -118.402368
 ---
 
 The Bazaar, Beverly Hills

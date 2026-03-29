@@ -22,9 +22,13 @@ tags:
 - eats
 - eeeeeats
 description: Brunch at Westwood’s Egg Tuck. This local chain of breakfast sandwiches and burritos makes solid eggy handhelds. Within the yolk colored walls they focus on just a few menu items. Of course I had to g
-location: Brunch at Westwood’s Egg Tuck
+location: Eggslut
 city: Westwood
 region: Los Angeles
+address: 317 S Broadway, Los Angeles, CA 90013
+coordinates:
+  lat: 34.050635
+  lng: -118.248678
 ---
 
 ![Brunch at Westwood’s Egg Tuck](/images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg)

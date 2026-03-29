@@ -21,9 +21,13 @@ tags:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110427005158/http://www.thethirstypig.com:80/2011/04/21/urban-soup-kitchen-shanghai/
 draft: false
-location: Urban Soup Kitchen
+location: Urban Soup Kitchen (吾伴浓汤)
 city: Shanghai
 region: Shanghai
+address: 280 Madang Rd | 马当路280号 (Zizhong Rd | 自忠路), 上海市, 上海市
+coordinates:
+  lat: 31.219764
+  lng: 121.470253
 ---
 
 On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.

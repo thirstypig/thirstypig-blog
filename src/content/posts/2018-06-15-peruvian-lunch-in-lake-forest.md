@@ -20,9 +20,13 @@ tags:
 - fridays
 - oc
 description: Peruvian lunch in Lake Forest. Chicken Saltado and Chicken Picante. Yum! 😋. . . . .
-location: Peruvian lunch in Lake Forest
+location: In-N-Out Burger
 city: Irvine
 region: Orange County
+address: 4115 Campus Dr (at Bridge Rd), Irvine, CA 92612
+coordinates:
+  lat: 33.650163
+  lng: -117.840666
 ---
 
 ![Peruvian lunch in Lake Forest](/images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17938296484119380.jpg)

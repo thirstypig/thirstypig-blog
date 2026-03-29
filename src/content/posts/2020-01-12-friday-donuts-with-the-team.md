@@ -21,11 +21,15 @@ tags:
 - eeeeeats
 - tgif
 description: Friday donuts with the team! Trejo’s donuts. . . . . . .mx
-location: Friday donuts with the team
+location: Dodger Stadium Team Store
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 1000 Vin Scully Ave, Los Angeles, CA 90012
+coordinates:
+  lat: 34.07253
+  lng: -118.24076
 ---
 
 ![Friday donuts with the team](/images/posts/ig-2020-01-12-friday-donuts-with-the-team/17851719874795175.jpg)

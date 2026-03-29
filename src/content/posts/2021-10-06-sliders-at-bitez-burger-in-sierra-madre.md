@@ -20,11 +20,15 @@ tags:
 - eeeeeats
 - thirstypig
 description: Sliders at Bitez Burger in Sierra Madre. Baked burger Pattie’s and fries. Not fried and not grilled. From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their f
-location: Sliders at Bitez Burger in Sierra Madre
+location: Water Court at California Plaza
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17900458712163390.jpg)

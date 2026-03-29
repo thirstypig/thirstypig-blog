@@ -16,12 +16,16 @@ tags:
 - sgv
 - arcadia
 description: Looks may be deceiving. Had a really bad meal at May’s Chinese Restaurant in Arcadia. Food was a big NG - No Good. I should have known. The ownership has changed so many times, the menu feature Taiwan
-location: Looks may be deceiving
+location: Best Carpet Care
 city: Arcadia
 region: San Gabriel Valley
 categories:
 - Arcadia
 - San Gabriel Valley
+address: 118 San Miguel Dr, Arcadia, CA 91007
+coordinates:
+  lat: 34.141183
+  lng: -118.034933
 ---
 
 ![Looks may be deceiving](/images/posts/ig-2019-12-20-looks-may-be-deceiving/18009516850266426.jpg)

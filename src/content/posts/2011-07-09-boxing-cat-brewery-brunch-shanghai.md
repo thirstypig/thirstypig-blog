@@ -12,9 +12,13 @@ tags:
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20161018123242/http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/
 draft: false
-location: Boxing Cat Brewery Brunch
+location: Boxing Cat Brewery
 city: Shanghai
 region: Shanghai
+address: Xintiandi, Huangpu, 上海市
+coordinates:
+  lat: 31.221162
+  lng: 121.474568
 ---
 
 

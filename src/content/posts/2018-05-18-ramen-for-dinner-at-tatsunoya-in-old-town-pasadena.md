@@ -19,11 +19,15 @@ tags:
 - tonkatsu
 - charsui
 description: Ramen for dinner at Tatsunoya in Old Town Pasadena. Wife’s favorite ramen joint. I thought it was pretty good this time. I also added the cheese, which she thought was overkill, with the rich fatty br
-location: Ramen for dinner at Tatsunoya in Old Town Pasadena
+location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: Pasadena, CA 91105
+coordinates:
+  lat: 34.145657
+  lng: -118.152145
 ---
 
 ![Ramen for dinner at Tatsunoya in Old Town Pasadena](/images/posts/ig-2018-05-18-ramen-for-dinner-at-tatsunoya-in-old-town-pasadena/17873020528237291.jpg)

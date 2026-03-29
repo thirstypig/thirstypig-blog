@@ -14,9 +14,13 @@ images:
 - /images/posts/ig-2017-12-23-steaks-in-vegas/17914550599061465.jpg
 - /images/posts/ig-2017-12-23-steaks-in-vegas/17891922712137173.jpg
 description: Steaks in Vegas
-location: Steaks in Vegas
+location: Downtown Las Vegas Events Center
 city: Las Vegas
 region: Las Vegas
+address: 200 S 3rd St, Las Vegas, NV 89101
+coordinates:
+  lat: 36.168683
+  lng: -115.144706
 ---
 
 ![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17901609556118658.jpg)

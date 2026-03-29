@@ -13,9 +13,13 @@ tags:
 description: With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like Maya, everyday type of restaurants like Cantina Agave, and almost fast food types
 archiveUrl: https://web.archive.org/web/20161105005205/http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
 draft: false
-location: Mayan Grill
+location: Robin's Grill
 city: Taipei
 region: Taipei
+address: 中山北路二段41號2樓, 中山區, 臺北市 104
+coordinates:
+  lat: 25.054178
+  lng: 121.524381
 ---
 
 

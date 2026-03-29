@@ -33,9 +33,13 @@ tags:
 description: But in sell honesty, Allston Yacht Club is for the yuppies of the westside, or downtown LA, or even a few miles east to silver lake.
 archiveUrl: https://web.archive.org/web/20100528125911/http://www.thethirstypig.com:80/2010/05/24/allston-yacht-club/
 draft: false
-location: Allston Yacht Club of Echo Park
+location: Echo Park Deep Pool
 city: Los Feliz
 region: Central LA
+address: 1419 Colton St (Glendale), Los Angeles, CA 90026
+coordinates:
+  lat: 34.064404
+  lng: -118.259074
 ---
 
 SHARETHIS.addEntry({ title: "Allston Yacht Club of Echo Park", url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });

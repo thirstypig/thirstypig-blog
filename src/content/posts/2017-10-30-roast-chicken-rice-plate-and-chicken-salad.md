@@ -19,9 +19,13 @@ tags:
 - shotoniphone
 - iphonefood
 description: Roast chicken rice plate and chicken salad. Wife stole my chicken leg. 🐷😩 Also had the chicken bone broth - good for a chilly day. Unfortunately quite salty (had to dilute with ice water). please chec
-location: Roast chicken rice plate and chicken salad
+location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley
+address: 139 E Huntington Dr, Arcadia, CA 91006
+coordinates:
+  lat: 34.1403
+  lng: -118.026696
 ---
 
 ![Roast chicken rice plate and chicken salad](/images/posts/ig-2017-10-30-roast-chicken-rice-plate-and-chicken-salad/17880661378187227.jpg)

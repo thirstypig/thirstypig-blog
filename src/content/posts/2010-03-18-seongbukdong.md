@@ -32,4 +32,8 @@ draft: false
 location: Seongbukdong
 city: Koreatown
 region: Koreatown
+address: 3303 W 6th St (at Berendo St), Los Angeles, CA 90020
+coordinates:
+  lat: 34.06387
+  lng: -118.294286
 ---

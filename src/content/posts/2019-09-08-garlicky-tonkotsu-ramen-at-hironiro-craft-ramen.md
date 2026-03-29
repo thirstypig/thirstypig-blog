@@ -23,11 +23,15 @@ tags:
 - japanesefood
 - noodles
 description: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. At
-location: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen
+location: The Lounge At Mi Piace
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
+coordinates:
+  lat: 34.145855
+  lng: -118.1499
 ---
 
 ![Garlicky Tonkotsu Ramen at Hironiro Craft Ramen](/images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18081230185097104.jpg)
