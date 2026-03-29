@@ -20,13 +20,6 @@ city: Sgv
 region: San Gabriel Valley
 ---
 
-[![IMG_0773](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0773.jpg?resize=439%2C329 "IMG_0773")](http://thirstypig.com/2017/01/05/emperor-noodle-sgv/img_0773/)
-
-[![IMG_0775](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0775.jpg?resize=163%2C162 "IMG_0775")](http://thirstypig.com/2017/01/05/emperor-noodle-sgv/img_0775/)
-
-[![IMG_0776](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0776.jpg?resize=163%2C163 "IMG_0776")](http://thirstypig.com/2017/01/05/emperor-noodle-sgv/img_0776/)
-
-[![IMG_0777](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0777.jpg?resize=606%2C606 "IMG_0777")](http://thirstypig.com/2017/01/05/emperor-noodle-sgv/img_0777/)
 
 #Might be my favorite Shanghainese restaurants in LA
 #[One of J.  Gold’s favorite Sheng jian Baos](http://www.latimes.com/food/dailydish/la-jonathan-golds-six-favorite-dumplings-20131104-story.html)

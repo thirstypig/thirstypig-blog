@@ -18,43 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![catina-agave-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-19.jpg?resize=399%2C532 "catina-agave-shanghai-19")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-19/)
-
-[![catina-agave-shanghai-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-17.jpg?resize=233%2C174 "catina-agave-shanghai-17")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-17/)
-
-[![catina-agave-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-08.jpg?resize=233%2C175 "catina-agave-shanghai-08")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-08/)
-
-[![catina-agave-shanghai-23](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-23.jpg?resize=233%2C175 "catina-agave-shanghai-23")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-23/)
-
-[![catina-agave-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-05.jpg?resize=336%2C448 "catina-agave-shanghai-05")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-05/)
-
-[![catina-agave-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-12.jpg?resize=296%2C222 "catina-agave-shanghai-12")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-12/)
-
-[![catina-agave-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-02.jpg?resize=296%2C222 "catina-agave-shanghai-02")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-02/)
-
-[![catina-agave-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-03.jpg?resize=296%2C222 "catina-agave-shanghai-03")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-03/)
-
-[![catina-agave-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-01.jpg?resize=296%2C222 "catina-agave-shanghai-01")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-01/)
-
-[![catina-agave-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-16.jpg?resize=336%2C448 "catina-agave-shanghai-16")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-16/)
-
-[![catina-agave-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-20.jpg?resize=316%2C237 "catina-agave-shanghai-20")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-20/)
-
-[![catina-agave-shanghai-24](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-24.jpg?resize=316%2C237 "catina-agave-shanghai-24")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-24/)
-
-[![catina-agave-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-06.jpg?resize=399%2C532 "catina-agave-shanghai-06")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-06/)
-
-[![catina-agave-shanghai-21](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-21.jpg?resize=233%2C174 "catina-agave-shanghai-21")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-21/)
-
-[![catina-agave-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-18.jpg?resize=233%2C175 "catina-agave-shanghai-18")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-18/)
-
-[![catina-agave-shanghai-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-15.jpg?resize=233%2C175 "catina-agave-shanghai-15")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-15/)
-
-[![catina-agave-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-07.jpg?resize=423%2C317 "catina-agave-shanghai-07")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-07/)
-
-[![catina-agave-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-04.jpg?resize=209%2C156 "catina-agave-shanghai-04")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-04/)
-
-[![catina-agave-shanghai-25](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Catina-Agave-Shanghai-25.jpg?resize=209%2C157 "catina-agave-shanghai-25")](http://thirstypig.com/2010/12/19/cantina-agave-shanghai/catina-agave-shanghai-25/)
 
 I try to avoid certain ethnic cuisines while in Asia, Mexican being one of them. I have tried for years to try to accept Mexican foods in Taiwan, Hong Kong, and now Shanghai. Both in Taiwan and Hong Kong, with the large Asian American population, little Mexican or Tex-Mex joints pop up. The dilemma lies with authenticity of the spices and sauces, which may not appeal to the scale of the market herein it lies. The Asian American, expat and foreigner groups aren’t large enough to support it. Thus then the restauranteurs resort to modifying the taste to accommodate the local palates and tastes, often times bastardizing flavors.
 

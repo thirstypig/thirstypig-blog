@@ -18,47 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3432](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3432.jpg?resize=234%2C175 "img_3432")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3432/)
-
-[![img_3433](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3433.jpg?resize=131%2C175 "img_3433")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3433/)
-
-[![img_3435](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3435.jpg?resize=233%2C175 "img_3435")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3435/)
-
-[![img_3441](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3441.jpg?resize=301%2C401 "img_3441")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3441/)
-
-[![img_3429](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3429.jpg?resize=301%2C401 "img_3429")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3429/)
-
-[![img_3455](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3455.jpg?resize=385%2C289 "img_3455")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3455/)
-
-[![img_3444](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3444.jpg?resize=217%2C289 "img_3444")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3444/)
-
-[![img_3448](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3448.jpg?resize=301%2C401 "img_3448")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3448/)
-
-[![img_3443](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3443.jpg?resize=301%2C401 "img_3443")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3443/)
-
-[![img_3447](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3447.jpg?resize=234%2C175 "img_3447")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3447-3/)
-
-[![img_3434](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3434.jpg?resize=131%2C175 "img_3434")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3434/)
-
-[![img_3425](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3425.jpg?resize=233%2C175 "img_3425")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3425/)
-
-[![img_3442](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3442.jpg?resize=380%2C507 "img_3442")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3442/)
-
-[![img_3451](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3451.jpg?resize=222%2C166 "img_3451")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3451/)
-
-[![img_3458](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3458.jpg?resize=222%2C166 "img_3458")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3458/)
-
-[![img_3431](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3431.jpg?resize=222%2C167 "img_3431")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3431/)
-
-[![img_3457](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3457-1.jpg?resize=282%2C211 "img_3457")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3457-2/)
-
-[![img_3428](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3428.jpg?resize=282%2C212 "img_3428")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3428/)
-
-[![img_3453](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3453.jpg?resize=320%2C427 "img_3453")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3453-2/)
-
-[![img_3456](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3456.jpg?resize=301%2C226 "img_3456")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3456/)
-
-[![img_3427](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3427.jpg?resize=301%2C226 "img_3427")](http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/img_3427/)
 
 Lamb is a main staple of many westerner Chinese. With roots from Mongolia and south west China, Little Sheep brings a family style hot pot cuisine. Some Americans are non-receptive to lamb, because of the gaminess and smell. I have learned, that some Chinese have similar feelings. I believe that people, once they have a bad experience with something, they tend not to return or try that.
 

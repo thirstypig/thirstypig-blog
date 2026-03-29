@@ -22,39 +22,6 @@ region: Shanghai
 
 [![pane-e-vino-shanghai-26](/images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg "pane-e-vino-shanghai-26")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-26/)
 
-[![pane-e-vino-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-04.jpg?resize=199%2C149 "pane-e-vino-shanghai-04")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-04/)
-
-[![pane-e-vino-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-18.jpg?resize=199%2C149 "pane-e-vino-shanghai-18")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-18/)
-
-[![pane-e-vino-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-16.jpg?resize=199%2C150 "pane-e-vino-shanghai-16")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-16/)
-
-[![pane-e-vino-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-19.jpg?resize=199%2C150 "pane-e-vino-shanghai-19")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-19/)
-
-[![pane-e-vino-shanghai-27](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-27-1.jpg?resize=200%2C150 "pane-e-vino-shanghai-27")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-27-2/)
-
-[![pane-e-vino-shanghai-29](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-29.jpg?resize=199%2C149 "pane-e-vino-shanghai-29")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-29/)
-
-[![pane-e-vino-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-01.jpg?resize=199%2C149 "pane-e-vino-shanghai-01")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-01/)
-
-[![pane-e-vino-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-12.jpg?resize=403%2C302 "pane-e-vino-shanghai-12")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-12/)
-
-[![pane-e-vino-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-05-1.jpg?resize=301%2C226 "pane-e-vino-shanghai-05")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-05-2/)
-
-[![pane-e-vino-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-09.jpg?resize=301%2C226 "pane-e-vino-shanghai-09")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-09/)
-
-[![pane-e-vino-shanghai-25](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-25.jpg?resize=403%2C302 "pane-e-vino-shanghai-25")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-25/)
-
-[![pane-e-vino-shanghai-23](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-23.jpg?resize=199%2C149 "pane-e-vino-shanghai-23")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-23/)
-
-[![pane-e-vino-shanghai-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-24.jpg?resize=199%2C149 "pane-e-vino-shanghai-24")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-24/)
-
-[![pane-e-vino-shanghai-28](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-28.jpg?resize=166%2C125 "pane-e-vino-shanghai-28")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-28/)
-
-[![pane-e-vino-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-07.jpg?resize=94%2C125 "pane-e-vino-shanghai-07")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-07/)
-
-[![pane-e-vino-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-06.jpg?resize=167%2C125 "pane-e-vino-shanghai-06")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-06/)
-
-[![pane-e-vino-shanghai-22](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Pane-E-Vino-Shanghai-22.jpg?resize=167%2C125 "pane-e-vino-shanghai-22")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-22/)
 
 Sometimes food prepared the traditional simple manner is all you need. But of course you need quality ingredients. Echo and her husband, Antonio have done just that. With imported Italian floor, spices, and wines, Pane e Vino is able to recreate time tested & honored recipes, here in Shanghai.
 

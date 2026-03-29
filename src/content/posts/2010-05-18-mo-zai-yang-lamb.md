@@ -13,4 +13,6 @@ description: 'Lamb is more of a Northern Style delicacy, not typically enjoyed b
 archiveUrl: https://web.archive.org/web/20110531053037/http://www.thethirstypig.com:80/2010/05/18/mo-zai-yang-lamb/
 draft: false
 location: Lamb at Mo Zai Yang 莫宰羊
+city: Los Angeles
+region: Los Angeles
 ---

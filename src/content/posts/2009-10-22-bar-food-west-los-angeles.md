@@ -20,33 +20,6 @@ region: Westside
 address: 12217 Wilshire Blvd Los Angeles, CA 90025
 ---
 
-[![DSCN0018](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0018-2.jpg?resize=423%2C317 "DSCN0018")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0018-3/)
-
-[![DSCN0032](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0032-1.jpg?resize=209%2C156 "DSCN0032")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0032-2/)
-
-[![DSCN0023](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0023.jpg?resize=209%2C157 "DSCN0023")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0023/)
-
-[![DSCN0013](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0013-5.jpg?resize=233%2C174 "DSCN0013")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0013-5/)
-
-[![DSCN0040](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0040-1.jpg?resize=233%2C175 "DSCN0040")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0040-2/)
-
-[![DSCN0041](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0041-1.jpg?resize=233%2C175 "DSCN0041")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0041-2/)
-
-[![DSCN0002](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0002-2.jpg?resize=399%2C532 "DSCN0002")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0002-4/)
-
-[![DSCN0021](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0021-2.jpg?resize=209%2C157 "DSCN0021")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0021-4/)
-
-[![DSCN0001](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0001-3.jpg?resize=209%2C157 "DSCN0001")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0001-6/)
-
-[![DSCN0024](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0024-4.jpg?resize=210%2C157 "DSCN0024")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0024-5/)
-
-[![DSCN0043](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0043.jpg?resize=156%2C117 "DSCN0043")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0043/)
-
-[![DSCN0029](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0029-3.jpg?resize=156%2C117 "DSCN0029")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0029-3/)
-
-[![DSCN0050](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0050-1.jpg?resize=156%2C117 "DSCN0050")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0050-3/)
-
-[![DSCN0055](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0055-1.jpg?resize=156%2C117 "DSCN0055")](http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/dscn0055-3/)
 
 The sparse menu showed few food items but included Guinness beer! The menu primarily looked like food you’d find at a bar, hence the name – Bar Food. This pub, or gastropub – the new moniker and also in the spirit of Father’s Office, offers a large selection of beers and wines with comfort food items. I was happy to find mac’n cheese, burgers, and anything with the word potato. We also ordered spicy tuna, bangers, shepherd’s pie, and fish & chips.
 

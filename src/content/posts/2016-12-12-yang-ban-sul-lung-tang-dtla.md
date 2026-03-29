@@ -17,17 +17,9 @@ draft: false
 location: Yang Ban Sul Lung Tang
 city: Dtla
 region: Downtown LA
+address: 716 E 9th Pl
 ---
 
-[![IMG_4161](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4161.jpg?resize=282%2C211 "IMG_4161")](http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/img_4161/)
-
-[![IMG_4162](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4162.jpg?resize=282%2C212 "IMG_4162")](http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/img_4162/)
-
-[![IMG_4164](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4164.jpg?resize=320%2C427 "IMG_4164")](http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/img_4164/)
-
-[![IMG_4165](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4165.jpg?resize=217%2C289 "IMG_4165")](http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/img_4165/)
-
-[![IMG_4166](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4166.jpg?resize=385%2C289 "IMG_4166")](http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/img_4166/)
 
 #Caters to the Koreans who work in the garment district in DTLA
 #Very good Ox Tail Soup, Sul Lung Tang (Beef), and Galbi Tang (Beef Rib) soups

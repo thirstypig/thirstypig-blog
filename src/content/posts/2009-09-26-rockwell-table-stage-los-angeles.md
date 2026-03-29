@@ -20,33 +20,6 @@ region: Hollywood
 address: 1714 N. Vermont Ave Los Angeles, CA 90027
 ---
 
-[![img_0926](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0926.jpg?resize=222%2C166 "img_0926")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0926-2/)
-
-[![img_0922](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0922.jpg?resize=222%2C166 "img_0922")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0922-3/)
-
-[![img_0917](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0917.jpg?resize=222%2C167 "img_0917")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0917-2/)
-
-[![img_0921](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0921.jpg?resize=380%2C507 "img_0921")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0921-2/)
-
-[![img_0924](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0924.jpg?resize=301%2C401 "img_0924")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0924/)
-
-[![img_0920](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0920.jpg?resize=301%2C401 "img_0920")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0920-2/)
-
-[![img_0915](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0915.jpg?resize=403%2C302 "img_0915")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0915-3/)
-
-[![img_0913](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0913.jpg?resize=199%2C149 "img_0913")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0913-4/)
-
-[![img_0918](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0918.jpg?resize=199%2C149 "img_0918")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0918-3/)
-
-[![img_0925](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0925.jpg?resize=282%2C211 "img_0925")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0925/)
-
-[![img_0912](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0912.jpg?resize=282%2C212 "img_0912")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0912-2/)
-
-[![img_0911](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0911.jpg?resize=320%2C427 "img_0911")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0911-2/)
-
-[![img_0923](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0923.jpg?resize=217%2C289 "img_0923")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0923-3/)
-
-[![img_0914](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0914.jpg?resize=385%2C289 "img_0914")](http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/img_0914-3/)
 
 The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a lounge in the back.
 

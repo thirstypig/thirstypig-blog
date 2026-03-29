@@ -20,19 +20,6 @@ region: Westside
 address: 10850 W Pico Blvd Los Angeles, CA 90064
 ---
 
-[![img_0908](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0908.jpg?resize=380%2C507 "img_0908")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/img_0908-2/)
-
-[![dscn0027](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0027.jpg?resize=222%2C166 "dscn0027")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/dscn0027-2/)
-
-[![img_0906](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0906.jpg?resize=222%2C166 "img_0906")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/img_0906-3/)
-
-[![dscn0048](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0048.jpg?resize=222%2C167 "dscn0048")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/dscn0048-2/)
-
-[![dscn0057](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0057.jpg?resize=282%2C211 "dscn0057")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/dscn0057/)
-
-[![dscn0054](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0054.jpg?resize=282%2C212 "dscn0054")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/dscn0054/)
-
-[![img_0909](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0909.jpg?resize=320%2C427 "img_0909")](http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/img_0909-2/)
 
 I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylized wood accents are all around, with a bar that stretches the length of the main dining room. Tonight we were celebrating a friend’s birthday in one of their two private rooms.
 

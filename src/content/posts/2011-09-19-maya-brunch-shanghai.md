@@ -22,25 +22,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![Eggs Benedict](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-08.jpg?resize=282%2C211 "Eggs Benedict")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-23/)
-
-[![Menu](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-01.jpg?resize=282%2C212 "Menu")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-17/)
-
-[![interior](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-03.jpg?resize=320%2C427 "interior")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-19/)
-
-[![Margarita](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-10.jpg?resize=403%2C302 "Margarita")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-25/)
-
-[![Margarita](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-07.jpg?resize=199%2C149 "Margarita")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-22/)
-
-[![Gauc](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-06.jpg?resize=199%2C149 "Gauc")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-21/)
-
-[![Menu](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-02.jpg?resize=222%2C166 "Menu")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-18/)
-
-[![Gaucamole](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-05.jpg?resize=222%2C166 "Gaucamole")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-20/)
-
-[![Burrito](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-09.jpg?resize=222%2C167 "Burrito")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-24/)
-
-[![Water](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Maya-Shanghai-04.jpg?resize=380%2C507 "Water")](http://thirstypig.com/2011/09/19/maya-brunch-shanghai/olympus-digital-camera-26/)
 
 Miss F was craving something Mexican, as I was, so we ventured to Maya for Sunday brunch. She had heard that Maya was arguably the best Mexican restaurant in town. With that, it sounded like a challenge – as if someone was talking smack about your mother. It was an honor I had to dispute or reinforce.
 

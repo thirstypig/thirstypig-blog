@@ -22,25 +22,6 @@ address: '417 S Myrtle Ave
   Monrovia, CA 91016'
 ---
 
-[![img_1384](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1384.jpg?resize=403%2C302 "img_1384")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1384/)
-
-[![img_1376](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1376.jpg?resize=199%2C149 "img_1376")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1376/)
-
-[![img_1381](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1381.jpg?resize=199%2C149 "img_1381")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1381/)
-
-[![img_1373](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1373.jpg?resize=199%2C150 "img_1373")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1373/)
-
-[![img_1385](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1385.jpg?resize=199%2C150 "img_1385")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1385/)
-
-[![img_1382](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1382.jpg?resize=200%2C150 "img_1382")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1382/)
-
-[![img_1372](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1372.jpg?resize=148%2C111 "img_1372")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1372/)
-
-[![img_1374](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1374.jpg?resize=148%2C111 "img_1374")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1374/)
-
-[![img_1380](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1380.jpg?resize=149%2C111 "img_1380")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1380/)
-
-[![img_1383](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1383.jpg?resize=149%2C111 "img_1383")](http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/img_1383/)
 
 Merengue brings Cuban food to a hidden and underrated neighborhood in Monrovia. Old Town, on Mrytle Avenue, consists of quaint local shops & restaurants with lined trees and sidewalk benches with a small town feel. Merengue’s sandwiches and baked goods offer patrons a good choice for dining as well as lunches
 

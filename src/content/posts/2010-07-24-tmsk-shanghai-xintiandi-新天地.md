@@ -18,29 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3387](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3387.jpg?resize=385%2C289 "img_3387")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3387/)
-
-[![img_3372](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3372.jpg?resize=217%2C289 "img_3372")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3372/)
-
-[![img_3393](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3393.jpg?resize=380%2C507 "img_3393")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3393-3/)
-
-[![img_3379](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3379.jpg?resize=222%2C166 "img_3379")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3379/)
-
-[![img_3385](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3385.jpg?resize=222%2C166 "img_3385")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3385/)
-
-[![img_3391](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3391.jpg?resize=222%2C167 "img_3391")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3391/)
-
-[![img_3375](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3375.jpg?resize=385%2C289 "img_3375")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3375/)
-
-[![img_3392](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3392.jpg?resize=217%2C289 "img_3392")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3392-3/)
-
-[![img_3376](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3376.jpg?resize=166%2C125 "img_3376")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3376/)
-
-[![img_3384](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3384.jpg?resize=167%2C125 "img_3384")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3384/)
-
-[![img_3380](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3380.jpg?resize=94%2C125 "img_3380")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3380/)
-
-[![img_3381](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3381.jpg?resize=167%2C125 "img_3381")](http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/img_3381/)
 
 Opulence is the word that I would choose in describing modern Chinese cuisine and interior restaurant decor. Fabulous, flashy, glamorous, bold, exciting, intriguing, are other words I would pick. TMSK, South Beauty, and Lan all represent stylistic statements in both food and design.
 

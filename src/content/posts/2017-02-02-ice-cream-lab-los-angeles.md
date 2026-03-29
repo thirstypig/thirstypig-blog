@@ -14,17 +14,9 @@ archiveUrl: https://web.archive.org/web/20170815074730/http://thirstypig.com:80/
 draft: false
 location: Ice Cream Lab
 city: Los Angeles
+address: 369 E 2nd St
 ---
 
-[![IMG_0490](https://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0490.jpg?w=199&h=266&crop "IMG_0490")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_0490/)
-
-[![IMG_1042](https://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1042.jpg?w=199&h=266&crop "IMG_1042")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_1042/)
-
-[![IMG_1043](https://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1043.jpg?w=200&h=266&crop "IMG_1043")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_1043/)
-
-[![IMG_1044](https://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1044.jpg?w=301&h=401&crop "IMG_1044")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_1044/)
-
-[![IMG_1041](https://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1041-1.jpg?w=301&h=401&crop "IMG_1041")](http://thirstypig.com/2017/02/02/ice-cream-lab-los-angeles/img_1041-2/)
 
 #One of the first nitrogen ice cream shops in LA
 #Had the blue velvet ice cream

@@ -17,13 +17,9 @@ draft: false
 location: Toast
 city: Los Angeles
 region: Hollywood
+address: 8221 W 3rd St
 ---
 
-[![IMG_1006](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1006.jpg?resize=403%2C302 "IMG_1006")](http://thirstypig.com/2017/01/26/toast-los-angeles/img_1006/)
-
-[![IMG_1010](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1010.jpg?resize=199%2C149 "IMG_1010")](http://thirstypig.com/2017/01/26/toast-los-angeles/img_1010/)
-
-[![IMG_1011](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1011.jpg?resize=199%2C149 "IMG_1011")](http://thirstypig.com/2017/01/26/toast-los-angeles/img_1011/)
 
 #Wonderful breakfast joint
 #Had the Eggs Florentine which was healthy and good

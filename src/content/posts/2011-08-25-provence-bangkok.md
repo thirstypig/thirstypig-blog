@@ -17,27 +17,6 @@ region: Bangkok
 address: 153 Rajdamri Rd
 ---
 
-[![provence-bangkok-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-02.jpg?resize=403%2C302 "provence-bangkok-02")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-02/)
-
-[![img_0839](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0839.jpg?resize=199%2C149 "img_0839")](http://thirstypig.com/2011/08/25/provence-bangkok/img_0839/)
-
-[![provence-bangkok-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-06.jpg?resize=199%2C149 "provence-bangkok-06")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-06/)
-
-[![provence-bangkok-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-05.jpg?resize=199%2C150 "provence-bangkok-05")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-05/)
-
-[![provence-bangkok-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-03.jpg?resize=199%2C150 "provence-bangkok-03")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-03/)
-
-[![provence-bangkok-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-01.jpg?resize=200%2C150 "provence-bangkok-01")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-01/)
-
-[![provence-bangkok-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-08-1.jpg?resize=199%2C149 "provence-bangkok-08")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-08-2/)
-
-[![provence-bangkok-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-07.jpg?resize=199%2C149 "provence-bangkok-07")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-07/)
-
-[![provence-bangkok-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-09.jpg?resize=403%2C302 "provence-bangkok-09")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-09/)
-
-[![provence-bangkok-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-04.jpg?resize=301%2C226 "provence-bangkok-04")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-04/)
-
-[![provence-bangkok-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Provence-Bangkok-10.jpg?resize=301%2C226 "provence-bangkok-10")](http://thirstypig.com/2011/08/25/provence-bangkok/provence-bangkok-10/)
 
 Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time to Bangkok. One thing is for sure, Mr. A, knows his noodles. So I knew I could trust his judgement.
 

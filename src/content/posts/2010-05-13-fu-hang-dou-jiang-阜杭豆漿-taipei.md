@@ -18,19 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_1956](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1956.jpg?resize=403%2C302 "img_1956")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1956/)
-
-[![img_1950](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1950.jpg?resize=199%2C149 "img_1950")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1950/)
-
-[![img_1959](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1959.jpg?resize=199%2C149 "img_1959")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1959/)
-
-[![img_1955](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1955.jpg?resize=148%2C111 "img_1955")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1955/)
-
-[![img_1957](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1957.jpg?resize=148%2C111 "img_1957")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1957/)
-
-[![img_1951](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1951-1.jpg?resize=149%2C111 "img_1951")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1951-2/)
-
-[![img_1952](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1952.jpg?resize=149%2C111 "img_1952")](http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/img_1952/)
 
 Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.
 

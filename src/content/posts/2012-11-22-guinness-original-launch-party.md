@@ -34,6 +34,8 @@ archiveUrl: https://web.archive.org/web/20121213191047/http://www.thethirstypig.
 draft: false
 location: Guinness Original Launch Party
 address: 294 Xinhua Road
+city: Los Angeles
+region: Los Angeles
 ---
 
 Hello Folks! It certainly has been awhile. Guinness is the world’s best beers – is also one of my favorite beers. I was recently invited to an event which showcased Guinness Original, one of the varieties of the eponymous brand. Started brewing in 1759 in Dublin, Guinness is the best selling alcoholic drink in Ireland.

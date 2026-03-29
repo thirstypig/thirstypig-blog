@@ -21,17 +21,6 @@ region: Downtown LA
 address: 834 S Grand Ave Los Angeles, CA 90017
 ---
 
-[![img_0310](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0310.jpg?resize=282%2C211 "img_0310")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0310/)
-
-[![img_0313](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0313.jpg?resize=282%2C212 "img_0313")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0313/)
-
-[![img_0309](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0309.jpg?resize=320%2C427 "img_0309")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0309-2/)
-
-[![img_0318](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0318.jpg?resize=403%2C302 "img_0318")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0318/)
-
-[![img_0312](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0312.jpg?resize=199%2C149 "img_0312")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0312/)
-
-[![img_0317](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0317-1.jpg?resize=199%2C149 "img_0317")](http://thirstypig.com/2010/02/03/uncle-johns-cafe-dtla/img_0317-3/)
 
 I was browsing around different sites and I found one that talked about how Uncle John’s is one of the best breakfast finds in Los Angeles. Since I’m a big fan of breakfast and joints in Downtown LA, I thought I’d try it.
 

@@ -52,15 +52,6 @@ address: 18202 S Western Ave Gardena, CA 90248
 
 [![img_0952](/images/posts/asa-ramen-gardena/IMG_0954.JPG "img_0952")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0952/)
 
-[![img_0947](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0947.jpg?resize=320%2C427 "img_0947")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0947/)
-
-[![img_0942](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0942.jpg?resize=282%2C211 "img_0942")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0942/)
-
-[![img_0940](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0940.jpg?resize=282%2C212 "img_0940")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0940/)
-
-[![img_0945](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0945.jpg?resize=301%2C401 "img_0945")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0945/)
-
-[![img_0936](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0936.jpg?resize=301%2C401 "img_0936")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/img_0936/)
 
 [Yelp Listing](https://www.yelp.com/biz/asa-ramen-gardena)
 

@@ -26,33 +26,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![dr-beer-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-03.jpg?resize=403%2C302 "dr-beer-shanghai-03")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-03/)
-
-[![img_1083](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1083-1.jpg?resize=199%2C149 "img_1083")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1083-3/)
-
-[![dr-beer-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-06.jpg?resize=199%2C149 "dr-beer-shanghai-06")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-06/)
-
-[![dr-beer-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-04-1.jpg?resize=199%2C150 "dr-beer-shanghai-04")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-04-2/)
-
-[![dr-beer-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-10.jpg?resize=199%2C150 "dr-beer-shanghai-10")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-10/)
-
-[![dr-beer-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-09.jpg?resize=200%2C150 "dr-beer-shanghai-09")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-09/)
-
-[![img_1088](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1088-1.jpg?resize=199%2C149 "img_1088")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1088-2/)
-
-[![dr-beer-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-01.jpg?resize=199%2C149 "dr-beer-shanghai-01")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-01/)
-
-[![img_1075](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1075-1.jpg?resize=403%2C302 "img_1075")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1075-2/)
-
-[![img_1082](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1082-1.jpg?resize=301%2C226 "img_1082")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1082-2/)
-
-[![dr-beer-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-11.jpg?resize=301%2C226 "dr-beer-shanghai-11")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-11/)
-
-[![img_1087](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1087.jpg?resize=423%2C317 "img_1087")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1087/)
-
-[![dr-beer-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dr.-Beer-Shanghai-02.jpg?resize=179%2C134 "dr-beer-shanghai-02")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/dr-beer-shanghai-02/)
-
-[![img_1089](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1089.jpg?resize=179%2C179 "img_1089")](http://thirstypig.com/2011/12/17/dr-beer-shanghai/img_1089/)
 
 Dr. Beer is a new entrant in the Micro-Bewery or gastropubs in Shanghai. Dr. Beer will compete on a few different fronts with other establishments. Related to Dr. Wine, just located down the street on Fumin Road, Dr. Beer has a different type of vibe – more of a loft/warehouse industrial look, with a cool DJ, a female no doubt, blaring above on the catwalk gantry. I like how these gastropubs now offer food that is considered more than just a footnote – like peanuts or pretzels.
 

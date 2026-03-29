@@ -27,29 +27,6 @@ region: Shanghai
 address: 3 Maojiayuan Rd
 ---
 
-[![burger-and-beer-waterhouse-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-05.jpg?resize=403%2C301 "burger-and-beer-waterhouse-shanghai-05")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-05/)
-
-[![burger-and-beer-waterhouse-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-04.jpg?resize=199%2C148 "burger-and-beer-waterhouse-shanghai-04")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-04/)
-
-[![burger-and-beer-waterhouse-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-13.jpg?resize=199%2C149 "burger-and-beer-waterhouse-shanghai-13")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-13/)
-
-[![burger-and-beer-waterhouse-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-12.jpg?resize=283%2C211 "burger-and-beer-waterhouse-shanghai-12")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-12/)
-
-[![img_1050](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1050.jpg?resize=283%2C212 "img_1050")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/img_1050-4/)
-
-[![img_1032](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1032.jpg?resize=319%2C427 "img_1032")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/img_1032-3/)
-
-[![burger-and-beer-waterhouse-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-08.jpg?resize=345%2C257 "burger-and-beer-waterhouse-shanghai-08")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-08/)
-
-[![img_1042](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1042.jpg?resize=257%2C257 "img_1042")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/img_1042-2/)
-
-[![img_1046](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1046.jpg?resize=148%2C111 "img_1046")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/img_1046/)
-
-[![burger-and-beer-waterhouse-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-03.jpg?resize=148%2C111 "burger-and-beer-waterhouse-shanghai-03")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-03/)
-
-[![burger-and-beer-waterhouse-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-06.jpg?resize=149%2C111 "burger-and-beer-waterhouse-shanghai-06")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-06/)
-
-[![burger-and-beer-waterhouse-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/burger-and-beer-waterhouse-shanghai-09.jpg?resize=149%2C111 "burger-and-beer-waterhouse-shanghai-09")](http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/burger-and-beer-waterhouse-shanghai-09/)
 
 Anticipated and Overrated.
 

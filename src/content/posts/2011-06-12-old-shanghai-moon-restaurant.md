@@ -79,11 +79,6 @@ region: Shanghai
 
 [![old-shanghai-moon-25](/images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-20-494x370.jpg "old-shanghai-moon-25")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-25/)
 
-[![old-shanghai-moon-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Old-Shanghai-Moon-04.jpg?resize=301%2C226 "old-shanghai-moon-04")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-04/)
-
-[![old-shanghai-moon-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Old-Shanghai-Moon-20.jpg?resize=301%2C226 "old-shanghai-moon-20")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-20/)
-
-[![old-shanghai-moon-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Old-Shanghai-Moon-08.jpg?resize=606%2C455 "old-shanghai-moon-08")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-08/)
 
 Located in the historic JinJiang Hotel 錦江飯店, the Old Shanghai Moon Restaurant 老夜上海餐廳 is restaurant imagined as if we were dining during the colonial 1930′s. The ambiance is mesh of the classic western European furnishings with the noticeable accents of traditional Chinese artwork.
 

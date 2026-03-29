@@ -25,17 +25,6 @@ address: 8728 Valley Blvd
 
 [![IMG_0326](/images/posts/hunan-mao-restaurant-sgv-los-angeles/IMG_0323.jpg "IMG_0326")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0326/)
 
-[![IMG_0319](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0319.jpg?resize=228%2C303 "IMG_0319")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0319/)
-
-[![IMG_0323](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0323.jpg?resize=316%2C421 "IMG_0323")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0323/)
-
-[![IMG_0322](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0322.jpg?resize=316%2C421 "IMG_0322")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0322/)
-
-[![IMG_0320](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0320.jpg?resize=423%2C317 "IMG_0320")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0320/)
-
-[![IMG_0324](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0324.jpg?resize=209%2C156 "IMG_0324")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0324/)
-
-[![IMG_0325](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0325.jpg?resize=209%2C157 "IMG_0325")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0325/)
 
 #spicy as Hunan cuisine can be
 #must order the 粉蒸肉 Steamed Pork with Rice Powder

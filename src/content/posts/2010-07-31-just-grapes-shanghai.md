@@ -17,35 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3477](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3477-1.jpg?resize=208%2C277 "img_3477")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3477-2/)
-
-[![img_3481](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3481.jpg?resize=182%2C136 "img_3481")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3481/)
-
-[![img_3462](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3462.jpg?resize=182%2C137 "img_3462")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3462/)
-
-[![img_3484](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3484.jpg?resize=208%2C277 "img_3484")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3484/)
-
-[![img_3478](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3478.jpg?resize=199%2C266 "img_3478")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3478/)
-
-[![img_3483](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3483.jpg?resize=199%2C266 "img_3483")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3483/)
-
-[![img_3471](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3471.jpg?resize=200%2C266 "img_3471")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3471/)
-
-[![img_3479](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3479.jpg?resize=403%2C302 "img_3479")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3479/)
-
-[![img_3482](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3482.jpg?resize=199%2C149 "img_3482")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3482/)
-
-[![img_3463](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3463.jpg?resize=199%2C149 "img_3463")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3463/)
-
-[![img_3502](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3502.jpg?resize=199%2C149 "img_3502")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3502/)
-
-[![img_3470](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3470.jpg?resize=199%2C149 "img_3470")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3470/)
-
-[![img_3480](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3480.jpg?resize=403%2C302 "img_3480")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3480/)
-
-[![img_3469](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3469.jpg?resize=385%2C289 "img_3469")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3469/)
-
-[![img_3475](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3475.jpg?resize=217%2C289 "img_3475")](http://thirstypig.com/2010/07/31/just-grapes-shanghai/img_3475/)
 
 Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the American trend of grastropubs, wine bars, and tapas restaurants, Shanghai is embracing restaurants like Just Grapes.
 

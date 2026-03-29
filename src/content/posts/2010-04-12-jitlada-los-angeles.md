@@ -19,25 +19,6 @@ region: Hollywood
 address: 5233 W Sunset Blvd Los Angeles, CA 90027
 ---
 
-[![img_1363](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1363.jpg?resize=234%2C175 "img_1363")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1363/)
-
-[![img_1369](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1369.jpg?resize=131%2C175 "img_1369")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1369/)
-
-[![img_1370](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1370.jpg?resize=233%2C175 "img_1370")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1370/)
-
-[![img_1361](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1361.jpg?resize=403%2C302 "img_1361")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1361/)
-
-[![img_1367](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1367.jpg?resize=199%2C149 "img_1367")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1367/)
-
-[![img_1371](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1371.jpg?resize=199%2C149 "img_1371")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1371/)
-
-[![img_1354](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1354.jpg?resize=166%2C125 "img_1354")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1354/)
-
-[![img_1368](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1368.jpg?resize=94%2C125 "img_1368")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1368/)
-
-[![img_1364](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1364.jpg?resize=167%2C125 "img_1364")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1364/)
-
-[![img_1360](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1360.jpg?resize=167%2C125 "img_1360")](http://thirstypig.com/2010/04/12/jitlada-los-angeles/img_1360/)
 
 Jitlada specializes in southern Thai style cuisine. Arguably the best Thai restaurant in Southern California, Jitlada can also be found at some of summer Food & Wine festivals. Several LA food writers and bloggers have exuded similar positive sentiments about Jitlada over the last few years.
 

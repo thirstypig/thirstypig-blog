@@ -18,41 +18,6 @@ region: Shanghai
 address: 1018 Changning Road
 ---
 
-[![charcoal-hot-pot-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-05.jpg?resize=403%2C302 "charcoal-hot-pot-shanghai-05")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-05/)
-
-[![charcoal-hot-pot-shanghai-22](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-22.jpg?resize=199%2C149 "charcoal-hot-pot-shanghai-22")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-22/)
-
-[![charcoal-hot-pot-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-14.jpg?resize=199%2C149 "charcoal-hot-pot-shanghai-14")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-14/)
-
-[![charcoal-hot-pot-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-15.jpg?resize=234%2C175 "charcoal-hot-pot-shanghai-15")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-15/)
-
-[![charcoal-hot-pot-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-07.jpg?resize=131%2C175 "charcoal-hot-pot-shanghai-07")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-07/)
-
-[![charcoal-hot-pot-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-16.jpg?resize=233%2C175 "charcoal-hot-pot-shanghai-16")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-16/)
-
-[![charcoal-hot-pot-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-11.jpg?resize=199%2C149 "charcoal-hot-pot-shanghai-11")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-11/)
-
-[![charcoal-hot-pot-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-08.jpg?resize=199%2C149 "charcoal-hot-pot-shanghai-08")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-08/)
-
-[![charcoal-hot-pot-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-01.jpg?resize=403%2C302 "charcoal-hot-pot-shanghai-01")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-01/)
-
-[![charcoal-hot-pot-shanghai-23](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-23.jpg?resize=385%2C289 "charcoal-hot-pot-shanghai-23")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-23/)
-
-[![charcoal-hot-pot-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-04.jpg?resize=217%2C289 "charcoal-hot-pot-shanghai-04")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-04/)
-
-[![charcoal-hot-pot-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-18.jpg?resize=222%2C166 "charcoal-hot-pot-shanghai-18")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-18/)
-
-[![charcoal-hot-pot-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-02.jpg?resize=222%2C166 "charcoal-hot-pot-shanghai-02")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-02/)
-
-[![charcoal-hot-pot-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-03.jpg?resize=222%2C167 "charcoal-hot-pot-shanghai-03")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-03/)
-
-[![charcoal-hot-pot-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-10.jpg?resize=380%2C507 "charcoal-hot-pot-shanghai-10")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-10/)
-
-[![charcoal-hot-pot-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-17-1.jpg?resize=234%2C175 "charcoal-hot-pot-shanghai-17")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-17-2/)
-
-[![charcoal-hot-pot-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-09.jpg?resize=131%2C175 "charcoal-hot-pot-shanghai-09")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-09/)
-
-[![charcoal-hot-pot-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Charcoal-Hot-Pot-Shanghai-12.jpg?resize=233%2C175 "charcoal-hot-pot-shanghai-12")](http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/charcoal-hot-pot-shanghai-12/)
 
 Traditional hot pot is used, not as a simple round bowl, but one with a small chimney on top. In the olden days, when electricity wasn’t available, people used to use charcoal and open fire flames to simmer their hot pots. The middle smoke stack was used to aerate the smoke, rather from the sides. At 酩悦炭烧火锅 Ming Yue Hot Pot, we had the traditional style of hot pot with these great bowls.
 

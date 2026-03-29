@@ -20,51 +20,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3079](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3079-1.jpg?resize=403%2C302 "img_3079")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3079-2/)
-
-[![img_3081](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3081.jpg?resize=199%2C149 "img_3081")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3081/)
-
-[![img_3101](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3101.jpg?resize=199%2C149 "img_3101")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3101/)
-
-[![img_3086](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3086.jpg?resize=199%2C150 "img_3086")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3086/)
-
-[![img_3085](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3085.jpg?resize=199%2C150 "img_3085")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3085/)
-
-[![img_3076](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3076.jpg?resize=200%2C150 "img_3076")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3076/)
-
-[![img_3092](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3092.jpg?resize=199%2C149 "img_3092")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3092/)
-
-[![img_3109](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3109.jpg?resize=199%2C149 "img_3109")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3109/)
-
-[![img_3075](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3075.jpg?resize=403%2C302 "img_3075")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3075/)
-
-[![img_3100](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3100.jpg?resize=301%2C226 "img_3100")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3100/)
-
-[![img_3102](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3102.jpg?resize=301%2C226 "img_3102")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3102/)
-
-[![img_3080](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3080.jpg?resize=403%2C302 "img_3080")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3080/)
-
-[![img_3088](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3088.jpg?resize=199%2C149 "img_3088")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3088/)
-
-[![img_3103](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3103.jpg?resize=199%2C149 "img_3103")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3103/)
-
-[![img_3093](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3093.jpg?resize=199%2C150 "img_3093")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3093/)
-
-[![img_3091](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3091.jpg?resize=199%2C150 "img_3091")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3091/)
-
-[![img_3078](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3078.jpg?resize=200%2C150 "img_3078")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3078/)
-
-[![img_3082](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3082.jpg?resize=199%2C149 "img_3082")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3082-2/)
-
-[![img_3077](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3077.jpg?resize=199%2C149 "img_3077")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3077/)
-
-[![img_3099](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3099.jpg?resize=403%2C302 "img_3099")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3099/)
-
-[![img_3090](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3090.jpg?resize=301%2C226 "img_3090")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3090/)
-
-[![img_3083](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3083.jpg?resize=301%2C226 "img_3083")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3083/)
-
-[![img_3087](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3087.jpg?resize=606%2C455 "img_3087")](http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/img_3087/)
 
 Tian Tian Seafood Harbour 天天渔港 (Tian Tian Yu Gang ) is one of the largest chain restaurants in Shanghai, but also China. With Hong Kong roots, there are locations in Beijing, Shenzhen, as well as Shanghai. Specializing in Cantonese cuisine, seafood at dinner and dim sum at lunch, Tian Tian epitomizes the delicacies from Hong Kong.
 

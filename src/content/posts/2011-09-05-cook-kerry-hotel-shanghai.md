@@ -19,29 +19,6 @@ region: Shanghai
 address: 1388 Hua Mu Road
 ---
 
-[![cook-kerry-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-10.jpg?resize=403%2C302 "cook-kerry-shanghai-10")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-10/)
-
-[![cook-kerry-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-08.jpg?resize=199%2C149 "cook-kerry-shanghai-08")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-08/)
-
-[![cook-kerry-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-06.jpg?resize=199%2C149 "cook-kerry-shanghai-06")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-06/)
-
-[![cook-kerry-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-11.jpg?resize=199%2C150 "cook-kerry-shanghai-11")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-11/)
-
-[![cook-kerry-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-01.jpg?resize=199%2C150 "cook-kerry-shanghai-01")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-01/)
-
-[![cook-kerry-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-04.jpg?resize=200%2C150 "cook-kerry-shanghai-04")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-04/)
-
-[![cook-kerry-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-03.jpg?resize=199%2C149 "cook-kerry-shanghai-03")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-03/)
-
-[![img_1088](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1088.jpg?resize=199%2C149 "img_1088")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/img_1088/)
-
-[![cook-kerry-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-07.jpg?resize=403%2C302 "cook-kerry-shanghai-07")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-07/)
-
-[![cook-kerry-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-09.jpg?resize=301%2C226 "cook-kerry-shanghai-09")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-09/)
-
-[![cook-kerry-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-05-1.jpg?resize=301%2C226 "cook-kerry-shanghai-05")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-05-2/)
-
-[![cook-kerry-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cook-Kerry-Shanghai-02.jpg?resize=606%2C455 "cook-kerry-shanghai-02")](http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/cook-kerry-shanghai-02/)
 
 The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all you can eat, with distinct cuisine bars, such as Western, Japanese, Italian, Chinese, Cheese, Deli, Noodle, and a great dessert bar.
 

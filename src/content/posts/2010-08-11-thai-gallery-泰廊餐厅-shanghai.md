@@ -20,47 +20,6 @@ region: Shanghai
 address: 1 Da Tian Road
 ---
 
-[![thai-gallery-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-19.jpg?resize=158%2C211 "thai-gallery-shanghai-19")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-19/)
-
-[![thai-gallery-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-01.jpg?resize=282%2C211 "thai-gallery-shanghai-01")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-01/)
-
-[![thai-gallery-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-06.jpg?resize=158%2C211 "thai-gallery-shanghai-06")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-06/)
-
-[![thai-gallery-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-04.jpg?resize=217%2C289 "thai-gallery-shanghai-04")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-04/)
-
-[![thai-gallery-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-18.jpg?resize=385%2C289 "thai-gallery-shanghai-18")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-18/)
-
-[![thai-gallery-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-07-1.jpg?resize=217%2C289 "thai-gallery-shanghai-07")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-07-2/)
-
-[![thai-gallery-shanghai-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-21.jpg?resize=385%2C289 "thai-gallery-shanghai-21")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-21/)
-
-[![thai-gallery-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-05.jpg?resize=301%2C401 "thai-gallery-shanghai-05")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-05/)
-
-[![thai-gallery-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-17.jpg?resize=301%2C401 "thai-gallery-shanghai-17")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-17/)
-
-[![thai-gallery-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-12.jpg?resize=380%2C507 "thai-gallery-shanghai-12")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-12/)
-
-[![thai-gallery-shanghai-20](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-20.jpg?resize=222%2C166 "thai-gallery-shanghai-20")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-20/)
-
-[![thai-gallery-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-10.jpg?resize=222%2C166 "thai-gallery-shanghai-10")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-10/)
-
-[![thai-gallery-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-08.jpg?resize=222%2C167 "thai-gallery-shanghai-08")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-08/)
-
-[![thai-gallery-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-13.jpg?resize=320%2C427 "thai-gallery-shanghai-13")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-13/)
-
-[![thai-gallery-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-09.jpg?resize=282%2C211 "thai-gallery-shanghai-09")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-09/)
-
-[![thai-gallery-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-15.jpg?resize=282%2C212 "thai-gallery-shanghai-15")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-15/)
-
-[![thai-gallery-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-11.jpg?resize=282%2C211 "thai-gallery-shanghai-11")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-11/)
-
-[![thai-gallery-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-02.jpg?resize=282%2C212 "thai-gallery-shanghai-02")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-02/)
-
-[![thai-gallery-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-16.jpg?resize=320%2C427 "thai-gallery-shanghai-16")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-16/)
-
-[![thai-gallery-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-14.jpg?resize=301%2C401 "thai-gallery-shanghai-14")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-14/)
-
-[![thai-gallery-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Thai-Gallery-Shanghai-03.jpg?resize=301%2C401 "thai-gallery-shanghai-03")](http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/thai-gallery-shanghai-03/)
 
 Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gallery’s interior out-shined their offering.
 

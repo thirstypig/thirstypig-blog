@@ -17,57 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-19.jpg?resize=403%2C302 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-19/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-24.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-24")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-24/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-12.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-12")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-12/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-05.jpg?resize=191%2C143 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-05")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-05/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-23](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-23.jpg?resize=191%2C143 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-23")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-23/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-21.jpg?resize=217%2C290 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-21")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-21/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-03.jpg?resize=190%2C143 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-03")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-03/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-02.jpg?resize=190%2C143 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-02")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-02/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-09.jpg?resize=160%2C120 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-09")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-09/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-28](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-28.jpg?resize=160%2C120 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-28")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-28/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-18.jpg?resize=160%2C121 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-18")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-18/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-11.jpg?resize=277%2C369 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-11")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-11/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-16.jpg?resize=161%2C120 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-16")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-16/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-10.jpg?resize=161%2C120 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-10")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-10/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-14.jpg?resize=161%2C121 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-14")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-14/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-20.jpg?resize=199%2C150 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-20")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-20/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-06.jpg?resize=199%2C150 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-06")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-06/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-15.jpg?resize=200%2C150 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-15")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-15/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-25](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-25.jpg?resize=403%2C302 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-25")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-25/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-13.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-13")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-13/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-17.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-17")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-17/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-08.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-08")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-08/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-22](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-22.jpg?resize=199%2C149 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-22")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-22/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-07.jpg?resize=403%2C302 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-07")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-07/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-01.jpg?resize=301%2C226 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-01")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-01/)
-
-[![%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/蝶翠轩-Shanghai-04.jpg?resize=301%2C226 "%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-04")](http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai-04/)
 
 I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes are known to be overly sweet and thick in sauce, not with an abundant amount of flavors. Jade Butterfly tries to emphasize in the delicacies and traditional dishes that Shanghai has to offer.
 

@@ -18,55 +18,6 @@ region: Shanghai
 address: 3 WanPing Road
 ---
 
-[![xiao-bai-hua-shanghai-23](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-23.jpg?resize=403%2C302 "xiao-bai-hua-shanghai-23")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-23/)
-
-[![xiao-bai-hua-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-03.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-03")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-03/)
-
-[![xiao-bai-hua-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-17.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-17")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-17/)
-
-[![xiao-bai-hua-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-05.jpg?resize=199%2C150 "xiao-bai-hua-shanghai-05")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-05/)
-
-[![xiao-bai-hua-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-06.jpg?resize=199%2C150 "xiao-bai-hua-shanghai-06")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-06/)
-
-[![xiao-bai-hua-shanghai-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-15.jpg?resize=200%2C150 "xiao-bai-hua-shanghai-15")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-15/)
-
-[![xiao-bai-hua-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-16.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-16")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-16/)
-
-[![xiao-bai-hua-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-04.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-04")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-04/)
-
-[![xiao-bai-hua-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-18.jpg?resize=403%2C302 "xiao-bai-hua-shanghai-18")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-18/)
-
-[![xiao-bai-hua-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-12.jpg?resize=301%2C226 "xiao-bai-hua-shanghai-12")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-12/)
-
-[![xiao-bai-hua-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-10.jpg?resize=301%2C226 "xiao-bai-hua-shanghai-10")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-10/)
-
-[![xiao-bai-hua-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-20.jpg?resize=403%2C302 "xiao-bai-hua-shanghai-20")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-20/)
-
-[![img_3651](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/11/IMG_3651.jpg?resize=199%2C149 "img_3651")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/img_3651/)
-
-[![xiao-bai-hua-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-02.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-02")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-02/)
-
-[![xiao-bai-hua-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-14.jpg?resize=199%2C150 "xiao-bai-hua-shanghai-14")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-14/)
-
-[![xiao-bai-hua-shanghai-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-13.jpg?resize=199%2C150 "xiao-bai-hua-shanghai-13")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-13/)
-
-[![xiao-bai-hua-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-11.jpg?resize=200%2C150 "xiao-bai-hua-shanghai-11")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-11/)
-
-[![xiao-bai-hua-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-07.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-07")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-07/)
-
-[![xiao-bai-hua-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-01.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-01")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-01/)
-
-[![xiao-bai-hua-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-08.jpg?resize=403%2C302 "xiao-bai-hua-shanghai-08")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-08/)
-
-[![xiao-bai-hua-shanghai-22](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-22.jpg?resize=301%2C226 "xiao-bai-hua-shanghai-22")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-22/)
-
-[![xiao-bai-hua-shanghai-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-24.jpg?resize=301%2C226 "xiao-bai-hua-shanghai-24")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-24/)
-
-[![xiao-bai-hua-shanghai-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-21.jpg?resize=403%2C302 "xiao-bai-hua-shanghai-21")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-21/)
-
-[![xiao-bai-hua-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-19.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-19")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-19/)
-
-[![xiao-bai-hua-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-Bai-Hua-Shanghai-09-2.jpg?resize=199%2C149 "xiao-bai-hua-shanghai-09")](http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/xiao-bai-hua-shanghai-09-3/)
 
 XiaoBaiHua is a small hole-in-the-wall restaurant specializing in Shanghainese cuisine. My friends call it home style cooking. But I would also add that they add a little flair and unique creativity that rivals even the Original Jesse 吉士.
 

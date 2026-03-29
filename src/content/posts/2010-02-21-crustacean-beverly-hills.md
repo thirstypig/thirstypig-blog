@@ -21,49 +21,6 @@ region: Westside
 address: 9646 S Santa Monica Blvd Beverly Hills, CA 90210
 ---
 
-[![img_0485](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0485.jpg?resize=403%2C302 "img_0485")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0485/)
-
-[![img_0476](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0476-1.jpg?resize=199%2C149 "img_0476")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0476-2/)
-
-[![img_0483](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0483.jpg?resize=199%2C149 "img_0483")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0483-2/)
-
-[![img_0472](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0472.jpg?resize=199%2C150 "img_0472")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0472/)
-
-[![img_0484](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0484.jpg?resize=199%2C150 "img_0484")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0484/)
-
-[![img_0470](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0470.jpg?resize=200%2C150 "img_0470")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0470/)
-
-[![img_0487](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0487-1.jpg?resize=199%2C149 "img_0487")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0487-2/)
-
-[![img_0479](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0479-1.jpg?resize=199%2C149 "img_0479")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0479-4/)
-
-[![img_0478](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0478-1.jpg?resize=403%2C302 "img_0478")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0478-5/)
-
-[![img_0488](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0488-1.jpg?resize=301%2C226 "img_0488")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0488-2/)
-
-[![img_0474](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0474.jpg?resize=301%2C226 "img_0474")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0474-2/)
-
-[![img_0475](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0475.jpg?resize=403%2C302 "img_0475")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0475-2/)
-
-[![img_0466](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0466.jpg?resize=199%2C149 "img_0466")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0466-2/)
-
-[![img_0477](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0477-1.jpg?resize=199%2C149 "img_0477")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0477-4/)
-
-[![img_0468](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0468.jpg?resize=199%2C150 "img_0468")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0468-2/)
-
-[![img_0473](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0473.jpg?resize=199%2C150 "img_0473")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0473-2/)
-
-[![img_0482](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0482.jpg?resize=200%2C150 "img_0482")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0482-2/)
-
-[![img_0480](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0480.jpg?resize=199%2C149 "img_0480")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0480/)
-
-[![img_0481](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0481-1.jpg?resize=199%2C149 "img_0481")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0481-4/)
-
-[![img_0486](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0486-1.jpg?resize=403%2C302 "img_0486")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0486-2/)
-
-[![img_0467](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0467.jpg?resize=301%2C226 "img_0467")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0467-4/)
-
-[![img_0469](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0469.jpg?resize=301%2C226 "img_0469")](http://thirstypig.com/2010/02/21/crustacean-beverly-hills/img_0469/)
 
 Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us remembered an old favorite – Crustacean.
 

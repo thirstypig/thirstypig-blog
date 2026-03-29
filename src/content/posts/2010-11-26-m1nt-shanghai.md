@@ -21,55 +21,6 @@ region: Shanghai
 address: 318 Fuzhou Road
 ---
 
-[![m1nt-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-15.jpg?resize=200%2C150 "m1nt-shanghai-15")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-15/)
-
-[![m1nt-shanghai-24](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-24.jpg?resize=200%2C150 "m1nt-shanghai-24")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-24/)
-
-[![m1nt-shanghai-39](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-39.jpg?resize=228%2C304 "m1nt-shanghai-39")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-39/)
-
-[![m1nt-shanghai-38](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-38.jpg?resize=200%2C150 "m1nt-shanghai-38")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-38/)
-
-[![m1nt-shanghai-35](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-35.jpg?resize=200%2C150 "m1nt-shanghai-35")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-35/)
-
-[![m1nt-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-14.jpg?resize=423%2C317 "m1nt-shanghai-14")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-14/)
-
-[![m1nt-shanghai-40](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-40.jpg?resize=209%2C156 "m1nt-shanghai-40")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-40/)
-
-[![m1nt-shanghai-34](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-34.jpg?resize=209%2C157 "m1nt-shanghai-34")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-34/)
-
-[![m1nt-shanghai-32](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-32.jpg?resize=209%2C157 "m1nt-shanghai-32")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-32/)
-
-[![m1nt-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-04.jpg?resize=209%2C157 "m1nt-shanghai-04")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-04/)
-
-[![m1nt-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-10.jpg?resize=210%2C157 "m1nt-shanghai-10")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-10/)
-
-[![m1nt-shanghai-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-20.jpg?resize=209%2C156 "m1nt-shanghai-20")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-20/)
-
-[![m1nt-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-12.jpg?resize=209%2C157 "m1nt-shanghai-12")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-12/)
-
-[![m1nt-shanghai-29](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-29.jpg?resize=423%2C317 "m1nt-shanghai-29")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-29/)
-
-[![m1nt-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-01.jpg?resize=233%2C174 "m1nt-shanghai-01")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-01/)
-
-[![m1nt-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-05.jpg?resize=233%2C175 "m1nt-shanghai-05")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-05/)
-
-[![m1nt-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-03.jpg?resize=233%2C175 "m1nt-shanghai-03")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-03/)
-
-[![m1nt-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-02.jpg?resize=399%2C532 "m1nt-shanghai-02")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-02/)
-
-[![m1nt-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-18.jpg?resize=423%2C317 "m1nt-shanghai-18")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-18/)
-
-[![m1nt-shanghai-25](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-25.jpg?resize=209%2C156 "m1nt-shanghai-25")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-25/)
-
-[![m1nt-shanghai-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-17.jpg?resize=209%2C157 "m1nt-shanghai-17")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-17/)
-
-[![m1nt-shanghai-31](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-31.jpg?resize=112%2C150 "m1nt-shanghai-31")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-31/)
-
-[![m1nt-shanghai-22](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-22.jpg?resize=112%2C150 "m1nt-shanghai-22")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-22/)
-
-[![m1nt-shanghai-30](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-30.jpg?resize=200%2C150 "m1nt-shanghai-30")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-30/)
-
-[![m1nt-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/M1NT-Shanghai-11.jpg?resize=200%2C150 "m1nt-shanghai-11")](http://thirstypig.com/2010/11/26/m1nt-shanghai/m1nt-shanghai-11/)
 
 > M1NT is where the celebrities play with the stars overlooking the glamour of Shanghai.
 

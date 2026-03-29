@@ -16,13 +16,6 @@ location: Johnny Rockets
 city: Los Angeles
 ---
 
-[![IMG_0665](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0665.jpg?resize=130%2C174 "IMG_0665")](http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/img_0665/)
-
-[![IMG_0666](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0666.jpg?resize=131%2C174 "IMG_0666")](http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/img_0666/)
-
-[![IMG_0668](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0668.jpg?resize=131%2C174 "IMG_0668")](http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/img_0668/)
-
-[![IMG_2207](http://i1.wp.com/thirstypig.com/wp-content/uploads/2009/06/IMG_2207.jpg?resize=232%2C174 "IMG_2207")](http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/img_2207/)
 
 #Concept based on West LA’s [Apple Pan](https://en.wikipedia.org/wiki/The_Apple_Pan) restaurant, opened in 1947
 #First location was on Melrose, but closed in 2015

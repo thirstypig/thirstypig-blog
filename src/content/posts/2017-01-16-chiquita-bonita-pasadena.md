@@ -18,9 +18,6 @@ region: Pasadena
 address: 3565 E Colorado Blvd Pasadena, CA 91107
 ---
 
-[![IMG_4069](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4069.jpg?resize=301%2C226 "IMG_4069")](http://thirstypig.com/2017/01/16/chiquita-bonita-pasadena/img_4069/)
-
-[![IMG_4070](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4070.jpg?resize=301%2C226 "IMG_4070")](http://thirstypig.com/2017/01/16/chiquita-bonita-pasadena/img_4070/)
 
 #Authentic Mexican food
 #Classic Mexican breakfast – Chilaquiles and Huevos Rancheros

@@ -19,29 +19,6 @@ region: Downtown LA
 address: 704 S Alvarado St Los Angeles, CA 90057
 ---
 
-[![Corned Beef Sauerkraut and Swiss Cheese Grilled on Rye](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/Corned-Beef-Sauerkraut-and-Swiss-Cheese-Grilled-on-Rye.jpg?resize=246%2C138 "Corned Beef Sauerkraut and Swiss Cheese Grilled on Rye")](http://thirstypig.com/2009/09/05/langers-dtla/corned-beef-sauerkraut-and-swiss-cheese-grilled-on-rye/)
-
-[![DSCN0072](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0072.jpg?resize=246%2C184 "DSCN0072")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0072/)
-
-[![DSCN0077](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0077.jpg?resize=246%2C185 "DSCN0077")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0077/)
-
-[![DSCN0079](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0079.jpg?resize=386%2C515 "DSCN0079")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0079/)
-
-[![DSCN0084](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0084.jpg?resize=423%2C317 "DSCN0084")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0084/)
-
-[![DSCN0103](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0103.jpg?resize=209%2C156 "DSCN0103")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0103/)
-
-[![DSCN0110](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0110.jpg?resize=209%2C157 "DSCN0110")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0110/)
-
-[![DSCN0113](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0113.jpg?resize=209%2C157 "DSCN0113")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0113/)
-
-[![DSCN0115](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0115.jpg?resize=209%2C157 "DSCN0115")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0115/)
-
-[![DSCN0117](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0117.jpg?resize=210%2C157 "DSCN0117")](http://thirstypig.com/2009/09/05/langers-dtla/dscn0117/)
-
-[![Pastrami and Swiss Cheese with Cole Slaw and Dressing](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/Pastrami-and-Swiss-Cheese-with-Cole-Slaw-and-Dressing.jpg?resize=316%2C178 "Pastrami and Swiss Cheese with Cole Slaw and Dressing")](http://thirstypig.com/2009/09/05/langers-dtla/pastrami-and-swiss-cheese-with-cole-slaw-and-dressing/)
-
-[![Pastrami French Dip](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/Pastrami-French-Dip.jpg?resize=316%2C178 "Pastrami French Dip")](http://thirstypig.com/2009/09/05/langers-dtla/pastrami-french-dip/)
 
 I was at Langer’s recently and I wanted to rant and rave about their pastrami – again!
 

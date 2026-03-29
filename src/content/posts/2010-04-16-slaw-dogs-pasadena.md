@@ -18,19 +18,6 @@ region: Pasadena
 address: 720 N Lake Ave St
 ---
 
-[![img_1444](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1444-1.jpg?resize=403%2C302 "img_1444")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1444-2/)
-
-[![img_1441](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1441.jpg?resize=199%2C149 "img_1441")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1441/)
-
-[![img_1443](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1443.jpg?resize=199%2C149 "img_1443")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1443/)
-
-[![img_1442](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1442.jpg?resize=148%2C111 "img_1442")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1442/)
-
-[![img_1440](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1440-1.jpg?resize=148%2C111 "img_1440")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1440-2/)
-
-[![img_1446](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1446-1.jpg?resize=149%2C111 "img_1446")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1446-2/)
-
-[![img_1445](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1445-1.jpg?resize=149%2C111 "img_1445")](http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/img_1445-2/)
 
 Slaw Dogs opened with much excitement in the blogger and yelp community. In the Los Angeles area, there is Pink’s, Fab Hot Dogs, and now Slaw Dogs. Each of them have similar diverse menus, but serving different locals.
 

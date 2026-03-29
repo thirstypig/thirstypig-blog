@@ -18,19 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![04092007876](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/04092007876.jpg?resize=403%2C302 "04092007876")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/attachment/04092007876/)
-
-[![img_1201](http://i2.wp.com/thirstypig.com/wp-content/uploads/2007/04/IMG_1201.jpg?resize=199%2C149 "img_1201")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/img_1201-2/)
-
-[![img_1200](http://i1.wp.com/thirstypig.com/wp-content/uploads/2007/04/IMG_1200.jpg?resize=199%2C149 "img_1200")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/img_1200-2/)
-
-[![img_1204](http://i1.wp.com/thirstypig.com/wp-content/uploads/2007/04/IMG_1204.jpg?resize=148%2C111 "img_1204")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/img_1204/)
-
-[![04092007879](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/04092007879.jpg?resize=148%2C111 "04092007879")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/attachment/04092007879/)
-
-[![04092007880](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/04092007880.jpg?resize=149%2C111 "04092007880")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/attachment/04092007880/)
-
-[![img_1203](http://i0.wp.com/thirstypig.com/wp-content/uploads/2007/04/IMG_1203.jpg?resize=149%2C111 "img_1203")](http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/img_1203/)
 
 Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What can you? For me, one of my favorite comfort foods in Taiwanese cuisine. In Shanghai, one of the better options is Bellagio 鹿港小镇. And thank goodness it is open late.
 

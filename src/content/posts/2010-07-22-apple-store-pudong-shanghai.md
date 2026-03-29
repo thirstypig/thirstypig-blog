@@ -18,51 +18,6 @@ region: Shanghai
 address: 8 Century Ave
 ---
 
-[![img_3354](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3354.jpg?resize=160%2C120 "img_3354")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3354/)
-
-[![img_3355](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3355.jpg?resize=160%2C120 "img_3355")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3355/)
-
-[![img_3359](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3359.jpg?resize=160%2C121 "img_3359")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3359/)
-
-[![img_3361](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3361.jpg?resize=277%2C369 "img_3361")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3361/)
-
-[![img_3405](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/07/IMG_3405.jpg?resize=161%2C120 "img_3405")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3405/)
-
-[![img_3357](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3357.jpg?resize=161%2C120 "img_3357")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3357/)
-
-[![img_3407](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/07/IMG_3407.jpg?resize=161%2C121 "img_3407")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3407-2/)
-
-[![img_3364](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3364.jpg?resize=403%2C302 "img_3364")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3364/)
-
-[![img_3366](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3366.jpg?resize=199%2C149 "img_3366")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3366/)
-
-[![img_3349](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3349.jpg?resize=199%2C149 "img_3349")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3349/)
-
-[![img_3352](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3352.jpg?resize=385%2C289 "img_3352")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3352/)
-
-[![img_3362](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3362.jpg?resize=217%2C289 "img_3362")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3362/)
-
-[![img_3348](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3348.jpg?resize=380%2C507 "img_3348")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3348/)
-
-[![img_3370](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3370.jpg?resize=222%2C166 "img_3370")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3370/)
-
-[![img_3369](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3369.jpg?resize=222%2C166 "img_3369")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3369/)
-
-[![img_3353](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3353.jpg?resize=222%2C167 "img_3353")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3353/)
-
-[![img_3367](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3367.jpg?resize=222%2C166 "img_3367")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3367/)
-
-[![img_3358](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3358.jpg?resize=222%2C166 "img_3358")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3358/)
-
-[![img_3368](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3368.jpg?resize=222%2C167 "img_3368")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3368/)
-
-[![img_3350](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3350.jpg?resize=380%2C507 "img_3350")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3350/)
-
-[![img_3363](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3363.jpg?resize=403%2C302 "img_3363")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3363/)
-
-[![img_3406](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/07/IMG_3406.jpg?resize=199%2C149 "img_3406")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3406/)
-
-[![img_3365](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3365-1.jpg?resize=199%2C149 "img_3365")](http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/img_3365-2/)
 
 Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion site(blog). But I had to post about the new official Apple Store in Pudong, Shanghai.
 

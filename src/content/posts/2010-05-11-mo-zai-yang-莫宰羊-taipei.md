@@ -18,39 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_1929](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1929.jpg?resize=403%2C302 "img_1929")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1929/)
-
-[![img_1919](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1919.jpg?resize=199%2C149 "img_1919")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1919/)
-
-[![img_1928](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1928.jpg?resize=199%2C149 "img_1928")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1928/)
-
-[![img_1924](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1924.jpg?resize=199%2C150 "img_1924")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1924/)
-
-[![img_1917](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1917.jpg?resize=199%2C150 "img_1917")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1917/)
-
-[![img_1912](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1912.jpg?resize=200%2C150 "img_1912")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1912/)
-
-[![img_1911](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1911.jpg?resize=199%2C149 "img_1911")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1911/)
-
-[![img_1920](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1920.jpg?resize=199%2C149 "img_1920")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1920/)
-
-[![img_1930](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1930.jpg?resize=403%2C302 "img_1930")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1930/)
-
-[![img_1915](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1915.jpg?resize=301%2C226 "img_1915")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1915/)
-
-[![img_1913](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1913.jpg?resize=301%2C226 "img_1913")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1913/)
-
-[![img_1916](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1916.jpg?resize=403%2C302 "img_1916")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1916/)
-
-[![img_1914](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1914.jpg?resize=199%2C149 "img_1914")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1914/)
-
-[![img_1922](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1922.jpg?resize=199%2C149 "img_1922")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1922/)
-
-[![img_1918](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1918.jpg?resize=199%2C150 "img_1918")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1918/)
-
-[![img_1926](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1926.jpg?resize=199%2C150 "img_1926")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1926/)
-
-[![img_1927](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1927.jpg?resize=200%2C150 "img_1927")](http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/img_1927/)
 
 Off the beaten path, so to speak, Mo Zai Yang sits on the outskirts of Taipei proper serving up Lamb – any way you like it.
 

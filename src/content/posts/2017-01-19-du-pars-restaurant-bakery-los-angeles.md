@@ -18,9 +18,6 @@ city: Los Angeles
 region: Hollywood
 ---
 
-[![IMG_0873](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0873.jpg?resize=301%2C226 "IMG_0873")](http://thirstypig.com/2017/01/19/du-pars-restaurant-bakery-los-angeles/img_0873/)
-
-[![IMG_0872](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0872-1.jpg?resize=301%2C226 "IMG_0872")](http://thirstypig.com/2017/01/19/du-pars-restaurant-bakery-los-angeles/img_0872-2/)
 
 #Du-Par’s has been serving food with fresh ingredients since 1938
 #Had the famous Monte Cristo Sandwich

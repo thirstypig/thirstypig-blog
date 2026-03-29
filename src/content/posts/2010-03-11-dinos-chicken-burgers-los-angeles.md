@@ -17,17 +17,6 @@ city: Los Angeles
 address: 2575 W Pico Blvd Los Angeles, CA 90006
 ---
 
-[![img_0678](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0678.jpg?resize=403%2C302 "img_0678")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0678-2/)
-
-[![img_0679](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0679.jpg?resize=199%2C149 "img_0679")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0679-2/)
-
-[![img_0676](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0676.jpg?resize=199%2C149 "img_0676")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0676-2/)
-
-[![img_0675](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0675.jpg?resize=199%2C150 "img_0675")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0675-2/)
-
-[![img_0671](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0671.jpg?resize=199%2C150 "img_0671")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0671-2/)
-
-[![img_0673](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0673.jpg?resize=200%2C150 "img_0673")](http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/img_0673/)
 
 Holy crap . . . what a find. Did you know that Dino’s has the most yelp burger reviews in Los Angeles, except for Tommy’s? And Dino’s doesn’t even specialize in burgers.
 

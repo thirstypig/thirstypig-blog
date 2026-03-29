@@ -18,6 +18,8 @@ description: Dessert for some is a religious experience. They associate sweets l
 archiveUrl: https://web.archive.org/web/20110301005609/http://www.thethirstypig.com:80/2011/01/30/%EB%8B%A8%ED%8C%A5%EC%A3%BD-danpatjuk-at-%EC%84%9C%EC%9A%B8%EC%84%9C%EB%91%98%EC%A7%B8%EB%A1%9C%EC%9E%98%ED%95%98%EB%8A%94%EC%A7%91-the-second-best-in-seoul/
 draft: false
 location: 단팥죽 Danpatjuk at 서울서둘째로잘하는집 The Second Best in Seoul
+city: Seoul
+region: Seoul
 ---
 
 Dessert for some is a religious experience. They associate sweets like chocolate to an almost sensual feel. I know a guy who lives for desserts and can’t stop endlessly talk about them. Girls could be conned to do almost anything with the right cupcake or sweet. In Korea, the sweet red bean is the kryptonite to almost anyone.

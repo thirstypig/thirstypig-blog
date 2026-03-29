@@ -18,27 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2003](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2003.jpg?resize=403%2C302 "img_2003")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2003/)
-
-[![img_2002](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2002.jpg?resize=199%2C149 "img_2002")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2002/)
-
-[![img_1997](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1997.jpg?resize=199%2C149 "img_1997")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1997/)
-
-[![img_1994](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1994.jpg?resize=199%2C150 "img_1994")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1994/)
-
-[![img_1999](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1999.jpg?resize=199%2C150 "img_1999")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1999/)
-
-[![img_2001](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2001.jpg?resize=200%2C150 "img_2001")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2001/)
-
-[![img_1995](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1995.jpg?resize=199%2C149 "img_1995")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1995/)
-
-[![img_2000](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2000.jpg?resize=199%2C149 "img_2000")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2000/)
-
-[![img_1996](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1996.jpg?resize=403%2C302 "img_1996")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1996/)
-
-[![img_1993](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1993.jpg?resize=301%2C226 "img_1993")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_1993/)
-
-[![img_2005](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2005.jpg?resize=301%2C226 "img_2005")](http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/img_2005/)
 
 Hot and Sour soup is about personal preference, as is food. We, each, like to believe that we maintain some sort of high respectable palette when it comes to food.Yet, society, friends, or other food bloggers, will come to some sort of a consensus about a standard of quality that is commonly accepted.
 

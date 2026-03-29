@@ -19,23 +19,6 @@ region: Shanghai
 address: 8 Century Ave
 ---
 
-[![shanghai-mortons-happy-hour-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-04.jpg?resize=403%2C301 "shanghai-mortons-happy-hour-04")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-04/)
-
-[![shanghai-mortons-happy-hour-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-10.jpg?resize=199%2C148 "shanghai-mortons-happy-hour-10")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-10/)
-
-[![shanghai-mortons-happy-hour-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-03.jpg?resize=199%2C149 "shanghai-mortons-happy-hour-03")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-03/)
-
-[![shanghai-mortons-happy-hour-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-02.jpg?resize=199%2C148 "shanghai-mortons-happy-hour-02")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-02/)
-
-[![shanghai-mortons-happy-hour-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-06.jpg?resize=199%2C149 "shanghai-mortons-happy-hour-06")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-06/)
-
-[![shanghai-mortons-happy-hour-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-08.jpg?resize=403%2C301 "shanghai-mortons-happy-hour-08")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-08/)
-
-[![shanghai-mortons-happy-hour-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-09.jpg?resize=199%2C149 "shanghai-mortons-happy-hour-09")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-09/)
-
-[![shanghai-mortons-happy-hour-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-05.jpg?resize=199%2C149 "shanghai-mortons-happy-hour-05")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-05/)
-
-[![shanghai-mortons-happy-hour-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Mortons-Happy-Hour-07.jpg?resize=200%2C149 "shanghai-mortons-happy-hour-07")](http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/shanghai-mortons-happy-hour-07/)
 
 Arguably, the best happy hour on the Pudong side of Shanghai is at Morton’s the Steakhouse at the IFC shopping center. I recently had a chance to sample their great deal – for RMB 38 martini’s and complimentary petite filet mignon steak sandwiches. You could also get cosmopolitan, or appletini, or chocolate martini. I know I must have had 4 or 5 of these little sandwiches to go along with my 4 extra dirty vodka martini’s. I don’t consider myself a martini drinker, but if push comes to shove, I’d gladly take an extra dirty one with 3 or 4 olives. The only gripe I had was the smallish size of the green olives, with hand-stuffed blue cheese. I like the big juicy ones.
 

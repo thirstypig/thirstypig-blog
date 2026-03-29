@@ -19,19 +19,6 @@ region: Shanghai
 address: 17 YongJia Rd
 ---
 
-[![mi-tierra-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-01.jpg?resize=403%2C302 "mi-tierra-shanghai-01")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-01/)
-
-[![mi-tierra-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-08.jpg?resize=199%2C149 "mi-tierra-shanghai-08")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-08/)
-
-[![mi-tierra-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-06-1.jpg?resize=199%2C149 "mi-tierra-shanghai-06")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-06-2/)
-
-[![mi-tierra-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-04.jpg?resize=148%2C111 "mi-tierra-shanghai-04")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-04/)
-
-[![mi-tierra-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-02.jpg?resize=148%2C111 "mi-tierra-shanghai-02")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-02/)
-
-[![mi-tierra-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-07.jpg?resize=149%2C111 "mi-tierra-shanghai-07")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-07/)
-
-[![mi-tierra-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mi-Tierra-Shanghai-05.jpg?resize=149%2C111 "mi-tierra-shanghai-05")](http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/mi-tierra-shanghai-05/)
 
 I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things to do, eat, and people to get in trouble with, is Mexican food. I can’t help it. . .I really like (love) Mexican food. I the spiciness, the fresh salsa, and the tender carnitas. I have this need that I fill at least once a month while in Shanghai (or Taiwan). Chances are, if there’s a Mexican restaurant to be found/tried in Shanghai, I am going to do it. Though El Mexicano in that food court in Jing’an wasn’t that great. (I am going to have to make a trek to their main location).
 

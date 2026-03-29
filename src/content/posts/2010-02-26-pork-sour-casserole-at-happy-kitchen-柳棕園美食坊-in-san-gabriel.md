@@ -26,4 +26,5 @@ archiveUrl: https://web.archive.org/web/20110105031038/http://www.thethirstypig.
 draft: false
 location: Pork Sour Casserole at Happy Kitchen 柳棕園美食坊 in San Gabriel
 region: San Gabriel Valley
+city: San Gabriel
 ---

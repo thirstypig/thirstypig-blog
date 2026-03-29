@@ -20,21 +20,6 @@ region: San Gabriel Valley
 address: 2026 Huntington Dr San Marino, CA 91108
 ---
 
-[![dscn0031](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0031.jpg?resize=403%2C302 "dscn0031")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0031-3/)
-
-[![dscn0011](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0011-1.jpg?resize=199%2C149 "dscn0011")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0011-7/)
-
-[![dscn0008](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0008-2.jpg?resize=199%2C149 "dscn0008")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0008-7/)
-
-[![dscn0035](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0035.jpg?resize=199%2C150 "dscn0035")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0035-2/)
-
-[![dscn0001](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0001-2.jpg?resize=199%2C150 "dscn0001")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0001-9/)
-
-[![dscn0027](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0027-1.jpg?resize=200%2C150 "dscn0027")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0027-4/)
-
-[![dscn0017](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0017-4.jpg?resize=301%2C226 "dscn0017")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0017-7/)
-
-[![dscn0002](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0002.jpg?resize=301%2C226 "dscn0002")](http://thirstypig.com/2009/11/24/yoshida-san-marino/dscn0002-5/)
 
 My personal sushi policy as I have stated here is a quirky, one might say. I feel that you should stay with one particular sushi restaurant to develop a personal relationship with the place. Get to know what comes in usually fresh and unique, get to know the host/owner for the best seats in the house, and lastly, pick & stay with a good sushi chef/master. The last one, and most important one, you would hope, that your sushi chef remembers you, as well.
 

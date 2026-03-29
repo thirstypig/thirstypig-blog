@@ -20,29 +20,6 @@ city: USC
 address: 3500 S Figueroa Blvd, Los Angeles, CA 90007
 ---
 
-[![the-lab-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-07.jpg?resize=403%2C302 "the-lab-07")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-07/)
-
-[![the-lab-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-08.jpg?resize=199%2C149 "the-lab-08")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-08/)
-
-[![the-lab-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-12.jpg?resize=199%2C149 "the-lab-12")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-12/)
-
-[![the-lab-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-02.jpg?resize=222%2C166 "the-lab-02")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-02/)
-
-[![the-lab-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-11.jpg?resize=222%2C166 "the-lab-11")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-11/)
-
-[![the-lab-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-01.jpg?resize=222%2C167 "the-lab-01")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-01/)
-
-[![the-lab-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-09.jpg?resize=380%2C507 "the-lab-09")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-09/)
-
-[![the-lab-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-10.jpg?resize=217%2C289 "the-lab-10")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-10/)
-
-[![the-lab-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-06-1.jpg?resize=385%2C289 "the-lab-06")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-06-2/)
-
-[![the-lab-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-05.jpg?resize=234%2C175 "the-lab-05")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-05/)
-
-[![the-lab-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-04.jpg?resize=131%2C175 "the-lab-04")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-04/)
-
-[![the-lab-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Lab-03.jpg?resize=233%2C175 "the-lab-03")](http://thirstypig.com/2011/02/11/the-lab-usc/the-lab-03/)
 
 The Lab is a gastropub located across the street from USC. In the spirit of gastropubs and wine bars, like Bar Food, Westside Tavern, and Bacaro, The Lab features nice selection of libations and food.
 

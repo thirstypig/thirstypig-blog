@@ -19,21 +19,6 @@ region: Shanghai
 address: 8 Century Ave
 ---
 
-[![flair-lounge-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-19.jpg?resize=380%2C507 "flair-lounge-shanghai-19")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-19/)
-
-[![flair-lounge-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-06.jpg?resize=222%2C166 "flair-lounge-shanghai-06")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-06/)
-
-[![flair-lounge-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-17.jpg?resize=222%2C166 "flair-lounge-shanghai-17")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-17/)
-
-[![flair-lounge-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-09.jpg?resize=222%2C167 "flair-lounge-shanghai-09")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-09/)
-
-[![flair-lounge-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-13.jpg?resize=403%2C302 "flair-lounge-shanghai-13")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-13/)
-
-[![flair-lounge-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-18.jpg?resize=199%2C149 "flair-lounge-shanghai-18")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-18/)
-
-[![flair-lounge-shanghai-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-21.jpg?resize=199%2C149 "flair-lounge-shanghai-21")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-21/)
-
-[![flair-lounge-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Flair-Lounge-Shanghai-16.jpg?resize=606%2C455 "flair-lounge-shanghai-16")](http://thirstypig.com/2010/12/01/flair-lounge-shanghai/flair-lounge-shanghai-16/)
 
 Shanghai offers some of the best city views in the world. With the famous Bund, the former foreign embassies, overlooking Huangpu river, and skyscrapers on the other side, in Pudong. The nighttime sparkles with the lights from the Aurora Building, the Pearl Tower, and the Shanghai World Financial Center among others. Sitting at top the Shanghai IFC building is the Ritz Carlton Hotel’s Flair Lounge, a rooftop lounge in Shanghai, like [M1NT](http://www.thethirstypig.com/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/) and [Music Room.](http://www.thethirstypig.com/2011/03/09/music-room-at-the-park-hyatt-pudong/)
 

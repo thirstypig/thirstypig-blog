@@ -19,137 +19,99 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-58.jpg?resize=282%2C211 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-165/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-30.jpg?resize=282%2C212 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-190/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-56.jpg?resize=320%2C427 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-166/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-27.jpg?resize=301%2C401 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-192/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![meet-kerry-hotel-shanghai-21](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-21.jpg?resize=301%2C401 "meet-kerry-hotel-shanghai-21")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/meet-kerry-hotel-shanghai-21/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-57.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-167/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-50.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-173/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-44.jpg?resize=158%2C211 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-177/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-47.jpg?resize=282%2C211 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-175/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-39.jpg?resize=158%2C211 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-182/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![meet-kerry-hotel-shanghai-25](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-25.jpg?resize=403%2C302 "meet-kerry-hotel-shanghai-25")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/meet-kerry-hotel-shanghai-25/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-41.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-179/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-42.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-180/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-49.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-172/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-45.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-178/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-52.jpg?resize=403%2C302 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-171/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-59.jpg?resize=191%2C143 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-163/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-31.jpg?resize=191%2C143 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-191/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-54.jpg?resize=217%2C290 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-169/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-40.jpg?resize=190%2C143 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-183/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-36.jpg?resize=190%2C143 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-185/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-28.jpg?resize=199%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-193/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-51-1.jpg?resize=199%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-194/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-34.jpg?resize=200%2C150 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-189/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-38.jpg?resize=403%2C302 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-184/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-46.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-176/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-43.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-181/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-60.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-164/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-32.jpg?resize=199%2C149 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-187/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-53.jpg?resize=403%2C302 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-168/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-37.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-186/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-61.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-162/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![meet-kerry-hotel-shanghai-26](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-26.jpg?resize=201%2C301 "meet-kerry-hotel-shanghai-26")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/meet-kerry-hotel-shanghai-26/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-33.jpg?resize=401%2C301 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-188/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Meet-Kerry-Hotel-Shanghai-55.jpg?resize=606%2C455 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/olympus-digital-camera-170/)
 
 OLYMPUS DIGITAL CAMERA
 

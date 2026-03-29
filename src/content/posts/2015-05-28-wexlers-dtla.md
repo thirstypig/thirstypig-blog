@@ -19,15 +19,6 @@ city: Dtla
 region: Downtown LA
 ---
 
-[![IMG_3450](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3450.jpg?resize=404%2C303 "IMG_3450")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3450/)
-
-[![IMG_3452](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3452.jpg?resize=228%2C303 "IMG_3452")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3452/)
-
-[![IMG_3453](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3453.jpg?resize=209%2C279 "IMG_3453")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3453/)
-
-[![IMG_3454](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3454.jpg?resize=209%2C279 "IMG_3454")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3454/)
-
-[![IMG_3447](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3447-1.jpg?resize=210%2C279 "IMG_3447")](http://thirstypig.com/2015/05/28/wexlers-dtla/img_3447-2/)
 
 #Come for the Pastrami, stay for the lox & bagels
 #Has a great [Instagram Feed](https://www.instagram.com/wexlersdeli)

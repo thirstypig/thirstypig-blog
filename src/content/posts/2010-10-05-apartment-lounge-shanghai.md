@@ -19,25 +19,6 @@ region: Shanghai
 address: 47 Yongfu Rd
 ---
 
-[![the-apartment-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-07.jpg?resize=403%2C302 "the-apartment-shanghai-07")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-07/)
-
-[![the-apartment-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-03.jpg?resize=199%2C149 "the-apartment-shanghai-03")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-03/)
-
-[![the-apartment-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-08.jpg?resize=199%2C149 "the-apartment-shanghai-08")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-08/)
-
-[![the-apartment-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-01.jpg?resize=199%2C150 "the-apartment-shanghai-01")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-01/)
-
-[![the-apartment-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-06.jpg?resize=199%2C150 "the-apartment-shanghai-06")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-06/)
-
-[![the-apartment-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-05.jpg?resize=200%2C150 "the-apartment-shanghai-05")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-05/)
-
-[![the-apartment-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-02.jpg?resize=148%2C111 "the-apartment-shanghai-02")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-02/)
-
-[![the-apartment-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-09.jpg?resize=148%2C111 "the-apartment-shanghai-09")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-09/)
-
-[![the-apartment-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-10.jpg?resize=149%2C111 "the-apartment-shanghai-10")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-10/)
-
-[![the-apartment-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Apartment-Shanghai-04.jpg?resize=149%2C111 "the-apartment-shanghai-04")](http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/the-apartment-shanghai-04/)
 
 The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.
 

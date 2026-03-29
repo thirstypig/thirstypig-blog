@@ -20,27 +20,6 @@ region: San Gabriel Valley
 address: 120 N San Gabriel Blvd St
 ---
 
-[![dscn0019](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0019.jpg?resize=403%2C302 "dscn0019")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0019-5/)
-
-[![dscn0022](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0022.jpg?resize=199%2C149 "dscn0022")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0022/)
-
-[![dscn0004](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0004-1.jpg?resize=199%2C149 "dscn0004")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0004-6/)
-
-[![dscn0010](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0010.jpg?resize=199%2C150 "dscn0010")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0010-3/)
-
-[![dscn0017](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0017.jpg?resize=199%2C150 "dscn0017")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0017-3/)
-
-[![dscn0012](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0012-1.jpg?resize=200%2C150 "dscn0012")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0012-6/)
-
-[![dscn0001](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0001.jpg?resize=222%2C166 "dscn0001")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0001-7/)
-
-[![dscn0020](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0020-2.jpg?resize=222%2C166 "dscn0020")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0020-5/)
-
-[![dscn0007](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0007-2.jpg?resize=222%2C167 "dscn0007")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0007-7/)
-
-[![dscn0005](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0005-1.jpg?resize=380%2C507 "dscn0005")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0005-7/)
-
-[![dscn0015](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0015.jpg?resize=606%2C455 "dscn0015")](http://thirstypig.com/2009/11/11/half-half-sgv/dscn0015-6/)
 
 You don’t usually find guys at a tea house on a weekday afternoon. With my flexible schedule, I was able to invade this oasis usually reserved for the estrogen genders. There’s actually a lot of cute girls that frequent this place. This is the typical afternoon tea meeting spot for girls in the area. The earthy tones give it sort of a non-commercialized homey feel, unlike tea station, ten ren, and other boba shops.
 

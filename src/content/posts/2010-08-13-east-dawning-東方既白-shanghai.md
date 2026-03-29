@@ -17,23 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![shanghai-pudong-airport-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-02.jpg?resize=222%2C166 "shanghai-pudong-airport-02")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-02/)
-
-[![shanghai-pudong-airport-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-09-1.jpg?resize=222%2C166 "shanghai-pudong-airport-09")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-09-2/)
-
-[![shanghai-pudong-airport-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-03.jpg?resize=222%2C167 "shanghai-pudong-airport-03")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-03/)
-
-[![shanghai-pudong-airport-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-08.jpg?resize=380%2C507 "shanghai-pudong-airport-08")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-08/)
-
-[![shanghai-pudong-airport-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-05.jpg?resize=403%2C302 "shanghai-pudong-airport-05")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-05/)
-
-[![shanghai-pudong-airport-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-04.jpg?resize=199%2C149 "shanghai-pudong-airport-04")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-04/)
-
-[![shanghai-pudong-airport-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-01-1.jpg?resize=199%2C149 "shanghai-pudong-airport-01")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-01-2/)
-
-[![shanghai-pudong-airport-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-06.jpg?resize=301%2C226 "shanghai-pudong-airport-06")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-06/)
-
-[![shanghai-pudong-airport-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Pudong-Airport-07.jpg?resize=301%2C226 "shanghai-pudong-airport-07")](http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/shanghai-pudong-airport-07/)
 
 On a recent trip back to the US, I feeling a little hungry while waiting for my flight. Feeling adventurous, at the Shanghai Pudong Airport (PVG), I went searching for something to put in my mouth. I remembered that there was a KFC near the Maglev station – between Terminal One and Two. So, as I moseyed up to KFC, I noticed that there was a food court.
 

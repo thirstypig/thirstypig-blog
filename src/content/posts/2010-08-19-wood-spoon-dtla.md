@@ -17,33 +17,9 @@ draft: false
 location: Wood Spoon
 city: Dtla
 region: Downtown LA
+address: 107 W 9th St
 ---
 
-[![wood-spoon-dtla-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-02.jpg?resize=282%2C211 "wood-spoon-dtla-02")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-02/)
-
-[![wood-spoon-dtla-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-10-1.jpg?resize=282%2C212 "wood-spoon-dtla-10")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-10-2/)
-
-[![img_3224](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_3224-1.jpg?resize=320%2C427 "img_3224")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/img_3224-3/)
-
-[![img_3227](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_3227.jpg?resize=207%2C207 "img_3227")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/img_3227-3/)
-
-[![wood-spoon-dtla-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-01.jpg?resize=207%2C155 "wood-spoon-dtla-01")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-01/)
-
-[![wood-spoon-dtla-a-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-A-06.jpg?resize=207%2C156 "wood-spoon-dtla-a-06")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-a-06/)
-
-[![img_3973](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3973-1.jpg?resize=395%2C526 "img_3973")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/img_3973-2/)
-
-[![img_3225](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_3225-3.jpg?resize=380%2C507 "img_3225")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/img_3225-4/)
-
-[![wood-spoon-dtla-a-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-A-02.jpg?resize=222%2C166 "wood-spoon-dtla-a-02")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-a-02/)
-
-[![wood-spoon-dtla-a-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-A-05.jpg?resize=222%2C166 "wood-spoon-dtla-a-05")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-a-05/)
-
-[![wood-spoon-dtla-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-06.jpg?resize=222%2C167 "wood-spoon-dtla-06")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-06/)
-
-[![wood-spoon-dtla-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-08.jpg?resize=301%2C226 "wood-spoon-dtla-08")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-08/)
-
-[![wood-spoon-dtla-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wood-Spoon-DTLA-03.jpg?resize=301%2C226 "wood-spoon-dtla-03")](http://thirstypig.com/2010/08/19/wood-spoon-dtla/wood-spoon-dtla-03/)
 
 When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown Los Angeles Brazilian restaurant had a pot pie that was worth the visit.
 

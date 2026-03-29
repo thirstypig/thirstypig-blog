@@ -18,13 +18,9 @@ draft: false
 location: Elvirita Cemitas Poblanas
 city: Los Angeles
 region: Downtown LA
+address: 3010 E 1st St
 ---
 
-[![IMG_3906](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3906.jpg?resize=301%2C401 "IMG_3906")](http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/img_3906/)
-
-[![IMG_3907](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3907.jpg?resize=301%2C401 "IMG_3907")](http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/img_3907/)
-
-[![IMG_3908](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3908.jpg?resize=606%2C455 "IMG_3908")](http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/img_3908/)
 
 #Had the carnitas was flavorful and tender, as expected
 #Cemitas are tortas, Mexican sandwiches, from bread rolls.

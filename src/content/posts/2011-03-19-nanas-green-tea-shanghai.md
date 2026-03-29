@@ -23,45 +23,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![nanas-green-tea-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-04.jpg?resize=160%2C120 "nanas-green-tea-shanghai-04")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-04/)
-
-[![nanas-green-tea-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-14.jpg?resize=160%2C120 "nanas-green-tea-shanghai-14")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-14/)
-
-[![nanas-green-tea-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-18.jpg?resize=160%2C121 "nanas-green-tea-shanghai-18")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-18/)
-
-[![nanas-green-tea-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-10.jpg?resize=277%2C369 "nanas-green-tea-shanghai-10")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-10/)
-
-[![nanas-green-tea-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-05-1.jpg?resize=161%2C120 "nanas-green-tea-shanghai-05")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-05-2/)
-
-[![nanas-green-tea-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-11.jpg?resize=161%2C120 "nanas-green-tea-shanghai-11")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-11/)
-
-[![nanas-green-tea-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-03.jpg?resize=161%2C121 "nanas-green-tea-shanghai-03")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-03/)
-
-[![nanas-green-tea-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-16.jpg?resize=403%2C302 "nanas-green-tea-shanghai-16")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-16/)
-
-[![nanas-green-tea-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-15.jpg?resize=199%2C149 "nanas-green-tea-shanghai-15")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-15/)
-
-[![nanas-green-tea-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-08.jpg?resize=199%2C149 "nanas-green-tea-shanghai-08")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-08/)
-
-[![nanas-green-tea-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-13.jpg?resize=199%2C150 "nanas-green-tea-shanghai-13")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-13/)
-
-[![nanas-green-tea-shanghai-19](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-19.jpg?resize=199%2C150 "nanas-green-tea-shanghai-19")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-19/)
-
-[![nanas-green-tea-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-12.jpg?resize=200%2C150 "nanas-green-tea-shanghai-12")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-12/)
-
-[![nanas-green-tea-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-01.jpg?resize=282%2C211 "nanas-green-tea-shanghai-01")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-01/)
-
-[![nanas-green-tea-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-02.jpg?resize=282%2C212 "nanas-green-tea-shanghai-02")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-02/)
-
-[![nanas-green-tea-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-09.jpg?resize=320%2C427 "nanas-green-tea-shanghai-09")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-09/)
-
-[![nanas-green-tea-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-20.jpg?resize=148%2C111 "nanas-green-tea-shanghai-20")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-20/)
-
-[![nanas-green-tea-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-06.jpg?resize=148%2C111 "nanas-green-tea-shanghai-06")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-06/)
-
-[![nanas-green-tea-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-17.jpg?resize=149%2C111 "nanas-green-tea-shanghai-17")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-17/)
-
-[![nanas-green-tea-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanas-Green-Tea-Shanghai-07.jpg?resize=149%2C111 "nanas-green-tea-shanghai-07")](http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/nanas-green-tea-shanghai-07/)
 
 Green Tea, with China origins, has been cultivated extensively by the Japanese. In fact, Japanese green tea is simply referred as Japanese tea. Green tea is used for desserts, cooking, and just tea. At Nana’s Green Tea, several of their dishes and desserts feature this universal ingredient.
 

@@ -19,41 +19,6 @@ region: Westside
 address: 9500 Wilshire Blvd
 ---
 
-[![the-blvd-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-13.jpg?resize=158%2C211 "the-blvd-13")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-13/)
-
-[![the-blvd-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-05.jpg?resize=282%2C211 "the-blvd-05")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-05/)
-
-[![the-blvd-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-08.jpg?resize=158%2C211 "the-blvd-08")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-08/)
-
-[![the-blvd-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-14.jpg?resize=403%2C302 "the-blvd-14")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-14/)
-
-[![the-blvd-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-07.jpg?resize=199%2C149 "the-blvd-07")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-07/)
-
-[![the-blvd-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-18.jpg?resize=199%2C149 "the-blvd-18")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-18/)
-
-[![the-blvd-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-15.jpg?resize=199%2C149 "the-blvd-15")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-15/)
-
-[![the-blvd-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-01.jpg?resize=199%2C149 "the-blvd-01")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-01/)
-
-[![the-blvd-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-17.jpg?resize=403%2C302 "the-blvd-17")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-17/)
-
-[![the-blvd-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-11.jpg?resize=385%2C289 "the-blvd-11")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-11/)
-
-[![the-blvd-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-03.jpg?resize=217%2C289 "the-blvd-03")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-03/)
-
-[![the-blvd-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-10.jpg?resize=301%2C226 "the-blvd-10")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-10/)
-
-[![the-blvd-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-16.jpg?resize=301%2C226 "the-blvd-16")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-16/)
-
-[![the-blvd-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-04.jpg?resize=380%2C507 "the-blvd-04")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-04/)
-
-[![the-blvd-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-02.jpg?resize=222%2C166 "the-blvd-02")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-02/)
-
-[![the-blvd-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-06.jpg?resize=222%2C166 "the-blvd-06")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-06/)
-
-[![the-blvd-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-12.jpg?resize=222%2C167 "the-blvd-12")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-12/)
-
-[![the-blvd-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/The-Blvd-09.jpg?resize=606%2C455 "the-blvd-09")](http://thirstypig.com/2011/02/05/blvd-beverly-hills/the-blvd-09/)
 
 Dine LA 2011 is (err was) in full swing. I was able to catch the tail end with a visit to The Blvd during my short stay in Los Angeles for the Chinese New Year vacation.
 

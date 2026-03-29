@@ -18,47 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![kotas-kitchen-shanghai-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-20.jpg?resize=423%2C317 "kotas-kitchen-shanghai-20")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-20/)
-
-[![kotas-kitchen-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-02.jpg?resize=209%2C156 "kotas-kitchen-shanghai-02")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-02/)
-
-[![kotas-kitchen-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-16-1.jpg?resize=209%2C157 "kotas-kitchen-shanghai-16")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-16-2/)
-
-[![kotas-kitchen-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-01.jpg?resize=209%2C157 "kotas-kitchen-shanghai-01")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-01/)
-
-[![kotas-kitchen-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-07.jpg?resize=209%2C157 "kotas-kitchen-shanghai-07")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-07/)
-
-[![kotas-kitchen-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-11.jpg?resize=210%2C157 "kotas-kitchen-shanghai-11")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-11/)
-
-[![kotas-kitchen-shanghai-19](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-19.jpg?resize=209%2C156 "kotas-kitchen-shanghai-19")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-19/)
-
-[![kotas-kitchen-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-08.jpg?resize=209%2C157 "kotas-kitchen-shanghai-08")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-08/)
-
-[![kotas-kitchen-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-09.jpg?resize=423%2C317 "kotas-kitchen-shanghai-09")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-09/)
-
-[![kotas-kitchen-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-05.jpg?resize=316%2C237 "kotas-kitchen-shanghai-05")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-05/)
-
-[![kotas-kitchen-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-06.jpg?resize=316%2C237 "kotas-kitchen-shanghai-06")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-06/)
-
-[![kotas-kitchen-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-14.jpg?resize=423%2C317 "kotas-kitchen-shanghai-14")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-14/)
-
-[![kotas-kitchen-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-17.jpg?resize=209%2C156 "kotas-kitchen-shanghai-17")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-17/)
-
-[![kotas-kitchen-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-18.jpg?resize=209%2C157 "kotas-kitchen-shanghai-18")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-18/)
-
-[![kotas-kitchen-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-12.jpg?resize=209%2C157 "kotas-kitchen-shanghai-12")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-12/)
-
-[![kotas-kitchen-shanghai-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-13.jpg?resize=209%2C157 "kotas-kitchen-shanghai-13")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-13/)
-
-[![kotas-kitchen-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-04.jpg?resize=210%2C157 "kotas-kitchen-shanghai-04")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-04/)
-
-[![kotas-kitchen-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-03.jpg?resize=156%2C117 "kotas-kitchen-shanghai-03")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-03/)
-
-[![kotas-kitchen-shanghai-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-21.jpg?resize=156%2C117 "kotas-kitchen-shanghai-21")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-21/)
-
-[![kotas-kitchen-shanghai-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-15.jpg?resize=156%2C117 "kotas-kitchen-shanghai-15")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-15/)
-
-[![kotas-kitchen-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Kotas-Kitchen-Shanghai-10.jpg?resize=156%2C117 "kotas-kitchen-shanghai-10")](http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/kotas-kitchen-shanghai-10/)
 
 Kota’s is a small yakitori restaurant near the Shanghai Stadium. This establishment combines the western culture of the Beatles with the traditional Japanese setting. This cozy place bring intimacy with the patrons and the friendly interactive staff.
 

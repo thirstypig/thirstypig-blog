@@ -19,9 +19,6 @@ region: Pasadena
 address: 2122 E Foothill Blvd Pasadena, CA 91107
 ---
 
-[![IMG_3274](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3274.jpg?resize=301%2C226 "IMG_3274")](http://thirstypig.com/2016/01/28/big-daddys-fire-grill-pasadena/img_3274/)
-
-[![IMG_3275](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3275.jpg?resize=301%2C226 "IMG_3275")](http://thirstypig.com/2016/01/28/big-daddys-fire-grill-pasadena/img_3275/)
 
 #Burger Joint with lots of big burgers and selections
 #Sports bar atmosphere with lots of TVs, Parking lot in the back

@@ -24,7 +24,6 @@ address: 70 N Raymond Ave Pasadena, CA 91103
 
 [![IMG_0453](/images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg "IMG_0453")](http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/img_0453/)
 
-[![IMG_0438](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0438.jpg?resize=306%2C408 "IMG_0438")](http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/img_0438/)
 
 #for girls
 #best for afternoon tea

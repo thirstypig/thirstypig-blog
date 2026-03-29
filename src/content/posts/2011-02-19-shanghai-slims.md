@@ -23,35 +23,6 @@ region: Shanghai
 
 [![shanghai-slims-10](/images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg "shanghai-slims-10")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-10/)
 
-[![shanghai-slims-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-14.jpg?resize=148%2C198 "shanghai-slims-14")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-14/)
-
-[![shanghai-slims-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-08.jpg?resize=149%2C198 "shanghai-slims-08")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-08/)
-
-[![shanghai-slims-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-04.jpg?resize=149%2C198 "shanghai-slims-04")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-04/)
-
-[![shanghai-slims-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-11.jpg?resize=234%2C175 "shanghai-slims-11")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-11/)
-
-[![shanghai-slims-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-13.jpg?resize=131%2C175 "shanghai-slims-13")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-13/)
-
-[![shanghai-slims-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-01.jpg?resize=233%2C175 "shanghai-slims-01")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-01/)
-
-[![shanghai-slims-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-06.jpg?resize=282%2C211 "shanghai-slims-06")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-06/)
-
-[![shanghai-slims-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-03.jpg?resize=282%2C212 "shanghai-slims-03")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-03/)
-
-[![shanghai-slims-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-02.jpg?resize=320%2C427 "shanghai-slims-02")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-02/)
-
-[![shanghai-slims-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-12.jpg?resize=385%2C289 "shanghai-slims-12")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-12/)
-
-[![shanghai-slims-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-16.jpg?resize=217%2C289 "shanghai-slims-16")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-16/)
-
-[![shanghai-slims-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-05.jpg?resize=222%2C166 "shanghai-slims-05")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-05/)
-
-[![img_0171](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0171.jpg?resize=222%2C166 "img_0171")](http://thirstypig.com/2011/02/19/shanghai-slims/img_0171-2/)
-
-[![shanghai-slims-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-07.jpg?resize=222%2C167 "shanghai-slims-07")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-07/)
-
-[![shanghai-slims-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Slims-09-1.jpg?resize=380%2C507 "shanghai-slims-09")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-09-2/)
 
 Shanghai Slim is your classic unabashed American steakhouse. Located in the Sinan Mansion, Chef Adam Levin, from New York Style Steak & Burger, helms this classic surf & turf restaurant with with the 14 days dry aged USDA Prime Angus Rib-Eye.
 

@@ -17,31 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_1746](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1746.jpg?resize=234%2C175 "img_1746")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1746/)
-
-[![img_4719](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_4719.jpg?resize=131%2C175 "img_4719")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_4719/)
-
-[![img_1745](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1745.jpg?resize=233%2C175 "img_1745")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1745/)
-
-[![img_1748](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1748.jpg?resize=403%2C302 "img_1748")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1748/)
-
-[![img_1742](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1742-1.jpg?resize=199%2C149 "img_1742")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1742-2/)
-
-[![img_1752](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1752.jpg?resize=199%2C149 "img_1752")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1752/)
-
-[![img_4717](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_4717.jpg?resize=199%2C149 "img_4717")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_4717/)
-
-[![img_4716](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_4716.jpg?resize=199%2C149 "img_4716")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_4716/)
-
-[![img_4718](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_4718.jpg?resize=403%2C302 "img_4718")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_4718/)
-
-[![img_1740](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1740.jpg?resize=148%2C111 "img_1740")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1740/)
-
-[![img_1750](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1750.jpg?resize=148%2C111 "img_1750")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1750/)
-
-[![img_1753](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1753.jpg?resize=149%2C111 "img_1753")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1753/)
-
-[![img_1743](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/09/IMG_1743.jpg?resize=149%2C111 "img_1743")](http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/img_1743/)
 
 The steady stalwart, Shanghai Uncle, is the go-to place when I come to Shanghai on short trips. My business partners usually leave full and happy.
 

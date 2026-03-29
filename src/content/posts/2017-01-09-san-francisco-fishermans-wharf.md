@@ -18,17 +18,6 @@ city: San Francisco
 region: Bay Area
 ---
 
-[![DSC_0375](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0375.jpg?resize=403%2C268 "DSC_0375")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0375/)
-
-[![DSC_0376](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0376.jpg?resize=199%2C132 "DSC_0376")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0376/)
-
-[![DSC_0377](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0377.jpg?resize=199%2C132 "DSC_0377")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0377/)
-
-[![DSC_0381](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0381.jpg?resize=199%2C132 "DSC_0381")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0381/)
-
-[![DSC_0382](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0382.jpg?resize=199%2C132 "DSC_0382")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0382/)
-
-[![DSC_0384](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSC_0384.jpg?resize=200%2C132 "DSC_0384")](http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/dsc_0384/)
 
 #[Boudin at the Wharf](http://www.boudinbakery.com) has famous clam chowder in a bread bowl
 #Lots of little sidewalk eateries for fresh seafood

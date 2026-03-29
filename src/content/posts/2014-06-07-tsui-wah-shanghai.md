@@ -21,11 +21,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![IMG_1195](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1195.jpg?resize=316%2C421 "IMG_1195")](http://thirstypig.com/2014/06/07/tsui-wah-shanghai/img_1195/)
-
-[![IMG_1196](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1196.jpg?resize=316%2C421 "IMG_1196")](http://thirstypig.com/2014/06/07/tsui-wah-shanghai/img_1196/)
-
-[![IMG_1194](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1194-1.jpg?resize=636%2C636 "IMG_1194")](http://thirstypig.com/2014/06/07/tsui-wah-shanghai/img_1194-2/)
 
 #Went to my first one in Hong Kong, in 2003
 #Love the bbq pork and roast pork

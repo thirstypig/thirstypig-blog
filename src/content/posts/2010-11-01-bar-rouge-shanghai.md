@@ -24,35 +24,6 @@ region: Shanghai
 
 [![img_5572](/images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg "img_5572")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5572/)
 
-[![img_5573](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5573.jpg?resize=199%2C149 "img_5573")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5573/)
-
-[![img_5579](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5579.jpg?resize=199%2C149 "img_5579")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5579/)
-
-[![img_5576](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5576.jpg?resize=199%2C150 "img_5576")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5576/)
-
-[![img_5577](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5577.jpg?resize=199%2C150 "img_5577")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5577/)
-
-[![img_5569](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5569.jpg?resize=200%2C150 "img_5569")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5569/)
-
-[![img_5584](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5584.jpg?resize=199%2C149 "img_5584")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5584/)
-
-[![img_5567](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5567.jpg?resize=199%2C149 "img_5567")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5567/)
-
-[![img_5581](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5581.jpg?resize=403%2C302 "img_5581")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5581/)
-
-[![img_5585](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5585.jpg?resize=301%2C226 "img_5585")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5585/)
-
-[![img_5571](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5571.jpg?resize=301%2C226 "img_5571")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5571/)
-
-[![img_5568](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5568.jpg?resize=403%2C302 "img_5568")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5568/)
-
-[![img_5570](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5570.jpg?resize=199%2C149 "img_5570")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5570/)
-
-[![img_5583](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5583.jpg?resize=199%2C149 "img_5583")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5583/)
-
-[![img_5578](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5578.jpg?resize=301%2C226 "img_5578")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5578/)
-
-[![img_5582](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5582.jpg?resize=301%2C226 "img_5582")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5582/)
 
 **What is Bar Rouge**
 

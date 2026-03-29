@@ -20,9 +20,6 @@ region: Las Vegas
 address: 3500 Las Vegas Blvd
 ---
 
-[![IMG_3576](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3576.jpg?resize=385%2C289 "IMG_3576")](http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/img_3576/)
-
-[![IMG_3579](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3579.jpg?resize=217%2C289 "IMG_3579")](http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/img_3579/)
 
 #Crab Claw appetizers are a meal all unto itself
 #Steaks are underrated and just as delicious

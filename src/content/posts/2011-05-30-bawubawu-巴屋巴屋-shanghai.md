@@ -17,43 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![bawu-bawu-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-16.jpg?resize=208%2C277 "bawu-bawu-shanghai-16")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-16/)
-
-[![bawu-bawu-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-03.jpg?resize=182%2C136 "bawu-bawu-shanghai-03")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-03/)
-
-[![bawu-bawu-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-07-1.jpg?resize=182%2C137 "bawu-bawu-shanghai-07")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-07-2/)
-
-[![bawu-bawu-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-18.jpg?resize=208%2C277 "bawu-bawu-shanghai-18")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-18-2/)
-
-[![bawu-bawu-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-05-1.jpg?resize=222%2C166 "bawu-bawu-shanghai-05")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-05-2/)
-
-[![bawu-bawu-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-02.jpg?resize=222%2C166 "bawu-bawu-shanghai-02")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-02/)
-
-[![bawu-bawu-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-11.jpg?resize=222%2C167 "bawu-bawu-shanghai-11")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-11/)
-
-[![bawu-bawu-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-17.jpg?resize=380%2C507 "bawu-bawu-shanghai-17")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-17/)
-
-[![bawu-bawu-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-01.jpg?resize=404%2C302 "bawu-bawu-shanghai-01")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-01/)
-
-[![bawu-bawu-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-15.jpg?resize=198%2C149 "bawu-bawu-shanghai-15")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-15/)
-
-[![bawu-bawu-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-14.jpg?resize=198%2C149 "bawu-bawu-shanghai-14")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-14/)
-
-[![bawu-bawu-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-06.jpg?resize=199%2C150 "bawu-bawu-shanghai-06")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-06/)
-
-[![bawu-bawu-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-08.jpg?resize=199%2C150 "bawu-bawu-shanghai-08")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-08/)
-
-[![bawu-bawu-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-10.jpg?resize=200%2C150 "bawu-bawu-shanghai-10")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-10/)
-
-[![bawu-bawu-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-09.jpg?resize=199%2C149 "bawu-bawu-shanghai-09")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-09/)
-
-[![bawu-bawu-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-13.jpg?resize=199%2C149 "bawu-bawu-shanghai-13")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-13/)
-
-[![bawu-bawu-shanghai-19](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-19.jpg?resize=403%2C302 "bawu-bawu-shanghai-19")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-19/)
-
-[![bawu-bawu-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-12.jpg?resize=301%2C226 "bawu-bawu-shanghai-12")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-12/)
-
-[![bawu-bawu-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bawu-Bawu-Shanghai-04.jpg?resize=301%2C226 "bawu-bawu-shanghai-04")](http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/bawu-bawu-shanghai-04/)
 
 Every major metropolitan city features little enclaves or ghettos where pockets of individual ethnicities congregate. Whether you’re in London’s Indian Southall, São Paulo’s Japanese Liberdade, or Melbourne’s Little Italy, you’ll find thriving homeland culture. In Shanghai’s Minghang district, there’s a little Koreatown.
 

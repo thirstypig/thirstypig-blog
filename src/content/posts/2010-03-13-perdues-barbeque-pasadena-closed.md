@@ -18,37 +18,6 @@ region: Pasadena
 address: 456 E Orange Grove Ave Pasadena, CA 91104
 ---
 
-[![img_0694](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0694.jpg?resize=403%2C302 "img_0694")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0694/)
-
-[![img_0683](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0683.jpg?resize=199%2C149 "img_0683")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0683/)
-
-[![img_0691](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0691.jpg?resize=199%2C149 "img_0691")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0691-2/)
-
-[![img_0681](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0681.jpg?resize=199%2C150 "img_0681")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0681/)
-
-[![img_0697](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0697.jpg?resize=199%2C150 "img_0697")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0697-2/)
-
-[![img_0682](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0682.jpg?resize=200%2C150 "img_0682")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0682/)
-
-[![img_0690](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0690.jpg?resize=199%2C149 "img_0690")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0690/)
-
-[![img_0698](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0698.jpg?resize=199%2C149 "img_0698")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0698-2/)
-
-[![img_0685](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0685.jpg?resize=403%2C302 "img_0685")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0685/)
-
-[![img_0693](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0693.jpg?resize=301%2C226 "img_0693")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0693/)
-
-[![img_0688](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0688.jpg?resize=301%2C226 "img_0688")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0688-2/)
-
-[![img_0696](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0696.jpg?resize=403%2C302 "img_0696")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0696-2/)
-
-[![img_0695](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0695.jpg?resize=199%2C149 "img_0695")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0695/)
-
-[![img_0699](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0699.jpg?resize=199%2C149 "img_0699")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0699-2/)
-
-[![img_0692](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0692.jpg?resize=301%2C226 "img_0692")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0692/)
-
-[![img_0689](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0689.jpg?resize=301%2C226 "img_0689")](http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/img_0689-2/)
 
 Maybe I shouldn’t have said “Best” but it sure tasted like it that day. With the stars aligned, with a full moon, and on my birthday the meat consumed like gods on this day. Everything was clicking like a Zeus had intended we feast on the succulent BBQ. How else could I describe this unspoken food group of BBQ.
 

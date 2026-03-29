@@ -18,9 +18,6 @@ city: Maui
 region: Hawaii
 ---
 
-[![IMG_3106](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3106.jpg?resize=301%2C401 "IMG_3106")](http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/img_3106/)
-
-[![IMG_3107](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3107.jpg?resize=301%2C401 "IMG_3107")](http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/img_3107/)
 
 #Noodles, both soup and soupless (dry), is the speciality
 #Loco Moco is also pretty good

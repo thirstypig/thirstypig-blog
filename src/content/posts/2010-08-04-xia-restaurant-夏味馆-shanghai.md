@@ -17,29 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-05.jpg?resize=403%2C302 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-05/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-11.jpg?resize=199%2C149 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-11")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-11/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-09.jpg?resize=199%2C149 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-09")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-09/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-08.jpg?resize=282%2C211 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-08")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-08/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-01.jpg?resize=282%2C212 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-01")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-01/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-02.jpg?resize=320%2C427 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-02")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-02/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-07.jpg?resize=208%2C277 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-07")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-07/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-10.jpg?resize=182%2C136 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-10")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-10/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-12.jpg?resize=182%2C137 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-12")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-12/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-06.jpg?resize=208%2C277 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-06")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-06/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-03.jpg?resize=301%2C401 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-03")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-03/)
-
-[![%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/夏味馆-Xia-Restaurant-Shanghai-04.jpg?resize=301%2C401 "%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-04")](http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/%e5%a4%8f%e5%91%b3%e9%a6%86-xia-restaurant-shanghai-04/)
 
 If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your judgement on the dining experience. A cockroach could probably mean the death of a restaurant if just a couple of patrons see it scurrying about. Not that I saw anything crawling around, but that was almost the case with 夏味馆 Xia Restaurant.
 

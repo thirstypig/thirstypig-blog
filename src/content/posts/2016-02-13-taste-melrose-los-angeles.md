@@ -21,15 +21,6 @@ region: Hollywood
 address: 8454 Melrose Ave
 ---
 
-[![IMG_0003](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0003.jpg?resize=218%2C273 "IMG_0003")](http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/img_0003/)
-
-[![IMG_0005](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0005.jpg?resize=205%2C273 "IMG_0005")](http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/img_0005/)
-
-[![IMG_0006](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0006.jpg?resize=205%2C273 "IMG_0006")](http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/img_0006/)
-
-[![IMG_0007](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0007.jpg?resize=318%2C238 "IMG_0007")](http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/img_0007/)
-
-[![IMG_0010](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0010.jpg?resize=314%2C238 "IMG_0010")](http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/img_0010/)
 
 #Great Happy Hour
 #Mac and Cheese, all versions, is nice and cheesy and gooey

@@ -18,13 +18,9 @@ draft: false
 location: Kang Ho Dong Baekjeong
 city: K-Town
 region: Koreatown
+address: 3465 W 6th St St
 ---
 
-[![IMG_3889](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3889.jpg?resize=209%2C279 "IMG_3889")](http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/img_3889/)
-
-[![IMG_3891](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3891.jpg?resize=209%2C279 "IMG_3891")](http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/img_3891/)
-
-[![IMG_3892](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3892.jpg?resize=210%2C279 "IMG_3892")](http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/img_3892/)
 
 #Excellent Korean BBQ – quality meats
 #Long waits

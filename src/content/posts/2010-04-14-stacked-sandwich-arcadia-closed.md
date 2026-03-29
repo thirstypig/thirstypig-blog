@@ -17,23 +17,9 @@ draft: false
 location: Stacked Sandwich
 city: Arcadia
 region: San Gabriel Valley
+address: 18 N 1st Ave
 ---
 
-[![img_1401](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1401.jpg?resize=403%2C302 "img_1401")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1401/)
-
-[![img_1407](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1407.jpg?resize=199%2C149 "img_1407")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1407/)
-
-[![img_1403](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1403.jpg?resize=199%2C149 "img_1403")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1403/)
-
-[![img_1406](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1406.jpg?resize=218%2C163 "img_1406")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1406/)
-
-[![img_1334](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/04/IMG_1334.jpg?resize=163%2C163 "img_1334")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1334-2/)
-
-[![img_1405](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1405.jpg?resize=217%2C163 "img_1405")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1405/)
-
-[![img_1404](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1404.jpg?resize=385%2C289 "img_1404")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1404/)
-
-[![img_1332](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/04/IMG_1332.jpg?resize=217%2C289 "img_1332")](http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/img_1332-2/)
 
 In my hometown of Arcadia, resides one of the best sandwiches I have ever had in my life. I couldn’t believe it, in my never-ending search for the greatest sandwiches. Make sure you get the Beef Barchetta.
 

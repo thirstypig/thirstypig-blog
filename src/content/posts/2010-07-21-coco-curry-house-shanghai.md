@@ -62,7 +62,6 @@ region: Shanghai
 
 [![img_3342](/images/posts/coco-curry-house-shanghai/Coco-Curry-House-9-88x88.jpg "img_3342")](http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/img_3342/)
 
-[![img_3330](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3330.jpg?resize=606%2C455 "img_3330")](http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/img_3330/)
 
 Curry has origins from India, yet, is arguably perfected in Japan. House Foods Corporation has spread the Curry Gospel to the US with the Curry House.
 

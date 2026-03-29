@@ -22,41 +22,6 @@ region: Shanghai
 
 [![urban-soup-kitchen-shanghai-11](/images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg "urban-soup-kitchen-shanghai-11")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-11/)
 
-[![urban-soup-kitchen-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-06.jpg?resize=199%2C149 "urban-soup-kitchen-shanghai-06")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-06/)
-
-[![img_6043](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6043.jpg?resize=199%2C149 "img_6043")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/img_6043/)
-
-[![urban-soup-kitchen-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-14.jpg?resize=191%2C143 "urban-soup-kitchen-shanghai-14")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-14/)
-
-[![urban-soup-kitchen-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-05.jpg?resize=191%2C143 "urban-soup-kitchen-shanghai-05")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-05/)
-
-[![urban-soup-kitchen-shanghai-1-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-1.08.jpg?resize=217%2C290 "urban-soup-kitchen-shanghai-1-08")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-1-08/)
-
-[![urban-soup-kitchen-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-12.jpg?resize=190%2C143 "urban-soup-kitchen-shanghai-12")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-12/)
-
-[![urban-soup-kitchen-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-01.jpg?resize=190%2C143 "urban-soup-kitchen-shanghai-01")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-01/)
-
-[![img_6041](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6041.jpg?resize=199%2C150 "img_6041")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/img_6041/)
-
-[![urban-soup-kitchen-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-13.jpg?resize=199%2C150 "urban-soup-kitchen-shanghai-13")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-13/)
-
-[![img_6042](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6042.jpg?resize=200%2C150 "img_6042")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/img_6042/)
-
-[![urban-soup-kitchen-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-03.jpg?resize=282%2C211 "urban-soup-kitchen-shanghai-03")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-03/)
-
-[![urban-soup-kitchen-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-07.jpg?resize=282%2C212 "urban-soup-kitchen-shanghai-07")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-07/)
-
-[![urban-soup-kitchen-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-08.jpg?resize=320%2C427 "urban-soup-kitchen-shanghai-08")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-08/)
-
-[![urban-soup-kitchen-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-04.jpg?resize=403%2C302 "urban-soup-kitchen-shanghai-04")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-04/)
-
-[![urban-soup-kitchen-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-09.jpg?resize=199%2C149 "urban-soup-kitchen-shanghai-09")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-09/)
-
-[![img_6040](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6040.jpg?resize=199%2C149 "img_6040")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/img_6040/)
-
-[![urban-soup-kitchen-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-10.jpg?resize=385%2C289 "urban-soup-kitchen-shanghai-10")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-10/)
-
-[![urban-soup-kitchen-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/11/Urban-Soup-Kitchen-Shanghai-02.jpg?resize=217%2C289 "urban-soup-kitchen-shanghai-02")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-02/)
 
 On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.
 

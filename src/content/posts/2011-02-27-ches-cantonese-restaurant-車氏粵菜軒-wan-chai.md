@@ -16,35 +16,6 @@ city: Wan Chai
 address: 62 Lockhart Road
 ---
 
-[![ches-cantonese-restaurant-hong-kong-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-05.jpg?resize=403%2C302 "ches-cantonese-restaurant-hong-kong-05")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-05/)
-
-[![ches-cantonese-restaurant-hong-kong-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-11.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-11")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-11/)
-
-[![ches-cantonese-restaurant-hong-kong-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-03.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-03")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-03/)
-
-[![ches-cantonese-restaurant-hong-kong-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-13-1.jpg?resize=199%2C150 "ches-cantonese-restaurant-hong-kong-13")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-13-2/)
-
-[![ches-cantonese-restaurant-hong-kong-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-09.jpg?resize=199%2C150 "ches-cantonese-restaurant-hong-kong-09")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-09/)
-
-[![ches-cantonese-restaurant-hong-kong-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-02.jpg?resize=200%2C150 "ches-cantonese-restaurant-hong-kong-02")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-02/)
-
-[![ches-cantonese-restaurant-hong-kong-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-06-1.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-06")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-06-2/)
-
-[![ches-cantonese-restaurant-hong-kong-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-08.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-08")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-08/)
-
-[![ches-cantonese-restaurant-hong-kong-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-14.jpg?resize=403%2C302 "ches-cantonese-restaurant-hong-kong-14")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-14/)
-
-[![ches-cantonese-restaurant-hong-kong-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-15.jpg?resize=301%2C226 "ches-cantonese-restaurant-hong-kong-15")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-15/)
-
-[![ches-cantonese-restaurant-hong-kong-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-01.jpg?resize=301%2C226 "ches-cantonese-restaurant-hong-kong-01")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-01/)
-
-[![ches-cantonese-restaurant-hong-kong-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-07.jpg?resize=403%2C302 "ches-cantonese-restaurant-hong-kong-07")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-07/)
-
-[![ches-cantonese-restaurant-hong-kong-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-12.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-12")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-12/)
-
-[![ches-cantonese-restaurant-hong-kong-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-10-1.jpg?resize=199%2C149 "ches-cantonese-restaurant-hong-kong-10")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-10-2/)
-
-[![ches-cantonese-restaurant-hong-kong-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ches-Cantonese-Restaurant-Hong-Kong-04-1.jpg?resize=606%2C455 "ches-cantonese-restaurant-hong-kong-04")](http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/ches-cantonese-restaurant-hong-kong-04-2/)
 
 Dim sum is Cantonese for desserts 點心 or 点心. [This was evolved from Yum Cha](http://en.wikipedia.org/wiki/Dim_sum) – 飲茶 or to drink tea. In the olden days, travelers on the silk road and field labors would stop by these tea house for tea. These establishments started to just serve tea and later little dishes. Recent tradition calls for dim sum to be weekend family lunch events.
 

@@ -24,31 +24,6 @@ address: 338 Zi Zhong Road
 
 [![good-hot-pot-xintiandi-shanghai-13](/images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg "good-hot-pot-xintiandi-shanghai-13")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-13/)
 
-[![good-hot-pot-xintiandi-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-03.jpg?resize=209%2C156 "good-hot-pot-xintiandi-shanghai-03")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-03/)
-
-[![good-hot-pot-xintiandi-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-12.jpg?resize=209%2C157 "good-hot-pot-xintiandi-shanghai-12")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-12/)
-
-[![good-hot-pot-xintiandi-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-06.jpg?resize=209%2C157 "good-hot-pot-xintiandi-shanghai-06")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-06/)
-
-[![good-hot-pot-xintiandi-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-08-1.jpg?resize=209%2C157 "good-hot-pot-xintiandi-shanghai-08")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-08-2/)
-
-[![good-hot-pot-xintiandi-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-10.jpg?resize=210%2C157 "good-hot-pot-xintiandi-shanghai-10")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-10/)
-
-[![good-hot-pot-xintiandi-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-01.jpg?resize=209%2C156 "good-hot-pot-xintiandi-shanghai-01")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-01/)
-
-[![good-hot-pot-xintiandi-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-05.jpg?resize=209%2C157 "good-hot-pot-xintiandi-shanghai-05")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-05/)
-
-[![good-hot-pot-xintiandi-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-07.jpg?resize=423%2C317 "good-hot-pot-xintiandi-shanghai-07")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-07/)
-
-[![good-hot-pot-xintiandi-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-09.jpg?resize=316%2C237 "good-hot-pot-xintiandi-shanghai-09")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-09/)
-
-[![good-hot-pot-xintiandi-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-04.jpg?resize=316%2C237 "good-hot-pot-xintiandi-shanghai-04")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-04/)
-
-[![good-hot-pot-xintiandi-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-11.jpg?resize=423%2C317 "good-hot-pot-xintiandi-shanghai-11")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-11/)
-
-[![good-hot-pot-xintiandi-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-14.jpg?resize=209%2C156 "good-hot-pot-xintiandi-shanghai-14")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-14/)
-
-[![good-hot-pot-xintiandi-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Good-Hot-Pot-Xintiandi-Shanghai-02.jpg?resize=209%2C157 "good-hot-pot-xintiandi-shanghai-02")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-02/)
 
 My friends know me to not be a big fan of hot pot. I never liked the DIY cooking aspect of handling raw food cooking in a pot. But it seems that girls really like hot pot. I am not sure why, but they just seem to crave it, such as Regular Cantonese style hot pot, Japanese Shabu Shabu, Sichuan Mala hot pot, and other types.
 

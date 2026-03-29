@@ -20,27 +20,6 @@ region: San Gabriel Valley
 address: 958 E Garvey Ave Monterey Park, CA 91755
 ---
 
-[![img_0228](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0228.jpg?resize=403%2C302 "img_0228")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0228/)
-
-[![img_0221](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0221-1.jpg?resize=199%2C149 "img_0221")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0221-2/)
-
-[![img_0230](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0230.jpg?resize=199%2C149 "img_0230")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0230/)
-
-[![img_0225](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0225.jpg?resize=199%2C150 "img_0225")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0225/)
-
-[![img_0220](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0220-1.jpg?resize=199%2C150 "img_0220")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0220-2/)
-
-[![img_0218](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0218-1.jpg?resize=200%2C150 "img_0218")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0218-2/)
-
-[![img_0219](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0219.jpg?resize=199%2C149 "img_0219")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0219/)
-
-[![img_0222](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0222-1.jpg?resize=199%2C149 "img_0222")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0222-2/)
-
-[![img_0224](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0224.jpg?resize=403%2C302 "img_0224")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0224/)
-
-[![img_0215](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0215-1.jpg?resize=301%2C226 "img_0215")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0215-2/)
-
-[![img_0227](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0227.jpg?resize=301%2C226 "img_0227")](http://thirstypig.com/2010/01/18/noodle-house-mpk/img_0227/)
 
 Tianjin is in Northern China, where noodles are the main staple starch in the area, hence the name – Noodle House. But we didn’t have noodles, but ordered the famous Tianjin buns (Baozhi) among other things.
 

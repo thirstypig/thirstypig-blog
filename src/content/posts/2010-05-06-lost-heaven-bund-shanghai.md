@@ -18,59 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_1777](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1777.jpg?resize=380%2C507 "img_1777")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1777/)
-
-[![img_1808](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1808.jpg?resize=222%2C166 "img_1808")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1808/)
-
-[![img_1802](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1802.jpg?resize=222%2C166 "img_1802")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1802/)
-
-[![img_1784](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1784.jpg?resize=222%2C167 "img_1784")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1784/)
-
-[![img_1807](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1807.jpg?resize=403%2C302 "img_1807")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1807/)
-
-[![img_1781](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1781.jpg?resize=199%2C149 "img_1781")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1781/)
-
-[![img_1814](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1814.jpg?resize=199%2C149 "img_1814")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1814/)
-
-[![img_1785](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1785.jpg?resize=199%2C150 "img_1785")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1785/)
-
-[![img_1779](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1779.jpg?resize=199%2C150 "img_1779")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1779/)
-
-[![img_1797](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1797.jpg?resize=200%2C150 "img_1797")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1797/)
-
-[![img_1792](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1792.jpg?resize=222%2C166 "img_1792")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1792/)
-
-[![img_1803](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1803.jpg?resize=222%2C166 "img_1803")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1803/)
-
-[![img_1801](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1801.jpg?resize=222%2C167 "img_1801")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1801/)
-
-[![img_1804](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1804.jpg?resize=380%2C507 "img_1804")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1804/)
-
-[![img_1795](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1795.jpg?resize=385%2C289 "img_1795")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1795/)
-
-[![img_1778](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1778.jpg?resize=217%2C289 "img_1778")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1778/)
-
-[![img_1799](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1799.jpg?resize=282%2C211 "img_1799")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1799/)
-
-[![img_1806](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1806.jpg?resize=282%2C212 "img_1806")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1806/)
-
-[![img_1782](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1782.jpg?resize=320%2C427 "img_1782")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1782/)
-
-[![img_1789](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1789.jpg?resize=380%2C507 "img_1789")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1789/)
-
-[![img_1780](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1780.jpg?resize=222%2C166 "img_1780")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1780/)
-
-[![img_1796](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1796.jpg?resize=222%2C166 "img_1796")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1796/)
-
-[![img_1798](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1798.jpg?resize=222%2C167 "img_1798")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1798/)
-
-[![img_1812](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1812.jpg?resize=320%2C427 "img_1812")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1812/)
-
-[![img_1787_2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1787_2.jpg?resize=282%2C211 "img_1787_2")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1787_2/)
-
-[![img_1794](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1794.jpg?resize=282%2C212 "img_1794")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1794/)
-
-[![img_1805](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1805.jpg?resize=606%2C455 "img_1805")](http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/img_1805/)
 
 Lost Heaven, located near the Bund in Shanghai, is visual experience much as it is a culinary one. A fusion of Burmese, Thai, and Yunnan dishes, Lost Heaven is ideal for an intimate date as well as a large gathering. With Bund pricing, it was well worth the time.
 

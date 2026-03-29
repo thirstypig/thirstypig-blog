@@ -18,37 +18,6 @@ region: Shanghai
 address: 381 Middle Huaihai Road
 ---
 
-[![itoya-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-02.jpg?resize=380%2C507 "itoya-shanghai-02")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-02/)
-
-[![itoya-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-03.jpg?resize=222%2C166 "itoya-shanghai-03")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-03/)
-
-[![itoya-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-09-1.jpg?resize=222%2C166 "itoya-shanghai-09")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-09-2/)
-
-[![itoya-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-01.jpg?resize=222%2C167 "itoya-shanghai-01")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-01/)
-
-[![itoya-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-13.jpg?resize=403%2C302 "itoya-shanghai-13")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-13/)
-
-[![itoya-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-11.jpg?resize=199%2C149 "itoya-shanghai-11")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-11/)
-
-[![itoya-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-10.jpg?resize=199%2C149 "itoya-shanghai-10")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-10/)
-
-[![itoya-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-07.jpg?resize=282%2C211 "itoya-shanghai-07")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-07/)
-
-[![itoya-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-12.jpg?resize=282%2C212 "itoya-shanghai-12")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-12/)
-
-[![itoya-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-04.jpg?resize=320%2C427 "itoya-shanghai-04")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-04/)
-
-[![itoya-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-16.jpg?resize=208%2C277 "itoya-shanghai-16")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-16/)
-
-[![itoya-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-14.jpg?resize=182%2C136 "itoya-shanghai-14")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-14/)
-
-[![itoya-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-05.jpg?resize=182%2C137 "itoya-shanghai-05")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-05/)
-
-[![itoya-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-06.jpg?resize=208%2C277 "itoya-shanghai-06")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-06/)
-
-[![itoya-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-15.jpg?resize=301%2C226 "itoya-shanghai-15")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-15/)
-
-[![itoya-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Itoya-Shanghai-08.jpg?resize=301%2C226 "itoya-shanghai-08")](http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/itoya-shanghai-08/)
 
 With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Central Plaza.
 

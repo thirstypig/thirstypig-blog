@@ -17,49 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![cest-cupcake-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-18.jpg?resize=403%2C301 "cest-cupcake-18")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-18/)
-
-[![cest-cupcake-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-11.jpg?resize=199%2C148 "cest-cupcake-11")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-11/)
-
-[![cest-cupcake-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-21.jpg?resize=199%2C149 "cest-cupcake-21")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-21/)
-
-[![cest-cupcake-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-10.jpg?resize=199%2C149 "cest-cupcake-10")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-10/)
-
-[![cest-cupcake-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-06.jpg?resize=199%2C149 "cest-cupcake-06")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-06/)
-
-[![cest-cupcake-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-16.jpg?resize=200%2C149 "cest-cupcake-16")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-16/)
-
-[![cest-cupcake-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-05.jpg?resize=199%2C148 "cest-cupcake-05")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-05/)
-
-[![cest-cupcake-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-07.jpg?resize=199%2C149 "cest-cupcake-07")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-07/)
-
-[![cest-cupcake-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-20.jpg?resize=403%2C301 "cest-cupcake-20")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-20/)
-
-[![cest-cupcake-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-04.jpg?resize=301%2C225 "cest-cupcake-04")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-04/)
-
-[![cest-cupcake-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-13.jpg?resize=301%2C225 "cest-cupcake-13")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-13/)
-
-[![cest-cupcake-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-01.jpg?resize=403%2C301 "cest-cupcake-01")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-01/)
-
-[![cest-cupcake-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-19.jpg?resize=199%2C148 "cest-cupcake-19")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-19/)
-
-[![cest-cupcake-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-02.jpg?resize=199%2C149 "cest-cupcake-02")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-02/)
-
-[![cest-cupcake-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-17.jpg?resize=218%2C163 "cest-cupcake-17")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-17/)
-
-[![cest-cupcake-22](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-22.jpg?resize=162%2C163 "cest-cupcake-22")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-22/)
-
-[![cest-cupcake-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-08.jpg?resize=218%2C163 "cest-cupcake-08")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-08/)
-
-[![cest-cupcake-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-15.jpg?resize=199%2C148 "cest-cupcake-15")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-15/)
-
-[![cest-cupcake-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-09.jpg?resize=199%2C149 "cest-cupcake-09")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-09/)
-
-[![cest-cupcake-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-12.jpg?resize=403%2C301 "cest-cupcake-12")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-12/)
-
-[![cest-cupcake-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-14.jpg?resize=301%2C225 "cest-cupcake-14")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-14/)
-
-[![cest-cupcake-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cest-Cupcake-03-1.jpg?resize=301%2C225 "cest-cupcake-03")](http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/cest-cupcake-03-2/)
 
 In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 

@@ -18,25 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3409](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3409.jpg?resize=222%2C166 "img_3409")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3409-2/)
-
-[![img_3420](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3420.jpg?resize=222%2C166 "img_3420")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3420/)
-
-[![img_3410](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3410.jpg?resize=222%2C167 "img_3410")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3410-3/)
-
-[![img_3423](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3423.jpg?resize=380%2C507 "img_3423")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3423/)
-
-[![img_3417](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3417.jpg?resize=301%2C401 "img_3417")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3417/)
-
-[![img_3424](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3424.jpg?resize=301%2C401 "img_3424")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3424/)
-
-[![img_3413](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3413.jpg?resize=403%2C302 "img_3413")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3413-2/)
-
-[![img_3415](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3415-1.jpg?resize=199%2C149 "img_3415")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3415-3/)
-
-[![img_3412](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3412.jpg?resize=199%2C149 "img_3412")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3412-2/)
-
-[![img_3422](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3422.jpg?resize=606%2C455 "img_3422")](http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/img_3422/)
 
 There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have something to say.
 

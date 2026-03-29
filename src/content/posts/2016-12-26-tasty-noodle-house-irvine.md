@@ -20,11 +20,6 @@ region: Orange County
 address: 15333 Culver Dr St
 ---
 
-[![IMG_3919](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3919-1.jpg?resize=158%2C211 "IMG_3919")](http://thirstypig.com/img_3919-2/)
-
-[![IMG_3920](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3920.jpg?resize=282%2C211 "IMG_3920")](http://thirstypig.com/img_3920/)
-
-[![IMG_3918](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3918.jpg?resize=158%2C211 "IMG_3918")](http://thirstypig.com/img_3918/)
 
 #Dry Oil Noodles was tasty and reminiscent of noodles from Shanghai
 #Shanghainese cuisine with other Chinese cuisines

@@ -19,41 +19,6 @@ region: Shanghai
 address: 1 ChangDe Road
 ---
 
-[![jingan-at-the-puli-hotel-shanghai-20](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-20.jpg?resize=403%2C301 "jingan-at-the-puli-hotel-shanghai-20")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-20/)
-
-[![jingan-at-the-puli-hotel-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-08.jpg?resize=199%2C148 "jingan-at-the-puli-hotel-shanghai-08")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-08/)
-
-[![jingan-at-the-puli-hotel-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-07.jpg?resize=199%2C149 "jingan-at-the-puli-hotel-shanghai-07")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-07/)
-
-[![jingan-at-the-puli-hotel-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-06.jpg?resize=199%2C149 "jingan-at-the-puli-hotel-shanghai-06")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-06/)
-
-[![jingan-at-the-puli-hotel-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-09.jpg?resize=199%2C149 "jingan-at-the-puli-hotel-shanghai-09")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-09/)
-
-[![jingan-at-the-puli-hotel-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-15.jpg?resize=200%2C149 "jingan-at-the-puli-hotel-shanghai-15")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-15/)
-
-[![jingan-at-the-puli-hotel-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-13.jpg?resize=199%2C148 "jingan-at-the-puli-hotel-shanghai-13")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-13/)
-
-[![jingan-at-the-puli-hotel-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-11.jpg?resize=199%2C149 "jingan-at-the-puli-hotel-shanghai-11")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-11/)
-
-[![jingan-at-the-puli-hotel-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-18.jpg?resize=403%2C301 "jingan-at-the-puli-hotel-shanghai-18")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-18/)
-
-[![jingan-at-the-puli-hotel-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-17.jpg?resize=223%2C166 "jingan-at-the-puli-hotel-shanghai-17")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-17/)
-
-[![jingan-at-the-puli-hotel-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-04.jpg?resize=223%2C167 "jingan-at-the-puli-hotel-shanghai-04")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-04/)
-
-[![jingan-at-the-puli-hotel-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-05.jpg?resize=223%2C167 "jingan-at-the-puli-hotel-shanghai-05")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-05/)
-
-[![jingan-at-the-puli-hotel-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-14.jpg?resize=379%2C508 "jingan-at-the-puli-hotel-shanghai-14")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-14/)
-
-[![jingan-at-the-puli-hotel-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-16.jpg?resize=301%2C225 "jingan-at-the-puli-hotel-shanghai-16")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-16/)
-
-[![jingan-at-the-puli-hotel-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-12.jpg?resize=301%2C225 "jingan-at-the-puli-hotel-shanghai-12")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-12/)
-
-[![jingan-at-the-puli-hotel-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-01.jpg?resize=158%2C211 "jingan-at-the-puli-hotel-shanghai-01")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-01/)
-
-[![jingan-at-the-puli-hotel-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-10.jpg?resize=282%2C211 "jingan-at-the-puli-hotel-shanghai-10")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-10/)
-
-[![jingan-at-the-puli-hotel-shanghai-19](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/JingAn-at-the-Puli-Hotel-Shanghai-19.jpg?resize=158%2C211 "jingan-at-the-puli-hotel-shanghai-19")](http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/jingan-at-the-puli-hotel-shanghai-19/)
 
 Restaurant Week Shanghai has come and gone, but luckily I got to try a great place. Based on the suggestion of a friend, I got a reservation at the Jing’An at the Puli Hotel.
 
