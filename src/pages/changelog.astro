@@ -11,6 +11,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 			<h2>March 2026 — The Rebuild</h2>
 
+			<h3>March 29 — Venue Geocoding & Data Cleanup</h3>
+			<ul>
+				<li><strong>Foursquare geocoding</strong> — Batch-resolved 655 venues to precise addresses and GPS coordinates via Foursquare Places API</li>
+				<li><strong>Dead image cleanup</strong> — Stripped 5,631 dead wp.com Photon CDN image references from 397 posts, eliminating all 403 console errors</li>
+				<li><strong>Instagram venue extraction</strong> — Parsed restaurant names and cities from 147 Instagram captions using pattern matching and hashtag analysis</li>
+				<li><strong>Address extraction</strong> — Parsed 20 street addresses from blog post body content (#### heading blocks)</li>
+				<li><strong>Map upgrade</strong> — Map now shows 1,600+ pins (up from ~1,000), with 656 precise GPS locations</li>
+				<li><strong>Solution docs</strong> — Added <code>docs/solutions/</code> for documenting technical solutions and runbooks</li>
+			</ul>
+
 			<h3>March 28 — Archive, Dark Mode & Map Enhancements</h3>
 			<ul>
 				<li><strong>Year/month archive</strong> — Browse all 2,100+ posts by year and month at <a href="/archive/">/archive</a></li>
