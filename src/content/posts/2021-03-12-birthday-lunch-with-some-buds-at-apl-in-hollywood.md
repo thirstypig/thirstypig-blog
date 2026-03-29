@@ -22,11 +22,15 @@ tags:
 - birthday
 - beef
 description: Birthday lunch with some buds at APL in Hollywood. Texas Smokin’ BBQ. Beef brisket. Also had Cornish game hen, pulled pork, pork rib,, creamed corn, and coleslaw. Way too much for lunch. But well wort
-location: Birthday lunch with some buds at APL in Hollywood
+location: Masonic Lodge at Hollywood Forever
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 5970 Santa Monica Blvd, Los Angeles, CA 90038
+coordinates:
+  lat: 34.090556
+  lng: -118.319801
 ---
 
 ![Birthday lunch with some buds at APL in Hollywood](/images/posts/ig-2021-03-12-birthday-lunch-with-some-buds-at-apl-in-hollywood/17915170519611547.jpg)

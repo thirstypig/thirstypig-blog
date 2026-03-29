@@ -20,9 +20,13 @@ tags:
 - thirstypig
 - arcadia
 description: Corned beef and hash and lemon cream pie. Classic American diner
-location: Corned beef and hash and lemon cream pie
+location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley
+address: 139 E Huntington Dr, Arcadia, CA 91006
+coordinates:
+  lat: 34.1403
+  lng: -118.026696
 ---
 
 ![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871704383159706.jpg)

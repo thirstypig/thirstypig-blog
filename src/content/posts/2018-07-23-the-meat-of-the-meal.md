@@ -28,9 +28,13 @@ tags:
 - ç
 - friedfish
 description: The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed bun
-location: The meat of the meal
+location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai
+address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
+coordinates:
+  lat: 31.224154
+  lng: 121.443505
 ---
 
 ![The meat of the meal](/images/posts/ig-2018-07-23-the-meat-of-the-meal/17936884429141886.jpg)

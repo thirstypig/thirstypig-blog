@@ -19,9 +19,13 @@ tags:
 description: From April 15th till May 8, Sinan Mansions is celebrating Restaurant Week. They are specials at each of the different restaurants – including Yuccahttp://www.thethirstypig.com/2010/12/07/david-laris-y
 archiveUrl: https://web.archive.org/web/20110531143334/http://www.thethirstypig.com:80/2011/04/25/shanghai-slims/
 draft: false
-location: Shanghai Slims
+location: Shanghai Slim's
 city: Shanghai
 region: Shanghai
+address: 26D, 523 Fuxing Road (Sinan Road), Huangpu, 上海市, 200031
+coordinates:
+  lat: 31.216832
+  lng: 121.464207
 ---
 
 **From April 15th till May 8, Sinan Mansions is celebrating Restaurant Week. They are specials at each of the different restaurants – including [Yucca](http://www.thethirstypig.com/2010/12/07/david-laris-yucca-shanghai/), Boxing Cat Brewery, and California Pizza Kitchen. At Shanghai Slim’s they are offering Sunday Brunch from ¥88 and 10% off champagne brunches. And a free gift at Mother’s Day.**

@@ -14,9 +14,13 @@ categories:
 description: What is Caliburger Caliburger is a burger restaurant that embodies a typical Southern California burger joint, in Shanghai. There has been so much written about what Caliburger did in copying the famo
 archiveUrl: https://web.archive.org/web/20121114053923/http://www.thethirstypig.com:80/2012/03/14/caliburger-shanghai/
 draft: false
-location: Caliburger
+location: 卡利堡 CaliBurger
 city: Shanghai
 region: Shanghai
+address: B1/F 1818 West Nanjing Rd (in 1788 Square), 上海市, 上海市, 200040
+coordinates:
+  lat: 31.223707
+  lng: 121.439444
 ---
 
 **What is Caliburger**

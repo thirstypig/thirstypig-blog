@@ -22,9 +22,13 @@ tags:
 - yummy
 - shotoniphonex
 description: Lunch with mom at Ahgoo’s. Taiwanese beef noodle soup, vegetable soup, sliced pickled potatoes, and fried onion bread. Too bad their last day is Sunday. The space is changing to new owners and Norther
-location: Lunch with mom at Ahgoo’s
+location: Atlas Home Repairs
 city: San Gabriel
 region: San Gabriel Valley
+address: 9000 Arcadia Ave, San Gabriel, CA 91775
+coordinates:
+  lat: 34.095717
+  lng: -118.105727
 ---
 
 ![Lunch with mom at Ahgoo’s](/images/posts/ig-2018-03-23-lunch-with-mom-at-ahgoos/17842802371254580.jpg)

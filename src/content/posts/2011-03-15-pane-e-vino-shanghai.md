@@ -20,6 +20,10 @@ draft: false
 location: Pane e Vino
 city: Shanghai
 region: Shanghai
+address: Xīntiāndì, Huangpu, 上海市
+coordinates:
+  lat: 31.216586
+  lng: 121.46358
 ---
 
 Sometimes food prepared the traditional simple manner is all you need. But of course you need quality ingredients. Echo and her husband, Antonio have done just that. With imported Italian floor, spices, and wines, Pane e Vino is able to recreate time tested & honored recipes, here in Shanghai.

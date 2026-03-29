@@ -23,9 +23,13 @@ tags:
 description: In my series of reviewing Taiwanese cuisine, Jurassic Restaurant is my second of three. The other restaurants that I choose are Wan Heng and Old Country Cafe.
 archiveUrl: https://web.archive.org/web/20110106054905/http://www.thethirstypig.com/2009/10/05/taiwanese-food-at-jurassic/
 draft: false
-location: Taiwanese Food at Jurassic
+location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei
+address: 忠孝東路四段112號2樓, 台北市,  106
+coordinates:
+  lat: 25.041346
+  lng: 121.546908
 ---
 
 In my series of reviewing Taiwanese cuisine, Jurassic Restaurant is my second of three. The other restaurants that I choose are Wan Heng and Old Country Cafe.

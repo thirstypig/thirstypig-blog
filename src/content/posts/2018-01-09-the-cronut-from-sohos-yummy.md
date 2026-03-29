@@ -23,9 +23,13 @@ tags:
 - nyc
 - soho
 description: The cronut from SOHO’s Yummy. We also got a canale, which was the best my wife ever had.
-location: The cronut from SOHO’s    Yummy
+location: Carrie Bradshaw's Apartment from Sex & the City
 city: New York
 region: New York
+address: 66 Perry St (btwn Bleeker & W 4th St), New York, NY 10014
+coordinates:
+  lat: 40.735488
+  lng: -74.003781
 ---
 
 ![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17844243631232614.jpg)

@@ -22,12 +22,16 @@ tags:
 - eeeeeats
 - eat
 description: Another Ramen Shop popped up in Arcadia. DashiWa Ramen. The broth and noodles were good. I had the black garlic tonkotsu ramen and it was pretty good. Unfortunately the chasu tasted oily and didn’t ha
-location: Another Ramen Shop popped up in Arcadia
+location: Arcadia County Park
 city: Arcadia
 region: San Gabriel Valley
 categories:
 - Arcadia
 - San Gabriel Valley
+address: 405 S Santa Anita Ave (W Huntington Dr.), Arcadia, CA 91006
+coordinates:
+  lat: 34.138556
+  lng: -118.034148
 ---
 
 ![Another Ramen Shop popped up in Arcadia](/images/posts/ig-2019-11-09-another-ramen-shop-popped-up-in-arcadia/17843229667786979.jpg)

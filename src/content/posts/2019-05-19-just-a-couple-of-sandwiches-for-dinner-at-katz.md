@@ -23,9 +23,13 @@ tags:
 - sandwich
 - mustard
 description: Just a couple of sandwiches for dinner at Katz. A Rueben and a Pastrami. . . .
-location: Just a couple of sandwiches for dinner at Katz
+location: Museum at the Fashion Institute of Technology (FIT)
 city: New York
 region: New York
+address: 227 W 27th St (at 7th Ave), New York, NY 10001
+coordinates:
+  lat: 40.746494
+  lng: -73.993931
 ---
 
 ![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17963389465263388.jpg)

@@ -21,12 +21,16 @@ tags:
 - sgv
 - mongolianhotpot
 description: Chinese hot pot at little sheep in San Gabriel. Lamb, beef, and pork. All you can eat. Wifey had a craving for spicy hot pot after booze cruise. Loved the spongey tofu and napa cabbage. . . . .
-location: Chinese hot pot at little sheep in San Gabriel
+location: Mission San Gabriel Arcángel
 city: San Gabriel
 region: San Gabriel Valley
 categories:
 - San Gabriel
 - San Gabriel Valley
+address: 428 S Mission Dr (Junipero Serra Dr.), San Gabriel, CA 91776
+coordinates:
+  lat: 34.097231
+  lng: -118.106847
 ---
 
 ![Chinese hot pot at little sheep in San Gabriel](/images/posts/ig-2018-06-26-chinese-hot-pot-at-little-sheep-in-san-gabriel/17924646253165233.jpg)

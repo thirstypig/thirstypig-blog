@@ -23,10 +23,14 @@ tags:
 - museums
 - carnitas
 description: Short trip to Tijuana. Got to visit Hotel Caesar for the famous Caesar Salad. walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican
-location: Short trip to Tijuana
+location: Short Stop
 city: Los Angeles
 categories:
 - Los Angeles
+address: 1455 W Sunset Blvd (at Sutherland St), Los Angeles, CA 90026
+coordinates:
+  lat: 34.075293
+  lng: -118.253701
 ---
 
 ![Short trip to Tijuana](/images/posts/ig-2017-08-18-short-trip-to-tijuana/17868817990161459.jpg)

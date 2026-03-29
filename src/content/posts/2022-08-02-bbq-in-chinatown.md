@@ -24,9 +24,13 @@ tags:
 - dtla
 - brisket
 description: BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin. Not sure about the accompanying green salsa sauce. R
-location: BBQ in Chinatown
+location: Chinatown Summer Nights
 city: Chinatown
 region: Los Angeles
+address: 943 N Broadway, Los Angeles, CA 90012, Los Angeles, CA 90012
+coordinates:
+  lat: 34.065273
+  lng: -118.237755
 ---
 
 ![BBQ in Chinatown](/images/posts/ig-2022-08-02-bbq-in-chinatown/17934416747364297.jpg)

@@ -18,6 +18,10 @@ draft: false
 location: Le Saleya
 city: Shanghai
 region: Shanghai
+address: 570 Changle Road, 上海市, 上海市, 200040
+coordinates:
+  lat: 31.221573
+  lng: 121.451128
 ---
 
 

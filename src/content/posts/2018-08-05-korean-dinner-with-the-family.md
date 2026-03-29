@@ -22,9 +22,13 @@ tags:
 - sgv
 - barleytea
 description: 'Korean dinner with the family. Soondubu - spicy tofu with beef and kimchi. Also had cold noodles with vinegar and mustard. Beef bulgogi and beef ribs galbi. I liked the rice that was also cooked in a '
-location: Korean dinner with the family
+location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley
+address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
+coordinates:
+  lat: 34.13803
+  lng: -118.04792
 ---
 
 ![Korean dinner with the family](/images/posts/ig-2018-08-05-korean-dinner-with-the-family/17924568793198815.jpg)

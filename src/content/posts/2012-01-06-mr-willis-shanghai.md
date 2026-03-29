@@ -13,9 +13,13 @@ categories:
 description: What is Mr Willis? Situated on Anfu road in Shanghai, Mr Willis is a western restaurant. Anfu road is known for the little eateries and shops. Lots of expats and foreigners frequent this area. Yet, Mr
 archiveUrl: https://web.archive.org/web/20120203111052/http://www.thethirstypig.com:80/2012/01/06/mr-willis-shanghai/
 draft: false
-location: Mr Willis
+location: Mr. Willis
 city: Shanghai
 region: Shanghai
+address: 3/F 195 Anfu Rd | 安福路195号3楼, Jìngān, Xuhui, 上海市
+coordinates:
+  lat: 31.216038
+  lng: 121.439174
 ---
 
 **What is Mr Willis?**

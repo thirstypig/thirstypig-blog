@@ -24,9 +24,13 @@ tags:
 - taiwan
 - tastemakersapp
 description: Northern Chinese Cuisine tonight on a rainy day. This famous restaurant has been around since the 1940’s and hosted dinners with dignitaries, like George H. W. Bush. They have the traditional cauldron
-location: Northern Chinese Cuisine tonight on a rainy day
+location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei
+address: 忠孝東路四段112號2樓, 台北市,  106
+coordinates:
+  lat: 25.041346
+  lng: 121.546908
 ---
 
 ![Northern Chinese Cuisine tonight on a rainy day](/images/posts/ig-2024-05-12-northern-chinese-cuisine-tonight-on-a-rainy-day/17888637896964185.jpg)

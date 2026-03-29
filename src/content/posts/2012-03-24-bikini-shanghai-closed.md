@@ -18,6 +18,10 @@ draft: false
 location: Bikini
 city: Shanghai
 region: Shanghai
+address: 47 Yongfu Rd. (at Fuxing Rd. West), 上海市, 上海市, 200031
+coordinates:
+  lat: 31.21324
+  lng: 121.439411
 ---
 
 

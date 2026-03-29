@@ -18,6 +18,10 @@ draft: false
 location: The Roof
 city: Shanghai
 region: Shanghai
+address: 4/F, Bldg 5, Surpass Court, 570 YougJia Rd. (at Yueyang Rd.), 上海市, 上海市, 200031
+coordinates:
+  lat: 31.207907
+  lng: 121.446445
 ---
 
 

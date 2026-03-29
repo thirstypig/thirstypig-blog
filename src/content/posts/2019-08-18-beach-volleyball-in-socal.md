@@ -19,9 +19,13 @@ tags:
 - volleyball
 - avpstrong
 description: Beach Volleyball in SoCal! AVP Manhattan Beach Open tournament. . . . .
-location: Beach Volleyball in SoCal
+location: Manhattan Beach Creamery
 city: Manhattan Beach
 region: South Bay
+address: 1120 Manhattan Ave (at Manhattan Beach Blvd), Manhattan Beach, CA 90266
+coordinates:
+  lat: 33.884676
+  lng: -118.410575
 ---
 
 ![Beach Volleyball in SoCal](/images/posts/ig-2019-08-18-beach-volleyball-in-socal/17932868722306989.jpg)

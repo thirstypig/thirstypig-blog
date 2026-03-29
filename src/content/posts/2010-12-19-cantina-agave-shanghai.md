@@ -16,6 +16,10 @@ draft: false
 location: Cantina Agave
 city: Shanghai
 region: Shanghai
+address: 291 Fumin Rd. (Changle Rd.), Xuhui, 上海市
+coordinates:
+  lat: 31.219173
+  lng: 121.447693
 ---
 
 

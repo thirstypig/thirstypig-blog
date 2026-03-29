@@ -19,9 +19,13 @@ tags:
 - nyc
 - thirstypig
 description: I can’t believe how cold it is in NYC. This is the fourth ramen shop we’ve tried. I had the Triple Pork Triple Garlic Mazemen and wifey had the spicy red chili ramen. We started with the Japanese Frie
-location: I can’t believe how cold it is in NYC
+location: dzine it
 city: New York
 region: New York
+address: 26 W 23rd St (btwn Fifth & Sixth Ave), New York, NY 10010
+coordinates:
+  lat: 40.741856
+  lng: -73.990783
 ---
 
 ![I can’t believe how cold it is in NYC](/images/posts/ig-2018-01-06-i-cant-believe-how-cold-it-is-in-nyc/17912260975069351.jpg)

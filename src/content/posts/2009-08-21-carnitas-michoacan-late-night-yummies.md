@@ -21,8 +21,12 @@ tags:
 description: Last night, after some K-town drinking. . .a couple of friends and I went to Carnitas Michoacan. I had never heard or been there, but my friends were raving about it. After considering Pinks, Kogi, an
 archiveUrl: https://web.archive.org/web/20110105224031/http://www.thethirstypig.com/2009/08/21/carnitas-michoacan-late-night-yummies/
 draft: false
-location: Carnitas Michoacan . . . late night yummies
+location: Wake and Late
 city: Los Angeles
+address: 105 E 6th St, Los Angeles, CA 90014
+coordinates:
+  lat: 34.045181
+  lng: -118.24952
 ---
 
 Last night, after some K-town drinking. . .a couple of friends and I went to Carnitas Michoacan. I had never heard or been there, but my friends were raving about it. After considering Pinks, Kogi, and King Taco . . . they emphatically insisted on Michoacan. I had to admit that I was skeptical at first . . . but I wanted to keep an open mind about trying new things. And at the end, I was pleasantly surprised.

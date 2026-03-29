@@ -12,9 +12,13 @@ tags:
 description: One of the most interesting areas of Seoul that I visited was Insadong 인사동. With a singled laned one-way main street, Insadong features lots of little stores, galleries, and restaurants. Insadong is p
 archiveUrl: https://web.archive.org/web/20110122114305/http://www.thethirstypig.com:80/2011/01/17/insadong-of-seoul-%EC%9D%B8%EC%82%AC%EB%8F%99/
 draft: false
-location: Insadong of Seoul 인사동
+location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul
+address: 중구 남대문로 81, 소공동, 중구, 서울특별시, 04533
+coordinates:
+  lat: 37.565722
+  lng: 126.981009
 ---
 
 One of the most interesting areas of Seoul that I visited was Insadong 인사동. With a singled laned one-way main street, Insadong features lots of little stores, galleries, and restaurants. Insadong is place where tourist shop and girls would go for afternoon tea.

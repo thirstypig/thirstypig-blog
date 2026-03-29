@@ -24,9 +24,13 @@ tags:
 - eeeeeats
 - wtfspicy
 description: Chuan Chuan in LA at JiouDing Hot Pot. Spicy as hell. One of the most uncomfortable meals, but I can’t wait to try it again. 🤪 imagine this - you go pick a bunch of skewers of meats and vegetables. Th
-location: Chuan Chuan in LA at JiouDing Hot Pot
+location: Hotel Per La, Autograph Collection
 city: Los Angeles
 region: Los Angeles
+address: 649 S Olive St (at W 7th St), Los Angeles, CA 90014
+coordinates:
+  lat: 34.047021
+  lng: -118.255441
 ---
 
 ![Chuan Chuan in LA at JiouDing Hot Pot](/images/posts/ig-2018-06-28-chuan-chuan-in-la-at-jiouding-hot-pot/17848506211278551.jpg)

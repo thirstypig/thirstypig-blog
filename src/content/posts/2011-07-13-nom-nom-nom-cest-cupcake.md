@@ -15,9 +15,13 @@ tags:
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20110715015556/http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
 draft: false
-location: Nom nom nom . . . C’est Cupcake
+location: Estado Puro by Paco Rancero
 city: Shanghai
 region: Shanghai
+address: Unit 3, 1/F, Bldg 22, North Plaza, Xintiandi, Lane 181 Taicang Road, 上海市, 上海市, 200000
+coordinates:
+  lat: 31.222284
+  lng: 121.470281
 ---
 
 In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.

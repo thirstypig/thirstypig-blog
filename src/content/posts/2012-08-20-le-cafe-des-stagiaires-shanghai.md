@@ -20,9 +20,13 @@ tags:
 description: What is Le Cafe des Stagiaireshttp://www.cafestagiaires.com/?
 archiveUrl: https://web.archive.org/web/20161105003516/http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/
 draft: false
-location: Le Cafe des Stagiaires Shanghai
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 

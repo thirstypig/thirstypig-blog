@@ -15,9 +15,13 @@ tags:
 - breakfastburrito
 - breakfast
 description: Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sau
-location: Breakfast Burrito from the Queen of LA
+location: The Little Jewel of New Orleans
 city: Los Angeles
 region: Los Angeles
+address: 207 Ord St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.060036
+  lng: -118.23826
 ---
 
 ![Breakfast Burrito from the Queen of LA](/images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18006783689497144.jpg)

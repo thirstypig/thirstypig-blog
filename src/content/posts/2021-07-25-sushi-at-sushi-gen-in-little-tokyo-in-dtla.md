@@ -28,11 +28,15 @@ tags:
 - snapper
 - toro
 description: Sushi at Sushi Gen in Little Tokyo in DTLA. Part 1. This is my favorite place for sushi. Got here real early just to get a seat at the sushi counter. Had uni, Spanish mackerel, halibut, snapper, yello
-location: Sushi at Sushi Gen in Little Tokyo in DTLA
+location: SUSHI TOKYO TEN
 city: Tokyo
 region: Tokyo
 categories:
 - Tokyo
+address: 千駄ヶ谷5-24-55 (NEWoMan 2F フードホール), 渋谷区, 東京都, 151-0051
+coordinates:
+  lat: 35.688184
+  lng: 139.700285
 ---
 
 ![Sushi at Sushi Gen in Little Tokyo in DTLA](/images/posts/ig-2021-07-25-sushi-at-sushi-gen-in-little-tokyo-in-dtla/18169594324176089.jpg)

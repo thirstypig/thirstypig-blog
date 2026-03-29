@@ -34,9 +34,13 @@ tags:
 description: Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.
 archiveUrl: https://web.archive.org/web/20110105140123/http://www.thethirstypig.com/2010/07/24/ramen-rakumenya-taipei/
 draft: false
-location: Ramen at 樂麵屋 Rakumenya
+location: 麵屋千雲 Menya Chikumo
 city: Taipei
 region: Taipei
+address: 105-1, Linsen N Rd, 中山區, 臺北市 10491
+coordinates:
+  lat: 25.050278
+  lng: 121.52507
 ---
 
 Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.

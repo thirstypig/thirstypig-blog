@@ -22,12 +22,16 @@ tags:
 - eats
 - eeeeats
 description: Spago, Beverly Hills. Was here for an event. First to Spago. Did not disappoint. Sea bass and Beef short rib. The canapés were also good. Pizza was also expectedly yummy. Should have take a photo of t
-location: Spago
+location: Spago Beverly Hills
 city: Beverly Hills
 region: Westside
 categories:
 - Beverly Hills
 - Westside
+address: 176 N Canon Dr (at Wilshire Blvd.), Beverly Hills, CA 90210
+coordinates:
+  lat: 34.067553
+  lng: -118.397657
 ---
 
 ![Spago, Beverly Hills](/images/posts/ig-2024-08-17-spago-beverly-hills/18026256929465632.jpg)

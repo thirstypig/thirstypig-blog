@@ -18,9 +18,13 @@ tags:
 - thirstypig
 - beefrib
 description: Old school Korean BBQ. Haven’t been here in ages - over 25 years. Had the premium rib and the Yu Ki Jang. . . . .
-location: Old school Korean BBQ
+location: Oo Kook Korean BBQ
 city: Koreatown
 region: Los Angeles
+address: 3385 W 8th St (at S Kingsley Dr), Los Angeles, CA 90005
+coordinates:
+  lat: 34.057926
+  lng: -118.302766
 ---
 
 ![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17876924110276574.jpg)

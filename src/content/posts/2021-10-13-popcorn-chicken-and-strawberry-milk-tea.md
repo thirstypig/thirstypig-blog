@@ -17,9 +17,13 @@ tags:
 - boba
 - thirstypig
 description: Popcorn chicken and strawberry milk tea! Yum! . . . . .
-location: Popcorn chicken and strawberry milk tea
+location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley
+address: 139 E Huntington Dr, Arcadia, CA 91006
+coordinates:
+  lat: 34.1403
+  lng: -118.026696
 ---
 
 ![Popcorn chicken and strawberry milk tea](/images/posts/ig-2021-10-13-popcorn-chicken-and-strawberry-milk-tea/17909368310147817.jpg)

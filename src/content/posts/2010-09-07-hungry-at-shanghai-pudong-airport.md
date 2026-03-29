@@ -40,9 +40,13 @@ tags:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20110105042301/http://www.thethirstypig.com/2010/09/07/hungry-at-shanghai-pudong-airport/
 draft: false
-location: Hungry at Shanghai Pudong Airport
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 #gallery-2 {

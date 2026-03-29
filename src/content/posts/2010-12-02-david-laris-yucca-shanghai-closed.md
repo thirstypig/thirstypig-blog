@@ -15,9 +15,13 @@ tags:
 description: 'I recently got invited to Yucca – David Laris’ latest hot spot – Yucca. Coined as a micro-lounge, Yucca is located the Sinan Mansions 思南公馆. Yucca is a Mexican inspired menu and venue. Perhaps will be '
 archiveUrl: https://web.archive.org/web/20161019154003/http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/
 draft: false
-location: David Laris’ Yucca
+location: Davidoff Shop
 city: Shanghai
 region: Shanghai
+address: Huahai Rd, Huangpu, 上海市
+coordinates:
+  lat: 31.222854
+  lng: 121.464105
 ---
 
 

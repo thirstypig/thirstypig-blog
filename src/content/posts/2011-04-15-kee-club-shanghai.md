@@ -17,9 +17,13 @@ tags:
 description: '> “Membership has its privileges” > - American Express Slogan from the 80′s'
 archiveUrl: https://web.archive.org/web/20110416170234/http://www.thethirstypig.com:80/2011/04/15/kee-club-shanghai/
 draft: false
-location: Kee Club Shanghai
+location: The Kee Club Shanghai
 city: Shanghai
 region: Shanghai
+address: 上海市, 上海市, 200000
+coordinates:
+  lat: 31.364587
+  lng: 121.241428
 ---
 
 > “Membership has its privileges”

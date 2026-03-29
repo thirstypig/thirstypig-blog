@@ -22,11 +22,15 @@ tags:
 - tastemakersapp
 - puxi
 description: Scallion oil noodles. 蔥油拌麵A Shanghainese dish. One of first things I had back in Shanghai. Haven’t been back here in years. . . .
-location: Scallion oil noodles
+location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
+address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
+coordinates:
+  lat: 31.219744
+  lng: 121.461994
 ---
 
 ![Scallion oil noodles](/images/posts/ig-2024-04-13-scallion-oil-noodles/18030988756790407.jpg)

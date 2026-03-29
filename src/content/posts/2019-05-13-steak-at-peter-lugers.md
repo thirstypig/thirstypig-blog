@@ -26,9 +26,13 @@ tags:
 - porterhouse
 - ribeye
 description: Steak at Peter Luger’s. We had the rib steak and the steak for two. Yum! Glad we went! . . .
-location: Steak at Peter Luger’s
+location: Peter McManus Cafe
 city: New York
 region: New York
+address: 152 7th Ave (at W 19th St), New York, NY 10011
+coordinates:
+  lat: 40.741713
+  lng: -73.99767
 ---
 
 ![Steak at Peter Luger’s](/images/posts/ig-2019-05-13-steak-at-peter-lugers/17851651582426314.jpg)

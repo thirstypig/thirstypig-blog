@@ -20,9 +20,13 @@ tags:
 - eeeeeats
 - eat
 description: Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut but
-location: Peanut Butter Mochi from J
+location: Yuk Dae Jang
 city: San Gabriel
 region: San Gabriel Valley
+address: 704 W Las Tunas Dr, San Gabriel, CA 91776
+coordinates:
+  lat: 34.102108
+  lng: -118.109875
 ---
 
 ![Peanut Butter Mochi from J](/images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/18096782062109763.jpg)

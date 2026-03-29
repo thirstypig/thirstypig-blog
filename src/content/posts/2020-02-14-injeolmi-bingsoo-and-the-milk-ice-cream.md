@@ -21,9 +21,13 @@ tags:
 - eat
 - eeeeeats
 description: Injeolmi Bingsoo and the milk ice cream. The presentation was unexpectedly pretty awesomely nice. Didn’t expect that. The shaved ice was better than expected. And the milk ice cream was not overly swe
-location: Injeolmi Bingsoo and the milk ice cream
+location: McConnell's Fine Ice Creams
 city: Koreatown
 region: Los Angeles
+address: 317 S Broadway (4th), Los Angeles, CA 90013
+coordinates:
+  lat: 34.050738
+  lng: -118.248847
 ---
 
 ![Injeolmi Bingsoo and the milk ice cream](/images/posts/ig-2020-02-14-injeolmi-bingsoo-and-the-milk-ice-cream/17853631903838945.jpg)

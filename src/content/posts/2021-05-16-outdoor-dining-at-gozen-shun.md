@@ -21,11 +21,15 @@ tags:
 - eats
 - thirstypig
 description: Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. Tonkatsu and miso Black Cod, with tempura and karage. . . . . .
-location: Outdoor dining at Gozen Shun
+location: The Lounge At Mi Piace
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
+coordinates:
+  lat: 34.145855
+  lng: -118.1499
 ---
 
 ![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17908499326747509.jpg)

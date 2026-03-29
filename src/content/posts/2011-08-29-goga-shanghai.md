@@ -28,6 +28,10 @@ draft: false
 location: Goga
 city: Shanghai
 region: Shanghai
+address: 1 Yueyang Rd. (at Dongping Rd.), 上海市, 上海市
+coordinates:
+  lat: 31.210292
+  lng: 121.447232
 ---
 
 The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine culinary dining from Japan, Italy, France, as well as regional Chinese and with Goga, we see (and taste) decent American food.

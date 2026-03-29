@@ -15,9 +15,13 @@ tags:
 description: Among some of things I wanted to try in Seoul was the Street Food known as Pojangmacha 포장마차. I have always been fascinated with street food everywhere I go – Los Angeles, Taipei, Hong Kong, and Shangh
 archiveUrl: https://web.archive.org/web/20110219010202/http://www.thethirstypig.com:80/2011/01/26/street-and-fast-food-seoul/
 draft: false
-location: Street and Fast Food
+location: Kkongdon Food
 city: Seoul
 region: Seoul
+address: 명동
+coordinates:
+  lat: 37.563281
+  lng: 126.983875
 ---
 
 Among some of things I wanted to try in Seoul was the Street Food known as Pojangmacha 포장마차. I have always been fascinated with street food everywhere I go – Los Angeles, Taipei, Hong Kong, and Shanghai. I also confess that I am sucker for fast food as well. I have always liked the simple fast foods restaurants from the US.

@@ -27,11 +27,15 @@ tags:
 - spaghetti
 - linguine
 description: 'Dinner with an old friend from Shanghai. Got a same day reservation at Babbo. Mario Batali and Joe Bastianich’s Italian restaurant. We started off by sharing a baby wild arugula salad. Then I had the '
-location: Dinner with an old friend from Shanghai
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 ![Dinner with an old friend from Shanghai](/images/posts/ig-2018-05-21-dinner-with-an-old-friend-from-shanghai/17918179489147127.jpg)

@@ -15,9 +15,13 @@ tags:
 description: Tian Tian Seafood Harbour 天天渔港 Tian Tian Yu Gang is one of the largest chain restaurants in Shanghai, but also China. With Hong Kong roots, there are locations in Beijing, Shenzhen, as well as Shangha
 archiveUrl: https://web.archive.org/web/20161018181541/http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/
 draft: false
-location: Tian Tian Seafood Harbour Restaurant天天渔港
+location: Tin Tin Seafood Habour (天天渔港)
 city: Shanghai
 region: Shanghai
+address: 徐家汇路548号 (打浦店), Huangpu, 上海市
+coordinates:
+  lat: 31.206488
+  lng: 121.470723
 ---
 
 

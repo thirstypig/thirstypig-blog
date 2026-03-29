@@ -34,4 +34,8 @@ archiveUrl: https://web.archive.org/web/20110105092758/http://www.thethirstypig.
 draft: false
 location: El Mercado
 city: East LA
+address: 5287 W Pico Blvd (Dunsmuir), Los Angeles, CA 90019
+coordinates:
+  lat: 34.0485
+  lng: -118.353562
 ---

@@ -22,9 +22,13 @@ tags:
 - spicy
 - fish
 description: Chinese food craving satisfied. Wife was tasked to find something she wanted to eat. Luckily it close by and pretty good. We had fish filet in a spicy sauce and three pepper chicken. With rice, in a h
-location: Chinese food craving satisfied
+location: Mido's Halal Food Cart
 city: New York
 region: New York
+address: West 18th Street (6th Avenue), New York, NY 10011
+coordinates:
+  lat: 40.739484
+  lng: -73.994885
 ---
 
 ![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17869870666244992.jpg)

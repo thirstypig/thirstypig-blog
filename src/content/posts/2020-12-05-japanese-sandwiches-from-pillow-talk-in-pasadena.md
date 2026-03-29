@@ -17,11 +17,15 @@ tags:
 - pasadena
 - egg
 description: Japanese sandwiches from Pillow Talk in Pasadena. Egg heaven and the Okonomiyaki sandwiches. Yummy. I love eggs. . . . . . .
-location: Japanese sandwiches from Pillow Talk in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Japanese sandwiches from Pillow Talk in Pasadena](/images/posts/ig-2020-12-05-japanese-sandwiches-from-pillow-talk-in-pasadena/17879161912897546.jpg)

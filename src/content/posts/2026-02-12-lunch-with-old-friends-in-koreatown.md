@@ -19,9 +19,13 @@ tags:
 - æ
 - koreatown
 description: lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons. Yummy. Everything was great. Would recommend a
-location: lunch with old friends in Koreatown
+location: Old Chinatown Central Plaza
 city: Koreatown
 region: Los Angeles
+address: 943 N Broadway, Los Angeles, CA 90012
+coordinates:
+  lat: 34.065305
+  lng: -118.237264
 ---
 
 ![lunch with old friends in Koreatown](/images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18047950916707924.jpg)

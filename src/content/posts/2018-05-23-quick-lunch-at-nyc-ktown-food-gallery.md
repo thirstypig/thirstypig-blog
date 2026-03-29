@@ -18,9 +18,13 @@ tags:
 - thirstypig
 - eeeeeats
 description: Quick lunch at NYC KTown Food Gallery. Seafood mini hot pot and chicken kimchi fried rice.. . . .
-location: Quick lunch at NYC KTown Food Gallery
+location: Gallery Row
 city: Koreatown
 region: Los Angeles
+address: 816 S Broadway LA, CA 90014 (Main & Spring btwn 2nd & 9th), Los Angeles, CA 90014
+coordinates:
+  lat: 34.047812
+  lng: -118.24971
 ---
 
 ![Quick lunch at NYC KTown Food Gallery](/images/posts/ig-2018-05-23-quick-lunch-at-nyc-ktown-food-gallery/17875686520231777.jpg)

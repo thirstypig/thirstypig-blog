@@ -43,6 +43,10 @@ draft: false
 location: Tanya Matabei
 city: Shanghai
 region: Shanghai
+address: 581 Fuxing lu (Ruijin lu), 上海市, 上海市, 200000
+coordinates:
+  lat: 31.21689
+  lng: 121.46103
 ---
 
 Japanese cuisine is not hard to find in Asia, specifically Taipei or Shanghai. I think it would be safe to say, since the 80′s – when Japan’s global reach was at its peak, culture, cuisine, and investments from the land of the rising sun. And, us non-Nippon’rs embraced this fascination with open arms. Many businessmen, not from Japan, opened up stores and restaurants to celebrate, or capitalize on this phenomenon.

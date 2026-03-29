@@ -20,11 +20,15 @@ tags:
 - eat
 - eeeeeats
 description: Pasadena Greek Fest. Gyros, Souvlakia, Baklava, and chicken souvlaki. Yum. The Gyros are awesome!!! Going on all weekend 9/20-22 . . . .
-location: Pasadena Greek Fest
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Pasadena Greek Fest](/images/posts/ig-2019-09-20-pasadena-greek-fest/18072480292143796.jpg)

@@ -15,9 +15,13 @@ tags:
 - tea
 - drink
 description: Yet another Boba Tea Shop. We were actually looking for boba ice cream bars - but they were sold out and had a one week wait for new orders. Crazy!! . . . .
-location: Yet another Boba Tea Shop
+location: Factory Tea Bar
 city: San Gabriel
 region: San Gabriel Valley
+address: 323 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
+coordinates:
+  lat: 34.097699
+  lng: -118.108963
 ---
 
 ![Yet another Boba Tea Shop](/images/posts/ig-2019-12-19-yet-another-boba-tea-shop/17904606040399105.jpg)

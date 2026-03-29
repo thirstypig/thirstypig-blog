@@ -12,9 +12,12 @@ tags:
 description: On a recent trip back to the US, I feeling a little hungry while waiting for my flight. Feeling adventurous, at the Shanghai Pudong Airport PVG, I went searching for something to put in my mouth. I re
 archiveUrl: https://web.archive.org/web/20161019154253/http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/
 draft: false
-location: East Dawning 東方既白
+location: East Dawning 东方既白
 city: Shanghai
 region: Shanghai
+coordinates:
+  lat: 31.239688
+  lng: 121.497462
 ---
 
 

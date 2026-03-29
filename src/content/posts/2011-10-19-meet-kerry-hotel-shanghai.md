@@ -14,9 +14,13 @@ tags:
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106060450/http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
 draft: false
-location: Meet, Kerry Hotel
+location: Kerry Hotel Pudong, Shanghai (上海浦东嘉里大酒店)
 city: Shanghai
 region: Shanghai
+address: 1388 Huamu Rd (at Fangdian Rd), 浦东, 上海市, 201204
+coordinates:
+  lat: 31.21539
+  lng: 121.559291
 ---
 
 

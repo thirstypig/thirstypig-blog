@@ -22,9 +22,13 @@ tags:
 - linguineandclams
 - redsauce
 description: 'Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce. We started with the classic fried calamari and finished with a slice of tiramisu. '
-location: Old School Italian tonight with old friends
+location: Old Town Bar
 city: New York
 region: New York
+address: 45 E 18th St (btwn Broadway & Park Ave S), New York, NY 10003
+coordinates:
+  lat: 40.737537
+  lng: -73.989302
 ---
 
 ![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/17963538715271085.jpg)

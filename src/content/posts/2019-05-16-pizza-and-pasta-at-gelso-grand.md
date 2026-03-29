@@ -18,9 +18,13 @@ tags:
 - gelsoandgrand
 - thirstypig
 description: Pizza and pasta at Gelso & Grand. And hello to our new friends from LA! . . .
-location: Pizza and pasta at Gelso & Grand
+location: Grand Park
 city: Los Angeles
 region: Los Angeles
+address: 200 N Grand Ave (btwn Temple & 1st St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.055034
+  lng: -118.245179
 ---
 
 ![Pizza and pasta at Gelso & Grand](/images/posts/ig-2019-05-16-pizza-and-pasta-at-gelso-grand/18037866418136923.jpg)

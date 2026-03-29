@@ -30,9 +30,13 @@ tags:
 description: 'Sriracha sauce Thai: ศรีราชา sǐrātɕʰā, a Thai spicy sauce, is not from Thailand or even Vietnam It is from Rosemeadhttp://www.huyfong.com/ in Southern California, with Thai roots. In the states, the R'
 archiveUrl: https://web.archive.org/web/20110106012854/http://www.thethirstypig.com/2010/06/09/vietnamese-noodles-pho-taipei/
 draft: false
-location: Vietnamese Noodles at 越苑Pho in Taipei
+location: In-N-Out Burger
 city: Rosemead
 region: San Gabriel Valley
+address: 4242 Rosemead Blvd (at Mission Dr), Rosemead, CA 91770
+coordinates:
+  lat: 34.083833
+  lng: -118.073014
 ---
 
 Sriracha sauce (Thai: ศรีราชา [sǐrātɕʰā]), a Thai spicy sauce, is not from Thailand or even Vietnam It is from [Rosemead](http://www.huyfong.com/) in Southern California, with Thai roots. In the states, the Rooster sauce, [originally](http://en.wikipedia.org/wiki/Sriracha_sauce) developed for Asian Americans, is used on buffalo wings, french fries, and other American foods, as well as Asian dishes.

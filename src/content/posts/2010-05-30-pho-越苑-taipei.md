@@ -13,9 +13,13 @@ tags:
 description: 'Sriracha sauce Thai: ศรีราชา sǐrātɕʰā, a Thai spicy sauce, is not from Thailand or even Vietnam It is from Rosemeadhttp://www.huyfong.com/ in Southern California, with Thai roots. In the states, the R'
 archiveUrl: https://web.archive.org/web/20161105081109/http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
 draft: false
-location: Pho 越苑
+location: Pho36 越苑
 city: Taipei
 region: Taipei
+address: 大直街36號
+coordinates:
+  lat: 25.081729
+  lng: 121.546481
 ---
 
 

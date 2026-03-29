@@ -23,9 +23,13 @@ tags:
 - irvine
 - oc
 description: Dim Sum lunch but without the iconic carts. . . . .
-location: Dim Sum lunch but without the iconic carts
+location: The Adventure Playground
 city: Irvine
 region: Orange County
+address: 1 Beech Tree Ln, Irvine, CA 92612
+coordinates:
+  lat: 33.660019
+  lng: -117.819619
 ---
 
 ![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17977184170057527.jpg)

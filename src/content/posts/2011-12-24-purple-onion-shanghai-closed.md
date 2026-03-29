@@ -13,9 +13,13 @@ tags:
 description: Where did the Thirsty Pig Go? The Purple Onion, part of famed Shanghai restauranteur David Laris empire, nice little European bistro. Though it is tucked away in a small alley, it is still convenientl
 archiveUrl: https://web.archive.org/web/20161106075156/http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/
 draft: false
-location: The Purple Onion
+location: Purple Mountain Hotel (紫金山大酒店)
 city: Shanghai
 region: Shanghai
+address: 778 Dongfang Rd (Zhangyang Rd), 浦东, 上海市, 200122
+coordinates:
+  lat: 31.229756
+  lng: 121.519455
 ---
 
 

@@ -21,11 +21,15 @@ tags:
 - outdoors
 - shade
 description: Early lunch/brunch at L’antica in Hollywood. Breakfast pizza, margherita pizza, and Pappardelle Genovese pasta. Enjoyed all the dishes. Too bad they didn’t have bloody marys. . . . . . .
-location: Early lunch/brunch at L’antica in Hollywood
+location: Omni Los Angeles Hotel at California Plaza
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 251 S Olive St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.052497
+  lng: -118.250455
 ---
 
 ![Early lunch/brunch at L’antica in Hollywood](/images/posts/ig-2021-05-18-early-lunchbrunch-at-lantica-in-hollywood/17883680465181233.jpg)

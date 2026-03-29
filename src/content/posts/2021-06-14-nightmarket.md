@@ -25,11 +25,15 @@ tags:
 - nightmarketsong
 - thirstypig
 description: Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the wa
-location: Night+Market
+location: Night + Market
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 9043 W Sunset Blvd (at N Doheny Dr), West Hollywood, CA 90069
+coordinates:
+  lat: 34.090705
+  lng: -118.389126
 ---
 
 ![Night+Market](/images/posts/ig-2021-06-14-nightmarket/17891205173108412.jpg)

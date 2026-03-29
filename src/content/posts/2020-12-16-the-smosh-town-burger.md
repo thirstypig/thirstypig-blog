@@ -18,9 +18,13 @@ tags:
 - eat
 - eeeeeats
 description: The Smosh Town burger. Crispy and tasty burgers! Tarot tots with chili and cheese. Yum . . . . .
-location: The Smosh Town burger
+location: Old Town Pasadena
 city: Pasadena
 region: San Gabriel Valley
+address: Pasadena, CA 91105
+coordinates:
+  lat: 34.145657
+  lng: -118.152145
 ---
 
 ![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17866486280161884.jpg)

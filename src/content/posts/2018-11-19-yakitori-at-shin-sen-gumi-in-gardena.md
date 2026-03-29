@@ -26,9 +26,13 @@ tags:
 - japanesefood
 - southbay
 description: Yakitori at Shin Sen Gumi in Gardena. Haven’t been here in years! . . . .
-location: Yakitori at Shin Sen Gumi in Gardena
+location: Shin-Sen-Gumi Hakata Ramen
 city: Gardena
 region: South Bay
+address: 2015 W Redondo Beach Blvd (at Gramercy Pl), Gardena, CA 90247
+coordinates:
+  lat: 33.88769
+  lng: -118.314053
 ---
 
 ![Yakitori at Shin Sen Gumi in Gardena](/images/posts/ig-2018-11-19-yakitori-at-shin-sen-gumi-in-gardena/17986046902112201.jpg)

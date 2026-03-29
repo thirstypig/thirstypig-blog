@@ -19,11 +19,15 @@ tags:
 - spammusubi
 - spam
 description: Fried Chicken from Top Restaurant in Pasadena. Also ordered the spam masubi and the loco moco plate. Top restaurant is an interesting restaurant that offers Indonesian Hawaiian cuisine. Their fried ch
-location: Fried Chicken from Top Restaurant in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Fried Chicken from Top Restaurant in Pasadena](/images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasadena/18027006542634931.jpg)

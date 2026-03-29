@@ -55,9 +55,13 @@ tags:
 description: I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so
 archiveUrl: https://web.archive.org/web/20110105112851/http://www.thethirstypig.com/2010/10/12/the-shanghai-expo/
 draft: false
-location: The Shanghai Expo
+location: The Shanghai EDITION (上海爱迪逊酒店)
 city: Shanghai
 region: Shanghai
+address: 199 Nanjing Road East, Huangpu District, Huangpu District, 上海市, 上海市, 200002
+coordinates:
+  lat: 31.240001
+  lng: 121.481678
 ---
 
 I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so close.

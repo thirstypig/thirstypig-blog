@@ -31,4 +31,8 @@ draft: false
 location: Tokyo Wako
 city: Arcadia
 region: San Gabriel Valley
+address: 401 E Huntington Dr (at S 5th Ave.), Arcadia, CA 91006
+coordinates:
+  lat: 34.140521
+  lng: -118.0219
 ---

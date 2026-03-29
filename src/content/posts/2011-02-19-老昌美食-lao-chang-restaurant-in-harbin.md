@@ -17,9 +17,13 @@ tags:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103151801/http://www.thethirstypig.com/2011/02/19/%e8%80%81%e6%98%8c%e7%be%8e%e9%a3%9f-lao-chang-restaurant-in-harbin/
 draft: false
-location: 老昌美食 Lao Chang Restaurant in Harbin
+location: Haidilao Hot Pot (海底捞火锅)
 city: Shanghai
 region: Shanghai
+address: 北京西路1068号3楼 | 1068 Beijing W Rd (近江宁路 | Jiangning Rd.), 上海市, 上海市
+coordinates:
+  lat: 31.232055
+  lng: 121.450242
 ---
 
 Lao Chang is a restaurant chain based in northern China. They feature a pancake-like food that you stuff with vegetables and meat, which is tasty as hell. After a day of sightseeing, Lao Chang was suggested by our local Harbin driver.

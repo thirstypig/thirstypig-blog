@@ -16,6 +16,10 @@ draft: false
 location: Uminosachi
 city: Shanghai
 region: Shanghai
+address: 8 M. Huaihai Rd., 上海市, 上海市
+coordinates:
+  lat: 31.22722
+  lng: 121.475117
 ---
 
 Based on an article in [CNNGo](http://www.cnngo.com/shanghai/eat/shanghais-5-best-all-you-can-eat-teppanyaki-627739?page=0,1) about Japanese restaurants, I decided to try Uminosachi. Boy, did I regret it. I should have consulted my friends. I don’t understand how a chain like this could still stay in business? This particular location is great, but, again, the food sucks! I don’t want to waste anymore time or space in covering this place, but the food was horrible. I don’t want to go into specifics about the food. I really didn’t want to make a post about this place, but I took a couple of cool pictures. Please don’t go.

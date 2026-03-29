@@ -12,9 +12,13 @@ tags:
 description: Every major metropolitan city features little enclaves or ghettos where pockets of individual ethnicities congregate. Whether you’re in London’s Indian Southall, São Paulo’s Japanese Liberdade, or Mel
 archiveUrl: https://web.archive.org/web/20161019141337/http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
 draft: false
-location: BawuBawu 巴屋巴屋
+location: Starbucks Reserve (星巴克臻选)
 city: Shanghai
 region: Shanghai
+address: N110-N201, 789 Nanjing W. Rd. (1-2/F-10N HKRI Taikoo Hui | 兴业太古汇), Jìng'an, Jing'an, 上海市, 200085
+coordinates:
+  lat: 31.232316
+  lng: 121.457838
 ---
 
 

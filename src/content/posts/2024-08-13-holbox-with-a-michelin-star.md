@@ -22,9 +22,13 @@ tags:
 - mercadolapaloma
 - thirstypig
 description: Holbox with a Michelin star! Had the grilled kanpanchi collars (last one of the night!), taco de Pulpo en su Tinta (grilled octopus), smoked Kanpachi taco, scallop taco, and ceviche mix to (with octop
-location: Holbox with a Michelin star
+location: Holbox
 city: Downtown LA
 region: Los Angeles
+address: 3655 S Grand Ave, Los Angeles, CA 90007
+coordinates:
+  lat: 34.017275
+  lng: -118.278391
 ---
 
 ![Holbox with a Michelin star](/images/posts/ig-2024-08-13-holbox-with-a-michelin-star/18007334102347659.jpg)

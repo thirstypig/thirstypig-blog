@@ -24,11 +24,15 @@ tags:
 - chickenwings
 - potatocroquettes
 description: Tonkatsu dinner at T.O.T. Restaurant in a Little Tokyo. Teishokuya of Tokyo - T.O.T. I remember the first time I went a long long time ago. We had the pork loin tonkatsu and a potato croquette. Also h
-location: Tonkatsu dinner at T
+location: T BAR
 city: Tokyo
 region: Tokyo
 categories:
 - Tokyo
+address: 新宿3-9-7 (T&TⅡビル B1), 新宿区, 東京都, 160-0022
+coordinates:
+  lat: 35.691429
+  lng: 139.70685
 ---
 
 ![Tonkatsu dinner at T](/images/posts/ig-2018-07-11-tonkatsu-dinner-at-t/17943295963121728.jpg)

@@ -19,6 +19,10 @@ archiveUrl: https://web.archive.org/web/20160914223847/http://thirstypig.com/201
 draft: false
 location: King Taco
 city: Los Angeles
+address: 2020 W Pico Blvd (S Alvarado St), Los Angeles, CA 90006
+coordinates:
+  lat: 34.047067
+  lng: -118.282369
 ---
 
 [![IMG_1125](/images/posts/king-taco-los-angeles/psb-8.jpg "IMG_1125")](http://thirstypig.com/2014/06/06/king-taco-los-angeles/img_1125/)

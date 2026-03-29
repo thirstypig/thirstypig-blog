@@ -22,9 +22,13 @@ tags:
 description: After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.
 archiveUrl: https://web.archive.org/web/20110105105953/http://www.thethirstypig.com/2010/10/13/day-2-at-the-shanghai-expo/
 draft: false
-location: Day 2 at the Shanghai Expo
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.

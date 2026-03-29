@@ -28,9 +28,13 @@ tags:
 - hiking
 - nationalparks
 description: Some pics from my camping at Olympic National Park. Visited La Push Beach and Bogachiel river. The lichen trees was something to beholden. The beaches showed the power of Mother Nature with the driftw
-location: Some pics from my camping at Olympic National Park
+location: Japanese American National Museum
 city: Los Angeles
 region: Los Angeles
+address: 100 N Central Ave (at E First St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.049349
+  lng: -118.238642
 ---
 
 ![Some pics from my camping at Olympic National Park](/images/posts/ig-2025-05-07-some-pics-from-my-camping-at-olympic-national-park/18036570578320284.jpg)

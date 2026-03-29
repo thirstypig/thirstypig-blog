@@ -17,9 +17,13 @@ tags:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110426185420/http://www.thethirstypig.com:80/2011/04/07/dining-on-hong-kongs-temple-street/
 draft: false
-location: Dining on Hong Kong’s Temple Street
+location: Four Seasons Hotel Hong Kong (香港四季酒店)
 city: Hong Kong
 region: Hong Kong
+address: 8 Finance St, 中西區
+coordinates:
+  lat: 22.286554
+  lng: 114.156929
 ---
 
 Temple Street is the arguably Hong Kong’s most famous night market. Open from 4pm till late, there are over a hundred peddlers, stalls, and restaurants. If you are visiting Hong Kong, this is the best to stop by for little gifts and trinkets.

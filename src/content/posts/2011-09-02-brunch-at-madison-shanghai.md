@@ -23,9 +23,13 @@ categories:
 description: One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I wa
 archiveUrl: https://web.archive.org/web/20111011064242/http://www.thethirstypig.com/2011/09/02/brunch-at-madison-shanghai/
 draft: false
-location: Brunch at Madison
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I was looking forward to my virginal Madison experience.

@@ -25,9 +25,13 @@ tags:
 - lunch
 - dtla
 description: 'Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved '
-location: Pine & Crane vegan lunch
+location: Wolf & Crane Bar
 city: Downtown LA
 region: Los Angeles
+address: 366 E 2nd St (Central Ave), Los Angeles, CA 90012
+coordinates:
+  lat: 34.047816
+  lng: -118.239695
 ---
 
 ![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17918051288421128.jpg)

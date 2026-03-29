@@ -14,9 +14,13 @@ tags:
 - dtla
 - thirstypig
 description: Old school Shabu Shabu at the OG. Open for 27 years
-location: Old school Shabu Shabu at the OG
+location: the 3rd Burger
 city: Tokyo
 region: Tokyo
+address: 西新宿7-10-5 (ホテル イビス東京新宿1F), 新宿区, 東京都, 160-0023
+coordinates:
+  lat: 35.693796
+  lng: 139.698235
 ---
 
 ![Old school Shabu Shabu at the OG](/images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581821025252.jpg)

@@ -16,11 +16,15 @@ tags:
 - peatywhisky
 - talisker
 description: Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have got
-location: Good whiskys and whiskeys at the Malt in Taipei
+location: Legacy Taipei
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 八德路一段1號, 台北市,  100
+coordinates:
+  lat: 25.044934
+  lng: 121.529331
 ---
 
 ![Good whiskys and whiskeys at the Malt in Taipei](/images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18432198358045193.jpg)

@@ -20,9 +20,13 @@ tags:
 - pasadena
 - sgv
 description: Shabu Shabu beef quality was good. The broth was meh. The kombu was ok. The popular spicy miso was a strange combination. My wife likes it. I think my mom would like this place.
-location: Shabu Shabu  beef quality was good
+location: Artisanal Goods by Car
 city: Pasadena
 region: San Gabriel Valley
+address: 1009 E Colorado Blvd (Catalina), Pasadena, CA 91106
+coordinates:
+  lat: 34.146124
+  lng: -118.129694
 ---
 
 ![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17879788756094754.jpg)

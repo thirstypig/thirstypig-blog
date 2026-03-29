@@ -17,6 +17,10 @@ draft: false
 location: Spicy Moment
 city: Shanghai
 region: Shanghai
+address: 上海市, 上海市, 200000
+coordinates:
+  lat: 31.225242
+  lng: 121.444505
 ---
 
 

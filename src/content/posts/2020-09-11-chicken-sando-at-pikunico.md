@@ -19,9 +19,13 @@ tags:
 - eeeeeats
 - eats
 description: 'Chicken sando at pikunico. Yummy. One of the best if not the best chicken sandwich I have ever had. Just enough spiciness and flavor. Good crunchy texture for mouth feel. The side salad was good too. '
-location: Chicken sando at pikunico
+location: Water Court at California Plaza
 city: Downtown LA
 region: Los Angeles
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Chicken sando at pikunico](/images/posts/ig-2020-09-11-chicken-sando-at-pikunico/18083662414201272.jpg)

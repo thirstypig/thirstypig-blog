@@ -14,9 +14,13 @@ tags:
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20161019141341/http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/
 draft: false
-location: JingPuHui晶浦会 of Pudong
+location: Pudong Riverside Promenade (浦东滨江大道)
 city: Shanghai
 region: Shanghai
+address: Riverside Promenade (along Huangpu River), Lùjiāzuǐ, Huangpu, 上海市, 200030
+coordinates:
+  lat: 31.237746
+  lng: 121.492163
 ---
 
 

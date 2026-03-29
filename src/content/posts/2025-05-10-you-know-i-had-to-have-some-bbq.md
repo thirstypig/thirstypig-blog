@@ -23,9 +23,13 @@ tags:
 - tastemakers
 - tastemakersapp
 description: You know I had to have some BBQ . . . While I was in the Pacific Northwest, visiting an old classmate, I was tasked to choose a cuisine/restaurant. So I picked BBQ and found Jones BBQ in Victoria, BC.
-location: You know I had to have some BBQ
+location: Top Grill Restaurante
 city: Victoria
 region: British Columbia
+address: R. Barão de Monjardim, 218, Vitória, ES, 29010-390
+coordinates:
+  lat: -20.318509
+  lng: -40.328898
 ---
 
 ![You know I had to have some BBQ](/images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17934944709010233.jpg)

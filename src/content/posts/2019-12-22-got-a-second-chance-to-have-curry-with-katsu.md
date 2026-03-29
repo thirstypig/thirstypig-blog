@@ -22,9 +22,13 @@ tags:
 - eat
 - eeeeeats
 description: Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. W
-location: Got a second chance to have curry with katsu
+location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley
+address: 704 W Las Tunas Dr, San Gabriel, CA 91776
+coordinates:
+  lat: 34.102047
+  lng: -118.109943
 ---
 
 ![Got a second chance to have curry with katsu](/images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/17879992042488466.jpg)

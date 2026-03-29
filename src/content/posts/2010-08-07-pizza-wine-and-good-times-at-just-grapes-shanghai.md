@@ -30,9 +30,13 @@ tags:
 description: Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the Americ
 archiveUrl: https://web.archive.org/web/20101219015454/http://www.thethirstypig.com:80/2010/08/07/pizza-wine-and-good-times-at-just-grapes-shanghai/
 draft: false
-location: Pizza, Wine, and Good Times at Just Grapes
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the American trend of grastropubs, wine bars, and tapas restaurants, Shanghai is embracing restaurants like Just Grapes.

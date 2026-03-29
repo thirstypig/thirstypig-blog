@@ -20,9 +20,13 @@ tags:
 - artsdistrict
 - dtla
 description: Lunch at Wurstkuche. Bratwurst, Spicy Hot Link, and duck sausage and fries. . . . . .
-location: Lunch at Wurstkuche
+location: Wurstküche
 city: Arts District
 region: Los Angeles
+address: 800 E 3rd St (at Traction Ave), Los Angeles, CA 90013
+coordinates:
+  lat: 34.04552
+  lng: -118.236131
 ---
 
 ![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17937720668118068.jpg)

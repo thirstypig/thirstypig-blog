@@ -24,6 +24,10 @@ draft: false
 location: Dr. Beer
 city: Shanghai
 region: Shanghai
+address: 83 Fumin Rd | 富民路83号 (Middle Yan'an Rd | 延安中路), 上海市, 上海市
+coordinates:
+  lat: 31.222578
+  lng: 121.445838
 ---
 
 

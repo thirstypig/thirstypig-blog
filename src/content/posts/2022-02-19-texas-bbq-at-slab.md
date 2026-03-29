@@ -21,11 +21,15 @@ tags:
 - cornbread
 - honeybutter
 description: Texas BBQ at Slab. Had brisket, of course, pulled pork, pork ribs, collard greens, Mac and cheese and corn bread. Too bad we didn’t come on the weekends for beef ribs. The the pulled pork and pork spa
-location: Texas BBQ at Slab
+location: Water Court at California Plaza
 city: Hollywood
 region: Hollywood
 categories:
 - Hollywood
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Texas BBQ at Slab](/images/posts/ig-2022-02-19-texas-bbq-at-slab/17923324481069639.jpg)

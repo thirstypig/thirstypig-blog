@@ -18,9 +18,13 @@ tags:
 - wednesday
 - humpday
 description: Sausage and egg sando I love eggs. I could eat this every day. If I lived closer, I just might.
-location: Sausage and egg sando  I love eggs
+location: Eggslut
 city: Downtown LA
 region: Los Angeles
+address: 317 S Broadway, Los Angeles, CA 90013
+coordinates:
+  lat: 34.050635
+  lng: -118.248678
 ---
 
 ![Sausage and egg sando  I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg)

@@ -25,9 +25,13 @@ tags:
 - arcadia
 - sgv
 description: Dim Sum at Chef Tony. Squid ink shrimp Shu mai with gold leaf and shrimp and pork dumpling har gow with black truffle were the unique dim sum dishes. . . . .
-location: Dim Sum at Chef Tony
+location: DimDimSum Dim Sum Specialty Store (點點心點心專門店)
 city: Hong Kong
 region: Hong Kong
+address: 26-28 Man Wui St
+coordinates:
+  lat: 22.306986
+  lng: 114.166155
 ---
 
 ![Dim Sum at Chef Tony](/images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17909755763432610.jpg)

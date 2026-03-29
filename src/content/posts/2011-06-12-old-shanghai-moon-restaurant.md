@@ -37,6 +37,9 @@ draft: false
 location: Old Shanghai Moon Restaurant
 city: Shanghai
 region: Shanghai
+coordinates:
+  lat: 31.222966
+  lng: 121.456317
 ---
 
 [![old-shanghai-moon-01](/images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-01-494x370.jpg "old-shanghai-moon-01")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-01/)

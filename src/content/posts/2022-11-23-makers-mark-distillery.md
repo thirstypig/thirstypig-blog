@@ -27,9 +27,13 @@ tags:
 - kentucky
 - bourbondistillery
 description: Maker’s Mark Distillery. Arguably the best distillery we visited. This is what we expected when we visited Louisville and Kentucky - Americana at its best. They had Christmas decorations and lots of h
-location: Maker’s Mark Distillery
+location: NuWu Cannabis Marketplace
 city: Las Vegas
 region: Las Vegas
+address: 1235 Paiute Circle (Main & Washington), Las Vegas, NV 89106
+coordinates:
+  lat: 36.184391
+  lng: -115.139908
 ---
 
 ![Maker’s Mark Distillery](/images/posts/ig-2022-11-23-makers-mark-distillery/18267658375096017.jpg)

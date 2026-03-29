@@ -17,9 +17,13 @@ tags:
 - eats
 - eeeeeats
 description: Beef Rib from Smoke Queen. Had a slight Asian taste with the sweet sauce. Not sure why you need to sauce it. Perhaps the sauce melds with the savory dry rub, with the refreshing green onions. Maybe th
-location: Beef Rib from Smoke Queen
+location: Smoke Tokes
 city: Los Angeles
 region: Los Angeles
+address: 330 E 3rd St, Los Angeles, CA 90013
+coordinates:
+  lat: 34.047259
+  lng: -118.242863
 ---
 
 ![Beef Rib from Smoke Queen](/images/posts/ig-2022-08-24-beef-rib-from-smoke-queen/18021247084416064.jpg)

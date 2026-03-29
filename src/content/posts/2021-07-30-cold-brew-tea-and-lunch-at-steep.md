@@ -26,9 +26,13 @@ tags:
 - chicken
 - soupnoodles
 description: Cold brew tea and lunch at Steep. Had the braised pork on rice, the chicken rice, and pork soup noodles. I think the pork soup noodles were the best. I loved the flavorful broth. The chicken rice, sim
-location: Cold brew tea and lunch at Steep
+location: Tea Master Matcha Cafe and Green Tea Shop
 city: Downtown LA
 region: Los Angeles
+address: 450 E 2nd St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.047085
+  lng: -118.238598
 ---
 
 ![Cold brew tea and lunch at Steep](/images/posts/ig-2021-07-30-cold-brew-tea-and-lunch-at-steep/17887830779267293.jpg)

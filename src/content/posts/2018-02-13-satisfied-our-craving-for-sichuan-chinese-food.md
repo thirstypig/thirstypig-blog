@@ -16,9 +16,13 @@ tags:
 - spicy
 - huajiao
 description: Satisfied our craving for Sichuan Chinese food
-location: Satisfied our craving for Sichuan Chinese food
+location: Corporation Food Hall
 city: Chinatown
 region: Los Angeles
+address: 724 S Spring St, Los Angeles, CA 90014
+coordinates:
+  lat: 34.043999
+  lng: -118.252716
 ---
 
 ![Satisfied our craving for Sichuan Chinese food](/images/posts/ig-2018-02-13-satisfied-our-craving-for-sichuan-chinese-food/17909076649124484.jpg)

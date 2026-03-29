@@ -21,9 +21,13 @@ tags:
 - thirstypig
 - soup
 description: Pho at Pho Kinh Do in Vegas . . .
-location: Pho at Pho Kinh Do in Vegas
+location: Downtown Las Vegas Events Center
 city: Las Vegas
 region: Las Vegas
+address: 200 S 3rd St, Las Vegas, NV 89101
+coordinates:
+  lat: 36.168683
+  lng: -115.144706
 ---
 
 ![Pho at Pho Kinh Do in Vegas](/images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18016189561038545.jpg)

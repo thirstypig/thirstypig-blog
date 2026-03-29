@@ -23,11 +23,15 @@ tags:
 - costcofind
 - costcodoesitagain
 description: Costco in Taipei. Had to check it out. I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week. Yeah, I know I’m crazy. But wh
-location: Costco in Taipei
+location: Legacy Taipei
 city: Taipei
 region: Taipei
 categories:
 - Taipei
+address: 八德路一段1號, 台北市,  100
+coordinates:
+  lat: 25.044934
+  lng: 121.529331
 ---
 
 ![Costco in Taipei](/images/posts/ig-2024-05-04-costco-in-taipei/18184211032295091.jpg)

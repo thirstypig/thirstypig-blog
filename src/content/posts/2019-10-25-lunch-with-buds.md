@@ -22,9 +22,13 @@ tags:
 - fridays
 - tgif
 description: Lunch with buds. Plan Check’s patty melt, burger, and asian salad. Yum! . . . .
-location: Lunch with buds
+location: With Love Market & Cafe
 city: Downtown LA
 region: Los Angeles
+address: 1969 S Vermont Ave (btwn Cordova St & W 20th St), Los Angeles, CA 90007
+coordinates:
+  lat: 34.038428
+  lng: -118.291768
 ---
 
 ![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/18027537859236087.jpg)

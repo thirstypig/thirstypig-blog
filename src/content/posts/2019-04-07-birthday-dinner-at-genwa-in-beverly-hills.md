@@ -21,12 +21,16 @@ tags:
 - beef
 - porkbelly
 description: Birthday Dinner at Genwa in Beverly Hills. So much food. .
-location: Birthday Dinner at Genwa in Beverly Hills
+location: Beverly Hills Public Library
 city: Beverly Hills
 region: Westside
 categories:
 - Beverly Hills
 - Westside
+address: 444 N Rexford Dr (btwn S Santa Monica & Burton Way), Beverly Hills, CA 90210
+coordinates:
+  lat: 34.07286
+  lng: -118.399143
 ---
 
 ![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18013219483172525.jpg)

@@ -24,9 +24,13 @@ tags:
 - eat
 - shavedice
 description: Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage
-location: Taiwanese dinner at Monja Taiker
+location: Attorney Edmund V. Yan
 city: Rosemead
 region: San Gabriel Valley
+address: 3733 Rosemead Blvd, Rosemead, CA 91770
+coordinates:
+  lat: 34.076778
+  lng: -118.073603
 ---
 
 ![Taiwanese dinner at Monja Taiker](/images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/18107338234005795.jpg)

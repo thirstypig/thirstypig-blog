@@ -22,9 +22,13 @@ tags:
 - jarren
 - tobin
 description: 'Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we '
-location: Knife cut noodles from Noodle St
+location: Studio Movie Grill Monrovia
 city: Monrovia
 region: San Gabriel Valley
+address: 410 South Myrtle Ave, Monrovia, CA 91016
+coordinates:
+  lat: 34.14754
+  lng: -118.000373
 ---
 
 ![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17920566094214043.jpg)

@@ -24,9 +24,13 @@ tags:
 description: One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.
 archiveUrl: https://web.archive.org/web/20110105014517/http://www.thethirstypig.com/2010/06/12/2-bunnies-banciao-taipei/
 draft: false
-location: 2 Bunnies Cafe in Banciao
+location: 米塔手感烘焙 Mita Fancy Cafe & Bakery
 city: Taipei
 region: Taipei
+address: 南京東路一段24號, 台北市,  104
+coordinates:
+  lat: 25.051963
+  lng: 121.523724
 ---
 
 One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.

@@ -19,9 +19,13 @@ tags:
 - biscuits
 - chickenoysters
 description: Fried chicken at Crack Shack. Yum . . .
-location: Fried chicken at Crack Shack
+location: Rotisserie Chicken Of California
 city: Pasadena
 region: San Gabriel Valley
+address: 26 N Los Robles Ave, Pasadena, CA 91101
+coordinates:
+  lat: 34.146247
+  lng: -118.141245
 ---
 
 ![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17852015587518298.jpg)

@@ -25,9 +25,13 @@ tags:
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20110104165901/http://www.thethirstypig.com/2010/12/20/tai-thai-at-tianzifang-shanghai/
 draft: false
-location: Tai Thai 太泰 at Tianzifang
+location: Din Tai Fung (鼎泰丰)
 city: Shanghai
 region: Shanghai
+address: 999 Huaihai M Rd | 淮海中路999号 (3/F-18 iapm Mall | 环贸iapm商场), Xúhuì, Xuhui, 上海市, 200031
+coordinates:
+  lat: 31.217779
+  lng: 121.453103
 ---
 
 First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to get pique your interest.

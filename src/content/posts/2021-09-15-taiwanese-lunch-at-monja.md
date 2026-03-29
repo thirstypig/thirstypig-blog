@@ -18,9 +18,13 @@ tags:
 - beefnoodlesoup
 - porkchoprice
 description: Taiwanese lunch at Monja. Beef noodle soup, fried pork chop with rice, and popcorn chicken. . . . . .
-location: Taiwanese lunch at Monja
+location: 5 Bobee Taiwanese Cuisine
 city: Rowland Heights
 region: San Gabriel Valley
+address: 1756 Nogales St (at Colima Rd.), Rowland Heights, CA 91748
+coordinates:
+  lat: 33.986516
+  lng: -117.888214
 ---
 
 ![Taiwanese lunch at Monja](/images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/17926686379723739.jpg)

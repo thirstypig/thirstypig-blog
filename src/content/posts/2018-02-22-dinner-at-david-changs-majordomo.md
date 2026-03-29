@@ -28,9 +28,13 @@ tags:
 - bing
 - davidchoeart
 description: Dinner at David Chang’s Majordomo. We had 2 Bings - a smoked pork neck & fried egg and a eggs & smoked roe. Both were better than expected. Then had fried butter ball potatoes which had salsa seca and
-location: Dinner at David Chang’s Majordomo
+location: Water Court at California Plaza
 city: Downtown LA
 region: Los Angeles
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Dinner at David Chang’s Majordomo](/images/posts/ig-2018-02-22-dinner-at-david-changs-majordomo/17914229809103243.jpg)

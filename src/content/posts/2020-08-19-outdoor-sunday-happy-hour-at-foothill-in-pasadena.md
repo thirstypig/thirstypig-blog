@@ -18,11 +18,15 @@ tags:
 - fishandchips
 - peachcobbler
 description: Outdoor Sunday happy hour at Foothill in Pasadena. They turned their parking lot into and outdoor patio with coverings and umbrellas. Looks like a lot of people liked this place. Plenty of space for p
-location: Outdoor Sunday happy hour at Foothill in Pasadena
+location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 ![Outdoor Sunday happy hour at Foothill in Pasadena](/images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/17899150579558788.jpg)

@@ -20,9 +20,13 @@ tags:
 - breakfasttacos
 - brisket
 description: Breakfast burritos at Homestate. Had the brisket taco and the trinity taco. And of course had to have the chips and queso. . . . . .
-location: Breakfast burritos at Homestate
+location: The Lounge At Mi Piace
 city: Pasadena
 region: San Gabriel Valley
+address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
+coordinates:
+  lat: 34.145855
+  lng: -118.1499
 ---
 
 ![Breakfast burritos at Homestate](/images/posts/ig-2021-09-01-breakfast-burritos-at-homestate/17880522572427444.jpg)

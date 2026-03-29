@@ -16,9 +16,13 @@ tags:
 - beatthebengals
 - nfl
 description: NFL Experience in DTLA. Lots of cool things to do and see. Interesting. Great for kids. But unfortunately there are lots of lines . . . . .
-location: NFL Experience in DTLA
+location: Row Dtla
 city: Downtown LA
 region: Los Angeles
+address: 777 Alameda St, Los Angeles, CA 90021
+coordinates:
+  lat: 34.03369
+  lng: -118.2413
 ---
 
 ![NFL Experience in DTLA](/images/posts/ig-2022-02-07-nfl-experience-in-dtla/17929997885057122.jpg)

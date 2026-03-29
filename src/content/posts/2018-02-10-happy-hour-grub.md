@@ -13,11 +13,15 @@ tags:
 - thirstypig
 - saturdaynight
 description: Happy hour grub
-location: Happy hour grub
+location: Happy Feet Massage
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 257 E Colorado Blvd (Marengo), Pasadena, CA 91101
+coordinates:
+  lat: 34.146084
+  lng: -118.145139
 ---
 
 ![Happy hour grub](/images/posts/ig-2018-02-10-happy-hour-grub/17906064166095481.jpg)

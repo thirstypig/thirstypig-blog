@@ -10,9 +10,13 @@ categories:
 description: Yuyuan Garden is probably the most popular tourist attraction in Shanghai. Located in the middle of city, close the Bund, this spot was a private residence with a sprawling garden and reflection pools
 archiveUrl: https://web.archive.org/web/20101120104041/http://www.thethirstypig.com:80/2010/11/17/%E8%B1%AB%E5%9B%AD-yuyuan-garden-part-1/
 draft: false
-location: 豫园 Yuyuan Garden Part 1
+location: Yu Garden (豫园)
 city: Shanghai
 region: Shanghai
+address: 132 Anren St (湖心亭九曲桥北侧，豫园正门), Yùyuán, Huangpu, 上海市, 200010
+coordinates:
+  lat: 31.228922
+  lng: 121.487982
 ---
 
 Yuyuan Garden is probably the most popular tourist attraction in Shanghai. Located in the middle of city, close the Bund, this spot was a private residence with a sprawling garden and reflection pools.

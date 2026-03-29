@@ -14,9 +14,13 @@ tags:
 description: The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit tha
 archiveUrl: https://web.archive.org/web/20161018163248/http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/
 draft: false
-location: Drunk Garden 酣庭院‎
+location: Yu Garden (豫园)
 city: Shanghai
 region: Shanghai
+address: 132 Anren St (湖心亭九曲桥北侧，豫园正门), Yùyuán, Huangpu, 上海市, 200010
+coordinates:
+  lat: 31.228922
+  lng: 121.487982
 ---
 
 

@@ -26,9 +26,13 @@ categories:
 description: Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion siteblog. But I had to post about the new official Apple Store in Pudong, Shanghai.
 archiveUrl: https://web.archive.org/web/20100915154739/http://www.thethirstypig.com:80/2010/08/02/apple-store-shanghai/
 draft: false
-location: Apple Store Shanghai
+location: Apple Shanghai iapm (Apple 上海环贸 iapm)
 city: Shanghai
 region: Shanghai
+address: 淮海中路999号, 环贸iapm商场L1-107&L2-207, 徐汇区 (iapm Mall | 环贸iapm商场), 上海市, 上海市, 200031
+coordinates:
+  lat: 31.215838
+  lng: 121.457759
 ---
 
 Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion site(blog). But I had to post about the new official Apple Store in Pudong, Shanghai.

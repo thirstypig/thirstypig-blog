@@ -13,9 +13,13 @@ tags:
 description: 'I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they '
 archiveUrl: https://web.archive.org/web/20161018084337/http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/
 draft: false
-location: Crystal Jade 翡翠酒家
+location: Crystal Jade Palace (翡翠皇宮酒家)
 city: Shanghai
 region: Shanghai
+address: 张杨路500号华润时代广场8楼 | 8/F, 500 Zhangyang Rd. (近浦东南路 | at Pudong Rd. S.), 上海市, 上海市, 200000
+coordinates:
+  lat: 31.229249
+  lng: 121.512887
 ---
 
 

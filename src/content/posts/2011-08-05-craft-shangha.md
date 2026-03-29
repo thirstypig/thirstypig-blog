@@ -16,6 +16,10 @@ draft: false
 location: Craft
 city: Shanghai
 region: Shanghai
+address: 7 Donghu Rd (东湖路7号) (Huaihai Road (淮海中路)), 上海市, 上海市
+coordinates:
+  lat: 31.217704
+  lng: 121.449888
 ---
 
 Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singaporean Jerrica Lee opens Craft with Russia’s national drink – Vodka, in the China’s most cosmopolitan city, Shanghai.

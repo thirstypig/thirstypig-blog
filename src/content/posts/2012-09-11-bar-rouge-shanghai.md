@@ -19,4 +19,8 @@ draft: false
 location: Bar Rouge
 city: Shanghai
 region: Shanghai
+address: 7/F, Bund 18, 18 Zhongshan Rd. East-1 (Nanjing Rd. East), Huangpu, 上海市, 200002
+coordinates:
+  lat: 31.240391
+  lng: 121.485224
 ---

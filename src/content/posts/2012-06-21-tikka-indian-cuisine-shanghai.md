@@ -18,9 +18,13 @@ tags:
 description: What is Tikka Indian Cuisine? In the heart of the Shanghai, there’s a new Indian Restaurant, Tikka. The little restaurant area near Maoming lu, Jinxian lu, and Changle lu. Tikka originates from the sa
 archiveUrl: https://web.archive.org/web/20160602080515/http://thirstypig.com/2012/06/21/tikka-indian-cuisine-shanghai/
 draft: false
-location: Tikka Indian Cuisine
+location: Imperial Treasure Fine Chinese Cuisine (御寶軒)
 city: Shanghai
 region: Shanghai
+address: 北京东路99号益丰外滩源402-403室 (近中山东一路), 黄浦区, 上海市, 200002
+coordinates:
+  lat: 31.242553
+  lng: 121.484388
 ---
 
 **What is Tikka Indian Cuisine?**

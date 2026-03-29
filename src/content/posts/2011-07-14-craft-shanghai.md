@@ -16,6 +16,10 @@ draft: false
 location: Craft
 city: Shanghai
 region: Shanghai
+address: 7 Donghu Rd (东湖路7号) (Huaihai Road (淮海中路)), 上海市, 上海市
+coordinates:
+  lat: 31.217704
+  lng: 121.449888
 ---
 
 

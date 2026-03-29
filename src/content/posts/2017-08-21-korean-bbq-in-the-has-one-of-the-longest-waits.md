@@ -25,9 +25,13 @@ tags:
 - thirstypig
 - baekjeongbbq
 description: Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight
-location: Korean BBQ in the   has one of the longest waits
+location: The Little Jewel of New Orleans
 city: Koreatown
 region: Los Angeles
+address: 207 Ord St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.060036
+  lng: -118.23826
 ---
 
 ![Korean BBQ in the   has one of the longest waits](/images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17895001045036569.jpg)

@@ -12,9 +12,13 @@ tags:
 description: 'I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes '
 archiveUrl: https://web.archive.org/web/20161018152735/http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/
 draft: false
-location: Jade Butterfly 蝶翠轩
+location: Jade Buddha Temple (玉佛禅寺)
 city: Shanghai
 region: Shanghai
+address: 安远路170号 (江宁路口), Wǔ níng, 上海市, 上海市, 200060
+coordinates:
+  lat: 31.2432
+  lng: 121.440666
 ---
 
 

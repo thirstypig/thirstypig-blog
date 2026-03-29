@@ -24,9 +24,13 @@ tags:
 - eeeeeats
 - eats
 description: Lunch at Manuela in the arts district in DTLA. Started off with the house Bloody Mary with heirloom tomatoes. Then we shared an order of their cast iron biscuits. And we had the venison burger, chilaq
-location: Lunch at Manuela in the arts district in DTLA
+location: Arts District Brewing Company
 city: Downtown LA
 region: Los Angeles
+address: 828 Traction Ave (at Avery St), Los Angeles, CA 90013
+coordinates:
+  lat: 34.044686
+  lng: -118.235385
 ---
 
 ![Lunch at Manuela in the arts district in DTLA](/images/posts/ig-2021-07-31-lunch-at-manuela-in-the-arts-district-in-dtla/17892986255175471.jpg)
