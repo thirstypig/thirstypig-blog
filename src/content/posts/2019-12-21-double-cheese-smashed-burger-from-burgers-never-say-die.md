@@ -22,6 +22,8 @@ tags:
 - eeeeeats
 description: Double Cheese Smashed Burger from Burgers Never Say Die. Pretty solid burger with an interesting crunchy texture from the thin burger patties. I like it. But the burgers seem small in portion. I shoul
 location: Double Cheese Smashed Burger from Burgers Never Say Die
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Double Cheese Smashed Burger from Burgers Never Say Die](/images/posts/ig-2019-12-21-double-cheese-smashed-burger-from-burgers-never-say-die/18042807058217404.jpg)

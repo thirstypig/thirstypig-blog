@@ -28,6 +28,8 @@ tags:
 - bourbondistillery
 description: Maker’s Mark Distillery. Arguably the best distillery we visited. This is what we expected when we visited Louisville and Kentucky - Americana at its best. They had Christmas decorations and lots of h
 location: Maker’s Mark Distillery
+city: Las Vegas
+region: Las Vegas
 ---
 
 ![Maker’s Mark Distillery](/images/posts/ig-2022-11-23-makers-mark-distillery/18267658375096017.jpg)

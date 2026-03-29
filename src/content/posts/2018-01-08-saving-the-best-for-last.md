@@ -29,6 +29,8 @@ tags:
 - camilepissarro
 description: Saving the best for last. saw amazing art all the while getting lost. David Hockney’s exhibit was especially interesting with his different art phases, including his LA images. Saw ancient Egyptian ar
 location: Saving the best for last
+city: New York
+region: New York
 ---
 
 ![Saving the best for last](/images/posts/ig-2018-01-08-saving-the-best-for-last/17916823861015860.jpg)

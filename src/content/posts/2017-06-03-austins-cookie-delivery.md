@@ -21,6 +21,8 @@ tags:
 - desserts
 description: Austin's cookie delivery. . Snicker doodle, chocolate chip, peanut butter, oatmeal chocolate chip, and chocolate chip peanut butter!
 location: Austin's cookie delivery
+city: Austin
+region: Texas
 ---
 
 ![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17881830892055446.jpg)

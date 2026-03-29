@@ -25,6 +25,8 @@ tags:
 - soup
 description: Taiwanese Gastropub 印地安. Yummy Taiwanese food with friends and a pitcher of amber bock. . . .
 location: Taiwanese Gastropub 印地安
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Taiwanese Gastropub 印地安](/images/posts/ig-2019-02-14-taiwanese-gastropub-印地安/18009251029083834.jpg)

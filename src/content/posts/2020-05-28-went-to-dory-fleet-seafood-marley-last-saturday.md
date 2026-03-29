@@ -26,6 +26,8 @@ tags:
 - newportbeachpier
 description: Went to Dory Fleet Seafood Marley last Saturday. Got some Sea Urchin, Crabs, Spot Prawns, Sea Snails, and this abalone-looking thing. Regret we didn’t get any fish. Next time we will get more sea urch
 location: Went to Dory Fleet Seafood Marley last Saturday
+city: Orange County
+region: Orange County
 ---
 
 ![Went to Dory Fleet Seafood Marley last Saturday](/images/posts/ig-2020-05-28-went-to-dory-fleet-seafood-marley-last-saturday/17884962223581610.jpg)

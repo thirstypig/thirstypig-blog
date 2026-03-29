@@ -23,6 +23,8 @@ tags:
 - food
 description: Dinner with family at (I love this name!). we had a Triple Fried Duck Fat Fries, Truffled Deviled Eggs, Brussels Sprout Caesar Salad, Bacon & Gruyere Roasted Bone Marrow, and Candied Pork Belly
 location: Dinner with family at  (I love this name
+city: Austin
+region: Texas
 ---
 
 ![Dinner with family at  (I love this name](/images/posts/ig-2017-06-18-dinner-with-family-at-i-love-this-name/17883902113003947.jpg)

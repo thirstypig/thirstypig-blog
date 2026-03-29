@@ -22,6 +22,8 @@ tags:
 - eeeeeats
 description: The Cubano at Porto’s. . . . I was just expecting to order some potato balls or pastries. But since I haven't been to Porto's in awhile, I was too familiar with their menu. I saw that they had the Cub
 location: The Cubano at Porto’s
+city: Glendale
+region: San Fernando Valley
 ---
 
 ![The Cubano at Porto’s](/images/posts/ig-2025-02-13-the-cubano-at-portos/18037568942407973.jpg)

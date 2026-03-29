@@ -16,6 +16,8 @@ tags:
 - sgv
 description: Tiger Sugar. Taiwanese boba or pearl milk tea. . . . . .usa .usa
 location: Tiger Sugar
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17891080747436840.jpg)

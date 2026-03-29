@@ -25,6 +25,8 @@ tags:
 - beach
 description: Getty Villa museum exterior. I dig the herb garden, vine covered walkway, and the outdoor forum.
 location: Getty Villa museum exterior
+city: Malibu
+region: Los Angeles
 ---
 
 ![Getty Villa museum exterior](/images/posts/ig-2017-10-25-getty-villa-museum-exterior/17845621804219203.jpg)

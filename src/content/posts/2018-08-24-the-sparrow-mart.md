@@ -29,6 +29,8 @@ tags:
 - fridaynights
 description: The Sparrow Mart .... last day - tomorrow! Interesting stuffed everyday products. Maruchan Ramen, Jameson, and Heinz Ketchup were the best sellers. Compelling and fascinating concept. . . . . .
 location: The Sparrow Mart
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![The Sparrow Mart](/images/posts/ig-2018-08-24-the-sparrow-mart/17941379218164291.jpg)

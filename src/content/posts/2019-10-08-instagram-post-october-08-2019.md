@@ -22,6 +22,8 @@ tags:
 - japanesefood
 - nippon
 description: . Ramen! . . . . .
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Instagram Post — October 08, 2019](/images/posts/ig-2019-10-08-instagram-post-october-08-2019/18080316382126550.jpg)

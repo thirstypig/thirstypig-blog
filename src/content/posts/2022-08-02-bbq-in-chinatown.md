@@ -25,6 +25,8 @@ tags:
 - brisket
 description: BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin. Not sure about the accompanying green salsa sauce. R
 location: BBQ in Chinatown
+city: Chinatown
+region: Los Angeles
 ---
 
 ![BBQ in Chinatown](/images/posts/ig-2022-08-02-bbq-in-chinatown/17934416747364297.jpg)

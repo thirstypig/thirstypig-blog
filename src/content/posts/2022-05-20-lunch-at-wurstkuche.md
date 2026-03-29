@@ -21,6 +21,8 @@ tags:
 - dtla
 description: Lunch at Wurstkuche. Bratwurst, Spicy Hot Link, and duck sausage and fries. . . . . .
 location: Lunch at Wurstkuche
+city: Arts District
+region: Los Angeles
 ---
 
 ![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17937720668118068.jpg)

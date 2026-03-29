@@ -27,6 +27,8 @@ tags:
 - beefroll
 description: Northeastern Chinese Cuisine at Northern Cafe. 東北菜 is one of the more under appreciated cuisines in my humble opinion. Dumplings and noodles are the hallmarks of Northeastern Chinese Cuisine. We had l
 location: Northeastern Chinese Cuisine at Northern Cafe
+city: Temple City
+region: San Gabriel Valley
 ---
 
 ![Northeastern Chinese Cuisine at Northern Cafe](/images/posts/ig-2022-01-13-northeastern-chinese-cuisine-at-northern-cafe/17954906215607830.jpg)

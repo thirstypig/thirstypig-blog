@@ -19,6 +19,8 @@ tags:
 - ricecake
 description: Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess t
 location: Lunch at Summer Rolls
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Lunch at Summer Rolls](/images/posts/ig-2021-02-06-lunch-at-summer-rolls/17859699104473002.jpg)

@@ -19,6 +19,8 @@ tags:
 - echopark
 description: Lechon roast pork at El Cochinito. Nice fatty cut if pork, black beans and rice, and steamed yucca. Wife likes the yucca. And had a Yerba matte soda. . . . .
 location: Lechon roast pork at El Cochinito
+city: Silver Lake
+region: Los Angeles
 ---
 
 ![Lechon roast pork at El Cochinito](/images/posts/ig-2018-10-06-lechon-roast-pork-at-el-cochinito/17912681965228518.jpg)

@@ -27,6 +27,8 @@ tags:
 - mala
 description: Pizza from Pizzeria Sei. We had the classic Margherita, the Bismarck with prosciutto cotto & egg, the Mala Lamb Sausage with spicy mala oil, and the Ruti pizza featuring hot honey and ricotta. I likee
 location: Pizza from Pizzeria Sei
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Pizza from Pizzeria Sei](/images/posts/ig-2025-01-17-pizza-from-pizzeria-sei/17892878778119487.jpg)

@@ -19,6 +19,8 @@ tags:
 - templecity
 description: Pho and chicken curry. The French bread accompaniment with the curry or stew is my go-to dish at golden deli or any Vietnamamese restaurant. Wife really like pho. . . . . .
 location: Pho and chicken curry
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Pho and chicken curry](/images/posts/ig-2018-06-11-pho-and-chicken-curry/17932400617083989.jpg)

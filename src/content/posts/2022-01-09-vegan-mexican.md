@@ -20,6 +20,8 @@ tags:
 - tacos
 description: Vegan Mexican. Potato pimento flautas, enchiladas verdes, and jack fruit carnitas tacos. . . . . . .
 location: Vegan Mexican
+city: West Hollywood
+region: Los Angeles
 ---
 
 ![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/18123568900255465.jpg)

@@ -24,6 +24,8 @@ tags:
 - littletokyo
 description: Part 2 at Sushi Gen. Here’s the salmon, miso cod, beer, octopus cucumber salad, and ankimo. . . . . .
 location: Part 2 at Sushi Gen
+city: Little Tokyo
+region: Los Angeles
 ---
 
 ![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/18021851509312292.jpg)

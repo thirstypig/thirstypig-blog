@@ -24,6 +24,8 @@ tags:
 - taipeirestaurant
 description: Some good ass noodles. Hearty chicken broth that was over the top rich and not too savory. The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen. Unexpect
 location: Some good ass noodles
+city: Taipei
+region: Taipei
 ---
 
 ![Some good ass noodles](/images/posts/ig-2024-05-18-some-good-ass-noodles/17962423760751790.jpg)

@@ -23,6 +23,8 @@ tags:
 - japanesewhisky
 description: Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. Only tried fried tofu and the scallion pancakes. But I think the sauce is more Shanghainese with the sweetness. I am mor
 location: Taiwanese food at Accomplice
+city: Culver City
+region: Los Angeles
 ---
 
 ![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17916950354481811.jpg)

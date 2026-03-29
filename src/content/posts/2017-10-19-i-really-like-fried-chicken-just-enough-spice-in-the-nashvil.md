@@ -26,6 +26,8 @@ tags:
 - notsurewhynolines
 description: 'I really like fried chicken just enough spice in the Nashville style chicken and sweetness in the honey sweetened. But the regular spiced seemed a bit too salty. Otherwise it is a big winner! I liked '
 location: I really like  fried chicken just enough spice in the Nashville style chicken...
+city: East LA
+region: Los Angeles
 ---
 
 ![I really like  fried chicken just enough spice in the Nashville style chicken...](/images/posts/ig-2017-10-19-i-really-like-fried-chicken-just-enough-spice-in-the-nashvil/17887355800092796.jpg)

@@ -25,6 +25,8 @@ tags:
 - barbecue
 description: 'Barbecue Day at Moo’s Craft Barbecue. Beef brisket, pork ribs, pulled pork, pork belly burnt ends, sides of corn, Mac and cheese, and slaw. Yummy. Too bad they were out of beef ribs. I heard that not '
 location: Barbecue Day at Moo’s Craft Barbecue
+city: East LA
+region: Los Angeles
 ---
 
 ![Barbecue Day at Moo’s Craft Barbecue](/images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/17945603227815543.jpg)

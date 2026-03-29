@@ -23,6 +23,8 @@ tags:
 - usc
 description: Was hungry . . . So we planned to trip to have barbecue at APL in Venice. They opened at 12:30ish (really at 12:45) and we decided to get there early. So. . . We arrived and got Nightclub-inthefront-b
 location: Was hungry
+city: Venice
+region: Los Angeles
 ---
 
 ![Was hungry](/images/posts/ig-2024-11-17-was-hungry/18073847905529359.jpg)

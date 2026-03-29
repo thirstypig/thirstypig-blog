@@ -26,6 +26,8 @@ tags:
 - mural
 description: We got to see the sites where Pablo Escobar was part of Medellin. We saw his lake side home, which was bombed. The community that Escobar built, where he is honored and loved with murals, art, and gra
 location: We got to see the sites where Pablo Escobar was part of Medellin
+city: Medellin
+region: Colombia
 ---
 
 ![We got to see the sites where Pablo Escobar was part of Medellin](/images/posts/ig-2023-09-05-we-got-to-see-the-sites-where-pablo-escobar-was-part-of-mede/18037823698490049.jpg)

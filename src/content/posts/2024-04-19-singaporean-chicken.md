@@ -26,6 +26,8 @@ tags:
 - bangkok
 description: Singaporean chicken. Yum! Similar to hainan chicken. But the chicken is steamed not boiled. Flavor soup! Love the hole-in-the-wall joint. Would recommend and would visit again. . . .
 location: Singaporean chicken
+city: Singapore
+region: Singapore
 ---
 
 ![Singaporean chicken](/images/posts/ig-2024-04-19-singaporean-chicken/18039598642830338.jpg)

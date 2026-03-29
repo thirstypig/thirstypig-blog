@@ -19,6 +19,8 @@ tags:
 - eeeeeats
 description: Hidden diner in Sierra Madre. Lunch in the hills of sierra madre. . . . . .
 location: Hidden diner in Sierra Madre
+city: Sierra Madre
+region: San Gabriel Valley
 ---
 
 ![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17925738541842115.jpg)

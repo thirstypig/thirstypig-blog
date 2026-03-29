@@ -25,6 +25,8 @@ tags:
 - allanduja
 description: Pizza Night . Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable wi
 location: Pizza Night
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Pizza Night](/images/posts/ig-2018-01-17-pizza-night/17904104773126660.jpg)

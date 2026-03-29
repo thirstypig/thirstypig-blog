@@ -16,6 +16,7 @@ tags:
 - crawfish
 - seafood
 - yummy
+location: Bigezseafood
 ---
 
 ![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17864920108131777.jpg)

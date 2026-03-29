@@ -24,6 +24,8 @@ tags:
 - tastemakersapp
 description: You know I had to have some BBQ . . . While I was in the Pacific Northwest, visiting an old classmate, I was tasked to choose a cuisine/restaurant. So I picked BBQ and found Jones BBQ in Victoria, BC.
 location: You know I had to have some BBQ
+city: Victoria
+region: British Columbia
 ---
 
 ![You know I had to have some BBQ](/images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17934944709010233.jpg)

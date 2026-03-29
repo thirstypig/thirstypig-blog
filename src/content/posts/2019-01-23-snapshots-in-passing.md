@@ -20,6 +20,8 @@ tags:
 - metrolink
 description: Snapshots in passing . . . . . .
 location: Snapshots in passing
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/17952341554231884.jpg)
