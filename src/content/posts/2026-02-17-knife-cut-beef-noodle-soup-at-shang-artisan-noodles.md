@@ -17,6 +17,8 @@ tags:
 - beefnoodlesoup
 description: Knife cut beef noodle soup at Shang Artisan Noodles. Was recommended and did not disappoint. Would fully return when I go back to Vegas. Knife cut noodles are my favorite style of noodles. The spicy b
 location: Knife cut beef noodle soup at Shang Artisan Noodles
+city: Las Vegas
+region: Las Vegas
 ---
 
 ![Knife cut beef noodle soup at Shang Artisan Noodles](/images/posts/ig-2026-02-17-knife-cut-beef-noodle-soup-at-shang-artisan-noodles/17921076435098554.jpg)

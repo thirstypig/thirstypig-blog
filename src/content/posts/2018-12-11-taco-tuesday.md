@@ -20,6 +20,8 @@ tags:
 - avocado
 description: Taco Tuesday! Best fish tacos in Sierra Madre! At Tacos Ensenada . . . . .
 location: Taco Tuesday
+city: Sierra Madre
+region: San Gabriel Valley
 ---
 
 ![Taco Tuesday](/images/posts/ig-2018-12-11-taco-tuesday/17846682220314646.jpg)

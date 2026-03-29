@@ -23,6 +23,8 @@ tags:
 - thirstypig
 description: Breakfast at JiST cafe. . . . .
 location: Breakfast at JiST cafe
+city: Little Tokyo
+region: Los Angeles
 ---
 
 ![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17920202935815847.jpg)

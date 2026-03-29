@@ -22,6 +22,8 @@ tags:
 - avocado
 description: Best Taquitos in LA! Cielito Lindo on Olvera Street. . . .
 location: Best Taquitos in LA
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Best Taquitos in LA](/images/posts/ig-2018-12-14-best-taquitos-in-la/17995864489129213.jpg)

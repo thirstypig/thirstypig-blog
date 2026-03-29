@@ -29,6 +29,8 @@ tags:
 - friedfish
 description: The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed bun
 location: The meat of the meal
+city: Shanghai
+region: Shanghai
 ---
 
 ![The meat of the meal](/images/posts/ig-2018-07-23-the-meat-of-the-meal/17936884429141886.jpg)

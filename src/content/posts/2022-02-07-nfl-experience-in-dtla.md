@@ -17,6 +17,8 @@ tags:
 - nfl
 description: NFL Experience in DTLA. Lots of cool things to do and see. Interesting. Great for kids. But unfortunately there are lots of lines . . . . .
 location: NFL Experience in DTLA
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![NFL Experience in DTLA](/images/posts/ig-2022-02-07-nfl-experience-in-dtla/17929997885057122.jpg)

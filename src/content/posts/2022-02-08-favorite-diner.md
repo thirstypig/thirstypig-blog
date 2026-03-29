@@ -22,6 +22,8 @@ tags:
 - gravy
 description: Favorite diner. This is how I think American diners should/ought to be. Stereotypical diners with staff in uniforms, classic coffee mugs, hearty meals, and great breakfasts. Only wish they had a Blood
 location: Favorite diner
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Favorite diner](/images/posts/ig-2022-02-08-favorite-diner/17966234479500115.jpg)

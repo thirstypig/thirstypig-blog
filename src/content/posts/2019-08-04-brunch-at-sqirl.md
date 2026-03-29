@@ -26,6 +26,8 @@ tags:
 - quiche
 description: Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. Smelly sidewalk. And crowded street parking. Thought this place was a foo-foo organic, gluten-free, vegan, bland cafe. Yet, I would re
 location: Brunch at Sqirl
+city: Silver Lake
+region: Los Angeles
 ---
 
 ![Brunch at Sqirl](/images/posts/ig-2019-08-04-brunch-at-sqirl/17846595841544728.jpg)

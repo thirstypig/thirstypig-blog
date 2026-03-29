@@ -22,6 +22,8 @@ tags:
 - tastemakersapp
 description: Tacos from Guisados. Fish tacos - grilled not fried. I love these tacos. Not a fan of fried fish tacos. Also got the 6 mini taco sampler for $8.50 - great deal. I forgot about this place. I think they
 location: Tacos from Guisados
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17941084682237470.jpg)

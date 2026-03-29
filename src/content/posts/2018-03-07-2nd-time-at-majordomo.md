@@ -27,6 +27,8 @@ tags:
 - bing
 description: 2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy B
 location: 2nd time at Majordomo
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17871597709207324.jpg)

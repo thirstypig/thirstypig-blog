@@ -26,6 +26,8 @@ tags:
 - tastemakers
 description: Ying Yang hot pot. Neighborhood/mom&pop hot pot place. This where locals in the neighborhood get their hot pot fix. . . .
 location: Ying Yang hot pot
+city: Taipei
+region: Taipei
 ---
 
 ![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18087407305434359.jpg)

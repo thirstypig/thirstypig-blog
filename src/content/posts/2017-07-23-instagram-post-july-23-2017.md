@@ -14,6 +14,7 @@ images:
 - /images/posts/ig-2017-07-23-instagram-post-july-23-2017/17878899019108342.jpg
 tags:
 - mexicanfood
+location: Lostaquitosaz
 ---
 
 ![Instagram Post — July 23, 2017](/images/posts/ig-2017-07-23-instagram-post-july-23-2017/17864946964184121.jpg)

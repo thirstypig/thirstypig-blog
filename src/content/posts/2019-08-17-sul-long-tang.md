@@ -14,6 +14,8 @@ tags:
 - koreanfood
 description: Sul Long Tang. Korean beef stew. . . .
 location: Sul Long Tang
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17871699586441662.jpg)

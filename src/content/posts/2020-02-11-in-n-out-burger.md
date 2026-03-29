@@ -21,6 +21,8 @@ tags:
 - eats
 description: In-N-Out Burger. They had single cheese burgers while I had to make it up with a glorious 3x3 - thee patties and three cheeses. Yes I should have gone for the 4x4. . . . . .
 location: In-N-Out Burger
+city: Pasadena
+region: San Gabriel Valley
 ---
 
 ![In-N-Out Burger](/images/posts/ig-2020-02-11-in-n-out-burger/17842400434995430.jpg)

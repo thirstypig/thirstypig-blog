@@ -28,6 +28,8 @@ tags:
 - tuna
 description: Omakase at Z Sushui. Great meal experience at a long-standing favorite. Hadn’t been there in a long time. I think Z Sushi is one of the better Sushi restaurants in the SGV. . . . . .
 location: Omakase at Z Sushui
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![Omakase at Z Sushui](/images/posts/ig-2021-10-22-omakase-at-z-sushui/17951698534505351.jpg)

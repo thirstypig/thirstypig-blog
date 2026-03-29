@@ -19,6 +19,8 @@ tags:
 - porkchoprice
 description: Taiwanese lunch at Monja. Beef noodle soup, fried pork chop with rice, and popcorn chicken. . . . . .
 location: Taiwanese lunch at Monja
+city: Rowland Heights
+region: San Gabriel Valley
 ---
 
 ![Taiwanese lunch at Monja](/images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/17926686379723739.jpg)

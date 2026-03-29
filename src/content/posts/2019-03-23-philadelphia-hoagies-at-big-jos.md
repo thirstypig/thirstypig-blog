@@ -18,6 +18,8 @@ tags:
 - chilifries
 description: Philadelphia Hoagies at Big Jo’s. Ate too much!
 location: Philadelphia Hoagies at Big Jo’s
+city: Santa Monica
+region: Los Angeles
 ---
 
 ![Philadelphia Hoagies at Big Jo’s](/images/posts/ig-2019-03-23-philadelphia-hoagies-at-big-jos/17952602071258997.jpg)

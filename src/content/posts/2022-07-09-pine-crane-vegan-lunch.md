@@ -26,6 +26,8 @@ tags:
 - dtla
 description: 'Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved '
 location: Pine & Crane vegan lunch
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17918051288421128.jpg)

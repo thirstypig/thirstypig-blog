@@ -24,6 +24,8 @@ tags:
 - brunch
 description: We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember.
 location: We ate too much
+city: San Gabriel Valley
+region: San Gabriel Valley
 ---
 
 ![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17873241091198998.jpg)

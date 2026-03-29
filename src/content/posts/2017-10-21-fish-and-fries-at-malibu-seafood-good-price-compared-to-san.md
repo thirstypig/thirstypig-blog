@@ -24,6 +24,8 @@ tags:
 - beaches
 description: 'Fish and fries at Malibu Seafood good price compared to San Marino seafood. Wonderful views and great fried fish. Ideal lunch spot before hitting the beach. A bit off the beaten path. I think it is a '
 location: Fish and fries at Malibu Seafood      good price compared to San Marino seafood
+city: San Marino
+region: San Gabriel Valley
 ---
 
 ![Fish and fries at Malibu Seafood      good price compared to San Marino seafood](/images/posts/ig-2017-10-21-fish-and-fries-at-malibu-seafood-good-price-compared-to-san/17891353981106760.jpg)

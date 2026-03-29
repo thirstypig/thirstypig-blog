@@ -20,6 +20,8 @@ tags:
 - shrimpburger
 description: Brunch at ERB . . .
 location: Brunch at ERB
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18045829861175577.jpg)

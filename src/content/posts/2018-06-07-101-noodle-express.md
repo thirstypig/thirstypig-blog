@@ -16,6 +16,8 @@ tags:
 - eeeeeats
 description: 101 Noodle Express. Dinner with family in the OC
 location: 101 Noodle Express
+city: Irvine
+region: Orange County
 ---
 
 ![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17889023413223345.jpg)

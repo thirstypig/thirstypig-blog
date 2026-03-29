@@ -22,6 +22,8 @@ tags:
 - atetoomuch
 description: A return to Gammeeok. Had the Sogogi, fried chicken wings, and the galbi tang. The wings were better than expected. . . .
 location: A return to Gammeeok
+city: Koreatown
+region: Los Angeles
 ---
 
 ![A return to Gammeeok](/images/posts/ig-2018-05-20-a-return-to-gammeeok/17927135701092556.jpg)

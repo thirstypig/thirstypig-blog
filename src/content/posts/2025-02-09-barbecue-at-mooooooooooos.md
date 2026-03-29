@@ -21,6 +21,8 @@ tags:
 - eeeeeats
 description: Barbecue at Mooooooooooo’s . . . . With brisket, pork ribs, sausage, and pork belly burnt ends and loads of sides - corn, Mac & cheese, and frito pie. My relatives loved the pork ribs - which I assume
 location: Barbecue at Mooooooooooo’s
+city: East LA
+region: Los Angeles
 ---
 
 ![Barbecue at Mooooooooooo’s](/images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18032586851533949.jpg)
