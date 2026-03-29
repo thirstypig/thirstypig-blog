@@ -20,6 +20,8 @@ tags:
 - dtla
 description: Taiwanese lunch at Pine and Crane in dtla. We absolutely ordered way too much.
 location: Taiwanese lunch at Pine and Crane  in dtla
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Taiwanese lunch at Pine and Crane  in dtla](/images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/17897894196419106.jpg)

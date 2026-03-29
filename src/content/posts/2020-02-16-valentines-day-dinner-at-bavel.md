@@ -25,6 +25,8 @@ tags:
 - eeeeeats
 description: 'Valentine’s Day dinner at Bavel. Mediterranean/Middle Eastern cuisine. Excellent food, great service, and wonderful decor. Make sure you get the oyster mushrooms - my favorite of the night. . . . . . '
 location: Valentine’s Day dinner at Bavel
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Valentine’s Day dinner at Bavel](/images/posts/ig-2020-02-16-valentines-day-dinner-at-bavel/17851095541853884.jpg)

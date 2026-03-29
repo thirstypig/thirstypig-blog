@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostGrid from '../../../components/PostGrid.astro';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+	const buckets = new Map<string, typeof posts>();
+	for (const post of posts) {
+		const y = post.data.pubDate.getFullYear();
+		const m = post.data.pubDate.getMonth() + 1;
+		const key = `${y}-${String(m).padStart(2, '0')}`;
+		if (!buckets.has(key)) buckets.set(key, []);
+		buckets.get(key)!.push(post);
+	}
+
+	return [...buckets.entries()].map(([key, bucket]) => {
+		const [y, m] = key.split('-').map(Number);
+		return {
+			params: { year: String(y), month: String(m).padStart(2, '0') },
+			props: {
+				year: y,
+				month: m,
+				posts: bucket.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+			},
+		};
+	});
+}
+
+const { year, month, posts } = Astro.props;
+const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const monthName = monthNames[month - 1];
+---
+
+<BaseLayout title={`${monthName} ${year}`} description={`All ${posts.length} posts from ${monthName} ${year}.`}>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">
+			{monthName} {year}
+		</h1>
+		<p class="text-stone mb-2">{posts.length} posts</p>
+		<p class="mb-10">
+			<a href={`/archive/${year}/`} class="text-sm text-amber hover:text-rust no-underline">&larr; Back to {year}</a>
+			<span class="text-stone-light mx-2">&bull;</span>
+			<a href="/archive/" class="text-sm text-amber hover:text-rust no-underline">All years</a>
+		</p>
+
+		<PostGrid posts={posts} />
+	</section>
+</BaseLayout>

@@ -23,6 +23,8 @@ tags:
 - dtla
 description: Taiwanese lunch at Pine & Crane in DTLA. Beef noodle soup 台灣牛肉麵, Dan Dan noodles 擔擔麵, pork belly buns gua割包, and some sticky rice, seaweed and peanuts. I think Pine and Crane has a pretty good grasp o
 location: Taiwanese lunch at Pine & Crane in DTLA
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Taiwanese lunch at Pine & Crane in DTLA](/images/posts/ig-2022-08-25-taiwanese-lunch-at-pine-crane-in-dtla/17976028573655423.jpg)

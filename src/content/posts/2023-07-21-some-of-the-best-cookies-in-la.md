@@ -27,6 +27,8 @@ tags:
 - rockyroad
 description: Some of the best cookies in LA . . . are from NYC. The five dollar cookie craze. Big oversized and pricey cookies! So as a I tried a bunch. Chocolate Chip Walnut, dark chocolate peanut butter chip, oa
 location: Some of the best cookies in LA
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Some of the best cookies in LA](/images/posts/ig-2023-07-21-some-of-the-best-cookies-in-la/18043222018488691.jpg)

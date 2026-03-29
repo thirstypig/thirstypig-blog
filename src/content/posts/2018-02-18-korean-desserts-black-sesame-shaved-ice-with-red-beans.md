@@ -20,6 +20,8 @@ tags:
 - desserts
 description: Korean desserts black sesame shaved ice with red beans. And hot pumpkin porridge
 location: Korean desserts black sesame shaved ice with red beans
+city: Koreatown
+region: Los Angeles
 ---
 
 ![Korean desserts black sesame shaved ice with red beans](/images/posts/ig-2018-02-18-korean-desserts-black-sesame-shaved-ice-with-red-beans/17898128338193428.jpg)

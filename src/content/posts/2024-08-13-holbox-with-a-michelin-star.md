@@ -23,6 +23,8 @@ tags:
 - thirstypig
 description: Holbox with a Michelin star! Had the grilled kanpanchi collars (last one of the night!), taco de Pulpo en su Tinta (grilled octopus), smoked Kanpachi taco, scallop taco, and ceviche mix to (with octop
 location: Holbox with a Michelin star
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Holbox with a Michelin star](/images/posts/ig-2024-08-13-holbox-with-a-michelin-star/18007334102347659.jpg)

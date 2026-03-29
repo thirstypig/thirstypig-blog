@@ -25,6 +25,8 @@ tags:
 - lakerscover
 description: Steak at the Palm in DTLA. The tomahawk ribeye and a bunch of sides. Started off with a nice bottle of wine. Solid steakhouse that came from NYC. . . . . .
 location: Steak at the Palm in DTLA
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Steak at the Palm in DTLA](/images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/17957261179721225.jpg)

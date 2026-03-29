@@ -27,6 +27,8 @@ tags:
 - é
 description: Birthday dinner at Chuan’s. Sichuan cuisine. Father in-laws birthday. Too bad there was no Sichuan Mask show. The fish and mapo tofu was great. The noodles were good too. . . .
 location: Birthday dinner at Chuan’s
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Birthday dinner at Chuan’s](/images/posts/ig-2019-01-28-birthday-dinner-at-chuans/18012715267104660.jpg)

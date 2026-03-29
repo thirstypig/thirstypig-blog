@@ -27,6 +27,8 @@ tags:
 - chineseart
 description: An afternoon Saw works from there is an excellent exhibit featuring works from China after 1989.
 location: An afternoon  Saw works from     there is an excellent exhibit featuring work...
+city: New York
+region: New York
 ---
 
 ![An afternoon  Saw works from     there is an excellent exhibit featuring work...](/images/posts/ig-2018-01-02-an-afternoon-saw-works-from-there-is-an-excellent-exhibit-fe/17911615666064040.jpg)

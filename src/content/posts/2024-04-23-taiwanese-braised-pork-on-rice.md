@@ -25,6 +25,8 @@ tags:
 - eeeeeats
 description: Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯 This a flavorful dish that can be found in almost any street stall. This place has been around for awhile an
 location: Taiwanese braised pork on rice
+city: Taipei
+region: Taipei
 ---
 
 ![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18026434208020236.jpg)

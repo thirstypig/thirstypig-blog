@@ -18,6 +18,8 @@ tags:
 - spicy
 description: Haven’t been back to OB Bear in over 20 years.
 location: Haven’t been back to OB Bear in over 20 years
+city: Koreatown
+region: Los Angeles
 ---
 
 ![Haven’t been back to OB Bear in over 20 years](/images/posts/ig-2018-03-03-havent-been-back-to-ob-bear-in-over-20-years/17855123905233773.jpg)

@@ -25,6 +25,8 @@ tags:
 - barbecue
 description: Weekend brunch with friends at LA Brisket. Smoked brisket, pulled chicken, slaw, brisket salad, Texas toast, and fried chicken skin. Yes I said fried chicken skin. That was unique and really good (and
 location: Weekend brunch with friends at LA Brisket
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Weekend brunch with friends at LA Brisket](/images/posts/ig-2023-04-27-weekend-brunch-with-friends-at-la-brisket/18093630853322404.jpg)

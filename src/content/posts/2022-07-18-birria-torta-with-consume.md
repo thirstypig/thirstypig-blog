@@ -23,6 +23,8 @@ tags:
 - eeeeeats
 description: Birria Torta with consume. From tacos y Birria La Unica. From the Boyle heights location on Olympic. I think a torta might be the best vehicle to eat Birria with consume. The bread soaks up the juices
 location: Birria Torta with consume
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Birria Torta with consume](/images/posts/ig-2022-07-18-birria-torta-with-consume/17953285099954536.jpg)

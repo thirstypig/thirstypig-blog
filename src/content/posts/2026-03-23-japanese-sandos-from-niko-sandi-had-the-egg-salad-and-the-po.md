@@ -12,6 +12,8 @@ images:
 - /images/posts/ig-2026-03-23-japanese-sandos-from-niko-sandi-had-the-egg-salad-and-the-po/17879803896397553.jpg
 description: Japanese Sandos from Niko Sandi had the egg salad and the pork cutlet. Also had the takoyaki. Would definitely go again and would highly recommend. Small shop tucked in quaintness of Brentwood.
 location: Japanese Sandos from Niko Sandi  had the egg salad and the pork cutlet
+city: Brentwood
+region: Los Angeles
 ---
 
 ![Japanese Sandos from Niko Sandi  had the egg salad and the pork cutlet](/images/posts/ig-2026-03-23-japanese-sandos-from-niko-sandi-had-the-egg-salad-and-the-po/17905240221386255.jpg)

@@ -18,6 +18,8 @@ tags:
 - hollywood
 description: Lobster Pizza and truffle Flat Bread. Pretty good pizza . . .
 location: Lobster Pizza and truffle Flat Bread
+city: Hollywood
+region: Los Angeles
 ---
 
 ![Lobster Pizza and truffle Flat Bread](/images/posts/ig-2019-08-05-lobster-pizza-and-truffle-flat-bread/18059557798137502.jpg)

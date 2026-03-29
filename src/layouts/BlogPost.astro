@@ -80,4 +80,13 @@ const { title, description, pubDate, heroImage, categories = [], tags = [], auth
 			</div>
 		)}
 	</article>
+
+	<!-- Hide broken images in post bodies -->
+	<script>
+		document.querySelectorAll('.prose img').forEach(img => {
+			(img as HTMLImageElement).addEventListener('error', () => {
+				img.classList.add('img-broken');
+			});
+		});
+	</script>
 </BaseLayout>

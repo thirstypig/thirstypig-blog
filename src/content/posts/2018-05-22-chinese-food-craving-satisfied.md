@@ -23,6 +23,8 @@ tags:
 - fish
 description: Chinese food craving satisfied. Wife was tasked to find something she wanted to eat. Luckily it close by and pretty good. We had fish filet in a spicy sauce and three pepper chicken. With rice, in a h
 location: Chinese food craving satisfied
+city: New York
+region: New York
 ---
 
 ![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17869870666244992.jpg)

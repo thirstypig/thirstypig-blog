@@ -29,6 +29,8 @@ tags:
 - puertoricocuisine
 description: Food Truck Feasting at the Rose Bowl. had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded por
 location: Food Truck Feasting at the Rose Bowl
+city: Pasadena
+region: San Gabriel Valley
 ---
 
 ![Food Truck Feasting at the Rose Bowl](/images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/18029498026131655.jpg)

@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('posts'))
+	.filter(p => !p.data.draft)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Group by year
+const byYear = new Map<number, { count: number; months: Map<number, number> }>();
+for (const post of posts) {
+	const year = post.data.pubDate.getFullYear();
+	const month = post.data.pubDate.getMonth(); // 0-indexed
+	if (!byYear.has(year)) {
+		byYear.set(year, { count: 0, months: new Map() });
+	}
+	const entry = byYear.get(year)!;
+	entry.count++;
+	entry.months.set(month, (entry.months.get(month) || 0) + 1);
+}
+
+const years = [...byYear.entries()].sort((a, b) => b[0] - a[0]);
+
+const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+---
+
+<BaseLayout title="Archive" description="Browse all posts by year and month.">
+	<section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Archive</h1>
+		<p class="text-stone mb-10">{posts.length} posts from {years[years.length - 1]?.[0]} to {years[0]?.[0]}</p>
+
+		<div class="space-y-8">
+			{years.map(([year, data]) => (
+				<div>
+					<div class="flex items-baseline gap-3 mb-3">
+						<a href={`/archive/${year}/`} class="font-serif text-2xl font-bold text-ink hover:text-amber transition-colors no-underline">
+							{year}
+						</a>
+						<span class="text-sm text-stone">{data.count} posts</span>
+					</div>
+					<div class="flex flex-wrap gap-2">
+						{Array.from({ length: 12 }, (_, i) => i).map(m => {
+							const count = data.months.get(m) || 0;
+							return count > 0 ? (
+								<a
+									href={`/archive/${year}/${String(m + 1).padStart(2, '0')}/`}
+									class="px-3 py-1.5 text-sm rounded-lg bg-amber/10 text-amber hover:bg-amber/20 transition-colors no-underline"
+								>
+									{monthNames[m]} <span class="text-xs opacity-70">({count})</span>
+								</a>
+							) : (
+								<span class="px-3 py-1.5 text-sm rounded-lg bg-cream-dark/30 text-stone-light">
+									{monthNames[m]}
+								</span>
+							);
+						})}
+					</div>
+				</div>
+			))}
+		</div>
+	</section>
+</BaseLayout>

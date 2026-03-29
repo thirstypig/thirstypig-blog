@@ -21,6 +21,8 @@ tags:
 - dtla
 description: The While Plate Short Rib and kakigori shaved ice dessert at Majordomo. Yum! They say the Short rib is for 4-6 people but it was just fine for 4. 🤪 . . .
 location: The While Plate Short Rib and kakigori shaved ice dessert at Majordomo
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![The While Plate Short Rib and kakigori shaved ice dessert at Majordomo](/images/posts/ig-2019-02-09-the-while-plate-short-rib-and-kakigori-shaved-ice-dessert-at/17864199772322041.jpg)

@@ -26,6 +26,8 @@ tags:
 - sangria
 description: Spanish tapas dinner at Tertulia. We had tortilla -Spanish omelette, radish salad, roasted potatoes, iberico ham, sardines, and a large chicken paella. Sorry for the washes out photos. . . . . .
 location: Spanish tapas dinner at Tertulia
+city: New York
+region: New York
 ---
 
 ![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17932803655117274.jpg)

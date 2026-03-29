@@ -22,6 +22,8 @@ tags:
 - sangabriel
 description: Do you remember having fundraisers at Shakey’s? Or do you remember having the yummy and unique Mojo Potatoes. Or have you had the Shakey’s lunch buffet? Tonight was having that itch scratched, when it
 location: Do you remember having fundraisers at Shakey’s?  Or do you remember having th...
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Do you remember having fundraisers at Shakey’s?  Or do you remember having th...](/images/posts/ig-2022-03-26-do-you-remember-having-fundraisers-at-shakeys-or-do-you-reme/17918289140346791.jpg)

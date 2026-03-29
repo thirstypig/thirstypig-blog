@@ -23,6 +23,8 @@ tags:
 - fathersoffice
 description: The burger at Farther’s Office in DTLA’s Arts District. Very yummy burger and nicely spiced fries. Washed it down with some tart pear cider. I needed that acidic cider since burger was lusciously rich
 location: The burger at Farther’s Office in DTLA’s Arts District
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![The burger at Farther’s Office in DTLA’s Arts District](/images/posts/ig-2022-06-05-the-burger-at-farthers-office-in-dtlas-arts-district/17973688927540905.jpg)

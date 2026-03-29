@@ -25,6 +25,8 @@ tags:
 - eat
 description: Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yu
 location: Adobada Tacos at Tacos 1986 in DTLA
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Adobada Tacos at Tacos 1986 in DTLA](/images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17885632213453805.jpg)

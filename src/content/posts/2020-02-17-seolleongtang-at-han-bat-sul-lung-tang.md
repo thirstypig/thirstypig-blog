@@ -22,6 +22,8 @@ tags:
 - ktown
 description: Seolleongtang at Han Bat Sul Lung Tang. Beef and glass noodle in a milky bone broth. Great on a winters day. You get to season it the way you like it. . . . . .
 location: Seolleongtang at Han Bat Sul Lung Tang
+city: Koreatown
+region: Los Angeles
 ---
 
 ![Seolleongtang at Han Bat Sul Lung Tang](/images/posts/ig-2020-02-17-seolleongtang-at-han-bat-sul-lung-tang/17882973316507294.jpg)

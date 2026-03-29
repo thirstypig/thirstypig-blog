@@ -23,6 +23,8 @@ tags:
 - riceballs
 description: Porchetta sandwich at and pastrami burnt ends from ans rice balls and fried yucca from a place I forgot the name . . . . . .
 location: Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)

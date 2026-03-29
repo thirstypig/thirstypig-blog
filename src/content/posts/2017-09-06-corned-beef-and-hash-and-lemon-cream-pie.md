@@ -21,6 +21,8 @@ tags:
 - arcadia
 description: Corned beef and hash and lemon cream pie. Classic American diner
 location: Corned beef and hash and lemon cream pie
+city: Arcadia
+region: San Gabriel Valley
 ---
 
 ![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871704383159706.jpg)

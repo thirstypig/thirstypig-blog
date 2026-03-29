@@ -27,6 +27,8 @@ tags:
 - eats
 description: Weekend brunch at All Day Baby on Sunset. Of course I had the Bloody Mary. Had the ADB breakfast biscuit sandwich with sausage, which was an extravagant McDonald’s sausage biscuit sandwich. Sausage wa
 location: Weekend brunch at All Day Baby on Sunset
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Weekend brunch at All Day Baby on Sunset](/images/posts/ig-2021-07-14-weekend-brunch-at-all-day-baby-on-sunset/17926895983641628.jpg)

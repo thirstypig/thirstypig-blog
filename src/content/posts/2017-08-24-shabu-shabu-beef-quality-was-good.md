@@ -21,6 +21,8 @@ tags:
 - sgv
 description: Shabu Shabu beef quality was good. The broth was meh. The kombu was ok. The popular spicy miso was a strange combination. My wife likes it. I think my mom would like this place.
 location: Shabu Shabu  beef quality was good
+city: Pasadena
+region: San Gabriel Valley
 ---
 
 ![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17879788756094754.jpg)

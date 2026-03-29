@@ -19,6 +19,8 @@ tags:
 - timelapsevideo
 description: Views from the Top of the Rock We got lucky and arrived when the crowds were small and stayed until a little after sunset. Check out my time lapse video.
 location: Views from the Top of the Rock  We got lucky and arrived when the crowds were...
+city: New York
+region: New York
 ---
 
 ![Views from the Top of the Rock  We got lucky and arrived when the crowds were...](/images/posts/ig-2018-01-06-views-from-the-top-of-the-rock-we-got-lucky-and-arrived-when/17916429103059677.jpg)

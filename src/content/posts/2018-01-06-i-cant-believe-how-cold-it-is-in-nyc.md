@@ -20,6 +20,8 @@ tags:
 - thirstypig
 description: I can’t believe how cold it is in NYC. This is the fourth ramen shop we’ve tried. I had the Triple Pork Triple Garlic Mazemen and wifey had the spicy red chili ramen. We started with the Japanese Frie
 location: I can’t believe how cold it is in NYC
+city: New York
+region: New York
 ---
 
 ![I can’t believe how cold it is in NYC](/images/posts/ig-2018-01-06-i-cant-believe-how-cold-it-is-in-nyc/17912260975069351.jpg)

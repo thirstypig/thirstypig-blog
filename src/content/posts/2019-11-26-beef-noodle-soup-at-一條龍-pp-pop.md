@@ -25,6 +25,8 @@ tags:
 - beefnoodlesoup
 description: Beef Noodle Soup at 一條龍 PP Pop. I had the Taiwanese spicy Beef Noodle Soup with pickle vegetables. Quite spicy and tasty. We also had the tan tan noodles, beef and tendon soup with vermicelli, and fri
 location: Beef Noodle Soup at 一條龍 PP Pop
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Beef Noodle Soup at 一條龍 PP Pop](/images/posts/ig-2019-11-26-beef-noodle-soup-at-一條龍-pp-pop/17844876400819057.jpg)
