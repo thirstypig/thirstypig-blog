@@ -11,7 +11,8 @@ This site is a complete archive of The Thirsty Pig blog (2007-present), rebuilt 
 - **923 blog posts** recovered from the Wayback Machine across three domains
 - **1,649 Instagram posts** imported from a data export
 - **7,500+ images** and **213 videos**
-- **2,700+ pages** including category, search, map, and best-of pages
+- **2,900+ pages** including category, search, map, archive, and best-of pages
+- **950+ addresses** and **656 GPS coordinates** geocoded via Foursquare Places API
 
 ## Tech Stack
 
@@ -65,7 +66,12 @@ thirstypig/
 ├── scripts/
 │   ├── scraper/              # Wayback Machine scraper (Python)
 │   ├── instagram/            # Instagram JSON importer (Python)
-│   └── categorizer.py        # Restaurant info extractor
+│   ├── categorizer.py        # Restaurant info extractor
+│   ├── strip_dead_images.py  # Remove dead wp.com image refs
+│   ├── extract_venues.py     # Parse venue info from post bodies
+│   └── lookup_addresses.py   # Batch geocode via Foursquare API
+├── docs/
+│   └── solutions/            # Documented solutions and runbooks
 ├── tina/config.ts            # Tina CMS schema
 ├── vercel.json               # Vercel deployment config
 └── astro.config.mjs          # Astro configuration
@@ -74,12 +80,14 @@ thirstypig/
 ## Features
 
 - **Search** — Client-side instant search across all posts (`/search`)
-- **Map** — 782 restaurant locations on an interactive map (`/map`)
+- **Map** — 1,600+ restaurant locations on an interactive map with precise GPS pins (`/map`)
+- **Archive** — Browse posts by year and month (`/archive`)
 - **Best Of** — Curated lists by cuisine, type, and region (`/best-of`)
 - **Related Posts** — Contextual recommendations at the bottom of each post
+- **Dark/Light Mode** — Theme toggle with system preference detection and localStorage persistence
 - **Closed Restaurant Badges** — 39 restaurants detected and marked as closed
 - **Categories** — City, region, cuisine, and type categorization
-- **SEO** — Sitemap, RSS, Open Graph, Twitter Cards, JSON-LD structured data
+- **SEO** — Sitemap, RSS, Open Graph, Twitter Cards, JSON-LD structured data, robots.txt
 - **Tina CMS** — Visual editor at `/admin` for creating and editing posts
 
 ## Commands
@@ -154,6 +162,43 @@ Extract restaurant names, cities, regions, and detect closures:
 ```bash
 source scripts/scraper/venv/bin/activate
 python scripts/categorizer.py
+```
+
+### Venue Address Lookup (Foursquare)
+
+Batch-resolve venue names and cities to street addresses and GPS coordinates:
+
+```bash
+source scripts/scraper/venv/bin/activate
+
+# Sign up at https://foursquare.com/developers/signup (free, 1,000 calls/day)
+export FOURSQUARE_API_KEY=your_key_here
+
+# Dry run — see what would be looked up
+python scripts/lookup_addresses.py --dry-run --limit 10
+
+# Run for real
+python scripts/lookup_addresses.py --limit 671
+```
+
+### Data Cleanup
+
+Strip dead image references and extract venue info from post content:
+
+```bash
+source scripts/scraper/venv/bin/activate
+
+# Remove dead wp.com Photon CDN image refs (5,631 removed from 397 posts)
+python scripts/strip_dead_images.py
+
+# Extract venue names/addresses from blog post #### heading blocks
+python scripts/extract_venues.py
+
+# Extract venues and cities from Instagram captions and hashtags
+python scripts/instagram/extract_ig_venues.py
+
+# Backfill city/GPS data from Instagram JSON export to existing posts
+python scripts/instagram/backfill_locations.py
 ```
 
 ### Image Optimization (WebP)
