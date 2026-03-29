@@ -18,23 +18,6 @@ region: Shanghai
 address: 25 TaiKang Rd
 ---
 
-[![xiao-san-tang-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-01.jpg?resize=403%2C301 "xiao-san-tang-shanghai-01")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-01/)
-
-[![xiao-san-tang-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-04.jpg?resize=199%2C148 "xiao-san-tang-shanghai-04")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-04/)
-
-[![xiao-san-tang-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-03.jpg?resize=199%2C149 "xiao-san-tang-shanghai-03")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-03/)
-
-[![xiao-san-tang-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-06.jpg?resize=199%2C148 "xiao-san-tang-shanghai-06")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-06/)
-
-[![xiao-san-tang-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-05.jpg?resize=199%2C149 "xiao-san-tang-shanghai-05")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-05/)
-
-[![xiao-san-tang-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Xiao-San-Tang-Shanghai-02.jpg?resize=403%2C301 "xiao-san-tang-shanghai-02")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/xiao-san-tang-shanghai-02/)
-
-[![img_0492](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0492.jpg?resize=199%2C149 "img_0492")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/img_0492-3/)
-
-[![img_0493](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0493.jpg?resize=199%2C149 "img_0493")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/img_0493-3/)
-
-[![img_0491](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0491.jpg?resize=200%2C149 "img_0491")](http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/img_0491/)
 
 Xiao San Tang is a nice little cafe with a Chinese menu with a touch of whimsy, a western ideal, and just the right amount of elegances.
 

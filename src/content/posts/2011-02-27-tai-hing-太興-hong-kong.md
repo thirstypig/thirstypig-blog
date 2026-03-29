@@ -19,23 +19,6 @@ region: Hong Kong
 address: 484 Jaffe Road
 ---
 
-[![img_8179](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_8179.jpg?resize=403%2C302 "img_8179")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/img_8179/)
-
-[![tai-hing-hong-kong-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-03.jpg?resize=199%2C149 "tai-hing-hong-kong-03")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-03/)
-
-[![tai-hing-hong-kong-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-02.jpg?resize=199%2C149 "tai-hing-hong-kong-02")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-02/)
-
-[![tai-hing-hong-kong-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-05.jpg?resize=199%2C149 "tai-hing-hong-kong-05")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-05/)
-
-[![tai-hing-hong-kong-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-04.jpg?resize=199%2C149 "tai-hing-hong-kong-04")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-04/)
-
-[![tai-hing-hong-kong-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-01.jpg?resize=403%2C302 "tai-hing-hong-kong-01")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-01/)
-
-[![tai-hing-hong-kong-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-06.jpg?resize=199%2C150 "tai-hing-hong-kong-06")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-06/)
-
-[![img_8171](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_8171-1.jpg?resize=199%2C150 "img_8171")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/img_8171-2/)
-
-[![tai-hing-hong-kong-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Hing-Hong-Kong-07-1.jpg?resize=200%2C150 "tai-hing-hong-kong-07")](http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/tai-hing-hong-kong-07-2/)
 
 One of the more known styles of Cantonese cuisine is the Chinese Deli. Half butcher shop and half restaurant, the deli prepares, cooks, and serves popular meat dish of duck, chicken, pork, and sausage. You can’t miss them, with the roast pork and steamed chicken hanging in the windows. When I am in Hong Kong, these little shops/restaurants/hole-in-the-walls are my favorite and secret grubbing holes. I love these simple lunch plates, As Mr. L put it – It’s just meat on rice.
 

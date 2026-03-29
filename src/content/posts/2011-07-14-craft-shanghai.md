@@ -18,47 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![craft-vodka-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-12.jpg?resize=403%2C301 "craft-vodka-shanghai-12")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-12/)
-
-[![craft-vodka-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-20.jpg?resize=199%2C148 "craft-vodka-shanghai-20")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-20/)
-
-[![craft-vodka-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-06.jpg?resize=199%2C149 "craft-vodka-shanghai-06")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-06/)
-
-[![craft-vodka-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-18-1.jpg?resize=199%2C149 "craft-vodka-shanghai-18")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-18-2/)
-
-[![craft-vodka-shanghai-23](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-23.jpg?resize=199%2C149 "craft-vodka-shanghai-23")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-23/)
-
-[![craft-vodka-shanghai-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-17.jpg?resize=200%2C149 "craft-vodka-shanghai-17")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-17/)
-
-[![craft-vodka-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-13.jpg?resize=199%2C148 "craft-vodka-shanghai-13")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-13/)
-
-[![craft-vodka-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-08.jpg?resize=199%2C149 "craft-vodka-shanghai-08")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-08/)
-
-[![craft-vodka-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-14.jpg?resize=403%2C301 "craft-vodka-shanghai-14")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-14/)
-
-[![craft-vodka-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-05.jpg?resize=301%2C225 "craft-vodka-shanghai-05")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-05/)
-
-[![craft-vodka-shanghai-22](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-22.jpg?resize=301%2C225 "craft-vodka-shanghai-22")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-22/)
-
-[![craft-vodka-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-07.jpg?resize=403%2C301 "craft-vodka-shanghai-07")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-07/)
-
-[![craft-vodka-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-02.jpg?resize=199%2C148 "craft-vodka-shanghai-02")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-02/)
-
-[![craft-vodka-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-04.jpg?resize=199%2C149 "craft-vodka-shanghai-04")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-04/)
-
-[![craft-vodka-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-19.jpg?resize=199%2C149 "craft-vodka-shanghai-19")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-19/)
-
-[![craft-vodka-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-16.jpg?resize=199%2C149 "craft-vodka-shanghai-16")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-16/)
-
-[![craft-vodka-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-01.jpg?resize=200%2C149 "craft-vodka-shanghai-01")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-01/)
-
-[![craft-vodka-shanghai-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-21.jpg?resize=148%2C111 "craft-vodka-shanghai-21")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-21/)
-
-[![craft-vodka-shanghai-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-24.jpg?resize=148%2C111 "craft-vodka-shanghai-24")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-24/)
-
-[![craft-vodka-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-03.jpg?resize=149%2C111 "craft-vodka-shanghai-03")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-03/)
-
-[![craft-vodka-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Craft-Vodka-Shanghai-15.jpg?resize=149%2C111 "craft-vodka-shanghai-15")](http://thirstypig.com/2011/07/14/craft-shanghai/craft-vodka-shanghai-15/)
 
 Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singaporean Jerrica Lee opens Craft with Russia’s national drink – Vodka, in the China’s most cosmopolitan city, Shanghai.
 

@@ -19,59 +19,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![westin-brunch-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-15.jpg?resize=403%2C302 "westin-brunch-shanghai-15")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-15/)
-
-[![westin-brunch-shanghai-24](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-24.jpg?resize=199%2C149 "westin-brunch-shanghai-24")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-24/)
-
-[![westin-brunch-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-13.jpg?resize=199%2C149 "westin-brunch-shanghai-13")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-13/)
-
-[![westin-brunch-shanghai-27](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-27.jpg?resize=199%2C150 "westin-brunch-shanghai-27")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-27/)
-
-[![westin-brunch-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-02.jpg?resize=199%2C150 "westin-brunch-shanghai-02")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-02/)
-
-[![westin-brunch-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-16-1.jpg?resize=200%2C150 "westin-brunch-shanghai-16")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-16-2/)
-
-[![westin-brunch-shanghai-19](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-19.jpg?resize=199%2C149 "westin-brunch-shanghai-19")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-19/)
-
-[![westin-brunch-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-03.jpg?resize=199%2C149 "westin-brunch-shanghai-03")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-03/)
-
-[![westin-brunch-shanghai-23](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-23.jpg?resize=403%2C302 "westin-brunch-shanghai-23")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-23/)
-
-[![westin-brunch-shanghai-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-14.jpg?resize=301%2C226 "westin-brunch-shanghai-14")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-14/)
-
-[![westin-brunch-shanghai-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-20.jpg?resize=301%2C226 "westin-brunch-shanghai-20")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-20/)
-
-[![westin-brunch-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-05.jpg?resize=403%2C302 "westin-brunch-shanghai-05")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-05/)
-
-[![westin-brunch-shanghai-22](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-22.jpg?resize=199%2C149 "westin-brunch-shanghai-22")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-22/)
-
-[![westin-brunch-shanghai-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-17.jpg?resize=199%2C149 "westin-brunch-shanghai-17")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-17/)
-
-[![westin-brunch-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-12.jpg?resize=199%2C150 "westin-brunch-shanghai-12")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-12/)
-
-[![westin-brunch-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-07.jpg?resize=199%2C150 "westin-brunch-shanghai-07")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-07/)
-
-[![westin-brunch-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-09.jpg?resize=200%2C150 "westin-brunch-shanghai-09")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-09/)
-
-[![westin-brunch-shanghai-26](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-26.jpg?resize=199%2C149 "westin-brunch-shanghai-26")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-26/)
-
-[![westin-brunch-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-08.jpg?resize=199%2C149 "westin-brunch-shanghai-08")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-08/)
-
-[![westin-brunch-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-04.jpg?resize=403%2C302 "westin-brunch-shanghai-04")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-04/)
-
-[![westin-brunch-shanghai-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-10.jpg?resize=301%2C226 "westin-brunch-shanghai-10")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-10/)
-
-[![westin-brunch-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-11.jpg?resize=301%2C226 "westin-brunch-shanghai-11")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-11/)
-
-[![westin-brunch-shanghai-25](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-25.jpg?resize=403%2C302 "westin-brunch-shanghai-25")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-25/)
-
-[![westin-brunch-shanghai-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-21.jpg?resize=199%2C149 "westin-brunch-shanghai-21")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-21/)
-
-[![westin-brunch-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-01.jpg?resize=199%2C149 "westin-brunch-shanghai-01")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-01/)
-
-[![westin-brunch-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-18.jpg?resize=301%2C226 "westin-brunch-shanghai-18")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-18/)
-
-[![westin-brunch-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Westin-Brunch-Shanghai-06.jpg?resize=301%2C226 "westin-brunch-shanghai-06")](http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/westin-brunch-shanghai-06/)
 
 When I think of a hotel’s Sunday brunch, I think of a lavish food spread with all kinds of goodies with Bloody Mary’s and Champagne’s flowing. It’s time to be with family and friends to relax and enjoy food at your own pace. Yet when I went to the Westin, they took this concept to another higher level.
 

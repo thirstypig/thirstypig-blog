@@ -23,17 +23,6 @@ region: Shanghai
 
 [![IMG_2522](/images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg "IMG_2522")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2522/)
 
-[![IMG_2523](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2523-1.jpg?resize=148%2C198 "IMG_2523")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2523-2/)
-
-[![IMG_2524](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2524-1.jpg?resize=149%2C198 "IMG_2524")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2524-2/)
-
-[![IMG_2525](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2525.jpg?resize=149%2C198 "IMG_2525")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2525/)
-
-[![IMG_2526](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2526-1.jpg?resize=385%2C289 "IMG_2526")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2526-2/)
-
-[![IMG_2527](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2527-1.jpg?resize=217%2C289 "IMG_2527")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2527-2/)
-
-[![IMG_2528](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2528-2.jpg?resize=606%2C808 "IMG_2528")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2528-3/)
 
 #Specialize in Nagoya style eel rice in a wooden bowl
 #Bar seating on the first floor is good for couples, but the 2nd floor is better for groups

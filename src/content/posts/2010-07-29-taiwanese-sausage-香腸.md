@@ -22,13 +22,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_0883](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0883.jpg?resize=403%2C302 "img_0883")](http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/img_0883-3/)
-
-[![img_0838](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0838.jpg?resize=199%2C149 "img_0838")](http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/img_0838-3/)
-
-[![img_0882](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0882.jpg?resize=199%2C149 "img_0882")](http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/img_0882-2/)
-
-[![img_0842](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0842.jpg?resize=606%2C455 "img_0842")](http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/img_0842-4/)
 
 My last post, for awhile about Taiwan, ends with a short one about Taiwanese Sausage. At least one thing in Taiwan never changes and will always stay the same – Taiwanese Sausages香腸.
 

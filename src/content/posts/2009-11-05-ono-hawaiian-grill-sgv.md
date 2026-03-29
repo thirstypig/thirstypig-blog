@@ -19,17 +19,6 @@ region: San Gabriel Valley
 address: 3638 Rosemead Blvd Rosemead, CA 91770
 ---
 
-[![IMG_1013](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1013.jpg?resize=228%2C303 "IMG_1013")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1013/)
-
-[![IMG_1005](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1005-1.jpg?resize=404%2C303 "IMG_1005")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1005-2/)
-
-[![IMG_1004](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1004-1.jpg?resize=130%2C174 "IMG_1004")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1004-3/)
-
-[![IMG_1010](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1010-2.jpg?resize=131%2C174 "IMG_1010")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1010-3/)
-
-[![IMG_1008](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1008-1.jpg?resize=131%2C174 "IMG_1008")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1008-2/)
-
-[![IMG_1006](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1006-2.jpg?resize=232%2C174 "IMG_1006")](http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/img_1006-3/)
 
 #Hawaiian Fast Food Chain
 #Some argue that it is better than L&L

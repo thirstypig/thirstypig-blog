@@ -21,39 +21,6 @@ region: Downtown LA
 address: 130 W Bruno St Los Angeles, CA 90012
 ---
 
-[![img_1043](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1043.jpg?resize=191%2C143 "img_1043")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1043-2/)
-
-[![img_1045](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1045.jpg?resize=191%2C143 "img_1045")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1045/)
-
-[![img_1046](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1046-1.jpg?resize=217%2C290 "img_1046")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1046-2/)
-
-[![img_1050](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1050-2.jpg?resize=190%2C143 "img_1050")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1050-6/)
-
-[![img_1051](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1051-1.jpg?resize=190%2C143 "img_1051")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1051-2/)
-
-[![img_1053](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1053.jpg?resize=234%2C175 "img_1053")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1053/)
-
-[![img_1055](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1055.jpg?resize=131%2C175 "img_1055")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1055/)
-
-[![img_1059](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1059.jpg?resize=233%2C175 "img_1059")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1059/)
-
-[![img_1061](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1061.jpg?resize=403%2C302 "img_1061")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1061/)
-
-[![img_1062](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1062-1.jpg?resize=199%2C149 "img_1062")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1062-2/)
-
-[![img_1063](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1063.jpg?resize=199%2C149 "img_1063")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1063/)
-
-[![img_1064](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1064.jpg?resize=199%2C149 "img_1064")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1064/)
-
-[![img_1066](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1066.jpg?resize=199%2C149 "img_1066")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1066/)
-
-[![img_1067](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1067.jpg?resize=403%2C302 "img_1067")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1067/)
-
-[![img_1068](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1068.jpg?resize=301%2C226 "img_1068")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1068/)
-
-[![img_1069](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1069.jpg?resize=301%2C226 "img_1069")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1069/)
-
-[![img_1065](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1065-1.jpg?resize=606%2C455 "img_1065")](http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/img_1065-2/)
 
 This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.
 

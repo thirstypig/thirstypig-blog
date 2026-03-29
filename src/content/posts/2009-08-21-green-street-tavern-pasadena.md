@@ -17,13 +17,6 @@ region: Pasadena
 address: 69 W Green St Pasadena, CA 91105
 ---
 
-[![img_0818](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0818.jpg?resize=222%2C166 "img_0818")](http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/img_0818/)
-
-[![img_0813](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0813.jpg?resize=222%2C166 "img_0813")](http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/img_0813/)
-
-[![img_0808](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0808.jpg?resize=222%2C167 "img_0808")](http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/img_0808/)
-
-[![img_0806](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0806.jpg?resize=380%2C507 "img_0806")](http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/img_0806/)
 
 Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy little place with an ambient mood feel. Walking in brings you in a modest but small dining area, then to the side, you’ll find a nice room that can be used for private events. Decor with the dark lighting is better suited at night.
 

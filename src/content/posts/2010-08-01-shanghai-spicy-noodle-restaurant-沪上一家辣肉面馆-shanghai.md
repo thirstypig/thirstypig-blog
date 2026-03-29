@@ -18,25 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_0053](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_0053.jpg?resize=282%2C211 "img_0053")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_0053/)
-
-[![img_3913](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_3913.jpg?resize=282%2C211 "img_3913")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3913/)
-
-[![img_2140](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_2140.jpg?resize=320%2C426 "img_2140")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_2140/)
-
-[![img_3527](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3527.jpg?resize=158%2C211 "img_3527")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3527/)
-
-[![img_3525](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3525.jpg?resize=282%2C211 "img_3525")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3525/)
-
-[![img_3528](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3528.jpg?resize=158%2C211 "img_3528")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3528/)
-
-[![img_3524](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3524.jpg?resize=166%2C125 "img_3524")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3524/)
-
-[![img_2146](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_2146.jpg?resize=94%2C125 "img_2146")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_2146/)
-
-[![img_3523](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3523.jpg?resize=167%2C125 "img_3523")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3523/)
-
-[![img_3519](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3519.jpg?resize=167%2C125 "img_3519")](http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/img_3519-2/)
 
 I found this little late night eatery, by sheer chance. I was going home from a late night of drinking with some friends and my stomach was taking over. My mouth started to moving, in probably, the best Chinese (since being intoxicated improves your language skills) to my taxi driver about food and such. I might have told him that I was a connoisseur of food and had a food blog. Or maybe he didn’t understand and just saw my size therefore figured I liked to eat.
 

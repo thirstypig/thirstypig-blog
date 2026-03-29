@@ -39,6 +39,8 @@ description: Tian Tian Seafood restaurant, in Dalian, is your typical Chinese se
 archiveUrl: https://web.archive.org/web/20110105180632/http://www.thethirstypig.com/2010/10/08/the-live-shrimp-from-%e5%a4%a9%e5%a4%a9%e9%b1%bc%e6%b8%af-tiantian-seafood-dalian/
 draft: false
 location: The Live Shrimp from 天天鱼港 TianTian Seafood (Dalian)
+city: Dalian
+region: Dalian
 ---
 
 Tian Tian Seafood restaurant, in Dalian, is your typical Chinese seafood restaurant. Since Dalian is by the ocean, specifically the Yellow Sea. The abundant seafood coupled with its relatively warm waters, Dalian fish and shrimp is available year round.

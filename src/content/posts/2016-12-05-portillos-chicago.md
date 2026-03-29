@@ -20,11 +20,6 @@ city: Chicago
 address: 5532 S. Harlem Ave
 ---
 
-[![IMG_3778](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3778.jpg?resize=320%2C427 "IMG_3778")](http://thirstypig.com/2016/12/05/portillos-chicago/img_3778/)
-
-[![IMG_3779](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3779.jpg?resize=282%2C211 "IMG_3779")](http://thirstypig.com/2016/12/05/portillos-chicago/img_3779/)
-
-[![IMG_3780](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3780.jpg?resize=282%2C212 "IMG_3780")](http://thirstypig.com/2016/12/05/portillos-chicago/img_3780/)
 
 #The Italian beef is the signature sandwich at Portillos, nothing like it  anywhere else
 #The Hot Dogs, Chicago style, is interesting, but something I wouldn’t order again

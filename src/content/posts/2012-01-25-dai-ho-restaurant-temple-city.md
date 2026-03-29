@@ -28,15 +28,6 @@ address: 9148 E Las Tunas Dr Temple City, CA 91780
 
 [![o-4](/images/posts/dai-ho-restaurant-temple-city/IMG_7555.JPG "o-4")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-4/)
 
-[![img_1631](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1631.jpg?resize=320%2C427 "img_1631")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/img_1631/)
-
-[![o-3](http://i2.wp.com/thirstypig.com/wp-content/uploads/2012/01/o-3.jpg?resize=282%2C211 "o-3")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-3/)
-
-[![o-1](http://i2.wp.com/thirstypig.com/wp-content/uploads/2012/01/o-1.jpg?resize=282%2C212 "o-1")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-1/)
-
-[![img_1632](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1632.jpg?resize=217%2C289 "img_1632")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/img_1632/)
-
-[![o-2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2012/01/o-2.jpg?resize=385%2C289 "o-2")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-2/)
 
 This place has been around for almost 10 years. Dai Ho’s owner, in its early days, was notorious for being mean to the customers. Everyone in the community knew he wasn’t the most cordial, yet people kept coming back. As he has gotten older, he has softened up and the noodles have remained the same, arguably the best in Los Angeles.
 

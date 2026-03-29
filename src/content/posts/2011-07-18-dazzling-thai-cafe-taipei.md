@@ -58,19 +58,6 @@ region: Taipei
 
 [![dazzling-thai-cafe-33](/images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-35-494x370.jpg "dazzling-thai-cafe-33")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-33/)
 
-[![dazzling-thai-cafe-22](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-22.jpg?resize=199%2C149 "dazzling-thai-cafe-22")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-22/)
-
-[![dazzling-thai-cafe-26](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-26.jpg?resize=301%2C226 "dazzling-thai-cafe-26")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-26/)
-
-[![dazzling-thai-cafe-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-03.jpg?resize=301%2C226 "dazzling-thai-cafe-03")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-03/)
-
-[![dazzling-thai-cafe-24](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-24-1.jpg?resize=148%2C111 "dazzling-thai-cafe-24")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-24-2/)
-
-[![dazzling-thai-cafe-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-16.jpg?resize=148%2C111 "dazzling-thai-cafe-16")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-16/)
-
-[![dazzling-thai-cafe-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-11.jpg?resize=149%2C111 "dazzling-thai-cafe-11")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-11/)
-
-[![dazzling-thai-cafe-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Dazzling-Thai-Cafe-07.jpg?resize=149%2C111 "dazzling-thai-cafe-07")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-07/)
 
 An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool lounge in Taipei and Shanghai. With the smaller group VVG, their little group extends from a French eatery, dessert cafe, and a luxury boutique bed+breakfast. With the Dazzling, their empire reaches to a champagne lounge bar, a shabu-shabu restaurant, jewelry, and restaurants. It is fascinating how these groups leverage their brand marketing across these different ventures.
 

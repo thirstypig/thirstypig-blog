@@ -18,53 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![mayan-taipei-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-13.jpg?resize=403%2C302 "mayan-taipei-13")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-13/)
-
-[![mayan-taipei-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-12.jpg?resize=199%2C149 "mayan-taipei-12")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-12/)
-
-[![mayan-taipei-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-14.jpg?resize=199%2C149 "mayan-taipei-14")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-14/)
-
-[![mayan-taipei-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-24.jpg?resize=234%2C175 "mayan-taipei-24")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-24/)
-
-[![mayan-taipei-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-01-1.jpg?resize=131%2C175 "mayan-taipei-01")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-01-2/)
-
-[![mayan-taipei-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-04.jpg?resize=233%2C175 "mayan-taipei-04")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-04/)
-
-[![mayan-taipei-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-15.jpg?resize=199%2C149 "mayan-taipei-15")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-15/)
-
-[![mayan-taipei-22](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-22.jpg?resize=199%2C149 "mayan-taipei-22")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-22/)
-
-[![mayan-taipei-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-06.jpg?resize=403%2C302 "mayan-taipei-06")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-06/)
-
-[![mayan-taipei-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-03.jpg?resize=301%2C226 "mayan-taipei-03")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-03/)
-
-[![mayan-taipei-26](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-26.jpg?resize=301%2C226 "mayan-taipei-26")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-26/)
-
-[![mayan-taipei-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-18.jpg?resize=403%2C302 "mayan-taipei-18")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-18/)
-
-[![mayan-taipei-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-05.jpg?resize=199%2C149 "mayan-taipei-05")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-05/)
-
-[![mayan-taipei-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-17.jpg?resize=199%2C149 "mayan-taipei-17")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-17/)
-
-[![mayan-taipei-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-20.jpg?resize=199%2C150 "mayan-taipei-20")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-20/)
-
-[![mayan-taipei-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-21.jpg?resize=199%2C150 "mayan-taipei-21")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-21/)
-
-[![mayan-taipei-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-08.jpg?resize=200%2C150 "mayan-taipei-08")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-08/)
-
-[![mayan-taipei-33](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-33.jpg?resize=199%2C149 "mayan-taipei-33")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-33/)
-
-[![mayan-taipei-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-11.jpg?resize=199%2C149 "mayan-taipei-11")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-11/)
-
-[![mayan-taipei-19](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-19.jpg?resize=403%2C302 "mayan-taipei-19")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-19/)
-
-[![mayan-taipei-30](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-30.jpg?resize=148%2C111 "mayan-taipei-30")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-30/)
-
-[![mayan-taipei-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-10.jpg?resize=148%2C111 "mayan-taipei-10")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-10/)
-
-[![mayan-taipei-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-02.jpg?resize=149%2C111 "mayan-taipei-02")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-02/)
-
-[![mayan-taipei-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mayan-Taipei-09.jpg?resize=149%2C111 "mayan-taipei-09")](http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/mayan-taipei-09/)
 
 With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like Maya, everyday type of restaurants like Cantina Agave, and almost fast food types like Oola Mexican Grill. Mayan Grill, which opened in the spring of 2011, has entered with its own concept, featuring a great dining space, which is also suitable for drinking.
 

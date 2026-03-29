@@ -20,13 +20,6 @@ region: San Gabriel Valley
 address: 141 N Atlantic Blvd St
 ---
 
-[![IMG_4168](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4168.jpg?resize=107%2C143 "IMG_4168")](http://thirstypig.com/2017/02/23/kung-fu-soy-mpk/img_4168/)
-
-[![IMG_4169](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4169.jpg?resize=107%2C143 "IMG_4169")](http://thirstypig.com/2017/02/23/kung-fu-soy-mpk/img_4169/)
-
-[![IMG_4170](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4170.jpg?resize=190%2C143 "IMG_4170")](http://thirstypig.com/2017/02/23/kung-fu-soy-mpk/img_4170/)
-
-[![IMG_4171](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4171.jpg?resize=190%2C143 "IMG_4171")](http://thirstypig.com/2017/02/23/kung-fu-soy-mpk/img_4171/)
 
 #Hot and Cold Chinese dessert shop
 #Hot dessert soups featuring rice balls and fruit

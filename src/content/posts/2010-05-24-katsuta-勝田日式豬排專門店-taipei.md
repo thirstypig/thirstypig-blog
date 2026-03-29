@@ -18,57 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2230](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2230.jpg?resize=403%2C302 "img_2230")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2230-2/)
-
-[![img_2227](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2227-1.jpg?resize=199%2C149 "img_2227")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2227-2/)
-
-[![img_2223](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2223.jpg?resize=199%2C149 "img_2223")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2223-2/)
-
-[![img_2231](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2231.jpg?resize=191%2C143 "img_2231")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2231/)
-
-[![img_2216](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2216.jpg?resize=191%2C143 "img_2216")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2216-2/)
-
-[![img_2245](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2245.jpg?resize=217%2C290 "img_2245")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2245-2/)
-
-[![img_2238](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2238.jpg?resize=190%2C143 "img_2238")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2238/)
-
-[![img_2237](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2237.jpg?resize=190%2C143 "img_2237")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2237/)
-
-[![img_2220](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2220.jpg?resize=380%2C507 "img_2220")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2220-2/)
-
-[![img_2213](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2213.jpg?resize=222%2C166 "img_2213")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2213-2/)
-
-[![img_2236](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2236-1.jpg?resize=222%2C166 "img_2236")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2236-3/)
-
-[![img_2239](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2239.jpg?resize=222%2C167 "img_2239")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2239/)
-
-[![img_2235](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2235.jpg?resize=199%2C150 "img_2235")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2235-2/)
-
-[![img_2228](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2228.jpg?resize=199%2C150 "img_2228")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2228/)
-
-[![img_2232](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2232.jpg?resize=200%2C150 "img_2232")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2232/)
-
-[![img_2214](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2214.jpg?resize=403%2C302 "img_2214")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2214/)
-
-[![img_2222](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2222.jpg?resize=199%2C149 "img_2222")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2222/)
-
-[![img_2241](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2241-1.jpg?resize=199%2C149 "img_2241")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2241-2/)
-
-[![img_2233](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2233.jpg?resize=385%2C289 "img_2233")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2233/)
-
-[![img_2219](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2219.jpg?resize=217%2C289 "img_2219")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2219-2/)
-
-[![img_2218](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2218.jpg?resize=199%2C149 "img_2218")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2218-2/)
-
-[![img_2234](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2234.jpg?resize=199%2C149 "img_2234")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2234-2/)
-
-[![img_2221](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2221.jpg?resize=403%2C302 "img_2221")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2221/)
-
-[![img_2240](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2240-1.jpg?resize=199%2C150 "img_2240")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2240-2/)
-
-[![img_2225](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2225.jpg?resize=199%2C150 "img_2225")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2225-2/)
-
-[![img_2215](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2215.jpg?resize=200%2C150 "img_2215")](http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/img_2215/)
 
 Katsuta is a small Japanese Curry House that only locals in the nearby neighborhood would know about. They specialize in pork cutlet with their special curry sauce.
 

@@ -22,13 +22,6 @@ region: San Gabriel Valley
 address: 400 South Baldwin Ave
 ---
 
-[![IMG_0455](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0455.jpg?resize=151%2C164 "IMG_0455")](http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/img_0455/)
-
-[![IMG_0454](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0454.jpg?resize=132%2C164 "IMG_0454")](http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/img_0454/)
-
-[![IMG_0451](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0451.jpg?resize=218%2C164 "IMG_0451")](http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/img_0451/)
-
-[![IMG_0450](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0450.jpg?resize=123%2C164 "IMG_0450")](http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/img_0450/)
 
 #Overrated
 #Couldn’t Do Sichuan’s Most Famous Dish, Water Boiled Fish, right

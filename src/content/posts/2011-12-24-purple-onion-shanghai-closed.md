@@ -18,35 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![purple-onion-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-02.jpg?resize=394%2C315 "purple-onion-shanghai-02")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-02/)
-
-[![purple-onion-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-16.jpg?resize=208%2C155 "purple-onion-shanghai-16")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-16/)
-
-[![purple-onion-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-18.jpg?resize=208%2C156 "purple-onion-shanghai-18")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-18/)
-
-[![purple-onion-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-14.jpg?resize=199%2C150 "purple-onion-shanghai-14")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-14/)
-
-[![purple-onion-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-01.jpg?resize=199%2C150 "purple-onion-shanghai-01")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-01/)
-
-[![purple-onion-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-05.jpg?resize=200%2C150 "purple-onion-shanghai-05")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-05/)
-
-[![purple-onion-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-12.jpg?resize=199%2C149 "purple-onion-shanghai-12")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-12/)
-
-[![purple-onion-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-08.jpg?resize=199%2C149 "purple-onion-shanghai-08")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-08/)
-
-[![purple-onion-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-06.jpg?resize=403%2C302 "purple-onion-shanghai-06")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-06/)
-
-[![purple-onion-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-17.jpg?resize=301%2C226 "purple-onion-shanghai-17")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-17/)
-
-[![purple-onion-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-11.jpg?resize=301%2C226 "purple-onion-shanghai-11")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-11/)
-
-[![purple-onion-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-15.jpg?resize=403%2C302 "purple-onion-shanghai-15")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-15/)
-
-[![purple-onion-shanghai-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-09.jpg?resize=199%2C149 "purple-onion-shanghai-09")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-09/)
-
-[![purple-onion-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-03.jpg?resize=199%2C149 "purple-onion-shanghai-03")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-03/)
-
-[![purple-onion-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Purple-Onion-Shanghai-13.jpg?resize=606%2C455 "purple-onion-shanghai-13")](http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/purple-onion-shanghai-13/)
 
 Where did the Thirsty Pig Go?
 The Purple Onion, part of famed Shanghai restauranteur David Laris empire, nice little European bistro. Though it is tucked away in a small alley, it is still conveniently located in the heart of the Shanghai French Concession. I thought we made a wrong turn somewhere, as we continued down the dark small alley of Shanghai old houses. Opened just a year ago, the Purple Onion is a favorite among my friends. Immediately as we walked in, I could see why this quaint little restaurant has regulars. The spacious outdoor al fresco area looked inviting, for the pleasant weather months, but not on this December night. The main dining area, with barely 10 tables, allows for intimate dining. Good for small groups and dates.

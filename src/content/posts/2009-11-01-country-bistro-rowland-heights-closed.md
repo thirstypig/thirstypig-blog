@@ -21,37 +21,6 @@ region: San Gabriel Valley
 address: 1380 Fullerton Rd St
 ---
 
-[![img_0981](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0981.jpg?resize=148%2C198 "img_0981")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0981/)
-
-[![img_0977](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0977.jpg?resize=148%2C198 "img_0977")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0977/)
-
-[![img_0979](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0979.jpg?resize=149%2C198 "img_0979")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0979/)
-
-[![img_0975](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0975.jpg?resize=149%2C198 "img_0975")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0975/)
-
-[![img_0974](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0974.jpg?resize=199%2C266 "img_0974")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0974-2/)
-
-[![img_0972](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0972.jpg?resize=199%2C266 "img_0972")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0972-2/)
-
-[![img_0973](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0973.jpg?resize=200%2C266 "img_0973")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0973-2/)
-
-[![img_0985](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0985.jpg?resize=385%2C289 "img_0985")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0985-2/)
-
-[![img_0970](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0970.jpg?resize=217%2C289 "img_0970")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0970/)
-
-[![img_0976](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0976.jpg?resize=301%2C401 "img_0976")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0976-2/)
-
-[![img_0978](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0978.jpg?resize=301%2C401 "img_0978")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0978/)
-
-[![img_0967](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0967.jpg?resize=217%2C289 "img_0967")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0967-2/)
-
-[![img_0984](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0984.jpg?resize=385%2C289 "img_0984")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0984-2/)
-
-[![img_0971](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0971.jpg?resize=320%2C427 "img_0971")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0971-2/)
-
-[![img_0983](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0983.jpg?resize=282%2C211 "img_0983")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0983/)
-
-[![img_0968](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0968.jpg?resize=282%2C212 "img_0968")](http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/img_0968-2/)
 
 Country Bistro appears to be a typical Taiwanese restaurant that you’ll find in San Gabriel valley or in Rowland Heights area. But alas, their secret sauce is their soups – herbal soups, in fact. They have their regular Taiwanese favorites with fried pork chops and scrambled eggs with shrimp. But it seems everyone comes here for the soups.
 

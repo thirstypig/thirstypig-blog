@@ -31,17 +31,6 @@ address: 80 W Green St
 
 [![psb-48](/images/posts/buca-di-beppo-pasadena/psb-49.jpg "psb-48")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-48/)
 
-[![psb-49](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-49.jpg?resize=423%2C317 "psb-49")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-49/)
-
-[![psb-50](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-50.jpg?resize=209%2C156 "psb-50")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-50/)
-
-[![psb-51](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-51.jpg?resize=209%2C157 "psb-51")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-51/)
-
-[![psb-52](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-52.jpg?resize=316%2C237 "psb-52")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-52/)
-
-[![psb-53](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-53.jpg?resize=316%2C237 "psb-53")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-53/)
-
-[![psb-54](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/psb-54.jpg?resize=636%2C848 "psb-54")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-54/)
 
 I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. With all the visuals – pictures, statues, and even the staff, this place might have gone a bit too far. But I think that’s part of the fun.
 

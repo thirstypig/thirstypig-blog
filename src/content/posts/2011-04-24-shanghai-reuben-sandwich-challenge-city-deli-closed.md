@@ -17,19 +17,6 @@ location: The Shanghai Reuben Sandwich Challenge
 city: City Deli (Closed)
 ---
 
-[![city-deli-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-04.jpg?resize=403%2C302 "city-deli-shanghai-04")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-04/)
-
-[![city-deli-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-07-1.jpg?resize=199%2C149 "city-deli-shanghai-07")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-07-2/)
-
-[![city-deli-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-03.jpg?resize=199%2C149 "city-deli-shanghai-03")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-03/)
-
-[![city-deli-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-05.jpg?resize=148%2C111 "city-deli-shanghai-05")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-05/)
-
-[![city-deli-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-06.jpg?resize=148%2C111 "city-deli-shanghai-06")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-06/)
-
-[![city-deli-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-02.jpg?resize=149%2C111 "city-deli-shanghai-02")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-02/)
-
-[![city-deli-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/City-Deli-Shanghai-01.jpg?resize=149%2C111 "city-deli-shanghai-01")](http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/city-deli-shanghai-01/)
 
 On my search for the Reuben Pastrami sandwich, this challenge has brought me to City Deli. I had read about City Deli, along with New York Deli, from the different punits – Smart Shanghai, Urbanatomy, Time Out, Shanghaiist, and City Weekend. I was eager to try City Deli to satisfy my recent pastrami fix.I won’t say “the search for perfect sandwich” or “great” or even “ideal”, since I have to, and must lower my expectations. But I must say, that I’m glad to have tasted this challenge in order to soothe my cravings. Yet, the thing is. . .I can’t, and shouldn’t compare these sandwiches to my wondrous experiences in the states, but I did anyways. You can’t help it. I tried to strive for having the sandwich on its own or at least in consideration of the environment. It’s momentous for these foreign cuisines, let alone sandwiches, to reach this culinary excellent and to simply be a treat. Restauranteurs have to deal with locally sourced ingredients, the time-frame of imported materials, and the high expectations of expats. I know I could find a million things not right with any restaurant. But I should be happy, at least, to be getting a “taste” or “sampling” of memorable dining experiences.
 

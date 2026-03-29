@@ -25,15 +25,6 @@ address: 100 N La Cienega Blvd Beverly Hills, CA 90211
 
 [![IMG_1029](/images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg "IMG_1029")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1029/)
 
-[![IMG_1031](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1031.jpg?resize=209%2C156 "IMG_1031")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1031/)
-
-[![IMG_1032](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1032.jpg?resize=209%2C157 "IMG_1032")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1032/)
-
-[![IMG_1033](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1033.jpg?resize=404%2C303 "IMG_1033")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1033/)
-
-[![IMG_1034](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1034.jpg?resize=228%2C303 "IMG_1034")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1034/)
-
-[![IMG_1035](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1035.jpg?resize=636%2C636 "IMG_1035")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1035/)
 
 #The standard how Prime Rib should be measured by
 #Big Bowl is for the football players playing in the annual Rose Bowl

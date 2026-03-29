@@ -21,7 +21,6 @@ region: Westside
 address: 414 N Beverly Dr Beverly Hills, CA 90210
 ---
 
-[![IMG_0737](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0737.jpg?resize=606%2C757 "IMG_0737")](http://thirstypig.com/2016/12/29/naten-al-delicatessen-beverly-hills/img_0737/)
 
 #Long time Beverly Hills institution
 #Jewish Deli, featuring pastrami sandwiches and other famous Jewish Deli cuisine

@@ -19,55 +19,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![xinyi-military-village-taipei-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-05.jpg?resize=403%2C302 "xinyi-military-village-taipei-05")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-05/)
-
-[![xinyi-military-village-taipei-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-04.jpg?resize=199%2C149 "xinyi-military-village-taipei-04")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-04/)
-
-[![xinyi-military-village-taipei-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-03.jpg?resize=199%2C149 "xinyi-military-village-taipei-03")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-03/)
-
-[![xinyi-military-village-taipei-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-21.jpg?resize=199%2C150 "xinyi-military-village-taipei-21")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-21/)
-
-[![xinyi-military-village-taipei-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-17.jpg?resize=199%2C150 "xinyi-military-village-taipei-17")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-17/)
-
-[![xinyi-military-village-taipei-22](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-22.jpg?resize=200%2C150 "xinyi-military-village-taipei-22")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-22/)
-
-[![xinyi-military-village-taipei-24](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-24.jpg?resize=199%2C149 "xinyi-military-village-taipei-24")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-24/)
-
-[![xinyi-military-village-taipei-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-20.jpg?resize=199%2C149 "xinyi-military-village-taipei-20")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-20/)
-
-[![xinyi-military-village-taipei-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-02.jpg?resize=403%2C302 "xinyi-military-village-taipei-02")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-02/)
-
-[![xinyi-military-village-taipei-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-15.jpg?resize=301%2C226 "xinyi-military-village-taipei-15")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-15/)
-
-[![xinyi-military-village-taipei-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-13.jpg?resize=301%2C226 "xinyi-military-village-taipei-13")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-13/)
-
-[![xinyi-military-village-taipei-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-19.jpg?resize=403%2C302 "xinyi-military-village-taipei-19")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-19/)
-
-[![xinyi-military-village-taipei-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-11.jpg?resize=199%2C149 "xinyi-military-village-taipei-11")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-11/)
-
-[![xinyi-military-village-taipei-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-16.jpg?resize=199%2C149 "xinyi-military-village-taipei-16")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-16/)
-
-[![xinyi-military-village-taipei-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-08.jpg?resize=199%2C150 "xinyi-military-village-taipei-08")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-08/)
-
-[![img_0134](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0134.jpg?resize=199%2C150 "img_0134")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/img_0134/)
-
-[![xinyi-military-village-taipei-23](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-23.jpg?resize=200%2C150 "xinyi-military-village-taipei-23")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-23/)
-
-[![xinyi-military-village-taipei-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-14.jpg?resize=199%2C149 "xinyi-military-village-taipei-14")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-14/)
-
-[![xinyi-military-village-taipei-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-10.jpg?resize=199%2C149 "xinyi-military-village-taipei-10")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-10/)
-
-[![xinyi-military-village-taipei-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-09.jpg?resize=403%2C302 "xinyi-military-village-taipei-09")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-09/)
-
-[![xinyi-military-village-taipei-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-18.jpg?resize=301%2C226 "xinyi-military-village-taipei-18")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-18/)
-
-[![xinyi-military-village-taipei-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-01.jpg?resize=301%2C226 "xinyi-military-village-taipei-01")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-01/)
-
-[![img_0133](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0133.jpg?resize=403%2C302 "img_0133")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/img_0133/)
-
-[![xinyi-military-village-taipei-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-07.jpg?resize=199%2C149 "xinyi-military-village-taipei-07")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-07/)
-
-[![xinyi-military-village-taipei-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/XinYi-Military-Village-Taipei-06.jpg?resize=199%2C149 "xinyi-military-village-taipei-06")](http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/xinyi-military-village-taipei-06/)
 
 The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incoming new immigrants soldiers from China. This historic site shows the life & times of the people who helped rebuild Taiwan after the Japanese occupation and two world wars. Additionally, there’s a cultural gift shop, Taiwanese food court, and museum galleries.
 

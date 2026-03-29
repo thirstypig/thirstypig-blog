@@ -21,25 +21,6 @@ region: Westside
 address: 1517 Lincoln Blvd Santa Monica, CA 90401
 ---
 
-[![img_0166](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0166.jpg?resize=403%2C302 "img_0166")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0166/)
-
-[![img_0167](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0167.jpg?resize=199%2C149 "img_0167")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0167-2/)
-
-[![img_0171](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0171-1.jpg?resize=199%2C149 "img_0171")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0171-3/)
-
-[![img_0173](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0173.jpg?resize=199%2C150 "img_0173")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0173/)
-
-[![img_0170](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0170.jpg?resize=199%2C150 "img_0170")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0170/)
-
-[![img_0176](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0176.jpg?resize=200%2C150 "img_0176")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0176-2/)
-
-[![img_0169](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0169.jpg?resize=148%2C111 "img_0169")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0169/)
-
-[![img_0175](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0175.jpg?resize=148%2C111 "img_0175")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0175/)
-
-[![img_0172](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0172.jpg?resize=149%2C111 "img_0172")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0172/)
-
-[![img_0174](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0174.jpg?resize=149%2C111 "img_0174")](http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/img_0174/)
 
 Unfortunately, I am giving Bay Cities Deli a big zero Pig rating for their sandwiches. A big 0! I won’t feel bad either. Maybe the people of Santa Monica never had a good sandwich. If you want a solid sandwich, I’d go to Langer’s in DTLA or Ike’s in San Francisco. But this place, Bay Cities, a big Z-E-R-O.
 

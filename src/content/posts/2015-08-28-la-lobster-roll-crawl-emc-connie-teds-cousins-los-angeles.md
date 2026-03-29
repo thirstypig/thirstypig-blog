@@ -17,33 +17,24 @@ city: Connie & Ted’s and Cousins – Los Angeles
 address: 8171 Santa Monica Blvd
 ---
 
-[![Cousin's Maine](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3285.jpg?resize=218%2C290 "Cousin's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3285/)
 
 Cousin’s Maine
 
-[![Cousin's Maine](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3295.jpg?resize=163%2C163 "Connie and Ted's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3295/)
 
 Cousin’s Maine
 
-[![IMG_3282](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3282.jpg?resize=163%2C123 "IMG_3282")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3282/)
-
-[![Connie & Ted's](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3281.jpg?resize=217%2C290 "Cousin's Maine Lobster")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3281/)
 
 Connie & Ted’s
 
-[![Inside Cousin's Maine](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3286.jpg?resize=166%2C125 "Cousin's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3286/)
 
 Inside Cousin’s Maine
 
-[![EMC's](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3278.jpg?resize=94%2C125 "EMC's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3278/)
 
 EMC’s
 
-[![Another shot of EMC's](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3282-1.jpg?resize=167%2C125 "EMC's")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3282-2/)
 
 Another shot of EMC’s
 
-[![Connie & Ted's](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3283.jpg?resize=167%2C125 "Connie and Teds")](http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/img_3283/)
 
 Connie & Ted’s
 

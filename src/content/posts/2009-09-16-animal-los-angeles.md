@@ -20,27 +20,6 @@ region: Hollywood
 address: 435 N Fairfax Ave Los Angeles, CA 90036
 ---
 
-[![IMG_4881](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4881.jpg?resize=423%2C317 "IMG_4881")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4881/)
-
-[![DSCN0002 3](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0002-3.jpg?resize=209%2C156 "DSCN0002 3")](http://thirstypig.com/2009/09/16/animal-los-angeles/dscn0002-3/)
-
-[![IMG_4885](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4885.jpg?resize=209%2C157 "IMG_4885")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4885/)
-
-[![DSCN0007 2](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0007-2.jpg?resize=245%2C184 "DSCN0007 2")](http://thirstypig.com/2009/09/16/animal-los-angeles/dscn0007-2/)
-
-[![DSCN0005 3](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0005-3.jpg?resize=138%2C184 "DSCN0005 3")](http://thirstypig.com/2009/09/16/animal-los-angeles/dscn0005-3/)
-
-[![DSCN0003 3](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0003-3.jpg?resize=245%2C184 "DSCN0003 3")](http://thirstypig.com/2009/09/16/animal-los-angeles/dscn0003-3/)
-
-[![IMG_4887](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4887.jpg?resize=209%2C156 "IMG_4887")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4887/)
-
-[![IMG_4883](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4883.jpg?resize=209%2C157 "IMG_4883")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4883/)
-
-[![DSCN0004 3](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0004-3.jpg?resize=423%2C317 "DSCN0004 3")](http://thirstypig.com/2009/09/16/animal-los-angeles/dscn0004-3/)
-
-[![IMG_4877](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4877-1.jpg?resize=316%2C237 "IMG_4877")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4877-2/)
-
-[![IMG_4878](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4878.jpg?resize=316%2C237 "IMG_4878")](http://thirstypig.com/2009/09/16/animal-los-angeles/img_4878/)
 
 With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making Animal the ideal place to eat when you want to return back to your roots. Many people have talked about this restaurant, since day 1, about their unique skill with beef, pork, and other land animal meat.
 

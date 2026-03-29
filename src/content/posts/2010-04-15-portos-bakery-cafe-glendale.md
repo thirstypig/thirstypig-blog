@@ -23,33 +23,6 @@ region: San Fernando Valley
 address: 315 N Brand Blvd Glendale, CA 91203
 ---
 
-[![img_1422](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1422.jpg?resize=403%2C302 "img_1422")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1422/)
-
-[![img_1412](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1412.jpg?resize=199%2C149 "img_1412")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1412/)
-
-[![img_1409](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1409.jpg?resize=199%2C149 "img_1409")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1409/)
-
-[![img_1425](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1425.jpg?resize=199%2C150 "img_1425")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1425/)
-
-[![img_1417](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1417.jpg?resize=199%2C150 "img_1417")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1417/)
-
-[![img_1426](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1426.jpg?resize=200%2C150 "img_1426")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1426/)
-
-[![img_1419](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1419.jpg?resize=199%2C149 "img_1419")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1419/)
-
-[![img_1416](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1416.jpg?resize=199%2C149 "img_1416")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1416/)
-
-[![img_1413](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1413.jpg?resize=403%2C302 "img_1413")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1413/)
-
-[![img_1408](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1408.jpg?resize=301%2C226 "img_1408")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1408/)
-
-[![img_1410](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1410-1.jpg?resize=301%2C226 "img_1410")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1410-2/)
-
-[![img_1420](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1420.jpg?resize=403%2C302 "img_1420")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1420/)
-
-[![img_1414](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1414.jpg?resize=199%2C149 "img_1414")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1414/)
-
-[![img_1427](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1427.jpg?resize=199%2C149 "img_1427")](http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/img_1427/)
 
 Who has not heard of Porto’s? Who has not gone to Porto’s more importantly. This Cuban bakery probably the most popular place in Glendale, perhaps even more than the Americana. Probably, just at lunchtime though.
 

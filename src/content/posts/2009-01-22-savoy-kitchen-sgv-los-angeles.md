@@ -21,11 +21,6 @@ region: San Gabriel Valley
 address: 138 E Valley Blvd Alhambra, CA 91801
 ---
 
-[![IMG_0922](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0922.jpg?resize=316%2C421 "IMG_0922")](http://thirstypig.com/2009/01/22/savoy-kitchen-sgv-los-angeles/img_0922/)
-
-[![IMG_0923](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0923.jpg?resize=316%2C421 "IMG_0923")](http://thirstypig.com/2009/01/22/savoy-kitchen-sgv-los-angeles/img_0923/)
-
-[![IMG_0924](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0924-1.jpg?resize=636%2C477 "IMG_0924")](http://thirstypig.com/2009/01/22/savoy-kitchen-sgv-los-angeles/img_0924-2/)
 
 I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and Macau. I can tell you honesty, that the Best Hainan Chicken is from this little hole-in-the-wall in Alhambra – Savoy Kitchen. It’s funny, i’ve been to Savoy dozens of times, though I have never ordered anything else. Nothing else matters. I’ve had friends in Taiwan tell me that Savoy’s Hainan Chicken is the best in the world as well. We would order 10 at a time and have a little feast.
 

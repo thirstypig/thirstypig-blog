@@ -37,21 +37,6 @@ address: 17865 Colima Rd Rowland Heights, CA 91748
 
 [![IMG_0999](/images/posts/curry-house-rowland-heights/IMG_1001.jpg "IMG_0999")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0999/)
 
-[![IMG_0994](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0994.jpg?resize=209%2C279 "IMG_0994")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0994/)
-
-[![IMG_0995](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0995.jpg?resize=210%2C279 "IMG_0995")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0995/)
-
-[![IMG_0998](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0998.jpg?resize=156%2C208 "IMG_0998")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0998/)
-
-[![IMG_0986](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0986.jpg?resize=156%2C208 "IMG_0986")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0986/)
-
-[![IMG_0990](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0990-2.jpg?resize=156%2C208 "IMG_0990")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0990-3/)
-
-[![IMG_0991](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0991.jpg?resize=156%2C208 "IMG_0991")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0991/)
-
-[![IMG_0996](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0996.jpg?resize=316%2C421 "IMG_0996")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0996/)
-
-[![IMG_0997](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0997-1.jpg?resize=316%2C421 "IMG_0997")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0997-2/)
 
 Curry House, a chain from Japan, specializes in a simple meat on rice meal with curry. Americans and people all over the world need their protein, in this case meat, with a starch, rice. As a friend of mine said, that at its very essence, its just meat on rice and its nothing special.
 

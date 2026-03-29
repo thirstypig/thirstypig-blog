@@ -19,23 +19,6 @@ city: Dtla
 region: Downtown LA
 ---
 
-[![img_0700](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0700.jpg?resize=403%2C302 "img_0700")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0700-2/)
-
-[![img_0702](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0702.jpg?resize=199%2C149 "img_0702")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0702-2/)
-
-[![img_0703](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0703.jpg?resize=199%2C149 "img_0703")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0703-2/)
-
-[![img_0701](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0701.jpg?resize=199%2C149 "img_0701")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0701-2/)
-
-[![img_0704](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0704.jpg?resize=199%2C149 "img_0704")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0704-2/)
-
-[![img_0705](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0705.jpg?resize=403%2C302 "img_0705")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0705/)
-
-[![img_0708](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0708.jpg?resize=199%2C150 "img_0708")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0708/)
-
-[![img_0706](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0706.jpg?resize=199%2C150 "img_0706")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0706/)
-
-[![img_0707](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0707.jpg?resize=200%2C150 "img_0707")](http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/img_0707/)
 
 I’ve been dying to try Mac & Cheeza ever since they had their soft opening during Downtown LA’s Artwalk in February. Stalkingly, I have passed by their little shop about 3 times in the last 30 days or so, just to see if they had opened their doors. And finally, with an email notification, I found out that they opened their doors this past weekend for the March Artwalk.
 

@@ -66,15 +66,6 @@ city: Pudong
 
 [![img_3053](/images/posts/kyochon-chicken-pudong/KyoChon-客怡村-Chicken-1-88x88.jpg "img_3053")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3053-2/)
 
-[![img_3042](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3042.jpg?resize=200%2C150 "img_3042")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3042/)
-
-[![img_3067](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3067.jpg?resize=190%2C143 "img_3067")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3067/)
-
-[![img_3044](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3044.jpg?resize=107%2C143 "img_3044")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3044/)
-
-[![img_3068](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3068.jpg?resize=190%2C143 "img_3068")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3068/)
-
-[![img_3066](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3066.jpg?resize=107%2C143 "img_3066")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3066/)
 
 Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. The fried oily goodness goes well with cold beer and the spicy hearty flavor, or lack of, is the consummate part of Korean cuisine.
 

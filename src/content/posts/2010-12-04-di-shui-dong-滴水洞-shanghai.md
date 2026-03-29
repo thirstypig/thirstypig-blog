@@ -18,37 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![di-shui-dong-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-12.jpg?resize=191%2C143 "di-shui-dong-shanghai-12")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-12/)
-
-[![di-shui-dong-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-04.jpg?resize=191%2C143 "di-shui-dong-shanghai-04")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-04/)
-
-[![di-shui-dong-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-02-1.jpg?resize=217%2C290 "di-shui-dong-shanghai-02")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-02-2/)
-
-[![di-shui-dong-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-05.jpg?resize=190%2C143 "di-shui-dong-shanghai-05")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-05/)
-
-[![di-shui-dong-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-11.jpg?resize=190%2C143 "di-shui-dong-shanghai-11")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-11/)
-
-[![di-shui-dong-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-08.jpg?resize=222%2C166 "di-shui-dong-shanghai-08")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-08/)
-
-[![di-shui-dong-shanghai-25](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-25.jpg?resize=222%2C166 "di-shui-dong-shanghai-25")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-25/)
-
-[![di-shui-dong-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-18-1.jpg?resize=222%2C167 "di-shui-dong-shanghai-18")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-18-2/)
-
-[![di-shui-dong-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-06.jpg?resize=380%2C507 "di-shui-dong-shanghai-06")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-06/)
-
-[![di-shui-dong-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-10.jpg?resize=234%2C175 "di-shui-dong-shanghai-10")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-10/)
-
-[![di-shui-dong-shanghai-28](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-28.jpg?resize=131%2C175 "di-shui-dong-shanghai-28")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-28/)
-
-[![di-shui-dong-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-09.jpg?resize=233%2C175 "di-shui-dong-shanghai-09")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-09/)
-
-[![di-shui-dong-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-13.jpg?resize=166%2C125 "di-shui-dong-shanghai-13")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-13/)
-
-[![di-shui-dong-shanghai-27](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-27.jpg?resize=94%2C125 "di-shui-dong-shanghai-27")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-27/)
-
-[![di-shui-dong-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-17.jpg?resize=167%2C125 "di-shui-dong-shanghai-17")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-17/)
-
-[![di-shui-dong-shanghai-24](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Di-Shui-Dong-Shanghai-24.jpg?resize=167%2C125 "di-shui-dong-shanghai-24")](http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/di-shui-dong-shanghai-24/)
 
 When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell peppers with bold colors and flavors. Rarely will we associate a yellow pepper with heat and spicy.
 

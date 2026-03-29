@@ -17,17 +17,9 @@ draft: false
 location: Lucky Boy
 city: Pasadena
 region: Pasadena
+address: 640 S Arroyo Pkwy
 ---
 
-[![e4c2d13f-425f-46e4-94c7-f4767508637e](http://i1.wp.com/thirstypig.com/wp-content/uploads/2017/03/E4C2D13F-425F-46E4-94C7-F4767508637E.jpg?resize=222%2C166 "e4c2d13f-425f-46e4-94c7-f4767508637e")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/e4c2d13f-425f-46e4-94c7-f4767508637e/)
-
-[![img_0410](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0410.jpg?resize=222%2C166 "img_0410")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/img_0410/)
-
-[![2fd66771-9246-4a91-bd82-9b9dc4cd541e](http://i1.wp.com/thirstypig.com/wp-content/uploads/2017/03/2FD66771-9246-4A91-BD82-9B9DC4CD541E.jpg?resize=222%2C167 "2fd66771-9246-4a91-bd82-9b9dc4cd541e")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/2fd66771-9246-4a91-bd82-9b9dc4cd541e/)
-
-[![img_0411](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0411.jpg?resize=380%2C507 "img_0411")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/img_0411/)
-
-[![27d7accd-d5ce-4e7a-ba9a-7706e7719470](http://i1.wp.com/thirstypig.com/wp-content/uploads/2017/03/27D7ACCD-D5CE-4E7A-BA9A-7706E7719470.jpg?resize=606%2C455 "27d7accd-d5ce-4e7a-ba9a-7706e7719470")](http://thirstypig.com/2017/03/02/lucky-boy-pasadena/27d7accd-d5ce-4e7a-ba9a-7706e7719470/)
 
 Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friends say Lucky Boy has the best breakfast burrito. I had once before . . . but i didn’t think it was memorable.
 

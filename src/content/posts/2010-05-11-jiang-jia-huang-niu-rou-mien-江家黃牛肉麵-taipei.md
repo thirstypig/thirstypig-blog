@@ -21,27 +21,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_1935](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1935.jpg?resize=234%2C175 "img_1935")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1935/)
-
-[![img_1936](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1936.jpg?resize=131%2C175 "img_1936")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1936/)
-
-[![img_1932](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1932.jpg?resize=233%2C175 "img_1932")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1932/)
-
-[![img_1942](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1942.jpg?resize=403%2C302 "img_1942")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1942/)
-
-[![img_1939](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1939.jpg?resize=199%2C149 "img_1939")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1939/)
-
-[![img_1941](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1941.jpg?resize=199%2C149 "img_1941")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1941/)
-
-[![img_1940](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1940.jpg?resize=199%2C149 "img_1940")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1940/)
-
-[![img_1933](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1933-1.jpg?resize=199%2C149 "img_1933")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1933-2/)
-
-[![img_1938](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1938.jpg?resize=403%2C302 "img_1938")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1938/)
-
-[![img_1934](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1934.jpg?resize=385%2C289 "img_1934")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1934/)
-
-[![img_1937](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1937.jpg?resize=217%2C289 "img_1937")](http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/img_1937/)
 
 Traditional Taiwanese breakfast from the famous Yong He Dou Jiang and Dumpling & Noodles from Jiang Jia Hung both found at one location.
 

@@ -21,11 +21,6 @@ region: Westside
 address: 2408 Wilshire Blvd Santa Monica, CA 90403
 ---
 
-[![IMG_4077](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4077.jpg?resize=403%2C302 "IMG_4077")](http://thirstypig.com/2017/01/23/brus-wiffle-waffle-joint-samo/img_4077/)
-
-[![IMG_4078](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4078-1.jpg?resize=199%2C149 "IMG_4078")](http://thirstypig.com/2017/01/23/brus-wiffle-waffle-joint-samo/img_4078-2/)
-
-[![IMG_4079](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_4079-1.jpg?resize=199%2C149 "IMG_4079")](http://thirstypig.com/2017/01/23/brus-wiffle-waffle-joint-samo/img_4079-2/)
 
 #fabulous breakfast experience
 #Dwight‘s Special Chicken & Waffle are excellent

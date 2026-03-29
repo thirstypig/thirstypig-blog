@@ -17,31 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![mapowu-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-11.jpg?resize=403%2C302 "mapowu-shanghai-11")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-11/)
-
-[![mapowu-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-04-1.jpg?resize=199%2C149 "mapowu-shanghai-04")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-04-2/)
-
-[![mapowu-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-10.jpg?resize=199%2C149 "mapowu-shanghai-10")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-10/)
-
-[![mapowu-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-06.jpg?resize=199%2C150 "mapowu-shanghai-06")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-06/)
-
-[![mapowu-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-01.jpg?resize=199%2C150 "mapowu-shanghai-01")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-01/)
-
-[![mapowu-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-07.jpg?resize=200%2C150 "mapowu-shanghai-07")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-07/)
-
-[![mapowu-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-09.jpg?resize=199%2C149 "mapowu-shanghai-09")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-09/)
-
-[![mapowu-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-05.jpg?resize=199%2C149 "mapowu-shanghai-05")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-05/)
-
-[![mapowu-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-13.jpg?resize=403%2C302 "mapowu-shanghai-13")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-13/)
-
-[![mapowu-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-03.jpg?resize=148%2C111 "mapowu-shanghai-03")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-03/)
-
-[![mapowu-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-12.jpg?resize=148%2C111 "mapowu-shanghai-12")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-12/)
-
-[![mapowu-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-02.jpg?resize=149%2C111 "mapowu-shanghai-02")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-02/)
-
-[![mapowu-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Mapowu-Shanghai-08.jpg?resize=149%2C111 "mapowu-shanghai-08")](http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/mapowu-shanghai-08/)
 
 Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – till 5am.
 

@@ -18,39 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2202](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2202.jpg?resize=403%2C302 "img_2202")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2202/)
-
-[![img_2192](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2192.jpg?resize=199%2C149 "img_2192")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2192/)
-
-[![img_2207](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2207.jpg?resize=199%2C149 "img_2207")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2207-2/)
-
-[![img_2196](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2196.jpg?resize=199%2C150 "img_2196")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2196/)
-
-[![img_2197](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2197.jpg?resize=199%2C150 "img_2197")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2197/)
-
-[![img_2205](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2205.jpg?resize=200%2C150 "img_2205")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2205-2/)
-
-[![img_2190](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2190-1.jpg?resize=199%2C149 "img_2190")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2190-2/)
-
-[![img_2203](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2203.jpg?resize=199%2C149 "img_2203")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2203-2/)
-
-[![img_2210](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2210.jpg?resize=403%2C302 "img_2210")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2210/)
-
-[![img_2201](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2201-1.jpg?resize=301%2C226 "img_2201")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2201-2/)
-
-[![img_2200](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2200.jpg?resize=301%2C226 "img_2200")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2200/)
-
-[![img_2206](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2206.jpg?resize=403%2C302 "img_2206")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2206-2/)
-
-[![img_2199](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2199.jpg?resize=199%2C149 "img_2199")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2199/)
-
-[![img_2189](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2189.jpg?resize=199%2C149 "img_2189")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2189/)
-
-[![img_2195](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2195.jpg?resize=199%2C150 "img_2195")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2195/)
-
-[![img_2204](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2204.jpg?resize=199%2C150 "img_2204")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2204-2/)
-
-[![img_2194](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2194.jpg?resize=200%2C150 "img_2194")](http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/img_2194/)
 
 Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.
 

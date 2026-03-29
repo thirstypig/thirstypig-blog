@@ -18,27 +18,6 @@ region: Shanghai
 address: 1 Hongqiao Road
 ---
 
-[![img_1864](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1864.jpg?resize=403%2C302 "img_1864")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1864/)
-
-[![img_1873](http://i0.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1873.jpg?resize=199%2C149 "img_1873")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1873/)
-
-[![img_1871](http://i0.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1871.jpg?resize=199%2C149 "img_1871")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1871/)
-
-[![img_2242](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2242.jpg?resize=199%2C150 "img_2242")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_2242/)
-
-[![img_1869](http://i0.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1869.jpg?resize=199%2C150 "img_1869")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1869/)
-
-[![img_2240](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2240.jpg?resize=200%2C150 "img_2240")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_2240/)
-
-[![img_1866](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1866.jpg?resize=199%2C149 "img_1866")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1866/)
-
-[![img_1872](http://i0.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1872.jpg?resize=199%2C149 "img_1872")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1872/)
-
-[![img_2236](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2236.jpg?resize=403%2C302 "img_2236")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_2236-2/)
-
-[![img_2241](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2241.jpg?resize=301%2C226 "img_2241")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_2241/)
-
-[![img_1870](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/08/IMG_1870.jpg?resize=301%2C226 "img_1870")](http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/img_1870/)
 
 Da Marco is a classic Italian restaurant chain in Shanghai. They feature many popular favorites.
 

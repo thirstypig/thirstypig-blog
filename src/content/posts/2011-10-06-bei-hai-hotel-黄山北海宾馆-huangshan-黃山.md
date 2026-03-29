@@ -17,65 +17,30 @@ location: Bei Hai Hotel 黄山北海宾馆
 city: Huangshan 黃山
 ---
 
-[![bei-hai-bin-quan-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-18.jpg?resize=226%2C127 "bei-hai-bin-quan-18")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-18/)
-
-[![bei-hai-bin-quan-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-03.jpg?resize=226%2C128 "bei-hai-bin-quan-03")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-03/)
-
-[![bei-hai-bin-quan-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-13.jpg?resize=146%2C259 "bei-hai-bin-quan-13")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-13/)
-
-[![bei-hai-bin-quan-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-06.jpg?resize=226%2C127 "bei-hai-bin-quan-06")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-06/)
-
-[![bei-hai-bin-quan-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-17.jpg?resize=226%2C128 "bei-hai-bin-quan-17")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-17/)
-
-[![bei-hai-bin-quan-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-08.jpg?resize=239%2C134 "bei-hai-bin-quan-08")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-08/)
-
-[![bei-hai-bin-quan-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-05.jpg?resize=239%2C135 "bei-hai-bin-quan-05")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-05/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-42.jpg?resize=363%2C273 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-57/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Mountain-355.jpg?resize=363%2C273 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-59/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![bei-hai-bin-quan-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-07.jpg?resize=239%2C134 "bei-hai-bin-quan-07")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-07/)
-
-[![bei-hai-bin-quan-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-12.jpg?resize=239%2C135 "bei-hai-bin-quan-12")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-12/)
-
-[![huangshan-mountain-317](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Mountain-317.jpg?resize=344%2C194 "huangshan-mountain-317")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/huangshan-mountain-317/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-33.jpg?resize=258%2C194 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-53/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-38.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-55/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-28.jpg?resize=301%2C226 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-52/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![bei-hai-bin-quan-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-10.jpg?resize=239%2C134 "bei-hai-bin-quan-10")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-10/)
-
-[![bei-hai-bin-quan-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-15.jpg?resize=239%2C135 "bei-hai-bin-quan-15")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-15/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Mountain-365.jpg?resize=363%2C273 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-60/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Huangshan-Mountain-367.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-61/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![bei-hai-bin-quan-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-04.jpg?resize=217%2C122 "bei-hai-bin-quan-04")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/bei-hai-bin-quan-04/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-36.jpg?resize=217%2C163 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-54/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Bei-Hai-Bin-Quan-41.jpg?resize=606%2C455 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/olympus-digital-camera-56/)
 
 OLYMPUS DIGITAL CAMERA
 

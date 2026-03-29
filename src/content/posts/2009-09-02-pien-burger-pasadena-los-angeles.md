@@ -19,17 +19,6 @@ region: Pasadena
 address: 913 E California Blvd Pasadena, CA 91106
 ---
 
-[![IMG_0865](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0865.jpg?resize=228%2C303 "IMG_0865")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0865/)
-
-[![IMG_0866](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0866.jpg?resize=404%2C303 "IMG_0866")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0866/)
-
-[![IMG_0872](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0872-2.jpg?resize=156%2C208 "IMG_0872")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0872-3/)
-
-[![IMG_0876](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0876.jpg?resize=156%2C208 "IMG_0876")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0876/)
-
-[![IMG_0879](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0879.jpg?resize=156%2C208 "IMG_0879")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0879/)
-
-[![IMG_0869](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0869.jpg?resize=156%2C208 "IMG_0869")](http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/img_0869/)
 
 Pie ‘N Burger, located near Caltech, features a simple menu of burgers and, of all things, pie. Strange bedfellows they are, burgers and pies is your All American fare. Not much has changed in the 50+ years since it opened in 1963, as you can see from the interior. I was kind of excited about going to Pie ‘N Burger. I had passed by so many times that I never had the chance to try it.
 

@@ -16,51 +16,6 @@ city: Los Angeles
 address: 10100 Constellation Blvd Los Angeles, CA 90067
 ---
 
-[![img_0278](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0278.jpg?resize=403%2C302 "img_0278")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0278/)
-
-[![img_0267](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0267.jpg?resize=199%2C149 "img_0267")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0267/)
-
-[![img_0254](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0254.jpg?resize=199%2C149 "img_0254")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0254/)
-
-[![img_0269](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0269.jpg?resize=199%2C150 "img_0269")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0269/)
-
-[![img_0250](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0250.jpg?resize=199%2C150 "img_0250")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0250/)
-
-[![img_0268](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0268.jpg?resize=200%2C150 "img_0268")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0268/)
-
-[![img_0258](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0258.jpg?resize=199%2C149 "img_0258")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0258/)
-
-[![img_0262](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0262.jpg?resize=199%2C149 "img_0262")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0262/)
-
-[![img_0266](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0266.jpg?resize=403%2C302 "img_0266")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0266/)
-
-[![img_0281](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0281.jpg?resize=301%2C226 "img_0281")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0281/)
-
-[![img_0272](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0272.jpg?resize=301%2C226 "img_0272")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0272/)
-
-[![img_0259](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0259.jpg?resize=403%2C302 "img_0259")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0259/)
-
-[![img_0280](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0280-1.jpg?resize=199%2C149 "img_0280")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0280-2/)
-
-[![img_0270](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0270.jpg?resize=199%2C149 "img_0270")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0270/)
-
-[![img_0261](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0261.jpg?resize=199%2C150 "img_0261")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0261/)
-
-[![img_0276](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0276.jpg?resize=199%2C150 "img_0276")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0276/)
-
-[![img_0273](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0273.jpg?resize=200%2C150 "img_0273")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0273/)
-
-[![img_0251](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0251.jpg?resize=199%2C149 "img_0251")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0251/)
-
-[![img_0256](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0256.jpg?resize=199%2C149 "img_0256")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0256/)
-
-[![img_0265](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0265.jpg?resize=403%2C302 "img_0265")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0265/)
-
-[![img_0274](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0274.jpg?resize=301%2C226 "img_0274")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0274/)
-
-[![img_0257](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0257.jpg?resize=301%2C226 "img_0257")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0257-2/)
-
-[![img_0255](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0255.jpg?resize=606%2C455 "img_0255")](http://thirstypig.com/2010/01/25/craft-los-angeles/img_0255/)
 
 We were all giddy with excitement while waiting for our food to come, or was that our stomachs growling and body’s trembling from low blood sugar. Perhaps both. I know we ripped through the bread and butter as soon as it was set on the table. I barely got a photo before my friends ate it all up.
 

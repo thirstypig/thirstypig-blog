@@ -20,19 +20,6 @@ region: Pasadena
 address: 3838 E Colorado Blvd Pasadena, CA 91107
 ---
 
-[![IMG_2225](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_2225.jpg?resize=223%2C167 "IMG_2225")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/img_2225/)
-
-[![DSCN0031](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0031.jpg?resize=223%2C168 "DSCN0031")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/dscn0031/)
-
-[![DSCN0019 2](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0019-2.jpg?resize=223%2C168 "DSCN0019 2")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/dscn0019-2-2/)
-
-[![IMG_0659](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0659.jpg?resize=409%2C511 "IMG_0659")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/img_0659/)
-
-[![IMG_0661](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0661.jpg?resize=326%2C408 "IMG_0661")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/img_0661/)
-
-[![IMG_0652](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0652-1.jpg?resize=306%2C408 "IMG_0652")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/img_0652-2/)
-
-[![DSCN0037 2](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/DSCN0037-2.jpg?resize=636%2C477 "DSCN0037 2")](http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/dscn0037-2/)
 
 #Best Breakfast Burrito . . . Period! The potatoes sliced and grilled which provides great texture
 #Humongous amount of fries, onion rings, and zucchini on both the small and large order

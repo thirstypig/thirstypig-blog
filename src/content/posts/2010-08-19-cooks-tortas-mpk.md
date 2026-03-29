@@ -20,31 +20,6 @@ region: San Gabriel Valley
 address: 1944 South Atlantic Boulevard, Monterey Park, CA 91754
 ---
 
-[![img_1766](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_1766.jpg?resize=344%2C344 "img_1766")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/img_1766/)
-
-[![cooks-tortas-monterey-park-ca-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-04.jpg?resize=258%2C344 "cooks-tortas-monterey-park-ca-04")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-04/)
-
-[![cooks-tortas-monterey-park-ca-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-05-1.jpg?resize=282%2C211 "cooks-tortas-monterey-park-ca-05")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-05-2/)
-
-[![cooks-tortas-monterey-park-ca-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-02.jpg?resize=282%2C212 "cooks-tortas-monterey-park-ca-02")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-02/)
-
-[![img_1765](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/08/IMG_1765.jpg?resize=320%2C427 "img_1765")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/img_1765/)
-
-[![cooks-tortas-monterey-park-ca-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-07.jpg?resize=301%2C401 "cooks-tortas-monterey-park-ca-07")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-07/)
-
-[![cooks-tortas-monterey-park-ca-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-09.jpg?resize=301%2C401 "cooks-tortas-monterey-park-ca-09")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-09/)
-
-[![cooks-tortas-monterey-park-ca-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-03.jpg?resize=403%2C302 "cooks-tortas-monterey-park-ca-03")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-03/)
-
-[![cooks-tortas-monterey-park-ca-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-01.jpg?resize=199%2C149 "cooks-tortas-monterey-park-ca-01")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-01/)
-
-[![cooks-tortas-monterey-park-ca-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-11.jpg?resize=199%2C149 "cooks-tortas-monterey-park-ca-11")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-11/)
-
-[![cooks-tortas-monterey-park-ca-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-10.jpg?resize=234%2C175 "cooks-tortas-monterey-park-ca-10")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-10/)
-
-[![cooks-tortas-monterey-park-ca-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-06.jpg?resize=131%2C175 "cooks-tortas-monterey-park-ca-06")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-06/)
-
-[![cooks-tortas-monterey-park-ca-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Cooks-Tortas-Monterey-Park-CA-08.jpg?resize=233%2C175 "cooks-tortas-monterey-park-ca-08")](http://thirstypig.com/2010/08/19/cooks-tortas-mpk/cooks-tortas-monterey-park-ca-08/)
 
 Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over and developed by the French in the early 1800′s. Then by using locally cured and marinated meats, the Mexicans produced wonderful sandwiches.
 

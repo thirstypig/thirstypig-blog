@@ -96,11 +96,6 @@ region: Shanghai
 
 [![yuxin-sichuan-cuisine-shanghai-11](/images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg "yuxin-sichuan-cuisine-shanghai-11")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-11/)
 
-[![yuxin-sichuan-cuisine-shanghai-26](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Yuxin-Sichuan-Cuisine-Shanghai-26.jpg?resize=156%2C117 "yuxin-sichuan-cuisine-shanghai-26")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-26/)
-
-[![yuxin-sichuan-cuisine-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Yuxin-Sichuan-Cuisine-Shanghai-20.jpg?resize=156%2C117 "yuxin-sichuan-cuisine-shanghai-20")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-20/)
-
-[![yuxin-sichuan-cuisine-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Yuxin-Sichuan-Cuisine-Shanghai-16.jpg?resize=156%2C117 "yuxin-sichuan-cuisine-shanghai-16")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-16/)
 
 Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 

@@ -17,15 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![lanxin-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/LanXin-Shanghai-08.jpg?resize=403%2C301 "lanxin-shanghai-08")](http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/lanxin-shanghai-08/)
-
-[![lanxin-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/LanXin-Shanghai-04.jpg?resize=199%2C148 "lanxin-shanghai-04")](http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/lanxin-shanghai-04/)
-
-[![lanxin-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/LanXin-Shanghai-06.jpg?resize=199%2C149 "lanxin-shanghai-06")](http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/lanxin-shanghai-06/)
-
-[![lanxin-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/LanXin-Shanghai-07.jpg?resize=345%2C257 "lanxin-shanghai-07")](http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/lanxin-shanghai-07/)
-
-[![lanxin-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/LanXin-Shanghai-02.jpg?resize=257%2C257 "lanxin-shanghai-02")](http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/lanxin-shanghai-02/)
 
 Jinxian Lu features an abundance of places to go, to eat, to drink, and to play. From Masse (formerly Racks), Bliss Lounge, Momo Paradise, Southern Barbarian, Di Shui Dong, among others. LanXin is hole-in-the-wall restaurant that specializes in no-frills home-cooked Shanghainese cuisine.
 

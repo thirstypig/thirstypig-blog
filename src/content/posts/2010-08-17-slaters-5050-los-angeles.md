@@ -17,35 +17,6 @@ city: Los Angeles
 address: 6362 E Santa Ana Canyon Rd, Anaheim Hills, CA 92807
 ---
 
-[![slaters-5050-anaheim-hills-ca-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-15.jpg?resize=380%2C507 "slaters-5050-anaheim-hills-ca-15")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-15/)
-
-[![slaters-5050-anaheim-hills-ca-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-14.jpg?resize=222%2C166 "slaters-5050-anaheim-hills-ca-14")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-14/)
-
-[![slaters-5050-anaheim-hills-ca-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-04.jpg?resize=222%2C166 "slaters-5050-anaheim-hills-ca-04")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-04/)
-
-[![slaters-5050-anaheim-hills-ca-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-13.jpg?resize=222%2C167 "slaters-5050-anaheim-hills-ca-13")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-13/)
-
-[![slaters-5050-anaheim-hills-ca-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-16.jpg?resize=403%2C302 "slaters-5050-anaheim-hills-ca-16")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-16/)
-
-[![slaters-5050-anaheim-hills-ca-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-07.jpg?resize=199%2C149 "slaters-5050-anaheim-hills-ca-07")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-07/)
-
-[![slaters-5050-anaheim-hills-ca-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-08.jpg?resize=199%2C149 "slaters-5050-anaheim-hills-ca-08")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-08/)
-
-[![slaters-5050-anaheim-hills-ca-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-05.jpg?resize=199%2C150 "slaters-5050-anaheim-hills-ca-05")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-05/)
-
-[![slaters-5050-anaheim-hills-ca-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-12.jpg?resize=199%2C150 "slaters-5050-anaheim-hills-ca-12")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-12/)
-
-[![slaters-5050-anaheim-hills-ca-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-10.jpg?resize=200%2C150 "slaters-5050-anaheim-hills-ca-10")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-10/)
-
-[![slaters-5050-anaheim-hills-ca-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-03-1.jpg?resize=199%2C149 "slaters-5050-anaheim-hills-ca-03")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-03-2/)
-
-[![slaters-5050-anaheim-hills-ca-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-09.jpg?resize=199%2C149 "slaters-5050-anaheim-hills-ca-09")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-09/)
-
-[![slaters-5050-anaheim-hills-ca-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-06.jpg?resize=403%2C302 "slaters-5050-anaheim-hills-ca-06")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-06/)
-
-[![slaters-5050-anaheim-hills-ca-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-01.jpg?resize=301%2C226 "slaters-5050-anaheim-hills-ca-01")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-01/)
-
-[![slaters-5050-anaheim-hills-ca-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Slaters-5050-Anaheim-Hills-CA-11.jpg?resize=301%2C226 "slaters-5050-anaheim-hills-ca-11")](http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/slaters-5050-anaheim-hills-ca-11/)
 
 As long as I can remember, I have always enjoyed eating hamburgers. But whenever I saw a pink color in the meat, I was told it was a “No!-No!”. Pink meant that it was non fully cooked, and perhaps unsafe to eat. And the idea of uncooked, rare, or even some pinkish medium ones, raised red flags with me. Yet, when I looked at the menu at Slater’s – their burgers are featured pink and they boast about the color. Their claim to fame is a burger that is hand packed with bacon, thereby resulting in the pink.
 

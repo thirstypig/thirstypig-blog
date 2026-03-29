@@ -17,23 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![shanghainese-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-01.jpg?resize=403%2C301 "shanghainese-01")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-01/)
-
-[![shanghainese-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-08.jpg?resize=199%2C148 "shanghainese-08")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-08/)
-
-[![shanghainese-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-05.jpg?resize=199%2C149 "shanghainese-05")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-05/)
-
-[![shanghainese-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-07.jpg?resize=199%2C148 "shanghainese-07")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-07/)
-
-[![shanghainese-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-06.jpg?resize=199%2C149 "shanghainese-06")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-06/)
-
-[![shanghainese-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-04-1.jpg?resize=403%2C301 "shanghainese-04")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-04-2/)
-
-[![shanghainese-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-03.jpg?resize=199%2C149 "shanghainese-03")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-03/)
-
-[![shanghainese-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-09.jpg?resize=199%2C149 "shanghainese-09")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-09/)
-
-[![shanghainese-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghainese-02.jpg?resize=200%2C149 "shanghainese-02")](http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/shanghainese-02/)
 
 Every once and awhile, you go to a restaurant without any expectations and leave pleasantly surprised. This is what happened when I supposedly thought I was going for a simple happy hour.
 

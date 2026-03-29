@@ -41,6 +41,8 @@ description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left;
 archiveUrl: https://web.archive.org/web/20110105042301/http://www.thethirstypig.com/2010/09/07/hungry-at-shanghai-pudong-airport/
 draft: false
 location: Hungry at Shanghai Pudong Airport
+city: Shanghai
+region: Shanghai
 ---
 
 #gallery-2 {

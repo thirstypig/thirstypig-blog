@@ -19,57 +19,6 @@ region: Shanghai
 address: 1 Yueyang Road
 ---
 
-[![nanbantei-of-tokyo-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-12.jpg?resize=403%2C302 "nanbantei-of-tokyo-shanghai-12")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-12/)
-
-[![nanbantei-of-tokyo-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-04.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-04")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-04/)
-
-[![nanbantei-of-tokyo-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-02.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-02")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-02/)
-
-[![nanbantei-of-tokyo-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-05.jpg?resize=199%2C150 "nanbantei-of-tokyo-shanghai-05")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-05/)
-
-[![nanbantei-of-tokyo-shanghai-21](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-21.jpg?resize=199%2C150 "nanbantei-of-tokyo-shanghai-21")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-21/)
-
-[![nanbantei-of-tokyo-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-17.jpg?resize=200%2C150 "nanbantei-of-tokyo-shanghai-17")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-17/)
-
-[![nanbantei-of-tokyo-shanghai-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-13.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-13")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-13/)
-
-[![nanbantei-of-tokyo-shanghai-19](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-19.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-19")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-19/)
-
-[![nanbantei-of-tokyo-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-14.jpg?resize=403%2C302 "nanbantei-of-tokyo-shanghai-14")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-14/)
-
-[![nanbantei-of-tokyo-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-07.jpg?resize=301%2C226 "nanbantei-of-tokyo-shanghai-07")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-07/)
-
-[![nanbantei-of-tokyo-shanghai-25](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-25.jpg?resize=301%2C226 "nanbantei-of-tokyo-shanghai-25")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-25/)
-
-[![nanbantei-of-tokyo-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-06.jpg?resize=403%2C302 "nanbantei-of-tokyo-shanghai-06")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-06/)
-
-[![nanbantei-of-tokyo-shanghai-23](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-23.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-23")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-23/)
-
-[![nanbantei-of-tokyo-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-15.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-15")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-15/)
-
-[![nanbantei-of-tokyo-shanghai-24](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-24.jpg?resize=222%2C166 "nanbantei-of-tokyo-shanghai-24")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-24/)
-
-[![nanbantei-of-tokyo-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-20.jpg?resize=222%2C166 "nanbantei-of-tokyo-shanghai-20")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-20/)
-
-[![nanbantei-of-tokyo-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-01.jpg?resize=222%2C167 "nanbantei-of-tokyo-shanghai-01")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-01/)
-
-[![nanbantei-of-tokyo-shanghai-22](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-22.jpg?resize=380%2C507 "nanbantei-of-tokyo-shanghai-22")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-22/)
-
-[![nanbantei-of-tokyo-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-18.jpg?resize=199%2C150 "nanbantei-of-tokyo-shanghai-18")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-18/)
-
-[![nanbantei-of-tokyo-shanghai-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-16.jpg?resize=199%2C150 "nanbantei-of-tokyo-shanghai-16")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-16/)
-
-[![nanbantei-of-tokyo-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-08.jpg?resize=200%2C150 "nanbantei-of-tokyo-shanghai-08")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-08/)
-
-[![nanbantei-of-tokyo-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-10.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-10")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-10/)
-
-[![nanbantei-of-tokyo-shanghai-26](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-26.jpg?resize=199%2C149 "nanbantei-of-tokyo-shanghai-26")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-26/)
-
-[![nanbantei-of-tokyo-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-03-1.jpg?resize=403%2C302 "nanbantei-of-tokyo-shanghai-03")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-03-2/)
-
-[![nanbantei-of-tokyo-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-09-1.jpg?resize=301%2C226 "nanbantei-of-tokyo-shanghai-09")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-09-2/)
-
-[![nanbantei-of-tokyo-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Nanbantei-of-Tokyo-Shanghai-11.jpg?resize=301%2C226 "nanbantei-of-tokyo-shanghai-11")](http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/nanbantei-of-tokyo-shanghai-11/)
 
 After reading the reaming that [City Weekend gave by Dan Ouyang wrote](http://www.cityweekend.com.cn/shanghai/listings/dining/japanese/has/nanbantei/) and [Christopher St Cavish of SmartShanghai.com](http://www.smartshanghai.com/wire/1175/Nonbantei.html), I realize, perhaps I should rethink what I was going to say. I’m usually a pushover when it comes to Yakitori.
 

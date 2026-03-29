@@ -19,25 +19,6 @@ region: Shanghai
 address: 32 Zhongshan Dongyi Road
 ---
 
-[![img_1826](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1826.jpg?resize=380%2C507 "img_1826")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1826/)
-
-[![img_1818](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1818.jpg?resize=222%2C166 "img_1818")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1818/)
-
-[![img_1822](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1822.jpg?resize=222%2C166 "img_1822")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1822/)
-
-[![img_1817](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1817.jpg?resize=222%2C167 "img_1817")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1817/)
-
-[![img_1820](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1820.jpg?resize=222%2C166 "img_1820")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1820/)
-
-[![img_1827](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1827.jpg?resize=222%2C166 "img_1827")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1827/)
-
-[![img_1824](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1824.jpg?resize=222%2C167 "img_1824")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1824/)
-
-[![img_1828](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1828.jpg?resize=380%2C507 "img_1828")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1828/)
-
-[![img_1815](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1815.jpg?resize=301%2C226 "img_1815")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1815/)
-
-[![img_1819](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1819.jpg?resize=301%2C226 "img_1819")](http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/img_1819/)
 
 At the legendary Shanghai Peninsula hotel hides one of the most interesting lounge I have ever been to.
 

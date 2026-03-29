@@ -17,47 +17,6 @@ city: Venice
 region: Westside
 ---
 
-[![dscn0040-3](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0040-3.jpg?resize=403%2C302 "dscn0040-3")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0040-3-2/)
-
-[![img_0016](http://i0.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0016.jpg?resize=199%2C149 "img_0016")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0016/)
-
-[![dscn0004-2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0004-2.jpg?resize=199%2C149 "dscn0004-2")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0004-2-2/)
-
-[![dscn0014-5](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0014-5.jpg?resize=199%2C150 "dscn0014-5")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0014-5/)
-
-[![dscn0031-2](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0031-2.jpg?resize=199%2C150 "dscn0031-2")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0031-2/)
-
-[![img_0023](http://i2.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0023.jpg?resize=200%2C150 "img_0023")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0023-2/)
-
-[![dscn0020](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0020.jpg?resize=199%2C149 "dscn0020")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0020-3/)
-
-[![dscn0047-2](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0047-2.jpg?resize=199%2C149 "dscn0047-2")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0047-2-2/)
-
-[![img_0022](http://i1.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0022.jpg?resize=403%2C302 "img_0022")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0022/)
-
-[![dscn0011-5](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0011-5.jpg?resize=301%2C226 "dscn0011-5")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0011-5/)
-
-[![dscn0002-2](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0002-2.jpg?resize=301%2C226 "dscn0002-2")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0002-2-2/)
-
-[![img_0021](http://i2.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0021.jpg?resize=301%2C226 "img_0021")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0021/)
-
-[![img_0019](http://i0.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0019.jpg?resize=301%2C226 "img_0019")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0019-2/)
-
-[![img_0014](http://i0.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0014.jpg?resize=380%2C507 "img_0014")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0014-2/)
-
-[![dscn0008](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0008.jpg?resize=222%2C166 "dscn0008")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0008-5/)
-
-[![img_0017](http://i1.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0017.jpg?resize=222%2C166 "img_0017")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0017-2/)
-
-[![img_0018](http://i0.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0018.jpg?resize=222%2C167 "img_0018")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0018/)
-
-[![dscn0006-4](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0006-4.jpg?resize=403%2C302 "dscn0006-4")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0006-4/)
-
-[![img_0015](http://i0.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0015.jpg?resize=199%2C149 "img_0015")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0015-2/)
-
-[![dscn0033-2](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0033-2.jpg?resize=199%2C149 "dscn0033-2")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/dscn0033-2/)
-
-[![img_0020](http://i2.wp.com/thirstypig.com/wp-content/uploads/2009/09/IMG_0020.jpg?resize=606%2C455 "img_0020")](http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/img_0020-2/)
 
 The first Friday of every month is festival ritual in the heart of Venice. Shops, galleries, and bars open late to slow walking crowds. But unfortunately for the restaurants on Abbot Kinney Road, the roaches come out on this special night. More specifically the Roach Coaches. We saw several different Taco Trucks including – Border Grill Truck, Marked5, Dosa, Barbie Q’s, Baby Badass Burger’s, Fishlips Sushi. India Jones, and one or two others that I don’t remember. I was only able to try the Marked5, Barbie Q’s, and Fishlips Sushi.
 

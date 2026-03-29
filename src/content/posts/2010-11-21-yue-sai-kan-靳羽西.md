@@ -14,37 +14,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![yue-sai-kan-event-62](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-62.jpg?resize=380%2C507 "yue-sai-kan-event-62")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-62/)
-
-[![yue-sai-kan-event-10](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-10.jpg?resize=222%2C166 "yue-sai-kan-event-10")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-10/)
-
-[![yue-sai-kan-event-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-01.jpg?resize=222%2C166 "yue-sai-kan-event-01")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-01/)
-
-[![yue-sai-kan-event-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-14.jpg?resize=222%2C167 "yue-sai-kan-event-14")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-14/)
-
-[![yue-sai-kan-event-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-07.jpg?resize=403%2C302 "yue-sai-kan-event-07")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-07/)
-
-[![yue-sai-kan-event-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-12.jpg?resize=199%2C149 "yue-sai-kan-event-12")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-12/)
-
-[![yue-sai-kan-event-63](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-63.jpg?resize=199%2C149 "yue-sai-kan-event-63")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-63/)
-
-[![yue-sai-kan-event-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-08.jpg?resize=199%2C150 "yue-sai-kan-event-08")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-08/)
-
-[![yue-sai-kan-event-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-11.jpg?resize=199%2C150 "yue-sai-kan-event-11")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-11/)
-
-[![yue-sai-kan-event-65](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-65.jpg?resize=200%2C150 "yue-sai-kan-event-65")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-65/)
-
-[![yue-sai-kan-event-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-06.jpg?resize=199%2C149 "yue-sai-kan-event-06")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-06/)
-
-[![yue-sai-kan-event-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-19.jpg?resize=199%2C149 "yue-sai-kan-event-19")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-19/)
-
-[![yue-sai-kan-event-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-05.jpg?resize=403%2C302 "yue-sai-kan-event-05")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-05/)
-
-[![yue-sai-kan-event-64](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-64.jpg?resize=301%2C226 "yue-sai-kan-event-64")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-64/)
-
-[![yue-sai-kan-event-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-15.jpg?resize=301%2C226 "yue-sai-kan-event-15")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-15/)
-
-[![yue-sai-kan-event-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Yue-Sai-Kan-Event-09-1.jpg?resize=606%2C455 "yue-sai-kan-event-09")](http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/yue-sai-kan-event-09-2/)
 
 This past week, we got to meet the venerable Yue-Sai Kan 靳羽西. She graciously hosted us at her spacious home in Shanghai. Our professor, Peter Carnevale was able to arrange for an informal talk with her to talk about her experiences.
 

@@ -18,35 +18,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2369](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2369.jpg?resize=282%2C211 "img_2369")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2369/)
-
-[![img_2363](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2363.jpg?resize=282%2C212 "img_2363")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2363/)
-
-[![img_2354](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2354-1.jpg?resize=320%2C427 "img_2354")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2354-2/)
-
-[![img_2358](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2358.jpg?resize=234%2C175 "img_2358")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2358/)
-
-[![img_2362](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2362.jpg?resize=131%2C175 "img_2362")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2362/)
-
-[![img_2351](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2351.jpg?resize=233%2C175 "img_2351")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2351/)
-
-[![img_2350](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2350.jpg?resize=301%2C401 "img_2350")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2350/)
-
-[![img_2355](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2355.jpg?resize=301%2C401 "img_2355")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2355/)
-
-[![img_2352](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2352.jpg?resize=403%2C302 "img_2352")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2352/)
-
-[![img_2361](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2361.jpg?resize=199%2C149 "img_2361")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2361/)
-
-[![img_2367](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2367.jpg?resize=199%2C149 "img_2367")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2367/)
-
-[![img_2370](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2370.jpg?resize=148%2C111 "img_2370")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2370/)
-
-[![img_2366](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2366.jpg?resize=148%2C111 "img_2366")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2366/)
-
-[![img_2353](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2353.jpg?resize=149%2C111 "img_2353")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2353/)
-
-[![img_2371](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2371.jpg?resize=149%2C111 "img_2371")](http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/img_2371/)
 
 Sriracha sauce (Thai: ศรีราชา [sǐrātɕʰā]), a Thai spicy sauce, is not from Thailand or even Vietnam It is from [Rosemead](http://www.huyfong.com/) in Southern California, with Thai roots. In the states, the Rooster sauce, [originally](http://en.wikipedia.org/wiki/Sriracha_sauce) developed for Asian Americans, is used on buffalo wings, french fries, and other American foods, as well as Asian dishes.
 

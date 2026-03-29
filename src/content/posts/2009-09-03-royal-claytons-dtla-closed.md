@@ -21,13 +21,6 @@ region: Downtown LA
 address: 1855 Industrial St Los Angeles, CA 90021
 ---
 
-[![dscn0007](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0007.jpg?resize=222%2C166 "dscn0007")](http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/dscn0007-5/)
-
-[![dscn0006-3](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0006-3.jpg?resize=222%2C166 "dscn0006-3")](http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/dscn0006-3-2/)
-
-[![dscn0011-4](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0011-4.jpg?resize=222%2C167 "dscn0011-4")](http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/dscn0011-4-2/)
-
-[![dscn0014-4](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0014-4.jpg?resize=380%2C507 "dscn0014-4")](http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/dscn0014-4/)
 
 Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an excellent destination drinking place for a group of friends.
 

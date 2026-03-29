@@ -20,23 +20,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![la-saleya-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-05.jpg?resize=403%2C301 "la-saleya-shanghai-05")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-05/)
-
-[![la-saleya-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-06.jpg?resize=199%2C148 "la-saleya-shanghai-06")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-06/)
-
-[![la-saleya-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-02-1.jpg?resize=199%2C149 "la-saleya-shanghai-02")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-02-2/)
-
-[![la-saleya-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-04.jpg?resize=386%2C289 "la-saleya-shanghai-04")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-04/)
-
-[![la-saleya-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-08.jpg?resize=216%2C289 "la-saleya-shanghai-08")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-08/)
-
-[![la-saleya-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-11.jpg?resize=159%2C118 "la-saleya-shanghai-11")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-11/)
-
-[![la-saleya-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-09.jpg?resize=118%2C118 "la-saleya-shanghai-09")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-09/)
-
-[![la-saleya-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-07.jpg?resize=159%2C118 "la-saleya-shanghai-07")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-07/)
-
-[![la-saleya-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/La-Saleya-Shanghai-10-1.jpg?resize=158%2C118 "la-saleya-shanghai-10")](http://thirstypig.com/2011/12/10/le-saleya-shanghai/la-saleya-shanghai-10-2/)
 
 Where Did the Thirsty Pig Go?
 We were looking for a French restaurant and I hate to say it. . . it looks as if I settled on Le Saleya. Unfortunately, I made the mistake of trying to find and make reservations for a restaurant on a late Saturday afternoon for that evening. All the usual suspects were fully booked. I wasn’t really surprised. . .since I should have known better. Le Saleya had been mentioned in a conversation I had months ago, but I had never thought about going. But I was pleasantly surprised.

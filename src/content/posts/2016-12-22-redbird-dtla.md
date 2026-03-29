@@ -20,7 +20,6 @@ region: Downtown LA
 address: 114 East Second St
 ---
 
-[![IMG_0720](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0720.jpg?resize=606%2C455 "IMG_0720")](http://thirstypig.com/2016/12/22/redbird-dtla/img_0720/)
 
 #Pretty awesome Prime Burger with remoulade and vintage cheddar
 #Courtyard dining area is open and airy, ideal for lunch or weekend brunch

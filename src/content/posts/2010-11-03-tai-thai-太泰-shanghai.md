@@ -17,37 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![tai-thai-shanghai-18](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-18.jpg?resize=158%2C211 "tai-thai-shanghai-18")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-18/)
-
-[![tai-thai-shanghai-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-13.jpg?resize=282%2C211 "tai-thai-shanghai-13")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-13/)
-
-[![tai-thai-shanghai-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-17.jpg?resize=158%2C211 "tai-thai-shanghai-17")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-17/)
-
-[![img_5627](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5627.jpg?resize=403%2C302 "img_5627")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/img_5627/)
-
-[![tai-thai-shanghai-20](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-20.jpg?resize=199%2C149 "tai-thai-shanghai-20")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-20/)
-
-[![tai-thai-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-06.jpg?resize=199%2C149 "tai-thai-shanghai-06")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-06/)
-
-[![tai-thai-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-15.jpg?resize=282%2C211 "tai-thai-shanghai-15")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-15/)
-
-[![tai-thai-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-02.jpg?resize=282%2C212 "tai-thai-shanghai-02")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-02/)
-
-[![tai-thai-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-12.jpg?resize=320%2C427 "tai-thai-shanghai-12")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-12/)
-
-[![tai-thai-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-07.jpg?resize=222%2C166 "tai-thai-shanghai-07")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-07/)
-
-[![tai-thai-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-19.jpg?resize=222%2C166 "tai-thai-shanghai-19")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-19/)
-
-[![tai-thai-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-14.jpg?resize=222%2C167 "tai-thai-shanghai-14")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-14/)
-
-[![img_5628](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_5628.jpg?resize=380%2C507 "img_5628")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/img_5628/)
-
-[![tai-thai-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-16.jpg?resize=217%2C289 "tai-thai-shanghai-16")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-16/)
-
-[![tai-thai-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-10.jpg?resize=385%2C289 "tai-thai-shanghai-10")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-10/)
-
-[![tai-thai-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Tai-Thai-Shanghai-01.jpg?resize=606%2C455 "tai-thai-shanghai-01")](http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/tai-thai-shanghai-01/)
 
 First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to get pique your interest.
 

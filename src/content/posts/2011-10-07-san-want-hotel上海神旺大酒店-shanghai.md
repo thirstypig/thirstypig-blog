@@ -18,39 +18,24 @@ region: Shanghai
 address: 650 Yishan Road
 ---
 
-[![OLYMPUS DIGITAL CAMERA](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-20.jpg?resize=264%2C197 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-160/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-15.jpg?resize=264%2C198 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-157/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-17.jpg?resize=264%2C198 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-158/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![san-want-hotel-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-12.jpg?resize=338%2C601 "san-want-hotel-shanghai-12")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/san-want-hotel-shanghai-12/)
-
-[![san-want-hotel-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-04.jpg?resize=301%2C403 "san-want-hotel-shanghai-04")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/san-want-hotel-shanghai-04/)
-
-[![san-want-hotel-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-07.jpg?resize=301%2C403 "san-want-hotel-shanghai-07")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/san-want-hotel-shanghai-07/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-21.jpg?resize=385%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-161/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-13.jpg?resize=217%2C163 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-156/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![san-want-hotel-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-11.jpg?resize=217%2C122 "san-want-hotel-shanghai-11")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/san-want-hotel-shanghai-11/)
-
-[![OLYMPUS DIGITAL CAMERA](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-19.jpg?resize=386%2C289 "OLYMPUS DIGITAL CAMERA")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/olympus-digital-camera-159/)
 
 OLYMPUS DIGITAL CAMERA
 
-[![san-want-hotel-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/San-Want-Hotel-Shanghai-08.jpg?resize=216%2C289 "san-want-hotel-shanghai-08")](http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/san-want-hotel-shanghai-08/)
 
 The San Want Hotel is a mid-size independent hotel, which a couple of scattered locations in Asia, including Taiwan, Southern China, and Shanghai. I previously had a chance to try their dim sum restaurant at their Taipei hotel. I recently stayed over night at the Shanghai location.
 

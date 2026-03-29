@@ -17,27 +17,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![boxing-cat-brunch-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-09.jpg?resize=403%2C302 "boxing-cat-brunch-09")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-09/)
-
-[![boxing-cat-brunch-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-02.jpg?resize=199%2C149 "boxing-cat-brunch-02")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-02/)
-
-[![boxing-cat-brunch-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-01.jpg?resize=199%2C149 "boxing-cat-brunch-01")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-01/)
-
-[![boxing-cat-brunch-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-10.jpg?resize=199%2C150 "boxing-cat-brunch-10")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-10/)
-
-[![boxing-cat-brunch-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-05.jpg?resize=199%2C150 "boxing-cat-brunch-05")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-05/)
-
-[![boxing-cat-brunch-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-08.jpg?resize=200%2C150 "boxing-cat-brunch-08")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-08/)
-
-[![boxing-cat-brunch-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-06.jpg?resize=199%2C149 "boxing-cat-brunch-06")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-06/)
-
-[![boxing-cat-brunch-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-07.jpg?resize=199%2C149 "boxing-cat-brunch-07")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-07/)
-
-[![boxing-cat-brunch-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-11-1.jpg?resize=403%2C302 "boxing-cat-brunch-11")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-11-2/)
-
-[![boxing-cat-brunch-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-04.jpg?resize=385%2C289 "boxing-cat-brunch-04")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-04/)
-
-[![boxing-cat-brunch-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brunch-03.jpg?resize=217%2C289 "boxing-cat-brunch-03")](http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/boxing-cat-brunch-03/)
 
 Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up early and got to go with a few friends to Kelley Lee’s Boxing Cat Brewery for brunch.
 

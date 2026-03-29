@@ -19,35 +19,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![noodle-bull-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-08.jpg?resize=403%2C302 "noodle-bull-shanghai-08")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-08/)
-
-[![noodle-bull-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-10-1.jpg?resize=199%2C149 "noodle-bull-shanghai-10")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-10-2/)
-
-[![noodle-bull-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-05.jpg?resize=199%2C149 "noodle-bull-shanghai-05")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-05/)
-
-[![noodle-bull-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-01.jpg?resize=199%2C150 "noodle-bull-shanghai-01")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-01/)
-
-[![img_1051](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1051.jpg?resize=199%2C150 "img_1051")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/img_1051/)
-
-[![noodle-bull-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-11.jpg?resize=200%2C150 "noodle-bull-shanghai-11")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-11/)
-
-[![noodle-bull-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-09.jpg?resize=199%2C149 "noodle-bull-shanghai-09")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-09/)
-
-[![img_1049](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1049.jpg?resize=199%2C149 "img_1049")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/img_1049/)
-
-[![noodle-bull-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-04.jpg?resize=403%2C302 "noodle-bull-shanghai-04")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-04/)
-
-[![noodle-bull-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-03.jpg?resize=301%2C226 "noodle-bull-shanghai-03")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-03/)
-
-[![img_1050](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1050-1.jpg?resize=301%2C226 "img_1050")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/img_1050-5/)
-
-[![noodle-bull-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-02.jpg?resize=403%2C302 "noodle-bull-shanghai-02")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-02/)
-
-[![noodle-bull-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-06.jpg?resize=199%2C149 "noodle-bull-shanghai-06")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-06/)
-
-[![noodle-bull-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Noodle-Bull-Shanghai-07.jpg?resize=199%2C149 "noodle-bull-shanghai-07")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/noodle-bull-shanghai-07/)
-
-[![img_1070](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1070.jpg?resize=606%2C455 "img_1070")](http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/img_1070/)
 
 Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full of expats.
 

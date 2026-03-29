@@ -22,35 +22,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3261](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3261.jpg?resize=403%2C302 "img_3261")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3261/)
-
-[![img_3253](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3253.jpg?resize=199%2C149 "img_3253")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3253/)
-
-[![img_3257](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3257.jpg?resize=199%2C149 "img_3257")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3257/)
-
-[![img_3255](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3255.jpg?resize=199%2C150 "img_3255")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3255/)
-
-[![img_3416](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/07/IMG_3416.jpg?resize=199%2C150 "img_3416")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3416/)
-
-[![img_3259](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3259.jpg?resize=200%2C150 "img_3259")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3259/)
-
-[![img_3248](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3248.jpg?resize=199%2C149 "img_3248")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3248/)
-
-[![img_3249](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3249.jpg?resize=199%2C149 "img_3249")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3249/)
-
-[![img_3252](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3252.jpg?resize=403%2C302 "img_3252")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3252/)
-
-[![img_3256](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3256-1.jpg?resize=301%2C226 "img_3256")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3256-2/)
-
-[![img_3246](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3246.jpg?resize=301%2C226 "img_3246")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3246/)
-
-[![img_3260](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3260.jpg?resize=403%2C302 "img_3260")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3260/)
-
-[![img_3254](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3254.jpg?resize=199%2C149 "img_3254")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3254/)
-
-[![img_3251](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3251.jpg?resize=199%2C149 "img_3251")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3251/)
-
-[![img_3262](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3262.jpg?resize=606%2C455 "img_3262")](http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/img_3262-2/)
 
 Jia Jia Tang Bao might be arguably the best steamed dumpling in Shanghai. Bold and ostentatious it may seem, but these xiao long bao’s小籠包 are darn good. I could have probably finished off two “long’s” (round bamboo steamers).
 

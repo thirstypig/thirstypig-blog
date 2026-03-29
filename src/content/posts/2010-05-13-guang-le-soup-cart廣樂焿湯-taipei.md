@@ -17,23 +17,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_1977](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1977.jpg?resize=403%2C302 "img_1977")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1977-2/)
-
-[![img_1984](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1984.jpg?resize=199%2C149 "img_1984")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1984-2/)
-
-[![img_1979](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1979-1.jpg?resize=199%2C149 "img_1979")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1979-3/)
-
-[![img_1981](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1981.jpg?resize=199%2C149 "img_1981")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1981-2/)
-
-[![img_1983](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1983.jpg?resize=199%2C149 "img_1983")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1983-2/)
-
-[![img_1980](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1980.jpg?resize=403%2C302 "img_1980")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1980-2/)
-
-[![img_1978](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1978.jpg?resize=199%2C150 "img_1978")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1978-2/)
-
-[![img_1982](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1982.jpg?resize=199%2C150 "img_1982")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1982-2/)
-
-[![img_1976](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1976.jpg?resize=200%2C150 "img_1976")](http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/img_1976-2/)
 
 #street cart
 #Stinky Tofu

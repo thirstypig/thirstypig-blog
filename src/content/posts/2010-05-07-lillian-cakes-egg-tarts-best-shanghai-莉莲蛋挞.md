@@ -21,17 +21,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_1859](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1859.jpg?resize=380%2C507 "img_1859")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1859/)
-
-[![img_1858](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1858.jpg?resize=222%2C166 "img_1858")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1858/)
-
-[![img_1863](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1863.jpg?resize=222%2C166 "img_1863")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1863/)
-
-[![img_1857](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1857.jpg?resize=222%2C167 "img_1857")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1857/)
-
-[![img_1862](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1862.jpg?resize=301%2C226 "img_1862")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1862/)
-
-[![img_1861](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1861.jpg?resize=301%2C226 "img_1861")](http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/img_1861/)
 
 Quite possibly the best egg tart in Shanghai. Indeed!
 

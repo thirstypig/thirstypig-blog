@@ -21,29 +21,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![food-fusion-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-05.jpg?resize=403%2C301 "food-fusion-shanghai-05")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-05/)
-
-[![food-fusion-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-02.jpg?resize=199%2C148 "food-fusion-shanghai-02")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-02/)
-
-[![food-fusion-shanghai-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-09.jpg?resize=199%2C149 "food-fusion-shanghai-09")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-09/)
-
-[![food-fusion-shanghai-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-06.jpg?resize=199%2C149 "food-fusion-shanghai-06")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-06/)
-
-[![food-fusion-shanghai-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-08.jpg?resize=199%2C149 "food-fusion-shanghai-08")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-08/)
-
-[![food-fusion-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-03.jpg?resize=200%2C149 "food-fusion-shanghai-03")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-03/)
-
-[![food-fusion-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-12.jpg?resize=199%2C148 "food-fusion-shanghai-12")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-12/)
-
-[![food-fusion-shanghai-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-04-1.jpg?resize=199%2C149 "food-fusion-shanghai-04")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-04-2/)
-
-[![food-fusion-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-07.jpg?resize=403%2C301 "food-fusion-shanghai-07")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-07/)
-
-[![food-fusion-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-11.jpg?resize=301%2C225 "food-fusion-shanghai-11")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-11/)
-
-[![food-fusion-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-01.jpg?resize=301%2C225 "food-fusion-shanghai-01")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-01/)
-
-[![food-fusion-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Food-Fusion-Shanghai-10.jpg?resize=606%2C453 "food-fusion-shanghai-10")](http://thirstypig.com/2011/09/12/food-fusion-shanghai/food-fusion-shanghai-10/)
 
 Mr. D, a classmate of mine, had taken us on a Southeast Asian food tour, starting with[My Dining Place](http://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/) – a Singaporean restaurant, and the next stop was Food Fusion, a Malaysian restaurant.
 

@@ -17,17 +17,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2651](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2651.jpg?resize=403%2C302 "img_2651")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2651-2/)
-
-[![img_2648](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2648.jpg?resize=199%2C149 "img_2648")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2648-2/)
-
-[![img_2645](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2645.jpg?resize=199%2C149 "img_2645")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2645-2/)
-
-[![img_2644](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2644.jpg?resize=199%2C150 "img_2644")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2644-2/)
-
-[![img_2643](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2643.jpg?resize=199%2C150 "img_2643")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2643-2/)
-
-[![img_2646](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/06/IMG_2646.jpg?resize=200%2C150 "img_2646")](http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/img_2646-2/)
 
 Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowl(or two), if I am hungry late at night, or if I don’t have much time, and is one of the primary things I have at a Taiwanese restaurant.
 

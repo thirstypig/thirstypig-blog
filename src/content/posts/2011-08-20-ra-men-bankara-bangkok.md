@@ -38,7 +38,6 @@ region: Bangkok
 
 [![ra-men-bankara-bangkok-07](/images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-07-494x370.jpg "ra-men-bankara-bangkok-07")](http://thirstypig.com/2011/08/20/ra-men-bankara-bangkok/ra-men-bankara-bangkok-07/)
 
-[![ra-men-bankara-bangkok-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Ra-men-Bankara-Bangkok-04.jpg?resize=149%2C111 "ra-men-bankara-bangkok-04")](http://thirstypig.com/2011/08/20/ra-men-bankara-bangkok/ra-men-bankara-bangkok-04/)
 
 Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding the motorcycles, but now my perspiration from the ramen I was happily consuming in this hot summer heat in Bangkok. With the sights, sounds, flavors, and sensory overload, I just about worn out from this experience in Bangkok, after only 4 days. But it was just the start of a crazy night for us in Bangkok.
 

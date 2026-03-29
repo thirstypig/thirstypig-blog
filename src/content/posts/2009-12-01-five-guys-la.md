@@ -18,13 +18,6 @@ region: Pasadena
 address: 20700 Avalon Blvd Carson, CA 90746
 ---
 
-[![dscn0036](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0036.jpg?resize=403%2C302 "dscn0036")](http://thirstypig.com/2009/12/01/five-guys-la/dscn0036-4/)
-
-[![dscn0039](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0039.jpg?resize=199%2C149 "dscn0039")](http://thirstypig.com/2009/12/01/five-guys-la/dscn0039-5/)
-
-[![dscn0040](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0040.jpg?resize=199%2C149 "dscn0040")](http://thirstypig.com/2009/12/01/five-guys-la/dscn0040-5/)
-
-[![dscn0037](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0037.jpg?resize=606%2C455 "dscn0037")](http://thirstypig.com/2009/12/01/five-guys-la/dscn0037-4/)
 
 A decent burger from the East Coast, Five Guys Burgers and Fries, makes its way to my stomach. Though the image of the burger is not appetizing . . .almost looks like a sad burger, it is actually a pretty good burger.
 

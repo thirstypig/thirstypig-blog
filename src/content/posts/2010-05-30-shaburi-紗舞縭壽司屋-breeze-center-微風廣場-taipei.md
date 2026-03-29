@@ -19,35 +19,6 @@ region: Taipei
 address: 599 Sushi Set featuring Uni and Scallop and the Dr
 ---
 
-[![img_2374](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2374.jpg?resize=403%2C302 "img_2374")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2374/)
-
-[![img_2386](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2386.jpg?resize=199%2C149 "img_2386")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2386/)
-
-[![img_2376](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2376.jpg?resize=199%2C149 "img_2376")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2376/)
-
-[![img_2387](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2387.jpg?resize=199%2C150 "img_2387")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2387/)
-
-[![img_2377](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2377.jpg?resize=199%2C150 "img_2377")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2377/)
-
-[![img_2383](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2383.jpg?resize=200%2C150 "img_2383")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2383/)
-
-[![img_2385](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2385.jpg?resize=199%2C149 "img_2385")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2385/)
-
-[![img_2390](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2390.jpg?resize=199%2C149 "img_2390")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2390/)
-
-[![img_2375](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2375.jpg?resize=403%2C302 "img_2375")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2375/)
-
-[![img_2380](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2380.jpg?resize=301%2C226 "img_2380")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2380/)
-
-[![img_2384](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2384.jpg?resize=301%2C226 "img_2384")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2384/)
-
-[![img_2372](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2372.jpg?resize=403%2C302 "img_2372")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2372/)
-
-[![img_2378](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2378.jpg?resize=199%2C149 "img_2378")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2378/)
-
-[![img_2373](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2373.jpg?resize=199%2C149 "img_2373")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2373/)
-
-[![img_2382](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2382.jpg?resize=606%2C455 "img_2382")](http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/img_2382/)
 
 Shaburi, at Breeze Center, is a nice unassuming and non-pretentious Japanese restaurant. With high expectations on presentation and food, lunch was nice treat.
 

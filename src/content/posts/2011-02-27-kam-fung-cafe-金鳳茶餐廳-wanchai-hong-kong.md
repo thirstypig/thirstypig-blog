@@ -19,23 +19,6 @@ region: Hong Kong
 address: 41 Spring Garden Lane
 ---
 
-[![kam-fung-cafe-hkg-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-08.jpg?resize=403%2C302 "kam-fung-cafe-hkg-08")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-08/)
-
-[![kam-fung-cafe-hkg-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-07-1.jpg?resize=199%2C149 "kam-fung-cafe-hkg-07")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-07-2/)
-
-[![kam-fung-cafe-hkg-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-02-2.jpg?resize=199%2C149 "kam-fung-cafe-hkg-02")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-02-3/)
-
-[![kam-fung-cafe-hkg-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-05.jpg?resize=199%2C149 "kam-fung-cafe-hkg-05")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-05/)
-
-[![kam-fung-cafe-hkg-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-09.jpg?resize=199%2C149 "kam-fung-cafe-hkg-09")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-09/)
-
-[![kam-fung-cafe-hkg-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-04.jpg?resize=403%2C302 "kam-fung-cafe-hkg-04")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-04/)
-
-[![kam-fung-cafe-hkg-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-01.jpg?resize=199%2C150 "kam-fung-cafe-hkg-01")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-01/)
-
-[![kam-fung-cafe-hkg-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-06.jpg?resize=199%2C150 "kam-fung-cafe-hkg-06")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-06/)
-
-[![kam-fung-cafe-hkg-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/02/Kam-Fung-Cafe-HKG-03-1.jpg?resize=200%2C150 "kam-fung-cafe-hkg-03")](http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/kam-fung-cafe-hkg-03-2/)
 
 One of the best desserts in the world is the simple cantonese egg tart 蛋撻 or 蛋挞. There are a few accounts on the origins of the mini egg tarts, found today in Chinese Bakeries & Dim Sum Restaurants. I tend to believe the Portuguese story with the tart deriving from the pastel de nata.
 

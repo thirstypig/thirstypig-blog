@@ -18,49 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3178](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3178.jpg?resize=403%2C302 "img_3178")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3178/)
-
-[![img_3169](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3169.jpg?resize=199%2C149 "img_3169")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3169/)
-
-[![img_3197](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3197.jpg?resize=199%2C149 "img_3197")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3197/)
-
-[![img_3188](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3188.jpg?resize=199%2C150 "img_3188")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3188/)
-
-[![img_3186](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3186.jpg?resize=199%2C150 "img_3186")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3186/)
-
-[![img_3190](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3190.jpg?resize=200%2C150 "img_3190")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3190/)
-
-[![img_3182](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3182.jpg?resize=199%2C149 "img_3182")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3182/)
-
-[![img_3165](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3165.jpg?resize=199%2C149 "img_3165")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3165/)
-
-[![img_3184](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3184.jpg?resize=403%2C302 "img_3184")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3184/)
-
-[![img_3175](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3175.jpg?resize=301%2C226 "img_3175")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3175/)
-
-[![img_3185](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3185.jpg?resize=301%2C226 "img_3185")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3185/)
-
-[![img_3173](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3173.jpg?resize=403%2C302 "img_3173")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3173/)
-
-[![img_3172](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3172.jpg?resize=199%2C149 "img_3172")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3172/)
-
-[![img_3194](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3194.jpg?resize=199%2C149 "img_3194")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3194/)
-
-[![img_3181](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3181-1.jpg?resize=199%2C150 "img_3181")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3181-2/)
-
-[![img_3167](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3167.jpg?resize=199%2C150 "img_3167")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3167/)
-
-[![img_3163](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3163.jpg?resize=200%2C150 "img_3163")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3163/)
-
-[![img_3174](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3174.jpg?resize=199%2C149 "img_3174")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3174/)
-
-[![img_3177](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3177.jpg?resize=199%2C149 "img_3177")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3177/)
-
-[![img_3192](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3192.jpg?resize=403%2C302 "img_3192")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3192/)
-
-[![img_3198](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3198.jpg?resize=301%2C226 "img_3198")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3198/)
-
-[![img_3164](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3164.jpg?resize=301%2C226 "img_3164")](http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/img_3164/)
 
 I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they like southern cuisine, more specifically Guangdong, Cantonese, or Hong Kong dishes – could be considered the same. One of the finest in Shanghai is Crystal Jade.
 

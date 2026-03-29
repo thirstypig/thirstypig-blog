@@ -18,9 +18,6 @@ region: Hawaii
 address: 425 Koloa St
 ---
 
-[![IMG_3082](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3082.jpg?resize=301%2C226 "IMG_3082")](http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/img_3082/)
-
-[![IMG_3084](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_3084.jpg?resize=301%2C226 "IMG_3084")](http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/img_3084/)
 
 #Large Portions, I mean LARGE
 #Classic Hawaiian dishes

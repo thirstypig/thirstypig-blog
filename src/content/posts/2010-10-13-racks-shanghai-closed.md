@@ -18,21 +18,6 @@ tags:
 - closed
 ---
 
-[![racks-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-02.jpg?resize=403%2C302 "racks-shanghai-02")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-02/)
-
-[![racks-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-07.jpg?resize=199%2C149 "racks-shanghai-07")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-07/)
-
-[![racks-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-06.jpg?resize=199%2C149 "racks-shanghai-06")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-06/)
-
-[![racks-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-01.jpg?resize=199%2C150 "racks-shanghai-01")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-01/)
-
-[![racks-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-09.jpg?resize=199%2C150 "racks-shanghai-09")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-09/)
-
-[![racks-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-04.jpg?resize=200%2C150 "racks-shanghai-04")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-04/)
-
-[![racks-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-03.jpg?resize=385%2C289 "racks-shanghai-03")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-03/)
-
-[![racks-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Racks-Shanghai-10.jpg?resize=217%2C289 "racks-shanghai-10")](http://thirstypig.com/2010/10/13/racks-shanghai-closed/racks-shanghai-10/)
 
 I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 

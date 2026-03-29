@@ -78,19 +78,6 @@ address: 333 Huang Pi Nan Road
 
 [![shanghai-tang-cafe-09](/images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-34-88x88.jpg "shanghai-tang-cafe-09")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-09/)
 
-[![shanghai-tang-cafe-34](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-34.jpg?resize=282%2C211 "shanghai-tang-cafe-34")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-34/)
-
-[![shanghai-tang-cafe-32](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-32.jpg?resize=282%2C212 "shanghai-tang-cafe-32")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-32/)
-
-[![shanghai-tang-cafe-16](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-16.jpg?resize=385%2C289 "shanghai-tang-cafe-16")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-16/)
-
-[![shanghai-tang-cafe-24](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-24.jpg?resize=217%2C289 "shanghai-tang-cafe-24")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-24/)
-
-[![dsc_0006](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/09/DSC_0006.jpg?resize=402%2C267 "dsc_0006")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/dsc_0006-2/)
-
-[![shanghai-tang-cafe-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-13.jpg?resize=200%2C267 "shanghai-tang-cafe-13")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-13/)
-
-[![shanghai-tang-cafe-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Shanghai-Tang-Cafe-11.jpg?resize=606%2C455 "shanghai-tang-cafe-11")](http://thirstypig.com/2010/09/05/shanghai-tang-cafe/shanghai-tang-cafe-11/)
 
 When I first heard that there was a Shanghai Tang Cafe, I knew I should look into it. But then when I heard they had a Sunday Brunch, I was more intrigued. Yet, when I found out that the all-you-can-eat brunch included drinks – Beer . . . I needed to get there!
 

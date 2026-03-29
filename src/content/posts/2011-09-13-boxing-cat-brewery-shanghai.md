@@ -21,23 +21,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![boxing-cat-brewery-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-06.jpg?resize=395%2C295 "boxing-cat-brewery-shanghai-06")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-06/)
-
-[![boxing-cat-brewery-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-02.jpg?resize=207%2C154 "boxing-cat-brewery-shanghai-02")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-02/)
-
-[![boxingcat-shanghai-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/boxingcat.shanghai.02.jpg?resize=207%2C137 "boxingcat-shanghai-02")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxingcat-shanghai-02/)
-
-[![boxing-cat-brewery-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-04.jpg?resize=282%2C211 "boxing-cat-brewery-shanghai-04")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-04/)
-
-[![boxing-cat-brewery-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-03.jpg?resize=282%2C211 "boxing-cat-brewery-shanghai-03")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-03/)
-
-[![img_3033](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/09/IMG_3033.jpg?resize=320%2C426 "img_3033")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/img_3033/)
-
-[![boxingcat-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/boxingcat.shanghai.01.jpg?resize=207%2C137 "boxingcat-shanghai-01")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxingcat-shanghai-01/)
-
-[![boxing-cat-brewery-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Boxing-Cat-Brewery-Shanghai-05.jpg?resize=184%2C137 "boxing-cat-brewery-shanghai-05")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/boxing-cat-brewery-shanghai-05/)
-
-[![dsc_0015](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/09/DSC_0015.jpg?resize=207%2C137 "dsc_0015")](http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/dsc_0015-3/)
 
 When it comes to comfort food, almost nothing compares to good ole hearty American Southern cuisine. As much as we hate it, lard, butter, and grease are all necessary evils and ingredients for wholesome and tasty foods from the South. Bold with taste, it is also unfortunately quite filling. But every once and awhile, you’ve got to splurge and enjoy some of the finer things in life – and foods is a little that we should all have.
 

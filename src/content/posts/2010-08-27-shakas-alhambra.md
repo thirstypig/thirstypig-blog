@@ -36,6 +36,7 @@ archiveUrl: https://web.archive.org/web/20100915154758/http://www.thethirstypig.
 draft: false
 location: Kalua Pig and Pork Lau Lau . . . Oh so good at Shaka’s
 region: San Gabriel Valley
+city: Alhambra
 ---
 
 #gallery-2 {

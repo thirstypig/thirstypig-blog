@@ -24,7 +24,6 @@ region: Downtown LA
 
 [![IMG_0738](/images/posts/chef-johnny-lees-hainan-chicken/IMG_0739.jpg "IMG_0738")](http://thirstypig.com/2016/10/04/chef-johnny-lees-hainan-chicken/img_0738/)
 
-[![IMG_0739](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0739.jpg?resize=385%2C289 "IMG_0739")](http://thirstypig.com/2016/10/04/chef-johnny-lees-hainan-chicken/img_0739/)
 
 #Popup for Hainan Chicken Rice in Chinatown
 #Small portions, I could finish 1.5, but I’m a big dude

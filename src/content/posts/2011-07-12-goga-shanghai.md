@@ -50,27 +50,6 @@ region: Shanghai
 
 [![goga-16](/images/posts/goga-shanghai/Goga-Shanghai-18-494x370.jpg "goga-16")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-16/)
 
-[![goga-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-18.jpg?resize=301%2C226 "goga-18")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-18/)
-
-[![goga-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-04.jpg?resize=403%2C302 "goga-04")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-04/)
-
-[![goga-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-07.jpg?resize=199%2C149 "goga-07")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-07/)
-
-[![goga-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-02.jpg?resize=199%2C149 "goga-02")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-02/)
-
-[![goga-21](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-21.jpg?resize=199%2C150 "goga-21")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-21/)
-
-[![goga-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-06.jpg?resize=199%2C150 "goga-06")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-06/)
-
-[![goga-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-14.jpg?resize=200%2C150 "goga-14")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-14/)
-
-[![goga-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-08.jpg?resize=148%2C111 "goga-08")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-08/)
-
-[![goga-13](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-13.jpg?resize=148%2C111 "goga-13")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-13/)
-
-[![goga-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-12.jpg?resize=149%2C111 "goga-12")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-12/)
-
-[![goga-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Goga-10.jpg?resize=149%2C111 "goga-10")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-10/)
 
 The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine culinary dining from Japan, Italy, France, as well as regional Chinese and with Goga, we see (and taste) decent American food.
 

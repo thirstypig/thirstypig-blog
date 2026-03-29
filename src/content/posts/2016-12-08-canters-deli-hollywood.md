@@ -19,11 +19,6 @@ region: Hollywood
 address: 419 N Fairfax Ave Los Angeles, CA 90036
 ---
 
-[![IMG_0669](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0669.jpg?resize=439%2C329 "IMG_0669")](http://thirstypig.com/2016/12/08/canters-deli-hollywood/img_0669/)
-
-[![IMG_0671](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0671.jpg?resize=163%2C162 "IMG_0671")](http://thirstypig.com/2016/12/08/canters-deli-hollywood/img_0671/)
-
-[![IMG_0672](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_0672.jpg?resize=163%2C163 "IMG_0672")](http://thirstypig.com/2016/12/08/canters-deli-hollywood/img_0672/)
 
 #Gotta have the Pastrami . . . What else do you order at a Jewish Deli?
 #The place isn’t cheap, but arguably worth it, at a late hour

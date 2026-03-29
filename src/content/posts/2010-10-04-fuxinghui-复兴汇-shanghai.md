@@ -18,47 +18,6 @@ region: Shanghai
 address: 1479 Middle Fuxing Road
 ---
 
-[![fuxinghui-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-03.jpg?resize=158%2C211 "fuxinghui-shanghai-03")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-03/)
-
-[![fuxinghui-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-12.jpg?resize=282%2C211 "fuxinghui-shanghai-12")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-12/)
-
-[![fuxinghui-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-15.jpg?resize=158%2C211 "fuxinghui-shanghai-15")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-15/)
-
-[![fuxinghui-shanghai-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-18.jpg?resize=403%2C302 "fuxinghui-shanghai-18")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-18/)
-
-[![fuxinghui-shanghai-19](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-19.jpg?resize=199%2C149 "fuxinghui-shanghai-19")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-19/)
-
-[![fuxinghui-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-04.jpg?resize=199%2C149 "fuxinghui-shanghai-04")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-04/)
-
-[![fuxinghui-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-05.jpg?resize=222%2C166 "fuxinghui-shanghai-05")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-05/)
-
-[![fuxinghui-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-02.jpg?resize=222%2C166 "fuxinghui-shanghai-02")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-02/)
-
-[![fuxinghui-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-11.jpg?resize=222%2C167 "fuxinghui-shanghai-11")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-11/)
-
-[![fuxinghui-shanghai-20](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-20.jpg?resize=380%2C507 "fuxinghui-shanghai-20")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-20/)
-
-[![fuxinghui-shanghai-21](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-21.jpg?resize=380%2C507 "fuxinghui-shanghai-21")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-21/)
-
-[![fuxinghui-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-09.jpg?resize=222%2C166 "fuxinghui-shanghai-09")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-09/)
-
-[![fuxinghui-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-06.jpg?resize=222%2C166 "fuxinghui-shanghai-06")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-06/)
-
-[![fuxinghui-shanghai-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-14-1.jpg?resize=222%2C167 "fuxinghui-shanghai-14")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-14-2/)
-
-[![fuxinghui-shanghai-17](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-17.jpg?resize=208%2C277 "fuxinghui-shanghai-17")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-17/)
-
-[![fuxinghui-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-16.jpg?resize=182%2C136 "fuxinghui-shanghai-16")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-16/)
-
-[![fuxinghui-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-08.jpg?resize=182%2C137 "fuxinghui-shanghai-08")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-08/)
-
-[![fuxinghui-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-13.jpg?resize=208%2C277 "fuxinghui-shanghai-13")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-13/)
-
-[![fuxinghui-shanghai-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-10.jpg?resize=403%2C302 "fuxinghui-shanghai-10")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-10/)
-
-[![fuxinghui-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-07.jpg?resize=199%2C149 "fuxinghui-shanghai-07")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-07/)
-
-[![fuxinghui-shanghai-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Fuxinghui-Shanghai-01-1.jpg?resize=199%2C149 "fuxinghui-shanghai-01")](http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/fuxinghui-shanghai-01-2/)
 
 Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.
 

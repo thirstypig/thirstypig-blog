@@ -19,45 +19,6 @@ region: Downtown LA
 address: 525 S Flower St St
 ---
 
-[![img_0031](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0031.jpg?resize=403%2C302 "img_0031")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0031/)
-
-[![img_0035](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0035.jpg?resize=199%2C149 "img_0035")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0035/)
-
-[![img_0043](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0043.jpg?resize=199%2C149 "img_0043")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0043/)
-
-[![img_0050](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0050.jpg?resize=282%2C211 "img_0050")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0050-2/)
-
-[![img_0029](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0029.jpg?resize=282%2C212 "img_0029")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0029/)
-
-[![img_0051](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0051.jpg?resize=320%2C427 "img_0051")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0051/)
-
-[![img_0033](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0033.jpg?resize=380%2C507 "img_0033")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0033/)
-
-[![img_0041](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0041.jpg?resize=222%2C166 "img_0041")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0041/)
-
-[![img_0024](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0024.jpg?resize=222%2C166 "img_0024")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0024-2/)
-
-[![img_0037](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0037.jpg?resize=222%2C167 "img_0037")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0037-2/)
-
-[![img_0042](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0042.jpg?resize=199%2C150 "img_0042")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0042/)
-
-[![img_0048](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0048.jpg?resize=199%2C150 "img_0048")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0048-2/)
-
-[![img_0030](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0030.jpg?resize=200%2C150 "img_0030")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0030/)
-
-[![img_0038](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0038.jpg?resize=385%2C289 "img_0038")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0038/)
-
-[![img_0028](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0028.jpg?resize=217%2C289 "img_0028")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0028/)
-
-[![img_0026](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0026.jpg?resize=403%2C302 "img_0026")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0026/)
-
-[![img_0034](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0034.jpg?resize=199%2C149 "img_0034")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0034/)
-
-[![img_0027](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0027.jpg?resize=199%2C149 "img_0027")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0027/)
-
-[![img_0036](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0036.jpg?resize=301%2C226 "img_0036")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0036-2/)
-
-[![img_0049](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0049.jpg?resize=301%2C226 "img_0049")](http://thirstypig.com/2009/12/21/drago-centro-dtla/img_0049-3/)
 
 Drago Centro chosen on this night for a friend’s birthday, Miss M, which is also one of her favorites. In the heart of the city is Drago Centro, an upscale Italian restaurant for the urbanites of Los Angeles.
 

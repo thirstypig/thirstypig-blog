@@ -18,23 +18,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_3120](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3120.jpg?resize=403%2C302 "img_3120")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3120/)
-
-[![img_3125](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3125.jpg?resize=199%2C149 "img_3125")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3125/)
-
-[![img_3118](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3118.jpg?resize=199%2C149 "img_3118")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3118/)
-
-[![img_3117](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3117.jpg?resize=199%2C149 "img_3117")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3117/)
-
-[![img_3122](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3122.jpg?resize=199%2C149 "img_3122")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3122-2/)
-
-[![img_3200](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/07/IMG_3200.jpg?resize=403%2C302 "img_3200")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3200/)
-
-[![img_3114](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3114.jpg?resize=199%2C150 "img_3114")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3114/)
-
-[![img_3121](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3121.jpg?resize=199%2C150 "img_3121")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3121-2/)
-
-[![img_3116](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_3116.jpg?resize=200%2C150 "img_3116")](http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/img_3116/)
 
 Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers an assortment of teas – hot and cold, with light snacks and entrees.
 

@@ -24,13 +24,6 @@ address: 400 Baldwin Ave Arcadia, CA 91007
 
 [![img_0455](/images/posts/side-chick-arcadia/IMG_0460.jpg "img_0455")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0455-3/)
 
-[![img_0460](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0460.jpg?resize=222%2C166 "img_0460")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0460-3/)
-
-[![img_0459](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0459.jpg?resize=222%2C166 "img_0459")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0459-2/)
-
-[![img_0458](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0458.jpg?resize=222%2C167 "img_0458")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0458/)
-
-[![img_0456](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0456.jpg?resize=606%2C808 "img_0456")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0456-2/)
 
 #Johnny Lee’s Hainan Chicken now in a permanent location
 #Solid Effort and is getting better. May eventually dethrone Savoy.  I like the roast chicken better than the poached one

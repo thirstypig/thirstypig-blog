@@ -17,37 +17,9 @@ draft: false
 location: Man Soo Korean Bar-B-Q
 city: Los Angeles
 region: Koreatown
+address: 3429 W 8th St
 ---
 
-[![img_0462](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0462.jpg?resize=403%2C302 "img_0462")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0462/)
-
-[![img_0452](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0452.jpg?resize=199%2C149 "img_0452")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0452-3/)
-
-[![img_0461](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0461.jpg?resize=199%2C149 "img_0461")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0461-2/)
-
-[![img_0449](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0449.jpg?resize=199%2C150 "img_0449")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0449-2/)
-
-[![img_0459](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0459-1.jpg?resize=199%2C150 "img_0459")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0459-3/)
-
-[![img_0456](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0456-1.jpg?resize=200%2C150 "img_0456")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0456-3/)
-
-[![img_0465](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0465.jpg?resize=199%2C149 "img_0465")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0465-2/)
-
-[![img_0451](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0451.jpg?resize=199%2C149 "img_0451")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0451-3/)
-
-[![img_0453](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0453.jpg?resize=403%2C302 "img_0453")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0453-3/)
-
-[![img_0448](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0448.jpg?resize=301%2C226 "img_0448")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0448-2/)
-
-[![img_0460](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0460-1.jpg?resize=301%2C226 "img_0460")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0460-4/)
-
-[![img_0454](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0454.jpg?resize=403%2C302 "img_0454")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0454-2/)
-
-[![img_0446](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0446.jpg?resize=199%2C149 "img_0446")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0446-3/)
-
-[![img_0455](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0455-1.jpg?resize=199%2C149 "img_0455")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0455-4/)
-
-[![img_0450](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0450.jpg?resize=606%2C455 "img_0450")](http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/img_0450-3/)
 
 The thing about new Korean BBQ restaurants – it is said that they offer more(in their servings to entice new customers), smell nicer(since they don’t have the stench in the walls), and less crowded(till they get hyped up). But there is also a risk in being guinea pigs at an unknown restaurant. I like the idea of trying newly open places, but I also know that it may backfire with crappy food. But in most cases, since I am pretty flexible and hard to let down(foodwise), I am easy to please.
 

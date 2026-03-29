@@ -17,29 +17,6 @@ region: Bangkok
 address: 42 Convent Road
 ---
 
-[![naj-thai-bangkok-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-11.jpg?resize=403%2C302 "naj-thai-bangkok-11")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-11/)
-
-[![naj-thai-bangkok-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-02.jpg?resize=199%2C149 "naj-thai-bangkok-02")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-02/)
-
-[![naj-thai-bangkok-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-12.jpg?resize=199%2C149 "naj-thai-bangkok-12")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-12/)
-
-[![naj-thai-bangkok-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-05.jpg?resize=199%2C150 "naj-thai-bangkok-05")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-05/)
-
-[![naj-thai-bangkok-09](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-09.jpg?resize=199%2C150 "naj-thai-bangkok-09")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-09/)
-
-[![naj-thai-bangkok-08](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-08.jpg?resize=200%2C150 "naj-thai-bangkok-08")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-08/)
-
-[![naj-thai-bangkok-06](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-06.jpg?resize=199%2C149 "naj-thai-bangkok-06")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-06/)
-
-[![naj-thai-bangkok-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-07.jpg?resize=199%2C149 "naj-thai-bangkok-07")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-07/)
-
-[![naj-thai-bangkok-01](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-01.jpg?resize=403%2C302 "naj-thai-bangkok-01")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-01/)
-
-[![naj-thai-bangkok-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-10.jpg?resize=301%2C226 "naj-thai-bangkok-10")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-10/)
-
-[![naj-thai-bangkok-04](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-04.jpg?resize=301%2C226 "naj-thai-bangkok-04")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-04/)
-
-[![naj-thai-bangkok-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Naj-Thai-Bangkok-13.jpg?resize=606%2C455 "naj-thai-bangkok-13")](http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/naj-thai-bangkok-13/)
 
 When you greeted by the beautiful hostesses at Naj and shown to your table in the white motif’d dining room, the feeling of elegance.
 

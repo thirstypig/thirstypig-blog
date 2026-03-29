@@ -19,27 +19,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_1961](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1961.jpg?resize=403%2C302 "img_1961")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1961/)
-
-[![img_1962](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1962.jpg?resize=199%2C149 "img_1962")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1962/)
-
-[![img_1966](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1966.jpg?resize=199%2C149 "img_1966")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1966/)
-
-[![img_1964](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1964.jpg?resize=199%2C150 "img_1964")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1964/)
-
-[![img_1963](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1963.jpg?resize=199%2C150 "img_1963")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1963/)
-
-[![img_1973](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1973.jpg?resize=200%2C150 "img_1973")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1973/)
-
-[![img_1960](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1960.jpg?resize=199%2C149 "img_1960")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1960/)
-
-[![img_1968](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1968.jpg?resize=199%2C149 "img_1968")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1968/)
-
-[![img_1970](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1970.jpg?resize=403%2C302 "img_1970")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1970/)
-
-[![img_1975](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1975-2.jpg?resize=301%2C226 "img_1975")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1975-3/)
-
-[![img_1974](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1974.jpg?resize=301%2C226 "img_1974")](http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/img_1974/)
 
 VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 

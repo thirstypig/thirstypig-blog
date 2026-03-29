@@ -19,13 +19,6 @@ address: '26 Los Robles Ave.
   Pasadena, CA 91101'
 ---
 
-[![dscn0045](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0045.jpg?resize=403%2C302 "dscn0045")](http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/dscn0045/)
-
-[![dscn0042](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0042.jpg?resize=199%2C149 "dscn0042")](http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/dscn0042-2/)
-
-[![dscn0040-2](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0040-2.jpg?resize=199%2C149 "dscn0040-2")](http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/dscn0040-2-2/)
-
-[![dscn0047](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSCN0047-1.jpg?resize=606%2C455 "dscn0047")](http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/dscn0047-2/)
 
 Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie and California restaurants all over the place. So, to me. . . coming here was almost moot. But my friend insisted we go. INSISTED!!
 

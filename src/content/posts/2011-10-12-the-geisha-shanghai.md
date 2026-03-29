@@ -20,43 +20,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![geisha-shanghai-16](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-16.jpg?resize=386%2C289 "geisha-shanghai-16")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-16/)
-
-[![geisha-shanghai-23](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-23.jpg?resize=216%2C289 "geisha-shanghai-23")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-23/)
-
-[![geisha-shanghai-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-12.jpg?resize=158%2C211 "geisha-shanghai-12")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-12/)
-
-[![geisha-shanghai-26](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-26.jpg?resize=282%2C211 "geisha-shanghai-26")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-26/)
-
-[![geisha-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-08.jpg?resize=158%2C211 "geisha-shanghai-08")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-08/)
-
-[![geisha-shanghai-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-07.jpg?resize=301%2C403 "geisha-shanghai-07")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-07/)
-
-[![geisha-shanghai-22](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-22.jpg?resize=301%2C403 "geisha-shanghai-22")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-22/)
-
-[![geisha-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-11.jpg?resize=283%2C211 "geisha-shanghai-11")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-11/)
-
-[![geisha-shanghai-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-19.jpg?resize=283%2C212 "geisha-shanghai-19")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-19/)
-
-[![geisha-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-01.jpg?resize=319%2C427 "geisha-shanghai-01")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-01/)
-
-[![geisha-shanghai-18](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-18.jpg?resize=223%2C166 "geisha-shanghai-18")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-18/)
-
-[![geisha-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-05.jpg?resize=223%2C167 "geisha-shanghai-05")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-05/)
-
-[![geisha-shanghai-27](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-27.jpg?resize=223%2C167 "geisha-shanghai-27")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-27/)
-
-[![geisha-shanghai-06](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-06.jpg?resize=379%2C508 "geisha-shanghai-06")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-06/)
-
-[![geisha-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-09.jpg?resize=158%2C211 "geisha-shanghai-09")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-09/)
-
-[![geisha-shanghai-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-20.jpg?resize=282%2C211 "geisha-shanghai-20")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-20/)
-
-[![geisha-shanghai-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-15.jpg?resize=158%2C211 "geisha-shanghai-15")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-15/)
-
-[![geisha-shanghai-25](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-25.jpg?resize=386%2C289 "geisha-shanghai-25")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-25/)
-
-[![geisha-shanghai-24](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Geisha-Shanghai-24.jpg?resize=216%2C289 "geisha-shanghai-24")](http://thirstypig.com/2011/10/12/the-geisha-shanghai/geisha-shanghai-24/)
 
 **Where did the Thirsty Pig go?**
 The Geisha is a Japanese themed restaurant with a dance club and bar lounge in a multilevel space. Situated in the heart of the French Concession of Shanghai 上海法租界, Geisha is the latest place to go for dining and dining. The Geisha, which opened toward the end of the Summer of 2011, is part of the Collective Concepts group, that brought The Apartment and Food Central to Shanghai.

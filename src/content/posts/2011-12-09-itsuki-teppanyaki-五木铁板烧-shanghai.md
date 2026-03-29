@@ -21,31 +21,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![wu-mu-japanese-shanghai-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-02.jpg?resize=234%2C175 "wu-mu-japanese-shanghai-02")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-02/)
-
-[![wu-mu-japanese-shanghai-12](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-12.jpg?resize=130%2C175 "wu-mu-japanese-shanghai-12")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-12/)
-
-[![wu-mu-japanese-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-10.jpg?resize=234%2C175 "wu-mu-japanese-shanghai-10")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-10/)
-
-[![wu-mu-japanese-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-07.jpg?resize=403%2C301 "wu-mu-japanese-shanghai-07")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-07/)
-
-[![wu-mu-japanese-shanghai-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-11.jpg?resize=199%2C148 "wu-mu-japanese-shanghai-11")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-11/)
-
-[![wu-mu-japanese-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-06.jpg?resize=199%2C149 "wu-mu-japanese-shanghai-06")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-06/)
-
-[![wu-mu-japanese-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-09.jpg?resize=179%2C133 "wu-mu-japanese-shanghai-09")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-09/)
-
-[![wu-mu-japanese-shanghai-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-13.jpg?resize=179%2C179 "wu-mu-japanese-shanghai-13")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-13/)
-
-[![wu-mu-japanese-shanghai-05](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-05.jpg?resize=423%2C316 "wu-mu-japanese-shanghai-05")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-05/)
-
-[![wu-mu-japanese-shanghai-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-03.jpg?resize=167%2C125 "wu-mu-japanese-shanghai-03")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-03/)
-
-[![wu-mu-japanese-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-01.jpg?resize=93%2C125 "wu-mu-japanese-shanghai-01")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-01/)
-
-[![wu-mu-japanese-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-04.jpg?resize=167%2C125 "wu-mu-japanese-shanghai-04")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-04/)
-
-[![wu-mu-japanese-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Wu-Mu-Japanese-Shanghai-08.jpg?resize=167%2C125 "wu-mu-japanese-shanghai-08")](http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/wu-mu-japanese-shanghai-08/)
 
 Itsuki is an all you can eat Japanese Teppanyaki/BBQ restaurant. Located in the Donghu hotel, they have a pretty good deal for 150 RMB, which also includes all you can drink (alcohol included). For beef lovers, this place features a pretty quality of meat. I’ve had some forgettable all-you-can-eat Japanese restaurants, but Itsuki, which comes highly recommended, is actually not bad.
 

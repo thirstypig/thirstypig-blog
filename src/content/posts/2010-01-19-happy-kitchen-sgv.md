@@ -20,27 +20,6 @@ region: San Gabriel Valley
 address: 301 W Valley Blvd
 ---
 
-[![img_0220](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0220-2.jpg?resize=403%2C302 "img_0220")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0220-3/)
-
-[![img_0217](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0217-1.jpg?resize=199%2C149 "img_0217")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0217-2/)
-
-[![img_0227](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0227-1.jpg?resize=199%2C149 "img_0227")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0227-2/)
-
-[![img_0222](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0222-2.jpg?resize=199%2C150 "img_0222")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0222-3/)
-
-[![img_0225](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0225-1.jpg?resize=199%2C150 "img_0225")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0225-2/)
-
-[![img_0215](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0215-2.jpg?resize=200%2C150 "img_0215")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0215-3/)
-
-[![img_0218](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0218-2.jpg?resize=199%2C149 "img_0218")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0218-3/)
-
-[![img_0214](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0214.jpg?resize=199%2C149 "img_0214")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0214/)
-
-[![img_0219](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0219-2.jpg?resize=403%2C302 "img_0219")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0219-3/)
-
-[![img_0224](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0224-1.jpg?resize=301%2C226 "img_0224")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0224-2/)
-
-[![img_0221](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_0221-2.jpg?resize=301%2C226 "img_0221")](http://thirstypig.com/2010/01/19/happy-kitchen-sgv/img_0221-3/)
 
 I’ve been an amateur journalist that eats for some time now. And occasionally, my friends will insist upon me trying a place. They will drag me to some corner place and lay claim as if they were preaching “the next coming” of some sort of beef. I might be given their used-car sales pitch about the chicken dish at their under appreciated hang out. Most of the time, it’s just their giddy excitement oozing out and everything being over-hyped. I’ll most often agree to some point, with me inside smiling politely, since the food is somewhat acceptable, than being stupendously awesome. Though I know I’ll hear their ire, if I don’t amiably agree a bit.
 

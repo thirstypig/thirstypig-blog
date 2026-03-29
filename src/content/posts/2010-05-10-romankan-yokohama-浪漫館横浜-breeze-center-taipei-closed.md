@@ -20,19 +20,6 @@ city: Taipei
 region: Taipei
 ---
 
-[![img_2250](http://i0.wp.com/thirstypig.com/wp-content/uploads/2010/05/IMG_2250.jpg?resize=403%2C302 "img_2250")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_2250/)
-
-[![img_1902](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1902.jpg?resize=199%2C149 "img_1902")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_1902/)
-
-[![img_1907](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1907.jpg?resize=199%2C149 "img_1907")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_1907/)
-
-[![img_1910](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1910.jpg?resize=148%2C111 "img_1910")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_1910/)
-
-[![img_2252](http://i1.wp.com/thirstypig.com/wp-content/uploads/2010/05/IMG_2252.jpg?resize=148%2C111 "img_2252")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_2252/)
-
-[![img_2253](http://i2.wp.com/thirstypig.com/wp-content/uploads/2010/05/IMG_2253-1.jpg?resize=149%2C111 "img_2253")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_2253-2/)
-
-[![img_1908](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1908-1.jpg?resize=149%2C111 "img_1908")](http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/img_1908-2/)
 
 Romankan makes a type of sandwich that features a specific type of filling that is quite popular. This Japanese style sandwich is packed with a fried pork cutlet, or chicken one. That’s all you need, practically.
 

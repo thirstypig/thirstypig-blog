@@ -19,35 +19,6 @@ region: Taipei
 address: 136 Alley Roosevelt Road
 ---
 
-[![img_2682](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2682.jpg?resize=403%2C302 "img_2682")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2682/)
-
-[![img_2674](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2674.jpg?resize=199%2C149 "img_2674")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2674/)
-
-[![img_2673](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2673.jpg?resize=199%2C149 "img_2673")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2673/)
-
-[![img_2677](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2677.jpg?resize=234%2C175 "img_2677")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2677-2/)
-
-[![img_2680](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2680.jpg?resize=131%2C175 "img_2680")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2680/)
-
-[![img_2675](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2675.jpg?resize=233%2C175 "img_2675")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2675-2/)
-
-[![img_2681](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2681.jpg?resize=199%2C149 "img_2681")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2681/)
-
-[![img_2685](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2685.jpg?resize=199%2C149 "img_2685")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2685/)
-
-[![img_2676](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2676.jpg?resize=403%2C302 "img_2676")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2676-2/)
-
-[![img_2683](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2683.jpg?resize=301%2C226 "img_2683")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2683/)
-
-[![img_2686](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2686.jpg?resize=301%2C226 "img_2686")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2686/)
-
-[![img_2688](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2688.jpg?resize=403%2C302 "img_2688")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2688/)
-
-[![img_2679](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2679.jpg?resize=199%2C149 "img_2679")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2679/)
-
-[![img_2678](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2678.jpg?resize=199%2C149 "img_2678")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2678-2/)
-
-[![img_2687](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_2687.jpg?resize=606%2C455 "img_2687")](http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/img_2687/)
 
 One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taipei, on a yearly basis and never had the urge to try Mexican food. Yet, when I return from Asia, one of the first things I do is head to a hole-in-the-wall Mexican restaurant. Often times, King Taco will suffice, just nicely.
 

@@ -25,45 +25,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![dsc_0010](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0010.jpg?resize=403%2C268 "dsc_0010")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0010/)
-
-[![dsc_0013](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0013-1.jpg?resize=199%2C132 "dsc_0013")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0013-2/)
-
-[![dsc_0002](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0002.jpg?resize=199%2C132 "dsc_0002")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0002/)
-
-[![dsc_0003](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0003.jpg?resize=199%2C132 "dsc_0003")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0003/)
-
-[![dsc_0006](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0006.jpg?resize=199%2C132 "dsc_0006")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0006/)
-
-[![dsc_0014](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0014.jpg?resize=200%2C132 "dsc_0014")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0014/)
-
-[![dsc_0009](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0009.jpg?resize=199%2C132 "dsc_0009")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0009/)
-
-[![dsc_0017](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0017.jpg?resize=199%2C132 "dsc_0017")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0017/)
-
-[![dsc_0011](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0011.jpg?resize=403%2C268 "dsc_0011")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0011/)
-
-[![dsc_0016](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0016.jpg?resize=301%2C200 "dsc_0016")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0016/)
-
-[![dsc_0007](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0007.jpg?resize=301%2C200 "dsc_0007")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0007/)
-
-[![dsc_0004](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0004.jpg?resize=403%2C268 "dsc_0004")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0004/)
-
-[![dsc_0008](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0008.jpg?resize=199%2C132 "dsc_0008")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0008/)
-
-[![dsc_0019](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0019.jpg?resize=199%2C132 "dsc_0019")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0019/)
-
-[![dsc_0001](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0001.jpg?resize=301%2C200 "dsc_0001")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0001/)
-
-[![dsc_0022](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0022.jpg?resize=301%2C200 "dsc_0022")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0022/)
-
-[![dsc_0021](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0021.jpg?resize=148%2C99 "dsc_0021")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0021/)
-
-[![dsc_0012](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0012.jpg?resize=148%2C99 "dsc_0012")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0012/)
-
-[![dsc_0015](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0015-1.jpg?resize=149%2C99 "dsc_0015")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0015-2/)
-
-[![dsc_0005](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/DSC_0005.jpg?resize=149%2C99 "dsc_0005")](http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/dsc_0005/)
 
 **What is [Le Cafe des Stagiaires](http://www.cafestagiaires.com/)?**
 

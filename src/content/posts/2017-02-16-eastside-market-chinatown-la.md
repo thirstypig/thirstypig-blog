@@ -21,9 +21,6 @@ region: Downtown LA
 address: 1013 Alpine St Los Angeles, CA 90012
 ---
 
-[![IMG_1083](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1083.jpg?resize=310%2C232 "IMG_1083")](http://thirstypig.com/2017/02/16/eastside-market-chinatown-la/img_1083/)
-
-[![IMG_1085](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/08/IMG_1085.jpg?resize=292%2C232 "IMG_1085")](http://thirstypig.com/2017/02/16/eastside-market-chinatown-la/img_1085/)
 
 #Old School Italian Deli restaurant near Chinatown DTLA
 #Great sandwiches – like the Pastrami in Sauce, Italian Sausage, and Meatball

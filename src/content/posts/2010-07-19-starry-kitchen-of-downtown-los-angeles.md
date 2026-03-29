@@ -29,4 +29,6 @@ description: Seemly a Hollywood story, Starry Kitchen started its humble beginni
 archiveUrl: https://web.archive.org/web/20110105184343/http://www.thethirstypig.com/2010/07/19/starry-kitchen-of-downtown-los-angeles/
 draft: false
 location: Starry Kitchen of Downtown Los Angeles
+city: Los Angeles
+region: Los Angeles
 ---

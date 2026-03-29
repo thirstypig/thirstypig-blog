@@ -18,39 +18,6 @@ region: Shanghai
 address: 164 Nanchang Road
 ---
 
-[![art-salon-shanghai-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-01.jpg?resize=403%2C301 "art-salon-shanghai-01")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-01/)
-
-[![art-salon-shanghai-16](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-16.jpg?resize=199%2C148 "art-salon-shanghai-16")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-16/)
-
-[![art-salon-shanghai-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-13.jpg?resize=199%2C149 "art-salon-shanghai-13")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-13/)
-
-[![art-salon-shanghai-15](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-15-1.jpg?resize=283%2C211 "art-salon-shanghai-15")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-15-2/)
-
-[![art-salon-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-10.jpg?resize=283%2C212 "art-salon-shanghai-10")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-10/)
-
-[![art-salon-shanghai-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-05.jpg?resize=319%2C427 "art-salon-shanghai-05")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-05/)
-
-[![art-salon-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-06.jpg?resize=301%2C225 "art-salon-shanghai-06")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-06/)
-
-[![art-salon-shanghai-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-08.jpg?resize=301%2C225 "art-salon-shanghai-08")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-08/)
-
-[![art-salon-shanghai-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-04.jpg?resize=379%2C508 "art-salon-shanghai-04")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-04/)
-
-[![art-salon-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-02.jpg?resize=223%2C166 "art-salon-shanghai-02")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-02/)
-
-[![art-salon-shanghai-14](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-14.jpg?resize=223%2C167 "art-salon-shanghai-14")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-14/)
-
-[![art-salon-shanghai-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-12.jpg?resize=223%2C167 "art-salon-shanghai-12")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-12/)
-
-[![art-salon-shanghai-07](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-07.jpg?resize=403%2C301 "art-salon-shanghai-07")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-07/)
-
-[![art-salon-shanghai-17](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-17.jpg?resize=199%2C148 "art-salon-shanghai-17")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-17/)
-
-[![art-salon-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-09.jpg?resize=199%2C149 "art-salon-shanghai-09")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-09/)
-
-[![art-salon-shanghai-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-11.jpg?resize=301%2C225 "art-salon-shanghai-11")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-11/)
-
-[![art-salon-shanghai-03](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Art-Salon-Shanghai-03.jpg?resize=301%2C225 "art-salon-shanghai-03")](http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/art-salon-shanghai-03/)
 
 Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features original full size artwork from local painters, as well as from the brothers themselves.
 

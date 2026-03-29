@@ -20,53 +20,6 @@ region: Shanghai
 address: 1414 Huaihai Middle Rd
 ---
 
-[![madion-brunch-14](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-14.jpg?resize=403%2C302 "madion-brunch-14")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-14/)
-
-[![madion-brunch-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-04.jpg?resize=199%2C149 "madion-brunch-04")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-04/)
-
-[![madion-brunch-15](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-15.jpg?resize=199%2C149 "madion-brunch-15")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-15/)
-
-[![madion-brunch-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-10.jpg?resize=183%2C137 "madion-brunch-10")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-10/)
-
-[![madion-brunch-20](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-20.jpg?resize=183%2C137 "madion-brunch-20")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-20/)
-
-[![dsc_0045](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0045.jpg?resize=419%2C278 "dsc_0045")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0045-3/)
-
-[![dsc_0043](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0043-1.jpg?resize=319%2C212 "dsc_0043")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0043-4/)
-
-[![madion-brunch-12](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-12.jpg?resize=283%2C212 "madion-brunch-12")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-12/)
-
-[![madion-brunch-13](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-13.jpg?resize=199%2C150 "madion-brunch-13")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-13/)
-
-[![madion-brunch-17](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-17.jpg?resize=199%2C150 "madion-brunch-17")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-17/)
-
-[![madion-brunch-18](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-18.jpg?resize=200%2C150 "madion-brunch-18")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-18/)
-
-[![dsc_0032](http://i1.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0032.jpg?resize=419%2C278 "dsc_0032")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0032/)
-
-[![madion-brunch-07](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-07-1.jpg?resize=183%2C137 "madion-brunch-07")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-07-2/)
-
-[![madion-brunch-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-08.jpg?resize=183%2C137 "madion-brunch-08")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-08/)
-
-[![dsc_0024](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0024.jpg?resize=207%2C137 "dsc_0024")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0024-3/)
-
-[![madion-brunch-09](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-09.jpg?resize=207%2C155 "madion-brunch-09")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-09/)
-
-[![madion-brunch-19](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-19-1.jpg?resize=395%2C296 "madion-brunch-19")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-19-2/)
-
-[![madion-brunch-02](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-02-1.jpg?resize=301%2C226 "madion-brunch-02")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-02-2/)
-
-[![madion-brunch-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-03.jpg?resize=301%2C226 "madion-brunch-03")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-03/)
-
-[![dsc_0029](http://i2.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0029.jpg?resize=319%2C212 "dsc_0029")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0029-3/)
-
-[![madion-brunch-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-05.jpg?resize=283%2C212 "madion-brunch-05")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-05/)
-
-[![madion-brunch-11](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-11.jpg?resize=395%2C296 "madion-brunch-11")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-11/)
-
-[![dsc_0033](http://i0.wp.com/thirstypig.com/wp-content/uploads/2011/06/DSC_0033.jpg?resize=207%2C137 "dsc_0033")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/dsc_0033/)
-
-[![madion-brunch-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Madion-Brunch-06.jpg?resize=207%2C155 "madion-brunch-06")](http://thirstypig.com/2011/06/12/brunch-madison-shanghai/madion-brunch-06/)
 
 One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I was looking forward to my virginal Madison experience.
 

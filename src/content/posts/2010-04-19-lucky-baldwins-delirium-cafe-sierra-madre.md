@@ -21,19 +21,6 @@ region: San Gabriel Valley
 address: 21 Kersting Ct Sierra Madre, CA 91024
 ---
 
-[![img_1456](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1456-1.jpg?resize=403%2C302 "img_1456")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1456-2/)
-
-[![img_1461](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1461-1.jpg?resize=199%2C149 "img_1461")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1461-2/)
-
-[![img_1454](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1454-1.jpg?resize=199%2C149 "img_1454")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1454-2/)
-
-[![img_1463](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1463-1.jpg?resize=148%2C111 "img_1463")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1463-2/)
-
-[![img_1459](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1459-1.jpg?resize=148%2C111 "img_1459")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1459-2/)
-
-[![img_1464](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1464-1.jpg?resize=149%2C111 "img_1464")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1464-2/)
-
-[![img_1455](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1455-1.jpg?resize=149%2C111 "img_1455")](http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/img_1455-2/)
 
 Lucky Baldwin is an English Pub with fare found from the other side of the pond. You’ll find Bangers & Mash, Traditional Meat Pies, and Fish & Chips.
 

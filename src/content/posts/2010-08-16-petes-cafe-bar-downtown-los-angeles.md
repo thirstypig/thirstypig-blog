@@ -20,33 +20,6 @@ region: Downtown LA
 address: 400 South Main St
 ---
 
-[![petes-cafe-and-bar-dtla-15](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-15.jpg?resize=403%2C302 "petes-cafe-and-bar-dtla-15")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-15/)
-
-[![petes-cafe-and-bar-dtla-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-09.jpg?resize=199%2C149 "petes-cafe-and-bar-dtla-09")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-09/)
-
-[![petes-cafe-and-bar-dtla-01](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-01.jpg?resize=199%2C149 "petes-cafe-and-bar-dtla-01")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-01/)
-
-[![petes-cafe-and-bar-dtla-02](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-02.jpg?resize=282%2C211 "petes-cafe-and-bar-dtla-02")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-02/)
-
-[![petes-cafe-and-bar-dtla-05](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-05.jpg?resize=282%2C212 "petes-cafe-and-bar-dtla-05")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-05/)
-
-[![petes-cafe-and-bar-dtla-08](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-08.jpg?resize=320%2C427 "petes-cafe-and-bar-dtla-08")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-08/)
-
-[![petes-cafe-and-bar-dtla-11](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-11.jpg?resize=234%2C175 "petes-cafe-and-bar-dtla-11")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-11/)
-
-[![petes-cafe-and-bar-dtla-10](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-10.jpg?resize=131%2C175 "petes-cafe-and-bar-dtla-10")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-10/)
-
-[![petes-cafe-and-bar-dtla-14](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-14.jpg?resize=233%2C175 "petes-cafe-and-bar-dtla-14")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-14/)
-
-[![petes-cafe-and-bar-dtla-12](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-12.jpg?resize=380%2C507 "petes-cafe-and-bar-dtla-12")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-12/)
-
-[![petes-cafe-and-bar-dtla-13](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-13-1.jpg?resize=222%2C166 "petes-cafe-and-bar-dtla-13")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-13-2/)
-
-[![petes-cafe-and-bar-dtla-03](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-03.jpg?resize=222%2C166 "petes-cafe-and-bar-dtla-03")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-03/)
-
-[![petes-cafe-and-bar-dtla-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-07.jpg?resize=222%2C167 "petes-cafe-and-bar-dtla-07")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-07/)
-
-[![petes-cafe-and-bar-dtla-04](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/Petes-Cafe-and-Bar-DTLA-04.jpg?resize=606%2C455 "petes-cafe-and-bar-dtla-04")](http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/petes-cafe-and-bar-dtla-04/)
 
 Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Cheese. While other establishments in the area gussy up their takes, like Nickel Diner, Corkbar, and Mac’n Cheeza – while nothing wrong with that, Pete’s aims for quality experience with quality ingredients.
 

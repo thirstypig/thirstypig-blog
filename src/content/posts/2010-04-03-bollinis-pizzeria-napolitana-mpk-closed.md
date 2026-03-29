@@ -21,23 +21,6 @@ region: San Gabriel Valley
 address: 2315 S Garfield Ave Monterey Park, CA 91754
 ---
 
-[![img_1132](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1132.jpg?resize=403%2C302 "img_1132")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1132/)
-
-[![img_1131](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1131.jpg?resize=199%2C149 "img_1131")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1131/)
-
-[![img_1134](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1134-1.jpg?resize=199%2C149 "img_1134")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1134-2/)
-
-[![img_1126](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1126.jpg?resize=282%2C211 "img_1126")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1126-2/)
-
-[![img_1136](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1136-1.jpg?resize=282%2C212 "img_1136")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1136-2/)
-
-[![img_1129](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1129.jpg?resize=320%2C427 "img_1129")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1129-3/)
-
-[![img_1130](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1130.jpg?resize=301%2C226 "img_1130")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1130/)
-
-[![img_1137](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1137-1.jpg?resize=301%2C226 "img_1137")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1137-2/)
-
-[![img_1140](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_1140.jpg?resize=606%2C808 "img_1140")](http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/img_1140/)
 
 After reviewing Zelo’s Pizza. . .I felt I should submit my review for Bollini’s.
 

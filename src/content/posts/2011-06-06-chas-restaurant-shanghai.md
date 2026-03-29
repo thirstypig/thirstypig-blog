@@ -23,37 +23,6 @@ city: Shanghai
 region: Shanghai
 ---
 
-[![img_0548](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0548-1.jpg?resize=398%2C533 "img_0548")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0548-2/)
-
-[![img_0536](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0536.jpg?resize=234%2C175 "img_0536")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0536/)
-
-[![chas-restaurant-shanghai-05](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-05.jpg?resize=234%2C175 "chas-restaurant-shanghai-05")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-05/)
-
-[![chas-restaurant-shanghai-01](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-01.jpg?resize=234%2C175 "chas-restaurant-shanghai-01")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-01/)
-
-[![img_0535](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0535.jpg?resize=423%2C316 "img_0535")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0535/)
-
-[![chas-restaurant-shanghai-11](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-11.jpg?resize=209%2C156 "chas-restaurant-shanghai-11")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-11/)
-
-[![chas-restaurant-shanghai-06](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-06.jpg?resize=209%2C156 "chas-restaurant-shanghai-06")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-06/)
-
-[![chas-restaurant-shanghai-10](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-10.jpg?resize=209%2C156 "chas-restaurant-shanghai-10")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-10/)
-
-[![img_0533](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0533.jpg?resize=209%2C156 "img_0533")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0533/)
-
-[![chas-restaurant-shanghai-04](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-04.jpg?resize=210%2C156 "chas-restaurant-shanghai-04")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-04/)
-
-[![chas-restaurant-shanghai-07](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-07.jpg?resize=209%2C156 "chas-restaurant-shanghai-07")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-07/)
-
-[![img_0534](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/09/IMG_0534.jpg?resize=209%2C156 "img_0534")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/img_0534-3/)
-
-[![chas-restaurant-shanghai-08](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-08.jpg?resize=423%2C316 "chas-restaurant-shanghai-08")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-08/)
-
-[![chas-restaurant-shanghai-02](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-02-1.jpg?resize=316%2C236 "chas-restaurant-shanghai-02")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-02-2/)
-
-[![chas-restaurant-shanghai-09](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-09.jpg?resize=316%2C236 "chas-restaurant-shanghai-09")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-09/)
-
-[![chas-restaurant-shanghai-03](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/09/Chas-Restaurant-Shanghai-03.jpg?resize=636%2C475 "chas-restaurant-shanghai-03")](http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/chas-restaurant-shanghai-03/)
 
 Cha’s, which opened in 2009, looks like its been there for years. A typical Hong Kong Cantonese cafe/diner – Cha features great Cantonese dishes. The original chain is based out of Hong Kong, and is built on the allure and charm of the old style, circa 1950′s. The no non-sensisical restaurant has paper menus at each table covered with glass.
 

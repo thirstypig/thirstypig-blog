@@ -17,21 +17,9 @@ draft: false
 location: Restaurant3
 city: Los Angeles
 region: Hollywood
+address: 8370 W 3rd St
 ---
 
-[![img_6960](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6960.jpg?resize=403%2C302 "img_6960")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6960/)
-
-[![img_6957](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6957.jpg?resize=199%2C149 "img_6957")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6957/)
-
-[![img_6958](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6958.jpg?resize=199%2C149 "img_6958")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6958/)
-
-[![img_6948](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6948.jpg?resize=148%2C111 "img_6948")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6948/)
-
-[![img_6959](http://i0.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6959.jpg?resize=148%2C111 "img_6959")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6959/)
-
-[![img_6954](http://i1.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6954.jpg?resize=149%2C111 "img_6954")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6954/)
-
-[![img_6951](http://i2.wp.com/thirstypig.com/wp-content/uploads/2016/10/IMG_6951.jpg?resize=149%2C111 "img_6951")](http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/img_6951/)
 
 I wish I wasn’t hyped up about the fried chicken. Otherwise, it would have been a good lunch. But here I was, expecting mouth-watering and show-stopping fried chicken. Their menu features many southern favorites, so I figured I’d be getting some old fashion fried chicken.
 
