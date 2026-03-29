@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-Look up restaurant addresses using Google Places API (New) Text Search.
+Look up restaurant addresses using Foursquare Places API (free tier: 1,000/day).
 
 Reads posts with venue name + city but no address/coordinates,
-queries Google Places API, and writes results back to frontmatter.
+queries Foursquare Places API, and writes results back to frontmatter.
 
 Usage:
-  export GOOGLE_PLACES_API_KEY=your_key_here
-  python3 scripts/lookup_addresses.py [--dry-run] [--limit N]
+  1. Sign up at https://foursquare.com/developers/signup
+  2. Create a project and get your API key
+  3. Run:
+     export FOURSQUARE_API_KEY=your_key_here
+     python3 scripts/lookup_addresses.py [--dry-run] [--limit N]
 """
 
 import argparse
@@ -67,29 +70,45 @@ def clean_venue_name(name: str) -> str:
     return name
 
 
-def search_google_places(query: str, api_key: str) -> dict | None:
-    """Search Google Places API for a venue."""
-    url = 'https://places.googleapis.com/v1/places:searchText'
-    headers = {
-        'Content-Type': 'application/json',
-        'X-Goog-Api-Key': api_key,
-        'X-Goog-FieldMask': 'places.displayName,places.formattedAddress,places.location,places.types',
-    }
-    body = json.dumps({'textQuery': query}).encode()
+def search_foursquare(query: str, near: str, api_key: str) -> dict | None:
+    """Search Foursquare Places API for a venue.
 
-    req = urllib.request.Request(url, data=body, headers=headers, method='POST')
+    Free tier: 1,000 calls/day.
+    Docs: https://docs.foursquare.com/developer/reference/place-search
+    """
+    import urllib.parse
+    params = urllib.parse.urlencode({
+        'query': query,
+        'near': near,
+        'limit': 1,
+    })
+    url = f'https://api.foursquare.com/v3/places/search?{params}'
+    headers = {
+        'Accept': 'application/json',
+        'Authorization': api_key,
+    }
+
+    req = urllib.request.Request(url, headers=headers, method='GET')
     try:
         with urllib.request.urlopen(req, timeout=10) as resp:
             data = json.loads(resp.read())
-            places = data.get('places', [])
-            if places:
-                p = places[0]
+            results = data.get('results', [])
+            if results:
+                p = results[0]
+                loc = p.get('location', {})
+                geocodes = p.get('geocodes', {}).get('main', {})
                 return {
-                    'name': p.get('displayName', {}).get('text', ''),
-                    'address': p.get('formattedAddress', ''),
-                    'lat': p.get('location', {}).get('latitude'),
-                    'lng': p.get('location', {}).get('longitude'),
+                    'name': p.get('name', ''),
+                    'address': loc.get('formatted_address', '')
+                              or f"{loc.get('address', '')} {loc.get('locality', '')} {loc.get('region', '')} {loc.get('postcode', '')}".strip(),
+                    'lat': geocodes.get('latitude'),
+                    'lng': geocodes.get('longitude'),
                 }
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            print(f'    Rate limited! Wait and retry.')
+        else:
+            print(f'    API error {e.code}: {e.reason}')
     except (urllib.error.URLError, json.JSONDecodeError, KeyError) as e:
         print(f'    API error: {e}')
     return None
@@ -101,12 +120,14 @@ def main():
     parser.add_argument('--limit', type=int, default=50, help='Max venues to look up')
     args = parser.parse_args()
 
-    api_key = os.environ.get('GOOGLE_PLACES_API_KEY', '')
+    api_key = os.environ.get('FOURSQUARE_API_KEY', '')
     if not api_key and not args.dry_run:
-        print('ERROR: Set GOOGLE_PLACES_API_KEY environment variable')
-        print('  Get a key at: https://console.cloud.google.com/apis/credentials')
-        print('  Enable "Places API (New)" in your project')
+        print('ERROR: Set FOURSQUARE_API_KEY environment variable')
+        print('  1. Sign up at: https://foursquare.com/developers/signup')
+        print('  2. Create a project → get your API key')
+        print('  3. export FOURSQUARE_API_KEY=fsq3...')
         print()
+        print('  Free tier: 1,000 calls/day (enough for all 671 venues)')
         print('  Or run with --dry-run to see what would be looked up')
         sys.exit(1)
 
@@ -152,14 +173,13 @@ def main():
     updated = 0
     for path, fm, parts, loc, city in candidates[:args.limit]:
         venue = clean_venue_name(loc)
-        query = f'{venue} restaurant {city}'
         print(f'  [{venue}] in {city}...', end=' ', flush=True)
 
         if args.dry_run:
-            print(f'(dry run) would search: "{query}"')
+            print(f'(dry run) would search: "{venue}" near "{city}"')
             continue
 
-        result = search_google_places(query, api_key)
+        result = search_foursquare(venue, city, api_key)
         if result and result.get('lat') and result.get('address'):
             # Update venue name to the official name from Google
             if result['name'] and len(result['name']) > 2:
