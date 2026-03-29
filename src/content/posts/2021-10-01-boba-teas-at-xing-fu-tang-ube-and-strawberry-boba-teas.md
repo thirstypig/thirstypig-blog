@@ -20,6 +20,8 @@ tags:
 - xingfungtang
 description: Boba Teas at Xing Fu Tang Ube and strawberry boba teas . . . . .
 location: Boba Teas at Xing Fu Tang  Ube and strawberry boba teas
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Boba Teas at Xing Fu Tang  Ube and strawberry boba teas](/images/posts/ig-2021-10-01-boba-teas-at-xing-fu-tang-ube-and-strawberry-boba-teas/18194540158142223.jpg)

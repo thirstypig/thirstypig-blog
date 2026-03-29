@@ -24,6 +24,8 @@ tags:
 - thirstypig
 description: Handheld meat pies from Piroshky Piroshky at Pike Place. Highly recommended by a friend, I had to try these immediately. Got the smoke salmon pate, chicken curry rice, and the beef onion. They were al
 location: Handheld meat pies from Piroshky Piroshky at Pike Place
+city: Seattle
+region: Seattle
 ---
 
 ![Handheld meat pies from Piroshky Piroshky at Pike Place](/images/posts/ig-2025-05-14-handheld-meat-pies-from-piroshky-piroshky-at-pike-place/18042070673618815.jpg)

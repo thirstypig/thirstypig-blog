@@ -56,25 +56,38 @@ export const GET: APIRoute = async () => {
 	};
 
 	const markers = posts
-		.filter(p => p.data.city || p.data.region)
+		.filter(p => p.data.coordinates || p.data.city || p.data.region)
 		.map(post => {
 			const city = post.data.city || '';
-			const coords = cityCoords[city] || cityCoords[post.data.region || ''];
-			if (!coords) return null;
 
-			// Add small random offset so markers don't stack exactly
-			const jitter = () => (Math.random() - 0.5) * 0.008;
+			// Prefer exact GPS coordinates from post, fall back to city lookup
+			let lat: number, lng: number;
+			if (post.data.coordinates) {
+				lat = post.data.coordinates.lat;
+				lng = post.data.coordinates.lng;
+				// Small jitter so co-located posts don't overlap perfectly
+				lat += (Math.random() - 0.5) * 0.001;
+				lng += (Math.random() - 0.5) * 0.001;
+			} else {
+				const coords = cityCoords[city] || cityCoords[post.data.region || ''];
+				if (!coords) return null;
+				const jitter = () => (Math.random() - 0.5) * 0.008;
+				lat = coords[0] + jitter();
+				lng = coords[1] + jitter();
+			}
 
 			return {
 				id: post.id,
 				title: post.data.title,
 				city: city,
 				region: post.data.region || '',
-				lat: coords[0] + jitter(),
-				lng: coords[1] + jitter(),
+				location: post.data.location || '',
+				lat,
+				lng,
 				heroImage: post.data.heroImage || '',
 				date: post.data.pubDate.toISOString().split('T')[0],
 				closed: (post.data.tags || []).some(t => t.toLowerCase() === 'closed'),
+				hasExactCoords: !!post.data.coordinates,
 			};
 		})
 		.filter(Boolean);

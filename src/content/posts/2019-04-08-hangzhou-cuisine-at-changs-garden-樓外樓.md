@@ -20,6 +20,8 @@ tags:
 - lamb
 description: Hangzhou Cuisine at Chang’s Garden 樓外樓. The big fatty pork belly, bitter melon, a big bowl lamb stew, and rice balls. .
 location: Hangzhou Cuisine at Chang’s Garden 樓外樓
+city: Arcadia
+region: San Gabriel Valley
 ---
 
 ![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/17847945469403157.jpg)

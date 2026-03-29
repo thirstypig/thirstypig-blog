@@ -20,6 +20,8 @@ tags:
 - yummy
 description: Christmas Eve Dessert at hooshik. Seems like more and more cool Korean foods are coming to SGV . . .
 location: Christmas Eve Dessert at hooshik
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Christmas Eve Dessert at hooshik](/images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353235249795.jpg)

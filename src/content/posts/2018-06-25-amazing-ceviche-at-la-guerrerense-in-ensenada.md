@@ -22,6 +22,8 @@ tags:
 - uni
 description: Amazing ceviche at La Guerrerense in Ensenada. We had sea urchin, octopus, and fish ceviche. Then had crab salad and the shrimp special with avocado. Yummy. Unlike anything I ever had! . . . . . .
 location: Amazing ceviche at La Guerrerense in Ensenada
+city: Los Angeles
+region: Los Angeles
 ---
 
 ![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17921637742175976.jpg)

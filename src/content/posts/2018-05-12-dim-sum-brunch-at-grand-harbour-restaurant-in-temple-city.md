@@ -26,6 +26,8 @@ tags:
 - sgv
 description: Dim Sum brunch at Grand Harbour Restaurant in Temple City.
 location: Dim Sum brunch at Grand Harbour Restaurant in Temple City
+city: Temple City
+region: San Gabriel Valley
 ---
 
 ![Dim Sum brunch at Grand Harbour Restaurant in Temple City](/images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17943847807001109.jpg)

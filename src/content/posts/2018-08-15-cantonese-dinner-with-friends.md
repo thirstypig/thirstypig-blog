@@ -24,6 +24,8 @@ tags:
 - soup
 description: Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid q
 location: Cantonese dinner with friends
+city: Arcadia
+region: San Gabriel Valley
 ---
 
 ![Cantonese dinner with friends](/images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17962773406078568.jpg)

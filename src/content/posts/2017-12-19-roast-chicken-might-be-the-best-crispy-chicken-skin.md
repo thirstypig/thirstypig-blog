@@ -16,6 +16,8 @@ tags:
 - hainanchicken
 description: Roast chicken might be the best crispy chicken skin.
 location: Roast chicken  might be the best crispy chicken skin
+city: Arcadia
+region: San Gabriel Valley
 ---
 
 ![Roast chicken  might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17856619597206857.jpg)

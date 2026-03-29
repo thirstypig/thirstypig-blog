@@ -17,6 +17,8 @@ tags:
 - dance
 description: Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall. Great show of song and dance. .rockettes.official
 location: Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...
+city: New York
+region: New York
 ---
 
 ![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17898765742087459.jpg)

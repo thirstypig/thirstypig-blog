@@ -24,6 +24,8 @@ tags:
 - tastemakers
 description: Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. . . . . .
 location: Brunch at the Wayfarer Hotel in DTLA
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Brunch at the Wayfarer Hotel in DTLA](/images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/17946783533565952.jpg)

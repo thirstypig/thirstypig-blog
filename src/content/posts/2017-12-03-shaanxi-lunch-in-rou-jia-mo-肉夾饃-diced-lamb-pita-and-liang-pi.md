@@ -27,6 +27,8 @@ tags:
 - lamb
 description: Shaanxi Lunch in Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold noodles were my favorite. The spicy wontons and dry noodles were also quite good, too
 location: Shaanxi Lunch in  Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold n...
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Shaanxi Lunch in  Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold n...](/images/posts/ig-2017-12-03-shaanxi-lunch-in-rou-jia-mo-肉夾饃-diced-lamb-pita-and-liang-pi/17897836879112419.jpg)

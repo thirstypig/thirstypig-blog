@@ -22,6 +22,8 @@ tags:
 - chicken
 description: Soltani Kabob and Fesenjoon. Soltani is filet mignon and ground beef and fesenjoon is stewed chicken breast unground walnut, grilled onion, and pomegranate sauce. The fragrant saffron basmati rice was
 location: Soltani Kabob and Fesenjoon
+city: Glendale
+region: San Fernando Valley
 ---
 
 ![Soltani Kabob and Fesenjoon](/images/posts/ig-2022-03-02-soltani-kabob-and-fesenjoon/17901575582525287.jpg)

@@ -29,6 +29,8 @@ tags:
 - davidchoeart
 description: Dinner at David Chang’s Majordomo. We had 2 Bings - a smoked pork neck & fried egg and a eggs & smoked roe. Both were better than expected. Then had fried butter ball potatoes which had salsa seca and
 location: Dinner at David Chang’s Majordomo
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Dinner at David Chang’s Majordomo](/images/posts/ig-2018-02-22-dinner-at-david-changs-majordomo/17914229809103243.jpg)

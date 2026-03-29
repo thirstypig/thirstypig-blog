@@ -25,6 +25,8 @@ tags:
 - tastemakersapp
 description: Northern Chinese Cuisine tonight on a rainy day. This famous restaurant has been around since the 1940’s and hosted dinners with dignitaries, like George H. W. Bush. They have the traditional cauldron
 location: Northern Chinese Cuisine tonight on a rainy day
+city: Taipei
+region: Taipei
 ---
 
 ![Northern Chinese Cuisine tonight on a rainy day](/images/posts/ig-2024-05-12-northern-chinese-cuisine-tonight-on-a-rainy-day/17888637896964185.jpg)

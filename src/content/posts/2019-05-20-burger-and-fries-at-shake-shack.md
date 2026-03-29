@@ -23,6 +23,8 @@ tags:
 - chelsea
 description: Burger and Fries at Shake Shack. Had the double, mushroom burger, and combo mushroom & beef burger with a couple of orders of fries. . . .
 location: Burger and Fries at Shake Shack
+city: New York
+region: New York
 ---
 
 ![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18066624565024900.jpg)

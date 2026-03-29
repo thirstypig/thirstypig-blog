@@ -24,6 +24,8 @@ tags:
 - eeeeeats
 description: Bone marrow and beef at NIKU X. . . .
 location: Bone marrow and beef at NIKU X
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18298746178167857.jpg)

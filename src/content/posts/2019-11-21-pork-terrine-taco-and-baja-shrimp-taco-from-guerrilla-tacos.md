@@ -21,6 +21,8 @@ tags:
 - porkterrine
 description: Pork Terrine Taco and Baja Shrimp Taco from Guerrilla Tacos. Third and last stop of the Taco Crawl in DTLA. Yummy. Tasty and more messy. Good flavor and texture. Love my pork tacos. . . . .
 location: Pork Terrine Taco and Baja Shrimp Taco from Guerrilla Tacos
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Pork Terrine Taco and Baja Shrimp Taco from Guerrilla Tacos](/images/posts/ig-2019-11-21-pork-terrine-taco-and-baja-shrimp-taco-from-guerrilla-tacos/18115059424025357.jpg)

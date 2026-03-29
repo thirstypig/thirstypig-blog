@@ -15,6 +15,8 @@ tags:
 - frenchbakery
 description: French cafe with great sandwiches
 location: French cafe with great sandwiches
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![French cafe with great sandwiches](/images/posts/ig-2018-02-03-french-cafe-with-great-sandwiches/17893350901163496.jpg)

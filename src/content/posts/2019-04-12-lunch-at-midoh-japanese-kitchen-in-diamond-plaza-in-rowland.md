@@ -24,6 +24,8 @@ tags:
 - porkloin
 description: Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights. Pork Cutlet and Pork Loin Cutlet with Curry Rice, with a side of soup and salad. Love this simple Japanese set. Didn’t know Loin is
 location: Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights
+city: Rowland Heights
+region: San Gabriel Valley
 ---
 
 ![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/18055400536063939.jpg)

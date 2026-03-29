@@ -99,6 +99,33 @@
 	}
 }
 
+/* ─── Dark mode ───────────────────────────────── */
+[data-theme="dark"] {
+	--color-cream: #1A1A1A;
+	--color-cream-dark: #2A2A2A;
+	--color-ink: #E8E4DF;
+	--color-ink-light: #C8C4BF;
+	--color-amber: #D97706;
+	--color-amber-light: #F59E0B;
+	--color-rust: #EA580C;
+	--color-sage: #8FA07F;
+	--color-stone: #A8A29E;
+	--color-stone-light: #78716C;
+}
+
+[data-theme="dark"] img {
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="dark"] .prose blockquote {
+	border-left-color: var(--color-amber);
+}
+
+/* ─── Broken image handling ───────────────────── */
+.prose img.img-broken {
+	display: none;
+}
+
 /* Screen reader only utility */
 .sr-only {
 	position: absolute;

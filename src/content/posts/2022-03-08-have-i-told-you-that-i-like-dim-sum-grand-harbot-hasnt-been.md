@@ -28,6 +28,8 @@ tags:
 - siumai
 description: 'Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long, but is one of the finer Dim Sum restaurants in SGV. They also have a good Cantonese Roasted Meat 燒臘 shop next door, which '
 location: Have I told you that I like Dim Sum?  Grand Harbot hasn’t been open that long...
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Have I told you that I like Dim Sum?  Grand Harbot hasn’t been open that long...](/images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17955981103646876.jpg)

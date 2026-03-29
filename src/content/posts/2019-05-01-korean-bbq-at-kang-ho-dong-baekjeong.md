@@ -28,6 +28,8 @@ tags:
 - pork
 description: Korean Bbq at Kang Ho Dong Baekjeong. We had the thin sliced Brisket, beef short rib, and pork belly. I think our favorite was the thinly sliced brisket. Also had the tofu soup and lunch box. . . .
 location: Korean Bbq at Kang Ho Dong Baekjeong
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Korean Bbq at Kang Ho Dong Baekjeong](/images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/17890063960322863.jpg)

@@ -112,6 +112,116 @@ def extract_location(post: dict) -> dict:
     return {}
 
 
+# City-to-region mapping for auto-categorization
+CITY_REGIONS = {
+    # LA area
+    'los angeles': 'Los Angeles', 'la': 'Los Angeles', 'dtla': 'Los Angeles',
+    'downtown la': 'Los Angeles', 'koreatown': 'Los Angeles', 'ktown': 'Los Angeles',
+    'hollywood': 'Los Angeles', 'west hollywood': 'Los Angeles', 'weho': 'Los Angeles',
+    'silver lake': 'Los Angeles', 'echo park': 'Los Angeles', 'los feliz': 'Los Angeles',
+    'highland park': 'Los Angeles', 'eagle rock': 'Los Angeles',
+    'venice': 'Los Angeles', 'santa monica': 'Los Angeles', 'culver city': 'Los Angeles',
+    'beverly hills': 'Los Angeles', 'brentwood': 'Los Angeles', 'westwood': 'Los Angeles',
+    'sawtelle': 'Los Angeles', 'mar vista': 'Los Angeles',
+    # SGV
+    'pasadena': 'San Gabriel Valley', 'alhambra': 'San Gabriel Valley',
+    'arcadia': 'San Gabriel Valley', 'monterey park': 'San Gabriel Valley',
+    'san gabriel': 'San Gabriel Valley', 'rosemead': 'San Gabriel Valley',
+    'rowland heights': 'San Gabriel Valley', 'temple city': 'San Gabriel Valley',
+    'monrovia': 'San Gabriel Valley', 'duarte': 'San Gabriel Valley',
+    'el monte': 'San Gabriel Valley', 'hacienda heights': 'San Gabriel Valley',
+    'sgv': 'San Gabriel Valley', 'mpk': 'San Gabriel Valley',
+    'covina': 'San Gabriel Valley', 'west covina': 'San Gabriel Valley',
+    'diamond bar': 'San Gabriel Valley', 'azusa': 'San Gabriel Valley',
+    # South Bay
+    'torrance': 'South Bay', 'gardena': 'South Bay', 'redondo beach': 'South Bay',
+    'hermosa beach': 'South Bay', 'manhattan beach': 'South Bay',
+    # Other LA
+    'burbank': 'San Fernando Valley', 'glendale': 'San Fernando Valley',
+    'long beach': 'Long Beach', 'irvine': 'Orange County',
+    'laguna beach': 'Orange County', 'costa mesa': 'Orange County',
+    'anaheim': 'Orange County', 'fullerton': 'Orange County',
+    # California
+    'san francisco': 'San Francisco', 'san jose': 'Bay Area',
+    'san diego': 'San Diego', 'oakland': 'Bay Area',
+    # Other US
+    'las vegas': 'Las Vegas', 'new york': 'New York', 'nyc': 'New York',
+    'honolulu': 'Honolulu', 'portland': 'Portland', 'seattle': 'Seattle',
+    'chicago': 'Chicago',
+    # International
+    'shanghai': 'Shanghai', 'taipei': 'Taipei', 'tokyo': 'Tokyo',
+    'seoul': 'Seoul', 'hong kong': 'Hong Kong', 'bangkok': 'Bangkok',
+    'singapore': 'Singapore', 'osaka': 'Osaka', 'kyoto': 'Kyoto',
+    'beijing': 'Beijing', 'chengdu': 'Chengdu',
+}
+
+# Patterns that suggest a venue mention in captions
+VENUE_PATTERNS = [
+    r'(?:at|@)\s+([A-Z][A-Za-z\s&\'\.]+?)(?:\s+in\s+|\s*[,\.\!\n])',  # "at Venue Name in..."
+    r'^([A-Z][A-Za-z\s&\'\.]{2,30})(?:\s*[-–—]\s*)',                    # "Venue Name - ..."
+    r'(?:from|at)\s+([A-Z][A-Za-z\s&\'\.]{2,40})(?:\s*[,\.\!\n]|$)',   # "from Venue Name."
+]
+
+
+def extract_venue_from_caption(caption: str, hashtags: list[str]) -> dict:
+    """Extract venue name and city from Instagram caption and hashtags."""
+    result = {}
+
+    if not caption:
+        return result
+
+    # Try to extract venue name from caption patterns
+    for pattern in VENUE_PATTERNS:
+        match = re.search(pattern, caption)
+        if match:
+            venue = match.group(1).strip().rstrip('.')
+            # Filter out common false positives
+            skip_words = {'The', 'This', 'That', 'They', 'These', 'Here', 'Just',
+                          'Best', 'Great', 'Good', 'Love', 'Such', 'What', 'When',
+                          'Happy', 'Post', 'Instagram'}
+            if venue.split()[0] not in skip_words and len(venue) > 2:
+                result['location'] = venue
+                break
+
+    # Extract city from caption text
+    caption_lower = caption.lower()
+    for city_key, region in CITY_REGIONS.items():
+        # Look for city name as a whole word in caption
+        if re.search(r'\b' + re.escape(city_key) + r'\b', caption_lower):
+            result['city'] = city_key.title()
+            result['region'] = region
+            break
+
+    # If no city found in caption, check hashtags
+    if 'city' not in result:
+        for tag in hashtags:
+            tag_lower = tag.lower()
+            # Check direct city name hashtags
+            if tag_lower in CITY_REGIONS:
+                result['city'] = tag_lower.title()
+                result['region'] = CITY_REGIONS[tag_lower]
+                break
+            # Check for city embedded in hashtag (e.g., #pasadenafood, #losangeleseats)
+            for city_key, region in CITY_REGIONS.items():
+                if city_key in tag_lower and len(city_key) > 3:
+                    result['city'] = city_key.title()
+                    result['region'] = region
+                    break
+            if 'city' in result:
+                break
+
+    # Fix known city name casing
+    city_fixes = {
+        'Dtla': 'Downtown LA', 'La': 'Los Angeles', 'Sgv': 'San Gabriel',
+        'Mpk': 'Monterey Park', 'Ktown': 'Koreatown', 'Weho': 'West Hollywood',
+        'Nyc': 'New York',
+    }
+    if result.get('city') in city_fixes:
+        result['city'] = city_fixes[result['city']]
+
+    return result
+
+
 def load_existing_posts() -> list[dict]:
     """Load existing blog post titles and dates for dedup."""
     posts = []
@@ -265,6 +375,22 @@ def write_instagram_post(post: dict) -> str:
         frontmatter['images'] = post['images']
     if post.get('hashtags'):
         frontmatter['tags'] = post['hashtags'][:10]  # limit to 10 tags
+
+    # GPS coordinates
+    if post.get('location'):
+        frontmatter['coordinates'] = {
+            'lat': round(post['location']['lat'], 6),
+            'lng': round(post['location']['lng'], 6),
+        }
+
+    # Try to extract venue/city from caption
+    venue_info = extract_venue_from_caption(post.get('caption', ''), post.get('hashtags', []))
+    if venue_info.get('location'):
+        frontmatter['location'] = venue_info['location']
+    if venue_info.get('city'):
+        frontmatter['city'] = venue_info['city']
+    if venue_info.get('region'):
+        frontmatter['region'] = venue_info['region']
 
     # Build description
     if post['caption']:

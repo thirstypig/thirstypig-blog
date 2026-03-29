@@ -28,6 +28,8 @@ tags:
 - stickyrice
 description: 'Beijing Roast Duck 北京烤鴨 at the Duck House. Haven’t had duck in a long time. We had the half duck with the crispy skin. They provided the thin rice paper wrappers as opposed to the thick buns (which I '
 location: Beijing Roast Duck 北京烤鴨 at the Duck House
+city: Monterey Park
+region: San Gabriel Valley
 ---
 
 ![Beijing Roast Duck 北京烤鴨 at the Duck House](/images/posts/ig-2019-11-24-beijing-roast-duck-北京烤鴨-at-the-duck-house/17927957605327804.jpg)

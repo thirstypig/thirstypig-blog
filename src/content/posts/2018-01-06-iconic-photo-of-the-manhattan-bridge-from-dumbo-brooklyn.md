@@ -21,6 +21,8 @@ tags:
 - shotoniphonex
 description: Iconic photo of the Manhattan Bridge from DUMBO Brooklyn. If you look closely, you can see the Empire State Building in the crotch.
 location: Iconic photo of the Manhattan Bridge from DUMBO Brooklyn
+city: New York
+region: New York
 ---
 
 ![Iconic photo of the Manhattan Bridge from DUMBO Brooklyn](/images/posts/ig-2018-01-06-iconic-photo-of-the-manhattan-bridge-from-dumbo-brooklyn/17900325124088615.jpg)

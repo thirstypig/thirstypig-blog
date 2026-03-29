@@ -1,0 +1,64 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostGrid from '../../../components/PostGrid.astro';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+	const years = new Set<number>();
+	for (const post of posts) {
+		years.add(post.data.pubDate.getFullYear());
+	}
+
+	return [...years].map(year => ({
+		params: { year: String(year) },
+		props: {
+			year,
+			posts: posts
+				.filter(p => p.data.pubDate.getFullYear() === year)
+				.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+		},
+	}));
+}
+
+const { year, posts } = Astro.props;
+
+const monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+// Group by month
+const byMonth = new Map<number, typeof posts>();
+for (const post of posts) {
+	const month = post.data.pubDate.getMonth();
+	if (!byMonth.has(month)) byMonth.set(month, []);
+	byMonth.get(month)!.push(post);
+}
+const months = [...byMonth.entries()].sort((a, b) => b[0] - a[0]);
+---
+
+<BaseLayout title={`${year} Archive`} description={`All ${posts.length} posts from ${year}.`}>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<div class="flex items-baseline gap-4 mb-2">
+			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink">{year}</h1>
+			<span class="text-stone">{posts.length} posts</span>
+		</div>
+		<p class="mb-10">
+			<a href="/archive/" class="text-sm text-amber hover:text-rust no-underline">&larr; All years</a>
+		</p>
+
+		{months.map(([month, monthPosts]) => (
+			<div class="mb-12">
+				<div class="flex items-baseline gap-3 mb-6">
+					<a
+						href={`/archive/${year}/${String(month + 1).padStart(2, '0')}/`}
+						class="font-serif text-xl font-semibold text-ink hover:text-amber transition-colors no-underline"
+					>
+						{monthNames[month]}
+					</a>
+					<span class="text-sm text-stone">{monthPosts.length} posts</span>
+				</div>
+				<PostGrid posts={monthPosts} />
+			</div>
+		))}
+	</section>
+</BaseLayout>

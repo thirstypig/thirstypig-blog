@@ -20,6 +20,8 @@ tags:
 - theoc
 description: Custom Pies at Blaze Pizza. . . . .
 location: Custom Pies at Blaze Pizza
+city: Irvine
+region: Orange County
 ---
 
 ![Custom Pies at Blaze Pizza](/images/posts/ig-2018-06-14-custom-pies-at-blaze-pizza/17952222172055316.jpg)

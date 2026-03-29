@@ -19,6 +19,8 @@ tags:
 - humpday
 description: Sausage and egg sando I love eggs. I could eat this every day. If I lived closer, I just might.
 location: Sausage and egg sando  I love eggs
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Sausage and egg sando  I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg)

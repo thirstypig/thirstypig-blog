@@ -19,6 +19,8 @@ tags:
 - afternoontea
 description: Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider.
 location: Afternoon tea at Balthazar
+city: New York
+region: New York
 ---
 
 ![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17904596176106034.jpg)

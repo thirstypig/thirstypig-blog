@@ -20,6 +20,8 @@ tags:
 - avpstrong
 description: Beach Volleyball in SoCal! AVP Manhattan Beach Open tournament. . . . .
 location: Beach Volleyball in SoCal
+city: Manhattan Beach
+region: South Bay
 ---
 
 ![Beach Volleyball in SoCal](/images/posts/ig-2019-08-18-beach-volleyball-in-socal/17932868722306989.jpg)

@@ -22,6 +22,8 @@ tags:
 - macandcheese
 description: New Year’s Day brunch at Granville. Liked the Mac and cheese and the housemade potato chips . . . . .
 location: New Year’s Day brunch at Granville
+city: Pasadena
+region: San Gabriel Valley
 ---
 
 ![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17844248404883754.jpg)

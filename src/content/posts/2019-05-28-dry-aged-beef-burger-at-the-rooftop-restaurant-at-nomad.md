@@ -21,6 +21,8 @@ tags:
 - thirstypig
 description: Dry Aged Beef Burger at the rooftop restaurant at NoMad. . . .
 location: Dry Aged Beef Burger at the rooftop restaurant at NoMad
+city: Downtown LA
+region: Los Angeles
 ---
 
 ![Dry Aged Beef Burger at the rooftop restaurant at NoMad](/images/posts/ig-2019-05-28-dry-aged-beef-burger-at-the-rooftop-restaurant-at-nomad/17868744421377606.jpg)

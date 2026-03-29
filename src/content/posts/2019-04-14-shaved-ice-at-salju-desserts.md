@@ -19,6 +19,8 @@ tags:
 - matcha
 description: Shaved ice at Salju Desserts. Had the sesame and the green tee matcha. Check out the delicate ribbons of shaved ice. Wish they had the sweet soft boiled peanut topping as an option. .
 location: Shaved ice at Salju Desserts
+city: Alhambra
+region: San Gabriel Valley
 ---
 
 ![Shaved ice at Salju Desserts](/images/posts/ig-2019-04-14-shaved-ice-at-salju-desserts/17865340891365035.jpg)

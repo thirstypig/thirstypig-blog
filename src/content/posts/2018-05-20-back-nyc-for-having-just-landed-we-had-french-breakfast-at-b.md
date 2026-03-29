@@ -21,6 +21,8 @@ tags:
 - smokedsalmon
 description: Back NYC for Having just landed we had French breakfast at Buvette. Cr’q Madame, smoked salmon and avocado on toast, and almond croissants. This little French diner filled up fast. . . . .
 location: Back NYC for   Having just landed we had French breakfast at Buvette
+city: New York
+region: New York
 ---
 
 ![Back NYC for   Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17920555483187954.jpg)

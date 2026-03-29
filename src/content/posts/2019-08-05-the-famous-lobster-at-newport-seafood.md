@@ -18,6 +18,8 @@ tags:
 - sgv
 description: The famous lobster at Newport Seafood. . . .
 location: The famous lobster at Newport Seafood
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![The famous lobster at Newport Seafood](/images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/17869084033441637.jpg)

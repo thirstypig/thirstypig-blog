@@ -26,6 +26,8 @@ tags:
 - chicken
 description: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice. A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant. The chicken is boi
 location: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice
+city: Bangkok
+region: Bangkok
 ---
 
 ![Thai Chicken Rice at Go-Ang Pratunam Chicken Rice](/images/posts/ig-2024-04-21-thai-chicken-rice-at-go-ang-pratunam-chicken-rice/17879264823000817.jpg)

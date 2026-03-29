@@ -18,6 +18,8 @@ tags:
 - sgv
 description: Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot heart
 location: Taiwanese Beef Noodle Soup
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-10-taiwanese-beef-noodle-soup/17842732132791581.jpg)

@@ -22,6 +22,8 @@ tags:
 - westfieldsantaanita
 description: Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at California Pizza Kitchen. I’ve always liked this place. I remember my first visit in the early 90s at the Beverly Center locatio
 location: Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at Calif...
+city: San Gabriel
+region: San Gabriel Valley
 ---
 
 ![Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at Calif...](/images/posts/ig-2019-09-18-barbecue-chicken-pizza-and-jerk-chicken-pizza-with-cauliflow/17912771755349107.jpg)

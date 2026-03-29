@@ -17,6 +17,8 @@ tags:
 - sunsetblvd
 description: Feeling healthy and went to Veggie Grilll. Had the Santa Fe Crispy Chickin’ and a side of Mac and cheese. The sandwich was surprisingly good. The Mac and cheese was tasteless. Ugh. I was told if I eat
 location: Feeling healthy and went to Veggie Grilll
+city: Hollywood
+region: Los Angeles
 ---
 
 ![Feeling healthy and went to Veggie Grilll](/images/posts/ig-2020-01-21-feeling-healthy-and-went-to-veggie-grilll/17874421813549698.jpg)
