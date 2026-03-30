@@ -1,5 +1,5 @@
 ---
-title: Old School Italian tonight with old friends
+title: 'Old School Italian tonight with old friends, New York'
 pubDate: '2019-05-14'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/17963415331268369.jpg)
 
-Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce.  We started with the classic fried calamari and finished with a slice of tiramisu. .
+Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce. We started with the classic fried calamari and finished with a slice of tiramisu. .
 .
 .
 @forlinis.restaurant #nyc #eeeeeats @cutekatcat @yalin_wu

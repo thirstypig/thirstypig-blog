@@ -30,7 +30,7 @@ location: Vietnamese cuisine for lunch today
 
 ![Vietnamese cuisine for lunch today](/images/posts/ig-2018-11-09-vietnamese-cuisine-for-lunch-today/17879728102303979.jpg)
 
-Vietnamese cuisine for lunch today.  Was looking for stew with French bread. but they didn’t have it. 😩. But the pho was pretty good.
+Vietnamese cuisine for lunch today. Was looking for stew with French bread. but they didn’t have it. 😩. But the pho was pretty good.
 .
 .
 .

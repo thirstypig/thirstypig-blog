@@ -1,5 +1,5 @@
 ---
-title: Did the tourist thing
+title: 'Did the tourist thing, San Francisco'
 pubDate: '2018-02-14'
 author: The Thirsty Pig
 source: instagram

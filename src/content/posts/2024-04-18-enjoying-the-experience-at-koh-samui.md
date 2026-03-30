@@ -40,7 +40,7 @@ location: Koh Samui
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/18140057704321835.mp4" type="video/mp4"></video>
 
-Enjoying the experience at Koh Samui.  Interesting airport, big Buddha, and the resort.  Had a great time. Could have stayed longer.  Fun times!
+Enjoying the experience at Koh Samui. Interesting airport, big Buddha, and the resort. Had a great time. Could have stayed longer. Fun times!
 .
 .
 .

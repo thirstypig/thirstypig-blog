@@ -50,7 +50,7 @@ region: San Gabriel Valley
 
 ![Omakase at Z Sushui](/images/posts/ig-2021-10-22-omakase-at-z-sushui/17886332237437623.jpg)
 
-Omakase at Z Sushui.  Great meal experience at a long-standing favorite.  Hadn’t been there in a long time.  I think Z Sushi is one of the better Sushi restaurants in the SGV. 
+Omakase at Z Sushui. Great meal experience at a long-standing favorite. Hadn’t been there in a long time. I think Z Sushi is one of the better Sushi restaurants in the SGV. 
 .
 .
 .

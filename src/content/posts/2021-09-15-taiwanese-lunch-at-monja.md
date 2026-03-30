@@ -1,5 +1,5 @@
 ---
-title: Taiwanese lunch at Monja
+title: 'Taiwanese lunch at Monja, Rowland Heights'
 pubDate: '2021-09-15'
 author: The Thirsty Pig
 source: instagram
@@ -37,7 +37,7 @@ coordinates:
 
 ![Taiwanese lunch at Monja](/images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/18250523572053409.jpg)
 
-Taiwanese lunch at Monja.  Beef noodle soup, fried pork chop with rice, and popcorn chicken. 
+Taiwanese lunch at Monja. Beef noodle soup, fried pork chop with rice, and popcorn chicken. 
 .
 .
 .

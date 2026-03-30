@@ -1,5 +1,5 @@
 ---
-title: Carnitas Michoacan . . . late night yummies
+title: 'Carnitas Michoacan . . . late night yummies, Los Angeles'
 pubDate: '2009-08-21'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri,...
+title: 'Museum of Modern Art (MoMA), New York'
 pubDate: '2017-12-30'
 author: The Thirsty Pig
 source: instagram
@@ -59,4 +59,4 @@ coordinates:
 
 ![Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri,...](/images/posts/ig-2017-12-30-saw-some-paint-on-canvas-from-some-dudes-claude-paul-another/17889867223192929.jpg)
 
-Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri, and another Henri, Pablo, Salvador, Piet, Georges, Jackson and Vincent.  Never go on the busiest week of the year on Free Fridays - OMG crowded.  @themuseumofmodernart
+Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri, and another Henri, Pablo, Salvador, Piet, Georges, Jackson and Vincent. Never go on the busiest week of the year on Free Fridays - OMG crowded. @themuseumofmodernart

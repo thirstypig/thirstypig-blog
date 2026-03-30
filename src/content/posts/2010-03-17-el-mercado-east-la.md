@@ -39,3 +39,5 @@ coordinates:
   lat: 34.0485
   lng: -118.353562
 ---
+
+El Mercado in East LA.

@@ -53,7 +53,7 @@ categories:
 
 ![Taiwanese Whisky - Kavalan](/images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/18025457123099523.jpg)
 
-Taiwanese Whisky - Kavalan. Visited the distillery in Yilan and blended my own bottle and went on a tour. Good times. Got to taste and blend a flavor profile that I liked and was able to bottle one to bring home.  Cool experience.  Then we went on a tour of their distillery and saw their operation. Very similar to the tour I took in Louisville. 
+Taiwanese Whisky - Kavalan. Visited the distillery in Yilan and blended my own bottle and went on a tour. Good times. Got to taste and blend a flavor profile that I liked and was able to bottle one to bring home. Cool experience. Then we went on a tour of their distillery and saw their operation. Very similar to the tour I took in Louisville. 
 .
 .
 .

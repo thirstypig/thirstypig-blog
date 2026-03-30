@@ -1,5 +1,5 @@
 ---
-title: The tried and true . . . The Hat
+title: 'The tried and true . . . The Hat, Alhambra'
 pubDate: '2009-08-17'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: JingPuHui晶浦会 of Pudong
+title: 'JingPuHui晶浦会 of Pudong, Shanghai'
 pubDate: '2010-08-21'
 author: The Thirsty Pig
 source: thirstypig.com

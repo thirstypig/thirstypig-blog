@@ -1,0 +1,67 @@
+---
+/**
+ * Google AdSense ad slot component.
+ *
+ * Renders an AdSense display ad unit. Requires a Google AdSense
+ * publisher ID (ca-pub-XXXXX) set as PUBLIC_ADSENSE_PUB_ID in .env.
+ *
+ * Two formats:
+ *   "horizontal" — banner between sections (728x90 / responsive)
+ *   "article"    — in-article native ad (blends with content)
+ */
+interface Props {
+	format?: 'horizontal' | 'article';
+	slot?: string;
+}
+
+const { format = 'horizontal', slot = '' } = Astro.props;
+
+const pubId = import.meta.env.PUBLIC_ADSENSE_PUB_ID || '';
+---
+
+{pubId && (
+	<div class:list={['ad-container', `ad-${format}`]}>
+		{format === 'horizontal' && (
+			<ins
+				class="adsbygoogle"
+				style="display:block"
+				data-ad-client={pubId}
+				data-ad-slot={slot}
+				data-ad-format="auto"
+				data-full-width-responsive="true"
+			/>
+		)}
+		{format === 'article' && (
+			<ins
+				class="adsbygoogle"
+				style="display:block; text-align:center"
+				data-ad-client={pubId}
+				data-ad-slot={slot}
+				data-ad-layout="in-article"
+				data-ad-format="fluid"
+			/>
+		)}
+		<script is:inline>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</div>
+)}
+
+<style>
+	.ad-container {
+		margin: 1.5rem 0;
+		text-align: center;
+	}
+
+	.ad-horizontal {
+		padding: 0.5rem 0;
+		min-height: 90px;
+		border-top: 1px solid var(--color-cream-dark);
+		border-bottom: 1px solid var(--color-cream-dark);
+	}
+
+	.ad-article {
+		padding: 1rem 0;
+		min-height: 250px;
+	}
+</style>

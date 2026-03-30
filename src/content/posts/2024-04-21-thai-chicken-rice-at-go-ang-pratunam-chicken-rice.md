@@ -1,5 +1,5 @@
 ---
-title: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice
+title: 'Thai Chicken Rice at Go-Ang Pratunam Chicken Rice, Bangkok'
 pubDate: '2024-04-21'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Thai Chicken Rice at Go-Ang Pratunam Chicken Rice](/images/posts/ig-2024-04-21-thai-chicken-rice-at-go-ang-pratunam-chicken-rice/17962938311731696.jpg)
 
-Thai Chicken Rice at Go-Ang Pratunam Chicken Rice.  A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant.  The chicken is boiled and the rice is fragrant, just like Hainan chicken rice.  But the big difference is the sauce, which I didn’t take a photo of - it is dark savory and spicy with a hint of sweetness - just like me 🤣. Anyways. This was probably the best meal I had in Bangkok.  The sauce is the one to return for.  Yes I would return and would recommend.
+Thai Chicken Rice at Go-Ang Pratunam Chicken Rice. A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant. The chicken is boiled and the rice is fragrant, just like Hainan chicken rice. But the big difference is the sauce, which I didn’t take a photo of - it is dark savory and spicy with a hint of sweetness - just like me 🤣. Anyways. This was probably the best meal I had in Bangkok. The sauce is the one to return for. Yes I would return and would recommend.
 .
 .
 .

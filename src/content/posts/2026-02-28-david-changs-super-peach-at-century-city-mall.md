@@ -20,4 +20,4 @@ location: David Chang’s Super Peach at century city mall
 
 ![David Chang’s Super Peach at century city mall](/images/posts/ig-2026-02-28-david-changs-super-peach-at-century-city-mall/17993842691755669.jpg)
 
-David Chang’s Super Peach at century city mall.  Had the savory donut - with curry, the spicy green salad, and pork belly ssam. TBH the pork belly ssam wasn’t what I was expecting.  I was expecting a thinly sliced traditional version.  But this was pretty good.  @superpeach #superpeach #davidchang @isliou @ishanliou #pork @westfieldcenturycity
+David Chang’s Super Peach at century city mall. Had the savory donut - with curry, the spicy green salad, and pork belly ssam. TBH the pork belly ssam wasn’t what I was expecting. I was expecting a thinly sliced traditional version. But this was pretty good. @superpeach #superpeach #davidchang @isliou @ishanliou #pork @westfieldcenturycity

@@ -1,5 +1,5 @@
 ---
-title: Border Grill Truck with Chilaquiles & Tacos!
+title: 'Border Grill Truck with Chilaquiles & Tacos!, Downtown LA'
 pubDate: '2010-04-05'
 author: The Thirsty Pig
 source: thethirstypig.com

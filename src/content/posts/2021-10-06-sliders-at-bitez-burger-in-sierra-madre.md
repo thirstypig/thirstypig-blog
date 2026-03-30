@@ -1,5 +1,5 @@
 ---
-title: Sliders at Bitez Burger in Sierra Madre
+title: 'Sliders at Bitez Burger in Sierra Madre, Hollywood'
 pubDate: '2021-10-06'
 author: The Thirsty Pig
 source: instagram
@@ -37,7 +37,7 @@ coordinates:
 
 ![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17882416811473118.jpg)
 
-Sliders at Bitez Burger in Sierra Madre.  Baked burger Pattie’s and fries.  Not fried and not grilled.  From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their fries.  Bitez also has fry sauce - unique for socal, but popular in the Midwest. 
+Sliders at Bitez Burger in Sierra Madre. Baked burger Pattie’s and fries. Not fried and not grilled. From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their fries. Bitez also has fry sauce - unique for socal, but popular in the Midwest. 
 .
 .
 .

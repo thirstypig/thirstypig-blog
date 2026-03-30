@@ -1,5 +1,5 @@
 ---
-title: Peruvian Cuisine in Downtown Los Angeles – Mo-Chica
+title: 'Luxury Suite in Downtown Los Angeles, Downtown LA'
 pubDate: '2009-09-19'
 author: The Thirsty Pig
 source: thethirstypig.com

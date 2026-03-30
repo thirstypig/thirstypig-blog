@@ -1,5 +1,5 @@
 ---
-title: Knife cut noodles from Noodle St
+title: 'Knife cut noodles from Noodle St, Monrovia'
 pubDate: '2018-09-23'
 author: The Thirsty Pig
 source: instagram
@@ -43,7 +43,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17983221523036860.mp4" type="video/mp4"></video>
 
-Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style.  The broth was surprisingly good.  The beef was tender.  Pleasantly surprised and happy we went here
+Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we went here
 .
 .
 .

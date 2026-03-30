@@ -1,5 +1,5 @@
 ---
-title: Breakfast tacos at
+title: 'Breakfast tacos at, Austin'
 pubDate: '2017-06-17'
 author: The Thirsty Pig
 source: instagram

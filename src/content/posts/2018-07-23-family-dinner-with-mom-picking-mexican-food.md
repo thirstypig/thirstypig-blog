@@ -36,7 +36,7 @@ location: Family dinner with mom picking Mexican Food
 
 ![Family dinner with mom picking Mexican Food](/images/posts/ig-2018-07-23-family-dinner-with-mom-picking-mexican-food/17889164251234183.jpg)
 
-Family dinner with mom picking Mexican Food. We shared and couldn’t finish everything.  We had pork carnitas, cheese enchiladas, beef taquitos, chicken quesadilla, beef tacos, chicken tacos, and Mexican rice.  I think I must have carnitas everywhere.  Yum!
+Family dinner with mom picking Mexican Food. We shared and couldn’t finish everything. We had pork carnitas, cheese enchiladas, beef taquitos, chicken quesadilla, beef tacos, chicken tacos, and Mexican rice. I think I must have carnitas everywhere. Yum!
 .
 .
 .

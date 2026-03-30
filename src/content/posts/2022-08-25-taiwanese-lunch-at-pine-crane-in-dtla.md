@@ -1,5 +1,5 @@
 ---
-title: Taiwanese lunch at Pine & Crane in DTLA
+title: 'Taiwanese lunch at Pine & Crane in DTLA, Downtown LA'
 pubDate: '2022-08-25'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Taiwanese lunch at Pine & Crane in DTLA](/images/posts/ig-2022-08-25-taiwanese-lunch-at-pine-crane-in-dtla/17974608742669356.jpg)
 
-Taiwanese lunch at Pine & Crane in DTLA.  Beef noodle soup 台灣牛肉麵, Dan Dan noodles 擔擔麵, pork belly buns gua割包, and some sticky rice, seaweed and peanuts. I think Pine and Crane has a pretty good grasp of traditional and quite authentic Taiwanese food.  Though I thought the beef noodle soup’s soup, could have been a little more hearty.  But that’s more of personal preference. 
+Taiwanese lunch at Pine & Crane in DTLA. Beef noodle soup 台灣牛肉麵, Dan Dan noodles 擔擔麵, pork belly buns gua割包, and some sticky rice, seaweed and peanuts. I think Pine and Crane has a pretty good grasp of traditional and quite authentic Taiwanese food. Though I thought the beef noodle soup’s soup, could have been a little more hearty. But that’s more of personal preference. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: We ate too much
+title: 'We ate too much, San Gabriel Valley'
 pubDate: '2017-12-10'
 author: The Thirsty Pig
 source: instagram
@@ -38,4 +38,4 @@ region: San Gabriel Valley
 
 ![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17853932986205436.jpg)
 
-We ate too much.  Beef dip, pastrami burger, cheese bread, and red cabbage salad.  Yum!  I used to like the red cabbage salad more - it is more and more acidic, than I remember.  @clearmansboat @uscott @chewy321 @chaoswrld
+We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember. @clearmansboat @uscott @chewy321 @chaoswrld

@@ -1,5 +1,5 @@
 ---
-title: Haven’t been back to OB Bear in over 20 years
+title: 'Haven’t been back to OB Bear in over 20 years, Koreatown'
 pubDate: '2018-03-03'
 author: The Thirsty Pig
 source: instagram
@@ -32,4 +32,4 @@ coordinates:
 
 ![Haven’t been back to OB Bear in over 20 years](/images/posts/ig-2018-03-03-havent-been-back-to-ob-bear-in-over-20-years/17923811773067941.jpg)
 
-Haven’t been back to OB Bear in over 20 years.  #chicken #friedchicken #obbear @yalin_wu #thirstypig #ktown #spicy
+Haven’t been back to OB Bear in over 20 years. #chicken #friedchicken #obbear @yalin_wu #thirstypig #ktown #spicy

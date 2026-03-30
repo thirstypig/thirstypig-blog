@@ -1,5 +1,5 @@
 ---
-title: Good Times at Rockwell
+title: 'Good Times at Rockwell, Los Feliz'
 pubDate: '2009-10-03'
 author: The Thirsty Pig
 source: thethirstypig.com

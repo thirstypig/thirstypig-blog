@@ -1,5 +1,5 @@
 ---
-title: Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ank...
+title: 'Japanese dinner - premium sushi set, amberjack collar, tuna rice...'
 pubDate: '2021-03-18'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ categories:
 
 ![Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ank...](/images/posts/ig-2021-03-18-japanese-dinner-premium-sushi-set-amberjack-collar-tuna-rice/17902289362817539.jpg)
 
-Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ankimo monkfish liver.  Nice variety at Tonchinkan.  Will certainly try their other dishes next time.  The uni was not bad.  The sushi was also good. The ankimo was favorite too.
+Japanese dinner - premium sushi set, amberjack collar, tuna rice set, and ankimo monkfish liver. Nice variety at Tonchinkan. Will certainly try their other dishes next time. The uni was not bad. The sushi was also good. The ankimo was favorite too.
 .
 .
 .

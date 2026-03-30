@@ -1,5 +1,5 @@
 ---
-title: Dinner with old classmates at Temple City’s Bistro Na 那家小館
+title: 'Thien Hau Temple, Los Angeles'
 pubDate: '2025-02-20'
 author: The Thirsty Pig
 source: instagram
@@ -59,11 +59,11 @@ coordinates:
 
 Dinner with old classmates at Temple City’s Bistro Na 那家小館. 
 
-Hailing from Beijing, Bistro Na earned its first Michelin star in 2019.  Their dishes derive from traditional Imperial China-era recipes. I think this means they take dishes from all regions of China for their menu.  But then again most Chinese banquet restaurants do the same, except for maybe Cantonese restaurants.  I di wish there were more regional banquet style Chinese restaurants. I do think Bistro Na is one of the finer Chinese restaurants in the Southern California area.
+Hailing from Beijing, Bistro Na earned its first Michelin star in 2019. Their dishes derive from traditional Imperial China-era recipes. I think this means they take dishes from all regions of China for their menu. But then again most Chinese banquet restaurants do the same, except for maybe Cantonese restaurants. I di wish there were more regional banquet style Chinese restaurants. I do think Bistro Na is one of the finer Chinese restaurants in the Southern California area.
 
-Anyways, tonight we had some of this and some of that.  Including Shanghainese braised pork belly, their specialty Qing Dynasty Jar with purple rice, scallops, abalone, crispy shrimp, chef Su’s pork feet jelly, and a bunch of other dishes. Most of these dishes won’t be found at other restaurants in LA.  Lastly we had the 8 treasure desserts. This was special since we were also celebrating the end of Chinese New Year. 
+Anyways, tonight we had some of this and some of that. Including Shanghainese braised pork belly, their specialty Qing Dynasty Jar with purple rice, scallops, abalone, crispy shrimp, chef Su’s pork feet jelly, and a bunch of other dishes. Most of these dishes won’t be found at other restaurants in LA. Lastly we had the 8 treasure desserts. This was special since we were also celebrating the end of Chinese New Year. 
 
-Anyways… of course I would recommend and would return. What also made this night special was the cool private room.  I know for western cuisines there are some restaurants with private rooms. But I think when having a large dinner party - private rooms are the way to go!
+Anyways… of course I would recommend and would return. What also made this night special was the cool private room. I know for western cuisines there are some restaurants with private rooms. But I think when having a large dinner party - private rooms are the way to go!
 .
 .
 .

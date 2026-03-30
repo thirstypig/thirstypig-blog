@@ -53,7 +53,7 @@ categories:
 
 ![Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium](/images/posts/ig-2019-10-07-watching-my-cleveland-browns-play-at-sf-49ers-at-levis-stadi/17845703974675297.jpg)
 
-Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium.  Too bad the Browns lost.  Had a great time. Great seats.  Awesome 49er crowd. .
+Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium. Too bad the Browns lost. Had a great time. Great seats. Awesome 49er crowd. .
 .
 .
 .

@@ -36,3 +36,5 @@ coordinates:
   lat: 34.043634
   lng: -118.254231
 ---
+
+Hermes Bitcoin ATM - Downtown Los Angeles in Los Angeles.

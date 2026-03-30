@@ -1,5 +1,5 @@
 ---
-title: Sixes – Underrated Japanese Restaurants in Southern California
+title: 'Sixes, Los Angeles'
 pubDate: '2009-01-29'
 author: The Thirsty Pig
 source: thethirstypig.com

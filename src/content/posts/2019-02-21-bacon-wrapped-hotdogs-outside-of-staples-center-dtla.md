@@ -31,7 +31,7 @@ categories:
 
 ![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17854930114352512.jpg)
 
-Bacon wrapped hotdogs outside of Staples Center, DTLA.  When you walk out of that arena, nothing smells better than a bacon wrapped hot dog.
+Bacon wrapped hotdogs outside of Staples Center, DTLA. When you walk out of that arena, nothing smells better than a bacon wrapped hot dog.
 .
 .
 .

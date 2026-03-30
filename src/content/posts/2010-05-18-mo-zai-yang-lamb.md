@@ -1,5 +1,5 @@
 ---
-title: Lamb at Mo Zai Yang 莫宰羊
+title: 'Lamb at Mo Zai Yang 莫宰羊, Los Angeles'
 pubDate: '2010-05-18'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -20,3 +20,5 @@ coordinates:
   lat: 34.051751
   lng: -118.251251
 ---
+
+Water Court at California Plaza in Los Angeles.

@@ -1,5 +1,5 @@
 ---
-title: Taiwanese cuisine at 巷子口食堂
+title: 'Taiwanese cuisine at 巷子口食堂, Taipei'
 pubDate: '2024-05-07'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![Taiwanese cuisine at 巷子口食堂](/images/posts/ig-2024-05-07-taiwanese-cuisine-at-巷子口食堂/18310267981147044.jpg)
 
-Taiwanese cuisine at 巷子口食堂.  Traditional dishes that you won’t find at night markets or on the street. Pork and seafood dishes done well.  We almost polished off a bottle of Kaoliang,Taiwanese white wine.  It was a great night to catch up with old classmates, from our USC MBA program. 
+Taiwanese cuisine at 巷子口食堂. Traditional dishes that you won’t find at night markets or on the street. Pork and seafood dishes done well. We almost polished off a bottle of Kaoliang,Taiwanese white wine. It was a great night to catch up with old classmates, from our USC MBA program. 
 .
 .
 . @heykbing @askh002 @tastemakersapp #tastemaker #tastemakers #tastemakersapp @tootsiefranklin @ilovebreakfastburritos #eats #eeeeeats

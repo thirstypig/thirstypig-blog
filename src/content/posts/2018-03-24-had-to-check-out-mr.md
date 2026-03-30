@@ -1,5 +1,5 @@
 ---
-title: Had to check out Mr
+title: 'Had to check out Mr, Echo Park'
 pubDate: '2018-03-24'
 author: The Thirsty Pig
 source: instagram
@@ -35,4 +35,4 @@ coordinates:
 
 ![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17935685251004401.jpg)
 
-Had to check out Mr. Holmes, since it was close by.  Had the savory danish and the churro croissant. @mrholmesbakehouse
+Had to check out Mr. Holmes, since it was close by. Had the savory danish and the churro croissant. @mrholmesbakehouse

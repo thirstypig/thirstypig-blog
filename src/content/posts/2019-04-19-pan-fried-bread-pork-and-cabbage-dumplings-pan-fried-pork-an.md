@@ -1,5 +1,5 @@
 ---
-title: Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings...
+title: 'Qing Dao Bread Food, Monterey Park'
 pubDate: '2019-04-19'
 author: The Thirsty Pig
 source: instagram
@@ -47,6 +47,6 @@ coordinates:
 
 ![Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings...](/images/posts/ig-2019-04-19-pan-fried-bread-pork-and-cabbage-dumplings-pan-fried-pork-an/17866153018367363.jpg)
 
-Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce.  Qingdao Bread Food 青島麵館 in Monterey Park in the SGV.
+Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce. Qingdao Bread Food 青島麵館 in Monterey Park in the SGV.
 .
 . @yalin_wu #dumplings #frieddumplings #青島 #qingdaobreadfood @qingdaobreadfood #noodles #northernchinesefood

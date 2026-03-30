@@ -31,7 +31,7 @@ description: Just some tacos and queso. And of course some drinks. Really can’
 
 ![Just some tacos and queso](/images/posts/ig-2022-04-11-just-some-tacos-and-queso/18290711404041051.jpg)
 
-Just some tacos and queso.  And of course some drinks.  Really can’t go wrong with tacos. 
+Just some tacos and queso. And of course some drinks. Really can’t go wrong with tacos. 
 .
 .
 .

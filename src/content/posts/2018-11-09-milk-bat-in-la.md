@@ -44,7 +44,7 @@ location: Milk Bat in LA
 
 ![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17990250199075743.jpg)
 
-Milk Bat in LA.  B’day milk quake, cereal milk, crack pie, thanksgiving croissant.  Yum.  Finally in LA.
+Milk Bat in LA. B’day milk quake, cereal milk, crack pie, thanksgiving croissant. Yum. Finally in LA.
 .
 .
 .

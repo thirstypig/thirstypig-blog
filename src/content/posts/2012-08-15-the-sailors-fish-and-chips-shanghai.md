@@ -23,3 +23,5 @@ coordinates:
   lat: 31.224154
   lng: 121.443505
 ---
+
+The PuLi Hotel and Spa (璞丽酒店) in Shanghai.

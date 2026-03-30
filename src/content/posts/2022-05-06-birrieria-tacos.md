@@ -1,5 +1,5 @@
 ---
-title: Birrieria tacos
+title: 'Birrieria tacos, East LA'
 pubDate: '2022-05-06'
 author: The Thirsty Pig
 source: instagram
@@ -28,7 +28,7 @@ coordinates:
 
 ![Birrieria tacos](/images/posts/ig-2022-05-06-birrieria-tacos/18009069889408807.jpg)
 
-Birrieria tacos.  Yummy. Second time here and won’t be the last. 
+Birrieria tacos. Yummy. Second time here and won’t be the last. 
 .
 .
 .

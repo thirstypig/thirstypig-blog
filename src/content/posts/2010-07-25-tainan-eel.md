@@ -1,5 +1,5 @@
 ---
-title: Tainan Eel Noodles
+title: 'Tainan Eel Noodles, Taipei'
 pubDate: '2010-07-25'
 author: The Thirsty Pig
 source: thethirstypig.com

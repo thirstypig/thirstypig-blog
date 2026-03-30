@@ -1,5 +1,5 @@
 ---
-title: The Korean Taco Truck! – Kogi BBQ
+title: 'The Korean Taco Truck! – Kogi BBQ, Los Angeles'
 pubDate: '2009-01-04'
 author: The Thirsty Pig
 source: thethirstypig.com

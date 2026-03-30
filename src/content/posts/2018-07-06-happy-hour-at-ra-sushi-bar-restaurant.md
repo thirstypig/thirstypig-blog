@@ -36,7 +36,7 @@ location: Happy Hour at RA Sushi Bar Restaurant
 
 ![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17943870901105236.jpg)
 
-Happy Hour at RA Sushi Bar Restaurant.  Uni Sea Urchin.
+Happy Hour at RA Sushi Bar Restaurant. Uni Sea Urchin.
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Barbecue from APL
+title: 'Barbecue from APL, Venice'
 pubDate: '2024-09-28'
 author: The Thirsty Pig
 source: instagram
@@ -54,8 +54,8 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-09-28-barbecue-from-apl/18093217060467903.mp4" type="video/mp4"></video>
 
-Barbecue from APL.  Beef rib, pork ribs, pulled pork, cornbread, and stuffed pig trotter.  Amazing bbq from a Hall of Famer and YETI ambassador - APL Adam Perry Lang.  The boneless pig trotter was stuffed with sausage with crispy skin - was absolutely amazing.  We got in line at 11:30 with doors opening at 1pm.  Was told a couple of their smokers were from Franklins.  Would definitely visit again and would absolutely recommend. And worth it to stand in line. We stood in line for about 1.5 hours. 
+Barbecue from APL. Beef rib, pork ribs, pulled pork, cornbread, and stuffed pig trotter. Amazing bbq from a Hall of Famer and YETI ambassador - APL Adam Perry Lang. The boneless pig trotter was stuffed with sausage with crispy skin - was absolutely amazing. We got in line at 11:30 with doors opening at 1pm. Was told a couple of their smokers were from Franklins. Would definitely visit again and would absolutely recommend. And worth it to stand in line. We stood in line for about 1.5 hours. 
 .
 .
 .
-@adamperrylang @gammagod  @whybs_bbq #eats #eeeeeats
+@adamperrylang @gammagod @whybs_bbq #eats #eeeeeats

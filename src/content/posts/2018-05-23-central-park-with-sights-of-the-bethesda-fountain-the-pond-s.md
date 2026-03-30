@@ -1,5 +1,5 @@
 ---
-title: Central Park with sights of the Bethesda Fountain, the Pond, Statues, and som...
+title: 'Central Park with sights of the Bethesda Fountain, the Pond,...'
 pubDate: '2018-05-23'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ categories:
 
 ![Central Park with sights of the Bethesda Fountain, the Pond, Statues, and som...](/images/posts/ig-2018-05-23-central-park-with-sights-of-the-bethesda-fountain-the-pond-s/17933334622110694.jpg)
 
-Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots.  Beautiful park and lots to see.  Great day to enjoy the outdoors.  It was a little humid, but luckily we had a slight breeze. Too bad the castle was under reconstruction .
+Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots. Beautiful park and lots to see. Great day to enjoy the outdoors. It was a little humid, but luckily we had a slight breeze. Too bad the castle was under reconstruction .
 .
 .
 .

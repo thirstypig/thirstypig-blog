@@ -44,7 +44,7 @@ coordinates:
 
 ![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18003792433131501.jpg)
 
-Truffle Fries and burgers at Umani Burger in Old Town Pasadena.  We also tried the impossible vegan burger, which was pretty good.  Yum!
+Truffle Fries and burgers at Umani Burger in Old Town Pasadena. We also tried the impossible vegan burger, which was pretty good. Yum!
 .
 .
 . @umamiburger #veganburger #fries #trufflefries

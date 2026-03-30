@@ -30,7 +30,7 @@ region: San Gabriel Valley
 
 ![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/18064728019019401.jpg)
 
-Hunanese lunch. Spicy chicken feet and pig ear with tofu, spicy Pig stomach, and spicy sliced potatoes.  Wife loves this stuff.  Dong Ting Chun 洞庭春 .
+Hunanese lunch. Spicy chicken feet and pig ear with tofu, spicy Pig stomach, and spicy sliced potatoes. Wife loves this stuff. Dong Ting Chun 洞庭春 .
 .
 .
 . @yalin_wu #chickenfeet #pigstomach

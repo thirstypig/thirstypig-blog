@@ -1,5 +1,5 @@
 ---
-title: Brunch at ERB
+title: 'Brunch at ERB, Downtown LA'
 pubDate: '2019-08-04'
 author: The Thirsty Pig
 source: instagram

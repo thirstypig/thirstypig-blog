@@ -28,3 +28,5 @@ archiveUrl: https://web.archive.org/web/20110105192414/http://www.thethirstypig.
 draft: false
 location: Gu Yi Hunan Restaurant 古意湘味浓
 ---
+
+Gu Yi Hunan Restaurant 古意湘味浓.

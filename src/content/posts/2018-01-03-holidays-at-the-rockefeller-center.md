@@ -36,4 +36,4 @@ location: Holidays at the Rockefeller Center
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17917048519032404.mp4" type="video/mp4"></video>
 
-Holidays at the Rockefeller Center.  We also saw a successful marriage proposal on the ice.  Heard a nice show a Saks Fifth Avenue Department Store.  And saw a replica at the LEGO store. #rockefellercenter #thirstypig
+Holidays at the Rockefeller Center. We also saw a successful marriage proposal on the ice. Heard a nice show a Saks Fifth Avenue Department Store. And saw a replica at the LEGO store. #rockefellercenter #thirstypig

@@ -1,5 +1,5 @@
 ---
-title: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
+title: 'TurKiss, New York'
 pubDate: '2018-05-24'
 author: The Thirsty Pig
 source: instagram

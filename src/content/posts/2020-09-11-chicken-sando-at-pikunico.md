@@ -1,5 +1,5 @@
 ---
-title: Chicken sando at pikunico
+title: 'Chicken sando at pikunico, Downtown LA'
 pubDate: '2020-09-11'
 author: The Thirsty Pig
 source: instagram
@@ -36,7 +36,7 @@ coordinates:
 
 ![Chicken sando at pikunico](/images/posts/ig-2020-09-11-chicken-sando-at-pikunico/18159931000009283.jpg)
 
-Chicken sando at pikunico.  Yummy. One of the best if not the best chicken sandwich I have ever had.  Just enough spiciness and flavor.  Good crunchy texture for mouth feel.  The side salad was good too. I had the seaweed cucumber salad.  All this for $15 for the dinela lunch deal.
+Chicken sando at pikunico. Yummy. One of the best if not the best chicken sandwich I have ever had. Just enough spiciness and flavor. Good crunchy texture for mouth feel. The side salad was good too. I had the seaweed cucumber salad. All this for $15 for the dinela lunch deal.
 .
 .
 .

@@ -37,7 +37,7 @@ coordinates:
 
 ![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17899709450480264.jpg)
 
-Happy Hour at Wolf & Crane in DTLA Little Tokyo.  Cool spot that got crowded fast. Luckily we got there early to get a table.
+Happy Hour at Wolf & Crane in DTLA Little Tokyo. Cool spot that got crowded fast. Luckily we got there early to get a table.
 .
 .
 .

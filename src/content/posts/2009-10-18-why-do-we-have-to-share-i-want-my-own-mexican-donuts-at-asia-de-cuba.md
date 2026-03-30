@@ -1,5 +1,5 @@
 ---
-title: Why do we have to share . . . I want my own! Mexican Donuts at Asia de Cuba
+title: 'El Pueblo de Los Angeles Historic Monument, Hollywood'
 pubDate: '2009-10-18'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: The Saban Free Clinic The Extravaganza for the Senses 2009
+title: 'The Saban Free Clinic The Extravaganza for the Senses...'
 pubDate: '2009-07-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -24,7 +24,7 @@ city: Los Angeles
 
 Summertime in Los Angeles is the time for Food & Wine Events. One of the finest events is the The Extravaganza for the Senses by the Saban Free Clinic. They have been having their event for 14 years. They raise funds for their free medical clinics around Los Angeles. Like other Food & Wine events, several restaurants in and around Los Angeles participate with wineries from all over the world. They provide samplings of their best creations.
 
-Some of my favorite plates for the evening were Dr. Bob’s Handcrafted Ice Cream, Mr. Cecil’s California Ribs, and The Foundry. Dr. Bob’s Tahitian Vanilla Bean ice cream was probably the best vanilla ice cream that I have ever had. Serious. Period. I don’t know what it was. . .but it was quite tasty. Heck, I might even look for them in the future, just for their ice cream. Additionally, Mr. Cecil’s Ribs were quite good as well, they had a small slice of their beef ribs as well as a small baby back rib for each plate. In my humble opinion, Mr. Cecil’s has the best Beef Ribs. Perhaps with my limited California bbq ribs experience, I am a bit biased or I haven’t tasted many of the top Mid-west rib shacks. . . but i am willing to have Mr. Cecil’s up against anybody for their beef ribs. The Foundry had this mini grilled cheese sandwich with salsa – which was quite tasty. They used some sort of artisan bread with some expensive white cheese, but it was the salsa that made the sandwich.
+Some of my favorite plates for the evening were Dr. Bob’s Handcrafted Ice Cream, Mr. Cecil’s California Ribs, and The Foundry. Dr. Bob’s Tahitian Vanilla Bean ice cream was probably the best vanilla ice cream that I have ever had. Serious. Period. I don’t know what it was. . .but it was quite tasty. Heck, I might even look for them in the future, just for their ice cream. Additionally, Mr. Cecil’s Ribs were quite good as well, they had a small slice of their beef ribs as well as a small baby back rib for each plate. In my humble opinion, Mr. Cecil’s has the best Beef Ribs. Perhaps with my limited California bbq ribs experience, I am a bit biased or I haven’t tasted many of the top Mid-west rib shacks. . . but I am willing to have Mr. Cecil’s up against anybody for their beef ribs. The Foundry had this mini grilled cheese sandwich with salsa – which was quite tasty. They used some sort of artisan bread with some expensive white cheese, but it was the salsa that made the sandwich.
 
 Since I am not a big fan of wines, I don’t really remember drinking many wines that I liked. Thought I did have some Skyy Vodka throughout the night. The event, located at the Fox Studios outdoor lot, off of Pico Blvd, provided a nice outdoor summer setting. The cool night helped for most of the slightly buzzed wine drinkers.
 

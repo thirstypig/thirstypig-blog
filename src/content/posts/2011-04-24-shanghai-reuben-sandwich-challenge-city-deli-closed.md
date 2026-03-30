@@ -1,5 +1,5 @@
 ---
-title: The Shanghai Reuben Sandwich Challenge – City Deli (Closed)
+title: 'Mapi Espresso & Sandwich Bar, New York'
 pubDate: '2011-04-24'
 author: The Thirsty Pig
 source: thirstypig.com

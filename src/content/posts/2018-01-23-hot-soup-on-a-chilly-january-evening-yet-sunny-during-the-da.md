@@ -26,4 +26,4 @@ categories:
 
 ![Hot soup on a chilly January evening, yet sunny during the day](/images/posts/ig-2018-01-23-hot-soup-on-a-chilly-january-evening-yet-sunny-during-the-da/17920048711007696.jpg)
 
-Hot soup on a chilly January evening, yet sunny during the day.  Favorite soup on cold days. @krystyna.kao #thirstypig
+Hot soup on a chilly January evening, yet sunny during the day. Favorite soup on cold days. @krystyna.kao #thirstypig

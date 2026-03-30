@@ -1,5 +1,5 @@
 ---
-title: Harlem Fried Chicken at Sylvia’s Restaurant
+title: 'Harlem Fried Chicken at Sylvia’s Restaurant, New York'
 pubDate: '2018-01-02'
 author: The Thirsty Pig
 source: instagram
@@ -36,4 +36,4 @@ coordinates:
 
 ![Harlem Fried Chicken at Sylvia’s Restaurant](/images/posts/ig-2018-01-02-harlem-fried-chicken-at-sylvias-restaurant/17891605357135074.jpg)
 
-Harlem Fried Chicken at Sylvia’s Restaurant. Also had some bbq ribs, but was unfortunately dry - seems liked it was sitting under a heat lamp for awhile.  The fried chicken was awesome - tender and flavorful.  Wife thought the fried chicken was slightly too salty.  Enjoyed the waffle, corn bread, collard greens, and the baked Mac & Cheese.  The green beans were - eh. @yalin_wu @sylviasrestaurant
+Harlem Fried Chicken at Sylvia’s Restaurant. Also had some bbq ribs, but was unfortunately dry - seems liked it was sitting under a heat lamp for awhile. The fried chicken was awesome - tender and flavorful. Wife thought the fried chicken was slightly too salty. Enjoyed the waffle, corn bread, collard greens, and the baked Mac & Cheese. The green beans were - eh. @yalin_wu @sylviasrestaurant

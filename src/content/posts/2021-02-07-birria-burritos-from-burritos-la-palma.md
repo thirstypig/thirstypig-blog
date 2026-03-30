@@ -1,5 +1,5 @@
 ---
-title: Birria Burritos from Burritos La Palma
+title: 'Birria Burritos from Burritos La Palma, Los Angeles'
 pubDate: '2021-02-07'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17905178119690221.mp4" type="video/mp4"></video>
 
-Birria Burritos from Burritos La Palma.  Simple and little birria burritos.  Tasty!
+Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty!
 .
 .
 .

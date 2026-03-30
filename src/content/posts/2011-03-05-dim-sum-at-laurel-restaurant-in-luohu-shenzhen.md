@@ -1,5 +1,5 @@
 ---
-title: Dim Sum at Laurel Restaurant in Luohu Shenzhen
+title: 'Dim Sum at Laurel Restaurant in Luohu Shenzhen, Hong Kong'
 pubDate: '2011-03-05'
 author: The Thirsty Pig
 source: thethirstypig.com

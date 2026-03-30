@@ -50,7 +50,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-10-13-the-cheeseburger-potsticker-at-ms-chi-in-culver-city/17974740646101981.mp4" type="video/mp4"></video>
 
-The cheeseburger potsticker at Ms Chi in Culver City.  Crispy chicken, Maobo tofu, tator tots, Brussels sprouts, and Buddha beer. .
+The cheeseburger potsticker at Ms Chi in Culver City. Crispy chicken, Maobo tofu, tator tots, Brussels sprouts, and Buddha beer. .
 .
 .
 .

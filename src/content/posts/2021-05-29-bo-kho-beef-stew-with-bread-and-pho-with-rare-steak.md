@@ -35,7 +35,7 @@ categories:
 
 ![Bo Kho - beef stew with bread and Pho with rare steak](/images/posts/ig-2021-05-29-bo-kho-beef-stew-with-bread-and-pho-with-rare-steak/17913962725761892.jpg)
 
-Bo Kho - beef stew with bread and Pho with rare steak.  Also had the spring rolls and the steam buns with pork belly and duck.  The beef stew Bo Kho is my favorite Vietnamese dish. I’m glad we found it.  Whenever I go to a Vietnamese restaurant I always look for the Bo Kho.  I know only restaurants that have pho and banh mi might have it. I love the bread dipping in the stew. 
+Bo Kho - beef stew with bread and Pho with rare steak. Also had the spring rolls and the steam buns with pork belly and duck. The beef stew Bo Kho is my favorite Vietnamese dish. I’m glad we found it. Whenever I go to a Vietnamese restaurant I always look for the Bo Kho. I know only restaurants that have pho and banh mi might have it. I love the bread dipping in the stew. 
 .
 .
 .

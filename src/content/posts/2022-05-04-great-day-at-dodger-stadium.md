@@ -38,7 +38,7 @@ location: Great day at Dodger Stadium
 
 ![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17961192829660739.jpg)
 
-Great day at Dodger Stadium.  Good win, too. 
+Great day at Dodger Stadium. Good win, too. 
 .
 .
 .

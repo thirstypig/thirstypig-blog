@@ -1,5 +1,5 @@
 ---
-title: The Budaejeongol 부대전골 at Nolboo 놀부
+title: 'The Budaejeongol 부대전골 at Nolboo 놀부, Arcadia'
 pubDate: '2011-01-27'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -38,7 +38,7 @@ coordinates:
 
 ![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17986924459557399.jpg)
 
-Tacos from Guisados. Fish tacos - grilled not fried.  I love these tacos.  Not a fan of fried fish tacos.  Also got the 6 mini taco sampler for $8.50 - great deal.  I forgot about this place.  I think they are probably the best taco joint in DTLA, could go up against guerrilla tacos. 
+Tacos from Guisados. Fish tacos - grilled not fried. I love these tacos. Not a fan of fried fish tacos. Also got the 6 mini taco sampler for $8.50 - great deal. I forgot about this place. I think they are probably the best taco joint in DTLA, could go up against guerrilla tacos. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Steak at Peter Luger’s
+title: 'Steak at Peter Luger’s, New York'
 pubDate: '2019-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -51,7 +51,7 @@ coordinates:
 
 ![Steak at Peter Luger’s](/images/posts/ig-2019-05-13-steak-at-peter-lugers/18065464813030459.jpg)
 
-Steak at Peter Luger’s.  We had the rib steak and the steak for two.  Yum!  Glad we went!
+Steak at Peter Luger’s. We had the rib steak and the steak for two. Yum! Glad we went!
 .
 .
 .

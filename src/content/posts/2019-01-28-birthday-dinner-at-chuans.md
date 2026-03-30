@@ -1,5 +1,5 @@
 ---
-title: Birthday dinner at Chuan’s
+title: 'Birthday dinner at Chuan’s, San Gabriel'
 pubDate: '2019-01-28'
 author: The Thirsty Pig
 source: instagram
@@ -51,7 +51,7 @@ coordinates:
 
 ![Birthday dinner at Chuan’s](/images/posts/ig-2019-01-28-birthday-dinner-at-chuans/17864283313314414.jpg)
 
-Birthday dinner at Chuan’s.  Sichuan cuisine.  Father in-laws birthday. Too bad there was no Sichuan Mask show.  The fish and mapo tofu was great.  The noodles were good too.
+Birthday dinner at Chuan’s. Sichuan cuisine. Father in-laws birthday. Too bad there was no Sichuan Mask show. The fish and mapo tofu was great. The noodles were good too.
 .
 .
 . @yalin_wu

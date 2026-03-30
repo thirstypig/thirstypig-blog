@@ -1,5 +1,5 @@
 ---
-title: Dim Sum lunch but without the iconic carts
+title: 'Dim Sum lunch but without the iconic carts, Irvine'
 pubDate: '2018-09-05'
 author: The Thirsty Pig
 source: instagram

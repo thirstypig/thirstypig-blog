@@ -45,7 +45,7 @@ description: Tainan oldest department store 林百貨 also known as Hayashi. Lot
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-05-02-tainan-oldest-department-store-林百貨-also-known-as-hayashi/18026110307086772.mp4" type="video/mp4"></video>
 
-Tainan oldest department store 林百貨 also known as Hayashi.  Lots of interesting items from local purveyors. 5 floors of clothing, housewares, and trinkets. The rooftop had a couple of eateries to go along with the great views.  The building interior and exterior looks great and well preserved. 
+Tainan oldest department store 林百貨 also known as Hayashi. Lots of interesting items from local purveyors. 5 floors of clothing, housewares, and trinkets. The rooftop had a couple of eateries to go along with the great views. The building interior and exterior looks great and well preserved. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger...
+title: 'Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls...'
 pubDate: '2023-07-12'
 author: The Thirsty Pig
 source: instagram
@@ -29,7 +29,7 @@ description: Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls a
 
 ![Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger...](/images/posts/ig-2023-07-12-pulled-pork-and-smoked-burnt-ends-with-kings-hawaiian-bread/17994197810021517.jpg)
 
-Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger Game.  Good food and a Dodger win!  What could be better?
+Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger Game. Good food and a Dodger win! What could be better?
 .
 .
 .

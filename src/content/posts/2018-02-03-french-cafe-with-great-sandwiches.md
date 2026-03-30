@@ -1,5 +1,5 @@
 ---
-title: French cafe with great sandwiches
+title: 'French cafe with great sandwiches, Downtown LA'
 pubDate: '2018-02-03'
 author: The Thirsty Pig
 source: instagram

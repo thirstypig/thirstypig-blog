@@ -1,5 +1,5 @@
 ---
-title: Lunch at The Bike Shed in DTLA
+title: 'Lunch at The Bike Shed in DTLA, Downtown LA'
 pubDate: '2024-08-20'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-08-20-lunch-at-the-bike-shed-in-dtla/18140012758336964.mp4" type="video/mp4"></video>
 
-Lunch at The Bike Shed in DTLA.  Hanging with my brother and his family, especially with the nephews.  One of my favorite venues in DTLA, arts district. 
+Lunch at The Bike Shed in DTLA. Hanging with my brother and his family, especially with the nephews. One of my favorite venues in DTLA, arts district. 
 .
 .
 .

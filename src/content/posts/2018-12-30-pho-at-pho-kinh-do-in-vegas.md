@@ -1,5 +1,5 @@
 ---
-title: Pho at Pho Kinh Do in Vegas
+title: 'Pho at Pho Kinh Do in Vegas, Las Vegas'
 pubDate: '2018-12-30'
 author: The Thirsty Pig
 source: instagram

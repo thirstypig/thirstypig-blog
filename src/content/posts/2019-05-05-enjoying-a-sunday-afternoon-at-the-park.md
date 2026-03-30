@@ -41,7 +41,7 @@ description: Enjoying a Sunday afternoon at the park. Petco Park, watching the D
 
 ![Enjoying a Sunday afternoon at the park](/images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17860678570379185.jpg)
 
-Enjoying a Sunday afternoon at the park.  Petco Park, watching the Dodgers attempt to sweep the Padres!!! .
+Enjoying a Sunday afternoon at the park. Petco Park, watching the Dodgers attempt to sweep the Padres!!! .
 .
 .
 #itfdb #friarfaithful #baseball @petcoparkevents @padres @dodgers @18_maeken @yalin_wu #mlb #dodgers #petcopark @steveygarvey6 #cincodemayo

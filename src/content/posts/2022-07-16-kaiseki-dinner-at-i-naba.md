@@ -42,7 +42,7 @@ location: Kaiseki dinner at I-Naba
 
 ![Kaiseki dinner at I-Naba](/images/posts/ig-2022-07-16-kaiseki-dinner-at-i-naba/18301253668064393.jpg)
 
-Kaiseki dinner at I-Naba.  Excellent service and great experience.  Lots of the dishes were quite good.  The miso infused cheese, fish ball, soba noodles, green mochi were stand outs.  Unfortunately the sushi rice, the some of the sushi was not.  I’ve had great kaiseki experiences in Asia.  So my expectations were quite high.  I would love to try the set menu for the Sushi I-Naba next time. 
+Kaiseki dinner at I-Naba. Excellent service and great experience. Lots of the dishes were quite good. The miso infused cheese, fish ball, soba noodles, green mochi were stand outs. Unfortunately the sushi rice, the some of the sushi was not. I’ve had great kaiseki experiences in Asia. So my expectations were quite high. I would love to try the set menu for the Sushi I-Naba next time. 
 .
 .
 .

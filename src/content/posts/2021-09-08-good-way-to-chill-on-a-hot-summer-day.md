@@ -33,7 +33,7 @@ location: Good way to chill on a hot summer day
 
 ![Good way to chill on a hot summer day](/images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/18245611951047739.jpg)
 
-Good way to chill on a hot summer day.  It’s still summer, right??? 
+Good way to chill on a hot summer day. It’s still summer, right??? 
 .
 .
 .

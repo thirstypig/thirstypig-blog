@@ -21,7 +21,7 @@ location: Dodger Stadium
 
 ![This is how you enjoy a Moscow Mule at Dodger Stadium](/images/posts/ig-2019-09-22-this-is-how-you-enjoy-a-moscow-mule-at-dodger-stadium/17863317460498897.jpg)
 
-This is how you enjoy a Moscow Mule at Dodger Stadium.  With Souvenir Cup - twenty five bucks.  A bit pricey, but it is pretty awesome! 😎 .
+This is how you enjoy a Moscow Mule at Dodger Stadium. With Souvenir Cup - twenty five bucks. A bit pricey, but it is pretty awesome! 😎 .
 .
 .
 .

@@ -28,3 +28,5 @@ location: Big Wangs
 city: Dtla
 region: Downtown LA
 ---
+
+Big Wangs in Dtla.

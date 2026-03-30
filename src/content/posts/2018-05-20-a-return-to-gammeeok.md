@@ -1,5 +1,5 @@
 ---
-title: A return to Gammeeok
+title: 'A return to Gammeeok, Koreatown'
 pubDate: '2018-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ coordinates:
 
 ![A return to Gammeeok](/images/posts/ig-2018-05-20-a-return-to-gammeeok/17917934968155328.jpg)
 
-A return to Gammeeok.  Had the Sogogi, fried chicken wings, and the galbi tang.  The wings were better than expected.
+A return to Gammeeok. Had the Sogogi, fried chicken wings, and the galbi tang. The wings were better than expected.
 .
 .
 .

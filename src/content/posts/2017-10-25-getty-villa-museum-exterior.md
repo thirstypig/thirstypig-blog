@@ -1,5 +1,5 @@
 ---
-title: Getty Villa museum exterior
+title: 'Getty Villa museum exterior, Malibu'
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram
@@ -53,4 +53,4 @@ coordinates:
 
 ![Getty Villa museum exterior](/images/posts/ig-2017-10-25-getty-villa-museum-exterior/17876033218175578.jpg)
 
-Getty Villa museum exterior.  I dig the herb garden, vine covered walkway, and the outdoor forum. #gettyvilla #museum #exterior #thirtypig @yalin_wu #malibu #beach
+Getty Villa museum exterior. I dig the herb garden, vine covered walkway, and the outdoor forum. #gettyvilla #museum #exterior #thirtypig @yalin_wu #malibu #beach

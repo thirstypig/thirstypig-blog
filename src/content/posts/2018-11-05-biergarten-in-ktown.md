@@ -1,5 +1,5 @@
 ---
-title: Biergarten in Ktown
+title: 'Biergarten in Ktown, Koreatown'
 pubDate: '2018-11-05'
 author: The Thirsty Pig
 source: instagram
@@ -34,7 +34,7 @@ coordinates:
 
 ![Biergarten in Ktown](/images/posts/ig-2018-11-05-biergarten-in-ktown/17997737989045281.jpg)
 
-Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so.  And the kalbi poutine was also very good.  Also I can’t forget the kimchi Bloody Mary!  Yum!  Excellent choice to watch football games. Not too crowded and not empty.  Former Ram - Ivory Sully and a couple of Rams Cheerleaders helped make the game a little more interesting. .
+Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice to watch football games. Not too crowded and not empty. Former Ram - Ivory Sully and a couple of Rams Cheerleaders helped make the game a little more interesting. .
 .
 .
 .

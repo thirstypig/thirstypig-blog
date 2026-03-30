@@ -1,5 +1,5 @@
 ---
-title: DOZO Izakaya ‧ Dining Bar
+title: 'DOZO Izakaya ‧ Dining Bar, Taipei'
 pubDate: '2009-02-24'
 author: The Thirsty Pig
 source: thethirstypig.com

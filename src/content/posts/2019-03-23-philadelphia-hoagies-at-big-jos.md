@@ -1,5 +1,5 @@
 ---
-title: Philadelphia Hoagies at Big Jo’s
+title: 'Philadelphia Hoagies at Big Jo’s, Santa Monica'
 pubDate: '2019-03-23'
 author: The Thirsty Pig
 source: instagram
@@ -32,4 +32,4 @@ coordinates:
 
 ![Philadelphia Hoagies at Big Jo’s](/images/posts/ig-2019-03-23-philadelphia-hoagies-at-big-jos/18031175446105007.jpg)
 
-Philadelphia Hoagies at Big Jo’s.  Ate too much!
+Philadelphia Hoagies at Big Jo’s. Ate too much!

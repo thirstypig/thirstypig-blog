@@ -1,5 +1,5 @@
 ---
-title: Pine & Crane vegan lunch
+title: 'Pine & Crane vegan lunch, Downtown LA'
 pubDate: '2022-07-09'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/18009002263437020.jpg)
 
-Pine & Crane vegan lunch.  Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad.  And of course the traditional Taiwanese shaved ice.  Yummy and healthy.  Popular spot with street parking only.  Outdoor seating is best. 
+Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved ice. Yummy and healthy. Popular spot with street parking only. Outdoor seating is best. 
 .
 .
 .

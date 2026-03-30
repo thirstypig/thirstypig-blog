@@ -1,5 +1,5 @@
 ---
-title: almost 3 hour wait
+title: 'almost 3 hour wait, Austin'
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -54,4 +54,4 @@ coordinates:
 
 ![almost 3 hour wait](/images/posts/ig-2017-06-03-almost-3-hour-wait/17882562112034428.jpg)
 
-@snowsbbq almost 3 hour wait.  Texas Monthly #1 BBQ 2017!!! Had the most amazing and tender and moist (fatty) pork shoulder steak.  Brisket was wonderful. Pork ribs was so-so.  Jalapeño Sausage was outstanding
+@snowsbbq almost 3 hour wait. Texas Monthly #1 BBQ 2017!!! Had the most amazing and tender and moist (fatty) pork shoulder steak. Brisket was wonderful. Pork ribs was so-so. Jalapeño Sausage was outstanding

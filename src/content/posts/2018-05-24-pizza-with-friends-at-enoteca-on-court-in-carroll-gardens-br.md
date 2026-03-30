@@ -47,7 +47,7 @@ coordinates:
 
 ![Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn](/images/posts/ig-2018-05-24-pizza-with-friends-at-enoteca-on-court-in-carroll-gardens-br/17914330255169408.jpg)
 
-Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn.  Started with a Caesar salad and octopus salad.  Then had a sausage and mushroom pizza and a prosciutto and arugula pizza.  Solid thin crust pizza. .
+Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn. Started with a Caesar salad and octopus salad. Then had a sausage and mushroom pizza and a prosciutto and arugula pizza. Solid thin crust pizza. .
 .
 .
 . @enotecaoncourt @yalin_wu @paul__chu #eeeeeats #octopus @thirstypig #nyc #brooklyn #carrollgardens

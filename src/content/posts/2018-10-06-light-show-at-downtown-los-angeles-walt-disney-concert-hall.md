@@ -28,7 +28,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17986437949024313.mp4" type="video/mp4"></video>
 
-Light show at downtown Los Angeles Walt Disney Concert Hall.  Last night tonight. .
+Light show at downtown Los Angeles Walt Disney Concert Hall. Last night tonight. .
 .
 .
 #waltdisneyconcerthall @waltdisneyconcerthall #lightshow #weekend

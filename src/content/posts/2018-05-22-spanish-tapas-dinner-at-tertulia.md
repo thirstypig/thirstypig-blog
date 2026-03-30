@@ -1,5 +1,5 @@
 ---
-title: Spanish tapas dinner at Tertulia
+title: 'Spanish tapas dinner at Tertulia, New York'
 pubDate: '2018-05-22'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17941093696077697.jpg)
 
-Spanish tapas dinner at Tertulia.  We had tortilla -Spanish omelette, radish salad, roasted potatoes, iberico ham, sardines, and a large chicken paella.  Sorry for the washes out photos. .
+Spanish tapas dinner at Tertulia. We had tortilla -Spanish omelette, radish salad, roasted potatoes, iberico ham, sardines, and a large chicken paella. Sorry for the washes out photos. .
 .
 .
 .

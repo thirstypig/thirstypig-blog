@@ -21,3 +21,5 @@ location: '"This is the Place"'
 city: Downtown LA
 region: Downtown LA
 ---
+
+This is the Place in Downtown LA.

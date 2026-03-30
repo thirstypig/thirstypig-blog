@@ -49,6 +49,6 @@ region: San Gabriel Valley
 
 ![Dinner at Bonchon](/images/posts/ig-2018-05-18-dinner-at-bonchon/17920261111140583.jpg)
 
-Dinner at Bonchon.  We had spicy and soy-garlic fried chicken, ttokboki, udon, bbimbop, japchae, fried, and chicken katsu. .
+Dinner at Bonchon. We had spicy and soy-garlic fried chicken, ttokboki, udon, bbimbop, japchae, fried, and chicken katsu. .
 .
 . @thirstypig @yalin_wu @bettywyy @sochon881

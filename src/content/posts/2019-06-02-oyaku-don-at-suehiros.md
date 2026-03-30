@@ -1,5 +1,5 @@
 ---
-title: Oyaku-Don at Suehiro’s
+title: 'Oyaku-Don at Suehiro’s, Little Tokyo'
 pubDate: '2019-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -32,7 +32,7 @@ coordinates:
 
 ![Oyaku-Don at Suehiro’s](/images/posts/ig-2019-06-02-oyaku-don-at-suehiros/17857759291426897.jpg)
 
-Oyaku-Don at Suehiro’s.  One of my favorite Japanese dishes - chicken, egg, and onion over rice. Simple and hearty.  Ramen was also not bad. .
+Oyaku-Don at Suehiro’s. One of my favorite Japanese dishes - chicken, egg, and onion over rice. Simple and hearty. Ramen was also not bad. .
 .
 .
 @suehirocafe @yalin_wu @mr_sammylo @gammagod @chungangv @jb12assists @hi10spro

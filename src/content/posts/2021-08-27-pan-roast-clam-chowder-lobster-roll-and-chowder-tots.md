@@ -1,5 +1,5 @@
 ---
-title: Pan Roast, clam chowder, lobster roll, and chowder tots
+title: 'Mothership Coffee Roasters, Las Vegas'
 pubDate: '2021-08-27'
 author: The Thirsty Pig
 source: instagram
@@ -41,7 +41,7 @@ coordinates:
 
 ![Pan Roast, clam chowder, lobster roll, and chowder tots](/images/posts/ig-2021-08-27-pan-roast-clam-chowder-lobster-roll-and-chowder-tots/17934770101598123.jpg)
 
-Pan Roast, clam chowder, lobster roll, and chowder tots. The Pan Roast is similar to the Vegas’ Station Casino’s Oyster Bar version.  Yum!
+Pan Roast, clam chowder, lobster roll, and chowder tots. The Pan Roast is similar to the Vegas’ Station Casino’s Oyster Bar version. Yum!
 .
 .
 .

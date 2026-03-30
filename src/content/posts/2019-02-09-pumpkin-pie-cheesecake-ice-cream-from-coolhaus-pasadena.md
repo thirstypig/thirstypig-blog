@@ -33,7 +33,7 @@ coordinates:
 
 ![Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena](/images/posts/ig-2019-02-09-pumpkin-pie-cheesecake-ice-cream-from-coolhaus-pasadena/17996831080164394.jpg)
 
-Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena.  Unfortunately, I had to share. 😩😎
+Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena. Unfortunately, I had to share. 😩😎
 .
 .
 . @coolhaus #pasadena #sgv #yum

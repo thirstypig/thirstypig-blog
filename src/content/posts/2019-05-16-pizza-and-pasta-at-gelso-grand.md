@@ -1,5 +1,5 @@
 ---
-title: Pizza and pasta at Gelso & Grand
+title: 'Pizza and pasta at Gelso & Grand, Los Angeles'
 pubDate: '2019-05-16'
 author: The Thirsty Pig
 source: instagram
@@ -35,7 +35,7 @@ coordinates:
 
 ![Pizza and pasta at Gelso & Grand](/images/posts/ig-2019-05-16-pizza-and-pasta-at-gelso-grand/18030101884165488.jpg)
 
-Pizza and pasta at Gelso & Grand.  And hello to our new friends from LA!
+Pizza and pasta at Gelso & Grand. And hello to our new friends from LA!
 .
 .
 .

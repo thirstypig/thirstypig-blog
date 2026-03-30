@@ -1,5 +1,5 @@
 ---
-title: Doubleheader at Yankee stadium watching Baltimore at New York
+title: 'The Little Jewel of New Orleans, Los Angeles'
 pubDate: '2019-05-15'
 author: The Thirsty Pig
 source: instagram
@@ -53,7 +53,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18066923611058194.mp4" type="video/mp4"></video>
 
-Doubleheader at Yankee stadium watching Baltimore at New York.  Check out that thick cut bacon.  When is that coming to LA?
+Doubleheader at Yankee stadium watching Baltimore at New York. Check out that thick cut bacon. When is that coming to LA?
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Cantonese cuisine tonight
+title: 'Cantonese cuisine tonight, Taipei'
 pubDate: '2024-05-11'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![Cantonese cuisine tonight](/images/posts/ig-2024-05-11-cantonese-cuisine-tonight/17927193683856754.jpg)
 
-Cantonese cuisine tonight.  Lobster, fish, clay pot rice, and more.  And yet another bottle of Kaoliang.  I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste like water after the fourth one.  People say it’s like tequila this way. They also say you shouldn’t get a hangover with this stuff. But I don’t want to test it out. 
+Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste like water after the fourth one. People say it’s like tequila this way. They also say you shouldn’t get a hangover with this stuff. But I don’t want to test it out. 
 .
 .
 .

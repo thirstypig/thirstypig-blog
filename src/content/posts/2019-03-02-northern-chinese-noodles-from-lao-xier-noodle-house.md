@@ -1,5 +1,5 @@
 ---
-title: Northern Chinese noodles from Lao Xi’er Noodle House
+title: 'Lao Xi Noodle House, Arcadia'
 pubDate: '2019-03-02'
 author: The Thirsty Pig
 source: instagram
@@ -42,6 +42,6 @@ coordinates:
 
 ![Northern Chinese noodles from Lao Xi’er Noodle House](/images/posts/ig-2019-03-02-northern-chinese-noodles-from-lao-xier-noodle-house/17858990335350520.jpg)
 
-Northern Chinese noodles from Lao Xi’er Noodle House.  One of my mom’s favorite restaurants.  I wish we ordered the mini fried meatballs - totally forgot about that dish.  Also saw Merrill Shindler had reviewed this place also.  I’m a big fan of Merrill.  This place has pretty good authentic noodles with unique knife cut noodles and mini rolled noodles. .
+Northern Chinese noodles from Lao Xi’er Noodle House. One of my mom’s favorite restaurants. I wish we ordered the mini fried meatballs - totally forgot about that dish. Also saw Merrill Shindler had reviewed this place also. I’m a big fan of Merrill. This place has pretty good authentic noodles with unique knife cut noodles and mini rolled noodles. .
 .
 .

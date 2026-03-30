@@ -1,5 +1,5 @@
 ---
-title: Shabu Shabu
+title: 'Shabu Shabu, Tokyo'
 pubDate: '2022-06-06'
 author: The Thirsty Pig
 source: instagram
@@ -41,7 +41,7 @@ coordinates:
 
 ![Shabu Shabu](/images/posts/ig-2022-06-06-shabu-shabu/17966759986719290.jpg)
 
-Shabu Shabu.  All-You-Can-Eat at Kushi Shabu in DTLA little Tokyo. Haven’t Ben to Kushi in years.  Had a great time. Great service. Would go again. And recommend. 
+Shabu Shabu. All-You-Can-Eat at Kushi Shabu in DTLA little Tokyo. Haven’t Ben to Kushi in years. Had a great time. Great service. Would go again. And recommend. 
 .
 .
 .

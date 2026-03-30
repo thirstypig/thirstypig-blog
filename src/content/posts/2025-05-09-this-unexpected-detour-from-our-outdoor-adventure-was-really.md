@@ -50,7 +50,7 @@ description: This unexpected detour from our outdoor adventure was really fun. W
 
 ![This unexpected detour from our outdoor adventure was really fun](/images/posts/ig-2025-05-09-this-unexpected-detour-from-our-outdoor-adventure-was-really/18381116902138323.jpg)
 
-This unexpected detour from our outdoor adventure was really fun.  We went to the Olympic Game Farm to visit retired show biz animals and rescued animals.  We saw and fed bread to adorable yaks, mean lamas, bears, peacocks, bison, reindeer, elks, and a few others.  We stayed in our cars and threw bread, which was sold by the park, to these guys.  Some of them stuck their heads inside our car and wanted more.  We saw peacocks showing off their feathers, had ameome animal tongues licking us for more bread, and poor rain deer running to us for the last pieces of bread - we should have gotten more loaves.  It was an unexpectedly fun experience that brought the kid in us out. 
+This unexpected detour from our outdoor adventure was really fun. We went to the Olympic Game Farm to visit retired show biz animals and rescued animals. We saw and fed bread to adorable yaks, mean lamas, bears, peacocks, bison, reindeer, elks, and a few others. We stayed in our cars and threw bread, which was sold by the park, to these guys. Some of them stuck their heads inside our car and wanted more. We saw peacocks showing off their feathers, had ameome animal tongues licking us for more bread, and poor rain deer running to us for the last pieces of bread - we should have gotten more loaves. It was an unexpectedly fun experience that brought the kid in us out. 
 .
 .
 .

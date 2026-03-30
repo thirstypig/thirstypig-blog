@@ -1,5 +1,5 @@
 ---
-title: Black Sesame Korean shaved ice and Mango shaved ice
+title: 'Black Sesame Korean shaved ice and Mango shaved ice, San...'
 pubDate: '2019-08-17'
 author: The Thirsty Pig
 source: instagram

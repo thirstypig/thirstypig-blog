@@ -1,5 +1,5 @@
 ---
-title: Mundo Cafe & Restaurant
+title: 'Mundo Cafe & Restaurant, New York'
 pubDate: '2009-01-28'
 author: The Thirsty Pig
 source: thethirstypig.com

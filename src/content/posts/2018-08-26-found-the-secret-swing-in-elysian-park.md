@@ -30,7 +30,7 @@ region: Los Angeles
 
 ![Found the Secret Swing in Elysian Park](/images/posts/ig-2018-08-26-found-the-secret-swing-in-elysian-park/17941931143165047.jpg)
 
-Found the Secret Swing in Elysian Park. Easy to find but a bit of a tough ascent.  Well worth the views. .
+Found the Secret Swing in Elysian Park. Easy to find but a bit of a tough ascent. Well worth the views. .
 .
 .
 .

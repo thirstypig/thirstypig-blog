@@ -15,7 +15,7 @@ draft: false
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| 锡伯新疆餐厅 Xibo  常熟路83号3楼, 近巨鹿路 3/F, 83 Changshu Lu, near Julu Lu  +86 21 5403 8330 | 2 Pigs  Price Range 2 $/¥/NT |
+| 锡伯新疆餐厅 Xibo 常熟路83号3楼, 近巨鹿路 3/F, 83 Changshu Lu, near Julu Lu +86 21 5403 8330 | 2 Pigs Price Range 2 $/¥/NT |
 
 **What is Xibo**
 Xibo, which opened with much fanfare last year, is a Xinjiang restaurant in a post-modern, contemporary, uber cool, and nouveau space. It means the Xibo is an interesting place to eat. With mood lighting, the dining room offers an intimate experience. Xibo, located on the 3rd floor, also has a small outdoor dining area.

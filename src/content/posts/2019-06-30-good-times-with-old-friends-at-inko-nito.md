@@ -1,5 +1,5 @@
 ---
-title: Good times with old friends at Inko Nito
+title: 'Good times with old friends at Inko Nito, Downtown LA'
 pubDate: '2019-06-30'
 author: The Thirsty Pig
 source: instagram

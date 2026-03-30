@@ -45,7 +45,7 @@ region: San Gabriel Valley
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-03-20-japanese-noodles-mazesoba-from-nagoya/17942436856814854.mp4" type="video/mp4"></video>
 
-Japanese noodles, mazesoba from Nagoya.  Dry noodles with toppings.  Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu.  Also had some fried chicken. After mixing, the noodles were melted together with poached egg.  It’s an interesting texture that may not appeal to all.  Sort of slimey. I had a side of the soup.  I prefer noodles in a broth. 
+Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After mixing, the noodles were melted together with poached egg. It’s an interesting texture that may not appeal to all. Sort of slimey. I had a side of the soup. I prefer noodles in a broth. 
 .
 .
 .

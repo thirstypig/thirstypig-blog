@@ -1,5 +1,5 @@
 ---
-title: Birria tacos and churros
+title: 'Birria tacos and churros, East LA'
 pubDate: '2022-06-09'
 author: The Thirsty Pig
 source: instagram
@@ -31,7 +31,7 @@ coordinates:
 
 ![Birria tacos and churros](/images/posts/ig-2022-06-09-birria-tacos-and-churros/17890048469593671.jpg)
 
-Birria tacos and churros!  Freshly made churros are the best. Check out the sweet Dodgers churro Beatle! Birrieria Pavon is my favorite Birria taco stand. Convenient and open late. 
+Birria tacos and churros! Freshly made churros are the best. Check out the sweet Dodgers churro Beatle! Birrieria Pavon is my favorite Birria taco stand. Convenient and open late. 
 .
 .
 .

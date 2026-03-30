@@ -31,4 +31,4 @@ coordinates:
 
 ![Noodles and dumplings with the fam at Luscious Dumplings in Monrovia](/images/posts/ig-2018-04-08-noodles-and-dumplings-with-the-fam-at-luscious-dumplings-in/17876219272215942.jpg)
 
-Noodles and dumplings with the fam at Luscious Dumplings in Monrovia.  A couple of my favs
+Noodles and dumplings with the fam at Luscious Dumplings in Monrovia. A couple of my favs

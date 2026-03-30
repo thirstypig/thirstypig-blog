@@ -1,5 +1,5 @@
 ---
-title: Even Marbling of Fat Enjoyed at Man Soo Korean BBQ 만수
+title: 'The Donut Man, Koreatown'
 pubDate: '2010-02-20'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: Eating at the bar at Dama in DTLA, fashion district
+title: 'Dama Fashion District, Downtown LA'
 pubDate: '2019-04-14'
 author: The Thirsty Pig
 source: instagram
@@ -59,5 +59,5 @@ coordinates:
 
 ![Eating at the bar at Dama in DTLA, fashion district](/images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/17989706071210638.jpg)
 
-Eating at the bar at Dama in DTLA, fashion district.  Had the bread, corn, clams, prawns, empanadas, and potatoes.  Washed it down with the Sierra Norte and Pina Colada.  Good ambience and crowd tonight.
+Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight.
 . @damafashiondistrict @fongjf123 #latinfood #mexicanfood #spanishfood #dinner

@@ -1,5 +1,5 @@
 ---
-title: Birria Torta with consume
+title: 'Birria Torta with consume, Los Angeles'
 pubDate: '2022-07-18'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Birria Torta with consume](/images/posts/ig-2022-07-18-birria-torta-with-consume/18042588532357638.jpg)
 
-Birria Torta with consume.  From tacos y Birria La Unica.  From the Boyle heights location on Olympic.  I think a torta might be the best vehicle to eat Birria with consume.  The bread soaks up the juices from the consume soup.  Bread is like a sponge, where a tortilla doesn’t retain as much.  Imagine it is like a French dip sandwich.  Also, this place closes early - around 4:30ish. Wish they opened later.  Next time I want to try goat Birria. 
+Birria Torta with consume. From tacos y Birria La Unica. From the Boyle heights location on Olympic. I think a torta might be the best vehicle to eat Birria with consume. The bread soaks up the juices from the consume soup. Bread is like a sponge, where a tortilla doesn’t retain as much. Imagine it is like a French dip sandwich. Also, this place closes early - around 4:30ish. Wish they opened later. Next time I want to try goat Birria. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière
+title: 'Fish Stew Cioppino and Pablo Crusted Filet of Sole...'
 pubDate: '2022-06-11'
 author: The Thirsty Pig
 source: instagram

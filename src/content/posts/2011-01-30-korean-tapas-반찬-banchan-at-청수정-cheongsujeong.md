@@ -1,5 +1,5 @@
 ---
-title: Korean Tapas (반찬 Banchan) at 청수정 Cheongsujeong
+title: 'Korean Tapas (반찬 Banchan) at 청수정 Cheongsujeong, Seoul'
 pubDate: '2011-01-30'
 author: The Thirsty Pig
 source: thethirstypig.com

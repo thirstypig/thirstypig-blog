@@ -14,3 +14,5 @@ description: 'Just yesterday, I celebrated my birthday with some friends. I am q
 archiveUrl: https://web.archive.org/web/20110105064032/http://www.thethirstypig.com/2009/03/17/cocktail-of-the-week-er-guo-to-%e4%ba%8c%e9%94%85%e5%a4%b4/
 draft: false
 ---
+
+Cocktail.

@@ -1,5 +1,5 @@
 ---
-title: Quick lunch at NYC KTown Food Gallery
+title: 'Quick lunch at NYC KTown Food Gallery, Koreatown'
 pubDate: '2018-05-23'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 ![Quick lunch at NYC KTown Food Gallery](/images/posts/ig-2018-05-23-quick-lunch-at-nyc-ktown-food-gallery/17886944113214707.jpg)
 
-Quick lunch at NYC KTown Food Gallery.  Seafood mini hot pot and chicken kimchi fried rice..
+Quick lunch at NYC KTown Food Gallery. Seafood mini hot pot and chicken kimchi fried rice..
 .
 .
 . @jianbingmanofficial @thirstypig @yalin_wu #thirstypig #eeeeeats

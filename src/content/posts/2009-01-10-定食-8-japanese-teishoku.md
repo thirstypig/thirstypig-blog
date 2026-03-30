@@ -1,5 +1,5 @@
 ---
-title: 定食 8 – Japanese teishoku
+title: '定食 8 – Japanese teishoku, Taipei'
 pubDate: '2009-01-10'
 author: The Thirsty Pig
 source: thethirstypig.com

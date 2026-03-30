@@ -1,5 +1,5 @@
 ---
-title: Dinner at Boiling Crab
+title: 'Dinner at Boiling Crab, Rosemead'
 pubDate: '2018-06-11'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17852225731271126.jpg)
 
-Dinner at Boiling Crab.  Long ass wait for New Orleans inspired crustacean cuisine.  We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters.  Personally I don’t eat a lot of shellfish since I have gout. 🤪 but I like the everything else they have.  I wonder why they don’t give out disposable gloves.  I thought did before. .
+Dinner at Boiling Crab. Long ass wait for New Orleans inspired crustacean cuisine. We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters. Personally I don’t eat a lot of shellfish since I have gout. 🤪 but I like the everything else they have. I wonder why they don’t give out disposable gloves. I thought did before. .
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Breakfast in China
+title: 'Breakfast in China, Shanghai'
 pubDate: '2011-12-06'
 author: The Thirsty Pig
 source: thethirstypig.com

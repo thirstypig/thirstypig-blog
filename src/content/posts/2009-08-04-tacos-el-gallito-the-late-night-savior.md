@@ -1,5 +1,5 @@
 ---
-title: Tacos El Gallito – the Late Night Savior
+title: 'Tacos El Gallito – the Late Night Savior, Monterey Park'
 pubDate: '2009-08-04'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -24,3 +24,5 @@ archiveUrl: https://web.archive.org/web/20110106051254/http://www.thethirstypig.
 draft: false
 location: Robin’s Woodfire BBQ of Pasadena
 ---
+
+Robin’s Woodfire BBQ of Pasadena.

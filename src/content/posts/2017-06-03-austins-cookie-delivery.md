@@ -41,4 +41,4 @@ region: Texas
 
 ![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17875996783068683.jpg)
 
-@tiffstreats #tiffstreats #cookies Austin's cookie delivery.  #yum #desserts.  Snicker doodle, chocolate chip, peanut butter, oatmeal chocolate chip, and chocolate chip peanut butter!
+@tiffstreats #tiffstreats #cookies Austin's cookie delivery. #yum #desserts. Snicker doodle, chocolate chip, peanut butter, oatmeal chocolate chip, and chocolate chip peanut butter!

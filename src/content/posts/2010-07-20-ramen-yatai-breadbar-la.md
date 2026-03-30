@@ -1,5 +1,5 @@
 ---
-title: Ramen Twist by Yatai at Breadbar, LA
+title: 'Ramen Twist by Yatai at Breadbar, LA, Los Angeles'
 pubDate: '2010-07-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -39,3 +39,5 @@ coordinates:
   lat: 34.048187
   lng: -118.239152
 ---
+
+Shin-Sen-Gumi Hakata Ramen - Little Tokyo in Los Angeles.

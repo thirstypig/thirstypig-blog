@@ -1,5 +1,5 @@
 ---
-title: Where the glam burgers hang out!
+title: 'Where the glam burgers hang out!, Los Angeles'
 pubDate: '2008-12-31'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: The Chronicles of Carnitas continues with Carnitas El Momo
+title: 'The Chronicles of Carnitas continues with Carnitas El...'
 pubDate: '2021-06-08'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ categories:
 
 ![The Chronicles of Carnitas continues with Carnitas El Momo](/images/posts/ig-2021-06-08-the-chronicles-of-carnitas-continues-with-carnitas-el-momo/17900228780012197.jpg)
 
-The Chronicles of Carnitas continues with Carnitas El Momo.  Probably the internet’s most well known Carnitas truck in Los Angeles.  I dig the generous portions in the tacos.  The torta was was also very good with the toasted bread.  I will probably visit again soon. 
+The Chronicles of Carnitas continues with Carnitas El Momo. Probably the internet’s most well known Carnitas truck in Los Angeles. I dig the generous portions in the tacos. The torta was was also very good with the toasted bread. I will probably visit again soon. 
 .
 .
 .

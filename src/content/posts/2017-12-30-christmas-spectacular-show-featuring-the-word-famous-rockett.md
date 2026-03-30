@@ -1,5 +1,5 @@
 ---
-title: Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...
+title: 'Radio City Music Hall, New York'
 pubDate: '2017-12-30'
 author: The Thirsty Pig
 source: instagram
@@ -39,4 +39,4 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17889267187178841.mp4" type="video/mp4"></video>
 
-Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall.  Great show of song and dance.  @the.rockettes.official @radiocitymusichall #rockettes #christmas #nyc #dance
+Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall. Great show of song and dance. @the.rockettes.official @radiocitymusichall #rockettes #christmas #nyc #dance

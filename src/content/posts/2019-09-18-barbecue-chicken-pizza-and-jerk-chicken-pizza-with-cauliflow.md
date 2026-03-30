@@ -1,5 +1,5 @@
 ---
-title: Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at Calif...
+title: 'Ramona Museum of California History, San Gabriel'
 pubDate: '2019-09-18'
 author: The Thirsty Pig
 source: instagram
@@ -36,7 +36,7 @@ coordinates:
 
 ![Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at Calif...](/images/posts/ig-2019-09-18-barbecue-chicken-pizza-and-jerk-chicken-pizza-with-cauliflow/17853128023561653.jpg)
 
-Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at California Pizza Kitchen.  I’ve always liked this place.  I remember my first visit in the early 90s at the Beverly Center location.  I thought it was pretty good.  Looking at there recent menu - I was wondering where their Peking Duck pizza was??? Anyways.  Good place. Would return. Their bake and take promo is pretty good. Take home an I baked pizza for $5 is a good deal. .
+Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at California Pizza Kitchen. I’ve always liked this place. I remember my first visit in the early 90s at the Beverly Center location. I thought it was pretty good. Looking at there recent menu - I was wondering where their Peking Duck pizza was??? Anyways. Good place. Would return. Their bake and take promo is pretty good. Take home an I baked pizza for $5 is a good deal. .
 .
 .
 .

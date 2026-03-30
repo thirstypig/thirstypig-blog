@@ -1,5 +1,5 @@
 ---
-title: Guerrilla Tacos with carne asada taco and potato and cheese taquito
+title: 'Guerrilla Tacos with carne asada taco and potato and...'
 pubDate: '2024-12-08'
 author: The Thirsty Pig
 source: instagram
@@ -32,7 +32,7 @@ region: Los Angeles
 
 ![Guerrilla Tacos with carne asada taco and potato and cheese taquito](/images/posts/ig-2024-12-08-guerrilla-tacos-with-carne-asada-taco-and-potato-and-cheese/18051801400971205.jpg)
 
-Guerrilla Tacos with carne asada taco and potato and cheese taquito.  Also had the posole and oysters!!! Everything was great.  Every bite’s purpose was to satisfy cravings was met.  Love this place, but seems to always forget about this place.  Unfortunately when I’ craving or thinking of tacos, guerrilla tacos isn’t always what I think of. I should change. 
+Guerrilla Tacos with carne asada taco and potato and cheese taquito. Also had the posole and oysters!!! Everything was great. Every bite’s purpose was to satisfy cravings was met. Love this place, but seems to always forget about this place. Unfortunately when I’ craving or thinking of tacos, guerrilla tacos isn’t always what I think of. I should change. 
 .
 .
 .

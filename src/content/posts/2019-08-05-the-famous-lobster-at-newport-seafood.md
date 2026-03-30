@@ -1,5 +1,5 @@
 ---
-title: The famous lobster at Newport Seafood
+title: 'The famous lobster at Newport Seafood, San Gabriel'
 pubDate: '2019-08-05'
 author: The Thirsty Pig
 source: instagram

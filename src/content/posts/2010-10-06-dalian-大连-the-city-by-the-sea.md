@@ -1,5 +1,5 @@
 ---
-title: Dalian 大连, the City by the Sea
+title: 'Dalian 大连, the City by the Sea, Shanghai'
 pubDate: '2010-10-06'
 author: The Thirsty Pig
 source: thethirstypig.com

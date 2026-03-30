@@ -1,5 +1,5 @@
 ---
-title: Barbecue at Domestic in La Puente
+title: 'Barbecue at Domestic in La Puente, Los Angeles'
 pubDate: '2025-02-11'
 author: The Thirsty Pig
 source: instagram

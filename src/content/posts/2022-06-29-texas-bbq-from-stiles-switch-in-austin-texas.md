@@ -51,7 +51,7 @@ coordinates:
 
 ![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17967455014671198.jpg)
 
-Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw.  Yummy.  When I lived in Austin, Stiles Switch was one of my favorites.  They were ranked as one of the top 50 bbq joints in Texas.  Fun weekend with some friends. 
+Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. They were ranked as one of the top 50 bbq joints in Texas. Fun weekend with some friends. 
 .
 .
 .

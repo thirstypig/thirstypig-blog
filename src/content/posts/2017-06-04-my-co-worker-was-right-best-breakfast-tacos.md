@@ -1,5 +1,5 @@
 ---
-title: my co-worker was right - best breakfast tacos
+title: 'my co-worker was right - best breakfast tacos, Austin'
 pubDate: '2017-06-04'
 author: The Thirsty Pig
 source: instagram
@@ -51,4 +51,4 @@ region: Texas
 
 ![my co-worker was right - best breakfast tacos](/images/posts/ig-2017-06-04-my-co-worker-was-right-best-breakfast-tacos/17883445525006817.jpg)
 
-@valentinastexmexbbq my co-worker was right - best breakfast tacos!!! The real deal Holyfield taco  With a side of brisket and pork ribs!  #Yum!
+@valentinastexmexbbq my co-worker was right - best breakfast tacos!!! The real deal Holyfield taco With a side of brisket and pork ribs! #Yum!

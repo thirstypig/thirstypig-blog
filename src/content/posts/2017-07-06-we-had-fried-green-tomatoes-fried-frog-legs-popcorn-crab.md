@@ -44,4 +44,4 @@ region: Louisiana
 
 ![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17861549866174639.jpg)
 
-#kpaul #neworleans we had fried green tomatoes, fried frog legs, popcorn crab.  Then we had blackened drum and blackened pork chop. To finish off with a @abitabeer
+#kpaul #neworleans we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a @abitabeer

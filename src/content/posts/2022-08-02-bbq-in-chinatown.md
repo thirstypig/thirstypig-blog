@@ -45,7 +45,7 @@ coordinates:
 
 ![BBQ in Chinatown](/images/posts/ig-2022-08-02-bbq-in-chinatown/17877135653719793.jpg)
 
-BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin.  Not sure about the accompanying green salsa sauce.  Reminded me of salsa verde.  The slaw was really good and sour - just the way I like it.  The pork ribs, seemed like small portion.  They taste well and had good flavor and texture (that’s the CBJ in me). The loaded fries with brisket was quite hearty, yet seemed to lack enough fries, strangely.  I liked the fries a lot. The single Texas toast was good, wish they gave us another slice.  Not sure if I recommend, yet. But I’d return just to try others.  Brisket 7 for taste, 8 for tenderness, 7 for appearance. Pork ribs 8 taste, 8 for tenderness, and 8 for appearance. 
+BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin. Not sure about the accompanying green salsa sauce. Reminded me of salsa verde. The slaw was really good and sour - just the way I like it. The pork ribs, seemed like small portion. They taste well and had good flavor and texture (that’s the CBJ in me). The loaded fries with brisket was quite hearty, yet seemed to lack enough fries, strangely. I liked the fries a lot. The single Texas toast was good, wish they gave us another slice. Not sure if I recommend, yet. But I’d return just to try others. Brisket 7 for taste, 8 for tenderness, 7 for appearance. Pork ribs 8 taste, 8 for tenderness, and 8 for appearance. 
 .
 .
 .

@@ -37,3 +37,5 @@ coordinates:
   lat: 34.06387
   lng: -118.294286
 ---
+
+Seongbukdong in Koreatown.

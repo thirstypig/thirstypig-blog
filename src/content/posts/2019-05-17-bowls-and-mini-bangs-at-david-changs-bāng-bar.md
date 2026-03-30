@@ -1,5 +1,5 @@
 ---
-title: Bowls and mini Bangs at David Chang’s Bāng Bar
+title: 'Bowls and mini Bangs at David Chang’s Bāng Bar, New York'
 pubDate: '2019-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/17849539087435427.jpg)
 
-Bowls and mini Bangs at David Chang’s Bāng Bar.  Eggplant and Chicken bowls and chicken and spicy pork mini bangs.
+Bowls and mini Bangs at David Chang’s Bāng Bar. Eggplant and Chicken bowls and chicken and spicy pork mini bangs.
 .
 .
 .

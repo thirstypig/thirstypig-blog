@@ -43,3 +43,5 @@ draft: false
 location: Ciudad
 city: Downtown Los Angeles
 ---
+
+Ciudad in Downtown Los Angeles.

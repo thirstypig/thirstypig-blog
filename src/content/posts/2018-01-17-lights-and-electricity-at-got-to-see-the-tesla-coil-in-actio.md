@@ -1,5 +1,5 @@
 ---
-title: Lights and electricity at  got to see the Tesla Coil in action at the observa...
+title: "The Gothic Bar at Clifton's Cafeteria, Downtown LA"
 pubDate: '2018-01-17'
 author: The Thirsty Pig
 source: instagram
@@ -24,9 +24,9 @@ coordinates:
   lng: -118.253102
 ---
 
-![Lights and electricity at  got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)
+![Lights and electricity at got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)
 
-![Lights and electricity at  got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17919270748033006.jpg)
+![Lights and electricity at got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17919270748033006.jpg)
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17901617362088812.mp4" type="video/mp4"></video>
 

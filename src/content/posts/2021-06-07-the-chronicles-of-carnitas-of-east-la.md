@@ -1,5 +1,5 @@
 ---
-title: The Chronicles of Carnitas of East LA
+title: 'The Chronicles of Carnitas of East LA, Los Angeles'
 pubDate: '2021-06-07'
 author: The Thirsty Pig
 source: instagram

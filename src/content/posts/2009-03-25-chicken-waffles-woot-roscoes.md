@@ -1,5 +1,5 @@
 ---
-title: Chicken & Waffles Woot! – Roscoe’s
+title: 'Chicken & Waffles Woot! – Roscoe’s, San Gabriel Valley'
 pubDate: '2009-03-25'
 author: The Thirsty Pig
 source: thethirstypig.com

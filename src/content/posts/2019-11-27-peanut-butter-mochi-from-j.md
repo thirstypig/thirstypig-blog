@@ -1,5 +1,5 @@
 ---
-title: Peanut Butter Mochi from J
+title: 'Peanut Butter Mochi from J, San Gabriel'
 pubDate: '2019-11-27'
 author: The Thirsty Pig
 source: instagram
@@ -35,7 +35,7 @@ coordinates:
 
 ![Peanut Butter Mochi from J](/images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/18080452981133067.jpg)
 
-Peanut Butter Mochi from J.J. Bakery.  I was expecting peanut powder instead of peanut butter.  If I am not mistaken the peanut powder is a more traditional filling and has better flavor.  The peanut butter tasted a bit bland. .
+Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut butter tasted a bit bland. .
 .
 .
 .

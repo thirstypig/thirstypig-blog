@@ -1,5 +1,5 @@
 ---
-title: Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with lots of choices for dip...
+title: 'Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with...'
 pubDate: '2018-08-14'
 author: The Thirsty Pig
 source: instagram

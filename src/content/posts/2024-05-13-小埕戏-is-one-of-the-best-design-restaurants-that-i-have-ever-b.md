@@ -45,7 +45,7 @@ description: 小埕戏 is one of the best design restaurants that I have ever be
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18005583149593134.mp4" type="video/mp4"></video>
 
-小埕戏 is one of the best design restaurants that I have ever been to.  Amazing views, excellent blend of modern and traditional Chinese dining furnishings, and indoor, yet outdoor feel with a retractable roof.  Fully impressed by this restaurant, and I’ve been to a lot of eateries.  The food was traditional Xiamenese food featuring duck, fish, and vegetables, which reminded me of Taiwanese cooking.  My ex coworkers also said the restrooms and the views were also impressive.  The private rooms also feature great views.  And lastly check out that cabinet full of Mao Tai!!
+小埕戏 is one of the best design restaurants that I have ever been to. Amazing views, excellent blend of modern and traditional Chinese dining furnishings, and indoor, yet outdoor feel with a retractable roof. Fully impressed by this restaurant, and I’ve been to a lot of eateries. The food was traditional Xiamenese food featuring duck, fish, and vegetables, which reminded me of Taiwanese cooking. My ex coworkers also said the restrooms and the views were also impressive. The private rooms also feature great views. And lastly check out that cabinet full of Mao Tai!!
 .
 .
 .

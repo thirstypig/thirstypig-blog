@@ -1,5 +1,5 @@
 ---
-title: Bone marrow and beef at NIKU X
+title: 'Bone marrow and beef at NIKU X, Downtown LA'
 pubDate: '2024-08-22'
 author: The Thirsty Pig
 source: instagram

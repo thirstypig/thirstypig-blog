@@ -25,3 +25,5 @@ draft: false
 location: Ono Hawaiian Grill
 region: San Gabriel Valley
 ---
+
+Ono Hawaiian Grill.

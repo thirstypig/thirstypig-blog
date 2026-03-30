@@ -45,7 +45,7 @@ categories:
 
 ![Had A-sha newest noodles - Meteor noodles](/images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17920900889328265.jpg)
 
-Had A-sha newest noodles - Meteor noodles.  Great texture and flavor. Noodles did a good job in soaking up the sauce.  There’s a sign up on the link in the description.  Asha was started by my good friends in Taiwan. Nice to see how popular they now are. 加油！
+Had A-sha newest noodles - Meteor noodles. Great texture and flavor. Noodles did a good job in soaking up the sauce. There’s a sign up on the link in the description. Asha was started by my good friends in Taiwan. Nice to see how popular they now are. 加油！
 .
 .
 .

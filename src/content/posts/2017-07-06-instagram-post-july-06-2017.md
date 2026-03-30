@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 06, 2017
+title: 'Big Ez Seafood, New Orleans'
+description: 'Big Ez Seafood, New Orleans at Big Ez Seafood in New Orleans.'
 pubDate: '2017-07-06'
 author: The Thirsty Pig
 source: instagram

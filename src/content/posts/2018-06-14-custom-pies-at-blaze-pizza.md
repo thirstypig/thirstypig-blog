@@ -1,5 +1,5 @@
 ---
-title: Custom Pies at Blaze Pizza
+title: 'Custom Pies at Blaze Pizza, Irvine'
 pubDate: '2018-06-14'
 author: The Thirsty Pig
 source: instagram

@@ -36,7 +36,7 @@ location: Lunch at The Front Yard
 
 ![Lunch at The Front Yard](/images/posts/ig-2021-05-28-lunch-at-the-front-yard/17953543999452534.jpg)
 
-Lunch at The Front Yard. Patty Melt, Royale with Cheese, and Brussels Sprouts.  Good flavor from the sprouts. Burger, with ground short rib, was tasty too.  Nice outdoor dining area.  Had to have my Bloody Mary to make my lunch complete 
+Lunch at The Front Yard. Patty Melt, Royale with Cheese, and Brussels Sprouts. Good flavor from the sprouts. Burger, with ground short rib, was tasty too. Nice outdoor dining area. Had to have my Bloody Mary to make my lunch complete 
 .
 .
 .

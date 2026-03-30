@@ -1,5 +1,5 @@
 ---
-title: 100 Shots at Blue Frog 蓝蛙
+title: '100 Shots at Blue Frog 蓝蛙, Shanghai'
 pubDate: '2011-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com

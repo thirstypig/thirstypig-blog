@@ -1,5 +1,5 @@
 ---
-title: Pizza Pizza Pizza . . .
+title: 'Pizza Pizza Pizza . . ., Los Angeles'
 pubDate: '2009-08-11'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: Royal Clayton’s English Pub
+title: 'Royal Clayton’s English Pub, Downtown LA'
 pubDate: '2009-12-03'
 author: The Thirsty Pig
 source: thethirstypig.com

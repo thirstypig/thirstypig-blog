@@ -52,6 +52,6 @@ Rating
 Price Range 2 $/¥/NT
 
 Links
-Best China Hotel, Trip Advisor, Booking, WOTIF, CTrip, China Highlights, Yeego,Hotel.Com.Tw, Travel Blog, Otel
+Best China Hotel, Trip Advisor, Booking, WOTIF, CTrip, China Highlights, Yeego,Hotel. Com. Tw, Travel Blog, Otel
 
 ##### [上海神旺大酒店 San Want Hotel](http://sanwant.com) 上海市徐汇区宜山路650号 650 Yishan Road (Yishan Lu) Caohejing Development Zone, Shanghai, China, 200233 +86-021-61451111

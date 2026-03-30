@@ -1,5 +1,5 @@
 ---
-title: Pizza from Pizzeria Sei
+title: 'Pizza from Pizzeria Sei, Los Angeles'
 pubDate: '2025-01-17'
 author: The Thirsty Pig
 source: instagram

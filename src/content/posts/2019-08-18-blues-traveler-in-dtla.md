@@ -1,5 +1,5 @@
 ---
-title: Blues Traveler in DTLA
+title: 'Blues Traveler in DTLA, Downtown LA'
 pubDate: '2019-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-08-18-blues-traveler-in-dtla/17844087835589950.mp4" type="video/mp4"></video>
 
-Blues Traveler in DTLA.  Summer concerts at Pershing Park. .
+Blues Traveler in DTLA. Summer concerts at Pershing Park. .
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chi...
+title: 'Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice...'
 pubDate: '2021-06-30'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chi...](/images/posts/ig-2021-06-30-our-third-stop-for-hainan-chicken-rice-is-at-maxwell-chicken/17873903129411041.jpg)
 
-Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chinatown.  Maxwell is the name of Food Centre in Singapore with famous hawkers selling street food including Hainan Chicken rice. And in DTLA, this place does not disappoint.  The tender and not dry dark meat chicken is succulent with slight flavors. Then again it isn’t about bold flavors.  The sauces provide the added taste along with the fragrant garlic chicken rice.  Unfortunately I didn’t take picture of the sauces. What makes Maxwell standout is there fried egg and their Vietnamese-influence garlic noodles. I would try again and recommend. 
+Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chinatown. Maxwell is the name of Food Centre in Singapore with famous hawkers selling street food including Hainan Chicken rice. And in DTLA, this place does not disappoint. The tender and not dry dark meat chicken is succulent with slight flavors. Then again it isn’t about bold flavors. The sauces provide the added taste along with the fragrant garlic chicken rice. Unfortunately I didn’t take picture of the sauces. What makes Maxwell standout is there fried egg and their Vietnamese-influence garlic noodles. I would try again and recommend. 
 .
 .
 .

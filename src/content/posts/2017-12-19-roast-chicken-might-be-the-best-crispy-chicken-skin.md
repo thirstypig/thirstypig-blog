@@ -1,5 +1,5 @@
 ---
-title: Roast chicken  might be the best crispy chicken skin
+title: 'Roast chicken might be the best crispy chicken skin, Arcadia'
 pubDate: '2017-12-19'
 author: The Thirsty Pig
 source: instagram
@@ -20,8 +20,8 @@ region: San Gabriel Valley
 location: Side Chick
 ---
 
-![Roast chicken  might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17856619597206857.jpg)
+![Roast chicken might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17856619597206857.jpg)
 
-![Roast chicken  might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17890337479138908.jpg)
+![Roast chicken might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17890337479138908.jpg)
 
 Roast chicken @sidechickla might be the best crispy chicken skin.

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 23, 2017
+title: 'Lostaquitosaz'
+description: 'Lostaquitosaz at Lostaquitosaz.'
 pubDate: '2017-07-23'
 author: The Thirsty Pig
 source: instagram

@@ -36,4 +36,4 @@ description: Sichuan Hotpot 四川火鍋. Very good very spicy. Lamb, Beef, and 
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-11-08-sichuan-hotpot-四川火鍋/17882236876185934.mp4" type="video/mp4"></video>
 
-Sichuan Hotpot 四川火鍋. Very good very spicy.  Lamb, Beef, and beef meatballs. Could have ordered more veggies.  #hotpot #sichuanhotpot #thirstypig @yalin_wu #spicy #bts #omgspicy
+Sichuan Hotpot 四川火鍋. Very good very spicy. Lamb, Beef, and beef meatballs. Could have ordered more veggies. #hotpot #sichuanhotpot #thirstypig @yalin_wu #spicy #bts #omgspicy

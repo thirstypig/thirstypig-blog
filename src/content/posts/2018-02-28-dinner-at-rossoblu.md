@@ -1,5 +1,5 @@
 ---
-title: Dinner at Rossoblu
+title: 'Dinner at Rossoblu, Downtown LA'
 pubDate: '2018-02-28'
 author: The Thirsty Pig
 source: instagram
@@ -48,4 +48,4 @@ coordinates:
 
 ![Dinner at Rossoblu](/images/posts/ig-2018-02-28-dinner-at-rossoblu/17927501440057532.jpg)
 
-Dinner at Rossoblu. Northern Italian cuisine.  Had the Salumi plate and braised pork meat balls to start.  Then went for the MALTAGLIATI, RISOTTO and NONNA’S TAGLIATELLE AL RAGU’ BOLOGNESE. And finished off with MILK-BRAISED PORK SHOULDER and DRY-AGED HOLSTEIN BEEF TAGLIATA @rossoblula @frankcheng76
+Dinner at Rossoblu. Northern Italian cuisine. Had the Salumi plate and braised pork meat balls to start. Then went for the MALTAGLIATI, RISOTTO and NONNA’S TAGLIATELLE AL RAGU’ BOLOGNESE. And finished off with MILK-BRAISED PORK SHOULDER and DRY-AGED HOLSTEIN BEEF TAGLIATA @rossoblula @frankcheng76

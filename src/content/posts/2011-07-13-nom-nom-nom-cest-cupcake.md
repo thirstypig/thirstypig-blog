@@ -1,5 +1,5 @@
 ---
-title: Nom nom nom . . . C’est Cupcake
+title: 'Nom nom nom . . . C’est Cupcake, Shanghai'
 pubDate: '2011-07-13'
 author: The Thirsty Pig
 source: thethirstypig.com

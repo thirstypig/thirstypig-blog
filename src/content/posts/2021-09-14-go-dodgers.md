@@ -29,7 +29,7 @@ location: Go Dodgers
 
 <video controls width="100%"><source src="/videos/posts/ig-2021-09-14-go-dodgers/18249055102021117.mp4" type="video/mp4"></video>
 
-#itfdb Go Dodgers!  #homerunseats
+#itfdb Go Dodgers! #homerunseats
 .
 .
 .

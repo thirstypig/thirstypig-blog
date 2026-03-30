@@ -39,6 +39,6 @@ coordinates:
 
 ![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18000935188210056.jpg)
 
-Burger and Fries at Shake Shack.  Had the double, mushroom burger, and combo mushroom & beef burger with a couple of orders of fries. .
+Burger and Fries at Shake Shack. Had the double, mushroom burger, and combo mushroom & beef burger with a couple of orders of fries. .
 .
 . @shakeshack @rojouan @yalin_wu #thirstypig

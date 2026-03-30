@@ -41,3 +41,5 @@ coordinates:
   lat: 25.044934
   lng: 121.529331
 ---
+
+Legacy Taipei in Taipei.

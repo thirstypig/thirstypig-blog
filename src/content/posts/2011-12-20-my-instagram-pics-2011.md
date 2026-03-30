@@ -1,5 +1,5 @@
 ---
-title: My Instagram Pics 2011
+title: 'My Instagram Pics 2011, Taipei'
 pubDate: '2011-12-20'
 author: The Thirsty Pig
 source: thethirstypig.com

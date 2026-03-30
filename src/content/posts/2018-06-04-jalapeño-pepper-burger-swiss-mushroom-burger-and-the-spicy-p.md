@@ -1,5 +1,5 @@
 ---
-title: Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries
+title: 'Jalapeño Pepper Burger, Swiss Mushroom Burger, Anaheim'
 pubDate: '2018-06-04'
 author: The Thirsty Pig
 source: instagram
@@ -32,4 +32,4 @@ region: Orange County
 
 ![Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries](/images/posts/ig-2018-06-04-jalapeño-pepper-burger-swiss-mushroom-burger-and-the-spicy-p/17916850975175233.jpg)
 
-Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries.  At the tilted kilt in Anaheim @tiltedkilt_orange @tiltedkiltpub #burgers #thirstypig @thirstypig @uscott @yujiogasa
+Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries. At the tilted kilt in Anaheim @tiltedkilt_orange @tiltedkiltpub #burgers #thirstypig @thirstypig @uscott @yujiogasa

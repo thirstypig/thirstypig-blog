@@ -45,7 +45,7 @@ coordinates:
 
 ![Saturday Brunch at Manuela DTLA](/images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17856604777302117.jpg)
 
-Saturday Brunch at Manuela DTLA.  Airy little restaurant.  We had the pork collar & eggs, lamb sausage, chorizo burger, biscuits, and green beans.  Liked the place but a bit pricey. .
+Saturday Brunch at Manuela DTLA. Airy little restaurant. We had the pork collar & eggs, lamb sausage, chorizo burger, biscuits, and green beans. Liked the place but a bit pricey. .
 .
 .
 .

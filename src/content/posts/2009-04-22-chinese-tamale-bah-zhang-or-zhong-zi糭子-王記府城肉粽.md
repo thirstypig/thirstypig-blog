@@ -1,5 +1,5 @@
 ---
-title: Chinese Tamale – (Bah Zhang or Zhong Zi糭子) – 王記府城肉粽
+title: 'Chinese Tamale – (Bah Zhang or Zhong Zi糭子) – 王記府城肉粽, Taipei'
 pubDate: '2009-04-22'
 author: The Thirsty Pig
 source: thethirstypig.com

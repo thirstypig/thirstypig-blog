@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Food at Jurassic
+title: 'Taiwanese Food at Jurassic, Taipei'
 pubDate: '2009-10-05'
 author: The Thirsty Pig
 source: thethirstypig.com

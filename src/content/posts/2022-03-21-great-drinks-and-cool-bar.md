@@ -1,5 +1,5 @@
 ---
-title: Great drinks and cool bar
+title: 'Great drinks and cool bar, Downtown LA'
 pubDate: '2022-03-21'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17920117184171972.jpg)
 
-Great drinks and cool bar.  Nice patio with outdoor bar.  I would describe them as having finely crafted drinks with bitters.  I’ve been told this is the place where bartenders go for drinks. 
+Great drinks and cool bar. Nice patio with outdoor bar. I would describe them as having finely crafted drinks with bitters. I’ve been told this is the place where bartenders go for drinks. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Brunch at Sqirl
+title: 'Brunch at Sqirl, Silver Lake'
 pubDate: '2019-08-04'
 author: The Thirsty Pig
 source: instagram
@@ -48,8 +48,8 @@ coordinates:
 
 ![Brunch at Sqirl](/images/posts/ig-2019-08-04-brunch-at-sqirl/18054629443156881.jpg)
 
-Brunch at Sqirl.  Long ass lines.  Flimsy outdoor table and chairs.  Smelly sidewalk.  And crowded street parking.  Thought this place was a foo-foo organic,
-gluten-free, vegan, bland  cafe. Yet, I would recommend and return.  Everything including the French toast, quiche, drinks, griddle, the rice bowl, and even the cheese was really good.  Yummy!
+Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. Smelly sidewalk. And crowded street parking. Thought this place was a foo-foo organic,
+gluten-free, vegan, bland cafe. Yet, I would recommend and return. Everything including the French toast, quiche, drinks, griddle, the rice bowl, and even the cheese was really good. Yummy!
 .
 .
 .

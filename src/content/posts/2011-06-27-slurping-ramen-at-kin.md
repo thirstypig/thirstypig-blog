@@ -1,5 +1,5 @@
 ---
-title: Slurping Ramen at Kin
+title: 'Slurping Ramen at Kin, Shanghai'
 pubDate: '2011-06-27'
 author: The Thirsty Pig
 source: thethirstypig.com

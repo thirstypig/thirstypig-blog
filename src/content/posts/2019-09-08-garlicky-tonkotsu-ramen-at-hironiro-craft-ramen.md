@@ -1,5 +1,5 @@
 ---
-title: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen
+title: 'Garlicky Tonkotsu Ramen at Hironiro Craft Ramen, Pasadena'
 pubDate: '2019-09-08'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Garlicky Tonkotsu Ramen at Hironiro Craft Ramen](/images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18018999247225593.jpg)
 
-Garlicky Tonkotsu Ramen at Hironiro Craft Ramen.  Nice char on the chasu pork.  Rich flavorful and garlicky flavor.  Spicy, too. The shoyu ramen looked good too.  The fried chicken appetizer was juicy.  Ate too fast.
+Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. Ate too fast.
 .
 .
 .

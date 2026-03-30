@@ -1,5 +1,5 @@
 ---
-title: Corned beef and hash and lemon cream pie
+title: 'Corned beef and hash and lemon cream pie, Arcadia'
 pubDate: '2017-09-06'
 author: The Thirsty Pig
 source: instagram
@@ -35,4 +35,4 @@ coordinates:
 
 ![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871367489165187.jpg)
 
-Corned beef and hash and lemon cream pie.  Classic American diner
+Corned beef and hash and lemon cream pie. Classic American diner

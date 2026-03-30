@@ -1,5 +1,5 @@
 ---
-title: Adobada Tacos at Tacos 1986 in DTLA
+title: 'Adobada Tacos at Tacos 1986 in DTLA, Downtown LA'
 pubDate: '2019-11-21'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Adobada Tacos at Tacos 1986 in DTLA](/images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17851525174693660.jpg)
 
-Adobada Tacos at Tacos 1986 in DTLA.  Also had the carne asada Vampiros.  The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice.  Yummy.  Also good to have some Topo Chico, Mexican Sparkling Water.  First stop of the DTLA Taco Crawl!
+Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yummy. Also good to have some Topo Chico, Mexican Sparkling Water. First stop of the DTLA Taco Crawl!
 .
 .
 .

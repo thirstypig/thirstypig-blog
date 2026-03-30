@@ -43,7 +43,7 @@ coordinates:
 
 ![Hot chicken sandwiches from Main Chick in old town Pasadena](/images/posts/ig-2021-07-15-hot-chicken-sandwiches-from-main-chick-in-old-town-pasadena/17887816784227460.jpg)
 
-Hot chicken sandwiches from Main Chick in old town Pasadena.  Got the dark meat chicken sandwich with mild spiciness. I know I couldn’t handle anything spicier. Also got some spiced fries, coke slaw, and some Mac and cheese.  The dark meat is juicy and had a nice mouth feel with the tender chicken and crunchy crust. 
+Hot chicken sandwiches from Main Chick in old town Pasadena. Got the dark meat chicken sandwich with mild spiciness. I know I couldn’t handle anything spicier. Also got some spiced fries, coke slaw, and some Mac and cheese. The dark meat is juicy and had a nice mouth feel with the tender chicken and crunchy crust. 
 .
 .
 .

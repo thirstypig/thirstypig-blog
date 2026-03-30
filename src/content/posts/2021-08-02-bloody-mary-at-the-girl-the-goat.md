@@ -47,7 +47,7 @@ location: Bloody Mary at The Girl & the Goat
 
 ![Bloody Mary at The Girl & the Goat](/images/posts/ig-2021-08-02-bloody-mary-at-the-girl-the-goat/17894617049142048.jpg)
 
-Bloody Mary at The Girl & the Goat. Brunch consisted of the little piggy (sausage sandwich), parantha, and shrimp fried rice.  The sausage egg sandwich was the best thing. Though I am not sure what Sichuan sausage means??? They might need to explain it better. Is Sichuan sausage with the Sichuan peppercorns or hua Jiao 花椒??? The shrimp fried rice was unique.  Regretted ordering the parantha.  Nice space.  Valet parking. Street parking is a challenge. 
+Bloody Mary at The Girl & the Goat. Brunch consisted of the little piggy (sausage sandwich), parantha, and shrimp fried rice. The sausage egg sandwich was the best thing. Though I am not sure what Sichuan sausage means??? They might need to explain it better. Is Sichuan sausage with the Sichuan peppercorns or hua Jiao 花椒??? The shrimp fried rice was unique. Regretted ordering the parantha. Nice space. Valet parking. Street parking is a challenge. 
 .
 .
 .

@@ -29,7 +29,7 @@ categories:
 
 ![Carnitas Nachos and Carnitas Quesadillas, second dinner/snack](/images/posts/ig-2019-09-18-carnitas-nachos-and-carnitas-quesadillas-second-dinnersnack/18070173613084659.jpg)
 
-Carnitas Nachos and Carnitas Quesadillas, second dinner/snack.  Yum.  Good food and good time, telling lies. .
+Carnitas Nachos and Carnitas Quesadillas, second dinner/snack. Yum. Good food and good time, telling lies. .
 .
 .
 . @chungangv @gammagod #thirstypig

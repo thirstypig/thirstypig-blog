@@ -1,5 +1,5 @@
 ---
-title: Lunch at Wurstkuche
+title: 'Lunch at Wurstkuche, Arts District'
 pubDate: '2022-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17927181287166127.jpg)
 
-Lunch at Wurstkuche.  Bratwurst, Spicy Hot Link, and duck sausage and fries. 
+Lunch at Wurstkuche. Bratwurst, Spicy Hot Link, and duck sausage and fries. 
 .
 .
 .

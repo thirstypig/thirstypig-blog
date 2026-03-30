@@ -1,5 +1,5 @@
 ---
-title: Omelet Ramen – Koraku
+title: 'Omelet Ramen – Koraku, Little Tokyo'
 pubDate: '2009-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com

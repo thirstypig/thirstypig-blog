@@ -1,5 +1,5 @@
 ---
-title: LA Jimmy’s Ultimate Dining Guide. . .Circa 1996
+title: 'LA Jimmy’s Ultimate Dining Guide. . .Circa 1996, Los Angeles'
 pubDate: '2008-12-21'
 author: The Thirsty Pig
 source: thethirstypig.com

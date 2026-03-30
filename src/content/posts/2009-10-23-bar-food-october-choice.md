@@ -1,5 +1,5 @@
 ---
-title: Bar Food – October Choice
+title: 'Bar Food – October Choice, Los Angeles'
 pubDate: '2009-10-23'
 author: The Thirsty Pig
 source: thethirstypig.com

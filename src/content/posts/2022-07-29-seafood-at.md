@@ -1,5 +1,5 @@
 ---
-title: Seafood at
+title: 'Seafood at, Silver Lake'
 pubDate: '2022-07-29'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17940725234277588.jpg)
 
-Seafood at @foundoyster.  Great little place for oysters and seafood. Lobster roll was really good.  The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!!
+Seafood at @foundoyster. Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!!
 .
 .
 .

@@ -29,7 +29,7 @@ region: San Gabriel Valley
 
 ![Hidden gem in the SGV](/images/posts/ig-2020-08-18-hidden-gem-in-the-sgv/17874231550853705.jpg)
 
-Hidden gem in the SGV.  Diner American/Mexican food at the El Monte Airport.  Very cool spot to watch planes take off and land up close. Open during COVID.  Outdoor seating.  I had the Annia’s special ground beef omelette and friend had the chorizo and eggs.  Yummy. 
+Hidden gem in the SGV. Diner American/Mexican food at the El Monte Airport. Very cool spot to watch planes take off and land up close. Open during COVID. Outdoor seating. I had the Annia’s special ground beef omelette and friend had the chorizo and eggs. Yummy. 
 .
 .
 .

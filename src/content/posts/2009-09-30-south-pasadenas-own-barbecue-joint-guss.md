@@ -1,5 +1,5 @@
 ---
-title: South Pasadena's own Barbecue Joint - Gus's Barbecue
+title: 'Southern Mini Town Restaurant (小南國), San Gabriel'
 pubDate: '2009-09-30'
 author: The Thirsty Pig
 source: blog.thethirstypig.com

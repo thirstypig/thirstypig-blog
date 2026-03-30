@@ -1,5 +1,5 @@
 ---
-title: Happy hour grub
+title: 'Happy hour grub, Pasadena'
 pubDate: '2018-02-10'
 author: The Thirsty Pig
 source: instagram

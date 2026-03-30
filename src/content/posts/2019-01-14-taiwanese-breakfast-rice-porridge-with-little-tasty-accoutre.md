@@ -38,7 +38,7 @@ categories:
 
 ![Taiwanese Breakfast - rice porridge with little tasty accoutrements](/images/posts/ig-2019-01-14-taiwanese-breakfast-rice-porridge-with-little-tasty-accoutre/17930609500260565.jpg)
 
-Taiwanese Breakfast - rice porridge with little tasty accoutrements.  Makes boring porridge more yummy. Pork floss, Japanese spicy dried garlic, seaweed paste, and wheat gluten with peanuts.  Don’t know why they call it pork floss - it is dried shredded pork. .
+Taiwanese Breakfast - rice porridge with little tasty accoutrements. Makes boring porridge more yummy. Pork floss, Japanese spicy dried garlic, seaweed paste, and wheat gluten with peanuts. Don’t know why they call it pork floss - it is dried shredded pork. .
 .
 .
 .

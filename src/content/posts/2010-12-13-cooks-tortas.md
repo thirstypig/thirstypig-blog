@@ -1,5 +1,5 @@
 ---
-title: Cook’s Tortas
+title: 'Cook’s Tortas, Los Angeles'
 pubDate: '2010-12-13'
 author: The Thirsty Pig
 source: thethirstypig.com

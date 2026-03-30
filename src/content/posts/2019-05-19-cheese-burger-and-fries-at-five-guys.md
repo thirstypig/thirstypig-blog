@@ -1,5 +1,5 @@
 ---
-title: Cheese Burger and Fries at Five Guys
+title: 'Cheese Burger and Fries at Five Guys, New York'
 pubDate: '2019-05-19'
 author: The Thirsty Pig
 source: instagram

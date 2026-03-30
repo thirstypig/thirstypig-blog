@@ -55,7 +55,7 @@ coordinates:
 
 ![Beyond the Streets - street art](/images/posts/ig-2018-08-26-beyond-the-streets-street-art/17972558788050404.jpg)
 
-Beyond the Streets - street art.  Great look and up close exhibition of art with some well known artists like @keithharingofficial @chaz_bojorquez and @banksy .
+Beyond the Streets - street art. Great look and up close exhibition of art with some well known artists like @keithharingofficial @chaz_bojorquez and @banksy .
 .
 .
 .

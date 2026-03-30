@@ -44,7 +44,7 @@ Links
 Pizzeria Mozza
 641 North Highland, Los Angeles
 +1 323 297 0101, +1 877 50-MOZZA
-[www.mozza-la.com](http://www.mozza-la.com), [pizzeriamozza.com](http://www.PizzeriaMozza.com)
+[www.mozza-la.com](http://www.mozza-la.com), [pizzeriamozza.com](http://www. PizzeriaMozza.com)
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2012/02/28/pizzeria-mozza-los-angeles/?share=facebook "Share on Facebook")

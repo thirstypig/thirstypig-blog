@@ -1,5 +1,5 @@
 ---
-title: Friday donuts with the team
+title: 'Friday donuts with the team, Hollywood'
 pubDate: '2020-01-12'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![Friday donuts with the team](/images/posts/ig-2020-01-12-friday-donuts-with-the-team/17922593584365258.jpg)
 
-Friday donuts with the team!  Trejo’s donuts. .
+Friday donuts with the team! Trejo’s donuts. .
 .
 .
 .

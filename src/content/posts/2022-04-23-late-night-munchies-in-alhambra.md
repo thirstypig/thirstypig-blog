@@ -52,7 +52,7 @@ coordinates:
 
 ![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17965698577626661.jpg)
 
-Late night munchies in Alhambra.  Glad they’re open late.  Also glad they have skewers and ramen. 
+Late night munchies in Alhambra. Glad they’re open late. Also glad they have skewers and ramen. 
 .
 .
 .

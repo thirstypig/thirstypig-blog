@@ -1,5 +1,5 @@
 ---
-title: Part 2 of 2 if art pieces from the Whitney Museum of American Art
+title: 'Whitney Museum of American Art, New York'
 pubDate: '2018-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -55,4 +55,4 @@ coordinates:
 
 ![Part 2 of 2 if art pieces from the Whitney Museum of American Art](/images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17919646069177373.jpg)
 
-Part 2 of 2 if art pieces from the Whitney Museum of American Art. With Andy Warhol and others.  #andywarhol #whitneymuseum @whitneymuseum @thirstypig @yalin_wu #thirstypig
+Part 2 of 2 if art pieces from the Whitney Museum of American Art. With Andy Warhol and others. #andywarhol #whitneymuseum @whitneymuseum @thirstypig @yalin_wu #thirstypig

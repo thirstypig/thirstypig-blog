@@ -1,5 +1,5 @@
 ---
-title: An Austin Original - Torchy’s Tacos
+title: 'An Austin Original - Torchy’s Tacos, Los Angeles'
 pubDate: '2022-06-28'
 author: The Thirsty Pig
 source: instagram
@@ -41,7 +41,7 @@ coordinates:
 
 ![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/17935037585198579.jpg)
 
-An Austin Original - Torchy’s Tacos. Breakfast Tacos!  The South Congress location is a cool spot on the iconic street.  I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the #4 with jalapeño cheddar sausage, egg & cheese.  And of course, for breakfast, chips and green chili queso.  Queso in Austin has not been copied well in Los Angeles.  I fully recommend Torchy’s.
+An Austin Original - Torchy’s Tacos. Breakfast Tacos! The South Congress location is a cool spot on the iconic street. I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the #4 with jalapeño cheddar sausage, egg & cheese. And of course, for breakfast, chips and green chili queso. Queso in Austin has not been copied well in Los Angeles. I fully recommend Torchy’s.
 .
 .
 .

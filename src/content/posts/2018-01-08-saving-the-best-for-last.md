@@ -1,5 +1,5 @@
 ---
-title: Saving the best for last
+title: 'Saving the best for last, New York'
 pubDate: '2018-01-08'
 author: The Thirsty Pig
 source: instagram
@@ -57,4 +57,4 @@ coordinates:
 
 ![Saving the best for last](/images/posts/ig-2018-01-08-saving-the-best-for-last/17917490044038848.jpg)
 
-Saving the best for last. @metmuseum saw amazing art all the while getting lost.  David Hockney’s exhibit was especially interesting with his different art phases, including his LA images.  Saw ancient Egyptian artifacts and art from 2500+ BC, with the 2 hippos and the huge mummy tomb. Got to see the “Thinker” from the sculptures from Rodin exhibit. And I believe the Met has more French Impressionist painting than MOMA, especially Monet.  And went the American Wing and saw the great Washington Crossing the Potomac from history books.
+Saving the best for last. @metmuseum saw amazing art all the while getting lost. David Hockney’s exhibit was especially interesting with his different art phases, including his LA images. Saw ancient Egyptian artifacts and art from 2500+ BC, with the 2 hippos and the huge mummy tomb. Got to see the “Thinker” from the sculptures from Rodin exhibit. And I believe the Met has more French Impressionist painting than MOMA, especially Monet. And went the American Wing and saw the great Washington Crossing the Potomac from history books.

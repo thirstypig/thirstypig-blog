@@ -25,7 +25,7 @@ location: Lunch at Golden Deli
 
 ![Lunch at Golden Deli](/images/posts/ig-2019-11-10-lunch-at-golden-deli/17971424368295537.jpg)
 
-Lunch at Golden Deli. Pho, spring rolls, and rolls.  Yummy!
+Lunch at Golden Deli. Pho, spring rolls, and rolls. Yummy!
 .
 .
 . @nerdspeed @fwidjaya @peterchang08 @tran_nic @yalin_wu

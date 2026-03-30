@@ -48,4 +48,4 @@ coordinates:
 
 ![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17882017333120892.jpg)
 
-Our 3rd visit to The Broad.  Nice little afternoon visit with a 40 minute wait.  @thebroadmuseum #thebroad
+Our 3rd visit to The Broad. Nice little afternoon visit with a 40 minute wait. @thebroadmuseum #thebroad

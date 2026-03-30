@@ -1,5 +1,5 @@
 ---
-title: Too much ice cream
+title: 'Too much ice cream, Downtown LA'
 pubDate: '2018-01-15'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,5 @@
 ---
-title: Braised pork over rice and fried chicken leg over rice
+title: 'Braised pork over rice and fried chicken leg over rice,...'
 pubDate: '2021-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -26,7 +26,7 @@ region: San Gabriel Valley
 
 ![Braised pork over rice and fried chicken leg over rice](/images/posts/ig-2021-05-13-braised-pork-over-rice-and-fried-chicken-leg-over-rice/17923169941609752.jpg)
 
-Braised pork over rice and fried chicken leg over rice. Classic Taiwanese dishes.  Yum. 滷肉飯 and 雞腿飯. 
+Braised pork over rice and fried chicken leg over rice. Classic Taiwanese dishes. Yum. 滷肉飯 and 雞腿飯. 
 .
 .
 .

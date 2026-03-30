@@ -1,5 +1,5 @@
 ---
-title: On this Snow day we braved the unexpected lines at the American Natural Histo...
+title: 'American Museum of Natural History, New York'
 pubDate: '2018-01-04'
 author: The Thirsty Pig
 source: instagram
@@ -40,4 +40,4 @@ coordinates:
 
 ![On this Snow day we braved the unexpected lines at the American Natural Histo...](/images/posts/ig-2018-01-04-on-this-snow-day-we-braved-the-unexpected-lines-at-the-ameri/17917130083026219.jpg)
 
-On this Snow day we braved the unexpected lines at the American Natural History Museum.  Had a great tour with Art.  Saw big dinosaur fossils, model whales, and other animals and prehistoric items.  #anhm @american_museum_of_natural_his #nyc @yalin_wu #thirstypig #teddyroosevelt #snowday
+On this Snow day we braved the unexpected lines at the American Natural History Museum. Had a great tour with Art. Saw big dinosaur fossils, model whales, and other animals and prehistoric items. #anhm @american_museum_of_natural_his #nyc @yalin_wu #thirstypig #teddyroosevelt #snowday

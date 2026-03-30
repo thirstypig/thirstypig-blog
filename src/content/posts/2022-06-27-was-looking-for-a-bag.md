@@ -33,7 +33,7 @@ location: Was looking for a bag
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-06-27-was-looking-for-a-bag/17950233280949498.mp4" type="video/mp4"></video>
 
-Was looking for a bag. . . . . This Prada store was in the middle of nowhere.  It is an outdoor art installation.  Interesting.
+Was looking for a bag. . . . . This Prada store was in the middle of nowhere. It is an outdoor art installation. Interesting.
 .
 .
 .

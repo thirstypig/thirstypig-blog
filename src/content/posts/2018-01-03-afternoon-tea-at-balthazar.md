@@ -1,5 +1,5 @@
 ---
-title: Afternoon tea at Balthazar
+title: 'Afternoon tea at Balthazar, New York'
 pubDate: '2018-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -33,4 +33,4 @@ coordinates:
 
 ![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17903131894113072.jpg)
 
-Afternoon tea at Balthazar.  Pomme Frites, Profiteoles, and a bottle of Aval Cider. @yalin_wu @balthazarny
+Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider. @yalin_wu @balthazarny

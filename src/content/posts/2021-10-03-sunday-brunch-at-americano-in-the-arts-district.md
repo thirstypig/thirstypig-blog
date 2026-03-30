@@ -1,5 +1,5 @@
 ---
-title: Sunday Brunch at Americano in the Art’s District
+title: 'Arts District Brewing Company, Downtown LA'
 pubDate: '2021-10-03'
 author: The Thirsty Pig
 source: instagram
@@ -40,7 +40,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/18012688213338584.mp4" type="video/mp4"></video>
 
-Sunday Brunch at Americano in the Art’s District.  Pulled pork and polenta and fried chicken and waffles.  And of course huge Bloody Mary. 
+Sunday Brunch at Americano in the Art’s District. Pulled pork and polenta and fried chicken and waffles. And of course huge Bloody Mary. 
 .
 .
 .

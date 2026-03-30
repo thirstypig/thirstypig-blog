@@ -31,3 +31,5 @@ coordinates:
   lat: 34.083873
   lng: -118.344147
 ---
+
+Pink's Hot Dogs in Los Angeles.

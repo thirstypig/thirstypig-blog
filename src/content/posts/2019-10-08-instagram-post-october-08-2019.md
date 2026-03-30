@@ -1,5 +1,5 @@
 ---
-title: Instagram Post — October 08, 2019
+title: 'San Gabriel Valley'
 pubDate: '2019-10-08'
 author: The Thirsty Pig
 source: instagram

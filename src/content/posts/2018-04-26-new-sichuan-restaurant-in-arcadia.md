@@ -37,5 +37,5 @@ coordinates:
 
 ![New Sichuan Restaurant in Arcadia](/images/posts/ig-2018-04-26-new-sichuan-restaurant-in-arcadia/17928431722101674.jpg)
 
-New Sichuan Restaurant in Arcadia!  Fensanity. First was the Signature Glass Noodle with Hot and Sour Soup, then was the cool glass jelly appetizer, and lastly the Wonton with Red Chili Sauce. Quite spicy and flavorful.  Almost too spicy.  I dig the bowl cauldrons. .
+New Sichuan Restaurant in Arcadia! Fensanity. First was the Signature Glass Noodle with Hot and Sour Soup, then was the cool glass jelly appetizer, and lastly the Wonton with Red Chili Sauce. Quite spicy and flavorful. Almost too spicy. I dig the bowl cauldrons. .
 .

@@ -35,7 +35,7 @@ location: Thai dinner at Summer Summer Thai
 
 ![Thai dinner at Summer Summer Thai](/images/posts/ig-2019-10-05-thai-dinner-at-summer-summer-thai/17844256810706203.jpg)
 
-Thai dinner at Summer Summer Thai. Summer roll, crab Rangoon, corn fritters, pork steak, beef, and curry noodles. Yummy. Summer rolls make you feel less guilty.  Could eat almost everyday. .
+Thai dinner at Summer Summer Thai. Summer roll, crab Rangoon, corn fritters, pork steak, beef, and curry noodles. Yummy. Summer rolls make you feel less guilty. Could eat almost everyday. .
 .
 .
 .

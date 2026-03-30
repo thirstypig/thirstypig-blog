@@ -1,5 +1,5 @@
 ---
-title: Instagram Post — July 07, 2017
+title: 'Dr. Gumbo Food Tour, New Orleans'
 pubDate: '2017-07-07'
 author: The Thirsty Pig
 source: instagram

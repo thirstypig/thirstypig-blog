@@ -1,5 +1,5 @@
 ---
-title: Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...
+title: 'Donut Friend, Downtown LA'
 pubDate: '2020-02-10'
 author: The Thirsty Pig
 source: instagram
@@ -31,13 +31,13 @@ coordinates:
   lng: -118.251962
 ---
 
-![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)
+![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)
 
-![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17871046597595944.jpg)
+![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17871046597595944.jpg)
 
-![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18099179392120290.jpg)
+![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18099179392120290.jpg)
 
-![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18128354647060037.jpg)
+![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18128354647060037.jpg)
 
 Porchetta sandwich at @porchettarepublic and pastrami burnt ends from @uglydrum ans rice balls @mamamusubi and fried yucca from a place I forgot the name
 .

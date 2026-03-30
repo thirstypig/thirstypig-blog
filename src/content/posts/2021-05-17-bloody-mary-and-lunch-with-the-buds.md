@@ -1,5 +1,5 @@
 ---
-title: Bloody Mary  and lunch with the buds
+title: 'Bloody Mary and lunch with the buds, Redondo Beach'
 pubDate: '2021-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -33,19 +33,19 @@ coordinates:
   lng: -118.387689
 ---
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17919066523717764.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17919066523717764.jpg)
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17884725413157780.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17884725413157780.jpg)
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/18172874779140313.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/18172874779140313.jpg)
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17859131732529323.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17859131732529323.jpg)
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17926614046592593.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17926614046592593.jpg)
 
-![Bloody Mary  and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17893698926096236.jpg)
+![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17893698926096236.jpg)
 
-Bloody Mary @sealevel_rb and lunch with the buds.  Pastrami sandwich, cauliflower poppers, oysters, and lobster Mac and cheese.  Good views on an overcast day. 
+Bloody Mary @sealevel_rb and lunch with the buds. Pastrami sandwich, cauliflower poppers, oysters, and lobster Mac and cheese. Good views on an overcast day. 
 .
 .
 .

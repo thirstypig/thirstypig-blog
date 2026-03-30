@@ -1,5 +1,5 @@
 ---
-title: Garlic Ramen . . . OMFG – Ramenya
+title: 'Garlic Ramen . . . OMFG – Ramenya, Sawtelle'
 pubDate: '2009-03-17'
 author: The Thirsty Pig
 source: thethirstypig.com

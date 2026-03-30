@@ -1,5 +1,5 @@
 ---
-title: Lechon roast pork at El Cochinito
+title: 'Lechon roast pork at El Cochinito, Silver Lake'
 pubDate: '2018-10-06'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 ![Lechon roast pork at El Cochinito](/images/posts/ig-2018-10-06-lechon-roast-pork-at-el-cochinito/17955928432146430.jpg)
 
-Lechon roast pork at El Cochinito. Nice fatty cut if pork, black beans and rice, and steamed yucca.  Wife likes the yucca.  And had a Yerba matte soda. .
+Lechon roast pork at El Cochinito. Nice fatty cut if pork, black beans and rice, and steamed yucca. Wife likes the yucca. And had a Yerba matte soda. .
 .
 .
 .

@@ -49,7 +49,7 @@ location: Taichung Night Market
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-05-03-taichung-night-market/17968077284720714.mp4" type="video/mp4"></video>
 
-Taichung Night Market. Lots of yummy things to eat. Lots of people, families, and kids.  It has been a long time since I have been to a Taiwanese night market. Enjoyed it but I don’t think I could stay too long.  It was a warm night. Plus some of the things were a bit questionable even though they smelled good. 
+Taichung Night Market. Lots of yummy things to eat. Lots of people, families, and kids. It has been a long time since I have been to a Taiwanese night market. Enjoyed it but I don’t think I could stay too long. It was a warm night. Plus some of the things were a bit questionable even though they smelled good. 
 .
 .
 . @mr_ric365 @tastemakersapp @ilovebreakfastburritos @tootsiefranklin

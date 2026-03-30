@@ -39,7 +39,7 @@ coordinates:
 
 ![Brunch at the Rose in Venice](/images/posts/ig-2024-08-27-brunch-at-the-rose-in-venice/18041210489077323.jpg)
 
-Brunch at the Rose in Venice. One of my go to’s in Venice.  Not far from the beach and abbot Kinney.  And of course I had to have a Bloody Mary. 
+Brunch at the Rose in Venice. One of my go to’s in Venice. Not far from the beach and abbot Kinney. And of course I had to have a Bloody Mary. 
 .
 .
 .

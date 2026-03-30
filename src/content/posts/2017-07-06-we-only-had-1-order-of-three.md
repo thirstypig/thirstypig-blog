@@ -1,5 +1,5 @@
 ---
-title: we only had 1 order (of three)
+title: 'we only had 1 order (of three), New Orleans'
 pubDate: '2017-07-06'
 author: The Thirsty Pig
 source: instagram

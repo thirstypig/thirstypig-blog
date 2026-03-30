@@ -42,13 +42,13 @@ coordinates:
 
 ![Brunch in Victoria](/images/posts/ig-2025-05-11-brunch-in-victoria/18063758549018842.jpg)
 
-Brunch in Victoria.  Of course I had to have a Bloody Mary.  And since I was still in Canada, I had to have more poutine.  Which reminds me - that when I get home, that I should try to order the “wet fries” from the @thehatworldfamous just to compare. 
+Brunch in Victoria. Of course I had to have a Bloody Mary. And since I was still in Canada, I had to have more poutine. Which reminds me - that when I get home, that I should try to order the “wet fries” from the @thehatworldfamous just to compare. 
 
-Anyways.  On a sunny day it’s always good to sit outside for brunch - anywhere.  We shared the other dishes which were unmemorable - but that’s ok.  Poutine, a Bloody Mary, and good people. 
+Anyways. On a sunny day it’s always good to sit outside for brunch - anywhere. We shared the other dishes which were unmemorable - but that’s ok. Poutine, a Bloody Mary, and good people. 
 
-I spent a couple of days in Victoria to see an old classmate and his family.  Would have stayed longer if the ferry company didn’t cancel my ticket.  But I think it was fine, since my allergies wrt acting up with their giant German shepherd. 
+I spent a couple of days in Victoria to see an old classmate and his family. Would have stayed longer if the ferry company didn’t cancel my ticket. But I think it was fine, since my allergies wrt acting up with their giant German shepherd. 
 
-Anyways. Enough details.  Come to Victoria. Check out @thelocalvictoria for outdoor brunch-Ing and bloody Mary’s. 
+Anyways. Enough details. Come to Victoria. Check out @thelocalvictoria for outdoor brunch-Ing and bloody Mary’s. 
 .
 .
 .

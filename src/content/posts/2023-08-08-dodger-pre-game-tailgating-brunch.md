@@ -28,7 +28,7 @@ location: Dodger pre-game tailgating brunch
 
 ![Dodger pre-game tailgating brunch](/images/posts/ig-2023-08-08-dodger-pre-game-tailgating-brunch/17988057809485229.jpg)
 
-Dodger pre-game tailgating brunch.  33 Taps is located minutes away from Dodger stadium is a cool sports gastropub.  Got the chicken and waffles and the breakfast burrito. Would visit again.  They also have trivia night!
+Dodger pre-game tailgating brunch. 33 Taps is located minutes away from Dodger stadium is a cool sports gastropub. Got the chicken and waffles and the breakfast burrito. Would visit again. They also have trivia night!
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Beef Noodles Soup with a spicy broth or a clear broth
+title: 'Beef Noodles Soup with a spicy broth or a clear broth,...'
 pubDate: '2024-05-11'
 author: The Thirsty Pig
 source: instagram

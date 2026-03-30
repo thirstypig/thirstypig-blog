@@ -1,5 +1,5 @@
 ---
-title: Satisfied our craving for Sichuan Chinese food
+title: 'Satisfied our craving for Sichuan Chinese food, Chinatown'
 pubDate: '2018-02-13'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,5 @@
 ---
-title: Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy noodles, bee...
+title: 'Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy...'
 pubDate: '2018-06-09'
 author: The Thirsty Pig
 source: instagram

@@ -34,7 +34,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2025-05-13-pike-place-market-in-seattle/18071748985901536.mp4" type="video/mp4"></video>
 
-Pike Place Market in Seattle.  Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market.  You can “buy” pig foot prints as a donation for an engraving on the floor near the pig, I think for about $5k or so - for a good cause. 
+Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints as a donation for an engraving on the floor near the pig, I think for about $5k or so - for a good cause. 
 
 The weather was awesome with no rain. 
 .

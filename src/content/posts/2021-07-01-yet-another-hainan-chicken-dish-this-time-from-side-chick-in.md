@@ -1,5 +1,5 @@
 ---
-title: Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa...
+title: 'Chicken Now, Arcadia'
 pubDate: '2021-07-01'
 author: The Thirsty Pig
 source: instagram

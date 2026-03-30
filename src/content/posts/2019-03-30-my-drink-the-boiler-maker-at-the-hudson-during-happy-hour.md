@@ -1,5 +1,5 @@
 ---
-title: My drink, the Boiler Maker, at the Hudson during Happy Hour
+title: 'The Eli & Edythe Broad Stage, Santa Monica'
 pubDate: '2019-03-30'
 author: The Thirsty Pig
 source: instagram
@@ -37,4 +37,4 @@ coordinates:
 
 ![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18010414243175730.jpg)
 
-My drink, the Boiler Maker, at the Hudson during Happy Hour.  Fried cauliflower and Mac’n cheese.  #happyhour @thehudsonla
+My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese. #happyhour @thehudsonla

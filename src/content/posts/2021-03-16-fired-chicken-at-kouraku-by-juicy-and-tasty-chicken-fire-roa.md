@@ -1,5 +1,5 @@
 ---
-title: Fired Chicken at Kouraku by   Juicy and tasty chicken fire roasted
+title: 'Roasted Coffee Laboratory, Tokyo'
 pubDate: '2021-03-16'
 author: The Thirsty Pig
 source: instagram
@@ -30,13 +30,13 @@ coordinates:
   lng: 139.699851
 ---
 
-![Fired Chicken at Kouraku by   Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg)
+![Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg)
 
-![Fired Chicken at Kouraku by   Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17903338930770600.jpg)
+![Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17903338930770600.jpg)
 
 <video controls width="100%"><source src="/videos/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17920678996566649.mp4" type="video/mp4"></video>
 
-Fired Chicken at Kouraku by @keika_tanjiro  Juicy and tasty chicken fire roasted.  Glad to also hear that Kouraku, the Japanese Denny’s in Little Tokyo is alive and well. 
+Fired Chicken at Kouraku by @keika_tanjiro Juicy and tasty chicken fire roasted. Glad to also hear that Kouraku, the Japanese Denny’s in Little Tokyo is alive and well. 
 .
 .
 .

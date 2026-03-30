@@ -36,7 +36,7 @@ coordinates:
 
 ![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17934898546207652.jpg)
 
-Friday Lunch at Bruxie in Irvine.  OMG. Didn’t know half a sandwich was so filling.  Had the Irish nachos! .
+Friday Lunch at Bruxie in Irvine. OMG. Didn’t know half a sandwich was so filling. Had the Irish nachos! .
 .
 .
 .

@@ -23,4 +23,4 @@ region: San Gabriel Valley
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-11-08-dragons-breath-dessert/17898367180077720.mp4" type="video/mp4"></video>
 
-Dragon’s Breath dessert.  Light popcorn puffs in cold liquid nitrogen with strawberry dipping sauce. Not bad. Could be more sweeter. #dessert #dragonsbreath #sgv #shotoniphone @thirstypig #thirstypig
+Dragon’s Breath dessert. Light popcorn puffs in cold liquid nitrogen with strawberry dipping sauce. Not bad. Could be more sweeter. #dessert #dragonsbreath #sgv #shotoniphone @thirstypig #thirstypig

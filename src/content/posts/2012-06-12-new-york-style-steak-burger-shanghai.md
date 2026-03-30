@@ -48,4 +48,4 @@ One last note – New York Style also recently won [City Weekend’s Best Burge
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| New York Style Steak and Burger  建国路155弄22号 近瑞金二路  No. 22, Lane 155 Jianguo Lu, near Ruijin Er Lu  +86 21 5465-1676 | 3 Pigs  Price Range 2 $/¥/NT |
+| New York Style Steak and Burger 建国路155弄22号 近瑞金二路 No. 22, Lane 155 Jianguo Lu, near Ruijin Er Lu +86 21 5465-1676 | 3 Pigs Price Range 2 $/¥/NT |

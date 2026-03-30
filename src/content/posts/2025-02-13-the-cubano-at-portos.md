@@ -1,5 +1,5 @@
 ---
-title: The Cubano at Porto’s
+title: 'The Cubano at Porto’s, Glendale'
 pubDate: '2025-02-13'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,5 @@
 ---
-title: Chef Johnny Lee’s Hainan Chicken
+title: 'Chef Johnny Lee’s Hainan Chicken, Chinatown'
 pubDate: '2016-10-04'
 author: The Thirsty Pig
 source: thirstypig.com

@@ -54,7 +54,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-05-09-taipei-dangdai-art-ideas/18043025980773660.mp4" type="video/mp4"></video>
 
-Taipei DangDai art & ideas.  Got to check out the Taipei art show.  Taiwanese artist with artists from around the world including Japan, Europe and Africa. Galleries were also from around the world, too. I enjoy and appreciate art. Wish I had more time to really study and understand contemporary artists and their inspirations. I hope to find artists and their works that really connect with me. For me, design is important, but I feel the story behind the works might be even more significant to me.
+Taipei DangDai art & ideas. Got to check out the Taipei art show. Taiwanese artist with artists from around the world including Japan, Europe and Africa. Galleries were also from around the world, too. I enjoy and appreciate art. Wish I had more time to really study and understand contemporary artists and their inspirations. I hope to find artists and their works that really connect with me. For me, design is important, but I feel the story behind the works might be even more significant to me.
 .
 .
 .

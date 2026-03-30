@@ -34,7 +34,7 @@ region: Los Angeles
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-02-08-favorite-diner/17990004850435795.mp4" type="video/mp4"></video>
 
-Favorite diner.  This is how I think American diners should/ought to be.  Stereotypical diners with staff in uniforms, classic coffee mugs, hearty meals, and great breakfasts.  Only wish they had a Bloody Mary to go with the meal.  Too bad they are closed on Mondays and Tuesdays. And now they open at 7am and close at 5pm.  I hope they return to 24 hours soon.
+Favorite diner. This is how I think American diners should/ought to be. Stereotypical diners with staff in uniforms, classic coffee mugs, hearty meals, and great breakfasts. Only wish they had a Bloody Mary to go with the meal. Too bad they are closed on Mondays and Tuesdays. And now they open at 7am and close at 5pm. I hope they return to 24 hours soon.
 .
 .
 .

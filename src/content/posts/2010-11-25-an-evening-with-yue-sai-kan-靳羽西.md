@@ -1,5 +1,5 @@
 ---
-title: An Evening with Yue-Sai Kan 靳羽西
+title: 'An Evening with Yue-Sai Kan 靳羽西, Shanghai'
 pubDate: '2010-11-25'
 author: The Thirsty Pig
 source: thethirstypig.com

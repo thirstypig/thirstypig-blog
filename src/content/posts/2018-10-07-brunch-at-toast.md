@@ -28,7 +28,7 @@ location: Brunch at Toast
 
 ![Brunch at Toast](/images/posts/ig-2018-10-07-brunch-at-toast/17960077909193652.jpg)
 
-Brunch at Toast.  The protein omelette and the avocado toast.  Plus a cool looking French bulldog chillin’ next to me
+Brunch at Toast. The protein omelette and the avocado toast. Plus a cool looking French bulldog chillin’ next to me
 .
 .
 .

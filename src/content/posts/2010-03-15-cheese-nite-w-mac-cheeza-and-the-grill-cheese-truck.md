@@ -1,5 +1,5 @@
 ---
-title: Cheese Nite w/ Mac & Cheeza and the Grill Cheese Truck
+title: 'Cheese Nite w/ Mac & Cheeza and the Grill Cheese Truck,...'
 pubDate: '2010-03-15'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -35,3 +35,5 @@ draft: false
 city: Downtown LA
 region: Downtown LA
 ---
+
+American in Downtown LA.

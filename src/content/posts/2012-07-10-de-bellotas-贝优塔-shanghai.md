@@ -23,3 +23,5 @@ coordinates:
   lat: 31.219445
   lng: 121.456512
 ---
+
+UNIQLO (优衣库) in Shanghai.

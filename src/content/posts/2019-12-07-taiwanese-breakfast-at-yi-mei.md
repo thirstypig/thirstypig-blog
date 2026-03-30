@@ -1,5 +1,5 @@
 ---
-title: Taiwanese breakfast at Yi Mei
+title: 'Taiwanese breakfast at Yi Mei, Arcadia'
 pubDate: '2019-12-07'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/17847144214768317.jpg)
 
-Taiwanese breakfast at Yi Mei.  Rice Ball 飯糰 with an egg.  Had the egg pancake 蛋皮 and fried dumplings.  Yi Mei is one of the better Taiwanese breakfast restaurants. .
+Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had the egg pancake 蛋皮 and fried dumplings. Yi Mei is one of the better Taiwanese breakfast restaurants. .
 .
 .
 .

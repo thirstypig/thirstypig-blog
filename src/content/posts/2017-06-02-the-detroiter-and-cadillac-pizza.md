@@ -1,5 +1,5 @@
 ---
-title: the Detroiter and Cadillac pizza
+title: 'the Detroiter and Cadillac pizza, Austin'
 pubDate: '2017-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -28,4 +28,4 @@ region: Texas
 
 ![the Detroiter and Cadillac pizza](/images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17882286076030282.jpg)
 
-@via313 the Detroiter and Cadillac pizza.  The detroiter - pepperoni and the Cadillac- prosciutto with balsamic vinegar.  Cadillac was better than expected #pizza #via313pizza #atx
+@via313 the Detroiter and Cadillac pizza. The detroiter - pepperoni and the Cadillac- prosciutto with balsamic vinegar. Cadillac was better than expected #pizza #via313pizza #atx

@@ -1,5 +1,5 @@
 ---
-title: One of Texas Monthly's top 50 BBQ 2017 -
+title: "One of Texas Monthly's top 50 BBQ 2017 -, Austin"
 pubDate: '2017-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -30,4 +30,4 @@ coordinates:
 
 ![One of Texas Monthly's top 50 BBQ 2017 -](/images/posts/ig-2017-05-27-one-of-texas-monthlys-top-50-bbq-2017/17858275294145024.jpg)
 
-One of Texas Monthly's top 50 BBQ 2017 - @stilesswitchbbq @atx @bbq @texasmonthly.  Outstanding Beef Ribs, spicy sausage, corn casserole, and coleslaw. The mustard was great with the sausage.  But the brisket was a bit dry and the baby back ribs were adequate. #txbbqpassport
+One of Texas Monthly's top 50 BBQ 2017 - @stilesswitchbbq @atx @bbq @texasmonthly. Outstanding Beef Ribs, spicy sausage, corn casserole, and coleslaw. The mustard was great with the sausage. But the brisket was a bit dry and the baby back ribs were adequate. #txbbqpassport

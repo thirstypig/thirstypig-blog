@@ -1,5 +1,5 @@
 ---
-title: Johnny Rocket’s
+title: 'Johnny Rocket’s, Los Angeles'
 pubDate: '2009-07-12'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: Combo Platter of chicken and beef at the Halal Guys before the sauce
+title: 'Combo Platter of chicken and beef at the Halal Guys...'
 pubDate: '2019-05-16'
 author: The Thirsty Pig
 source: instagram
@@ -28,6 +28,6 @@ region: New York
 
 ![Combo Platter of chicken and beef at the Halal Guys before the sauce](/images/posts/ig-2019-05-16-combo-platter-of-chicken-and-beef-at-the-halal-guys-before-t/18064622773065186.jpg)
 
-Combo Platter of chicken and beef at the Halal Guys before the sauce.  White sauce is decadent and the red sauce is just a bit too spicy. Lunch on the streets of New York City. .
+Combo Platter of chicken and beef at the Halal Guys before the sauce. White sauce is decadent and the red sauce is just a bit too spicy. Lunch on the streets of New York City. .
 .
 . @thehalalguys

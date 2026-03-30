@@ -1,0 +1,66 @@
+---
+interface Props {
+	images: string[];
+	heroImage?: string;
+	title: string;
+}
+
+const { images, heroImage, title } = Astro.props;
+
+// Filter out the hero image and deduplicate
+const galleryImages = [...new Set(images)].filter(img => img !== heroImage);
+if (galleryImages.length === 0) return;
+---
+
+<div class="gallery-section">
+	<div class="gallery-grid">
+		{galleryImages.map((img, i) => (
+			<a href={img} target="_blank" rel="noopener" class="gallery-thumb" data-index={i}>
+				<img
+					src={img}
+					alt={`${title} — photo ${i + 2}`}
+					loading="lazy"
+					width="280"
+					height="280"
+					decoding="async"
+					class="gallery-img"
+				/>
+			</a>
+		))}
+	</div>
+</div>
+
+<style>
+	.gallery-section {
+		margin-top: 2rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--color-cream-dark);
+	}
+
+	.gallery-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+		gap: 0.5rem;
+	}
+
+	.gallery-thumb {
+		aspect-ratio: 1;
+		overflow: hidden;
+		border-radius: 8px;
+		display: block;
+	}
+
+	.gallery-img {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		transition: transform 0.2s ease;
+		margin: 0;
+		border-radius: 0;
+		box-shadow: none;
+	}
+
+	.gallery-thumb:hover .gallery-img {
+		transform: scale(1.05);
+	}
+</style>

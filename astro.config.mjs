@@ -5,11 +5,16 @@ import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 
 import tailwindcss from '@tailwindcss/vite';
+import remarkInstagramMentions from './src/plugins/remark-instagram-mentions.mjs';
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://thirstypig.com',
   integrations: [mdx(), sitemap()],
+
+  markdown: {
+    remarkPlugins: [remarkInstagramMentions],
+  },
 
   vite: {
     plugins: [tailwindcss()],

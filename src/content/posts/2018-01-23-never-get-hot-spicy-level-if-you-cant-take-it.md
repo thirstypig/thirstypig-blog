@@ -1,5 +1,5 @@
 ---
-title: Never get “hot” spicy level if you can’t take it
+title: 'Never get “hot” spicy level if you can’t take it, Arcadia'
 pubDate: '2018-01-23'
 author: The Thirsty Pig
 source: instagram
@@ -33,4 +33,4 @@ coordinates:
 
 ![Never get “hot” spicy level if you can’t take it](/images/posts/ig-2018-01-23-never-get-hot-spicy-level-if-you-cant-take-it/17920165672005937.jpg)
 
-Never get “hot” spicy level if you can’t take it.  Had the “Korean” hot pot at @boilingpointgroup #arcadia  Was way too hot for me.  Wifey had the “beef” hot pot but was fine with the “hot” level. @yalin_wu #thirstypig
+Never get “hot” spicy level if you can’t take it. Had the “Korean” hot pot at @boilingpointgroup #arcadia Was way too hot for me. Wifey had the “beef” hot pot but was fine with the “hot” level. @yalin_wu #thirstypig

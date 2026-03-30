@@ -26,3 +26,5 @@ location: Uncle John’s Ham & Eggs
 city: Dtla
 region: Downtown LA
 ---
+
+Uncle John’s Ham & Eggs in Dtla.

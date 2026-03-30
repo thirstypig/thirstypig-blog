@@ -1,5 +1,5 @@
 ---
-title: Cantonese dinner with friends
+title: 'Cantonese dinner with friends, Arcadia'
 pubDate: '2018-08-15'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-08-15-cantonese-dinner-with-friends/17896598212227037.mp4" type="video/mp4"></video>
 
-Cantonese dinner with friends.  Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun.  They specialize in hot pot rice. Solid quality and grubbing.  First time here.  Would return. May Mei Restaurant.
+Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid quality and grubbing. First time here. Would return. May Mei Restaurant.
 .
 .
 .

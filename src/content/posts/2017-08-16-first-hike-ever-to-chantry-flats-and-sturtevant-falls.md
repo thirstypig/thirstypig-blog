@@ -1,5 +1,5 @@
 ---
-title: First hike ever to Chantry Flats and Sturtevant Falls
+title: 'First hike ever to Chantry Flats and Sturtevant Falls,...'
 pubDate: '2017-08-16'
 author: The Thirsty Pig
 source: instagram
@@ -44,4 +44,4 @@ categories:
 
 ![First hike ever to Chantry Flats and Sturtevant Falls](/images/posts/ig-2017-08-16-first-hike-ever-to-chantry-flats-and-sturtevant-falls/17895583675018665.jpg)
 
-First hike ever to Chantry Flats and Sturtevant Falls. Lived nearby for years and have never visited the famous falls.  A bit sore. #chantryflats #sturtevantfalls #arcadia #hiking big thanks to @uscott and @yalin_wu.  Next time we go to #hermitfalls and jump off the cliff
+First hike ever to Chantry Flats and Sturtevant Falls. Lived nearby for years and have never visited the famous falls. A bit sore. #chantryflats #sturtevantfalls #arcadia #hiking big thanks to @uscott and @yalin_wu. Next time we go to #hermitfalls and jump off the cliff

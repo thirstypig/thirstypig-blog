@@ -1,5 +1,5 @@
 ---
-title: Short trip to Tijuana
+title: 'Short trip to Tijuana, Los Angeles'
 pubDate: '2017-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -49,4 +49,4 @@ coordinates:
 
 ![Short trip to Tijuana](/images/posts/ig-2017-08-18-short-trip-to-tijuana/17882411278106984.jpg)
 
-Short trip to Tijuana.  Got to visit Hotel Caesar for the famous Caesar Salad.  walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican Backpack, and had some carnitas tacos. Met a nice retired cop, named Mario, who owned a store and gave us great tips!  Drove a total of 5.5 hours round trip.  Would visit again!
+Short trip to Tijuana. Got to visit Hotel Caesar for the famous Caesar Salad. walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican Backpack, and had some carnitas tacos. Met a nice retired cop, named Mario, who owned a store and gave us great tips! Drove a total of 5.5 hours round trip. Would visit again!

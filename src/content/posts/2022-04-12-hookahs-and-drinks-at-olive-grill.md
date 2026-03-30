@@ -22,7 +22,7 @@ location: Hookahs and drinks at Olive & Grill
 
 ![Hookahs and drinks at Olive & Grill](/images/posts/ig-2022-04-12-hookahs-and-drinks-at-olive-grill/17943473080920456.jpg)
 
-Hookahs and drinks at Olive & Grill.  Haven’t smoked a hookah in years.  Need to find my old hookah.  Cool place with live music. 
+Hookahs and drinks at Olive & Grill. Haven’t smoked a hookah in years. Need to find my old hookah. Cool place with live music. 
 .
 .
 .

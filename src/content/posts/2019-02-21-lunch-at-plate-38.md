@@ -1,5 +1,5 @@
 ---
-title: Lunch at Plate 38
+title: 'Lunch at Plate 38, Pasadena'
 pubDate: '2019-02-21'
 author: The Thirsty Pig
 source: instagram
@@ -42,6 +42,6 @@ coordinates:
 
 ![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17847419869369189.jpg)
 
-Lunch at Plate 38.  Pretty decent burger.  Unexpectedly good experience .
+Lunch at Plate 38. Pretty decent burger. Unexpectedly good experience .
 .
 . @yalin_wu

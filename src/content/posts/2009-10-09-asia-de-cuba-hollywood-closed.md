@@ -1,5 +1,6 @@
 ---
 title: Asia de Cuba, Hollywood (Closed)
+description: 'El Pueblo de Los Angeles Historic Monument in Hollywood.'
 pubDate: '2009-10-09'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -21,4 +22,4 @@ coordinates:
   lng: -118.2384
 ---
 
-
+El Pueblo de Los Angeles Historic Monument in Hollywood.

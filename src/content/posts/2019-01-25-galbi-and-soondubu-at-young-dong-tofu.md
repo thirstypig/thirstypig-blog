@@ -1,5 +1,5 @@
 ---
-title: Galbi and Soondubu at Young Dong Tofu
+title: 'Galbi and Soondubu at Young Dong Tofu, San Gabriel'
 pubDate: '2019-01-25'
 author: The Thirsty Pig
 source: instagram
@@ -40,7 +40,7 @@ coordinates:
 
 ![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18009434902113570.jpg)
 
-Galbi and Soondubu at Young Dong Tofu.  The pancake appetizer, grilled chicken, and dumpling soondubu.  Spicy
+Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grilled chicken, and dumpling soondubu. Spicy
 .
 .
 .

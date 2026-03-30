@@ -24,7 +24,7 @@ location: Little gifts from wife
 
 ![Little gifts from wife](/images/posts/ig-2019-10-14-little-gifts-from-wife/17868504445498923.jpg)
 
-Little gifts from wife.  Wife went to Bordeaux and Madrid. Can’t wait to try it!
+Little gifts from wife. Wife went to Bordeaux and Madrid. Can’t wait to try it!
 .
 .
 .

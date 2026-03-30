@@ -1,5 +1,5 @@
 ---
-title: Really good sandwich from All'Antico Vinaio
+title: "Really good sandwich from All'Antico Vinaio, Pasadena"
 pubDate: '2025-01-15'
 author: The Thirsty Pig
 source: instagram

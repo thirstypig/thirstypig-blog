@@ -16,7 +16,7 @@ draft: false
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| 69 Yongkang Lu, near Xiangyang Lu 永康路69号 近襄阳路  +86 21 3367-8233  7:30am-9pm | 1 Pigs  Price Range 1 $/¥/NT |
+| 69 Yongkang Lu, near Xiangyang Lu 永康路69号 近襄阳路 +86 21 3367-8233 7:30am-9pm | 1 Pigs Price Range 1 $/¥/NT |
 
 **What is the Farmhouse Caffe?**
 The Farmhouse Caffe is a little restaurant located on the quaint Yongkang road. Yongkang road has a bunch of cool little eateries, cool shops, and vibrant galleries. The Farmhouse Caffe, opened by a local Shanghainese couple, is a English theme restaurant featuring British dishes inspired by Jaime Oliver.
