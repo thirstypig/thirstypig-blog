@@ -32,7 +32,7 @@ coordinates:
 
 ![Lunch with Shanghai friends, who now live in Irvine](/images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17879127148234363.jpg)
 
-Lunch with Shanghai friends, who now live in Irvine.  A good hearty bowl of ramen on a hot summer day!  The standard Hakata Ramen.
+Lunch with Shanghai friends, who now live in Irvine. A good hearty bowl of ramen on a hot summer day! The standard Hakata Ramen.
 .
 .
 .

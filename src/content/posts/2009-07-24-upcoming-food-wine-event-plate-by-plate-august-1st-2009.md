@@ -1,5 +1,5 @@
 ---
-title: Upcoming Food & Wine Event – Plate by Plate, August 1st, 2009
+title: 'Upcoming Food & Wine Event – Plate by Plate, August 1st,...'
 pubDate: '2009-07-24'
 author: The Thirsty Pig
 source: thethirstypig.com

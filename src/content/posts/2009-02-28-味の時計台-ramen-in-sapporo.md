@@ -1,5 +1,5 @@
 ---
-title: 味の時計台 – ramen in Sapporo
+title: '味の時計台 – ramen in Sapporo, Tokyo'
 pubDate: '2009-02-28'
 author: The Thirsty Pig
 source: thethirstypig.com

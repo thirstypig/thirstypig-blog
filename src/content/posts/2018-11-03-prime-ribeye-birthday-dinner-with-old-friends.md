@@ -43,7 +43,7 @@ location: Prime Ribeye birthday dinner with old friends
 
 ![Prime Ribeye birthday dinner with old friends](/images/posts/ig-2018-11-03-prime-ribeye-birthday-dinner-with-old-friends/17921609299228895.jpg)
 
-Prime Ribeye birthday dinner with old friends.  Bone marrow, beef tartare, and crab fried rice.
+Prime Ribeye birthday dinner with old friends. Bone marrow, beef tartare, and crab fried rice.
 .
 .
 . @yujiogasa @judy_powerprincess @yalin_wu @sochon881 @thesammylo @uscott @chaoswrld @paulitas_world #food #bonemarrow @frank_usc_chu @the.real.mike.gin

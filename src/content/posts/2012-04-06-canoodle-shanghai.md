@@ -16,7 +16,7 @@ draft: false
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| Canoodle浓劲  [Shanghai, Rm. 107, No. 6, Lane 3717 Hongmei Lu, near Yan’an Xi Lu  虹梅路3717弄6号107室, 近延安西路](http://maps.google.com/maps?q=%E8%99%B9%E6%A2%85%E8%B7%AF3717%E5%BC%846%E5%8F%B7107%E5%AE%A4+shanghai&hl=en&ie=UTF8&client=safari&oe=UTF-8&hnear=3717%E5%8F%B7+Hong+Mei+Lu,+Chang+Ning+Qu,+Shanghai,+China&t=m&z=16)  +86 21 6406-2100  10am-10pm | 1 Pigs  Price Range 1 $/¥/NT |
+| Canoodle浓劲 [Shanghai, Rm. 107, No. 6, Lane 3717 Hongmei Lu, near Yan’an Xi Lu 虹梅路3717弄6号107室, 近延安西路](http://maps.google.com/maps?q=%E8%99%B9%E6%A2%85%E8%B7%AF3717%E5%BC%846%E5%8F%B7107%E5%AE%A4+shanghai&hl=en&ie=UTF8&client=safari&oe=UTF-8&hnear=3717%E5%8F%B7+Hong+Mei+Lu,+Chang+Ning+Qu,+Shanghai,+China&t=m&z=16) +86 21 6406-2100 10am-10pm | 1 Pigs Price Range 1 $/¥/NT |
 
 **What is Canoodle**
 One night I had the craving for Beef Noodle Soup and other Taiwanese dishes. But what sucked was . . . I wasn’t in Taiwan. I had to find a place in Shanghai. Unfortunately, I don’t know too many Taiwanese restaurants in Shanghai, only the the chains like [Bellagio](http://www.thethirstypig.com/2011/09/20/bellagio-shanghai/) and Charmant. But I was looking for something more hole-in-the-wallish. I found Canoodle, which is located near the Gubei area of Shanghai.

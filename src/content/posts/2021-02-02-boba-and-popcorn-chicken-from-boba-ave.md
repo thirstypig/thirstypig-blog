@@ -1,5 +1,5 @@
 ---
-title: Boba and popcorn chicken from Boba Ave
+title: 'Boba and popcorn chicken from Boba Ave, Arcadia'
 pubDate: '2021-02-02'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ coordinates:
 
 ![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17872221143216063.jpg)
 
-Boba and popcorn chicken from Boba Ave.  Nice little restaurant that has driv thru for boba drinks and Taiwanese popcorn chicken. 
+Boba and popcorn chicken from Boba Ave. Nice little restaurant that has driv thru for boba drinks and Taiwanese popcorn chicken. 
 .
 .
 .

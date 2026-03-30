@@ -1,5 +1,5 @@
 ---
-title: Bigmista’s Barbecue
+title: 'Bigmista’s Barbecue, Los Angeles'
 pubDate: '2011-03-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -27,4 +27,4 @@ coordinates:
   lng: -118.26007
 ---
 
-I had heard of Bigmista and his wonderful Barbecue from twitter feeds, blogger pundits, and the LA rags. Yet, I could never find a way or excuse to one of his farmer market appearances. So, this last trip to Los Angeles, [Sinosoul](http://www.Sinosoul.com) and I decided on making a trek to the holy BBQ church of Bigmista.
+I had heard of Bigmista and his wonderful Barbecue from twitter feeds, blogger pundits, and the LA rags. Yet, I could never find a way or excuse to one of his farmer market appearances. So, this last trip to Los Angeles, [Sinosoul](http://www. Sinosoul.com) and I decided on making a trek to the holy BBQ church of Bigmista.

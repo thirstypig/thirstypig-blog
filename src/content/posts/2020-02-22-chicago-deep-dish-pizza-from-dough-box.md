@@ -39,7 +39,7 @@ coordinates:
 
 ![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/17855034280803006.jpg)
 
-Chicago Deep Dish pizza from Dough Box.  Had the York - pepperoni and sausage.  The crust was really good and held up.  The tomato sauce seemed to be a bit watery.  Too bad parking sucked and they don’t have a dining room.  I would order again
+Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. The crust was really good and held up. The tomato sauce seemed to be a bit watery. Too bad parking sucked and they don’t have a dining room. I would order again
 .
 .
 .

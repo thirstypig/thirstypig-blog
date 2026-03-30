@@ -1,5 +1,6 @@
 ---
 title: Wan Chun Taiwanese Food, SGV (Closed)
+description: 'Wan Chun Taiwanese Food, SGV (Closed) at Wan Chun Taiwanese Food in Sgv.'
 pubDate: '2009-09-18'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -18,4 +19,4 @@ city: Sgv
 region: San Gabriel Valley
 ---
 
-
+Wan Chun Taiwanese Food in Sgv.

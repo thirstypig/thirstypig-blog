@@ -1,5 +1,6 @@
 ---
 title: The Bund, Shanghai
+description: 'The Bund, Shanghai at The Bund (外滩) in Shanghai.'
 pubDate: '2012-04-09'
 author: The Thirsty Pig
 source: thirstypig.com

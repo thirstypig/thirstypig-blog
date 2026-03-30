@@ -1,5 +1,5 @@
 ---
-title: The Arnold Palmer at The Old Spaghetti Factory
+title: 'The Arnold Palmer at The Old Spaghetti Factory, Hollywood'
 pubDate: '2022-03-23'
 author: The Thirsty Pig
 source: instagram
@@ -52,7 +52,7 @@ coordinates:
 
 ![The Arnold Palmer at The Old Spaghetti Factory](/images/posts/ig-2022-03-23-the-arnold-palmer-at-the-old-spaghetti-factory/17925004718224733.jpg)
 
-The Arnold Palmer at The Old Spaghetti Factory.  Remember the Hollywood location back in the day?  Now the closet one is in Duarte.  This Italian American  is a friend’s favorite.  I didn’t realize how popular it was, even on a weekday late lunch time. 
+The Arnold Palmer at The Old Spaghetti Factory. Remember the Hollywood location back in the day? Now the closet one is in Duarte. This Italian American is a friend’s favorite. I didn’t realize how popular it was, even on a weekday late lunch time. 
 .
 .
 .

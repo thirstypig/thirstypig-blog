@@ -1,5 +1,5 @@
 ---
-title: Scallion oil noodles
+title: 'Scallion oil noodles, Shanghai'
 pubDate: '2024-04-13'
 author: The Thirsty Pig
 source: instagram
@@ -41,7 +41,7 @@ coordinates:
 
 ![Scallion oil noodles](/images/posts/ig-2024-04-13-scallion-oil-noodles/18010164455359896.jpg)
 
-Scallion oil noodles. 蔥油拌麵A Shanghainese dish.  One of first things I had back in Shanghai.  Haven’t been back here in years. 
+Scallion oil noodles. 蔥油拌麵A Shanghainese dish. One of first things I had back in Shanghai. Haven’t been back here in years. 
 .
 .
 . @thirstypig @tastemakersapp #tastemakersapp @ilovebreakfastburritos #puxi #friedegg #egg #jiashanlu

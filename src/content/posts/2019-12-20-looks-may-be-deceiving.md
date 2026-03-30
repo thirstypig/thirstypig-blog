@@ -1,5 +1,5 @@
 ---
-title: Looks may be deceiving
+title: 'Looks may be deceiving, Arcadia'
 pubDate: '2019-12-20'
 author: The Thirsty Pig
 source: instagram
@@ -36,7 +36,7 @@ coordinates:
 
 ![Looks may be deceiving](/images/posts/ig-2019-12-20-looks-may-be-deceiving/18009591262264313.jpg)
 
-Looks may be deceiving.  Had a really bad meal at May’s Chinese Restaurant in Arcadia.  Food was a big NG - No Good.  I should have known.  The ownership has changed so many times, the menu feature Taiwanese and Japanese dishes - who does that?, and the place was half empty.  Ugh. I had the curry pork cutlet over an omelette rice.  The curry tasted grainy and lacked flavor.  The soup was also terrible.  Please do not go.  Please. .
+Looks may be deceiving. Had a really bad meal at May’s Chinese Restaurant in Arcadia. Food was a big NG - No Good. I should have known. The ownership has changed so many times, the menu feature Taiwanese and Japanese dishes - who does that?, and the place was half empty. Ugh. I had the curry pork cutlet over an omelette rice. The curry tasted grainy and lacked flavor. The soup was also terrible. Please do not go. Please. .
 .
 .
 .

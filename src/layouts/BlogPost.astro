@@ -3,10 +3,29 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import { slugify } from '../utils';
 import FormattedDate from '../components/FormattedDate.astro';
+import LocationCard from '../components/LocationCard.astro';
+import ImageGallery from '../components/ImageGallery.astro';
+import AdSlot from '../components/AdSlot.astro';
 
 type Props = CollectionEntry<'posts'>['data'];
 
-const { title, description, pubDate, heroImage, categories = [], tags = [], author, source, originalUrl } = Astro.props;
+const {
+	title,
+	description,
+	pubDate,
+	heroImage,
+	images = [],
+	categories = [],
+	tags = [],
+	author,
+	source,
+	originalUrl,
+	location,
+	city,
+	region,
+	address,
+	coordinates,
+} = Astro.props;
 ---
 
 <BaseLayout
@@ -16,10 +35,15 @@ const { title, description, pubDate, heroImage, categories = [], tags = [], auth
 	type="article"
 	publishDate={pubDate}
 	categories={categories}
+	location={location}
+	address={address}
+	coordinates={coordinates}
+	city={city}
+	region={region}
 >
 	<article class="max-w-3xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
 		<!-- Header -->
-		<header class="mb-8">
+		<header class="mb-6">
 			{categories.length > 0 && (
 				<div class="flex flex-wrap gap-2 mb-4">
 					{categories.map(cat => (
@@ -42,14 +66,27 @@ const { title, description, pubDate, heroImage, categories = [], tags = [], auth
 			</div>
 		</header>
 
-		<!-- Hero Image -->
+		<!-- Location Card -->
+		<LocationCard
+			location={location}
+			city={city}
+			region={region}
+			address={address}
+			coordinates={coordinates}
+		/>
+
+		<!-- Ad: between location card and hero -->
+		<AdSlot format="horizontal" />
+
+		<!-- Hero Image (constrained height) -->
 		{heroImage && (
-			<div class="mb-8 -mx-4 sm:mx-0">
+			<div class="hero-container mb-6 -mx-4 sm:mx-0">
 				<img
 					src={heroImage}
 					alt={title}
-					class="w-full rounded-none sm:rounded-xl shadow-lg"
+					class="w-full rounded-none sm:rounded-xl shadow-lg hero-image"
 					loading="eager"
+					fetchpriority="high"
 				/>
 			</div>
 		)}
@@ -58,6 +95,12 @@ const { title, description, pubDate, heroImage, categories = [], tags = [], auth
 		<div class="prose max-w-none">
 			<slot />
 		</div>
+
+		<!-- Ad: after post content -->
+		<AdSlot format="article" />
+
+		<!-- Image Gallery (additional images beyond hero) -->
+		<ImageGallery images={images} heroImage={heroImage} title={title} />
 
 		<!-- Tags -->
 		{tags.length > 0 && (
@@ -90,3 +133,18 @@ const { title, description, pubDate, heroImage, categories = [], tags = [], auth
 		});
 	</script>
 </BaseLayout>
+
+<style>
+	.hero-container {
+		max-height: 400px;
+		overflow: hidden;
+		aspect-ratio: 16 / 9;
+	}
+
+	.hero-image {
+		width: 100%;
+		height: 100%;
+		max-height: 400px;
+		object-fit: cover;
+	}
+</style>

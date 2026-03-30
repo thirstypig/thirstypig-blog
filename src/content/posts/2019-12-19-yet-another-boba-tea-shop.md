@@ -1,5 +1,5 @@
 ---
-title: Yet another Boba Tea Shop
+title: 'Yet another Boba Tea Shop, San Gabriel'
 pubDate: '2019-12-19'
 author: The Thirsty Pig
 source: instagram
@@ -28,7 +28,7 @@ coordinates:
 
 ![Yet another Boba Tea Shop](/images/posts/ig-2019-12-19-yet-another-boba-tea-shop/18069255577172121.jpg)
 
-Yet another Boba Tea Shop.  We were actually looking for boba ice cream bars - but they were sold out and had a one week wait for new orders.  Crazy!!
+Yet another Boba Tea Shop. We were actually looking for boba ice cream bars - but they were sold out and had a one week wait for new orders. Crazy!!
 .
 .
 .

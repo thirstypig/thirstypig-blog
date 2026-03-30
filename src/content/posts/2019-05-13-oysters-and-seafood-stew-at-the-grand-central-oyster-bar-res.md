@@ -1,5 +1,5 @@
 ---
-title: Oysters and Seafood Stew at the Grand Central Oyster Bar & Restaurant
+title: 'Oysters and Seafood Stew at the Grand Central Oyster Bar...'
 pubDate: '2019-05-13'
 author: The Thirsty Pig
 source: instagram

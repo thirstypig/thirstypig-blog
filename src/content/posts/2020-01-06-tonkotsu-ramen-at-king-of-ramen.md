@@ -1,5 +1,5 @@
 ---
-title: Tonkotsu ramen at King of Ramen
+title: 'Tonkotsu ramen at King of Ramen, Pasadena'
 pubDate: '2020-01-06'
 author: The Thirsty Pig
 source: instagram
@@ -37,7 +37,7 @@ coordinates:
 
 ![Tonkotsu ramen at King of Ramen](/images/posts/ig-2020-01-06-tonkotsu-ramen-at-king-of-ramen/18121279786055874.jpg)
 
-Tonkotsu ramen at King of Ramen.  Pork and soft boiled egg was really good.  One of the better ramen joints in SGV and Pasadena. But the chicken karage was not so good. .
+Tonkotsu ramen at King of Ramen. Pork and soft boiled egg was really good. One of the better ramen joints in SGV and Pasadena. But the chicken karage was not so good. .
 .
 .
 .

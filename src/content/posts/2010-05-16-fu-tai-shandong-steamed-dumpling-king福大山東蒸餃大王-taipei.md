@@ -23,7 +23,7 @@ coordinates:
 ---
 
 
-Hot and Sour soup is about personal preference, as is food. We, each, like to believe that we maintain some sort of high respectable palette when it comes to food.Yet, society, friends, or other food bloggers, will come to some sort of a consensus about a standard of quality that is commonly accepted.
+Hot and Sour soup is about personal preference, as is food. We, each, like to believe that we maintain some sort of high respectable palette when it comes to food. Yet, society, friends, or other food bloggers, will come to some sort of a consensus about a standard of quality that is commonly accepted.
 
 This brings use to Fu Tai. (Almost) Universally accepted to have the best hot and sour soup around. Whilst, with the name inclusive of their steam dumplings, they are arguably more known for this soup. My friend would have two, sometimes, three bowls of their soup, in one sitting. Then would go on to bring four more orders home to have later. Friends would would be calling in, to have them bring more orders back.
 

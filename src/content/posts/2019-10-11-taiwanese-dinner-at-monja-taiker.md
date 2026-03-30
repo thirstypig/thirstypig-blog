@@ -1,5 +1,5 @@
 ---
-title: Taiwanese dinner at Monja Taiker
+title: 'Taiwanese dinner at Monja Taiker, Rosemead'
 pubDate: '2019-10-11'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Taiwanese dinner at Monja Taiker](/images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/17879749138446968.jpg)
 
-Taiwanese dinner at Monja Taiker.  The shaved ice with soft boiled peanuts and condensed milk is my favorite combination.  We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage on rice, and spicy wontons.  Unfortunately the rice was too sticky (too much water). Other than that, we liked everything.  I think we would return. .
+Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage on rice, and spicy wontons. Unfortunately the rice was too sticky (too much water). Other than that, we liked everything. I think we would return. .
 .
 .
 .

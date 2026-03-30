@@ -51,7 +51,7 @@ region: Texas
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-07-01-fixer-uppers-magnolia-market-in-waco/17995147264486935.mp4" type="video/mp4"></video>
 
-Fixer Upper’s Magnolia Market in Waco.  This is now Waco’s most famous thing to do and see.  Other than Baylor university and that other thing with the FBI, a long time ago.  Anyways . . . The famous HDTV show with the Gaines, this place is a huge Mecca for home stuff.  They have cafes, a bakery, food trucks, stores, and a really tasty Alabama sweet tea.  I recommend checking this place out. Only an hour away from Austin.
+Fixer Upper’s Magnolia Market in Waco. This is now Waco’s most famous thing to do and see. Other than Baylor university and that other thing with the FBI, a long time ago. Anyways . . . The famous HDTV show with the Gaines, this place is a huge Mecca for home stuff. They have cafes, a bakery, food trucks, stores, and a really tasty Alabama sweet tea. I recommend checking this place out. Only an hour away from Austin.
 .
 .
 .

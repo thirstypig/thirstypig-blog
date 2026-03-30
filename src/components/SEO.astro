@@ -8,6 +8,11 @@ interface Props {
 	type?: 'website' | 'article';
 	publishDate?: Date;
 	categories?: string[];
+	location?: string;
+	address?: string;
+	coordinates?: { lat: number; lng: number };
+	city?: string;
+	region?: string;
 }
 
 const {
@@ -17,11 +22,36 @@ const {
 	type = 'website',
 	publishDate,
 	categories = [],
+	location,
+	address,
+	coordinates,
+	city,
+	region,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || SITE_URL);
 const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 const ogImage = image ? new URL(image, Astro.site || SITE_URL).toString() : undefined;
+
+// Build Restaurant JSON-LD when we have venue data
+const hasRestaurant = location && (address || coordinates);
+const restaurantLD = hasRestaurant ? {
+	'@context': 'https://schema.org',
+	'@type': 'Restaurant',
+	name: location,
+	...(address && { address: {
+		'@type': 'PostalAddress',
+		streetAddress: address,
+		...(city && { addressLocality: city }),
+		...(region && { addressRegion: region }),
+	}}),
+	...(coordinates && { geo: {
+		'@type': 'GeoCoordinates',
+		latitude: coordinates.lat,
+		longitude: coordinates.lng,
+	}}),
+	...(ogImage && { image: ogImage }),
+} : null;
 ---
 
 <!-- Primary Meta Tags -->
@@ -49,7 +79,7 @@ const ogImage = image ? new URL(image, Astro.site || SITE_URL).toString() : unde
 {publishDate && <meta property="article:published_time" content={publishDate.toISOString()} />}
 {categories.map(cat => <meta property="article:tag" content={cat} />)}
 
-<!-- JSON-LD Structured Data -->
+<!-- JSON-LD Article Structured Data -->
 {type === 'article' && publishDate && (
 	<script type="application/ld+json" set:html={JSON.stringify({
 		'@context': 'https://schema.org',
@@ -71,4 +101,9 @@ const ogImage = image ? new URL(image, Astro.site || SITE_URL).toString() : unde
 			'@id': canonicalURL.toString(),
 		},
 	})} />
+)}
+
+<!-- JSON-LD Restaurant Structured Data -->
+{restaurantLD && (
+	<script type="application/ld+json" set:html={JSON.stringify(restaurantLD)} />
 )}

@@ -1,5 +1,5 @@
 ---
-title: Awesome brunch spot at the ROW DTLA
+title: 'Awesome brunch spot at the ROW DTLA, Downtown LA'
 pubDate: '2018-12-22'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Awesome brunch spot at the ROW DTLA](/images/posts/ig-2018-12-22-awesome-brunch-spot-at-the-row-dtla/18013888147036839.jpg)
 
-Awesome brunch spot at the ROW DTLA.  Rappahannock Oyster Bar - with lobster Benedict, shrimp and grits, and brioche French toast and yummy kimchi biscuits! .
+Awesome brunch spot at the ROW DTLA. Rappahannock Oyster Bar - with lobster Benedict, shrimp and grits, and brioche French toast and yummy kimchi biscuits! .
 .
 .
 #eeeeeats #dtla @rowdtla @rappbardtla @bckc38 @yalin_wu @jcllee @tomatocheng

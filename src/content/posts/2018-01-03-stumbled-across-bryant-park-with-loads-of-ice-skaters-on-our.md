@@ -1,5 +1,5 @@
 ---
-title: Stumbled across Bryant Park, with loads of ice skaters, on our way home to Br...
+title: 'Stumbled across Bryant Park, with loads of ice skaters,...'
 pubDate: '2018-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -36,4 +36,4 @@ region: New York
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-01-03-stumbled-across-bryant-park-with-loads-of-ice-skaters-on-our/17916364372014425.mp4" type="video/mp4"></video>
 
-Stumbled across Bryant Park, with loads of ice skaters, on our way home to Brooklyn.  Thought about getting some skates to show off some old skills, but decided to rest my feet.  Saw the Empire State Building.  Also saw a frozen water fountain. @yalin_wu
+Stumbled across Bryant Park, with loads of ice skaters, on our way home to Brooklyn. Thought about getting some skates to show off some old skills, but decided to rest my feet. Saw the Empire State Building. Also saw a frozen water fountain. @yalin_wu

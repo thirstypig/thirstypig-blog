@@ -1,5 +1,6 @@
 ---
 title: Caliburger, Shanghai (Closed)
+description: 'Caliburger, Shanghai (Closed) at 卡利堡 CaliBurger in Shanghai.'
 pubDate: '2012-02-17'
 author: The Thirsty Pig
 source: thirstypig.com

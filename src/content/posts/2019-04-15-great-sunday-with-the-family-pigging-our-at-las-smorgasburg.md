@@ -1,5 +1,5 @@
 ---
-title: Great Sunday with the family pigging our at LA’s Smorgasburg
+title: 'Smorgasburg Los Angeles, Los Angeles'
 pubDate: '2019-04-15'
 author: The Thirsty Pig
 source: instagram
@@ -54,6 +54,6 @@ coordinates:
 
 ![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17872064959351017.jpg)
 
-Great Sunday with the family pigging our at LA’s Smorgasburg.  We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from Avocado Mama, Fries from Super Frites, oysters from the Jolly Oyster, Spam Musubi from Mam Musubi.  And also saw Brazilian brigadiero from Maya’s Yum! 📸: @nerdspeed
+Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from Avocado Mama, Fries from Super Frites, oysters from the Jolly Oyster, Spam Musubi from Mam Musubi. And also saw Brazilian brigadiero from Maya’s Yum! 📸: @nerdspeed
 .
 @smorgasburgla @mamamusubi @mooscraftbarbecue @jollyoyster @superfritesla @madameshugah @susarepas @avocadamama @mayasbrigadeiro @fwidjaya @tran_nic @peterchang08 @nerdspeed #tobin #jarren missing @yalin_wu

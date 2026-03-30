@@ -1,5 +1,5 @@
 ---
-title: Cubans sandwich with a refugiado and concha
+title: 'Cubans sandwich with a refugiado and concha, Burbank'
 pubDate: '2020-06-29'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ coordinates:
 
 ![Cubans sandwich with a refugiado and concha](/images/posts/ig-2020-06-29-cubans-sandwich-with-a-refugiado-and-concha/18015503581304103.jpg)
 
-Cubans sandwich with a refugiado and concha.  Was a good sandwich. Been craving a Cubano for a long time. 
+Cubans sandwich with a refugiado and concha. Was a good sandwich. Been craving a Cubano for a long time. 
 .
 .
 .

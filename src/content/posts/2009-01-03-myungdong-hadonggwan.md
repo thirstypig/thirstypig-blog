@@ -20,3 +20,5 @@ coordinates:
   lat: 37.56156
   lng: 126.985888
 ---
+
+9 Nine Tree Hotel Myeong-dong (나인트리호텔) in Seoul.

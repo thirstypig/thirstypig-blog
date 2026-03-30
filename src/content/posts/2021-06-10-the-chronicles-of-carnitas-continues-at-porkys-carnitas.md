@@ -1,5 +1,5 @@
 ---
-title: The Chronicles of Carnitas continues at Porky’s Carnitas
+title: "Porky's Carnitas, East LA"
 pubDate: '2021-06-10'
 author: The Thirsty Pig
 source: instagram
@@ -36,7 +36,7 @@ coordinates:
 
 ![The Chronicles of Carnitas continues at Porky’s Carnitas](/images/posts/ig-2021-06-10-the-chronicles-of-carnitas-continues-at-porkys-carnitas/17946715306485542.jpg)
 
-The Chronicles of Carnitas continues at Porky’s Carnitas.  Had to try a place with such a eponymous name.  Though not a fan of offal and unfried pork skin - the mixto taco with everything was really good.  The texture and moistness was there. While the regular shredded caritas was on the dry side.  This revelation has caused me to rethink mixto tacos.
+The Chronicles of Carnitas continues at Porky’s Carnitas. Had to try a place with such a eponymous name. Though not a fan of offal and unfried pork skin - the mixto taco with everything was really good. The texture and moistness was there. While the regular shredded caritas was on the dry side. This revelation has caused me to rethink mixto tacos.
 .
 .
 .

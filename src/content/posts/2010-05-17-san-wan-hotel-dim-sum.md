@@ -34,3 +34,5 @@ coordinates:
   lat: 25.050956
   lng: 121.531528
 ---
+
+台北馥華商旅(松江館) Forward Hotel Taipei in Taipei.

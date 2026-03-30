@@ -15,3 +15,5 @@ archiveUrl: https://web.archive.org/web/20110105002533/http://www.thethirstypig.
 draft: false
 location: Sweet Potato Fries of The Golden State
 ---
+
+Sweet Potato Fries of The Golden State.

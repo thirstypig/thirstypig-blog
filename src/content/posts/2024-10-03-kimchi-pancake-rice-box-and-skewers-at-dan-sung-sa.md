@@ -1,5 +1,5 @@
 ---
-title: Kimchi pancake, rice box, and skewers at Dan Sung Sa
+title: 'Walt Disney Concert Hall Box Office, Koreatown'
 pubDate: '2024-10-03'
 author: The Thirsty Pig
 source: instagram
@@ -55,7 +55,7 @@ coordinates:
 
 ![Kimchi pancake, rice box, and skewers at Dan Sung Sa](/images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/17931063197937514.jpg)
 
-Kimchi pancake, rice box, and skewers at Dan Sung Sa.  And lots of Makgeolli.  I like the Korean Pocha’s, since they’re a hole in the wall drinking joint.  Cramped tables, dented drinking bowls, and long waits - give this place charm.  Always an enjoyable night, maybe not memorable.  Yet we always return.
+Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long waits - give this place charm. Always an enjoyable night, maybe not memorable. Yet we always return.
 .
 .
 .

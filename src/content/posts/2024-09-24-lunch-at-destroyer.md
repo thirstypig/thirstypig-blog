@@ -1,5 +1,5 @@
 ---
-title: Lunch at Destroyer
+title: 'Lunch at Destroyer, Culver City'
 pubDate: '2024-09-24'
 author: The Thirsty Pig
 source: instagram
@@ -35,7 +35,7 @@ coordinates:
 
 ![Lunch at Destroyer](/images/posts/ig-2024-09-24-lunch-at-destroyer/18068292268612166.jpg)
 
-Lunch at Destroyer.  Interesting name for a restaurant.  Even more interesting and eclectic menu, as well.  Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad.  Tucked away in an industrial part of Culver’s city - Destroyer is very much an LA lunch joint  Would return and try the other choices.  Would also recommend. 
+Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an industrial part of Culver’s city - Destroyer is very much an LA lunch joint Would return and try the other choices. Would also recommend. 
 .
 .
 .

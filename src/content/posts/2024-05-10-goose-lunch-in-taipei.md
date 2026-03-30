@@ -45,7 +45,7 @@ coordinates:
 
 ![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/17908986746952189.jpg)
 
-Goose lunch in Taipei.  Popular lunch spot with a long queue.  Steamed stinky tofu, Taiwanese sausage with mushroom, rice noodles, and of course roast goose.  阿城鵝肉
+Goose lunch in Taipei. Popular lunch spot with a long queue. Steamed stinky tofu, Taiwanese sausage with mushroom, rice noodles, and of course roast goose. 阿城鵝肉
 .
 .
 .

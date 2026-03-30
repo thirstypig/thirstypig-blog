@@ -1,5 +1,5 @@
 ---
-title: Malibu Sport Fishing Pier with the iconic sign
+title: 'Malibu Sport Fishing Pier with the iconic sign, Los Angeles'
 pubDate: '2019-08-23'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
 title: Hot Stuff Cafe, SGV (Closed)
+description: 'Hot Stuff Cafe, SGV (Closed) at Hot Stuff Cafe in Sgv.'
 pubDate: '2009-09-21'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -18,4 +19,4 @@ city: Sgv
 region: San Gabriel Valley
 ---
 
-
+Hot Stuff Cafe in Sgv.

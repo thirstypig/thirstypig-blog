@@ -1,5 +1,5 @@
 ---
-title: Snapshots in passing
+title: 'Snapshots in passing, Los Angeles'
 pubDate: '2019-01-23'
 author: The Thirsty Pig
 source: instagram

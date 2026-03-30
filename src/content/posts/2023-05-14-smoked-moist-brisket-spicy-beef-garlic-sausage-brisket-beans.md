@@ -1,5 +1,5 @@
 ---
-title: Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork b...
+title: 'Smoked moist Brisket, spicy beef garlic sausage, brisket beans,...'
 pubDate: '2023-05-14'
 author: The Thirsty Pig
 source: instagram
@@ -34,7 +34,7 @@ categories:
 
 ![Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork b...](/images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/17853888731963243.jpg)
 
-Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw.  Everything was spot on.  The burnt ends were phenomenal. Only wish it had a little more char. 
+Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw. Everything was spot on. The burnt ends were phenomenal. Only wish it had a little more char. 
 .
 .
 .

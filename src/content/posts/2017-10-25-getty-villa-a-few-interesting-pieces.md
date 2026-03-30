@@ -1,5 +1,5 @@
 ---
-title: Getty Villa - a few interesting pieces
+title: 'Getty Villa - a few interesting pieces, Malibu'
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,5 @@
 ---
-title: Just a couple of sandwiches for dinner at Katz
+title: 'Just a couple of sandwiches for dinner at Katz, New York'
 pubDate: '2019-05-19'
 author: The Thirsty Pig
 source: instagram

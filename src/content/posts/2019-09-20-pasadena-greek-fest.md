@@ -43,7 +43,7 @@ coordinates:
 
 ![Pasadena Greek Fest](/images/posts/ig-2019-09-20-pasadena-greek-fest/17995911175269735.jpg)
 
-Pasadena Greek Fest. Gyros, Souvlakia, Baklava, and chicken souvlaki.  Yum. The Gyros are awesome!!! Going on all weekend 9/20-22
+Pasadena Greek Fest. Gyros, Souvlakia, Baklava, and chicken souvlaki. Yum. The Gyros are awesome!!! Going on all weekend 9/20-22
 .
 .
 .

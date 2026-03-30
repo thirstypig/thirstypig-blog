@@ -44,3 +44,5 @@ archiveUrl: https://web.archive.org/web/20111103150109/http://www.thethirstypig.
 draft: false
 location: Kimlan金蘭醬油
 ---
+
+Kimlan金蘭醬油.

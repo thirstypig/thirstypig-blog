@@ -31,7 +31,7 @@ categories:
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17976568357542471.mp4" type="video/mp4"></video>
 
-First Walmart, now is the Walmart Museum.  Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton
+First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton
 .
 .
 .

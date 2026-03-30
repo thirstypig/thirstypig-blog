@@ -1,0 +1,95 @@
+---
+interface Props {
+	location?: string;
+	city?: string;
+	region?: string;
+	address?: string;
+	coordinates?: { lat: number; lng: number };
+}
+
+const { location, city, region, address, coordinates } = Astro.props;
+
+const hasLocation = location || city;
+if (!hasLocation) return;
+
+const cityRegion = [city, region].filter(Boolean).join(', ');
+const mapUrl = coordinates
+	? `/map#lat=${coordinates.lat}&lng=${coordinates.lng}&zoom=15`
+	: city
+		? `/map`
+		: null;
+const googleMapsUrl = coordinates
+	? `https://www.google.com/maps/search/?api=1&query=${coordinates.lat},${coordinates.lng}`
+	: address
+		? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
+		: null;
+---
+
+<div class="location-card">
+	<div class="flex items-start gap-3">
+		<span class="location-icon" aria-hidden="true">📍</span>
+		<div class="flex-1 min-w-0">
+			{location && (
+				<p class="font-serif font-semibold text-ink text-base leading-snug">{location}</p>
+			)}
+			{cityRegion && (
+				<p class="text-stone text-sm mt-0.5">{cityRegion}</p>
+			)}
+			{address && (
+				<p class="text-stone-light text-xs mt-1 truncate">{address}</p>
+			)}
+			<div class="flex items-center gap-3 mt-2">
+				{mapUrl && (
+					<a href={mapUrl} class="location-link text-xs">
+						<svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+							<path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
+							<circle cx="12" cy="10" r="3" />
+						</svg>
+						View on map
+					</a>
+				)}
+				{googleMapsUrl && (
+					<a href={googleMapsUrl} target="_blank" rel="noopener noreferrer" class="location-link text-xs">
+						<svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+							<path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+							<polyline points="15 3 21 3 21 9" />
+							<line x1="10" y1="14" x2="21" y2="3" />
+						</svg>
+						Directions
+					</a>
+				)}
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+	.location-card {
+		background: var(--color-cream-dark);
+		border: 1px solid color-mix(in srgb, var(--color-cream-dark) 80%, var(--color-stone-light));
+		border-radius: 12px;
+		padding: 0.875rem 1rem;
+		margin-bottom: 1.5rem;
+	}
+
+	.location-icon {
+		font-size: 1.25rem;
+		line-height: 1;
+		flex-shrink: 0;
+		margin-top: 2px;
+	}
+
+	.location-link {
+		display: inline-flex;
+		align-items: center;
+		gap: 4px;
+		color: var(--color-amber);
+		font-weight: 500;
+		text-decoration: none;
+		transition: color 0.2s ease;
+	}
+
+	.location-link:hover {
+		color: var(--color-rust);
+	}
+</style>

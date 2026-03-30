@@ -1,5 +1,5 @@
 ---
-title: Iconic photo of the Manhattan Bridge from DUMBO Brooklyn
+title: 'Brooklyn Bagel & Coffee Company, New York'
 pubDate: '2018-01-06'
 author: The Thirsty Pig
 source: instagram

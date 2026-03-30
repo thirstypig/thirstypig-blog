@@ -39,7 +39,7 @@ region: San Gabriel Valley
 
 ![Indian Beer House](/images/posts/ig-2018-10-21-indian-beer-house/17977104196108214.jpg)
 
-Indian Beer House!  It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme.  Been going to this place for years.  Basically Taiwanese comfort food.  Got the favorites - three cup chicken, grilled sausage, cabbage with pork belly, popcorn chicken, egg, and soup.  Yum.  I think I’ve had this combination almost every time.  Also I like this place since we can watch the dodgers and lakers. .
+Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - three cup chicken, grilled sausage, cabbage with pork belly, popcorn chicken, egg, and soup. Yum. I think I’ve had this combination almost every time. Also I like this place since we can watch the dodgers and lakers. .
 .
 .
 .

@@ -45,7 +45,7 @@ coordinates:
 
 ![Shanghainese food in the SGV](/images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/17883815156541972.jpg)
 
-Shanghainese food in the SGV.  Pan fried dumplings 生煎包 were great!  After living in Shanghai for six years, you miss some of the these things.
+Shanghainese food in the SGV. Pan fried dumplings 生煎包 were great! After living in Shanghai for six years, you miss some of the these things.
 .
 .
 .

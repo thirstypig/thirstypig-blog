@@ -26,7 +26,7 @@ draft: false
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| 君悅排骨 Jun Yue Pork Chop  台北市信義區忠孝路五段135號  +886 2 87870918、+886 2 27519783  台北市大安區敦化南路一段188號2樓  No. 188, 2/f Dun Hwa North Road, Section 1  +886 2 8773-0935 | 2 Pigs  Price Range 1 $/¥/NT |
+| 君悅排骨 Jun Yue Pork Chop 台北市信義區忠孝路五段135號 +886 2 87870918、+886 2 27519783 台北市大安區敦化南路一段188號2樓 No. 188, 2/f Dun Hwa North Road, Section 1 +886 2 8773-0935 | 2 Pigs Price Range 1 $/¥/NT |
 
 **What is Jun Yue?**
 Jun Yue is a small local chain of restaurants, specializing in pork chops, based in Taipei. The restaurants are small and have a fast food quality about them, with the chairs and table attached to the floor. I’ve been to three of the branches, all on the east side of Taipei. When I used to live in Taipei, it was a simple goto restaurant to go to with friends. Not a place to impress a date.

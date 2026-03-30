@@ -15,3 +15,5 @@ archiveUrl: https://web.archive.org/web/20110106005730/http://www.thethirstypig.
 draft: false
 location: Tenkaiipin
 ---
+
+Tenkaiipin.

@@ -1,5 +1,5 @@
 ---
-title: Hot Stuff Cafe – that’s right, I am HOT STUFF!
+title: 'Hong Kong Cafe, Monterey Park'
 pubDate: '2009-09-23'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -45,4 +45,4 @@ Our entrees came – the Orange Roughy and my Beef Short ribs. I was hesitate to
 
 The dessert – the “Hot Stuff” Chocolate Cake was good to round out the meal. It was nicely presented. I didn’t expect it to be that good – but it was good.
 
-I wouldn’t say that this place is overrated since I have not been here before, nor is this a place I would strongly consider going back again. Though i am tempted to try the Bacon Wrapped Filet Mignon on their sizzling dish. I feel that Hot Stuff Cafe is a nice place for dinner but not an ideal place for lunch. The selections for lunch are similar to that of dinner.
+I wouldn’t say that this place is overrated since I have not been here before, nor is this a place I would strongly consider going back again. Though I am tempted to try the Bacon Wrapped Filet Mignon on their sizzling dish. I feel that Hot Stuff Cafe is a nice place for dinner but not an ideal place for lunch. The selections for lunch are similar to that of dinner.

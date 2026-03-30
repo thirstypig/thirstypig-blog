@@ -74,6 +74,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		}
 	}
 
+	function esc(s: string): string {
+		const d = document.createElement('div');
+		d.textContent = s;
+		return d.innerHTML;
+	}
+
 	function renderResults(posts: any[]) {
 		const container = document.getElementById('search-results')!;
 		const noResults = document.getElementById('no-results')!;
@@ -83,20 +89,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			const isClosed = post.tags?.some((t: string) => t.toLowerCase() === 'closed') || post.title.toLowerCase().includes('closed');
 			const cats = (post.categories || []).slice(0, 3);
 			const dateStr = new Date(post.date).toLocaleDateString('en-us', { year: 'numeric', month: 'short', day: 'numeric' });
+			const safeTitle = esc(post.title);
+			const safeId = esc(post.id);
+			const safeImage = post.heroImage ? esc(post.heroImage) : '';
 
 			return `
 				<article class="group">
-					<a href="/posts/${post.id}/" class="block no-underline">
+					<a href="/posts/${safeId}/" class="block no-underline">
 						<div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-gradient-to-br from-amber/5 to-rust/5 mb-3">
-							${post.heroImage
-								? `<img src="${post.heroImage}" alt="${post.title}" class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 ${isClosed ? 'grayscale opacity-75' : ''}" loading="lazy" />`
+							${safeImage
+								? `<img src="${safeImage}" alt="${safeTitle}" class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 ${isClosed ? 'grayscale opacity-75' : ''}" loading="lazy" />`
 								: `<div class="w-full h-full flex items-center justify-center"><span class="font-serif text-4xl text-amber/30">TP</span></div>`
 							}
 							${isClosed ? '<div class="absolute top-3 right-3 bg-[#9A3412] text-[#FAF7F2] text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wide shadow-lg">Closed</div>' : ''}
 						</div>
 						<div class="space-y-1.5">
-							${cats.length > 0 ? `<div class="flex flex-wrap gap-1.5">${cats.map((c: string) => `<span class="text-xs font-medium text-[#B45309] bg-[#B45309]/10 px-2 py-0.5 rounded-full">${c}</span>`).join('')}</div>` : ''}
-							<h3 class="font-serif text-lg font-semibold ${isClosed ? 'text-[#78716C]' : 'text-[#1A1A1A]'} group-hover:text-[#B45309] transition-colors leading-snug">${post.title}</h3>
+							${cats.length > 0 ? `<div class="flex flex-wrap gap-1.5">${cats.map((c: string) => `<span class="text-xs font-medium text-[#B45309] bg-[#B45309]/10 px-2 py-0.5 rounded-full">${esc(c)}</span>`).join('')}</div>` : ''}
+							<h3 class="font-serif text-lg font-semibold ${isClosed ? 'text-[#78716C]' : 'text-[#1A1A1A]'} group-hover:text-[#B45309] transition-colors leading-snug">${safeTitle}</h3>
 							<p class="text-sm text-[#78716C]">${dateStr}</p>
 						</div>
 					</a>

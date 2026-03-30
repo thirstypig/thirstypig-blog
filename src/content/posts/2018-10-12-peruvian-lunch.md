@@ -43,7 +43,7 @@ location: Peruvian lunch
 
 ![Peruvian lunch](/images/posts/ig-2018-10-12-peruvian-lunch/17898465883255045.jpg)
 
-Peruvian lunch.  Wish the portions were larger. But after an hour we realized we were quite full from lunch.  Say hello to Rose the yorkie.
+Peruvian lunch. Wish the portions were larger. But after an hour we realized we were quite full from lunch. Say hello to Rose the yorkie.
 .
 .
 .

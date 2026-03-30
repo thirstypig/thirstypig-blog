@@ -1,5 +1,5 @@
 ---
-title: The big Met at Petit Trois
+title: 'The big Met at Petit Trois, Los Angeles'
 pubDate: '2025-04-15'
 author: The Thirsty Pig
 source: instagram
@@ -51,11 +51,11 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2025-04-15-the-big-met-at-petit-trois/18075571351634093.mp4" type="video/mp4"></video>
 
-The big Met at Petit Trois.  This is the famous burger at Petit Trois, a French cuisine restaurant.  Tucked in a mini mall without any prominent signage, Chef Ludo has been one of the top restauranteurs in LA for over two decades.  I first heard of him in the aughts, when he had his red food truck with a picture of a rooster. 
+The big Met at Petit Trois. This is the famous burger at Petit Trois, a French cuisine restaurant. Tucked in a mini mall without any prominent signage, Chef Ludo has been one of the top restauranteurs in LA for over two decades. I first heard of him in the aughts, when he had his red food truck with a picture of a rooster. 
 
-So tonight we started with the Belgian endive salad, chicken liver mousse, and classic French onion soup.  The soup was oozing with cheese while burnt and dripping over. Then had the Big Mec, just because I had to have a burger at a French joint.  The sauce was great addition for the burger and for the fries.  And lastly the steak frites, with Wagyu m, was yummy, too. 
+So tonight we started with the Belgian endive salad, chicken liver mousse, and classic French onion soup. The soup was oozing with cheese while burnt and dripping over. Then had the Big Mec, just because I had to have a burger at a French joint. The sauce was great addition for the burger and for the fries. And lastly the steak frites, with Wagyu m, was yummy, too. 
 
-I would come again to try their omelette.  And I fully recommend. 
+I would come again to try their omelette. And I fully recommend. 
 .
 .
 .

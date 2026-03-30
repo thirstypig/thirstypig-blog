@@ -1,5 +1,5 @@
 ---
-title: Oysters, clam chowder, and seafood soup
+title: 'Oysters, clam chowder, and seafood soup, San Francisco'
 pubDate: '2018-02-12'
 author: The Thirsty Pig
 source: instagram

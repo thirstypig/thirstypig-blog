@@ -42,7 +42,7 @@ coordinates:
 
 ![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/17889085364229629.jpg)
 
-Part 2 at Sushi Gen.  Here’s the salmon, miso cod, beer, octopus cucumber salad, and ankimo. 
+Part 2 at Sushi Gen. Here’s the salmon, miso cod, beer, octopus cucumber salad, and ankimo. 
 .
 .
 .

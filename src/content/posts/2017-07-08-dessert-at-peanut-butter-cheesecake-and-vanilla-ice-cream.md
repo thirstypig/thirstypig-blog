@@ -1,5 +1,5 @@
 ---
-title: Dessert at  peanut butter cheesecake and vanilla ice cream
+title: 'Dessert at peanut butter cheesecake and vanilla ice cream'
 pubDate: '2017-07-08'
 author: The Thirsty Pig
 source: instagram
@@ -22,8 +22,8 @@ city: New Orleans
 region: Louisiana
 ---
 
-![Dessert at  peanut butter cheesecake and vanilla ice cream](/images/posts/ig-2017-07-08-dessert-at-peanut-butter-cheesecake-and-vanilla-ice-cream/17874601372123242.jpg)
+![Dessert at peanut butter cheesecake and vanilla ice cream](/images/posts/ig-2017-07-08-dessert-at-peanut-butter-cheesecake-and-vanilla-ice-cream/17874601372123242.jpg)
 
-![Dessert at  peanut butter cheesecake and vanilla ice cream](/images/posts/ig-2017-07-08-dessert-at-peanut-butter-cheesecake-and-vanilla-ice-cream/17879326360075300.jpg)
+![Dessert at peanut butter cheesecake and vanilla ice cream](/images/posts/ig-2017-07-08-dessert-at-peanut-butter-cheesecake-and-vanilla-ice-cream/17879326360075300.jpg)
 
 Dessert at @palacecafe_nola peanut butter cheesecake and vanilla ice cream

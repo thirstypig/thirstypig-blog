@@ -29,7 +29,7 @@ description: Enjoying the Saints game at the Voodoo lounge. Abita beer, cider, a
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-10-06-enjoying-the-saints-game-at-the-voodoo-lounge/18019331299245667.mp4" type="video/mp4"></video>
 
-Enjoying the Saints game at the Voodoo lounge.  Abita beer, cider, and a bunch of bloody Mary’s. .
+Enjoying the Saints game at the Voodoo lounge. Abita beer, cider, and a bunch of bloody Mary’s. .
 .
 .
 #whodat #saintsgameday #saints #neworleanssaints @blackmagicvoodoolounge #nfl #bloodymary #whodat #whodatnation⚜️ @denise_genovese @thesammylo @abitabeer @goldenstatecider

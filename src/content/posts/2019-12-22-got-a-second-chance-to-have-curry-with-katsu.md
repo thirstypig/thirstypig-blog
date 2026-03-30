@@ -1,5 +1,5 @@
 ---
-title: Got a second chance to have curry with katsu
+title: 'Got a second chance to have curry with katsu, San Gabriel'
 pubDate: '2019-12-22'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Got a second chance to have curry with katsu](/images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/18120413164037343.jpg)
 
-Got a second chance to have curry with katsu.  This time delicatessen by Osawa did not disappoint.  Curry was flavorful and the katsu was ideal.  The seared cod and sukiyaki was also very good as well. We also had the chicken karage, which was gobbled up quite fast.  Yum yum.  Glad this place is not far from home.  Thanks to @tomatocheng for introducing this place to us
+Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. We also had the chicken karage, which was gobbled up quite fast. Yum yum. Glad this place is not far from home. Thanks to @tomatocheng for introducing this place to us
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Great Breakfast Tacos
+title: 'Great Breakfast Tacos, Austin'
 pubDate: '2017-06-24'
 author: The Thirsty Pig
 source: instagram

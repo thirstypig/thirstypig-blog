@@ -1,5 +1,5 @@
 ---
-title: LA Weekly 2nd Annual Gold Standard Food & Wine Event
+title: 'LA Weekly 2nd Annual Gold Standard Food & Wine Event,...'
 pubDate: '2010-02-28'
 author: The Thirsty Pig
 source: blog.thethirstypig.com

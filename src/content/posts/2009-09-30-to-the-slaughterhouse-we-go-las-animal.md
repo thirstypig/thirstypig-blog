@@ -1,5 +1,5 @@
 ---
-title: To the Slaughterhouse We Go! . . . LA’s Animal
+title: 'To the Slaughterhouse We Go! . . . LA’s Animal, Los Angeles'
 pubDate: '2009-09-30'
 author: The Thirsty Pig
 source: thethirstypig.com

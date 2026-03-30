@@ -1,5 +1,5 @@
 ---
-title: Fried chicken at Crack Shack
+title: 'Fried chicken at Crack Shack, Pasadena'
 pubDate: '2019-08-05'
 author: The Thirsty Pig
 source: instagram

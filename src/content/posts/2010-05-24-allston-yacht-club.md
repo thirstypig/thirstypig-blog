@@ -42,7 +42,7 @@ coordinates:
   lng: -118.259074
 ---
 
-SHARETHIS.addEntry({ title: "Allston Yacht Club of Echo Park", url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });
+SHARETHIS.addEntry({ title: 'Allston Yacht Club of Echo Park, Los Feliz', url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });
 
 ---
 

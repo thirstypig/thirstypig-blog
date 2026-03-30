@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Sausage 香腸
+title: 'Taiwanese Sausage 香腸, Taipei'
 pubDate: '2010-07-29'
 author: The Thirsty Pig
 source: thirstypig.com

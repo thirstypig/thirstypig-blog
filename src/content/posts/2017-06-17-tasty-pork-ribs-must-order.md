@@ -1,5 +1,5 @@
 ---
-title: Tasty pork ribs - must order
+title: 'Tasty pork ribs - must order, San Antonio'
 pubDate: '2017-06-17'
 author: The Thirsty Pig
 source: instagram
@@ -45,4 +45,4 @@ region: Texas
 
 ![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17858812369188837.jpg)
 
-Tasty pork ribs - must order.  Beef brisket was also great - nice thick cut with good bark.  Chicarron Mac and cheese - good also.  I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.  @2msmokehouse
+Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib. @2msmokehouse

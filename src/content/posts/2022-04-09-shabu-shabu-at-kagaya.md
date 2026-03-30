@@ -45,7 +45,7 @@ coordinates:
 
 ![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17898048503509610.jpg)
 
-Shabu Shabu at Kagaya.  Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires.  But I understand the new owners are taking over right after. 
+Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right after. 
 .
 .
 .

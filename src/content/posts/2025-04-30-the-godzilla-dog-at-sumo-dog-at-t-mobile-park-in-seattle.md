@@ -39,7 +39,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2025-04-30-the-godzilla-dog-at-sumo-dog-at-t-mobile-park-in-seattle/17981713772688011.mp4" type="video/mp4"></video>
 
-The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle.  Watching the Mariners take on the Angels and savoring a baseball game hot dog.  I’m proudly wearing my Dodger cap and checking out the baseball in Seattle and the ballpark. 
+The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle. Watching the Mariners take on the Angels and savoring a baseball game hot dog. I’m proudly wearing my Dodger cap and checking out the baseball in Seattle and the ballpark. 
 .
 .
 .

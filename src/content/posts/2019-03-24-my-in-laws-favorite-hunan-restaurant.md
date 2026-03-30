@@ -44,4 +44,4 @@ region: San Gabriel Valley
 
 ![My in-laws favorite Hunan restaurant](/images/posts/ig-2019-03-24-my-in-laws-favorite-hunan-restaurant/18019543753132570.jpg)
 
-My in-laws favorite Hunan restaurant.  So spicy!  Pork belly, fish, chicken were good but almost tasted the same with the spicy. @yalin_wu
+My in-laws favorite Hunan restaurant. So spicy! Pork belly, fish, chicken were good but almost tasted the same with the spicy. @yalin_wu

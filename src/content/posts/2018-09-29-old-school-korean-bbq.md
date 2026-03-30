@@ -1,5 +1,5 @@
 ---
-title: Old school Korean BBQ
+title: 'Old school Korean BBQ, Koreatown'
 pubDate: '2018-09-29'
 author: The Thirsty Pig
 source: instagram
@@ -35,7 +35,7 @@ coordinates:
 
 ![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17956923388188806.jpg)
 
-Old school Korean BBQ.  Haven’t been here in ages - over 25 years.  Had the premium rib and the Yu Ki Jang. .
+Old school Korean BBQ. Haven’t been here in ages - over 25 years. Had the premium rib and the Yu Ki Jang. .
 .
 .
 . @thirstypig #beefrib

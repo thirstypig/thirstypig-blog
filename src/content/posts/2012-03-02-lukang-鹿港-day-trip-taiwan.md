@@ -1,5 +1,5 @@
 ---
-title: Lukang 鹿港 Day Trip, Taiwan
+title: 'Lukang 鹿港 Day Trip, Taiwan, Taipei'
 pubDate: '2012-03-02'
 author: The Thirsty Pig
 source: thethirstypig.com

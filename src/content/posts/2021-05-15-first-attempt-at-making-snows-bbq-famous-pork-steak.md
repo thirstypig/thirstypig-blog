@@ -32,7 +32,7 @@ region: Texas
 
 ![First attempt at making Snow’s BBQ famous pork steak](/images/posts/ig-2021-05-15-first-attempt-at-making-snows-bbq-famous-pork-steak/17902859113858410.jpg)
 
-First attempt at making Snow’s BBQ famous pork steak.  It taste really good, but it was way too tender. I was looking for a texture that was had some solid chew or mouth feel.  Not something you could eat without teeth.  My mistake, I believe was wrapping the pork steak in foil for the last hour.  I was worried that it would have been too dry. 
+First attempt at making Snow’s BBQ famous pork steak. It taste really good, but it was way too tender. I was looking for a texture that was had some solid chew or mouth feel. Not something you could eat without teeth. My mistake, I believe was wrapping the pork steak in foil for the last hour. I was worried that it would have been too dry. 
 
 Followed instructions from @texasmonthly also did a the same mop as well. 
 

@@ -27,7 +27,7 @@ location: Crepes on a Tuesday at Universal Citywalk
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/17874071671315192.mp4" type="video/mp4"></video>
 
-Crepes on a Tuesday at Universal Citywalk.  I was in the mood for something savory - so I got a pizza crepe.  An Italian JianBing as I would call it.  意大利建兵.
+Crepes on a Tuesday at Universal Citywalk. I was in the mood for something savory - so I got a pizza crepe. An Italian JianBing as I would call it. 意大利建兵.
 .
 .
 .

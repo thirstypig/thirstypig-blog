@@ -1,5 +1,5 @@
 ---
-title: The Familiarity of Wan Heng Taiwanese Restaurant
+title: 'Newport Seafood Restaurant, San Gabriel'
 pubDate: '2009-10-06'
 author: The Thirsty Pig
 source: thethirstypig.com

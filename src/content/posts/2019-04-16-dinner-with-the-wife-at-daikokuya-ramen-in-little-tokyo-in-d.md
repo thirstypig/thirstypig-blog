@@ -38,6 +38,6 @@ coordinates:
 
 ![Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA](/images/posts/ig-2019-04-16-dinner-with-the-wife-at-daikokuya-ramen-in-little-tokyo-in-d/17842252684427116.jpg)
 
-Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA.  Had the spicy miso ramen, chicken egg onion rice and California Rolls. .
+Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA. Had the spicy miso ramen, chicken egg onion rice and California Rolls. .
 .
 #eeeeeats @daikokuya_ramen @yalin_wu #dodgerswin #spicymisoramen

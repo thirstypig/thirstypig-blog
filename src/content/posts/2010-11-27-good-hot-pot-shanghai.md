@@ -37,7 +37,7 @@ In addition to our hot pot, we had foie gras as part of our meal. The large goos
 
 We finished off the night with this taro root jello pudding. I didn’t think anything of it, still I put it in my mouth. It was actually not too sweet and was creamy – like the foie gras.
 
-Though i am not a fan of hot pot, Good Hot Pot was an fine choice. I think it is a good place to bring out of towners, if they want to experience some Shanghai Glamour.
+Though I am not a fan of hot pot, Good Hot Pot was an fine choice. I think it is a good place to bring out of towners, if they want to experience some Shanghai Glamour.
 
 Links
 [cityweekend](http://www.cityweekend.com.cn/shanghai/listings/dining/hotpot/has/good-hot-pot/)

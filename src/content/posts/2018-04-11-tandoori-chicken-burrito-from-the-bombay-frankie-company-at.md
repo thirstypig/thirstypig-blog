@@ -1,5 +1,5 @@
 ---
-title: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station
+title: 'The Bombay Frankie Company, Los Angeles'
 pubDate: '2018-04-11'
 author: The Thirsty Pig
 source: instagram
@@ -25,4 +25,4 @@ coordinates:
 
 ![Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station](/images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17864804278238700.jpg)
 
-Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station.  Not bad.  Saucey @bombayfrankiela #burrito #tandorichicken
+Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station. Not bad. Saucey @bombayfrankiela #burrito #tandorichicken

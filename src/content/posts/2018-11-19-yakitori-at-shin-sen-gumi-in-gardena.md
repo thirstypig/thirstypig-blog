@@ -53,7 +53,7 @@ coordinates:
 
 ![Yakitori at Shin Sen Gumi in Gardena](/images/posts/ig-2018-11-19-yakitori-at-shin-sen-gumi-in-gardena/18002298946000450.jpg)
 
-Yakitori at Shin Sen Gumi in Gardena.  Haven’t been here in years! .
+Yakitori at Shin Sen Gumi in Gardena. Haven’t been here in years! .
 .
 .
 . @yummiapp @yalin_wu #chicken #japanesefood #southbay

@@ -1,5 +1,5 @@
 ---
-title: Beef Noodle Soup at 一條龍 PP Pop
+title: 'Beef Noodle Soup at 一條龍 PP Pop, San Gabriel'
 pubDate: '2019-11-26'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Beef Noodle Soup at 一條龍 PP Pop](/images/posts/ig-2019-11-26-beef-noodle-soup-at-一條龍-pp-pop/17930704120328619.jpg)
 
-Beef Noodle Soup at 一條龍 PP Pop.  I had the Taiwanese spicy Beef Noodle Soup with pickle vegetables. Quite spicy and tasty.  We also had the tan tan noodles, beef and tendon soup with vermicelli, and fried pork buns 生煎包. Interesting 一條龍 used to be the name of a restaurant on valley Blvd with the English name Dragon Mark, which was a favorite of mine a long time ago.  It appears this place “borrowed” their name. .
+Beef Noodle Soup at 一條龍 PP Pop. I had the Taiwanese spicy Beef Noodle Soup with pickle vegetables. Quite spicy and tasty. We also had the tan tan noodles, beef and tendon soup with vermicelli, and fried pork buns 生煎包. Interesting 一條龍 used to be the name of a restaurant on valley Blvd with the English name Dragon Mark, which was a favorite of mine a long time ago. It appears this place “borrowed” their name. .
 .
 .
 .

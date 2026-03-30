@@ -1,5 +1,5 @@
 ---
-title: Old school Shabu Shabu at the OG
+title: 'Old school Shabu Shabu at the OG, Tokyo'
 pubDate: '2018-01-14'
 author: The Thirsty Pig
 source: instagram

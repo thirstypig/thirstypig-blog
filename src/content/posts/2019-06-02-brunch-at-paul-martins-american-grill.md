@@ -1,5 +1,5 @@
 ---
-title: Brunch at Paul Martin’s American Grill
+title: 'Brunch at Paul Martin’s American Grill, Pasadena'
 pubDate: '2019-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -49,7 +49,7 @@ coordinates:
 
 ![Brunch at Paul Martin’s American Grill](/images/posts/ig-2019-06-02-brunch-at-paul-martins-american-grill/18028516306194371.jpg)
 
-Brunch at Paul Martin’s American Grill.  Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits.  Pretty good. Great location and great space and roomy bar.  Food was ok lah, not memorable. .
+Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Great location and great space and roomy bar. Food was ok lah, not memorable. .
 .
 .
 #pasadena #sgv @yalin_wu @jcllee @tomatocheng @paulmartinsag

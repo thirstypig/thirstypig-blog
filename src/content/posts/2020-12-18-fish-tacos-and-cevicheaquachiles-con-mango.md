@@ -27,7 +27,7 @@ location: Fish tacos and ceviche/aquachiles con mango
 
 ![Fish tacos and ceviche/aquachiles con mango](/images/posts/ig-2020-12-18-fish-tacos-and-cevicheaquachiles-con-mango/18096629548200011.jpg)
 
-Fish tacos and ceviche/aquachiles con mango.  Yummy.  I think the fish was marlin and was grilled.  Different and had interesting texture.  The flavor was really good.  Would recommend this place. @mariscosmazatlecola 
+Fish tacos and ceviche/aquachiles con mango. Yummy. I think the fish was marlin and was grilled. Different and had interesting texture. The flavor was really good. Would recommend this place. @mariscosmazatlecola 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Late meal at Canter’s
+title: 'Late meal at Canter’s, Los Angeles'
 pubDate: '2018-04-14'
 author: The Thirsty Pig
 source: instagram
@@ -38,4 +38,4 @@ coordinates:
 
 ![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17936708737047222.jpg)
 
-Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes.  And some pickles. @cantersdeli
+Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes. And some pickles. @cantersdeli

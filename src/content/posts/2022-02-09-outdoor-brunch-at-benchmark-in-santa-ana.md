@@ -47,7 +47,7 @@ location: Outdoor brunch at Benchmark in Santa Ana
 
 ![Outdoor brunch at Benchmark in Santa Ana](/images/posts/ig-2022-02-09-outdoor-brunch-at-benchmark-in-santa-ana/17924231657132622.jpg)
 
-Outdoor brunch at Benchmark in Santa Ana.  Great outdoor patio, tasty drinks, and yummy brunch.  But I think the outdoor space was the best. Oh and the potatoes brava was really good too.  Great to catch up with old friends.  Would recommend benchmark.  Weekend reservations recommended. 
+Outdoor brunch at Benchmark in Santa Ana. Great outdoor patio, tasty drinks, and yummy brunch. But I think the outdoor space was the best. Oh and the potatoes brava was really good too. Great to catch up with old friends. Would recommend benchmark. Weekend reservations recommended. 
 .
 .
 .

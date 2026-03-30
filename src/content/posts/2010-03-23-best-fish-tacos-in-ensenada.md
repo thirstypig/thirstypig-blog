@@ -27,3 +27,5 @@ location: Best Fish Tacos in Ensenada
 city: Los Feliz
 region: Central LA
 ---
+
+Best Fish Tacos in Ensenada in Los Feliz.

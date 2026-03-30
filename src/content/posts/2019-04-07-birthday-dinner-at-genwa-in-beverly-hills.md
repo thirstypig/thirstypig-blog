@@ -53,4 +53,4 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/17990193205201066.mp4" type="video/mp4"></video>
 
-Birthday Dinner at Genwa in Beverly Hills.  So much food. . @jcllee @yalin_wu
+Birthday Dinner at Genwa in Beverly Hills. So much food. . @jcllee @yalin_wu

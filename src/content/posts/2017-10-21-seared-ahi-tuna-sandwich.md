@@ -1,5 +1,5 @@
 ---
-title: Seared ahi tuna sandwich
+title: 'Seared ahi tuna sandwich, San Gabriel Valley'
 pubDate: '2017-10-21'
 author: The Thirsty Pig
 source: instagram
@@ -38,4 +38,4 @@ region: San Gabriel Valley
 
 ![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17877068569167717.jpg)
 
-Seared ahi tuna sandwich! @sanmarinoseafood I thought this place was a bit pricey. I liked the sandwich. But wish i wish the ahi tuna was a tad thicker. #sgv
+Seared ahi tuna sandwich! @sanmarinoseafood I thought this place was a bit pricey. I liked the sandwich. But wish I wish the ahi tuna was a tad thicker. #sgv

@@ -1,5 +1,5 @@
 ---
-title: NFL Experience in DTLA
+title: 'NFL Experience in DTLA, Downtown LA'
 pubDate: '2022-02-07'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-02-07-nfl-experience-in-dtla/17882398979544143.mp4" type="video/mp4"></video>
 
-NFL Experience in DTLA.  Lots of cool things to do and see.  Interesting.  Great for kids.  But unfortunately there are lots of lines
+NFL Experience in DTLA. Lots of cool things to do and see. Interesting. Great for kids. But unfortunately there are lots of lines
 .
 .
 .

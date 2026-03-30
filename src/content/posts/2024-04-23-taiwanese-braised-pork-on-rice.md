@@ -1,5 +1,5 @@
 ---
-title: Taiwanese braised pork on rice
+title: 'Taiwanese braised pork on rice, Taipei'
 pubDate: '2024-04-23'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/17959996961751029.jpg)
 
-Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯  This a flavorful dish that can be found in almost any street stall.  This place has been around for awhile and usually has a wait. 
+Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯 This a flavorful dish that can be found in almost any street stall. This place has been around for awhile and usually has a wait. 
 .
 .
 . @heykbing @tastemakersapp @ilovebreakfastburritos @tootsiefranklin

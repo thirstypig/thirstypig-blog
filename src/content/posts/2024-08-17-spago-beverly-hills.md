@@ -46,7 +46,7 @@ coordinates:
 
 ![Spago, Beverly Hills](/images/posts/ig-2024-08-17-spago-beverly-hills/18016951874580636.jpg)
 
-Spago, Beverly Hills. Was here for an event.  First to Spago.  Did not disappoint. Sea bass and Beef short rib.  The canapés were also good.  Pizza was also expectedly yummy. Should have take a photo of the pizza and the mushroom soup. 
+Spago, Beverly Hills. Was here for an event. First to Spago. Did not disappoint. Sea bass and Beef short rib. The canapés were also good. Pizza was also expectedly yummy. Should have take a photo of the pizza and the mushroom soup. 
 .
 .
 .

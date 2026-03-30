@@ -1,5 +1,5 @@
 ---
-title: Shows, Podcasts, Twitters, and Sites I Frequent
+title: 'Shows, Podcasts, Twitters, and Sites I Frequent, Santa...'
 pubDate: '2009-08-20'
 author: The Thirsty Pig
 source: thethirstypig.com

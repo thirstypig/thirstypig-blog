@@ -1,5 +1,5 @@
 ---
-title: Freezing at the Brooklyn Bridge
+title: 'Freezing at the Brooklyn Bridge, New York'
 pubDate: '2017-12-30'
 author: The Thirsty Pig
 source: instagram

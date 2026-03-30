@@ -1,5 +1,5 @@
 ---
-title: APL Barbecue
+title: 'APL Barbecue, Pasadena'
 pubDate: '2022-03-30'
 author: The Thirsty Pig
 source: instagram
@@ -53,7 +53,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2022-03-30-apl-barbecue/17935769731923081.mp4" type="video/mp4"></video>
 
-APL Barbecue.  Adam Perry Lang, BBQ Hall of Famer, in my neck of the woods!  APL, a YETI brand ambassador, has a new barbecue joint featuring smoked Beef Ribs!  Though there’s no brisket, I feel beef ribs is the holy grail of smoking.  It’s unfortunate that Moo’s craft and Slab rarely serve beef rib, I’m glad APL has them.  It’s strange that Angelenos haven’t realized how good beef ribs are.  Anyways.  Check out the big beef rib, the pork rib sandwich, cornbread, and the sides. 
+APL Barbecue. Adam Perry Lang, BBQ Hall of Famer, in my neck of the woods! APL, a YETI brand ambassador, has a new barbecue joint featuring smoked Beef Ribs! Though there’s no brisket, I feel beef ribs is the holy grail of smoking. It’s unfortunate that Moo’s craft and Slab rarely serve beef rib, I’m glad APL has them. It’s strange that Angelenos haven’t realized how good beef ribs are. Anyways. Check out the big beef rib, the pork rib sandwich, cornbread, and the sides. 
 .
 .
 .

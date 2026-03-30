@@ -1,5 +1,5 @@
 ---
-title: Astoria Cafe
+title: 'Astoria Cafe, Taipei'
 pubDate: '2010-04-15'
 author: The Thirsty Pig
 source: thethirstypig.com

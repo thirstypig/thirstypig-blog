@@ -1,5 +1,5 @@
 ---
-title: Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯,...
+title: 'Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried...'
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram
@@ -35,4 +35,4 @@ region: San Gabriel Valley
 
 ![Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯,...](/images/posts/ig-2017-10-25-beef-noodle-soup-牛肉麵-minced-pork-noodles-雜醬麵-fried-pork-chop/17904570562026669.jpg)
 
-Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯, Beef ball soup 貢丸湯.  Yummy classic Taiwanese dishes.  The beef noodle soup is ordered by almost everyone.  Enjoyed the hearty beef broth, which is so bad for my gout.  The pork chop has. Nice crisp crunch with a bit of sweetness.  So bad but so good.  I think this is one of the better Taiwanese restaurants in the area. @davidlee_72 @yalin_wu @thirstypig
+Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯, Beef ball soup 貢丸湯. Yummy classic Taiwanese dishes. The beef noodle soup is ordered by almost everyone. Enjoyed the hearty beef broth, which is so bad for my gout. The pork chop has. Nice crisp crunch with a bit of sweetness. So bad but so good. I think this is one of the better Taiwanese restaurants in the area. @davidlee_72 @yalin_wu @thirstypig

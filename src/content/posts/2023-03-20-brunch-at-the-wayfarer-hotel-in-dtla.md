@@ -1,5 +1,5 @@
 ---
-title: Brunch at the Wayfarer Hotel in DTLA
+title: 'Brunch at the Wayfarer Hotel in DTLA, Downtown LA'
 pubDate: '2023-03-20'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![Brunch at the Wayfarer Hotel in DTLA](/images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/18053759479397411.jpg)
 
-Brunch at the Wayfarer Hotel in DTLA.  Nice little rooftop restaurant.  Bloody Mary was tasty and spicy. 
+Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. 
 .
 .
 .

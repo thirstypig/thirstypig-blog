@@ -1,5 +1,5 @@
 ---
-title: Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish ca...
+title: 'Taiwanese breakfast with Rice Burritos 飯糰, egg crepe...'
 pubDate: '2017-11-18'
 author: The Thirsty Pig
 source: instagram
@@ -39,4 +39,4 @@ region: Taipei
 
 ![Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish ca...](/images/posts/ig-2017-11-18-taiwanese-breakfast-with-rice-burritos-飯糰-egg-crepe-roll-蛋餅/17895524344104834.jpg)
 
-Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish cake 蘿蔔糕 and salted soy milk 鹹豆漿. I love the rice burrito, but I like the fried crullers to be more crispy.  The egg crepe was was yummy and salted nice, but unfortunately the crepe was too crispy - I like it to be little softer.  Yes I am picky but I liked these versions when I was in Taipei.  But with 四海 Four Seas - I like it enough to return since it might be one of the better Taiwanese breakfast in SGV. @yalin_wu #soymilk #eggs
+Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish cake 蘿蔔糕 and salted soy milk 鹹豆漿. I love the rice burrito, but I like the fried crullers to be more crispy. The egg crepe was was yummy and salted nice, but unfortunately the crepe was too crispy - I like it to be little softer. Yes I am picky but I liked these versions when I was in Taipei. But with 四海 Four Seas - I like it enough to return since it might be one of the better Taiwanese breakfast in SGV. @yalin_wu #soymilk #eggs

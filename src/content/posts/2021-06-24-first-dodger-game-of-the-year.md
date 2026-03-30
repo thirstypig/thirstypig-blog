@@ -36,7 +36,7 @@ location: First dodger game of the year
 
 <video controls width="100%"><source src="/videos/posts/ig-2021-06-24-first-dodger-game-of-the-year/17888834855251087.mp4" type="video/mp4"></video>
 
-First dodger game of the year!  Go dodgers!!
+First dodger game of the year! Go dodgers!!
 .
 .
 .

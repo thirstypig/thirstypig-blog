@@ -1,5 +1,5 @@
 ---
-title: and decadent Texas tea chess pie
+title: 'and decadent Texas tea chess pie, Austin'
 pubDate: '2017-07-04'
 author: The Thirsty Pig
 source: instagram

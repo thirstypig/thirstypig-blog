@@ -18,6 +18,12 @@ pnpm-debug.log*
 .env.production
 .env.local
 
+# API keys
+tina/fsq-config.json
+
+# Claude Code local config (may contain API keys in allowlists)
+.claude/
+
 # macOS-specific files
 .DS_Store
 

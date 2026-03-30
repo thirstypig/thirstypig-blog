@@ -1,5 +1,5 @@
 ---
-title: Sinadong Toppokki 신당동 떡볶이 with Capsaicin Sauce
+title: 'Sinadong Toppokki 신당동 떡볶이 with Capsaicin Sauce, Seoul'
 pubDate: '2011-01-29'
 author: The Thirsty Pig
 source: thethirstypig.com

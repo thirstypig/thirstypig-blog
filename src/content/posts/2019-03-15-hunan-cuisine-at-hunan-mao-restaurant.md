@@ -1,5 +1,5 @@
 ---
-title: Hunan cuisine at Hunan Mao Restaurant
+title: 'Hunan cuisine at Hunan Mao Restaurant, Los Angeles'
 pubDate: '2019-03-15'
 author: The Thirsty Pig
 source: instagram

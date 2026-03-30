@@ -1,5 +1,5 @@
 ---
-title: Macaroni and Cheese! – S’Mac
+title: 'Macaroni and Cheese! – S’Mac, Los Angeles'
 pubDate: '2009-02-04'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+/* Self-hosted fonts (eliminates render-blocking Google Fonts request) */
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+@import "@fontsource/playfair-display/400.css";
+@import "@fontsource/playfair-display/600.css";
+@import "@fontsource/playfair-display/700.css";
+
 @theme {
 	--color-cream: #FAF7F2;
 	--color-cream-dark: #F0EBE3;
@@ -121,20 +129,20 @@
 	border-left-color: var(--color-amber);
 }
 
+/* ─── @mention links ─────────────────────────── */
+.prose a.mention-link {
+	color: var(--color-amber);
+	font-weight: 500;
+	text-decoration: none;
+	transition: color 0.2s ease;
+}
+
+.prose a.mention-link:hover {
+	color: var(--color-rust);
+	text-decoration: underline;
+}
+
 /* ─── Broken image handling ───────────────────── */
 .prose img.img-broken {
 	display: none;
-}
-
-/* Screen reader only utility */
-.sr-only {
-	position: absolute;
-	width: 1px;
-	height: 1px;
-	padding: 0;
-	margin: -1px;
-	overflow: hidden;
-	clip: rect(0, 0, 0, 0);
-	white-space: nowrap;
-	border-width: 0;
 }

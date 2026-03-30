@@ -44,4 +44,4 @@ Bar Rouge is what it is. And they do it quite well. It isn’t a place that is t
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| Bar Rouge  Bund 18, 7/F, 18 Zhongshan Dong Yi Lu, near Nanjing Dong Lu  中山东一路18号7楼, 近南京东路  +86 21 6339 1199  [bar-rouge-shanghai.com](http://www.bar-rouge-shanghai.com/) | 2 Pigs  Price Range 3 $/¥/NT |
+| Bar Rouge Bund 18, 7/F, 18 Zhongshan Dong Yi Lu, near Nanjing Dong Lu 中山东一路18号7楼, 近南京东路 +86 21 6339 1199 [bar-rouge-shanghai.com](http://www.bar-rouge-shanghai.com/) | 2 Pigs Price Range 3 $/¥/NT |

@@ -1,5 +1,5 @@
 ---
-title: Sichuan Pepper – Huang Fei Hong
+title: 'Sichuan Pepper – Huang Fei Hong, Shanghai'
 pubDate: '2010-12-22'
 author: The Thirsty Pig
 source: thethirstypig.com

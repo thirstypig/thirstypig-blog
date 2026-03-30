@@ -1,5 +1,5 @@
 ---
-title: Shabu Shabu  beef quality was good
+title: 'Shabu Shabu beef quality was good, Pasadena'
 pubDate: '2017-08-24'
 author: The Thirsty Pig
 source: instagram
@@ -29,14 +29,14 @@ coordinates:
   lng: -118.129694
 ---
 
-![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17879788756094754.jpg)
+![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17879788756094754.jpg)
 
-![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17895706570049751.jpg)
+![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17895706570049751.jpg)
 
-![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17869930780183667.jpg)
+![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17869930780183667.jpg)
 
-![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17854800235195492.jpg)
+![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17854800235195492.jpg)
 
-![Shabu Shabu  beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17886429895078855.jpg)
+![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17886429895078855.jpg)
 
-Shabu Shabu @oseyoshabu beef quality was good.  The broth was meh.  The kombu was ok. The popular spicy miso was a strange combination.  My wife likes it.  I think my mom would like this place.
+Shabu Shabu @oseyoshabu beef quality was good. The broth was meh. The kombu was ok. The popular spicy miso was a strange combination. My wife likes it. I think my mom would like this place.

@@ -1,5 +1,5 @@
 ---
-title: New Year’s Day brunch at Granville
+title: 'New Year’s Day brunch at Granville, Pasadena'
 pubDate: '2020-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -42,7 +42,7 @@ coordinates:
 
 ![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17860610593641525.jpg)
 
-New Year’s Day brunch at Granville.  Liked the Mac and cheese and the housemade potato chips
+New Year’s Day brunch at Granville. Liked the Mac and cheese and the housemade potato chips
 .
 .
 .

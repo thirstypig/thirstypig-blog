@@ -1,5 +1,5 @@
 ---
-title: Oden Studio
+title: 'Oden Studio, Taipei'
 pubDate: '2010-08-24'
 author: The Thirsty Pig
 source: thethirstypig.com

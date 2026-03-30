@@ -1,5 +1,5 @@
 ---
-title: Breakfast burritos at Homestate
+title: 'Breakfast burritos at Homestate, Pasadena'
 pubDate: '2021-09-01'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Breakfast burritos at Homestate](/images/posts/ig-2021-09-01-breakfast-burritos-at-homestate/18024877219314216.jpg)
 
-Breakfast burritos at Homestate.  Had the brisket taco and the trinity taco.  And of course had to have the chips and queso. 
+Breakfast burritos at Homestate. Had the brisket taco and the trinity taco. And of course had to have the chips and queso. 
 .
 .
 .

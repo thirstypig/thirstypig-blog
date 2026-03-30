@@ -1,5 +1,5 @@
 ---
-title: Ying Yang hot pot
+title: 'Ying Yang hot pot, Taipei'
 pubDate: '2024-04-29'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,5 @@
 ---
-title: Peruvian lunch in Lake Forest
+title: 'Peruvian lunch in Lake Forest, Irvine'
 pubDate: '2018-06-15'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 ![Peruvian lunch in Lake Forest](/images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17933098663089679.jpg)
 
-Peruvian lunch in Lake Forest.  Chicken Saltado and Chicken Picante.  Yum! 😋.
+Peruvian lunch in Lake Forest. Chicken Saltado and Chicken Picante. Yum! 😋.
 .
 .
 .

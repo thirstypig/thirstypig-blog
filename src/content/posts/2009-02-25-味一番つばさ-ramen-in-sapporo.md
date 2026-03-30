@@ -1,5 +1,5 @@
 ---
-title: 味一番つばさ – ramen in Sapporo
+title: '味一番つばさ – ramen in Sapporo, Taipei'
 pubDate: '2009-02-25'
 author: The Thirsty Pig
 source: thethirstypig.com

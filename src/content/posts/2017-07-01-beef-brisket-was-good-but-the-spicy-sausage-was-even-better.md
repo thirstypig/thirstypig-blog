@@ -1,5 +1,5 @@
 ---
-title: Beef Brisket was good but the spicy sausage was even better
+title: "Freedmen's Bar, Austin"
 pubDate: '2017-07-01'
 author: The Thirsty Pig
 source: instagram
@@ -36,4 +36,4 @@ region: Texas
 
 ![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17886587242063319.jpg)
 
-@freedmens #tmbbqtop50 Beef Brisket was good but the spicy sausage was even better.  Pull pork and pork ribs were ok.  I like the cabbage slaw and button mushrooms. Blantons #bourbon was tasty
+@freedmens #tmbbqtop50 Beef Brisket was good but the spicy sausage was even better. Pull pork and pork ribs were ok. I like the cabbage slaw and button mushrooms. Blantons #bourbon was tasty

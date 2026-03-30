@@ -1,5 +1,5 @@
 ---
-title: Xidi and Hongcun Village, Huangshan
+title: 'Xidi and Hongcun Village, Huangshan, Shanghai'
 pubDate: '2011-12-07'
 author: The Thirsty Pig
 source: thethirstypig.com

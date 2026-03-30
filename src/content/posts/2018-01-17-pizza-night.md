@@ -1,5 +1,5 @@
 ---
-title: Pizza Night
+title: 'Pizza Night, Downtown LA'
 pubDate: '2018-01-17'
 author: The Thirsty Pig
 source: instagram
@@ -45,4 +45,4 @@ coordinates:
 
 ![Pizza Night](/images/posts/ig-2018-01-17-pizza-night/17904226729126576.jpg)
 
-Pizza Night @bestiadtla. Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella.  The mussels & clams were memorable with the spicy broth. The pizza crust had a nice texture and chewiness.  The spaghetti with crab meat was also very good.  Overall #pizzanight was a success! @fongjf123 @yalin_wu sorry for the Alla’njuda pizza picture being out of focus.
+Pizza Night @bestiadtla. Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable with the spicy broth. The pizza crust had a nice texture and chewiness. The spaghetti with crab meat was also very good. Overall #pizzanight was a success! @fongjf123 @yalin_wu sorry for the Alla’njuda pizza picture being out of focus.

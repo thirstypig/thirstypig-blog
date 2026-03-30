@@ -26,7 +26,7 @@ categories:
 
 ![Burgers, beer, and the dodgers at Golden Road](/images/posts/ig-2020-09-16-burgers-beer-and-the-dodgers-at-golden-road/17872941211911092.jpg)
 
-Burgers, beer, and the dodgers at Golden Road.  Octoberfest at Golden Road. Got a cool dodger cup and octoberfest mug.  Surprising the special octoberfest beer was really good. Also Golden Road has special outdoor seating that was perfect for our group. The pretzel was good with the mustard and cheese dipping sauces
+Burgers, beer, and the dodgers at Golden Road. Octoberfest at Golden Road. Got a cool dodger cup and octoberfest mug. Surprising the special octoberfest beer was really good. Also Golden Road has special outdoor seating that was perfect for our group. The pretzel was good with the mustard and cheese dipping sauces
 .
 .
 .

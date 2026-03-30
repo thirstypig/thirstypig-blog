@@ -1,5 +1,5 @@
 ---
-title: Might be the best corned beef sandwich I’ve ever had
+title: 'Might be the best corned beef sandwich I’ve ever had,...'
 pubDate: '2019-02-23'
 author: The Thirsty Pig
 source: instagram
@@ -43,6 +43,6 @@ region: San Gabriel Valley
 
 ![Might be the best corned beef sandwich I’ve ever had](/images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18017155342126208.jpg)
 
-Might be the best corned beef sandwich I’ve ever had.  Certainly the best in a long time.  And I’ve had a long of sandwiches.  Right in my backyard at the Santa Anita racetrack - Cravery  Has a cool day watching the ponies.  Cheering #1, #7, and #10 for the exacta in race number 5.  Too bad #10 came in last. .
+Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day watching the ponies. Cheering #1, #7, and #10 for the exacta in race number 5. Too bad #10 came in last. .
 .
 . @santaanitapark @yalin_wu #cornedbeef #sandwich #eeeeeats #sgv

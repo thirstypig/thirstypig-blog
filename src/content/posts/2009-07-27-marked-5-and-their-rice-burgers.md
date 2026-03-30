@@ -1,5 +1,5 @@
 ---
-title: Marked 5 and their Rice Burgers!
+title: 'Marked 5 and their Rice Burgers!, Los Angeles'
 pubDate: '2009-07-27'
 author: The Thirsty Pig
 source: thethirstypig.com

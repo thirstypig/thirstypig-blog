@@ -1,5 +1,6 @@
 ---
 title: Mo-Chica, DTLA (Closed)
+description: 'Mo-Chica, DTLA (Closed) at Mo-Chica in Dtla.'
 pubDate: '2009-09-14'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -18,4 +19,4 @@ city: Dtla
 region: Downtown LA
 ---
 
-
+Mo-Chica in Dtla.

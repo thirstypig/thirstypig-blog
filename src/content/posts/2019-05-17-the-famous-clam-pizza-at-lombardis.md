@@ -1,5 +1,5 @@
 ---
-title: The famous clam pizza at Lombardi’s
+title: 'The famous clam pizza at Lombardi’s, New York'
 pubDate: '2019-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17865712708377265.jpg)
 
-The famous clam pizza at Lombardi’s. Also had the chicken parmesan, half white and sausage pizza, and an Italian salad.  Solid pizza!
+The famous clam pizza at Lombardi’s. Also had the chicken parmesan, half white and sausage pizza, and an Italian salad. Solid pizza!
 .
 .
 .

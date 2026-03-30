@@ -1,5 +1,5 @@
 ---
-title: BBQ at  in  we had pork ribs, moist beef brisket, beef rib ends, shredded por...
+title: 'Electric Dusk Drive-In, Hollywood'
 pubDate: '2017-12-23'
 author: The Thirsty Pig
 source: instagram
@@ -30,8 +30,8 @@ coordinates:
   lng: -118.252402
 ---
 
-![BBQ at  in  we had pork ribs, moist beef brisket, beef rib ends, shredded por...](/images/posts/ig-2017-12-23-bbq-at-in-we-had-pork-ribs-moist-beef-brisket-beef-rib-ends/17887955011193127.jpg)
+![BBQ at in we had pork ribs, moist beef brisket, beef rib ends, shredded por...](/images/posts/ig-2017-12-23-bbq-at-in-we-had-pork-ribs-moist-beef-brisket-beef-rib-ends/17887955011193127.jpg)
 
-![BBQ at  in  we had pork ribs, moist beef brisket, beef rib ends, shredded por...](/images/posts/ig-2017-12-23-bbq-at-in-we-had-pork-ribs-moist-beef-brisket-beef-rib-ends/17889299893189635.jpg)
+![BBQ at in we had pork ribs, moist beef brisket, beef rib ends, shredded por...](/images/posts/ig-2017-12-23-bbq-at-in-we-had-pork-ribs-moist-beef-brisket-beef-rib-ends/17889299893189635.jpg)
 
-BBQ at @bludsosbbq in #hollywood we had pork ribs, moist beef brisket, beef rib ends, shredded pork, corn bread, collard greens, and baked beans.  So much food.  I dig the brisket, baked beans, collard greens, and pork ribs.
+BBQ at @bludsosbbq in #hollywood we had pork ribs, moist beef brisket, beef rib ends, shredded pork, corn bread, collard greens, and baked beans. So much food. I dig the brisket, baked beans, collard greens, and pork ribs.

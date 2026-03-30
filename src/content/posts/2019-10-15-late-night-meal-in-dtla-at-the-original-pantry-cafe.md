@@ -1,5 +1,5 @@
 ---
-title: Late night meal in DTLA at the Original Pantry Cafe
+title: 'Late night meal in DTLA at the Original Pantry Cafe,...'
 pubDate: '2019-10-15'
 author: The Thirsty Pig
 source: instagram
@@ -43,7 +43,7 @@ region: Los Angeles
 
 ![Late night meal in DTLA at the Original Pantry Cafe](/images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17984397859302810.jpg)
 
-Late night meal in DTLA at the Original Pantry Cafe.  Breakfast all day and night.  Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup.  I love this place. I like going on weekends and having breakfast at the counter.  Hate the long lines. .
+Late night meal in DTLA at the Original Pantry Cafe. Breakfast all day and night. Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup. I love this place. I like going on weekends and having breakfast at the counter. Hate the long lines. .
 .
 .
 .

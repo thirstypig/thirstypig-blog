@@ -1,5 +1,5 @@
 ---
-title: Music Room at the Park Hyatt Pudong
+title: 'Music Room at the Park Hyatt Pudong, Shanghai'
 pubDate: '2011-03-09'
 author: The Thirsty Pig
 source: thethirstypig.com

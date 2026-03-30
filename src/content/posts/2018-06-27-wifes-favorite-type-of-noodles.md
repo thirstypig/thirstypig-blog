@@ -21,4 +21,4 @@ categories:
 
 ![Wife’s favorite type of noodles](/images/posts/ig-2018-06-27-wifes-favorite-type-of-noodles/17956258699064000.jpg)
 
-Wife’s favorite type of noodles.  Noodle Kang in Arcadia.
+Wife’s favorite type of noodles. Noodle Kang in Arcadia.

@@ -34,7 +34,7 @@ region: Orange County
 
 ![Seaside brunch with the family at The Cliff Restaurant in Laguna Beach](/images/posts/ig-2021-03-29-seaside-brunch-with-the-family-at-the-cliff-restaurant-in-la/17893506826983343.jpg)
 
-Seaside brunch with the family at The Cliff Restaurant in Laguna Beach.  Great Views and outdoor seating. Perfect day to be outside.  Forgot to take pictures of the view. 
+Seaside brunch with the family at The Cliff Restaurant in Laguna Beach. Great Views and outdoor seating. Perfect day to be outside. Forgot to take pictures of the view. 
 .
 .
 .

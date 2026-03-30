@@ -1,5 +1,5 @@
 ---
-title: Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman ba...
+title: 'Baohaus, New York'
 pubDate: '2017-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -24,4 +24,4 @@ coordinates:
 
 ![Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman ba...](/images/posts/ig-2017-08-05-chairman-bao-pork-belly-and-dumpling-bao-pork-and-chicken-th/17865493336193571.jpg)
 
-Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman bao is luscious and juicy!  Dumpling bao is spicy.  #bai @baohausnyc @jj_kingman @yalin_wu @chewy321
+Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman bao is luscious and juicy! Dumpling bao is spicy. #bai @baohausnyc @jj_kingman @yalin_wu @chewy321

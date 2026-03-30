@@ -1,5 +1,5 @@
 ---
-title: Sweet & Savory
+title: 'Sweet & Savory, Santa Monica'
 pubDate: '2009-10-19'
 author: The Thirsty Pig
 source: thethirstypig.com

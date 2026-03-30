@@ -1,5 +1,5 @@
 ---
-title: Edison The Radio Room with the best bartenders from Coast to Coast.
+title: 'Edison The Radio Room with the best bartenders from...'
 pubDate: '2010-03-30'
 author: The Thirsty Pig
 source: thethirstypig.com

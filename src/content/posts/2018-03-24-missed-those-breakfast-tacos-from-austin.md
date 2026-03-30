@@ -36,4 +36,4 @@ region: Texas
 
 ![Missed those breakfast tacos from Austin](/images/posts/ig-2018-03-24-missed-those-breakfast-tacos-from-austin/17905398379179833.jpg)
 
-Missed those breakfast tacos from Austin.  Luckily we have @homestate we had the Pecos (shredded brisket and egg) and the Guadalupe (chorizo and egg). Also we had the traditional migas and queso & chips.  Though the taste is reminiscent of @valentinastexmexbbq the sizes were incomparably smaller.  I liked the pecos breakfast tacos.  Remember to get there early on weekends.
+Missed those breakfast tacos from Austin. Luckily we have @homestate we had the Pecos (shredded brisket and egg) and the Guadalupe (chorizo and egg). Also we had the traditional migas and queso & chips. Though the taste is reminiscent of @valentinastexmexbbq the sizes were incomparably smaller. I liked the pecos breakfast tacos. Remember to get there early on weekends.

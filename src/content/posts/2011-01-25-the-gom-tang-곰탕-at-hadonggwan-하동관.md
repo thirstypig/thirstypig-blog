@@ -1,5 +1,5 @@
 ---
-title: The Gom Tang 곰탕 at HaDongGwan 하동관
+title: 'The Gom Tang 곰탕 at HaDongGwan 하동관, Seoul'
 pubDate: '2011-01-25'
 author: The Thirsty Pig
 source: thethirstypig.com

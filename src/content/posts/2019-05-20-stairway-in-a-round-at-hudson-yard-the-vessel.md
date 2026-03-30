@@ -1,5 +1,5 @@
 ---
-title: Stairway in a round at Hudson Yard - The Vessel
+title: 'Stairway in a round at Hudson Yard - The Vessel, New York'
 pubDate: '2019-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -46,7 +46,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-05-20-stairway-in-a-round-at-hudson-yard-the-vessel/18069802663044373.mp4" type="video/mp4"></video>
 
-Stairway in a round at Hudson Yard - The Vessel.  They wouldn’t let me on the elevator so I had to hike up.  They wouldn’t let me DOWN the elevator 🤬😢.
+Stairway in a round at Hudson Yard - The Vessel. They wouldn’t let me on the elevator so I had to hike up. They wouldn’t let me DOWN the elevator 🤬😢.
 .
 .
 .

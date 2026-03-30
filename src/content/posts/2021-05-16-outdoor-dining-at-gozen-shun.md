@@ -1,5 +1,5 @@
 ---
-title: Outdoor dining at Gozen Shun
+title: 'Outdoor dining at Gozen Shun, Pasadena'
 pubDate: '2021-05-16'
 author: The Thirsty Pig
 source: instagram
@@ -40,7 +40,7 @@ coordinates:
 
 ![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/18226549372014396.jpg)
 
-Outdoor dining at Gozen Shun.  Simple Japanese lunch in Pasadena.  Tonkatsu and miso Black Cod, with tempura and karage. 
+Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. Tonkatsu and miso Black Cod, with tempura and karage. 
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Carnitas and hard shell tacos
+title: 'Carnitas and hard shell tacos, Arcadia'
 pubDate: '2017-11-18'
 author: The Thirsty Pig
 source: instagram
@@ -28,4 +28,4 @@ coordinates:
 
 ![Carnitas and hard shell tacos](/images/posts/ig-2017-11-18-carnitas-and-hard-shell-tacos/17848938547217994.jpg)
 
-Carnitas and hard shell tacos.  Local Mexican restaurant that’s been around for year. Salsa kind of sucked for the chips. The carnitas was just ok.
+Carnitas and hard shell tacos. Local Mexican restaurant that’s been around for year. Salsa kind of sucked for the chips. The carnitas was just ok.

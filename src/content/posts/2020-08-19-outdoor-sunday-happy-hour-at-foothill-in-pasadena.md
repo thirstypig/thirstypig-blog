@@ -37,7 +37,7 @@ coordinates:
 
 ![Outdoor Sunday happy hour at Foothill in Pasadena](/images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/18041172367264057.jpg)
 
-Outdoor Sunday happy hour at Foothill in Pasadena.  They turned their parking lot into and outdoor patio with coverings and umbrellas.  Looks like a lot of people liked this place.  Plenty of space for proper social distancing.  Check it out.  Thank you very much for the olive oil.
+Outdoor Sunday happy hour at Foothill in Pasadena. They turned their parking lot into and outdoor patio with coverings and umbrellas. Looks like a lot of people liked this place. Plenty of space for proper social distancing. Check it out. Thank you very much for the olive oil.
 .
 .
 .

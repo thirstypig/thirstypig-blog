@@ -16,7 +16,7 @@ draft: false
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| 南蛮子云南烧烤吧 Southern Barbarian  进贤路169号生活艺术空间E区2楼 近茂名南路 2/F, Area E, Ju’Roshine Life Art Space, 169 Jinxian Lu, near Maoming Nan lu  +86 21 5157 5510  <http://www.southernbarbarian.com/> | 2 Pigs  Price Range 2 $/¥/NT |
+| 南蛮子云南烧烤吧 Southern Barbarian 进贤路169号生活艺术空间E区2楼 近茂名南路 2/F, Area E, Ju’Roshine Life Art Space, 169 Jinxian Lu, near Maoming Nan lu +86 21 5157 5510 <http://www.southernbarbarian.com/> | 2 Pigs Price Range 2 $/¥/NT |
 
 **What is Southern Barbarian**
 Southern Barbarian is Yun’nan restaurant in the heart of the Luwan district of Shanghai. Southern Barbarian, located on Jinxian road, is one of a few cool restaurants, bars, and lounges. This street is one of my favorite streets in Shanghai. Among the smattering of Shanghainese, Cantonese, and the few spicy Sichuan and Hunan cuisines, Southern Barbarian is a refreshing alternative.

@@ -1,5 +1,5 @@
 ---
-title: Chuan Chuan in LA at JiouDing Hot Pot
+title: 'Chuan Chuan in LA at JiouDing Hot Pot, Los Angeles'
 pubDate: '2018-06-28'
 author: The Thirsty Pig
 source: instagram
@@ -49,7 +49,7 @@ coordinates:
 
 ![Chuan Chuan in LA at JiouDing Hot Pot](/images/posts/ig-2018-06-28-chuan-chuan-in-la-at-jiouding-hot-pot/17927412967146432.jpg)
 
-Chuan Chuan in LA at JiouDing Hot Pot.  Spicy as hell.  One of the most uncomfortable meals, but I can’t wait to try it again. 🤪 imagine this - you go pick a bunch of skewers of meats and vegetables. Then they take them and return them in a cauldron of hot spicy flavorful oil.  Then you snack on each of the skewers after a quick dip in garlic oil.  We had 52 skewers at $0.39 a skewer. Make sure you get the plum juice. Yum!  Unlike anything I’ve ever had.  Even in China!
+Chuan Chuan in LA at JiouDing Hot Pot. Spicy as hell. One of the most uncomfortable meals, but I can’t wait to try it again. 🤪 imagine this - you go pick a bunch of skewers of meats and vegetables. Then they take them and return them in a cauldron of hot spicy flavorful oil. Then you snack on each of the skewers after a quick dip in garlic oil. We had 52 skewers at $0.39 a skewer. Make sure you get the plum juice. Yum! Unlike anything I’ve ever had. Even in China!
 .
 .
 .

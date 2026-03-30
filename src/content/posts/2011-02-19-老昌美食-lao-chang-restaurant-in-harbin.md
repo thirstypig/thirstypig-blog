@@ -1,5 +1,5 @@
 ---
-title: 老昌美食 Lao Chang Restaurant in Harbin
+title: '老昌美食 Lao Chang Restaurant in Harbin, Shanghai'
 pubDate: '2011-02-19'
 author: The Thirsty Pig
 source: thethirstypig.com

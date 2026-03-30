@@ -1,5 +1,5 @@
 ---
-title: Reflection of our trip to NYC, in all its colors
+title: 'Reflection of our trip to NYC, in all its colors, New York'
 pubDate: '2018-01-15'
 author: The Thirsty Pig
 source: instagram

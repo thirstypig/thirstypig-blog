@@ -1,5 +1,5 @@
 ---
-title: Beef Dip Sandwich and wedge fries
+title: 'Beef Dip Sandwich and wedge fries, San Gabriel'
 pubDate: '2017-10-07'
 author: The Thirsty Pig
 source: instagram
@@ -28,4 +28,4 @@ coordinates:
 
 ![Beef Dip Sandwich and wedge fries](/images/posts/ig-2017-10-07-beef-dip-sandwich-and-wedge-fries/17902511164026855.jpg)
 
-Beef Dip Sandwich and wedge fries.  Clearman’s Galley - the boat is my go to place to enjoy sports. Love this place @clearmansboat
+Beef Dip Sandwich and wedge fries. Clearman’s Galley - the boat is my go to place to enjoy sports. Love this place @clearmansboat

@@ -35,7 +35,7 @@ coordinates:
 
 ![Smashed burgers at Pasadena’s Smosh Town](/images/posts/ig-2020-01-20-smashed-burgers-at-pasadenas-smosh-town/17912770990387918.jpg)
 
-Smashed burgers at Pasadena’s Smosh Town.  So chilly to be eating outside.  But the burgers made it worth it.  Nice taste of the pure burger and cheese.  Whoever thought of the taste combination of beef with cheese is a genius.  Fries were also pretty good.
+Smashed burgers at Pasadena’s Smosh Town. So chilly to be eating outside. But the burgers made it worth it. Nice taste of the pure burger and cheese. Whoever thought of the taste combination of beef with cheese is a genius. Fries were also pretty good.
 .
 .
 .

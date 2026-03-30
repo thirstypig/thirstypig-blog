@@ -39,4 +39,4 @@ coordinates:
 
 ![Grilled Cheese Sandwich lunch with co-workers at The Melt, Irvine Spectrum](/images/posts/ig-2018-06-01-grilled-cheese-sandwich-lunch-with-co-workers-at-the-melt-ir/17842249912273246.jpg)
 
-Grilled Cheese Sandwich lunch with co-workers at The Melt, Irvine Spectrum.  Egg hole grilled cheese.  @themelt #thirstypig @thirstypig #lunch @irvinespectrumcenter #irvine #OC
+Grilled Cheese Sandwich lunch with co-workers at The Melt, Irvine Spectrum. Egg hole grilled cheese. @themelt #thirstypig @thirstypig #lunch @irvinespectrumcenter #irvine #OC

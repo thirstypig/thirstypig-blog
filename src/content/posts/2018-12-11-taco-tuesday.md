@@ -28,7 +28,7 @@ region: San Gabriel Valley
 
 ![Taco Tuesday](/images/posts/ig-2018-12-11-taco-tuesday/17979682255151684.jpg)
 
-Taco Tuesday!  Best fish tacos in Sierra Madre! At Tacos Ensenada
+Taco Tuesday! Best fish tacos in Sierra Madre! At Tacos Ensenada
 .
 .
 .

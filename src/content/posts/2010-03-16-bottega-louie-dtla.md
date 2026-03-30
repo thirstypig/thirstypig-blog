@@ -26,6 +26,6 @@ Perhaps I should have made a few more visits to Bottega Louie, but with the sugg
 
 Breakfast was my meal of choice at Bottega Louie. I had the breakfast scramble with spinach & cheese with a side of bacon – your typical California morning meal. Mr. B had a bagel & lox. I felt my eggs and spinach were typical and was nothing to write home about. But the bacon I had was solid and thick-cut, almost too much of a good thing. I didn’t get to try the bagel & lox, unfortunately. I saw a nice offering of juices, pastries, and coffees, for those downtown power breakfast meetings.
 
-I was able to mosey around the large airy restaurant to see the baked goods like cupcakes and muffins. Macarons are the new “cupcakes” of a couple of years ago. You start to see them in more recipes, dessert combination’s, and menu’s. i would suspect that you’ll see them more and more in the coming months. And Bottega Louie had a smattering array of multi-colored macarons
+I was able to mosey around the large airy restaurant to see the baked goods like cupcakes and muffins. Macarons are the new “cupcakes” of a couple of years ago. You start to see them in more recipes, dessert combination’s, and menu’s. I would suspect that you’ll see them more and more in the coming months. And Bottega Louie had a smattering array of multi-colored macarons
 
 #### Bottega Louie 700 S Grand Ave Los Angeles, CA 90017 (213) 802-1470 [Website](https://www.bottegalouie.com/)

@@ -1,5 +1,5 @@
 ---
-title: More Taiwanese Beef Noodle Soup
+title: 'More Taiwanese Beef Noodle Soup, San Gabriel'
 pubDate: '2019-11-12'
 author: The Thirsty Pig
 source: instagram
@@ -45,7 +45,7 @@ coordinates:
 
 ![More Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-12-more-taiwanese-beef-noodle-soup/17922850915347236.jpg)
 
-More Taiwanese Beef Noodle Soup.  Tonight we ventured to Sinbala for a pipping hot bowl.  The noodles were slightly over cooked and too soft.  The soup was nice and spicy, but not too spicy.  They already added the pickled mustard greens, which I wished they didn’t. Anyways, I would order it again here but it wouldn’t be my first choice.  Their Taiwanese sausage might be the best in the area. .
+More Taiwanese Beef Noodle Soup. Tonight we ventured to Sinbala for a pipping hot bowl. The noodles were slightly over cooked and too soft. The soup was nice and spicy, but not too spicy. They already added the pickled mustard greens, which I wished they didn’t. Anyways, I would order it again here but it wouldn’t be my first choice. Their Taiwanese sausage might be the best in the area. .
 .
 .
 .

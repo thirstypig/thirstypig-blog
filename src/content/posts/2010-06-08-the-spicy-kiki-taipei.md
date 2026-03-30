@@ -35,13 +35,13 @@ coordinates:
   lng: 121.525298
 ---
 
-Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.
+Years ago, when I was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.
 
 Kiki’s features a menu littered with items that are known for its spiciness. Kiki’s, been around for years, has a menu with heavy influences from Szechuan cuisine. Almost all the favored and popular dishes, in which my group ordered, was spicy. With a few locations, Kiki’s draws crowds, in which reservations are suggested, for both lunch and dinner.
 
-The first thing that arrived to our table was the crispy deep fried egg tofu. I remembered having this dish almost 10 years ago, and thus with the same texture and consistency. Soft on the inside, the subtle egg flavor comes out nicely. I don’t think you even needed chili or hot sauce with it. Ah, i remember now, it was one of the few non-spicy dishes I thoroughly enjoyed.
+The first thing that arrived to our table was the crispy deep fried egg tofu. I remembered having this dish almost 10 years ago, and thus with the same texture and consistency. Soft on the inside, the subtle egg flavor comes out nicely. I don’t think you even needed chili or hot sauce with it. Ah, I remember now, it was one of the few non-spicy dishes I thoroughly enjoyed.
 
-Next up was the diced chicken with sesame and pepper sauce, served cold. Looking like a mound smothered with a thick orange sauce, with unappealing initial reactions, it tu rend out to be my favorite dish. There’s spicy beef, spicy pork, but i think spicy chicken is the best spicy version of the big three meats. Strangely, this dish, almost an appetizer is served cold. I t goes great with rice with the spicy sauce component. With the tender chicken, it’s almost as an after thought with this sesame and pepper sauce.
+Next up was the diced chicken with sesame and pepper sauce, served cold. Looking like a mound smothered with a thick orange sauce, with unappealing initial reactions, it tu rend out to be my favorite dish. There’s spicy beef, spicy pork, but I think spicy chicken is the best spicy version of the big three meats. Strangely, this dish, almost an appetizer is served cold. I t goes great with rice with the spicy sauce component. With the tender chicken, it’s almost as an after thought with this sesame and pepper sauce.
 
 Warning, Westerners or faint at heart, please don’t read this next paragraph.
 

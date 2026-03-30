@@ -51,7 +51,7 @@ location: Thai food at Ror Ruea
 
 ![Thai food at Ror Ruea](/images/posts/ig-2024-04-21-thai-food-at-ror-ruea/18010717913134046.jpg)
 
-Thai food at Ror Ruea.  Really papaya salad, but incredibly spicy.  Tom Yum soup was great with the mushrooms.  Egg/shrimp rice was familiar Chinese style dish that my buddy liked.  It had a small mom and pop feel, but with A/C. 
+Thai food at Ror Ruea. Really papaya salad, but incredibly spicy. Tom Yum soup was great with the mushrooms. Egg/shrimp rice was familiar Chinese style dish that my buddy liked. It had a small mom and pop feel, but with A/C. 
 .
 .
 .

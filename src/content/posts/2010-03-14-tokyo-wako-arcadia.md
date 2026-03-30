@@ -36,3 +36,5 @@ coordinates:
   lat: 34.140521
   lng: -118.0219
 ---
+
+Tokyo Wako in Arcadia.

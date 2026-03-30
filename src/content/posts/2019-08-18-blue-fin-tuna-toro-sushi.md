@@ -31,7 +31,7 @@ location: Blue fin tuna toro sushi
 
 ![Blue fin tuna toro sushi](/images/posts/ig-2019-08-18-blue-fin-tuna-toro-sushi/18091613188019131.jpg)
 
-Blue fin tuna toro sushi. Spicy tuna hand roll. Avocado hand roll. gyu bowl and chicken katsu bowl.  Asked for sashimi and they gave sushi.  Asked for an oyaku don, they have a chicken katsu don.  The toro was good but not as fatty as I would have expected. .
+Blue fin tuna toro sushi. Spicy tuna hand roll. Avocado hand roll. gyu bowl and chicken katsu bowl. Asked for sashimi and they gave sushi. Asked for an oyaku don, they have a chicken katsu don. The toro was good but not as fatty as I would have expected. .
 .
 .
 .

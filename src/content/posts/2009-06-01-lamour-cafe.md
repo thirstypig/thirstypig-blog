@@ -1,5 +1,5 @@
 ---
-title: L’Amour Cafe
+title: 'L’Amour Cafe, Monterey Park'
 pubDate: '2009-06-01'
 author: The Thirsty Pig
 source: thethirstypig.com

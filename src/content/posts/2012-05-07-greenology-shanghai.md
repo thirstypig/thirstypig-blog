@@ -20,3 +20,5 @@ coordinates:
   lat: 31.220615
   lng: 121.459572
 ---
+
+MUJI (無印良品) in Shanghai.

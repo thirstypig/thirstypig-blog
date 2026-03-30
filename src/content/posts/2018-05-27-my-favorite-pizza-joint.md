@@ -1,5 +1,5 @@
 ---
-title: My favorite pizza joint
+title: 'My favorite pizza joint, Arcadia'
 pubDate: '2018-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -31,7 +31,7 @@ categories:
 
 ![My favorite pizza joint](/images/posts/ig-2018-05-27-my-favorite-pizza-joint/17934431200099982.jpg)
 
-My favorite pizza joint.  Zelo pizza in Arcadia.  Cornmeal crust!  Had half the eggplant & sausage pizza and the other half pepperoni.  Yum!.
+My favorite pizza joint. Zelo pizza in Arcadia. Cornmeal crust! Had half the eggplant & sausage pizza and the other half pepperoni. Yum!.
 .
 .
 .

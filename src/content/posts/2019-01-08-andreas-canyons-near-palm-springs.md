@@ -31,7 +31,7 @@ location: Andreas Canyons near Palm Springs
 
 ![Andreas Canyons near Palm Springs](/images/posts/ig-2019-01-08-andreas-canyons-near-palm-springs/18015543514070771.jpg)
 
-Andreas Canyons near Palm Springs.  Amazing little walk/trail
+Andreas Canyons near Palm Springs. Amazing little walk/trail
 .
 .
 .

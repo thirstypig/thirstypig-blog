@@ -1,5 +1,5 @@
 ---
-title: The Smosh Town burger
+title: 'The Smosh Town burger, Pasadena'
 pubDate: '2020-12-16'
 author: The Thirsty Pig
 source: instagram
@@ -33,7 +33,7 @@ coordinates:
 
 ![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17944387690407993.jpg)
 
-The Smosh Town burger.  Crispy and tasty burgers!  Tarot tots with chili and cheese. Yum
+The Smosh Town burger. Crispy and tasty burgers! Tarot tots with chili and cheese. Yum
 .
 .
 .

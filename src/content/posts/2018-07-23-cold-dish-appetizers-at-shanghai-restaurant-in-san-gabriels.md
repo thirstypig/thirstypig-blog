@@ -44,7 +44,7 @@ coordinates:
 
 ![Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza](/images/posts/ig-2018-07-23-cold-dish-appetizers-at-shanghai-restaurant-in-san-gabriels/17854873657278294.jpg)
 
-Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza.  Diced vegetable and tofu, shrimp in shells, sweet soy fish, sliced preserved pork, and cucumber with jelly fish.  The fish tasted like beef or pork with a flakey texture. Today, while sad due to the passing of a LA icon, was joyous in celebrating the 100 days birthday of our dear friend’s child - Troy Huang.  More food pictures to come.
+Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza. Diced vegetable and tofu, shrimp in shells, sweet soy fish, sliced preserved pork, and cucumber with jelly fish. The fish tasted like beef or pork with a flakey texture. Today, while sad due to the passing of a LA icon, was joyous in celebrating the 100 days birthday of our dear friend’s child - Troy Huang. More food pictures to come.
 .
 .
 .

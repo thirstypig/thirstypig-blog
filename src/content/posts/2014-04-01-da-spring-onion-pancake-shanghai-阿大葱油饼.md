@@ -1,5 +1,5 @@
 ---
-title: Menu
+title: 'Menu, Shanghai'
 pubDate: '2014-04-01'
 author: The Thirsty Pig
 source: thirstypig.com

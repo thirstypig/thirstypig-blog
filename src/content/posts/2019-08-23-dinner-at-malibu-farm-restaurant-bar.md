@@ -45,7 +45,7 @@ coordinates:
 
 ![Dinner at Malibu Farm Restaurant & Bar](/images/posts/ig-2019-08-23-dinner-at-malibu-farm-restaurant-bar/18094003339046379.jpg)
 
-Dinner at Malibu Farm Restaurant & Bar.  Avocado Hurache, skirt steak, Salmon, Spaghetti Squash Lasagna, cauliflower pizza, and coconut carrot cake.  Yummy and healthy. No guilt. .
+Dinner at Malibu Farm Restaurant & Bar. Avocado Hurache, skirt steak, Salmon, Spaghetti Squash Lasagna, cauliflower pizza, and coconut carrot cake. Yummy and healthy. No guilt. .
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: The hot Italian and Austin blues sausage
+title: 'The hot Italian and Austin blues sausage, Downtown LA'
 pubDate: '2017-10-24'
 author: The Thirsty Pig
 source: instagram
@@ -31,4 +31,4 @@ coordinates:
 
 ![The hot Italian and Austin blues sausage](/images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17863963387195930.jpg)
 
-The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce.  DTLA favorite @wurstkuche #yummy #sausage #thirstypig @thirstypig @yalin_wu @davidlee_72
+The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce. DTLA favorite @wurstkuche #yummy #sausage #thirstypig @thirstypig @yalin_wu @davidlee_72

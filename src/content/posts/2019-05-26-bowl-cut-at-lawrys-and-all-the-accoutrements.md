@@ -1,5 +1,5 @@
 ---
-title: Bowl Cut at Lawry’s and all the accoutrements
+title: 'Bowl Cut at Lawry’s and all the accoutrements, Beverly Hills'
 pubDate: '2019-05-26'
 author: The Thirsty Pig
 source: instagram

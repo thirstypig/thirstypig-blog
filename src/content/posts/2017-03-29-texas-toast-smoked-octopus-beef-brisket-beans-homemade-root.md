@@ -1,5 +1,5 @@
 ---
-title: Texas Toast, smoked octopus, beef brisket, beans, homemade root beer
+title: 'Texas Toast, smoked octopus, beef brisket, beans, San...'
 pubDate: '2017-03-29'
 author: The Thirsty Pig
 source: instagram

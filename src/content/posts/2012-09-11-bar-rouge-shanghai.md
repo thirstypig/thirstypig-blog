@@ -24,3 +24,5 @@ coordinates:
   lat: 31.240391
   lng: 121.485224
 ---
+
+Bar Rouge in Shanghai.

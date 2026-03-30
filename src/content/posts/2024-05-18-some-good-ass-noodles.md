@@ -1,5 +1,5 @@
 ---
-title: Some good ass noodles
+title: 'Some good ass noodles, Taipei'
 pubDate: '2024-05-18'
 author: The Thirsty Pig
 source: instagram
@@ -44,7 +44,7 @@ coordinates:
 
 ![Some good ass noodles](/images/posts/ig-2024-05-18-some-good-ass-noodles/18401552122078721.jpg)
 
-Some good ass noodles.  Hearty chicken broth that was over the top rich and not too savory.  The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen.  Unexpectedly yummy.  No wonder there was a line waiting outside in the humid sun. 
+Some good ass noodles. Hearty chicken broth that was over the top rich and not too savory. The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen. Unexpectedly yummy. No wonder there was a line waiting outside in the humid sun. 
 .
 .
 .

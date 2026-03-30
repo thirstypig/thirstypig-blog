@@ -1,5 +1,5 @@
 ---
-title: A New Chapter
+title: 'A New Chapter, Shanghai'
 pubDate: '2010-04-25'
 author: The Thirsty Pig
 source: thethirstypig.com

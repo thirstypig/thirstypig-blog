@@ -1,5 +1,5 @@
 ---
-title: Amazing ceviche at La Guerrerense in Ensenada
+title: 'Amazing ceviche at La Guerrerense in Ensenada, Los Angeles'
 pubDate: '2018-06-25'
 author: The Thirsty Pig
 source: instagram
@@ -36,7 +36,7 @@ coordinates:
 
 ![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17865501994249614.jpg)
 
-Amazing ceviche at La Guerrerense in Ensenada.  We had sea urchin, octopus, and fish ceviche.  Then had crab salad and the shrimp special with avocado.  Yummy.  Unlike anything I ever had!
+Amazing ceviche at La Guerrerense in Ensenada. We had sea urchin, octopus, and fish ceviche. Then had crab salad and the shrimp special with avocado. Yummy. Unlike anything I ever had!
 .
 .
 .

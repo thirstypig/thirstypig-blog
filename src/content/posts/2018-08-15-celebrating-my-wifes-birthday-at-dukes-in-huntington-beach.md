@@ -36,7 +36,7 @@ location: Duke’s
 
 ![Celebrating my wife’s birthday at Duke’s in Huntington Beach](/images/posts/ig-2018-08-15-celebrating-my-wifes-birthday-at-dukes-in-huntington-beach/17970389395048087.jpg)
 
-Celebrating my wife’s birthday at Duke’s in Huntington Beach.  Good food and even better views with great company.  Prime Rib, seafood hot pot, scallops, and Coconut shrimp. .
+Celebrating my wife’s birthday at Duke’s in Huntington Beach. Good food and even better views with great company. Prime Rib, seafood hot pot, scallops, and Coconut shrimp. .
 .
 .
 .

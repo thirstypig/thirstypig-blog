@@ -29,3 +29,5 @@ location: Best BBQ in Pasadena
 city: Pasadena
 region: San Gabriel Valley
 ---
+
+Best BBQ in Pasadena in Pasadena.

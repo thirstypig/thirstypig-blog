@@ -1,5 +1,5 @@
 ---
-title: The cronut from SOHO’s    Yummy
+title: 'The cronut from SOHO’s Yummy, New York'
 pubDate: '2018-01-09'
 author: The Thirsty Pig
 source: instagram
@@ -32,24 +32,24 @@ coordinates:
   lng: -74.003781
 ---
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17844243631232614.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17844243631232614.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17918340901005036.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17918340901005036.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17890830943178246.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17890830943178246.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17912520907069676.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17912520907069676.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17917850308050897.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17917850308050897.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17859302821205383.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17859302821205383.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17904209683115371.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17904209683115371.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17918829790001268.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17918829790001268.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17919920863011477.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17919920863011477.jpg)
 
-![The cronut from SOHO’s    Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17857714558217474.jpg)
+![The cronut from SOHO’s Yummy](/images/posts/ig-2018-01-09-the-cronut-from-sohos-yummy/17857714558217474.jpg)
 
-The cronut from SOHO’s  @dominiqueansel  Yummy.  We also got a canale, which was the best my wife ever had.
+The cronut from SOHO’s @dominiqueansel Yummy. We also got a canale, which was the best my wife ever had.

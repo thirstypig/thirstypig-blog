@@ -42,7 +42,7 @@ coordinates:
 
 ![Spicy Chicken in Koreatown](/images/posts/ig-2024-09-05-spicy-chicken-in-koreatown/18045595315786648.jpg)
 
-Spicy Chicken in Koreatown.  Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro.  They will also add fried rice to the pot, and you wait for it to get crispy.  I’m not sure why this dish isn’t popular, since it is so yummy.  You can only find this dish at a few places in Koreatown.  I would return and I would recommend.
+Spicy Chicken in Koreatown. Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro. They will also add fried rice to the pot, and you wait for it to get crispy. I’m not sure why this dish isn’t popular, since it is so yummy. You can only find this dish at a few places in Koreatown. I would return and I would recommend.
 .
 .
 . @kk8ee #thirstypig #tastemakersapp @tastemakersapp

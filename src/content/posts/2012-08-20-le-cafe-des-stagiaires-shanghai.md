@@ -51,4 +51,4 @@ Anyways. . .Stagiaires is a cool place to bring friends to relax over a beer or 
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| 54-56 Yongkang Lu, near Xiangyang Lu  永康路54-56号， 近襄阳路  +86 21 3425 0210 | 2 Pigs  Price Range 1 $/¥/NT |
+| 54-56 Yongkang Lu, near Xiangyang Lu 永康路54-56号， 近襄阳路 +86 21 3425 0210 | 2 Pigs Price Range 1 $/¥/NT |

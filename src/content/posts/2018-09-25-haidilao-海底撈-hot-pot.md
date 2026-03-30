@@ -32,7 +32,7 @@ location: Haidilao 海底撈 hot pot
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17947575907174818.mp4" type="video/mp4"></video>
 
-Haidilao 海底撈 hot pot!  With the famous noodle dance performance.  Happy moon festival 🌙 .
+Haidilao 海底撈 hot pot! With the famous noodle dance performance. Happy moon festival 🌙 .
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Sandwiches  the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...
+title: 'Buddha Belly, Downtown LA'
 pubDate: '2017-11-21'
 author: The Thirsty Pig
 source: instagram
@@ -32,10 +32,10 @@ coordinates:
   lng: -118.252726
 ---
 
-![Sandwiches  the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17849434615221400.jpg)
+![Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17849434615221400.jpg)
 
-![Sandwiches  the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17908014814001215.jpg)
+![Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17908014814001215.jpg)
 
-![Sandwiches  the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17909982298023745.jpg)
+![Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17909982298023745.jpg)
 
-Sandwiches @mendocinofarms the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sandwiches.  Got to try them all. I really liked the Prosciutto Chicken sandwich - I definitely will order this next time.
+Sandwiches @mendocinofarms the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sandwiches. Got to try them all. I really liked the Prosciutto Chicken sandwich - I definitely will order this next time.

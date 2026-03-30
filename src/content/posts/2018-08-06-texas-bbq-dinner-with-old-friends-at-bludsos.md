@@ -48,7 +48,7 @@ location: Texas BBQ dinner with old friends at Bludso’s
 
 ![Texas BBQ dinner with old friends at Bludso’s](/images/posts/ig-2018-08-06-texas-bbq-dinner-with-old-friends-at-bludsos/17868363943266678.jpg)
 
-Texas BBQ dinner with old friends at Bludso’s.  Pork Ribs, Rib Tips, Pulled Pork, and beef brisket.  With collard greens and cole slaw.  So much food. Yum!
+Texas BBQ dinner with old friends at Bludso’s. Pork Ribs, Rib Tips, Pulled Pork, and beef brisket. With collard greens and cole slaw. So much food. Yum!
 .
 .
 .

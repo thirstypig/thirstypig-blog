@@ -25,3 +25,5 @@ draft: false
 location: The Noodle Nazi from Dai Ho Restaurant 大和滷味
 region: San Gabriel Valley
 ---
+
+The Noodle Nazi from Dai Ho Restaurant 大和滷味.

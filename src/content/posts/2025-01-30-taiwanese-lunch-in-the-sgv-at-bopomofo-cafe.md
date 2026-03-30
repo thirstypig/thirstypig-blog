@@ -1,5 +1,5 @@
 ---
-title: Taiwanese lunch in the SGV at Bopomofo cafe
+title: 'Taiwanese lunch in the SGV at Bopomofo cafe, San Gabriel'
 pubDate: '2025-01-30'
 author: The Thirsty Pig
 source: instagram

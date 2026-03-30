@@ -1,5 +1,5 @@
 ---
-title: Bloody Mary and happy hour at The Dive
+title: 'Bloody Mary and happy hour at The Dive, San Gabriel'
 pubDate: '2021-10-09'
 author: The Thirsty Pig
 source: instagram

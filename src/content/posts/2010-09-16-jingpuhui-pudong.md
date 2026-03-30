@@ -1,5 +1,5 @@
 ---
-title: 晶浦会 Jingpuhui of Pudong
+title: '晶浦会 Jingpuhui of Pudong, Shanghai'
 pubDate: '2010-09-16'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -71,7 +71,7 @@ coordinates:
 
 > You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . .
 >
->  — From The Frog and The Princess
+> — From The Frog and The Princess
 
 Shanghai, in my humble opinion, gathers the a diverse population that rivals others cities around the world. Good food also follows, or is it the other way – good food bring people together, like in the quote from The Frog and The Princess. And yes, I am proudly quoting from a recent Disney Children’s Animation film. And Shanghai is the epitome of where good food find people together.
 

@@ -1,5 +1,5 @@
 ---
-title: Weekend Chicken and Waffles at
+title: 'Weekend Chicken and Waffles at, Chinatown'
 pubDate: '2017-08-05'
 author: The Thirsty Pig
 source: instagram

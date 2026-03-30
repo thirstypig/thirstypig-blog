@@ -32,6 +32,6 @@ region: Los Angeles
 
 ![Best Taquitos in LA](/images/posts/ig-2018-12-14-best-taquitos-in-la/18009493522032912.jpg)
 
-Best Taquitos in LA!  Cielito Lindo on Olvera Street. .
+Best Taquitos in LA! Cielito Lindo on Olvera Street. .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Popcorn chicken and strawberry milk tea
+title: 'Popcorn chicken and strawberry milk tea, Arcadia'
 pubDate: '2021-10-13'
 author: The Thirsty Pig
 source: instagram
@@ -30,7 +30,7 @@ coordinates:
 
 ![Popcorn chicken and strawberry milk tea](/images/posts/ig-2021-10-13-popcorn-chicken-and-strawberry-milk-tea/17906025947302959.jpg)
 
-Popcorn chicken and strawberry milk tea!  Yum!
+Popcorn chicken and strawberry milk tea! Yum!
 .
 .
 .

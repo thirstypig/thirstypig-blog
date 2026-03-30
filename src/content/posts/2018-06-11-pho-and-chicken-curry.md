@@ -27,7 +27,7 @@ region: San Gabriel Valley
 
 ![Pho and chicken curry](/images/posts/ig-2018-06-11-pho-and-chicken-curry/17926661038136327.jpg)
 
-Pho and chicken curry.  The French bread accompaniment with the curry or stew is my go-to dish at golden deli or any Vietnamamese restaurant. Wife really like pho. .
+Pho and chicken curry. The French bread accompaniment with the curry or stew is my go-to dish at golden deli or any Vietnamamese restaurant. Wife really like pho. .
 .
 .
 .

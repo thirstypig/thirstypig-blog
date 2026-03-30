@@ -1,5 +1,5 @@
 ---
-title: Brunch at Poppy & Rose
+title: 'Brunch at Poppy & Rose, Downtown LA'
 pubDate: '2022-03-22'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ coordinates:
 
 ![Brunch at Poppy & Rose](/images/posts/ig-2022-03-22-brunch-at-poppy-rose/17871335288669542.jpg)
 
-Brunch at Poppy & Rose.  Benedict’s - avocado and fried chicken.  And of course a Bloody Mary.  Rooftop outdoor dining patio on top of a parking structure at DTLA’a flower district.  Make sure you make reservations for weekend seating.  Unfortunately the biscuits were a bit too tough for me.  I’d still return and recommend.  Make sure you park on top of the roof of the parking structure.  OpenTable reservations.
+Brunch at Poppy & Rose. Benedict’s - avocado and fried chicken. And of course a Bloody Mary. Rooftop outdoor dining patio on top of a parking structure at DTLA’a flower district. Make sure you make reservations for weekend seating. Unfortunately the biscuits were a bit too tough for me. I’d still return and recommend. Make sure you park on top of the roof of the parking structure. OpenTable reservations.
 .
 .
 .

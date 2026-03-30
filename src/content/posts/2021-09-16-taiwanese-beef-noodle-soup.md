@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Beef Noodle Soup
+title: 'Taiwanese Beef Noodle Soup, San Gabriel'
 pubDate: '2021-09-16'
 author: The Thirsty Pig
 source: instagram
@@ -30,7 +30,7 @@ coordinates:
 
 ![Taiwanese Beef Noodle Soup](/images/posts/ig-2021-09-16-taiwanese-beef-noodle-soup/17852669033637805.jpg)
 
-Taiwanese Beef Noodle Soup.  Rich and hearty soup with great noodles and large slices of beef. Yum!
+Taiwanese Beef Noodle Soup. Rich and hearty soup with great noodles and large slices of beef. Yum!
 .
 .
 .

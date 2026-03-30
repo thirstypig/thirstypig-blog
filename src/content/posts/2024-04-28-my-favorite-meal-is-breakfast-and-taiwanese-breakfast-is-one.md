@@ -1,5 +1,5 @@
 ---
-title: My favorite meal is breakfast and Taiwanese breakfast is one of the best
+title: 'My favorite meal is breakfast and Taiwanese breakfast is...'
 pubDate: '2024-04-28'
 author: The Thirsty Pig
 source: instagram
@@ -46,7 +46,7 @@ categories:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-04-28-my-favorite-meal-is-breakfast-and-taiwanese-breakfast-is-one/18042168529744259.mp4" type="video/mp4"></video>
 
-My favorite meal is breakfast and Taiwanese breakfast is one of the best.  With the rice balls, egg pancakes, and others.  I try to find an egg pancake every morning.  I used to have the rice ball with egg, oil curler, and pork floss - every morning but now I realize it is quite heavy and a bit much for me nowadays.  You can find these treats almost everyday and almost every other corner.  So good. In Taipei, Taichung, Tainan, and everywhere in between.
+My favorite meal is breakfast and Taiwanese breakfast is one of the best. With the rice balls, egg pancakes, and others. I try to find an egg pancake every morning. I used to have the rice ball with egg, oil curler, and pork floss - every morning but now I realize it is quite heavy and a bit much for me nowadays. You can find these treats almost everyday and almost every other corner. So good. In Taipei, Taichung, Tainan, and everywhere in between.
 .
 .
 .

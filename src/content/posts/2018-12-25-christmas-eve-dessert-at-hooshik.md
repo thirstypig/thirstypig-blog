@@ -1,5 +1,5 @@
 ---
-title: Christmas Eve Dessert at hooshik
+title: 'Christmas Eve Dessert at hooshik, San Gabriel'
 pubDate: '2018-12-25'
 author: The Thirsty Pig
 source: instagram
@@ -32,7 +32,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17984399914150106.mp4" type="video/mp4"></video>
 
-Christmas Eve Dessert at hooshik.  Seems like more and more cool Korean foods are coming to SGV
+Christmas Eve Dessert at hooshik. Seems like more and more cool Korean foods are coming to SGV
 .
 .
 .

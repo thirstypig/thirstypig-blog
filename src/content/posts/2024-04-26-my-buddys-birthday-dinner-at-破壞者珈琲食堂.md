@@ -1,5 +1,5 @@
 ---
-title: My buddy’s birthday dinner at 破壞者珈琲食堂
+title: 'My buddy’s birthday dinner at 破壞者珈琲食堂, Taipei'
 pubDate: '2024-04-26'
 author: The Thirsty Pig
 source: instagram
@@ -53,7 +53,7 @@ coordinates:
 
 ![My buddy’s birthday dinner at 破壞者珈琲食堂](/images/posts/ig-2024-04-26-my-buddys-birthday-dinner-at-破壞者珈琲食堂/18125300299343233.jpg)
 
-My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times.  Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei.  We had countless courses of food and wine.  I’d certainly return and would recommend. 
+My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses of food and wine. I’d certainly return and would recommend. 
 .
 .
 .

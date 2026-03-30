@@ -35,7 +35,7 @@ categories:
 
 ![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17926712108248810.jpg)
 
-Goi Du Du - green papaya salad. And Goi Guon - fresh spring rolls.  Yum.  Nice spot for a light dinner. 
+Goi Du Du - green papaya salad. And Goi Guon - fresh spring rolls. Yum. Nice spot for a light dinner. 
 .
 .
 .

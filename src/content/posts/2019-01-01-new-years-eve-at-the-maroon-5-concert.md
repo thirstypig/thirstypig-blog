@@ -1,5 +1,5 @@
 ---
-title: New Year’s eve at the Maroon 5 concert
+title: 'New Year’s eve at the Maroon 5 concert, Las Vegas'
 pubDate: '2019-01-01'
 author: The Thirsty Pig
 source: instagram

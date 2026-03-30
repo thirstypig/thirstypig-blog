@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Beef Noodle Soup
+title: 'Taiwanese Beef Noodle Soup, San Gabriel'
 pubDate: '2019-11-10'
 author: The Thirsty Pig
 source: instagram
@@ -38,7 +38,7 @@ coordinates:
 
 ![Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-10-taiwanese-beef-noodle-soup/18112419349013418.jpg)
 
-Taiwanese Beef Noodle Soup!  Might still be the best in Southern California.  Wifey had the pig knuckle and rice.  Unfortunate the sides were not so good - sausage, tofu skin, and cucumber.  The hot hearty soup had great savory spicy seasoned flavor.  Great on a chilly day. .
+Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot hearty soup had great savory spicy seasoned flavor. Great on a chilly day. .
 .
 .
 .

@@ -39,7 +39,7 @@ coordinates:
 
 ![Holbox with a Michelin star](/images/posts/ig-2024-08-13-holbox-with-a-michelin-star/18016694933593280.jpg)
 
-Holbox with a Michelin star!  Had the grilled kanpanchi collars (last one of the night!), taco de Pulpo en su Tinta (grilled octopus), smoked Kanpachi taco, scallop taco, and ceviche mix to (with octopus, shrimp, and sea bass). Yummy!  Was worried that they would be more pricey after the Michelin announcement, but realized the worry was the long lines.  Would I go back? Yes. Would I recommend? Yes. 
+Holbox with a Michelin star! Had the grilled kanpanchi collars (last one of the night!), taco de Pulpo en su Tinta (grilled octopus), smoked Kanpachi taco, scallop taco, and ceviche mix to (with octopus, shrimp, and sea bass). Yummy! Was worried that they would be more pricey after the Michelin announcement, but realized the worry was the long lines. Would I go back? Yes. Would I recommend? Yes. 
 .
 .
 .

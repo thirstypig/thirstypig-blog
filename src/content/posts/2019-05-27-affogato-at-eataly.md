@@ -32,7 +32,7 @@ region: Los Angeles
 
 ![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/17851535014440596.jpg)
 
-Affogato at Eataly.  A new favorite drink (or dessert). What is it?  It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a sweet heavy cream milk gelato, originally/mistakenly thought as just vanilla ice cream). This sort of Root Beer Float is pretty good.  The gelato sweetens the espresso and makes a yummy icey coffee drink. .
+Affogato at Eataly. A new favorite drink (or dessert). What is it? It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a sweet heavy cream milk gelato, originally/mistakenly thought as just vanilla ice cream). This sort of Root Beer Float is pretty good. The gelato sweetens the espresso and makes a yummy icey coffee drink. .
 .
 .
 . @eatalyla @westfieldcenturycity @clai919 #thankseunice @kuoeunice #fiordilatte #gelato #lavazza @lavazzausa #desserts

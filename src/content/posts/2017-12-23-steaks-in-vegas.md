@@ -1,5 +1,5 @@
 ---
-title: Steaks in Vegas
+title: 'Steaks in Vegas, Las Vegas'
 pubDate: '2017-12-23'
 author: The Thirsty Pig
 source: instagram

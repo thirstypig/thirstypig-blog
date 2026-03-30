@@ -1,5 +1,5 @@
 ---
-title: 101 Noodle Express
+title: '101 Noodle Express, Irvine'
 pubDate: '2018-06-07'
 author: The Thirsty Pig
 source: instagram

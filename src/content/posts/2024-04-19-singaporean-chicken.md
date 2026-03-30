@@ -48,7 +48,7 @@ coordinates:
 
 ![Singaporean chicken](/images/posts/ig-2024-04-19-singaporean-chicken/18022436924503118.jpg)
 
-Singaporean chicken. Yum!  Similar to hainan chicken. But the chicken is steamed not boiled.  Flavor soup!  Love the hole-in-the-wall joint.  Would recommend and would visit again.
+Singaporean chicken. Yum! Similar to hainan chicken. But the chicken is steamed not boiled. Flavor soup! Love the hole-in-the-wall joint. Would recommend and would visit again.
 .
 .
 .

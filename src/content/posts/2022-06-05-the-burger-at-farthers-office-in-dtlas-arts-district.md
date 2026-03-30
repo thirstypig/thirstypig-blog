@@ -1,5 +1,5 @@
 ---
-title: The burger at Farther’s Office in DTLA’s Arts District
+title: 'Walt Disney Concert Hall Box Office, Los Angeles'
 pubDate: '2022-06-05'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![The burger at Farther’s Office in DTLA’s Arts District](/images/posts/ig-2022-06-05-the-burger-at-farthers-office-in-dtlas-arts-district/17920182317439854.jpg)
 
-The burger at Farther’s Office in DTLA’s Arts District.  @fathersofficeofficial Very yummy burger and nicely spiced fries. Washed it down with some tart pear cider.  I needed that acidic cider since burger was lusciously rich and decadent.  Its no wonder that the F.O. Burger is one of the notable burgers of LA.  It’s tough to grab a snapshot of this burger.  I’ve tried so often it not easy to find the right angle at night while a little buzzed.  The fries were surprisingly good. I expected something a little more than something dried bordering on stale.  But the flavor was good along with the dipping sauce. Anyways.  I was more surprised that F.O. Wasn’t too crowded on a Saturday night. 
+The burger at Farther’s Office in DTLA’s Arts District. @fathersofficeofficial Very yummy burger and nicely spiced fries. Washed it down with some tart pear cider. I needed that acidic cider since burger was lusciously rich and decadent. Its no wonder that the F.O. Burger is one of the notable burgers of LA. It’s tough to grab a snapshot of this burger. I’ve tried so often it not easy to find the right angle at night while a little buzzed. The fries were surprisingly good. I expected something a little more than something dried bordering on stale. But the flavor was good along with the dipping sauce. Anyways. I was more surprised that F.O. Wasn’t too crowded on a Saturday night. 
 .
 .
 .

@@ -57,7 +57,7 @@ coordinates:
 
 ![Snacking at Bangkok’s Chinatown](/images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/18009223859168267.jpg)
 
-Snacking at Bangkok’s Chinatown.  This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines.  Some of the highlights include a rolled rice noodle soup, Chinese donut, and crispy pork belly.  It was crowded and it was hot, regardless it was an interesting and fun time. 
+Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights include a rolled rice noodle soup, Chinese donut, and crispy pork belly. It was crowded and it was hot, regardless it was an interesting and fun time. 
 .
 .
 . @thirstypig @tastemakersapp @ilovebreakfastburritos @tastemakersapp @tootsiefranklin @discojunkie928

@@ -1,5 +1,5 @@
 ---
-title: Dinner with wife at Public School 213
+title: 'Dinner with wife at Public School 213, Downtown LA'
 pubDate: '2018-08-24'
 author: The Thirsty Pig
 source: instagram
@@ -35,7 +35,7 @@ coordinates:
 
 ![Dinner with wife at Public School 213](/images/posts/ig-2018-08-24-dinner-with-wife-at-public-school-213/17958334840119343.jpg)
 
-Dinner with wife at Public School 213.  She had the PS burger and I had the Roasted Beet & Goat Cheese Salad with a side of Brussels Sprouts.  I always liked this gastropub .
+Dinner with wife at Public School 213. She had the PS burger and I had the Roasted Beet & Goat Cheese Salad with a side of Brussels Sprouts. I always liked this gastropub .
 .
 .
 .

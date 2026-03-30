@@ -42,4 +42,4 @@ region: San Gabriel Valley
 
 ![Wu Ming Hot Pot in the](/images/posts/ig-2018-03-09-wu-ming-hot-pot-in-the/17902180231148063.jpg)
 
-Wu Ming Hot Pot in the #SGV. Might be the most popular hour pot at this time.  OMG ass fire spicy. Check out the #Sichuanhotpot #sichuancuisine #chongqinghotpot #hotpot
+Wu Ming Hot Pot in the #SGV. Might be the most popular hour pot at this time. OMG ass fire spicy. Check out the #Sichuanhotpot #sichuancuisine #chongqinghotpot #hotpot

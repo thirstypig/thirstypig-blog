@@ -1,5 +1,5 @@
 ---
-title: Vietnamese Noodles at 越苑Pho in Taipei
+title: 'Vietnamese Noodles at 越苑Pho in Taipei, Rosemead'
 pubDate: '2010-06-09'
 author: The Thirsty Pig
 source: thethirstypig.com

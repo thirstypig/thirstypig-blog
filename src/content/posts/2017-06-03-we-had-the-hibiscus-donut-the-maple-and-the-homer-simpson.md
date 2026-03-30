@@ -1,5 +1,5 @@
 ---
-title: we had the hibiscus donut, the maple, and the Homer Simpson
+title: 'Voodoo Doughnut, Austin'
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -32,4 +32,4 @@ region: Texas
 
 ![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857733482164089.jpg)
 
-@voodoodoughnutaustin we had the hibiscus donut, the maple, and the Homer Simpson.  Can you guess which one is which?
+@voodoodoughnutaustin we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?

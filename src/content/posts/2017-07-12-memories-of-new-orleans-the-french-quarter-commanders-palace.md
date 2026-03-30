@@ -1,5 +1,5 @@
 ---
-title: Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’...
+title: 'Memories of New Orleans - the French Quarter, Commanders Palace,...'
 pubDate: '2017-07-12'
 author: The Thirsty Pig
 source: instagram
@@ -48,4 +48,4 @@ region: Louisiana
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-07-12-memories-of-new-orleans-the-french-quarter-commanders-palace/17863878508154056.mp4" type="video/mp4"></video>
 
-Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’s Hurricane, Tropical Isle’s Hand Grenade, National WWII Museum, and some crazy ‘Gator pics.  And also eating crawfish
+Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’s Hurricane, Tropical Isle’s Hand Grenade, National WWII Museum, and some crazy ‘Gator pics. And also eating crawfish

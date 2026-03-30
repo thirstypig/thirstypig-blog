@@ -42,4 +42,4 @@ location: An Okinawan lunch at Habuya in Tustin
 
 ![An Okinawan lunch at Habuya in Tustin, CA](/images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17906973532000140.jpg)
 
-An Okinawan lunch at Habuya in Tustin, CA.  Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating.  The pork belly with poached egg is as decadent as it looks.  But the rice was cooked with too much water - too sticky.  Next time I’m gonna try the ramen.  @yummiapp @travistu110968 @thirstypig #thirstypig
+An Okinawan lunch at Habuya in Tustin, CA. Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating. The pork belly with poached egg is as decadent as it looks. But the rice was cooked with too much water - too sticky. Next time I’m gonna try the ramen. @yummiapp @travistu110968 @thirstypig #thirstypig

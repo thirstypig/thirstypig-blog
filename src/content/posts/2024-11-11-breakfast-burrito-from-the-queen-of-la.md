@@ -1,5 +1,5 @@
 ---
-title: Breakfast Burrito from the Queen of LA
+title: 'Breakfast Burrito from the Queen of LA, Los Angeles'
 pubDate: '2024-11-11'
 author: The Thirsty Pig
 source: instagram
@@ -34,7 +34,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/17995522484551990.mp4" type="video/mp4"></video>
 
-Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sauce.  Her Korean mom was there making sure they made quality burritos. 
+Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sauce. Her Korean mom was there making sure they made quality burritos. 
 .
 .
 .

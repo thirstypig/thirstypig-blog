@@ -1,5 +1,5 @@
 ---
-title: Roast chicken rice plate and chicken salad
+title: 'Roast chicken rice plate and chicken salad, Arcadia'
 pubDate: '2017-10-30'
 author: The Thirsty Pig
 source: instagram
@@ -32,4 +32,4 @@ coordinates:
 
 ![Roast chicken rice plate and chicken salad](/images/posts/ig-2017-10-30-roast-chicken-rice-plate-and-chicken-salad/17889321475081045.jpg)
 
-Roast chicken rice plate and chicken salad.  Wife stole my chicken leg. 🐷😩 Also had the chicken bone broth - good for a chilly day. Unfortunately quite salty (had to dilute with ice water). @sidechickla please check the broth before serving!! @thirstypig @yalin_wu #shotoniphone #iphonefood
+Roast chicken rice plate and chicken salad. Wife stole my chicken leg. 🐷😩 Also had the chicken bone broth - good for a chilly day. Unfortunately quite salty (had to dilute with ice water). @sidechickla please check the broth before serving!! @thirstypig @yalin_wu #shotoniphone #iphonefood

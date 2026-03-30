@@ -1,5 +1,5 @@
 ---
-title: The Sparrow Mart
+title: 'The Sparrow Mart, Downtown LA'
 pubDate: '2018-08-24'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![The Sparrow Mart](/images/posts/ig-2018-08-24-the-sparrow-mart/17944231183147450.jpg)
 
-The Sparrow Mart .... last day - tomorrow!  Interesting stuffed everyday products.  Maruchan Ramen, Jameson, and Heinz Ketchup were the best sellers.  Compelling and fascinating concept. .
+The Sparrow Mart .... last day - tomorrow! Interesting stuffed everyday products. Maruchan Ramen, Jameson, and Heinz Ketchup were the best sellers. Compelling and fascinating concept. .
 .
 .
 .

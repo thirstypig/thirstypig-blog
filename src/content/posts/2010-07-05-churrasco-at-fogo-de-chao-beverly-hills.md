@@ -52,3 +52,5 @@ coordinates:
   lat: 34.074534
   lng: -118.3941
 ---
+
+Larder at Maple Drive in Beverly Hills.

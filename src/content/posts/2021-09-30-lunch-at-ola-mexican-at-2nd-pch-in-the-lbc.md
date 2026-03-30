@@ -1,5 +1,5 @@
 ---
-title: Lunch at Ola Mexican at 2nd & PCH in the LBC
+title: 'Lunch at Ola Mexican at 2nd & PCH in the LBC, Long Beach'
 pubDate: '2021-09-30'
 author: The Thirsty Pig
 source: instagram

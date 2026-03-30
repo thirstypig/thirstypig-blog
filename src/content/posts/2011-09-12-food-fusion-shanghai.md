@@ -38,7 +38,7 @@ Then the barrage of mains flowed out, starting with the Nasi Lemak with Curry Ch
 
 This next serving was something for Andrew Zimmern, from Bizarre Foods. We had porridge粥and ‘Kung Po’ Frog Legs 宫保田鸡. There wasn’t any way I going to leave Food Fusion without tasting the Frog Legs, as it was Mr. D’s favorite. Yet after of couple of prodding’s, I almost reluctantly filled my bowl with rice porridge and looked for some appetible frog legs. The porridge is what you’d find in China, Japan, Vietnam, Korea, and anywhere else in Asia. But the frog legs, clay pot braised with onions, red peppers, and green onions in a thick soy sauce based broth. The broth by itself goes well in the porridge – that was a pleasant surprise. THe frog legs were also better than expected. Funny – it does taste like chicken, but more importantly it had the texture of chicken.
 
-The other dishes we had the Fried ‘Penang’ Kway Tiao 槟城炒蜾, the Otak-Otak 鱼肉, and Chicken Satay 鸡肉撒爹 were all pretty good. Though Mr. D made exception to the Otak Otak, the fish cake had a funny taste and he throughly disappointed with them. Personally, i thought they were ok. I think the banana leaves covered up the smell
+The other dishes we had the Fried ‘Penang’ Kway Tiao 槟城炒蜾, the Otak-Otak 鱼肉, and Chicken Satay 鸡肉撒爹 were all pretty good. Though Mr. D made exception to the Otak Otak, the fish cake had a funny taste and he throughly disappointed with them. Personally, I thought they were ok. I think the banana leaves covered up the smell
 
 The desserts, the Chendol 椰浆甜品 and Assorted ‘Nonya’ dessert 娘惹点心 were also quite good. This is coming from someone without a big sweet tooth. I guess I’m a sucker for anything with coconut.
 

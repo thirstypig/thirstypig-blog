@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 19, 2017
+title: 'Lucysfriedchick, Austin'
+description: 'Lucysfriedchick, Austin at Lucysfriedchick in Austin.'
 pubDate: '2017-06-19'
 author: The Thirsty Pig
 source: instagram

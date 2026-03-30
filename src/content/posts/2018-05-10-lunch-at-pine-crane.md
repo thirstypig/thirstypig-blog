@@ -1,5 +1,5 @@
 ---
-title: Lunch at Pine & Crane
+title: 'Lunch at Pine & Crane, Silver Lake'
 pubDate: '2018-05-10'
 author: The Thirsty Pig
 source: instagram
@@ -57,6 +57,6 @@ coordinates:
 
 ![Lunch at Pine & Crane](/images/posts/ig-2018-05-10-lunch-at-pine-crane/17866993717245792.jpg)
 
-Lunch at Pine & Crane.  Taiwanese fare in Silver Lake, minutes from DTLA.  Couldn’t order in Taiwanese, was skeptical.  But was slightly surprised.  Shrimp dumplings had good sauce.  Noodle texture was right on the Jia Jiang Mian and Dan Dan mian, but wasn’t the right noodle for me - but that’s just me.  The luo ruo fan (braised pork over rice) was ok - preferred diced pork belly instead of ground pork.  Sausage, cold sides, and drinks is good for the authentic experience, especially the Taiwan Apple Sidra.  And enjoyed the scallion pancake 蔥油餅.  Yes, I am Taiwanese and I have set a high bar and should.  I’m glad to see so many non-Asians discovering, trying, and accepting Taiwanese food. I dig it.
+Lunch at Pine & Crane. Taiwanese fare in Silver Lake, minutes from DTLA. Couldn’t order in Taiwanese, was skeptical. But was slightly surprised. Shrimp dumplings had good sauce. Noodle texture was right on the Jia Jiang Mian and Dan Dan mian, but wasn’t the right noodle for me - but that’s just me. The luo ruo fan (braised pork over rice) was ok - preferred diced pork belly instead of ground pork. Sausage, cold sides, and drinks is good for the authentic experience, especially the Taiwan Apple Sidra. And enjoyed the scallion pancake 蔥油餅. Yes, I am Taiwanese and I have set a high bar and should. I’m glad to see so many non-Asians discovering, trying, and accepting Taiwanese food. I dig it.
 .
 . @dhuang25 @thirstypig #humpday #lunch #food #chinesefood @pineandcrane

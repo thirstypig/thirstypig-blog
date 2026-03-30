@@ -46,4 +46,4 @@ If you go with a large group, that have a pretty cool long communal table.
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |
 | --- | --- |
-| Tikka  Updated 1 w, 1 d ago 2 Reviews  What is buzz ? Address: 56 Maoming Nan Lu,  茂名南路56号 Vicinity: Huaihai Zhong Lu Directions: near Changle Lu  近长乐路 Contact:  6054-2114 | 3 Pigs  Price Range 2 $/¥/NT |
+| Tikka Updated 1 w, 1 d ago 2 Reviews What is buzz ? Address: 56 Maoming Nan Lu, 茂名南路56号 Vicinity: Huaihai Zhong Lu Directions: near Changle Lu 近长乐路 Contact: 6054-2114 | 3 Pigs Price Range 2 $/¥/NT |

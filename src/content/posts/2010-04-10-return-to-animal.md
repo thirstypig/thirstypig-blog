@@ -1,5 +1,6 @@
 ---
 title: The Return to Animal
+description: '[](/images/posts/return-to-animal/Animal+1+interior.jpg)A group of us had dinner at Animal the other day. I didn''t want to write much, but just post up...'
 pubDate: '2010-04-10'
 author: The Thirsty Pig
 source: blog.thethirstypig.com

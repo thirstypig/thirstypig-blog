@@ -1,5 +1,5 @@
 ---
-title: 豫园 Yuyuan Garden Part 1
+title: '豫园 Yuyuan Garden Part 1, Shanghai'
 pubDate: '2010-11-17'
 author: The Thirsty Pig
 source: thethirstypig.com

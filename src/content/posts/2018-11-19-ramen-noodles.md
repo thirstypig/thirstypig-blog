@@ -33,7 +33,7 @@ location: Ramen noodles
 
 ![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/17971647328157514.jpg)
 
-Ramen noodles!  Had the black sesame broth with my tonkatsu ramen. .
+Ramen noodles! Had the black sesame broth with my tonkatsu ramen. .
 .
 .
 . @yummiapp @thirstypig

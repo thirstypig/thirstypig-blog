@@ -45,7 +45,7 @@ coordinates:
 
 ![Seafood brunch at Crude e Nudo on Santa Monica Main Street](/images/posts/ig-2024-10-01-seafood-brunch-at-crude-e-nudo-on-santa-monica-main-street/17850429153299173.jpg)
 
-Seafood brunch at Crude e Nudo on Santa Monica Main Street.  Cool little sidewalk cafe  with fresh seafood.  Had the roasted fish collars, chickpea toast, and tuna tartare toast.  Everything was yummy.  Would certainly visit again and would recommend. 
+Seafood brunch at Crude e Nudo on Santa Monica Main Street. Cool little sidewalk cafe with fresh seafood. Had the roasted fish collars, chickpea toast, and tuna tartare toast. Everything was yummy. Would certainly visit again and would recommend. 
 .
 .
 .

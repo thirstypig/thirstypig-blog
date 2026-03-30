@@ -1,5 +1,5 @@
 ---
-title: Galbi Tang
+title: 'Galbi Tang, San Gabriel Valley'
 pubDate: '2018-02-19'
 author: The Thirsty Pig
 source: instagram

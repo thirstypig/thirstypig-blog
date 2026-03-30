@@ -1,5 +1,5 @@
 ---
-title: 3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3...
+title: 'Uncle Yu Beer House, San Gabriel Valley'
 pubDate: '2017-11-06'
 author: The Thirsty Pig
 source: instagram
@@ -33,4 +33,4 @@ location: Uncle Yu Beer House
 
 ![3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3...](/images/posts/ig-2017-11-06-3-of-my-favorite-taiwanese-dishes-taiwanese-sausage-popcorn/17882917576133119.jpg)
 
-3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3 cup chicken 台灣香腸，鹽酥雞，和 三杯雞 I know some Taiwanese friends may not like the place, but I dig it.  I also like the soups and the TVs for sporting events. @uncleyubeerhouse @nerdspeed @fwidjaya @thirstypig @yalin_wu #thirstypig
+3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3 cup chicken 台灣香腸，鹽酥雞，和 三杯雞 I know some Taiwanese friends may not like the place, but I dig it. I also like the soups and the TVs for sporting events. @uncleyubeerhouse @nerdspeed @fwidjaya @thirstypig @yalin_wu #thirstypig

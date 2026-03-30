@@ -29,3 +29,5 @@ draft: false
 location: Japon Bistro
 region: San Gabriel Valley
 ---
+
+Japon Bistro.

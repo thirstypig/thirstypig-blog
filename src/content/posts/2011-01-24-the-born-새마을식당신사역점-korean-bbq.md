@@ -1,5 +1,5 @@
 ---
-title: The Born 새마을식당신사역점, Korean BBQ
+title: 'The Born 새마을식당신사역점, Korean BBQ, Shanghai'
 pubDate: '2011-01-24'
 author: The Thirsty Pig
 source: thethirstypig.com

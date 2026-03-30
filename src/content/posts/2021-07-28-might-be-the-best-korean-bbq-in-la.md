@@ -50,7 +50,7 @@ region: Los Angeles
 
 ![Might be the best Korean BBQ in LA](/images/posts/ig-2021-07-28-might-be-the-best-korean-bbq-in-la/17911678876935233.jpg)
 
-Might be the best Korean BBQ in LA.  Known for their highly selective cuts of beef, saying they only pick the top 3% for their Daedo cut. The daedo cut has ribeye roll, ribeye strips, and the next cut of them all - ribeye cap.  Tender and juicy and flavorful.  Their fried rice and porridge are also not to be missed as well.
+Might be the best Korean BBQ in LA. Known for their highly selective cuts of beef, saying they only pick the top 3% for their Daedo cut. The daedo cut has ribeye roll, ribeye strips, and the next cut of them all - ribeye cap. Tender and juicy and flavorful. Their fried rice and porridge are also not to be missed as well.
 .
 .
 .

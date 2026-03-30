@@ -1,5 +1,5 @@
 ---
-title: Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ
+title: "Honey's Kettle Fried Chicken, Culver City"
 pubDate: '2019-04-05'
 author: The Thirsty Pig
 source: instagram
@@ -40,6 +40,6 @@ coordinates:
 
 ![Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ](/images/posts/ig-2019-04-05-pad-thai-chicken-curry-shrimp-rolls-and-vegetables-at-thai-b/18052611337028620.jpg)
 
-Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ.  Average Thai American restaurant. Noodles were too chewy and the chicken was tough. Not sure if there was suppose to be lemongrass, which was absent.  Pretty sure I won’t return.  Looks like like they were solid with their fried rice - which other patrons were ordering.  Also, the majority of their menu was American style single plates. .
+Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ. Average Thai American restaurant. Noodles were too chewy and the chicken was tough. Not sure if there was suppose to be lemongrass, which was absent. Pretty sure I won’t return. Looks like like they were solid with their fried rice - which other patrons were ordering. Also, the majority of their menu was American style single plates. .
 .
 . @tomatocheng @amyluca

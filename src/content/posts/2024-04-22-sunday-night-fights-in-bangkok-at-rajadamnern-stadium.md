@@ -46,7 +46,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-04-22-sunday-night-fights-in-bangkok-at-rajadamnern-stadium/17957124668641318.mp4" type="video/mp4"></video>
 
-Sunday night fights in Bangkok at Rajadamnern Stadium. Cool venue. With A/C!!! Got to see a bunch of fights and got really good seats. Muay Thai kickboxing is a really great spectator sport.  There is action constantly. It was cool to hear the crowds go ooh and ahh and cheer for their favorite fighters.  Good times!
+Sunday night fights in Bangkok at Rajadamnern Stadium. Cool venue. With A/C!!! Got to see a bunch of fights and got really good seats. Muay Thai kickboxing is a really great spectator sport. There is action constantly. It was cool to hear the crowds go ooh and ahh and cheer for their favorite fighters. Good times!
 .
 .
 .

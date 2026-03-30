@@ -1,5 +1,5 @@
 ---
-title: Beach Volleyball in SoCal
+title: 'Beach Volleyball in SoCal, Manhattan Beach'
 pubDate: '2019-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -40,8 +40,8 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-08-18-beach-volleyball-in-socal/17884515697402523.mp4" type="video/mp4"></video>
 
-Beach Volleyball in SoCal!  AVP Manhattan Beach Open tournament. .
+Beach Volleyball in SoCal! AVP Manhattan Beach Open tournament. .
 .
 .
 .
-@avpbeach @budinger10 @zanamuno @crissyy28 @delaneyknudsen  @katiespieler #avpstrong @yalin_wu
+@avpbeach @budinger10 @zanamuno @crissyy28 @delaneyknudsen @katiespieler #avpstrong @yalin_wu

@@ -1,5 +1,5 @@
 ---
-title: Shanghainese lunch at Yummy Rice
+title: 'Shanghainese lunch at Yummy Rice, Los Angeles'
 pubDate: '2018-07-11'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Shanghainese lunch at Yummy Rice](/images/posts/ig-2018-07-11-shanghainese-lunch-at-yummy-rice/17960528248010833.jpg)
 
-Shanghainese lunch at Yummy Rice.  Funny name. One of the better shanghainese restaurants in LA.  Braised pork was ok. Vegetable fried rice was good. The cold dish of cucumber and diced soy tofu was good.  The spicy wontons and fried fish were even better.  Recommend!
+Shanghainese lunch at Yummy Rice. Funny name. One of the better shanghainese restaurants in LA. Braised pork was ok. Vegetable fried rice was good. The cold dish of cucumber and diced soy tofu was good. The spicy wontons and fried fish were even better. Recommend!
 .
 .
 .

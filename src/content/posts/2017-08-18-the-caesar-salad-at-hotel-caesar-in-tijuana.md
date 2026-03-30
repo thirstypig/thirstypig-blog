@@ -43,4 +43,4 @@ location: The Caesar Salad at Hotel Caesar in Tijuana
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-08-18-the-caesar-salad-at-hotel-caesar-in-tijuana/17895738034051453.mp4" type="video/mp4"></video>
 
-The Caesar Salad at Hotel Caesar in Tijuana. Invented in 1927, this is where it all began.  The Caesar Salad is my favorite salad.
+The Caesar Salad at Hotel Caesar in Tijuana. Invented in 1927, this is where it all began. The Caesar Salad is my favorite salad.

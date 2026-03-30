@@ -56,4 +56,4 @@ coordinates:
 
 ![Japanese ceramics from LA Little Tokyo Utsuwa No Yakata](/images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17865584620103222.jpg)
 
-Japanese ceramics from LA Little Tokyo Utsuwa No Yakata.  Creative designs!
+Japanese ceramics from LA Little Tokyo Utsuwa No Yakata. Creative designs!

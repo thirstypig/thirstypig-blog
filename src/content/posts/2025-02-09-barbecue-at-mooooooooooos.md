@@ -1,5 +1,5 @@
 ---
-title: Barbecue at Mooooooooooo’s
+title: 'Barbecue at Mooooooooooo’s, East LA'
 pubDate: '2025-02-09'
 author: The Thirsty Pig
 source: instagram
@@ -49,11 +49,11 @@ coordinates:
 
 Barbecue at Mooooooooooo’s . . . . 
 
-With brisket, pork ribs, sausage, and pork belly burnt ends and loads of sides - corn, Mac & cheese, and frito pie.  My relatives loved the pork ribs - which I assume was something familiar.  The brisket was new for them.  But what really turned them on was the unexpected dessert. 
+With brisket, pork ribs, sausage, and pork belly burnt ends and loads of sides - corn, Mac & cheese, and frito pie. My relatives loved the pork ribs - which I assume was something familiar. The brisket was new for them. But what really turned them on was the unexpected dessert. 
 
-They were telling me that they were so full, then they saw and tasted the tres leches bread pudding, with soft croissant bread. They said their stomach had space for dessert. It was like another gear.  Or was it extra space in the stomach. I thought it was pretty good too.  Wasn’t too sweet. It was good, even if I was trying to order the key like pie (which was sold out - by 12:30 Thursday). 
+They were telling me that they were so full, then they saw and tasted the tres leches bread pudding, with soft croissant bread. They said their stomach had space for dessert. It was like another gear. Or was it extra space in the stomach. I thought it was pretty good too. Wasn’t too sweet. It was good, even if I was trying to order the key like pie (which was sold out - by 12:30 Thursday). 
 
-I want to discuss the frito pie.  Interestingly I grew up in Southern California and I had the frito pie when I playing little league.  And it wasn’t called that back then.  I knew it as pepper bellies - and some times it included beans.  I would argue with some of my Midwest friends about this nomenclature about the correct name, which was a non-winning expenditure of mental effortness - which I regret. But after all these not having pepper bellies - it took me back to the good old days of little league. Makes me want to make some at home.
+I want to discuss the frito pie. Interestingly I grew up in Southern California and I had the frito pie when I playing little league. And it wasn’t called that back then. I knew it as pepper bellies - and some times it included beans. I would argue with some of my Midwest friends about this nomenclature about the correct name, which was a non-winning expenditure of mental effortness - which I regret. But after all these not having pepper bellies - it took me back to the good old days of little league. Makes me want to make some at home.
 .
 .
 .

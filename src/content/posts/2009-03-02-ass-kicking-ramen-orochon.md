@@ -1,5 +1,5 @@
 ---
-title: Ass Kicking Ramen! – Orochon
+title: 'Ass Kicking Ramen! – Orochon, Tokyo'
 pubDate: '2009-03-02'
 author: The Thirsty Pig
 source: thethirstypig.com

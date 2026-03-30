@@ -1,5 +1,5 @@
 ---
-title: Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more...
+title: 'Kemuri Tatsu-Ya, Austin'
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -54,4 +54,4 @@ city: Austin
 
 ![Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more...](/images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17860500790132497.jpg)
 
-@kemuritatsu_ya #kemuritatsu_ya Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese and brisket) are recommended.  No need to order the Tamale (sticky rice with beef tongue) and chicken meat ball - both ok, nothing to write home about.
+@kemuritatsu_ya #kemuritatsu_ya Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese and brisket) are recommended. No need to order the Tamale (sticky rice with beef tongue) and chicken meat ball - both ok, nothing to write home about.

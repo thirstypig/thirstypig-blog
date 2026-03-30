@@ -1,5 +1,5 @@
 ---
-title: Oyaku Don, Udon, and Saba
+title: 'Oyaku Don, Udon, and Saba, Little Tokyo'
 pubDate: '2019-11-24'
 author: The Thirsty Pig
 source: instagram
@@ -37,7 +37,7 @@ coordinates:
 
 ![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/17886037276443455.jpg)
 
-Oyaku Don, Udon, and Saba.  Suehiro is Little Tokyo’s Japanese Denny’s.  Love this place.  Can always good Japanese comfort dishes.  They good rice dishes, ramen, and other dishes. Open Late.  But parking sucks - only paid lots and barely any street parking available. .
+Oyaku Don, Udon, and Saba. Suehiro is Little Tokyo’s Japanese Denny’s. Love this place. Can always good Japanese comfort dishes. They good rice dishes, ramen, and other dishes. Open Late. But parking sucks - only paid lots and barely any street parking available. .
 .
 .
 .

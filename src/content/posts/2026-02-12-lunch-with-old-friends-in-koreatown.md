@@ -40,4 +40,4 @@ coordinates:
 
 ![lunch with old friends in Koreatown](/images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18142536136480128.jpg)
 
-@liuscafe lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons.  Yummy. Everything was great. Would recommend and would visit again.  Next time I would try the toast @dhuang25
+@liuscafe lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons. Yummy. Everything was great. Would recommend and would visit again. Next time I would try the toast @dhuang25

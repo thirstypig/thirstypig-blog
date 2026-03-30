@@ -27,3 +27,5 @@ coordinates:
   lat: 34.105302
   lng: -118.06929
 ---
+
+Dai Ho Restaurant (大和) in Temple City.

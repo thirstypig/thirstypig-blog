@@ -30,4 +30,4 @@ region: San Gabriel Valley
 
 ![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17928717892040531.jpg)
 
-Pho at Pho Fillet 2 in #SGV.  Good alternative to Golden Deli.  #pho #noodles #vietnamesefood @yalin_wu #shotoniphonex
+Pho at Pho Fillet 2 in #SGV. Good alternative to Golden Deli. #pho #noodles #vietnamesefood @yalin_wu #shotoniphonex

@@ -48,7 +48,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2024-05-04-costco-in-taipei/18023330051153454.mp4" type="video/mp4"></video>
 
-Costco in Taipei.  Had to check it out.  I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week.  Yeah, I know I’m crazy.  But what the hell.  Anyways. The $5 chicken there but slightly higher priced. But they also had some other good deals for hot foods - like pork knuckle. Their hot dog and soda deal was there too. They said their hot dogs came from the US.
+Costco in Taipei. Had to check it out. I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week. Yeah, I know I’m crazy. But what the hell. Anyways. The $5 chicken there but slightly higher priced. But they also had some other good deals for hot foods - like pork knuckle. Their hot dog and soda deal was there too. They said their hot dogs came from the US.
 .
 .
 .

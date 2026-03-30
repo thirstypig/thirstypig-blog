@@ -1,5 +1,5 @@
 ---
-title: Pretty good bbq pork on rice in Vegas
+title: 'Pretty good bbq pork on rice in Vegas, Las Vegas'
 pubDate: '2017-12-23'
 author: The Thirsty Pig
 source: instagram

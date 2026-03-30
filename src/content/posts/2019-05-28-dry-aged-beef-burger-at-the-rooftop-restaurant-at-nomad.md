@@ -1,5 +1,5 @@
 ---
-title: Dry Aged Beef Burger at the rooftop restaurant at NoMad
+title: 'Dry Aged Beef Burger at the rooftop restaurant at NoMad,...'
 pubDate: '2019-05-28'
 author: The Thirsty Pig
 source: instagram

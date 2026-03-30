@@ -1,5 +1,5 @@
 ---
-title: 便當 (The Bento Box) aboard Taiwan’s HSR
+title: '便當 (The Bento Box) aboard Taiwan’s HSR, Taipei'
 pubDate: '2010-06-07'
 author: The Thirsty Pig
 source: thethirstypig.com

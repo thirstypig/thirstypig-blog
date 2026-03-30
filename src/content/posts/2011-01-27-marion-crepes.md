@@ -1,5 +1,5 @@
 ---
-title: Marion Crepes
+title: 'Marion Crepes, Seoul'
 pubDate: '2011-01-27'
 author: The Thirsty Pig
 source: thethirstypig.com

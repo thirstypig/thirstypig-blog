@@ -1,5 +1,5 @@
 ---
-title: Spicy Galbi Jim with Cheese at Sun Nong Dan
+title: 'Spicy Galbi Jim with Cheese at Sun Nong Dan, Koreatown'
 pubDate: '2018-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -31,7 +31,7 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-08-05-spicy-galbi-jim-with-cheese-at-sun-nong-dan/17906613283207266.mp4" type="video/mp4"></video>
 
-Spicy Galbi Jim with Cheese at Sun Nong Dan.  With a couple of soups.
+Spicy Galbi Jim with Cheese at Sun Nong Dan. With a couple of soups.
 .
 .
 .

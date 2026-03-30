@@ -1,5 +1,5 @@
 ---
-title: You Zi Lin 柚子林 – Charcoal Grilling
+title: 'You Zi Lin 柚子林 – Charcoal Grilling, Shanghai'
 pubDate: '2013-08-22'
 author: The Thirsty Pig
 source: thirstypig.com

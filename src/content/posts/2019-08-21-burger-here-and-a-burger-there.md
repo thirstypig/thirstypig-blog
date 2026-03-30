@@ -1,5 +1,5 @@
 ---
-title: Burger here and a burger there
+title: 'Burger here and a burger there, Hollywood'
 pubDate: '2019-08-21'
 author: The Thirsty Pig
 source: instagram

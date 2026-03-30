@@ -1,5 +1,5 @@
 ---
-title: More Truck Feasting . . . The Flying Pig Truck
+title: 'More Truck Feasting . . . The Flying Pig Truck, Downtown LA'
 pubDate: '2010-04-08'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: The meat of the meal
+title: 'The meat of the meal, Shanghai'
 pubDate: '2018-07-23'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![The meat of the meal](/images/posts/ig-2018-07-23-the-meat-of-the-meal/17947269529119516.jpg)
 
-The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite.  The roast duck might have been too dry with the steamed buns.  The fried fish was gobbled up so fast by everyone.  Unfortunately the crab was not too popular.  And the tang yuan rice Ball soup dessert was good except for the slightly too sour broth.  And the friend dumplings 生煎包 almost had a breading to meat ratio that skewed too much toward the wrong side.  And happy 100 days - Troy!
+The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed buns. The fried fish was gobbled up so fast by everyone. Unfortunately the crab was not too popular. And the tang yuan rice Ball soup dessert was good except for the slightly too sour broth. And the friend dumplings 生煎包 almost had a breading to meat ratio that skewed too much toward the wrong side. And happy 100 days - Troy!
 .
 .
 .

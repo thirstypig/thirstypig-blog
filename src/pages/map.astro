@@ -35,16 +35,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			// Cluster-like approach: use circle markers for density
 			const markerGroup = L.featureGroup();
 
+			// Scale marker radius based on zoom level
+			function getRadius(zoom: number) {
+				if (zoom <= 3) return 4;
+				if (zoom <= 5) return 5;
+				if (zoom <= 8) return 6;
+				return 7;
+			}
+
+			const allMarkers: any[] = [];
+
 			markers.forEach((m: any) => {
 				const color = m.closed ? '#9A3412' : '#B45309';
 				const marker = L.circleMarker([m.lat, m.lng], {
-					radius: 6,
+					radius: getRadius(map.getZoom()),
 					fillColor: color,
 					color: '#fff',
 					weight: 1.5,
 					opacity: 1,
 					fillOpacity: 0.85,
 				});
+				allMarkers.push(marker);
 
 				const imgHtml = m.heroImage
 					? `<img src="${m.heroImage}" alt="${m.title}" style="width:200px;height:130px;object-fit:cover;border-radius:6px;margin-bottom:6px;" loading="lazy" />`
@@ -82,6 +93,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			if (markers.length > 0) {
 				map.fitBounds(markerGroup.getBounds().pad(0.1));
 			}
+
+			// Resize markers when zoom changes
+			map.on('zoomend', () => {
+				const r = getRadius(map.getZoom());
+				allMarkers.forEach(m => m.setRadius(r));
+			});
 
 			document.getElementById('map-count')!.textContent =
 				`${markers.length} restaurants mapped`;

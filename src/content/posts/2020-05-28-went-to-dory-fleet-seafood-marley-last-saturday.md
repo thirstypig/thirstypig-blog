@@ -44,7 +44,7 @@ region: Orange County
 
 ![Went to Dory Fleet Seafood Marley last Saturday](/images/posts/ig-2020-05-28-went-to-dory-fleet-seafood-marley-last-saturday/18105864475130496.jpg)
 
-Went to Dory Fleet Seafood Marley last Saturday.  Got some Sea Urchin, Crabs, Spot Prawns, Sea Snails, and this abalone-looking thing.  Regret we didn’t get any fish.  Next time we will get more sea urchin, crab, and spot prawns.  The Spot prawn line was crazy long and took a long time.  The crab sold out fast.  If you go on the weekends, make sure you get there early. 
+Went to Dory Fleet Seafood Marley last Saturday. Got some Sea Urchin, Crabs, Spot Prawns, Sea Snails, and this abalone-looking thing. Regret we didn’t get any fish. Next time we will get more sea urchin, crab, and spot prawns. The Spot prawn line was crazy long and took a long time. The crab sold out fast. If you go on the weekends, make sure you get there early. 
 Next time I need to wear gloves when I open up the Sea Urchin. .
 .
 .

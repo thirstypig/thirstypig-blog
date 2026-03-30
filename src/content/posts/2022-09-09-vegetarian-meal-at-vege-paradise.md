@@ -29,4 +29,4 @@ location: Vegetarian meal at Vege Paradise
 
 ![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17938488344468238.jpg)
 
-Vegetarian meal at Vege Paradise.  #vegeparadise #vegan #vegetarian
+Vegetarian meal at Vege Paradise. #vegeparadise #vegan #vegetarian

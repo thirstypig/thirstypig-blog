@@ -1,5 +1,5 @@
 ---
-title: Laurel Restaurant 丹桂轩, Shenzhen
+title: 'Laurel Restaurant 丹桂轩, Shenzhen, Hong Kong'
 pubDate: '2011-02-26'
 author: The Thirsty Pig
 source: thirstypig.com

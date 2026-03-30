@@ -1,5 +1,5 @@
 ---
-title: Basking in the Glory of the Dumpling from Little Yang’s
+title: 'Little Catch, Shanghai'
 pubDate: '2010-09-03'
 author: The Thirsty Pig
 source: thethirstypig.com

@@ -1,5 +1,5 @@
 ---
-title: Toast & Tea at Tea Station
+title: 'Toast & Tea at Tea Station, Los Angeles'
 pubDate: '2009-10-07'
 author: The Thirsty Pig
 source: thethirstypig.com

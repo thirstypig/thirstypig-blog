@@ -1,5 +1,5 @@
 ---
-title: Si Hai Tou Jiang – Taiwanese Breakfast Delight
+title: 'Si Hai Tou Jiang – Taiwanese Breakfast Delight, Taipei'
 pubDate: '2009-06-07'
 author: The Thirsty Pig
 source: thethirstypig.com

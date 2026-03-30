@@ -1,5 +1,5 @@
 ---
-title: Last night in NYC
+title: 'Last night in NYC, New York'
 pubDate: '2018-01-08'
 author: The Thirsty Pig
 source: instagram
@@ -50,4 +50,4 @@ coordinates:
 
 ![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17905204441111088.jpg)
 
-Last night in NYC.  @lecoucou_nyc had the chicken & foie gras, lamb chop, and lobster @yalin_wu @gogomeow
+Last night in NYC. @lecoucou_nyc had the chicken & foie gras, lamb chop, and lobster @yalin_wu @gogomeow

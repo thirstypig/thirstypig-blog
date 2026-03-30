@@ -1,4 +1,5 @@
 import { defineConfig } from "tinacms";
+import LocationLookup from "./LocationLookup";
 
 const branch = process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
@@ -9,6 +10,15 @@ export default defineConfig({
   branch,
   clientId: process.env.TINA_CLIENT_ID || "",
   token: process.env.TINA_TOKEN || "",
+
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_TOKEN || "",
+      stopwordLanguages: ["eng"],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 200,
+  },
 
   build: {
     outputFolder: "admin",
@@ -104,6 +114,9 @@ export default defineConfig({
             type: "string",
             name: "location",
             label: "Restaurant / Location Name",
+            ui: {
+              component: LocationLookup,
+            },
           },
           {
             type: "string",
@@ -114,6 +127,44 @@ export default defineConfig({
             type: "string",
             name: "region",
             label: "Region",
+          },
+          {
+            type: "string",
+            name: "address",
+            label: "Street Address",
+          },
+          {
+            type: "object",
+            name: "coordinates",
+            label: "GPS Coordinates",
+            fields: [
+              {
+                type: "number",
+                name: "lat",
+                label: "Latitude",
+              },
+              {
+                type: "number",
+                name: "lng",
+                label: "Longitude",
+              },
+            ],
+          },
+          {
+            type: "image",
+            name: "images",
+            label: "Additional Images",
+            list: true,
+          },
+          {
+            type: "string",
+            name: "originalUrl",
+            label: "Original URL",
+          },
+          {
+            type: "string",
+            name: "archiveUrl",
+            label: "Archive URL",
           },
           {
             type: "string",

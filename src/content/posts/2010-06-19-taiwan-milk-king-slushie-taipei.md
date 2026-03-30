@@ -63,7 +63,7 @@ border: 2px solid #cfcfcf;
 margin-left: 0;
 }
 
-SHARETHIS.addEntry({ title: "Taiwanese Slushie at 臺一牛奶大王 Milk King", url: "http://www.thethirstypig.com/2010/06/19/taiwan-milk-king-slushie-taipei/" });
+SHARETHIS.addEntry({ title: 'Taiwanese Slushie at 臺一牛奶大王 Milk King, Taipei', url: "http://www.thethirstypig.com/2010/06/19/taiwan-milk-king-slushie-taipei/" });
 
 ---
 

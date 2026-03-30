@@ -56,6 +56,6 @@ coordinates:
 
 ![Wonderful dinner at Bavel, sister restaurant of Bestia](/images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17944172587042058.jpg)
 
-Wonderful dinner at Bavel, sister restaurant of Bestia.  Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have.  We had foie gras halva and olives to start.  Then we had my favorite - the Malawach flat bread.  The grilled oyster mushrooms and grilled octopus was yummy.  I want to reproduce the mushrooms at home, seriously.  And finished off with the grilled lamb saddle chop - never had that before.  Yum!  Can’t wait to visit again. .
+Wonderful dinner at Bavel, sister restaurant of Bestia. Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have. We had foie gras halva and olives to start. Then we had my favorite - the Malawach flat bread. The grilled oyster mushrooms and grilled octopus was yummy. I want to reproduce the mushrooms at home, seriously. And finished off with the grilled lamb saddle chop - never had that before. Yum! Can’t wait to visit again. .
 .
 #thirstypig #eeeeeats #bavel @fongjf123 @yalin_wu #middleeastern #middleeasternood #food #dinner @thirstypig #yummy #dtla #artsdistrictla @baveldtla

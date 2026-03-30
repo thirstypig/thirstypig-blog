@@ -42,7 +42,7 @@ location: Cast iron pan pizza
 
 ![Cast iron pan pizza](/images/posts/ig-2021-02-05-cast-iron-pan-pizza/18138265834090411.jpg)
 
-Cast iron pan pizza.  Learned from @aragusea I had to experiment a few times in order to get the crust just right.  Really like this pizza recipe.  Yummy!  I used regular all purpose flour. Mozzarella cheese, pepperoni, and Italian sausage.  One ingredient that was a hit was - crumbled spicy breakfast sausage 
+Cast iron pan pizza. Learned from @aragusea I had to experiment a few times in order to get the crust just right. Really like this pizza recipe. Yummy! I used regular all purpose flour. Mozzarella cheese, pepperoni, and Italian sausage. One ingredient that was a hit was - crumbled spicy breakfast sausage 
 .
 .
 .

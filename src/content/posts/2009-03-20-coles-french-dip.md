@@ -1,5 +1,5 @@
 ---
-title: Cole’s French Dip
+title: 'Cole’s French Dip, Downtown LA'
 pubDate: '2009-03-20'
 author: The Thirsty Pig
 source: thethirstypig.com

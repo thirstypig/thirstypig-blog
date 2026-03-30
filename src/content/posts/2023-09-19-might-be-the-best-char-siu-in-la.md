@@ -27,7 +27,7 @@ region: Los Angeles
 
 ![Might be the best Char Siu in LA](/images/posts/ig-2023-09-19-might-be-the-best-char-siu-in-la/17907915524821917.jpg)
 
-Might be the best Char Siu in LA.  If there is a better one please let me know.  Check out @tastemakersapp for more pics
+Might be the best Char Siu in LA. If there is a better one please let me know. Check out @tastemakersapp for more pics
 .
 .
 .

@@ -48,4 +48,4 @@ region: Texas
 
 ![Made a trek to Lockhart, BBQ Capital of Texas](/images/posts/ig-2017-06-10-made-a-trek-to-lockhart-bbq-capital-of-texas/17882854639037167.jpg)
 
-Made a trek to Lockhart, BBQ Capital of Texas.  Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket.  I like the ham and sausage more than the others. Went on Saturday with only a 40 min wait.  @kreuzmarket
+Made a trek to Lockhart, BBQ Capital of Texas. Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket. I like the ham and sausage more than the others. Went on Saturday with only a 40 min wait. @kreuzmarket

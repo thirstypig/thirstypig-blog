@@ -26,3 +26,5 @@ location: J J’s Sandwich Shop
 city: Dtla
 region: Downtown LA
 ---
+
+J J’s Sandwich Shop in Dtla.

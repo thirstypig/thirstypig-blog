@@ -1,5 +1,5 @@
 ---
-title: Lunch with buds
+title: 'Lunch with buds, Downtown LA'
 pubDate: '2019-10-25'
 author: The Thirsty Pig
 source: instagram
@@ -39,7 +39,7 @@ coordinates:
 
 ![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/17886645244432921.jpg)
 
-Lunch with buds.  Plan Check’s patty melt, burger, and asian salad.  Yum! .
+Lunch with buds. Plan Check’s patty melt, burger, and asian salad. Yum! .
 .
 .
 .

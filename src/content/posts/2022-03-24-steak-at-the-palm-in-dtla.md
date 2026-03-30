@@ -1,5 +1,5 @@
 ---
-title: Steak at the Palm in DTLA
+title: 'Steak at the Palm in DTLA, Downtown LA'
 pubDate: '2022-03-24'
 author: The Thirsty Pig
 source: instagram
@@ -49,7 +49,7 @@ coordinates:
 
 ![Steak at the Palm in DTLA](/images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/18159269617212414.jpg)
 
-Steak at the Palm in DTLA.  The tomahawk ribeye and a bunch of sides.  Started off with a nice bottle of wine. Solid steakhouse that came from NYC.
+Steak at the Palm in DTLA. The tomahawk ribeye and a bunch of sides. Started off with a nice bottle of wine. Solid steakhouse that came from NYC.
 .
 .
 .

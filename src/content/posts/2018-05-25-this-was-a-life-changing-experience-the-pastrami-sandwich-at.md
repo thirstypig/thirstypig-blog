@@ -1,5 +1,5 @@
 ---
-title: This was a life changing experience - the pastrami sandwich at Katz Deli
+title: "Katz's Delicatessen, New York"
 pubDate: '2018-05-25'
 author: The Thirsty Pig
 source: instagram
@@ -44,7 +44,7 @@ coordinates:
 
 ![This was a life changing experience - the pastrami sandwich at Katz Deli](/images/posts/ig-2018-05-25-this-was-a-life-changing-experience-the-pastrami-sandwich-at/17942006062068024.jpg)
 
-This was a life changing experience - the pastrami sandwich at Katz Deli.  I’ve had pastrami sandwiches in LA at multiple places and nothing compares.  I was shaking my head the whole time eating.  I had to show the 4 shots of sandwich.  Yummy. Also had to get the coleslaw so we wouldn’t feel so guilty.  LOL
+This was a life changing experience - the pastrami sandwich at Katz Deli. I’ve had pastrami sandwiches in LA at multiple places and nothing compares. I was shaking my head the whole time eating. I had to show the 4 shots of sandwich. Yummy. Also had to get the coleslaw so we wouldn’t feel so guilty. LOL
 .
 .
 .

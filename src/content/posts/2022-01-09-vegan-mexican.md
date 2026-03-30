@@ -1,5 +1,5 @@
 ---
-title: Vegan Mexican
+title: 'Vegan Mexican, West Hollywood'
 pubDate: '2022-01-09'
 author: The Thirsty Pig
 source: instagram

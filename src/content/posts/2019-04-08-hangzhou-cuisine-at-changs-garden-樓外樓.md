@@ -1,5 +1,5 @@
 ---
-title: Hangzhou Cuisine at Chang’s Garden 樓外樓
+title: 'Hangzhou Cuisine at Chang’s Garden 樓外樓, Arcadia'
 pubDate: '2019-04-08'
 author: The Thirsty Pig
 source: instagram
@@ -40,5 +40,5 @@ coordinates:
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/18052314316053935.mp4" type="video/mp4"></video>
 
-Hangzhou Cuisine at Chang’s Garden 樓外樓.  The big fatty pork belly, bitter melon, a big bowl lamb stew, and rice balls.
+Hangzhou Cuisine at Chang’s Garden 樓外樓. The big fatty pork belly, bitter melon, a big bowl lamb stew, and rice balls.
 .

@@ -1,5 +1,5 @@
 ---
-title: Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding
+title: "Mother's Restaurant, New Orleans"
 pubDate: '2017-07-07'
 author: The Thirsty Pig
 source: instagram
@@ -42,4 +42,4 @@ coordinates:
 
 ![Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding](/images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17878822021076503.jpg)
 
-Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding.  Washed down with Yuengling Beer.  Tonight we are just tasting a few dishes.  #jambalaya #gumbo #breadpudding #yuengling @yuenglingbeer #mothersrestaurant @mothersrestaurant
+Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding. Washed down with Yuengling Beer. Tonight we are just tasting a few dishes. #jambalaya #gumbo #breadpudding #yuengling @yuenglingbeer #mothersrestaurant @mothersrestaurant

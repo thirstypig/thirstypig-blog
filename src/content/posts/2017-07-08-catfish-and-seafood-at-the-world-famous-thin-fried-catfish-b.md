@@ -1,5 +1,5 @@
 ---
-title: Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...
+title: "Middendorf's, New Orleans"
 pubDate: '2017-07-08'
 author: The Thirsty Pig
 source: instagram

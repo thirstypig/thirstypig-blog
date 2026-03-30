@@ -1,5 +1,5 @@
 ---
-title: The Korean Melrose Avenue – Garosugil Street 신사동
+title: 'The Korean Melrose Avenue – Garosugil Street 신사동, Seoul'
 pubDate: '2011-01-22'
 author: The Thirsty Pig
 source: thethirstypig.com

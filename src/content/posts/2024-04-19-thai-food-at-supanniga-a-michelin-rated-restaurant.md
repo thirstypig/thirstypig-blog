@@ -1,5 +1,5 @@
 ---
-title: Thai food at Supanniga - a Michelin rated restaurant
+title: 'Thai Food At Samranrat, Bangkok'
 pubDate: '2024-04-19'
 author: The Thirsty Pig
 source: instagram
@@ -48,7 +48,7 @@ coordinates:
 
 ![Thai food at Supanniga - a Michelin rated restaurant](/images/posts/ig-2024-04-19-thai-food-at-supanniga-a-michelin-rated-restaurant/18001463744310501.jpg)
 
-Thai food at Supanniga - a Michelin rated restaurant.  Very good lunch with an old buddy. Haven’t been to Bangkok since 2011.  Fresh coconut juice was refreshing and set my expectations high. 
+Thai food at Supanniga - a Michelin rated restaurant. Very good lunch with an old buddy. Haven’t been to Bangkok since 2011. Fresh coconut juice was refreshing and set my expectations high. 
 .
 .
 .

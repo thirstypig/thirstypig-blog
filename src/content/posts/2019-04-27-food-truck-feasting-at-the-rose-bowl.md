@@ -1,5 +1,5 @@
 ---
-title: Food Truck Feasting at the Rose Bowl
+title: 'Food Truck Feasting at the Rose Bowl, Pasadena'
 pubDate: '2019-04-27'
 author: The Thirsty Pig
 source: instagram
@@ -57,7 +57,7 @@ coordinates:
 
 ![Food Truck Feasting at the Rose Bowl](/images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/18058261438003711.jpg)
 
-Food Truck Feasting at the Rose Bowl.  #finalfridays had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded pork from the Triple Threat Truck (Puerto Rico Cuisine). And finished it off with Cookie Monster ice cream from the Aftershock ice cream truck.  I like how it was that crowded and the lines were reasonable.  This is the first food truck event I’ve been to in years.  Would return.  Glad I brought beach and tailgating chairs to kick back on.
+Food Truck Feasting at the Rose Bowl. #finalfridays had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded pork from the Triple Threat Truck (Puerto Rico Cuisine). And finished it off with Cookie Monster ice cream from the Aftershock ice cream truck. I like how it was that crowded and the lines were reasonable. This is the first food truck event I’ve been to in years. Would return. Glad I brought beach and tailgating chairs to kick back on.
 .
 .
 . @rosebowlstadium @fongjf123 @tomatocheng #thirstypig @dinasdumpling @triplethreattrk @aftersicecream

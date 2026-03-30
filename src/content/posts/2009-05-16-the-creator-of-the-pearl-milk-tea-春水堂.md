@@ -1,5 +1,5 @@
 ---
-title: The Creator of the Pearl Milk Tea – 春水堂
+title: 'The Creator of the Pearl Milk Tea – 春水堂, Taipei'
 pubDate: '2009-05-16'
 author: The Thirsty Pig
 source: thethirstypig.com

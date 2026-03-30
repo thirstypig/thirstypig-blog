@@ -32,7 +32,7 @@ description: Enjoying a dodger win on a nice summer night! Great tee shirt on Ja
 
 ![Enjoying a dodger win on a nice summer night](/images/posts/ig-2018-07-14-enjoying-a-dodger-win-on-a-nice-summer-night/17931576538146777.jpg)
 
-Enjoying a dodger win on a nice summer night!  Great tee shirt on Japan Night 🇯🇵 was eyeing the Los Doyers tee shirt, too. .
+Enjoying a dodger win on a nice summer night! Great tee shirt on Japan Night 🇯🇵 was eyeing the Los Doyers tee shirt, too. .
 .
 .
 .

@@ -1,5 +1,5 @@
 ---
-title: Breakfast at JiST cafe
+title: 'Breakfast at JiST cafe, Little Tokyo'
 pubDate: '2021-09-17'
 author: The Thirsty Pig
 source: instagram

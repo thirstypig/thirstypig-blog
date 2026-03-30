@@ -1,5 +1,5 @@
 ---
-title: Harissa Chicken Sandwich at the
+title: 'Harissa Chicken Sandwich at the, Los Angeles'
 pubDate: '2017-12-02'
 author: The Thirsty Pig
 source: instagram
