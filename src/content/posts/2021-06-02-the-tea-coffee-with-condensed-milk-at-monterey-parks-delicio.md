@@ -17,9 +17,13 @@ tags:
 - eats
 - thirstypig
 description: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner. This is tea and coffee not just tea not just coffee. It is a combo. I dig the details on the spoon. . . . . . .
-location: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner
+location: Monterey Park Bruggemeyer Library
 city: Monterey Park
 region: San Gabriel Valley
+address: 318 S Ramona Ave (at Newmark Ave), Monterey Park, CA 91754
+coordinates:
+  lat: 34.059099
+  lng: -118.124781
 ---
 
 ![The tea coffee with condensed milk at Monterey Parks Delicious Food Corner](/images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg)

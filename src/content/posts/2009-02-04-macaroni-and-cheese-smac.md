@@ -16,8 +16,8 @@ tags:
 description: 'One of my favorite American fares is Mac and Cheese. This toxic mix of processed cheese with mini machine cut pasta is wholesome goodness The gooeyness brings us back to our childhood. For me. . . my '
 archiveUrl: https://web.archive.org/web/20110105100124/http://www.thethirstypig.com/2009/02/04/macaroni-and-cheese-smac/
 draft: false
-location: Macaroni and Cheese!
-city: S’Mac
+city: Los Angeles
+region: Los Angeles
 ---
 
 One of my favorite American fares is Mac and Cheese. This toxic mix of processed cheese with mini machine cut pasta is wholesome goodness! The gooeyness brings us back to our childhood. For me. . . my college days are reminded of this hearty dish. I roommate used to add additional cheese to the prepackaged version – almost creating a thick stew of cheese. This comfort food will just make everyone smile.

@@ -12,7 +12,6 @@ description: Tourists, foreigners, and out of towners usually have little or no 
 archiveUrl: https://web.archive.org/web/20161105232236/http://thirstypig.com/2011/08/13/lemongrass-ho-chi-minh-city/
 draft: false
 location: Lemongrass
-city: Ho Chi Minh City
 ---
 
 

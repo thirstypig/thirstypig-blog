@@ -23,7 +23,7 @@ tags:
 - tourist
 - tourism
 description: Enjoying the experience at Koh Samui. Interesting airport, big Buddha, and the resort. Had a great time. Could have stayed longer. Fun times! . . .
-location: Enjoying the experience at Koh Samui
+location: Koh Samui
 ---
 
 ![Enjoying the experience at Koh Samui](/images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/17846603640181826.jpg)

@@ -25,9 +25,13 @@ tags:
 - gansevoort
 - meatpackingdistrict
 description: Grant Wood’s American Gothic at the Whitney Museum of American Art. Part 1 of 2 posts. Plus a bunch of other interesting art pieces.
-location: Grant Wood’s American Gothic at the Whitney Museum of American Art
 city: New York
 region: New York
+location: Whitney Museum of American Art
+address: 99 Gansevoort St (btwn 10th Ave & Washington St), New York, NY 10014
+coordinates:
+  lat: 40.739506
+  lng: -74.008861
 ---
 
 ![Grant Wood’s American Gothic at the Whitney Museum of American Art](/images/posts/ig-2018-05-27-grant-woods-american-gothic-at-the-whitney-museum-of-america/17919349621179258.jpg)

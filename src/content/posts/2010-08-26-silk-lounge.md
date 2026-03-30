@@ -12,7 +12,6 @@ categories:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154753/http://www.thethirstypig.com:80/2010/08/26/silk-lounge/
 draft: false
-location: The Fire Dancing with the Stars Above at The Silk Lounge
 region: San Gabriel Valley
 ---
 

@@ -20,7 +20,6 @@ tags:
 - eats
 - eeeeeats
 description: Guerrilla Tacos with carne asada taco and potato and cheese taquito. Also had the posole and oysters!!! Everything was great. Every bite’s purpose was to satisfy cravings was met. Love this place, but
-location: Guerrilla Tacos with carne asada taco and potato and cheese taquito
 city: Downtown LA
 region: Los Angeles
 ---

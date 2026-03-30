@@ -15,7 +15,9 @@ tags:
 - via313pizza
 - atx
 description: the Detroiter and Cadillac pizza. The detroiter - pepperoni and the Cadillac- prosciutto with balsamic vinegar. Cadillac was better than expected
-location: the Detroiter and Cadillac pizza
+location: Via 313
+city: Austin
+region: Texas
 ---
 
 ![the Detroiter and Cadillac pizza](/images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17882720776012057.jpg)

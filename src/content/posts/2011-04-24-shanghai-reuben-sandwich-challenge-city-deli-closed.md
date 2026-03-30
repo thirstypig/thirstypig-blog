@@ -13,8 +13,13 @@ tags:
 description: On my search for the Reuben Pastrami sandwich, this challenge has brought me to City Deli. I had read about City Deli, along with New York Deli, from the different punits – Smart Shanghai, Urbanatomy,
 archiveUrl: https://web.archive.org/web/20161019031835/http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
 draft: false
-location: The Shanghai Reuben Sandwich Challenge
-city: City Deli (Closed)
+location: Mapi Espresso & Sandwich Bar
+city: New York
+region: New York
+address: 1 W 13th St (at 5th Ave.), New York, NY 10011
+coordinates:
+  lat: 40.735569
+  lng: -73.994642
 ---
 
 

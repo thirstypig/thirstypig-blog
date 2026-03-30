@@ -15,8 +15,8 @@ description: Must order the Deep fried whole snapper, Strawberry Ricotta Crostat
 archiveUrl: https://web.archive.org/web/20160913205017/http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/
 draft: false
 location: Tar & Roses
-city: SaMo Los Angeles
-region: Westside
+city: Los Angeles
+region: Los Angeles
 address: 602 Santa Monica Blvd Santa Monica, CA 90401
 ---
 

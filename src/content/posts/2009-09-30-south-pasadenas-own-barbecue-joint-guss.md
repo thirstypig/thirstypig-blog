@@ -20,9 +20,13 @@ categories:
 description: Recently renovated, Gus's Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently t
 archiveUrl: https://web.archive.org/web/20091021233245/http://blog.thethirstypig.com:80/2009/09/south-pasadenas-own-barbecue-joint-guss.html
 draft: false
-location: South Pasadena's own Barbecue Joint
-city: Gus's Barbecue
+location: Southern Mini Town Restaurant (小南國)
+city: San Gabriel
 region: San Gabriel Valley
+address: 833 W Las Tunas Dr, San Gabriel, CA 91776
+coordinates:
+  lat: 34.102569
+  lng: -118.111852
 ---
 
 Recently renovated, Gus's Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently taken over by the same group/family that owns Tops in Pasadena. They did a complete makeover to the place along with a new website.

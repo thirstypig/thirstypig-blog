@@ -21,9 +21,13 @@ tags:
 - shotoniphone
 - parkingsucks
 description: Pizza at POT Pizza in had the pepperoni pizza and the Ktown special (with kimchi). Good price for a large slice. Had to order the pepperoni - as the requisite option and also the unique Ktown kimchi p
-location: Pizza at POT Pizza    in  had the pepperoni pizza and the Ktown special (with...
+location: Prime Pizza
 city: Koreatown
 region: Los Angeles
+address: 141 S Central Ave, Los Angeles, CA 90012
+coordinates:
+  lat: 34.048288
+  lng: -118.239672
 ---
 
 ![Pizza at POT Pizza    in  had the pepperoni pizza and the Ktown special (with...](/images/posts/ig-2017-11-11-pizza-at-pot-pizza-in-had-the-pepperoni-pizza-and-the-ktown/17848056178219379.jpg)

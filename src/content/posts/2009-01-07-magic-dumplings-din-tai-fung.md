@@ -20,7 +20,7 @@ description: Steamed Pork Dumplings known as Shaio Long Bao or Xiao Long Bao is 
 archiveUrl: https://web.archive.org/web/20110106034139/http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/
 draft: false
 location: Magic Dumplings
-city: Din Tai Fung
+city: Arcadia
 region: San Gabriel Valley
 address: '1108 S. Baldwin Ave.
 

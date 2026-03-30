@@ -21,7 +21,9 @@ tags:
 - poutine
 - fries
 description: Porchetta Sandwich at A tasty sandwich. But was a little disappointed in how they prepared it. I though they were going to pull out a large chunk of the rolled porchetta and have a big slice for my sa
-location: Porchetta Sandwich at   A tasty sandwich
+location: The Kroft
+city: Anaheim
+region: Orange County
 ---
 
 ![Porchetta Sandwich at   A tasty sandwich](/images/posts/ig-2017-12-24-porchetta-sandwich-at-a-tasty-sandwich/17905828483077351.jpg)

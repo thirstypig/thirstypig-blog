@@ -25,7 +25,13 @@ tags:
 - txbbqpassport
 - tmbbqtop50
 description: almost 3 hour wait. Texas Monthly BBQ 2017!!! Had the most amazing and tender and moist (fatty) pork shoulder steak. Brisket was wonderful. Pork ribs was so-so. Jalapeño Sausage was outstanding
-location: almost 3 hour wait
+location: Snow's BBQ
+city: Austin
+region: Texas
+address: 516 S Main St, Lexington, TX 78947
+coordinates:
+  lat: 30.412832
+  lng: -97.006649
 ---
 
 ![almost 3 hour wait](/images/posts/ig-2017-06-03-almost-3-hour-wait/17857250989171739.jpg)

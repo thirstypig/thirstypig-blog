@@ -22,9 +22,13 @@ tags:
 - eeeeeats
 - eats
 description: Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chinatown. Maxwell is the name of Food Centre in Singapore with famous hawkers selling street food including Hainan Chicken ri
-location: Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chi...
+location: Maxwell Chicken Rice
 city: Downtown LA
 region: Los Angeles
+address: 686 N Spring St, Los Angeles, CA 90012
+coordinates:
+  lat: 34.059618
+  lng: -118.237686
 ---
 
 ![Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chi...](/images/posts/ig-2021-06-30-our-third-stop-for-hainan-chicken-rice-is-at-maxwell-chicken/17916884737790525.jpg)

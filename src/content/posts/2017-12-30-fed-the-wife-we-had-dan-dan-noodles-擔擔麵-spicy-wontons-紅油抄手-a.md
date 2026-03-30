@@ -20,10 +20,15 @@ tags:
 - yummy
 - bar
 description: Fed the wife we had Dan Dan Noodles 擔擔麵, spicy wontons 紅油抄手, and pickled vegetables with pork soup酸菜豬肉湯. Portions were huge, since I guess it is catering to a white clientele. Wontons were really good
-location: Fed the wife  we had Dan Dan Noodles 擔擔麵, spicy wontons 紅油抄手
-city: and pickled veg...
+city: Brooklyn
 categories:
 - and pickled veg...
+region: New York
+location: Han Dynasty
+address: 445 Albee Sq (Fleet St), Brooklyn, NY 11201
+coordinates:
+  lat: 40.691334
+  lng: -73.982456
 ---
 
 ![Fed the wife  we had Dan Dan Noodles 擔擔麵, spicy wontons 紅油抄手, and pickled veg...](/images/posts/ig-2017-12-30-fed-the-wife-we-had-dan-dan-noodles-擔擔麵-spicy-wontons-紅油抄手-a/17915025034045269.jpg)

@@ -15,7 +15,6 @@ description: Whataburger, since 1950, is open 24 hours First Whataburger, not mi
 archiveUrl: https://web.archive.org/web/20161019014442/http://thirstypig.com/2015/12/12/whataburger-texas/
 draft: false
 location: Whataburger
-city: Texas
 address: 2103 Ruben Torres Blvd
 ---
 

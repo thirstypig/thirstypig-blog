@@ -13,7 +13,7 @@ description: Large Portions, I mean LARGE Classic Hawaiian dishes Lau Lau is yum
 archiveUrl: https://web.archive.org/web/20161018120507/http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/
 draft: false
 location: Da Kitchen Cafe
-city: Hawaii
+city: Maui
 region: Hawaii
 address: 425 Koloa St
 ---

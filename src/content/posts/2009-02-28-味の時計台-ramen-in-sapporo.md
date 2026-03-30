@@ -21,8 +21,13 @@ categories:
 description: The second ramen shop we visited in Sapporo was 味の時計台http://www.ajino-tokeidai.co.jp/. It is a chain restaurant where you can visit not only in Sapporo, also in Hokkaido, even in Haneda Airport in Tok
 archiveUrl: https://web.archive.org/web/20110105100454/http://www.thethirstypig.com/2009/02/28/%e5%91%b3%e3%81%ae%e6%99%82%e8%a8%88%e5%8f%b0-ramen-in-sapporo/
 draft: false
-location: 味の時計台
-city: ramen in Sapporo
+location: 味ちゃん 1号店
+city: Tokyo
+region: Tokyo
+address: 百人町1-3-20 (メゾンソワイエ 1F), 新宿区, 東京都, 169-0073
+coordinates:
+  lat: 35.700972
+  lng: 139.702349
 ---
 
 The second ramen shop we visited in Sapporo was [味の時計台](http://www.ajino-tokeidai.co.jp/). It is a chain restaurant where you can visit not only in Sapporo, also in Hokkaido, even in Haneda Airport in Tokyo!

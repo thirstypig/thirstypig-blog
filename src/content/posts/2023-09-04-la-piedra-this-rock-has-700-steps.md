@@ -20,12 +20,16 @@ tags:
 - guatape
 - lapiedra
 description: La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My l
-location: La Piedra
-city: Oc
-region: Orange County
+location: Palacio De La Cultura Rafael Uribe Uribe
+city: Medellin
+region: Colombia
 categories:
 - Oc
 - Orange County
+address: 'Cra 51 # 52 - 03, Medellín, Antioquia'
+coordinates:
+  lat: 6.251792
+  lng: -75.568258
 ---
 
 ![La Piedra - this rock has 700 steps](/images/posts/ig-2023-09-04-la-piedra-this-rock-has-700-steps/18383559757020435.jpg)

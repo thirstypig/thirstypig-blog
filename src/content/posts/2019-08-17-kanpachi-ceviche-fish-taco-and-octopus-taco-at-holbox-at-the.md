@@ -27,10 +27,15 @@ tags:
 - jgold101
 - jonathangold
 description: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC. Excellent seafood. Fresh and tasty. Yummy . . .
-location: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado
-city: near USC
+location: Dynasty Typewriter At The Hayworth
+city: Downtown LA
 categories:
 - near USC
+region: Los Angeles
+address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
+coordinates:
+  lat: 34.0606
+  lng: -118.280585
 ---
 
 ![Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC](/images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/18061059733132780.jpg)

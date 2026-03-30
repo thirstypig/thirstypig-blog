@@ -20,9 +20,13 @@ categories:
 description: Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.
 archiveUrl: https://web.archive.org/web/20100713075753/http://www.thethirstypig.com:80/2010/05/19/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-%E9%98%9C%E6%9D%AD%E8%B1%86%E6%BC%BF/
 draft: false
-location: The Most Popular Taiwanese Breakfast in Taipei
-city: Fu Hang Dou Jiang 阜杭豆漿
+location: Legacy Taipei
+city: Taipei
 region: Taipei
+address: 八德路一段1號, 台北市,  100
+coordinates:
+  lat: 25.044934
+  lng: 121.529331
 ---
 
 Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.

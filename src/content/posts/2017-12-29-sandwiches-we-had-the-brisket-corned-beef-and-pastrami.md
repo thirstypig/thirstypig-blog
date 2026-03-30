@@ -27,10 +27,15 @@ tags:
 - brisket
 - maztoballsoup
 description: 'Sandwiches we had the brisket, corned beef, and pastrami. With the chicken noodle and matzo ball soups. Without the mustard the brisket was quite dry. The corned beef wasn’t as tender as it could be. '
-location: Sandwiches  we had the brisket, corned beef
-city: and pastrami
+location: The Well
+city: New York
 categories:
 - and pastrami
+region: New York
+address: 2 E 15th St, New York, NY 10003
+coordinates:
+  lat: 40.736405
+  lng: -73.99284
 ---
 
 ![Sandwiches  we had the brisket, corned beef, and pastrami](/images/posts/ig-2017-12-29-sandwiches-we-had-the-brisket-corned-beef-and-pastrami/17858460205206311.jpg)

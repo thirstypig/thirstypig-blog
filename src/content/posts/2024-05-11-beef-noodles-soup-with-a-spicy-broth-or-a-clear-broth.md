@@ -27,7 +27,6 @@ tags:
 - tastemakers
 - tastemaker
 description: Beef Noodles Soup with a spicy broth or a clear broth. The spicy brother is the Taiwanese style that most people in Taiwan are familiar with. But the clear broth, which is quite flavorful too, is a Ch
-location: Beef Noodles Soup with a spicy broth or a clear broth
 city: Taipei
 region: Taipei
 ---

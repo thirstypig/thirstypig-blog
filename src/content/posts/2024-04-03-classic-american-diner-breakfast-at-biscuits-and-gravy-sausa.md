@@ -22,8 +22,7 @@ tags:
 - eats
 - thirstypig
 description: Classic American Diner Breakfast at biscuits and gravy, sausage, eggs, and potatoes. Too bad they’re not open 24 hours anymore. They said they lack the staff and cooks to be open all day and night. Th
-location: Classic American Diner Breakfast at   biscuits and gravy, sausage, eggs
-city: and ...
+location: biscuits and gravy
 categories:
 - and ...
 ---

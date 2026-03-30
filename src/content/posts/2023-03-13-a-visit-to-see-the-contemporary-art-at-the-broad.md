@@ -22,7 +22,13 @@ tags:
 - andywarhol
 - contemporaryart
 description: A visit to see the contemporary art at the Broad. Saw works from Warhol, Koons, and Basquiat. We missed Murakami’s exhibition by a month. . . . . .
-location: A visit to see the contemporary art at the Broad
+location: The Broad
+city: Downtown LA
+region: Los Angeles
+address: 221 S Grand Ave (at 2nd St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.054412
+  lng: -118.250539
 ---
 
 ![A visit to see the contemporary art at the Broad](/images/posts/ig-2023-03-13-a-visit-to-see-the-contemporary-art-at-the-broad/17957914472393676.jpg)

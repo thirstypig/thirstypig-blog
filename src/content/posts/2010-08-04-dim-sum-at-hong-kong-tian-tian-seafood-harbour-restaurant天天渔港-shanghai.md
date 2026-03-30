@@ -31,7 +31,6 @@ categories:
 description: Tian Tian Seafood Harbour 天天渔港 Tian Tian Yu Gang is one of the largest chain restaurants in Shanghai, but also China. With Hong Kong roots, there are locations in Beijing, Shenzhen, as well as Shangha
 archiveUrl: https://web.archive.org/web/20100906025440/http://www.thethirstypig.com:80/2010/08/04/dim-sum-at-hong-kong-tian-tian-seafood-harbour-restaurant%E5%A4%A9%E5%A4%A9%E6%B8%94%E6%B8%AF-shanghai/
 draft: false
-location: Dim Sum at Hong Kong Tian Tian Seafood Harbour Restaurant天天渔港
 city: Shanghai
 region: Shanghai
 ---

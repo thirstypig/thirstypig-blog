@@ -22,10 +22,15 @@ tags:
 - la
 - ihatemondays
 description: Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but a little greasy in the middle. The Lasagna was pleasantly better than expected. The meat sauce was good. Ate too much. Sugges
-location: Pizza, pasta, canoli, gelato, and lasagna at   the pizza crust was good
-city: but ...
 categories:
 - but ...
+location: Eataly
+city: Los Angeles
+region: Los Angeles
+address: 10250 Santa Monica Blvd, Los Angeles, CA 90067
+coordinates:
+  lat: 34.05996
+  lng: -118.419036
 ---
 
 ![Pizza, pasta, canoli, gelato, and lasagna at   the pizza crust was good, but ...](/images/posts/ig-2017-12-11-pizza-pasta-canoli-gelato-and-lasagna-at-the-pizza-crust-was/17899922182104976.jpg)

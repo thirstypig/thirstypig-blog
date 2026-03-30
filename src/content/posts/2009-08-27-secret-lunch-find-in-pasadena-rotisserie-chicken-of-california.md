@@ -21,7 +21,7 @@ description: Almost forced to try yet-another chicken place. . . my friend took 
 archiveUrl: https://web.archive.org/web/20111103144039/http://www.thethirstypig.com/2009/08/27/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/
 draft: false
 location: Secret Lunch Find in Pasadena
-city: Rotisserie Chicken of California
+city: Pasadena
 region: San Gabriel Valley
 ---
 

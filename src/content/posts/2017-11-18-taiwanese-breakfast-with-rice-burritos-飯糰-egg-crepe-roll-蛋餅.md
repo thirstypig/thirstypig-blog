@@ -23,10 +23,10 @@ tags:
 - soymilk
 - eggs
 description: Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish cake 蘿蔔糕 and salted soy milk 鹹豆漿. I love the rice burrito, but I like the fried crullers to be more crispy. The egg crepe was
-location: Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅
-city: fried radish ca...
+city: Taipei
 categories:
 - fried radish ca...
+region: Taipei
 ---
 
 ![Taiwanese breakfast with Rice Burritos 飯糰, egg crepe roll 蛋餅, fried radish ca...](/images/posts/ig-2017-11-18-taiwanese-breakfast-with-rice-burritos-飯糰-egg-crepe-roll-蛋餅/17850321514206708.jpg)

@@ -12,7 +12,7 @@ This site is a complete archive of The Thirsty Pig blog (2007-present), rebuilt 
 - **1,649 Instagram posts** imported from a data export
 - **7,500+ images** and **213 videos**
 - **2,900+ pages** including category, search, map, archive, and best-of pages
-- **950+ addresses** and **656 GPS coordinates** geocoded via Foursquare Places API
+- **1,000+ addresses** and **841 GPS coordinates** geocoded via Foursquare Places API
 
 ## Tech Stack
 
@@ -69,6 +69,8 @@ thirstypig/
 │   ├── categorizer.py        # Restaurant info extractor
 │   ├── strip_dead_images.py  # Remove dead wp.com image refs
 │   ├── extract_venues.py     # Parse venue info from post bodies
+│   ├── cleanup_locations.py  # Fix messy location/city fields
+│   ├── fix_venues_from_mentions.py  # Extract venues from @mentions
 │   └── lookup_addresses.py   # Batch geocode via Foursquare API
 ├── docs/
 │   └── solutions/            # Documented solutions and runbooks
@@ -80,7 +82,7 @@ thirstypig/
 ## Features
 
 - **Search** — Client-side instant search across all posts (`/search`)
-- **Map** — 1,600+ restaurant locations on an interactive map with precise GPS pins (`/map`)
+- **Map** — 1,384 restaurant locations on an interactive map with 841 precise GPS pins (`/map`)
 - **Archive** — Browse posts by year and month (`/archive`)
 - **Best Of** — Curated lists by cuisine, type, and region (`/best-of`)
 - **Related Posts** — Contextual recommendations at the bottom of each post
@@ -199,6 +201,14 @@ python scripts/instagram/extract_ig_venues.py
 
 # Backfill city/GPS data from Instagram JSON export to existing posts
 python scripts/instagram/backfill_locations.py
+
+# Clean up messy location/city fields (captions dumped into venue fields)
+python scripts/cleanup_locations.py --dry-run  # preview changes
+python scripts/cleanup_locations.py            # apply fixes
+
+# Extract venue names from @mentions in Instagram post bodies
+python scripts/fix_venues_from_mentions.py --dry-run  # preview
+python scripts/fix_venues_from_mentions.py             # apply
 ```
 
 ### Image Optimization (WebP)

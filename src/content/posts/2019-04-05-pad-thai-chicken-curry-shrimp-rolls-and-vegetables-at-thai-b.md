@@ -21,10 +21,15 @@ tags:
 - padthai
 - shrimprolls
 description: Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ. Average Thai American restaurant. Noodles were too chewy and the chicken was tough. Not sure if there was suppose to be lemongrass, w
-location: Pad Thai, chicken curry, shrimp rolls
-city: and vegetables at Thai BBQ
+location: Honey's Kettle Fried Chicken
+city: Culver City
 categories:
 - and vegetables at Thai BBQ
+region: Los Angeles
+address: 9537 Culver Blvd, Culver City, CA 90232
+coordinates:
+  lat: 34.023118
+  lng: -118.395369
 ---
 
 ![Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ](/images/posts/ig-2019-04-05-pad-thai-chicken-curry-shrimp-rolls-and-vegetables-at-thai-b/17987009461223253.jpg)

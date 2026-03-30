@@ -26,10 +26,15 @@ tags:
 - bourbonwhiskey
 - ibericoham
 description: Whiskey and Cigars at had some great whiskeys, bourbons and scotches. also had a cigar. And had some iberico ham to snack on. . . . . .
-location: Whiskey and Cigars at   had some great whiskeys
-city: bourbons and scotches
+location: Water Court at California Plaza
+city: Downtown LA
 categories:
 - bourbons and scotches
+region: Los Angeles
+address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
+coordinates:
+  lat: 34.051751
+  lng: -118.251251
 ---
 
 ![Whiskey and Cigars at   had some great whiskeys, bourbons and scotches](/images/posts/ig-2022-03-18-whiskey-and-cigars-at-had-some-great-whiskeys-bourbons-and-s/17913699929385316.jpg)

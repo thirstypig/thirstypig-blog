@@ -43,6 +43,4 @@ description: Kimlan an integral part of Taiwanese food history, has a museum for
 archiveUrl: https://web.archive.org/web/20111103150109/http://www.thethirstypig.com/2010/07/08/kimlan-taiwanese-soy-sauce/
 draft: false
 location: Kimlan金蘭醬油
-city: Taiwan
-region: Taiwan
 ---

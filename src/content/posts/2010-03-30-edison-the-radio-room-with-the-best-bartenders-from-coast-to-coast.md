@@ -27,7 +27,6 @@ tags:
 description: Radio Room with the best bartenders in the country. http://1.bp.blogspot.com/UYnRoOEBBM/S7J4jqnCqqI/AAAAAAAAA5c/AYdXexzmVs/s400/Edison+The+Radio+Room+0+Stairs.jpghttp://1.bp.blogspot.com/UYnRoOEBBM/S7
 archiveUrl: https://web.archive.org/web/20110105090007/http://www.thethirstypig.com/2010/03/30/edison-the-radio-room-with-the-best-bartenders-from-coast-to-coast/
 draft: false
-location: Edison The Radio Room with the best bartenders from Coast to Coast.
 city: Downtown LA
 region: Downtown LA
 ---

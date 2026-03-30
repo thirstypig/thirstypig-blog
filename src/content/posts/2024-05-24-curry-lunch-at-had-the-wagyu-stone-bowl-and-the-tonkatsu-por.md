@@ -24,7 +24,6 @@ tags:
 - eats
 - eeeeeats
 description: Curry lunch at Had the Wagyu stone bowl and the tonkatsu pork curry. The combo gave us miso soup and fries and cucumber salad. Yummy. Ate too much . . .
-location: Curry lunch at   Had the Wagyu stone bowl and the tonkatsu pork curry
 city: Los Angeles
 region: Los Angeles
 ---

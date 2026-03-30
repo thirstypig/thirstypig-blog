@@ -53,7 +53,7 @@ description: '> M1NT is where the celebrities play with the stars overlooking th
 archiveUrl: https://web.archive.org/web/20101204221204/http://www.thethirstypig.com:80/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/
 draft: false
 location: The Best Damn Nightclub in Shanghai
-city: M1NT
+city: Shanghai
 region: Shanghai
 address: 318 Fuzhou Road
 ---

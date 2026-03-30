@@ -15,7 +15,6 @@ tags:
 - dodgers
 - itfdb
 description: Enjoying a day at the park. Watching a preseason game at Angel Stadium - Dodgers vs the Angels. Good times. . . . . .
-location: Enjoying a day at the park
 city: Anaheim
 region: Orange County
 ---

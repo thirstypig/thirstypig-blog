@@ -12,7 +12,13 @@ tags:
 - burrito
 - tandorichicken
 description: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station. Not bad. Saucey
-location: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station
+location: The Bombay Frankie Company
+city: Los Angeles
+region: Los Angeles
+address: 6000 Sepulveda Blvd, Culver City, CA 90230
+coordinates:
+  lat: 33.986595
+  lng: -118.392895
 ---
 
 ![Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station](/images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17911415848185975.jpg)

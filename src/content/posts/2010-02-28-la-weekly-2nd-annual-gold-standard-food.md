@@ -35,7 +35,6 @@ categories:
 description: I attended the LA Weekly 2nd Annual Gold Standard Food & Wine Event at the Petersen Automotive Museum with my friend Miss J. I just wanted to show this car, since it is my favorite car of all time. ht
 archiveUrl: https://web.archive.org/web/20100304142159/http://blog.thethirstypig.com:80/2010/02/la-weekly-2nd-annual-gold-standard-food.html
 draft: false
-location: LA Weekly 2nd Annual Gold Standard Food & Wine Event
 city: Los Angeles
 address: 3655 S. Grand Ave
 ---

@@ -22,7 +22,9 @@ tags:
 - texascaviar
 - bucketofchicken
 description: and decadent Texas tea chess pie
-location: and decadent Texas tea chess pie
+location: Lucy's Fried Chicken
+city: Austin
+region: Texas
 ---
 
 ![and decadent Texas tea chess pie](/images/posts/ig-2017-07-04-and-decadent-texas-tea-chess-pie/17863301038144660.jpg)

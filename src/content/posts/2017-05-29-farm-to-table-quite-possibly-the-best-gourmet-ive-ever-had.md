@@ -21,7 +21,9 @@ tags:
 - oddduck
 - lunch
 description: farm to table quite possibly the best gourmet I've ever had. The the texture of the corn tostada, the sponge-ness of the buns, and the creaminess of the sauce was awesome. . Please note this burger is
-location: farm to table  quite possibly the best gourmet  I've ever had
+city: Austin
+region: Texas
+location: Odd Duck
 ---
 
 ![farm to table  quite possibly the best gourmet  I've ever had](/images/posts/ig-2017-05-29-farm-to-table-quite-possibly-the-best-gourmet-ive-ever-had/17870338798108829.jpg)

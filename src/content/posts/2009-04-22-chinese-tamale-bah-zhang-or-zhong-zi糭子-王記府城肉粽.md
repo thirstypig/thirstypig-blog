@@ -18,9 +18,13 @@ tags:
 description: This place in Taipei is known for their Chinese Tamale. A Taipei institution – this place is open late and seems to always have a diverse young and old crowd. Their limited menu featuring the Bah Zhan
 archiveUrl: https://web.archive.org/web/20110105163244/http://www.thethirstypig.com/2009/04/22/chinese-tamale-bah-zhang-or-zhong-zi%e7%b3%ad%e5%ad%90-%e7%8e%8b%e8%a8%98%e5%ba%9c%e5%9f%8e%e8%82%89%e7%b2%bd/
 draft: false
-location: Chinese Tamale
-city: (Bah Zhang or Zhong Zi糭子) – 王記府城肉粽
+location: YongHe Chinese Type Breakfast Shop (永和豆漿)
+city: Taipei
 region: Taipei
+address: 漢口街二段30號, Taipei
+coordinates:
+  lat: 25.045532
+  lng: 121.507464
 ---
 
 This place in Taipei is known for their Chinese Tamale. A Taipei institution – this place is open late and seems to always have a diverse young and old crowd. Their limited menu featuring the Bah Zhang and some side dishes and soups – keeps everyone happy with consistency.

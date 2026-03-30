@@ -23,7 +23,7 @@ description: High School kids need to eat simple things like meat and some sort 
 archiveUrl: https://web.archive.org/web/20110106033401/http://www.thethirstypig.com/2009/09/22/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/
 draft: false
 location: What high school kids eat to grow big and tall
-city: Taco Lita
+city: San Gabriel Valley
 region: San Gabriel Valley
 ---
 

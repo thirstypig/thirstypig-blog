@@ -13,7 +13,7 @@ description: Komoda’s famous Stick Donuts is a must try Small town feel, with 
 archiveUrl: https://web.archive.org/web/20161019154856/http://thirstypig.com/2016/06/24/komoda-store-bakery-makawao-maui-hawaii/
 draft: false
 location: Komoda Store Bakery
-city: Hawaii
+city: Maui
 region: Hawaii
 address: 3674 Baldwin Ave
 ---

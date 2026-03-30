@@ -18,7 +18,6 @@ tags:
 - ogbafantasybaseball
 - ogba
 description: Enjoying a Dodger game. Tampa Bay Rays at the Dodgers. Looking forward to see Tony Gonsolin pitch! . . . .
-location: Enjoying a Dodger game
 ---
 
 ![Enjoying a Dodger game](/images/posts/ig-2019-09-18-enjoying-a-dodger-game/17909705098357914.jpg)

@@ -20,8 +20,7 @@ tags:
 description: Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt
 archiveUrl: https://web.archive.org/web/20110105231503/http://www.thethirstypig.com/2009/09/18/a-little-gem-in-pasadena-green-street-tavern/
 draft: false
-location: A Little Gem in Pasadena
-city: Green Street Tavern
+city: Pasadena
 region: San Gabriel Valley
 ---
 

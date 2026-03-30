@@ -22,10 +22,11 @@ tags:
 - porkribs
 - macandcheese
 description: Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the
-location: Tasty pork ribs
-city: must order
+location: 2M Smokehouse
 categories:
 - must order
+city: San Antonio
+region: Texas
 ---
 
 ![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17862320248140384.jpg)

@@ -21,9 +21,13 @@ tags:
 - dtla
 - iphone
 description: 'Sausage and fries for lunch at Wurstküche in the Arts District in DTLA. Yum! Duck and bacon sausage and bratwurst sausage and large fries. Fries with curry ketchup and Thai peanut sauce. I really dig '
-location: Sausage and fries for lunch at Wurstküche in the Arts District in DTLA
+location: Wurstküche
 city: Downtown LA
 region: Los Angeles
+address: 800 E 3rd St (at Traction Ave), Los Angeles, CA 90013
+coordinates:
+  lat: 34.04552
+  lng: -118.236131
 ---
 
 ![Sausage and fries for lunch at Wurstküche in the Arts District in DTLA](/images/posts/ig-2019-04-24-sausage-and-fries-for-lunch-at-wurstküche-in-the-arts-distri/17848031944417390.jpg)

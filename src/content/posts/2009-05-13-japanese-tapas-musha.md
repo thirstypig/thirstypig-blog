@@ -15,7 +15,6 @@ description: Musha is one of the finest Japanese restaurants in Southern Califor
 archiveUrl: https://web.archive.org/web/20110105144655/http://www.thethirstypig.com/2009/05/13/japanese-tapas-musha/
 draft: false
 location: Japanese Tapas
-city: Musha
 address: '1725 W Carson St
 
   Torrance, CA 90501'

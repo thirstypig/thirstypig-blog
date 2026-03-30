@@ -16,8 +16,8 @@ description: Yelp Listinghttps://www.yelp.com/biz/the-oinkster-los-angeles
 archiveUrl: https://web.archive.org/web/20161105045220/http://thirstypig.com/2010/03/09/oinkster-eagle-rock/
 draft: false
 location: Oinkster
-city: Oc
-region: Orange County
+city: Los Angeles
+region: Los Angeles
 address: 2005 Colorado Blvd Los Angeles, CA 90041
 ---
 

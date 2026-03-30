@@ -15,7 +15,6 @@ tags:
 - yimei
 - thirstypig
 description: Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅 radish cake 蘿蔔糕
-location: Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅 radish cak...
 ---
 
 ![Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅 radish cak...](/images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17911201036122550.jpg)

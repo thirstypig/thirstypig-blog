@@ -31,8 +31,13 @@ tags:
 description: When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell pepper
 archiveUrl: https://web.archive.org/web/20101220023236/http://www.thethirstypig.com:80/2010/12/16/di-shui-dong-%E6%BB%B4%E6%B0%B4%E6%B4%9E-shanghai-hunan-cuisine-at-its-best/
 draft: false
-location: Di Shui Dong 滴水洞 Shanghai
-city: Hunan Cuisine at its Best
+location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
+city: Shanghai
+region: Shanghai
+address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
+coordinates:
+  lat: 31.232216
+  lng: 121.46526
 ---
 
 When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell peppers with bold colors and flavors. Rarely will we associate a yellow pepper with heat and spicy.

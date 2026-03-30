@@ -27,10 +27,10 @@ tags:
 - familydinner
 - familystyle
 description: Shan Xi cuisine in Shanxi province, where noodles rules over rice, is just west of Beijing. Popular for lunch and dinner, with locals, new Chinese immigrants, and those pesky millennials. We had soup-
-location: Shan Xi cuisine in   Shanxi province, where noodles rules over rice
-city: is just ...
+city: Arcadia
 categories:
 - is just ...
+region: San Gabriel Valley
 ---
 
 ![Shan Xi cuisine in   Shanxi province, where noodles rules over rice, is just ...](/images/posts/ig-2017-11-13-shan-xi-cuisine-in-shanxi-province-where-noodles-rules-over/17849567860201640.jpg)

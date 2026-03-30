@@ -28,7 +28,6 @@ tags:
 - fun
 - reindeer
 description: This unexpected detour from our outdoor adventure was really fun. We went to the Olympic Game Farm to visit retired show biz animals and rescued animals. We saw and fed bread to adorable yaks, mean la
-location: This unexpected detour from our outdoor adventure was really fun
 ---
 
 ![This unexpected detour from our outdoor adventure was really fun](/images/posts/ig-2025-05-09-this-unexpected-detour-from-our-outdoor-adventure-was-really/18053061137048497.jpg)

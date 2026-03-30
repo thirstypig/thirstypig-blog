@@ -38,9 +38,13 @@ tags:
 description: 'I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they '
 archiveUrl: https://web.archive.org/web/20110105123243/http://www.thethirstypig.com/2010/11/08/the-succulent-moistness-of-the-bbq-pork-at-crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/
 draft: false
-location: The Succulent Moistness of the BBQ Pork at Crystal Jade 翡翠酒家
+location: Crystal Jade Palace (翡翠皇宮酒家)
 city: Shanghai
 region: Shanghai
+address: 张杨路500号华润时代广场8楼 | 8/F, 500 Zhangyang Rd. (近浦东南路 | at Pudong Rd. S.), 上海市, 上海市, 200000
+coordinates:
+  lat: 31.229249
+  lng: 121.512887
 ---
 
 I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they like southern cuisine, more specifically Guangdong, Cantonese, or Hong Kong dishes – could be considered the same. One of the finest in Shanghai is Crystal Jade.

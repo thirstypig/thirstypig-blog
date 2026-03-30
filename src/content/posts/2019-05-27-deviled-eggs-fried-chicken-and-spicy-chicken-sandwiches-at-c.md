@@ -26,7 +26,6 @@ tags:
 - memorialdayweekend
 description: Deviled Eggs, fried chicken, and spicy chicken sandwiches at Crack Shack! Also had a pretty good Bloody Mary. . . .
 location: Deviled Eggs, fried chicken
-city: and spicy chicken sandwiches at Crack Shack
 categories:
 - and spicy chicken sandwiches at Crack Shack
 ---

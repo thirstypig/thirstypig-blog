@@ -18,9 +18,13 @@ tags:
 - japanesefood
 - shoyuramen
 description: Yet another hot bowl of ramen noodle soup at in Brooklyn. Also had the boneless chicken, fried chicken wings, and a spinach salad. The boneless chicken was better than the chicken wings. The spinach s
-location: Yet another hot bowl of ramen noodle soup at  in Brooklyn
+location: Brooklyn Bagel & Coffee Company
 city: New York
 region: New York
+address: 286 8th Ave (btwn W 24th & W 25th St), New York, NY 10001
+coordinates:
+  lat: 40.746119
+  lng: -73.9977
 ---
 
 ![Yet another hot bowl of ramen noodle soup at  in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17904406126129840.jpg)

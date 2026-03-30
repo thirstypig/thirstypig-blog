@@ -22,9 +22,13 @@ tags:
 - yelpsucks
 - riceballs
 description: Porchetta sandwich at and pastrami burnt ends from ans rice balls and fried yucca from a place I forgot the name . . . . . .
-location: Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...
+location: Donut Friend
 city: Downtown LA
 region: Los Angeles
+address: 543 S Broadway (at W 6th St), Los Angeles, CA 90013
+coordinates:
+  lat: 34.047195
+  lng: -118.251962
 ---
 
 ![Porchetta sandwich at  and pastrami burnt ends from  ans rice balls  and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)

@@ -20,8 +20,8 @@ description: DGM is a no nonsense Korean BBQ. With stools and small round tables
 archiveUrl: https://web.archive.org/web/20111103144030/http://www.thethirstypig.com/2009/01/02/efficient-korean-bbq-dgm/
 draft: false
 location: Efficient Korean BBQ
-city: DGM
-region: Koreatown
+city: Los Angeles
+region: Los Angeles
 ---
 
 DGM is a no nonsense Korean BBQ. With stools and small round tables with grills. They really pack this place with people and tables. Their meat is fresh and sliced thinly. The grills cook fast. Though you will walk out smelly, this casual Korean BBQ is great. Get their early since there will be lines.

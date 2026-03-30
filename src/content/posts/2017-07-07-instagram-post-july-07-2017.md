@@ -14,7 +14,9 @@ tags:
 - boudin
 - beignets
 description: Dr. Gumbo food tour
-location: Drgumbo
+location: Dr. Gumbo Food Tour
+city: New Orleans
+region: Louisiana
 ---
 
 ![Instagram Post — July 07, 2017](/images/posts/ig-2017-07-07-instagram-post-july-07-2017/17875566577119296.jpg)

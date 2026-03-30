@@ -18,8 +18,8 @@ description: Part of my series of Sixes. This will be the first one of many Sixe
 archiveUrl: https://web.archive.org/web/20110105231705/http://www.thethirstypig.com/2009/01/05/sixes-must-dine-in-los-angeles/
 draft: false
 location: Sixes
-city: Must Dine in Los Angeles
-region: Westside
+city: Los Angeles
+region: Los Angeles
 ---
 
 Part of my series of Sixes. This will be the first one of many Sixes. Most lists you’ll see are Top 10′s or Top 5 . . . but in an effort to be different, Sixes will be the Thirsty Pig’s thing. As an example, if you had only a couple nights in Los Angeles, what would the top long time Establishments that you would Must Dine. I wouldn’t plan to write at length about them. I would also encourage you to participate to comment about them. I hope you will all enjoy my short lists. Here is the first. . .

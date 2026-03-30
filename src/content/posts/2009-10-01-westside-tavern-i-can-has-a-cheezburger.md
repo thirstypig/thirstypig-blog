@@ -34,8 +34,6 @@ description: I really wanted to like this place. The name will remind us of a ne
 archiveUrl: https://web.archive.org/web/20110105172357/http://www.thethirstypig.com/2009/10/01/westside-tavern-i-can-has-a-cheezburger/
 draft: false
 location: Westside Tavern
-city: I Can Has A CheezBurger?
-region: Westside
 ---
 
 I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylized wood accents are all around, with a bar that stretches the length of the main dining room. Tonight we were celebrating a friend’s birthday in one of their two private rooms.

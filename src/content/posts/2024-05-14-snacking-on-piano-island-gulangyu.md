@@ -24,7 +24,6 @@ tags:
 - eeeeeats
 description: Snacking on piano island , Gulangyu. Stuffed fish balls with pork. Also had the yellow ones with stuffed crab roe. The ginger duck was also unique. Interesting you also eat the braised slices of ginge
 location: Snacking on piano island
-city: Gulangyu
 categories:
 - Gulangyu
 ---

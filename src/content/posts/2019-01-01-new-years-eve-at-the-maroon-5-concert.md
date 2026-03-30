@@ -11,7 +11,9 @@ tags:
 - concert
 - adamlevine
 description: New Year’s eve at the Maroon 5 concert! . . .
-location: New Year’s eve at the Maroon 5 concert
+location: LONGBAR at the D Casino Hotel
+city: Las Vegas
+region: Las Vegas
 ---
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-01-01-new-years-eve-at-the-maroon-5-concert/17993987149094330.mp4" type="video/mp4"></video>

@@ -22,9 +22,10 @@ tags:
 - carneasada
 description: Birria tacos, carne asada nachos, and ceviche. Yum. The tacos had so much braised beef, but unfortunately was a little dry. Wish we had a dipping sauce. Luckily the hot sauce was available. The nachos
 location: Birria tacos, carne asada nachos
-city: and ceviche
+city: San Gabriel Valley
 categories:
 - and ceviche
+region: San Gabriel Valley
 ---
 
 ![Birria tacos, carne asada nachos, and ceviche](/images/posts/ig-2020-11-03-birria-tacos-carne-asada-nachos-and-ceviche/17907961660544359.jpg)

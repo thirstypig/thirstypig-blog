@@ -20,7 +20,6 @@ tags:
 - hotdog
 - tortillasoup
 description: Seaside brunch with the family at The Cliff Restaurant in Laguna Beach. Great Views and outdoor seating. Perfect day to be outside. Forgot to take pictures of the view. . . . . . . .
-location: Seaside brunch with the family at The Cliff Restaurant in Laguna Beach
 city: Laguna Beach
 region: Orange County
 ---

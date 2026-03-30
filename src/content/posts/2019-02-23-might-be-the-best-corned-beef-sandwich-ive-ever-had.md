@@ -25,7 +25,6 @@ tags:
 - racetrack
 - horseracing
 description: Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day w
-location: Might be the best corned beef sandwich I’ve ever had
 city: San Gabriel
 region: San Gabriel Valley
 ---

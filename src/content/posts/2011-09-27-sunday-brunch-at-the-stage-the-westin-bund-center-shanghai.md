@@ -42,7 +42,6 @@ categories:
 description: When I think of a hotel’s Sunday brunch, I think of a lavish food spread with all kinds of goodies with Bloody Mary’s and Champagne’s flowing. It’s time to be with family and friends to relax and enjo
 archiveUrl: https://web.archive.org/web/20111011064418/http://www.thethirstypig.com/2011/09/27/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/?utm_source=dlvr.it&utm_medium=twitter
 draft: false
-location: Sunday Brunch at the Stage – The Westin Bund Center
 city: Shanghai
 region: Shanghai
 ---

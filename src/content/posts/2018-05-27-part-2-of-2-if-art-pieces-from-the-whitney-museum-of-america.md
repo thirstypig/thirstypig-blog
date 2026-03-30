@@ -26,9 +26,13 @@ tags:
 - art
 - thirstypig
 description: Part 2 of 2 if art pieces from the Whitney Museum of American Art. With Andy Warhol and others.
-location: Part 2 of 2 if art pieces from the Whitney Museum of American Art
 city: New York
 region: New York
+location: Whitney Museum of American Art
+address: 99 Gansevoort St (btwn 10th Ave & Washington St), New York, NY 10014
+coordinates:
+  lat: 40.739506
+  lng: -74.008861
 ---
 
 ![Part 2 of 2 if art pieces from the Whitney Museum of American Art](/images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17874738046236790.jpg)

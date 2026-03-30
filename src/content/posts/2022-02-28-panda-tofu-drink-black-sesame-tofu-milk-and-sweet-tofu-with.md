@@ -25,7 +25,6 @@ tags:
 - cars
 description: Panda tofu drink - black sesame tofu milk and sweet tofu with black sesame dessert. The slightly sweet tofu drink was refreshing. The tofu dessert, which needs to be mixed, ended up being a a little t
 location: Panda tofu drink
-city: black sesame tofu milk and sweet tofu with black sesame de...
 categories:
 - black sesame tofu milk and sweet tofu with black sesame de...
 ---

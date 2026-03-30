@@ -23,7 +23,11 @@ tags:
 description: 'Romankan makes a type of sandwich that features a specific type of filling that is quite popular. This Japanese style sandwich is packed with a fried pork cutlet, or chicken one. That’s all you need, '
 archiveUrl: https://web.archive.org/web/20110106014237/http://www.thethirstypig.com/2010/07/02/katsu-sandwiches-romankan-yokohama-breeze-center-taipei/
 draft: false
-location: Katsu Sandwiches at 浪漫館横浜 Romankan Yokohama, Breeze Center
+location: 台北馥華商旅(松江館) Forward Hotel Taipei
 city: Taipei
 region: Taipei
+address: No3 Yijiang Street, 台北市
+coordinates:
+  lat: 25.050956
+  lng: 121.531528
 ---

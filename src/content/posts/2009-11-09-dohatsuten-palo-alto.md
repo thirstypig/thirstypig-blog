@@ -13,7 +13,6 @@ description: Dohatsuten is a nice little find in the South Bay of Northern Cal. 
 archiveUrl: https://web.archive.org/web/20161106041709/http://thirstypig.com/2009/11/09/dohatsuten-palo-alto/
 draft: false
 location: Dohatsuten
-city: Palo Alto
 address: 799 San Antonio Rd Palo Alto, CA 94303
 ---
 

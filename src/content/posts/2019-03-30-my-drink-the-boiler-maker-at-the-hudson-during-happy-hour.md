@@ -18,10 +18,15 @@ tags:
 - macandcheese
 - santamonicablvd
 description: My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese.
-location: My drink, the Boiler Maker
-city: at the Hudson during Happy Hour
+location: The Eli & Edythe Broad Stage
+city: Santa Monica
 categories:
 - at the Hudson during Happy Hour
+region: Los Angeles
+address: 1310 11th St, Santa Monica, CA 90401
+coordinates:
+  lat: 34.022185
+  lng: -118.489636
 ---
 
 ![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18051062521018873.jpg)

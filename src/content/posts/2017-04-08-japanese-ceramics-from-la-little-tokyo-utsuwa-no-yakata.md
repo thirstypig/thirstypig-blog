@@ -25,11 +25,15 @@ tags:
 - bowls
 - ceramics
 description: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata. Creative designs!
-location: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata
+location: Park Hyatt Tokyo (パークハイアット東京)
 city: Tokyo
 region: Tokyo
 categories:
 - Tokyo
+address: 西新宿3-7-1-2 (新宿パークタワー), 新宿区, 東京都, 163-1055
+coordinates:
+  lat: 35.685575
+  lng: 139.690639
 ---
 
 ![Japanese ceramics from LA Little Tokyo Utsuwa No Yakata](/images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17865580090104331.jpg)

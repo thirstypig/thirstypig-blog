@@ -34,7 +34,7 @@ categories:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154758/http://www.thethirstypig.com:80/2010/08/27/shakas-alhambra/
 draft: false
-location: Kalua Pig and Pork Lau Lau . . . Oh so good at Shaka’s
+location: Shaka’s
 region: San Gabriel Valley
 city: Alhambra
 ---

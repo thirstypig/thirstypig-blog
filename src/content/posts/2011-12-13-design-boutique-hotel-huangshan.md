@@ -13,7 +13,6 @@ description: The Design Boutique Hotel, located in the heart of Huangshan City, 
 archiveUrl: https://web.archive.org/web/20120116092815/http://www.thethirstypig.com:80/2011/12/13/design-boutique-hotel-huangshan/
 draft: false
 location: Design Boutique Hotel
-city: Huangshan
 address: 6 Fairy Cave North Road
 ---
 

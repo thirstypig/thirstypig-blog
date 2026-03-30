@@ -11,8 +11,13 @@ categories:
 description: Downstairs with David Laris and our very own Irish chef Siobhán Gough are proud to be part of the Féile Shanghai Ireland Festival 2012. Supported by the Irish Consulate General of Shanghai and Bord Bi
 archiveUrl: https://web.archive.org/web/20121108201346/http://www.thethirstypig.com:80/2012/03/05/celebrate-feile-shanghai-ireland-festival-at-downstairs-with-david-laris-10-18-march-2012/
 draft: false
-location: Celebrate Féile Shanghai Ireland Festival at Downstairs with David Laris
-city: 10-18 March 2012
+location: Downstair With David Laris
+city: Shanghai
+region: Shanghai
+address: 上海市, 上海市
+coordinates:
+  lat: 31.228744
+  lng: 121.439151
 ---
 
 ![](http://www.thethirstypig.com/wp-content/uploads/2012/02/Ireland-Week-Picture.jpg "Ireland-Week-Picture")

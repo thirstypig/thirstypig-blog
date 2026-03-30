@@ -25,7 +25,6 @@ tags:
 - taiwanese
 description: Beef Noodle Soup, dumplings, and tofu + thousand year old egg with my cousin in Hualien. This is one of favorites growing up in Hualien. The beef noodle soup has a nice hearty but not overpowering bro
 location: Beef Noodle Soup, dumplings
-city: and tofu + thousand year old egg with my cousin ...
 categories:
 - and tofu + thousand year old egg with my cousin ...
 ---

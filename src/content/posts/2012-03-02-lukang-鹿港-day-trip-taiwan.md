@@ -10,9 +10,13 @@ categories:
 description: Lukang 鹿港 is a small town near the city of Taichung. It has a seaport which faces toward the China province of Fujian, from which many of the people are from. I recently made a visit there to see frie
 archiveUrl: https://web.archive.org/web/20121106014156/http://www.thethirstypig.com:80/2012/03/02/lukang-%E9%B9%BF%E6%B8%AF-day-trip-taiwan/
 draft: false
-location: Lukang 鹿港 Day Trip
-city: Taiwan
-region: Taiwan
+location: 花嘴廚房 What Day Kitchen
+city: Taipei
+region: Taipei
+address: 昆明街214-1號, 台北市
+coordinates:
+  lat: 25.040576
+  lng: 121.504451
 ---
 
 Lukang 鹿港 is a small town near the city of Taichung. It has a seaport which faces toward the China province of Fujian, from which many of the people are from. I recently made a visit there to see friends and the [Taiwan Lantern Festival.](http://www.taiwan.net.tw/2012TaiwanLantern/2/index.aspx)

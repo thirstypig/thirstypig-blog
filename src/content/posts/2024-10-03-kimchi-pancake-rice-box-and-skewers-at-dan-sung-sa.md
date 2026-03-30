@@ -26,10 +26,15 @@ tags:
 - thirstypig
 - tastemakersapp
 description: Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long
-location: Kimchi pancake, rice box
-city: and skewers at Dan Sung Sa
+location: Walt Disney Concert Hall Box Office
+city: Koreatown
 categories:
 - and skewers at Dan Sung Sa
+region: Los Angeles
+address: 111 S Grand Ave (1st), Los Angeles, CA 90012
+coordinates:
+  lat: 34.055248
+  lng: -118.249345
 ---
 
 ![Kimchi pancake, rice box, and skewers at Dan Sung Sa](/images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/18140007442350961.jpg)

@@ -16,8 +16,8 @@ description: Located in Little Osaka Been around awhile, favored by loyal custom
 archiveUrl: https://web.archive.org/web/20160828115349/http://thirstypig.com/2009/10/15/ramenya-west-los-angeles/
 draft: false
 location: Ramenya
-city: West Los Angeles
-region: Westside
+city: Osaka
+region: Osaka
 address: 11660 Gateway Blvd Los Angeles, CA 90064
 ---
 

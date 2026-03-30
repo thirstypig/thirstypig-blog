@@ -20,10 +20,15 @@ tags:
 - japanesecomfortfood
 - saba
 description: 'Oyaku Don, Udon, and Saba. Suehiro is Little Tokyo’s Japanese Denny’s. Love this place. Can always good Japanese comfort dishes. They good rice dishes, ramen, and other dishes. Open Late. But parking '
-location: Oyaku Don, Udon
-city: and Saba
+location: Donut Friend
+city: Little Tokyo
 categories:
 - and Saba
+region: Los Angeles
+address: 543 S Broadway (at W 6th St), Los Angeles, CA 90013
+coordinates:
+  lat: 34.047195
+  lng: -118.251962
 ---
 
 ![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/17886257527446610.jpg)

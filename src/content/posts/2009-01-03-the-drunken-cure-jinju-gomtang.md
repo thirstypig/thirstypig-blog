@@ -18,8 +18,8 @@ description: I actually like this place. Understandably, Mr. Steve knows that th
 archiveUrl: https://web.archive.org/web/20110105195145/http://www.thethirstypig.com/2009/01/03/the-drunken-cure-jinju-gomtang/
 draft: false
 location: The Drunken Cure
-city: Jinju Gomtang
-region: Koreatown
+city: Los Angeles
+region: Los Angeles
 address: '3377 Wilshire Blvd
 
   Los Angeles, CA 90010'

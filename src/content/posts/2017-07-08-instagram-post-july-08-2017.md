@@ -23,6 +23,8 @@ tags:
 - oaktrees
 - mintjulep
 location: Oakalleyplantation
+city: New Orleans
+region: Louisiana
 ---
 
 ![Instagram Post — July 08, 2017](/images/posts/ig-2017-07-08-instagram-post-july-08-2017/17879014381078471.jpg)

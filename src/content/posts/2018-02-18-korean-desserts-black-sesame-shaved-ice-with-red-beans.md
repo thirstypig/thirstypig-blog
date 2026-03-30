@@ -19,7 +19,6 @@ tags:
 - ktown
 - desserts
 description: Korean desserts black sesame shaved ice with red beans. And hot pumpkin porridge
-location: Korean desserts black sesame shaved ice with red beans
 city: Koreatown
 region: Los Angeles
 ---

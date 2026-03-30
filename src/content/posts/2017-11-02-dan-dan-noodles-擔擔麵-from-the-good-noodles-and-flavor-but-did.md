@@ -20,7 +20,9 @@ tags:
 - spicy
 - sichuanfood
 description: Dan Dan Noodles 擔擔麵 from the good noodles and flavor but didn’t care for the chickpeas and veggies and the USD8 portion. Guess I’m a traditionalist. Was at the Huntington Library Halloween Event - Str
-location: Dan Dan Noodles 擔擔麵 from the  good noodles and flavor but didn’t care for the...
+location: Chinese Laundry Truck
+city: Pasadena
+region: San Gabriel Valley
 ---
 
 ![Dan Dan Noodles 擔擔麵 from the  good noodles and flavor but didn’t care for the...](/images/posts/ig-2017-11-02-dan-dan-noodles-擔擔麵-from-the-good-noodles-and-flavor-but-did/17879790253166016.jpg)

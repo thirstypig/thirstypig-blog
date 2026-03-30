@@ -18,7 +18,6 @@ tags:
 - thirstypig
 - japanesefood
 description: Drinks with friends at the newly opened Sake Dojo in Little Tokyo in DTLA. .real.mike.gin
-location: Drinks with friends at the newly opened Sake Dojo in Little Tokyo in DTLA
 city: Tokyo
 region: Tokyo
 categories:

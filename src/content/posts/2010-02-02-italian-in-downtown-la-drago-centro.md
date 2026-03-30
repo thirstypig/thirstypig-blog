@@ -25,9 +25,13 @@ tags:
 description: Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their menuhttp://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445 during their promotion. Unfortunately,
 archiveUrl: https://web.archive.org/web/20110105030652/http://www.thethirstypig.com/2010/02/02/italian-in-downtown-la-drago-centro/
 draft: false
-location: Italian in Downtown LA
-city: Drago Centro
-region: Downtown LA
+location: Lola in downtown LA
+city: Downtown LA
+region: Los Angeles
+address: Los Angeles, CA
+coordinates:
+  lat: 34.040101
+  lng: -118.253671
 ---
 
 Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their [menu](http://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445) during their promotion. Unfortunately, I didn’t get to try their dineLA menu.

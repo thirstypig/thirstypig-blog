@@ -27,9 +27,10 @@ tags:
 - carnivalcruise
 description: The best meal on our booze cruise in Ensenada, at Mahi Mahi. Marlin empanada, fish tacos, fish soup, margaritas and more. Yummy. . . . . .
 location: The best meal on our booze cruise in Ensenada
-city: at Mahi Mahi
+city: Ensenada
 categories:
 - at Mahi Mahi
+region: Mexico
 ---
 
 ![The best meal on our booze cruise in Ensenada, at Mahi Mahi](/images/posts/ig-2018-06-25-the-best-meal-on-our-booze-cruise-in-ensenada-at-mahi-mahi/17949623404070849.jpg)

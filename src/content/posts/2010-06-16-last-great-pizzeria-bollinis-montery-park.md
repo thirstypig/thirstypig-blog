@@ -27,8 +27,9 @@ description: Traditional pizzas nowadays are tough to find. Pizza Hut, Domino’
 archiveUrl: https://web.archive.org/web/20110106000242/http://www.thethirstypig.com/2010/06/16/last-great-pizzeria-bollinis-montery-park/
 draft: false
 location: The Last Great Pizzeria
-city: Bollini’s of Montery Park
+city: Monterey Park
 address: 2315 South Garfield Ave
+region: San Gabriel Valley
 ---
 
 Traditional pizzas nowadays are tough to find. Pizza Hut, Domino’s, and Papa John’s dominate public perception of what a pizza is suppose to be like. Nuevo pies, such as California Pizza Kitchen, Wolfgang Puck’s, and to some extent Pizzeria Mozza are establishing standards for new generations. Chicago style, though my favorite, is more like a casserole, a quiche, or even like a meat pie. As much as I hate to give New Yorker’s credit, the thin crust pizza is proper one.

@@ -21,10 +21,15 @@ tags:
 - dtla
 - lunch
 description: Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sandwiches. Got to try them all. I really liked the Prosciutto Chicken sandwich - I definitely will order this next time.
-location: Sandwiches  the Peruvian Steak, Pork Belly Banh Mi
-city: and Prosciutto Chicken sa...
+location: Buddha Belly
+city: Downtown LA
 categories:
 - and Prosciutto Chicken sa...
+region: Los Angeles
+address: 724 S Spring St, Los Angeles, CA 90014
+coordinates:
+  lat: 34.044006
+  lng: -118.252726
 ---
 
 ![Sandwiches  the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17849434615221400.jpg)

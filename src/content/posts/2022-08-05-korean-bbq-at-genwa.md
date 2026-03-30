@@ -25,7 +25,7 @@ tags:
 - thirstypig
 - tastemakersapp
 description: Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sur
-location: Korean BBQ at Genwa
+location: Genwa
 ---
 
 ![Korean BBQ at Genwa](/images/posts/ig-2022-08-05-korean-bbq-at-genwa/17940304637205414.jpg)

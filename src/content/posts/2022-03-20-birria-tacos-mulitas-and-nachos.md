@@ -22,10 +22,15 @@ tags:
 - tacos
 - cheesetacoshellsâ
 description: Birria Tacos, mulitas, and nachos. After drinking we go for eats in east Los Angeles, in Lincoln Heights. The birria Consume is great with the tacos and mulitas. I learned about the consume, with a li
-location: Birria Tacos, mulitas
-city: and nachos
+location: Ave 26 Tacos
+city: East LA
 categories:
 - and nachos
+region: Los Angeles
+address: 353 S Alameda St, Los Angeles, CA 90013
+coordinates:
+  lat: 34.04373
+  lng: -118.238456
 ---
 
 ![Birria Tacos, mulitas, and nachos](/images/posts/ig-2022-03-20-birria-tacos-mulitas-and-nachos/18284177200025381.jpg)

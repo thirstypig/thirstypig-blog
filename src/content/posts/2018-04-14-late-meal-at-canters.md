@@ -21,7 +21,13 @@ tags:
 - canters
 - fairfax
 description: Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes. And some pickles.
-location: Late meal at Canter’s
+location: Canter's Deli
+city: Los Angeles
+region: Los Angeles
+address: 419 N Fairfax Ave (btwn Rosewood & Oakwood Ave), Los Angeles, CA 90036
+coordinates:
+  lat: 34.078815
+  lng: -118.361568
 ---
 
 ![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17911119247147192.jpg)

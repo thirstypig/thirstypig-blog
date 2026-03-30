@@ -28,10 +28,15 @@ tags:
 - topoftherock
 - statueofliberty
 description: Reflection of our trip to NYC, in all its colors.
-location: Reflection of our trip to NYC
-city: in all its colors
+location: Face to Face NYC
+city: New York
 categories:
 - in all its colors
+region: New York
+address: 20 W 20th St, New York, NY 10011
+coordinates:
+  lat: 40.740192
+  lng: -73.992465
 ---
 
 ![Reflection of our trip to NYC, in all its colors](/images/posts/ig-2018-01-15-reflection-of-our-trip-to-nyc-in-all-its-colors/17889874891166710.jpg)

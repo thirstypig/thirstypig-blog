@@ -22,7 +22,6 @@ tags:
 - agedswisscheese
 - pepperjackcheese
 description: This is my Grilled Cheese Sandwich. I’m entering in The Great Grilled Cheese Contest. This is a simple recipe with sliced cheese the hardest part is the patience. You don’t want high heat burning your
-location: This is my Grilled Cheese Sandwich
 ---
 
 ![This is my Grilled Cheese Sandwich](/images/posts/ig-2021-04-16-this-is-my-grilled-cheese-sandwich/18165930436143723.jpg)

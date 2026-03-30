@@ -16,10 +16,15 @@ images:
 tags:
 - thirstypig
 description: Korean Dinner at Genwa Korean BBQ in Beverly Hills we had chapchae, kimchi pancake, beef, pork belly bbq, seolleongtang, sundubue, and tolsopbimbibap. Too much.
-location: Korean Dinner at Genwa Korean BBQ  in Beverly Hills we had chapchae
-city: kimchi p...
+location: Genwa Korean BBQ
+city: Beverly Hills
 categories:
 - kimchi p...
+region: Los Angeles
+address: 170 N La Cienega Blvd, Beverly Hills, CA 90211
+coordinates:
+  lat: 34.069089
+  lng: -118.376111
 ---
 
 ![Korean Dinner at Genwa Korean BBQ  in Beverly Hills we had chapchae, kimchi p...](/images/posts/ig-2018-02-18-korean-dinner-at-genwa-korean-bbq-in-beverly-hills-we-had-ch/17902029022136795.jpg)

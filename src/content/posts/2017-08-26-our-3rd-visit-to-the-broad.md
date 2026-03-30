@@ -19,7 +19,13 @@ images:
 tags:
 - thebroad
 description: Our 3rd visit to The Broad. Nice little afternoon visit with a 40 minute wait.
-location: Our 3rd visit to The Broad
+location: The Broad
+city: Downtown LA
+region: Los Angeles
+address: 221 S Grand Ave (at 2nd St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.054412
+  lng: -118.250539
 ---
 
 ![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17896304128000545.jpg)

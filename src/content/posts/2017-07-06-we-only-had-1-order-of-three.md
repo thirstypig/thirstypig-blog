@@ -14,7 +14,13 @@ tags:
 - beignets
 - milk
 description: we only had 1 order (of three). We might try to return for more
-location: we only had 1 order (of three)
+location: Cafe Du Monde
+city: New Orleans
+region: Louisiana
+address: 813 Decatur St (at The French Market), New Orleans, LA 70116
+coordinates:
+  lat: 29.95751
+  lng: -90.062056
 ---
 
 ![we only had 1 order (of three)](/images/posts/ig-2017-07-06-we-only-had-1-order-of-three/17862793105178735.jpg)

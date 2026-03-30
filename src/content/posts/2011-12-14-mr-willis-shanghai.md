@@ -12,7 +12,6 @@ tags:
 description: Mr. Willishttp://www.mrwillis.com.cn No. 195 Anfu Road, Xuhui, Shanghai, China, 200233 +86 21 5404 0200
 archiveUrl: https://web.archive.org/web/20161105045852/http://thirstypig.com/2011/12/14/mr-willis-shanghai/
 draft: false
-location: Mr. Willis
 city: Shanghai
 region: Shanghai
 address: 195 Anfu Road

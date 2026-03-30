@@ -27,10 +27,10 @@ tags:
 - kentucky
 - bourbondistillery
 description: 'The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store '
-location: The most modern and Napa-like experience of a distillery
-city: Bardstown Bourbon ...
+city: Bardstown
 categories:
 - Bardstown Bourbon ...
+region: Kentucky
 ---
 
 ![The most modern and Napa-like experience of a distillery - Bardstown Bourbon ...](/images/posts/ig-2022-11-22-the-most-modern-and-napa-like-experience-of-a-distillery-bar/17891616446725003.jpg)

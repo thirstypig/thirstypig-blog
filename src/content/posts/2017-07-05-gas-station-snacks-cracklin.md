@@ -14,7 +14,6 @@ tags:
 - thirstypig
 description: Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market
 location: Gas Station Snacks
-city: Cracklin
 categories:
 - Cracklin
 ---

@@ -16,10 +16,11 @@ description: Yung Ho is your typical Taiwan breakfast joint. There are two locat
 archiveUrl: https://web.archive.org/web/20110105144016/http://www.thethirstypig.com/2009/05/03/taiwanese-breakfast-burrito-yung-ho/
 draft: false
 location: Taiwanese Breakfast Burrito
-city: Yung Ho
+city: Taipei
 address: '533 W Valley Blvd
 
   San Gabriel, CA 91776'
+region: Taipei
 ---
 
 Yung Ho is your typical Taiwan breakfast joint. There are two locations on Valley Blvd, that are not related. Each have similar items.

@@ -28,9 +28,13 @@ tags:
 - thirstypigwouldreturn
 - chinesefood
 description: Dinner with old classmates at Temple City’s Bistro Na 那家小館. Hailing from Beijing, Bistro Na earned its first Michelin star in 2019. Their dishes derive from traditional Imperial China-era recipes. I t
-location: Dinner with old classmates at Temple City’s Bistro Na 那家小館
+location: Thien Hau Temple
 city: Los Angeles
 region: Los Angeles
+address: 750-756 Yale St (at Alpine St.), Los Angeles, CA 90012
+coordinates:
+  lat: 34.062746
+  lng: -118.240956
 ---
 
 ![Dinner with old classmates at Temple City’s Bistro Na 那家小館](/images/posts/ig-2025-02-20-dinner-with-old-classmates-at-temple-citys-bistro-na-那家小館/17944698251824815.jpg)

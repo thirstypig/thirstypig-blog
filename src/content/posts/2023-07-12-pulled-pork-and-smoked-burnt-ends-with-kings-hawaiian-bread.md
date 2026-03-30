@@ -21,7 +21,6 @@ tags:
 - barbeque
 - pulledpork
 description: Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger Game. Good food and a Dodger win! What could be better? . . . . .
-location: Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger...
 ---
 
 ![Pulled pork and smoked burnt ends with Kings Hawaiian bread rolls at a Dodger...](/images/posts/ig-2023-07-12-pulled-pork-and-smoked-burnt-ends-with-kings-hawaiian-bread/18001896775788865.jpg)
