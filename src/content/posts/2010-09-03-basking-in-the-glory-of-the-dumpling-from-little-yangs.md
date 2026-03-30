@@ -22,9 +22,13 @@ tags:
 description: There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have somethi
 archiveUrl: https://web.archive.org/web/20110218065558/http://www.thethirstypig.com:80/2010/09/03/basking-in-the-glory-of-the-dumpling-from-little-yangs/
 draft: false
-location: Basking in the Glory of the Dumpling from Little Yang’s
+location: Little Catch
 city: Shanghai
 region: Shanghai
+address: 2/F, Taixing Road 99 - East Block 泰兴路99号东区2楼B (Wujiang Lu 吴江路), 上海市, 上海市
+coordinates:
+  lat: 31.230686
+  lng: 121.455385
 ---
 
 There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have something to say.

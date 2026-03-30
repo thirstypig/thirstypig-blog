@@ -23,7 +23,6 @@ tags:
 - tacos
 - tortas
 description: The Chronicles of Carnitas continues with Carnitas El Momo. Probably the internet’s most well known Carnitas truck in Los Angeles. I dig the generous portions in the tacos. The torta was was also very
-location: The Chronicles of Carnitas continues with Carnitas El Momo
 city: Los Angeles
 categories:
 - Los Angeles

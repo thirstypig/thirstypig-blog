@@ -19,7 +19,6 @@ tags:
 - thevalley
 - tacos
 description: Just some tacos and queso. And of course some drinks. Really can’t go wrong with tacos. . . . . . .
-location: Just some tacos and queso
 ---
 
 ![Just some tacos and queso](/images/posts/ig-2022-04-11-just-some-tacos-and-queso/17901761774547339.jpg)

@@ -20,10 +20,15 @@ tags:
 - eeeeeats
 - thirstypig
 description: Pan Roast, clam chowder, lobster roll, and chowder tots. The Pan Roast is similar to the Vegas’ Station Casino’s Oyster Bar version. Yum! . . . . .
-location: Pan Roast, clam chowder, lobster roll
-city: and chowder tots
+location: Mothership Coffee Roasters
+city: Las Vegas
 categories:
 - and chowder tots
+region: Las Vegas
+address: 1028 Fremont St, Las Vegas, NV 89101
+coordinates:
+  lat: 36.167034
+  lng: -115.133746
 ---
 
 ![Pan Roast, clam chowder, lobster roll, and chowder tots](/images/posts/ig-2021-08-27-pan-roast-clam-chowder-lobster-roll-and-chowder-tots/17920592734758669.jpg)

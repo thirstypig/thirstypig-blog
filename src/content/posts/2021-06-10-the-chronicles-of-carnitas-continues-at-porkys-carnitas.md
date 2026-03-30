@@ -21,9 +21,13 @@ tags:
 - eats
 - eeeeeats
 description: The Chronicles of Carnitas continues at Porky’s Carnitas. Had to try a place with such a eponymous name. Though not a fan of offal and unfried pork skin - the mixto taco with everything was really goo
-location: The Chronicles of Carnitas continues at Porky’s Carnitas
+location: Porky's Carnitas
 city: East LA
 region: Los Angeles
+address: 1720 S Soto St (at E Washington Blvd), Los Angeles, CA 90023
+coordinates:
+  lat: 34.017549
+  lng: -118.219816
 ---
 
 ![The Chronicles of Carnitas continues at Porky’s Carnitas](/images/posts/ig-2021-06-10-the-chronicles-of-carnitas-continues-at-porkys-carnitas/18116173276223118.jpg)

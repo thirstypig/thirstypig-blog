@@ -23,9 +23,13 @@ tags:
 description: I was going to say that I don’t usually do fast food joints, but on reflection – I have In-N-Out and Tommy’s, so doing Master Kong’s was not a stretch. This noodle chain, specializes in beef soup nood
 archiveUrl: https://web.archive.org/web/20110106030732/http://www.thethirstypig.com/2010/09/29/master-kong-chefs-table/
 draft: false
-location: Beef Noodle Soup at Master Kong Chef’s Table 康师傅私房牛肉面
+location: Master Kong Chef's Table (康师傅私房牛肉面)
 city: Shanghai
 region: Shanghai
+address: 762 Tianshan Rd | 天山路762号 (Hong Xin Fashion Plaza | 泓鑫时尚广场), Xian xiá, Changning, 上海市, 200051
+coordinates:
+  lat: 31.213145
+  lng: 121.398568
 ---
 
 I was going to say that I don’t usually do fast food joints, but on reflection – I have In-N-Out and Tommy’s, so doing Master Kong’s was not a stretch. This noodle chain, specializes in beef soup noodles.

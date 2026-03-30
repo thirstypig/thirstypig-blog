@@ -11,6 +11,16 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 			<h2>March 2026 — The Rebuild</h2>
 
+			<h3>March 30 — Location Data Enrichment & Map Expansion</h3>
+			<ul>
+				<li><strong>@mention venue extraction</strong> — Identified 65+ restaurant names from Instagram @handles in post bodies (e.g., @franklinbbq → Franklin BBQ, @snowsbbq → Snow's BBQ)</li>
+				<li><strong>Location field cleanup</strong> — Fixed 451 posts with messy location/city fields where full captions had been dumped into venue name fields</li>
+				<li><strong>Texas & Louisiana coverage</strong> — Added city/region data for 16 Texas posts (Austin, Lockhart, San Antonio) and 8 New Orleans posts that were missing from the map</li>
+				<li><strong>Map expansion</strong> — cityCoords lookup table expanded from 46 to 104 cities, adding Austin, New Orleans, Medellin, Osaka, Chicago, and 50+ more</li>
+				<li><strong>Additional geocoding</strong> — 185 more venues geocoded via Foursquare, bringing total to 841 precise GPS coordinates</li>
+				<li><strong>Map pins</strong> — Map now shows 1,384 pins with 841 exact GPS locations across LA, Texas, Louisiana, New York, San Francisco, Asia, and beyond</li>
+			</ul>
+
 			<h3>March 29 — Venue Geocoding & Data Cleanup</h3>
 			<ul>
 				<li><strong>Foursquare geocoding</strong> — Batch-resolved 655 venues to precise addresses and GPS coordinates via Foursquare Places API</li>

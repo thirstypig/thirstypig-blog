@@ -11,8 +11,8 @@ categories:
 description: The Sichuan Pepper or Szechuan Peppercornhttp://en.wikipedia.org/wiki/Sichuanpeppercorn is a unique breed of spice. When eaten, it gives, not a spicy, nor savory flavor, but a distinguishing mouth num
 archiveUrl: https://web.archive.org/web/20110106183213/http://www.thethirstypig.com:80/2010/12/22/sichuan-pepper-huang-fei-hong/
 draft: false
-location: Sichuan Pepper
-city: Huang Fei Hong
+city: Shanghai
+region: Shanghai
 ---
 
 The [Sichuan Pepper or Szechuan Peppercorn](http://en.wikipedia.org/wiki/Sichuan_peppercorn) is a unique breed of spice. When eaten, it gives, not a spicy, nor savory flavor, but a distinguishing mouth numbing feel. This unsettling feeling is the basis for Sichuan Cuisine. Known as Chuan Cai (川菜), without the “Si”, is one of the [8 great Chinese Cuisines.](http://en.wikipedia.org/wiki/History_of_Chinese_cuisine) I recently visited [Yuxin, in Shanghai](http://www.thethirstypig.com/2010/11/19/yuxin-sichuan-cuisine-shanghai/), for some of the best Sichuan cuisine.

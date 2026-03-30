@@ -21,7 +21,7 @@ tags:
 - highlandpark
 - breakfast
 description: Missed those breakfast tacos from Austin. Luckily we have we had the Pecos (shredded brisket and egg) and the Guadalupe (chorizo and egg). Also we had the traditional migas and queso & chips. Though t
-location: Missed those breakfast tacos from Austin
+location: HomeState
 city: Austin
 region: Texas
 ---

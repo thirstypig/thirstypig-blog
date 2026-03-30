@@ -24,10 +24,15 @@ tags:
 - macandcheese
 - yummy
 description: Dinner at in We had the sausage pizza, the lasagna, Caesar salad, Mac & cheese, and portobello mushroom fries. Also had a couple of the woodchuck Apple cider - yum! The lasagna was one of the best I h
-location: Dinner at  in   We had the sausage pizza, the lasagna, Caesar salad
-city: Mac & ch...
+location: Prime Pizza
+city: Downtown LA
 categories:
 - Mac & ch...
+region: Los Angeles
+address: 141 S Central Ave, Los Angeles, CA 90012
+coordinates:
+  lat: 34.048288
+  lng: -118.239672
 ---
 
 ![Dinner at  in   We had the sausage pizza, the lasagna, Caesar salad, Mac & ch...](/images/posts/ig-2017-11-26-dinner-at-in-we-had-the-sausage-pizza-the-lasagna-caesar-sal/17883949882156343.jpg)

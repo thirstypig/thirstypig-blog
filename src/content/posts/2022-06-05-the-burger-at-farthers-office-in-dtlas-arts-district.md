@@ -22,9 +22,13 @@ tags:
 - beer
 - fathersoffice
 description: The burger at Farther’s Office in DTLA’s Arts District. Very yummy burger and nicely spiced fries. Washed it down with some tart pear cider. I needed that acidic cider since burger was lusciously rich
-location: The burger at Farther’s Office in DTLA’s Arts District
+location: Walt Disney Concert Hall Box Office
 city: Los Angeles
 region: Los Angeles
+address: 111 S Grand Ave (1st), Los Angeles, CA 90012
+coordinates:
+  lat: 34.055248
+  lng: -118.249345
 ---
 
 ![The burger at Farther’s Office in DTLA’s Arts District](/images/posts/ig-2022-06-05-the-burger-at-farthers-office-in-dtlas-arts-district/17973688927540905.jpg)

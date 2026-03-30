@@ -15,8 +15,13 @@ tags:
 description: .http://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103143934/http://www.thethirstypig.com/2011/01/24/the-born-%ec%83%88%eb%a7%88%ec%9d%84%ec%8b%9d%eb%8b%b9%ec%8b%a0%ec%82%ac%ec%97%ad%ec%a0%90-korean-bbq/
 draft: false
-location: The Born 새마을식당신사역점
-city: Korean BBQ
+location: The PuLi Hotel and Spa (璞丽酒店)
+city: Shanghai
+region: Shanghai
+address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
+coordinates:
+  lat: 31.224154
+  lng: 121.443505
 ---
 
 [.](http://www.addtoany.com/share_save)

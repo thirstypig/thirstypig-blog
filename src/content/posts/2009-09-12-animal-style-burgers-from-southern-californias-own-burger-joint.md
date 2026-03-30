@@ -17,7 +17,6 @@ tags:
 description: You could smell their burgers almost a mile away – literally. In-N-Out, a Southern California institution, has been around for over 60 years. If you haven’t heard of or had a double double from In-N-O
 archiveUrl: https://web.archive.org/web/20110105224622/http://www.thethirstypig.com/2009/09/12/animal-style-burgers-from-southern-californias-own-burger-joint/
 draft: false
-location: Animal Style Burgers from Southern California’s Own Burger Joint
 ---
 
 You could smell their burgers almost a mile away – literally. In-N-Out, a Southern California institution, has been around for over 60 years. If you haven’t heard of or had a double double from In-N-Out, then you haven’t been to LA. But perhaps most of you have heard of their Animal Style Burgers from their secret menu and Animal Style fries.

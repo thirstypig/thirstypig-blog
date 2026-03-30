@@ -11,6 +11,8 @@ images:
 - /images/posts/ig-2017-05-17-instagram-post-may-17-2017/17881156501037353.jpg
 - /images/posts/ig-2017-05-17-instagram-post-may-17-2017/17869499761098988.jpg
 location: Perlassouthcongress
+city: Austin
+region: Texas
 ---
 
 ![Instagram Post — May 17, 2017](/images/posts/ig-2017-05-17-instagram-post-may-17-2017/17859039310139879.jpg)

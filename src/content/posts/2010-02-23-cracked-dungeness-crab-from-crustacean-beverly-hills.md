@@ -33,7 +33,11 @@ tags:
 description: Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us reme
 archiveUrl: https://web.archive.org/web/20110105031501/http://www.thethirstypig.com/2010/02/23/cracked-dungeness-crab-from-crustacean-beverly-hills/
 draft: false
-location: Cracked Dungeness Crab from Crustacean Beverly Hills
-city: West LA
-region: Westside
+location: Crustacean Beverly Hills
+city: Beverly Hills
+region: Los Angeles
+address: 468 N Bedford Dr, Beverly Hills, CA 90210
+coordinates:
+  lat: 34.069251
+  lng: -118.405876
 ---

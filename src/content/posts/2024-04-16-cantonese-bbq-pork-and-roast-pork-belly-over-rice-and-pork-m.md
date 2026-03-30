@@ -21,7 +21,6 @@ tags:
 - airportfood
 - thirstypig
 description: Cantonese Bbq pork and roast pork belly over rice and pork meat ball soup. At short stop at HKG airport with a classic Cantonese deli meal. When I lived in HKG this was my favorite meal. I found great
-location: Cantonese Bbq pork and roast pork belly over rice and pork meat ball soup
 city: Los Angeles
 region: Los Angeles
 ---

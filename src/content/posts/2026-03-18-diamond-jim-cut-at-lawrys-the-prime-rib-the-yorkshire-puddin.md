@@ -14,10 +14,15 @@ tags:
 - beverlyhills
 - lawrys
 description: Diamond Jim Cut at Lawry’s The Prime Rib the Yorkshire pudding, creamed corn, and cream spinach. Great meal. It’s had been a minute since I was last here. I’m hope next time isn’t as long.
-location: Diamond Jim Cut at Lawry’s The Prime Rib  the Yorkshire pudding
-city: creamed corn...
+location: The Cheese Store of Beverly Hills
+city: Beverly Hills
 categories:
 - creamed corn...
+region: Los Angeles
+address: 419 N Beverly Dr, Beverly Hills, CA 90210
+coordinates:
+  lat: 34.070357
+  lng: -118.402368
 ---
 
 ![Diamond Jim Cut at Lawry’s The Prime Rib  the Yorkshire pudding, creamed corn...](/images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg)

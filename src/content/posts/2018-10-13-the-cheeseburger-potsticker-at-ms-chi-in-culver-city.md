@@ -21,9 +21,13 @@ tags:
 - chinesefood
 - culvercity
 description: The cheeseburger potsticker at Ms Chi in Culver City. Crispy chicken, Maobo tofu, tator tots, Brussels sprouts, and Buddha beer. . . . .
-location: The cheeseburger potsticker at Ms Chi in Culver City
+location: Honey's Kettle Fried Chicken
 city: Culver City
 region: Los Angeles
+address: 9537 Culver Blvd, Culver City, CA 90232
+coordinates:
+  lat: 34.023118
+  lng: -118.395369
 ---
 
 ![The cheeseburger potsticker at Ms Chi in Culver City](/images/posts/ig-2018-10-13-the-cheeseburger-potsticker-at-ms-chi-in-culver-city/17929224838202462.jpg)

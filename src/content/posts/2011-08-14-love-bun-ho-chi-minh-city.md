@@ -13,7 +13,6 @@ description: While I was in Ho Chi Minh city, we stumbled across I Love Bun afte
 archiveUrl: https://web.archive.org/web/20161104195030/http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/
 draft: false
 location: I Love Bún
-city: Ho Chi Minh City
 ---
 
 

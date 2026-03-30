@@ -29,7 +29,6 @@ tags:
 - chicken
 description: Japanese style bbq - yakiniku. High quality meats and good times with old friends. Various grades of beef, chicken, and pork. The chicken rice was good, which turned into a nice flavorful rice porridg
 location: Japanese style bbq
-city: yakiniku
 categories:
 - yakiniku
 ---

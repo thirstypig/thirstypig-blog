@@ -24,9 +24,13 @@ categories:
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154728/http://www.thethirstypig.com:80/2010/08/17/phenomenal-shanghai-skyline-views-at-strip-prime-steakhouse/
 draft: false
-location: Phenomenal Shanghai Skyline Views at Strip Prime Steakhouse
+location: 'Strip: Ministry of Waxing'
 city: Shanghai
 region: Shanghai
+address: 158 Xinle Rd. (Donghu Rd.), Xuhui, 上海市
+coordinates:
+  lat: 31.21915
+  lng: 121.449295
 ---
 
 #gallery-2 {

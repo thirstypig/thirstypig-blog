@@ -24,7 +24,7 @@ description: One night. . . after stumbling for a few hours in Hong Kong and Mac
 archiveUrl: https://web.archive.org/web/20110105025354/http://www.thethirstypig.com/2009/04/08/%e9%bb%9e%e5%bf%83dim-sum-jade-garden-hkg/
 draft: false
 location: 點心Dim Sum – Jade Garden
-city: HKG
+city: Hong Kong
 region: Hong Kong
 address: 1 Hysan Ave
 ---

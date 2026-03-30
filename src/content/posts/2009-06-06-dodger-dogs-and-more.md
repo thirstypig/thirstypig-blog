@@ -19,5 +19,4 @@ tags:
 description: <-- //LinkWithinCodeStart var linkwithin\site\id = 187727; var linkwithin\div\class = "linkwithin\hook"; //LinkWithinCodeEnd -->
 archiveUrl: https://web.archive.org/web/20111103142218/http://www.thethirstypig.com/2009/06/06/dodger-dogs-and-more/
 draft: false
-location: Dodger Dogs and more!
 ---

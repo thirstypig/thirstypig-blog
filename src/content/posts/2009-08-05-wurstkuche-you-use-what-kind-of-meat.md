@@ -21,8 +21,12 @@ description: 'Wurstküche, located near little Tokyo, recently opened in the pas
 archiveUrl: https://web.archive.org/web/20111103153501/http://www.thethirstypig.com/2009/08/05/wurstkuche-you-use-what-kind-of-meat/
 draft: false
 location: Wurstküche
-city: '"You USE what kind of meat?"'
-region: Downtown LA
+city: Downtown LA
+region: Los Angeles
+address: 800 E 3rd St (at Traction Ave), Los Angeles, CA 90013
+coordinates:
+  lat: 34.04552
+  lng: -118.236131
 ---
 
 Wurstküche, located near little Tokyo, recently opened in the past year. They fill the void, here in Los Angeles, of a needed german influenced Sausage & Beer house. I could be wrong . . . but that’s what I feel. With the back room of wood benches and flowing beers, on tap, Wurstkuche almost has the feel of a Beer Hall.

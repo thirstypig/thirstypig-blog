@@ -13,7 +13,6 @@ description: Goat, I’ve thought, was never that strange of a meat to eat. Its 
 archiveUrl: https://web.archive.org/web/20120116073954/http://www.thethirstypig.com:80/2011/11/24/quan-l%E1%BA%A9u-de-306-saigon/
 draft: false
 location: Quán Lẩu Dê 306
-city: Saigon
 ---
 
 Goat, I’ve thought, was never that strange of a meat to eat. Its a domesticated animal much like a pig or a cow. Goats aren’t exotic creatures like pangolins, snakes, or even rabbits. But it still doesn’t answer the question – why we don’t eat goat in the US or in Asia. In Latin American, they consume goat, but not in China. So, when I was told I was going to have goat, I thought nothing of it. But after thinking about it, I was thinking, why I haven’t had it before.

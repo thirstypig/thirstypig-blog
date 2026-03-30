@@ -33,7 +33,6 @@ description: Most people don’t necessarily associate chicken with Korean food.
 archiveUrl: https://web.archive.org/web/20100903192334/http://www.thethirstypig.com:80/2010/08/05/kyochon-chicken-pudong/
 draft: false
 location: KyoChon Chicken
-city: PuDong
 ---
 
 Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. The fried oily goodness goes well with cold beer and the spicy hearty flavor, or lack of, is the consummate part of Korean cuisine.

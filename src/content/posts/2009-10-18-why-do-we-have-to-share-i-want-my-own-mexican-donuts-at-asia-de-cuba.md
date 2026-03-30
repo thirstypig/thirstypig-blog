@@ -31,9 +31,13 @@ tags:
 description: Long over due, I realize I haven’t made a new post about my food adventures lately . . .I apologize. I have been busy with some other stuff lately. But I want to especially talk about this place – Asi
 archiveUrl: https://web.archive.org/web/20110105154820/http://www.thethirstypig.com/2009/10/18/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/
 draft: false
-location: Why do we have to share . . . I want my own! Mexican Donuts at Asia de Cuba
+location: El Pueblo de Los Angeles Historic Monument
 city: Hollywood
 region: Hollywood
+address: 125 Paseo de La Plz (btwn Main & Los Angeles St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.056751
+  lng: -118.2384
 ---
 
 Long over due, I realize I haven’t made a new post about my food adventures lately . . .I apologize. I have been busy with some other stuff lately. But I want to especially talk about this place – Asia de Cuba.

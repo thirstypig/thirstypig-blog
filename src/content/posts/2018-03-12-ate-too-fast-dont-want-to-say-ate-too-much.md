@@ -22,7 +22,7 @@ tags:
 - dumplings
 - eeeeeats
 description: Ate too fast (don’t want to say ate too much).
-location: Ate too fast (don’t want to say ate too much)
+location: Din Tai Fung
 ---
 
 ![Ate too fast (don’t want to say ate too much)](/images/posts/ig-2018-03-12-ate-too-fast-dont-want-to-say-ate-too-much/17898710233174577.jpg)

@@ -22,8 +22,8 @@ description: This was my first experience with Mexican Corn – and hopefully wa
 archiveUrl: https://web.archive.org/web/20110105093645/http://www.thethirstypig.com/2009/02/26/mexican-corn-cafe-habana/
 draft: false
 location: Mexican Corn
-city: Cafe Habana
-region: New York
+city: Los Angeles
+region: Los Angeles
 address: 229 Elizabeth St
 ---
 

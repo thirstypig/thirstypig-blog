@@ -20,10 +20,11 @@ description: The Saltado de Pollo was quite tasty. Peruvian is quite hearty. I g
 archiveUrl: https://web.archive.org/web/20110105193339/http://www.thethirstypig.com/2008/12/30/peruvian-in-la-el-pollo-inka/
 draft: false
 location: Peruvian in LA
-city: El Pollo Inka
+city: Gardena
 address: '1425 W Artesia Blvd
 
   St'
+region: South Bay
 ---
 
 The Saltado de Pollo was quite tasty. Peruvian is quite hearty. I guess the cowboys in Peru like these types of meals. I first went to El Pollo Inka about a year or two ago. I would visit there again. Most of the menu items seem to be enticing enough try in the future. I only with El Pollo Inka had branch in LA.

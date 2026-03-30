@@ -19,7 +19,6 @@ description: Only 3 days till Plate by Plate I can’t wait. It has been awhile 
 archiveUrl: https://web.archive.org/web/20110106033956/http://www.thethirstypig.com/2009/07/30/project-by-project-the-food-and-people/
 draft: false
 location: Project by Project
-city: The Food and People
 address: 700 State Dr
 ---
 

@@ -19,10 +19,15 @@ tags:
 - yuengling
 - mothersrestaurant
 description: Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding. Washed down with Yuengling Beer. Tonight we are just tasting a few dishes.
-location: Jerry’s Jambalaya, Mar’s Gumbo
-city: and Bread Pudding
+location: Mother's Restaurant
 categories:
 - and Bread Pudding
+city: New Orleans
+region: Louisiana
+address: 401 Poydras St (at Tchoupitoulas St), New Orleans, LA 70130
+coordinates:
+  lat: 29.948835
+  lng: -90.066902
 ---
 
 ![Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding](/images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17847207283195764.jpg)

@@ -12,7 +12,6 @@ description: Trip Advisorhttps://www.tripadvisor.com/RestaurantReview-g297910-d6
 archiveUrl: https://web.archive.org/web/20161105041611/http://thirstypig.com/2012/01/31/tao-hua-yuan-restaurant-cafe-%e6%a1%83%e8%8a%b1%e6%ba%90%e7%95%b0%e5%9c%8b%e6%96%99%e7%90%86-taichung/
 draft: false
 location: Tao Hua Yuan Restaurant & Cafe 桃花源異國料理
-city: Taichung
 ---
 
 

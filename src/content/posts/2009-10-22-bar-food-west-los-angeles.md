@@ -15,8 +15,8 @@ description: The sparse menu showed few food items but included Guinness beer Th
 archiveUrl: https://web.archive.org/web/20160828103845/http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/
 draft: false
 location: Bar Food
-city: West Los Angeles
-region: Westside
+city: Los Angeles
+region: Los Angeles
 address: 12217 Wilshire Blvd Los Angeles, CA 90025
 ---
 

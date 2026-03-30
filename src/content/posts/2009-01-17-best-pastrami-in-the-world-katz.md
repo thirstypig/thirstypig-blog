@@ -20,8 +20,8 @@ description: This is the place where Meg Ryan had the famous scene in When Harry
 archiveUrl: https://web.archive.org/web/20110105202931/http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/
 draft: false
 location: Best Pastrami in the World
-city: Katz
-region: New York
+city: Los Angeles
+region: Los Angeles
 address: 205 E Houston St
 ---
 

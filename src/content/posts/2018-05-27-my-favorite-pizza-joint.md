@@ -20,7 +20,6 @@ tags:
 - cornmeal
 - yum
 description: My favorite pizza joint. Zelo pizza in Arcadia. Cornmeal crust! Had half the eggplant & sausage pizza and the other half pepperoni. Yum!. . . . .
-location: My favorite pizza joint
 city: Arcadia
 region: San Gabriel Valley
 categories:

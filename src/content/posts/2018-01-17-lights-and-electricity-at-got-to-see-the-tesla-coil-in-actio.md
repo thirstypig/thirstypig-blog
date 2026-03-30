@@ -15,9 +15,13 @@ tags:
 - losangeles
 - slomo
 description: Lights and electricity at got to see the Tesla Coil in action at the observatory
-location: Lights and electricity at  got to see the Tesla Coil in action at the observa...
+location: The Gothic Bar at Clifton's Cafeteria
 city: Downtown LA
 region: Los Angeles
+address: 648 S Broadway (7th Street), Los Angeles, CA 90014
+coordinates:
+  lat: 34.045397
+  lng: -118.253102
 ---
 
 ![Lights and electricity at  got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)

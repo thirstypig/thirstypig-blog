@@ -9,6 +9,8 @@ images:
 - /images/posts/ig-2017-06-19-instagram-post-june-19-2017/17870180410087401.jpg
 - /images/posts/ig-2017-06-19-instagram-post-june-19-2017/17883503977001462.jpg
 location: Lucysfriedchick
+city: Austin
+region: Texas
 ---
 
 ![Instagram Post — June 19, 2017](/images/posts/ig-2017-06-19-instagram-post-june-19-2017/17870180410087401.jpg)

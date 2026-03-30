@@ -18,7 +18,6 @@ tags:
 - hearty
 - portraitmode
 description: 'Gamjatang (pork neck soup) and selleongtang (beef soup). Wonderful and hearty and perfect for a chilly LA night. Gamjatang was unexpectedly spiced with flavor. Selleongtang, my go to Korean soup, was '
-location: Gamjatang (pork neck soup) and selleongtang (beef soup)
 city: Los Angeles
 region: Los Angeles
 ---

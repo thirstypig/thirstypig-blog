@@ -29,7 +29,6 @@ tags:
 - stadium
 description: Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium. Too bad the Browns lost. Had a great time. Great seats. Awesome 49er crowd. . . . .
 location: Watching my Cleveland Browns play at SF 49ers
-city: at Levi’s Stadium
 categories:
 - at Levi’s Stadium
 ---

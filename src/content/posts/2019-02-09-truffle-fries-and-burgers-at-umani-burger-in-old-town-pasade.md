@@ -23,11 +23,15 @@ tags:
 - umami
 - umamiburger
 description: Truffle Fries and burgers at Umani Burger in Old Town Pasadena. We also tried the impossible vegan burger, which was pretty good. Yum! . . .
-location: Truffle Fries and burgers at Umani Burger in Old Town Pasadena
+location: Pie 'n Burger
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 913 E California Blvd (at Lake Ave), Pasadena, CA 91106
+coordinates:
+  lat: 34.135996
+  lng: -118.131632
 ---
 
 ![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18032134717028066.jpg)

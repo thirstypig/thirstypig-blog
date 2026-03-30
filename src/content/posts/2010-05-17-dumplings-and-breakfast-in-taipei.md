@@ -23,9 +23,13 @@ categories:
 description: Located just a 5 min walk from my old apartment in the eastside of Taipei, Jiang Jia Huang Niu Rou Mien & Yong He Dou Jiang, is the Denny’s of Taipei. Serving traditional Taiwanese comfort food 24 hou
 archiveUrl: https://web.archive.org/web/20101015120904/http://www.thethirstypig.com:80/2010/05/17/dumplings-and-breakfast-in-taipei/
 draft: false
-location: Dumplings and Breakfast in Taipei
-city: 江家黃牛肉麵
+location: Legacy Taipei
+city: Taipei
 region: Taipei
+address: 八德路一段1號, 台北市,  100
+coordinates:
+  lat: 25.044934
+  lng: 121.529331
 ---
 
 [[Translate]](javascript:show_translate_popup('en', 'post', 707);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)

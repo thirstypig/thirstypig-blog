@@ -31,6 +31,5 @@ description: On this nice day, we found ourselves heading to the LA Mart to look
 archiveUrl: https://web.archive.org/web/20110106030624/http://www.thethirstypig.com/2010/03/04/truck-feasting-the-buttermilk-truck-and-slice-truck/
 draft: false
 location: Truck Feasting
-city: The Buttermilk Truck and Slice Truck
 region: Downtown LA
 ---

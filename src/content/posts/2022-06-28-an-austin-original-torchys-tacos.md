@@ -22,10 +22,15 @@ tags:
 - cheese
 - eats
 description: An Austin Original - Torchy’s Tacos. Breakfast Tacos! The South Congress location is a cool spot on the iconic street. I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the with jalap
-location: An Austin Original
-city: Torchy’s Tacos
+location: 'KazuNori: The Original Hand Roll Bar'
+city: Los Angeles
 categories:
 - Torchy’s Tacos
+region: Los Angeles
+address: 421 S Main St (at Winston St), Los Angeles, CA 90013
+coordinates:
+  lat: 34.047716
+  lng: -118.247452
 ---
 
 ![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/17966643910672514.jpg)

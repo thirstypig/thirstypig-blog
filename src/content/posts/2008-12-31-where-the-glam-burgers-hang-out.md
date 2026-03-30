@@ -10,7 +10,6 @@ categories:
 description: I have to post this list, or else I would forget these places. I know this is an old article, but it is a nice resource to have. These places all have great burgers. I have visited a few of them and I
 archiveUrl: https://web.archive.org/web/20110105193620/http://www.thethirstypig.com/2008/12/31/where-the-glam-burgers-hang-out/
 draft: false
-location: Where the glam burgers hang out!
 city: Los Angeles
 address: 2901 Ocean Park Blvd
 ---

@@ -21,7 +21,6 @@ tags:
 - chorizoandegg
 - eats
 description: After watching these guys on TikTok almost every morning I knew I had to stop by a grab a burrito. This morning I took a screenshot of their TikTok feed and decided to ride a line scooter to snag one.
-location: After watching these guys on TikTok almost every morning I knew I had to stop...
 city: Los Angeles
 region: Los Angeles
 ---

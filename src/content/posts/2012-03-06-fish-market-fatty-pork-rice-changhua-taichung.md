@@ -13,7 +13,6 @@ description: 'What is 魚市爌肉飯 魚市爌肉飯, loosely translated as the
 archiveUrl: https://web.archive.org/web/20120406015002/http://www.thethirstypig.com:80/2012/03/06/fish-market-fatty-pork-rice-changhua-taichung/
 draft: false
 location: Fish Market Fatty Pork Rice 魚市爌肉飯
-city: Changhua Taichung
 address: 246 Huashan Road
 ---
 

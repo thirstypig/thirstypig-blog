@@ -18,7 +18,6 @@ tags:
 - thirstypig
 description: Hot soup on a chilly January evening, yet sunny during the day. Favorite soup on cold days. .kao
 location: Hot soup on a chilly January evening
-city: yet sunny during the day
 categories:
 - yet sunny during the day
 ---

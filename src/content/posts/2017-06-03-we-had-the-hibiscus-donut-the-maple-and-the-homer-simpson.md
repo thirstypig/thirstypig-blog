@@ -17,10 +17,11 @@ tags:
 - food
 - desserts
 description: we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?
-location: we had the hibiscus donut, the maple
-city: and the Homer Simpson
+location: Voodoo Doughnut
 categories:
 - and the Homer Simpson
+city: Austin
+region: Texas
 ---
 
 ![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857093546185438.jpg)

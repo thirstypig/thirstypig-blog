@@ -23,7 +23,7 @@ tags:
 - thirstypig
 - brunch
 description: We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember.
-location: We ate too much
+location: Clearman's Boat
 city: San Gabriel Valley
 region: San Gabriel Valley
 ---

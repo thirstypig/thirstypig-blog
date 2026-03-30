@@ -12,8 +12,13 @@ tags:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103151452/http://www.thethirstypig.com/2011/01/13/seouls-shinjiku-gangnam-station-%ea%b0%95%eb%82%a8%ec%97%ad/
 draft: false
-location: Seoul’s Shinjiku
-city: Gangnam Station 강남역
+location: Seoul Station - KTX/Korail (서울역 KTX/코레일)
+city: Seoul
+region: Seoul
+address: 용산구 한강대로 405 (경부선, 경의선), 남영동, 용산구, 서울특별시, 04320
+coordinates:
+  lat: 37.553926
+  lng: 126.97089
 ---
 
 There is an area of Seoul where the young come out to play. Just old enough to go stay out late, but not that late. Known by the subway station nearby, Gangnam Station 강남역, this area is arguably the most popular area in Seoul. Brimming with shops, restaurants, and street vendors, this chilly night appeared to me that it hardly made a dent in foot traffic. Thigh high boots girls and suave dudes stood out as we were strolling around.

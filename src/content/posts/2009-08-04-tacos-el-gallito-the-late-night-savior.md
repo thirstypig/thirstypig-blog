@@ -22,9 +22,13 @@ tags:
 description: 'Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this '
 archiveUrl: https://web.archive.org/web/20111103153447/http://www.thethirstypig.com/2009/08/04/tacos-el-gallito-the-late-night-savior/
 draft: false
-location: Tacos El Gallito
-city: the Late Night Savior
+location: El Sereno Emergency Plumbers LLC
+city: Monterey Park
 region: San Gabriel Valley
+address: 3501B Ramona Blvd, Monterey Park, CA 91754
+coordinates:
+  lat: 34.062775
+  lng: -118.123075
 ---
 
 Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this night, we decided on Tacos!!!

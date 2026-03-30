@@ -22,7 +22,7 @@ description: I got to check out Racks before their Grand Re-Opening at their new
 archiveUrl: https://web.archive.org/web/20101116015547/http://www.thethirstypig.com:80/2010/11/09/racks-shanghai-grand-re-opening-on-november-11th/
 draft: false
 location: Racks Shanghai
-city: Grand Re-Opening on November 11th
+city: Shanghai
 region: Shanghai
 address: 221 Jinxian Road near Maoming Road
 ---

@@ -31,7 +31,6 @@ description: Most people don’t necessarily associate chicken with Korean food.
 archiveUrl: https://web.archive.org/web/20161019100345/http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/
 draft: false
 location: Kyochon Chicken
-city: Pudong
 ---
 
 [![img_3064](/images/posts/kyochon-chicken-pudong/IMG_3045-88x88.jpg "img_3064")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3064/)

@@ -15,7 +15,7 @@ description: 'Hawaiian, American, and Asian cuisine. Good for large groups Bustl
 archiveUrl: https://web.archive.org/web/20161019081706/http://thirstypig.com/2015/06/28/home-bar-grill-honolulu-oahu-hawaii/
 draft: false
 location: Home Bar and Grill
-city: Hawaii
+city: Honolulu
 region: Hawaii
 address: 1683 Kalakaua Ave
 ---

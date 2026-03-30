@@ -21,9 +21,13 @@ tags:
 - northernchinesefood
 - northernchinese
 description: Northern Chinese noodles from Lao Xi’er Noodle House. One of my mom’s favorite restaurants. I wish we ordered the mini fried meatballs - totally forgot about that dish. Also saw Merrill Shindler had r
-location: Northern Chinese noodles from Lao Xi’er Noodle House
+location: Lao Xi Noodle House
 city: Arcadia
 region: San Gabriel Valley
+address: 921 S Baldwin Ave Ste G-H, Arcadia, CA 91006
+coordinates:
+  lat: 34.129101
+  lng: -118.0549
 ---
 
 ![Northern Chinese noodles from Lao Xi’er Noodle House](/images/posts/ig-2019-03-02-northern-chinese-noodles-from-lao-xier-noodle-house/18016082320081889.jpg)

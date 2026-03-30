@@ -15,7 +15,7 @@ description: 'Crab Claw appetizers are a meal all unto itself Steaks are underra
 archiveUrl: https://web.archive.org/web/20161213133607/http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/
 draft: false
 location: Joe’s Stone Crab
-city: Caeser’s Vegas
+city: Las Vegas
 region: Las Vegas
 address: 3500 Las Vegas Blvd
 ---

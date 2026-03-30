@@ -25,7 +25,6 @@ tags:
 - grave
 - mural
 description: We got to see the sites where Pablo Escobar was part of Medellin. We saw his lake side home, which was bombed. The community that Escobar built, where he is honored and loved with murals, art, and gra
-location: We got to see the sites where Pablo Escobar was part of Medellin
 city: Medellin
 region: Colombia
 ---

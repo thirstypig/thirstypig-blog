@@ -21,10 +21,15 @@ tags:
 - eeeeeats
 - eat
 description: Liang Pi 凉皮, Beef Noodle Soup, and Rou Jia Mo at Qin West. I asked for mild Liang Pi and my mouth was on fire. FIRE - I say! But it was good. I must and always have to have the Rou Jia Mo 肉夾饃. . . . .
-location: Liang Pi 凉皮, Beef Noodle Soup
-city: and Rou Jia Mo at Qin West
+location: California Pizza Kitchen
+city: Arcadia
 categories:
 - and Rou Jia Mo at Qin West
+region: San Gabriel Valley
+address: 400 S Baldwin Ave Ste 115 (at Westfield Santa Anita, 2nd Fl), Arcadia, CA 91007
+coordinates:
+  lat: 34.134043
+  lng: -118.051753
 ---
 
 ![Liang Pi 凉皮, Beef Noodle Soup, and Rou Jia Mo at Qin West](/images/posts/ig-2019-10-11-liang-pi-凉皮-beef-noodle-soup-and-rou-jia-mo-at-qin-west/18106591048017475.jpg)

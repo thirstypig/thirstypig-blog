@@ -25,10 +25,10 @@ tags:
 - chasu
 - egg
 description: This is the last of the Hainan Chicken Chronicles - Pearl River Deli. The Pearl River Delta is area of China in the Guangdong Province encompassing the major cities of Guangzhou, Shenzhen, and Hong Ko
-location: This is the last of the Hainan Chicken Chronicles
-city: Pearl River Deli
+city: Hong Kong
 categories:
 - Pearl River Deli
+region: Hong Kong
 ---
 
 ![This is the last of the Hainan Chicken Chronicles - Pearl River Deli](/images/posts/ig-2021-07-05-this-is-the-last-of-the-hainan-chicken-chronicles-pearl-rive/17844878555620508.jpg)

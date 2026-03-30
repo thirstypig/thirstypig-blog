@@ -18,7 +18,8 @@ description: Porridge or congee is one of the best things to have when you are d
 archiveUrl: https://web.archive.org/web/20110105162822/http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/
 draft: false
 location: Abalone Congee
-city: Mountain Cafe
+city: Koreatown
+region: Los Angeles
 ---
 
 Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.

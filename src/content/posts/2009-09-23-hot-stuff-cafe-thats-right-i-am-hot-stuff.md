@@ -22,9 +22,13 @@ tags:
 description: I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.
 archiveUrl: https://web.archive.org/web/20110105235913/http://www.thethirstypig.com/2009/09/23/hot-stuff-cafe-thats-right-i-am-hot-stuff/
 draft: false
-location: Hot Stuff Cafe – that’s right
-city: I am HOT STUFF!
+location: Hong Kong Cafe
+city: Monterey Park
 region: San Gabriel Valley
+address: 162 W Garvey Ave (btwn Garfield Ave & S Ramona Ave), Monterey Park, CA 91754
+coordinates:
+  lat: 34.062338
+  lng: -118.124145
 ---
 
 I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.

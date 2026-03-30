@@ -16,7 +16,6 @@ tags:
 - softserve
 description: Soft serve ice cream - milk and matcha flavors. SomiSomi . . . .
 location: Soft serve ice cream
-city: milk and matcha flavors
 categories:
 - milk and matcha flavors
 ---

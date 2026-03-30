@@ -19,9 +19,13 @@ tags:
 - teddyroosevelt
 - snowday
 description: On this Snow day we braved the unexpected lines at the American Natural History Museum. Had a great tour with Art. Saw big dinosaur fossils, model whales, and other animals and prehistoric items.
-location: On this Snow day we braved the unexpected lines at the American Natural Histo...
 city: New York
 region: New York
+location: American Museum of Natural History
+address: 200 Central Park W (btwn W 77th & W 81st St), New York, NY 10024
+coordinates:
+  lat: 40.781311
+  lng: -73.973479
 ---
 
 ![On this Snow day we braved the unexpected lines at the American Natural Histo...](/images/posts/ig-2018-01-04-on-this-snow-day-we-braved-the-unexpected-lines-at-the-ameri/17857514902209284.jpg)

@@ -25,7 +25,6 @@ tags:
 description: 'This brings use to Fu Tai. Almost Universally accepted to have the best hot and sour soup around. Whilst, with the name inclusive of their steam dumplings, they are arguably more known for this soup. '
 archiveUrl: https://web.archive.org/web/20110105023345/http://www.thethirstypig.com/2010/07/06/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/
 draft: false
-location: The Hot & Sour Soup of Fu Tai Shandong Steamed Dumpling King福大山東蒸餃大王
 city: Taipei
 region: Taipei
 ---

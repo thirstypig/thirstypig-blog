@@ -20,7 +20,6 @@ tags:
 - bts
 - omgspicy
 description: Sichuan Hotpot 四川火鍋. Very good very spicy. Lamb, Beef, and beef meatballs. Could have ordered more veggies.
-location: Sichuan Hotpot 四川火鍋
 ---
 
 ![Sichuan Hotpot 四川火鍋](/images/posts/ig-2017-11-08-sichuan-hotpot-四川火鍋/17907198823039769.jpg)

@@ -24,9 +24,13 @@ tags:
 - chillyday
 - longasswait
 description: Awesome tasting Japanese Pork Katsu sandwiches from Konbi. Also had the egg omelette sandwich too. Only problem was the crust - I think in Japan, they usually cut off the crust. But Konbi leaves the c
-location: Awesome tasting Japanese Pork Katsu sandwiches from Konbi
+location: Konbi
 city: Downtown LA
 region: Los Angeles
+address: 1463 W Sunset Blvd (Portia St), Los Angeles, CA 90026
+coordinates:
+  lat: 34.075383
+  lng: -118.253893
 ---
 
 ![Awesome tasting Japanese Pork Katsu sandwiches from Konbi](/images/posts/ig-2019-02-14-awesome-tasting-japanese-pork-katsu-sandwiches-from-konbi/17850584410356176.jpg)

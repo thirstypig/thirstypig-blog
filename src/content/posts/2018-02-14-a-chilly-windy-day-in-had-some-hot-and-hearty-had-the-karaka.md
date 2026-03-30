@@ -13,10 +13,15 @@ images:
 tags:
 - ramen
 description: 'A chilly windy day in Had some hot and hearty had the karaka - the spicy noodles, the shiromaru- the classic pork broth, and the akamaru tamago - rich fatty pork broth with egg. Yum. The thin noodles '
-location: A chilly windy day in   Had some hot and hearty   had the karaka
-city: the spicy ...
 categories:
 - the spicy ...
+location: Ippudo
+city: San Francisco
+region: San Francisco
+address: 18 Yerba Buena Ln (btwn Market & Mission St), San Francisco, CA 94103
+coordinates:
+  lat: 37.785871
+  lng: -122.404302
 ---
 
 ![A chilly windy day in   Had some hot and hearty   had the karaka - the spicy ...](/images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17925914527010309.jpg)

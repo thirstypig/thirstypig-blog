@@ -17,8 +17,7 @@ tags:
 - yummy
 - stinkyplace
 description: Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy noodles, beef chow fun, string beans, and beef noodle soup.
-location: Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy noodles
-city: bee...
+location: Sam Woo’s 三和 we had tomato beef
 categories:
 - bee...
 ---

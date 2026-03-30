@@ -15,10 +15,10 @@ tags:
 - sierramadre
 - youwouldlikeittoo
 description: My favorite Ice Cream shop - moo creamery in Sierra Madre. So happy they’re open. Had the triple milk in a cup and wifey had the vanilla, as usual. And splurged on a brownie too. Brownie was surprisin
-location: My favorite Ice Cream shop
-city: moo creamery in Sierra Madre
+city: Sierra Madre
 categories:
 - moo creamery in Sierra Madre
+region: San Gabriel Valley
 ---
 
 ![My favorite Ice Cream shop - moo creamery in Sierra Madre](/images/posts/ig-2020-05-25-my-favorite-ice-cream-shop-moo-creamery-in-sierra-madre/17890151440527261.jpg)

@@ -18,7 +18,6 @@ tags:
 - chicken
 - pork
 description: Braised pork over rice and fried chicken leg over rice. Classic Taiwanese dishes. Yum. 滷肉飯 and 雞腿飯. . . . .
-location: Braised pork over rice and fried chicken leg over rice
 city: San Gabriel
 region: San Gabriel Valley
 ---

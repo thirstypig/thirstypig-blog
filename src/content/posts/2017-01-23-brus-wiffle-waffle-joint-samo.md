@@ -16,8 +16,6 @@ description: fabulous breakfast experience Dwight‘s Special Chicken & Waffle a
 archiveUrl: https://web.archive.org/web/20170201233226/http://thirstypig.com/2017/01/23/brus-wiffle-waffle-joint-samo/
 draft: false
 location: Bru’s Wiffle – A Waffle Joint
-city: SaMo
-region: Westside
 address: 2408 Wilshire Blvd Santa Monica, CA 90403
 ---
 

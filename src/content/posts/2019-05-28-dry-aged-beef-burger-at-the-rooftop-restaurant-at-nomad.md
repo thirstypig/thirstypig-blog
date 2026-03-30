@@ -20,7 +20,6 @@ tags:
 - burger
 - thirstypig
 description: Dry Aged Beef Burger at the rooftop restaurant at NoMad. . . .
-location: Dry Aged Beef Burger at the rooftop restaurant at NoMad
 city: Downtown LA
 region: Los Angeles
 ---

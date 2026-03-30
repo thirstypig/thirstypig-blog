@@ -12,10 +12,14 @@ tags:
 - lightshow
 - weekend
 description: Light show at downtown Los Angeles Walt Disney Concert Hall. Last night tonight. . . .
-location: Light show at downtown Los Angeles Walt Disney Concert Hall
+location: Walt Disney Concert Hall
 city: Los Angeles
 categories:
 - Los Angeles
+address: 111 S Grand Ave (btwn 1st & 2nd St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.055458
+  lng: -118.249633
 ---
 
 ![Light show at downtown Los Angeles Walt Disney Concert Hall](/images/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17971365199116446.jpg)

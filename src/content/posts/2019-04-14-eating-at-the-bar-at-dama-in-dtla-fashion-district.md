@@ -28,10 +28,15 @@ tags:
 - dtlafashiondistrict
 - thirstypig
 description: Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight.
-location: Eating at the bar at Dama in DTLA
-city: fashion district
+location: Dama Fashion District
+city: Downtown LA
 categories:
 - fashion district
+region: Los Angeles
+address: 612 E 11th St, Los Angeles, CA 90015
+coordinates:
+  lat: 34.035199
+  lng: -118.253182
 ---
 
 ![Eating at the bar at Dama in DTLA, fashion district](/images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/17979127720233083.jpg)

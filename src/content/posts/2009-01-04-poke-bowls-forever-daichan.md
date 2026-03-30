@@ -16,7 +16,6 @@ description: Daichan has one of the few things in this world I would eat everyda
 archiveUrl: https://web.archive.org/web/20111103144055/http://www.thethirstypig.com/2009/01/04/poke-bowls-forever-daichan/
 draft: false
 location: Poke Bowls Forever
-city: Daichan
 address: '11288 Ventura Blvd
 
   Ste F

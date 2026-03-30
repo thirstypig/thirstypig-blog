@@ -23,11 +23,15 @@ tags:
 - pork
 - jellyfish
 description: Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza. Diced vegetable and tofu, shrimp in shells, sweet soy fish, sliced preserved pork, and cucumber with jelly fish. The fish tast
-location: Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza
+location: Xindalu (新大陆)
 city: Shanghai
 region: Shanghai
 categories:
 - Shanghai
+address: 199 Huangpu Rd | 黄浦路199号 (1/F Hyatt on the Bund | 上海外滩茂悦大酒店1楼大堂), Huangpu, 上海市, 200080
+coordinates:
+  lat: 31.247296
+  lng: 121.488764
 ---
 
 ![Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza](/images/posts/ig-2018-07-23-cold-dish-appetizers-at-shanghai-restaurant-in-san-gabriels/17901849697212662.jpg)

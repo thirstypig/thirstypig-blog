@@ -18,9 +18,8 @@ tags:
 description: One night, I went with my friend to Ramenya. Ramenya is a Japanese Ramen house. It is a small dinky restaurant with great food. My type of place I haven’t been here in a couple of years, but I will al
 archiveUrl: https://web.archive.org/web/20110105063837/http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/
 draft: false
-location: Garlic Ramen . . . OMFG
-city: Ramenya
-region: Westside
+city: Sawtelle
+region: Los Angeles
 address: '11555 W. Olympic Blvd.
 
   Los Angeles, CA 90064'

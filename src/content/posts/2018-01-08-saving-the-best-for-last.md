@@ -28,9 +28,13 @@ tags:
 - vangogh
 - camilepissarro
 description: Saving the best for last. saw amazing art all the while getting lost. David Hockney’s exhibit was especially interesting with his different art phases, including his LA images. Saw ancient Egyptian ar
-location: Saving the best for last
+location: Metropolitan Museum of Art
 city: New York
 region: New York
+address: 1000 5th Ave (btwn E 80th & E 84th St), New York, NY 10028
+coordinates:
+  lat: 40.779729
+  lng: -73.963416
 ---
 
 ![Saving the best for last](/images/posts/ig-2018-01-08-saving-the-best-for-last/17916823861015860.jpg)

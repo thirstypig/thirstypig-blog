@@ -13,7 +13,6 @@ tags:
 - shavedice
 - sgv
 description: Black Sesame Korean shaved ice and Mango shaved ice. . . . .
-location: Black Sesame Korean shaved ice and Mango shaved ice
 city: San Gabriel
 region: San Gabriel Valley
 ---

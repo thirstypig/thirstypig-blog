@@ -19,10 +19,15 @@ tags:
 - dumplings
 - xlb
 description: Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scallion pancakes. Yum! . . . . .
-location: Lunch in Pasadena at  steamed pork dumplings, fried pork dumplings
-city: and scall...
+location: Dumpling Station
+city: Pasadena
 categories:
 - and scall...
+region: San Gabriel Valley
+address: South Pasadena, CA
+coordinates:
+  lat: 34.146057
+  lng: -118.135786
 ---
 
 ![Lunch in Pasadena at  steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17928719719763336.jpg)

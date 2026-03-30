@@ -21,7 +21,6 @@ tags:
 - eats
 - thirstypig
 description: A light lunch. Sunomono. Cucumber salad. Using Japanese cucumbers, thinly sliced. Prepped with a little salt and the water squeezed out. Then marinated with soy sauce, sugar, and rice vinegar. Done. R
-location: A light lunch
 ---
 
 ![A light lunch](/images/posts/ig-2021-02-20-a-light-lunch/17913116125608032.jpg)

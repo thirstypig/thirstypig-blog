@@ -17,9 +17,13 @@ categories:
 description: There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿
 archiveUrl: https://web.archive.org/web/20110105232210/http://www.thethirstypig.com/2009/06/07/si-hai-tou-jiang-taiwanese-breakfast-delight/
 draft: false
-location: Si Hai Tou Jiang
-city: Taiwan
-region: Taiwan
+location: Fu Hang Dou Jiang (阜杭豆漿)
+city: Taipei
+region: Taipei
+address: 忠孝東路一段108號2F (紹興南街), 台北市,  100
+coordinates:
+  lat: 25.044182
+  lng: 121.524947
 ---
 
 There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿

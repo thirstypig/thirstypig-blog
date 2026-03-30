@@ -14,7 +14,13 @@ tags:
 - clamchowder
 - lobsterbisque
 description: Did the tourist thing
-location: Did the tourist thing
+location: Fisherman's Wharf
+city: San Francisco
+region: San Francisco
+address: 2801 Leavenworth St (at Bay St), San Francisco, CA 94133
+coordinates:
+  lat: 37.80837
+  lng: -122.415267
 ---
 
 ![Did the tourist thing](/images/posts/ig-2018-02-14-did-the-tourist-thing/17864939845210324.jpg)

@@ -14,7 +14,6 @@ tags:
 - hollywood
 - bands
 description: Checking out my friends band at the iconic Troubador in West Hollywood. My friends daughter is a talented bass player. Nice solo and great show. I like watching live music at small venues - best way t
-location: Checking out my friends band at the iconic Troubador in West Hollywood
 city: Hollywood
 region: Hollywood
 categories:

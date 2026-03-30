@@ -16,8 +16,8 @@ description: 'Last night, after the film festival, our friends and I was craving
 archiveUrl: https://web.archive.org/web/20110105195038/http://www.thethirstypig.com/2009/01/02/kimchi-fried-rice-hodori/
 draft: false
 location: Kimchi Fried Rice
-city: Hodori
-region: Koreatown
+city: Koreatown
+region: Los Angeles
 address: 1001 South Vermont Ave
 ---
 

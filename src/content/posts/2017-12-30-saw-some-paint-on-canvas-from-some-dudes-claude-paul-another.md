@@ -28,10 +28,15 @@ tags:
 - rousseau
 - jacksonpollock
 description: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri, and another Henri, Pablo, Salvador, Piet, Georges, Jackson and Vincent. Never go on the busiest week of the year on Free F
-location: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri
-city: '...'
 categories:
 - '...'
+location: Museum of Modern Art (MoMA)
+city: New York
+region: New York
+address: 11 W 53rd St (btwn 5th & 6th Ave), New York, NY 10019
+coordinates:
+  lat: 40.761585
+  lng: -73.977342
 ---
 
 ![Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri,...](/images/posts/ig-2017-12-30-saw-some-paint-on-canvas-from-some-dudes-claude-paul-another/17891371879130093.jpg)

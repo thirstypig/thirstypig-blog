@@ -22,10 +22,10 @@ tags:
 - thirstypig
 - neworleans
 description: Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’s Hurricane, Tropical Isle’s Hand Grenade, National WWII Museum, and some crazy ‘Gator pics. And also eating crawfish
-location: Memories of New Orleans - the French Quarter, Commanders Palace
-city: Pat O’Brien’...
+city: New Orleans
 categories:
 - Pat O’Brien’...
+region: Louisiana
 ---
 
 ![Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’...](/images/posts/ig-2017-07-12-memories-of-new-orleans-the-french-quarter-commanders-palace/17863700671154011.jpg)

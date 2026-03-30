@@ -16,7 +16,7 @@ tags:
 - thirstypig
 - eeeeeats
 description: Galbi Tang
-location: Galbi Tang
+location: Sun Nong Dan
 city: San Gabriel Valley
 region: San Gabriel Valley
 ---

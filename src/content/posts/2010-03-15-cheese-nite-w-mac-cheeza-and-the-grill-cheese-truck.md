@@ -32,7 +32,6 @@ tags:
 description: I’ve been dying to try Mac & Cheeza ever since they had their soft opening during Downtown LA’s Artwalk in February. Stalkingly, I have passed by their little shop about 3 times in the last 30 days or
 archiveUrl: https://web.archive.org/web/20110105230517/http://www.thethirstypig.com/2010/03/15/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/
 draft: false
-location: Cheese Nite w/ Mac & Cheeza and the Grill Cheese Truck
 city: Downtown LA
 region: Downtown LA
 ---

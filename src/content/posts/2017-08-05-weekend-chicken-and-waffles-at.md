@@ -23,7 +23,13 @@ tags:
 - worthit
 - thirstypig
 description: Weekend Chicken and Waffles at
-location: Weekend Chicken and Waffles at
+location: Howlin' Ray's
+city: Chinatown
+region: Los Angeles
+address: 727 N Broadway (btwn Alpine & Ord St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.061475
+  lng: -118.239719
 ---
 
 ![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17869764496138058.jpg)

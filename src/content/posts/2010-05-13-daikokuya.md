@@ -24,6 +24,11 @@ tags:
 description: 'The soup base at Daikokuya is quite good. But you can take it to another notch with a more kotteri – heavier soup base that has more flavor. The pork, standard in all ramen, is good and has the right '
 archiveUrl: https://web.archive.org/web/20110106005043/http://www.thethirstypig.com/2010/05/13/daikokuya/
 draft: false
-location: Daikokuya’s Ramen
-city: Best in Downtown Los Angeles
+location: Shin-Sen-Gumi Hakata Ramen - Little Tokyo
+city: Downtown LA
+region: Los Angeles
+address: 132 S Central Ave (btwn E 1st & E 2nd St), Los Angeles, CA 90012
+coordinates:
+  lat: 34.048187
+  lng: -118.239152
 ---

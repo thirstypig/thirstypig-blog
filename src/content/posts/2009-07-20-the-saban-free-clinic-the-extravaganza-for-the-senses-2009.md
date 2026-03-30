@@ -19,7 +19,6 @@ tags:
 description: 'Summertime in Los Angeles is the time for Food & Wine Events. One of the finest events is the The Extravaganza for the Senses by the Saban Free Clinic. They have been having their event for 14 years. '
 archiveUrl: https://web.archive.org/web/20111103145408/http://www.thethirstypig.com/2009/07/20/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/
 draft: false
-location: The Saban Free Clinic The Extravaganza for the Senses 2009
 city: Los Angeles
 ---
 

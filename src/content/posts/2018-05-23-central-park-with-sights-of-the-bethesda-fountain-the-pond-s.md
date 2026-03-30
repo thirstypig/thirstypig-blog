@@ -23,8 +23,6 @@ tags:
 - outdoors
 - thepond
 description: Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots. Beautiful park and lots to see. Great day to enjoy the outdoors. It was a little humid, but luckily we
-location: Central Park with sights of the Bethesda Fountain, the Pond, Statues
-city: and som...
 categories:
 - and som...
 ---

@@ -20,7 +20,6 @@ tags:
 - beef
 - pitabread
 description: Combo Platter of chicken and beef at the Halal Guys before the sauce. White sauce is decadent and the red sauce is just a bit too spicy. Lunch on the streets of New York City. . . .
-location: Combo Platter of chicken and beef at the Halal Guys before the sauce
 city: New York
 region: New York
 ---

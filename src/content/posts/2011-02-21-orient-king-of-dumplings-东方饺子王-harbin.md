@@ -19,7 +19,6 @@ description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103145305/http://www.thethirstypig.com/2011/02/21/orient-king-of-dumplings-%e4%b8%9c%e6%96%b9%e9%a5%ba%e5%ad%90%e7%8e%8b-harbin/
 draft: false
 location: Orient King of Dumplings 东方饺子王
-city: Harbin
 ---
 
 One of the more popular restaurant chains in Harbin is Orient King 东方饺子王 (Dongfang Jiaozi Wang). Based on referrals from locals, the hotel, and the drivers, Orient King was a place that we had to try.

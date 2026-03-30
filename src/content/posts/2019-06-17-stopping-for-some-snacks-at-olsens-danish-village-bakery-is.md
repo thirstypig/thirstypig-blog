@@ -19,7 +19,7 @@ tags:
 - bread
 - sweets
 description: Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang. . . .
-location: Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang
+location: Olsen’s Danish Village Bakery is Solvang
 ---
 
 ![Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang](/images/posts/ig-2019-06-17-stopping-for-some-snacks-at-olsens-danish-village-bakery-is/18078096562023430.jpg)

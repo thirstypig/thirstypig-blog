@@ -27,7 +27,6 @@ tags:
 - foodtruck
 description: Queso-Tacos, hard shell beef tacos with cheese. And the Quesa-birria, the beef and cheese quesadilla. Also had the beef consume dipping sauce/soup. I was in the area and I thought I should try Birrier
 location: Queso-Tacos
-city: hard shell beef tacos with cheese
 categories:
 - hard shell beef tacos with cheese
 ---

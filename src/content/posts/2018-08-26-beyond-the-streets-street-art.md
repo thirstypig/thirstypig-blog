@@ -24,10 +24,15 @@ tags:
 - thirstypig
 - art
 description: Beyond the Streets - street art. Great look and up close exhibition of art with some well known artists like and . . . .
-location: Beyond the Streets
-city: street art
+location: Beyond The Streets
+city: Downtown LA
 categories:
 - street art
+region: Los Angeles
+address: 434 N La Brea Ave, Los Angeles, CA 90036
+coordinates:
+  lat: 34.079202
+  lng: -118.34383
 ---
 
 ![Beyond the Streets - street art](/images/posts/ig-2018-08-26-beyond-the-streets-street-art/17958239404112795.jpg)

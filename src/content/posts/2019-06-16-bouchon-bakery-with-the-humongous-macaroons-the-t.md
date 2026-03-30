@@ -19,7 +19,6 @@ tags:
 - macaroon
 description: Bouchon Bakery with the humongous macaroons, the T.K.O. the Thomas Keller Oreo, brownie, and croissant. Yum . . . 🥐
 location: Bouchon Bakery with the humongous macaroons
-city: the T
 categories:
 - the T
 ---

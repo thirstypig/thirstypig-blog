@@ -17,7 +17,6 @@ tags:
 - roadtrip
 description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename th
 location: First Walmart
-city: now is the Walmart Museum
 categories:
 - now is the Walmart Museum
 ---

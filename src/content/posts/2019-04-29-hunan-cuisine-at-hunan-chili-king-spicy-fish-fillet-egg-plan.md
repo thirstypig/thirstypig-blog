@@ -23,8 +23,7 @@ tags:
 - pork
 - broccoli
 description: Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant and green beans, salted pork, broccoli with pork skin, and fried egg with green chili. So F*&king Spicy 🌶 🥵 . . .
-location: Hunan Cuisine at Hunan Chili King - spicy fish fillet
-city: egg plant and green be...
+location: Hunan Chili King - spicy fish fillet
 categories:
 - egg plant and green be...
 ---

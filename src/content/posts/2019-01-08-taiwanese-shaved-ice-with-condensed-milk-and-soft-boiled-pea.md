@@ -19,10 +19,15 @@ tags:
 - arcadia
 - sgv
 description: Taiwanese shaved ice - with condensed milk and soft boiled peanuts. Strange combination, but one of my secret favorite desserts. Too bad most shaved ice joints only offer preselected combinations. I l
-location: Taiwanese shaved ice
-city: with condensed milk and soft boiled peanuts
+location: Haleiwa Shave Ice
+city: Arcadia
 categories:
 - with condensed milk and soft boiled peanuts
+region: San Gabriel Valley
+address: Los Angeles, CA 90040
+coordinates:
+  lat: 34.137918
+  lng: -118.045935
 ---
 
 ![Taiwanese shaved ice - with condensed milk and soft boiled peanuts](/images/posts/ig-2019-01-08-taiwanese-shaved-ice-with-condensed-milk-and-soft-boiled-pea/18019464193003441.jpg)

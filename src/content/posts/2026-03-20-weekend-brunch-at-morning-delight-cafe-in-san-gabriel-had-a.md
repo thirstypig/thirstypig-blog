@@ -18,12 +18,16 @@ tags:
 - badexecution
 - donotgo
 description: Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfor
-location: Weekend brunch at Morning Delight Cafe in San Gabriel  had a couple of the eg...
+location: Morning Delight Cafe
 city: San Gabriel
 region: San Gabriel Valley
 categories:
 - San Gabriel
 - San Gabriel Valley
+address: 120 N San Gabriel Blvd Ste H (Las Tunas), San Gabriel, CA 91775
+coordinates:
+  lat: 34.104214
+  lng: -118.090428
 ---
 
 ![Weekend brunch at Morning Delight Cafe in San Gabriel  had a couple of the eg...](/images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg)

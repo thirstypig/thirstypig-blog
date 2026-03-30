@@ -23,10 +23,15 @@ tags:
 - jewishdeli
 - eeeeeats
 description: This was a life changing experience - the pastrami sandwich at Katz Deli. I’ve had pastrami sandwiches in LA at multiple places and nothing compares. I was shaking my head the whole time eating. I had
-location: This was a life changing experience
-city: the pastrami sandwich at Katz Deli
+location: Katz's Delicatessen
+city: New York
 categories:
 - the pastrami sandwich at Katz Deli
+region: New York
+address: 205 E Houston St (at Ludlow St), New York, NY 10002
+coordinates:
+  lat: 40.722149
+  lng: -73.987433
 ---
 
 ![This was a life changing experience - the pastrami sandwich at Katz Deli](/images/posts/ig-2018-05-25-this-was-a-life-changing-experience-the-pastrami-sandwich-at/17948920966062118.jpg)

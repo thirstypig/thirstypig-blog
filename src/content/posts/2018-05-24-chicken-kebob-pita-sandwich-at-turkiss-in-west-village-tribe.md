@@ -17,7 +17,13 @@ tags:
 - thirstypig
 - eeeeeats
 description: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
-location: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
+location: TurKiss
+city: New York
+region: New York
+address: 104 Macdougal St (btwn Bleecker & 3rd St.), New York, NY 10012
+coordinates:
+  lat: 40.729375
+  lng: -74.000857
 ---
 
 ![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17875590688231344.jpg)

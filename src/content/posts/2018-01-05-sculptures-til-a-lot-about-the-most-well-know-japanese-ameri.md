@@ -28,9 +28,13 @@ tags:
 - thirstypig
 - driftwoodart
 description: Sculptures TIL a lot about the most well know Japanese American Sculpture. He volunteered to be interned during WWII. Amazing museum about an amazing man.
-location: Sculptures  TIL a lot about the most well know Japanese American Sculpture
 city: New York
 region: New York
+location: Rubin Museum of Art
+address: 150 W 17th St (btwn 6th & 7th Ave), New York, NY 10011
+coordinates:
+  lat: 40.74011
+  lng: -73.997807
 ---
 
 ![Sculptures  TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17911166575070552.jpg)

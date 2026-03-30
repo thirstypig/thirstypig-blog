@@ -19,7 +19,6 @@ tags:
 - shellfish
 - scallops
 description: Oysters and Seafood Stew at the Grand Central Oyster Bar & Restaurant. . . .
-location: Oysters and Seafood Stew at the Grand Central Oyster Bar & Restaurant
 city: New York
 region: New York
 ---

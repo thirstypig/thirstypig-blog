@@ -22,9 +22,13 @@ tags:
 description: Located in between the shopping areas of Lake Avenue and Old Town, sits a nice little restaurant, Malbec. An Argentinian restaurant that, as most others do, they specializes in beef. My only other exp
 archiveUrl: https://web.archive.org/web/20110105205149/http://www.thethirstypig.com/2009/10/21/argentine-fare-in-pasadena-malbec/
 draft: false
-location: Argentine Fare in Pasadena
-city: Malbec
+location: Equinox Pasadena
+city: Pasadena
 region: San Gabriel Valley
+address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
+coordinates:
+  lat: 34.145032
+  lng: -118.145536
 ---
 
 Located in between the shopping areas of Lake Avenue and Old Town, sits a nice little restaurant, Malbec. An Argentinian restaurant that, as most others do, they specializes in beef. My only other experience, an unfortunate one, was with Gaucho Grill.

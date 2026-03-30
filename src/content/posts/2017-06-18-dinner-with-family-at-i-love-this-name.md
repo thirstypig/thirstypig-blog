@@ -22,7 +22,7 @@ tags:
 - austin
 - food
 description: Dinner with family at (I love this name!). we had a Triple Fried Duck Fat Fries, Truffled Deviled Eggs, Brussels Sprout Caesar Salad, Bacon & Gruyere Roasted Bone Marrow, and Candied Pork Belly
-location: Dinner with family at  (I love this name
+location: Salty Sow
 city: Austin
 region: Texas
 ---

@@ -14,7 +14,6 @@ tags:
 - thevalley
 - tunasalad
 description: Lunch in the valley. Tuna salad. Sounds ordinary but not. . . . . . .
-location: Lunch in the valley
 ---
 
 ![Lunch in the valley](/images/posts/ig-2022-04-24-lunch-in-the-valley/18292137643052269.jpg)

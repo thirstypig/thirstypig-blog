@@ -23,8 +23,12 @@ description: I’ve been asked to write a little about this place. So, here it g
 archiveUrl: https://web.archive.org/web/20110105195114/http://www.thethirstypig.com/2009/01/14/honey-pig-korean-bbq/
 draft: false
 location: Honey Pig
-city: Korean BBQ
-region: Koreatown
+city: Koreatown
+region: Los Angeles
+address: 3400 W 8th St, Los Angeles, CA 90005
+coordinates:
+  lat: 34.057682
+  lng: -118.303099
 ---
 
 I’ve been asked to write a little about this place. So, here it goes. . .

@@ -16,8 +16,8 @@ description: 'Unfortunately, I am giving Bay Cities Deli a big zero Pig rating f
 archiveUrl: https://web.archive.org/web/20161106040228/http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
 draft: false
 location: Bay Cities Italian Deli
-city: SaMo
-region: Westside
+city: San Francisco
+region: San Francisco
 address: 1517 Lincoln Blvd Santa Monica, CA 90401
 ---
 

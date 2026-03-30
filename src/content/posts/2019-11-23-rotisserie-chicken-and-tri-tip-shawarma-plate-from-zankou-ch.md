@@ -21,11 +21,15 @@ tags:
 - eeeeeats
 - eat
 description: Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. Haven’t had the beef, since we usually have the chicken. Their famed garlic sauce/paste is something that you must ask for. Make sure
-location: Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken
+location: Zankou Chicken
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
+address: 1296 E Colorado Blvd (S Hill St.), Pasadena, CA 91106
+coordinates:
+  lat: 34.145515
+  lng: -118.12359
 ---
 
 ![Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken](/images/posts/ig-2019-11-23-rotisserie-chicken-and-tri-tip-shawarma-plate-from-zankou-ch/17845407010769144.jpg)

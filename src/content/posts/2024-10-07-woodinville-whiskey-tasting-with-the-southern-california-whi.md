@@ -17,7 +17,6 @@ tags:
 - whiskey
 - whisky
 description: Woodinville Whiskey tasting with the Southern California Whiskey Club. Great bourbons and rye whiskeys. There was a Founders tasting that was amazing - real smooth. The rye was also really good. Their
-location: Woodinville Whiskey tasting with the Southern California Whiskey Club
 ---
 
 ![Woodinville Whiskey tasting with the Southern California Whiskey Club](/images/posts/ig-2024-10-07-woodinville-whiskey-tasting-with-the-southern-california-whi/18036042683233383.jpg)

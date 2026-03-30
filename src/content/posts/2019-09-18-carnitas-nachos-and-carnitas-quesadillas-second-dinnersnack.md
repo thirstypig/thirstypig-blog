@@ -21,7 +21,6 @@ tags:
 - yum
 description: Carnitas Nachos and Carnitas Quesadillas, second dinner/snack. Yum. Good food and good time, telling lies. . . . .
 location: Carnitas Nachos and Carnitas Quesadillas
-city: second dinner/snack
 categories:
 - second dinner/snack
 ---

@@ -25,9 +25,13 @@ tags:
 - templecity
 - sgv
 description: Dim Sum brunch at Grand Harbour Restaurant in Temple City.
-location: Dim Sum brunch at Grand Harbour Restaurant in Temple City
+location: Grand Harbor
 city: Temple City
 region: San Gabriel Valley
+address: 5733 Rosemead Blvd (Las Tunas Dr), Temple City, CA 91780
+coordinates:
+  lat: 34.104049
+  lng: -118.075451
 ---
 
 ![Dim Sum brunch at Grand Harbour Restaurant in Temple City](/images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17943847807001109.jpg)

@@ -15,8 +15,13 @@ tags:
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144407/http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/
 draft: false
-location: Dalian 大连
-city: the City by the Sea
+location: 大连银行
+city: Shanghai
+region: Shanghai
+address: Changning, 上海市
+coordinates:
+  lat: 31.222464
+  lng: 121.426095
 ---
 
 I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach life,

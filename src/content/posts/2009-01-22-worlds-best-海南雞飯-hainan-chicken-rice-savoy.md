@@ -19,8 +19,8 @@ description: I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and 
 archiveUrl: https://web.archive.org/web/20110105204055/http://www.thethirstypig.com/2009/01/22/worlds-best-%e6%b5%b7%e5%8d%97%e9%9b%9e%e9%a3%af-hainan-chicken-rice-savoy/
 draft: false
 location: World’s Best 海南雞飯 (Hainan Chicken Rice)
-city: Savoy
-region: San Gabriel Valley
+city: Hong Kong
+region: Hong Kong
 address: '138 E Valley Blvd
 
   Alhambra, CA 91801'

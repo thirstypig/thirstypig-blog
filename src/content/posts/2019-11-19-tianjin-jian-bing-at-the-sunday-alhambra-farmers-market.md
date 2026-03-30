@@ -16,7 +16,6 @@ tags:
 - sgv
 - farmersmarket
 description: Tianjin Jian Bing at the Sunday Alhambra Farmers Market. Woo’s Crepe makes a traditional Tianjin Jian Bing. It’s a bit different from the Jian Bing I’m used to from shanghai. They fry the egg on the o
-location: Tianjin Jian Bing at the Sunday Alhambra Farmers Market
 city: Alhambra
 region: San Gabriel Valley
 categories:

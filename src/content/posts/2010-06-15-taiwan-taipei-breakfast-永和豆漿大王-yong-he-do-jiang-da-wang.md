@@ -30,7 +30,7 @@ tags:
 description: Great for breakfast and late night urges, Yong He Da Wang seems to also have a steady flow of hungry customers at all hours. Even in the afternoon, such as the time when I went, there was a small crow
 archiveUrl: https://web.archive.org/web/20110105070007/http://www.thethirstypig.com/2010/06/15/taiwan-taipei-breakfast-%e6%b0%b8%e5%92%8c%e8%b1%86%e6%bc%bf%e5%a4%a7%e7%8e%8b-yong-he-do-jiang-da-wang/
 draft: false
-location: A Taipei Breakfast at 永和豆漿大王 Yong He Do Jiang Da Wang
+location: 永和豆漿大王 Yong He Do Jiang Da Wang
 city: Taipei
 region: Taipei
 address: 102 Fuxing South Road

@@ -16,7 +16,6 @@ tags:
 - southbay
 - fridaynight
 description: Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière. Good times good company good food. . . . .
-location: Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière
 city: Manhattan Beach
 region: South Bay
 ---

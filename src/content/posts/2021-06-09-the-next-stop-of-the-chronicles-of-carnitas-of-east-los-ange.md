@@ -23,10 +23,14 @@ tags:
 - losangeles
 - losangelesfood
 description: The next stop of the Chronicles of Carnitas of East Los Angeles is at Los Cinco Puntos, translated as the Five Points. This local and friendly favorite was highly recommended. I had the usual carnitas
-location: The next stop of the Chronicles of Carnitas of East Los Angeles is at Los Cin...
+location: Los Angeles Theatre
 city: Los Angeles
 categories:
 - Los Angeles
+address: 615 S Broadway (btwn 6th & 7th), Los Angeles, CA 90014
+coordinates:
+  lat: 34.046397
+  lng: -118.252587
 ---
 
 ![The next stop of the Chronicles of Carnitas of East Los Angeles is at Los Cin...](/images/posts/ig-2021-06-09-the-next-stop-of-the-chronicles-of-carnitas-of-east-los-ange/17880765284352106.jpg)

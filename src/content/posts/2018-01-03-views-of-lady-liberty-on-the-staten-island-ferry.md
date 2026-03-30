@@ -14,7 +14,6 @@ tags:
 - statueofliberty
 - statenislandferry
 description: Views of Lady Liberty on the Staten Island Ferry.
-location: Views of Lady Liberty on the Staten Island Ferry
 ---
 
 ![Views of Lady Liberty on the Staten Island Ferry](/images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17857253083213309.jpg)

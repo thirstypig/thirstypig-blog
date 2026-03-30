@@ -25,10 +25,15 @@ tags:
 - taipeieats
 - taipei
 description: Japanese food in Taiwan, is arguably the best outside of Japan. I doubt anywhere else has the diversity, quality of fish, and abundance of great Japanese restaurants than Taiwan. This neighborhood Jap
-location: Japanese food in Taiwan
-city: is arguably the best outside of Japan
+location: Mitsui Japanese Cuisine (三井日式料理)
+city: Taipei
 categories:
 - is arguably the best outside of Japan
+region: Taipei
+address: 農安街30號, 台北市,  104
+coordinates:
+  lat: 25.064923
+  lng: 121.526655
 ---
 
 ![Japanese food in Taiwan, is arguably the best outside of Japan](/images/posts/ig-2024-05-05-japanese-food-in-taiwan-is-arguably-the-best-outside-of-japa/18119142736366563.jpg)

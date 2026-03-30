@@ -13,7 +13,13 @@ images:
 tags:
 - txbbqpassport
 description: One of Texas Monthly's top 50 BBQ 2017 - . Outstanding Beef Ribs, spicy sausage, corn casserole, and coleslaw. The mustard was great with the sausage. But the brisket was a bit dry and the baby back r
-location: One of Texas Monthly's top 50 BBQ 2017 -
+location: Stiles Switch BBQ & Brew
+city: Austin
+region: Texas
+address: 6610 N Lamar Blvd (at Brentwood St), Austin, TX 78752
+coordinates:
+  lat: 30.334507
+  lng: -97.721322
 ---
 
 ![One of Texas Monthly's top 50 BBQ 2017 -](/images/posts/ig-2017-05-27-one-of-texas-monthlys-top-50-bbq-2017/17857492750163779.jpg)

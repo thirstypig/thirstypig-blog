@@ -19,8 +19,8 @@ description: The burger here at the Hungry Cat, known as the Pug Burger, is not 
 archiveUrl: https://web.archive.org/web/20110105154708/http://www.thethirstypig.com/2009/01/02/home-of-the-pug-burger-the-hungry-cat/
 draft: false
 location: Home of the Pug Burger
-city: The Hungry Cat
-region: Hollywood
+city: Beverly Hills
+region: Los Angeles
 address: '1535 Vine St
 
   Hollywood, CA 90028'
