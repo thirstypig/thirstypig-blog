@@ -43,6 +43,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 				return 7;
 			}
 
+			function esc(s: string): string {
+				const d = document.createElement('div');
+				d.textContent = s;
+				return d.innerHTML;
+			}
+
 			const allMarkers: any[] = [];
 
 			markers.forEach((m: any) => {
@@ -57,15 +63,22 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 				});
 				allMarkers.push(marker);
 
-				const imgHtml = m.heroImage
-					? `<img src="${m.heroImage}" alt="${m.title}" style="width:200px;height:130px;object-fit:cover;border-radius:6px;margin-bottom:6px;" loading="lazy" />`
+				const safeTitle = esc(m.title || '');
+				const safeId = esc(m.id || '');
+				const safeLocation = esc(m.location || '');
+				const safeCity = esc(m.city || '');
+				const safeRegion = esc(m.region || '');
+				const safeImage = m.heroImage ? esc(m.heroImage) : '';
+
+				const imgHtml = safeImage
+					? `<img src="${safeImage}" alt="${safeTitle}" style="width:200px;height:130px;object-fit:cover;border-radius:6px;margin-bottom:6px;" loading="lazy" />`
 					: '';
 				const closedBadge = m.closed
 					? '<span style="color:#9A3412;font-weight:bold;font-size:11px;"> CLOSED</span>'
 					: '';
 
-				const locationLine = m.location && m.location !== m.title
-					? `<div style="font-size:12px;color:#B45309;margin-top:2px;">${m.location}</div>`
+				const locationLine = safeLocation && safeLocation !== safeTitle
+					? `<div style="font-size:12px;color:#B45309;margin-top:2px;">${safeLocation}</div>`
 					: '';
 				const gpsIcon = m.hasExactCoords
 					? '<span title="Exact GPS location" style="font-size:10px;">📍</span> '
@@ -74,12 +87,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 				marker.bindPopup(`
 					<div style="max-width:220px;font-family:system-ui;">
 						${imgHtml}
-						<a href="/posts/${m.id}/" style="font-weight:600;font-size:14px;color:#1A1A1A;text-decoration:none;">
-							${m.title}${closedBadge}
+						<a href="/posts/${safeId}/" style="font-weight:600;font-size:14px;color:#1A1A1A;text-decoration:none;">
+							${safeTitle}${closedBadge}
 						</a>
 						${locationLine}
 						<div style="font-size:12px;color:#78716C;margin-top:4px;">
-							${gpsIcon}${m.city}${m.region && m.region !== m.city ? ' · ' + m.region : ''} · ${m.date}
+							${gpsIcon}${safeCity}${safeRegion && safeRegion !== safeCity ? ' · ' + safeRegion : ''} · ${m.date}
 						</div>
 					</div>
 				`);
