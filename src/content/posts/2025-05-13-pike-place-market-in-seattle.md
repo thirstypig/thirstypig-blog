@@ -1,29 +1,29 @@
 ---
-title: Pike Place Market, Seattle
-pubDate: '2025-05-13'
-author: The Thirsty Pig
-source: instagram
-draft: false
-heroImage: /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg
-images:
-- /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg
-- /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18004814396751609.jpg
-- /images/posts/ig-2025-05-13-pike-place-market-in-seattle/17920135584094378.jpg
-tags:
-- seattle
-- market
-- local
+title: 'Pike Place Market, Seattle'
+pubDate: 2025-05-13T00:00:00.000Z
 description: Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints
+author: The Thirsty Pig
+heroImage: /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg
+categories:
+  - Coffee
+tags:
+  - seattle
+  - market
+  - local
+cuisine: []
 location: Pike Place Market Foundation
 city: Seattle
 region: Seattle
-address: Seattle, WA 98101
+address: 'Seattle, WA 98101'
 coordinates:
   lat: 47.608494
   lng: -122.340327
-categories:
-- Uncategorized
-cuisine: []
+images:
+  - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg
+  - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18004814396751609.jpg
+  - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/17920135584094378.jpg
+source: instagram
+draft: false
 ---
 
 ![Pike Place Market in Seattle](/images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg)
@@ -36,9 +36,9 @@ cuisine: []
 
 <video controls width="100%"><source src="/videos/posts/ig-2025-05-13-pike-place-market-in-seattle/18071748985901536.mp4" type="video/mp4"></video>
 
-Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints as a donation for an engraving on the floor near the pig, I think for about $5k or so - for a good cause. 
+Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints as a donation for an engraving on the floor near the pig, I think for about $5k or so - for a good cause.
 
-The weather was awesome with no rain. 
+The weather was awesome with no rain.
 .
 .
 .
