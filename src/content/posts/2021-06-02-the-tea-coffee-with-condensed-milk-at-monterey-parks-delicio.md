@@ -5,7 +5,7 @@ description: The tea coffee with condensed milk at Monterey Parks Delicious Food
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
 categories:
-  - Vietnamese
+  - Cantonese
 tags:
   - monterey-park
   - vietnamese
