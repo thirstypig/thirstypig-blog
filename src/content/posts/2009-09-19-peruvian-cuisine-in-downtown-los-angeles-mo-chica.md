@@ -1,5 +1,5 @@
 ---
-title: 'Luxury Suite in Downtown Los Angeles, Downtown LA'
+title: Mo-Chica, Los Angeles
 pubDate: '2009-09-19'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,12 +13,11 @@ images:
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0053.JPG
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0061.JPG
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0063.JPG
-categories:
-- Peruvian
-- Los Angeles
-- Mo-Chica
+categories: []
 tags:
-- Los Angeles
+- dtla
+- peruvian
+- ceviche
 description: Tucked away in a food court, blocks away from USC, lives peruvian cuisine at its finest. I recently joined a newly formed monthly dining group that choose Mo-Chica for its first event. I didn’t rememb
 archiveUrl: https://web.archive.org/web/20110106004925/http://www.thethirstypig.com/2009/09/19/peruvian-cuisine-in-downtown-los-angeles-mo-chica/
 draft: false
@@ -29,6 +28,8 @@ address: 616 St Paul Ave, Los Angeles, CA 90017
 coordinates:
   lat: 34.052773
   lng: -118.26098
+cuisine:
+- Peruvian
 ---
 
 Tucked away in a food court, blocks away from USC, lives peruvian cuisine at its finest. I recently joined a newly formed monthly dining group that choose Mo-Chica for its first event. I didn’t remember Mo-Chica’s offering much from the Project by Project event, unfortunately either. All I was told, that we were going to a latin style restaurant near USC. Thus I was thinking hole-in-the-wall and something Mexican.

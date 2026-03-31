@@ -1,5 +1,5 @@
 ---
-title: 2 Bunnies Cafe in Banciao, Taipei
+title: 米塔手感烘焙 Mita Fancy Cafe & Bakery, Taipei
 pubDate: '2010-06-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -14,13 +14,12 @@ images:
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-7.5-88x88.jpg
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-8-88x88.jpg
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-9-88x88.jpg
-categories:
-- 1 pig
-- Cafe
-- Japanese
-- Taipei
+categories: []
 tags:
-- Banciao 板橋
+- taipei
+- fusion
+- cafe
+- bakery
 description: One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.
 archiveUrl: https://web.archive.org/web/20110105014517/http://www.thethirstypig.com/2010/06/12/2-bunnies-banciao-taipei/
 draft: false
@@ -31,6 +30,8 @@ address: 南京東路一段24號, 台北市,  104
 coordinates:
   lat: 25.051963
   lng: 121.523724
+cuisine:
+- Fusion
 ---
 
 One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.

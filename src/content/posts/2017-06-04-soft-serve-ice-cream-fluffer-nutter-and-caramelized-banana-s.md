@@ -1,5 +1,5 @@
 ---
-title: 'Cow Tipping Creamery, Austin'
+title: Cow Tipping Creamery, Austin
 pubDate: '2017-06-04'
 author: The Thirsty Pig
 source: instagram
@@ -9,13 +9,17 @@ images:
 - /images/posts/ig-2017-06-04-soft-serve-ice-cream-fluffer-nutter-and-caramelized-banana-s/17870628385117383.jpg
 - /images/posts/ig-2017-06-04-soft-serve-ice-cream-fluffer-nutter-and-caramelized-banana-s/17859036289147248.jpg
 tags:
-- icecream
-- softserve
-- atx
+- austin
+- dessert
+- soft-serve
+- ice-cream
 description: Soft serve ice cream Fluffer Nutter and Caramelized Banana Split
 location: Cow Tipping Creamery
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- Dessert
 ---
 
 ![Soft serve ice cream Fluffer Nutter and Caramelized Banana Split](/images/posts/ig-2017-06-04-soft-serve-ice-cream-fluffer-nutter-and-caramelized-banana-s/17870628385117383.jpg)

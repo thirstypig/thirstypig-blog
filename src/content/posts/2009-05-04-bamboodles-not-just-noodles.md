@@ -1,5 +1,5 @@
 ---
-title: 'Bamboodles. . . not just noodles, Shanghai'
+title: A Niang Noodles (阿娘面), Shanghai
 pubDate: '2009-05-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,14 +9,11 @@ images:
 - /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
 - /images/posts/bamboodles-not-just-noodles/IMG_0589.jpg
 - /images/posts/bamboodles-not-just-noodles/IMG_0590.jpg
-categories:
-- San Gabriel Valley
-- Noodles
-- Chinese
-- Cantonese
-- Shanghai
+categories: []
 tags:
-- LA's San Gabriel Valley
+- shanghai
+- chinese
+- noodles
 description: I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winn
 archiveUrl: https://web.archive.org/web/20110105144940/http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/
 draft: false
@@ -27,6 +24,8 @@ address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
 coordinates:
   lat: 31.219744
   lng: 121.461994
+cuisine:
+- Chinese
 ---
 
 I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winning food critic for LA Weekly. So, anything he says and write is “Gold!” Anyways. . .

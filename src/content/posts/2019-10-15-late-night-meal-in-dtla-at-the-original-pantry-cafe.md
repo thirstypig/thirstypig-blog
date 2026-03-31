@@ -1,5 +1,5 @@
 ---
-title: 'Late night meal in DTLA at the Original Pantry Cafe,...'
+title: Original Pantry Cafe, Los Angeles
 pubDate: '2019-10-15'
 author: The Thirsty Pig
 source: instagram
@@ -15,18 +15,15 @@ images:
 - /images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17984397859302810.jpg
 tags:
 - dtla
-- diner
-- countryfriedsteak
-- americanfood
-- eeeeeats
-- eat
-- coleslaw
-- greenbeans
-- potatoes
-- eggs
-description: 'Late night meal in DTLA at the Original Pantry Cafe. Breakfast all day and night. Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup. I love this place. I like going on weekends and having breakfast at the counter. Hate the long lines. . . . .'
+- american
+- breakfast
+- steak
+description: Late night meal in DTLA at the Original Pantry Cafe. Breakfast all day and night. Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup. I love this place. I like going on weekends and having breakfast at the counter. Hate the long lines. . . . .
 city: Downtown LA
 region: Los Angeles
+categories: []
+cuisine:
+- American
 ---
 
 ![Late night meal in DTLA at the Original Pantry Cafe](/images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17884093936436542.jpg)

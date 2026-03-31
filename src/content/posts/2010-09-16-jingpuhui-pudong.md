@@ -1,5 +1,5 @@
 ---
-title: '晶浦会 Jingpuhui of Pudong, Shanghai'
+title: Pudong Riverside Promenade (浦东滨江大道), Shanghai
 pubDate: '2010-09-16'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -51,12 +51,7 @@ images:
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-51-88x88.jpg
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-54-88x88.jpg
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-55-88x88.jpg
-categories:
-- 3 pigs
-- Cantonese
-- Price Range 3 $/¥/NT
-- Pudong District
-- Shanghai
+categories: []
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20100922105055/http://www.thethirstypig.com:80/2010/09/16/jingpuhui-pudong/
 draft: false
@@ -67,6 +62,9 @@ address: Riverside Promenade (along Huangpu River), Lùjiāzuǐ, Huangpu, 上海
 coordinates:
   lat: 31.237746
   lng: 121.492163
+tags:
+- shanghai
+cuisine: []
 ---
 
 > You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . .

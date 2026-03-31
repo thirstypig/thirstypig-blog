@@ -1,5 +1,5 @@
 ---
-title: Noodles and dumplings with the fam at Luscious Dumplings in Monrovia
+title: Luscious Dumplings, Monrovia
 pubDate: '2018-04-08'
 author: The Thirsty Pig
 source: instagram
@@ -19,6 +19,14 @@ address: 919 W Duarte Rd (at S 6th Ave), Monrovia, CA 91016
 coordinates:
   lat: 34.131804
   lng: -118.018277
+tags:
+- monrovia
+- chinese
+- dumplings
+- noodles
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Noodles and dumplings with the fam at Luscious Dumplings in Monrovia](/images/posts/ig-2018-04-08-noodles-and-dumplings-with-the-fam-at-luscious-dumplings-in/17936292478004378.jpg)

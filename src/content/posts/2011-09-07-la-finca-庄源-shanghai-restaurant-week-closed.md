@@ -1,15 +1,15 @@
 ---
-title: La Finca 庄源, Shanghai – Restaurant Week (Closed)
+title: La Finca 庄源, Shanghai
 pubDate: '2011-09-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/
-categories:
-- Huangpu
-- Shanghai
+categories: []
 tags:
-- Spanish
-- closed
+- shanghai
+- mediterranean
+- tapas
+- spanish-wine
 description: Our next venture during the Fall Shanghai Restaurant Weekhttp://www.shanghairestaurantweek.com/ is La Finca, located in the Xintiandi area. La Finca is an upscale Spanish restaurant featuring tapas, S
 archiveUrl: https://web.archive.org/web/20161105185346/http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/
 draft: false
@@ -17,6 +17,8 @@ location: La Finca 庄源
 city: Shanghai
 region: Shanghai
 address: 373 South Huangpi Road
+cuisine:
+- Mediterranean
 ---
 
 

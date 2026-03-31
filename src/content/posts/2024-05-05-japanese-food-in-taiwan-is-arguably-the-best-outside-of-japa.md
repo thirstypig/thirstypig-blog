@@ -1,5 +1,5 @@
 ---
-title: 'Mitsui Japanese Cuisine (三井日式料理), Taipei'
+title: Mitsui Japanese Cuisine (三井日式料理), Taipei
 pubDate: '2024-05-05'
 author: The Thirsty Pig
 source: instagram
@@ -14,21 +14,11 @@ images:
 - /images/posts/ig-2024-05-05-japanese-food-in-taiwan-is-arguably-the-best-outside-of-japa/18024972032113377.jpg
 - /images/posts/ig-2024-05-05-japanese-food-in-taiwan-is-arguably-the-best-outside-of-japa/17877582189013972.jpg
 tags:
-- yamotojapaneserestaurant
-- å
-- eats
-- eeeeeats
-- thirstypig
-- tastemakersapp
-- japanesefood
-- japaneserestaurant
-- taipeieats
 - taipei
-description: 'Japanese food in Taiwan, is arguably the best outside of Japan. I doubt anywhere else has the diversity, quality of fish, and abundance of great Japanese restaurants than Taiwan. This neighborhood Japanese restaurant does not disappointment, located in the east district 東區 of Taipei 大和 is a favorite of an old friend that I’ve known for over 49 year, our moms went to college together. It was great to catch up with him and his family and of course his mom. . . .'
+description: Japanese food in Taiwan, is arguably the best outside of Japan. I doubt anywhere else has the diversity, quality of fish, and abundance of great Japanese restaurants than Taiwan. This neighborhood Japanese restaurant does not disappointment, located in the east district 東區 of Taipei 大和 is a favorite of an old friend that I’ve known for over 49 year, our moms went to college together. It was great to catch up with him and his family and of course his mom. . . .
 location: Mitsui Japanese Cuisine (三井日式料理)
 city: Taipei
-categories:
-- is arguably the best outside of Japan
+categories: []
 region: Taipei
 address: 農安街30號, 台北市,  104
 coordinates:

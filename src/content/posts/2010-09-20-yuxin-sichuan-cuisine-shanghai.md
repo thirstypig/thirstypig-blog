@@ -1,5 +1,5 @@
 ---
-title: Yuxin Sichuan Cuisine Shanghai
+title: Yuxin Sichuan Cuisine, Shanghai
 pubDate: '2010-09-20'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -31,13 +31,12 @@ images:
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-27-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-28-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg
-categories:
-- Jingan District
-- Shanghai
+categories: []
 tags:
-- Shanghai
-- Sichuan
-- Spicy
+- shanghai
+- chinese
+- sichuan
+- curry
 description: Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 archiveUrl: https://web.archive.org/web/20160914030516/http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/
 draft: false
@@ -48,6 +47,8 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine:
+- Chinese
 ---
 
 [![yuxin-sichuan-cuisine-shanghai-18](/images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-01-88x88.jpg "yuxin-sichuan-cuisine-shanghai-18")](http://thirstypig.com/2010/09/20/yuxin-sichuan-cuisine-shanghai/yuxin-sichuan-cuisine-shanghai-18-2/)

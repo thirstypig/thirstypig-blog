@@ -1,12 +1,10 @@
 ---
-title: 'Breakfast in China, Shanghai'
+title: Radisson, Shanghai
 pubDate: '2011-12-06'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/06/breakfast-in-china/
-categories:
-- Breakfast
-- Shanghai
+categories: []
 description: 'If you are just like me and you love to taste new and exciting dishes, then you are sure to enjoy reading through my website and admiring the photographs from some of the amazing food I have tried. I '
 archiveUrl: https://web.archive.org/web/20120116063154/http://www.thethirstypig.com:80/2011/12/06/breakfast-in-china/
 draft: false
@@ -17,6 +15,13 @@ address: Huangpu, 上海市
 coordinates:
   lat: 31.235975
   lng: 121.468761
+tags:
+- shanghai
+- multi
+- brunch
+- breakfast
+cuisine:
+- Multi
 ---
 
 If you are just like me and you love to taste new and exciting dishes, then you are sure to enjoy reading through my website and admiring the photographs from some of the amazing food I have tried. I enjoy travelling and have tried a lot of food in Bangkok and Shanghai. On my visit to Shanghai, I noticed that many of the breakfast foods were simple and carbohydrate based; the savoury snacks seemed healthy but the sweeter options were much richer and more indulgent.

@@ -1,5 +1,5 @@
 ---
-title: Dinner at Bonchon
+title: Bonchon, San Gabriel Valley
 pubDate: '2018-05-18'
 author: The Thirsty Pig
 source: instagram
@@ -16,19 +16,17 @@ images:
 - /images/posts/ig-2018-05-18-dinner-at-bonchon/17932192642115909.jpg
 - /images/posts/ig-2018-05-18-dinner-at-bonchon/17920261111140583.jpg
 tags:
-- bonchonchicken
-- koreanfriedchicken
-- friedchicken
-- koreanfood
-- spicyfriedchicken
-- chicken
 - sgv
-- templecity
-- thirstypig
+- korean
+- fried-chicken
+- ttokboki
 description: Dinner at Bonchon. We had spicy and soy-garlic fried chicken, ttokboki, udon, bbimbop, japchae, fried, and chicken katsu. . . .
 location: Dinner at Bonchon
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Dinner at Bonchon](/images/posts/ig-2018-05-18-dinner-at-bonchon/17872952473233124.jpg)

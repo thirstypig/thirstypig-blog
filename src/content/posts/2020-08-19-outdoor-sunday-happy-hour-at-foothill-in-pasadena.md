@@ -1,5 +1,5 @@
 ---
-title: Outdoor Sunday happy hour at Foothill in Pasadena
+title: Foothill, Pasadena
 pubDate: '2020-08-19'
 author: The Thirsty Pig
 source: instagram
@@ -11,22 +11,21 @@ images:
 - /images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/17912028724471241.jpg
 - /images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/18041172367264057.jpg
 tags:
-- food
 - pasadena
-- onionrimgs
+- american
 - sliders
-- fishandchips
-- peachcobbler
-description: 'Outdoor Sunday happy hour at Foothill in Pasadena. They turned their parking lot into and outdoor patio with coverings and umbrellas. Looks like a lot of people liked this place. Plenty of space for proper social distancing. Check it out. Thank you very much for the olive oil. . . . . .'
+- fish-and-chips
+description: Outdoor Sunday happy hour at Foothill in Pasadena. They turned their parking lot into and outdoor patio with coverings and umbrellas. Looks like a lot of people liked this place. Plenty of space for proper social distancing. Check it out. Thank you very much for the olive oil. . . . . .
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032
   lng: -118.145536
+cuisine:
+- American
 ---
 
 ![Outdoor Sunday happy hour at Foothill in Pasadena](/images/posts/ig-2020-08-19-outdoor-sunday-happy-hour-at-foothill-in-pasadena/17899150579558788.jpg)

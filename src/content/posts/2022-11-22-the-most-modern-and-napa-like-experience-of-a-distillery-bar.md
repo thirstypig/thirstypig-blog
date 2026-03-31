@@ -1,5 +1,5 @@
 ---
-title: 'The most modern and Napa-like experience of a distillery...'
+title: The most modern and Napa-like experience of a distillery...
 pubDate: '2022-11-22'
 author: The Thirsty Pig
 source: instagram
@@ -17,19 +17,9 @@ images:
 - /images/posts/ig-2022-11-22-the-most-modern-and-napa-like-experience-of-a-distillery-bar/17998545820505493.jpg
 tags:
 - bardstown
-- bardstownbourbon
-- bourbon
-- tastemakersapp
-- thirstypig
-- distillery
-- distilleries
-- louisville
-- kentucky
-- bourbondistillery
-description: 'The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store the bourbon, called a Rickhouse, they have a cool showcase bar lounge. The owner and founder was in tech and had a company that merged with Earthink! . . . . . .'
+description: The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store the bourbon, called a Rickhouse, they have a cool showcase bar lounge. The owner and founder was in tech and had a company that merged with Earthink! . . . . . .
 city: Bardstown
-categories:
-- Bardstown Bourbon ...
+categories: []
 region: Kentucky
 ---
 

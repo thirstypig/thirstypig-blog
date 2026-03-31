@@ -1,5 +1,5 @@
 ---
-title: Deviled Eggs, fried chicken, and spicy chicken sandwiches at Crack Shack
+title: Crack Shack
 pubDate: '2019-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -14,20 +14,14 @@ images:
 - /images/posts/ig-2019-05-27-deviled-eggs-fried-chicken-and-spicy-chicken-sandwiches-at-c/17848469203445082.jpg
 - /images/posts/ig-2019-05-27-deviled-eggs-fried-chicken-and-spicy-chicken-sandwiches-at-c/17893065682333319.jpg
 tags:
-- eeeeeats
-- eat
-- crackshack
-- westfield
-- westfieldcenturycity
-- friedchicken
-- deviledeggs
-- chickensandwich
-- lunch
-- memorialdayweekend
+- american
+- fried-chicken
+- deviled-eggs
 description: Deviled Eggs, fried chicken, and spicy chicken sandwiches at Crack Shack! Also had a pretty good Bloody Mary. . . .
 location: Deviled Eggs, fried chicken
-categories:
-- and spicy chicken sandwiches at Crack Shack
+categories: []
+cuisine:
+- American
 ---
 
 ![Deviled Eggs, fried chicken, and spicy chicken sandwiches at Crack Shack](/images/posts/ig-2019-05-27-deviled-eggs-fried-chicken-and-spicy-chicken-sandwiches-at-c/18069503023028333.jpg)

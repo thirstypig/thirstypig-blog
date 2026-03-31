@@ -1,14 +1,15 @@
 ---
-title: Tai Thai 太泰, Shanghai
+title: Din Tai Fung (鼎泰丰), Shanghai
 pubDate: '2010-11-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Thai
+- shanghai
+- chinese
+- dim-sum
+- dumplings
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20161019105021/http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
 draft: false
@@ -19,6 +20,8 @@ address: 999 Huaihai M Rd | 淮海中路999号 (3/F-18 iapm Mall | 环贸iapm商
 coordinates:
   lat: 31.217779
   lng: 121.453103
+cuisine:
+- Chinese
 ---
 
 

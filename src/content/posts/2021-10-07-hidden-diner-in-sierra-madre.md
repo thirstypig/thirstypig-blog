@@ -1,5 +1,5 @@
 ---
-title: Hidden diner in Sierra Madre
+title: Sierra Madre Playhouse, Sierra Madre
 pubDate: '2021-10-07'
 author: The Thirsty Pig
 source: instagram
@@ -11,12 +11,10 @@ images:
 - /images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17870575055526638.jpg
 - /images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17897645885232858.jpg
 tags:
+- sierra-madre
+- american
 - diner
 - lunch
-- breakfast
-- thirstypig
-- eats
-- eeeeeats
 description: Hidden diner in Sierra Madre. Lunch in the hills of sierra madre. . . . . .
 location: Sierra Madre Playhouse
 city: Sierra Madre
@@ -25,6 +23,9 @@ address: 87 W Sierra Madre Blvd, Sierra Madre, CA 91024
 coordinates:
   lat: 34.162084
   lng: -118.054632
+categories: []
+cuisine:
+- American
 ---
 
 ![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17925738541842115.jpg)

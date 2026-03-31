@@ -1,5 +1,5 @@
 ---
-title: Country Bistro, Rowland Heights
+title: Garden Bistro, Rowland Heights
 pubDate: '2010-01-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -18,14 +18,12 @@ images:
 - /images/posts/country-bistro-rowland-heights/IMG_0979.jpg
 - /images/posts/country-bistro-rowland-heights/IMG_0983.JPG
 - /images/posts/country-bistro-rowland-heights/IMG_0985.JPG
-categories:
-- San Gabriel Valley
-- $
-- 3 pigs
-- Taiwanese
-- Rowland Heights
+categories: []
 tags:
-- LA's San Gabriel Valley
+- rowland-heights
+- taiwanese
+- herbal-soups
+- broth
 description: Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.
 archiveUrl: https://web.archive.org/web/20110105211310/http://www.thethirstypig.com/2010/01/12/country-bistro-rowland-heights/
 draft: false
@@ -36,6 +34,8 @@ address: '1390 Fullerton Rd #101 (at Diamond Plz), Rowland Heights, CA 91748'
 coordinates:
   lat: 33.99345
   lng: -117.904321
+cuisine:
+- Taiwanese
 ---
 
 Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.

@@ -1,5 +1,5 @@
 ---
-title: Hunanese dinner
+title: Hunan Mao Restaurant, San Gabriel Valley
 pubDate: '2018-08-15'
 author: The Thirsty Pig
 source: instagram
@@ -11,20 +11,17 @@ images:
 - /images/posts/ig-2018-08-15-hunanese-dinner/17880079408253149.jpg
 - /images/posts/ig-2018-08-15-hunanese-dinner/17964223423068213.jpg
 tags:
-- hunancuisine
-- spicy
 - sgv
-- eeeeeats
-- thirstypig
+- chinese
+- spicy
 - hunan
-- chinesefood
-- friedfish
-- pork
-- egg
-description: 'Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu strips, fried egg with vegetables, and steamed pork with some sort of flour. I almost have no idea how to describe/name these dishes. But so good and spicy. Did I tell you that this place is spicy??? Hunan Mao Restaurant . . . .'
+description: Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu strips, fried egg with vegetables, and steamed pork with some sort of flour. I almost have no idea how to describe/name these dishes. But so good and spicy. Did I tell you that this place is spicy??? Hunan Mao Restaurant . . . .
 location: Hunanese dinner
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Hunanese dinner](/images/posts/ig-2018-08-15-hunanese-dinner/17896932763232332.jpg)

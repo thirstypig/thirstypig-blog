@@ -1,5 +1,5 @@
 ---
-title: 'Zankou Chicken, Pasadena'
+title: Zankou Chicken, Pasadena
 pubDate: '2019-11-23'
 author: The Thirsty Pig
 source: instagram
@@ -10,26 +10,21 @@ images:
 - /images/posts/ig-2019-11-23-rotisserie-chicken-and-tri-tip-shawarma-plate-from-zankou-ch/17874609871482974.jpg
 - /images/posts/ig-2019-11-23-rotisserie-chicken-and-tri-tip-shawarma-plate-from-zankou-ch/17894803609419847.jpg
 tags:
-- sgv
 - pasadena
-- chicken
-- zankouchicken
-- hummus
-- tahni
-- sauce
-- darkchicken
-- eeeeeats
-- eat
-description: 'Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. Haven’t had the beef, since we usually have the chicken. Their famed garlic sauce/paste is something that you must ask for. Make sure you ask for it!!! The tahni sauce is also really good, as is the hummus and pita. If you haven’t gone to zankou. You gotta go. . . . .'
+- mediterranean
+- rotisserie-chicken
+- shawarma
+description: Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. Haven’t had the beef, since we usually have the chicken. Their famed garlic sauce/paste is something that you must ask for. Make sure you ask for it!!! The tahni sauce is also really good, as is the hummus and pita. If you haven’t gone to zankou. You gotta go. . . . .
 location: Zankou Chicken
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 1296 E Colorado Blvd (S Hill St.), Pasadena, CA 91106
 coordinates:
   lat: 34.145515
   lng: -118.12359
+cuisine:
+- Mediterranean
 ---
 
 ![Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken](/images/posts/ig-2019-11-23-rotisserie-chicken-and-tri-tip-shawarma-plate-from-zankou-ch/17845407010769144.jpg)

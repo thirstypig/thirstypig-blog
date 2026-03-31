@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅...'
+title: Yi Mei, Unknown
 pubDate: '2018-02-19'
 author: The Thirsty Pig
 source: instagram
@@ -12,9 +12,13 @@ images:
 - /images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17894511706171435.jpg
 - /images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17898702787154010.jpg
 tags:
-- yimei
-- thirstypig
+- taiwanese
+- rice-roll
+- egg-omelette
 description: Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅 radish cake 蘿蔔糕
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese Breakfast at Yi Mei rice roll 飯糰 egg omelette pancake 蛋餅 radish cak...](/images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17911201036122550.jpg)

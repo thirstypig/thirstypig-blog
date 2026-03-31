@@ -1,5 +1,5 @@
 ---
-title: '定食 8 – Japanese teishoku, Taipei'
+title: 定食8, Taipei
 pubDate: '2009-01-10'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -15,12 +15,12 @@ images:
 - /images/posts/定食-8-japanese-teishoku/map05.jpg
 - /images/posts/定食-8-japanese-teishoku/n716198940_1274777_2798.jpg
 - /images/posts/定食-8-japanese-teishoku/n716198940_1274778_3898.jpg
-categories:
-- Japanese
-- Taipei
-- Japanese teishoku
+categories: []
 tags:
-- Taipei
+- taipei
+- japanese
+- teishoku
+- sushi
 description: I hardly write things in English, other than work related stuff. Since my uncle\, Thirsty Pig, invited me to post some restaurants in Taiwan, I tried my best to write something here for the restaurant
 archiveUrl: https://web.archive.org/web/20111103150752/http://www.thethirstypig.com/2009/01/10/%e5%ae%9a%e9%a3%9f-8-japanese-teishoku/
 draft: false
@@ -31,6 +31,8 @@ address: 八德路二段306號B1, 台北市,  104
 coordinates:
   lat: 25.046026
   lng: 121.542799
+cuisine:
+- Japanese
 ---
 
 I hardly write things in English, other than work related stuff. Since my uncle\*, Thirsty Pig, invited me to post some restaurants in Taiwan, I tried my best to write something here for the restaurant “[定食8](http://www.sushi-express.com.tw/sushi_group/set/index.php) (Teishoku 8)” I have been yesterday and today.

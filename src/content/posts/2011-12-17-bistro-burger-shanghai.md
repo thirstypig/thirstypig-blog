@@ -4,18 +4,12 @@ pubDate: '2011-12-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/17/bistro-burger-shanghai/
-categories:
-- American
-- Lunch
-- Price Range 2 $/¥/NT
-- Beer
-- Xuhui District
-- Hamburgers
-- 2 pigs
-- Shanghai
+categories: []
 tags:
-- Shanghai
-- Burger
+- shanghai
+- american
+- burgers
+- milkshake
 description: Burger Bistro has just introduced their new burger challenge. In 20 mins, one has to finish a Bistro Belt Buster Burger with fries and milkshake. Priced at 160 RMB, the burger is a 3 stack 600 grams t
 archiveUrl: https://web.archive.org/web/20160912113713/http://thirstypig.com/2011/12/17/bistro-burger-shanghai/
 draft: false
@@ -26,6 +20,8 @@ address: A Mansion, 291 Fumin Rd (Changle Rd), Xuhui, 上海市
 coordinates:
   lat: 31.219599
   lng: 121.448189
+cuisine:
+- American
 ---
 
 

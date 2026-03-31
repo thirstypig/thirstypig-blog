@@ -1,5 +1,5 @@
 ---
-title: 'Mundo Cafe & Restaurant, New York'
+title: Mundo Cafe & Restaurant, New York
 pubDate: '2009-01-28'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,17 +7,20 @@ originalUrl: http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/
 heroImage: /images/posts/mundo-cafe-restaurant/299802854_ed1016084b.jpg
 images:
 - /images/posts/mundo-cafe-restaurant/299802854_ed1016084b.jpg
-categories:
-- Latin
-- New York
+categories: []
 tags:
-- New York City
+- nyc
+- colombian
+- empanadas
+- appetizers
 description: What a nice little restaurant.
 archiveUrl: https://web.archive.org/web/20110105202901/http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/
 draft: false
 location: Mundo Cafe & Restaurant
 city: New York
 region: New York
+cuisine:
+- Colombian
 ---
 
 What a nice little restaurant.

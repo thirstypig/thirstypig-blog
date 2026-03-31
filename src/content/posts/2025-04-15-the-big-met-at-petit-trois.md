@@ -1,5 +1,5 @@
 ---
-title: 'The big Met at Petit Trois, Los Angeles'
+title: Petit Trois, Los Angeles
 pubDate: '2025-04-15'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,12 @@ images:
 - /images/posts/ig-2025-04-15-the-big-met-at-petit-trois/17897831067186833.jpg
 - /images/posts/ig-2025-04-15-the-big-met-at-petit-trois/17962604039875811.jpg
 tags:
-- burger
-- frenchbistro
-- frenchrestaurant
-- steakfrites
-- frenchonionsoup
-- onionsoup
-- chickenlivermousse
-- endivesalad
-- beligianendivesalad
-- frenchfood
+- los-angeles
 description: The big Met at Petit Trois. This is the famous burger at Petit Trois, a French cuisine restaurant. Tucked in a mini mall without any prominent signage, Chef Ludo has been one of the top restauranteurs
 location: Petit Trois
 city: Los Angeles
 region: Los Angeles
+categories: []
 ---
 
 ![The big Met at Petit Trois](/images/posts/ig-2025-04-15-the-big-met-at-petit-trois/18073767958798749.jpg)

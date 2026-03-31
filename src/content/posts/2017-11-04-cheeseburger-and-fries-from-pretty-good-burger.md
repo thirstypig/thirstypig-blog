@@ -1,5 +1,5 @@
 ---
-title: 'Cheeseburger and fries from pretty good burger'
+title: Pretty Good Burger, Unknown
 pubDate: '2017-11-04'
 author: The Thirsty Pig
 source: instagram
@@ -10,14 +10,14 @@ images:
 - /images/posts/ig-2017-11-04-cheeseburger-and-fries-from-pretty-good-burger/17906768500051372.jpg
 - /images/posts/ig-2017-11-04-cheeseburger-and-fries-from-pretty-good-burger/17893782352098373.jpg
 tags:
-- imho
-- thirstypig
+- american
 - burgers
-- cheeseburger
 - fries
-- shotoniphone
 description: Cheeseburger and fries from pretty good burger. Fries were a bit dry - but that’s me being picky. I don’t know five guys doesn’t get much respect - all I hear is and And Sucks
 location: Cheeseburger and fries from  pretty good burger
+categories: []
+cuisine:
+- American
 ---
 
 ![Cheeseburger and fries from pretty good burger](/images/posts/ig-2017-11-04-cheeseburger-and-fries-from-pretty-good-burger/17906689483029357.jpg)

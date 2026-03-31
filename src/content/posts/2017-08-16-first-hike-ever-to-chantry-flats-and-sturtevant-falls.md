@@ -1,5 +1,5 @@
 ---
-title: 'First hike ever to Chantry Flats and Sturtevant Falls,...'
+title: First hike ever to Chantry Flats and Sturtevant Falls,...
 pubDate: '2017-08-16'
 author: The Thirsty Pig
 source: instagram
@@ -15,17 +15,12 @@ images:
 - /images/posts/ig-2017-08-16-first-hike-ever-to-chantry-flats-and-sturtevant-falls/17895191920056360.jpg
 - /images/posts/ig-2017-08-16-first-hike-ever-to-chantry-flats-and-sturtevant-falls/17895583675018665.jpg
 tags:
-- chantryflats
-- sturtevantfalls
 - arcadia
-- hiking
-- hermitfalls
 description: First hike ever to Chantry Flats and Sturtevant Falls. Lived nearby for years and have never visited the famous falls. A bit sore. big thanks to and . Next time we go to and jump off the cliff
 city: Arcadia
 region: San Gabriel Valley
-categories:
-- Arcadia
-- San Gabriel Valley
+categories: []
+cuisine: []
 ---
 
 ![First hike ever to Chantry Flats and Sturtevant Falls](/images/posts/ig-2017-08-16-first-hike-ever-to-chantry-flats-and-sturtevant-falls/17882288980103697.jpg)

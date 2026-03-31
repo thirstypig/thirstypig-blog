@@ -1,15 +1,15 @@
 ---
-title: Di Shui Dong 滴水洞 Shanghai
+title: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店), Shanghai
 pubDate: '2010-12-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/
-categories:
-- Los Angeles
-- Shanghai
+categories: []
 tags:
-- Hunan
-- Spicy
+- shanghai
+- chinese
+- steamed-fish
+- hunan
 description: When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell pepper
 archiveUrl: https://web.archive.org/web/20161019091739/http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine:
+- Chinese
 ---
 
 

@@ -11,15 +11,11 @@ images:
 - /images/posts/ig-2021-02-15-made-a-simple-cheese-pizza-in-a-cast-iron-pan/17944784461437372.jpg
 tags:
 - pizza
-- castironpan
-- castironpizza
-- homemade
-- eeeeeats
-- eats
-- mozzarella
-- thirstypig
-description: 'Made a simple cheese pizza in a cast iron pan. Listen for the sizzle of the cheese. Had to wait a little more for the dough to rise in the pan. Check out the bottom of the pizza - crispy and not burnt. Also see the nice crusty cheese bits on the edges. Really yummy pizza. recipe . . . . .'
+- cast-iron
+description: Made a simple cheese pizza in a cast iron pan. Listen for the sizzle of the cheese. Had to wait a little more for the dough to rise in the pan. Check out the bottom of the pizza - crispy and not burnt. Also see the nice crusty cheese bits on the edges. Really yummy pizza. recipe . . . . .
 location: Made a simple cheese pizza in a cast iron pan
+categories: []
+cuisine: []
 ---
 
 ![Made a simple cheese pizza in a cast iron pan](/images/posts/ig-2021-02-15-made-a-simple-cheese-pizza-in-a-cast-iron-pan/17860835948426312.jpg)

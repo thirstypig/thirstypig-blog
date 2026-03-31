@@ -1,5 +1,5 @@
 ---
-title: 'Umami Burger the 5th Taste Sensation!, Los Angeles'
+title: TASTE Food Hall, Los Angeles
 pubDate: '2009-08-18'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,9 +11,7 @@ images:
 - /images/posts/umami-burger-the-5th-taste-sensation/P1000049.JPG
 - /images/posts/umami-burger-the-5th-taste-sensation/P1000050.JPG
 - /images/posts/umami-burger-the-5th-taste-sensation/P1000052.JPG
-categories:
-- Uncategorized
-- Los Angeles
+categories: []
 description: I first heard about Umami from from Good Food from KCRW. Almost anything that Evan Kleiman and Jonathan Gold says, I would almost want to try. In addition, I admit i was intrigued with the idea of any
 archiveUrl: https://web.archive.org/web/20110106001852/http://www.thethirstypig.com/2009/08/18/umami-burger-the-5th-taste-sensation/
 draft: false
@@ -23,6 +21,13 @@ address: 735 S Figueroa St (btwn W 7th & W 8th St), Los Angeles, CA 90017
 coordinates:
   lat: 34.048767
   lng: -118.260963
+tags:
+- los-angeles
+- fusion
+- burgers
+- umami
+cuisine:
+- Fusion
 ---
 
 I first heard about Umami from from Good Food from KCRW. Almost anything that Evan Kleiman and Jonathan Gold says, I would almost want to try. In addition, I admit I was intrigued with the idea of anything remotely Japanese and with Burgers (though I am not suppose to eat too much red meat – more on that later).

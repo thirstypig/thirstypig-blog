@@ -1,5 +1,5 @@
 ---
-title: 'You know I had to have some BBQ, Victoria'
+title: Top Grill Restaurante, Victoria
 pubDate: '2025-05-10'
 author: The Thirsty Pig
 source: instagram
@@ -12,16 +12,7 @@ images:
 - /images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/18075463897868043.jpg
 - /images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17900970771071853.jpg
 tags:
-- bbq
-- barbecue
-- barbeque
 - victoria
-- victoriabc
-- canada
-- victoriaeats
-- thirstypig
-- tastemakers
-- tastemakersapp
 description: You know I had to have some BBQ . . . While I was in the Pacific Northwest, visiting an old classmate, I was tasked to choose a cuisine/restaurant. So I picked BBQ and found Jones BBQ in Victoria, BC.
 location: Top Grill Restaurante
 city: Victoria
@@ -30,6 +21,7 @@ address: R. Barão de Monjardim, 218, Vitória, ES, 29010-390
 coordinates:
   lat: -20.318509
   lng: -40.328898
+categories: []
 ---
 
 ![You know I had to have some BBQ](/images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17934944709010233.jpg)

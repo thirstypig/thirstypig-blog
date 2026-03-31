@@ -1,17 +1,18 @@
 ---
-title: Huangshan’s Old Street 黃山老街
+title: Huangshan's Old Street, Huangshan
 pubDate: '2011-10-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/06/huangshans-old-street-%e9%bb%83%e5%b1%b1%e8%80%81%e8%a1%97/
-categories:
-- Huangshan
+categories: []
 tags:
-- Market
+- huangshan
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161105020926/http://thirstypig.com/2011/10/06/huangshans-old-street-%e9%bb%83%e5%b1%b1%e8%80%81%e8%a1%97/
 draft: false
 location: Huangshan’s Old Street 黃山老街
+city: Huangshan
+cuisine: []
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Upcoming Food & Wine Event – Plate by Plate, August 1st,...'
+title: Upcoming Food & Wine Event – Plate by Plate, August 1st,...
 pubDate: '2009-07-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -12,16 +12,17 @@ images:
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/post+1.1.jpg
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/post+1.jpg
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/wine5.jpg
-categories:
-- Food/Wine Event
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- wine-event
+- multi-cuisine
 description: Going on 7 years now, Project By Project is one of the Los Angeles’s highlight food and wine events. Personally, I’ve been to 2 of their past events. This pleasant event features some of the better re
 archiveUrl: https://web.archive.org/web/20111103140443/http://www.thethirstypig.com/2009/07/24/upcoming-food-wine-event-plate-by-plate-august-1st-2009/
 draft: false
 city: Los Angeles
 address: 700 State Dr
+cuisine: []
 ---
 
 Going on 7 years now, Project By Project is one of the Los Angeles’s highlight food and wine events. Personally, I’ve been to 2 of their past events. This pleasant event features some of the better restaurants and wines, around.

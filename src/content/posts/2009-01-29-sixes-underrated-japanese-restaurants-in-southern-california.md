@@ -1,30 +1,21 @@
 ---
-title: 'Sixes, Los Angeles'
+title: Sixes, Los Angeles
 pubDate: '2009-01-29'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/29/sixes-underrated-japanese-restaurants-in-southern-california/
-categories:
-- South Bay
-- Sushi
-- West LA
-- San Fernando Valley
-- Japanese
-- Ramen
-- Sixes
-- Orange County
-- Underrated Japanese Restaurants in Southern California
+categories: []
 tags:
-- LA's San Fernando Valley
-- LA's South Bay
-- LA's Orange County
-- West LA
+- los-angeles
+- steak
+- sushi
 description: 1. The Steak Househttp://www.steakhousekobe.com/ – Kobe beef steaks. Omigosh, just take a look at the pictures on their site. 2. Ikko Japanese Restauranthttp://www.yelp.com/biz/ikko-japanese-restauran
 archiveUrl: https://web.archive.org/web/20110105203059/http://www.thethirstypig.com/2009/01/29/sixes-underrated-japanese-restaurants-in-southern-california/
 draft: false
 location: Sixes
 city: Los Angeles
 region: Los Angeles
+cuisine: []
 ---
 
 1. [The Steak House](http://www.steakhousekobe.com/) – Kobe beef steaks. Omigosh, just take a look at the pictures on their site.

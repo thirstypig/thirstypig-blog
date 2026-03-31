@@ -7,12 +7,13 @@ originalUrl: http://www.thethirstypig.com/2009/10/08/icelandic-glacial-water/
 heroImage: /images/posts/icelandic-glacial-water/icelandic_logo.jpg
 images:
 - /images/posts/icelandic-glacial-water/icelandic_logo.jpg
-categories:
-- Cocktail
+categories: []
 description: I haven’t written much about drinks or things that cure my thirst, lately, but here’s one that I wanted to talk about. Icelandic Glacial Water, the bottled water sponsor for Project by Project’s Plate
 archiveUrl: https://web.archive.org/web/20110105210119/http://www.thethirstypig.com/2009/10/08/icelandic-glacial-water/
 draft: false
 location: Icelandic Glacial Water
+tags: []
+cuisine: []
 ---
 
 I haven’t written much about drinks or things that cure my thirst, lately, but here’s one that I wanted to talk about. Icelandic Glacial Water, the bottled water sponsor for Project by Project’s Plate by Plate event, was featured at this year’s event.

@@ -1,5 +1,5 @@
 ---
-title: 'La Piedra - this rock has 700 steps, Medellin'
+title: Palacio De La Cultura Rafael Uribe Uribe, Medellin
 pubDate: '2023-09-04'
 author: The Thirsty Pig
 source: instagram
@@ -16,16 +16,11 @@ images:
 - /images/posts/ig-2023-09-04-la-piedra-this-rock-has-700-steps/18028195738610694.jpg
 tags:
 - medellin
-- colombia
-- guatape
-- lapiedra
-description: 'La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My legs and knees were not up for the task. Luckily my friends made the hike. Thanks to my buds for some of the shots. . . . . .'
+description: La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My legs and knees were not up for the task. Luckily my friends made the hike. Thanks to my buds for some of the shots. . . . . .
 location: Palacio De La Cultura Rafael Uribe Uribe
 city: Medellin
 region: Colombia
-categories:
-- Oc
-- Orange County
+categories: []
 address: 'Cra 51 # 52 - 03, Medellín, Antioquia'
 coordinates:
   lat: 6.251792

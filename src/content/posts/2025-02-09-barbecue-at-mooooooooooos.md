@@ -1,5 +1,5 @@
 ---
-title: 'Barbecue at Mooooooooooo’s, East LA'
+title: Moo's Craft Barbecue, East LA
 pubDate: '2025-02-09'
 author: The Thirsty Pig
 source: instagram
@@ -9,20 +9,12 @@ images:
 - /images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18032586851533949.jpg
 - /images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18045450842201595.jpg
 tags:
-- barbecue
-- barbeque
-- bbq
-- eastla
-- boyleheights
-- labbq
-- thirstypig
-- tastemakersapp
-- eats
-- eeeeeats
-description: 'I want to discuss the frito pie. Interestingly I grew up in Southern California and I had the frito pie when I playing little league. And it wasn’t called that back then. I knew it as pepper bellies - and some times it included beans. I would argue with some of my Midwest friends about this nomenclature about the correct name, which was a non-winning expenditure of mental effortness - which I regret. But after all these not having pepper bellies - it took me back to the good old days of little league. Makes me want to make some at home. . . .'
+- east-la
+description: I want to discuss the frito pie. Interestingly I grew up in Southern California and I had the frito pie when I playing little league. And it wasn’t called that back then. I knew it as pepper bellies - and some times it included beans. I would argue with some of my Midwest friends about this nomenclature about the correct name, which was a non-winning expenditure of mental effortness - which I regret. But after all these not having pepper bellies - it took me back to the good old days of little league. Makes me want to make some at home. . . .
 location: Moo's Craft Barbecue
 city: East LA
 region: Los Angeles
+categories: []
 ---
 
 ![Barbecue at Mooooooooooo’s](/images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18032586851533949.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'DOZO Izakaya ‧ Dining Bar, Taipei'
+title: DOZO, Taipei
 pubDate: '2009-02-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -32,11 +32,12 @@ images:
 - /images/posts/dozo-izakaya-dining-bar/6.jpg
 - /images/posts/dozo-izakaya-dining-bar/9.jpg
 - /images/posts/dozo-izakaya-dining-bar/未命名1.JPG
-categories:
-- Japanese
-- Taipei
+categories: []
 tags:
-- Taipei 台北
+- taipei
+- japanese
+- izakaya
+- cocktails
 description: DOZOhttp://www.dozo.com.tw/ is not an ordinary Japanese restaurant – mixed of izakaya dining bar, lounge bar with very creative Japanese cuisine. The price is not ordinarily cheap either…….that was wh
 archiveUrl: https://web.archive.org/web/20110105095125/http://www.thethirstypig.com/2009/02/24/dozo-izakaya-%e2%80%a7-dining-bar/
 draft: false
@@ -47,6 +48,8 @@ address: No. 53, Lane 160, Sec 1, Dunhua South Road, Da-an District,  106
 coordinates:
   lat: 25.043575
   lng: 121.546572
+cuisine:
+- Japanese
 ---
 
 [DOZO](http://www.dozo.com.tw/) is not an ordinary Japanese restaurant – mixed of izakaya (dining bar), lounge bar with very creative Japanese cuisine. The price is not ordinarily cheap either…….that was why every time I came here only for company events.

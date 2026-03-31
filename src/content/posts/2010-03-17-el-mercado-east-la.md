@@ -21,14 +21,12 @@ images:
 - /images/posts/el-mercado-east-la/IMG_0746.jpg
 - /images/posts/el-mercado-east-la/IMG_0747.jpg
 - /images/posts/el-mercado-east-la/IMG_0751.jpg
-categories:
-- 2 pigs
-- $
-- Mexican
-- Los Angeles
-- East LA
+categories: []
 tags:
-- Los Angeles
+- east-la
+- mexican
+- market
+- food-court
 description: This past weekend, I finally found time to go to El Mercado in East LA. Translated as the Market, this place is 3 floors of swap meet, food court, market, and restaurant all rolled into one.
 archiveUrl: https://web.archive.org/web/20110105092758/http://www.thethirstypig.com/2010/03/17/el-mercado-east-la/
 draft: false
@@ -38,6 +36,8 @@ address: 5287 W Pico Blvd (Dunsmuir), Los Angeles, CA 90019
 coordinates:
   lat: 34.0485
   lng: -118.353562
+cuisine:
+- Mexican
 ---
 
 El Mercado in East LA.

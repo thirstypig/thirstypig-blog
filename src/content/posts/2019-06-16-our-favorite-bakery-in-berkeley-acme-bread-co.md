@@ -1,5 +1,5 @@
 ---
-title: Our favorite bakery in Berkeley- Acme Bread Co
+title: Acme Bread Co, Berkeley
 pubDate: '2019-06-16'
 author: The Thirsty Pig
 source: instagram
@@ -15,13 +15,13 @@ images:
 - /images/posts/ig-2019-06-16-our-favorite-bakery-in-berkeley-acme-bread-co/17873790877390003.jpg
 tags:
 - bakery
-- berkeley
 - bread
-- croissantð
-- bayarea
-- yum
+- pastries
 description: Our favorite bakery in Berkeley- Acme Bread Co. . . . 🥐
 location: Our favorite bakery in Berkeley- Acme Bread Co
+categories: []
+cuisine:
+- Bakery
 ---
 
 ![Our favorite bakery in Berkeley- Acme Bread Co](/images/posts/ig-2019-06-16-our-favorite-bakery-in-berkeley-acme-bread-co/17979964378257578.jpg)

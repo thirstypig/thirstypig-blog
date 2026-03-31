@@ -4,14 +4,12 @@ pubDate: '2011-12-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/10/le-saleya-shanghai/
-categories:
-- Price Range 2 $/¥/NT
-- 2 pigs
-- Xuhui
-- French
-- Shanghai
+categories: []
 tags:
-- French
+- shanghai
+- french
+- brunch
+- cocktails
 description: Where Did the Thirsty Pig Go? We were looking for a French restaurant and I hate to say it. . . it looks as if I settled on Le Saleya. Unfortunately, I made the mistake of trying to find and make rese
 archiveUrl: https://web.archive.org/web/20161105154752/http://thirstypig.com/2011/12/10/le-saleya-shanghai/
 draft: false
@@ -22,6 +20,8 @@ address: 570 Changle Road, 上海市, 上海市, 200040
 coordinates:
   lat: 31.221573
   lng: 121.451128
+cuisine:
+- French
 ---
 
 

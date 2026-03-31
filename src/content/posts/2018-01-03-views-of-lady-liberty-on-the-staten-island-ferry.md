@@ -10,10 +10,10 @@ images:
 - /images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17875346479199485.jpg
 - /images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17890596901192103.jpg
 - /images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17876863903198895.jpg
-tags:
-- statueofliberty
-- statenislandferry
+tags: []
 description: Views of Lady Liberty on the Staten Island Ferry.
+categories: []
+cuisine: []
 ---
 
 ![Views of Lady Liberty on the Staten Island Ferry](/images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17857253083213309.jpg)

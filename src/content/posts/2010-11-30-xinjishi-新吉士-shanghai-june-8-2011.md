@@ -1,15 +1,15 @@
 ---
-title: Xinjishi 新吉士, Shanghai – June 8, 2011
+title: Xinjishi, Shanghai
 pubDate: '2010-11-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/
-categories:
-- Xuhui District
-- Shanghai
+categories: []
 tags:
-- Shanghai
-- Shanghainese
+- shanghai
+- chinese
+- traditional-chinese
+- fine-dining
 description: Xinjishi is the GO-TO place I often take guest from out of town. Though I would rather take them to original Jishi, the original, I know it is always crowded and tough to get reservations. Xinjishi, m
 archiveUrl: https://web.archive.org/web/20160914224709/http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/
 draft: false
@@ -20,6 +20,8 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine:
+- Chinese
 ---
 
 

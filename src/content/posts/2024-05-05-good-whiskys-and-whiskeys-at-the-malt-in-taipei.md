@@ -1,5 +1,5 @@
 ---
-title: Good whiskys and whiskeys at the Malt in Taipei
+title: Legacy Taipei, Taipei
 pubDate: '2024-05-05'
 author: The Thirsty Pig
 source: instagram
@@ -9,18 +9,12 @@ images:
 - /images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18432198358045193.jpg
 - /images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18057319195605585.jpg
 tags:
-- whisky
-- whiskey
 - taipei
-- whiskeysociety
-- peatywhisky
-- talisker
-description: 'Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have gotten more pics but I was feeling under the weather. . . .'
+description: Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have gotten more pics but I was feeling under the weather. . . .
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934

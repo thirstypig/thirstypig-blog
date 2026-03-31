@@ -1,5 +1,5 @@
 ---
-title: Tasty Dessert – The Secret Dessert Place!!
+title: Tasty Dessert, San Gabriel Valley
 pubDate: '2009-04-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,16 +9,20 @@ images:
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0486.JPG
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0487.JPG
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0488.JPG
-categories:
-- Chinese
-- Late Night
-- The Secret Dessert Place!!
+categories: []
 description: Mango Delight was its name. . .
 archiveUrl: https://web.archive.org/web/20110105163117/http://www.thethirstypig.com/2009/04/02/tasty-dessert-the-secret-dessert-place/
 draft: false
 location: Tasty Dessert
 city: San Gabriel Valley
 region: San Gabriel Valley
+tags:
+- sgv
+- dessert
+- mango-dessert
+- pudding
+cuisine:
+- Dessert
 ---
 
 Mango Delight was its name. . .

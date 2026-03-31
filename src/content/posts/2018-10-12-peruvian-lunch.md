@@ -15,16 +15,13 @@ images:
 - /images/posts/ig-2018-10-12-peruvian-lunch/17988084319029782.jpg
 - /images/posts/ig-2018-10-12-peruvian-lunch/17898465883255045.jpg
 tags:
-- peruvianfood
-- eeeeeats
-- thirstypig
-- lakeforest
-- oc
-- funfriday
-- medlheads
-- yorkie
+- peruvian
+- lunch
 description: Peruvian lunch. Wish the portions were larger. But after an hour we realized we were quite full from lunch. Say hello to Rose the yorkie. . . . . .
 location: Peruvian lunch
+categories: []
+cuisine:
+- Peruvian
 ---
 
 ![Peruvian lunch](/images/posts/ig-2018-10-12-peruvian-lunch/17896989988260234.jpg)

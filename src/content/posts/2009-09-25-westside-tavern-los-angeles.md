@@ -4,13 +4,12 @@ pubDate: '2009-09-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/
-categories:
-- Santa Monica
-- Los Angeles
-- Westside
+categories: []
 tags:
-- American
-- Burgers
+- los-angeles
+- american
+- cocktails
+- burgers
 description: I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylize
 archiveUrl: https://web.archive.org/web/20161105081112/http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/
 draft: false
@@ -18,6 +17,8 @@ location: Westside Tavern
 city: Los Angeles
 region: Westside
 address: 10850 W Pico Blvd Los Angeles, CA 90064
+cuisine:
+- American
 ---
 
 

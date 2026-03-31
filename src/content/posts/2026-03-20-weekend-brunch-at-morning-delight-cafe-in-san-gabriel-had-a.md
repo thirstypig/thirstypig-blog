@@ -1,10 +1,19 @@
 ---
-title: 'Weekend brunch at Morning Delight Cafe in San Gabriel had a couple...'
-pubDate: '2026-03-20'
+title: Morning Delight Cafe, San Gabriel
+pubDate: 2026-03-20 00:00:00+00:00
+description: Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfortunately the egg pancakes lacked egg - I think it was a small one too. The peanut butter toast barely had peanut butter. I really wanted to like this place but I don’t. I love a good Taiwanese egg pancake 蛋餅 I also like their concept. But at those prices and the execution - I can’t say I like it. The other couple of times I tried to go they ran out of food before they closed, which pissed me off. Anyways. I cannot recommend. And I will not return.
 author: The Thirsty Pig
-source: instagram
-draft: false
 heroImage: /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg
+categories: []
+tags:
+- san-gabriel
+location: Morning Delight Cafe
+city: San Gabriel
+region: San Gabriel Valley
+address: 120 N San Gabriel Blvd Ste H (Las Tunas), San Gabriel, CA 91775
+coordinates:
+  lat: 34.104214
+  lng: -118.090428
 images:
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17946793080137164.jpg
@@ -13,21 +22,8 @@ images:
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/18458257642098302.jpg
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17986314518794716.jpg
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17955829088940515.jpg
-tags:
-- shrinkflation
-- badexecution
-- donotgo
-description: 'Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfortunately the egg pancakes lacked egg - I think it was a small one too. The peanut butter toast barely had peanut butter. I really wanted to like this place but I don’t. I love a good Taiwanese egg pancake 蛋餅 I also like their concept. But at those prices and the execution - I can’t say I like it. The other couple of times I tried to go they ran out of food before they closed, which pissed me off. Anyways. I cannot recommend. And I will not return.'
-location: Morning Delight Cafe
-city: San Gabriel
-region: San Gabriel Valley
-categories:
-- San Gabriel
-- San Gabriel Valley
-address: 120 N San Gabriel Blvd Ste H (Las Tunas), San Gabriel, CA 91775
-coordinates:
-  lat: 34.104214
-  lng: -118.090428
+source: instagram
+draft: false
 ---
 
 ![Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the eg...](/images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg)

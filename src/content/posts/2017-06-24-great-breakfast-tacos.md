@@ -1,5 +1,5 @@
 ---
-title: 'Great Breakfast Tacos, Austin'
+title: Paco's Tacos, Austin
 pubDate: '2017-06-24'
 author: The Thirsty Pig
 source: instagram
@@ -12,12 +12,17 @@ images:
 - /images/posts/ig-2017-06-24-great-breakfast-tacos/17861665003147889.jpg
 - /images/posts/ig-2017-06-24-great-breakfast-tacos/17859672343172579.jpg
 tags:
+- austin
+- mexican
 - tacos
-- breakfasttacos
+- breakfast
 description: Great Breakfast Tacos
 location: Paco's Tacos
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Great Breakfast Tacos](/images/posts/ig-2017-06-24-great-breakfast-tacos/17861170288158702.jpg)

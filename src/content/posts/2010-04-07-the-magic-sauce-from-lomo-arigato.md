@@ -1,5 +1,5 @@
 ---
-title: The Magic Sauce from Lomo Arigato
+title: Lomo Arigato, Los Angeles
 pubDate: '2010-04-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -15,15 +15,14 @@ images:
 - /images/posts/the-magic-sauce-from-lomo-arigato/Lomo+Arigato+6+lomo+saltado+plate.jpg
 - /images/posts/the-magic-sauce-from-lomo-arigato/Lomo+Arigato+7+sauce.jpg
 - /images/posts/the-magic-sauce-from-lomo-arigato/pf-button.gif
-categories:
-- 1 pig
-- Peruvian
-- $
-- Food Truck
+categories: []
 description: Vote for the best food trucks at MobileCraving.comhttp://www.mobilecravings.com/bestlosangelesfoodtrucks/. And if you are interested in starting your own food truck, try these two resources Road Stove
 archiveUrl: https://web.archive.org/web/20100417225910/http://www.thethirstypig.com:80/2010/04/07/the-magic-sauce-from-lomo-arigato/
 draft: false
 location: The Magic Sauce from Lomo Arigato
+tags:
+- food-trucks
+cuisine: []
 ---
 
 Vote for the best food trucks at [MobileCraving.com](http://www.mobilecravings.com/bestlosangelesfoodtrucks/). And if you are interested in starting your own food truck, try these two resources [Road Stoves](http://roadstoves.com/) and [Mobi Munch](http://mobimunch.com/).

@@ -1,5 +1,5 @@
 ---
-title: "Freedmen's Bar, Austin"
+title: Freedmen's Bar, Austin
 pubDate: '2017-07-01'
 author: The Thirsty Pig
 source: instagram
@@ -14,12 +14,16 @@ images:
 - /images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17873404162121569.jpg
 - /images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17886587242063319.jpg
 tags:
-- tmbbqtop50
-- bourbon
+- austin
+- bbq
+- brisket
 description: Beef Brisket was good but the spicy sausage was even better. Pull pork and pork ribs were ok. I like the cabbage slaw and button mushrooms. Blantons was tasty
 location: Freedmen's Bar
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17861747095180115.jpg)

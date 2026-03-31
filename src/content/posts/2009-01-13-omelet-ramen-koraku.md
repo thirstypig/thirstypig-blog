@@ -1,5 +1,5 @@
 ---
-title: 'Omelet Ramen – Koraku, Little Tokyo'
+title: Shin-Sen-Gumi Hakata Ramen - Little Tokyo, Little Tokyo
 pubDate: '2009-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,15 +10,12 @@ images:
 - /images/posts/omelet-ramen-koraku/12242006548.jpg
 - /images/posts/omelet-ramen-koraku/12242006550.jpg
 - /images/posts/omelet-ramen-koraku/12242006553.jpg
-categories:
-- Japanese
-- Ramen
-- Little Tokyo
-- Late Night
-- Koraku
-- Downtown LA
+categories: []
 tags:
-- LA's Little Tokyo
+- little-tokyo
+- japanese
+- ramen
+- eggs
 description: The Tenshin Ramen at Koraku Ramen in Little Tokyo is not the best dish, nor is the tastiest dish. . . it is just my favorite. I have a secret craving for eggs. . .any type of eggs. Anyways. . .This is
 archiveUrl: https://web.archive.org/web/20110106024352/http://www.thethirstypig.com/2009/01/13/omelet-ramen-koraku/
 draft: false
@@ -29,6 +26,8 @@ address: 132 S Central Ave (btwn E 1st & E 2nd St), Los Angeles, CA 90012
 coordinates:
   lat: 34.048187
   lng: -118.239152
+cuisine:
+- Japanese
 ---
 
 The Tenshin Ramen at Koraku Ramen in Little Tokyo is not the best dish, nor is the tastiest dish. . . it is just my favorite. I have a secret craving for eggs. . .any type of eggs. Anyways. . .This is my favorite at Koraku. Usually, the egg (omelet) includes shrimp, but i usually ask without shrimp. This is a simple ramen dish, that I know I can’t go wrong with. With some white pepper, I am good to go. So, why order anything else?

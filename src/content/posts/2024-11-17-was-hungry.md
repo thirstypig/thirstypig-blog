@@ -1,5 +1,5 @@
 ---
-title: 'Was hungry, Venice'
+title: Beach Cities Car Wash & Detailing, Venice
 pubDate: '2024-11-17'
 author: The Thirsty Pig
 source: instagram
@@ -11,17 +11,8 @@ images:
 - /images/posts/ig-2024-11-17-was-hungry/17933163884954874.jpg
 - /images/posts/ig-2024-11-17-was-hungry/18072488950616296.jpg
 tags:
-- bbq
-- barbecue
 - venice
-- kcbsjudge
-- tastemakers
-- eats
-- eeeeeats
-- westla
-- saturday
-- usc
-description: 'Amazing meal. But we could only finish about a third. So much to bring home. Pro-tip- the bread under the meats is like GOLD. The bread acts like a sponge to soak all the juices and is soft and juicy. . . .'
+description: Amazing meal. But we could only finish about a third. So much to bring home. Pro-tip- the bread under the meats is like GOLD. The bread acts like a sponge to soak all the juices and is soft and juicy. . . .
 location: Beach Cities Car Wash & Detailing
 city: Venice
 region: Los Angeles
@@ -29,6 +20,7 @@ address: Lincoln Blvd, Los Angeles, CA 90291, Los Angeles, CA 90291
 coordinates:
   lat: 33.994154
   lng: -118.453538
+categories: []
 ---
 
 ![Was hungry](/images/posts/ig-2024-11-17-was-hungry/18073847905529359.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Starry Kitchen of Downtown Los Angeles
+title: Hermes Bitcoin ATM - Downtown Los Angeles, Los Angeles
 pubDate: '2010-07-19'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,14 +17,9 @@ images:
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2931-88x88.jpg
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2932-88x88.jpg
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2933-494x370.jpg
-categories:
-- 2 pigs
-- Chinese
-- Price Range $/¥/NT
-- Vietnamese
+categories: []
 tags:
-- Downtown LA
-- Los Angeles
+- los-angeles
 description: Seemly a Hollywood story, Starry Kitchen started its humble beginnings out of a small kitchen apartment. They had weekly dining events jam packed with friends and family. Soon, more friends of friends
 archiveUrl: https://web.archive.org/web/20110105184343/http://www.thethirstypig.com/2010/07/19/starry-kitchen-of-downtown-los-angeles/
 draft: false
@@ -35,6 +30,7 @@ address: 221 W 8th St, Los Angeles, CA 90014
 coordinates:
   lat: 34.043634
   lng: -118.254231
+cuisine: []
 ---
 
 Hermes Bitcoin ATM - Downtown Los Angeles in Los Angeles.

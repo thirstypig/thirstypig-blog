@@ -1,5 +1,5 @@
 ---
-title: 'Birria Burritos from Burritos La Palma, Los Angeles'
+title: Burritos La Palma, Los Angeles
 pubDate: '2021-02-07'
 author: The Thirsty Pig
 source: instagram
@@ -13,18 +13,17 @@ images:
 - /images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17929571014491065.jpg
 - /images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17924902558511081.jpg
 tags:
-- birria
-- burritos
+- los-angeles
 - mexican
-- superbowlsunday
-- beef
-- eeeeeats
-- eats
-- thirstypig
+- burritos
+- birria
 description: Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty! . . . . . . .
 location: Burritos La Palma
 city: Los Angeles
 region: Los Angeles
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17904603691723444.jpg)

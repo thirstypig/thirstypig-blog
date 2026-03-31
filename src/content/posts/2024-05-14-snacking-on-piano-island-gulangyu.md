@@ -15,17 +15,10 @@ images:
 - /images/posts/ig-2024-05-14-snacking-on-piano-island-gulangyu/18049711852655758.jpg
 - /images/posts/ig-2024-05-14-snacking-on-piano-island-gulangyu/18021588518329837.jpg
 - /images/posts/ig-2024-05-14-snacking-on-piano-island-gulangyu/18436054996021868.jpg
-tags:
-- xiamen
-- pianoisland
-- gulangyu
-- fujian
-- eats
-- eeeeeats
-description: 'I had a cool interaction with the chef of the little restaurant. I was going to buy a small bottle of gaoliang and I asked him to drink with me if I got it, for only 40 RMB. He looked tempted but he politely declined. Later we shared a cigarette and chatted about how his boss won’t then drink on the job and how he is friendly with everyone including foreigners, like me. I do get stares since I am a bit taller and bigger than most locals, especially now with a shaved head. But once you get a chance to chat with local purveyors everyone seems friendly. . . .'
+tags: []
+description: I had a cool interaction with the chef of the little restaurant. I was going to buy a small bottle of gaoliang and I asked him to drink with me if I got it, for only 40 RMB. He looked tempted but he politely declined. Later we shared a cigarette and chatted about how his boss won’t then drink on the job and how he is friendly with everyone including foreigners, like me. I do get stares since I am a bit taller and bigger than most locals, especially now with a shaved head. But once you get a chance to chat with local purveyors everyone seems friendly. . . .
 location: Snacking on piano island
-categories:
-- Gulangyu
+categories: []
 ---
 
 ![Snacking on piano island , Gulangyu](/images/posts/ig-2024-05-14-snacking-on-piano-island-gulangyu/18009612254455865.jpg)

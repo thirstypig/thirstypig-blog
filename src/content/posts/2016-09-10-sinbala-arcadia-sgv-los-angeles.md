@@ -1,5 +1,5 @@
 ---
-title: SinBaLa, Arcadia SGV Los Angeles
+title: SinBaLa, Arcadia
 pubDate: '2016-09-10'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,17 +7,12 @@ originalUrl: http://thirstypig.com/2016/09/10/sinbala-arcadia-sgv-los-angeles/
 heroImage: /images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg
 images:
 - /images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg
-categories:
-- Sgv
-- Arcadia
-- San Gabriel Valley
+categories: []
 tags:
-- Chicken
-- Dessert
-- Los Angeles
-- Rice
-- Sausage
-- Taiwanese
+- arcadia
+- taiwanese
+- chicken-rice
+- taiwanese-sausage
 description: Great Taiwanese Food Underrated Chicken Rice Known for Taiwanese Sausage, you can even buy the Sausage Packaged to go Chicken Roll – not so great Don’t forget the Taiwanese Shaved Ice desserts
 archiveUrl: https://web.archive.org/web/20160910222854/http://thirstypig.com/2016/09/10/sinbala-arcadia-sgv-los-angeles/
 draft: false
@@ -25,6 +20,8 @@ location: SinBaLa
 city: Arcadia
 region: San Gabriel Valley
 address: 651 W Duarte Rd St
+cuisine:
+- Taiwanese
 ---
 
 [![IMG_0495](/images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg "IMG_0495")](http://thirstypig.com/2016/09/10/sinbala-arcadia-sgv-los-angeles/img_0495-2/)

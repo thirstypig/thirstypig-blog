@@ -4,10 +4,12 @@ pubDate: '2009-08-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
-categories:
-- Pasadena
+categories: []
 tags:
-- Burgers
+- pasadena
+- american
+- tavern-fare
+- casual-dining
 description: Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt
 archiveUrl: https://web.archive.org/web/20161106043500/http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
 draft: false
@@ -15,6 +17,8 @@ location: Green Street Tavern
 city: Pasadena
 region: Pasadena
 address: 69 W Green St Pasadena, CA 91105
+cuisine:
+- American
 ---
 
 

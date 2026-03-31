@@ -1,22 +1,23 @@
 ---
-title: Wexler’s, DTLA
+title: Wexler’s, Dtla
 pubDate: '2015-05-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/05/28/wexlers-dtla/
-categories:
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Deli
-- Los Angeles
-- Sandwich
+- dtla
+- american
+- pastrami
+- bagels
 description: Come for the Pastrami, stay for the lox & bagels Has a great Instagram Feedhttps://www.instagram.com/wexlersdeli Suggest you just parking the structure next door for Wexler’s and the other shops at Gr
 archiveUrl: https://web.archive.org/web/20160829101227/http://thirstypig.com/2015/05/28/wexlers-dtla/
 draft: false
 location: Wexler’s
 city: Dtla
 region: Downtown LA
+cuisine:
+- American
 ---
 
 

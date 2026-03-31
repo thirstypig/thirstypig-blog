@@ -1,17 +1,15 @@
 ---
-title: Romankan Yokohama 浪漫館横浜, Breeze Center, Taipei (closed)
+title: Romankan, Taipei
 pubDate: '2010-05-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/
-categories:
-- Songshan
-- Taipei
+categories: []
 tags:
-- Japanese
-- Pork
-- Sandwich
-- closed
+- taipei
+- japanese
+- katsu-sandwich
+- fried-pork
 description: 'Romankan makes a type of sandwich that features a specific type of filling that is quite popular. This Japanese style sandwich is packed with a fried pork cutlet, or chicken one. That’s all you need, '
 archiveUrl: https://web.archive.org/web/20161105085753/http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/
 draft: false
@@ -22,6 +20,8 @@ address: No3 Yijiang Street, 台北市
 coordinates:
   lat: 25.050956
   lng: 121.531528
+cuisine:
+- Japanese
 ---
 
 

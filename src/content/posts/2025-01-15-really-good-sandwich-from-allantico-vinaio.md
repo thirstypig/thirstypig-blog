@@ -1,5 +1,5 @@
 ---
-title: "Really good sandwich from All'Antico Vinaio, Pasadena"
+title: All'Antico Vinaio, Pasadena
 pubDate: '2025-01-15'
 author: The Thirsty Pig
 source: instagram
@@ -12,21 +12,12 @@ images:
 - /images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/17904974348998573.jpg
 - /images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18020520815403650.jpg
 tags:
-- koreatown
-- losangeles
-- sandwich
-- mortadella
-- pistachio
-- eats
-- eeeeats
-- thirstypig
-- tastemakersapp
+- pasadena
 description: 'Really good sandwich from All''Antico Vinaio. This was the La Paradiso with Mortadella, stracciatella, pistachio cream, pistachio. This was their most popular sandwich. I first found and heard of this '
 location: All'Antico Vinaio
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 ---
 
 ![Really good sandwich from All'Antico Vinaio](/images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18049905596141367.jpg)

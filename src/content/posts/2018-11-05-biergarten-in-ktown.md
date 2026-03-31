@@ -1,5 +1,5 @@
 ---
-title: 'Biergarten in Ktown, Koreatown'
+title: Electric Dusk Drive-In, Koreatown
 pubDate: '2018-11-05'
 author: The Thirsty Pig
 source: instagram
@@ -11,12 +11,11 @@ images:
 - /images/posts/ig-2018-11-05-biergarten-in-ktown/17982286888100852.jpg
 - /images/posts/ig-2018-11-05-biergarten-in-ktown/17997737989045281.jpg
 tags:
-- ivorysully
-- eeeeeats
-- food
-- ktown
-- nfl
-description: 'Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice to watch football games. Not too crowded and not empty. Former Ram - Ivory Sully and a couple of Rams Cheerleaders helped make the game a little more interesting. . . . .'
+- koreatown
+- korean
+- fried-chicken
+- cocktails
+description: Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice to watch football games. Not too crowded and not empty. Former Ram - Ivory Sully and a couple of Rams Cheerleaders helped make the game a little more interesting. . . . .
 location: Electric Dusk Drive-In
 city: Koreatown
 region: Los Angeles
@@ -24,6 +23,9 @@ address: 1000 San Julian St (11th St), Los Angeles, CA 90015
 coordinates:
   lat: 34.036526
   lng: -118.252402
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Biergarten in Ktown](/images/posts/ig-2018-11-05-biergarten-in-ktown/17996466097051283.jpg)

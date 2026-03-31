@@ -1,16 +1,15 @@
 ---
-title: Cook’s Tortas, MPK
+title: Cook's Tortas, Mpk
 pubDate: '2010-08-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/19/cooks-tortas-mpk/
-categories:
-- SGV
-- Mpk
-- San Gabriel Valley
+categories: []
 tags:
-- Mexican
-- Sandwich
+- mpk
+- mexican
+- tortas
+- sandwiches
 description: 'Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over '
 archiveUrl: https://web.archive.org/web/20161018013813/http://thirstypig.com/2010/08/19/cooks-tortas-mpk/
 draft: false
@@ -18,6 +17,8 @@ location: Cook’s Tortas
 city: Mpk
 region: San Gabriel Valley
 address: 1944 South Atlantic Boulevard, Monterey Park, CA 91754
+cuisine:
+- Mexican
 ---
 
 

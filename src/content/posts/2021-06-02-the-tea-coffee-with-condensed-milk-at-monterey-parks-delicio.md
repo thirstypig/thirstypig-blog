@@ -1,5 +1,5 @@
 ---
-title: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner
+title: Monterey Parks Delicious Food Corner, Monterey Park
 pubDate: '2021-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -8,14 +8,10 @@ heroImage: /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-mon
 images:
 - /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
 tags:
-- mpk
+- monterey-park
+- vietnamese
 - coffee
 - tea
-- condensedmilk
-- hongkongcuisine
-- eeeeeats
-- eats
-- thirstypig
 description: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner. This is tea and coffee not just tea not just coffee. It is a combo. I dig the details on the spoon. . . . . . .
 location: Monterey Park Bruggemeyer Library
 city: Monterey Park
@@ -24,6 +20,9 @@ address: 318 S Ramona Ave (at Newmark Ave), Monterey Park, CA 91754
 coordinates:
   lat: 34.059099
   lng: -118.124781
+categories: []
+cuisine:
+- Vietnamese
 ---
 
 ![The tea coffee with condensed milk at Monterey Parks Delicious Food Corner](/images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg)

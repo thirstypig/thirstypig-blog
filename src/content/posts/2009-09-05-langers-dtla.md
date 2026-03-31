@@ -1,15 +1,15 @@
 ---
-title: Langer’s, DTLA
+title: Langer’s, Dtla
 pubDate: '2009-09-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/05/langers-dtla/
-categories:
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Los Angeles
-- Sandwich
+- dtla
+- american
+- pastrami
+- sandwiches
 description: I was at Langer’s recently and I wanted to rant and rave about their pastrami – again
 archiveUrl: https://web.archive.org/web/20160828021813/http://thirstypig.com/2009/09/05/langers-dtla/
 draft: false
@@ -17,6 +17,8 @@ location: Langer’s
 city: Dtla
 region: Downtown LA
 address: 704 S Alvarado St Los Angeles, CA 90057
+cuisine:
+- American
 ---
 
 

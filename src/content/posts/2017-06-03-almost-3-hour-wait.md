@@ -1,5 +1,5 @@
 ---
-title: 'almost 3 hour wait, Austin'
+title: Snow's BBQ, Austin
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -17,13 +17,9 @@ images:
 - /images/posts/ig-2017-06-03-almost-3-hour-wait/17857953550177628.jpg
 - /images/posts/ig-2017-06-03-almost-3-hour-wait/17882562112034428.jpg
 tags:
-- '1'
+- austin
 - bbq
-- snowsbbq
-- texasmonthly
-- yeti
-- txbbqpassport
-- tmbbqtop50
+- brisket
 description: almost 3 hour wait. Texas Monthly BBQ 2017!!! Had the most amazing and tender and moist (fatty) pork shoulder steak. Brisket was wonderful. Pork ribs was so-so. Jalapeño Sausage was outstanding
 location: Snow's BBQ
 city: Austin
@@ -32,6 +28,9 @@ address: 516 S Main St, Lexington, TX 78947
 coordinates:
   lat: 30.412832
   lng: -97.006649
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![almost 3 hour wait](/images/posts/ig-2017-06-03-almost-3-hour-wait/17857250989171739.jpg)

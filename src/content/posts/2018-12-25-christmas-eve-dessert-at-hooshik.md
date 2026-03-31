@@ -1,5 +1,5 @@
 ---
-title: 'Christmas Eve Dessert at hooshik, San Gabriel'
+title: Hooshik, San Gabriel
 pubDate: '2018-12-25'
 author: The Thirsty Pig
 source: instagram
@@ -8,20 +8,16 @@ heroImage: /images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353
 images:
 - /images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353235249795.jpg
 tags:
-- koreandessert
-- thirstypig
-- christmaseve
-- shavedice
-- redbean
-- condensedmilk
-- blacksesame
-- montereypark
-- sgv
-- yummy
+- san-gabriel
+- korean
+- dessert
 description: Christmas Eve Dessert at hooshik. Seems like more and more cool Korean foods are coming to SGV . . .
 location: Hooshik
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Christmas Eve Dessert at hooshik](/images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353235249795.jpg)

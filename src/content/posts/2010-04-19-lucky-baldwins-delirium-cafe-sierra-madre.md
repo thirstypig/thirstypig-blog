@@ -4,14 +4,12 @@ pubDate: '2010-04-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/
-categories:
-- SGV
-- Sierra Madre
-- San Gabriel Valley
+categories: []
 tags:
-- Bar
-- English
-- Sports Bar
+- sierra-madre
+- british
+- fish-and-chips
+- meat-pies
 description: Lucky Baldwin is an English Pub with fare found from the other side of the pond. You’ll find Bangers & Mash, Traditional Meat Pies, and Fish & Chips.
 archiveUrl: https://web.archive.org/web/20161106113707/http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/
 draft: false
@@ -19,6 +17,8 @@ location: Lucky Baldwin’s Delirium Cafe
 city: Sierra Madre
 region: San Gabriel Valley
 address: 21 Kersting Ct Sierra Madre, CA 91024
+cuisine:
+- British
 ---
 
 

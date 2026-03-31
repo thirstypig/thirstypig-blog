@@ -1,5 +1,5 @@
 ---
-title: 'Night+Market, Hollywood'
+title: Night + Market, Hollywood
 pubDate: '2021-06-14'
 author: The Thirsty Pig
 source: instagram
@@ -14,26 +14,21 @@ images:
 - /images/posts/ig-2021-06-14-nightmarket/18080695642273030.jpg
 - /images/posts/ig-2021-06-14-nightmarket/17902354930995663.jpg
 tags:
-- thaifood
 - hollywood
-- papayasalad
-- ricenoodles
-- drinks
-- eeeeeats
-- eats
-- spicychickensandwich
-- nightmarketsong
-- thirstypig
-description: 'Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the way too spicy and ass-fire papaya salad. And the rice noodle which I almost single handed finished since the papaya salad killed me. Luckily I had my drink, which I forgot the name, that helped numb everything down because of the spiciness. . . . . .'
+- thai
+- spicy-chicken-sandwich
+- papaya-salad
+description: Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the way too spicy and ass-fire papaya salad. And the rice noodle which I almost single handed finished since the papaya salad killed me. Luckily I had my drink, which I forgot the name, that helped numb everything down because of the spiciness. . . . . .
 location: Night + Market
 city: Hollywood
 region: Hollywood
-categories:
-- Hollywood
+categories: []
 address: 9043 W Sunset Blvd (at N Doheny Dr), West Hollywood, CA 90069
 coordinates:
   lat: 34.090705
   lng: -118.389126
+cuisine:
+- Thai
 ---
 
 ![Night+Market](/images/posts/ig-2021-06-14-nightmarket/17891205173108412.jpg)

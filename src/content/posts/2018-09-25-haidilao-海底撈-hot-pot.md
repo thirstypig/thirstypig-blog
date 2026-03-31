@@ -1,5 +1,5 @@
 ---
-title: Haidilao 海底撈 hot pot
+title: Haidilao 海底撈, Unknown
 pubDate: '2018-09-25'
 author: The Thirsty Pig
 source: instagram
@@ -11,13 +11,14 @@ images:
 - /images/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17968487065103241.jpg
 - /images/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17909479186229152.jpg
 tags:
-- eeeeeats
-- thirstypig
-- hotpot
-- haidilao
+- chinese
+- hot-pot
 - noodles
 description: Haidilao 海底撈 hot pot! With the famous noodle dance performance. Happy moon festival 🌙 . . . . .
 location: Haidilao 海底撈 hot pot
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Haidilao 海底撈 hot pot](/images/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17981502436060971.jpg)

@@ -1,22 +1,22 @@
 ---
-title: Mac & Cheeza, DTLA (Closed)
+title: Mac & Cheeza, Dtla
 pubDate: '2010-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Cheese
-- closed
+- dtla
+- american
+- mac-and-cheese
 description: I’ve been dying to try Mac & Cheeza ever since they had their soft opening during Downtown LA’s Artwalk in February. Stalkingly, I have passed by their little shop about 3 times in the last 30 days or
 archiveUrl: https://web.archive.org/web/20161105003610/http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/
 draft: false
 location: Mac & Cheeza
 city: Dtla
 region: Downtown LA
+cuisine:
+- American
 ---
 
 

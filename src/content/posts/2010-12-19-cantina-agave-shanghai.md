@@ -4,12 +4,11 @@ pubDate: '2010-12-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/19/cantina-agave-shanghai/
-categories:
-- Jingan District
-- Shanghai
+categories: []
 tags:
-- Mexican
-- Shanghai
+- shanghai
+- mexican
+- tex-mex
 description: I try to avoid certain ethnic cuisines while in Asia, Mexican being one of them. I have tried for years to try to accept Mexican foods in Taiwan, Hong Kong, and now Shanghai. Both in Taiwan and Hong K
 archiveUrl: https://web.archive.org/web/20160914223841/http://thirstypig.com/2010/12/19/cantina-agave-shanghai/
 draft: false
@@ -20,6 +19,8 @@ address: 291 Fumin Rd. (Changle Rd.), Xuhui, 上海市
 coordinates:
   lat: 31.219173
   lng: 121.447693
+cuisine:
+- Mexican
 ---
 
 

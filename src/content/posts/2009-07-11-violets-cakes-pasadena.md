@@ -1,5 +1,5 @@
 ---
-title: Violet’s Cakes, Pasadena
+title: The Dog Bakery - Fresh Baked Treats & Dog Birthday Cakes, Pasadena
 pubDate: '2009-07-11'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,13 +9,12 @@ images:
 - /images/posts/violets-cakes-pasadena/IMG_0655.jpg
 - /images/posts/violets-cakes-pasadena/IMG_0657.jpg
 - /images/posts/violets-cakes-pasadena/IMG_0661.jpg
-categories:
-- San Gabriel Valley
-- Cupcakes
-- Dessert
-- Pasadena
+categories: []
 tags:
-- LA's San Gabriel Valley
+- pasadena
+- bakery
+- cupcakes
+- cakes
 description: Everyone knows about DOT’s in Pasadena. . . . but not everyone knows about Violet’s. Violet’s is hidden behind the hustle and bustle of Old Town Pasadena. I recently went there after lunch to try some
 archiveUrl: https://web.archive.org/web/20110106011115/http://www.thethirstypig.com/2009/07/11/violets-cakes-pasadena/
 draft: false
@@ -26,6 +25,8 @@ address: 36 W Colorado Blvd (at Mills Place Alley), Pasadena, CA 91105
 coordinates:
   lat: 34.145429
   lng: -118.151154
+cuisine:
+- Bakery
 ---
 
 Everyone knows about DOT’s in Pasadena. . . . but not everyone knows about Violet’s. Violet’s is hidden behind the hustle and bustle of Old Town Pasadena. I recently went there after lunch to try some cupcakes.

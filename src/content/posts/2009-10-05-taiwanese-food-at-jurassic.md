@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese Food at Jurassic, Taipei'
+title: Shin Yeh Taiwanese Cuisine (欣葉), Taipei
 pubDate: '2009-10-05'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -12,14 +12,11 @@ images:
 - /images/posts/taiwanese-food-at-jurassic/DSCN0029.JPG
 - /images/posts/taiwanese-food-at-jurassic/DSCN0034.JPG
 - /images/posts/taiwanese-food-at-jurassic/DSCN0040.JPG
-categories:
-- 1 pig
-- San Gabriel Valley
-- $
-- Taiwanese
-- Taipei
+categories: []
 tags:
-- LA's San Gabriel Valley
+- taipei
+- taiwanese
+- taiwanese-cuisine
 description: In my series of reviewing Taiwanese cuisine, Jurassic Restaurant is my second of three. The other restaurants that I choose are Wan Heng and Old Country Cafe.
 archiveUrl: https://web.archive.org/web/20110106054905/http://www.thethirstypig.com/2009/10/05/taiwanese-food-at-jurassic/
 draft: false
@@ -30,6 +27,8 @@ address: 忠孝東路四段112號2樓, 台北市,  106
 coordinates:
   lat: 25.041346
   lng: 121.546908
+cuisine:
+- Taiwanese
 ---
 
 In my series of reviewing Taiwanese cuisine, Jurassic Restaurant is my second of three. The other restaurants that I choose are Wan Heng and Old Country Cafe.

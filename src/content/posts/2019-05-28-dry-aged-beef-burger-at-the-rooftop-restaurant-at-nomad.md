@@ -1,5 +1,5 @@
 ---
-title: 'Dry Aged Beef Burger at the rooftop restaurant at NoMad,...'
+title: NoMad, Downtown LA
 pubDate: '2019-05-28'
 author: The Thirsty Pig
 source: instagram
@@ -12,16 +12,16 @@ images:
 - /images/posts/ig-2019-05-28-dry-aged-beef-burger-at-the-rooftop-restaurant-at-nomad/18060951358079522.jpg
 - /images/posts/ig-2019-05-28-dry-aged-beef-burger-at-the-rooftop-restaurant-at-nomad/18036402541159664.jpg
 tags:
-- eeeeeats
-- eat
-- nomadhotel
 - dtla
-- lunch
-- burger
-- thirstypig
+- american
+- burgers
+- steak
 description: Dry Aged Beef Burger at the rooftop restaurant at NoMad. . . .
 city: Downtown LA
 region: Los Angeles
+categories: []
+cuisine:
+- American
 ---
 
 ![Dry Aged Beef Burger at the rooftop restaurant at NoMad](/images/posts/ig-2019-05-28-dry-aged-beef-burger-at-the-rooftop-restaurant-at-nomad/17868744421377606.jpg)

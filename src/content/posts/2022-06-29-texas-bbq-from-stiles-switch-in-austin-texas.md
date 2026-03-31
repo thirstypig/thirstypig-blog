@@ -1,5 +1,5 @@
 ---
-title: Texas BBQ from Stiles Switch in Austin Texas
+title: Stiles Switch BBQ & Brew, Austin
 pubDate: '2022-06-29'
 author: The Thirsty Pig
 source: instagram
@@ -16,16 +16,7 @@ images:
 - /images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17967455014671198.jpg
 tags:
 - austin
-- top50
-- texasmonthly
-- texasmonthlybbq
-- amokedbrisket
-- cater
-- deathwokclan
-- sausage
-- porkribs
-- macandcheese
-description: 'Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. They were ranked as one of the top 50 bbq joints in Texas. Fun weekend with some friends. . . . . . . .'
+description: Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. They were ranked as one of the top 50 bbq joints in Texas. Fun weekend with some friends. . . . . . . .
 location: Stiles Switch BBQ & Brew
 city: Austin
 region: Texas
@@ -33,6 +24,7 @@ address: 6610 N Lamar Blvd (at Brentwood St), Austin, TX 78752
 coordinates:
   lat: 30.334507
   lng: -97.721322
+categories: []
 ---
 
 ![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17946953639043815.jpg)

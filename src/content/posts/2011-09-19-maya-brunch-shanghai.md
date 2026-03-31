@@ -1,19 +1,14 @@
 ---
-title: Maya Brunch, Shanghai
+title: Maya Mexican Restaurant (玛雅), Shanghai
 pubDate: '2011-09-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/19/maya-brunch-shanghai/
-categories:
-- Price Range 2 $/¥/NT
-- Mexican
-- Xuhui
-- 3 pigs
-- Shanghai
+categories: []
 tags:
-- Brunch
-- Mexican
-- Breakfast
+- shanghai
+- mexican
+- brunch
 description: Miss F was craving something Mexican, as I was, so we ventured to Maya for Sunday brunch. She had heard that Maya was arguably the best Mexican restaurant in town. With that, it sounded like a challen
 archiveUrl: https://web.archive.org/web/20161106003225/http://thirstypig.com/2011/09/19/maya-brunch-shanghai/
 draft: false
@@ -24,6 +19,8 @@ address: 巨鹿路568号四方新城俱乐部2楼 (近襄阳北路), 上海市, 
 coordinates:
   lat: 31.224008
   lng: 121.450906
+cuisine:
+- Mexican
 ---
 
 

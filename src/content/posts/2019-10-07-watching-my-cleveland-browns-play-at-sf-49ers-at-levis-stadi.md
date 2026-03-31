@@ -16,21 +16,11 @@ images:
 - /images/posts/ig-2019-10-07-watching-my-cleveland-browns-play-at-sf-49ers-at-levis-stadi/17872341439472771.jpg
 - /images/posts/ig-2019-10-07-watching-my-cleveland-browns-play-at-sf-49ers-at-levis-stadi/17846599156666828.jpg
 - /images/posts/ig-2019-10-07-watching-my-cleveland-browns-play-at-sf-49ers-at-levis-stadi/17845703974675297.jpg
-tags:
-- bayarea
-- levisstadium
-- 49ers
-- clevelandbrowns
-- nachos
-- chicken
-- crabsandwich
-- nfl
-- football
-- stadium
+tags: []
 description: Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium. Too bad the Browns lost. Had a great time. Great seats. Awesome 49er crowd. . . . .
 location: Watching my Cleveland Browns play at SF 49ers
-categories:
-- at Levi’s Stadium
+categories: []
+cuisine: []
 ---
 
 ![Watching my Cleveland Browns play at SF 49ers, at Levi’s Stadium](/images/posts/ig-2019-10-07-watching-my-cleveland-browns-play-at-sf-49ers-at-levis-stadi/17856580954565171.jpg)

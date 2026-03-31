@@ -1,5 +1,5 @@
 ---
-title: Boiling Crab
+title: Boiling Crab, Unknown
 pubDate: '2009-03-10'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,16 +11,17 @@ images:
 - /images/posts/boiling-crab/IMG_0480.JPG
 - /images/posts/boiling-crab/IMG_0481.JPG
 - /images/posts/boiling-crab/IMG_0485.JPG
-categories:
-- San Gabriel Valley
-- Seafood
+categories: []
 tags:
-- Los Angeles
+- seafood
+- shellfish
 description: After hearing so many positive things about this place. . . I had to try it. My friends all rave about this place with its great Crustacean fare.
 archiveUrl: https://web.archive.org/web/20111103144001/http://www.thethirstypig.com/2009/03/10/boiling-crab/
 draft: false
 location: Boiling Crab
 region: San Gabriel Valley
+cuisine:
+- Seafood
 ---
 
 After hearing so many positive things about this place. . . I had to try it. My friends all rave about this place with its great Crustacean fare.

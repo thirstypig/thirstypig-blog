@@ -1,5 +1,5 @@
 ---
-title: 'Galbi Tang, San Gabriel Valley'
+title: Sun Nong Dan, San Gabriel Valley
 pubDate: '2018-02-19'
 author: The Thirsty Pig
 source: instagram
@@ -9,16 +9,17 @@ images:
 - /images/posts/ig-2018-02-19-galbi-tang/17927925121031855.jpg
 - /images/posts/ig-2018-02-19-galbi-tang/17865448705223222.jpg
 tags:
-- koreanfood
-- galbitang
-- beef
 - sgv
-- thirstypig
-- eeeeeats
+- korean
+- galbi-tang
+- beef
 description: Galbi Tang
 location: Sun Nong Dan
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Galbi Tang](/images/posts/ig-2018-02-19-galbi-tang/17927925121031855.jpg)

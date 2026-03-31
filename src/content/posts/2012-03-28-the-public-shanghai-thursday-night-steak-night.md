@@ -1,13 +1,10 @@
 ---
-title: The Public, Shanghai – Thursday Night = Steak Night
+title: The Public, Shanghai
 pubDate: '2012-03-28'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thursday-night-steak-night/
-categories:
-- American
-- Steak
-- Shanghai
+categories: []
 description: Every Thursday night…
 archiveUrl: https://web.archive.org/web/20130804043314/http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thursday-night-steak-night/
 draft: false
@@ -15,6 +12,13 @@ location: The Public
 city: Shanghai
 region: Shanghai
 address: 1 Kg Grain Fed Australian Tomahawk St
+tags:
+- shanghai
+- seafood
+- steak
+- roast
+cuisine:
+- Seafood
 ---
 
 **Every Thursday night…

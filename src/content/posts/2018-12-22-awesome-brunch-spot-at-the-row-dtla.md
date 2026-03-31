@@ -1,5 +1,5 @@
 ---
-title: 'Awesome brunch spot at the ROW DTLA, Downtown LA'
+title: Gallery Row, Downtown LA
 pubDate: '2018-12-22'
 author: The Thirsty Pig
 source: instagram
@@ -13,16 +13,10 @@ images:
 - /images/posts/ig-2018-12-22-awesome-brunch-spot-at-the-row-dtla/17990542258083612.jpg
 - /images/posts/ig-2018-12-22-awesome-brunch-spot-at-the-row-dtla/18013888147036839.jpg
 tags:
-- eeeeeats
 - dtla
-- thirstypig
-- bloodymary
-- eggsbenedict
-- lobster
+- seafood
 - brunch
-- biscuits
-- eggs
-- yummy
+- oysters
 description: Awesome brunch spot at the ROW DTLA. Rappahannock Oyster Bar - with lobster Benedict, shrimp and grits, and brioche French toast and yummy kimchi biscuits! . . .
 location: Gallery Row
 city: Downtown LA
@@ -31,6 +25,9 @@ address: 816 S Broadway LA, CA 90014 (Main & Spring btwn 2nd & 9th), Los Angeles
 coordinates:
   lat: 34.047812
   lng: -118.24971
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![Awesome brunch spot at the ROW DTLA](/images/posts/ig-2018-12-22-awesome-brunch-spot-at-the-row-dtla/17986863451136662.jpg)

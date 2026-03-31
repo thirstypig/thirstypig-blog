@@ -4,12 +4,12 @@ pubDate: '2009-09-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/17/marstons-pasadena/
-categories:
-- Pasadena
+categories: []
 tags:
-- Breakfast
-- Brunch
-- Los Angeles
+- pasadena
+- american
+- brunch
+- french-toast
 description: Famous for their Cornflake French Toast Parking lot is small and fills up fast One of the local favorite brunch and breakfast restaurants in the area Eggs Benedict is yummy Open only for Breakfast, Br
 archiveUrl: https://web.archive.org/web/20160828061938/http://thirstypig.com/2009/09/17/marstons-pasadena/
 draft: false
@@ -17,6 +17,8 @@ location: Marstons
 city: Pasadena
 region: Pasadena
 address: 151 E Walnut St. Pasadena, CA 91103
+cuisine:
+- American
 ---
 
 

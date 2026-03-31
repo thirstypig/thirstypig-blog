@@ -1,5 +1,5 @@
 ---
-title: 'Barbecue Day at Moo’s Craft Barbecue, East LA'
+title: Moo's Craft Barbecue, East LA
 pubDate: '2022-02-26'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,12 @@ images:
 - /images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/18183404923165197.jpg
 - /images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/17931416921026028.jpg
 tags:
-- mooscraftbarbecue
-- bbq
-- smokedbrisket
-- smokedmeat
-- eastla
-- texasbbq
-- pork
-- porkribs
-- pulledpork
-- barbecue
-description: 'Barbecue Day at Moo’s Craft Barbecue. Beef brisket, pork ribs, pulled pork, pork belly burnt ends, sides of corn, Mac and cheese, and slaw. Yummy. Too bad they were out of beef ribs. I heard that not a lot of people are ordering beef ribs. Heck, took beef ribs off the menu. Moo told me that it isn’t that popular. People just don’t know. Smoked Beef Ribs are king if they are done right. . . . . . . . .'
+- east-la
+description: Barbecue Day at Moo’s Craft Barbecue. Beef brisket, pork ribs, pulled pork, pork belly burnt ends, sides of corn, Mac and cheese, and slaw. Yummy. Too bad they were out of beef ribs. I heard that not a lot of people are ordering beef ribs. Heck, took beef ribs off the menu. Moo told me that it isn’t that popular. People just don’t know. Smoked Beef Ribs are king if they are done right. . . . . . . . .
 location: Moo's Craft Barbecue
 city: East LA
 region: Los Angeles
+categories: []
 ---
 
 ![Barbecue Day at Moo’s Craft Barbecue](/images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/17945603227815543.jpg)

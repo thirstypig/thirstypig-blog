@@ -1,5 +1,5 @@
 ---
-title: 'The hot Italian and Austin blues sausage, Downtown LA'
+title: Girl & The Goat, Downtown LA
 pubDate: '2017-10-24'
 author: The Thirsty Pig
 source: instagram
@@ -9,14 +9,10 @@ images:
 - /images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17881408327139443.jpg
 - /images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17863963387195930.jpg
 tags:
-- yummy
-- sausage
-- thirstypig
-- jtown
 - dtla
-- gododgers
-- ketchup
-- chipotle
+- american
+- sausage
+- fries
 description: The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce. DTLA favorite
 location: Girl & The Goat
 city: Downtown LA
@@ -25,6 +21,9 @@ address: 555 Mateo St, Los Angeles, CA 90013
 coordinates:
   lat: 34.040179
   lng: -118.233225
+categories: []
+cuisine:
+- American
 ---
 
 ![The hot Italian and Austin blues sausage](/images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17881408327139443.jpg)

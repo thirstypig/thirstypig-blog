@@ -1,5 +1,5 @@
 ---
-title: 'Old school Shabu Shabu at the OG, Tokyo'
+title: the 3rd Burger, Tokyo
 pubDate: '2018-01-14'
 author: The Thirsty Pig
 source: instagram
@@ -8,11 +8,10 @@ heroImage: /images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581
 images:
 - /images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581821025252.jpg
 tags:
-- shabushabu
-- japanesefiod
-- littletokyo
-- dtla
-- thirstypig
+- tokyo
+- japanese
+- hot-pot
+- shabu-shabu
 description: Old school Shabu Shabu at the OG. Open for 27 years
 location: the 3rd Burger
 city: Tokyo
@@ -21,6 +20,9 @@ address: 西新宿7-10-5 (ホテル イビス東京新宿1F), 新宿区, 東京�
 coordinates:
   lat: 35.693796
   lng: 139.698235
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Old school Shabu Shabu at the OG](/images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581821025252.jpg)

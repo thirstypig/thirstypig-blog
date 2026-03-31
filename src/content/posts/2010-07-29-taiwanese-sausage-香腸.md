@@ -1,19 +1,14 @@
 ---
-title: 'Taiwanese Sausage 香腸, Taipei'
+title: Shin Yeh Taiwanese Cuisine (欣葉), Taipei
 pubDate: '2010-07-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/
-categories:
-- Xinyi
-- Food Truck
-- Price Range $/¥/NT
-- 3 pigs
-- Late Night
-- Taipei
+categories: []
 tags:
-- Sausage
-- Taiwanese
+- taipei
+- taiwanese
+- sausage
 description: My last post, for awhile about Taiwan, ends with a short one about Taiwanese Sausage. At least one thing in Taiwan never changes and will always stay the same – Taiwanese Sausages香腸.
 archiveUrl: https://web.archive.org/web/20161105010728/http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/
 draft: false
@@ -24,6 +19,8 @@ address: 忠孝東路四段112號2樓, 台北市,  106
 coordinates:
   lat: 25.041346
   lng: 121.546908
+cuisine:
+- Taiwanese
 ---
 
 

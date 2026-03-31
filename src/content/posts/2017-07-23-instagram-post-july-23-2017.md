@@ -1,6 +1,6 @@
 ---
-title: 'Lostaquitosaz'
-description: 'Lostaquitosaz at Lostaquitosaz.'
+title: Lostaquitosaz, unknown
+description: Lostaquitosaz at Lostaquitosaz.
 pubDate: '2017-07-23'
 author: The Thirsty Pig
 source: instagram
@@ -14,8 +14,12 @@ images:
 - /images/posts/ig-2017-07-23-instagram-post-july-23-2017/17875736902086606.jpg
 - /images/posts/ig-2017-07-23-instagram-post-july-23-2017/17878899019108342.jpg
 tags:
-- mexicanfood
+- mexican
+- tacos
 location: Lostaquitosaz
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Instagram Post — July 23, 2017](/images/posts/ig-2017-07-23-instagram-post-july-23-2017/17864946964184121.jpg)

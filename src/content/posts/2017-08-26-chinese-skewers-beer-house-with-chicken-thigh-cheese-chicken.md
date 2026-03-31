@@ -1,5 +1,5 @@
 ---
-title: 'Chinese Skewers Beer House with chicken thigh, cheese & chicken,...'
+title: Chinese Skewers Beer House
 pubDate: '2017-08-26'
 author: The Thirsty Pig
 source: instagram
@@ -16,18 +16,13 @@ images:
 - /images/posts/ig-2017-08-26-chinese-skewers-beer-house-with-chicken-thigh-cheese-chicken/17873481640136829.jpg
 - /images/posts/ig-2017-08-26-chinese-skewers-beer-house-with-chicken-thigh-cheese-chicken/17872956187141126.jpg
 tags:
-- thebarn
-- chinesefood
-- beer
+- chinese
 - skewers
-- beef
-- lamb
-- eggplant
-- ricenoodles
-- thirstypig
-description: 'Chinese Skewers Beer House with chicken thigh, cheese & chicken, beef, lamb, quail eggs, sausage, eggplant, and spicy black rice noodles. Too bad they ran out of a lot of stuff. We will certainly be back.'
-categories:
-- '...'
+- noodles
+description: Chinese Skewers Beer House with chicken thigh, cheese & chicken, beef, lamb, quail eggs, sausage, eggplant, and spicy black rice noodles. Too bad they ran out of a lot of stuff. We will certainly be back.
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Chinese Skewers Beer House with chicken thigh, cheese & chicken, beef, lamb, ...](/images/posts/ig-2017-08-26-chinese-skewers-beer-house-with-chicken-thigh-cheese-chicken/17870757874184099.jpg)

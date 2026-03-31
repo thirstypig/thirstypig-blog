@@ -1,5 +1,5 @@
 ---
-title: 'Arts District Brewing Company, Downtown LA'
+title: Americano, Los Angeles
 pubDate: '2021-10-03'
 author: The Thirsty Pig
 source: instagram
@@ -11,15 +11,10 @@ images:
 - /images/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/18256280710034973.jpg
 - /images/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/17921171668840005.jpg
 tags:
-- artsdistrictla
 - dtla
-- thirstypig
+- american
 - brunch
-- chickenandwaffles
-- pulledpork
-- polenta
-- eats
-- eeeeeats
+- fried-chicken
 description: Sunday Brunch at Americano in the Art’s District. Pulled pork and polenta and fried chicken and waffles. And of course huge Bloody Mary. . . . . .
 location: Arts District Brewing Company
 city: Downtown LA
@@ -28,6 +23,9 @@ address: 828 Traction Ave (at Avery St), Los Angeles, CA 90013
 coordinates:
   lat: 34.044686
   lng: -118.235385
+categories: []
+cuisine:
+- American
 ---
 
 ![Sunday Brunch at Americano in the Art’s District](/images/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/17945791804559805.jpg)

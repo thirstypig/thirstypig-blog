@@ -1,5 +1,5 @@
 ---
-title: 'Steam Pork Soup Dumplings at Din Tai Fung, San Gabriel'
+title: Din Tai Fung, San Gabriel
 pubDate: '2019-08-26'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,17 @@ images:
 - /images/posts/ig-2019-08-26-steam-pork-soup-dumplings-at-din-tai-fung/18055425949167585.jpg
 - /images/posts/ig-2019-08-26-steam-pork-soup-dumplings-at-din-tai-fung/17908565488349950.jpg
 tags:
-- lunch
-- dimsum
-- xlb
-- å
-- ç
-- xiaolongbao
-- porkdumplings
-- soupdumplings
-- dtf
-- sgv
+- san-gabriel
+- taiwanese
+- dumplings
+- noodles
 description: Steam Pork Soup Dumplings at Din Tai Fung. 鼎泰豐的小籠包. Beef noodle soup 牛肉麵, vegetable dumplings 蔡包. Not a long wait if you go early. But still a wait. Shanghainese/Taiwanese Dim Sun lunch. . . . .
 location: Din Tai Fung
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Steam Pork Soup Dumplings at Din Tai Fung](/images/posts/ig-2019-08-26-steam-pork-soup-dumplings-at-din-tai-fung/18060599182183415.jpg)

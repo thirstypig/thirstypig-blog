@@ -1,5 +1,5 @@
 ---
-title: Yummy Rice 飯香 - Shanghainese cuisine in Rosemead
+title: Rolling Rice, Rosemead
 pubDate: '2017-10-30'
 author: The Thirsty Pig
 source: instagram
@@ -14,27 +14,21 @@ images:
 - /images/posts/ig-2017-10-30-yummy-rice-飯香-shanghainese-cuisine-in-rosemead/17848055077200225.jpg
 - /images/posts/ig-2017-10-30-yummy-rice-飯香-shanghainese-cuisine-in-rosemead/17905593844000445.jpg
 tags:
-- shanghainesefood
-- shanghainese
-- è
-- noodles
-- friedrice
-- chinesefood
 - rosemead
-- sgv
-- fish
-- ç
-description: 'Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving 蔥油拌麵 scallion oil noodles - so I coerced my family to have Shanghainese food tonight. Yummy Rice (yes it is a funny name) featured a staff all from Shanghai. The noodles were just ok - flavor was good but the noodles weren’t the ones I liked from shanghai. The 紅曬肉 Braised pork belly was very good. The luscious fat melted with eat chomp. The fried jelly fish and dark soy fish was ok. Didn’t care too much for it. The spicy frog legs was a favorite of my wife’s. The vegetable fried rice was a bit too oily, also. I am not sure I would return, due to the noodles. They have 小籠包 steam pork dumplings that I am tempted to try, next time.'
+- chinese
+- noodles
+- braised-pork
+description: Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving 蔥油拌麵 scallion oil noodles - so I coerced my family to have Shanghainese food tonight. Yummy Rice (yes it is a funny name) featured a staff all from Shanghai. The noodles were just ok - flavor was good but the noodles weren’t the ones I liked from shanghai. The 紅曬肉 Braised pork belly was very good. The luscious fat melted with eat chomp. The fried jelly fish and dark soy fish was ok. Didn’t care too much for it. The spicy frog legs was a favorite of my wife’s. The vegetable fried rice was a bit too oily, also. I am not sure I would return, due to the noodles. They have 小籠包 steam pork dumplings that I am tempted to try, next time.
 location: Rolling Rice
 city: Rosemead
 region: San Gabriel Valley
-categories:
-- Rosemead
-- San Gabriel Valley
+categories: []
 address: 3586 Rosemead Blvd (Marshall), Rosemead, CA 91770
 coordinates:
   lat: 34.074756
   lng: -118.07123
+cuisine:
+- Chinese
 ---
 
 ![Yummy Rice 飯香 - Shanghainese cuisine in Rosemead](/images/posts/ig-2017-10-30-yummy-rice-飯香-shanghainese-cuisine-in-rosemead/17893210189114533.jpg)

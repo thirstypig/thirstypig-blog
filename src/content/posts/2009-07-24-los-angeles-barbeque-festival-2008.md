@@ -1,5 +1,5 @@
 ---
-title: Los Angeles Barbeque Festival 2008
+title: Los Angeles Barbeque Festival 2008, Los Angeles
 pubDate: '2009-07-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,15 +8,18 @@ heroImage: /images/posts/los-angeles-barbeque-festival-2008/IMG_0123.JPG
 images:
 - /images/posts/los-angeles-barbeque-festival-2008/IMG_0123.JPG
 - /images/posts/los-angeles-barbeque-festival-2008/IMG_0124.JPG
-categories:
-- Food/Wine Event
-- Barbeque
-- Los Angeles
+categories: []
 description: Late last year, I went to the Los Angeles Barbeque Festival at the Santa Monica Pier. Held on a nice sunny September day, the 13th and 14th to be exact. Unfortunately, I didn’t know that they moved th
 archiveUrl: https://web.archive.org/web/20110106035609/http://www.thethirstypig.com/2009/07/24/los-angeles-barbeque-festival-2008/
 draft: false
 location: Los Angeles Barbeque Festival 2008
 city: Los Angeles
+tags:
+- los-angeles
+- bbq
+- ribs
+cuisine:
+- BBQ
 ---
 
 Late last year, I went to the Los Angeles Barbeque Festival at the Santa Monica Pier. Held on a nice sunny September day, the 13th and 14th to be exact. Unfortunately, I didn’t know that they moved this year’s, 2009, to May 9th and 10th.

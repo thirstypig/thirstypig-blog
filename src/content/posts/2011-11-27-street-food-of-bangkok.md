@@ -1,11 +1,10 @@
 ---
-title: Street Food of Bangkok
+title: Bangkok City Pillar Shrine, Bangkok
 pubDate: '2011-11-27'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/11/27/street-food-of-bangkok/
-categories:
-- Blog
+categories: []
 description: <-- //LinkWithinCodeStart var linkwithin\site\id = 187727; var linkwithin\div\class = "linkwithin\hook"; //LinkWithinCodeEnd -->
 archiveUrl: https://web.archive.org/web/20120116091407/http://www.thethirstypig.com:80/2011/11/27/street-food-of-bangkok/
 draft: false
@@ -16,6 +15,10 @@ address: Na Hap Phoei, พระนคร, กรุงเทพมหานค�
 coordinates:
   lat: 13.752769
   lng: 100.494031
+tags:
+- bangkok
+- street-food
+cuisine: []
 ---
 
 - Share this:

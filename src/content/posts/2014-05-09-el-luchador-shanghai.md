@@ -1,27 +1,27 @@
 ---
-title: 'Menu, Shanghai'
+title: El Luchador, Shanghai
 pubDate: '2014-05-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/05/09/el-luchador-shanghai/
 tags:
-- Beef
-- mexican
-- pork
 - shanghai
+- mexican
 - tacos
+- cocktails
 description: My Favorite Mexican Restaurant in Shanghai – El Luchadorhttp://thirstypig.com/2014/05/09/el-luchador-shanghai/
 archiveUrl: https://web.archive.org/web/20150430030952/http://thirstypig.com/2014/05/09/el-luchador-shanghai/
 draft: false
 city: Shanghai
 region: Shanghai
-categories:
-- Shanghai
+categories: []
 location: The Living Room by Octave (The Living Room by Octave (Living Room by Octave | 音昱听堂))
 address: 357 Jianguo W Rd | 建国西路357号 (Taiyuan Rd | 太原路), Xúhuì, Xuhui, 上海市, 200031
 coordinates:
   lat: 31.206111
   lng: 121.451386
+cuisine:
+- Mexican
 ---
 
 ## [My Favorite Mexican Restaurant in Shanghai – El Luchador](http://thirstypig.com/2014/05/09/el-luchador-shanghai/)

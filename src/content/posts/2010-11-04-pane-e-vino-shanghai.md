@@ -7,11 +7,12 @@ originalUrl: http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/
 heroImage: /images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg
 images:
 - /images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg
-categories:
-- Jingan
-- Shanghai
+categories: []
 tags:
-- Italian
+- shanghai
+- italian
+- pizza
+- pasta
 description: Sometimes food prepared the traditional simple manner is all you need. But of course you need quality ingredients. Echo and her husband, Antonio have done just that. With imported Italian floor, spice
 archiveUrl: https://web.archive.org/web/20161019091808/http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/
 draft: false
@@ -22,6 +23,8 @@ address: Xīntiāndì, Huangpu, 上海市
 coordinates:
   lat: 31.216586
   lng: 121.46358
+cuisine:
+- Italian
 ---
 
 [![pane-e-vino-shanghai-26](/images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg "pane-e-vino-shanghai-26")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-26/)

@@ -1,5 +1,5 @@
 ---
-title: 'Dinner in DTLA, Downtown LA'
+title: Row Dtla, Downtown LA
 pubDate: '2021-06-24'
 author: The Thirsty Pig
 source: instagram
@@ -16,15 +16,10 @@ images:
 - /images/posts/ig-2021-06-24-dinner-in-dtla/18235366006026104.jpg
 tags:
 - dtla
-- losangeles
-- food
-- dinnerclub
-- dtladinnerclub
-- beefcheek
-- donut
-- endive
-- unibacon
-description: 'Dinner in DTLA. Joined the DTLA Dinner Club and had a great dinner with six courses. First was the endive lobster boat, then 2nd was the caramelized fennel and leek gratin. For the third course, we had the uni bacon on baguette. The fourth course was a summer salad. And fifth course was braised mocha beef cheeks. And the final course was a homemade donut with ricotta. Nice outdoor terrace with great weather and to meet interesting people. Very cool joint. . . . . .'
+- french
+- seafood
+- multi-course
+description: Dinner in DTLA. Joined the DTLA Dinner Club and had a great dinner with six courses. First was the endive lobster boat, then 2nd was the caramelized fennel and leek gratin. For the third course, we had the uni bacon on baguette. The fourth course was a summer salad. And fifth course was braised mocha beef cheeks. And the final course was a homemade donut with ricotta. Nice outdoor terrace with great weather and to meet interesting people. Very cool joint. . . . . .
 location: Row Dtla
 city: Downtown LA
 region: Los Angeles
@@ -32,6 +27,9 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
+categories: []
+cuisine:
+- French
 ---
 
 ![Dinner in DTLA](/images/posts/ig-2021-06-24-dinner-in-dtla/17950949710449956.jpg)

@@ -11,15 +11,14 @@ images:
 - /images/posts/ig-2021-06-17-brunch-at-sibling-rival/18182019694114826.jpg
 - /images/posts/ig-2021-06-17-brunch-at-sibling-rival/17904497269955181.jpg
 tags:
-- eeeeeats
-- eats
+- american
 - brunch
-- lunch
-- breakfast
-- food
-- thirstypig
-description: 'Brunch at Sibling Rival. Breakfast burrito and the puffed grain bowl. Nice and bright decor. Food was ok. Nothing special. Had the Sunday Bloody with mezcal. Was quite strong. I’d visit again and recommend. . . . . . .'
+- breakfast-burrito
+description: Brunch at Sibling Rival. Breakfast burrito and the puffed grain bowl. Nice and bright decor. Food was ok. Nothing special. Had the Sunday Bloody with mezcal. Was quite strong. I’d visit again and recommend. . . . . . .
 location: Brunch at Sibling Rival
+categories: []
+cuisine:
+- American
 ---
 
 ![Brunch at Sibling Rival](/images/posts/ig-2021-06-17-brunch-at-sibling-rival/18049099396293812.jpg)

@@ -1,5 +1,5 @@
 ---
-title: The Return to Animal
+title: The Return to Animal, Los Angeles
 description: '[](/images/posts/return-to-animal/Animal+1+interior.jpg)A group of us had dinner at Animal the other day. I didn''t want to write much, but just post up...'
 pubDate: '2010-04-10'
 author: The Thirsty Pig
@@ -22,11 +22,16 @@ images:
 - /images/posts/return-to-animal/Animal+7+duck.jpg
 - /images/posts/return-to-animal/Animal+8+chinese+brocoli.jpg
 - /images/posts/return-to-animal/Animal+9+ribs.jpg
-categories:
-- American
+categories: []
 archiveUrl: https://web.archive.org/web/20100417222010/http://blog.thethirstypig.com:80/2010/04/return-to-animal.html
 draft: false
 location: The Return to Animal
+tags:
+- american
+- hamachi
+- poutine
+cuisine:
+- American
 ---
 
 [![](http://2.bp.blogspot.com/_37fRXLoLUPo/S7qafeCYG6I/AAAAAAAACIk/uNd_Eux8Uq4/s400/Animal+1+interior.jpg)](/images/posts/return-to-animal/Animal+1+interior.jpg)A group of us had dinner at Animal the other day. I didn't want to write much, but just post up some pictures. Check out my previous entry [here](http://blog.thethirstypig.com/2009/09/animal.html).

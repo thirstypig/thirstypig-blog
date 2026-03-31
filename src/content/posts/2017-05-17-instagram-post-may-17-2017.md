@@ -1,6 +1,6 @@
 ---
-title: 'Perlassouthcongress, Austin'
-description: 'Perlassouthcongress, Austin at Perlassouthcongress in Austin.'
+title: Perlassouthcongress, Austin
+description: Perlassouthcongress, Austin at Perlassouthcongress in Austin.
 pubDate: '2017-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -14,6 +14,14 @@ images:
 location: Perlassouthcongress
 city: Austin
 region: Texas
+tags:
+- austin
+- italian
+- pasta
+- pizza
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Instagram Post — May 17, 2017](/images/posts/ig-2017-05-17-instagram-post-may-17-2017/17859039310139879.jpg)

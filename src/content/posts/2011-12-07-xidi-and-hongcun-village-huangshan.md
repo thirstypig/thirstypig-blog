@@ -1,12 +1,10 @@
 ---
-title: 'Xidi and Hongcun Village, Huangshan, Shanghai'
+title: The PuLi Hotel and Spa, Shanghai
 pubDate: '2011-12-07'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/07/xidi-and-hongcun-village-huangshan/
-categories:
-- Sightseeing
-- Huangshan
+categories: []
 description: The ancient villages of Xidi 西递 and Hongcun 宏村, located nearby Huangshan Yellow Mountain, Anhui, China, feature great historic buildings of Chinese culture. Only about an hour’s flight away from Shang
 archiveUrl: https://web.archive.org/web/20120116080550/http://www.thethirstypig.com:80/2011/12/07/xidi-and-hongcun-village-huangshan/
 draft: false
@@ -17,6 +15,9 @@ address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
 coordinates:
   lat: 31.224154
   lng: 121.443505
+tags:
+- shanghai
+cuisine: []
 ---
 
 The ancient villages of Xidi 西递 and Hongcun 宏村, located nearby Huangshan (Yellow Mountain), Anhui, China, feature great historic buildings of Chinese culture. Only about an hour’s flight away from Shanghai, they are not to be missed, when traveling to see the [magnificent mountains of Huangshan](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/).

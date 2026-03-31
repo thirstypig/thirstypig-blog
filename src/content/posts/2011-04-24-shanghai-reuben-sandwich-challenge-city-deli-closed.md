@@ -1,15 +1,15 @@
 ---
-title: 'Mapi Espresso & Sandwich Bar, New York'
+title: Mapi Espresso & Sandwich Bar, New York
 pubDate: '2011-04-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
-categories:
-- Jingan
-- City Deli (Closed)
+categories: []
 tags:
-- Sandwich
-- closed
+- nyc
+- american
+- pastrami
+- sandwiches
 description: On my search for the Reuben Pastrami sandwich, this challenge has brought me to City Deli. I had read about City Deli, along with New York Deli, from the different punits – Smart Shanghai, Urbanatomy,
 archiveUrl: https://web.archive.org/web/20161019031835/http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
 draft: false
@@ -20,6 +20,8 @@ address: 1 W 13th St (at 5th Ave.), New York, NY 10011
 coordinates:
   lat: 40.735569
   lng: -73.994642
+cuisine:
+- American
 ---
 
 

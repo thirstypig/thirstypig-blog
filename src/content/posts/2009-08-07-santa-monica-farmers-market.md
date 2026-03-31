@@ -1,20 +1,21 @@
 ---
-title: Santa Monica Farmers Market
+title: Santa Monica Farmers Market, Santa Monica
 pubDate: '2009-08-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/07/santa-monica-farmers-market/
-categories:
-- Santa Monica
-- Westside
+categories: []
 tags:
-- Farmers Market
+- santa-monica
+- farmers-market
+- produce
 description: Wednesdays in Santa Monica mean one thing – Farmer’s Market day The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of t
 archiveUrl: https://web.archive.org/web/20161019152434/http://thirstypig.com/2009/08/07/santa-monica-farmers-market/
 draft: false
 location: Santa Monica Farmers Market
 city: Santa Monica
 region: Westside
+cuisine: []
 ---
 
 

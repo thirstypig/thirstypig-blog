@@ -1,5 +1,5 @@
 ---
-title: Lunch at The Crack Shack in Pasadena
+title: The Crack Shack, Pasadena
 pubDate: '2019-04-18'
 author: The Thirsty Pig
 source: instagram
@@ -12,25 +12,20 @@ images:
 - /images/posts/ig-2019-04-18-lunch-at-the-crack-shack-in-pasadena/18058780909023294.jpg
 tags:
 - pasadena
-- sgv
-- eeeeeats
-- chicken
-- friedchicken
-- yummy
-- chickenoysters
-- schmaltz
-- fries
-- slaw
+- american
+- fried-chicken
+- sandwiches
 description: Lunch at The Crack Shack in Pasadena. Had the Coop Deville sandwich, Hot Chicken Oysters, Slaw, and Schmaltz Fries. Fries were amazing. . .
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032
   lng: -118.145536
+cuisine:
+- American
 ---
 
 ![Lunch at The Crack Shack in Pasadena](/images/posts/ig-2019-04-18-lunch-at-the-crack-shack-in-pasadena/18040805998104360.jpg)

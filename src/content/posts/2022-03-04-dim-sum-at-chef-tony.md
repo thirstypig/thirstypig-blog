@@ -1,5 +1,5 @@
 ---
-title: 'Dim Sum at Chef Tony, Hong Kong'
+title: DimDimSum Dim Sum Specialty Store (點點心點心專門店), Hong Kong
 pubDate: '2022-03-04'
 author: The Thirsty Pig
 source: instagram
@@ -14,16 +14,7 @@ images:
 - /images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17883745781558166.jpg
 - /images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17948527231760976.jpg
 tags:
-- dimsum
-- cheftony
-- chinesefood
-- cantonesefood
-- hongkongfood
-- blacktruffles
-- goldleaf
-- squidink
-- arcadia
-- sgv
+- hong-kong
 description: Dim Sum at Chef Tony. Squid ink shrimp Shu mai with gold leaf and shrimp and pork dumpling har gow with black truffle were the unique dim sum dishes. . . . .
 location: DimDimSum Dim Sum Specialty Store (點點心點心專門店)
 city: Hong Kong
@@ -32,6 +23,7 @@ address: 26-28 Man Wui St
 coordinates:
   lat: 22.306986
   lng: 114.166155
+categories: []
 ---
 
 ![Dim Sum at Chef Tony](/images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17909755763432610.jpg)

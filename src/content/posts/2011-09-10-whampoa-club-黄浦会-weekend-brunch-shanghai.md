@@ -4,14 +4,12 @@ pubDate: '2011-09-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/10/whampoa-club-%e9%bb%84%e6%b5%a6%e4%bc%9a-weekend-brunch-shanghai/
-categories:
-- Bund
-- Shanghai
+categories: []
 tags:
-- Brunch
-- Cantonese
-- Dim Sum
-- Shanghainese
+- shanghai
+- chinese
+- dim-sum
+- brunch
 description: The Whampoa Club at Three on the Bund is promoting their new Shanghai Dim Sum lunch. I was able to round up a group of friends that were willing to make it a go. As you know, brunch in Shanghai is big
 archiveUrl: https://web.archive.org/web/20161105142001/http://thirstypig.com/2011/09/10/whampoa-club-%e9%bb%84%e6%b5%a6%e4%bc%9a-weekend-brunch-shanghai/
 draft: false
@@ -19,6 +17,8 @@ location: Whampoa Club 黄浦会 Weekend Brunch
 city: Shanghai
 region: Shanghai
 address: 3 Zhongshan Dongyi Road
+cuisine:
+- Chinese
 ---
 
 

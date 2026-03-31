@@ -11,18 +11,9 @@ images:
 - /images/posts/ig-2025-05-09-check-out-this-bloody-mary/18171443344329443.jpg
 - /images/posts/ig-2025-05-09-check-out-this-bloody-mary/18381912370185495.jpg
 - /images/posts/ig-2025-05-09-check-out-this-bloody-mary/18063044381088603.jpg
-tags:
-- clamchowder
-- clamchowdah
-- seafood
-- sequim
-- sequimwashington
-- crabcake
-- crabcakesð
-- crabcakes
-- washingtonstate
-- pokebowl
+tags: []
 description: Check out this Bloody Mary. Looks delish - amirite???? But my friends thought the BM gross. It’s thick and spicy and a meal all unto itself. They don’t appreciate the nuances of this drink. Yummy! I t
+categories: []
 ---
 
 ![Check out this Bloody Mary](/images/posts/ig-2025-05-09-check-out-this-bloody-mary/18222879235291909.jpg)

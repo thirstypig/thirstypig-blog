@@ -23,13 +23,12 @@ images:
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-15-88x88.jpg
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-16-88x88.jpg
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-17-88x88.jpg
-categories:
-- 2 pigs
-- Cantonese
-- Price Range $/¥/NT
-- Shanghai
+categories: []
 tags:
-- Jingan District 上海静安区
+- shanghai
+- fusion
+- macanese
+- pork
 description: One would expect traditional Portuguese cuisine at a restaurant name Lisboa. Named after the capital of Portugal, this chain features Macanese cuisine – a combination of Cantonese and Portuguese flavo
 archiveUrl: https://web.archive.org/web/20101218035444/http://www.thethirstypig.com:80/2010/12/10/lisboa-restaurant-shanghai/
 draft: false
@@ -37,6 +36,8 @@ location: Lisboa Restaurant
 city: Shanghai
 region: Shanghai
 address: 269 Wujiang Road
+cuisine:
+- Fusion
 ---
 
 One would expect traditional Portuguese cuisine at a restaurant name Lisboa. Named after the capital of Portugal, this chain features Macanese cuisine – a combination of Cantonese and Portuguese flavors.

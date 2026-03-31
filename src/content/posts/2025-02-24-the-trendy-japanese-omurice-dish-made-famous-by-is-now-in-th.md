@@ -1,5 +1,5 @@
 ---
-title: 'The Stables at Santa Anita Park, Arcadia'
+title: The Stables at Santa Anita Park, Arcadia
 pubDate: '2025-02-24'
 author: The Thirsty Pig
 source: instagram
@@ -12,23 +12,12 @@ images:
 - /images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/17881557387246724.jpg
 - /images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/18065256073931905.jpg
 tags:
-- ramen
-- eats
-- eeeeats
-- sgv
 - arcadia
-- sgveats
-- kyuramen
-- tastemakers
-- tastemakers
-- noodles
-description: 'My buddy got the ramen which I think he said was ok. Nothing special. Next time I would try the ramen. They have a Ying yang bowl in which they would have 2 different broths. I think it is gimmicky, but I would try next time. . . . .official'
+description: My buddy got the ramen which I think he said was ok. Nothing special. Next time I would try the ramen. They have a Ying yang bowl in which they would have 2 different broths. I think it is gimmicky, but I would try next time. . . . .official
 location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley
-categories:
-- Arcadia
-- San Gabriel Valley
+categories: []
 address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
 coordinates:
   lat: 34.13803

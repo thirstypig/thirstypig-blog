@@ -1,16 +1,15 @@
 ---
-title: Spicy Moment, Shanghai – Hunan Cuisine with Unassuming Style
+title: Spicy Moment, Shanghai
 pubDate: '2011-06-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/06/16/spicy-moment-shanghai-hunan-cuisine-with-unassuming-style/
-categories:
-- 2 pigs
-- Hunan
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 tags:
-- Shanghai
+- shanghai
+- chinese
+- hunan
+- spicy
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20110717091421/http://www.thethirstypig.com:80/2011/06/16/spicy-moment-shanghai-hunan-cuisine-with-unassuming-style/
 draft: false
@@ -21,6 +20,8 @@ address: 上海市, 上海市, 200000
 coordinates:
   lat: 31.225242
   lng: 121.444505
+cuisine:
+- Chinese
 ---
 
 After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With [Di Shui Dong](http://www.thethirstypig.com/2010/12/16/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/) and [Guyi](http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/) are the two more well-known establishments in Shanghai, now enters Spicy Moment.

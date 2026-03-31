@@ -1,5 +1,5 @@
 ---
-title: 'Brunch at Paul Martin’s American Grill, Pasadena'
+title: Paul Martin's American Grill, Pasadena
 pubDate: '2019-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -15,20 +15,16 @@ images:
 - /images/posts/ig-2019-06-02-brunch-at-paul-martins-american-grill/18028516306194371.jpg
 tags:
 - pasadena
-- sgv
-- food
-- eat
-- crabcakes
-- eggsbenedict
-- americanfood
+- american
 - brunch
-- saturday
-description: 'Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Great location and great space and roomy bar. Food was ok lah, not memorable. . . .'
+- tacos
+description: Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Great location and great space and roomy bar. Food was ok lah, not memorable. . . .
 location: Paul Martin's American Grill
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
+cuisine:
+- American
 ---
 
 ![Brunch at Paul Martin’s American Grill](/images/posts/ig-2019-06-02-brunch-at-paul-martins-american-grill/18062233153077215.jpg)

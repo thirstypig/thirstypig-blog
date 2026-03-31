@@ -1,5 +1,5 @@
 ---
-title: 'Dynasty Typewriter At The Hayworth, Downtown LA'
+title: Holbox, Los Angeles
 pubDate: '2019-08-17'
 author: The Thirsty Pig
 source: instagram
@@ -16,26 +16,21 @@ images:
 - /images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/17844568624592665.jpg
 - /images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/17881443202407628.jpg
 tags:
-- fishtacos
-- octopustaco
-- kanpachi
-- ceviche
-- mexicanfood
 - dtla
 - seafood
-- mercado
-- jgold101
-- jonathangold
+- ceviche
+- tacos
 description: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC. Excellent seafood. Fresh and tasty. Yummy . . .
 location: Dynasty Typewriter At The Hayworth
 city: Downtown LA
-categories:
-- near USC
+categories: []
 region: Los Angeles
 address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
 coordinates:
   lat: 34.0606
   lng: -118.280585
+cuisine:
+- Seafood
 ---
 
 ![Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC](/images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/18061059733132780.jpg)

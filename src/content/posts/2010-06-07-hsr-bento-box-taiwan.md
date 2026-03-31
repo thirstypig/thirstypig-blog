@@ -1,5 +1,5 @@
 ---
-title: '便當 (The Bento Box) aboard Taiwan’s HSR, Taipei'
+title: 台鐵便當本鋪, Taipei
 pubDate: '2010-06-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,10 +17,7 @@ images:
 - /images/posts/hsr-bento-box-taiwan/HSR-6-88x88.jpg
 - /images/posts/hsr-bento-box-taiwan/HSR-7-88x88.jpg
 - /images/posts/hsr-bento-box-taiwan/HSR-9-88x88.jpg
-categories:
-- 1 pig
-- Taiwanese
-- Taipei
+categories: []
 description: The High Speed RailHSR of Taiwan has roots from Taiwan’s decades old train railway system. And after years of development and construction, the HSR finally opened a couple of years ago with much publi
 archiveUrl: https://web.archive.org/web/20100721034533/http://www.thethirstypig.com:80/2010/06/07/hsr-bento-box-taiwan/
 draft: false
@@ -31,6 +28,13 @@ address: 北平西路3號 (台北火車站1樓西三門商場區), 台北市,  1
 coordinates:
   lat: 25.04749
   lng: 121.516741
+tags:
+- taipei
+- taiwanese
+- bento
+- lunch-box
+cuisine:
+- Taiwanese
 ---
 
 The High Speed Rail(HSR) of Taiwan has roots from Taiwan’s decades old train railway system. And after years of development and construction, the HSR finally opened a couple of years ago with much public fanfare and to the dismay of the domestic airlines. One tradition the HSR brought with them was the bento box meal. Whenever I was on those trains, when I was a kid, I looked forward to lunch with a bento box. I remember always looking out for the snack and bento vendor back then, as I did, recently, on the HSR.

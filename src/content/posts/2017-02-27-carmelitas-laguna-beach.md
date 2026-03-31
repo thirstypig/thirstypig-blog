@@ -4,15 +4,12 @@ pubDate: '2017-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/27/carmelitas-laguna-beach/
-categories:
-- Los Angeles
-- Laguna Beach
-- Orange County
+categories: []
 tags:
-- Beach
-- Mexican
-- Pork
-- Seafood
+- laguna-beach
+- mexican
+- enchiladas
+- ceviche
 description: Mexican dining, with local and fresh ingredients Located just steps away from the beach Nice big bar Seafood enchiladas, carnitas, and shrimp ceviche were all excellent They serve an interesting Sunda
 archiveUrl: https://web.archive.org/web/20170228050056/http://thirstypig.com/2017/02/27/carmelitas-laguna-beach/
 draft: false
@@ -20,6 +17,8 @@ location: Carmelitas
 city: Laguna Beach
 region: Orange County
 address: 217 Broadway St Laguna Beach, CA 92651
+cuisine:
+- Mexican
 ---
 
 

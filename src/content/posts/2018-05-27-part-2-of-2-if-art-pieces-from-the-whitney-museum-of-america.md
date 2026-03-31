@@ -1,5 +1,5 @@
 ---
-title: 'Whitney Museum of American Art, New York'
+title: Whitney Museum of American Art, New York
 pubDate: '2018-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -17,14 +17,7 @@ images:
 - /images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17870960257245529.jpg
 - /images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17919646069177373.jpg
 tags:
-- andywarhol
-- whitneymuseum
-- skyline
 - nyc
-- meatpackingdistrict
-- gansevoort
-- art
-- thirstypig
 description: Part 2 of 2 if art pieces from the Whitney Museum of American Art. With Andy Warhol and others.
 city: New York
 region: New York
@@ -33,6 +26,8 @@ address: 99 Gansevoort St (btwn 10th Ave & Washington St), New York, NY 10014
 coordinates:
   lat: 40.739506
   lng: -74.008861
+categories: []
+cuisine: []
 ---
 
 ![Part 2 of 2 if art pieces from the Whitney Museum of American Art](/images/posts/ig-2018-05-27-part-2-of-2-if-art-pieces-from-the-whitney-museum-of-america/17874738046236790.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Made a trek to Lockhart, BBQ Capital of Texas
+title: Made a trek to Lockhart, Lockhart
 pubDate: '2017-06-10'
 author: The Thirsty Pig
 source: instagram
@@ -16,18 +16,16 @@ images:
 - /images/posts/ig-2017-06-10-made-a-trek-to-lockhart-bbq-capital-of-texas/17858019367184727.jpg
 - /images/posts/ig-2017-06-10-made-a-trek-to-lockhart-bbq-capital-of-texas/17882854639037167.jpg
 tags:
-- txbbqpassport
-- texasmonthlytop50
-- bbqbrisket
+- lockhart
 - bbq
-- ham
-- texasbbq
-description: 'Made a trek to Lockhart, BBQ Capital of Texas. Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket. I like the ham and sausage more than the others. Went on Saturday with only a 40 min wait.'
+- brisket
+description: Made a trek to Lockhart, BBQ Capital of Texas. Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket. I like the ham and sausage more than the others. Went on Saturday with only a 40 min wait.
 location: Made a trek to Lockhart
-categories:
-- BBQ Capital of Texas
+categories: []
 city: Lockhart
 region: Texas
+cuisine:
+- BBQ
 ---
 
 ![Made a trek to Lockhart, BBQ Capital of Texas](/images/posts/ig-2017-06-10-made-a-trek-to-lockhart-bbq-capital-of-texas/17883621268053241.jpg)

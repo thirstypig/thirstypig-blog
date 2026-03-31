@@ -1,5 +1,5 @@
 ---
-title: Taipei DangDai art & ideas
+title: Legacy Taipei, Taipei
 pubDate: '2024-05-09'
 author: The Thirsty Pig
 source: instagram
@@ -15,21 +15,12 @@ images:
 - /images/posts/ig-2024-05-09-taipei-dangdai-art-ideas/18227094010281053.jpg
 - /images/posts/ig-2024-05-09-taipei-dangdai-art-ideas/17875563204079347.jpg
 tags:
-- nangangexhibitioncenter
-- taipeidangdai
-- taipeiart
-- taipeiartshow
-- art
-- taipeiartfair
-- thirstypig
-- taiwanart
-- tauwaneseart
-description: 'Taipei DangDai art & ideas. Got to check out the Taipei art show. Taiwanese artist with artists from around the world including Japan, Europe and Africa. Galleries were also from around the world, too. I enjoy and appreciate art. Wish I had more time to really study and understand contemporary artists and their inspirations. I hope to find artists and their works that really connect with me. For me, design is important, but I feel the story behind the works might be even more significant to me. . . .'
+- taipei
+description: Taipei DangDai art & ideas. Got to check out the Taipei art show. Taiwanese artist with artists from around the world including Japan, Europe and Africa. Galleries were also from around the world, too. I enjoy and appreciate art. Wish I had more time to really study and understand contemporary artists and their inspirations. I hope to find artists and their works that really connect with me. For me, design is important, but I feel the story behind the works might be even more significant to me. . . .
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934

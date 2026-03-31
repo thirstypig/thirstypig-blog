@@ -1,15 +1,15 @@
 ---
-title: Blue Frog 蓝蛙, Shanghai
+title: Blue Frog (蓝蛙), Shanghai
 pubDate: '2010-10-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/16/blue-frog-%e8%93%9d%e8%9b%99-shanghai/
-categories:
-- Shanghai
+categories: []
 tags:
-- American
-- Bar
-- Burgers
+- shanghai
+- fusion
+- burgers
+- cocktails
 description: On December 12, 2010, I finished the last of my 100 shots at Blue Frog. On this last trip, I consumed the last portion of this epic quest – of 20 shots. But, I must confess that I failed in my attempt
 archiveUrl: https://web.archive.org/web/20161018020815/http://thirstypig.com/2010/10/16/blue-frog-%e8%93%9d%e8%9b%99-shanghai/
 draft: false
@@ -19,6 +19,8 @@ region: Shanghai
 coordinates:
   lat: 31.214061
   lng: 121.458144
+cuisine:
+- Fusion
 ---
 
 

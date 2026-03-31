@@ -1,5 +1,5 @@
 ---
-title: 'Dalian 大连, the City by the Sea, Shanghai'
+title: 大连银行, Shanghai
 pubDate: '2010-10-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,11 +7,9 @@ originalUrl: http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-t
 heroImage: /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
 images:
 - /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
-categories:
-- 3 pigs
-- the City by the Sea
+categories: []
 tags:
-- Dalian
+- shanghai
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144407/http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/
 draft: false
@@ -22,6 +20,7 @@ address: Changning, 上海市
 coordinates:
   lat: 31.222464
   lng: 121.426095
+cuisine: []
 ---
 
 I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach life,

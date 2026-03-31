@@ -1,5 +1,5 @@
 ---
-title: A Little Gem in Pasadena, Green Street Tavern
+title: Green Street Tavern, Pasadena
 pubDate: '2009-09-18'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,18 +10,19 @@ images:
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0808.JPG
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0813.JPG
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0818.JPG
-categories:
-- San Gabriel Valley
-- Date
-- Hamburgers
-- Green Street Tavern
+categories: []
 tags:
-- LA's San Gabriel Valley
+- pasadena
+- american
+- tavern-fare
+- cocktails
 description: Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt
 archiveUrl: https://web.archive.org/web/20110105231503/http://www.thethirstypig.com/2009/09/18/a-little-gem-in-pasadena-green-street-tavern/
 draft: false
 city: Pasadena
 region: San Gabriel Valley
+cuisine:
+- American
 ---
 
 Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy little place with an ambient mood feel. Walking in brings you in a modest but small dining area, then to the side, you’ll find a nice room that can be used for private events. Decor with the dark lighting is better suited at night.

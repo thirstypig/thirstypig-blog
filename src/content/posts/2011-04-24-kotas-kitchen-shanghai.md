@@ -1,15 +1,15 @@
 ---
-title: Kota’s Kitchen, Shanghai
+title: Kota's Kitchen II, Shanghai
 pubDate: '2011-04-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
-categories:
-- Changning District
-- Shanghai
+categories: []
 tags:
-- Japanese
-- Shanghai
+- shanghai
+- japanese
+- yakitori
+- ramen
 description: Kota’s is a small yakitori restaurant near the Shanghai Stadium. This establishment combines the western culture of the Beatles with the traditional Japanese setting. This cozy place bring intimacy wi
 archiveUrl: https://web.archive.org/web/20160911044418/http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 永嘉路335号 (襄阳南路口), Xuhui, 上海市
 coordinates:
   lat: 31.210566
   lng: 121.4529
+cuisine:
+- Japanese
 ---
 
 

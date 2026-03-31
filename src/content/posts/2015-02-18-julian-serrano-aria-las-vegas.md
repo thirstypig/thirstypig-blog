@@ -4,11 +4,12 @@ pubDate: '2015-02-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/02/18/julian-serrano-aria-las-vegas/
-categories:
-- Las Vegas
+categories: []
 tags:
-- Las Vegas
-- Spanish
+- las-vegas
+- spanish
+- spanish-tortilla
+- ham
 description: Great food, but seemed like a mall food court experience with dining room in the lobby of the Aria The Spanish Tortilla was great. The ham was also very tasty, too One of the better restaurants in Ari
 archiveUrl: https://web.archive.org/web/20160915042607/http://thirstypig.com/2015/02/18/julian-serrano-aria-las-vegas/
 draft: false
@@ -16,6 +17,8 @@ location: Julian Serrano at the Aria
 city: Las Vegas
 region: Las Vegas
 address: 3730 S Las Vegas Blvd
+cuisine:
+- Spanish
 ---
 
 

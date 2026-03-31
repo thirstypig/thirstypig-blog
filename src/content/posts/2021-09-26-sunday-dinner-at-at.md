@@ -1,5 +1,5 @@
 ---
-title: 'Sunday dinner at at'
+title: Sunday dinner at at
 pubDate: '2021-09-26'
 author: The Thirsty Pig
 source: instagram
@@ -15,6 +15,9 @@ images:
 - /images/posts/ig-2021-09-26-sunday-dinner-at-at/17990437786376342.jpg
 description: Sunday dinner at at
 location: Sunday dinner at  at
+cuisine: []
+tags: []
+categories: []
 ---
 
 ![Sunday dinner at at](/images/posts/ig-2021-09-26-sunday-dinner-at-at/17886336572372073.jpg)

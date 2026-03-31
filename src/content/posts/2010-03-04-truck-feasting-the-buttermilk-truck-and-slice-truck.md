@@ -1,5 +1,5 @@
 ---
-title: Truck Feasting – The Buttermilk Truck and Slice Truck
+title: Buttermilk Truck and Slice Truck, Los Angeles
 pubDate: '2010-03-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -19,19 +19,18 @@ images:
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0600.jpg
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0601.jpg
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0604.jpg
-categories:
-- Food Truck
-- Downtown LA
-- $
-- 3 pigs
-- The Buttermilk Truck and Slice Truck
+categories: []
 tags:
-- Downtown LA
+- american
+- fried-chicken
+- comfort-food
 description: On this nice day, we found ourselves heading to the LA Mart to look for the Buttermilk Truck. Luckily, Ms. C “willed” parking for us and we found a spot. . . two blocks away.
 archiveUrl: https://web.archive.org/web/20110106030624/http://www.thethirstypig.com/2010/03/04/truck-feasting-the-buttermilk-truck-and-slice-truck/
 draft: false
 location: Truck Feasting
 region: Downtown LA
+cuisine:
+- American
 ---
 
 Truck Feasting.

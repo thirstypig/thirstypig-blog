@@ -1,17 +1,15 @@
 ---
-title: Ramenya, West Los Angeles
+title: Ramenya, Osaka
 pubDate: '2009-10-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/15/ramenya-west-los-angeles/
-categories:
-- Santa Monica
-- West Los Angeles
-- Westside
+categories: []
 tags:
-- Japanese
-- Los Angeles
-- Ramen
+- osaka
+- japanese
+- ramen
+- tan-tan-ramen
 description: Located in Little Osaka Been around awhile, favored by loyal customers Could always depend on a solid ramen meal Waits could be long, so get there early Tan-tan ramen is good
 archiveUrl: https://web.archive.org/web/20160828115349/http://thirstypig.com/2009/10/15/ramenya-west-los-angeles/
 draft: false
@@ -19,6 +17,8 @@ location: Ramenya
 city: Osaka
 region: Osaka
 address: 11660 Gateway Blvd Los Angeles, CA 90064
+cuisine:
+- Japanese
 ---
 
 

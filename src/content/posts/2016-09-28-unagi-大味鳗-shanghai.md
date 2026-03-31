@@ -1,5 +1,5 @@
 ---
-title: Unagi 大味鳗, Shanghai
+title: 大味鰻, Shanghai
 pubDate: '2016-09-28'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,12 +7,12 @@ originalUrl: http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-
 heroImage: /images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg
 images:
 - /images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Japanese
-- Seafood
+- shanghai
+- japanese
+- eel-rice
+- unagi
 description: Specialize in Nagoya style eel rice in a wooden bowl Bar seating on the first floor is good for couples, but the 2nd floor is better for groups Same owner as Jianguo 328 Nagoya style eel rice is inter
 archiveUrl: https://web.archive.org/web/20161019091754/http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/
 draft: false
@@ -23,6 +23,8 @@ address: 342 Middle Wulumuqi Road (West Fuxing Road), 上海市, 上海市, 2000
 coordinates:
   lat: 31.212772
   lng: 121.441998
+cuisine:
+- Japanese
 ---
 
 [![IMG_2522](/images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg "IMG_2522")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2522/)

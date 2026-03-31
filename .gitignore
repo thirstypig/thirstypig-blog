@@ -42,6 +42,10 @@ scripts/scraper/data/fetched_posts.json
 scripts/scraper/data/parsed_posts.json
 scripts/scraper/data/posts_with_images.json
 
+# Enrichment script intermediate data
+scripts/.enrich_progress.json
+scripts/enrich_report.csv
+
 # Instagram raw extraction (already copied to public/)
 scripts/instagram/data/media/
 scripts/instagram/data/your_instagram_activity/

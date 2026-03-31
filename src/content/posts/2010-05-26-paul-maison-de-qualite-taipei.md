@@ -1,15 +1,15 @@
 ---
-title: Paul, Maison De Qualite, Taipei
+title: 樂盒子 La Caja De Musica, Taipei
 pubDate: '2010-05-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
-categories:
-- Xinyi
-- Taipei
+categories: []
 tags:
-- Bakery
-- French
+- taipei
+- bakery
+- quiche
+- afternoon-tea
 description: Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quit
 archiveUrl: https://web.archive.org/web/20161105151258/http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
 draft: false
@@ -20,6 +20,8 @@ address: 長安西路138巷3弄18號1樓, 台北市,  103
 coordinates:
   lat: 25.050126
   lng: 121.518196
+cuisine:
+- Bakery
 ---
 
 

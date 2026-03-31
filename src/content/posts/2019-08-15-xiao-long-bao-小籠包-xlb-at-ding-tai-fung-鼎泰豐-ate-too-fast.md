@@ -1,5 +1,5 @@
 ---
-title: 'Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast'
+title: Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast
 pubDate: '2019-08-15'
 author: The Thirsty Pig
 source: instagram
@@ -17,10 +17,14 @@ images:
 - /images/posts/ig-2019-08-15-xiao-long-bao-小籠包-xlb-at-ding-tai-fung-鼎泰豐-ate-too-fast/18060684538192896.jpg
 - /images/posts/ig-2019-08-15-xiao-long-bao-小籠包-xlb-at-ding-tai-fung-鼎泰豐-ate-too-fast/17997594649247940.jpg
 tags:
-- xlb
-- å
+- taiwanese
+- xiao-long-bao
+- dim-sum
 description: Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast. . . . .
 location: Ding Tai Fung 鼎泰豐  Ate too fast
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast](/images/posts/ig-2019-08-15-xiao-long-bao-小籠包-xlb-at-ding-tai-fung-鼎泰豐-ate-too-fast/17883968602392064.jpg)

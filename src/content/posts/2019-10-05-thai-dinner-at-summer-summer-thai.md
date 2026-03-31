@@ -1,5 +1,5 @@
 ---
-title: Thai dinner at Summer Summer Thai
+title: Summer Summer Thai
 pubDate: '2019-10-05'
 author: The Thirsty Pig
 source: instagram
@@ -13,14 +13,14 @@ images:
 - /images/posts/ig-2019-10-05-thai-dinner-at-summer-summer-thai/17996765299263957.jpg
 - /images/posts/ig-2019-10-05-thai-dinner-at-summer-summer-thai/17844256810706203.jpg
 tags:
-- summerrolls
-- thaifood
-- emeryville
-- norcal
-- eat
-- eeeeeats
+- thai
+- summer-rolls
+- curry-noodles
 description: Thai dinner at Summer Summer Thai. Summer roll, crab Rangoon, corn fritters, pork steak, beef, and curry noodles. Yummy. Summer rolls make you feel less guilty. Could eat almost everyday. . . . .
 location: Thai dinner at Summer Summer Thai
+categories: []
+cuisine:
+- Thai
 ---
 
 ![Thai dinner at Summer Summer Thai](/images/posts/ig-2019-10-05-thai-dinner-at-summer-summer-thai/17874201169462744.jpg)

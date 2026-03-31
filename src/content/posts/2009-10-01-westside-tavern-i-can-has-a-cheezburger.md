@@ -1,5 +1,5 @@
 ---
-title: Westside Tavern – I Can Has A CheezBurger?
+title: Westside Tavern, Unknown
 pubDate: '2009-10-01'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -20,20 +20,17 @@ images:
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/DSCN0054.JPG
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/DSCN0057.JPG
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/IMG_0906.JPG
-categories:
-- American
-- $$
-- West LA
-- 0 pigs
-- Hamburgers
-- I Can Has A CheezBurger?
-- Westside
+categories: []
 tags:
-- West LA
+- american
+- cocktails
+- tavern-fare
 description: I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylize
 archiveUrl: https://web.archive.org/web/20110105172357/http://www.thethirstypig.com/2009/10/01/westside-tavern-i-can-has-a-cheezburger/
 draft: false
 location: Westside Tavern
+cuisine:
+- American
 ---
 
 I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylized wood accents are all around, with a bar that stretches the length of the main dining room. Tonight we were celebrating a friend’s birthday in one of their two private rooms.

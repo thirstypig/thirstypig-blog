@@ -1,5 +1,5 @@
 ---
-title: The Drunken Cure – Jinju Gomtang
+title: The Drunken Cure, Los Angeles
 pubDate: '2009-01-03'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,12 +8,12 @@ heroImage: /images/posts/the-drunken-cure-jinju-gomtang/012020081549.jpg
 images:
 - /images/posts/the-drunken-cure-jinju-gomtang/012020081549.jpg
 - /images/posts/the-drunken-cure-jinju-gomtang/012020081550.jpg
-categories:
-- Korean
-- Koreatown
-- Jinju Gomtang
+categories: []
 tags:
-- LA's Koreatown
+- los-angeles
+- korean
+- gomtang
+- beef-soup
 description: I actually like this place. Understandably, Mr. Steve knows that there are better places in Seoul than in Los Angeles. But for what we have here, I’ll take Jinju, after a heavy round of drinking. Jinj
 archiveUrl: https://web.archive.org/web/20110105195145/http://www.thethirstypig.com/2009/01/03/the-drunken-cure-jinju-gomtang/
 draft: false
@@ -23,6 +23,8 @@ region: Los Angeles
 address: '3377 Wilshire Blvd
 
   Los Angeles, CA 90010'
+cuisine:
+- Korean
 ---
 
 I actually like this place. Understandably, Mr. Steve knows that there are better places in Seoul than in Los Angeles. But for what we have here, I’ll take Jinju, after a heavy round of drinking. Jinju is great since it is open late and with those great korean table call buttons.

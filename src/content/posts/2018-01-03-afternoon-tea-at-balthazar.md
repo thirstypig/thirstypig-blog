@@ -1,5 +1,5 @@
 ---
-title: 'Afternoon tea at Balthazar, New York'
+title: Lady Mendl's Tea Salon, New York
 pubDate: '2018-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -10,13 +10,10 @@ images:
 - /images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17908235560074094.jpg
 - /images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17903131894113072.jpg
 tags:
-- frenchdining
-- soho
 - nyc
-- pommefrites
-- fries
-- profiteroles
-- afternoontea
+- french
+- afternoon-tea
+- pastries
 description: Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider.
 location: Lady Mendl's Tea Salon
 city: New York
@@ -25,6 +22,9 @@ address: 56 Irving Pl (btwn 17th & 18th St), New York, NY 10003
 coordinates:
   lat: 40.736064
   lng: -73.98727
+categories: []
+cuisine:
+- French
 ---
 
 ![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17904596176106034.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Bowl Cut at Lawry’s and all the accoutrements, Beverly Hills'
+title: CUT Beverly Hills, Beverly Hills
 pubDate: '2019-05-26'
 author: The Thirsty Pig
 source: instagram
@@ -15,16 +15,10 @@ images:
 - /images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18032391151160760.jpg
 - /images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17991903283237730.jpg
 tags:
-- eat
-- eeeeeats
-- lawrys
-- thirstypig
-- primerib
-- beverlyhills
-- bakedpotato
-- creamedcorn
-- creamedspinach
-- yorkshirepudding
+- beverly-hills
+- seafood
+- steak
+- bbq
 description: Bowl Cut at Lawry’s and all the accoutrements. . . .
 location: CUT Beverly Hills
 city: Beverly Hills
@@ -33,6 +27,9 @@ address: 9500 Wilshire Blvd ((at the Beverly Wilshire, A Four Seasons Hotel)), B
 coordinates:
   lat: 34.066425
   lng: -118.400761
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18039157528134134.jpg)

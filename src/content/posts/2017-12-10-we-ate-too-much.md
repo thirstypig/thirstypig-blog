@@ -1,5 +1,5 @@
 ---
-title: 'We ate too much, San Gabriel Valley'
+title: Clearman's Boat, San Gabriel Valley
 pubDate: '2017-12-10'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,17 @@ images:
 - /images/posts/ig-2017-12-10-we-ate-too-much/17853220891212952.jpg
 - /images/posts/ig-2017-12-10-we-ate-too-much/17853932986205436.jpg
 tags:
-- redcabbage
-- beefdip
-- pastramiburger
-- cheesebread
-- sundayfunday
-- shotoniphonex
 - sgv
-- clearmans
-- thirstypig
-- brunch
+- american
+- beef-dip
+- burgers
 description: We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember.
 location: Clearman's Boat
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- American
 ---
 
 ![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17873241091198998.jpg)

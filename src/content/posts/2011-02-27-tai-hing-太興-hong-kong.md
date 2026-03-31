@@ -4,12 +4,12 @@ pubDate: '2011-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/
-categories:
-- Causeway Bay
-- Hong Kong
+categories: []
 tags:
-- Cantonese
-- Pork
+- hong-kong
+- chinese
+- roast-meat
+- rice
 description: One of the more known styles of Cantonese cuisine is the Chinese Deli. Half butcher shop and half restaurant, the deli prepares, cooks, and serves popular meat dish of duck, chicken, pork, and sausage
 archiveUrl: https://web.archive.org/web/20161018192141/http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/
 draft: false
@@ -17,6 +17,8 @@ location: Tai Hing 太興
 city: Hong Kong
 region: Hong Kong
 address: 484 Jaffe Road
+cuisine:
+- Chinese
 ---
 
 

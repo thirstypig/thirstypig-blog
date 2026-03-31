@@ -28,20 +28,18 @@ images:
 - /images/posts/ciudad-downtown-los-angeles/4773526544_9a03ed79d6_o-88x88.jpg
 - /images/posts/ciudad-downtown-los-angeles/4773526752_402709d234_o-88x88.jpg
 - /images/posts/ciudad-downtown-los-angeles/4773527244_0ccdd1e19b_o-88x88.jpg
-categories:
-- 2 pigs
-- Latin
-- Mexican
-- Price Range 2 $/¥/NT
-- Downtown Los Angeles
+categories: []
 tags:
-- Downtown LA
-- Los Angeles
+- dtla
+- mexican
+- group-dining
 description: On this night, I had to arrange dinner for a large group, of about 40 people – my classmates from USC, for a unique Los Angeles dining experience. I wanted to find a cuisine that represented Los Angel
 archiveUrl: https://web.archive.org/web/20110105190042/http://www.thethirstypig.com/2010/07/13/ciudad-downtown-los-angeles/
 draft: false
 location: Ciudad
 city: Downtown Los Angeles
+cuisine:
+- Mexican
 ---
 
 Ciudad in Downtown Los Angeles.

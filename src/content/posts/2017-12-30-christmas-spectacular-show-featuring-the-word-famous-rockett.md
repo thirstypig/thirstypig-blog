@@ -1,5 +1,5 @@
 ---
-title: 'Radio City Music Hall, New York'
+title: Radio City Music Hall, New York
 pubDate: '2017-12-30'
 author: The Thirsty Pig
 source: instagram
@@ -11,10 +11,7 @@ images:
 - /images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17887382356161127.jpg
 - /images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17842475131238768.jpg
 tags:
-- rockettes
-- christmas
 - nyc
-- dance
 description: Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall. Great show of song and dance. .rockettes.official
 city: New York
 region: New York
@@ -23,6 +20,8 @@ address: 1260 Avenue of the Americas (at W 50th St), New York, NY 10020
 coordinates:
   lat: 40.75985
   lng: -73.979344
+categories: []
+cuisine: []
 ---
 
 ![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17898765742087459.jpg)

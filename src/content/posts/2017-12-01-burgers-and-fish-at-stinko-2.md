@@ -1,5 +1,5 @@
 ---
-title: 'Burgers and fish at Stinko 2, Pasadena'
+title: Stinko's, Pasadena
 pubDate: '2017-12-01'
 author: The Thirsty Pig
 source: instagram
@@ -11,20 +11,17 @@ images:
 - /images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17898204964106307.jpg
 - /images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17910896176035234.jpg
 tags:
-- yuck
-- burgers
-- twohey
-- gastropub
 - pasadena
-- onions
-- sgv
-- halibut
-- fish
-- onionrings
-description: 'Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like the burn crispness, but after awhile they were too greasy.'
+- american
+- burgers
+- seafood
+description: Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like the burn crispness, but after awhile they were too greasy.
 location: Stinko's
 city: Pasadena
 region: San Gabriel Valley
+categories: []
+cuisine:
+- American
 ---
 
 ![Burgers and fish at Stinko 2](/images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17850818986216471.jpg)

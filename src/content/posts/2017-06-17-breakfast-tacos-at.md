@@ -1,5 +1,5 @@
 ---
-title: 'Breakfast tacos at, Austin'
+title: Veracruz All Natural, Austin
 pubDate: '2017-06-17'
 author: The Thirsty Pig
 source: instagram
@@ -13,12 +13,17 @@ images:
 - /images/posts/ig-2017-06-17-breakfast-tacos-at/17884145872061974.jpg
 - /images/posts/ig-2017-06-17-breakfast-tacos-at/17883620410047888.jpg
 tags:
+- austin
+- mexican
+- breakfast-tacos
 - tacos
-- migas
 description: Breakfast tacos at
 location: Veracruz All Natural
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Breakfast tacos at](/images/posts/ig-2017-06-17-breakfast-tacos-at/17884250974004247.jpg)

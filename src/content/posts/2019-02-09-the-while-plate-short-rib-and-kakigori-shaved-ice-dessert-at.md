@@ -1,5 +1,5 @@
 ---
-title: The While Plate Short Rib and kakigori shaved ice dessert at Majordomo
+title: Majordomo, Downtown LA
 pubDate: '2019-02-09'
 author: The Thirsty Pig
 source: instagram
@@ -10,15 +10,10 @@ images:
 - /images/posts/ig-2019-02-09-the-while-plate-short-rib-and-kakigori-shaved-ice-dessert-at/17969933551205468.jpg
 - /images/posts/ig-2019-02-09-the-while-plate-short-rib-and-kakigori-shaved-ice-dessert-at/18030886792056549.jpg
 tags:
-- eeeeeats
-- uglydelicious
-- davidchang
-- majordomo
-- koreanfood
-- yummy
-- shortrib
-- kakigori
 - dtla
+- fusion
+- short-rib
+- kakigori
 description: The While Plate Short Rib and kakigori shaved ice dessert at Majordomo. Yum! They say the Short rib is for 4-6 people but it was just fine for 4. 🤪 . . .
 location: Majordomo
 city: Downtown LA
@@ -27,6 +22,9 @@ address: 1725 Naud St, Los Angeles, CA 90012
 coordinates:
   lat: 34.069166
   lng: -118.226142
+categories: []
+cuisine:
+- Fusion
 ---
 
 ![The While Plate Short Rib and kakigori shaved ice dessert at Majordomo](/images/posts/ig-2019-02-09-the-while-plate-short-rib-and-kakigori-shaved-ice-dessert-at/17864199772322041.jpg)

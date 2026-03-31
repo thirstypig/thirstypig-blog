@@ -1,5 +1,5 @@
 ---
-title: Valentine’s Day dinner at Bavel
+title: Bavel, Downtown LA
 pubDate: '2020-02-16'
 author: The Thirsty Pig
 source: instagram
@@ -16,14 +16,10 @@ images:
 - /images/posts/ig-2020-02-16-valentines-day-dinner-at-bavel/17882439988508152.jpg
 tags:
 - dtla
-- middleeasternfood
-- mediterraneanfood
-- mushrooms
-- lambchops
-- duck
-- eats
-- eeeeeats
-description: 'Valentine’s Day dinner at Bavel. Mediterranean/Middle Eastern cuisine. Excellent food, great service, and wonderful decor. Make sure you get the oyster mushrooms - my favorite of the night. . . . . . .'
+- mediterranean
+- oyster-mushrooms
+- middle-eastern
+description: Valentine’s Day dinner at Bavel. Mediterranean/Middle Eastern cuisine. Excellent food, great service, and wonderful decor. Make sure you get the oyster mushrooms - my favorite of the night. . . . . . .
 location: Bavel
 city: Downtown LA
 region: Los Angeles
@@ -31,6 +27,9 @@ address: 500 Mateo St, Los Angeles, CA 90013
 coordinates:
   lat: 34.041506
   lng: -118.232955
+categories: []
+cuisine:
+- Mediterranean
 ---
 
 ![Valentine’s Day dinner at Bavel](/images/posts/ig-2020-02-16-valentines-day-dinner-at-bavel/17851095541853884.jpg)

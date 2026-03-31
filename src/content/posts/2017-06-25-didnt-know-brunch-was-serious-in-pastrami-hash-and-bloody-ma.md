@@ -1,5 +1,5 @@
 ---
-title: 'Launderette, Austin'
+title: Launderette, Austin
 pubDate: '2017-06-25'
 author: The Thirsty Pig
 source: instagram
@@ -15,16 +15,17 @@ images:
 - /images/posts/ig-2017-06-25-didnt-know-brunch-was-serious-in-pastrami-hash-and-bloody-ma/17885032084016749.jpg
 - /images/posts/ig-2017-06-25-didnt-know-brunch-was-serious-in-pastrami-hash-and-bloody-ma/17863194052135969.jpg
 tags:
-- sundaybrunch
-- atx
+- austin
+- american
 - brunch
-- chickensandwich
+- pastrami-hash
 description: Didn't know brunch was serious in , pastrami hash, and Bloody Mary were yummy
-categories:
-- and Bloody Mary were yummy
+categories: []
 location: Launderette
 city: Austin
 region: Texas
+cuisine:
+- American
 ---
 
 ![Didn't know brunch was serious in , pastrami hash, and Bloody Mary were yummy](/images/posts/ig-2017-06-25-didnt-know-brunch-was-serious-in-pastrami-hash-and-bloody-ma/17884819894001006.jpg)

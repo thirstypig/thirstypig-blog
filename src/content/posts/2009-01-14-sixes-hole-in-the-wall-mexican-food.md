@@ -4,21 +4,15 @@ pubDate: '2009-01-14'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/14/sixes-hole-in-the-wall-mexican-food/
-categories:
-- West LA
-- Hole In the Wall
-- Mexican
-- Sixes
-- Los Angeles
-- Hole in the Wall Mexican Food
-- Westside
+categories: []
 tags:
-- West LA
-- Los Angeles
+- tacos
+- burritos
 description: 1. Tacos Bajahttp://www.tacosbaja.com/ – Best Fish Tacos. 2. Yuca’shttp://www.yucasla.com/ – Great Tacos and Burritos. 3. Tacos Villa Coronahttp://www.yelp.com/biz/tacos-villa-corona-los-angeles – Awe
 archiveUrl: https://web.archive.org/web/20110105203517/http://www.thethirstypig.com/2009/01/14/sixes-hole-in-the-wall-mexican-food/
 draft: false
 location: Sixes
+cuisine: []
 ---
 
 1. [Tacos Baja](http://www.tacosbaja.com/) – Best Fish Tacos.

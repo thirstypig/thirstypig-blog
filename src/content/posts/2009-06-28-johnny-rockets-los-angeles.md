@@ -4,11 +4,12 @@ pubDate: '2009-06-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/
-categories:
-- Los Angeles
+categories: []
 tags:
-- Burgers
-- Los Angeles
+- los-angeles
+- american
+- burgers
+- shakes
 description: Concept based on West LA’s Apple Panhttps://en.wikipedia.org/wiki/TheApplePan restaurant, opened in 1947 First location was on Melrose, but closed in 2015 Decent burgers and shakes The staff would oft
 archiveUrl: https://web.archive.org/web/20160828021658/http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/
 draft: false
@@ -18,6 +19,8 @@ address: 6801 Hollywood Blvd (at N Highland Ave), Hollywood, CA 90028
 coordinates:
   lat: 34.102022
   lng: -118.339547
+cuisine:
+- American
 ---
 
 

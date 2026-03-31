@@ -1,5 +1,5 @@
 ---
-title: Brunch at Toast
+title: Toast, unknown
 pubDate: '2018-10-07'
 author: The Thirsty Pig
 source: instagram
@@ -11,13 +11,14 @@ images:
 - /images/posts/ig-2018-10-07-brunch-at-toast/17868813217281352.jpg
 - /images/posts/ig-2018-10-07-brunch-at-toast/17960077909193652.jpg
 tags:
-- eeeeeats
-- toast
-- omelette
-- avocado
-- frenchbulldog
+- american
+- brunch
+- avocado-toast
 description: Brunch at Toast. The protein omelette and the avocado toast. Plus a cool looking French bulldog chillin’ next to me . . . .
 location: Brunch at Toast
+categories: []
+cuisine:
+- American
 ---
 
 ![Brunch at Toast](/images/posts/ig-2018-10-07-brunch-at-toast/17879930377272752.jpg)

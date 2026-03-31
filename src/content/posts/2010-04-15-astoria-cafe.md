@@ -1,5 +1,5 @@
 ---
-title: 'Astoria Cafe, Taipei'
+title: Toasteria Cafe, Taipei
 pubDate: '2010-04-15'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,14 +8,10 @@ heroImage: /images/posts/astoria-cafe/25605_378060793940_716198940_3687170_74491
 images:
 - /images/posts/astoria-cafe/25605_378060793940_716198940_3687170_7449193_n.jpg
 - /images/posts/astoria-cafe/25605_378060888940_716198940_3687175_631787_n.jpg
-categories:
-- $$
-- Taipei
-- Russian
-- 1 pig
-- Dessert
+categories: []
 tags:
-- Taipei 台北
+- taipei
+- coffee
 description: It was so many years back when I noticed this famous cafe ‘Astoria Cafe 明星咖啡館http://www.astoria.com.tw/‘ in 隱地http://zh.wikipedia.org/wiki/%E9%9A%B1%E5%9C%B0‘s books. He was one of my favourite Chines
 archiveUrl: https://web.archive.org/web/20110105142951/http://www.thethirstypig.com/2010/04/15/astoria-cafe/
 draft: false
@@ -26,6 +22,8 @@ address: 敦化南路一段169巷3號, 台北市,  106
 coordinates:
   lat: 25.043327
   lng: 121.549553
+cuisine:
+- Coffee
 ---
 
 It was so many years back when I noticed this famous cafe ‘[Astoria Cafe (明星咖啡館)](http://www.astoria.com.tw/)‘ in [隱地](http://zh.wikipedia.org/wiki/%E9%9A%B1%E5%9C%B0)‘s books. He was one of my favourite Chinese writers when I was a NZ high school student. He often mentioned that Astoria Cafe was a cafe where most literary authors loved to spend the whole day in there while only ordered **one** cup of coffee! The Astoria Cafe was closed in 1989 and what he missed that good old time so much.

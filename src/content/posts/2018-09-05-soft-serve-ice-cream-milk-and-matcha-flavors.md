@@ -1,5 +1,5 @@
 ---
-title: Soft serve ice cream - milk and matcha flavors
+title: SomiSomi, unknown
 pubDate: '2018-09-05'
 author: The Thirsty Pig
 source: instagram
@@ -9,15 +9,14 @@ images:
 - /images/posts/ig-2018-09-05-soft-serve-ice-cream-milk-and-matcha-flavors/17959270741127165.jpg
 - /images/posts/ig-2018-09-05-soft-serve-ice-cream-milk-and-matcha-flavors/17951225599188728.jpg
 tags:
-- thirstypig
-- icecream
+- dessert
+- soft-serve
 - matcha
-- milk
-- softserve
 description: Soft serve ice cream - milk and matcha flavors. SomiSomi . . . .
 location: Soft serve ice cream
-categories:
-- milk and matcha flavors
+categories: []
+cuisine:
+- Dessert
 ---
 
 ![Soft serve ice cream - milk and matcha flavors](/images/posts/ig-2018-09-05-soft-serve-ice-cream-milk-and-matcha-flavors/17959270741127165.jpg)

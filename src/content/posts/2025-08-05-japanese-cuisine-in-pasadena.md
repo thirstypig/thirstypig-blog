@@ -1,10 +1,19 @@
 ---
-title: Japanese cuisine in Pasadena
-pubDate: '2025-08-05'
+title: Yakiya, Pasadena
+pubDate: 2025-08-05 00:00:00+00:00
+description: Japanese cuisine in Pasadena. Yakiniku. The best thing we had was the beef bone marrow fried rice. The grilled beef was very good. Great service. Would return again. . . . 🐮
 author: The Thirsty Pig
-source: instagram
-draft: false
 heroImage: /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg
+categories: []
+tags:
+- pasadena
+location: Yakiya
+city: Pasadena
+region: CA
+address: 3455 E Foothill Blvd, Pasadena, CA 91107
+coordinates:
+  lat: 33.9905184
+  lng: -117.93236019999998
 images:
 - /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg
 - /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18303708424218060.jpg
@@ -15,20 +24,8 @@ images:
 - /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18048601415255202.jpg
 - /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18100678369600867.jpg
 - /images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18073121564062885.jpg
-tags:
-- yakiniku
-- yakinikuð
-- beef
-description: Japanese cuisine in Pasadena. Yakiniku. The best thing we had was the beef bone marrow fried rice. The grilled beef was very good. Great service. Would return again. . . . 🐮
-location: Equinox Pasadena
-city: Pasadena
-region: Pasadena
-categories:
-- Pasadena
-address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
-coordinates:
-  lat: 34.145032
-  lng: -118.145536
+source: instagram
+draft: false
 ---
 
 ![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg)
@@ -55,4 +52,4 @@ coordinates:
 .
 .
 .
-#yakiniku #yakiniku🐮 #beef
+\#yakiniku #yakiniku🐮 #beef

@@ -1,5 +1,5 @@
 ---
-title: 'Satisfying breakfast at Jenny’s Kitchen, Los Angeles'
+title: Jenny's Kitchen, Los Angeles
 pubDate: '2019-03-24'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,17 @@ images:
 - /images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/17848197556380549.jpg
 - /images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18050378065053616.jpg
 tags:
+- los-angeles
+- mexican
 - chilaquiles
-- chilaquilesverdes
-- eggs
-- breakfast
-- santafesprings
-- whittier
-- la
-- eeeeeats
-- porkchiliverde
-- spicy
-description: 'Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped with the classic photos.'
+- brunch
+description: Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped with the classic photos.
 location: Jenny's Kitchen
 city: Los Angeles
 region: Los Angeles
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18048457702001458.jpg)

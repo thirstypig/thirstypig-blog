@@ -1,5 +1,5 @@
 ---
-title: 'Cheese Burger and Fries at Five Guys, New York'
+title: Five Guys, New York
 pubDate: '2019-05-19'
 author: The Thirsty Pig
 source: instagram
@@ -9,13 +9,10 @@ images:
 - /images/posts/ig-2019-05-19-cheese-burger-and-fries-at-five-guys/17875650913367958.jpg
 - /images/posts/ig-2019-05-19-cheese-burger-and-fries-at-five-guys/18049354573107558.jpg
 tags:
-- eeeeeats
-- fiveguys
-- burger
-- cheeseburger
-- fries
-- chelseanyc
 - nyc
+- american
+- burgers
+- fries
 description: Cheese Burger and Fries at Five Guys. . . .
 location: Five Iron Golf
 city: New York
@@ -24,6 +21,9 @@ address: 138 5th Ave (19th Street), New York, NY 10011
 coordinates:
   lat: 40.738959
   lng: -73.991544
+categories: []
+cuisine:
+- American
 ---
 
 ![Cheese Burger and Fries at Five Guys](/images/posts/ig-2019-05-19-cheese-burger-and-fries-at-five-guys/17875650913367958.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Stumbled across Bryant Park, with loads of ice skaters,...'
+title: Stumbled across Bryant Park, with loads of ice skaters,...
 pubDate: '2018-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -11,19 +11,12 @@ images:
 - /images/posts/ig-2018-01-03-stumbled-across-bryant-park-with-loads-of-ice-skaters-on-our/17858315770206866.jpg
 - /images/posts/ig-2018-01-03-stumbled-across-bryant-park-with-loads-of-ice-skaters-on-our/17858682562201869.jpg
 tags:
-- bryantpark
-- nyc
-- christmasinnyc
-- empirestatebuilding
-- thirstypig
-- iceskating
-- timelapse
-- shotoniphonex
-description: 'Stumbled across Bryant Park, with loads of ice skaters, on our way home to Brooklyn. Thought about getting some skates to show off some old skills, but decided to rest my feet. Saw the Empire State Building. Also saw a frozen water fountain.'
+- brooklyn
+description: Stumbled across Bryant Park, with loads of ice skaters, on our way home to Brooklyn. Thought about getting some skates to show off some old skills, but decided to rest my feet. Saw the Empire State Building. Also saw a frozen water fountain.
 city: Brooklyn
-categories:
-- on our way home to Br...
+categories: []
 region: New York
+cuisine: []
 ---
 
 ![Stumbled across Bryant Park, with loads of ice skaters, on our way home to Br...](/images/posts/ig-2018-01-03-stumbled-across-bryant-park-with-loads-of-ice-skaters-on-our/17892164332186175.jpg)

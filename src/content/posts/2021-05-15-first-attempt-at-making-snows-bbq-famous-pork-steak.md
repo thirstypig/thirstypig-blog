@@ -1,5 +1,5 @@
 ---
-title: First attempt at making Snow’s BBQ famous pork steak
+title: Snow's BBQ, Austin
 pubDate: '2021-05-15'
 author: The Thirsty Pig
 source: instagram
@@ -10,20 +10,16 @@ images:
 - /images/posts/ig-2021-05-15-first-attempt-at-making-snows-bbq-famous-pork-steak/17919798562633605.jpg
 - /images/posts/ig-2021-05-15-first-attempt-at-making-snows-bbq-famous-pork-steak/17902859113858410.jpg
 tags:
+- austin
 - bbq
-- porksteak
-- yummy
-- tender
-- firsttime
-- eeeeeats
-- eats
-- backyardbbq
-- wsm
-- webersmokeymountain
+- pork-steak
 description: First attempt at making Snow’s BBQ famous pork steak. It taste really good, but it was way too tender. I was looking for a texture that was had some solid chew or mouth feel. Not something you could e
 location: making Snow’s BBQ famous pork steak
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![First attempt at making Snow’s BBQ famous pork steak](/images/posts/ig-2021-05-15-first-attempt-at-making-snows-bbq-famous-pork-steak/17910630751816508.jpg)

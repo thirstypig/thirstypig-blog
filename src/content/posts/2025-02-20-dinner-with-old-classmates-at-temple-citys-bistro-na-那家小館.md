@@ -1,5 +1,5 @@
 ---
-title: 'Thien Hau Temple, Los Angeles'
+title: Thien Hau Temple, Los Angeles
 pubDate: '2025-02-20'
 author: The Thirsty Pig
 source: instagram
@@ -17,17 +17,8 @@ images:
 - /images/posts/ig-2025-02-20-dinner-with-old-classmates-at-temple-citys-bistro-na-那家小館/17941100624840176.jpg
 - /images/posts/ig-2025-02-20-dinner-with-old-classmates-at-temple-citys-bistro-na-那家小館/18060380272946838.jpg
 tags:
-- recommend
-- wouldreturn
-- thirstypig
-- tastemakersapp
-- eats
-- eeeeats
-- cny
-- thirstypigrecommends
-- thirstypigwouldreturn
-- chinesefood
-description: 'Anyways… of course I would recommend and would return. What also made this night special was the cool private room. I know for western cuisines there are some restaurants with private rooms. But I think when having a large dinner party - private rooms are the way to go! . . .'
+- los-angeles
+description: Anyways… of course I would recommend and would return. What also made this night special was the cool private room. I know for western cuisines there are some restaurants with private rooms. But I think when having a large dinner party - private rooms are the way to go! . . .
 location: Thien Hau Temple
 city: Los Angeles
 region: Los Angeles
@@ -35,6 +26,7 @@ address: 750-756 Yale St (at Alpine St.), Los Angeles, CA 90012
 coordinates:
   lat: 34.062746
   lng: -118.240956
+categories: []
 ---
 
 ![Dinner with old classmates at Temple City’s Bistro Na 那家小館](/images/posts/ig-2025-02-20-dinner-with-old-classmates-at-temple-citys-bistro-na-那家小館/17944698251824815.jpg)

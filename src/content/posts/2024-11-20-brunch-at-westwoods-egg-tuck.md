@@ -1,34 +1,26 @@
 ---
-title: Brunch at Westwood’s Egg Tuck
-pubDate: 2024-11-20T00:00:00.000Z
+title: Egg Tuck, Los Angeles
+pubDate: 2024-11-20 00:00:00+00:00
 description: Brunch at Westwood’s Egg Tuck. This local chain of breakfast sandwiches and burritos makes solid eggy handhelds. Within the yolk colored walls they focus on just a few menu items. Of course I had to g
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg
 tags:
-  - eggtuck
-  - westwood
-  - breakfastburrito
-  - burrito
-  - breakfast
-  - losangeleseats
-  - tastemaker
-  - tastemakers
-  - eats
-  - eeeeeats
+- los-angeles
 location: Egg Tuck
 city: Los Angeles
 region: CA
-address: '1049 Gayley Ave, Los Angeles, CA 90024, USA'
+address: 1049 Gayley Ave, Los Angeles, CA 90024, USA
 coordinates:
   lat: 34.0610388
   lng: -118.44741979999999
 images:
-  - /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg
-  - /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/18099558025464032.jpg
-  - /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/18473847817048877.jpg
-  - /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17946382286906928.jpg
+- /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg
+- /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/18099558025464032.jpg
+- /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/18473847817048877.jpg
+- /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17946382286906928.jpg
 source: instagram
 draft: false
+categories: []
 ---
 
 ![Brunch at Westwood’s Egg Tuck](/images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg)

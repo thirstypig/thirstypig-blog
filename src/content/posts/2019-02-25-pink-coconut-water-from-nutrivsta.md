@@ -1,5 +1,5 @@
 ---
-title: Pink Coconut Water from Nutrivsta
+title: Nutrivsta, Unknown
 pubDate: '2019-02-25'
 author: The Thirsty Pig
 source: instagram
@@ -9,18 +9,13 @@ images:
 - /images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/17856078694352176.jpg
 - /images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/18012946126091381.jpg
 tags:
-- coconutwater
-- pinkcoconutwater
-- pink
-- thirsty
-- eeeeeats
-- drinks
-- coconut
-- '100'
-- onehundredpercentnatural
-- onehundredpercentyoungcoconut
+- beverage
+- coconut-water
 description: Pink Coconut Water from Nutrivsta. Better that water when you’re dehydrated! . . .
 location: Pink Coconut Water from Nutrivsta
+categories: []
+cuisine:
+- Beverage
 ---
 
 ![Pink Coconut Water from Nutrivsta](/images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/17856078694352176.jpg)

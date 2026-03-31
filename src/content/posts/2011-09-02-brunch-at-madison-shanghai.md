@@ -1,5 +1,5 @@
 ---
-title: Brunch at Madison, Shanghai
+title: Madison, Shanghai
 pubDate: '2011-09-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,13 +13,7 @@ images:
 - /images/posts/brunch-at-madison-shanghai/Madion-Brunch-14-494x370.jpg
 - /images/posts/brunch-at-madison-shanghai/Madion-Brunch-17-494x370.jpg
 - /images/posts/brunch-at-madison-shanghai/Madion-Brunch-19-494x370.jpg
-categories:
-- 3 pigs
-- American
-- Breakfast
-- Brunch
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I wa
 archiveUrl: https://web.archive.org/web/20111011064242/http://www.thethirstypig.com/2011/09/02/brunch-at-madison-shanghai/
 draft: false
@@ -30,6 +24,12 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+tags:
+- shanghai
+- american
+- fine-dining
+cuisine:
+- American
 ---
 
 One of Shanghai’s decorated and awarded restaurants in the past 12 months, Madison opened to with a flurry of excitement from foodies, bloggers, and expats. After finally finding some time to go, I was looking forward to my virginal Madison experience.

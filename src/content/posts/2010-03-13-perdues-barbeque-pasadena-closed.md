@@ -1,14 +1,14 @@
 ---
-title: Perdue’s Barbeque, Pasadena (Closed)
+title: Perdue’s Barbeque, Pasadena
 pubDate: '2010-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/
-categories:
-- Pasadena
+categories: []
 tags:
-- Bbq
-- closed
+- pasadena
+- bbq
+- meat
 description: Maybe I shouldn’t have said “Best” but it sure tasted like it that day. With the stars aligned, with a full moon, and on my birthday the meat consumed like gods on this day. Everything was clicking li
 archiveUrl: https://web.archive.org/web/20161105172340/http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/
 draft: false
@@ -16,6 +16,8 @@ location: Perdue’s Barbeque
 city: Pasadena
 region: Pasadena
 address: 456 E Orange Grove Ave Pasadena, CA 91104
+cuisine:
+- BBQ
 ---
 
 

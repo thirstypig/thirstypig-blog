@@ -1,5 +1,5 @@
 ---
-title: Allston Yacht Club of Echo Park
+title: Allston Yacht Club, Los Feliz
 pubDate: '2010-05-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -22,14 +22,10 @@ images:
 - /images/posts/allston-yacht-club/IMG_1398-185x185.jpg
 - /images/posts/allston-yacht-club/IMG_1399-185x185.jpg
 - /images/posts/allston-yacht-club/IMG_1400-185x185.jpg
-categories:
-- 2 pigs
-- American
-- Los Angeles
-- Los Feliz
-- Central LA
+categories: []
 tags:
-- $$
+- los-feliz
+- cocktails
 description: But in sell honesty, Allston Yacht Club is for the yuppies of the westside, or downtown LA, or even a few miles east to silver lake.
 archiveUrl: https://web.archive.org/web/20100528125911/http://www.thethirstypig.com:80/2010/05/24/allston-yacht-club/
 draft: false
@@ -40,6 +36,8 @@ address: 1419 Colton St (Glendale), Los Angeles, CA 90026
 coordinates:
   lat: 34.064404
   lng: -118.259074
+cuisine:
+- Cocktails
 ---
 
 SHARETHIS.addEntry({ title: 'Allston Yacht Club of Echo Park, Los Feliz', url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });

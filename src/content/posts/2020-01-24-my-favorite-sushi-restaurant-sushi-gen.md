@@ -17,12 +17,13 @@ images:
 - /images/posts/ig-2020-01-24-my-favorite-sushi-restaurant-sushi-gen/18124622629015520.jpg
 - /images/posts/ig-2020-01-24-my-favorite-sushi-restaurant-sushi-gen/17887012684470746.jpg
 tags:
+- japanese
 - sushi
-- jtown
-- uni
-- eeeeeats
-- eat
-description: 'My favorite Sushi Restaurant- Sushi Gen. Kaz is the best. Used to drink with him when they allowed it. Had many good times before and had a great time last night. Happy Anniversary! Had Uni, Hirame, Toro, Ama-ebi, Hamachi, Saba, and a few others. . . . . .'
+- nigiri
+description: My favorite Sushi Restaurant- Sushi Gen. Kaz is the best. Used to drink with him when they allowed it. Had many good times before and had a great time last night. Happy Anniversary! Had Uni, Hirame, Toro, Ama-ebi, Hamachi, Saba, and a few others. . . . . .
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![My favorite Sushi Restaurant- Sushi Gen](/images/posts/ig-2020-01-24-my-favorite-sushi-restaurant-sushi-gen/17843854960902512.jpg)

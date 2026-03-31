@@ -1,5 +1,5 @@
 ---
-title: 'Knife cut noodles from Noodle St, Monrovia'
+title: Noodle St., Monrovia
 pubDate: '2018-09-23'
 author: The Thirsty Pig
 source: instagram
@@ -12,16 +12,11 @@ images:
 - /images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17919214804216248.jpg
 - /images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17893024189249726.jpg
 tags:
-- noodlest
-- noodles
-- knifecutnoodles
-- å
-- eeeeeats
 - monrovia
-- thirstypig
-- jarren
-- tobin
-description: 'Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we went here . . . . .'
+- chinese
+- knife-cut-noodles
+- noodles
+description: Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we went here . . . . .
 location: Studio Movie Grill Monrovia
 city: Monrovia
 region: San Gabriel Valley
@@ -29,6 +24,9 @@ address: 410 South Myrtle Ave, Monrovia, CA 91016
 coordinates:
   lat: 34.14754
   lng: -118.000373
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17920566094214043.jpg)

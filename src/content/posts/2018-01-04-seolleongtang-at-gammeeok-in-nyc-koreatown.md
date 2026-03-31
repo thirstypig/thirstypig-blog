@@ -1,5 +1,5 @@
 ---
-title: Seolleongtang at Gammeeok, in NYC Koreatown
+title: Gammeeok, New York
 pubDate: '2018-01-04'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,17 @@ images:
 - /images/posts/ig-2018-01-04-seolleongtang-at-gammeeok-in-nyc-koreatown/17899387564089644.jpg
 - /images/posts/ig-2018-01-04-seolleongtang-at-gammeeok-in-nyc-koreatown/17903380993115351.jpg
 tags:
-- nyc
 - koreatown
+- korean
 - seolleongtang
-- sogogigukbap
-- open24hours
-- ktownnyc
-- coldwintersnight
-- thirstypig
-description: 'Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are the best for a cold winter night. We also had the spicy oxtail soup (Sogogi Gukbap) and kimchi pancake (Jeon). Unfortunately the seolleongtang was not popping hot and the broth was slightly lacking in flavor - had to pepper it more than usual. But the Sogogi Gukbap was really good and flavorful, without any help. The kimchi jeon was decent.'
+- soup
+description: Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are the best for a cold winter night. We also had the spicy oxtail soup (Sogogi Gukbap) and kimchi pancake (Jeon). Unfortunately the seolleongtang was not popping hot and the broth was slightly lacking in flavor - had to pepper it more than usual. But the Sogogi Gukbap was really good and flavorful, without any help. The kimchi jeon was decent.
 location: Gammeeok
 city: Koreatown
 region: Koreatown
-categories:
-- Koreatown
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Seolleongtang at Gammeeok, in NYC Koreatown](/images/posts/ig-2018-01-04-seolleongtang-at-gammeeok-in-nyc-koreatown/17914609630065490.jpg)

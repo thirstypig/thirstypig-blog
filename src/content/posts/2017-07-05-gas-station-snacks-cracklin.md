@@ -1,5 +1,5 @@
 ---
-title: Gas Station Snacks - Cracklin
+title: Gas Station Snacks, unknown
 pubDate: '2017-07-05'
 author: The Thirsty Pig
 source: instagram
@@ -9,13 +9,14 @@ images:
 - /images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17878323493076163.jpg
 - /images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17887063366058172.jpg
 tags:
+- cajun
+- snacks
 - cracklin
-- pork
-- thirstypig
 description: Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market
 location: Gas Station Snacks
-categories:
-- Cracklin
+categories: []
+cuisine:
+- Cajun
 ---
 
 ![Gas Station Snacks - Cracklin](/images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17878323493076163.jpg)

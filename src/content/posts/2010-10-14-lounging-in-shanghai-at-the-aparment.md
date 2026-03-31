@@ -1,5 +1,5 @@
 ---
-title: Lounging in Shanghai at The Aparment
+title: Lounging in Shanghai at The Aparment, Shanghai
 pubDate: '2010-10-14'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,12 +11,7 @@ images:
 - /images/posts/lounging-in-shanghai-at-the-aparment/The-Apartment-Shanghai-04-88x88.jpg
 - /images/posts/lounging-in-shanghai-at-the-aparment/The-Apartment-Shanghai-08-88x88.jpg
 - /images/posts/lounging-in-shanghai-at-the-aparment/The-Apartment-Shanghai-10-88x88.jpg
-categories:
-- 3 pigs
-- Cocktail
-- Price Range 2 $/¥/NT
-- Shanghai
-- XuHui District
+categories: []
 description: The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.
 archiveUrl: https://web.archive.org/web/20101017223621/http://www.thethirstypig.com:80/2010/10/14/lounging-in-shanghai-at-the-aparment/
 draft: false
@@ -24,6 +19,12 @@ location: Lounging in Shanghai at The Aparment
 city: Shanghai
 region: Shanghai
 address: 47 Yongfu Rd
+tags:
+- shanghai
+- cocktails
+- pizza
+cuisine:
+- Cocktails
 ---
 
 The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.

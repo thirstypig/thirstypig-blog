@@ -1,18 +1,15 @@
 ---
-title: Boxing Cat Brewery, Shanghai
+title: Boxing Cat Brewery (拳击猫餐厅), Shanghai
 pubDate: '2011-09-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/
-categories:
-- American
-- Price Range 2 $/¥/NT
-- Xuhui
-- Southern
-- 2 pigs
-- Shanghai
+categories: []
 tags:
-- American
+- shanghai
+- american
+- comfort-food
+- southern
 description: When it comes to comfort food, almost nothing compares to good ole hearty American Southern cuisine. As much as we hate it, lard, butter, and grease are all necessary evils and ingredients for wholeso
 archiveUrl: https://web.archive.org/web/20161105165307/http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/
 draft: false
@@ -23,6 +20,8 @@ address: 82 Fuxing W Rd (Yongfu Rd), Xuhui, 上海市, 200031
 coordinates:
   lat: 31.212586
   lng: 121.438435
+cuisine:
+- American
 ---
 
 

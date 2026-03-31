@@ -1,5 +1,5 @@
 ---
-title: 'Sichuan Noodles at a bunch of different noodles, San Gabriel'
+title: Hui Tou Xiang Noodles House, San Gabriel
 pubDate: '2017-11-11'
 author: The Thirsty Pig
 source: instagram
@@ -14,17 +14,11 @@ images:
 - /images/posts/ig-2017-11-11-sichuan-noodles-at-a-bunch-of-different-noodles/17907029935034723.jpg
 - /images/posts/ig-2017-11-11-sichuan-noodles-at-a-bunch-of-different-noodles/17895192523100541.jpg
 tags:
-- jgold101
+- san-gabriel
+- chinese
 - noodles
-- sichuan
-- longasswait
-- chinesefood
-- sgv
-- lotsofparking
-- thirstypig
-- shotoniphone
-- timelaspe
-description: 'Sichuan Noodles at a bunch of different noodles. I had the Sichuan spicy cold noodles. The pork fried dumplings with spicy sauce and black fungus mushrooms. Better the second time around. Noodles texture was better than ok but the sauce was the big draw.'
+- dumplings
+description: Sichuan Noodles at a bunch of different noodles. I had the Sichuan spicy cold noodles. The pork fried dumplings with spicy sauce and black fungus mushrooms. Better the second time around. Noodles texture was better than ok but the sauce was the big draw.
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley
@@ -32,6 +26,9 @@ address: 704 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102047
   lng: -118.109943
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Sichuan Noodles at a bunch of different noodles](/images/posts/ig-2017-11-11-sichuan-noodles-at-a-bunch-of-different-noodles/17907377224051422.jpg)

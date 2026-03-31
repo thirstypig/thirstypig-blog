@@ -1,16 +1,14 @@
 ---
-title: Meet, Kerry Hotel, Shanghai
+title: Kerry Hotel Pudong, Shanghai (上海浦东嘉里大酒店), Shanghai
 pubDate: '2011-10-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
-categories:
-- Pudong
-- Shanghai
+categories: []
 tags:
-- American
-- Hotel
-- Steak
+- shanghai
+- multi
+- hotel-dining
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106060450/http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
 draft: false
@@ -21,6 +19,8 @@ address: 1388 Huamu Rd (at Fangdian Rd), 浦东, 上海市, 201204
 coordinates:
   lat: 31.21539
   lng: 121.559291
+cuisine:
+- Multi
 ---
 
 

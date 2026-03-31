@@ -14,20 +14,20 @@ images:
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0210.JPG
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0212.JPG
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0213.JPG
-categories:
-- Downtown LA
-- American
-- $$
-- 3 pigs
-- Downtown Los Angeles
+categories: []
 tags:
-- Downtown LA
+- dtla
+- american
+- burgers
+- cafe
 description: I found this place on a recommendation from a friend. We were looking for a non-Asian place to go. Then my buddy starts talking about a cafe, how cool it is, with artwork, and great burgers. All I hea
 archiveUrl: https://web.archive.org/web/20110105211054/http://www.thethirstypig.com/2010/01/22/blu-la-cafe-downtown-los-angeles/
 draft: false
 location: Blu La Cafe
 city: Downtown Los Angeles
 region: Downtown LA
+cuisine:
+- American
 ---
 
 I found this place on a recommendation from a friend. We were looking for a non-Asian place to go. Then my buddy starts talking about a cafe, how cool it is, with artwork, and great burgers. All I heard blah blah blah and GREAT BURGERS!

@@ -1,5 +1,5 @@
 ---
-title: Honey Pig – Korean BBQ
+title: Honey Pig, Koreatown
 pubDate: '2009-01-14'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -12,13 +12,12 @@ images:
 - /images/posts/honey-pig-korean-bbq/n639612684_1399153_6295.jpg
 - /images/posts/honey-pig-korean-bbq/n639612684_1399155_6794.jpg
 - /images/posts/honey-pig-korean-bbq/n639612684_1399160_8076.jpg
-categories:
-- Korean
-- Koreatown
-- Barbeque
-- Korean BBQ
+categories: []
 tags:
-- LA's Koreatown
+- koreatown
+- korean
+- bbq
+- kimchi
 description: I’ve been asked to write a little about this place. So, here it goes. . .
 archiveUrl: https://web.archive.org/web/20110105195114/http://www.thethirstypig.com/2009/01/14/honey-pig-korean-bbq/
 draft: false
@@ -29,6 +28,8 @@ address: 3400 W 8th St, Los Angeles, CA 90005
 coordinates:
   lat: 34.057682
   lng: -118.303099
+cuisine:
+- Korean
 ---
 
 I’ve been asked to write a little about this place. So, here it goes. . .

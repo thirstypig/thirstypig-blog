@@ -1,5 +1,5 @@
 ---
-title: 'Korean Dinner at Genwa Korean BBQ in Beverly Hills we had...'
+title: Genwa Korean BBQ, Beverly Hills
 pubDate: '2018-02-18'
 author: The Thirsty Pig
 source: instagram
@@ -14,17 +14,21 @@ images:
 - /images/posts/ig-2018-02-18-korean-dinner-at-genwa-korean-bbq-in-beverly-hills-we-had-ch/17901048451142105.jpg
 - /images/posts/ig-2018-02-18-korean-dinner-at-genwa-korean-bbq-in-beverly-hills-we-had-ch/17898417052179289.jpg
 tags:
-- thirstypig
+- beverly-hills
+- korean
+- bbq
+- kimchi
 description: Korean Dinner at Genwa Korean BBQ in Beverly Hills we had chapchae, kimchi pancake, beef, pork belly bbq, seolleongtang, sundubue, and tolsopbimbibap. Too much.
 location: Genwa Korean BBQ
 city: Beverly Hills
-categories:
-- kimchi p...
+categories: []
 region: Los Angeles
 address: 170 N La Cienega Blvd, Beverly Hills, CA 90211
 coordinates:
   lat: 34.069089
   lng: -118.376111
+cuisine:
+- Korean
 ---
 
 ![Korean Dinner at Genwa Korean BBQ in Beverly Hills we had chapchae, kimchi p...](/images/posts/ig-2018-02-18-korean-dinner-at-genwa-korean-bbq-in-beverly-hills-we-had-ch/17902029022136795.jpg)

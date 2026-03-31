@@ -1,5 +1,5 @@
 ---
-title: "Park's BBQ, Koreatown"
+title: Park's BBQ, Koreatown
 pubDate: '2017-11-04'
 author: The Thirsty Pig
 source: instagram
@@ -10,12 +10,17 @@ images:
 - /images/posts/ig-2017-11-04-grilled-shrimp-bowl-from-says-the-grilled-shrimp-was-really/17847273040214303.jpg
 - /images/posts/ig-2017-11-04-grilled-shrimp-bowl-from-says-the-grilled-shrimp-was-really/17892032959126478.jpg
 tags:
-- oleego
+- koreatown
 - korean
+- bbq
+- grilled-shrimp
 description: Grilled Shrimp bowl from says the grilled shrimp was really good.
 location: Park's BBQ
 city: Koreatown
 region: Los Angeles
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Grilled Shrimp bowl from says the grilled shrimp was really good](/images/posts/ig-2017-11-04-grilled-shrimp-bowl-from-says-the-grilled-shrimp-was-really/17847279019212817.jpg)

@@ -1,5 +1,5 @@
 ---
-title: My favorite Ice Cream shop - moo creamery in Sierra Madre
+title: Moo Creamery, Sierra Madre
 pubDate: '2020-05-25'
 author: The Thirsty Pig
 source: instagram
@@ -10,15 +10,16 @@ images:
 - /images/posts/ig-2020-05-25-my-favorite-ice-cream-shop-moo-creamery-in-sierra-madre/18143062933020808.jpg
 - /images/posts/ig-2020-05-25-my-favorite-ice-cream-shop-moo-creamery-in-sierra-madre/17854670102020138.jpg
 tags:
-- beatcovid19
-- icecream
-- sierramadre
-- youwouldlikeittoo
-description: 'My favorite Ice Cream shop - moo creamery in Sierra Madre. So happy they’re open. Had the triple milk in a cup and wifey had the vanilla, as usual. And splurged on a brownie too. Brownie was surprisingly yummy. Have had one in a long time. Need to suppose our local businesses. . . . . .'
+- sierra-madre
+- dessert
+- ice-cream
+- brownie
+description: My favorite Ice Cream shop - moo creamery in Sierra Madre. So happy they’re open. Had the triple milk in a cup and wifey had the vanilla, as usual. And splurged on a brownie too. Brownie was surprisingly yummy. Have had one in a long time. Need to suppose our local businesses. . . . . .
 city: Sierra Madre
-categories:
-- moo creamery in Sierra Madre
+categories: []
 region: San Gabriel Valley
+cuisine:
+- Dessert
 ---
 
 ![My favorite Ice Cream shop - moo creamery in Sierra Madre](/images/posts/ig-2020-05-25-my-favorite-ice-cream-shop-moo-creamery-in-sierra-madre/17890151440527261.jpg)

@@ -8,15 +8,10 @@ heroImage: /images/posts/ig-2022-02-12-smoked-beef-ribs/17925525596123602.jpg
 images:
 - /images/posts/ig-2022-02-12-smoked-beef-ribs/17925525596123602.jpg
 - /images/posts/ig-2022-02-12-smoked-beef-ribs/18027087697342617.jpg
-tags:
-- wsm
-- smokedbbq
-- smokedmeat
-- bbq
-- texasbbq
-- beefribs
+tags: []
 description: smoked beef ribs. I smoked this for 7 hours last night. Yummy. Salt, pepper, and garlic dry rub. Used my Webber Smokey mountain. Costco ribs . . . . .
 location: smoked beef ribs
+categories: []
 ---
 
 ![smoked beef ribs](/images/posts/ig-2022-02-12-smoked-beef-ribs/17925525596123602.jpg)

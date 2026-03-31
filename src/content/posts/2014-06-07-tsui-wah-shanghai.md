@@ -1,18 +1,15 @@
 ---
-title: Tsui Wah, Shanghai
+title: Tsui Wah Restaurant (翠华餐厅), Shanghai
 pubDate: '2014-06-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
-categories:
-- Hong Kong
-- Jingan District
-- Shanghai
-- Xuhui District
+categories: []
 tags:
-- Cantonese
-- Hong Kong
-- Shanghai
+- shanghai
+- chinese
+- bbq-pork
+- pineapple-buns
 description: Went to my first one in Hong Kong, in 2003 Love the bbq pork and roast pork Gets crowded fast. Especially before and after the clubs open and close The Pineapple buns are good and popular. Probably th
 archiveUrl: https://web.archive.org/web/20160915042555/http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
 draft: false
@@ -23,6 +20,8 @@ address: 618 Xujiahui Rd  | 徐家汇路618号 (1/F-A01 SML Center | 日月光�
 coordinates:
   lat: 31.209229
   lng: 121.463235
+cuisine:
+- Chinese
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Seafood at, Silver Lake'
+title: Hop Li Seafood Restaurant, Silver Lake
 pubDate: '2022-07-29'
 author: The Thirsty Pig
 source: instagram
@@ -17,17 +17,8 @@ images:
 - /images/posts/ig-2022-07-29-seafood-at/17944692332017280.jpg
 - /images/posts/ig-2022-07-29-seafood-at/17940725234277588.jpg
 tags:
-- seafood
-- silverlake
-- losangeles
-- oysters
-- shrimp
-- fishchips
-- scallops
-- lobster
-- lobsterroll
-- clams
-description: 'Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!! . . . . .'
+- silver-lake
+description: Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!! . . . . .
 location: Hop Li Seafood Restaurant
 city: Silver Lake
 region: Los Angeles
@@ -35,6 +26,7 @@ address: 526 Alpine St (at Yale St), Los Angeles, CA 90012
 coordinates:
   lat: 34.062902
   lng: -118.240577
+categories: []
 ---
 
 ![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17843287757817907.jpg)

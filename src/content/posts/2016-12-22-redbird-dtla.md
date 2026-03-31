@@ -1,16 +1,15 @@
 ---
-title: Redbird, DTLA
+title: Redbird, Dtla
 pubDate: '2016-12-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/22/redbird-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- American
-- Burgers
+- dtla
+- american
+- burgers
+- brunch
 description: Pretty awesome Prime Burger with remoulade and vintage cheddar Courtyard dining area is open and airy, ideal for lunch or weekend brunch Valet Parking is probably your only option, since street parkin
 archiveUrl: https://web.archive.org/web/20161223002001/http://thirstypig.com/2016/12/22/redbird-dtla/
 draft: false
@@ -18,6 +17,8 @@ location: Redbird
 city: Dtla
 region: Downtown LA
 address: 114 East Second St
+cuisine:
+- American
 ---
 
 

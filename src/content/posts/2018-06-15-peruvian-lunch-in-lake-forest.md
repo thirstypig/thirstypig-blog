@@ -1,5 +1,5 @@
 ---
-title: 'Peruvian lunch in Lake Forest, Irvine'
+title: In-N-Out Burger, Irvine
 pubDate: '2018-06-15'
 author: The Thirsty Pig
 source: instagram
@@ -9,16 +9,10 @@ images:
 - /images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17938296484119380.jpg
 - /images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17933098663089679.jpg
 tags:
-- chickensaltado
-- chickenpicante
-- peruvianfood
+- irvine
 - peruvian
-- inkagrill
-- thirstypig
-- chicken
-- tgif
-- fridays
-- oc
+- chicken-saltado
+- chicken-picante
 description: Peruvian lunch in Lake Forest. Chicken Saltado and Chicken Picante. Yum! 😋. . . . .
 location: In-N-Out Burger
 city: Irvine
@@ -27,6 +21,9 @@ address: 4115 Campus Dr (at Bridge Rd), Irvine, CA 92612
 coordinates:
   lat: 33.650163
   lng: -117.840666
+categories: []
+cuisine:
+- Peruvian
 ---
 
 ![Peruvian lunch in Lake Forest](/images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17938296484119380.jpg)

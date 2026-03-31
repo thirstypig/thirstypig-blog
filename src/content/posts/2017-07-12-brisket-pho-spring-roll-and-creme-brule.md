@@ -1,5 +1,5 @@
 ---
-title: Brisket Pho, Spring Roll, and creme brule
+title: Brisket Pho, Spring Roll, City Unknown
 pubDate: '2017-07-12'
 author: The Thirsty Pig
 source: instagram
@@ -12,8 +12,13 @@ images:
 - /images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17862358282168883.jpg
 description: Brisket Pho, Spring Roll, and creme brule
 location: Brisket Pho, Spring Roll
-categories:
-- and creme brule
+categories: []
+tags:
+- vietnamese
+- pho
+- spring-rolls
+cuisine:
+- Vietnamese
 ---
 
 ![Brisket Pho, Spring Roll, and creme brule](/images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17879864788077003.jpg)

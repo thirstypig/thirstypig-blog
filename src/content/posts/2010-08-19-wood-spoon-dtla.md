@@ -1,16 +1,15 @@
 ---
-title: Wood Spoon, DTLA
+title: Wood Spoon, Dtla
 pubDate: '2010-08-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/19/wood-spoon-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Brazilian
-- Chicken
+- dtla
+- brazilian
+- pot-pie
+- churrasco
 description: When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown
 archiveUrl: https://web.archive.org/web/20161019103249/http://thirstypig.com/2010/08/19/wood-spoon-dtla/
 draft: false
@@ -18,6 +17,8 @@ location: Wood Spoon
 city: Dtla
 region: Downtown LA
 address: 107 W 9th St
+cuisine:
+- Brazilian
 ---
 
 

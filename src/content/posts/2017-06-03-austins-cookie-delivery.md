@@ -1,5 +1,5 @@
 ---
-title: Austin's cookie delivery
+title: Austin's cookie delivery, Austin
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -15,14 +15,17 @@ images:
 - /images/posts/ig-2017-06-03-austins-cookie-delivery/17868141127090041.jpg
 - /images/posts/ig-2017-06-03-austins-cookie-delivery/17875996783068683.jpg
 tags:
-- tiffstreats
+- austin
+- bakery
 - cookies
-- yum
 - desserts
 description: Austin's cookie delivery. . Snicker doodle, chocolate chip, peanut butter, oatmeal chocolate chip, and chocolate chip peanut butter!
 location: Austin's cookie delivery
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- Bakery
 ---
 
 ![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17881830892055446.jpg)

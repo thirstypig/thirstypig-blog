@@ -1,5 +1,5 @@
 ---
-title: 'Cantonese cuisine tonight, Taipei'
+title: Cantonese Cuisine and Dimsum, Taipei
 pubDate: '2024-05-11'
 author: The Thirsty Pig
 source: instagram
@@ -17,17 +17,8 @@ images:
 - /images/posts/ig-2024-05-11-cantonese-cuisine-tonight/17899152809990570.jpg
 - /images/posts/ig-2024-05-11-cantonese-cuisine-tonight/17927193683856754.jpg
 tags:
-- cantonesefood
-- canto
-- chinesefood
 - taipei
-- taiwan
-- claypotrice
-- taiwan
-- taiwanese
-- eats
-- eeeeeats
-description: 'Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste like water after the fourth one. People say it’s like tequila this way. They also say you shouldn’t get a hangover with this stuff. But I don’t want to test it out. . . .'
+description: Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste like water after the fourth one. People say it’s like tequila this way. They also say you shouldn’t get a hangover with this stuff. But I don’t want to test it out. . . .
 location: Cantonese Cuisine and Dimsum
 city: Taipei
 region: Taipei
@@ -35,6 +26,7 @@ address: Jhongjheng District
 coordinates:
   lat: 25.035088
   lng: 121.529515
+categories: []
 ---
 
 ![Cantonese cuisine tonight](/images/posts/ig-2024-05-11-cantonese-cuisine-tonight/18320626333176815.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Bacon wrapped hotdogs outside of Staples Center, DTLA
+title: Bacon Wrapped Hotdogs, Los Angeles
 pubDate: '2019-02-21'
 author: The Thirsty Pig
 source: instagram
@@ -10,19 +10,17 @@ images:
 - /images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17961832966226322.jpg
 - /images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17854930114352512.jpg
 tags:
-- gokingsgo
-- hotdogs
 - dtla
-- kingsgame
-- streetfood
-- eeeeeats
+- american
+- hot-dogs
+- bacon
 description: Bacon wrapped hotdogs outside of Staples Center, DTLA. When you walk out of that arena, nothing smells better than a bacon wrapped hot dog. . . .
 location: Bacon wrapped hotdogs outside of Staples Center
 city: Dtla
 region: Downtown LA
-categories:
-- Dtla
-- Downtown LA
+categories: []
+cuisine:
+- American
 ---
 
 ![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17997782482172095.jpg)

@@ -1,14 +1,10 @@
 ---
-title: Hunan Village Flavor, Shanghai
+title: Guyi Hunan Restaurant (古意湘味浓), Shanghai
 pubDate: '2011-11-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/11/17/hunan-village-flavor-shanghai/
-categories:
-- 2 pigs
-- Hunan
-- Price Range $/¥/NT
-- Shanghai
+categories: []
 description: When you’re at the new restaurant, and its up to you to order since you are known to be the expect foodie, aside from the heavy pressure, I always try a few of things to make sure our group gets the b
 archiveUrl: https://web.archive.org/web/20120103222642/http://www.thethirstypig.com/2011/11/17/hunan-village-flavor-shanghai/
 draft: false
@@ -19,6 +15,12 @@ address: 1618 Nanjing W Rd  | 南京西路1618号 (8/F Joinbuy City Plaza | 久
 coordinates:
   lat: 31.225927
   lng: 121.441322
+tags:
+- shanghai
+- chinese
+- hunan
+cuisine:
+- Chinese
 ---
 
 When you’re at the new restaurant, and its up to you to order (since you are known to be the expect foodie), aside from the heavy pressure, I always try a few of things to make sure our group gets the best dishes. I tend to ask the waitresses what’s good, what’s popular, and what they like to eat themselves. Sometimes, I’ll walk around and look at what other people are dining on. Otherwise, you’re playing, what I call, blind-man’s menu bingo. At Hunan Village Flavor, I could say we got pretty lucky with the dishes we ordered, with my strategy.

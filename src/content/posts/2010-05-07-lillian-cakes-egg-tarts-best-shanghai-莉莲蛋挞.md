@@ -1,18 +1,15 @@
 ---
-title: Lillian Cakes’ Egg Tarts, the Best in Shanghai 莉莲蛋挞
+title: Chicken & Egg, Shanghai
 pubDate: '2010-05-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
-categories:
-- Dessert
-- Xuhui
-- 3 pigs
-- Shanghai
+categories: []
 tags:
-- Shanghai 上海
-- Cantonese
-- Dessert
+- shanghai
+- chinese
+- egg-tart
+- bakery
 description: Quite possibly the best egg tart in Shanghai. Indeed
 archiveUrl: https://web.archive.org/web/20161105184110/http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
 draft: false
@@ -23,6 +20,8 @@ address: 291 Fumin Rd (Changle Rd), Xuhui, 上海市
 coordinates:
   lat: 31.219302
   lng: 121.447747
+cuisine:
+- Chinese
 ---
 
 

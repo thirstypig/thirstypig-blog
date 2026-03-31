@@ -11,13 +11,12 @@ images:
 - /images/posts/curry-house-rowland-heights/IMG_0995.jpg
 - /images/posts/curry-house-rowland-heights/IMG_0998.jpg
 - /images/posts/curry-house-rowland-heights/IMG_1001.jpg
-categories:
-- Sgv
-- Rowland Heights
-- San Gabriel Valley
+categories: []
 tags:
-- Japanese
-- Los Angeles
+- rowland-heights
+- japanese
+- curry
+- rice
 description: Curry House, a chain from Japan, specializes in a simple meat on rice meal with curry. Americans and people all over the world need their protein, in this case meat, with a starch, rice. As a friend o
 archiveUrl: https://web.archive.org/web/20160828115354/http://thirstypig.com/2009/11/02/curry-house-rowland-heights/
 draft: false
@@ -25,6 +24,8 @@ location: Curry House
 city: Rowland Heights
 region: San Gabriel Valley
 address: 17865 Colima Rd Rowland Heights, CA 91748
+cuisine:
+- Japanese
 ---
 
 [![IMG_0988](/images/posts/curry-house-rowland-heights/IMG_0987.jpg "IMG_0988")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0988-2/)

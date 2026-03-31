@@ -1,5 +1,5 @@
 ---
-title: French lunch at Bistro Jeanty
+title: Bistro Jeanty, Yountville
 pubDate: '2019-06-16'
 author: The Thirsty Pig
 source: instagram
@@ -13,14 +13,14 @@ images:
 - /images/posts/ig-2019-06-16-french-lunch-at-bistro-jeanty/17869616479395540.jpg
 - /images/posts/ig-2019-06-16-french-lunch-at-bistro-jeanty/17873987692381393.jpg
 tags:
-- frenchonionsoup
-- boeufbourguignon
-- boeuf
-- bourguignon
-- tomatosoupð
-- yountville
+- french
+- soup
+- boeuf-bourguignon
 description: French lunch at Bistro Jeanty. The French onion soup, cold asparagus soup, and the tomato puff pastry soup, and the boeuf bourguignon. Also saw an awesome Ford Shelby Cobra. . . . .jeanty 🍅
 location: French lunch at Bistro Jeanty
+categories: []
+cuisine:
+- French
 ---
 
 ![French lunch at Bistro Jeanty](/images/posts/ig-2019-06-16-french-lunch-at-bistro-jeanty/17861814127426462.jpg)

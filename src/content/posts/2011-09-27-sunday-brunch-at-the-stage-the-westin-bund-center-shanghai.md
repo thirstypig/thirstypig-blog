@@ -1,5 +1,5 @@
 ---
-title: Sunday Brunch at the Stage – The Westin Bund Center, Shanghai
+title: The Stage – The Westin Bund Center, Shanghai
 pubDate: '2011-09-27'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -31,19 +31,19 @@ images:
 - /images/posts/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/Westin-Brunch-Shanghai-23-494x370.jpg
 - /images/posts/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/Westin-Brunch-Shanghai-26-494x370.jpg
 - /images/posts/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/Westin-Brunch-Shanghai-27-494x370.jpg
-categories:
-- 2 pigs
-- Brunch
-- Buffet
-- hotel
-- Lunch
-- Price Range 3 $/¥/NT
-- Shanghai
+categories: []
 description: When I think of a hotel’s Sunday brunch, I think of a lavish food spread with all kinds of goodies with Bloody Mary’s and Champagne’s flowing. It’s time to be with family and friends to relax and enjo
 archiveUrl: https://web.archive.org/web/20111011064418/http://www.thethirstypig.com/2011/09/27/sunday-brunch-at-the-stage-the-westin-bund-center-shanghai/?utm_source=dlvr.it&utm_medium=twitter
 draft: false
 city: Shanghai
 region: Shanghai
+tags:
+- shanghai
+- multi
+- brunch
+- cocktails
+cuisine:
+- Multi
 ---
 
 When I think of a hotel’s Sunday brunch, I think of a lavish food spread with all kinds of goodies with Bloody Mary’s and Champagne’s flowing. It’s time to be with family and friends to relax and enjoy food at your own pace. Yet when I went to the Westin, they took this concept to another higher level.

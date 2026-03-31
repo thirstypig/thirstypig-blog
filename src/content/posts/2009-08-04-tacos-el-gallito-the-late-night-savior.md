@@ -1,5 +1,5 @@
 ---
-title: 'Tacos El Gallito – the Late Night Savior, Monterey Park'
+title: Tacos El Gallito, Pasadena
 pubDate: '2009-08-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,14 +11,12 @@ images:
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0700.jpg
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0703.JPG
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0704.jpg
-categories:
-- Food Truck
-- Taco Truck
-- San Gabriel Valley
-- Mexican
-- the Late Night Savior
+categories: []
 tags:
-- Los Angeles
+- monterey-park
+- mexican
+- tacos
+- burritos
 description: 'Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this '
 archiveUrl: https://web.archive.org/web/20111103153447/http://www.thethirstypig.com/2009/08/04/tacos-el-gallito-the-late-night-savior/
 draft: false
@@ -29,6 +27,8 @@ address: 3501B Ramona Blvd, Monterey Park, CA 91754
 coordinates:
   lat: 34.062775
   lng: -118.123075
+cuisine:
+- Mexican
 ---
 
 Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this night, we decided on Tacos!!!

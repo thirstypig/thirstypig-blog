@@ -1,5 +1,5 @@
 ---
-title: Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang
+title: Olsen's Danish Village Bakery, Solvang
 pubDate: '2019-06-17'
 author: The Thirsty Pig
 source: instagram
@@ -14,12 +14,16 @@ images:
 - /images/posts/ig-2019-06-17-stopping-for-some-snacks-at-olsens-danish-village-bakery-is/18058552246106746.jpg
 - /images/posts/ig-2019-06-17-stopping-for-some-snacks-at-olsens-danish-village-bakery-is/18038935558162924.jpg
 tags:
-- olsensdanishvillagebakery
+- solvang
 - bakery
-- bread
-- sweets
+- pastries
+- snacks
 description: Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang. . . .
 location: Olsen’s Danish Village Bakery is Solvang
+categories: []
+city: Solvang
+cuisine:
+- Bakery
 ---
 
 ![Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang](/images/posts/ig-2019-06-17-stopping-for-some-snacks-at-olsens-danish-village-bakery-is/18078096562023430.jpg)

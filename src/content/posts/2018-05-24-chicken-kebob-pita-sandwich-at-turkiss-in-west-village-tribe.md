@@ -1,5 +1,5 @@
 ---
-title: 'TurKiss, New York'
+title: TurKiss, New York
 pubDate: '2018-05-24'
 author: The Thirsty Pig
 source: instagram
@@ -13,9 +13,10 @@ images:
 - /images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17938151701079990.jpg
 - /images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17920362100181502.jpg
 tags:
-- chickenpita
-- thirstypig
-- eeeeeats
+- nyc
+- mediterranean
+- kebab
+- pita
 description: Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal
 location: TurKiss
 city: New York
@@ -24,6 +25,9 @@ address: 104 Macdougal St (btwn Bleecker & 3rd St.), New York, NY 10012
 coordinates:
   lat: 40.729375
   lng: -74.000857
+categories: []
+cuisine:
+- Mediterranean
 ---
 
 ![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17875590688231344.jpg)

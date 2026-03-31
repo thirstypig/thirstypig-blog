@@ -11,19 +11,10 @@ images:
 - /images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/17961517646727325.jpg
 - /images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/18263748838208683.jpg
 - /images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/18330615898142366.jpg
-tags:
-- kohsamui
-- thailand
-- vacation
-- beach
-- southeastasia
-- hotaf
-- hot
-- norain
-- tourist
-- tourism
+tags: []
 description: Enjoying the experience at Koh Samui. Interesting airport, big Buddha, and the resort. Had a great time. Could have stayed longer. Fun times! . . .
 location: Koh Samui
+categories: []
 ---
 
 ![Enjoying the experience at Koh Samui](/images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/17846603640181826.jpg)

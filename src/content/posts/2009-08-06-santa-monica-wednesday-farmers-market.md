@@ -1,5 +1,5 @@
 ---
-title: Santa Monica Wednesday Farmer’s Market
+title: Santa Monica Farmers Market, Santa Monica
 pubDate: '2009-08-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -16,12 +16,11 @@ images:
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0024.JPG
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0025.JPG
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0029.JPG
-categories:
-- Farmers' Markets
-- Santa Monica
-- Westside
+categories: []
 tags:
-- Los Angeles
+- santa-monica
+- farmers-market
+- produce
 description: Wednesdays in Santa Monica mean one thing – Farmer’s Market day The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of t
 archiveUrl: https://web.archive.org/web/20111103145206/http://www.thethirstypig.com/2009/08/06/santa-monica-wednesday-farmers-market/
 draft: false
@@ -32,6 +31,7 @@ address: Arizona Ave (btwn 2nd & 4th St), Santa Monica, CA 90401
 coordinates:
   lat: 34.017024
   lng: -118.497677
+cuisine: []
 ---
 
 Wednesdays in Santa Monica mean one thing – Farmer’s Market day! The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of the, after more than 20 years, some of the best known chefs and restaurants have frequented this market. KCRW also has a weekly show – Evan Kleiman’s Good Food about the market update with Laura Avery. She will talk with some of the growers about what’s fresh and speak to one of the local chefs about a favorite recipe.

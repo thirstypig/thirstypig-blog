@@ -12,14 +12,12 @@ images:
 - /images/posts/ig-2018-07-14-enjoying-a-dodger-win-on-a-nice-summer-night/17933479513193168.jpg
 - /images/posts/ig-2018-07-14-enjoying-a-dodger-win-on-a-nice-summer-night/17931576538146777.jpg
 tags:
-- dodgers
-- dodgerstadium
-- japannight
-- baseball
-- hitebeer
-- thirstypig
-- eeeeeats
+- los-angeles
+- beer
 description: Enjoying a dodger win on a nice summer night! Great tee shirt on Japan Night 🇯🇵 was eyeing the Los Doyers tee shirt, too. . . . . .
+categories: []
+city: Los Angeles
+cuisine: []
 ---
 
 ![Enjoying a dodger win on a nice summer night](/images/posts/ig-2018-07-14-enjoying-a-dodger-win-on-a-nice-summer-night/17888326069226754.jpg)

@@ -4,12 +4,11 @@ pubDate: '2011-02-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/05/blvd-beverly-hills/
-categories:
-- Beverly HIlls
-- Beverly Hills
-- Westside
+categories: []
 tags:
-- American
+- beverly-hills
+- american
+- fine-dining
 description: Dine LA 2011 is err was in full swing. I was able to catch the tail end with a visit to The Blvd during my short stay in Los Angeles for the Chinese New Year vacation.
 archiveUrl: https://web.archive.org/web/20161019023423/http://thirstypig.com/2011/02/05/blvd-beverly-hills/
 draft: false
@@ -17,6 +16,8 @@ location: The Blvd
 city: Beverly Hills
 region: Westside
 address: 9500 Wilshire Blvd
+cuisine:
+- American
 ---
 
 

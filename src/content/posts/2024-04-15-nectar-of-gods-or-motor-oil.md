@@ -1,5 +1,5 @@
 ---
-title: 'Nectar of gods or motor oil, Shanghai'
+title: Former Provisional Government Site of the Republic of Korea (大韩民国临时政府旧址), Shanghai
 pubDate: '2024-04-15'
 author: The Thirsty Pig
 source: instagram
@@ -9,17 +9,8 @@ images:
 - /images/posts/ig-2024-04-15-nectar-of-gods-or-motor-oil/18036737953845894.jpg
 - /images/posts/ig-2024-04-15-nectar-of-gods-or-motor-oil/18307122565179102.jpg
 tags:
-- moutai
-- chinesewhitewine
-- alcohol
-- tastemakers
-- tastemakersapp
-- eats
-- eeeeeats
-- drinks
-- thirsty
-- thirstypig
-description: 'Nectar of gods or motor oil. Moutai Jiu is undisputed and most popular white wine of China. My classmates and I had a great dinner with Moutai. From the southwest region of China in Guizhou, Moutai has a unique flavor - you have to grow to like it. But some people will feel that Chinese white wine is like motor oil or rubbing alcohol. Strong AF. I do not recommend going up against anyone in a drinking contest if they can drink Chinese white wine. The typical shot of white wine is the size of a thimble. When u was in HKG I had a few drinking buddies who called ourselves the Moutai club. I have loads of stories of Chinese white wine. Another unique thing about this stuff is- you won’t get a hangover. I also think that Moutai, like tequila, get better after the third shot. Sorry for the ramblings. . . . .china'
+- shanghai
+description: Nectar of gods or motor oil. Moutai Jiu is undisputed and most popular white wine of China. My classmates and I had a great dinner with Moutai. From the southwest region of China in Guizhou, Moutai has a unique flavor - you have to grow to like it. But some people will feel that Chinese white wine is like motor oil or rubbing alcohol. Strong AF. I do not recommend going up against anyone in a drinking contest if they can drink Chinese white wine. The typical shot of white wine is the size of a thimble. When u was in HKG I had a few drinking buddies who called ourselves the Moutai club. I have loads of stories of Chinese white wine. Another unique thing about this stuff is- you won’t get a hangover. I also think that Moutai, like tequila, get better after the third shot. Sorry for the ramblings. . . . .china
 location: Former Provisional Government Site of the Republic of Korea (大韩民国临时政府旧址)
 city: Shanghai
 region: Shanghai
@@ -27,6 +18,7 @@ address: 马当路302-304号 (复兴中路与自忠路之间), Xīntiāndì, 上
 coordinates:
   lat: 31.219279
   lng: 121.470317
+categories: []
 ---
 
 ![Nectar of gods or motor oil](/images/posts/ig-2024-04-15-nectar-of-gods-or-motor-oil/18036737953845894.jpg)

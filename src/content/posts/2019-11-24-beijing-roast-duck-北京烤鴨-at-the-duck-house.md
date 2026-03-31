@@ -1,5 +1,5 @@
 ---
-title: 'Beijing Roast Duck 北京烤鴨 at the Duck House, Monterey Park'
+title: Duck House, Monterey Park
 pubDate: '2019-11-24'
 author: The Thirsty Pig
 source: instagram
@@ -17,19 +17,17 @@ images:
 - /images/posts/ig-2019-11-24-beijing-roast-duck-北京烤鴨-at-the-duck-house/17927446336338112.jpg
 - /images/posts/ig-2019-11-24-beijing-roast-duck-北京烤鴨-at-the-duck-house/17849696680726487.jpg
 tags:
-- duckhouse
-- mpk
-- montereypark
-- sgv
-- taiwanesefood
-- beijingroastduck
-- chinesefood
-- eelrice
-- stickyrice
-description: 'Beijing Roast Duck 北京烤鴨 at the Duck House. Haven’t had duck in a long time. We had the half duck with the crispy skin. They provided the thin rice paper wrappers as opposed to the thick buns (which I prefer). The duck soup was savory and flavorful. The thinly sliced translucent pork belly was perfect with the garlic sauce. The glass noodles, sesame sauce lettuce, and jelly fish was good, also. The last dish the eel over sticky rice was also a stand out. Restaurant building looked like it was an old bank. I think the Duck House has been around a long time, just never had the chance to try. I’m glad I did. . . . . .'
+- monterey-park
+- chinese
+- roast-duck
+- noodles
+description: Beijing Roast Duck 北京烤鴨 at the Duck House. Haven’t had duck in a long time. We had the half duck with the crispy skin. They provided the thin rice paper wrappers as opposed to the thick buns (which I prefer). The duck soup was savory and flavorful. The thinly sliced translucent pork belly was perfect with the garlic sauce. The glass noodles, sesame sauce lettuce, and jelly fish was good, also. The last dish the eel over sticky rice was also a stand out. Restaurant building looked like it was an old bank. I think the Duck House has been around a long time, just never had the chance to try. I’m glad I did. . . . . .
 location: Duck House
 city: Monterey Park
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Beijing Roast Duck 北京烤鴨 at the Duck House](/images/posts/ig-2019-11-24-beijing-roast-duck-北京烤鴨-at-the-duck-house/17927957605327804.jpg)

@@ -1,15 +1,10 @@
 ---
-title: Upstairs URBN Hotel, Shanghai
+title: Upstairs, Shanghai
 pubDate: '2011-08-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/08/25/upstairs-urbn-hotel-shanghai/
-categories:
-- 2 pigs
-- hotel
-- Lounge
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten p
 archiveUrl: https://web.archive.org/web/20120116090821/http://www.thethirstypig.com:80/2011/08/25/upstairs-urbn-hotel-shanghai/
 draft: false
@@ -20,6 +15,12 @@ address: 183 Jiaozhou Rd | 胶州路183号 (near Beijing W Rd | 近北京西路)
 coordinates:
   lat: 31.229017
   lng: 121.439047
+tags:
+- shanghai
+- cocktails
+- lounge
+cuisine:
+- Cocktails
 ---
 
 Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten path, it offers a secluded setting, much like the hotel. After dining at Downstairs, the David Laris restaurant, you could mosey up to the rooftop lounge.

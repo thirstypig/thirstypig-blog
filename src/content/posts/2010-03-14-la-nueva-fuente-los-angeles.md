@@ -4,17 +4,20 @@ pubDate: '2010-03-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/
-categories:
-- Los Angeles
+categories: []
 tags:
-- Mexican
-- Pork
+- los-angeles
+- mexican
+- tacos
+- enchiladas
 description: Yelp Listinghttps://www.yelp.com/biz/la-nueva-fuente-restaurant-los-angeles
 archiveUrl: https://web.archive.org/web/20161104234833/http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/
 draft: false
 location: La Nueva Fuente Restaurant
 city: Los Angeles
 address: 3425 E 1st St
+cuisine:
+- Mexican
 ---
 
 

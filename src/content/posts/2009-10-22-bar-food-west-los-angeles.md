@@ -1,16 +1,15 @@
 ---
-title: Bar Food, West Los Angeles
+title: Bar Food, Los Angeles
 pubDate: '2009-10-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/
-categories:
-- Santa Monica
-- West Los Angeles
-- Westside
+categories: []
 tags:
-- Bar
-- Los Angeles
+- los-angeles
+- american
+- burgers
+- mac-and-cheese
 description: The sparse menu showed few food items but included Guinness beer The menu primarily looked like food you’d find at a bar, hence the name – Bar Food. This pub, or gastropub – the new moniker and also i
 archiveUrl: https://web.archive.org/web/20160828103845/http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/
 draft: false
@@ -18,6 +17,8 @@ location: Bar Food
 city: Los Angeles
 region: Los Angeles
 address: 12217 Wilshire Blvd Los Angeles, CA 90025
+cuisine:
+- American
 ---
 
 

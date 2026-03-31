@@ -1,5 +1,5 @@
 ---
-title: Milk Bat in LA
+title: Milk Bat, Los Angeles
 pubDate: '2018-11-09'
 author: The Thirsty Pig
 source: instagram
@@ -15,17 +15,16 @@ images:
 - /images/posts/ig-2018-11-09-milk-bat-in-la/17998679560019734.jpg
 - /images/posts/ig-2018-11-09-milk-bat-in-la/17990250199075743.jpg
 tags:
+- los-angeles
+- bakery
 - dessert
-- eeeeeats
-- iphonexphotography
-- yelpsucks
-- melrose
-- la
-- softserve
-- icecream
-- thirstypig
+- pastries
 description: Milk Bat in LA. B’day milk quake, cereal milk, crack pie, thanksgiving croissant. Yum. Finally in LA. . . . .
 location: Milk Bat in LA
+categories: []
+city: Los Angeles
+cuisine:
+- Bakery
 ---
 
 ![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17968935565182840.jpg)

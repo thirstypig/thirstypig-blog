@@ -1,5 +1,5 @@
 ---
-title: 'My buddy’s birthday dinner at 破壞者珈琲食堂, Taipei'
+title: Komeda’s Coffee (客美多咖啡), Taipei
 pubDate: '2024-04-26'
 author: The Thirsty Pig
 source: instagram
@@ -15,22 +15,12 @@ images:
 - /images/posts/ig-2024-04-26-my-buddys-birthday-dinner-at-破壞者珈琲食堂/17862769428129055.jpg
 - /images/posts/ig-2024-04-26-my-buddys-birthday-dinner-at-破壞者珈琲食堂/18125300299343233.jpg
 tags:
-- thirstypig
-- tastemakersapp
-- japanesefood
-- izakaya
 - taipei
-- taipeirestaurant
-- taipeifood
-- japaneserestaurant
-- eats
-- eeeeeats
-description: 'My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses of food and wine. I’d certainly return and would recommend. . . .'
+description: My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses of food and wine. I’d certainly return and would recommend. . . .
 location: Komeda’s Coffee (客美多咖啡)
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 address: 南京東路二段204號, 中山區, 臺北市 104
 coordinates:
   lat: 25.052091

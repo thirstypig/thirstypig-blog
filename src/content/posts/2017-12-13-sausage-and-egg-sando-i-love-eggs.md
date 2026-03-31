@@ -1,5 +1,5 @@
 ---
-title: 'Sausage and egg sando I love eggs, Downtown LA'
+title: Eggslut, Downtown LA
 pubDate: '2017-12-13'
 author: The Thirsty Pig
 source: instagram
@@ -9,14 +9,10 @@ images:
 - /images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg
 - /images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17886580960187595.jpg
 tags:
-- eggs
-- eggslut
 - dtla
-- sandwich
-- breakfast
-- yummy
-- wednesday
-- humpday
+- american
+- eggs
+- sandwiches
 description: Sausage and egg sando I love eggs. I could eat this every day. If I lived closer, I just might.
 location: Eggslut
 city: Downtown LA
@@ -25,6 +21,9 @@ address: 317 S Broadway, Los Angeles, CA 90013
 coordinates:
   lat: 34.050635
   lng: -118.248678
+categories: []
+cuisine:
+- American
 ---
 
 ![Sausage and egg sando I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg)

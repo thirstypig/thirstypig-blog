@@ -1,5 +1,5 @@
 ---
-title: we had fried green tomatoes, fried frog legs, popcorn crab
+title: K Paul, New Orleans
 pubDate: '2017-07-06'
 author: The Thirsty Pig
 source: instagram
@@ -14,20 +14,17 @@ images:
 - /images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17861638390188833.jpg
 - /images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17861549866174639.jpg
 tags:
-- kpaul
-- neworleans
-- abita
-- pork
-- blackenedseasoning
-- froglegs
-- drumfish
-- crab
+- new-orleans
+- cajun
+- fried-chicken
+- seafood
 description: we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a
 location: we had fried green tomatoes, fried frog legs
 city: New Orleans
-categories:
-- popcorn crab
+categories: []
 region: Louisiana
+cuisine:
+- Cajun
 ---
 
 ![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862310810191444.jpg)

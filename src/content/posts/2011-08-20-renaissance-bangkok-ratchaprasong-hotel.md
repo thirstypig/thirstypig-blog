@@ -1,17 +1,14 @@
 ---
-title: Renaissance Bangkok Ratchaprasong Hotel
+title: Renaissance Bangkok Ratchaprasong Hotel, Bangkok
 pubDate: '2011-08-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/
-categories:
-- Thai
-- Price Range 2 $/¥/NT
-- Bangkok
-- hotel
-- 3 pigs
+categories: []
 tags:
-- Hotel
+- bangkok
+- thai
+- hotel-dining
 description: As you step inside Bangkok’s Renaissance Ratchaprasong Hotel, you feel the sultry allure that epitomizes this great country. Everything you heard about Thailand, from the beaches of Phuket, to the exo
 archiveUrl: https://web.archive.org/web/20161104192033/http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/
 draft: false
@@ -19,6 +16,8 @@ location: Renaissance Bangkok Ratchaprasong Hotel
 city: Bangkok
 region: Bangkok
 address: 8 Ploenchit Road
+cuisine:
+- Thai
 ---
 
 

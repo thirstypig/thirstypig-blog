@@ -1,5 +1,5 @@
 ---
-title: Restaurant Jesse 吉士 of Shanghai
+title: Restaurant Jesse 吉士 of Shanghai, Shanghai
 pubDate: '2010-12-22'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -47,13 +47,12 @@ images:
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-41-88x88.jpg
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-42-88x88.jpg
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-43-88x88.jpg
-categories:
-- 3 pigs
-- Price Range 2 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 tags:
-- Xujiahui 上海徐家汇
+- shanghai
+- chinese
+- shanghainese
+- dim-sum
 description: The best Shanghainese restaurant, arguably, is Restaurant Jesse or 吉士. With this site, I get always get asked a couple of questions. One of them being – “What is the best Shanghainese restaurant?” Jes
 archiveUrl: https://web.archive.org/web/20101226214415/http://www.thethirstypig.com:80/2010/12/22/restaurant-jesse-%E5%90%89%E5%A3%AB-of-shanghai/
 draft: false
@@ -61,6 +60,8 @@ location: Restaurant Jesse 吉士 of Shanghai
 city: Shanghai
 region: Shanghai
 address: 1 Xujiahui St
+cuisine:
+- Chinese
 ---
 
 The best Shanghainese restaurant, arguably, is Restaurant Jesse or 吉士. With this site, I get always get asked a couple of questions. One of them being – “What is the best Shanghainese restaurant?” Jesse always comes to mind. With apologizes to 1221, [复兴汇 Fuxinghui](http://www.thethirstypig.com/2010/11/15/复兴汇-fuxinghui-shanghai/), [Fu 1088 福一零八八](http://www.thethirstypig.com/2010/10/28/fu-1088-福一零八八/), and [夏味馆 Xia Restaurant of Shanghai](http://www.thethirstypig.com/2010/09/23/sweating-at-夏味馆-xia-restaurant-of-shanghai/), Jesse is in a class of its own.

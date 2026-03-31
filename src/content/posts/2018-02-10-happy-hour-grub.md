@@ -1,5 +1,5 @@
 ---
-title: 'Happy hour grub, Pasadena'
+title: Happy Feet Massage, Pasadena
 pubDate: '2018-02-10'
 author: The Thirsty Pig
 source: instagram
@@ -10,18 +10,17 @@ images:
 - /images/posts/ig-2018-02-10-happy-hour-grub/17915708686079976.jpg
 tags:
 - pasadena
-- thirstypig
-- saturdaynight
+- happy-hour
 description: Happy hour grub
 location: Happy Feet Massage
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 257 E Colorado Blvd (Marengo), Pasadena, CA 91101
 coordinates:
   lat: 34.146084
   lng: -118.145139
+cuisine: []
 ---
 
 ![Happy hour grub](/images/posts/ig-2018-02-10-happy-hour-grub/17906064166095481.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Ass Kicking Ramen! – Orochon, Tokyo'
+title: Orochon, Tokyo
 pubDate: '2009-03-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,19 +7,19 @@ originalUrl: http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
 heroImage: /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
 images:
 - /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
-categories:
-- Japanese
-- Noodles
-- Ramen
-- Oc
-- Orange County
+categories: []
 tags:
-- LA's Little Tokyo
+- tokyo
+- japanese
+- ramen
+- spicy
 description: On the subject of Ramen . . . I thought I’d talk about a Orochon
 archiveUrl: https://web.archive.org/web/20110105063918/http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
 draft: false
 city: Tokyo
 region: Tokyo
+cuisine:
+- Japanese
 ---
 
 On the subject of Ramen . . . I thought I’d talk about a Orochon!

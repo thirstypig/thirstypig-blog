@@ -4,26 +4,20 @@ pubDate: '2012-06-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/06/12/new-york-style-steak-burger-shanghai/
-categories:
-- American
-- Price Range 2 $/¥/NT
-- Luwan District
-- Hamburgers
-- 3 pigs
-- Shanghai
+categories: []
 tags:
-- american
-- American
-- Burger
-- Shanghai
 - shanghai
-- burger
+- american
+- steak
+- burgers
 description: What is New York Style Steak & Burger?
 archiveUrl: https://web.archive.org/web/20160602081525/http://thirstypig.com/2012/06/12/new-york-style-steak-burger-shanghai/
 draft: false
 location: New York Style Steak and Burger
 city: Shanghai
 region: Shanghai
+cuisine:
+- American
 ---
 
 **What is New York Style Steak & Burger?**

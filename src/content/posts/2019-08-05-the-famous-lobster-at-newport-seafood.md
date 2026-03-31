@@ -1,5 +1,5 @@
 ---
-title: 'The famous lobster at Newport Seafood, San Gabriel'
+title: Newport Seafood Restaurant, San Gabriel
 pubDate: '2019-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -9,13 +9,9 @@ images:
 - /images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/17869084033441637.jpg
 - /images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/18089887717026815.jpg
 tags:
-- newportseafood
-- lobster
-- vietnamesefood
-- lobsterroe
+- san-gabriel
 - seafood
-- cantonesefood
-- sgv
+- lobster
 description: The famous lobster at Newport Seafood. . . .
 location: Newport Seafood Restaurant
 city: San Gabriel
@@ -24,6 +20,9 @@ address: 518 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.10231
   lng: -118.106975
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![The famous lobster at Newport Seafood](/images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/17869084033441637.jpg)

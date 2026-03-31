@@ -1,5 +1,5 @@
 ---
-title: Truck Feasting at its best, The Frysmith Food Truck
+title: Frysmith, Los Angeles
 pubDate: '2010-04-09'
 author: The Thirsty Pig
 source: blog.thethirstypig.com
@@ -13,18 +13,20 @@ images:
 - /images/posts/frysmith-food-truck/Frysmith+5+cooking.jpg
 - /images/posts/frysmith-food-truck/Frysmith+6+pork+belly+kimchi+fries.jpg
 - /images/posts/frysmith-food-truck/Frysmith+7+hungry+bulldog.jpg
-categories:
-- $
-- 2 pigs
-- American
-- Food Truck
-- The Frysmith Food Truck
+categories: []
 description: This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill. http://4.bp.blogspot.com/UYnRoOEBBM/S7JvtSLChWI/AAAAAAAAA
 archiveUrl: https://web.archive.org/web/20100418081924/http://blog.thethirstypig.com:80/2010/03/frysmith-food-truck.html
 draft: false
 location: Frysmith
 city: Los Angeles
 region: Los Angeles
+tags:
+- los-angeles
+- american
+- fries
+- food-truck
+cuisine:
+- American
 ---
 
 This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill.

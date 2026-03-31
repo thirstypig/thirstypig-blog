@@ -1,5 +1,5 @@
 ---
-title: Blue fin tuna toro sushi
+title: Blue fin tuna toro sushi, unknown
 pubDate: '2019-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -13,10 +13,14 @@ images:
 - /images/posts/ig-2019-08-18-blue-fin-tuna-toro-sushi/18092912563023226.jpg
 - /images/posts/ig-2019-08-18-blue-fin-tuna-toro-sushi/18091613188019131.jpg
 tags:
-- kokumi
-- japanesefood
-description: 'Blue fin tuna toro sushi. Spicy tuna hand roll. Avocado hand roll. gyu bowl and chicken katsu bowl. Asked for sashimi and they gave sushi. Asked for an oyaku don, they have a chicken katsu don. The toro was good but not as fatty as I would have expected. . . . . .'
+- japanese
+- sushi
+- toro
+description: Blue fin tuna toro sushi. Spicy tuna hand roll. Avocado hand roll. gyu bowl and chicken katsu bowl. Asked for sashimi and they gave sushi. Asked for an oyaku don, they have a chicken katsu don. The toro was good but not as fatty as I would have expected. . . . . .
 location: Blue fin tuna toro sushi
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Blue fin tuna toro sushi](/images/posts/ig-2019-08-18-blue-fin-tuna-toro-sushi/17850574027547964.jpg)

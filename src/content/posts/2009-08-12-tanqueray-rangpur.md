@@ -7,12 +7,15 @@ originalUrl: http://www.thethirstypig.com/2009/08/12/tanqueray-rangpur/
 heroImage: /images/posts/tanqueray-rangpur/5614.jpg
 images:
 - /images/posts/tanqueray-rangpur/5614.jpg
-categories:
-- Cocktail
+categories: []
 description: If you ever get the chance to have a gin & tonic, I suggest that you try Tanqueray’s Rangpur Gin. Currently, it is my personal favorite, over my long standing Bombay Sapphire Gin.
 archiveUrl: https://web.archive.org/web/20110106000913/http://www.thethirstypig.com/2009/08/12/tanqueray-rangpur/
 draft: false
 location: Tanqueray Rangpur
+tags:
+- gin
+- cocktails
+cuisine: []
 ---
 
 If you ever get the chance to have a gin & tonic, I suggest that you try Tanqueray’s Rangpur Gin. Currently, it is my personal favorite, over my long standing Bombay Sapphire Gin.

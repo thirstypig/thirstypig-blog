@@ -1,5 +1,5 @@
 ---
-title: 'Sandwiches from Lil Pickle, Costa Mesa'
+title: Ike's Love & Sandwiches, Costa Mesa
 pubDate: '2020-11-06'
 author: The Thirsty Pig
 source: instagram
@@ -9,16 +9,11 @@ images:
 - /images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17886598237793484.jpg
 - /images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17860948958220220.jpg
 tags:
+- costa-mesa
+- american
 - sandwiches
-- costamesa
-- oc
-- theoc
-- lunch
-- eat
-- eeeeeats
-- food
-- italiansub
-description: 'Sandwiches from Lil Pickle. Had the Lil'' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I can see why. It is a solid sandwich with nice soft bread and good meats. But unfortunately I was craving more flavor - since I was chomping on a sour pickle with every bite of the sandwich. Maybe a little more salt or some spicy peppers were needed. Perhaps my friend was on target with the savory pastrami. Regardless I would try this place again to get a better gauge. . . . . .'
+- pastrami
+description: Sandwiches from Lil Pickle. Had the Lil' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I can see why. It is a solid sandwich with nice soft bread and good meats. But unfortunately I was craving more flavor - since I was chomping on a sour pickle with every bite of the sandwich. Maybe a little more salt or some spicy peppers were needed. Perhaps my friend was on target with the savory pastrami. Regardless I would try this place again to get a better gauge. . . . . .
 location: Ike's Love & Sandwiches
 city: Costa Mesa
 region: Orange County
@@ -26,6 +21,9 @@ address: 1835 Newport Blvd, Costa Mesa, CA 92627
 coordinates:
   lat: 33.640995
   lng: -117.920604
+categories: []
+cuisine:
+- American
 ---
 
 ![Sandwiches from Lil Pickle](/images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17886598237793484.jpg)

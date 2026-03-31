@@ -1,19 +1,15 @@
 ---
-title: Jia Jia Tang Bao 佳家汤包 of Shanghai
+title: Jia Jia Tang Bao, Shanghai
 pubDate: '2010-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/
-categories:
-- Price Range $/¥/NT
-- 3 pigs
-- Shanghainese
-- Huangpu
-- Shanghai
+categories: []
 tags:
-- Shanghai 上海
-- Dumplings
-- Shanghainese
+- shanghai
+- chinese
+- dumplings
+- xiao-long-bao
 description: Jia Jia Tang Bao might be arguably the best steamed dumpling in Shanghai. Bold and ostentatious it may seem, but these xiao long bao’s小籠包 are darn good. I could have probably finished off two “long’s”
 archiveUrl: https://web.archive.org/web/20161018163306/http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/
 draft: false
@@ -24,6 +20,8 @@ address: Jian Ye Li, 480 Jianguo W Rd | 建国西路480号建业里 (Yueyang Rd 
 coordinates:
   lat: 31.205291
   lng: 121.447273
+cuisine:
+- Chinese
 ---
 
 

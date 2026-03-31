@@ -1,5 +1,5 @@
 ---
-title: "Chick'n Skin, Hollywood"
+title: Chick'n Skin, Hollywood
 pubDate: '2017-12-02'
 author: The Thirsty Pig
 source: instagram
@@ -12,19 +12,16 @@ images:
 - /images/posts/ig-2017-12-02-snackin-and-feastin-at-the-tom-yum-spicy-fried-chicken-skin/17911749811042036.jpg
 tags:
 - hollywood
-- bolo
-- saturday
-- hollywood
-- chicken
-- bolobun
-- chickenskin
-- thirstypig
-description: 'Snackin’ and Feastin’ at the Tom Yum Spicy Fried Chicken skin was amazing (yes I shouldn’t use amazing, but it was). also had the spicy Chicken sando with the bolo bun (HK Bolo (pineapple) bun) from and we had the coconut sundae with oink guava and another ice cream I expect a few more food vendors but we were already quite full. But all the vendors were quite good.'
+- thai
+- fried-chicken
+- sandwich
+description: Snackin’ and Feastin’ at the Tom Yum Spicy Fried Chicken skin was amazing (yes I shouldn’t use amazing, but it was). also had the spicy Chicken sando with the bolo bun (HK Bolo (pineapple) bun) from and we had the coconut sundae with oink guava and another ice cream I expect a few more food vendors but we were already quite full. But all the vendors were quite good.
 city: Hollywood
 region: Hollywood
-categories:
-- Hollywood
+categories: []
 location: Chick'n Skin
+cuisine:
+- Thai
 ---
 
 ![Snackin’ and Feastin’ at the Tom Yum Spicy Fried Chicken skin was amazing (...](/images/posts/ig-2017-12-02-snackin-and-feastin-at-the-tom-yum-spicy-fried-chicken-skin/17896307659127499.jpg)

@@ -13,19 +13,10 @@ images:
 - /images/posts/ig-2022-08-05-korean-bbq-at-genwa/18192688099205879.jpg
 - /images/posts/ig-2022-08-05-korean-bbq-at-genwa/17971748254680030.jpg
 - /images/posts/ig-2022-08-05-korean-bbq-at-genwa/17943817511317600.jpg
-tags:
-- kbbq
-- koreanbbq
-- koreanbarbecue
-- koreanbarbeque
-- soju
-- eats
-- eeeeats
-- midwilshire
-- thirstypig
-- tastemakersapp
-description: 'Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sure you have soju with your meal. . . . . . .'
+tags: []
+description: Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sure you have soju with your meal. . . . . . .
 location: Genwa
+categories: []
 ---
 
 ![Korean BBQ at Genwa](/images/posts/ig-2022-08-05-korean-bbq-at-genwa/17940304637205414.jpg)

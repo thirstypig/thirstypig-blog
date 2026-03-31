@@ -1,5 +1,5 @@
 ---
-title: The Live Shrimp from 天天鱼港 TianTian Seafood (Dalian)
+title: 天天鱼港 TianTian Seafood, Dalian
 pubDate: '2010-10-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -29,17 +29,19 @@ images:
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-50-88x88.jpg
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-52-88x88.jpg
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-59-88x88.jpg
-categories:
-- 3 pigs
-- Price Range 3 $/¥/NT
-- Seafood
+categories: []
 tags:
-- Dalian 大连
+- dalian
+- chinese
+- seafood
+- shrimp
 description: Tian Tian Seafood restaurant, in Dalian, is your typical Chinese seafood restaurant. Since Dalian is by the ocean, specifically the Yellow Sea. The abundant seafood coupled with its relatively warm wa
 archiveUrl: https://web.archive.org/web/20110105180632/http://www.thethirstypig.com/2010/10/08/the-live-shrimp-from-%e5%a4%a9%e5%a4%a9%e9%b1%bc%e6%b8%af-tiantian-seafood-dalian/
 draft: false
 city: Dalian
 region: Dalian
+cuisine:
+- Chinese
 ---
 
 Tian Tian Seafood restaurant, in Dalian, is your typical Chinese seafood restaurant. Since Dalian is by the ocean, specifically the Yellow Sea. The abundant seafood coupled with its relatively warm waters, Dalian fish and shrimp is available year round.

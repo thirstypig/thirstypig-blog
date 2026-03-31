@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Gastropub 印地安
+title: Taiwanese Gastropub 印地安, San Gabriel Valley
 pubDate: '2019-02-14'
 author: The Thirsty Pig
 source: instagram
@@ -14,19 +14,17 @@ images:
 - /images/posts/ig-2019-02-14-taiwanese-gastropub-印地安/17995903630171942.jpg
 - /images/posts/ig-2019-02-14-taiwanese-gastropub-印地安/18000320944162835.jpg
 tags:
-- taiwanesefood
-- eeeeeats
 - sgv
-- food
-- chicken
-- bacon
-- rainy
-- coldrainynight
-- soup
+- taiwanese
+- gastropub
+- cocktails
 description: Taiwanese Gastropub 印地安. Yummy Taiwanese food with friends and a pitcher of amber bock. . . .
 location: Taiwanese Gastropub 印地安
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese Gastropub 印地安](/images/posts/ig-2019-02-14-taiwanese-gastropub-印地安/18009251029083834.jpg)

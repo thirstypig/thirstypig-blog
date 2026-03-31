@@ -1,5 +1,5 @@
 ---
-title: Best Shanghai Style Fried Pork Buns 上海生煎包 at 高記 KaoChi, Taipei
+title: 高記 KaoChi, Taipei
 pubDate: '2010-06-11'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -21,13 +21,7 @@ images:
 - /images/posts/kaochi-taipei/KaoChi-6-88x88.jpg
 - /images/posts/kaochi-taipei/KaoChi-7-88x88.jpg
 - /images/posts/kaochi-taipei/KaoChi-8-88x88.jpg
-categories:
-- 2 pigs
-- Da-An District
-- Price Range NT$ NT$
-- Shanghainese
-- Taiwanese
-- Taipei
+categories: []
 description: Like its, more famous neighbor, 鼎泰豐 Din Tai Fung, 高記 KaoChi is known for it 元籠小籠包 Shanghai Steamed Pork Buns, also known as Xiao Long Buns. But locals know Kao Chi for it 上海生煎包 Shanghai style fried po
 archiveUrl: https://web.archive.org/web/20100612090237/http://www.thethirstypig.com:80/2010/06/11/kaochi-taipei/
 draft: false
@@ -35,6 +29,13 @@ location: 高記 KaoChi
 city: Taipei
 region: Taipei
 address: 5 Yongkang St
+tags:
+- taipei
+- chinese
+- dumplings
+- xiaolongbao
+cuisine:
+- Chinese
 ---
 
 Like its, more famous neighbor, 鼎泰豐 Din Tai Fung, 高記 KaoChi is known for it 元籠小籠包 Shanghai Steamed Pork Buns, also known as Xiao Long Buns. But locals know Kao Chi for it 上海生煎包 Shanghai style fried pork buns.

@@ -4,20 +4,20 @@ pubDate: '2010-05-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2010/05/25/homegirl-cafe/
-categories:
-- 2 pigs
-- Latin
-- Mexican
-- Los Angeles
+categories: []
 tags:
-- Downtown LA
-- Los Angeles
+- los-angeles
+- mexican
+- mole
+- tacos
 description: This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.
 archiveUrl: https://web.archive.org/web/20110105011602/http://www.thethirstypig.com/2010/05/25/homegirl-cafe/
 draft: false
 location: Green Chicken Mole at Homegirl Cafe
 city: Los Angeles
 address: 130 W Bruno St
+cuisine:
+- Mexican
 ---
 
 This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.

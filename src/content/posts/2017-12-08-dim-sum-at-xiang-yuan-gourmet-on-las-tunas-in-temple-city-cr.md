@@ -1,5 +1,5 @@
 ---
-title: 'Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City...'
+title: Xiang Yuan Gourmet, Temple City
 pubDate: '2017-12-08'
 author: The Thirsty Pig
 source: instagram
@@ -10,17 +10,16 @@ images:
 - /images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17886167878187635.jpg
 - /images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17871875962196270.jpg
 tags:
-- dimsum
+- temple-city
 - chinese
-- taro
-- thirstypig
+- dim-sum
 description: Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels.
 location: Xiang Yuan Gourmet
 city: Temple City
 region: San Gabriel Valley
-categories:
-- Temple City
-- San Gabriel Valley
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17884972897155499.jpg)

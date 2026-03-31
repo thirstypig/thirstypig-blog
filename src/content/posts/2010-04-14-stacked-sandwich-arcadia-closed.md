@@ -1,16 +1,15 @@
 ---
-title: Stacked Sandwich, Arcadia (Closed)
+title: Stacked Sandwich, Arcadia
 pubDate: '2010-04-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/
-categories:
-- SGV
-- Arcadia
-- San Gabriel Valley
+categories: []
 tags:
-- Sandwich
-- closed
+- arcadia
+- american
+- sandwiches
+- roast-beef
 description: In my hometown of Arcadia, resides one of the best sandwiches I have ever had in my life. I couldn’t believe it, in my never-ending search for the greatest sandwiches. Make sure you get the Beef Barch
 archiveUrl: https://web.archive.org/web/20161105141725/http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/
 draft: false
@@ -18,6 +17,8 @@ location: Stacked Sandwich
 city: Arcadia
 region: San Gabriel Valley
 address: 18 N 1st Ave
+cuisine:
+- American
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-title: Oola Mexican Grill, Taipei (Closed)
+title: Oola Mexican Grill, Taipei
 pubDate: '2010-06-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
-categories:
-- Zhongzhen
-- Taipei
+categories: []
 tags:
-- Mexican
-- closed
+- taipei
+- mexican
+- tacos
+- burritos
 description: One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taip
 archiveUrl: https://web.archive.org/web/20161105031435/http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
 draft: false
@@ -17,6 +17,8 @@ location: Oola Mexican Grill
 city: Taipei
 region: Taipei
 address: 136 Alley Roosevelt Road
+cuisine:
+- Mexican
 ---
 
 

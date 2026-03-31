@@ -1,5 +1,5 @@
 ---
-title: 'Fried chicken at Crack Shack, Pasadena'
+title: Rotisserie Chicken Of California, Pasadena
 pubDate: '2019-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -12,12 +12,9 @@ images:
 - /images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17856784810489763.jpg
 - /images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/18055748962179540.jpg
 tags:
-- friedchicken
-- chicken
 - pasadena
-- oldtownpasadena
-- biscuits
-- chickenoysters
+- american
+- fried-chicken
 description: Fried chicken at Crack Shack. Yum . . .
 location: Rotisserie Chicken Of California
 city: Pasadena
@@ -26,6 +23,9 @@ address: 26 N Los Robles Ave, Pasadena, CA 91101
 coordinates:
   lat: 34.146247
   lng: -118.141245
+categories: []
+cuisine:
+- American
 ---
 
 ![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17852015587518298.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Wonderful dinner at Bavel, sister restaurant of Bestia
+title: Bavel, Downtown LA
 pubDate: '2018-05-10'
 author: The Thirsty Pig
 source: instagram
@@ -16,26 +16,21 @@ images:
 - /images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17845052038264509.jpg
 - /images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17944172587042058.jpg
 tags:
-- thirstypig
-- eeeeeats
-- bavel
-- middleeastern
-- middleeasternood
-- food
-- dinner
-- yummy
 - dtla
-- artsdistrictla
-description: 'Wonderful dinner at Bavel, sister restaurant of Bestia. Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have. We had foie gras halva and olives to start. Then we had my favorite - the Malawach flat bread. The grilled oyster mushrooms and grilled octopus was yummy. I want to reproduce the mushrooms at home, seriously. And finished off with the grilled lamb saddle chop - never had that before. Yum! Can’t wait to visit again. . .'
+- mediterranean
+- flatbread
+- grilled-octopus
+description: Wonderful dinner at Bavel, sister restaurant of Bestia. Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have. We had foie gras halva and olives to start. Then we had my favorite - the Malawach flat bread. The grilled oyster mushrooms and grilled octopus was yummy. I want to reproduce the mushrooms at home, seriously. And finished off with the grilled lamb saddle chop - never had that before. Yum! Can’t wait to visit again. . .
 location: Bavel
 city: Downtown LA
-categories:
-- sister restaurant of Bestia
+categories: []
 region: Los Angeles
 address: 500 Mateo St, Los Angeles, CA 90013
 coordinates:
   lat: 34.041506
   lng: -118.232955
+cuisine:
+- Mediterranean
 ---
 
 ![Wonderful dinner at Bavel, sister restaurant of Bestia](/images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17918798581142937.jpg)

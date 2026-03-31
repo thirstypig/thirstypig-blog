@@ -1,16 +1,15 @@
 ---
-title: The Original Tops, Pasadena Los Angeles
+title: The Original Tops, Pasadena
 pubDate: '2009-08-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/
-categories:
-- Pasadena
+categories: []
 tags:
-- Breakfast
-- Burgers
-- Los Angeles
-- Mexican
+- pasadena
+- american
+- breakfast-burrito
+- burgers
 description: Best Breakfast Burrito . . . Period The potatoes sliced and grilled which provides great texture Humongous amount of fries, onion rings, and zucchini on both the small and large order The chili for th
 archiveUrl: https://web.archive.org/web/20160828011909/http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/
 draft: false
@@ -18,6 +17,8 @@ location: The Original Tops
 city: Pasadena
 region: Pasadena
 address: 3838 E Colorado Blvd Pasadena, CA 91107
+cuisine:
+- American
 ---
 
 

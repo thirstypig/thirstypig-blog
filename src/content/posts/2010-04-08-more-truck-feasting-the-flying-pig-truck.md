@@ -1,5 +1,5 @@
 ---
-title: 'More Truck Feasting . . . The Flying Pig Truck, Downtown LA'
+title: Truck Norris, Downtown LA
 pubDate: '2010-04-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -15,11 +15,7 @@ images:
 - /images/posts/more-truck-feasting-the-flying-pig-truck/IMG_0184.JPG
 - /images/posts/more-truck-feasting-the-flying-pig-truck/IMG_0187.JPG
 - /images/posts/more-truck-feasting-the-flying-pig-truck/pf-button.gif
-categories:
-- Downtown LA
-- Food Truck
-- 2 pigs
-- $
+categories: []
 description: If you are looking for food trucks, you can follow my twitter list of mobile foodhttp://twitter.com/ThirstyPig/mobilefood. http://1.bp.blogspot.com/37fRXLoLUPo/S1Cz046frxI/AAAAAAAABZk/p3dyf7ueTmE/s320
 archiveUrl: https://web.archive.org/web/20100417225920/http://www.thethirstypig.com:80/2010/04/08/more-truck-feasting-the-flying-pig-truck/
 draft: false
@@ -30,6 +26,10 @@ address: Greater LA Metro Area, Los Angeles, CA
 coordinates:
   lat: 34.046303
   lng: -118.249328
+tags:
+- dtla
+- food-trucks
+cuisine: []
 ---
 
 If you are looking for food trucks, you can follow my twitter list of [mobile food](http://twitter.com/ThirstyPig/mobilefood.)

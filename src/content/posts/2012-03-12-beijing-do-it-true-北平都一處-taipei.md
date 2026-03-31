@@ -1,14 +1,10 @@
 ---
-title: Beijing, Do It True 北平都一處, Taipei
+title: The Landis Hotel (亞都麗緻飯店), Taipei
 pubDate: '2012-03-12'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/12/beijing-do-it-true-%E5%8C%97%E5%B9%B3%E9%83%BD%E4%B8%80%E8%99%95-taipei/
-categories:
-- 2 pigs
-- Northern Chinese
-- Price Range 2 $/¥/NT
-- Taipei
+categories: []
 description: What is 北平都一處 Beijing, Do It True 北平都一處 is a northern Chinese cuisine restaurant which is located in Taipei. With a long history dating back a few decades, this restaurant is one of the more famed est
 archiveUrl: https://web.archive.org/web/20120316011349/http://www.thethirstypig.com:80/2012/03/12/beijing-do-it-true-%E5%8C%97%E5%B9%B3%E9%83%BD%E4%B8%80%E8%99%95-taipei/
 draft: false
@@ -19,6 +15,13 @@ address: 民權東路二段41號, 中山區, 臺北市 104
 coordinates:
   lat: 25.062559
   lng: 121.530064
+tags:
+- taipei
+- chinese
+- northern-chinese
+- beijing-cuisine
+cuisine:
+- Chinese
 ---
 
 **What is 北平都一處**

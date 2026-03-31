@@ -1,22 +1,23 @@
 ---
-title: Eggslut, DTLA
+title: Eggslut, Los Angeles
 pubDate: '2016-10-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/10/eggslut-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Breakfast
-- Eggs
+- dtla
+- american
+- eggs
+- sandwiches
 description: Get there early or arrive around 3pm in the afternoon on the weekdays to avoid the long lines The Eggslut is the coddled egg, which is pretty good, but you have to let it cool down a bit The egg sandw
 archiveUrl: https://web.archive.org/web/20161105195901/http://thirstypig.com/2016/10/10/eggslut-dtla/
 draft: false
 location: Eggslut
 city: Dtla
 region: Downtown LA
+cuisine:
+- American
 ---
 
 

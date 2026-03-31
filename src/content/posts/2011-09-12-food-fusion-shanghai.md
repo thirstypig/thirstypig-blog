@@ -1,18 +1,15 @@
 ---
-title: Food Fusion, Shanghai
+title: FOOD FUSION Malaysian Cuisine, Shanghai
 pubDate: '2011-09-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/12/food-fusion-shanghai/
-categories:
-- Malaysian
-- Lunch
-- Huangpu
-- Price Range $/¥/NT
-- 2 pigs
-- Shanghai
+categories: []
 tags:
-- Malaysian
+- shanghai
+- fusion
+- malaysian
+- southeast-asian
 description: Mr. D, a classmate of mine, had taken us on a Southeast Asian food tour, starting withMy Dining Placehttp://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/ – a Singaporean restaurant, and t
 archiveUrl: https://web.archive.org/web/20161105180117/http://thirstypig.com/2011/09/12/food-fusion-shanghai/
 draft: false
@@ -23,6 +20,8 @@ address: Huaihai Rd. (Shaanxi South Rd.), 上海市, 上海市
 coordinates:
   lat: 31.219572
   lng: 121.455011
+cuisine:
+- Fusion
 ---
 
 

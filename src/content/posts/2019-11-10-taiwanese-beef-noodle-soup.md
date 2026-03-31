@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese Beef Noodle Soup, San Gabriel'
+title: Hui Tou Xiang Noodles House, San Gabriel
 pubDate: '2019-11-10'
 author: The Thirsty Pig
 source: instagram
@@ -13,10 +13,11 @@ images:
 - /images/posts/ig-2019-11-10-taiwanese-beef-noodle-soup/18012113674248259.jpg
 - /images/posts/ig-2019-11-10-taiwanese-beef-noodle-soup/18112419349013418.jpg
 tags:
-- taiwanesefood
-- beefnoodlesoup
-- sgv
-description: 'Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot hearty soup had great savory spicy seasoned flavor. Great on a chilly day. . . . .'
+- san-gabriel
+- taiwanese
+- beef-noodle-soup
+- noodles
+description: Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot hearty soup had great savory spicy seasoned flavor. Great on a chilly day. . . . .
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley
@@ -24,6 +25,9 @@ address: 704 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102047
   lng: -118.109943
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-10-taiwanese-beef-noodle-soup/17842732132791581.jpg)

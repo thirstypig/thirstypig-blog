@@ -1,17 +1,14 @@
 ---
-title: Liang’s Village Cuisine, Arcadia (Closed)
+title: Liang’s Village Cuisine, Arcadia
 pubDate: '2009-11-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
-categories:
-- SGV
-- Arcadia
-- San Gabriel Valley
+categories: []
 tags:
-- Chinese 2
-- Taiwanese
-- closed
+- arcadia
+- taiwanese
+- noodles
 description: In the 1st half of the last century, there was a large migration of Chinese to the small island country of Taiwan. Most were in the military following Chiang Kai Shek. They settled in little pockets i
 archiveUrl: https://web.archive.org/web/20161106014441/http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
 draft: false
@@ -21,6 +18,8 @@ region: San Gabriel Valley
 address: '1027 S Baldwin Ave
 
   Arcadia, CA 91007'
+cuisine:
+- Taiwanese
 ---
 
 

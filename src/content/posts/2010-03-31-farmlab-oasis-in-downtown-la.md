@@ -1,5 +1,5 @@
 ---
-title: Farmlab, an Oasis in downtown LA
+title: Farmlab, Los Angeles
 pubDate: '2010-03-31'
 author: The Thirsty Pig
 source: blog.thethirstypig.com
@@ -24,9 +24,7 @@ images:
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+work.jpg
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+workspace.jpg
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+young+plants.jpg
-categories:
-- Downtown LA
-- Downtown La
+categories: []
 description: I was given the chance to attend a Public Salon speak at Farmlab, near downtown Los Angeles.
 archiveUrl: https://web.archive.org/web/20100417225828/http://blog.thethirstypig.com:80/2010/03/farmlab-oasis-in-downtown-la.html
 draft: false
@@ -34,6 +32,12 @@ location: Farmlab
 city: Downtown La
 region: Downtown LA
 address: 1745 North Spring St
+tags:
+- downtown-la
+- multi
+- raw-foods
+cuisine:
+- Multi
 ---
 
 [![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7JlFg9Gg8I/AAAAAAAAAy0/17tM3XJL7vw/s400/farmlab+message+artists.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+corn.jpg)Inspiration

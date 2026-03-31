@@ -1,5 +1,5 @@
 ---
-title: A visit to see the contemporary art at the Broad
+title: The Broad, Downtown LA
 pubDate: '2023-03-13'
 author: The Thirsty Pig
 source: instagram
@@ -17,10 +17,7 @@ images:
 - /images/posts/ig-2023-03-13-a-visit-to-see-the-contemporary-art-at-the-broad/18351871708006838.jpg
 - /images/posts/ig-2023-03-13-a-visit-to-see-the-contemporary-art-at-the-broad/18009163969601797.jpg
 tags:
-- jeffkoons
-- jeanmichelbasquiat
-- andywarhol
-- contemporaryart
+- dtla
 description: A visit to see the contemporary art at the Broad. Saw works from Warhol, Koons, and Basquiat. We missed Murakami’s exhibition by a month. . . . . .
 location: The Broad
 city: Downtown LA
@@ -29,6 +26,7 @@ address: 221 S Grand Ave (at 2nd St), Los Angeles, CA 90012
 coordinates:
   lat: 34.054412
   lng: -118.250539
+categories: []
 ---
 
 ![A visit to see the contemporary art at the Broad](/images/posts/ig-2023-03-13-a-visit-to-see-the-contemporary-art-at-the-broad/17957914472393676.jpg)

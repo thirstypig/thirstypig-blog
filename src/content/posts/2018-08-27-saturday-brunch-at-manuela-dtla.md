@@ -1,5 +1,5 @@
 ---
-title: Saturday Brunch at Manuela DTLA
+title: Manuela, Downtown LA
 pubDate: '2018-08-27'
 author: The Thirsty Pig
 source: instagram
@@ -13,16 +13,10 @@ images:
 - /images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17911933993213996.jpg
 - /images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17856604777302117.jpg
 tags:
+- dtla
+- american
 - brunch
-- stanleyyiu
-- thirstypig
-- eggs
-- chickens
-- artsdistrictla
-- porkcollar
-- porkneck
-- chorizo
-- lambsausage
+- chorizo-burger
 description: Saturday Brunch at Manuela DTLA. Airy little restaurant. We had the pork collar & eggs, lamb sausage, chorizo burger, biscuits, and green beans. Liked the place but a bit pricey. . . . .
 location: Manuela
 city: Downtown LA
@@ -31,6 +25,9 @@ address: 907 E 3rd St (at S Garey St), Los Angeles, CA 90013
 coordinates:
   lat: 34.046468
   lng: -118.234715
+categories: []
+cuisine:
+- American
 ---
 
 ![Saturday Brunch at Manuela DTLA](/images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17945467303148472.jpg)

@@ -1,15 +1,15 @@
 ---
-title: Mayan Grill, Taipei (Closed)
+title: Robin's Grill, Taipei
 pubDate: '2011-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
-categories:
-- ZhongShan
-- Taipei
+categories: []
 tags:
-- Mexican
-- closed
+- taipei
+- mexican
+- salsa
+- guacamole
 description: With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like Maya, everyday type of restaurants like Cantina Agave, and almost fast food types
 archiveUrl: https://web.archive.org/web/20161105005205/http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
 draft: false
@@ -20,6 +20,8 @@ address: 中山北路二段41號2樓, 中山區, 臺北市 104
 coordinates:
   lat: 25.054178
   lng: 121.524381
+cuisine:
+- Mexican
 ---
 
 

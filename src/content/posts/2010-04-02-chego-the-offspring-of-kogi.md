@@ -1,5 +1,5 @@
 ---
-title: Chego, the offspring of Kogi
+title: Chego, Los Angeles
 pubDate: '2010-04-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -25,17 +25,17 @@ images:
 - /images/posts/chego-the-offspring-of-kogi/Chego+6+Spicy+Chicken.jpg
 - /images/posts/chego-the-offspring-of-kogi/Chego+7+Side+Pork+Belly.jpg
 - /images/posts/chego-the-offspring-of-kogi/pf-button.gif
-categories:
-- Korean
-- 2 pigs
-- West LA
-- $
-- the offspring of Kogi
-- Westside
+categories: []
 description: 'Chef Roy Choi’s, of the Kogi Taco Trucks, newest spawn is Chego. Going against the norm, again. While traditional restaurants are considering mobile food trucks to expand their businesses, Choi opens '
 archiveUrl: https://web.archive.org/web/20100417225901/http://www.thethirstypig.com:80/2010/04/02/chego-the-offspring-of-kogi/
 draft: false
 location: Chego
+tags:
+- fusion
+- tacos
+- korean-mexican
+cuisine:
+- Fusion
 ---
 
 ---

@@ -17,17 +17,11 @@ images:
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/18431096119054359.jpg
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/18045221551690281.jpg
 tags:
-- yakitori
-- japanesefood
-- taipeifood
-- taipeirestaurant
-- eats
-- eeeeeats
-description: 'This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. . . .'
+- taipei
+description: This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. . . .
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 ---
 
 ![This was my friend favorite yakitori joint in Taipei](/images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/17906542961878373.jpg)

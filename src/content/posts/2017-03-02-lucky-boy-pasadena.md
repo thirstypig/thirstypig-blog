@@ -4,13 +4,12 @@ pubDate: '2017-03-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/02/lucky-boy-pasadena/
-categories:
-- Los Angeles
-- Pasadena
+categories: []
 tags:
-- Breakfast
-- Mexican
-- Sausage
+- pasadena
+- mexican
+- breakfast-burrito
+- burritos
 description: Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friend
 archiveUrl: https://web.archive.org/web/20170303072357/http://thirstypig.com/2017/03/02/lucky-boy-pasadena/
 draft: false
@@ -18,6 +17,8 @@ location: Lucky Boy
 city: Pasadena
 region: Pasadena
 address: 640 S Arroyo Pkwy
+cuisine:
+- Mexican
 ---
 
 

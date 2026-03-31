@@ -4,14 +4,12 @@ pubDate: '2011-10-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/12/the-geisha-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Bar
-- Japanese
-- Lounge
-- Sushi
+- shanghai
+- japanese
+- cocktails
+- bar
 description: Where did the Thirsty Pig go? The Geisha is a Japanese themed restaurant with a dance club and bar lounge in a multilevel space. Situated in the heart of the French Concession of Shanghai 上海法租界, Geish
 archiveUrl: https://web.archive.org/web/20161104193403/http://thirstypig.com/2011/10/12/the-geisha-shanghai/
 draft: false
@@ -22,6 +20,8 @@ address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
 coordinates:
   lat: 31.224154
   lng: 121.443505
+cuisine:
+- Japanese
 ---
 
 

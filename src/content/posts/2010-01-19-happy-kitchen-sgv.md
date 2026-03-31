@@ -1,16 +1,15 @@
 ---
-title: Happy Kitchen, SGV
+title: Happy Kitchen, Sgv
 pubDate: '2010-01-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/19/happy-kitchen-sgv/
-categories:
-- SGV
-- Sgv
-- San Gabriel Valley
+categories: []
 tags:
-- Chinese 2
-- Dumplings
+- sgv
+- multi
+- beef
+- chicken
 description: I’ve been an amateur journalist that eats for some time now. And occasionally, my friends will insist upon me trying a place. They will drag me to some corner place and lay claim as if they were preac
 archiveUrl: https://web.archive.org/web/20161105081125/http://thirstypig.com/2010/01/19/happy-kitchen-sgv/
 draft: false
@@ -18,6 +17,8 @@ location: Happy Kitchen
 city: Sgv
 region: San Gabriel Valley
 address: 301 W Valley Blvd
+cuisine:
+- Multi
 ---
 
 

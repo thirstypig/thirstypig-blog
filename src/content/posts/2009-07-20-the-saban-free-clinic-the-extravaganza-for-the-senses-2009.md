@@ -1,5 +1,5 @@
 ---
-title: 'The Saban Free Clinic The Extravaganza for the Senses...'
+title: The Saban Free Clinic The Extravaganza for the Senses, Los Angeles
 pubDate: '2009-07-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,15 +11,18 @@ images:
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0710.jpg
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0712.jpg
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0714.jpg
-categories:
-- Food/Wine Event
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- multi
+- wine-tasting
+- sampling
 description: 'Summertime in Los Angeles is the time for Food & Wine Events. One of the finest events is the The Extravaganza for the Senses by the Saban Free Clinic. They have been having their event for 14 years. '
 archiveUrl: https://web.archive.org/web/20111103145408/http://www.thethirstypig.com/2009/07/20/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/
 draft: false
 city: Los Angeles
+cuisine:
+- Multi
 ---
 
 Summertime in Los Angeles is the time for Food & Wine Events. One of the finest events is the The Extravaganza for the Senses by the Saban Free Clinic. They have been having their event for 14 years. They raise funds for their free medical clinics around Los Angeles. Like other Food & Wine events, several restaurants in and around Los Angeles participate with wineries from all over the world. They provide samplings of their best creations.

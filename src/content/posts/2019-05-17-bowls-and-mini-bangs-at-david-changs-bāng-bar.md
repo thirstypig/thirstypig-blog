@@ -1,5 +1,5 @@
 ---
-title: 'Bowls and mini Bangs at David Chang’s Bāng Bar, New York'
+title: Bāng Bar, New York
 pubDate: '2019-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -13,19 +13,16 @@ images:
 - /images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/17849539087435427.jpg
 tags:
 - nyc
-- eeeeeats
-- warnercenter
-- thirstypig
-- bang
-- bowl
-- rice
-- spicypork
-- chicken
-- eggplant
+- fusion
+- bowls
+- bao
 description: Bowls and mini Bangs at David Chang’s Bāng Bar. Eggplant and Chicken bowls and chicken and spicy pork mini bangs. . . .
 location: Bāng Bar
 city: New York
 region: New York
+categories: []
+cuisine:
+- Fusion
 ---
 
 ![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/18037591285135461.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Ramen at 樂麵屋 Rakumenya, Taipei
+title: 麵屋千雲 Menya Chikumo, Taipei
 pubDate: '2010-07-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -22,15 +22,12 @@ images:
 - /images/posts/ramen-rakumenya-taipei/Ramen-7-88x88.jpg
 - /images/posts/ramen-rakumenya-taipei/Ramen-8-88x88.jpg
 - /images/posts/ramen-rakumenya-taipei/Ramen-9-88x88.jpg
-categories:
-- 2 pigs
-- Noodles
-- Price Range $/¥/NT
-- Ramen
-- Taipei
+categories: []
 tags:
-- Eastern District 台北東區
-- Taipei 台北
+- taipei
+- japanese
+- ramen
+- spicy-ramen
 description: Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.
 archiveUrl: https://web.archive.org/web/20110105140123/http://www.thethirstypig.com/2010/07/24/ramen-rakumenya-taipei/
 draft: false
@@ -41,6 +38,8 @@ address: 105-1, Linsen N Rd, 中山區, 臺北市 10491
 coordinates:
   lat: 25.050278
   lng: 121.52507
+cuisine:
+- Japanese
 ---
 
 Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.

@@ -1,5 +1,5 @@
 ---
-title: 'my co-worker was right - best breakfast tacos, Austin'
+title: Valentina's Tex Mex BBQ, Austin
 pubDate: '2017-06-04'
 author: The Thirsty Pig
 source: instagram
@@ -17,18 +17,17 @@ images:
 - /images/posts/ig-2017-06-04-my-co-worker-was-right-best-breakfast-tacos/17859322720148870.jpg
 - /images/posts/ig-2017-06-04-my-co-worker-was-right-best-breakfast-tacos/17883445525006817.jpg
 tags:
-- txbbqpassport
-- breakfasttacos
+- austin
+- fusion
+- breakfast-tacos
 - bbq
-- texasmonthlytop50
-- texmex
-- yum
 description: my co-worker was right - best breakfast tacos!!! The real deal Holyfield taco With a side of brisket and pork ribs! !
 location: Valentina's Tex Mex BBQ
-categories:
-- best breakfast tacos
+categories: []
 city: Austin
 region: Texas
+cuisine:
+- Fusion
 ---
 
 ![my co-worker was right - best breakfast tacos](/images/posts/ig-2017-06-04-my-co-worker-was-right-best-breakfast-tacos/17868425449090460.jpg)

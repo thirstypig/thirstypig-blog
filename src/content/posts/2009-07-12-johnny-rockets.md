@@ -1,5 +1,5 @@
 ---
-title: 'Johnny Rocket’s, Los Angeles'
+title: Johnny Rockets, Los Angeles
 pubDate: '2009-07-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,13 +9,12 @@ images:
 - /images/posts/johnny-rockets/IMG_0665.jpg
 - /images/posts/johnny-rockets/IMG_0666.jpg
 - /images/posts/johnny-rockets/IMG_0668.jpg
-categories:
-- San Gabriel Valley
-- American
-- Hamburgers
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- american
+- burgers
+- fries
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103140338/http://www.thethirstypig.com/2009/07/12/johnny-rockets/
 draft: false
@@ -26,6 +25,8 @@ address: 6801 Hollywood Blvd (at N Highland Ave), Hollywood, CA 90028
 coordinates:
   lat: 34.102022
   lng: -118.339547
+cuisine:
+- American
 ---
 
 I’m not sure what I would categorize Johnny Rocket’s. It’s similar to fast food, but you have waiter service. It’s similar to a dine-in restaurant, yet they mostly have burger and fries. I like Johnny Rocket’s for several reasons.

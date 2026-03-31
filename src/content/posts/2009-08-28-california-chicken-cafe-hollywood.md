@@ -10,18 +10,12 @@ images:
 - /images/posts/california-chicken-cafe-hollywood/IMG_0651.jpg
 - /images/posts/california-chicken-cafe-hollywood/IMG_0653.jpg
 - /images/posts/california-chicken-cafe-hollywood/IMG_0654.jpg
-categories:
-- Lunch
-- Chicken
-- Sandwich
-- West LA
-- Salad
-- Hollywood
-- Los Angeles
+categories: []
 tags:
-- Hollywood
-- West LA
-- Los Angeles
+- hollywood
+- american
+- fried-chicken
+- wraps
 description: California Chicken Cafe is my favorite chicken place. I’ve been a loyal fan and have been going to the Melrose location for over 10 years. Situated near Highland and on Melrose, California Chicken Caf
 archiveUrl: https://web.archive.org/web/20110105153314/http://www.thethirstypig.com/2009/08/28/california-chicken-cafe-hollywood/
 draft: false
@@ -32,6 +26,8 @@ address: 809 S Hill St, Los Angeles, CA 90014
 coordinates:
   lat: 34.04445
   lng: -118.256086
+cuisine:
+- American
 ---
 
 California Chicken Cafe is my favorite chicken place. I’ve been a loyal fan and have been going to the Melrose location for over 10 years. Situated near Highland and on Melrose, California Chicken Cafe is a local lunch favorite for the studios nearby.

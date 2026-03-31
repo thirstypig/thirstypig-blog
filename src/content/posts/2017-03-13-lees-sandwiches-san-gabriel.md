@@ -4,14 +4,12 @@ pubDate: '2017-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
-categories:
-- SGV
-- San Gabriel
-- San Gabriel Valley
+categories: []
 tags:
-- Bakery
-- Sandwich
-- Vietnamese
+- san-gabriel
+- vietnamese
+- sandwiches
+- banh-mi
 description: Yelp Listinghttps://www.yelp.com/biz/lees-sandwiches-rosemead
 archiveUrl: https://web.archive.org/web/20170314134535/http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
 draft: false
@@ -21,6 +19,8 @@ region: San Gabriel Valley
 address: '8779 E Valley Blvd
 
   Rosemead, CA 91770'
+cuisine:
+- Vietnamese
 ---
 
 

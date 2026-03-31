@@ -1,5 +1,5 @@
 ---
-title: 叉燒飯 – BBQ Pork on Rice in Hong Kong
+title: 永合成馳名煲仔飯, Hong Kong
 pubDate: '2009-08-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,12 +8,12 @@ heroImage: /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/010620081539.jp
 images:
 - /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/010620081539.jpg
 - /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/04012007781.jpg
-categories:
-- Chinese
-- Cantonese
-- Hong Kong
+categories: []
 tags:
-- Hong Kong
+- hong-kong
+- chinese
+- bbq
+- rice
 description: BBQ Pork on Rice is one of my all time favorite meals EVER. These two pictures are from Hong Kong. One is from the Hong Kong International Airport and the other is from a small place on Hong Kong Isla
 archiveUrl: https://web.archive.org/web/20111103151446/http://www.thethirstypig.com/2009/08/07/%e5%8f%89%e7%87%92%e9%a3%af-bbq-pork-on-rice-in-hong-kong/
 draft: false
@@ -24,6 +24,8 @@ address: G/F, 360 Des Voeux Road West, Western District
 coordinates:
   lat: 22.287287
   lng: 114.137744
+cuisine:
+- Chinese
 ---
 
 BBQ Pork on Rice is one of my all time favorite meals EVER. These two pictures are from Hong Kong. One is from the Hong Kong International Airport and the other is from a small place on Hong Kong Island, in an area called Wan Chai.

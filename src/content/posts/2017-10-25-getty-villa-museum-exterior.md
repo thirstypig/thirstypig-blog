@@ -1,5 +1,5 @@
 ---
-title: 'Getty Villa museum exterior, Malibu'
+title: Kristy's Village Cafe, Malibu
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram
@@ -17,12 +17,7 @@ images:
 - /images/posts/ig-2017-10-25-getty-villa-museum-exterior/17875832092172547.jpg
 - /images/posts/ig-2017-10-25-getty-villa-museum-exterior/17876033218175578.jpg
 tags:
-- gettyvilla
-- museum
-- exterior
-- thirtypig
 - malibu
-- beach
 description: Getty Villa museum exterior. I dig the herb garden, vine covered walkway, and the outdoor forum.
 location: Kristy's Village Cafe
 city: Malibu
@@ -31,6 +26,8 @@ address: 30745 Pacific Coast Hwy Bldg B, Malibu, CA 90265
 coordinates:
   lat: 34.031206
   lng: -118.842462
+categories: []
+cuisine: []
 ---
 
 ![Getty Villa museum exterior](/images/posts/ig-2017-10-25-getty-villa-museum-exterior/17845621804219203.jpg)

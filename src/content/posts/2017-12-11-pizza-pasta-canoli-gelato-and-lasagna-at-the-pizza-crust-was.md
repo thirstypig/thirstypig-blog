@@ -1,5 +1,5 @@
 ---
-title: 'Eataly, Los Angeles'
+title: Eataly, Los Angeles
 pubDate: '2017-12-11'
 author: The Thirsty Pig
 source: instagram
@@ -15,15 +15,12 @@ images:
 - /images/posts/ig-2017-12-11-pizza-pasta-canoli-gelato-and-lasagna-at-the-pizza-crust-was/17912599339011947.jpg
 - /images/posts/ig-2017-12-11-pizza-pasta-canoli-gelato-and-lasagna-at-the-pizza-crust-was/17853224254213642.jpg
 tags:
-- italianfood
-- centurycity
-- thirstypig
-- atetoomuch
-- la
-- ihatemondays
+- los-angeles
+- italian
+- pizza
+- pasta
 description: 'Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but a little greasy in the middle. The Lasagna was pleasantly better than expected. The meat sauce was good. Ate too much. Suggestion: Go early to avoid the crowds and waits'
-categories:
-- but ...
+categories: []
 location: Eataly
 city: Los Angeles
 region: Los Angeles
@@ -31,6 +28,8 @@ address: 10250 Santa Monica Blvd, Los Angeles, CA 90067
 coordinates:
   lat: 34.05996
   lng: -118.419036
+cuisine:
+- Italian
 ---
 
 ![Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but ...](/images/posts/ig-2017-12-11-pizza-pasta-canoli-gelato-and-lasagna-at-the-pizza-crust-was/17899922182104976.jpg)

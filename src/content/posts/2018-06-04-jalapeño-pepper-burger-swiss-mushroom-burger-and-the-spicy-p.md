@@ -1,5 +1,5 @@
 ---
-title: 'Jalapeño Pepper Burger, Swiss Mushroom Burger, Anaheim'
+title: The Tilted Kilt, Anaheim
 pubDate: '2018-06-04'
 author: The Thirsty Pig
 source: instagram
@@ -10,20 +10,17 @@ images:
 - /images/posts/ig-2018-06-04-jalapeño-pepper-burger-swiss-mushroom-burger-and-the-spicy-p/17948822797040251.jpg
 - /images/posts/ig-2018-06-04-jalapeño-pepper-burger-swiss-mushroom-burger-and-the-spicy-p/17916850975175233.jpg
 tags:
+- anaheim
+- american
 - burgers
-- thirstypig
-- eeeeeats
-- tacotuesday
-- burgertuesday
-- orange
-- oc
-- anahiem
+- fries
 description: Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries. At the tilted kilt in Anaheim
 location: Jalapeño Pepper Burger, Swiss Mushroom Burger
 city: Anaheim
-categories:
-- and the spicy pickle fries
+categories: []
 region: Orange County
+cuisine:
+- American
 ---
 
 ![Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries](/images/posts/ig-2018-06-04-jalapeño-pepper-burger-swiss-mushroom-burger-and-the-spicy-p/17949966262046331.jpg)

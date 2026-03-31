@@ -1,5 +1,5 @@
 ---
-title: Lucky Baldwin’s of Sierra Madre
+title: Lucky Baldwin’s of Sierra Madre, Pasadena
 pubDate: '2010-05-25'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,13 +13,12 @@ images:
 - /images/posts/lucky-baldwins/IMG_1461-185x185.jpg
 - /images/posts/lucky-baldwins/IMG_1463-185x185.jpg
 - /images/posts/lucky-baldwins/IMG_1464-185x185.jpg
-categories:
-- 1 pig
-- English
-- San Gabriel Valley
-- Pasadena
+categories: []
 tags:
-- $
+- pasadena
+- british
+- fish-and-chips
+- meat-pies
 description: Lucky Baldwin is an English Pub with fare found from the other side of the pond. You’ll find Bangers & Mash, Traditional Meat Pies, and Fish & Chips.
 archiveUrl: https://web.archive.org/web/20100530125502/http://www.thethirstypig.com:80/2010/05/25/lucky-baldwins/
 draft: false
@@ -29,6 +28,8 @@ region: Pasadena
 address: '21 Kersting Court
 
   Sierra Madre, CA 91024'
+cuisine:
+- British
 ---
 
 Lucky Baldwin is an English Pub with fare found from the other side of the pond. You’ll find Bangers & Mash, Traditional Meat Pies, and Fish & Chips.

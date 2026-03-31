@@ -4,11 +4,12 @@ pubDate: '2011-06-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Shanghainese
+- shanghai
+- chinese
+- rice-dishes
+- protein
 description: Xiao San Tang is a nice little cafe with a Chinese menu with a touch of whimsy, a western ideal, and just the right amount of elegances.
 archiveUrl: https://web.archive.org/web/20161019090227/http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/
 draft: false
@@ -16,6 +17,8 @@ location: Xiao San Tang 小三堂
 city: Shanghai
 region: Shanghai
 address: 25 TaiKang Rd
+cuisine:
+- Chinese
 ---
 
 

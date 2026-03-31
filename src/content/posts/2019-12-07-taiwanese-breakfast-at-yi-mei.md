@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese breakfast at Yi Mei, Arcadia'
+title: Yi Mei, Arcadia
 pubDate: '2019-12-07'
 author: The Thirsty Pig
 source: instagram
@@ -11,23 +11,17 @@ images:
 - /images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18118465162048738.jpg
 - /images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/17847144214768317.jpg
 tags:
-- yimei
-- taiwanesebreakfast
-- breakfast
-- taiwanesefood
-- eeeeeats
-- eat
-- egg
-- sgv
 - arcadia
-- monrovia
+- taiwanese
+- breakfast
+- dumplings
 description: Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had the egg pancake 蛋皮 and fried dumplings. Yi Mei is one of the better Taiwanese breakfast restaurants. . . . . .
 location: Yi Mei
 city: Arcadia
 region: San Gabriel Valley
-categories:
-- Arcadia
-- San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18096871207129836.jpg)

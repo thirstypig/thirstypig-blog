@@ -1,5 +1,5 @@
 ---
-title: 'Royal Clayton’s English Pub, Downtown LA'
+title: Royal Claytons English Pub, Downtown LA
 pubDate: '2009-12-03'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,12 +9,12 @@ images:
 - /images/posts/royal-claytons-english-pub/DSCN0006.JPG
 - /images/posts/royal-claytons-english-pub/DSCN0011.JPG
 - /images/posts/royal-claytons-english-pub/DSCN0014.JPG
-categories:
-- Downtown LA
-- $$
-- 2 pigs
+categories: []
 tags:
-- Downtown LA
+- dtla
+- american
+- pub-food
+- cocktails
 description: 'Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an '
 archiveUrl: https://web.archive.org/web/20110105194820/http://www.thethirstypig.com/2009/12/03/royal-claytons-english-pub/
 draft: false
@@ -25,6 +25,8 @@ address: 613 S Grand Ave (at 6th St), Los Angeles, CA 90017
 coordinates:
   lat: 34.048461
   lng: -118.255696
+cuisine:
+- American
 ---
 
 Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an excellent destination drinking place for a group of friends.

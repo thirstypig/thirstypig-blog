@@ -1,5 +1,5 @@
 ---
-title: Martini Thursday at David Laris’ Yucca
+title: David Laris' Yucca, Shanghai
 pubDate: '2010-12-16'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,17 +9,16 @@ images:
 - /images/posts/martini-thursday-at-yucca/124-88x88.jpg
 - /images/posts/martini-thursday-at-yucca/126-88x88.jpg
 - /images/posts/martini-thursday-at-yucca/127-88x88.jpg
-categories:
-- 3 pigs
-- Cocktail
-- Lounge
-- Price Range $/¥/NT
+categories: []
 tags:
-- Luwan District 上海卢湾区
+- cocktails
+- martinis
 description: Martini Thursdays is event brought back by David Laris to help promote his new lounge at Sinan Mansions, Yucca. My personal favorite is a Vodka Dirty Martini, with any vodka except Grey Goose. I never
 archiveUrl: https://web.archive.org/web/20101218162702/http://www.thethirstypig.com:80/2010/12/16/martini-thursday-at-yucca/
 draft: false
 location: Martini Thursday at David Laris’ Yucca
+cuisine:
+- Cocktails
 ---
 
 Martini Thursdays is event brought back by David Laris to help promote his new lounge at Sinan Mansions, Yucca. My personal favorite is a Vodka Dirty Martini, with any vodka except Grey Goose. I never liked Grey Goose.

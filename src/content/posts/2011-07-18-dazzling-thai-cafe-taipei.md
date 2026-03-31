@@ -1,5 +1,5 @@
 ---
-title: Dazzling Thai Cafe, Taipei
+title: Dazzling Cafe Pink, Taipei
 pubDate: '2011-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -19,11 +19,12 @@ images:
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-28-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-29-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-35-494x370.jpg
-categories:
-- Songshan
-- Taipei
+categories: []
 tags:
-- Thai
+- taipei
+- thai
+- cafe
+- curry
 description: An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool l
 archiveUrl: https://web.archive.org/web/20161106024515/http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/
 draft: false
@@ -34,6 +35,8 @@ address: 忠孝東路四段205巷7弄11號, 台北市,  106
 coordinates:
   lat: 25.042007
   lng: 121.552391
+cuisine:
+- Thai
 ---
 
 [![dazzling-thai-cafe-08](/images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-02-494x370.jpg "dazzling-thai-cafe-08")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-08/)

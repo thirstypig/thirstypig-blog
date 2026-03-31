@@ -1,5 +1,5 @@
 ---
-title: 'Tasty pork ribs - must order, San Antonio'
+title: 2M Smokehouse, San Antonio
 pubDate: '2017-06-17'
 author: The Thirsty Pig
 source: instagram
@@ -15,18 +15,16 @@ images:
 - /images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17884567909063031.jpg
 - /images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17858812369188837.jpg
 tags:
-- sanantonio
-- texasmonthlytop50
-- txbbqpassport
-- beefbrisket
-- porkribs
-- macandcheese
-description: 'Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.'
+- san-antonio
+- bbq
+- ribs
+description: Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.
 location: 2M Smokehouse
-categories:
-- must order
+categories: []
 city: San Antonio
 region: Texas
+cuisine:
+- BBQ
 ---
 
 ![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17862320248140384.jpg)

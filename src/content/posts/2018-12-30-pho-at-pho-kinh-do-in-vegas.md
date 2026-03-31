@@ -1,5 +1,5 @@
 ---
-title: 'Pho at Pho Kinh Do in Vegas, Las Vegas'
+title: Downtown Las Vegas Events Center, Las Vegas
 pubDate: '2018-12-30'
 author: The Thirsty Pig
 source: instagram
@@ -11,15 +11,9 @@ images:
 - /images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/17988588121181710.jpg
 - /images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18017029162028496.jpg
 tags:
-- vegas
-- lasvegas
+- las-vegas
+- vietnamese
 - pho
-- vietnamesefood
-- noodles
-- beef
-- pork
-- thirstypig
-- soup
 description: Pho at Pho Kinh Do in Vegas . . .
 location: Downtown Las Vegas Events Center
 city: Las Vegas
@@ -28,6 +22,9 @@ address: 200 S 3rd St, Las Vegas, NV 89101
 coordinates:
   lat: 36.168683
   lng: -115.144706
+categories: []
+cuisine:
+- Vietnamese
 ---
 
 ![Pho at Pho Kinh Do in Vegas](/images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18016189561038545.jpg)

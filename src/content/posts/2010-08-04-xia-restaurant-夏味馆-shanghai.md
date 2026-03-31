@@ -1,14 +1,15 @@
 ---
-title: Xia Restaurant 夏味馆 of Shanghai
+title: Pasha (帕夏土耳其餐厅), Shanghai
 pubDate: '2010-08-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
-categories:
-- Jingan
-- Shanghai
+categories: []
 tags:
-- Shanghainese
+- shanghai
+- mediterranean
+- turkish
+- kebab
 description: If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your ju
 archiveUrl: https://web.archive.org/web/20161019153946/http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
 draft: false
@@ -19,6 +20,8 @@ address: 262 Nanchang Rd | 南昌路262号 (near Ruijin 2nd Rd | 近瑞金二路
 coordinates:
   lat: 31.219325
   lng: 121.459099
+cuisine:
+- Mediterranean
 ---
 
 

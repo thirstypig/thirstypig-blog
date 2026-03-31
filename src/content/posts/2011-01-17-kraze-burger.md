@@ -4,16 +4,18 @@ pubDate: '2011-01-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/17/kraze-burger/
-categories:
-- 2 pigs
-- Hamburgers
-- Price Range 2 $/¥/NT
+categories: []
 tags:
-- Seoul 서울
+- seoul
+- korean
+- burgers
 description: Kraze Burger pronounced as Kraz-Say Burger, not Crazy Burger is a fast food burger joint in Korea. Guess you could derive the fascination with the letter “K” with anything Korean. I gotta say, the bur
 archiveUrl: https://web.archive.org/web/20110120071859/http://www.thethirstypig.com:80/2011/01/17/kraze-burger/
 draft: false
 location: Kraze Burger
+city: Seoul
+cuisine:
+- Korean
 ---
 
 Kraze Burger (pronounced as Kraz-Say Burger, not Crazy Burger) is a fast food burger joint in Korea. Guess you could derive the fascination with the letter “K” with anything Korean. I gotta say, the burger at Kraze is actually really good.

@@ -4,12 +4,12 @@ pubDate: '2010-01-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/28/new-house-korea-rowland-heights/
-categories:
-- SGV
-- Rowland Heights
-- San Gabriel Valley
+categories: []
 tags:
-- Korean
+- rowland-heights
+- korean
+- bbq
+- korean-cuisine
 description: Yelp Listinghttps://www.yelp.com/biz/new-house-of-korea-rowland-heights-3
 archiveUrl: https://web.archive.org/web/20161105040927/http://thirstypig.com/2010/01/28/new-house-korea-rowland-heights/
 draft: false
@@ -17,6 +17,8 @@ location: New House of Korea
 city: Rowland Heights
 region: San Gabriel Valley
 address: 18981 E Colima Rd Rowland Heights, CA 91748
+cuisine:
+- Korean
 ---
 
 

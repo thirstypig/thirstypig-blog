@@ -1,5 +1,5 @@
 ---
-title: Lunch at Summer Rolls
+title: Summer Rolls, San Gabriel Valley
 pubDate: '2021-02-06'
 author: The Thirsty Pig
 source: instagram
@@ -9,18 +9,17 @@ images:
 - /images/posts/ig-2021-02-06-lunch-at-summer-rolls/17859699104473002.jpg
 - /images/posts/ig-2021-02-06-lunch-at-summer-rolls/17907944926651593.jpg
 tags:
-- vietnamesefood
-- rice
-- eeeeeats
-- eats
 - sgv
-- thirstypig
-- shrimp
-- ricecake
-description: 'Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess the pork chop was a little heavy . . . . . . .'
+- vietnamese
+- rice-plates
+- banh-beo
+description: Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess the pork chop was a little heavy . . . . . . .
 location: Lunch at Summer Rolls
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Vietnamese
 ---
 
 ![Lunch at Summer Rolls](/images/posts/ig-2021-02-06-lunch-at-summer-rolls/17859699104473002.jpg)

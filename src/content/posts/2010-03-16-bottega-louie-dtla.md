@@ -1,17 +1,15 @@
 ---
-title: Bottega Louie, DTLA
+title: Bottega Louie, Dtla
 pubDate: '2010-03-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/16/bottega-louie-dtla/
-categories:
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Brunch
-- Dtla
-- Italian
-- Wine
+- dtla
+- italian
+- brunch
+- breakfast
 description: 'Perhaps I should have made a few more visits to Bottega Louie, but with the suggestion of some friends, I knew I had to visit this place. The space occupies a prime 1st floor space on a corner in the '
 archiveUrl: https://web.archive.org/web/20160829110429/http://thirstypig.com/2010/03/16/bottega-louie-dtla/
 draft: false
@@ -19,6 +17,8 @@ location: Bottega Louie
 city: Dtla
 region: Downtown LA
 address: 700 S Grand Ave Los Angeles, CA 90017
+cuisine:
+- Italian
 ---
 
 

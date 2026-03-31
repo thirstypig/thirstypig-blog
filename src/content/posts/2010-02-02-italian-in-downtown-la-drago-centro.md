@@ -1,5 +1,5 @@
 ---
-title: Italian in Downtown LA, Drago Centro
+title: Drago Centro, Los Angeles
 pubDate: '2010-02-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -14,14 +14,11 @@ images:
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0049.JPG
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0050.JPG
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0051.jpg
-categories:
-- Downtown LA
-- $$$
-- 2 pigs
-- Italian
-- Drago Centro
+categories: []
 tags:
-- Downtown LA
+- dtla
+- italian
+- fine-dining
 description: Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their menuhttp://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445 during their promotion. Unfortunately,
 archiveUrl: https://web.archive.org/web/20110105030652/http://www.thethirstypig.com/2010/02/02/italian-in-downtown-la-drago-centro/
 draft: false
@@ -32,6 +29,8 @@ address: Los Angeles, CA
 coordinates:
   lat: 34.040101
   lng: -118.253671
+cuisine:
+- Italian
 ---
 
 Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their [menu](http://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445) during their promotion. Unfortunately, I didn’t get to try their dineLA menu.

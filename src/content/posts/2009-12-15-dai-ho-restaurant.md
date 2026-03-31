@@ -1,5 +1,5 @@
 ---
-title: Dai Ho Restaurant
+title: Dai Ho Restaurant, unknown
 pubDate: '2009-12-15'
 author: The Thirsty Pig
 source: blog.thethirstypig.com
@@ -14,6 +14,13 @@ archiveUrl: https://web.archive.org/web/20100103040512/http://blog.thethirstypig
 draft: false
 location: Dai Ho Restaurant
 address: 9148 Las Tunas Dr Temple City, CA 91780
+cuisine:
+- Taiwanese
+tags:
+- taiwanese
+- noodles
+- beef-stew
+categories: []
 ---
 
 [![](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s200/IMG_7555.JPG)](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s1600-h/IMG_7555.JPG)

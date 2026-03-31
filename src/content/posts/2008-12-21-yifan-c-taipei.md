@@ -1,23 +1,19 @@
 ---
-title: Yifan C. – Taipei
+title: Yifan C., Taipei
 pubDate: '2008-12-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2008/12/21/yifan-c-taipei/
-categories:
-- Taipei
-- Contributors
-- Japanese
-- Ramen
-- Taiwanese
+categories: []
 tags:
-- Taipei 台北
+- taipei
 description: Yifan C. – Taipei aka 露露http://www.blogger.com/profile/08446448073954436949
 archiveUrl: https://web.archive.org/web/20110105193544/http://www.thethirstypig.com/2008/12/21/yifan-c-taipei/
 draft: false
 location: Yifan C.
 city: Taipei
 region: Taipei
+cuisine: []
 ---
 
 Yifan C. – Taipei aka [露露](http://www.blogger.com/profile/08446448073954436949)

@@ -1,13 +1,10 @@
 ---
-title: Welcome to the SGV (Monterey Park, Alhambra, San Gabriel)
+title: Love To Go, San Gabriel
 pubDate: '2010-09-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/09/09/welcome-to-the-sgv-monterey-park-alhambra-san-gabriel/
-categories:
-- Los Angeles
-- San Gabriel Valley
-- San Gabriel
+categories: []
 description: Welcome to the SGV Monterey Park, Alhambra, San Gabriel by Andrew Fung
 archiveUrl: https://web.archive.org/web/20100919050115/http://www.thethirstypig.com:80/2010/09/09/welcome-to-the-sgv-monterey-park-alhambra-san-gabriel/
 draft: false
@@ -18,6 +15,10 @@ address: 307 S Mission Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.098229
   lng: -118.109152
+tags:
+- san-gabriel
+- sgv-restaurants
+cuisine: []
 ---
 
 Welcome to the SGV (Monterey Park, Alhambra, San Gabriel)

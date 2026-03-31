@@ -1,5 +1,5 @@
 ---
-title: Tai Thai 太泰 at Tianzifang, Shanghai
+title: Din Tai Fung (鼎泰丰), Shanghai
 pubDate: '2010-12-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -15,13 +15,12 @@ images:
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-14-88x88.jpg
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-15-88x88.jpg
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-16-88x88.jpg
-categories:
-- 0 pigs
-- Price Range 2 $/¥/NT
-- Thai
-- Shanghai
+categories: []
 tags:
-- French Concession 上海法租界
+- shanghai
+- chinese
+- dim-sum
+- dumplings
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20110104165901/http://www.thethirstypig.com/2010/12/20/tai-thai-at-tianzifang-shanghai/
 draft: false
@@ -32,6 +31,8 @@ address: 999 Huaihai M Rd | 淮海中路999号 (3/F-18 iapm Mall | 环贸iapm商
 coordinates:
   lat: 31.217779
   lng: 121.453103
+cuisine:
+- Chinese
 ---
 
 First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to get pique your interest.

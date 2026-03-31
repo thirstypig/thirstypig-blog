@@ -1,5 +1,5 @@
 ---
-title: 'Happy Hour at Sara the Wine Bar, Culver City'
+title: Sara the Wine Bar, Culver City
 pubDate: '2022-07-30'
 author: The Thirsty Pig
 source: instagram
@@ -10,20 +10,12 @@ images:
 - /images/posts/ig-2022-07-30-happy-hour-at-sara-the-wine-bar/17916780077545848.jpg
 - /images/posts/ig-2022-07-30-happy-hour-at-sara-the-wine-bar/18068413825313050.jpg
 tags:
-- winebar
-- sarathewinebar
-- bruchetta
-- margarheritapizza
-- pizza
-- seafoodpasta
-- wine
-- winebar
-- culvercity
-- eat
+- culver-city
 description: Happy Hour at Sara the Wine Bar. Bruschetta, margarhetti pizza, seafood pasta. Fresh pasta made in-house. Cool little spot that’s not too crowded. Would return and would recommend . . . . .
 location: Sara the Wine Bar
 city: Culver City
 region: Los Angeles
+categories: []
 ---
 
 ![Happy Hour at Sara the Wine Bar](/images/posts/ig-2022-07-30-happy-hour-at-sara-the-wine-bar/18209853493081803.jpg)

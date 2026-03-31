@@ -1,19 +1,15 @@
 ---
-title: Din Tai Fung, Arcadia SGV Los Angeles
+title: Din Tai Fung, Arcadia
 pubDate: '2016-09-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/09/01/din-tai-fung-arcadia-sgv-los-angeles/
-categories:
-- Sgv
-- Arcadia
-- San Gabriel Valley
+categories: []
 tags:
-- Chinese 2
-- Dumplings
-- Los Angeles
-- Noodles
-- Shanghainese
+- arcadia
+- chinese
+- dumplings
+- noodles
 description: Best Steam Pork Dumplings 小龍包 Great new location and decor, but challenging parking situation Spicy Wontons are great, too Get there is in the late afternoon on a weekday to avoid the crowds Beef in B
 archiveUrl: https://web.archive.org/web/20160901220822/http://thirstypig.com/2016/09/01/din-tai-fung-arcadia-sgv-los-angeles/
 draft: false
@@ -21,6 +17,8 @@ location: Din Tai Fung
 city: Arcadia
 region: San Gabriel Valley
 address: 400 Baldwin Ave St
+cuisine:
+- Chinese
 ---
 
 

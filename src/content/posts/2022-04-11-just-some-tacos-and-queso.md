@@ -11,14 +11,9 @@ images:
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/17925098273334205.jpg
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/17971528993514457.jpg
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/18290711404041051.jpg
-tags:
-- studiocity
-- mexicanfood
-- organic
-- venturablvd
-- thevalley
-- tacos
+tags: []
 description: Just some tacos and queso. And of course some drinks. Really can’t go wrong with tacos. . . . . . .
+categories: []
 ---
 
 ![Just some tacos and queso](/images/posts/ig-2022-04-11-just-some-tacos-and-queso/17901761774547339.jpg)

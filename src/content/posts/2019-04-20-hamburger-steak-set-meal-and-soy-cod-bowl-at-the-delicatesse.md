@@ -1,5 +1,5 @@
 ---
-title: 'Hamburger Steak Set Meal and Soy Cod Bowl at the...'
+title: Delicatessen by Osawa, San Gabriel
 pubDate: '2019-04-20'
 author: The Thirsty Pig
 source: instagram
@@ -9,17 +9,16 @@ images:
 - /images/posts/ig-2019-04-20-hamburger-steak-set-meal-and-soy-cod-bowl-at-the-delicatesse/17923495900295440.jpg
 - /images/posts/ig-2019-04-20-hamburger-steak-set-meal-and-soy-cod-bowl-at-the-delicatesse/18057712018012319.jpg
 tags:
-- eeeeeats
-- food
-- japanesefood
-- hamburgersteak
+- san-gabriel
+- japanese
+- hamburger-steak
 - cod
-- setmeal
-- sgv
-- pasadena
 description: Hamburger Steak Set Meal and Soy Cod Bowl at the Delicatessen by Osawa. Pretty good. I will certainly return. Not sure if I would recommend since I don’t want it to be too crowded 😜. . .
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Hamburger Steak Set Meal and Soy Cod Bowl at the Delicatessen by Osawa](/images/posts/ig-2019-04-20-hamburger-steak-set-meal-and-soy-cod-bowl-at-the-delicatesse/17923495900295440.jpg)

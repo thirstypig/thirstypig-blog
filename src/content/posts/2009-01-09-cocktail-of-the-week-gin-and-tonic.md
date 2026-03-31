@@ -7,11 +7,15 @@ originalUrl: http://www.thethirstypig.com/2009/01/09/cocktail-of-the-week-gin-an
 heroImage: /images/posts/cocktail-of-the-week-gin-and-tonic/04202007967.jpg
 images:
 - /images/posts/cocktail-of-the-week-gin-and-tonic/04202007967.jpg
-categories:
-- Cocktail
+categories: []
 description: Tanqueray Rangpur Gin, Hendrick’s, Bombay Sapphire are, in my opinion, the best Gins. I do not and cannot drink Gin straight. Nor do I like Gin Martini’s. I only like my Gin’s with Tonic. I guess I ne
 archiveUrl: https://web.archive.org/web/20110106004745/http://www.thethirstypig.com/2009/01/09/cocktail-of-the-week-gin-and-tonic/
 draft: false
+tags:
+- cocktails
+- gin
+cuisine:
+- Cocktails
 ---
 
 The Gin and Tonic

@@ -7,13 +7,12 @@ originalUrl: http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/
 heroImage: /images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg
 images:
 - /images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg
-categories:
-- Beverly Hills
-- Westside
+categories: []
 tags:
-- American
-- Beef
-- Los Angeles
+- beverly-hills
+- american
+- prime-rib
+- steak
 description: The standard how Prime Rib should be measured by Big Bowl is for the football players playing in the annual Rose Bowl The large stainless steel rolling cutting stations are rumored to be worth more th
 archiveUrl: https://web.archive.org/web/20160914021721/http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/
 draft: false
@@ -21,6 +20,8 @@ location: Lawry’s The Prime Rib
 city: Beverly Hills
 region: Westside
 address: 100 N La Cienega Blvd Beverly Hills, CA 90211
+cuisine:
+- American
 ---
 
 [![IMG_1029](/images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg "IMG_1029")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1029/)

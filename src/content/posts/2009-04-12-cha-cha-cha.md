@@ -1,5 +1,5 @@
 ---
-title: Cha Cha Cha
+title: Cha Cha Cha, Los Angeles
 pubDate: '2009-04-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,12 +10,12 @@ images:
 - /images/posts/cha-cha-cha/IMG_0499.jpg
 - /images/posts/cha-cha-cha/IMG_0501.jpg
 - /images/posts/cha-cha-cha/IMG_0502.jpg
-categories:
-- Los Angeles
-- Spanish
-- Tapas
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- colombian
+- tapas
+- sangria
 description: Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type o
 archiveUrl: https://web.archive.org/web/20110105162608/http://www.thethirstypig.com/2009/04/12/cha-cha-cha/
 draft: false
@@ -25,6 +25,8 @@ address: 7953 Santa Monica Blvd, West Hollywood, CA 90046
 coordinates:
   lat: 34.091036
   lng: -118.36316
+cuisine:
+- Colombian
 ---
 
 Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type of cuisine of little dishes, sort of like appetizers. Food is great with wine or Sangria.

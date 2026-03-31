@@ -1,5 +1,5 @@
 ---
-title: Japanese noodles, mazesoba from Nagoya
+title: Japanese noodles, San Gabriel Valley
 pubDate: '2022-03-20'
 author: The Thirsty Pig
 source: instagram
@@ -13,21 +13,11 @@ images:
 - /images/posts/ig-2022-03-20-japanese-noodles-mazesoba-from-nagoya/17972543527482917.jpg
 - /images/posts/ig-2022-03-20-japanese-noodles-mazesoba-from-nagoya/17855916779721679.jpg
 tags:
-- mazesoba
-- nagoyastyle
-- friedchicken
-- yummy
-- lunch
 - sgv
-- arcadia
-- poachedegg
-- softboiledegg
-- japanesefood
-description: 'Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After mixing, the noodles were melted together with poached egg. It’s an interesting texture that may not appeal to all. Sort of slimey. I had a side of the soup. I prefer noodles in a broth. . . . . .'
+description: Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After mixing, the noodles were melted together with poached egg. It’s an interesting texture that may not appeal to all. Sort of slimey. I had a side of the soup. I prefer noodles in a broth. . . . . .
 location: Japanese noodles
 city: San Gabriel Valley
-categories:
-- mazesoba from Nagoya
+categories: []
 region: San Gabriel Valley
 ---
 

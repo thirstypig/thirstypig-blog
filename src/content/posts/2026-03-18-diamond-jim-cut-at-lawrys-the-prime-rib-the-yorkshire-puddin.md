@@ -1,28 +1,25 @@
 ---
-title: 'Lawry''s The Prime Rib, Beverly Hills'
-pubDate: 2026-03-18T00:00:00.000Z
-description: 'Diamond Jim Cut at Lawry’s The Prime Rib the Yorkshire pudding, creamed corn, and cream spinach. Great meal. It’s had been a minute since I was last here. I’m hope next time isn’t as long.'
+title: Lawry's The Prime Rib, Beverly Hills
+pubDate: 2026-03-18 00:00:00+00:00
+description: Diamond Jim Cut at Lawry’s The Prime Rib the Yorkshire pudding, creamed corn, and cream spinach. Great meal. It’s had been a minute since I was last here. I’m hope next time isn’t as long.
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg
-categories:
-  - creamed corn...
+categories: []
 tags:
-  - primerib
-  - beverlyhills
-  - lawrys
+- beverly-hills
 cuisine:
-  - steakhouse
+- steakhouse
 location: Lawry's The Prime Rib
 city: Beverly Hills
 region: Los Angeles
-address: '100 N La Cienega Blvd, Beverly Hills, CA 90211'
+address: 100 N La Cienega Blvd, Beverly Hills, CA 90211
 coordinates:
   lat: 34.070357
   lng: -118.402368
 images:
-  - /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg
-  - /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18341995822212886.jpg
-  - /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/17855100300631424.jpg
+- /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg
+- /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18341995822212886.jpg
+- /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/17855100300631424.jpg
 source: instagram
 draft: false
 ---

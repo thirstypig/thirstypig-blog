@@ -4,10 +4,12 @@ pubDate: '2009-08-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/
-categories:
-- Pasadena
+categories: []
 tags:
-- Chicken
+- pasadena
+- american
+- rotisserie-chicken
+- chicken
 description: Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie an
 archiveUrl: https://web.archive.org/web/20161105141609/http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/
 draft: false
@@ -16,6 +18,8 @@ region: Pasadena
 address: '26 Los Robles Ave.
 
   Pasadena, CA 91101'
+cuisine:
+- American
 ---
 
 

@@ -10,19 +10,10 @@ images:
 - /images/posts/ig-2025-02-03-barbecue-at-blakes-place-in-the-oc/17868351063220808.jpg
 - /images/posts/ig-2025-02-03-barbecue-at-blakes-place-in-the-oc/17861906739343377.jpg
 - /images/posts/ig-2025-02-03-barbecue-at-blakes-place-in-the-oc/18076227640730135.jpg
-tags:
-- kcbsbbq
-- kcbs
-- bbq
-- barbecue
-- barbeque
-- que
-- eats
-- eeeeats
-- oc
-- oceats
+tags: []
 description: Barbecue at Blake’s Place in the OC. This neighborhood bbq joint has a pretty good following. They specialize in bbq sandwiches. This is the place with does her eating feats with their famous “The Bea
 location: Barbecue at Blake’s Place in the OC
+categories: []
 ---
 
 ![Barbecue at Blake’s Place in the OC](/images/posts/ig-2025-02-03-barbecue-at-blakes-place-in-the-oc/18047607503336224.jpg)

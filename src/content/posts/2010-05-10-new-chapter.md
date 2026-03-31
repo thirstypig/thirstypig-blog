@@ -8,6 +8,9 @@ description: Please check out the latest posts on the new site - <http://www.the
 archiveUrl: https://web.archive.org/web/20100523224932/http://blog.thethirstypig.com:80/2010/05/new-chapter.html
 draft: false
 location: New Chapter
+cuisine: []
+tags: []
+categories: []
 ---
 
 Please check out the latest posts on the new site - <http://www.thethirstypig.com>

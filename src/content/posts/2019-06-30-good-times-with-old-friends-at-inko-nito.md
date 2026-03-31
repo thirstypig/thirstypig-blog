@@ -1,5 +1,5 @@
 ---
-title: 'Good times with old friends at Inko Nito, Downtown LA'
+title: Inko Nito, Downtown LA
 pubDate: '2019-06-30'
 author: The Thirsty Pig
 source: instagram
@@ -17,16 +17,17 @@ images:
 - /images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18079624315019953.jpg
 - /images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18083056051032097.jpg
 tags:
-- dtlaartsdistrict
-- japanesefood
+- dtla
+- japanese
 - sashimi
 - sake
-- beer
-- eeeeeats
 description: Good times with old friends at Inko Nito. Great venue and location. . . .
 location: Inko Nito
 city: Downtown LA
 region: Los Angeles
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18075864619068245.jpg)

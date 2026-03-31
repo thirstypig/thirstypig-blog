@@ -1,5 +1,5 @@
 ---
-title: 'Chicken & Waffles Woot! – Roscoe’s, San Gabriel Valley'
+title: Chicken & Waffles Woot! – Roscoe’s, San Gabriel Valley
 pubDate: '2009-03-25'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,14 +10,12 @@ images:
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0416.JPG
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0418.JPG
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0420.JPG
-categories:
-- Southern
-- American
-- Soul
-- Breakfast
-- Roscoe’s
+categories: []
 tags:
-- Los Angeles
+- sgv
+- american
+- fried-chicken
+- waffles
 description: 'This famous Los Angeles restaurant – originating near South Central Los Angeles, features southern style comfort food. Their staple of fried chicken and waffle is a favorite of Angelo’s and Hollywood '
 archiveUrl: https://web.archive.org/web/20111103144720/http://www.thethirstypig.com/2009/03/25/chicken-waffles-woot-roscoes/
 draft: false
@@ -26,6 +24,8 @@ address: '830 N Lake Ave
 
   Pasadena, CA 91104'
 region: San Gabriel Valley
+cuisine:
+- American
 ---
 
 This famous Los Angeles restaurant – originating near South Central Los Angeles, features southern style comfort food. Their staple of fried chicken and waffle is a favorite of Angelo’s and Hollywood stars at their Hollywood address. The Pasadena location caters to the northern Pasadena, San Gabriel Valley, and Altadena communities.

@@ -1,5 +1,5 @@
 ---
-title: 'Lobster Pizza and truffle Flat Bread, Hollywood'
+title: Clark Street Bread, Hollywood
 pubDate: '2019-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -9,13 +9,10 @@ images:
 - /images/posts/ig-2019-08-05-lobster-pizza-and-truffle-flat-bread/18059557798137502.jpg
 - /images/posts/ig-2019-08-05-lobster-pizza-and-truffle-flat-bread/17847526888547300.jpg
 tags:
-- berricafe
-- lobsterpizza
-- flatbread
+- hollywood
+- bakery
 - pizza
 - flatbread
-- latenight
-- hollywood
 description: Lobster Pizza and truffle Flat Bread. Pretty good pizza . . .
 location: Clark Street Bread
 city: Hollywood
@@ -24,6 +21,9 @@ address: 331 Glendale Blvd, Los Angeles, CA 90026
 coordinates:
   lat: 34.066144
   lng: -118.260592
+categories: []
+cuisine:
+- Bakery
 ---
 
 ![Lobster Pizza and truffle Flat Bread](/images/posts/ig-2019-08-05-lobster-pizza-and-truffle-flat-bread/18059557798137502.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Omakase at Z Sushui
+title: Omakase at Z Sushui, San Gabriel Valley
 pubDate: '2021-10-22'
 author: The Thirsty Pig
 source: instagram
@@ -17,19 +17,11 @@ images:
 - /images/posts/ig-2021-10-22-omakase-at-z-sushui/17886332237437623.jpg
 tags:
 - sgv
-- alhambra
-- sushi
-- sashimi
-- japanesefood
-- fish
-- seafood
-- miso
-- thirstypig
-- tuna
 description: Omakase at Z Sushui. Great meal experience at a long-standing favorite. Hadn’t been there in a long time. I think Z Sushi is one of the better Sushi restaurants in the SGV. . . . . .
 location: Omakase at Z Sushui
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
 ---
 
 ![Omakase at Z Sushui](/images/posts/ig-2021-10-22-omakase-at-z-sushui/17951698534505351.jpg)

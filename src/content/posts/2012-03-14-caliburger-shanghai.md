@@ -1,16 +1,10 @@
 ---
-title: Caliburger, Shanghai
+title: 卡利堡 CaliBurger, Shanghai
 pubDate: '2012-03-14'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/14/caliburger-shanghai/
-categories:
-- 2 pigs
-- American
-- Hamburgers
-- Lunch
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: What is Caliburger Caliburger is a burger restaurant that embodies a typical Southern California burger joint, in Shanghai. There has been so much written about what Caliburger did in copying the famo
 archiveUrl: https://web.archive.org/web/20121114053923/http://www.thethirstypig.com:80/2012/03/14/caliburger-shanghai/
 draft: false
@@ -21,6 +15,12 @@ address: B1/F 1818 West Nanjing Rd (in 1788 Square), 上海市, 上海市, 20004
 coordinates:
   lat: 31.223707
   lng: 121.439444
+tags:
+- shanghai
+- american
+- burgers
+cuisine:
+- American
 ---
 
 **What is Caliburger**

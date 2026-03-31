@@ -1,5 +1,5 @@
 ---
-title: Ate too fast (don’t want to say ate too much)
+title: Din Tai Fung, Unknown
 pubDate: '2018-03-12'
 author: The Thirsty Pig
 source: instagram
@@ -16,13 +16,13 @@ images:
 - /images/posts/ig-2018-03-12-ate-too-fast-dont-want-to-say-ate-too-much/17930326375028256.jpg
 - /images/posts/ig-2018-03-12-ate-too-fast-dont-want-to-say-ate-too-much/17930906596038304.jpg
 tags:
-- dingtaifung
-- xlb
-- å
+- chinese
 - dumplings
-- eeeeeats
 description: Ate too fast (don’t want to say ate too much).
 location: Din Tai Fung
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Ate too fast (don’t want to say ate too much)](/images/posts/ig-2018-03-12-ate-too-fast-dont-want-to-say-ate-too-much/17898710233174577.jpg)

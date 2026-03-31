@@ -1,19 +1,14 @@
 ---
-title: Kota’s Kitchen, Shanghai
+title: Kota's Kitchen II, Shanghai
 pubDate: '2011-06-03'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/06/03/kotas-kitchen-shanghai/
-categories:
-- 3 pigs
-- Chicken
-- Japanese
-- Price Range 2 $/¥/NT
-- Ramen
-- Yakitori
-- Shanghai
+categories: []
 tags:
-- Shanghai
+- shanghai
+- japanese
+- yakitori
 description: まいど Kota’s Kitchen Maido 徐汇区斜土路2905号近零陵路 2905号 Xietu Road, Xuhui, Shanghai, Chinahttp://maps.google.com/maps?client=safari&q=2905%E5%8F%B7+Xietu+Road,+Xuhui,+Shanghai,+China&oe=UTF-8&ie=UTF8&hl=en&hq=
 archiveUrl: https://web.archive.org/web/20111104231622/http://www.thethirstypig.com/2011/06/03/kotas-kitchen-shanghai/
 draft: false
@@ -24,6 +19,8 @@ address: 永嘉路335号 (襄阳南路口), Xuhui, 上海市
 coordinates:
   lat: 31.210566
   lng: 121.4529
+cuisine:
+- Japanese
 ---
 
 まいど

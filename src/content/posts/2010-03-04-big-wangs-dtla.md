@@ -1,16 +1,15 @@
 ---
-title: Big Wangs, DTLA
+title: Big Wangs, Downtown Los Angeles
 pubDate: '2010-03-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/04/big-wangs-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Burgers
-- Sports Bar
+- dtla
+- american
+- beer
+- onion-rings
 description: Big Wangs, with a funny name for a Sports Bar, is located in the heart of Downtown LA. I visited there with a friend, Mr. J, for a short happy hour and to just check out the place.
 archiveUrl: https://web.archive.org/web/20161105041218/http://thirstypig.com/2010/03/04/big-wangs-dtla/
 draft: false
@@ -20,6 +19,8 @@ region: Downtown LA
 address: '801 S Grand Ave
 
   Los Angeles, CA 90017'
+cuisine:
+- American
 ---
 
 

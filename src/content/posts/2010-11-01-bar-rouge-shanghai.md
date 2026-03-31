@@ -7,13 +7,10 @@ originalUrl: http://thirstypig.com/2010/11/01/bar-rouge-shanghai/
 heroImage: /images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg
 images:
 - /images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg
-categories:
-- Huangpu
-- Shanghai
+categories: []
 tags:
-- Bar
-- Bund
-- Lounge
+- shanghai
+- cocktails
 description: Bar Rouge is one of the best nightclubs in the world, not just in Shanghai. Been around for years, Bar Rouge is internationally renown for it fabulous views of the Shanghai nighttime lights, the Huang
 archiveUrl: https://web.archive.org/web/20161018174536/http://thirstypig.com/2010/11/01/bar-rouge-shanghai/
 draft: false
@@ -24,6 +21,7 @@ address: 7/F, Bund 18, 18 Zhongshan Rd. East-1 (Nanjing Rd. East), Huangpu, ä¸Šæ
 coordinates:
   lat: 31.240391
   lng: 121.485224
+cuisine: []
 ---
 
 [![img_5572](/images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg "img_5572")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5572/)

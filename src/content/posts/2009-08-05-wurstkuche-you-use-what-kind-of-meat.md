@@ -1,5 +1,5 @@
 ---
-title: Wurstküche – "You USE what kind of meat?"
+title: Wurstküche, Downtown LA
 pubDate: '2009-08-05'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,13 +10,12 @@ images:
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0608.jpg
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0611.jpg
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0616.jpg
-categories:
-- Downtown LA
-- 2 pigs
-- Los Angeles
-- '"You USE what kind of meat?"'
+categories: []
 tags:
-- Los Angeles
+- dtla
+- german
+- sausages
+- beer
 description: 'Wurstküche, located near little Tokyo, recently opened in the past year. They fill the void, here in Los Angeles, of a needed german influenced Sausage & Beer house. I could be wrong . . . but that’s '
 archiveUrl: https://web.archive.org/web/20111103153501/http://www.thethirstypig.com/2009/08/05/wurstkuche-you-use-what-kind-of-meat/
 draft: false
@@ -27,6 +26,8 @@ address: 800 E 3rd St (at Traction Ave), Los Angeles, CA 90013
 coordinates:
   lat: 34.04552
   lng: -118.236131
+cuisine:
+- German
 ---
 
 Wurstküche, located near little Tokyo, recently opened in the past year. They fill the void, here in Los Angeles, of a needed german influenced Sausage & Beer house. I could be wrong . . . but that’s what I feel. With the back room of wood benches and flowing beers, on tap, Wurstkuche almost has the feel of a Beer Hall.

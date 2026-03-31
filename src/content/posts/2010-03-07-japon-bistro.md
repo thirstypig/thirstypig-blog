@@ -1,5 +1,5 @@
 ---
-title: Japon Bistro
+title: Japon Bistro, Pasadena
 pubDate: '2010-03-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -16,18 +16,17 @@ images:
 - /images/posts/japon-bistro/IMG_0437.JPG
 - /images/posts/japon-bistro/IMG_0438.jpg
 - /images/posts/japon-bistro/IMG_0440.JPG
-categories:
-- Japanese
-- San Gabriel Valley
-- 0 pigs
-- $$
+categories: []
 tags:
-- Los Angeles
+- japanese
+- bistro
 description: 'Japon Bistro, yes – with an “O”, is located in the heart of Pasadena off of Colorado near Lake. Pasadena features a one of most diverse collection of Japanese restaurants around, and is up there with '
 archiveUrl: https://web.archive.org/web/20111103132828/http://www.thethirstypig.com/2010/03/07/japon-bistro/
 draft: false
 location: Japon Bistro
 region: San Gabriel Valley
+cuisine:
+- Japanese
 ---
 
 Japon Bistro.

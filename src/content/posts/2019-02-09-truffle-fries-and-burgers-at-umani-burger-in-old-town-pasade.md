@@ -1,5 +1,5 @@
 ---
-title: Truffle Fries and burgers at Umani Burger in Old Town Pasadena
+title: Pie 'n Burger, Pasadena
 pubDate: '2019-02-09'
 author: The Thirsty Pig
 source: instagram
@@ -12,26 +12,21 @@ images:
 - /images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/17858367496327305.jpg
 - /images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18003792433131501.jpg
 tags:
-- eeeeeats
-- restaurant
-- losangeles
 - pasadena
-- sgv
-- oldtownpasadena
+- american
 - burgers
-- hamburgers
-- umami
-- umamiburger
+- fries
 description: Truffle Fries and burgers at Umani Burger in Old Town Pasadena. We also tried the impossible vegan burger, which was pretty good. Yum! . . .
 location: Pie 'n Burger
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 913 E California Blvd (at Lake Ave), Pasadena, CA 91106
 coordinates:
   lat: 34.135996
   lng: -118.131632
+cuisine:
+- American
 ---
 
 ![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18032134717028066.jpg)

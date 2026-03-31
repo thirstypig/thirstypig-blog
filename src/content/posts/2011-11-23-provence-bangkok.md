@@ -4,13 +4,7 @@ pubDate: '2011-11-23'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/11/23/provence-bangkok/
-categories:
-- 2 pigs
-- Noodles
-- Price Range $/¥/NT
-- Soup
-- Thai
-- Bangkok
+categories: []
 description: Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time t
 archiveUrl: https://web.archive.org/web/20120116091150/http://www.thethirstypig.com:80/2011/11/23/provence-bangkok/
 draft: false
@@ -18,6 +12,13 @@ location: Provence
 city: Bangkok
 region: Bangkok
 address: 153 Rajdamri Rd
+tags:
+- bangkok
+- thai
+- noodles
+- beef
+cuisine:
+- Thai
 ---
 
 Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time to Bangkok. One thing is for sure, Mr. A, knows his noodles. So I knew I could trust his judgement.

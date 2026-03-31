@@ -1,5 +1,5 @@
 ---
-title: Boiling Point, SGV Los Angeles
+title: Boiling Point, Arcadia
 pubDate: '2016-08-28'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,13 +7,11 @@ originalUrl: http://thirstypig.com/2016/08/28/boiling-point-sgv-los-angeles/?sha
 heroImage: /images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg
 images:
 - /images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg
-categories:
-- SGV
-- Sgv
-- San Gabriel Valley
+categories: []
 tags:
-- Hot Pot
-- Taiwanese
+- sgv
+- taiwanese
+- hot-pot
 description: Individual Taiwanese Hot Pot with a multitude of hot pot soup bases Popular with the Chinese and Asian crowds First started in Southern California is Hacienda Heights, then has expanded to Seattle, Ca
 archiveUrl: https://web.archive.org/web/20161120163858/http://thirstypig.com/2016/08/28/boiling-point-sgv-los-angeles/?share=facebook
 draft: false
@@ -21,6 +19,8 @@ location: Boiling Point
 city: Sgv
 region: San Gabriel Valley
 address: 206 S. First Ave. Arcadia, CA 91006
+cuisine:
+- Taiwanese
 ---
 
 [![IMG_0492](/images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg "IMG_0492")](http://thirstypig.com/2016/08/28/boiling-point-sgv-los-angeles/img_0492-2/)

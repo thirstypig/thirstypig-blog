@@ -1,5 +1,5 @@
 ---
-title: 'Made it again this time double the cheese - two slices of cheddar,...'
+title: TJ's Grilled Cheese Contest
 pubDate: '2021-04-26'
 author: The Thirsty Pig
 source: instagram
@@ -8,10 +8,12 @@ heroImage: /images/posts/ig-2021-04-26-made-it-again-this-time-double-the-cheese
 images:
 - /images/posts/ig-2021-04-26-made-it-again-this-time-double-the-cheese-two-slices-of-ched/17861420621516457.jpg
 tags:
-- tjsgrilledcheesecontest
+- american
+- grilled-cheese
 description: Made it again this time double the cheese - two slices of cheddar, 2 slices of Swiss, and 2 slices of pepper jack cheese on sourdough bread. This time I used a torch to melt the cheese.
-categories:
-- 2 slices ...
+categories: []
+cuisine:
+- American
 ---
 
 ![Made it again this time double the cheese - two slices of cheddar, 2 slices ...](/images/posts/ig-2021-04-26-made-it-again-this-time-double-the-cheese-two-slices-of-ched/17861420621516457.jpg)

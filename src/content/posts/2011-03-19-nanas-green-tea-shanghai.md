@@ -1,20 +1,15 @@
 ---
-title: Nana’s Green Tea, Shanghai
+title: Nana's Green Tea (七叶和茶), Shanghai
 pubDate: '2011-03-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/
-categories:
-- Price Range $/¥/NT
-- Japanese
-- Ramen
-- Xuhui
-- 2 pigs
-- Dessert
-- Shanghai
+categories: []
 tags:
-- Japanese
-- Shanghai
+- shanghai
+- dessert
+- green-tea
+- desserts
 description: Green Tea, with China origins, has been cultivated extensively by the Japanese. In fact, Japanese green tea is simply referred as Japanese tea. Green tea is used for desserts, cooking, and just tea. A
 archiveUrl: https://web.archive.org/web/20161019091749/http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/
 draft: false
@@ -25,6 +20,8 @@ address: 999 Huaihai M Rd | 淮海中路999号 (1/F iapm Mall | 环贸iapm商场
 coordinates:
   lat: 31.217301
   lng: 121.453192
+cuisine:
+- Dessert
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Wurstküche, Downtown LA – update
+title: Wurstküche, Downtown La
 pubDate: '2010-01-21'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,18 +13,20 @@ images:
 - /images/posts/wurstku-che-downtown-la-update/IMG_0101.JPG
 - /images/posts/wurstku-che-downtown-la-update/IMG_0103.JPG
 - /images/posts/wurstku-che-downtown-la-update/IMG_0104.JPG
-categories:
-- American
-- Downtown LA
-- Downtown La
+categories: []
 tags:
-- Downtown LA
+- downtown-la
+- german
+- sausages
+- beer
 description: I was recently back at Wurstküche again. Not much has changed since I first went there. But it did get more crowded and popular. This time, I will just post up some pictures.
 archiveUrl: https://web.archive.org/web/20110105210506/http://www.thethirstypig.com/2010/01/21/wurstku%cc%88che-downtown-la-update/
 draft: false
 location: Wurstküche
 city: Downtown La
 region: Downtown LA
+cuisine:
+- German
 ---
 
 I was recently back at Wurstküche again. Not much has changed since I first went there. But it did get more crowded and popular. This time, I will just post up some pictures.

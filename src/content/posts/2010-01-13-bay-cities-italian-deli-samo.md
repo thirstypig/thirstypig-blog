@@ -1,17 +1,14 @@
 ---
-title: Bay Cities Italian Deli, SaMo
+title: Bay Cities Italian Deli, San Francisco
 pubDate: '2010-01-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
-categories:
-- Santa Monica
-- SaMo
-- Westside
+categories: []
 tags:
-- Deli
-- Italian
-- Sandwich
+- san-francisco
+- italian
+- sandwiches
 description: 'Unfortunately, I am giving Bay Cities Deli a big zero Pig rating for their sandwiches. A big 0 I won’t feel bad either. Maybe the people of Santa Monica never had a good sandwich. If you want a solid '
 archiveUrl: https://web.archive.org/web/20161106040228/http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
 draft: false
@@ -19,6 +16,8 @@ location: Bay Cities Italian Deli
 city: San Francisco
 region: San Francisco
 address: 1517 Lincoln Blvd Santa Monica, CA 90401
+cuisine:
+- Italian
 ---
 
 

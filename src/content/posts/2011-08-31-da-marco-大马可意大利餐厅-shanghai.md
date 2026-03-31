@@ -4,11 +4,11 @@ pubDate: '2011-08-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/
-categories:
-- Jingan
-- Shanghai
+categories: []
 tags:
-- Italian
+- shanghai
+- italian
+- fried-chicken
 description: Da Marco is a classic Italian restaurant chain in Shanghai. They feature many popular favorites.
 archiveUrl: https://web.archive.org/web/20161105005738/http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/
 draft: false
@@ -16,6 +16,8 @@ location: Da Marco 大马可意大利餐厅
 city: Shanghai
 region: Shanghai
 address: 1 Hongqiao Road
+cuisine:
+- Italian
 ---
 
 

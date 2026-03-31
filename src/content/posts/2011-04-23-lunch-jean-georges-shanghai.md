@@ -1,19 +1,14 @@
 ---
-title: Lunch with Jean-Georges, Shanghai
+title: Jean Georges, Shanghai
 pubDate: '2011-04-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
-categories:
-- Price Range 3 $/¥/NT
-- French
-- Bund
-- 3 pigs
-- Shanghai
+categories: []
 tags:
-- Shanghai
-- Brunch
-- French
+- shanghai
+- french
+- cooking-demonstration
 description: Last Saturday the world-renown 3-Star Michelin chef Jean-Georges Vongerichten was in town, Shanghai, showcasing a cooking demonstration & class at his restaurant Jean Georges Shanghai.
 archiveUrl: https://web.archive.org/web/20161018102047/http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
 draft: false
@@ -24,6 +19,8 @@ address: 4/F 3 Zhongshan E 1st Rd (at Guangdong Rd), Huangpu, 上海市, 200002
 coordinates:
   lat: 31.23638
   lng: 121.486543
+cuisine:
+- French
 ---
 
 

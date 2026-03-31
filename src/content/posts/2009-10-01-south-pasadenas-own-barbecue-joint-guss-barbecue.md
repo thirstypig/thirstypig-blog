@@ -1,5 +1,5 @@
 ---
-title: 'Southern Mini Town Restaurant (小南國), San Gabriel'
+title: Southern Mini Town Restaurant (小南國), San Gabriel
 pubDate: '2009-10-01'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,12 +11,10 @@ images:
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0677.jpg
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0678.JPG
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0679.jpg
-categories:
-- American
-- Barbeque
-- Gus’s Barbecue
+categories: []
 tags:
-- LA's San Gabriel Valley
+- san-gabriel
+- bbq
 description: Recently renovated, Gus’s Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently t
 archiveUrl: https://web.archive.org/web/20110106003432/http://www.thethirstypig.com/2009/10/01/south-pasadenas-own-barbecue-joint-guss-barbecue/
 draft: false
@@ -27,6 +25,8 @@ address: 833 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102569
   lng: -118.111852
+cuisine:
+- BBQ
 ---
 
 Recently renovated, Gus’s Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently taken over by the same group/family that owns Tops in Pasadena. They did a complete makeover to the place along with a new website.

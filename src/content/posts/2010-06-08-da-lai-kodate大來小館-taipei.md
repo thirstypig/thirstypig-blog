@@ -1,14 +1,15 @@
 ---
-title: Da Lai Kodate大來小館, Taipei
+title: Sheraton Grand Taipei Hotel (台北喜來登大飯店), Taipei
 pubDate: '2010-06-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/
-categories:
-- Da-an
-- Taipei
+categories: []
 tags:
-- Taiwanese
+- taipei
+- taiwanese
+- lu-ro-fan
+- rice-bowl
 description: Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowlor two, if I am hungry late at night, o
 archiveUrl: https://web.archive.org/web/20161106013059/http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/
 draft: false
@@ -19,6 +20,8 @@ address: 12 Section 1, Zhong Xiao East Road, Zhongzheng District, 台北市,  10
 coordinates:
   lat: 25.044602
   lng: 121.521862
+cuisine:
+- Taiwanese
 ---
 
 

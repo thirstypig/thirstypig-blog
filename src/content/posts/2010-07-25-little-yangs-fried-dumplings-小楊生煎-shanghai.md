@@ -1,15 +1,15 @@
 ---
-title: Little Yang’s Fried Dumplings 小楊生煎, Shanghai
+title: Yang's Dumpling (小杨生煎), Shanghai
 pubDate: '2010-07-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/
-categories:
-- Huangpu
-- Shanghai
+categories: []
 tags:
-- Dumplings
-- Shanghainese
+- shanghai
+- chinese
+- dumplings
+- pan-fried
 description: There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have somethi
 archiveUrl: https://web.archive.org/web/20161018081801/http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 吴江路269号湟普汇2楼 (近泰兴路), 静安区, 上海市, 2000
 coordinates:
   lat: 31.231138
   lng: 121.454217
+cuisine:
+- Chinese
 ---
 
 

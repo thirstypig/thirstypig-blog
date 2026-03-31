@@ -1,5 +1,5 @@
 ---
-title: 'Peanut Butter Mochi from J, San Gabriel'
+title: Yuk Dae Jang, San Gabriel
 pubDate: '2019-11-27'
 author: The Thirsty Pig
 source: instagram
@@ -10,16 +10,10 @@ images:
 - /images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/17930948212329525.jpg
 - /images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/18080452981133067.jpg
 tags:
-- jjbakery
-- sgv
-- templecity
-- taiwanesedessert
+- san-gabriel
+- bakery
 - mochi
-- peanut
-- peanutbutter
-- eeeeeats
-- eat
-description: 'Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut butter tasted a bit bland. . . . . .'
+description: Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut butter tasted a bit bland. . . . . .
 location: Yuk Dae Jang
 city: San Gabriel
 region: San Gabriel Valley
@@ -27,6 +21,9 @@ address: 704 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102108
   lng: -118.109875
+categories: []
+cuisine:
+- Bakery
 ---
 
 ![Peanut Butter Mochi from J](/images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/18096782062109763.jpg)

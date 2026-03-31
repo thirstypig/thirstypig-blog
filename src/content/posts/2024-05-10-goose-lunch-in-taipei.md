@@ -1,5 +1,5 @@
 ---
-title: Goose lunch in Taipei
+title: Legacy Taipei, Taipei
 pubDate: '2024-05-10'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,12 @@ images:
 - /images/posts/ig-2024-05-10-goose-lunch-in-taipei/18002416925544921.jpg
 - /images/posts/ig-2024-05-10-goose-lunch-in-taipei/17908986746952189.jpg
 tags:
-- é
-- goose
-- geese
 - taipei
-- taiwaneserestaurant
-- eats
-- eeeeats
-- thirstypig
 description: Goose lunch in Taipei. Popular lunch spot with a long queue. Steamed stinky tofu, Taiwanese sausage with mushroom, rice noodles, and of course roast goose. 阿城鵝肉 . . . restaurant
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934

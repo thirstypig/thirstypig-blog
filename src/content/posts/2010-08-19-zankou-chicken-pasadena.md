@@ -4,11 +4,12 @@ pubDate: '2010-08-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/19/zankou-chicken-pasadena/
-categories:
-- Los Angeles
-- Pasadena
+categories: []
 tags:
-- Chicken
+- pasadena
+- mediterranean
+- roast-chicken
+- garlic-sauce
 description: 'Rarely does an foreign cuisine cross over from ethic peculiarity to mainstream popularity. Sushi or Teppan-yaki is considered an event in itself, Mexican can arguably fill late night urges, and other '
 archiveUrl: https://web.archive.org/web/20161019112833/http://thirstypig.com/2010/08/19/zankou-chicken-pasadena/
 draft: false
@@ -16,6 +17,8 @@ location: Zankou Chicken
 city: Pasadena
 region: Pasadena
 address: 1415 E Colorado St Glendale, CA 91205
+cuisine:
+- Mediterranean
 ---
 
 

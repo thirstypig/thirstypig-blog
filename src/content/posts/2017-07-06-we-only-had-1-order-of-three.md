@@ -1,5 +1,5 @@
 ---
-title: 'we only had 1 order (of three), New Orleans'
+title: Cafe Du Monde, New Orleans
 pubDate: '2017-07-06'
 author: The Thirsty Pig
 source: instagram
@@ -11,8 +11,10 @@ images:
 - /images/posts/ig-2017-07-06-we-only-had-1-order-of-three/17887154761032892.jpg
 - /images/posts/ig-2017-07-06-we-only-had-1-order-of-three/17872730455089200.jpg
 tags:
+- new-orleans
+- dessert
 - beignets
-- milk
+- coffee
 description: we only had 1 order (of three). We might try to return for more
 location: Cafe Du Monde
 city: New Orleans
@@ -21,6 +23,9 @@ address: 813 Decatur St (at The French Market), New Orleans, LA 70116
 coordinates:
   lat: 29.95751
   lng: -90.062056
+categories: []
+cuisine:
+- Dessert
 ---
 
 ![we only had 1 order (of three)](/images/posts/ig-2017-07-06-we-only-had-1-order-of-three/17862793105178735.jpg)

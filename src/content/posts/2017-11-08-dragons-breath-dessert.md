@@ -1,5 +1,5 @@
 ---
-title: Dragon’s Breath dessert
+title: Dragon's Breath, San Gabriel Valley
 pubDate: '2017-11-08'
 author: The Thirsty Pig
 source: instagram
@@ -8,15 +8,17 @@ heroImage: /images/posts/ig-2017-11-08-dragons-breath-dessert/17908576108060148.
 images:
 - /images/posts/ig-2017-11-08-dragons-breath-dessert/17908576108060148.jpg
 tags:
-- dessert
-- dragonsbreath
 - sgv
-- shotoniphone
-- thirstypig
+- dessert
+- popcorn-puffs
+- liquid-nitrogen
 description: Dragon’s Breath dessert. Light popcorn puffs in cold liquid nitrogen with strawberry dipping sauce. Not bad. Could be more sweeter.
 location: Dragon’s Breath dessert
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Dessert
 ---
 
 ![Dragon’s Breath dessert](/images/posts/ig-2017-11-08-dragons-breath-dessert/17908576108060148.jpg)

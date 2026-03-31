@@ -1,5 +1,5 @@
 ---
-title: 'Carnitas Michoacan . . . late night yummies, Los Angeles'
+title: Wake and Late, Los Angeles
 pubDate: '2009-08-21'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,13 +11,12 @@ images:
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0005.JPG
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0006.JPG
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0013.JPG
-categories:
-- Mexican
-- Hole In the Wall
-- Late Night
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- mexican
+- carnitas
+- late-night
 description: Last night, after some K-town drinking. . .a couple of friends and I went to Carnitas Michoacan. I had never heard or been there, but my friends were raving about it. After considering Pinks, Kogi, an
 archiveUrl: https://web.archive.org/web/20110105224031/http://www.thethirstypig.com/2009/08/21/carnitas-michoacan-late-night-yummies/
 draft: false
@@ -27,6 +26,8 @@ address: 105 E 6th St, Los Angeles, CA 90014
 coordinates:
   lat: 34.045181
   lng: -118.24952
+cuisine:
+- Mexican
 ---
 
 Last night, after some K-town drinking. . .a couple of friends and I went to Carnitas Michoacan. I had never heard or been there, but my friends were raving about it. After considering Pinks, Kogi, and King Taco . . . they emphatically insisted on Michoacan. I had to admit that I was skeptical at first . . . but I wanted to keep an open mind about trying new things. And at the end, I was pleasantly surprised.

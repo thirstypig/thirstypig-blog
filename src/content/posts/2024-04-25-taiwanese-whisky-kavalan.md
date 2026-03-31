@@ -16,21 +16,10 @@ images:
 - /images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/18002940332288446.jpg
 - /images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/17937127046731973.jpg
 - /images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/18025457123099523.jpg
-tags:
-- kavalan
-- kavalanwhisky
-- kavalandistillery
-- kavalansolist
-- whisky
-- whiskey
-- taiwanesewhisky
-- tastemaker
-- tastemakersapp
-- thirstypig
-description: 'Taiwanese Whisky - Kavalan. Visited the distillery in Yilan and blended my own bottle and went on a tour. Good times. Got to taste and blend a flavor profile that I liked and was able to bottle one to bring home. Cool experience. Then we went on a tour of their distillery and saw their operation. Very similar to the tour I took in Louisville. . . .'
+tags: []
+description: Taiwanese Whisky - Kavalan. Visited the distillery in Yilan and blended my own bottle and went on a tour. Good times. Got to taste and blend a flavor profile that I liked and was able to bottle one to bring home. Cool experience. Then we went on a tour of their distillery and saw their operation. Very similar to the tour I took in Louisville. . . .
 location: Taiwanese Whisky
-categories:
-- Kavalan
+categories: []
 ---
 
 ![Taiwanese Whisky - Kavalan](/images/posts/ig-2024-04-25-taiwanese-whisky-kavalan/18426973984053758.jpg)

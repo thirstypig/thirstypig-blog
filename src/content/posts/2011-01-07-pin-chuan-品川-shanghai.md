@@ -1,15 +1,15 @@
 ---
-title: Pin Chuan 品川, Shanghai
+title: 品川 Pin Chuan Rest., Shanghai
 pubDate: '2011-01-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/01/07/pin-chuan-%e5%93%81%e5%b7%9d-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Sichuan
-- Spicy
+- shanghai
+- chinese
+- sichuan
+- numbing-pepper
 description: 品川 Pin Chuan 桃江路47号 近乌鲁木齐南路 47 Taojiang Lu by Wulumuqi Nan Luhttp://maps.google.com/maps?client=safari&q=%E6%A1%83%E6%B1%9F%E8%B7%AF47%E5%8F%B7&oe=UTF-8&ie=UTF8&hl=en&hq=%E6%A1%83%E6%B1%9F%E8%B7%AF47%
 archiveUrl: https://web.archive.org/web/20161018172809/http://thirstypig.com/2011/01/07/pin-chuan-%e5%93%81%e5%b7%9d-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 5/F, Plaza 66, 1266 W Nanjing Rd, 上海市, 上海市
 coordinates:
   lat: 31.229137
   lng: 121.448633
+cuisine:
+- Chinese
 ---
 
 

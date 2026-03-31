@@ -4,11 +4,7 @@ pubDate: '2011-11-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/11/21/orange-shabu-shabu-shanghai/?share=google-plus-1
-categories:
-- 2 pigs
-- Hot Pot
-- Price Range 3 $/¥/NT
-- Shanghai
+categories: []
 description: I have never associated hot pot as fine dining. Its always a festive occasion with friends and family busily cooking and eating over a communal pot. You’d never bring a customers, vendors, or even a d
 archiveUrl: https://web.archive.org/web/20120411113022/http://www.thethirstypig.com:80/2011/11/21/orange-shabu-shabu-shanghai/?share=google-plus-1
 draft: false
@@ -16,6 +12,13 @@ location: Orange Shabu Shabu
 city: Shanghai
 region: Shanghai
 address: 55 Sinan Road
+tags:
+- shanghai
+- taiwanese
+- hot-pot
+- shabu-shabu
+cuisine:
+- Taiwanese
 ---
 
 I have never associated hot pot as fine dining. Its always a festive occasion with friends and family busily cooking and eating over a communal pot. You’d never bring a customers, vendors, or even a date to hot pot. It always seems to be an informal affair with simple and fresh ingredients. But this changed with my recent visit to Orange Shabu Shabu 橘色涮涮锅.

@@ -1,5 +1,5 @@
 ---
-title: 'The meat of the meal, Shanghai'
+title: The PuLi Hotel and Spa (璞丽酒店), Shanghai
 pubDate: '2018-07-23'
 author: The Thirsty Pig
 source: instagram
@@ -17,17 +17,11 @@ images:
 - /images/posts/ig-2018-07-23-the-meat-of-the-meal/17937782596139484.jpg
 - /images/posts/ig-2018-07-23-the-meat-of-the-meal/17947269529119516.jpg
 tags:
-- happy100days
-- thirstypig
-- eeeeeats
-- shanghainesefood
-- shanghairestaurant
-- sgv
-- braisedporkbelly
-- hongsaurou
-- ç
-- friedfish
-description: 'The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed buns. The fried fish was gobbled up so fast by everyone. Unfortunately the crab was not too popular. And the tang yuan rice Ball soup dessert was good except for the slightly too sour broth. And the friend dumplings 生煎包 almost had a breading to meat ratio that skewed too much toward the wrong side. And happy 100 days - Troy! . . . . .'
+- shanghai
+- chinese
+- braised-pork-belly
+- roast-duck
+description: The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed buns. The fried fish was gobbled up so fast by everyone. Unfortunately the crab was not too popular. And the tang yuan rice Ball soup dessert was good except for the slightly too sour broth. And the friend dumplings 生煎包 almost had a breading to meat ratio that skewed too much toward the wrong side. And happy 100 days - Troy! . . . . .
 location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai
@@ -35,6 +29,9 @@ address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
 coordinates:
   lat: 31.224154
   lng: 121.443505
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![The meat of the meal](/images/posts/ig-2018-07-23-the-meat-of-the-meal/17936884429141886.jpg)

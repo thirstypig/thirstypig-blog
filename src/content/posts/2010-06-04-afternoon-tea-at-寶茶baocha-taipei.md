@@ -1,5 +1,5 @@
 ---
-title: Afternoon Tea at 寶茶Baocha, Taipei
+title: 串門子茶館 Stop By Tea House, Taipei
 pubDate: '2010-06-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -23,13 +23,12 @@ images:
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-7-copper-statue-88x88.jpg
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-8-shelves-88x88.jpg
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-9-trinkets-88x88.jpg
-categories:
-- 3 pigs
-- Tea
-- Taipei
+categories: []
 tags:
-- Eastern District 台北東區
-- Taipei 台北
+- taipei
+- chinese
+- tea
+- boba
 description: 'Baocha is a tea house with all the traditional details you’d expect. A serene setting just meters away from the busiest street in Taipei. This oasis features speciality Chinese teas as well as unique '
 archiveUrl: https://web.archive.org/web/20110105134219/http://www.thethirstypig.com/2010/06/04/afternoon-tea-at-%e5%af%b6%e8%8c%b6baocha-taipei/
 draft: false
@@ -40,6 +39,8 @@ address: 麗水街13巷9號, 臺北市, 臺北市 106
 coordinates:
   lat: 25.030229
   lng: 121.529303
+cuisine:
+- Chinese
 ---
 
 Baocha is a tea house with all the traditional details you’d expect. A serene setting just meters away from the busiest street in Taipei. This oasis features speciality Chinese teas as well as unique ornamental pieces.

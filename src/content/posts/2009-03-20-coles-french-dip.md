@@ -1,5 +1,5 @@
 ---
-title: 'Cole’s French Dip, Downtown LA'
+title: Cole's French Dip, Downtown LA
 pubDate: '2009-03-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,17 +8,12 @@ heroImage: /images/posts/coles-french-dip/IMG_0504.jpg
 images:
 - /images/posts/coles-french-dip/IMG_0504.jpg
 - /images/posts/coles-french-dip/IMG_0505.jpg
-categories:
-- American
-- Sandwich
-- Barbeque
-- Downtown LA
-- Bar
-- Lounge
-- French Dip
-- Cole's
+categories: []
 tags:
-- Downtown LA
+- dtla
+- american
+- french-dip
+- sandwiches
 description: I was in downtown Los Angeles the other day for a seminar, and we decided to stop at Cole’s for lunch. In the heart of downtown, it is right next to one of the newest and hottest lounges – The Associa
 archiveUrl: https://web.archive.org/web/20110105062628/http://www.thethirstypig.com/2009/03/20/coles-french-dip/
 draft: false
@@ -29,6 +24,8 @@ address: 118 E 6th St (at Main St), Los Angeles, CA 90014
 coordinates:
   lat: 34.044872
   lng: -118.249489
+cuisine:
+- American
 ---
 
 I was in downtown Los Angeles the other day for a seminar, and we decided to stop at Cole’s for lunch. In the heart of downtown, it is right next to one of the newest and hottest lounges – The Association. . . I’ll save that for another post. . .
