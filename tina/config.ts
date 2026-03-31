@@ -137,6 +137,15 @@ export default defineConfig({
             name: "categories",
             label: "Categories",
             list: true,
+            options: [
+              "Japanese", "Korean", "Mexican", "Taiwanese", "American", "Chinese",
+              "Thai", "Vietnamese", "Italian", "French", "Indian", "Peruvian",
+              "Mediterranean", "Filipino", "Hawaiian", "Colombian", "Cajun",
+              "BBQ", "Seafood", "Bakery", "Dessert", "Coffee", "Cocktails",
+              "Fusion", "Multi", "Cuban", "German", "British", "Spanish",
+              "Brazilian", "Russian", "Ethiopian", "Persian", "Malaysian",
+              "Travel", "Baseball", "Sports", "Non-Food", "Uncategorized",
+            ],
           },
           {
             type: "string",
@@ -149,6 +158,14 @@ export default defineConfig({
             name: "cuisine",
             label: "Cuisine",
             list: true,
+            options: [
+              "Japanese", "Korean", "Mexican", "Taiwanese", "American", "Chinese",
+              "Thai", "Vietnamese", "Italian", "French", "Indian", "Peruvian",
+              "Mediterranean", "Filipino", "Hawaiian", "Colombian", "Cajun",
+              "BBQ", "Seafood", "Bakery", "Dessert", "Coffee", "Cocktails",
+              "Fusion", "Multi", "Cuban", "German", "British", "Spanish",
+              "Brazilian", "Russian", "Ethiopian", "Persian", "Malaysian",
+            ],
           },
           {
             type: "string",

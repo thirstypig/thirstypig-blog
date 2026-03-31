@@ -426,7 +426,7 @@ export default function StatsDashboard() {
                     <tr key={p.id}>
                       <td style={{ ...styles.td, maxWidth: 360, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
                         <a
-                          href={`/admin#/collections/posts/${p.id}`}
+                          href={`/admin#/collections/post/src/content/posts/${p.id}.md`}
                           target="_blank"
                           rel="noopener"
                           style={{ color: "#2563eb", textDecoration: "none" }}
