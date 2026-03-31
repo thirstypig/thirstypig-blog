@@ -1,0 +1,79 @@
+name: Instagram Sync
+
+on:
+  release:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Release tag with ZIP to process'
+        required: true
+
+concurrency:
+  group: instagram-import
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install pyyaml
+
+      - name: Mask secrets
+        run: echo "::add-mask::${{ secrets.FOURSQUARE_API_KEY }}"
+
+      - name: Download ZIP from release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="${{ github.event.release.tag_name || github.event.inputs.release_tag }}"
+          echo "Downloading ZIP from release: $TAG"
+          mkdir -p /tmp/import
+          gh release download "$TAG" --pattern "*.zip" --dir /tmp/import/
+          ZIP_FILE=$(ls /tmp/import/*.zip 2>/dev/null | head -1)
+          if [ -z "$ZIP_FILE" ]; then
+            echo "Error: No ZIP file found in release $TAG"
+            exit 1
+          fi
+          echo "ZIP_PATH=$ZIP_FILE" >> $GITHUB_ENV
+          echo "Found: $ZIP_FILE ($(du -h "$ZIP_FILE" | cut -f1))"
+
+      - name: Check disk space
+        run: |
+          echo "Available disk space:"
+          df -h /
+          AVAIL=$(df / | tail -1 | awk '{print $4}' | sed 's/G//')
+          if [ "$AVAIL" -lt 3 ]; then
+            echo "Error: Less than 3GB free disk space"
+            exit 1
+          fi
+
+      - name: Run sync pipeline
+        env:
+          FOURSQUARE_API_KEY: ${{ secrets.FOURSQUARE_API_KEY }}
+        run: python scripts/instagram/sync_pipeline.py "$ZIP_PATH"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/posts/ public/images/posts/ public/videos/posts/ logs/
+          git diff --staged --quiet && echo "No new posts imported" && exit 0
+          POSTS_ADDED=$(git diff --staged --name-only -- src/content/posts/ | wc -l | tr -d ' ')
+          IMAGES_ADDED=$(git diff --staged --name-only -- public/images/ | wc -l | tr -d ' ')
+          git commit -m "Auto-import Instagram posts: ${POSTS_ADDED} posts, ${IMAGES_ADDED} images [skip ci]"
+          git pull --rebase origin main
+          git push
+          echo "Pushed: ${POSTS_ADDED} new posts, ${IMAGES_ADDED} new images"
