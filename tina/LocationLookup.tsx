@@ -7,9 +7,18 @@
  * Loads Google Maps JS SDK via script tag injection (most reliable method).
  */
 import React, { useState, useCallback, useRef, useEffect } from "react";
-import googleConfig from "./google-places-config.json";
 
-const GOOGLE_API_KEY = googleConfig?.apiKey || "";
+// Dynamically import config — file is gitignored, may not exist in production
+const GOOGLE_API_KEY = (() => {
+  try {
+    // Vite glob import resolves at build time; returns empty if file missing
+    const modules = import.meta.glob("./google-places-config.json", { eager: true }) as Record<string, { apiKey?: string }>;
+    const config = Object.values(modules)[0];
+    return config?.apiKey || "";
+  } catch {
+    return "";
+  }
+})();
 
 interface PlaceResult {
   placeId: string;
