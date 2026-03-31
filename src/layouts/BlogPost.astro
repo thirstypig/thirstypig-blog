@@ -75,21 +75,8 @@ const {
 			coordinates={coordinates}
 		/>
 
-		<!-- Ad: between location card and hero -->
+		<!-- Ad: between location card and content -->
 		<AdSlot format="horizontal" />
-
-		<!-- Hero Image (constrained height) -->
-		{heroImage && (
-			<div class="hero-container mb-6 -mx-4 sm:mx-0">
-				<img
-					src={heroImage}
-					alt={title}
-					class="w-full rounded-none sm:rounded-xl shadow-lg hero-image"
-					loading="eager"
-					fetchpriority="high"
-				/>
-			</div>
-		)}
 
 		<!-- Content -->
 		<div class="prose max-w-none">
@@ -98,6 +85,19 @@ const {
 
 		<!-- Ad: after post content -->
 		<AdSlot format="article" />
+
+		<!-- Hero Image (constrained height) -->
+		{heroImage && (
+			<div class="hero-container mb-6 -mx-4 sm:mx-0">
+				<img
+					src={heroImage}
+					alt={title}
+					class="w-full rounded-none sm:rounded-xl shadow-lg hero-image"
+					loading="lazy"
+					fetchpriority="auto"
+				/>
+			</div>
+		)}
 
 		<!-- Image Gallery (additional images beyond hero) -->
 		<ImageGallery images={images} heroImage={heroImage} title={title} />
