@@ -14,6 +14,7 @@ components_affected:
   - tina/StatsDashboard.tsx
   - tina/config.ts
   - scripts/enrich_posts.py
+  - scripts/sync_categories.py
 status: implemented
 ---
 
@@ -53,7 +54,9 @@ Three files:
 - Source breakdown (Instagram 1,191, thethirstypig.com 511, thirstypig.com 408, blog 10)
 - Top 20 cities (Shanghai 298, Los Angeles 147, Taipei 110, ...)
 - Data coverage: GPS 36%, City 64%, Hero Image 75%, Gallery 75%
-- Top categories, top tags, recent posts table
+- Top categories (cuisine) with coverage bar (1,468/2,120 = 69%)
+- Top tags, recent posts table
+- **Needs Attention** section: scrollable table of 652 uncategorized posts with direct TinaCMS edit links
 
 ## Feature 2: Batch Post Enrichment
 
@@ -66,13 +69,15 @@ Three files:
 
 **Phase 1 (Deterministic, no AI):** For posts with `location` AND `city` in frontmatter, sets `title = "Location, City"`, sets `tags = [city-tag]`, clears `categories = []`. Uses `yaml.safe_load` / `yaml.dump(sort_keys=False, allow_unicode=True, width=1000)` for frontmatter I/O. Completed on all 2,120 posts: 1,674 modified, 980 title changes.
 
-**Phase 2 (Claude API):** Sends each post's title + description + body excerpt to Claude Haiku (`claude-haiku-4-5-20251001`, temperature=0, max_tokens=150). Claude returns JSON with cuisine type, 1-2 dish tags, title correction if needed, and city backfill. Completed 1,300/2,120 posts (~$0.50 cost) before API key was disabled. Remaining 820 can be finished with `--resume`.
+**Phase 2 (Claude API):** Sends each post's title + description + body excerpt to Claude Haiku (`claude-haiku-4-5-20251001`, temperature=0, max_tokens=150). Claude returns JSON with cuisine type, 1-2 dish tags, title correction if needed, and city backfill. Completed all 2,120 posts across multiple sessions (~$1.00 total cost). 1,468 posts classified with a cuisine; 652 posts identified as non-restaurant content (travel, sports, meta posts).
 
 ### CLI Interface
 ```
 python3 scripts/enrich_posts.py --dry-run --phase1-only --limit 20
-python3 scripts/enrich_posts.py --phase2-only --resume
+python3 scripts/enrich_posts.py --phase2-only --resume --limit 100
 ```
+
+Note: `--limit` caps the number of **new** posts to process (not total file list). When combined with `--resume`, already-completed posts are skipped first, then the limit applies to remaining posts.
 
 ### Key Decisions
 - **Two-phase approach** — Phase 1 handles ~60% of posts instantly with no API cost
@@ -80,14 +85,24 @@ python3 scripts/enrich_posts.py --phase2-only --resume
 - **Progress checkpoint** — Saves to `scripts/.enrich_progress.json` every 50 posts for resumability
 - **Canonical cuisine values** — 25 fixed options (Japanese, Korean, Mexican, etc.) to prevent tag sprawl
 
+### Category Sync
+
+**`scripts/sync_categories.py`** — Copies `cuisine` field values into `categories` for all posts. Posts with no cuisine get `categories: ["Uncategorized"]`. This makes cuisine values browsable via the existing `/categories/` pages while keeping the `cuisine` field for structured data (JSON-LD).
+
+```
+python3 scripts/sync_categories.py --dry-run
+python3 scripts/sync_categories.py
+```
+
 ### Results After Enrichment
 | Metric | Before | After |
 |--------|--------|-------|
 | "Venue, City" titles | 1,030 | 1,435 |
-| Posts with tags | 20 | ~1,300 |
-| Posts with cuisine | 2 | ~1,300 |
-| Categories | ~15 | 0 |
+| Posts with tags | 20 | 2,120 |
+| Posts with cuisine | 2 | 1,468 |
+| Categories (cuisine-based) | ~15 (mixed) | 44 cuisines + Uncategorized |
 | Cities backfilled | 1,367 | 1,410 |
+| Unique cuisines | 0 | 44 |
 
 ### Bug Fixed During Code Review
 Line 351 had `progress = load_progress() if args.resume else load_progress()` — both branches identical. Fixed to reset progress when not resuming.
@@ -114,9 +129,16 @@ to:
 npx tinacms build --skip-cloud-checks && astro build
 ```
 
+### Bugs Fixed (PR #16)
+- **`--limit` flag was broken for resume** — It sliced the total file list before filtering out completed posts, so `--resume --limit 1850` would find all 1850 done and process zero. Fixed to cap **new** posts processed.
+- **Frontmatter parser broke on `---` in field values** — `content.index('---', 3)` found `| --- | --- |` (markdown table separators) inside `description` fields before the actual closing delimiter. Fixed to search for `\n---` (must be at start of line).
+
 ## Prevention / Future Work
-- Remaining 820 posts need Phase 2 enrichment (`--resume` with a fresh API key)
+- ~~Remaining 820 posts need Phase 2 enrichment~~ **DONE** — All 2,120 posts enriched
+- 652 uncategorized posts need manual category assignment (Travel, Baseball, etc.) via admin dashboard
+- Some cuisine values could be consolidated (Cafe→Coffee, Boba→Dessert, Asian→specific cuisine)
 - Consider `ThreadPoolExecutor` for 5-10x speedup on future batch runs
 - Consider Anthropic Batch API for 50% cost savings on large runs
-- Google Search Console set up — SEO data will start flowing in 2-7 days
+- Google Search Console set up — sitemap submitted, 2,920 pages discovered
 - Tina Cloud credentials: `TINA_CLIENT_ID`, `TINA_TOKEN`, `TINA_SEARCH_TOKEN` in Vercel env vars
+- Re-run `sync_categories.py` after manually assigning cuisines to uncategorized posts
