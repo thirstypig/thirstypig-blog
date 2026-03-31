@@ -20,7 +20,7 @@ tags:
 - xiancuisine
 - chinesefastfood
 - eats
-description: 'Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. These are great. Shaanxi cuisine. Typically lamb is used. But you can find chicken, pork, or beef. The meat is stir fried with '
+description: 'Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. These are great. Shaanxi cuisine. Typically lamb is used. But you can find chicken, pork, or beef. The meat is stir fried with seasonings and inserted in a flaky bun. . . .'
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai

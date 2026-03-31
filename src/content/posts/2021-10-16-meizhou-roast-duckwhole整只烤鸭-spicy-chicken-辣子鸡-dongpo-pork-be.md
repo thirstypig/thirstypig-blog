@@ -23,7 +23,7 @@ tags:
 - æ
 - æ
 - duck
-description: Meizhou Roast Duck(Whole)整只烤鸭, Spicy Chicken 辣子鸡, Dongpo Pork Belly with Preserved Vegetable 梅菜扣肉, Dan Dan noodles 擔擔麵, Serrano Pepper Beef 鲜椒肥牛, and Hot Chili Oil Poached Sole Fillet 水煮龙俐鱼片 at Meizho
+description: 'Meizhou Roast Duck(Whole)整只烤鸭, Spicy Chicken 辣子鸡, Dongpo Pork Belly with Preserved Vegetable 梅菜扣肉, Dan Dan noodles 擔擔麵, Serrano Pepper Beef 鲜椒肥牛, and Hot Chili Oil Poached Sole Fillet 水煮龙俐鱼片 at Meizhou Dongpo 眉州东坡 . . . . .us'
 location: Meizhou Roast Duck(Whole)整只烤鸭, Spicy Chicken 辣子鸡
 city: San Gabriel Valley
 categories:

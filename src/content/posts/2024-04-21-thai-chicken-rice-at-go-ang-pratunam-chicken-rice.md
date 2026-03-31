@@ -24,7 +24,7 @@ tags:
 - eats
 - eeeeeats
 - chicken
-description: Thai Chicken Rice at Go-Ang Pratunam Chicken Rice. A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant. The chicken is boi
+description: 'Thai Chicken Rice at Go-Ang Pratunam Chicken Rice. A Michelin Bib Gourmand rated restaurant. This place is a local favorite, consider street food even though they have a restaurant. The chicken is boiled and the rice is fragrant, just like Hainan chicken rice. But the big difference is the sauce, which I didn’t take a photo of - it is dark savory and spicy with a hint of sweetness - just like me 🤣. Anyways. This was probably the best meal I had in Bangkok. The sauce is the one to return for. Yes I would return and would recommend. . . . #'
 location: Jae Yee Chicken Rice (ข้าวมันไก่เจ๊ยี)
 city: Bangkok
 region: Bangkok

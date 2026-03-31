@@ -27,7 +27,7 @@ tags:
 - taiwanese
 - eats
 - eeeeeats
-description: 'Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste '
+description: 'Cantonese cuisine tonight. Lobster, fish, clay pot rice, and more. And yet another bottle of Kaoliang. I think this was the third night this week I had Kaoliang. Harsh after the first shot, but taste like water after the fourth one. People say it’s like tequila this way. They also say you shouldn’t get a hangover with this stuff. But I don’t want to test it out. . . .'
 location: Cantonese Cuisine and Dimsum
 city: Taipei
 region: Taipei

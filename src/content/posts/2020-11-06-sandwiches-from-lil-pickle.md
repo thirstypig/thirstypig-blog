@@ -18,7 +18,7 @@ tags:
 - eeeeeats
 - food
 - italiansub
-description: 'Sandwiches from Lil Pickle. Had the Lil'' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I '
+description: 'Sandwiches from Lil Pickle. Had the Lil'' Pickle Sub with Salami, Capicolla, Cheese with Oil and Italian Dressing. And buddy got the hot pastrami. The lil pickle sub is their most popular sandwich - I can see why. It is a solid sandwich with nice soft bread and good meats. But unfortunately I was craving more flavor - since I was chomping on a sour pickle with every bite of the sandwich. Maybe a little more salt or some spicy peppers were needed. Perhaps my friend was on target with the savory pastrami. Regardless I would try this place again to get a better gauge. . . . . .'
 location: Ike's Love & Sandwiches
 city: Costa Mesa
 region: Orange County

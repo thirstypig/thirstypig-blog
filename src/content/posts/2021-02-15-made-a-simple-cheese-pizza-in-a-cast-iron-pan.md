@@ -18,7 +18,7 @@ tags:
 - eats
 - mozzarella
 - thirstypig
-description: Made a simple cheese pizza in a cast iron pan. Listen for the sizzle of the cheese. Had to wait a little more for the dough to rise in the pan. Check out the bottom of the pizza - crispy and not burnt
+description: 'Made a simple cheese pizza in a cast iron pan. Listen for the sizzle of the cheese. Had to wait a little more for the dough to rise in the pan. Check out the bottom of the pizza - crispy and not burnt. Also see the nice crusty cheese bits on the edges. Really yummy pizza. recipe . . . . .'
 location: Made a simple cheese pizza in a cast iron pan
 ---
 

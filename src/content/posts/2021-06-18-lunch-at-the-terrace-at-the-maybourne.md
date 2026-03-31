@@ -18,7 +18,7 @@ tags:
 - agnolotti
 - beverlyhills
 - thirstypig
-description: Lunch at the Terrace at the Maybourne. Had to have my spicy Bloody Mary. Almost too spicy. We should a rotisserie chicken salad, and handmade corn agnolotti, and pan seared red snapper. Great views an
+description: 'Lunch at the Terrace at the Maybourne. Had to have my spicy Bloody Mary. Almost too spicy. We should a rotisserie chicken salad, and handmade corn agnolotti, and pan seared red snapper. Great views and service. . . . . .'
 location: The Maybourne
 city: Beverly Hills
 region: Los Angeles

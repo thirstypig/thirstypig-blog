@@ -23,7 +23,7 @@ tags:
 - è
 - eeeeeats
 - eat
-description: Sichuan lunch with old friends. Finally got a chance to visit Szechuan Impression. Had the spicy boiled fish, sausage, veggies, pork belly with rice flour, mapo tofu. Crazy spicy with the Sichuan pepp
+description: 'Sichuan lunch with old friends. Finally got a chance to visit Szechuan Impression. Had the spicy boiled fish, sausage, veggies, pork belly with rice flour, mapo tofu. Crazy spicy with the Sichuan peppercorn. 花椒. Mouth numbing feel. Interesting they had a bunch of different dishes from different regions of China. Those dishes had a twist with their interpretation with Sichuan influences. I like the small cozy space, was very inviting. . . . . .'
 location: Baking With Ish
 city: San Gabriel
 region: San Gabriel Valley

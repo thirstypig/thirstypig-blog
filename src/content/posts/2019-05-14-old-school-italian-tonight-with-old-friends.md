@@ -21,7 +21,7 @@ tags:
 - pesto
 - linguineandclams
 - redsauce
-description: 'Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce. We started with the classic fried calamari and finished with a slice of tiramisu. '
+description: 'Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce. We started with the classic fried calamari and finished with a slice of tiramisu. . . . .restaurant'
 location: Old Town Bar
 city: New York
 region: New York

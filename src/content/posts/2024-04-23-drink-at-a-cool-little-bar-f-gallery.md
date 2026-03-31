@@ -23,7 +23,7 @@ tags:
 - tastemakersapp
 - thirstypig
 - bar
-description: Drink at a cool little bar - F Gallery. They have big ice cubes for my makers mark old fashioned, which I liked. Wish I could have had more drinks. But it was a school night. Couldn’t stay out too lat
+description: 'Drink at a cool little bar - F Gallery. They have big ice cubes for my makers mark old fashioned, which I liked. Wish I could have had more drinks. But it was a school night. Couldn’t stay out too late. I’d return. . . .'
 location: Drink at a cool little bar
 categories:
 - F Gallery

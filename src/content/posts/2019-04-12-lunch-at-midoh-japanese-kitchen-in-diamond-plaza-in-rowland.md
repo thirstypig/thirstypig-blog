@@ -22,7 +22,7 @@ tags:
 - curryrice
 - porkcutlet
 - porkloin
-description: Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights. Pork Cutlet and Pork Loin Cutlet with Curry Rice, with a side of soup and salad. Love this simple Japanese set. Didn’t know Loin is
+description: 'Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights. Pork Cutlet and Pork Loin Cutlet with Curry Rice, with a side of soup and salad. Love this simple Japanese set. Didn’t know Loin is more fatty (and luscious) than regular cutlet. .'
 location: Daiso - Japanese Household Goods
 city: Rowland Heights
 region: San Gabriel Valley

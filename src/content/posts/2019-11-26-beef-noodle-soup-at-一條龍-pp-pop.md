@@ -23,7 +23,7 @@ tags:
 - sgv
 - mpk
 - beefnoodlesoup
-description: Beef Noodle Soup at 一條龍 PP Pop. I had the Taiwanese spicy Beef Noodle Soup with pickle vegetables. Quite spicy and tasty. We also had the tan tan noodles, beef and tendon soup with vermicelli, and fri
+description: 'Beef Noodle Soup at 一條龍 PP Pop. I had the Taiwanese spicy Beef Noodle Soup with pickle vegetables. Quite spicy and tasty. We also had the tan tan noodles, beef and tendon soup with vermicelli, and fried pork buns 生煎包. Interesting 一條龍 used to be the name of a restaurant on valley Blvd with the English name Dragon Mark, which was a favorite of mine a long time ago. It appears this place “borrowed” their name. . . . . .'
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley

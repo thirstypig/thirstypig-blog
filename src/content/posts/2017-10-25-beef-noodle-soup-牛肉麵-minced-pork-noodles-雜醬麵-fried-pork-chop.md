@@ -20,7 +20,7 @@ tags:
 - pork
 - sgv
 - elmonte
-description: Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯, Beef ball soup 貢丸湯. Yummy classic Taiwanese dishes. The beef noodle soup is ordered by almost everyone. Enjoyed the hearty
+description: 'Beef noodle soup 牛肉麵, minced pork noodles 雜醬麵, fried pork chop with rice 排骨飯, Beef ball soup 貢丸湯. Yummy classic Taiwanese dishes. The beef noodle soup is ordered by almost everyone. Enjoyed the hearty beef broth, which is so bad for my gout. The pork chop has. Nice crisp crunch with a bit of sweetness. So bad but so good. I think this is one of the better Taiwanese restaurants in the area.'
 city: San Gabriel Valley
 categories:
 - '...'

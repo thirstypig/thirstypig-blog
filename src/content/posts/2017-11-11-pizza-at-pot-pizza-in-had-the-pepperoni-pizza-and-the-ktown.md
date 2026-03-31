@@ -20,7 +20,7 @@ tags:
 - thirstypig
 - shotoniphone
 - parkingsucks
-description: Pizza at POT Pizza in had the pepperoni pizza and the Ktown special (with kimchi). Good price for a large slice. Had to order the pepperoni - as the requisite option and also the unique Ktown kimchi p
+description: 'Pizza at POT Pizza in had the pepperoni pizza and the Ktown special (with kimchi). Good price for a large slice. Had to order the pepperoni - as the requisite option and also the unique Ktown kimchi pizza. Strange but tasty combo - would order again without a doubt.'
 location: Prime Pizza
 city: Koreatown
 region: Los Angeles

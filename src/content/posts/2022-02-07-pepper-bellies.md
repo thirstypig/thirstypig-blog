@@ -19,7 +19,7 @@ tags:
 - littleleague
 - chili
 - chili
-description: Pepper Bellies. I first had this when I played little league. The snack store had this unique concoction that I never had before. It was basically regular Fritos corn chips, chili with beans, and shre
+description: 'Pepper Bellies. I first had this when I played little league. The snack store had this unique concoction that I never had before. It was basically regular Fritos corn chips, chili with beans, and shredded cheese. Today I made it with hormels chili without beans and shredded Mexican blended cheese. I learned that pepper bellies is a Southern California thing. Everywhere else in the US, they call it Frito Pie. . . . . .'
 location: Pepper Bellies
 ---
 

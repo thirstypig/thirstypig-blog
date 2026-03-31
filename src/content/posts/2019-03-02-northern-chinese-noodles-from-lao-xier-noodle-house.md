@@ -20,7 +20,7 @@ tags:
 - sgv
 - northernchinesefood
 - northernchinese
-description: Northern Chinese noodles from Lao Xi’er Noodle House. One of my mom’s favorite restaurants. I wish we ordered the mini fried meatballs - totally forgot about that dish. Also saw Merrill Shindler had r
+description: 'Northern Chinese noodles from Lao Xi’er Noodle House. One of my mom’s favorite restaurants. I wish we ordered the mini fried meatballs - totally forgot about that dish. Also saw Merrill Shindler had reviewed this place also. I’m a big fan of Merrill. This place has pretty good authentic noodles with unique knife cut noodles and mini rolled noodles. . . .'
 location: Lao Xi Noodle House
 city: Arcadia
 region: San Gabriel Valley

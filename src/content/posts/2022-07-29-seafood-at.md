@@ -27,7 +27,7 @@ tags:
 - lobster
 - lobsterroll
 - clams
-description: Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara u
+description: 'Seafood at . Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!! . . . . .'
 location: Hop Li Seafood Restaurant
 city: Silver Lake
 region: Los Angeles

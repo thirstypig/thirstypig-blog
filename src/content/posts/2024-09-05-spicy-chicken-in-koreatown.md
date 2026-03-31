@@ -22,7 +22,7 @@ tags:
 - eats
 - eeeeeats
 - thirstypig
-description: 'Spicy Chicken in Koreatown. Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro. They will also add fried rice to the pot, and you wait for '
+description: 'Spicy Chicken in Koreatown. Dak Galbi one of my favorite Korean dishes. Shared cast iron vessel with chunks of chicken, rice cake, and taro. They will also add fried rice to the pot, and you wait for it to get crispy. I’m not sure why this dish isn’t popular, since it is so yummy. You can only find this dish at a few places in Koreatown. I would return and I would recommend. . . .'
 location: Sultan Chicken
 city: Koreatown
 region: Los Angeles

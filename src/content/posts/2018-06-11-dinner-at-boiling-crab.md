@@ -20,7 +20,7 @@ tags:
 - crawfish
 - eeeeeats
 - thirstypig
-description: Dinner at Boiling Crab. Long ass wait for New Orleans inspired crustacean cuisine. We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters. Personally I don’t eat a lot of shellfi
+description: 'Dinner at Boiling Crab. Long ass wait for New Orleans inspired crustacean cuisine. We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters. Personally I don’t eat a lot of shellfish since I have gout. 🤪 but I like the everything else they have. I wonder why they don’t give out disposable gloves. I thought did before. . . . .'
 location: The Boiling Crab
 city: Rosemead
 region: San Gabriel Valley

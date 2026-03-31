@@ -26,7 +26,7 @@ tags:
 - ribeyecap
 - ktown
 - eeeeeats
-description: 'Might be the best Korean BBQ in LA. Known for their highly selective cuts of beef, saying they only pick the top 3% for their Daedo cut. The daedo cut has ribeye roll, ribeye strips, and the next cut '
+description: 'Might be the best Korean BBQ in LA. Known for their highly selective cuts of beef, saying they only pick the top 3% for their Daedo cut. The daedo cut has ribeye roll, ribeye strips, and the next cut of them all - ribeye cap. Tender and juicy and flavorful. Their fried rice and porridge are also not to be missed as well. . . . . .'
 location: Might be the best Korean BBQ in LA
 city: Los Angeles
 region: Los Angeles

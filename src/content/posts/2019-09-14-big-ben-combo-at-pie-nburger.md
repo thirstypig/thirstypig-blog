@@ -21,7 +21,7 @@ tags:
 - eeeeeats
 - eat
 - pie
-description: Big Ben Combo at Pie n’Burger. I don’t remember having the burger here. I think I always came for breakfast or just pie. But this time, was Burger time. It was a truly good experience. Juicy, almost t
+description: 'Big Ben Combo at Pie n’Burger. I don’t remember having the burger here. I think I always came for breakfast or just pie. But this time, was Burger time. It was a truly good experience. Juicy, almost to a fault. With the crisp lettuce to break up the rich cheesy double patty burger - was ideal. I know a few people would like a burger to be meat cheese and bread - no veggies. But you need the pickles, lettuce, and even the tomato to complete the whole taste and mouth feel. And I think pie n’Burger did just that. The thin diner style patty was what I just wanted. is right about the thin patty. And I also love burgers! was right! . . . .'
 location: Pie 'n Burger
 city: Pasadena
 region: Pasadena

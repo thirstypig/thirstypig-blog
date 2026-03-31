@@ -25,7 +25,7 @@ tags:
 - sausage
 - porkribs
 - macandcheese
-description: Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. T
+description: 'Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. They were ranked as one of the top 50 bbq joints in Texas. Fun weekend with some friends. . . . . . . .'
 location: Stiles Switch BBQ & Brew
 city: Austin
 region: Texas

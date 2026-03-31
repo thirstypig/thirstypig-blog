@@ -23,7 +23,7 @@ tags:
 - eggs
 - scallions
 - taiwan
-description: My favorite meal is breakfast and Taiwanese breakfast is one of the best. With the rice balls, egg pancakes, and others. I try to find an egg pancake every morning. I used to have the rice ball with e
+description: 'My favorite meal is breakfast and Taiwanese breakfast is one of the best. With the rice balls, egg pancakes, and others. I try to find an egg pancake every morning. I used to have the rice ball with egg, oil curler, and pork floss - every morning but now I realize it is quite heavy and a bit much for me nowadays. You can find these treats almost everyday and almost every other corner. So good. In Taipei, Taichung, Tainan, and everywhere in between. . . .'
 city: Taipei
 region: Taipei
 categories:

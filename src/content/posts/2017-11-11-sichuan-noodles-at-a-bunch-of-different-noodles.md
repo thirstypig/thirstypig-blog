@@ -24,7 +24,7 @@ tags:
 - thirstypig
 - shotoniphone
 - timelaspe
-description: Sichuan Noodles at a bunch of different noodles. I had the Sichuan spicy cold noodles. The pork fried dumplings with spicy sauce and black fungus mushrooms. Better the second time around. Noodles text
+description: 'Sichuan Noodles at a bunch of different noodles. I had the Sichuan spicy cold noodles. The pork fried dumplings with spicy sauce and black fungus mushrooms. Better the second time around. Noodles texture was better than ok but the sauce was the big draw.'
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley

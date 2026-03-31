@@ -19,7 +19,7 @@ tags:
 - tastemakersapp
 - eats
 - eeeeeats
-description: Barbecue at Mooooooooooo’s . . . . With brisket, pork ribs, sausage, and pork belly burnt ends and loads of sides - corn, Mac & cheese, and frito pie. My relatives loved the pork ribs - which I assume
+description: 'I want to discuss the frito pie. Interestingly I grew up in Southern California and I had the frito pie when I playing little league. And it wasn’t called that back then. I knew it as pepper bellies - and some times it included beans. I would argue with some of my Midwest friends about this nomenclature about the correct name, which was a non-winning expenditure of mental effortness - which I regret. But after all these not having pepper bellies - it took me back to the good old days of little league. Makes me want to make some at home. . . .'
 location: Moo's Craft Barbecue
 city: East LA
 region: Los Angeles

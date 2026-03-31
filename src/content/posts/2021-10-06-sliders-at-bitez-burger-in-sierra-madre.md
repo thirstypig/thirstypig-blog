@@ -19,7 +19,7 @@ tags:
 - eats
 - eeeeeats
 - thirstypig
-description: Sliders at Bitez Burger in Sierra Madre. Baked burger Pattie’s and fries. Not fried and not grilled. From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their f
+description: 'Sliders at Bitez Burger in Sierra Madre. Baked burger Pattie’s and fries. Not fried and not grilled. From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their fries. Bitez also has fry sauce - unique for socal, but popular in the Midwest. . . . . . .burger'
 location: Bitez Burger
 city: Hollywood
 region: Hollywood

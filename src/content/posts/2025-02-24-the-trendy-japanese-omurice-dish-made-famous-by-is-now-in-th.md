@@ -22,7 +22,7 @@ tags:
 - tastemakers
 - tastemakers
 - noodles
-description: 'The trendy Japanese omurice dish, made famous by is now in the SGV Arcadia at .official I had to try it. This was my third attempt in trying to get a table. The first couple of times I tried the wait '
+description: 'My buddy got the ramen which I think he said was ok. Nothing special. Next time I would try the ramen. They have a Ying yang bowl in which they would have 2 different broths. I think it is gimmicky, but I would try next time. . . . .official'
 location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley

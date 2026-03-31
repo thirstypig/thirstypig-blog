@@ -26,7 +26,7 @@ tags:
 - xinyidistrict
 - xiamen
 - china
-description: Random photos of my Taiwan trip. Lots of first for me even though I’ve been here many times. Lots of lasting memories of my past. Saw my grandparents home in Tainan. My old apartment in Taipei. My old
+description: 'Random photos of my Taiwan trip. Lots of first for me even though I’ve been here many times. Lots of lasting memories of my past. Saw my grandparents home in Tainan. My old apartment in Taipei. My old apartment in Shanghai, too. The Apple Store and Xiaomi store in the xinyi district. Lots of trains and stations. I hope to return again sooner than this last time of 10 years. Last of all, it was great to see old friends and to make new memories with them. . . .'
 location: Miniature Museum Of Taiwan (袖珍博物館 Miniature Museum Of Taiwan)
 city: Taipei
 region: Taipei

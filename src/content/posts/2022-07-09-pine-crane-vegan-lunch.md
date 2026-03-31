@@ -24,7 +24,7 @@ tags:
 - shavedice
 - lunch
 - dtla
-description: 'Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved '
+description: 'Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved ice. Yummy and healthy. Popular spot with street parking only. Outdoor seating is best. . . . . .'
 location: Wolf & Crane Bar
 city: Downtown LA
 region: Los Angeles

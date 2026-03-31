@@ -21,7 +21,7 @@ tags:
 - halibut
 - fish
 - onionrings
-description: Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like
+description: 'Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like the burn crispness, but after awhile they were too greasy.'
 location: Stinko's
 city: Pasadena
 region: San Gabriel Valley

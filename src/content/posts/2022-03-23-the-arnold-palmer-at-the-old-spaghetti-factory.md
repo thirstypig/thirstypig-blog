@@ -24,7 +24,7 @@ tags:
 - sgv
 - duarte
 - lunch
-description: The Arnold Palmer at The Old Spaghetti Factory. Remember the Hollywood location back in the day? Now the closet one is in Duarte. This Italian American is a friend’s favorite. I didn’t realize how pop
+description: 'The Arnold Palmer at The Old Spaghetti Factory. Remember the Hollywood location back in the day? Now the closet one is in Duarte. This Italian American is a friend’s favorite. I didn’t realize how popular it was, even on a weekday late lunch time. . . . . .'
 location: (the) handbag factory
 city: Hollywood
 region: Hollywood

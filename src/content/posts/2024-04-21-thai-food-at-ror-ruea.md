@@ -27,7 +27,7 @@ tags:
 - eats
 - eeeeeats
 - food
-description: Thai food at Ror Ruea. Really papaya salad, but incredibly spicy. Tom Yum soup was great with the mushrooms. Egg/shrimp rice was familiar Chinese style dish that my buddy liked. It had a small mom and
+description: 'Thai food at Ror Ruea. Really papaya salad, but incredibly spicy. Tom Yum soup was great with the mushrooms. Egg/shrimp rice was familiar Chinese style dish that my buddy liked. It had a small mom and pop feel, but with A/C. . . .'
 location: Thai food at Ror Ruea
 ---
 

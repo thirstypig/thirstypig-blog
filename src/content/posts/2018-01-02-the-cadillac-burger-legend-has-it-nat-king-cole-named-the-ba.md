@@ -22,7 +22,7 @@ tags:
 - seafood
 - burger
 - fries
-description: The Cadillac Burger Legend has it Nat King Cole named the bacon burger the “Cadillac of Burgers” at PJ Clarkes. Opened in 1884, they are known for their raw seafood bar and burgers. Tonight we had the
+description: 'The Cadillac Burger Legend has it Nat King Cole named the bacon burger the “Cadillac of Burgers” at PJ Clarkes. Opened in 1884, they are known for their raw seafood bar and burgers. Tonight we had the Cadillac Burger, the Burger, the Deluxe Tower, Crab Cakes, and Seared Dry Sea Scallops. Solid burger and fresh seafood - in an historic NYC restaurant.'
 city: New York
 region: New York
 location: P.J. Clarke's

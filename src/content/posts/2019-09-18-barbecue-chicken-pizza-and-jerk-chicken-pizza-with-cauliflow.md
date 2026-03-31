@@ -20,7 +20,7 @@ tags:
 - sgv
 - arcadia
 - westfieldsantaanita
-description: Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at California Pizza Kitchen. I’ve always liked this place. I remember my first visit in the early 90s at the Beverly Center locatio
+description: 'Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at California Pizza Kitchen. I’ve always liked this place. I remember my first visit in the early 90s at the Beverly Center location. I thought it was pretty good. Looking at there recent menu - I was wondering where their Peking Duck pizza was??? Anyways. Good place. Would return. Their bake and take promo is pretty good. Take home an I baked pizza for $5 is a good deal. . . . .'
 location: Ramona Museum of California History
 city: San Gabriel
 region: San Gabriel Valley

@@ -20,7 +20,7 @@ tags:
 - thirstypig
 - highlandpark
 - breakfast
-description: Missed those breakfast tacos from Austin. Luckily we have we had the Pecos (shredded brisket and egg) and the Guadalupe (chorizo and egg). Also we had the traditional migas and queso & chips. Though t
+description: 'Missed those breakfast tacos from Austin. Luckily we have we had the Pecos (shredded brisket and egg) and the Guadalupe (chorizo and egg). Also we had the traditional migas and queso & chips. Though the taste is reminiscent of the sizes were incomparably smaller. I liked the pecos breakfast tacos. Remember to get there early on weekends.'
 location: HomeState
 city: Austin
 region: Texas

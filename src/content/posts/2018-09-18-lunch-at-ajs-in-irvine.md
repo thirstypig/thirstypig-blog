@@ -17,7 +17,7 @@ tags:
 - porkchop
 - chickenrice
 - beefnoodlesoup
-description: Lunch at A&J’s in Irvine. We had the spicy beef noodle soup 牛肉麵, pork chop rice 排骨飯, fried chicken rice 雞排飯. The soup noodles were good. And the chicken too. But the pork chop was not so good. Also ha
+description: 'Lunch at A&J’s in Irvine. We had the spicy beef noodle soup 牛肉麵, pork chop rice 排骨飯, fried chicken rice 雞排飯. The soup noodles were good. And the chicken too. But the pork chop was not so good. Also had onion pancake 蔥油餅. Needed a little more savory. . . . . .'
 location: AC Hotel Irvine
 city: Irvine
 region: Orange County

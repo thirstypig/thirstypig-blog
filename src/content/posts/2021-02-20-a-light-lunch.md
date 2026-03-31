@@ -20,7 +20,7 @@ tags:
 - eeeeeats
 - eats
 - thirstypig
-description: A light lunch. Sunomono. Cucumber salad. Using Japanese cucumbers, thinly sliced. Prepped with a little salt and the water squeezed out. Then marinated with soy sauce, sugar, and rice vinegar. Done. R
+description: 'A light lunch. Sunomono. Cucumber salad. Using Japanese cucumbers, thinly sliced. Prepped with a little salt and the water squeezed out. Then marinated with soy sauce, sugar, and rice vinegar. Done. Realized it was quite sour from the vinegar, so next time I will add more sugar. . . . . .'
 ---
 
 ![A light lunch](/images/posts/ig-2021-02-20-a-light-lunch/17913116125608032.jpg)

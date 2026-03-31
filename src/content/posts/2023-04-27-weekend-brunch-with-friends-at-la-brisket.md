@@ -23,7 +23,7 @@ tags:
 - smokedmeats
 - bbq
 - barbecue
-description: Weekend brunch with friends at LA Brisket. Smoked brisket, pulled chicken, slaw, brisket salad, Texas toast, and fried chicken skin. Yes I said fried chicken skin. That was unique and really good (and
+description: 'Weekend brunch with friends at LA Brisket. Smoked brisket, pulled chicken, slaw, brisket salad, Texas toast, and fried chicken skin. Yes I said fried chicken skin. That was unique and really good (and Keto friendly). Glad this place is in DTlA Chinatown. Not far from me. Brisket is solid. The pulled chicken was a bit over cooked unfortunately. Regardless I’d still go again and would recommend. . . . . . .chinatown'
 location: LA Brisket
 city: Los Angeles
 region: Los Angeles

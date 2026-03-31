@@ -18,7 +18,7 @@ tags:
 - locomoco
 - spammusubi
 - spam
-description: Fried Chicken from Top Restaurant in Pasadena. Also ordered the spam masubi and the loco moco plate. Top restaurant is an interesting restaurant that offers Indonesian Hawaiian cuisine. Their fried ch
+description: 'Unfortunately Top Restaurant only does take out. Make sure you call in the make sure they still have chicken available. I know first hand since this wasn’t the first time I tried to get their fried chicken. I recommend this place and I would go again. . . .'
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena

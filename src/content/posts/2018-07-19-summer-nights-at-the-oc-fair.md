@@ -21,7 +21,7 @@ tags:
 - asian
 - thirstypig
 - junkfood
-description: 'Summer Nights at the OC Fair. The bacon corn dog, corn in a cup with cheese, spicy Cheetos corn in a cup, and the giant turkey leg. So much junk food. Yet the consensus was that the food has improved '
+description: 'Summer Nights at the OC Fair. The bacon corn dog, corn in a cup with cheese, spicy Cheetos corn in a cup, and the giant turkey leg. So much junk food. Yet the consensus was that the food has improved at times he OC Fair. . . . . ._lindoris'
 location: Summer Nights at the OC Fair
 city: Orange County
 region: Orange County

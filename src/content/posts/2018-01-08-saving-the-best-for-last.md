@@ -27,7 +27,7 @@ tags:
 - monet
 - vangogh
 - camilepissarro
-description: Saving the best for last. saw amazing art all the while getting lost. David Hockney’s exhibit was especially interesting with his different art phases, including his LA images. Saw ancient Egyptian ar
+description: 'Saving the best for last. saw amazing art all the while getting lost. David Hockney’s exhibit was especially interesting with his different art phases, including his LA images. Saw ancient Egyptian artifacts and art from 2500+ BC, with the 2 hippos and the huge mummy tomb. Got to see the “Thinker” from the sculptures from Rodin exhibit. And I believe the Met has more French Impressionist painting than MOMA, especially Monet. And went the American Wing and saw the great Washington Crossing the Potomac from history books.'
 location: Metropolitan Museum of Art
 city: New York
 region: New York

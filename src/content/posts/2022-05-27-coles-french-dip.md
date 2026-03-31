@@ -19,7 +19,7 @@ tags:
 - gastropub
 - tatortots
 - tots
-description: Cole’s French Dip. I had to have Cole’s also. But in reality, I had Cole’s first then Phillipe’s. Everyone will ask - which is better? Let’s point out the differences - thicker slices of beef at Cole’
+description: 'Cole’s French Dip. I had to have Cole’s also. But in reality, I had Cole’s first then Phillipe’s. Everyone will ask - which is better? Let’s point out the differences - thicker slices of beef at Cole’s. Larger bread roll. Larger portions, too 😀 And Cole’s serves these French dip sandwiches till 11:30pm. Plus you can get mixed drinks at Cole’s. I think the hot spicy horse radish mustard is about the same. Nice bite. I did like the gator tots. I think it comes down to personal preference. I can really do both. . . . . .'
 location: Cole's French Dip
 city: Downtown LA
 region: Los Angeles

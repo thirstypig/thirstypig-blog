@@ -15,7 +15,7 @@ tags:
 - bentonville
 - arkansas
 - roadtrip
-description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename th
+description: 'First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton . . . . . .'
 location: First Walmart
 categories:
 - now is the Walmart Museum

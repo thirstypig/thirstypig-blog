@@ -20,7 +20,7 @@ tags:
 - fries
 - onionrings
 - milkshake
-description: Burgers at Butcher Jr. I had the milk caramel burger, which had a pleasant sweetness that I never experienced before. It was recommend by the cashier. The fries were crispy and the onion rings, too. O
+description: 'Burgers at Butcher Jr. I had the milk caramel burger, which had a pleasant sweetness that I never experienced before. It was recommend by the cashier. The fries were crispy and the onion rings, too. One noticeable difference was the portion which fit with the typical Taiwanese consumer. Initially I thought it might not be enough, but I realized it was just right. The custom sauces, the honey mustard and the burger JR sauces, both had a slight kick. I’d recommend and would return again. . . .'
 location: Burgers at Butcher Jr
 ---
 

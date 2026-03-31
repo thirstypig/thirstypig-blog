@@ -15,7 +15,7 @@ tags:
 - whiskeysociety
 - peatywhisky
 - talisker
-description: Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have got
+description: 'Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have gotten more pics but I was feeling under the weather. . . .'
 location: Legacy Taipei
 city: Taipei
 region: Taipei

@@ -21,7 +21,7 @@ tags:
 - thirstypig
 - jarren
 - tobin
-description: 'Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we '
+description: 'Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we went here . . . . .'
 location: Studio Movie Grill Monrovia
 city: Monrovia
 region: San Gabriel Valley

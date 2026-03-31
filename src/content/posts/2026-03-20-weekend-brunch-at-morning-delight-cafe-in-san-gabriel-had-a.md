@@ -17,7 +17,7 @@ tags:
 - shrinkflation
 - badexecution
 - donotgo
-description: Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfor
+description: 'Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfortunately the egg pancakes lacked egg - I think it was a small one too. The peanut butter toast barely had peanut butter. I really wanted to like this place but I don’t. I love a good Taiwanese egg pancake 蛋餅 I also like their concept. But at those prices and the execution - I can’t say I like it. The other couple of times I tried to go they ran out of food before they closed, which pissed me off. Anyways. I cannot recommend. And I will not return.'
 location: Morning Delight Cafe
 city: San Gabriel
 region: San Gabriel Valley

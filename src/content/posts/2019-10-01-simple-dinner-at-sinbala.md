@@ -18,7 +18,7 @@ tags:
 - pork
 - rice
 - dinner
-description: Simple Dinner at Sinbala. Fried pork chop on rice and pork belly on rice. Sinbala is a small popular Taiwanese Restaurant. They also have traditional Taiwanese shaved ice, where you can pick and choos
+description: 'Simple Dinner at Sinbala. Fried pork chop on rice and pork belly on rice. Sinbala is a small popular Taiwanese Restaurant. They also have traditional Taiwanese shaved ice, where you can pick and choose your toppings. Nowadays, most shaved ice joints have pre-set combinations, often times with stuff you don’t like. . . . .'
 location: Simple Dinner at Sinbala
 city: San Gabriel Valley
 region: San Gabriel Valley

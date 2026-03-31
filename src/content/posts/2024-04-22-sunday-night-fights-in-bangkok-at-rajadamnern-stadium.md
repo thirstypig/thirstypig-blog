@@ -22,7 +22,7 @@ tags:
 - tastemakersapp
 - thailand
 - thai
-description: 'Sunday night fights in Bangkok at Rajadamnern Stadium. Cool venue. With A/C!!! Got to see a bunch of fights and got really good seats. Muay Thai kickboxing is a really great spectator sport. There is '
+description: 'Sunday night fights in Bangkok at Rajadamnern Stadium. Cool venue. With A/C!!! Got to see a bunch of fights and got really good seats. Muay Thai kickboxing is a really great spectator sport. There is action constantly. It was cool to hear the crowds go ooh and ahh and cheer for their favorite fighters. Good times! . . .'
 location: Rajadamnern Stadium (เวทีราชดำเนิน)
 city: Bangkok
 region: Bangkok

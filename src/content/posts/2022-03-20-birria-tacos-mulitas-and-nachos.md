@@ -21,7 +21,7 @@ tags:
 - mexicanfood
 - tacos
 - cheesetacoshellsâ
-description: Birria Tacos, mulitas, and nachos. After drinking we go for eats in east Los Angeles, in Lincoln Heights. The birria Consume is great with the tacos and mulitas. I learned about the consume, with a li
+description: 'Birria Tacos, mulitas, and nachos. After drinking we go for eats in east Los Angeles, in Lincoln Heights. The birria Consume is great with the tacos and mulitas. I learned about the consume, with a little salsa and lime, is great to drink. Great recommendation. . . . . . . ❤️'
 location: Ave 26 Tacos
 city: East LA
 categories:

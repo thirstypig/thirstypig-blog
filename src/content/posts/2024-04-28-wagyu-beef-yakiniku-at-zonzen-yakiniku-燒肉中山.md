@@ -23,7 +23,7 @@ tags:
 - tastemakers
 - tastemakersapp
 - bbq
-description: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山. One of the best meals I’ve had in in Asia. Outstanding beef - marbling, flavor with just salt, and tender buttery texture. Decor was cool. They even have a
+description: 'Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山. One of the best meals I’ve had in in Asia. Outstanding beef - marbling, flavor with just salt, and tender buttery texture. Decor was cool. They even have a robot server. . . .'
 location: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山
 ---
 

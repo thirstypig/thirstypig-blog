@@ -22,7 +22,7 @@ tags:
 - kimlan
 - 99ranchmarket
 - porkfloss
-description: Taiwanese Breakfast - rice porridge with little tasty accoutrements. Makes boring porridge more yummy. Pork floss, Japanese spicy dried garlic, seaweed paste, and wheat gluten with peanuts. Don’t know
+description: 'Taiwanese Breakfast - rice porridge with little tasty accoutrements. Makes boring porridge more yummy. Pork floss, Japanese spicy dried garlic, seaweed paste, and wheat gluten with peanuts. Don’t know why they call it pork floss - it is dried shredded pork. . . . .'
 location: Taiwanese Breakfast
 categories:
 - rice porridge with little tasty accoutrements

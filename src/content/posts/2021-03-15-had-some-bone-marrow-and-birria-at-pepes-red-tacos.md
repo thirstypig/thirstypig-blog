@@ -19,7 +19,7 @@ tags:
 - tacotruck
 - eeeeeats
 - eats
-description: 'Had some bone marrow and birria at Pepe’s red tacos. Bone marrow at a taco truck. Awesome. The birria with the consume was also decadent and rich. So good. So glad they are in Pasadena. Special shout '
+description: 'Had some bone marrow and birria at Pepe’s red tacos. Bone marrow at a taco truck. Awesome. The birria with the consume was also decadent and rich. So good. So glad they are in Pasadena. Special shout out to .nike for the intro! . . . . . .'
 location: Pepe’s Red Tacos
 city: Pasadena
 region: Pasadena

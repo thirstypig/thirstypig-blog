@@ -14,7 +14,7 @@ tags:
 - plano
 - texas
 - sweettea
-description: We need this in LA. HTeaO. A Texas tea shop. Lots of different teas - sweeten and unsweetened. I had the sweetened coconut tea. Great combination of flavor. You can try them all. They sell lots of YET
+description: 'We need this in LA. HTeaO. A Texas tea shop. Lots of different teas - sweeten and unsweetened. I had the sweetened coconut tea. Great combination of flavor. You can try them all. They sell lots of YETI and other goods. This franchise is all over Texas. On a hot summer day there is nothing better. . . Except a beer or an eastcider. My little brother recommended this place. Thanks! . . . . .'
 location: We need this in LA
 ---
 

@@ -17,7 +17,7 @@ tags:
 - garlicchicken
 - garlicchickenpizza
 - workspizza
-description: Pizza at CPK. Garlic Chicken Pizza on cauliflower crust and the “Works” Pizza. This place never disappoints. Consistency and interesting. You don’t find these topping combinations typically at other p
+description: 'Pizza at CPK. Garlic Chicken Pizza on cauliflower crust and the “Works” Pizza. This place never disappoints. Consistency and interesting. You don’t find these topping combinations typically at other places . . . .'
 location: Pizza at CPK
 city: San Gabriel Valley
 region: San Gabriel Valley

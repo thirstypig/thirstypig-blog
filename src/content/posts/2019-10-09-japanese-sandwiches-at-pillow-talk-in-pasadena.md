@@ -19,7 +19,7 @@ tags:
 - pasadena
 - sgv
 - lakeave
-description: Japanese Sandwiches at Pillow Talk in Pasadena. Pretty good sandwiches. I like the hot tamago egg sandwich the best. The egg salad sandwich with the hard boiled egg was also very good. Heck anything w
+description: 'Japanese Sandwiches at Pillow Talk in Pasadena. Pretty good sandwiches. I like the hot tamago egg sandwich the best. The egg salad sandwich with the hard boiled egg was also very good. Heck anything with egg I will probably like. The avocado mango sandwich was surprisingly not bad - and I don’t crave avocados. The tiramisu drink was interesting - probably won’t order it again. Other than that I like these sandwiches and would gladly return and recommend. Who cares what and all those others say if they feel Pillow Talk allegedly copied Konbi certainly didn’t invent these sandwiches, they were one of the first to copy them from Asia. . . . .'
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena

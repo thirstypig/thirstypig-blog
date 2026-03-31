@@ -23,7 +23,7 @@ tags:
 - shabux2
 - shabu
 - hotpot
-description: Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right afte
+description: 'Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right after. . . . . .'
 location: Kagaya
 city: Little Tokyo
 region: Los Angeles

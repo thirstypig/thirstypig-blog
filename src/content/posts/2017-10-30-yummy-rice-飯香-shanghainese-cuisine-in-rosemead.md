@@ -24,7 +24,7 @@ tags:
 - sgv
 - fish
 - ç
-description: Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving 蔥油拌麵 scallion oil noodles - so I coerced my family to have Shanghainese food tonight. Yummy Rice (yes it is a funny name) featured a sta
+description: 'Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving 蔥油拌麵 scallion oil noodles - so I coerced my family to have Shanghainese food tonight. Yummy Rice (yes it is a funny name) featured a staff all from Shanghai. The noodles were just ok - flavor was good but the noodles weren’t the ones I liked from shanghai. The 紅曬肉 Braised pork belly was very good. The luscious fat melted with eat chomp. The fried jelly fish and dark soy fish was ok. Didn’t care too much for it. The spicy frog legs was a favorite of my wife’s. The vegetable fried rice was a bit too oily, also. I am not sure I would return, due to the noodles. They have 小籠包 steam pork dumplings that I am tempted to try, next time.'
 location: Rolling Rice
 city: Rosemead
 region: San Gabriel Valley

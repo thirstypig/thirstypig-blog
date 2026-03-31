@@ -26,7 +26,7 @@ tags:
 - lunch
 - yamcha
 - siumai
-description: 'Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long, but is one of the finer Dim Sum restaurants in SGV. They also have a good Cantonese Roasted Meat 燒臘 shop next door, which '
+description: 'Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long, but is one of the finer Dim Sum restaurants in SGV. They also have a good Cantonese Roasted Meat 燒臘 shop next door, which is take out only. What I like best there is their roasted pork. They consistently have the best in SGV. . . . . . .real.mike.gin'
 city: San Gabriel
 region: San Gabriel Valley
 ---

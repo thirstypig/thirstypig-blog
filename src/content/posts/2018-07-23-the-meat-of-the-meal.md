@@ -27,7 +27,7 @@ tags:
 - hongsaurou
 - ç
 - friedfish
-description: The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed bun
+description: 'The meat of the meal. To many too mention - standouts include braised pork belly 紅燒肉 which was decadent, luscious, and rich all in one bite. The roast duck might have been too dry with the steamed buns. The fried fish was gobbled up so fast by everyone. Unfortunately the crab was not too popular. And the tang yuan rice Ball soup dessert was good except for the slightly too sour broth. And the friend dumplings 生煎包 almost had a breading to meat ratio that skewed too much toward the wrong side. And happy 100 days - Troy! . . . . .'
 location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai

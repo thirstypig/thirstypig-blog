@@ -22,7 +22,7 @@ tags:
 - eeeeeats
 - eat
 - la
-description: Baked Chicken at Love Baked Wings on Melrose. Still with a nice crackle but without the greasy fried crust. I first had baked chicken in Seoul at Oppadak with a couple of local elementary school teach
+description: 'Baked Chicken at Love Baked Wings on Melrose. Still with a nice crackle but without the greasy fried crust. I first had baked chicken in Seoul at Oppadak with a couple of local elementary school teachers. Loved the baked concept with the dry seasonings and especially liked the dipping sauces. Their spicy is crazy spicy! Unfortunately their lemon rub is a bit too sour. Read that the chef used to be personal chef. Would recommend and want to visit again soon. I hope they build one in Pasadena. . . . .'
 location: Korea Ginseng Chicken Soup (고려삼계탕)
 city: Seoul
 region: Seoul

@@ -21,7 +21,7 @@ tags:
 - carne
 - eats
 - eeeeeats
-description: Birria Torta with consume. From tacos y Birria La Unica. From the Boyle heights location on Olympic. I think a torta might be the best vehicle to eat Birria with consume. The bread soaks up the juices
+description: 'Birria Torta with consume. From tacos y Birria La Unica. From the Boyle heights location on Olympic. I think a torta might be the best vehicle to eat Birria with consume. The bread soaks up the juices from the consume soup. Bread is like a sponge, where a tortilla doesn’t retain as much. Imagine it is like a French dip sandwich. Also, this place closes early - around 4:30ish. Wish they opened later. Next time I want to try goat Birria. . . . . . .'
 location: King Torta
 city: Los Angeles
 region: Los Angeles

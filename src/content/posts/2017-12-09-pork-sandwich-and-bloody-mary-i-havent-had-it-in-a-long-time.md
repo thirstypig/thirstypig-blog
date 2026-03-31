@@ -18,7 +18,7 @@ tags:
 - porksandwich
 - bloodymary
 - fundaysaturday
-description: Pork Sandwich and Bloody Mary I haven’t had it in a long time. Was way better than expected. I liked the bread with the slight crunchy and crispness, chewy. The dip was deal with this chewy bread. The
+description: 'Pork Sandwich and Bloody Mary I haven’t had it in a long time. Was way better than expected. I liked the bread with the slight crunchy and crispness, chewy. The dip was deal with this chewy bread. The pork pieces were good, but cut a bit too small. The spicy mustard was a nice accompaniment.'
 city: Downtown LA
 region: Los Angeles
 location: Cole's French Dip

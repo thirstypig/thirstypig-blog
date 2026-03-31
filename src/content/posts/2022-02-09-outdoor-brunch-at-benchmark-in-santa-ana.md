@@ -25,7 +25,7 @@ tags:
 - chickenandwaffles
 - potatoes
 - bloodymary
-description: Outdoor brunch at Benchmark in Santa Ana. Great outdoor patio, tasty drinks, and yummy brunch. But I think the outdoor space was the best. Oh and the potatoes brava was really good too. Great to catch
+description: 'Outdoor brunch at Benchmark in Santa Ana. Great outdoor patio, tasty drinks, and yummy brunch. But I think the outdoor space was the best. Oh and the potatoes brava was really good too. Great to catch up with old friends. Would recommend benchmark. Weekend reservations recommended. . . . . . .restaurant'
 location: Outdoor brunch at Benchmark in Santa Ana
 ---
 

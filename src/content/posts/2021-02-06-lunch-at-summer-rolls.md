@@ -17,7 +17,7 @@ tags:
 - thirstypig
 - shrimp
 - ricecake
-description: Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess t
+description: 'Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess the pork chop was a little heavy . . . . . . .'
 location: Lunch at Summer Rolls
 city: San Gabriel Valley
 region: San Gabriel Valley

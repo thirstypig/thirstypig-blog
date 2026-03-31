@@ -19,7 +19,7 @@ tags:
 - scary
 - spicy
 - sichuanfood
-description: Dan Dan Noodles 擔擔麵 from the good noodles and flavor but didn’t care for the chickpeas and veggies and the USD8 portion. Guess I’m a traditionalist. Was at the Huntington Library Halloween Event - Str
+description: 'Dan Dan Noodles 擔擔麵 from the good noodles and flavor but didn’t care for the chickpeas and veggies and the USD8 portion. Guess I’m a traditionalist. Was at the Huntington Library Halloween Event - Strange Science - The Dark Corners of the Library. Interesting to be there at night.'
 location: Chinese Laundry Truck
 city: Pasadena
 region: San Gabriel Valley

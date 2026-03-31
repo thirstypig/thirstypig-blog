@@ -20,7 +20,7 @@ tags:
 - collardgreens
 - greenbeans
 - soulfood
-description: Harlem Fried Chicken at Sylvia’s Restaurant. Also had some bbq ribs, but was unfortunately dry - seems liked it was sitting under a heat lamp for awhile. The fried chicken was awesome - tender and fla
+description: 'Harlem Fried Chicken at Sylvia’s Restaurant. Also had some bbq ribs, but was unfortunately dry - seems liked it was sitting under a heat lamp for awhile. The fried chicken was awesome - tender and flavorful. Wife thought the fried chicken was slightly too salty. Enjoyed the waffle, corn bread, collard greens, and the baked Mac & Cheese. The green beans were - eh.'
 location: RH Rooftop Restaurant at RH New York
 city: New York
 region: New York

@@ -15,7 +15,7 @@ tags:
 - comfortfood
 - beef
 - brisket
-description: Seolleongtang on a chilly December day. Not that chilly today in Southern Cal but regardless it’s still a good and hearty. Seolleongtang is a Korean beef and glass noodle soup. We had the beef brisket
+description: 'Seolleongtang on a chilly December day. Not that chilly today in Southern Cal but regardless it’s still a good and hearty. Seolleongtang is a Korean beef and glass noodle soup. We had the beef brisket one and I had the galbi one. When you order yours make sure you add the salt, pepper, scallions, and rice into the bowl. Don’t forget the kimchi juice, kimchi juice. . . . . .'
 location: The United Theater On Broadway
 city: Koreatown
 region: Los Angeles

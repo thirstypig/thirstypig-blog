@@ -18,7 +18,7 @@ tags:
 - lunch
 - eeeeeats
 - eats
-description: 'Chicken sando at pikunico. Yummy. One of the best if not the best chicken sandwich I have ever had. Just enough spiciness and flavor. Good crunchy texture for mouth feel. The side salad was good too. '
+description: 'Chicken sando at pikunico. Yummy. One of the best if not the best chicken sandwich I have ever had. Just enough spiciness and flavor. Good crunchy texture for mouth feel. The side salad was good too. I had the seaweed cucumber salad. All this for $15 for the dinela lunch deal. . . . . .'
 location: Pikunico
 city: Downtown LA
 region: Los Angeles

@@ -19,7 +19,7 @@ tags:
 - colombia
 - guatape
 - lapiedra
-description: La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My l
+description: 'La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My legs and knees were not up for the task. Luckily my friends made the hike. Thanks to my buds for some of the shots. . . . . .'
 location: Palacio De La Cultura Rafael Uribe Uribe
 city: Medellin
 region: Colombia

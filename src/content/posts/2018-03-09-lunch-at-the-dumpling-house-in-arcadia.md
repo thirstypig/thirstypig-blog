@@ -17,7 +17,7 @@ tags:
 - arcadia
 - chinesefood
 - sgv
-description: Lunch at the Dumpling House in Arcadia. I love dumplings. Water boiled ones and steamed (小籠包). The water boiled fish with Tilapia was so-so. Didn’t like the heavy thick soup. The onion pancakes and ri
+description: 'Lunch at the Dumpling House in Arcadia. I love dumplings. Water boiled ones and steamed (小籠包). The water boiled fish with Tilapia was so-so. Didn’t like the heavy thick soup. The onion pancakes and rice noodles were fine.'
 location: Arcadia County Park
 city: Arcadia
 region: San Gabriel Valley

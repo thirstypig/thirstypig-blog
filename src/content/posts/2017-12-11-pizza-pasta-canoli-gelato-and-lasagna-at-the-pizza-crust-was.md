@@ -21,7 +21,7 @@ tags:
 - atetoomuch
 - la
 - ihatemondays
-description: Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but a little greasy in the middle. The Lasagna was pleasantly better than expected. The meat sauce was good. Ate too much. Sugges
+description: 'Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but a little greasy in the middle. The Lasagna was pleasantly better than expected. The meat sauce was good. Ate too much. Suggestion: Go early to avoid the crowds and waits'
 categories:
 - but ...
 location: Eataly

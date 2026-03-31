@@ -21,7 +21,7 @@ tags:
 - beefbrisket
 - porkribs
 - macandcheese
-description: Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the
+description: 'Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.'
 location: 2M Smokehouse
 categories:
 - must order

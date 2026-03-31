@@ -24,7 +24,7 @@ tags:
 - nashvillechicken
 - spicy
 - notsurewhynolines
-description: 'I really like fried chicken just enough spice in the Nashville style chicken and sweetness in the honey sweetened. But the regular spiced seemed a bit too salty. Otherwise it is a big winner! I liked '
+description: 'I really like fried chicken just enough spice in the Nashville style chicken and sweetness in the honey sweetened. But the regular spiced seemed a bit too salty. Otherwise it is a big winner! I liked the sides with the slaw, fries, and beans. The mint lemonade was very good too. I would definitely return.'
 city: East LA
 region: Los Angeles
 location: Phat Birds

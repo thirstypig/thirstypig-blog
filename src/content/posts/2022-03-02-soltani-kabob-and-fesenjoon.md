@@ -20,7 +20,7 @@ tags:
 - filetmignon
 - steak
 - chicken
-description: Soltani Kabob and Fesenjoon. Soltani is filet mignon and ground beef and fesenjoon is stewed chicken breast unground walnut, grilled onion, and pomegranate sauce. The fragrant saffron basmati rice was
+description: 'Soltani Kabob and Fesenjoon. Soltani is filet mignon and ground beef and fesenjoon is stewed chicken breast unground walnut, grilled onion, and pomegranate sauce. The fragrant saffron basmati rice was yummy. The fesenjoon had a flavor and taste that I have never had before. It was unique. I dig it. . . . . . .'
 location: Robert Emmet's Food & Spirits
 city: Glendale
 region: San Fernando Valley

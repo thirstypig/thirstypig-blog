@@ -21,7 +21,7 @@ tags:
 - chickenkaraage
 - eat
 - eeeeeats
-description: Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. W
+description: 'Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. We also had the chicken karage, which was gobbled up quite fast. Yum yum. Glad this place is not far from home. Thanks to for introducing this place to us . . . . . .'
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley

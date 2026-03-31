@@ -19,7 +19,7 @@ tags:
 - peanutbutter
 - eeeeeats
 - eat
-description: Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut but
+description: 'Peanut Butter Mochi from J.J. Bakery. I was expecting peanut powder instead of peanut butter. If I am not mistaken the peanut powder is a more traditional filling and has better flavor. The peanut butter tasted a bit bland. . . . . .'
 location: Yuk Dae Jang
 city: San Gabriel
 region: San Gabriel Valley

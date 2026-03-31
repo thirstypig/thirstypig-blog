@@ -15,7 +15,7 @@ tags:
 - fourseas
 - sgv
 - arcadia
-description: Taiwanese Breakfast Burrito. 飯糰 and egg pancake. This was my daily breakfast when I lived in Taipei. Must have the fried egg. Only with the curlers 油條 was more crispy. Other than that it was good. Als
+description: 'Taiwanese Breakfast Burrito. 飯糰 and egg pancake. This was my daily breakfast when I lived in Taipei. Must have the fried egg. Only with the curlers 油條 was more crispy. Other than that it was good. Also had the savory soy milk, also with curlers 油條. . . . .'
 location: Taiwanese Breakfast (想彳早餐)
 city: Taipei
 region: Taipei

@@ -26,7 +26,7 @@ tags:
 - bbqribs
 - bbqchicken
 - bbqpork
-description: Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia. Got to try a bunch of different bbq including, Pulled Pork Nachos, BBQ chicken, BBQ pork tenderloin, BBQ pulled pork tacos, BBQ po
+description: 'Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia. Got to try a bunch of different bbq including, Pulled Pork Nachos, BBQ chicken, BBQ pork tenderloin, BBQ pulled pork tacos, BBQ pork ribs, BBQ beef tri tips and more. Yummy. KCBS - Kansas City Barbeque Soceity was on hand to judge 30+ BBQ entrants. You could see their trailers parked outside cooking and smoking. Also, I got to meet a BBQ legend - Harry Soo! Luckily we got there early to avoid the crowds and long lines. . . . . . . . .'
 city: Arcadia
 region: San Gabriel Valley
 categories:

@@ -18,7 +18,7 @@ tags:
 - tatertots
 - tots
 - chickenandwaffles
-description: Dodger pre-game tailgating brunch. 33 Taps is located minutes away from Dodger stadium is a cool sports gastropub. Got the chicken and waffles and the breakfast burrito. Would visit again. They also h
+description: 'Dodger pre-game tailgating brunch. 33 Taps is located minutes away from Dodger stadium is a cool sports gastropub. Got the chicken and waffles and the breakfast burrito. Would visit again. They also have trivia night! . . . . .'
 location: Dodger pre-game tailgating brunch
 ---
 

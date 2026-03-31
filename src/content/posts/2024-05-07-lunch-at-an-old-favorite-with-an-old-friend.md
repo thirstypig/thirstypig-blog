@@ -26,7 +26,7 @@ tags:
 - thirstypig
 - tastemaker
 - tastemakers
-description: Lunch at an old favorite with an old friend. I usually go here at least once every time I’m in Taipei. I realize I should have stopped by the one in Tainan - my mistake. My friend and I walked here fr
+description: 'Lunch at an old favorite with an old friend. I usually go here at least once every time I’m in Taipei. I realize I should have stopped by the one in Tainan - my mistake. My friend and I walked here from their tea shop through the underground shopping mall - Zhongshan Metro Mall. I used to live across the street from the Ming Yao mall in the 90’s. And also lived on Yanji street, about a 5 min walk away. I have always enjoyed the East District 東區. I would also bring family and friends here, too. . . .'
 location: Lunch at an old favorite with an old friend
 city: Taipei
 region: Taipei

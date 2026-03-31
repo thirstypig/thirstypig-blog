@@ -16,7 +16,7 @@ tags:
 - pork
 - boudin
 - cracklin
-description: Boudin and Cracklin. Boudin is rice with pork liver, pork meat all in a thin natural casing. Cracklin is fried pork skin with some fat and meat with Cajun spices. I knew I would like the Cracklin, but
+description: 'Boudin and Cracklin. Boudin is rice with pork liver, pork meat all in a thin natural casing. Cracklin is fried pork skin with some fat and meat with Cajun spices. I knew I would like the Cracklin, but I also unexpectedly liked the boudin more. 😊'
 location: Boudin and Cracklin
 city: New Orleans
 region: Louisiana

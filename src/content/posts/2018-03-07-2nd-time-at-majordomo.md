@@ -25,7 +25,7 @@ tags:
 - shotoniphonex
 - humpday
 - bing
-description: 2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy B
+description: '2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy Bo Ssäm (for 4-6 people) arrived. Though it was flavorful - it wasn’t as moist (fatty) as we would have liked. Then the requisite veggie dish came (finally) - the Marinated Mushrooms - which was better than expected. Then they stuffed us with the Japanese shaved ice dessert kakigöri, which was the only repeat from our first visit. Yummy but so full. 謝謝 to FYI pork butt = pork shoulder.'
 location: Majordomo
 city: Downtown LA
 region: Los Angeles

@@ -14,7 +14,7 @@ tags:
 - jianbing
 - ç
 - rowlandheights
-description: Jian Bing from Rowland Heights! This is a Tianjin Jian Bing which is different from the Shanghai ones with the egg on the inside. Inside the Bing we had 3 eggs, a hot dog, a crunchy crisp cracker, and
+description: 'Jian Bing from Rowland Heights! This is a Tianjin Jian Bing which is different from the Shanghai ones with the egg on the inside. Inside the Bing we had 3 eggs, a hot dog, a crunchy crisp cracker, and various sauces and spices. Our Jian Bing maker is from Shandong. Yu Ji Stone Mill Chinese Crepes - on Jellick, near Colima.'
 location: Jian Guo 328 (建国328小馆)
 city: Shanghai
 region: Shanghai

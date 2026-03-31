@@ -23,7 +23,7 @@ tags:
 - rainyday
 - chillyday
 - longasswait
-description: Awesome tasting Japanese Pork Katsu sandwiches from Konbi. Also had the egg omelette sandwich too. Only problem was the crust - I think in Japan, they usually cut off the crust. But Konbi leaves the c
+description: 'Awesome tasting Japanese Pork Katsu sandwiches from Konbi. Also had the egg omelette sandwich too. Only problem was the crust - I think in Japan, they usually cut off the crust. But Konbi leaves the crust on. Also had the canele, which is not pictured. . . .'
 location: Konbi
 city: Downtown LA
 region: Los Angeles

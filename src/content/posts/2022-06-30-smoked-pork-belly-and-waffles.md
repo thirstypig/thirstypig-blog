@@ -24,7 +24,7 @@ tags:
 - porkbelly
 - waffles
 - foodie
-description: Smoked pork belly and waffles. Probably the best thing I had in Austin this time around. Bouldin Acres is the stereotypical Austin joint with outdoor seating, music, and food trucks. But today was but
+description: 'Smoked pork belly and waffles. Probably the best thing I had in Austin this time around. Bouldin Acres is the stereotypical Austin joint with outdoor seating, music, and food trucks. But today was but hotter than comfortable. Anyways . . . Good times and great to hand with old and new friends. . . . . . . .'
 location: Bouldin Acres
 city: Austin
 region: Texas

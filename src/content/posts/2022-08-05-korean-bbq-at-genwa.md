@@ -24,7 +24,7 @@ tags:
 - midwilshire
 - thirstypig
 - tastemakersapp
-description: Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sur
+description: 'Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sure you have soju with your meal. . . . . . .'
 location: Genwa
 ---
 

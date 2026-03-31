@@ -27,7 +27,7 @@ tags:
 - bakedrice
 - peanutbuttertoast
 - eats
-description: 'Stone pot rice with Chinese sausage at a Hong Kong style cafe in Monterey park. Brings back memories of late night meals after a night of drinking. Or when I was stumbling around in LKF, also after a '
+description: 'Stone pot rice with Chinese sausage at a Hong Kong style cafe in Monterey park. Brings back memories of late night meals after a night of drinking. Or when I was stumbling around in LKF, also after a night of drinking, looking for a place to eat (but settling usually with a shawarma). What’s cool about this place is the HK taxi parked right outside and the old movie posters. Was full, but had to also have the peanut butter toast. Friend had the baked rice. Yummy! . . .'
 city: Monterey Park
 region: San Gabriel Valley
 categories:

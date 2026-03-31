@@ -23,7 +23,7 @@ tags:
 - drift
 - initiald
 - cars
-description: Panda tofu drink - black sesame tofu milk and sweet tofu with black sesame dessert. The slightly sweet tofu drink was refreshing. The tofu dessert, which needs to be mixed, ended up being a a little t
+description: 'Panda tofu drink - black sesame tofu milk and sweet tofu with black sesame dessert. The slightly sweet tofu drink was refreshing. The tofu dessert, which needs to be mixed, ended up being a a little too sweet. Really cool cars outside. Toyota Trueno, Nissan Skyline, and Mazda RX-7. Pretty cool looking cars. . . . . . . . .tofu.cafe'
 location: Panda tofu drink
 categories:
 - black sesame tofu milk and sweet tofu with black sesame de...

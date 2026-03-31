@@ -24,7 +24,7 @@ tags:
 - bacon
 - ginger
 - quiche
-description: Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. Smelly sidewalk. And crowded street parking. Thought this place was a foo-foo organic, gluten-free, vegan, bland cafe. Yet, I would re
+description: 'Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. Smelly sidewalk. And crowded street parking. Thought this place was a foo-foo organic, gluten-free, vegan, bland cafe. Yet, I would recommend and return. Everything including the French toast, quiche, drinks, griddle, the rice bowl, and even the cheese was really good. Yummy! . . .'
 location: Sqirl
 city: Silver Lake
 region: Los Angeles

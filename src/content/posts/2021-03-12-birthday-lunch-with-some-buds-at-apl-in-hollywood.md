@@ -21,7 +21,7 @@ tags:
 - hollywood
 - birthday
 - beef
-description: Birthday lunch with some buds at APL in Hollywood. Texas Smokin’ BBQ. Beef brisket. Also had Cornish game hen, pulled pork, pork rib,, creamed corn, and coleslaw. Way too much for lunch. But well wort
+description: 'Birthday lunch with some buds at APL in Hollywood. Texas Smokin’ BBQ. Beef brisket. Also had Cornish game hen, pulled pork, pork rib,, creamed corn, and coleslaw. Way too much for lunch. But well worth it. Been wanting to go to this place ever since they opened. I don’t know how anyone thinks there is a better BBQ brisket in LA. APL is legit And the best! Only wish I had a ordered the giant beef short rib ahead of time. They were out today. ☹️. much 💛 . . . . . . .'
 location: Masonic Lodge at Hollywood Forever
 city: Hollywood
 region: Hollywood

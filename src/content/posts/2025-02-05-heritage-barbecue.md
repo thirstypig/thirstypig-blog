@@ -19,7 +19,7 @@ tags:
 - eeeeats
 - thirstypig
 - tastemakersapp
-description: Heritage Barbecue. We went here last year and I had forgotten to post this. We had plans a couple of weeks before, which had me thinking about it almost every day. I had heard about Heritage from frie
+description: 'TBH . . .I am not sure I would make the drive again, since it is so far. But if I was to go again, I would try to sneak out during the week, not the weekend. Those lines can get long. Though I might not go again, I do recommend. . . . . 💯'
 location: Heritage Barbecue
 ---
 

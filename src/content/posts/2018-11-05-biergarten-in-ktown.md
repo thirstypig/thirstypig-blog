@@ -16,7 +16,7 @@ tags:
 - food
 - ktown
 - nfl
-description: Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice t
+description: 'Biergarten in Ktown. The fried chicken wings were amazing. The chicken sandwich was so-so. And the kalbi poutine was also very good. Also I can’t forget the kimchi Bloody Mary! Yum! Excellent choice to watch football games. Not too crowded and not empty. Former Ram - Ivory Sully and a couple of Rams Cheerleaders helped make the game a little more interesting. . . . .'
 location: Electric Dusk Drive-In
 city: Koreatown
 region: Los Angeles

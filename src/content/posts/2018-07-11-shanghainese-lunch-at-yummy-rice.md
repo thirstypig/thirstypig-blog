@@ -24,7 +24,7 @@ tags:
 - eeeeeats
 - braisedpork
 - ç
-description: Shanghainese lunch at Yummy Rice. Funny name. One of the better shanghainese restaurants in LA. Braised pork was ok. Vegetable fried rice was good. The cold dish of cucumber and diced soy tofu was goo
+description: 'Shanghainese lunch at Yummy Rice. Funny name. One of the better shanghainese restaurants in LA. Braised pork was ok. Vegetable fried rice was good. The cold dish of cucumber and diced soy tofu was good. The spicy wontons and fried fish were even better. Recommend! . . . .'
 location: Sticky Rice
 city: Los Angeles
 region: Los Angeles

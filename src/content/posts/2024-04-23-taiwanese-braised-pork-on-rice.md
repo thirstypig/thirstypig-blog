@@ -23,7 +23,7 @@ tags:
 - tastemakersapp
 - eats
 - eeeeeats
-description: Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯 This a flavorful dish that can be found in almost any street stall. This place has been around for awhile an
+description: 'Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯 This a flavorful dish that can be found in almost any street stall. This place has been around for awhile and usually has a wait. . . .'
 location: 阿宗麵線 Ay-Chung Flour-Rice Noodle
 city: Taipei
 region: Taipei

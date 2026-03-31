@@ -23,7 +23,7 @@ tags:
 - duck
 - eats
 - eeeeeats
-description: 'Valentine’s Day dinner at Bavel. Mediterranean/Middle Eastern cuisine. Excellent food, great service, and wonderful decor. Make sure you get the oyster mushrooms - my favorite of the night. . . . . . '
+description: 'Valentine’s Day dinner at Bavel. Mediterranean/Middle Eastern cuisine. Excellent food, great service, and wonderful decor. Make sure you get the oyster mushrooms - my favorite of the night. . . . . . .'
 location: Bavel
 city: Downtown LA
 region: Los Angeles

@@ -18,7 +18,7 @@ tags:
 - topchef
 - restaurant
 - ewwww
-description: pork belly, chicken karage, and fried beets was great as was the spicy chicken karage (Thai style). The beets had good texture and subtle flavor. Could do without the aioli. Too many ants on the picni
+description: 'pork belly, chicken karage, and fried beets was great as was the spicy chicken karage (Thai style). The beets had good texture and subtle flavor. Could do without the aioli. Too many ants on the picnic table.'
 location: East Side King
 categories:
 - and fried beets   was great as was the spicy chic...

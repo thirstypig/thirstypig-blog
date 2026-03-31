@@ -12,7 +12,7 @@ images:
 - /images/posts/ig-2017-05-27-one-of-texas-monthlys-top-50-bbq-2017/17858275294145024.jpg
 tags:
 - txbbqpassport
-description: One of Texas Monthly's top 50 BBQ 2017 - . Outstanding Beef Ribs, spicy sausage, corn casserole, and coleslaw. The mustard was great with the sausage. But the brisket was a bit dry and the baby back r
+description: 'One of Texas Monthly''s top 50 BBQ 2017 - . Outstanding Beef Ribs, spicy sausage, corn casserole, and coleslaw. The mustard was great with the sausage. But the brisket was a bit dry and the baby back ribs were adequate.'
 location: Stiles Switch BBQ & Brew
 city: Austin
 region: Texas

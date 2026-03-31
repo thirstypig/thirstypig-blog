@@ -21,7 +21,7 @@ tags:
 - koreanfood
 - koreancuisine
 - weekend
-description: Gamjatang and Bo-Ssam. The Gamjatang, pork neck with potatoes had good flavor and texture. But it was a challenge to pick and eat the meat. The Bo-Ssam, the boiled pork belly, was messy but yummy with
+description: 'Gamjatang and Bo-Ssam. The Gamjatang, pork neck with potatoes had good flavor and texture. But it was a challenge to pick and eat the meat. The Bo-Ssam, the boiled pork belly, was messy but yummy with the cabbage wraps and sauces. . . . . . . ❤️❤️❤️'
 location: Stories Books & Cafe
 city: Koreatown
 region: Los Angeles

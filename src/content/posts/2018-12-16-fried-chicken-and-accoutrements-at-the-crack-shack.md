@@ -23,7 +23,7 @@ tags:
 - chicken
 - friedchicken
 - clevelandbrownswin
-description: Fried chicken and accoutrements at The Crack Shack. Fried chicken with sauces, biscuits, deviled eggs, and schmaltz fries. So glad opened one in Pasadena. Good food with good people. So glad the Laker
+description: 'Fried chicken and accoutrements at The Crack Shack. Fried chicken with sauces, biscuits, deviled eggs, and schmaltz fries. So glad opened one in Pasadena. Good food with good people. So glad the Lakers won and the Browns won! . . .'
 city: Pasadena
 region: Pasadena
 categories:

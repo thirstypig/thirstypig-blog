@@ -20,7 +20,7 @@ tags:
 - artdistrictla
 - dtla
 - iphone
-description: 'Sausage and fries for lunch at Wurstküche in the Arts District in DTLA. Yum! Duck and bacon sausage and bratwurst sausage and large fries. Fries with curry ketchup and Thai peanut sauce. I really dig '
+description: 'Sausage and fries for lunch at Wurstküche in the Arts District in DTLA. Yum! Duck and bacon sausage and bratwurst sausage and large fries. Fries with curry ketchup and Thai peanut sauce. I really dig the crunchy fries. I like the texture more than anything since the fries taste is a bit bland without sauce. . .'
 location: Wurstküche
 city: Downtown LA
 region: Los Angeles

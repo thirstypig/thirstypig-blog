@@ -21,7 +21,7 @@ tags:
 - friedfish
 - pork
 - egg
-description: Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu strips, fried egg with vegetables, and steamed pork with some sort of flour. I almost have no idea how to describe/name these dishes. Bu
+description: 'Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu strips, fried egg with vegetables, and steamed pork with some sort of flour. I almost have no idea how to describe/name these dishes. But so good and spicy. Did I tell you that this place is spicy??? Hunan Mao Restaurant . . . .'
 location: Hunanese dinner
 city: San Gabriel Valley
 region: San Gabriel Valley

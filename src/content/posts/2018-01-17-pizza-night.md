@@ -23,7 +23,7 @@ tags:
 - margheritapizza
 - allandujapizza
 - allanduja
-description: Pizza Night . Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable wi
+description: 'Pizza Night . Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable with the spicy broth. The pizza crust had a nice texture and chewiness. The spaghetti with crab meat was also very good. Overall was a success! sorry for the Alla’njuda pizza picture being out of focus.'
 location: Tuesday Night Cafe
 city: Downtown LA
 region: Los Angeles

@@ -19,7 +19,7 @@ tags:
 - sandwiches
 - godmother
 - baycitiesdeli
-description: The Godmother at Bay Cities Italian Deli in Santa Monica. One of LA’s favorite sandwiches. But not mine. The bread is almost unbearably hard and rips the roof of my mouth. The meats and cheese were qu
+description: 'The Godmother at Bay Cities Italian Deli in Santa Monica. One of LA’s favorite sandwiches. But not mine. The bread is almost unbearably hard and rips the roof of my mouth. The meats and cheese were quite good. Make sure you order ahead or look for the premise sandwiches to save time. . . .'
 location: Bay Cities Italian Deli & Bakery
 city: Santa Monica
 region: Westside

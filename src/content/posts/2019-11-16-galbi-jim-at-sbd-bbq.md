@@ -24,7 +24,7 @@ tags:
 - beefrib
 - eeeeeats
 - eat
-description: Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to the SGV. Known as SBD Korean Bbq - they offer their traditional dishes, that made them well known, but also offering DIY kbbq. Their Ga
+description: 'Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to the SGV. Known as SBD Korean Bbq - they offer their traditional dishes, that made them well known, but also offering DIY kbbq. Their Galbi Jjim sauce is outstanding but it appears that the quality of beef rib could have been of high quality and more tender. We also had the spicy Galbi Jjim, cold noodles, kimchi Jeon, spicy pork, tofu soup. I really liked the kimchi jeon - the kimchi pancake. . . . .🍖'
 location: Galbi Jim at SBD BBQ
 city: San Gabriel Valley
 region: San Gabriel Valley

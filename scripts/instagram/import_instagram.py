@@ -392,10 +392,10 @@ def write_instagram_post(post: dict) -> str:
     if venue_info.get('region'):
         frontmatter['region'] = venue_info['region']
 
-    # Build description
+    # Build description (full caption, cleaned of hashtags/mentions)
     if post['caption']:
         desc = re.sub(r'[#@]\w+', '', post['caption'])
-        desc = re.sub(r'\s+', ' ', desc).strip()[:200]
+        desc = re.sub(r'\s+', ' ', desc).strip()
         if desc:
             frontmatter['description'] = desc
 

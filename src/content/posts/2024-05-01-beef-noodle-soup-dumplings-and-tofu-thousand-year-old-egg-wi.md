@@ -23,7 +23,7 @@ tags:
 - taiwanesebeefnoodlesoup
 - taiwanesecooking
 - taiwanese
-description: Beef Noodle Soup, dumplings, and tofu + thousand year old egg with my cousin in Hualien. This is one of favorites growing up in Hualien. The beef noodle soup has a nice hearty but not overpowering bro
+description: 'Beef Noodle Soup, dumplings, and tofu + thousand year old egg with my cousin in Hualien. This is one of favorites growing up in Hualien. The beef noodle soup has a nice hearty but not overpowering broth. The noodles have a nice “Q” or bouncy texture. The beef chunks were tender but somehow a little dry. Overall I dig it. . . .🍜 🇹🇼'
 location: Beef Noodle Soup, dumplings
 categories:
 - and tofu + thousand year old egg with my cousin ...

@@ -24,7 +24,7 @@ tags:
 - eats
 - tastemakersapp
 - homemadefood
-description: Had A-sha newest noodles - Meteor noodles. Great texture and flavor. Noodles did a good job in soaking up the sauce. There’s a sign up on the link in the description. Asha was started by my good frien
+description: 'Had A-sha newest noodles - Meteor noodles. Great texture and flavor. Noodles did a good job in soaking up the sauce. There’s a sign up on the link in the description. Asha was started by my good friends in Taiwan. Nice to see how popular they now are. 加油！ . . . . .'
 categories:
 - Meteor noodles
 ---

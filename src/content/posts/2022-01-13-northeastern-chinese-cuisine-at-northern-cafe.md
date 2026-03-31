@@ -25,7 +25,7 @@ tags:
 - lamb
 - pork
 - beefroll
-description: Northeastern Chinese Cuisine at Northern Cafe. 東北菜 is one of the more under appreciated cuisines in my humble opinion. Dumplings and noodles are the hallmarks of Northeastern Chinese Cuisine. We had l
+description: 'Northeastern Chinese Cuisine at Northern Cafe. 東北菜 is one of the more under appreciated cuisines in my humble opinion. Dumplings and noodles are the hallmarks of Northeastern Chinese Cuisine. We had lamb skewers, pork pancake, beef roll, house special knife cut noodles, sauerkraut pickled pepper beef noodles, braised pork belly, and their house special soup. It return again to try their northern style hotpot and their dumplings. It’s also cool that they have private dining rooms and liquor lockers too. . . . . . .cafe .northern'
 location: Northern Cafe
 city: Temple City
 region: San Gabriel Valley

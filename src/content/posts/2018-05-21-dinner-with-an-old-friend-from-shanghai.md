@@ -26,7 +26,7 @@ tags:
 - branzino
 - spaghetti
 - linguine
-description: 'Dinner with an old friend from Shanghai. Got a same day reservation at Babbo. Mario Batali and Joe Bastianich’s Italian restaurant. We started off by sharing a baby wild arugula salad. Then I had the '
+description: 'Dinner with an old friend from Shanghai. Got a same day reservation at Babbo. Mario Batali and Joe Bastianich’s Italian restaurant. We started off by sharing a baby wild arugula salad. Then I had the linguine with clams, pancetta, and hot chilies. Wife had the black spaghetti with rock shrimp, spicy salami, calabrese, and green chilies. And our friend got the cavatelli with Costolettr di maiale. Unfortunately I can re-pronounce, nor remember what some of these dishes are unless I look at the picture. But I know they tasted good and had great texture. We also shared a whole grilled branzino - light flakey and just right. Might have been too much food. But it was good. I wasn’t really looking for anything high end on this trip, but Babbo’s availability opened up - and I couldn’t refuse. Pricey, but well worth it. . . .'
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai

@@ -18,7 +18,7 @@ tags:
 - chimichangas
 - eeeeeats
 - eat
-description: Chorizo and Steak Tacos from Sonoratown in DTLA. Excellent tortillas and the chorizo was awesome. Wish they had a pork option. The beef chimichanga was also yummy - just enough spice. I would visit ag
+description: 'Chorizo and Steak Tacos from Sonoratown in DTLA. Excellent tortillas and the chorizo was awesome. Wish they had a pork option. The beef chimichanga was also yummy - just enough spice. I would visit again. 2nd Stop of the Taco Crawl DTLA. Omg I am so full!!! . . . .'
 location: Sonoratown
 city: Downtown LA
 region: Los Angeles

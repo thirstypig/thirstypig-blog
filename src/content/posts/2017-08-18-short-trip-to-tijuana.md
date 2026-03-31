@@ -22,7 +22,7 @@ tags:
 - shopping
 - museums
 - carnitas
-description: Short trip to Tijuana. Got to visit Hotel Caesar for the famous Caesar Salad. walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican
+description: 'Short trip to Tijuana. Got to visit Hotel Caesar for the famous Caesar Salad. walked a bit on Avenida Revolución, visit Mercado Hidalgo, history museum of Tijuana, bought a Los Angeles Dodgers Mexican Backpack, and had some carnitas tacos. Met a nice retired cop, named Mario, who owned a store and gave us great tips! Drove a total of 5.5 hours round trip. Would visit again!'
 location: Short Stop
 city: Los Angeles
 categories:

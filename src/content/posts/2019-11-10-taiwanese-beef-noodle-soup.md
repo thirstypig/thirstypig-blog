@@ -16,7 +16,7 @@ tags:
 - taiwanesefood
 - beefnoodlesoup
 - sgv
-description: Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot heart
+description: 'Taiwanese Beef Noodle Soup! Might still be the best in Southern California. Wifey had the pig knuckle and rice. Unfortunate the sides were not so good - sausage, tofu skin, and cucumber. The hot hearty soup had great savory spicy seasoned flavor. Great on a chilly day. . . . .'
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley

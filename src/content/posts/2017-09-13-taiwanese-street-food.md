@@ -25,7 +25,7 @@ tags:
 - chinatownla
 - thirstypig
 - å
-description: Taiwanese street food - . We had the beef Ban Mien (noodles) - 牛肉麵. The broth was rich and slightly spicy - very good. Noodles were interesting but good - soaked up the broth. Loved the pickled mustar
+description: 'Taiwanese street food - . We had the beef Ban Mien (noodles) - 牛肉麵. The broth was rich and slightly spicy - very good. Noodles were interesting but good - soaked up the broth. Loved the pickled mustard greens, could use that on everything. Wish is was hotter (not lukewarm). Then had the Rub A Belley with rice - braised pork over rice 滷肉飯. The chunks were too big and wish for more seasoning like dried onions and shallots for depth. Not sure what creamed corn was there for. The Taiwanese sausage was yummy. I remembering that we used to play dice for sausage on the streets of Taipei outside of the clubs. The oh Ah Jian (oyster egg omelette) had nice spicy kick. (I would guess this is a tough sell as well as the next one). The favorite dish was clearly the century egg tofu salad 皮蛋豆腐 when you get this, make sure you mix everything up to merry the flavors. I wouldn’t change anything with this dish. Am I too critical - maybe. Would I come back - yes. Sorry for the wall of txt. . . .'
 location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei

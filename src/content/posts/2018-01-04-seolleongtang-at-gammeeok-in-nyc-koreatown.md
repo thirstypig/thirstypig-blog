@@ -21,7 +21,7 @@ tags:
 - ktownnyc
 - coldwintersnight
 - thirstypig
-description: Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are the best for a cold winter night. We also had the spicy oxtail soup (Sogogi Gukbap) and kimchi pancake (Jeon). Unfortunately the seolleon
+description: 'Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are the best for a cold winter night. We also had the spicy oxtail soup (Sogogi Gukbap) and kimchi pancake (Jeon). Unfortunately the seolleongtang was not popping hot and the broth was slightly lacking in flavor - had to pepper it more than usual. But the Sogogi Gukbap was really good and flavorful, without any help. The kimchi jeon was decent.'
 location: Gammeeok
 city: Koreatown
 region: Koreatown

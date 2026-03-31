@@ -24,7 +24,7 @@ tags:
 - kimchifriedrice
 - thirstypig
 - baekjeongbbq
-description: Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight
+description: 'Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight, we had beef brisket and spicy pork belly. The brisket was great but the spicy pork belly was too sweet. I liked the kimchi fried rice a lot, with the box shaking presentation.'
 location: The Little Jewel of New Orleans
 city: Koreatown
 region: Los Angeles

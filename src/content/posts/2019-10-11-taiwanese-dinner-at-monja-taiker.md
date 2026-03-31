@@ -23,7 +23,7 @@ tags:
 - eater
 - eat
 - shavedice
-description: Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage
+description: 'Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage on rice, and spicy wontons. Unfortunately the rice was too sticky (too much water). Other than that, we liked everything. I think we would return. . . . . .'
 location: Monja Taiker
 city: Rosemead
 region: San Gabriel Valley

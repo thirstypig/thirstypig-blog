@@ -21,7 +21,7 @@ tags:
 - arcadia
 - sgv
 - barleytea
-description: 'Korean dinner with the family. Soondubu - spicy tofu with beef and kimchi. Also had cold noodles with vinegar and mustard. Beef bulgogi and beef ribs galbi. I liked the rice that was also cooked in a '
+description: 'Korean dinner with the family. Soondubu - spicy tofu with beef and kimchi. Also had cold noodles with vinegar and mustard. Beef bulgogi and beef ribs galbi. I liked the rice that was also cooked in a hot stone bowl. . . . .'
 location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley

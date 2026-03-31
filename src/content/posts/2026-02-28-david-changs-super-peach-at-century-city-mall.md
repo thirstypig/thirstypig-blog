@@ -12,7 +12,7 @@ tags:
 - superpeach
 - davidchang
 - pork
-description: David Chang’s Super Peach at century city mall. Had the savory donut - with curry, the spicy green salad, and pork belly ssam. TBH the pork belly ssam wasn’t what I was expecting. I was expecting a th
+description: 'David Chang’s Super Peach at century city mall. Had the savory donut - with curry, the spicy green salad, and pork belly ssam. TBH the pork belly ssam wasn’t what I was expecting. I was expecting a thinly sliced traditional version. But this was pretty good.'
 location: David Chang’s Super Peach at century city mall
 ---
 

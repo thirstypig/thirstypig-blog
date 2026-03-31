@@ -21,7 +21,7 @@ tags:
 - holeinthewall
 - beach
 - driftwood
-description: Rialto Beach and the Hole-in-the-wall. Some of 20k steps later and lots of complaining we did a jaunt or walk along the picturesque and driftwood strewn beach. We almost made it to the Hole-in-the-wal
+description: 'Rialto Beach and the Hole-in-the-wall. Some of 20k steps later and lots of complaining we did a jaunt or walk along the picturesque and driftwood strewn beach. We almost made it to the Hole-in-the-wall, but it was getting late and the tides were coming in(or out - not sure, or maybe I was complaining too much). After reflecting on the walk, I had no regrets in enjoying this experience. I started off with layer after layer on this breezy beach, but by the time we finished I tore almost everything off since I was overheating and sweating. This is a do not miss in Olympic national park in the PNW. . . .'
 location: Rialto Beach and the Hole-in-the-wall
 ---
 

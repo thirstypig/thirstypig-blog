@@ -22,7 +22,7 @@ tags:
 - friedchicken
 - japanesefood
 - noodles
-description: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. At
+description: 'Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. Ate too fast. . . . . .iwamiya'
 location: Hironori Craft Ramen
 city: Pasadena
 region: Pasadena

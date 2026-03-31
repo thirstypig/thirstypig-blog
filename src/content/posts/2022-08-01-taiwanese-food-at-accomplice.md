@@ -21,7 +21,7 @@ tags:
 - whiskey
 - whisky
 - japanesewhisky
-description: Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. Only tried fried tofu and the scallion pancakes. But I think the sauce is more Shanghainese with the sweetness. I am mor
+description: 'Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. Only tried fried tofu and the scallion pancakes. But I think the sauce is more Shanghainese with the sweetness. I am more used to a spicier and less sweet sauce for tifu. And the scallion pancakes, not sure of the vinegar sauce dipping sauce. I think this is more of a china flavor. Plus I think the scallion pancakes seems deep fried rather than the traditional pan fried. I get that this catering more to an American palate. Perhaps the chef is from china, instead of Taiwan. Next time I want to the other dishes. Regardless this is a cool car with a good selection of whiskeys. Almost had the full selection of Nikki whiskeys, they were missing the takesuru and days. I had a glass of the buffalo trace bourbon. They also had a really good green cocktail that was spicy. That was really good. . . . . . .'
 location: The Bar At Culver Hotel
 city: Culver City
 region: Los Angeles

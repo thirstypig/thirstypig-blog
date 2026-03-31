@@ -25,7 +25,7 @@ tags:
 - cajunrice
 - mexicancorn
 - oc
-description: Smoked meats at Wholly Smokes. Brisket, pork ribs, Tri tip, and a bunch of sides. I liked the Cajun rice, fatty beef, and the spicy bbq sauce. Cool venue with a large draft beer selection. Friendly ow
+description: 'Smoked meats at Wholly Smokes. Brisket, pork ribs, Tri tip, and a bunch of sides. I liked the Cajun rice, fatty beef, and the spicy bbq sauce. Cool venue with a large draft beer selection. Friendly owners and nice neighborhood vibe. . . . . . .'
 location: Smoked meats at Wholly Smokes
 ---
 

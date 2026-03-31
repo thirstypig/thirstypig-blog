@@ -22,7 +22,7 @@ tags:
 - chickenramen
 - chickenskin
 - taipeirestaurant
-description: Some good ass noodles. Hearty chicken broth that was over the top rich and not too savory. The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen. Unexpect
+description: 'Some good ass noodles. Hearty chicken broth that was over the top rich and not too savory. The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen. Unexpectedly yummy. No wonder there was a line waiting outside in the humid sun. . . .'
 location: 張家清真黃牛肉麵館 Chang's Halal beef Noodles
 city: Taipei
 region: Taipei

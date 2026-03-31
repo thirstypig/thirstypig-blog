@@ -21,7 +21,7 @@ tags:
 - dodgers
 - ä
 - é¹½é
-description: Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - thr
+description: 'Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - three cup chicken, grilled sausage, cabbage with pork belly, popcorn chicken, egg, and soup. Yum. I think I’ve had this combination almost every time. Also I like this place since we can watch the dodgers and lakers. . . . .'
 location: Indian Beer House
 city: San Gabriel Valley
 region: San Gabriel Valley

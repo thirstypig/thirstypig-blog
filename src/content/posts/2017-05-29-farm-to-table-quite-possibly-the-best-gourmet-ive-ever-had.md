@@ -20,7 +20,7 @@ tags:
 - atx
 - oddduck
 - lunch
-description: farm to table quite possibly the best gourmet I've ever had. The the texture of the corn tostada, the sponge-ness of the buns, and the creaminess of the sauce was awesome. . Please note this burger is
+description: 'farm to table quite possibly the best gourmet I''ve ever had. The the texture of the corn tostada, the sponge-ness of the buns, and the creaminess of the sauce was awesome. . Please note this burger is only served at lunch M-F.'
 city: Austin
 region: Texas
 location: Odd Duck

@@ -25,7 +25,7 @@ tags:
 - apl
 - barbecue
 - bbq
-description: APL Barbecue. Adam Perry Lang, BBQ Hall of Famer, in my neck of the woods! APL, a YETI brand ambassador, has a new barbecue joint featuring smoked Beef Ribs! Though there’s no brisket, I feel beef rib
+description: 'APL Barbecue. Adam Perry Lang, BBQ Hall of Famer, in my neck of the woods! APL, a YETI brand ambassador, has a new barbecue joint featuring smoked Beef Ribs! Though there’s no brisket, I feel beef ribs is the holy grail of smoking. It’s unfortunate that Moo’s craft and Slab rarely serve beef rib, I’m glad APL has them. It’s strange that Angelenos haven’t realized how good beef ribs are. Anyways. Check out the big beef rib, the pork rib sandwich, cornbread, and the sides. . . . . . . .'
 location: Slabs Barbecue
 city: Pasadena
 region: San Gabriel Valley

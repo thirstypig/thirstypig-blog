@@ -19,7 +19,7 @@ tags:
 - noodles
 - beef
 - frenchbread
-description: Vietnamese Dinner tonight at we had pho and chicken curry. The pho is a favorite of my wife’s. I’m ok with it. It’s not something I would go out of my way to choose or order. Therefore my selection of
+description: 'Vietnamese Dinner tonight at we had pho and chicken curry. The pho is a favorite of my wife’s. I’m ok with it. It’s not something I would go out of my way to choose or order. Therefore my selection of chicken curry with French bread was my pick. The soupy curry, similar to Thai, is not as thick as Japanese - it doesn’t matter much to me.... the chicken quite tender and juicy - which is great but they had bones. I don’t like bones in my curry (Canto cafes curry also has bones 🤬). But I did like the soft crunchy bread used for dipping in the curry. I like this use of carbs.'
 location: Pulciano's Deli & Cafe
 city: San Gabriel
 region: San Gabriel Valley

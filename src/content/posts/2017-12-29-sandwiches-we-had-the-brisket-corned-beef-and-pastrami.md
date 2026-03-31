@@ -26,7 +26,7 @@ tags:
 - cornedbeef
 - brisket
 - maztoballsoup
-description: 'Sandwiches we had the brisket, corned beef, and pastrami. With the chicken noodle and matzo ball soups. Without the mustard the brisket was quite dry. The corned beef wasn’t as tender as it could be. '
+description: 'Sandwiches we had the brisket, corned beef, and pastrami. With the chicken noodle and matzo ball soups. Without the mustard the brisket was quite dry. The corned beef wasn’t as tender as it could be. The pastrami is still what needs to be ordered. The mazto ball soup was a bit too salty and the chicken noodle was much better than expected. This is the busiest week of the year, in which we waited over 45 minutes for a table. And after all my complaints, Katz is still worth it.'
 location: The Well
 city: New York
 categories:

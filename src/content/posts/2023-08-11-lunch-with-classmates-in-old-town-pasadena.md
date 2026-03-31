@@ -20,7 +20,7 @@ tags:
 - vegan
 - healthy
 - vegetarian
-description: Lunch with classmates in Old Town Pasadena. Trying to be healthy - so we decided on Sage Bistro - vegan cuisine. Awesome space with a nice outdoor patio. I remember this space was brewery when it firs
+description: 'Lunch with classmates in Old Town Pasadena. Trying to be healthy - so we decided on Sage Bistro - vegan cuisine. Awesome space with a nice outdoor patio. I remember this space was brewery when it first opened. Anyways . . . We had the street tacos with carnitas (jackfruit with carnitas seasoning). It was quite yummy. Also had the grilled chicken (tofu) salad. Both were really good. Also I saw they had a Bloody Mary, but this time I had it with mezcal instead of vodka. Would visit again and would recommend! . . . . . .'
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena

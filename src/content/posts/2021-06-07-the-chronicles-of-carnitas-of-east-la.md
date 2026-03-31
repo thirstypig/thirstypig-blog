@@ -22,7 +22,7 @@ tags:
 - eeeeeats
 - eats
 - pork
-description: The Chronicles of Carnitas of East LA. Starting off with the Zamora Bros. Heard about these guys awhile ago. Had three tacos and torta. And also had a half pound of the chicharrones. The torta was exc
+description: 'The Chronicles of Carnitas of East LA. Starting off with the Zamora Bros. Heard about these guys awhile ago. Had three tacos and torta. And also had a half pound of the chicharrones. The torta was excellent with the cheese. Next time I will have a torta with everything on it. Anyways, I think the Zamora Bros has the best chicharrones in town. . . . . . . . .eastla'
 location: The Little Jewel of New Orleans
 city: Los Angeles
 region: Los Angeles

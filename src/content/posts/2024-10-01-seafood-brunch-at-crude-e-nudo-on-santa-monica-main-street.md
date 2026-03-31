@@ -22,7 +22,7 @@ tags:
 - tuna
 - tunatartare
 - fishcollar
-description: Seafood brunch at Crude e Nudo on Santa Monica Main Street. Cool little sidewalk cafe with fresh seafood. Had the roasted fish collars, chickpea toast, and tuna tartare toast. Everything was yummy. Wo
+description: 'Seafood brunch at Crude e Nudo on Santa Monica Main Street. Cool little sidewalk cafe with fresh seafood. Had the roasted fish collars, chickpea toast, and tuna tartare toast. Everything was yummy. Would certainly visit again and would recommend. . . .'
 location: Crudo e Nudo
 city: Santa Monica
 region: Westside

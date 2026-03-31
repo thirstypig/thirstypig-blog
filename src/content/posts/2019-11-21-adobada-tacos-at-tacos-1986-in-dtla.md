@@ -23,7 +23,7 @@ tags:
 - vampiros
 - eeeeeats
 - eat
-description: Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yu
+description: 'Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yummy. Also good to have some Topo Chico, Mexican Sparkling Water. First stop of the DTLA Taco Crawl! . . . .'
 location: Ave 26 Tacos
 city: Downtown LA
 region: Los Angeles

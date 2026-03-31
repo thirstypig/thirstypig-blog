@@ -18,7 +18,7 @@ tags:
 - gododgers
 - shotoniphone
 - iphonefood
-description: Roast chicken rice plate and chicken salad. Wife stole my chicken leg. 🐷😩 Also had the chicken bone broth - good for a chilly day. Unfortunately quite salty (had to dilute with ice water). please chec
+description: 'Roast chicken rice plate and chicken salad. Wife stole my chicken leg. 🐷😩 Also had the chicken bone broth - good for a chilly day. Unfortunately quite salty (had to dilute with ice water). please check the broth before serving!!'
 location: Del Sol Salon & Spa
 city: Arcadia
 region: San Gabriel Valley

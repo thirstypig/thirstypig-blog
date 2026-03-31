@@ -22,7 +22,7 @@ tags:
 - pork
 - fish
 - soup
-description: Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid q
+description: 'Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid quality and grubbing. First time here. Would return. May Mei Restaurant. . . . .'
 location: Friends of Foster Children
 city: Arcadia
 region: San Gabriel Valley

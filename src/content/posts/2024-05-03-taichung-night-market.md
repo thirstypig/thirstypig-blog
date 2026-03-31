@@ -25,7 +25,7 @@ tags:
 - tastemakers
 - tastemakersapp
 - eats
-description: Taichung Night Market. Lots of yummy things to eat. Lots of people, families, and kids. It has been a long time since I have been to a Taiwanese night market. Enjoyed it but I don’t think I could stay
+description: 'Taichung Night Market. Lots of yummy things to eat. Lots of people, families, and kids. It has been a long time since I have been to a Taiwanese night market. Enjoyed it but I don’t think I could stay too long. It was a warm night. Plus some of the things were a bit questionable even though they smelled good. . . .'
 location: Taichung Night Market
 ---
 

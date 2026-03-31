@@ -18,7 +18,7 @@ tags:
 - japanesefood
 - nyc
 - thirstypig
-description: I can’t believe how cold it is in NYC. This is the fourth ramen shop we’ve tried. I had the Triple Pork Triple Garlic Mazemen and wifey had the spicy red chili ramen. We started with the Japanese Frie
+description: 'I can’t believe how cold it is in NYC. This is the fourth ramen shop we’ve tried. I had the Triple Pork Triple Garlic Mazemen and wifey had the spicy red chili ramen. We started with the Japanese Fried Chicken. All three had big bold flavors, which I believe is the “go big or go home” thought. The chicken felt Americanized, along the lines of something orange with the sweet crust. I liked the spicy red chili ramen more than my selection with the hearty broth. I did like the big chunk of pork and the soft boiled egg. Next time, I’d like to try the more traditional ramens.'
 location: dzine it
 city: New York
 region: New York

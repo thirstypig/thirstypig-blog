@@ -20,7 +20,7 @@ tags:
 - tastemakersapp
 - eats
 - eeeeeats
-description: The Cubano at Porto’s. . . . I was just expecting to order some potato balls or pastries. But since I haven't been to Porto's in awhile, I was too familiar with their menu. I saw that they had the Cub
+description: 'I was just expecting to order some potato balls or pastries. But since I haven''t been to Porto''s in awhile, I was too familiar with their menu. I saw that they had the Cubano! This cuban sandwich, with ham and roasted pork with cheese, is one of my all time favorite sandwiches. When I see it anywhere I almost always order it. And the Porto''s version did not disappoint! . . .'
 location: Porto's Bakery
 city: Glendale
 region: San Fernando Valley

@@ -26,7 +26,7 @@ tags:
 - louisville
 - kentucky
 - bourbondistillery
-description: 'The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store '
+description: 'The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store the bourbon, called a Rickhouse, they have a cool showcase bar lounge. The owner and founder was in tech and had a company that merged with Earthink! . . . . . .'
 city: Bardstown
 categories:
 - Bardstown Bourbon ...

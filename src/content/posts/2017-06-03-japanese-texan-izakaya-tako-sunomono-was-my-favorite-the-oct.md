@@ -25,7 +25,7 @@ tags:
 - izakaya
 - chicken
 - rice
-description: 'Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese '
+description: 'Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese and brisket) are recommended. No need to order the Tamale (sticky rice with beef tongue) and chicken meat ball - both ok, nothing to write home about.'
 region: Texas
 categories:
 - Oc

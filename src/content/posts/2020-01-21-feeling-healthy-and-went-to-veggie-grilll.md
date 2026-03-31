@@ -15,7 +15,7 @@ tags:
 - eeeeeats
 - eat
 - sunsetblvd
-description: Feeling healthy and went to Veggie Grilll. Had the Santa Fe Crispy Chickin’ and a side of Mac and cheese. The sandwich was surprisingly good. The Mac and cheese was tasteless. Ugh. I was told if I eat
+description: 'Feeling healthy and went to Veggie Grilll. Had the Santa Fe Crispy Chickin’ and a side of Mac and cheese. The sandwich was surprisingly good. The Mac and cheese was tasteless. Ugh. I was told if I eat meatless lunches I am less likely to fall asleep after lunch. Might try once a week . . . . . .'
 location: Veggie Grill - Hollywood DOME
 city: Hollywood
 region: Los Angeles

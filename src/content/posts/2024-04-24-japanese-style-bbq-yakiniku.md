@@ -27,7 +27,7 @@ tags:
 - beef
 - pork
 - chicken
-description: Japanese style bbq - yakiniku. High quality meats and good times with old friends. Various grades of beef, chicken, and pork. The chicken rice was good, which turned into a nice flavorful rice porridg
+description: 'Japanese style bbq - yakiniku. High quality meats and good times with old friends. Various grades of beef, chicken, and pork. The chicken rice was good, which turned into a nice flavorful rice porridge. Located just north of the Songshan airport in a newish shopping mall, Noke. I believe I saw this place was reviewed by the Michelin guide. . . . .04'
 location: Japanese style bbq
 categories:
 - yakiniku

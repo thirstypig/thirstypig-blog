@@ -20,7 +20,7 @@ tags:
 - taiwanese
 - taiwanesefood
 - taiwanesebeefnoodle
-description: Local dumpling joint not far from where I am staying. Steamed dumplings with both puffy bread-like skin and thin skinned dumplings. I prefer the thin skinned ones. They more on the menu that I want to
+description: 'Local dumpling joint not far from where I am staying. Steamed dumplings with both puffy bread-like skin and thin skinned dumplings. I prefer the thin skinned ones. They more on the menu that I want to try. . . . 🇹🇼'
 location: where I am staying
 ---
 

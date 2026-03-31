@@ -25,7 +25,7 @@ tags:
 - japaneserestaurant
 - eats
 - eeeeeats
-description: My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses
+description: 'My buddy’s birthday dinner at 破壞者珈琲食堂. Excellent food and good times. Good to see an old friends and make new ones. Cozy Japanese restaurant smack dab in the middle of Taipei. We had countless courses of food and wine. I’d certainly return and would recommend. . . .'
 location: Komeda’s Coffee (客美多咖啡)
 city: Taipei
 region: Taipei

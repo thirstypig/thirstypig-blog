@@ -14,7 +14,7 @@ tags:
 - nfl
 - football
 - fantasyfootball
-description: At the Rams game for Monday Night Football. Enjoying a the Rams taking on the Dolphins and wondering why I traded away Tyreek Hill - he did ok - only 2 catches, but still my fantasy team stinks and is
+description: 'At the Rams game for Monday Night Football. Enjoying a the Rams taking on the Dolphins and wondering why I traded away Tyreek Hill - he did ok - only 2 catches, but still my fantasy team stinks and is in last place 😢🥲. . . .'
 location: At the Rams game for Monday Night Football
 ---
 

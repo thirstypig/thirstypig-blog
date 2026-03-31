@@ -1,7 +1,7 @@
 ---
-title: Had a chance to visit Lou’s Café in Westwood thought it...
+title: Had a chance to visit Liu’s Café in Westwood thought it...
 pubDate: 2026-03-13T00:00:00.000Z
-description: Had a chance to visit Lou’s Café in Westwood thought it was really good. I kinda like this interior better than the Ktown one I like the counter. It’s kind of cool to sit at a counter. This time we ha
+description: 'Had a chance to visit Lou’s Café in Westwood thought it was really good. I kinda like this interior better than the Ktown one I like the counter. It’s kind of cool to sit at a counter. This time we had the chicken rice and also the Hong Kong style toast. The toast was really good at inside. It had condensed milk, which is sweet. It’s actually a really tasty dessert. Again I would recommend and I would visit again. Just like the ktown one. Amazingly they have a nice following with small menu.'
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/18317145559253607.jpg
 tags:

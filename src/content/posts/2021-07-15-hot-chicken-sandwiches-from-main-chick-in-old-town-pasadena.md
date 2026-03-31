@@ -21,7 +21,7 @@ tags:
 - eeeeeats
 - eats
 - oldtownpasadena
-description: Hot chicken sandwiches from Main Chick in old town Pasadena. Got the dark meat chicken sandwich with mild spiciness. I know I couldn’t handle anything spicier. Also got some spiced fries, coke slaw, a
+description: 'Hot chicken sandwiches from Main Chick in old town Pasadena. Got the dark meat chicken sandwich with mild spiciness. I know I couldn’t handle anything spicier. Also got some spiced fries, coke slaw, and some Mac and cheese. The dark meat is juicy and had a nice mouth feel with the tender chicken and crunchy crust. . . . . . .'
 location: Rotisserie Chicken Of California
 city: Pasadena
 region: Pasadena

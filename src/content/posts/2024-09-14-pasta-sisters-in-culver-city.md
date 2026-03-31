@@ -19,7 +19,7 @@ tags:
 - thirstypig
 - tastemakersapp
 - pastasisters
-description: 'Pasta Sisters in Culver City. Pappardelle with Pesto with Burrata Cheese. Arugula salad. And Pappardelle with a Ragu sauce. The pastas and sauces were all very good. Good chew on the pasta. The table '
+description: 'Pasta Sisters in Culver City. Pappardelle with Pesto with Burrata Cheese. Arugula salad. And Pappardelle with a Ragu sauce. The pastas and sauces were all very good. Good chew on the pasta. The table bread was not toasted but had good olive oil and balsamic vinegar. Solid meal. I''d come back to try other things. . . .'
 location: Culver City City Hall
 city: Culver City
 region: Los Angeles

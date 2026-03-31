@@ -22,7 +22,7 @@ tags:
 - bethesdafountain
 - outdoors
 - thepond
-description: Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots. Beautiful park and lots to see. Great day to enjoy the outdoors. It was a little humid, but luckily we
+description: 'Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots. Beautiful park and lots to see. Great day to enjoy the outdoors. It was a little humid, but luckily we had a slight breeze. Too bad the castle was under reconstruction . . . .'
 categories:
 - and som...
 ---

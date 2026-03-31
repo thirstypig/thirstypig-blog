@@ -23,7 +23,7 @@ tags:
 - americanfood
 - brunch
 - saturday
-description: Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Gr
+description: 'Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Great location and great space and roomy bar. Food was ok lah, not memorable. . . .'
 location: Paul Martin's American Grill
 city: Pasadena
 region: Pasadena

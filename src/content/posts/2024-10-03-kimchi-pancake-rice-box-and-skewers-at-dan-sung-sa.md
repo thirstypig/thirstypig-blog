@@ -25,7 +25,7 @@ tags:
 - eeeeeats
 - thirstypig
 - tastemakersapp
-description: Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long
+description: 'Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long waits - give this place charm. Always an enjoyable night, maybe not memorable. Yet we always return. . . .'
 location: Walt Disney Concert Hall Box Office
 city: Koreatown
 categories:

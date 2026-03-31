@@ -22,7 +22,7 @@ tags:
 - bbq
 - ham
 - texasbbq
-description: 'Made a trek to Lockhart, BBQ Capital of Texas. Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket. I like the ham and sausage more than the others. Went on Saturday with only '
+description: 'Made a trek to Lockhart, BBQ Capital of Texas. Had the smoked ham, BBQ pork chop, sausage, beef rib, and of course brisket. I like the ham and sausage more than the others. Went on Saturday with only a 40 min wait.'
 location: Made a trek to Lockhart
 categories:
 - BBQ Capital of Texas

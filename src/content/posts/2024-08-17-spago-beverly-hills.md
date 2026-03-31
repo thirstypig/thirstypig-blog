@@ -21,7 +21,7 @@ tags:
 - tastemakersapp
 - eats
 - eeeeats
-description: Spago, Beverly Hills. Was here for an event. First to Spago. Did not disappoint. Sea bass and Beef short rib. The canapés were also good. Pizza was also expectedly yummy. Should have take a photo of t
+description: 'Spago, Beverly Hills. Was here for an event. First to Spago. Did not disappoint. Sea bass and Beef short rib. The canapés were also good. Pizza was also expectedly yummy. Should have take a photo of the pizza and the mushroom soup. . . .'
 location: Spago Beverly Hills
 city: Beverly Hills
 region: Westside

@@ -20,7 +20,7 @@ tags:
 - templecity
 - sangabrielvalley
 - sangabriel
-description: Do you remember having fundraisers at Shakey’s? Or do you remember having the yummy and unique Mojo Potatoes. Or have you had the Shakey’s lunch buffet? Tonight was having that itch scratched, when it
+description: 'Do you remember having fundraisers at Shakey’s? Or do you remember having the yummy and unique Mojo Potatoes. Or have you had the Shakey’s lunch buffet? Tonight was having that itch scratched, when it didn’t need to, but wanted to. Tonight was about reliving college and little league days of fundraisers. And it was having pizza, chicken, and most of all - the mojo potatoes. . . . . . .'
 location: Shakey's Pizza
 city: San Gabriel
 region: San Gabriel Valley

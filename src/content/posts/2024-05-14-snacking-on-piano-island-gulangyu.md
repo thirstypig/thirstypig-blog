@@ -22,7 +22,7 @@ tags:
 - fujian
 - eats
 - eeeeeats
-description: Snacking on piano island , Gulangyu. Stuffed fish balls with pork. Also had the yellow ones with stuffed crab roe. The ginger duck was also unique. Interesting you also eat the braised slices of ginge
+description: 'I had a cool interaction with the chef of the little restaurant. I was going to buy a small bottle of gaoliang and I asked him to drink with me if I got it, for only 40 RMB. He looked tempted but he politely declined. Later we shared a cigarette and chatted about how his boss won’t then drink on the job and how he is friendly with everyone including foreigners, like me. I do get stares since I am a bit taller and bigger than most locals, especially now with a shaved head. But once you get a chance to chat with local purveyors everyone seems friendly. . . .'
 location: Snacking on piano island
 categories:
 - Gulangyu

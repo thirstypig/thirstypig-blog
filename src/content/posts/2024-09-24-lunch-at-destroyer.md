@@ -19,7 +19,7 @@ tags:
 - eeeeeats
 - culvercity
 - thristypig
-description: Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an
+description: 'Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an industrial part of Culver’s city - Destroyer is very much an LA lunch joint Would return and try the other choices. Would also recommend. . . . .la .la'
 location: The Bar At Culver Hotel
 city: Culver City
 region: Los Angeles

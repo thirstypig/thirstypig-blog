@@ -21,7 +21,7 @@ tags:
 - mead
 - tastemakersapp
 - thirstypig
-description: Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe. Great flavors and different experience having Ethiopian cuisine. Haven’t had it in years. Had the Tej, the sweet honey wine, like mead. I rea
+description: 'Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe. Great flavors and different experience having Ethiopian cuisine. Haven’t had it in years. Had the Tej, the sweet honey wine, like mead. I really liked taste and the interesting bottle. Using and eating with Injera was fun and unique. Too bad they were out of the doro wat, a spicy butter chicken. Next time we need to call ahead to order. Would recommend and try again. . . . . .'
 location: GS Cafe
 city: Covina
 region: San Gabriel Valley

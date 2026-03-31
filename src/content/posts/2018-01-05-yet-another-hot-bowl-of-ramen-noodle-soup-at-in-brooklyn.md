@@ -17,7 +17,7 @@ tags:
 - soupnoodles
 - japanesefood
 - shoyuramen
-description: Yet another hot bowl of ramen noodle soup at in Brooklyn. Also had the boneless chicken, fried chicken wings, and a spinach salad. The boneless chicken was better than the chicken wings. The spinach s
+description: 'Yet another hot bowl of ramen noodle soup at in Brooklyn. Also had the boneless chicken, fried chicken wings, and a spinach salad. The boneless chicken was better than the chicken wings. The spinach salad was surprisingly good too. The noodles, the Ganso shoyu ramen, were ok, while the broth was much better.'
 location: Brooklyn Bagel & Coffee Company
 city: New York
 region: New York

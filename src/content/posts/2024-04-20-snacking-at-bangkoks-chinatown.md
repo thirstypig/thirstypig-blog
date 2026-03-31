@@ -27,7 +27,7 @@ tags:
 - tastemakers
 - tastemakersapp
 - thirstypig
-description: Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights inclu
+description: 'Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights include a rolled rice noodle soup, Chinese donut, and crispy pork belly. It was crowded and it was hot, regardless it was an interesting and fun time. . . .'
 location: Floral Café at Napasorn
 city: Bangkok
 region: Bangkok

@@ -13,7 +13,7 @@ tags:
 - xianfamousfoods
 - thirstypig
 - nyc
-description: Rou Jia Mou, Spicy Lamb Noodles, and Spicy Chicken Noodles. Too bad they were out of the cold noodles 涼皮. No soup, but quite saucy. The rou jia mou, the Chinese Burger was nice and moist (肥). Next tim
+description: 'Rou Jia Mou, Spicy Lamb Noodles, and Spicy Chicken Noodles. Too bad they were out of the cold noodles 涼皮. No soup, but quite saucy. The rou jia mou, the Chinese Burger was nice and moist (肥). Next time we need the cold noodles'
 location: Spicy Moon
 city: New York
 categories:

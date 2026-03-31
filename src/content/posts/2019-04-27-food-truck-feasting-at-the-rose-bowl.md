@@ -27,7 +27,7 @@ tags:
 - thirstypig
 - dumplings
 - puertoricocuisine
-description: Food Truck Feasting at the Rose Bowl. had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded por
+description: 'Food Truck Feasting at the Rose Bowl. had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded pork from the Triple Threat Truck (Puerto Rico Cuisine). And finished it off with Cookie Monster ice cream from the Aftershock ice cream truck. I like how it was that crowded and the lines were reasonable. This is the first food truck event I’ve been to in years. Would return. Glad I brought beach and tailgating chairs to kick back on. . . .'
 location: Patty Wagon Food Truck
 city: Pasadena
 region: San Gabriel Valley

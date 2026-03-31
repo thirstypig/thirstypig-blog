@@ -27,7 +27,7 @@ tags:
 - thirstypigrecommends
 - thirstypigwouldreturn
 - chinesefood
-description: Dinner with old classmates at Temple City’s Bistro Na 那家小館. Hailing from Beijing, Bistro Na earned its first Michelin star in 2019. Their dishes derive from traditional Imperial China-era recipes. I t
+description: 'Anyways… of course I would recommend and would return. What also made this night special was the cool private room. I know for western cuisines there are some restaurants with private rooms. But I think when having a large dinner party - private rooms are the way to go! . . .'
 location: Thien Hau Temple
 city: Los Angeles
 region: Los Angeles

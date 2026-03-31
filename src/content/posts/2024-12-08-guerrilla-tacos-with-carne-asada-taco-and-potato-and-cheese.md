@@ -19,7 +19,7 @@ tags:
 - dtla
 - eats
 - eeeeeats
-description: Guerrilla Tacos with carne asada taco and potato and cheese taquito. Also had the posole and oysters!!! Everything was great. Every bite’s purpose was to satisfy cravings was met. Love this place, but
+description: 'Guerrilla Tacos with carne asada taco and potato and cheese taquito. Also had the posole and oysters!!! Everything was great. Every bite’s purpose was to satisfy cravings was met. Love this place, but seems to always forget about this place. Unfortunately when I’ craving or thinking of tacos, guerrilla tacos isn’t always what I think of. I should change. . . .'
 city: Downtown LA
 region: Los Angeles
 ---

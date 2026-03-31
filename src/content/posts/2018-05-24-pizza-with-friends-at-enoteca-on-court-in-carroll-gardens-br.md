@@ -23,7 +23,7 @@ tags:
 - nyc
 - brooklyn
 - carrollgardens
-description: Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn. Started with a Caesar salad and octopus salad. Then had a sausage and mushroom pizza and a prosciutto and arugula pizza. Solid thin
+description: 'Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn. Started with a Caesar salad and octopus salad. Then had a sausage and mushroom pizza and a prosciutto and arugula pizza. Solid thin crust pizza. . . . .'
 location: Di Fara Pizza
 city: Brooklyn
 categories:

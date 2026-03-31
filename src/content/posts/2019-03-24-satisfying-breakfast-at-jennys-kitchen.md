@@ -22,7 +22,7 @@ tags:
 - eeeeeats
 - porkchiliverde
 - spicy
-description: Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped w
+description: 'Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped with the classic photos.'
 location: Jenny's Kitchen
 city: Los Angeles
 region: Los Angeles

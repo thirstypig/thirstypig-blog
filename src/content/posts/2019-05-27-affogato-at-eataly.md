@@ -20,7 +20,7 @@ tags:
 - fiordilatte
 - gelato
 - lavazza
-description: Affogato at Eataly. A new favorite drink (or dessert). What is it? It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a
+description: 'Affogato at Eataly. A new favorite drink (or dessert). What is it? It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a sweet heavy cream milk gelato, originally/mistakenly thought as just vanilla ice cream). This sort of Root Beer Float is pretty good. The gelato sweetens the espresso and makes a yummy icey coffee drink. . . . . . . . I was feeling blue with my nails today 🤪'
 location: Eataly
 city: Los Angeles
 region: Los Angeles

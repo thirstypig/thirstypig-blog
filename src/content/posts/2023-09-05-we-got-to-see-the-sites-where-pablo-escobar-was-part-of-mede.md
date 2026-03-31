@@ -24,7 +24,7 @@ tags:
 - streetart
 - grave
 - mural
-description: We got to see the sites where Pablo Escobar was part of Medellin. We saw his lake side home, which was bombed. The community that Escobar built, where he is honored and loved with murals, art, and gra
+description: 'We got to see the sites where Pablo Escobar was part of Medellin. We saw his lake side home, which was bombed. The community that Escobar built, where he is honored and loved with murals, art, and graffiti. Visited his former apartment home, which is a now a sober memorial that remembers the bombing and deaths he caused. And lastly we visited his grave and tombstone. This part of the trip is a reminder of how far Medellin has come from to where it is now. We are not honoring Escobar at all, but seeing the progress from the nightmares he caused to how great Medellin is now. People questioned the safety of the current Medellin. It has changed dramatically with the help of leaders and the community. . . . . . .'
 city: Medellin
 region: Colombia
 ---

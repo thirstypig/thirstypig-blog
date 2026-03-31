@@ -25,7 +25,7 @@ tags:
 - dtla
 - eeeeeats
 - eats
-description: Weekend brunch at All Day Baby on Sunset. Of course I had the Bloody Mary. Had the ADB breakfast biscuit sandwich with sausage, which was an extravagant McDonald’s sausage biscuit sandwich. Sausage wa
+description: 'Weekend brunch at All Day Baby on Sunset. Of course I had the Bloody Mary. Had the ADB breakfast biscuit sandwich with sausage, which was an extravagant McDonald’s sausage biscuit sandwich. Sausage was thick, juicy, and flavorful. Then there was the hot crab sandwich with avocado. We had the weekend only black pepper fennel sausage roll, which was heavy on fennel and black pepper which I dig. And finished with the PBJ fluffer nutter and a mini banana cream pie. The bans cream pie was exceptional, which the solid banana chunks, the caramel sauces bottom, and the flaky crust. Good day to enjoy brunch on a sunny weekend morning. . . . . .'
 location: All Day Baby
 city: Downtown LA
 region: Los Angeles

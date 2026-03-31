@@ -23,7 +23,7 @@ tags:
 - poachedegg
 - softboiledegg
 - japanesefood
-description: Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After
+description: 'Japanese noodles, mazesoba from Nagoya. Dry noodles with toppings. Toppings include ground pork, scallions, seaweed, poached egg, soft boiled egg, garlic, and chasu. Also had some fried chicken. After mixing, the noodles were melted together with poached egg. It’s an interesting texture that may not appeal to all. Sort of slimey. I had a side of the soup. I prefer noodles in a broth. . . . . .'
 location: Japanese noodles
 city: San Gabriel Valley
 categories:

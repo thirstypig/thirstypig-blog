@@ -23,7 +23,7 @@ tags:
 - é
 - qingdaobreadfood
 - noodles
-description: Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce. Qingdao Bread Food 青島麵館 in Montere
+description: 'Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce. Qingdao Bread Food 青島麵館 in Monterey Park in the SGV. . .'
 location: Qing Dao Bread Food
 city: Monterey Park
 categories:

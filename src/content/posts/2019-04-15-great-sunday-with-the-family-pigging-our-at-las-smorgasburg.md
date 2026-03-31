@@ -26,7 +26,7 @@ tags:
 - foodporn
 - eeeeeats
 - yummy
-description: Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from A
+description: 'Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from Avocado Mama, Fries from Super Frites, oysters from the Jolly Oyster, Spam Musubi from Mam Musubi. And also saw Brazilian brigadiero from Maya’s Yum! 📸: . missing'
 location: Smorgasburg Los Angeles
 city: Los Angeles
 region: Los Angeles

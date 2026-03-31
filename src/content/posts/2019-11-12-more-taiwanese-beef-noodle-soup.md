@@ -23,7 +23,7 @@ tags:
 - eeeeeats
 - taiwanese
 - dinner
-description: More Taiwanese Beef Noodle Soup. Tonight we ventured to Sinbala for a pipping hot bowl. The noodles were slightly over cooked and too soft. The soup was nice and spicy, but not too spicy. They already
+description: 'More Taiwanese Beef Noodle Soup. Tonight we ventured to Sinbala for a pipping hot bowl. The noodles were slightly over cooked and too soft. The soup was nice and spicy, but not too spicy. They already added the pickled mustard greens, which I wished they didn’t. Anyways, I would order it again here but it wouldn’t be my first choice. Their Taiwanese sausage might be the best in the area. . . . .'
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley

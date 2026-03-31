@@ -21,7 +21,7 @@ tags:
 - beefnoodlesoup
 - sgv
 - chicken
-description: Yummy Taiwanese lunch in Arcadia. One of my old favorites. Beef noodle soup, chicken roll, pork belly on rice, and Japanese beef and onion. The beef and onion on rice is like the Yoshi Noya beef bowl.
+description: 'Yummy Taiwanese lunch in Arcadia. One of my old favorites. Beef noodle soup, chicken roll, pork belly on rice, and Japanese beef and onion. The beef and onion on rice is like the Yoshi Noya beef bowl. .'
 location: Arcadia County Park
 city: Arcadia
 region: San Gabriel Valley

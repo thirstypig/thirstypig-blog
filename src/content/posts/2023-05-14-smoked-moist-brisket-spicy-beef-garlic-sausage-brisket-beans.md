@@ -21,7 +21,7 @@ tags:
 - eats
 - eeeeeats
 - thistypig
-description: Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw. Everything was spot on. The burnt ends were phenomenal. Only wish it had a little more char. . .
+description: 'Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw. Everything was spot on. The burnt ends were phenomenal. Only wish it had a little more char. . . . .'
 categories:
 - Korean pork b...
 ---

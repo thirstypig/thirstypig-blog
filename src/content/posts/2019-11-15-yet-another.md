@@ -19,7 +19,7 @@ tags:
 - soup
 - beef
 - hearty
-description: Yet another . . . Taiwanese Beef Noodle Soup, this time from Old Country Cafe 老鄉親. The broth was ok, not overly flavorful or slightly spicy as one would expect. It appeared to be cloudy, which isn’t a
+description: 'Yet another . . . Taiwanese Beef Noodle Soup, this time from Old Country Cafe 老鄉親. The broth was ok, not overly flavorful or slightly spicy as one would expect. It appeared to be cloudy, which isn’t a good thing. The soup had an already acidic taste from the pickled mustard greens, in which I would have liked to add personally - depending on my taste. The beef chucks were tender with some nice chewy tendons. But they were smaller in size compared to the other bowls, I’ve had this week. The overall taste was there but not up to par compared to others. The Taiwanese sausage didn’t have the look or taste that Sinabala had - which has the best Taiwanese Sausage around. I would still Vivi at again, but I would probably order something else. Interesting, there used to be an Old Country Cafe, also 老鄉親, on Garfield in Alhambra - which is no longer there. They said they aren’t the same owners as the old one. But it appears they almost copied everything they had, including having a few comic books for people to read. . . . .'
 location: Yet another
 city: Alhambra
 region: San Gabriel Valley

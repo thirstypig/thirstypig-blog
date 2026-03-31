@@ -21,7 +21,7 @@ tags:
 - westla
 - saturday
 - usc
-description: Was hungry . . . So we planned to trip to have barbecue at APL in Venice. They opened at 12:30ish (really at 12:45) and we decided to get there early. So. . . We arrived and got Nightclub-inthefront-b
+description: 'Amazing meal. But we could only finish about a third. So much to bring home. Pro-tip- the bread under the meats is like GOLD. The bread acts like a sponge to soak all the juices and is soft and juicy. . . .'
 location: Beach Cities Car Wash & Detailing
 city: Venice
 region: Los Angeles

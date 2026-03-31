@@ -24,7 +24,7 @@ tags:
 - eeeeeats
 - shrimptempura
 - thirstypig
-description: Tempura from at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay loc
+description: 'Tempura from at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay location and this place does not disappointment either. Would gladly visit again, just hopefully without a line. . . .'
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena

@@ -27,7 +27,7 @@ tags:
 - dtla
 - dtlafashiondistrict
 - thirstypig
-description: Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight.
+description: 'Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight. .'
 location: Dama Fashion District
 city: Downtown LA
 categories:

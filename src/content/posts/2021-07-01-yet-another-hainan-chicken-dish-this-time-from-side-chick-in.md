@@ -21,7 +21,7 @@ tags:
 - food
 - lunch
 - rice
-description: 'Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa Anita Westfield shopping center mall. Fourth stop in the chronicles of Hainan Chicken Rice. I think Side Chick stands out '
+description: 'Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa Anita Westfield shopping center mall. Fourth stop in the chronicles of Hainan Chicken Rice. I think Side Chick stands out is with their offering of fried crispy chicken and roasted chicken along with their standard Hainan boiled style. Chef Johnny Lee opened Side Chick a few years ago to address the SGV market, now has Pearl River Deli in Chinatown. . . . . . . 🐔'
 location: Chicken Now
 city: Arcadia
 region: San Gabriel Valley

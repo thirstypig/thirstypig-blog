@@ -24,7 +24,7 @@ tags:
 - spicychickensandwich
 - nightmarketsong
 - thirstypig
-description: Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the wa
+description: 'Night+Market. Thai food in Hollywood. My first time here. I had heard about this place and had always wanted to try. Had the famous spicy chicken sandwich that was featured on YouTube. Also had the way too spicy and ass-fire papaya salad. And the rice noodle which I almost single handed finished since the papaya salad killed me. Luckily I had my drink, which I forgot the name, that helped numb everything down because of the spiciness. . . . . .'
 location: Night + Market
 city: Hollywood
 region: Hollywood

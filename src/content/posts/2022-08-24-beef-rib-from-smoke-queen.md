@@ -16,7 +16,7 @@ tags:
 - sunday
 - eats
 - eeeeeats
-description: Beef Rib from Smoke Queen. Had a slight Asian taste with the sweet sauce. Not sure why you need to sauce it. Perhaps the sauce melds with the savory dry rub, with the refreshing green onions. Maybe th
+description: 'And lastly, had the dumplings. Too bad they were out of the chicken dumplings by 11am. I bet they didn’t even have that day. The pork was good. The beef was unmemorable. The veggie was ok. Their cooking style is quite traditional. Except I would have liked a more crispy skin. I think the unique fillings and wrapper colors were the big draw. I’d order again, just to try the chicken. . . . . . .'
 location: Smoke Tokes
 city: Los Angeles
 region: Los Angeles

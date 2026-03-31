@@ -17,7 +17,7 @@ tags:
 - food
 - hatethewait
 - shinsengumi
-description: One of my favorite ramen shops in LA. Super crowded on a Saturday night. It strangely they are now the Spirit Airlines of ramen, which means everything is a la carte. Their basic ramen is just noodles
+description: 'One of my favorite ramen shops in LA. Super crowded on a Saturday night. It strangely they are now the Spirit Airlines of ramen, which means everything is a la carte. Their basic ramen is just noodles, broth, green onions, ginger, and a couple of slices of pork. Everything else, like typical the typical egg, bamboo shoots, corn, seaweed, etc is extra. Sure they have preset combinations - which is so American. Anyways.m, I still like the place, but hate the wait. Check out their big festival at the beginning of September st their Gardena location. I think we might just go. .restaurant.gr'
 location: One of my favorite ramen shops in LA
 city: Los Angeles
 region: Los Angeles

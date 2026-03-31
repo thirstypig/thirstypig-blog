@@ -20,7 +20,7 @@ tags:
 - sausage
 - biscuits
 - gravy
-description: Favorite diner. This is how I think American diners should/ought to be. Stereotypical diners with staff in uniforms, classic coffee mugs, hearty meals, and great breakfasts. Only wish they had a Blood
+description: 'Favorite diner. This is how I think American diners should/ought to be. Stereotypical diners with staff in uniforms, classic coffee mugs, hearty meals, and great breakfasts. Only wish they had a Bloody Mary to go with the meal. Too bad they are closed on Mondays and Tuesdays. And now they open at 7am and close at 5pm. I hope they return to 24 hours soon. . . . .'
 location: Favorite diner
 city: Downtown LA
 region: Los Angeles

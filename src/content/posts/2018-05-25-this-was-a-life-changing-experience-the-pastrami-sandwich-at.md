@@ -22,7 +22,7 @@ tags:
 - bestofnyc
 - jewishdeli
 - eeeeeats
-description: This was a life changing experience - the pastrami sandwich at Katz Deli. I’ve had pastrami sandwiches in LA at multiple places and nothing compares. I was shaking my head the whole time eating. I had
+description: 'This was a life changing experience - the pastrami sandwich at Katz Deli. I’ve had pastrami sandwiches in LA at multiple places and nothing compares. I was shaking my head the whole time eating. I had to show the 4 shots of sandwich. Yummy. Also had to get the coleslaw so we wouldn’t feel so guilty. LOL . . . .'
 location: Katz's Delicatessen
 city: New York
 categories:

@@ -14,7 +14,7 @@ tags:
 - dtla
 - breakfastburrito
 - breakfast
-description: Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sau
+description: 'Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sauce. Her Korean mom was there making sure they made quality burritos. . . . .genetics'
 location: The Little Jewel of New Orleans
 city: Los Angeles
 region: Los Angeles

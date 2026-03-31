@@ -23,7 +23,7 @@ tags:
 - yummy
 - panfrieddumplings
 - noodles
-description: Shanghainese Lunch at Tasty Noodle House in Irvine. Haven’t had this cuisine for awhile. 蔥油拌麵，炒年糕，生煎包，大餛飩，紅燒肉和四季豆 we had scallion noodles, pan fried dumplings, black pepper rice cake noodles, soup dum
+description: 'Shanghainese Lunch at Tasty Noodle House in Irvine. Haven’t had this cuisine for awhile. 蔥油拌麵，炒年糕，生煎包，大餛飩，紅燒肉和四季豆 we had scallion noodles, pan fried dumplings, black pepper rice cake noodles, soup dumpling, and green beans and braised pork belly. Almost like back home on Jian Guo Road in Shanghai . .'
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai

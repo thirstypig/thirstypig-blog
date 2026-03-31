@@ -18,7 +18,7 @@ tags:
 - beefnoodlesoup
 - æ
 - koreatown
-description: lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons. Yummy. Everything was great. Would recommend a
+description: 'lunch with old friends in Koreatown. Liu’s Cafe. Beef Noodle Soup, Braised Pork over rice, Shredded Chicken over rice, Sesame Noodles, and spicy wontons. Yummy. Everything was great. Would recommend and would visit again. Next time I would try the toast'
 location: Old Chinatown Central Plaza
 city: Koreatown
 region: Los Angeles

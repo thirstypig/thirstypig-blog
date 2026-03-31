@@ -21,7 +21,7 @@ tags:
 - eeeeeats
 - eastla
 - dtla
-description: Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. The crust was really good and held up. The tomato sauce seemed to be a bit watery. Too bad parking sucked and they don’t h
+description: 'Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. The crust was really good and held up. The tomato sauce seemed to be a bit watery. Too bad parking sucked and they don’t have a dining room. I would order again . . . . . .'
 location: Chicago Helicopter Experience
 city: Chicago
 region: Chicago

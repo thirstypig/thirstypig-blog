@@ -21,7 +21,7 @@ tags:
 - biscuitandgravy
 - eats
 - thirstypig
-description: Classic American Diner Breakfast at biscuits and gravy, sausage, eggs, and potatoes. Too bad they’re not open 24 hours anymore. They said they lack the staff and cooks to be open all day and night. Th
+description: 'Classic American Diner Breakfast at biscuits and gravy, sausage, eggs, and potatoes. Too bad they’re not open 24 hours anymore. They said they lack the staff and cooks to be open all day and night. They said so many people have been asking. It’s too bad since they’re not far from me. I’ve had so many memories of going there with friends from my days at USC, after late nights of fun, and just breakfast. Iconic LA place. . . .'
 location: biscuits and gravy
 categories:
 - and ...

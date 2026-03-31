@@ -18,7 +18,7 @@ tags:
 - arcadia
 - dessert
 - peanutbutter
-description: Holy Roly ice cream. Peanut butter Reese’s ice cream. Interesting dessert but it takes a bit of time for each order. I think half the experience is watching them make it. Slab, spread, scrap, enjoy. .
+description: 'Holy Roly ice cream. Peanut butter Reese’s ice cream. Interesting dessert but it takes a bit of time for each order. I think half the experience is watching them make it. Slab, spread, scrap, enjoy. . . . .'
 location: Holy Roly Ice Cream
 city: Arcadia
 region: San Gabriel Valley

@@ -23,7 +23,7 @@ tags:
 - taipeirestaurant
 - eats
 - eeeeeats
-description: 'This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. '
+description: 'This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. . . .'
 city: Taipei
 region: Taipei
 categories:

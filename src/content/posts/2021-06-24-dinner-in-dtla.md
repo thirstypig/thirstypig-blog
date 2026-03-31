@@ -24,7 +24,7 @@ tags:
 - donut
 - endive
 - unibacon
-description: Dinner in DTLA. Joined the DTLA Dinner Club and had a great dinner with six courses. First was the endive lobster boat, then 2nd was the caramelized fennel and leek gratin. For the third course, we ha
+description: 'Dinner in DTLA. Joined the DTLA Dinner Club and had a great dinner with six courses. First was the endive lobster boat, then 2nd was the caramelized fennel and leek gratin. For the third course, we had the uni bacon on baguette. The fourth course was a summer salad. And fifth course was braised mocha beef cheeks. And the final course was a homemade donut with ricotta. Nice outdoor terrace with great weather and to meet interesting people. Very cool joint. . . . . .'
 location: Row Dtla
 city: Downtown LA
 region: Los Angeles

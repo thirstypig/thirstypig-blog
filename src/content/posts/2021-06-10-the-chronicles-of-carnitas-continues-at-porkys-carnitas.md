@@ -20,7 +20,7 @@ tags:
 - thirstypig
 - eats
 - eeeeeats
-description: The Chronicles of Carnitas continues at Porky’s Carnitas. Had to try a place with such a eponymous name. Though not a fan of offal and unfried pork skin - the mixto taco with everything was really goo
+description: 'The Chronicles of Carnitas continues at Porky’s Carnitas. Had to try a place with such a eponymous name. Though not a fan of offal and unfried pork skin - the mixto taco with everything was really good. The texture and moistness was there. While the regular shredded caritas was on the dry side. This revelation has caused me to rethink mixto tacos. . . . . .'
 location: Porky's Carnitas
 city: East LA
 region: Los Angeles

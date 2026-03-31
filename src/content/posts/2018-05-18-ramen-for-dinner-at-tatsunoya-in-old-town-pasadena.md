@@ -18,7 +18,7 @@ tags:
 - eeeeeats
 - tonkatsu
 - charsui
-description: Ramen for dinner at Tatsunoya in Old Town Pasadena. Wife’s favorite ramen joint. I thought it was pretty good this time. I also added the cheese, which she thought was overkill, with the rich fatty br
+description: 'Ramen for dinner at Tatsunoya in Old Town Pasadena. Wife’s favorite ramen joint. I thought it was pretty good this time. I also added the cheese, which she thought was overkill, with the rich fatty broth. Maybe it was. . . .'
 location: Old Town Pasadena
 city: Pasadena
 region: Pasadena

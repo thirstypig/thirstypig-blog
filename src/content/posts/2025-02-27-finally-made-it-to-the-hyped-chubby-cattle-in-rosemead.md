@@ -22,7 +22,7 @@ tags:
 - eeeeats
 - eeeeeats
 - thirstypig
-description: Finally made it to the hyped Chubby Cattle in Rosemead. This place has been the rage on the interwebs with their curry restaurant and high end joint - and On there was some controversy about source of
+description: 'Unfortunately for a guy like me with a gout condition, this was a special and rare occasion for me to have AYCE beef or steak. I don’t have it often. Yes I know this is a contradiction since I’m also a certified Barbecue judge. But at least this allows me to savor beef when I have on rare occasions. Anyways . . . My friends and I all would recommend and would gladly return. . . . .group .0'
 city: Rosemead
 region: San Gabriel Valley
 categories:

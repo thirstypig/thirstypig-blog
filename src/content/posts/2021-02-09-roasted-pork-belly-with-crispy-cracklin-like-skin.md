@@ -20,7 +20,7 @@ tags:
 - eats
 - thirstypig
 - yummy
-description: Roasted Pork Belly with crispy cracklin-like skin! Using an air fryer to make Cantonese style roast pork with traditional Chinese five spice. Yummy! Check out the crispness of the skin. After trial an
+description: 'Roasted Pork Belly with crispy cracklin-like skin! Using an air fryer to make Cantonese style roast pork with traditional Chinese five spice. Yummy! Check out the crispness of the skin. After trial and error - I think I got it just right. . . . . . .'
 location: Roasted Pork Belly with crispy cracklin-like skin
 ---
 

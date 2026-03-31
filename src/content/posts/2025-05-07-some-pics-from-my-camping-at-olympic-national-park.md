@@ -27,7 +27,7 @@ tags:
 - driftwood
 - hiking
 - nationalparks
-description: Some pics from my camping at Olympic National Park. Visited La Push Beach and Bogachiel river. The lichen trees was something to beholden. The beaches showed the power of Mother Nature with the driftw
+description: 'Some pics from my camping at Olympic National Park. Visited La Push Beach and Bogachiel river. The lichen trees was something to beholden. The beaches showed the power of Mother Nature with the driftwood. Beautiful and all natural. But chilly. Luckily we had no rain. Hikes were longer than I expected and yes I complained like a MF. Sorry. But no regrets. I am not an outdoorsy person, but I’m all about experiences. I’m glad we went now even though it was chilly - got to the low 30s, since it wasn’t crowded at all. Fun times, can’t wait for the next adventure! More photos to come. . . .'
 location: Japanese American National Museum
 city: Los Angeles
 region: Los Angeles

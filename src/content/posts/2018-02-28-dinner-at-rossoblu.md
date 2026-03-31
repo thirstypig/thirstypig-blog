@@ -24,7 +24,7 @@ tags:
 - ragu
 - maltagliati
 - dtla
-description: Dinner at Rossoblu. Northern Italian cuisine. Had the Salumi plate and braised pork meat balls to start. Then went for the MALTAGLIATI, RISOTTO and NONNA’S TAGLIATELLE AL RAGU’ BOLOGNESE. And finished
+description: 'Dinner at Rossoblu. Northern Italian cuisine. Had the Salumi plate and braised pork meat balls to start. Then went for the MALTAGLIATI, RISOTTO and NONNA’S TAGLIATELLE AL RAGU’ BOLOGNESE. And finished off with MILK-BRAISED PORK SHOULDER and DRY-AGED HOLSTEIN BEEF TAGLIATA'
 location: Rossoblu
 city: Downtown LA
 region: Los Angeles

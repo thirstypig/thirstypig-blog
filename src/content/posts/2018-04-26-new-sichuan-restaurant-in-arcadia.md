@@ -18,7 +18,7 @@ tags:
 - spicy
 - almosttoospicy
 - eeeeeats
-description: New Sichuan Restaurant in Arcadia! Fensanity. First was the Signature Glass Noodle with Hot and Sour Soup, then was the cool glass jelly appetizer, and lastly the Wonton with Red Chili Sauce. Quite sp
+description: 'New Sichuan Restaurant in Arcadia! Fensanity. First was the Signature Glass Noodle with Hot and Sour Soup, then was the cool glass jelly appetizer, and lastly the Wonton with Red Chili Sauce. Quite spicy and flavorful. Almost too spicy. I dig the bowl cauldrons. . .'
 location: Arcadia County Park
 city: Arcadia
 region: San Gabriel Valley

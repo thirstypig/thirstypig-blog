@@ -21,7 +21,7 @@ tags:
 - egg
 - cheese
 - eats
-description: An Austin Original - Torchy’s Tacos. Breakfast Tacos! The South Congress location is a cool spot on the iconic street. I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the with jalap
+description: 'An Austin Original - Torchy’s Tacos. Breakfast Tacos! The South Congress location is a cool spot on the iconic street. I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the with jalapeño cheddar sausage, egg & cheese. And of course, for breakfast, chips and green chili queso. Queso in Austin has not been copied well in Los Angeles. I fully recommend Torchy’s. . . . . .'
 location: 'KazuNori: The Original Hand Roll Bar'
 city: Los Angeles
 categories:

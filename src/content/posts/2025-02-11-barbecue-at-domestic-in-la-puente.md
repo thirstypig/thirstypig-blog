@@ -23,7 +23,7 @@ tags:
 - southerncaliforniabbq
 - brisket
 - sausage
-description: 'Barbecue at Domestic in La Puente. My college buddies and I had a find a restaurant to have our annual fantasy baseball winter meetings. And I choose Domestic, since it was somewhat midway between LA '
+description: 'Unfortunately, I can''t recommend this place. But I would give it another chance to see if they would either improve or if today was an off day. Its too bad, since you see the big in the back - so one of think they know what they are doing. . . . .'
 location: Domestic
 city: Los Angeles
 region: Los Angeles

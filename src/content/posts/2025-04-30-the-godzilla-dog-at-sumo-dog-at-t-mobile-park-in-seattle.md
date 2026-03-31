@@ -17,7 +17,7 @@ tags:
 - hotdog
 - seattle
 - eats
-description: The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle. Watching the Mariners take on the Angels and savoring a baseball game hot dog. I’m proudly wearing my Dodger cap and checking out the baseball
+description: 'The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle. Watching the Mariners take on the Angels and savoring a baseball game hot dog. I’m proudly wearing my Dodger cap and checking out the baseball in Seattle and the ballpark. . . .'
 location: The 'Pen at T-Mobile Park
 city: Seattle
 region: Seattle

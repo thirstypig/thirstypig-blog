@@ -19,7 +19,7 @@ tags:
 - theoc
 - dessert
 - coldbrew
-description: Cookie that is a cup. Filling of soft serve or cream or milk or cold brew coffee. Cookie variants include cookies & cream, red velvet, chocolate chip, matcha, and others. Pretty good idea. I had the s
+description: 'Cookie that is a cup. Filling of soft serve or cream or milk or cold brew coffee. Cookie variants include cookies & cream, red velvet, chocolate chip, matcha, and others. Pretty good idea. I had the soft serve on this hot AF day. . . . . .'
 location: Cookie that is a cup
 ---
 

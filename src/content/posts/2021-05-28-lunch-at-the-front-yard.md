@@ -22,7 +22,7 @@ tags:
 - brusselsprouts
 - fries
 - fries
-description: Lunch at The Front Yard. Patty Melt, Royale with Cheese, and Brussels Sprouts. Good flavor from the sprouts. Burger, with ground short rib, was tasty too. Nice outdoor dining area. Had to have my Bloo
+description: 'Lunch at The Front Yard. Patty Melt, Royale with Cheese, and Brussels Sprouts. Good flavor from the sprouts. Burger, with ground short rib, was tasty too. Nice outdoor dining area. Had to have my Bloody Mary to make my lunch complete . . . . . .'
 location: Lunch at The Front Yard
 ---
 

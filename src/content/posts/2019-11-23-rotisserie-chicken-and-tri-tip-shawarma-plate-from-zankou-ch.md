@@ -20,7 +20,7 @@ tags:
 - darkchicken
 - eeeeeats
 - eat
-description: Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. Haven’t had the beef, since we usually have the chicken. Their famed garlic sauce/paste is something that you must ask for. Make sure
+description: 'Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. Haven’t had the beef, since we usually have the chicken. Their famed garlic sauce/paste is something that you must ask for. Make sure you ask for it!!! The tahni sauce is also really good, as is the hummus and pita. If you haven’t gone to zankou. You gotta go. . . . .'
 location: Zankou Chicken
 city: Pasadena
 region: Pasadena

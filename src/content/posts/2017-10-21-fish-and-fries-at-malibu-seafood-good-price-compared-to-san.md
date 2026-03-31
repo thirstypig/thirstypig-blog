@@ -22,7 +22,7 @@ tags:
 - lunch
 - brunch
 - beaches
-description: 'Fish and fries at Malibu Seafood good price compared to San Marino seafood. Wonderful views and great fried fish. Ideal lunch spot before hitting the beach. A bit off the beaten path. I think it is a '
+description: 'Fish and fries at Malibu Seafood good price compared to San Marino seafood. Wonderful views and great fried fish. Ideal lunch spot before hitting the beach. A bit off the beaten path. I think it is a local hang out.'
 city: San Marino
 region: San Gabriel Valley
 location: Malibu Seafood
