@@ -9,11 +9,12 @@
 import React, { useState, useCallback, useRef, useEffect } from "react";
 
 // Load API key: env var (production/Vercel) → local JSON file (dev)
+// Tina's Vite build replaces `process.env` with an object literal containing TINA_PUBLIC_* vars.
+// Must use direct property access (no optional chaining) for the replacement to work.
+const ENV_API_KEY: string = process.env.TINA_PUBLIC_GOOGLE_PLACES_API_KEY || "";
+
 const GOOGLE_API_KEY = (() => {
-  // Check env var first (set in Vercel dashboard as TINA_PUBLIC_GOOGLE_PLACES_API_KEY)
-  if (typeof process !== "undefined" && process.env?.TINA_PUBLIC_GOOGLE_PLACES_API_KEY) {
-    return process.env.TINA_PUBLIC_GOOGLE_PLACES_API_KEY;
-  }
+  if (ENV_API_KEY) return ENV_API_KEY;
   try {
     // Fallback: local gitignored config file for dev
     const modules = import.meta.glob("./google-places-config.json", { eager: true }) as Record<string, { apiKey?: string }>;
