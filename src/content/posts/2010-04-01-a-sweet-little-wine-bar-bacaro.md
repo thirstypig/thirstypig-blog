@@ -1,5 +1,5 @@
 ---
-title: 'Bacaro, Unknown'
+title: 'Bacaro, Los Angeles'
 pubDate: 2010-04-01T00:00:00.000Z
 description: 'Bacaro’s been around for a couple of years as a quiet but cool winebar. Perhaps its because I don’t enjoy wine, is why I didn’t look for it. But lately, I have been more daring and wanting to try more'
 author: The Thirsty Pig
