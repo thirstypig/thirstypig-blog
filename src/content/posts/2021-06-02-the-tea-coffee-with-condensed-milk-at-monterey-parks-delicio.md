@@ -1,29 +1,29 @@
 ---
-title: Monterey Parks Delicious Food Corner, Monterey Park
-pubDate: '2021-06-02'
+title: 'Delicious Food Corner, Rosemead'
+pubDate: 2021-06-02T00:00:00.000Z
+description: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner. This is tea and coffee not just tea not just coffee. It is a combo. I dig the details on the spoon. . . . . . .
 author: The Thirsty Pig
+heroImage: /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
+categories:
+  - Vietnamese
+tags:
+  - monterey-park
+  - vietnamese
+  - coffee
+  - tea
+cuisine:
+  - Vietnamese
+location: Delicious Food Corner
+city: Rosemead
+region: CA
+address: '8632 Valley Blvd Ste E, Rosemead, CA 91770, USA'
+coordinates:
+  lat: 34.0799465
+  lng: -118.08112990000001
+images:
+  - /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
 source: instagram
 draft: false
-heroImage: /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
-images:
-- /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
-tags:
-- monterey-park
-- vietnamese
-- coffee
-- tea
-description: The tea coffee with condensed milk at Monterey Parks Delicious Food Corner. This is tea and coffee not just tea not just coffee. It is a combo. I dig the details on the spoon. . . . . . .
-location: Monterey Park Bruggemeyer Library
-city: Monterey Park
-region: San Gabriel Valley
-address: 318 S Ramona Ave (at Newmark Ave), Monterey Park, CA 91754
-coordinates:
-  lat: 34.059099
-  lng: -118.124781
-categories:
-- Vietnamese
-cuisine:
-- Vietnamese
 ---
 
 ![The tea coffee with condensed milk at Monterey Parks Delicious Food Corner](/images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg)
