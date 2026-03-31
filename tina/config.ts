@@ -11,6 +11,35 @@ export default defineConfig({
   clientId: process.env.TINA_CLIENT_ID || "",
   token: process.env.TINA_TOKEN || "",
 
+  cmsCallback: (cms) => {
+    if (typeof document !== "undefined") {
+      // Inject custom CSS
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = "/admin/custom.css";
+      document.head.appendChild(link);
+
+      // Add dark mode toggle button
+      if (!document.getElementById("dark-mode-toggle")) {
+        const btn = document.createElement("button");
+        btn.id = "dark-mode-toggle";
+        btn.title = "Toggle dark mode";
+        const saved = localStorage.getItem("tina-dark-mode");
+        let isDark = saved === "true";
+        if (isDark) document.documentElement.classList.add("tina-dark");
+        btn.textContent = isDark ? "☀️" : "🌙";
+        btn.addEventListener("click", () => {
+          isDark = !isDark;
+          document.documentElement.classList.toggle("tina-dark", isDark);
+          btn.textContent = isDark ? "☀️" : "🌙";
+          localStorage.setItem("tina-dark-mode", String(isDark));
+        });
+        document.body.appendChild(btn);
+      }
+    }
+    return cms;
+  },
+
   search: {
     tina: {
       indexerToken: process.env.TINA_SEARCH_TOKEN || "",

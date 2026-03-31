@@ -17,6 +17,7 @@
     "@astrojs/sitemap": "^3.7.2",
     "@fontsource/inter": "^5.2.8",
     "@fontsource/playfair-display": "^5.2.8",
+    "@googlemaps/js-api-loader": "^2.0.2",
     "@tailwindcss/vite": "^4.2.2",
     "@tinacms/cli": "^2.2.0",
     "@vercel/analytics": "^2.0.1",

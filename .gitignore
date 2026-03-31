@@ -20,6 +20,7 @@ pnpm-debug.log*
 
 # API keys
 tina/fsq-config.json
+tina/google-places-config.json
 
 # Claude Code local config (may contain API keys in allowlists)
 .claude/
