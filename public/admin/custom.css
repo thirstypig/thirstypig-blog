@@ -1,0 +1,68 @@
+/* TinaCMS Admin — Dark Mode + Custom Styling */
+
+/* Dark mode applies when body has .dark-mode class OR system prefers dark */
+.tina-tailwind.dark-mode,
+@media (prefers-color-scheme: dark) { .tina-tailwind:not(.light-mode) {
+
+  color-scheme: dark;
+
+  /* Main backgrounds */
+  background-color: #111827 !important;
+  color: #e5e7eb !important;
+
+}
+}
+
+/* More specific dark rules using a single selector approach */
+body.dark-mode *,
+@media (prefers-color-scheme: dark) { body:not(.light-mode) * {
+  /* This doesn't work well with TinaCMS. Use JS injection instead. */
+}
+}
+
+/* ─── Dark Mode Toggle Button ─── */
+#dark-mode-toggle {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #d1d5db;
+  background: #ffffff;
+  color: #374151;
+  font-size: 18px;
+  cursor: pointer;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  transition: all 0.2s;
+}
+
+#dark-mode-toggle:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+/* ─── Dark Mode Overrides (applied via JS class) ─── */
+html.tina-dark {
+  filter: invert(0.88) hue-rotate(180deg);
+}
+
+/* Undo inversion for images and specific elements */
+html.tina-dark img,
+html.tina-dark video,
+html.tina-dark [class*="bg-blue"],
+html.tina-dark [class*="bg-red"],
+html.tina-dark [class*="bg-green"],
+html.tina-dark [class*="bg-orange"],
+html.tina-dark #dark-mode-toggle {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+/* Keep the location dropdown readable in dark mode */
+html.tina-dark div[style*="position: fixed"][style*="z-index: 99999"] {
+  filter: invert(1) hue-rotate(180deg);
+}
