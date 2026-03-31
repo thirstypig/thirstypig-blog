@@ -97,8 +97,26 @@ Line 351 had `progress = load_progress() if args.resume else load_progress()` �
 - [AI, API & Data Experimentation Brainstorm](../../brainstorms/2026-03-30-ai-api-data-experimentation-brainstorm.md) — "Pillar 3: Dining Dashboard" and "Smart Enrichment" concepts implemented here
 - [Google Places Migration](../../solutions/api-migration/google-places-migration-dark-mode-description-fix.md) — Related admin customization (dark mode, LocationLookup)
 
+## Production Admin Fix
+
+TinaCMS admin at `/admin/index.html` was returning 404 in production. Three issues:
+
+1. **`tinacms build` failing silently** — The build script used `|| true` which swallowed errors. Fixed by switching to `--skip-cloud-checks` flag which bypasses the Tina Cloud indexing wait.
+2. **`LocationLookup.tsx` importing gitignored file** — `import googleConfig from "./google-places-config.json"` fails on Vercel where the file doesn't exist. Fixed with `import.meta.glob()` which returns empty when the file is absent.
+3. **Tina Cloud env vars** — `TINA_CLIENT_ID`, `TINA_TOKEN`, and `TINA_SEARCH_TOKEN` must be set in Vercel environment variables for production builds.
+
+Build script changed from:
+```
+npx tinacms build || true && astro build
+```
+to:
+```
+npx tinacms build --skip-cloud-checks && astro build
+```
+
 ## Prevention / Future Work
 - Remaining 820 posts need Phase 2 enrichment (`--resume` with a fresh API key)
 - Consider `ThreadPoolExecutor` for 5-10x speedup on future batch runs
 - Consider Anthropic Batch API for 50% cost savings on large runs
 - Google Search Console set up — SEO data will start flowing in 2-7 days
+- Tina Cloud credentials: `TINA_CLIENT_ID`, `TINA_TOKEN`, `TINA_SEARCH_TOKEN` in Vercel env vars
