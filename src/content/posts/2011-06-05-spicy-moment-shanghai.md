@@ -4,13 +4,12 @@ pubDate: '2011-06-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
-categories:
-- Xuhui District
-- Shanghai
+categories: []
 tags:
-- Hunan
-- Shanghai
-- Spicy
+- shanghai
+- chinese
+- spicy
+- hunan
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20160910230000/http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
 draft: false
@@ -21,6 +20,8 @@ address: 上海市, 上海市, 200000
 coordinates:
   lat: 31.225242
   lng: 121.444505
+cuisine:
+- Chinese
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'L’Amour Cafe, Monterey Park'
+title: L'Amour Cafe, Monterey Park
 pubDate: '2009-06-01'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,13 +10,12 @@ images:
 - /images/posts/lamour-cafe/IMG_0596.jpg
 - /images/posts/lamour-cafe/IMG_0599.jpg
 - /images/posts/lamour-cafe/IMG_0602.jpg
-categories:
-- Cantonese
-- Chinese
-- Monterey Park
-- San Gabriel Valley
+categories: []
 tags:
-- LA's San Gabriel Valley
+- monterey-park
+- chinese
+- dim-sum
+- cantonese
 description: Located in the back of a mini mall in Monterey Park, L’Amour Cafe is a hidden gem that specializes in traditional Cantonese cuisine. Monterey Park has always been known for cantonese faire – especiall
 archiveUrl: https://web.archive.org/web/20110106003625/http://www.thethirstypig.com/2009/06/01/lamour-cafe/
 draft: false
@@ -27,6 +26,8 @@ address: 230 N Garfield Ave, Monterey Park, CA 91754
 coordinates:
   lat: 34.065039
   lng: -118.122123
+cuisine:
+- Chinese
 ---
 
 Located in the back of a mini mall in Monterey Park, L’Amour Cafe is a hidden gem that specializes in traditional Cantonese cuisine. Monterey Park has always been known for cantonese faire – especially with the late night cafes and dim sum palaces. But L’Amour Cafe goes away from that tradition to offer a non-cafe style ambience. They strive to offer higher quality selection without the expanse of a large banquet style dim sum restaurant.

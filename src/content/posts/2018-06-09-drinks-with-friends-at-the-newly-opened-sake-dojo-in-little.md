@@ -1,5 +1,5 @@
 ---
-title: Drinks with friends at the newly opened Sake Dojo in Little Tokyo in DTLA
+title: Sake Dojo, Los Angeles
 pubDate: '2018-06-09'
 author: The Thirsty Pig
 source: instagram
@@ -13,15 +13,16 @@ images:
 - /images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17889798046223179.jpg
 - /images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17843977018279750.jpg
 tags:
+- tokyo
+- japanese
 - sake
-- fridaynightlights
-- thirstypig
-- japanesefood
+- cocktails
 description: Drinks with friends at the newly opened Sake Dojo in Little Tokyo in DTLA. .real.mike.gin
 city: Tokyo
 region: Tokyo
-categories:
-- Tokyo
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Drinks with friends at the newly opened Sake Dojo in Little Tokyo in DTLA](/images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17937260662101708.jpg)

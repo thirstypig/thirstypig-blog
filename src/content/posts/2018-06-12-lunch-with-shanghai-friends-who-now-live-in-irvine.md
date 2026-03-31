@@ -1,5 +1,5 @@
 ---
-title: Lunch with Shanghai friends, who now live in Irvine
+title: Pepper Lunch, Irvine
 pubDate: '2018-06-12'
 author: The Thirsty Pig
 source: instagram
@@ -9,23 +9,21 @@ images:
 - /images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17918734087174835.jpg
 - /images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17879127148234363.jpg
 tags:
-- hakataramen
-- ramen
-- thirstypig
 - irvine
-- oc
-- theoc
+- japanese
+- ramen
+- hakata-ramen
 description: Lunch with Shanghai friends, who now live in Irvine. A good hearty bowl of ramen on a hot summer day! The standard Hakata Ramen. . . . .
 location: Pepper Lunch
 city: Irvine
 region: Orange County
-categories:
-- Irvine
-- Orange County
+categories: []
 address: 2750 Alton Pkwy (Jamboree Blvd), Irvine, CA 92606
 coordinates:
   lat: 33.688403
   lng: -117.832805
+cuisine:
+- Japanese
 ---
 
 ![Lunch with Shanghai friends, who now live in Irvine](/images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17918734087174835.jpg)

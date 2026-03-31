@@ -4,12 +4,11 @@ pubDate: '2011-07-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/14/craft-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Bar
-- Lounge
+- shanghai
+- cocktails
+- vodka
 description: Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singa
 archiveUrl: https://web.archive.org/web/20161106075149/http://thirstypig.com/2011/07/14/craft-shanghai/
 draft: false
@@ -20,6 +19,8 @@ address: 7 Donghu Rd (东湖路7号) (Huaihai Road (淮海中路)), 上海市, �
 coordinates:
   lat: 31.217704
   lng: 121.449888
+cuisine:
+- Cocktails
 ---
 
 

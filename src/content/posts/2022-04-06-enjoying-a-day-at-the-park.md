@@ -1,5 +1,5 @@
 ---
-title: 'Enjoying a day at the park, Anaheim'
+title: Enjoying a day at the park, Anaheim
 pubDate: '2022-04-06'
 author: The Thirsty Pig
 source: instagram
@@ -9,14 +9,11 @@ images:
 - /images/posts/ig-2022-04-06-enjoying-a-day-at-the-park/17905340147443510.jpg
 - /images/posts/ig-2022-04-06-enjoying-a-day-at-the-park/17930026406047541.jpg
 tags:
-- oc
 - anaheim
-- baseball
-- dodgers
-- itfdb
 description: Enjoying a day at the park. Watching a preseason game at Angel Stadium - Dodgers vs the Angels. Good times. . . . . .
 city: Anaheim
 region: Orange County
+categories: []
 ---
 
 ![Enjoying a day at the park](/images/posts/ig-2022-04-06-enjoying-a-day-at-the-park/17905340147443510.jpg)

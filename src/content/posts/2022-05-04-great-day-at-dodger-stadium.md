@@ -13,15 +13,10 @@ images:
 - /images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17859541871732966.jpg
 - /images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17918953991290266.jpg
 - /images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17961192829660739.jpg
-tags:
-- itfdb
-- dodgers
-- mlb
-- dodgerstadium
-- starwarsday
-- maythefourthbewithyou
+tags: []
 description: Great day at Dodger Stadium. Good win, too. . . . .
 location: Great day at Dodger Stadium
+categories: []
 ---
 
 ![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17908450211456994.jpg)

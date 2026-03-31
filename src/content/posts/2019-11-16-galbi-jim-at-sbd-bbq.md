@@ -1,5 +1,5 @@
 ---
-title: Galbi Jim at SBD BBQ
+title: SBD BBQ, San Gabriel Valley
 pubDate: '2019-11-16'
 author: The Thirsty Pig
 source: instagram
@@ -14,20 +14,17 @@ images:
 - /images/posts/ig-2019-11-16-galbi-jim-at-sbd-bbq/17897571862408369.jpg
 - /images/posts/ig-2019-11-16-galbi-jim-at-sbd-bbq/18081062953084556.jpg
 tags:
-- seongbukdong
-- koreanfood
-- kbbq
 - sgv
-- arcadia
-- galbijjim
-- galbijjimð
-- beefrib
-- eeeeeats
-- eat
-description: 'Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to the SGV. Known as SBD Korean Bbq - they offer their traditional dishes, that made them well known, but also offering DIY kbbq. Their Galbi Jjim sauce is outstanding but it appears that the quality of beef rib could have been of high quality and more tender. We also had the spicy Galbi Jjim, cold noodles, kimchi Jeon, spicy pork, tofu soup. I really liked the kimchi jeon - the kimchi pancake. . . . .🍖'
+- korean
+- bbq
+- galbi-jjim
+description: Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to the SGV. Known as SBD Korean Bbq - they offer their traditional dishes, that made them well known, but also offering DIY kbbq. Their Galbi Jjim sauce is outstanding but it appears that the quality of beef rib could have been of high quality and more tender. We also had the spicy Galbi Jjim, cold noodles, kimchi Jeon, spicy pork, tofu soup. I really liked the kimchi jeon - the kimchi pancake. . . . .🍖
 location: Galbi Jim at SBD BBQ
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Galbi Jim at SBD BBQ](/images/posts/ig-2019-11-16-galbi-jim-at-sbd-bbq/17893421731421402.jpg)

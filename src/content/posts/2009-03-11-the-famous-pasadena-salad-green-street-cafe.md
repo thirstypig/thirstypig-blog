@@ -1,5 +1,5 @@
 ---
-title: The Famous Pasadena Salad – Green Street Cafe
+title: The Famous Pasadena Salad, Pasadena
 pubDate: '2009-03-11'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,12 +7,7 @@ originalUrl: http://www.thethirstypig.com/2009/03/11/the-famous-pasadena-salad-g
 heroImage: /images/posts/the-famous-pasadena-salad-green-street-cafe/01142007590.jpg
 images:
 - /images/posts/the-famous-pasadena-salad-green-street-cafe/01142007590.jpg
-categories:
-- American
-- Lunch
-- Salad
-- Breakfast
-- Green Street Cafe
+categories: []
 description: The Diane Salad from the Green Street Cafe is probably one of the best salads I have ever had. I usually don’t order salads myself, but the Diane salad is one of the best. One of the rumors is that Gr
 archiveUrl: https://web.archive.org/web/20110105062507/http://www.thethirstypig.com/2009/03/11/the-famous-pasadena-salad-green-street-cafe/
 draft: false
@@ -22,6 +17,13 @@ address: '146 Shoppers Ln
 
   Pasadena, CA 91101'
 region: San Gabriel Valley
+tags:
+- pasadena
+- american
+- salad
+- chicken
+cuisine:
+- American
 ---
 
 The Diane Salad from the Green Street Cafe is probably one of the best salads I have ever had. I usually don’t order salads myself, but the Diane salad is one of the best. One of the rumors is that Green Street Cafe came up with the Chinese Chicken Salad, which derived from the Diane Salad. I wouldn’t be surprised.

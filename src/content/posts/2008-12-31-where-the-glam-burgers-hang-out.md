@@ -1,17 +1,21 @@
 ---
-title: 'Where the glam burgers hang out!, Los Angeles'
+title: Where the glam burgers hang out!, Los Angeles
 pubDate: '2008-12-31'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2008/12/31/where-the-glam-burgers-hang-out/
-categories:
-- Hamburgers
-- Los Angeles
+categories: []
 description: I have to post this list, or else I would forget these places. I know this is an old article, but it is a nice resource to have. These places all have great burgers. I have visited a few of them and I
 archiveUrl: https://web.archive.org/web/20110105193620/http://www.thethirstypig.com/2008/12/31/where-the-glam-burgers-hang-out/
 draft: false
 city: Los Angeles
 address: 2901 Ocean Park Blvd
+tags:
+- los-angeles
+- american
+- burgers
+cuisine:
+- American
 ---
 
 I have to post this list, or else I would forget these places. I know this is an old article, but it is a nice resource to have. These places all have great burgers. I have visited a few of them and I plan to write about them. I am sure there are other fabulous burger joints, now. But anyways, I just wanted to share this list with you.

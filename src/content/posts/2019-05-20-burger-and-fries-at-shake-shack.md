@@ -1,5 +1,5 @@
 ---
-title: Burger and Fries at Shake Shack
+title: Shake Shack, New York
 pubDate: '2019-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -11,16 +11,10 @@ images:
 - /images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/17883322897353045.jpg
 - /images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18000935188210056.jpg
 tags:
-- eeeeeats
-- eat
-- burger
-- hamburger
-- cheeseburger
-- mushrooms
-- mushroomburger
-- shakeshack
 - nyc
-- chelsea
+- american
+- burgers
+- fries
 description: Burger and Fries at Shake Shack. Had the double, mushroom burger, and combo mushroom & beef burger with a couple of orders of fries. . . .
 location: Shake Shack
 city: New York
@@ -29,6 +23,9 @@ address: Madison Square Park (at E 23rd St), New York, NY 10010
 coordinates:
   lat: 40.741484
   lng: -73.988218
+categories: []
+cuisine:
+- American
 ---
 
 ![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18066624565024900.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'and decadent Texas tea chess pie, Austin'
+title: Lucy's Fried Chicken, Austin
 pubDate: '2017-07-04'
 author: The Thirsty Pig
 source: instagram
@@ -14,17 +14,17 @@ images:
 - /images/posts/ig-2017-07-04-and-decadent-texas-tea-chess-pie/17887145716014937.jpg
 - /images/posts/ig-2017-07-04-and-decadent-texas-tea-chess-pie/17861676181167222.jpg
 tags:
-- laketravis
-- atx
-- sunset
-- friedchicken
-- collardgreens
-- texascaviar
-- bucketofchicken
+- austin
+- american
+- fried-chicken
+- dessert
 description: and decadent Texas tea chess pie
 location: Lucy's Fried Chicken
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- American
 ---
 
 ![and decadent Texas tea chess pie](/images/posts/ig-2017-07-04-and-decadent-texas-tea-chess-pie/17863301038144660.jpg)

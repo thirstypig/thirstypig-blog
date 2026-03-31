@@ -1,5 +1,5 @@
 ---
-title: Abalone Congee – Mountain Cafe
+title: Abalone Congee, Koreatown
 pubDate: '2009-04-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,17 +9,20 @@ images:
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+1.jpg
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+2.jpg
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+4.jpg
-categories:
-- Korean
-- Late Night
-- Breakfast
-- Mountain Cafe
+categories: []
 description: Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.
 archiveUrl: https://web.archive.org/web/20110105162822/http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/
 draft: false
 location: Abalone Congee
 city: Koreatown
 region: Los Angeles
+tags:
+- koreatown
+- korean
+- congee
+- abalone
+cuisine:
+- Korean
 ---
 
 Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.

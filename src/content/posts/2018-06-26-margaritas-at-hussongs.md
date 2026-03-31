@@ -1,5 +1,5 @@
 ---
-title: 'Margaritas at Hussongs, Ensenada'
+title: Hussong's, Ensenada
 pubDate: '2018-06-26'
 author: The Thirsty Pig
 source: instagram
@@ -9,17 +9,11 @@ images:
 - /images/posts/ig-2018-06-26-margaritas-at-hussongs/17954745178022702.jpg
 - /images/posts/ig-2018-06-26-margaritas-at-hussongs/17935359658092652.jpg
 tags:
-- bajacalifornia
-- ensenadamexico
 - ensenada
+- mexican
 - margaritas
-- margarita
-- tequila
-- mexico
-- hussongs
-- hussongscantina
-- usc
-description: 'Margaritas at Hussongs. Where the margarita was created. And the oldest and best known cantina. One of the best tasting margaritas, if not the best. And the best deal. For 70 pesos each or $3.50 each. Also had a funny USC sticker. . . . .'
+- cocktails
+description: Margaritas at Hussongs. Where the margarita was created. And the oldest and best known cantina. One of the best tasting margaritas, if not the best. And the best deal. For 70 pesos each or $3.50 each. Also had a funny USC sticker. . . . .
 location: Hussong's
 city: Ensenada
 region: Mexico
@@ -27,6 +21,9 @@ address: 'Ave Ruiz #113 (e/ Primera y Segunda), 22800 Ensenada, Baja California'
 coordinates:
   lat: 31.865002
   lng: -116.628687
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Margaritas at Hussongs](/images/posts/ig-2018-06-26-margaritas-at-hussongs/17954745178022702.jpg)

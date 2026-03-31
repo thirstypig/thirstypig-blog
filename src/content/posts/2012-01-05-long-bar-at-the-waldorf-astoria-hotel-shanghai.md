@@ -1,16 +1,10 @@
 ---
-title: Long Bar at the Waldorf Astoria Hotel, Shanghai
+title: The Long Bar at the Waldorf Astoria, Shanghai
 pubDate: '2012-01-05'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/01/05/long-bar-at-the-waldorf-astoria-hotel-shanghai/
-categories:
-- 2 pigs
-- hotel
-- Jazz
-- Lounge
-- Price Range 3 $/¥/NT
-- Shanghai
+categories: []
 description: Where did the Thirsty Pig crawl to? The Long Bar at the Waldorf Astoria, on the Bund, is a lounge that features live Jazz Music. As you walk in, it looks as if you stepped back into the grandeur of 19
 archiveUrl: https://web.archive.org/web/20120203100548/http://www.thethirstypig.com:80/2012/01/05/long-bar-at-the-waldorf-astoria-hotel-shanghai/
 draft: false
@@ -21,6 +15,12 @@ address: 1 Changde Rd (At M Yan'an Rd), 上海市, 上海市, 200040
 coordinates:
   lat: 31.224154
   lng: 121.443505
+tags:
+- shanghai
+- cocktails
+- oysters
+cuisine:
+- Cocktails
 ---
 
 **Where did the Thirsty Pig crawl to?**

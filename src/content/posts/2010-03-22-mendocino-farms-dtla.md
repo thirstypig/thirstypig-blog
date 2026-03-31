@@ -1,5 +1,5 @@
 ---
-title: Mendocino Farms, DTLA
+title: Mendocino Farms, Los Angeles
 pubDate: '2010-03-22'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -12,20 +12,19 @@ images:
 - /images/posts/mendocino-farms-dtla/IMG_0616.jpg
 - /images/posts/mendocino-farms-dtla/IMG_1227.jpg
 - /images/posts/mendocino-farms-dtla/IMG_1231.jpg
-categories:
-- Downtown LA
-- $$
-- 2 pigs
-- Sandwich
-- Dtla
+categories: []
 tags:
-- Downtown LA
+- dtla
+- american
+- sandwiches
 description: Ever since I had a taste of their sandwiches at the Project by Project Food & Wine eventhttp://blog.thethirstypig.com/2009/08/plate-by-plate-2009.html, I haven’t stopped thinking about their sandwiche
 archiveUrl: https://web.archive.org/web/20110105091918/http://www.thethirstypig.com/2010/03/22/mendocino-farms-dtla/
 draft: false
 location: Mendocino Farms
 city: Dtla
 region: Downtown LA
+cuisine:
+- American
 ---
 
 Mendocino Farms in Dtla.

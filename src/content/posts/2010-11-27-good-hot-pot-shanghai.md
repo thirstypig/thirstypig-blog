@@ -7,12 +7,11 @@ originalUrl: http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/
 heroImage: /images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg
 images:
 - /images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg
-categories:
-- Xuhui District
-- Shanghai
+categories: []
 tags:
-- Hot Pot
-- Shanghai
+- shanghai
+- chinese
+- hot-pot
 description: 'My friends know me to not be a big fan of hot pot. I never liked the DIY cooking aspect of handling raw food cooking in a pot. But it seems that girls really like hot pot. I am not sure why, but they '
 archiveUrl: https://web.archive.org/web/20160915042553/http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/
 draft: false
@@ -20,6 +19,8 @@ location: Good Hot Pot
 city: Shanghai
 region: Shanghai
 address: 338 Zi Zhong Road
+cuisine:
+- Chinese
 ---
 
 [![good-hot-pot-xintiandi-shanghai-13](/images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg "good-hot-pot-xintiandi-shanghai-13")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-13/)

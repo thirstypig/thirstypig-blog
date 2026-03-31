@@ -9,20 +9,14 @@ images:
 - /images/posts/ig-2019-09-18-carnitas-nachos-and-carnitas-quesadillas-second-dinnersnack/18100985797048738.jpg
 - /images/posts/ig-2019-09-18-carnitas-nachos-and-carnitas-quesadillas-second-dinnersnack/18070173613084659.jpg
 tags:
-- carnitasmichoacan
-- carnitas
+- mexican
 - nachos
-- quesadilla
-- mexicanfood
-- boyleheights
-- latenight
-- eat
-- eeeeeats
-- yum
+- quesadillas
 description: Carnitas Nachos and Carnitas Quesadillas, second dinner/snack. Yum. Good food and good time, telling lies. . . . .
 location: Carnitas Nachos and Carnitas Quesadillas
-categories:
-- second dinner/snack
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Carnitas Nachos and Carnitas Quesadillas, second dinner/snack](/images/posts/ig-2019-09-18-carnitas-nachos-and-carnitas-quesadillas-second-dinnersnack/18100985797048738.jpg)

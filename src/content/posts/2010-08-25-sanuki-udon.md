@@ -1,19 +1,23 @@
 ---
-title: Sanuki Udon
+title: Sanuki Udon, Taipei
 pubDate: '2010-08-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/08/25/sanuki-udon/
-categories:
-- 2 pigs
-- Japanese
-- Taipei
+categories: []
 description: 新光三越的美食地下街已經吃膩了，走到信義華納威秀二樓的美食街吃讚歧烏龍麵。
 archiveUrl: https://web.archive.org/web/20100915154748/http://www.thethirstypig.com:80/2010/08/25/sanuki-udon/
 draft: false
 location: Sanuki Udon
 city: Taipei
 region: Taipei
+tags:
+- taipei
+- japanese
+- udon
+- noodles
+cuisine:
+- Japanese
 ---
 
 新光三越的美食地下街已經吃膩了，走到信義華納威秀二樓的美食街吃讚歧烏龍麵。

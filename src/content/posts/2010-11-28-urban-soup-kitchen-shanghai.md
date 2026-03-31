@@ -1,5 +1,5 @@
 ---
-title: Urban Soup Kitchen, Shanghai
+title: Urban Soup Kitchen (吾伴浓汤), Shanghai
 pubDate: '2010-11-28'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,11 +7,12 @@ originalUrl: http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/
 heroImage: /images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg
 images:
 - /images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg
-categories:
-- Luwan
-- Shanghai
+categories: []
 tags:
-- Soup
+- shanghai
+- chinese
+- soup
+- sandwiches
 description: On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.
 archiveUrl: https://web.archive.org/web/20161019103504/http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/
 draft: false
@@ -22,6 +23,8 @@ address: 280 Madang Rd | 马当路280号 (Zizhong Rd | 自忠路), 上海市, �
 coordinates:
   lat: 31.219764
   lng: 121.470253
+cuisine:
+- Chinese
 ---
 
 [![urban-soup-kitchen-shanghai-11](/images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg "urban-soup-kitchen-shanghai-11")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-11/)

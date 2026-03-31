@@ -1,5 +1,5 @@
 ---
-title: 'Breakfast at JiST cafe, Little Tokyo'
+title: JiST Cafe, Little Tokyo
 pubDate: '2021-09-17'
 author: The Thirsty Pig
 source: instagram
@@ -11,20 +11,16 @@ images:
 - /images/posts/ig-2021-09-17-breakfast-at-jist-cafe/18131593231238372.jpg
 - /images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17947766053549232.jpg
 tags:
-- littletokyo
-- japanesebreakfast
-- porkbelly
-- rice
-- tatortots
-- littletokyo
-- dtla
-- eats
-- eeeeeats
-- thirstypig
+- little-tokyo
+- japanese
+- brunch
 description: Breakfast at JiST cafe. . . . .
 location: JiST Cafe
 city: Little Tokyo
 region: Los Angeles
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17920202935815847.jpg)

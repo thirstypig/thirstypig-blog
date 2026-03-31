@@ -1,5 +1,5 @@
 ---
-title: The Caesar Salad at Hotel Caesar in Tijuana
+title: Hotel Caesar, Tijuana
 pubDate: '2017-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -13,18 +13,13 @@ images:
 - /images/posts/ig-2017-08-18-the-caesar-salad-at-hotel-caesar-in-tijuana/17882527738097619.jpg
 - /images/posts/ig-2017-08-18-the-caesar-salad-at-hotel-caesar-in-tijuana/17894436736004795.jpg
 tags:
-- caesarsalad
-- hotelcaesar
-- tj
-- tijuana
-- salad
-- mexico
-- italianfood
-- food
-- timelapse
-- video
+- mexican
+- caesar-salad
 description: The Caesar Salad at Hotel Caesar in Tijuana. Invented in 1927, this is where it all began. The Caesar Salad is my favorite salad.
 location: The Caesar Salad at Hotel Caesar in Tijuana
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![The Caesar Salad at Hotel Caesar in Tijuana](/images/posts/ig-2017-08-18-the-caesar-salad-at-hotel-caesar-in-tijuana/17871412321136013.jpg)

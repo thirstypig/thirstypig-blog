@@ -1,5 +1,5 @@
 ---
-title: 'The Sub – Guilianos, Gardena'
+title: Guiliano's, Gardena
 pubDate: '2009-09-01'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,19 +11,20 @@ images:
 - /images/posts/the-sub-guilianos/DSCN0012.JPG
 - /images/posts/the-sub-guilianos/DSCN0014.JPG
 - /images/posts/the-sub-guilianos/DSCN0015.JPG
-categories:
-- American
-- Italian
-- Sandwich
-- Guilianos
+categories: []
 tags:
-- Los Angeles
+- gardena
+- american
+- sandwiches
+- deli
 description: One day for lunch, I selected to get sandwiches from Guilianos Delicatessen and Bakery, in Gardena. Open for over 50 years, this is the classic deli featuring cold cut meats, cheese, and sandwiches.
 archiveUrl: https://web.archive.org/web/20111103142149/http://www.thethirstypig.com/2009/09/01/the-sub-guilianos/
 draft: false
 location: Guiliano's
 city: Gardena
 region: South Bay
+cuisine:
+- American
 ---
 
 One day for lunch, I selected to get sandwiches from Guilianos Delicatessen and Bakery, in Gardena. Open for over 50 years, this is the classic deli featuring cold cut meats, cheese, and sandwiches.

@@ -1,5 +1,5 @@
 ---
-title: 'Hong Kong Cafe, Monterey Park'
+title: Hong Kong Cafe, Monterey Park
 pubDate: '2009-09-23'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,14 +11,12 @@ images:
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0021.JPG
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0029.JPG
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0032.JPG
-categories:
-- San Gabriel Valley
-- American
-- $$
-- French
-- I am HOT STUFF!
+categories: []
 tags:
-- LA's San Gabriel Valley
+- monterey-park
+- chinese
+- cafe
+- fusion
 description: I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.
 archiveUrl: https://web.archive.org/web/20110105235913/http://www.thethirstypig.com/2009/09/23/hot-stuff-cafe-thats-right-i-am-hot-stuff/
 draft: false
@@ -29,6 +27,8 @@ address: 162 W Garvey Ave (btwn Garfield Ave & S Ramona Ave), Monterey Park, CA 
 coordinates:
   lat: 34.062338
   lng: -118.124145
+cuisine:
+- Chinese
 ---
 
 I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.

@@ -4,12 +4,11 @@ pubDate: '2010-12-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/01/flair-lounge-shanghai/
-categories:
-- Pudong
-- Shanghai
+categories: []
 tags:
-- Bar
-- Lounge
+- shanghai
+- cocktails
+- rooftop-lounge
 description: Shanghai offers some of the best city views in the world. With the famous Bund, the former foreign embassies, overlooking Huangpu river, and skyscrapers on the other side, in Pudong. The nighttime spa
 archiveUrl: https://web.archive.org/web/20161018152740/http://thirstypig.com/2010/12/01/flair-lounge-shanghai/
 draft: false
@@ -17,6 +16,8 @@ location: Flair Lounge
 city: Shanghai
 region: Shanghai
 address: 8 Century Ave
+cuisine:
+- Cocktails
 ---
 
 

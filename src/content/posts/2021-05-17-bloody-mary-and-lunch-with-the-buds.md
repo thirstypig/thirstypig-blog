@@ -1,5 +1,5 @@
 ---
-title: 'Bloody Mary and lunch with the buds, Redondo Beach'
+title: The Boy & The Bear - Coffee Roastery, Redondo Beach
 pubDate: '2021-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -13,16 +13,10 @@ images:
 - /images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17926614046592593.jpg
 - /images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17893698926096236.jpg
 tags:
-- redondobeach
-- brunch
-- lunch
-- lobstermacncheese
+- redondo-beach
+- seafood
+- pastrami-sandwich
 - oysters
-- fries
-- pastramisandwich
-- bloodymary
-- thirstypig
-- eeeeeats
 description: Bloody Mary and lunch with the buds. Pastrami sandwich, cauliflower poppers, oysters, and lobster Mac and cheese. Good views on an overcast day. . . . . . .
 location: The Boy & The Bear - Coffee Roastery
 city: Redondo Beach
@@ -31,6 +25,9 @@ address: 350 N Pacific Coast Hwy, Redondo Beach, CA 90277
 coordinates:
   lat: 33.847047
   lng: -118.387689
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17919066523717764.jpg)

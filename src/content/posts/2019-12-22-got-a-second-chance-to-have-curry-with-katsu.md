@@ -1,5 +1,5 @@
 ---
-title: 'Got a second chance to have curry with katsu, San Gabriel'
+title: Hui Tou Xiang Noodles House, San Gabriel
 pubDate: '2019-12-22'
 author: The Thirsty Pig
 source: instagram
@@ -11,17 +11,11 @@ images:
 - /images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/17856701584666807.jpg
 - /images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/18120413164037343.jpg
 tags:
-- japanesefood
-- sgv
-- pasadena
+- san-gabriel
+- japanese
 - curry
 - katsu
-- searedcod
-- sukiyaki
-- chickenkaraage
-- eat
-- eeeeeats
-description: 'Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. We also had the chicken karage, which was gobbled up quite fast. Yum yum. Glad this place is not far from home. Thanks to for introducing this place to us . . . . . .'
+description: Got a second chance to have curry with katsu. This time delicatessen by Osawa did not disappoint. Curry was flavorful and the katsu was ideal. The seared cod and sukiyaki was also very good as well. We also had the chicken karage, which was gobbled up quite fast. Yum yum. Glad this place is not far from home. Thanks to for introducing this place to us . . . . . .
 location: Hui Tou Xiang Noodles House
 city: San Gabriel
 region: San Gabriel Valley
@@ -29,6 +23,9 @@ address: 704 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102047
   lng: -118.109943
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Got a second chance to have curry with katsu](/images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/17879992042488466.jpg)

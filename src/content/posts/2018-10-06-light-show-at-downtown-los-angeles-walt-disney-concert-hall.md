@@ -1,5 +1,5 @@
 ---
-title: Light show at downtown Los Angeles Walt Disney Concert Hall
+title: Walt Disney Concert Hall, Los Angeles
 pubDate: '2018-10-06'
 author: The Thirsty Pig
 source: instagram
@@ -8,18 +8,16 @@ heroImage: /images/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-d
 images:
 - /images/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17971365199116446.jpg
 tags:
-- waltdisneyconcerthall
-- lightshow
-- weekend
+- los-angeles
 description: Light show at downtown Los Angeles Walt Disney Concert Hall. Last night tonight. . . .
 location: Walt Disney Concert Hall
 city: Los Angeles
-categories:
-- Los Angeles
+categories: []
 address: 111 S Grand Ave (btwn 1st & 2nd St), Los Angeles, CA 90012
 coordinates:
   lat: 34.055458
   lng: -118.249633
+cuisine: []
 ---
 
 ![Light show at downtown Los Angeles Walt Disney Concert Hall](/images/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17971365199116446.jpg)

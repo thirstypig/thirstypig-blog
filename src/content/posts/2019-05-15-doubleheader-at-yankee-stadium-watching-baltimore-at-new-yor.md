@@ -1,5 +1,5 @@
 ---
-title: 'The Little Jewel of New Orleans, Los Angeles'
+title: The Little Jewel of New Orleans, Los Angeles
 pubDate: '2019-05-15'
 author: The Thirsty Pig
 source: instagram
@@ -16,13 +16,9 @@ images:
 - /images/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18048285595112418.jpg
 - /images/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18024625153171991.jpg
 tags:
-- eeeeeats
-- yankees
-- baseball
-- doubleheader
+- los-angeles
+- american
 - bacon
-- hotdogs
-- nyc
 description: Doubleheader at Yankee stadium watching Baltimore at New York. Check out that thick cut bacon. When is that coming to LA? . . .
 location: The Little Jewel of New Orleans
 city: Los Angeles
@@ -31,6 +27,9 @@ address: 207 Ord St, Los Angeles, CA 90012
 coordinates:
   lat: 34.060036
   lng: -118.23826
+categories: []
+cuisine:
+- American
 ---
 
 ![Doubleheader at Yankee stadium watching Baltimore at New York](/images/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18061216726065771.jpg)

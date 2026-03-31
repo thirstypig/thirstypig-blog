@@ -1,5 +1,5 @@
 ---
-title: "P.J. Clarke's, New York"
+title: P.J. Clarke's, New York
 pubDate: '2018-01-02'
 author: The Thirsty Pig
 source: instagram
@@ -15,14 +15,10 @@ images:
 - /images/posts/ig-2018-01-02-the-cadillac-burger-legend-has-it-nat-king-cole-named-the-ba/17856477070220025.jpg
 tags:
 - nyc
-- '2018'
-- wouldrecommend
-- thirstypig
-- shelfish
+- american
+- burgers
 - seafood
-- burger
-- fries
-description: 'The Cadillac Burger Legend has it Nat King Cole named the bacon burger the “Cadillac of Burgers” at PJ Clarkes. Opened in 1884, they are known for their raw seafood bar and burgers. Tonight we had the Cadillac Burger, the Burger, the Deluxe Tower, Crab Cakes, and Seared Dry Sea Scallops. Solid burger and fresh seafood - in an historic NYC restaurant.'
+description: The Cadillac Burger Legend has it Nat King Cole named the bacon burger the “Cadillac of Burgers” at PJ Clarkes. Opened in 1884, they are known for their raw seafood bar and burgers. Tonight we had the Cadillac Burger, the Burger, the Deluxe Tower, Crab Cakes, and Seared Dry Sea Scallops. Solid burger and fresh seafood - in an historic NYC restaurant.
 city: New York
 region: New York
 location: P.J. Clarke's
@@ -30,6 +26,9 @@ address: 915 3rd Ave (at E 55th St), New York, NY 10022
 coordinates:
   lat: 40.758924
   lng: -73.968474
+categories: []
+cuisine:
+- American
 ---
 
 ![The Cadillac Burger Legend has it Nat King Cole named the bacon burger the ...](/images/posts/ig-2018-01-02-the-cadillac-burger-legend-has-it-nat-king-cole-named-the-ba/17886025246171878.jpg)

@@ -10,15 +10,10 @@ images:
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/18016293289410444.jpg
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17950713856875496.jpg
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17928826148242503.jpg
-tags:
-- walmartmuseum
-- bentonville
-- arkansas
-- roadtrip
-description: 'First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton . . . . . .'
+tags: []
+description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton . . . . . .
 location: First Walmart
-categories:
-- now is the Walmart Museum
+categories: []
 ---
 
 ![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17936385863323997.jpg)

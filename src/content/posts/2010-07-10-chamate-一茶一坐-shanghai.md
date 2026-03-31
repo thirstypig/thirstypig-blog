@@ -1,15 +1,15 @@
 ---
-title: Chamate 一茶一坐 , Shanghai
+title: Chamate (一茶一坐), Shanghai
 pubDate: '2010-07-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/
-categories:
-- Los Angeles
-- Shanghai
+categories: []
 tags:
-- Taiwanese
-- Tea
+- shanghai
+- taiwanese
+- tea
+- dim-sum
 description: Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers a
 archiveUrl: https://web.archive.org/web/20161019153941/http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 淮海中路939号 (陕西南路), 上海市, 上海市
 coordinates:
   lat: 31.216551
   lng: 121.459657
+cuisine:
+- Taiwanese
 ---
 
 

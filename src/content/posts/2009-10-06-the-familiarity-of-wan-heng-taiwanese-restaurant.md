@@ -1,5 +1,5 @@
 ---
-title: 'Newport Seafood Restaurant, San Gabriel'
+title: Newport Seafood Restaurant, San Gabriel
 pubDate: '2009-10-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,14 +13,12 @@ images:
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0892.jpg
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0894.jpg
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0896.JPG
-categories:
-- San Gabriel Valley
-- $
-- 3 pigs
-- Taiwanese
-- San Gabriel
+categories: []
 tags:
-- LA's San Gabriel Valley
+- san-gabriel
+- taiwanese
+- dim-sum
+- noodles
 description: This is my last stop of Taiwanese restaurants that I have recently visited & revisited. I think, lately, I had a huge craving for Taiwanese food, for whatever reason. Of the three, Wang Heng, Jurassic
 archiveUrl: https://web.archive.org/web/20110105224826/http://www.thethirstypig.com/2009/10/06/the-familiarity-of-wan-heng-taiwanese-restaurant/
 draft: false
@@ -31,6 +29,8 @@ address: 518 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.10231
   lng: -118.106975
+cuisine:
+- Taiwanese
 ---
 
 This is my last stop of Taiwanese restaurants that I have recently visited & revisited. I think, lately, I had a huge craving for Taiwanese food, for whatever reason. Of the three, Wang Heng, Jurassic, and Old Country Cafe, Wan Heng might be the oldest and have the longest history.

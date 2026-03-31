@@ -13,20 +13,19 @@ images:
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-5-88x88.jpg
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-7-88x88.jpg
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-8-88x88.jpg
-categories:
-- 2 pigs
-- Noodles
-- Price Range $/¥/NT
-- Soup
-- Taipei
+categories: []
 tags:
-- Taipei 台北
-- Zhong Shan District 台北中山區
+- taipei
+- chinese
+- hot-and-sour-soup
+- dumplings
 description: 'This brings use to Fu Tai. Almost Universally accepted to have the best hot and sour soup around. Whilst, with the name inclusive of their steam dumplings, they are arguably more known for this soup. '
 archiveUrl: https://web.archive.org/web/20110105023345/http://www.thethirstypig.com/2010/07/06/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/
 draft: false
 city: Taipei
 region: Taipei
+cuisine:
+- Chinese
 ---
 
 2 pigs in Taipei.

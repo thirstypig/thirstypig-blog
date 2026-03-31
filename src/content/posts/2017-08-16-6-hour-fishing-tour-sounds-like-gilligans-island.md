@@ -1,5 +1,5 @@
 ---
-title: 6 hour fishing tour, sounds like Gilligan’s Island
+title: Fishing Boat Monte Carlo, San Pedro
 pubDate: '2017-08-16'
 author: The Thirsty Pig
 source: instagram
@@ -16,13 +16,10 @@ images:
 - /images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17867195365175196.jpg
 tags:
 - fishing
-- sanpedro
-- mackerel
-- sportfishing
-description: '6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to catch some small mackerel. Got to feed some seagull some of our live bait. We will do it again! Thanks to ptwoo and Bosco'
+description: 6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to catch some small mackerel. Got to feed some seagull some of our live bait. We will do it again! Thanks to ptwoo and Bosco
 location: 6 hour fishing tour
-categories:
-- sounds like Gilligan’s Island
+categories: []
+cuisine: []
 ---
 
 ![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17868971677179565.jpg)

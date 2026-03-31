@@ -1,17 +1,14 @@
 ---
-title: The Bazaar – Beverly HIlls
+title: The Cheese Store of Beverly Hills, Beverly Hills
 pubDate: '2010-04-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2010/04/23/the-bazaar/
-categories:
-- Beverly HIlls
-- Beverly Hills
-- Westside
+categories: []
 tags:
-- Beverly Hills
-- Los Angeles
-- Spanish
+- beverly-hills
+- spanish
+- tapas
 description: The Bazaar, Beverly Hills
 archiveUrl: https://web.archive.org/web/20160523111949/http://thirstypig.com:80/2010/04/23/the-bazaar/
 draft: false
@@ -22,6 +19,8 @@ address: 419 N Beverly Dr, Beverly Hills, CA 90210
 coordinates:
   lat: 34.070357
   lng: -118.402368
+cuisine:
+- Spanish
 ---
 
 The Bazaar, Beverly Hills

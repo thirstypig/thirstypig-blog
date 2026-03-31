@@ -1,16 +1,15 @@
 ---
-title: Cafe Habana Malibu
+title: Cafe Habana Malibu, Santa Monica
 pubDate: '2016-12-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/15/cafe-habana-malibu/
-categories:
-- Santa Monica
-- Westside
+categories: []
 tags:
-- Beach
-- Cuban
-- Sandwich
+- santa-monica
+- cuban
+- grilled-corn
+- cubano
 description: Love the Grilled Corn Mexican Style with cotija cheese – one day I am going copy it They make a proper Cubano with both Ham and Pork Nice walled garden for outdoor seating Good brunch spot Wish they h
 archiveUrl: https://web.archive.org/web/20161221023059/http://thirstypig.com/2016/12/15/cafe-habana-malibu/
 draft: false
@@ -18,6 +17,8 @@ location: Cafe Habana Malibu
 city: Santa Monica
 region: Westside
 address: 3939 Cross Creek Rd Malibu Lumber Yard Malibu, CA 90265
+cuisine:
+- Cuban
 ---
 
 

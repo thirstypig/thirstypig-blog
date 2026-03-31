@@ -1,5 +1,5 @@
 ---
-title: Friday Lunch at Bruxie in Irvine
+title: Bruxie, Irvine
 pubDate: '2018-11-02'
 author: The Thirsty Pig
 source: instagram
@@ -11,13 +11,10 @@ images:
 - /images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17917323655244481.jpg
 - /images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17934898546207652.jpg
 tags:
-- thirstypig
-- chicken
-- friedchicken
-- wafflesandwich
-- chickenandwaffles
-- wafflefries
-- bruxiewaffles
+- irvine
+- fusion
+- sandwiches
+- nachos
 description: Friday Lunch at Bruxie in Irvine. OMG. Didn’t know half a sandwich was so filling. Had the Irish nachos! . . . . .
 location: AC Hotel Irvine
 city: Irvine
@@ -26,6 +23,9 @@ address: 3309 Michelson Dr, Irvine, CA 92612
 coordinates:
   lat: 33.672436
   lng: -117.844526
+categories: []
+cuisine:
+- Fusion
 ---
 
 ![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17979735007115477.jpg)

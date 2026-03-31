@@ -9,14 +9,9 @@ images:
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18052128761250145.jpg
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18082818406731525.jpg
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18151127368329074.jpg
-tags:
-- dodgers
-- dodgerstadium
-- hotdogs
-- dodgerdogs
-- eats
-- eeeats
+tags: []
 description: Enjoying a Dodger Dog at the game . . .
+categories: []
 ---
 
 ![Enjoying a Dodger Dog at the game](/images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18052128761250145.jpg)

@@ -1,15 +1,10 @@
 ---
-title: Mr Willis, Shanghai
+title: Mr. Willis, Shanghai
 pubDate: '2012-01-06'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/01/06/mr-willis-shanghai/
-categories:
-- 2 pigs
-- American
-- Price Range 2 $/¥/NT
-- Western
-- Shanghai
+categories: []
 description: What is Mr Willis? Situated on Anfu road in Shanghai, Mr Willis is a western restaurant. Anfu road is known for the little eateries and shops. Lots of expats and foreigners frequent this area. Yet, Mr
 archiveUrl: https://web.archive.org/web/20120203111052/http://www.thethirstypig.com:80/2012/01/06/mr-willis-shanghai/
 draft: false
@@ -20,6 +15,13 @@ address: 3/F 195 Anfu Rd | 安福路195号3楼, Jìngān, Xuhui, 上海市
 coordinates:
   lat: 31.216038
   lng: 121.439174
+tags:
+- shanghai
+- french
+- roast-chicken
+- suckling-pig
+cuisine:
+- French
 ---
 
 **What is Mr Willis?**

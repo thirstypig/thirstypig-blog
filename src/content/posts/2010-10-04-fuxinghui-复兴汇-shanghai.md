@@ -4,11 +4,12 @@ pubDate: '2010-10-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Shanghainese
+- shanghai
+- chinese
+- shanghainese
+- fine-dining
 description: Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.
 archiveUrl: https://web.archive.org/web/20161019014431/http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/
 draft: false
@@ -16,6 +17,8 @@ location: Fuxinghui 复兴汇
 city: Shanghai
 region: Shanghai
 address: 1479 Middle Fuxing Road
+cuisine:
+- Chinese
 ---
 
 

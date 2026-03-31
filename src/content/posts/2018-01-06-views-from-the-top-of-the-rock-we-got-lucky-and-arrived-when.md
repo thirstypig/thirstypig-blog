@@ -1,5 +1,5 @@
 ---
-title: 'Top of the Rock Observation Deck, New York'
+title: Top of the Rock Observation Deck, New York
 pubDate: '2018-01-06'
 author: The Thirsty Pig
 source: instagram
@@ -12,11 +12,7 @@ images:
 - /images/posts/ig-2018-01-06-views-from-the-top-of-the-rock-we-got-lucky-and-arrived-when/17857308385221279.jpg
 - /images/posts/ig-2018-01-06-views-from-the-top-of-the-rock-we-got-lucky-and-arrived-when/17857230283217278.jpg
 tags:
-- sunset
 - nyc
-- rockefellercenter
-- empirestatebuilding
-- timelapsevideo
 description: Views from the Top of the Rock We got lucky and arrived when the crowds were small and stayed until a little after sunset. Check out my time lapse video.
 city: New York
 region: New York
@@ -25,6 +21,8 @@ address: 30 Rockefeller Plz (btwn 5th & 6th Ave), New York, NY 10112
 coordinates:
   lat: 40.759157
   lng: -73.979687
+categories: []
+cuisine: []
 ---
 
 ![Views from the Top of the Rock We got lucky and arrived when the crowds were...](/images/posts/ig-2018-01-06-views-from-the-top-of-the-rock-we-got-lucky-and-arrived-when/17916429103059677.jpg)

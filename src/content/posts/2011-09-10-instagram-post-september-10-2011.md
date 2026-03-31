@@ -7,6 +7,9 @@ draft: false
 heroImage: /images/posts/ig-2011-09-10-instagram-post-september-10-2011/17842672006049948.jpg
 images:
 - /images/posts/ig-2011-09-10-instagram-post-september-10-2011/17842672006049948.jpg
+cuisine: []
+tags: []
+categories: []
 ---
 
 ![Instagram Post — September 10, 2011](/images/posts/ig-2011-09-10-instagram-post-september-10-2011/17842672006049948.jpg)

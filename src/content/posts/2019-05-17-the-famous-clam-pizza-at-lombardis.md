@@ -1,5 +1,5 @@
 ---
-title: 'The famous clam pizza at Lombardi’s, New York'
+title: Lombardi's, New York
 pubDate: '2019-05-17'
 author: The Thirsty Pig
 source: instagram
@@ -11,20 +11,17 @@ images:
 - /images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17878865440361036.jpg
 - /images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17865712708377265.jpg
 tags:
-- eeeeeats
-- eat
 - nyc
-- chelsea
-- chelseanyc
+- italian
 - pizza
-- whitepizza
-- sausagepizza
-- clampizza
-- chickenparmesan
+- clam
 description: The famous clam pizza at Lombardi’s. Also had the chicken parmesan, half white and sausage pizza, and an Italian salad. Solid pizza! . . .
 location: Lombardi's
 city: New York
 region: New York
+categories: []
+cuisine:
+- Italian
 ---
 
 ![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17849587021438362.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Baked Chicken at Love Baked Wings on Melrose, Seoul'
+title: Love Baked Wings, Los Angeles
 pubDate: '2019-11-21'
 author: The Thirsty Pig
 source: instagram
@@ -12,26 +12,21 @@ images:
 - /images/posts/ig-2019-11-21-baked-chicken-at-love-baked-wings-on-melrose/18042165889209943.jpg
 - /images/posts/ig-2019-11-21-baked-chicken-at-love-baked-wings-on-melrose/17846751223760975.jpg
 tags:
-- bakedchicken
+- seoul
+- korean
+- baked-chicken
 - wings
-- chicken
-- melrose
-- hollywood
-- spicy
-- dippingsauce
-- eeeeeats
-- eat
-- la
-description: 'Baked Chicken at Love Baked Wings on Melrose. Still with a nice crackle but without the greasy fried crust. I first had baked chicken in Seoul at Oppadak with a couple of local elementary school teachers. Loved the baked concept with the dry seasonings and especially liked the dipping sauces. Their spicy is crazy spicy! Unfortunately their lemon rub is a bit too sour. Read that the chef used to be personal chef. Would recommend and want to visit again soon. I hope they build one in Pasadena. . . . .'
+description: Baked Chicken at Love Baked Wings on Melrose. Still with a nice crackle but without the greasy fried crust. I first had baked chicken in Seoul at Oppadak with a couple of local elementary school teachers. Loved the baked concept with the dry seasonings and especially liked the dipping sauces. Their spicy is crazy spicy! Unfortunately their lemon rub is a bit too sour. Read that the chef used to be personal chef. Would recommend and want to visit again soon. I hope they build one in Pasadena. . . . .
 location: Korea Ginseng Chicken Soup (고려삼계탕)
 city: Seoul
 region: Seoul
-categories:
-- Seoul
+categories: []
 address: 중구 서소문로11길 1 (시청본점), 소공동, 서울특별시, 서울특별시, 100-814
 coordinates:
   lat: 37.562971
   lng: 126.972917
+cuisine:
+- Korean
 ---
 
 ![Baked Chicken at Love Baked Wings on Melrose](/images/posts/ig-2019-11-21-baked-chicken-at-love-baked-wings-on-melrose/18006380785268260.jpg)

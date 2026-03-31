@@ -1,5 +1,5 @@
 ---
-title: Crepes on a Tuesday at Universal Citywalk
+title: Crepes on a Tuesday, Universal City
 pubDate: '2019-02-26'
 author: The Thirsty Pig
 source: instagram
@@ -9,16 +9,16 @@ images:
 - /images/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/18039546481032032.jpg
 - /images/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/17858538901345466.jpg
 tags:
-- jianbing
-- crepe
-- citywalk
-- universalstudios
-- pizzacrepe
-- æ
-- å
-- eeeeeats
+- universal-city
+- fusion
+- crepes
+- pizza
 description: Crepes on a Tuesday at Universal Citywalk. I was in the mood for something savory - so I got a pizza crepe. An Italian JianBing as I would call it. 意大利建兵. . . .
 location: Crepes on a Tuesday at Universal Citywalk
+categories: []
+city: Universal City
+cuisine:
+- Fusion
 ---
 
 ![Crepes on a Tuesday at Universal Citywalk](/images/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/18039546481032032.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Ippudo, San Francisco'
+title: Ippudo, San Francisco
 pubDate: '2018-02-14'
 author: The Thirsty Pig
 source: instagram
@@ -11,10 +11,12 @@ images:
 - /images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17851311001234586.jpg
 - /images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17916292102075842.jpg
 tags:
+- san-francisco
+- japanese
 - ramen
-description: 'A chilly windy day in Had some hot and hearty had the karaka - the spicy noodles, the shiromaru- the classic pork broth, and the akamaru tamago - rich fatty pork broth with egg. Yum. The thin noodles were just right. Even had extra firm noodles'
-categories:
-- the spicy ...
+- noodles
+description: A chilly windy day in Had some hot and hearty had the karaka - the spicy noodles, the shiromaru- the classic pork broth, and the akamaru tamago - rich fatty pork broth with egg. Yum. The thin noodles were just right. Even had extra firm noodles
+categories: []
 location: Ippudo
 city: San Francisco
 region: San Francisco
@@ -22,6 +24,8 @@ address: 18 Yerba Buena Ln (btwn Market & Mission St), San Francisco, CA 94103
 coordinates:
   lat: 37.785871
   lng: -122.404302
+cuisine:
+- Japanese
 ---
 
 ![A chilly windy day in Had some hot and hearty had the karaka - the spicy ...](/images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17925914527010309.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Fried Chick’n at Fuku at Hudson Yards
+title: Fuku, New York
 pubDate: '2019-05-22'
 author: The Thirsty Pig
 source: instagram
@@ -14,18 +14,16 @@ images:
 - /images/posts/ig-2019-05-22-fried-chickn-at-fuku-at-hudson-yards/17866954087381706.jpg
 - /images/posts/ig-2019-05-22-fried-chickn-at-fuku-at-hudson-yards/18023117248197901.jpg
 tags:
-- hudsonyardsnyc
-- chelsea
-- springtimeinnyc
-- chelseanyc
-- thirstypig
-- eeeeeats
-- eat
-- chicken
-- friedchicken
-- notforeveryone
+- nyc
+- american
+- fried-chicken
+- chicken-fingers
 description: Fried Chick’n at Fuku at Hudson Yards. We had fried chicken, chicken fingers, slaw, fries, and chickpea mac’n cheese. I liked the fried chicken and skin. But it isn’t for everyone. . . .
 location: Fried Chick’n at Fuku at Hudson Yards
+categories: []
+city: New York
+cuisine:
+- American
 ---
 
 ![Fried Chick’n at Fuku at Hudson Yards](/images/posts/ig-2019-05-22-fried-chickn-at-fuku-at-hudson-yards/17876456308367196.jpg)

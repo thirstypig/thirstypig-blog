@@ -1,5 +1,5 @@
 ---
-title: 'Niko Sando, Brentwood'
+title: Niko Sando, Brentwood
 pubDate: '2026-03-23'
 author: The Thirsty Pig
 source: instagram
@@ -18,6 +18,9 @@ address: 912 S Barrington Ave, Los Angeles, CA 90049
 coordinates:
   lat: 34.0489
   lng: -118.4679
+tags:
+- brentwood
+categories: []
 ---
 
 ![Japanese Sandos from Niko Sandi had the egg salad and the pork cutlet](/images/posts/ig-2026-03-23-japanese-sandos-from-niko-sandi-had-the-egg-salad-and-the-po/17905240221386255.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Apple Store Shanghai
+title: Apple Shanghai iapm (Apple 上海环贸 iapm), Shanghai
 pubDate: '2010-08-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -19,10 +19,7 @@ images:
 - /images/posts/apple-store-shanghai/DSC00073-188x141.jpg
 - /images/posts/apple-store-shanghai/IMG_3407-494x370.jpg
 - /images/posts/apple-store-shanghai/IMG_3407-88x88.jpg
-categories:
-- 3 pigs
-- Pudong District
-- Shanghai
+categories: []
 description: Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion siteblog. But I had to post about the new official Apple Store in Pudong, Shanghai.
 archiveUrl: https://web.archive.org/web/20100915154739/http://www.thethirstypig.com:80/2010/08/02/apple-store-shanghai/
 draft: false
@@ -33,6 +30,9 @@ address: 淮海中路999号, 环贸iapm商场L1-107&L2-207, 徐汇区 (iapm Mall
 coordinates:
   lat: 31.215838
   lng: 121.457759
+tags:
+- shanghai
+cuisine: []
 ---
 
 Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion site(blog). But I had to post about the new official Apple Store in Pudong, Shanghai.

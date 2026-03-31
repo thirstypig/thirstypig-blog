@@ -1,5 +1,5 @@
 ---
-title: Churrasco at Fogo de Chao, Beverly Hills
+title: Fogo de Chao, Beverly Hills
 pubDate: '2010-07-05'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -30,23 +30,19 @@ images:
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3002-88x88.jpg
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3004-494x370.jpg
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3004-88x88.jpg
-categories:
-- 2 pigs
-- All You Can Eat
-- Barbeque
-- Brazilian
-- Beverly Hills
-- Westside
+categories: []
 tags:
-- Beverly Hills
-- Los Angeles
-- West LA
+- beverly-hills
+- bbq
+- churrasco
 description: Fogo de Chao is a Brazilian Churrasco BBQ. BBQ with the universally accepted meaning of roasting and grilling meats over open flames. Korean also have a BBQ as well as Americans.
 archiveUrl: https://web.archive.org/web/20110105150832/http://www.thethirstypig.com/2010/07/05/churrasco-at-fogo-de-chao-beverly-hills/
 draft: false
 location: Fogo de Chao
 city: Beverly Hills
 region: Westside
+cuisine:
+- BBQ
 ---
 
 Larder at Maple Drive in Beverly Hills.

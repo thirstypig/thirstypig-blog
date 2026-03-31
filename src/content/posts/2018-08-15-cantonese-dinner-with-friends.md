@@ -1,5 +1,5 @@
 ---
-title: 'Cantonese dinner with friends, Arcadia'
+title: May Mei Restaurant, Arcadia
 pubDate: '2018-08-15'
 author: The Thirsty Pig
 source: instagram
@@ -12,17 +12,11 @@ images:
 - /images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17969581096040614.jpg
 - /images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17942618524132500.jpg
 tags:
-- thirstypig
 - arcadia
-- sgv
-- cantonesefood
-- beefchowfun
-- hotpotrice
-- eeeeeats
-- pork
-- fish
-- soup
-description: 'Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid quality and grubbing. First time here. Would return. May Mei Restaurant. . . . .'
+- chinese
+- hot-pot
+- cantonese
+description: Cantonese dinner with friends. Hot pot rice with sausage and Chinese broccoli, fried fish, spicy salt pork chops, egg drop soup, vegetables, and beef chow fun. They specialize in hot pot rice. Solid quality and grubbing. First time here. Would return. May Mei Restaurant. . . . .
 location: Friends of Foster Children
 city: Arcadia
 region: San Gabriel Valley
@@ -30,6 +24,9 @@ address: 1105 Arcadia Ave, Arcadia, CA 91007
 coordinates:
   lat: 34.139916
   lng: -118.035407
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Cantonese dinner with friends](/images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17962773406078568.jpg)

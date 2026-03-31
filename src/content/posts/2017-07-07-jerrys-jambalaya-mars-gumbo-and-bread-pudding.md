@@ -1,5 +1,5 @@
 ---
-title: "Mother's Restaurant, New Orleans"
+title: Mother's Restaurant, New Orleans
 pubDate: '2017-07-07'
 author: The Thirsty Pig
 source: instagram
@@ -13,21 +13,21 @@ images:
 - /images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17863518658145169.jpg
 - /images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17878822021076503.jpg
 tags:
+- new-orleans
+- cajun
 - jambalaya
 - gumbo
-- breadpudding
-- yuengling
-- mothersrestaurant
 description: Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding. Washed down with Yuengling Beer. Tonight we are just tasting a few dishes.
 location: Mother's Restaurant
-categories:
-- and Bread Pudding
+categories: []
 city: New Orleans
 region: Louisiana
 address: 401 Poydras St (at Tchoupitoulas St), New Orleans, LA 70130
 coordinates:
   lat: 29.948835
   lng: -90.066902
+cuisine:
+- Cajun
 ---
 
 ![Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding](/images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17847207283195764.jpg)

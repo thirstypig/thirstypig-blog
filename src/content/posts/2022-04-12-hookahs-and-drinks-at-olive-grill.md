@@ -8,14 +8,10 @@ heroImage: /images/posts/ig-2022-04-12-hookahs-and-drinks-at-olive-grill/1795579
 images:
 - /images/posts/ig-2022-04-12-hookahs-and-drinks-at-olive-grill/17955791473705558.jpg
 - /images/posts/ig-2022-04-12-hookahs-and-drinks-at-olive-grill/17943473080920456.jpg
-tags:
-- studiocity
-- hookah
-- wine
-- drinks
-- thevalley
+tags: []
 description: Hookahs and drinks at Olive & Grill. Haven’t smoked a hookah in years. Need to find my old hookah. Cool place with live music. . . . . .
 location: Hookahs and drinks at Olive & Grill
+categories: []
 ---
 
 ![Hookahs and drinks at Olive & Grill](/images/posts/ig-2022-04-12-hookahs-and-drinks-at-olive-grill/17955791473705558.jpg)

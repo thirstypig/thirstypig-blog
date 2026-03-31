@@ -14,15 +14,10 @@ images:
 - /images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17996693929209130.jpg
 - /images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17872333831364166.jpg
 - /images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17860678570379185.jpg
-tags:
-- itfdb
-- friarfaithful
-- baseball
-- mlb
-- dodgers
-- petcopark
-- cincodemayo
+tags: []
 description: Enjoying a Sunday afternoon at the park. Petco Park, watching the Dodgers attempt to sweep the Padres!!! . . .
+categories: []
+cuisine: []
 ---
 
 ![Enjoying a Sunday afternoon at the park](/images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17873721469362213.jpg)

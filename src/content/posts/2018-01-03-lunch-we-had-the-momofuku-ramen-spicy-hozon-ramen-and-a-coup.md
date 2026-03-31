@@ -1,5 +1,5 @@
 ---
-title: 'Momofuku Noodle Bar, New York'
+title: Momofuku Noodle Bar, New York
 pubDate: '2018-01-03'
 author: The Thirsty Pig
 source: instagram
@@ -11,25 +11,21 @@ images:
 - /images/posts/ig-2018-01-03-lunch-we-had-the-momofuku-ramen-spicy-hozon-ramen-and-a-coup/17856722563219174.jpg
 - /images/posts/ig-2018-01-03-lunch-we-had-the-momofuku-ramen-spicy-hozon-ramen-and-a-coup/17903752210109642.jpg
 tags:
-- ramennoodles
-- noodles
-- thirstypig
 - nyc
-- momofuku
-- davidchang
-- japanesefood
-- koreanchef
+- japanese
 - ramen
-description: 'Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns. I liked the pork belly with the shredded pork shoulder in my ramen. My wife liked the fried chickpeas in the hozon. We both enjoyed the crispness of the pork belly in the bun. Wife was ok with the noodles.'
+- pork-buns
+description: Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns. I liked the pork belly with the shredded pork shoulder in my ramen. My wife liked the fried chickpeas in the hozon. We both enjoyed the crispness of the pork belly in the bun. Wife was ok with the noodles.
 city: New York
-categories:
-- and a couple of pork buns
+categories: []
 region: New York
 location: Momofuku Noodle Bar
 address: 171 1st Ave (btwn E 10th & E 11th St), New York, NY 10003
 coordinates:
   lat: 40.729133
   lng: -73.984265
+cuisine:
+- Japanese
 ---
 
 ![Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns](/images/posts/ig-2018-01-03-lunch-we-had-the-momofuku-ramen-spicy-hozon-ramen-and-a-coup/17892226279131536.jpg)

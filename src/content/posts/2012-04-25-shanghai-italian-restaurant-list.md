@@ -1,5 +1,5 @@
 ---
-title: Shanghai Italian Restaurant List
+title: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店), Shanghai
 pubDate: '2012-04-25'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,9 +7,7 @@ originalUrl: http://www.thethirstypig.com:80/2012/04/25/shanghai-italian-restaur
 heroImage: /images/posts/shanghai-italian-restaurant-list/Colabo-Shanghai-16-188x188.jpg
 images:
 - /images/posts/shanghai-italian-restaurant-list/Colabo-Shanghai-16-188x188.jpg
-categories:
-- Italian
-- Shanghai
+categories: []
 description: Italian restaurants in Shanghai are some of the best. I’d argue that Shanghai would rank near the top worldwide with its diverse Italian restaurant scene. Here are the some of the top ones I have visi
 archiveUrl: https://web.archive.org/web/20120505122125/http://www.thethirstypig.com:80/2012/04/25/shanghai-italian-restaurant-list/
 draft: false
@@ -20,6 +18,12 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+tags:
+- shanghai
+- italian
+- pasta
+cuisine:
+- Italian
 ---
 
 Italian restaurants in Shanghai are some of the best. I’d argue that Shanghai would rank near the top worldwide with its diverse Italian restaurant scene. Here are the some of the top ones I have visited and haven’t.

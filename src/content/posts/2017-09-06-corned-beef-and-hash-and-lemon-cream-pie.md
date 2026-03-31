@@ -1,5 +1,5 @@
 ---
-title: 'Corned beef and hash and lemon cream pie, Arcadia'
+title: Del Sol Salon & Spa, Arcadia
 pubDate: '2017-09-06'
 author: The Thirsty Pig
 source: instagram
@@ -10,15 +10,10 @@ images:
 - /images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17872082989180613.jpg
 - /images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871367489165187.jpg
 tags:
-- chefscoffeeshop
-- diner
-- breakfast
-- eggs
-- cornedbeef
-- hashbrowns
-- yummy
-- thirstypig
 - arcadia
+- american
+- corned-beef-hash
+- pie
 description: Corned beef and hash and lemon cream pie. Classic American diner
 location: Del Sol Salon & Spa
 city: Arcadia
@@ -27,6 +22,9 @@ address: 139 E Huntington Dr, Arcadia, CA 91006
 coordinates:
   lat: 34.1403
   lng: -118.026696
+categories: []
+cuisine:
+- American
 ---
 
 ![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871704383159706.jpg)

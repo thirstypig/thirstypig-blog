@@ -1,5 +1,5 @@
 ---
-title: Bellagio, Shanghai
+title: Bellagio (鹿港小鎮), Shanghai
 pubDate: '2011-09-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,11 +13,7 @@ images:
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-05-494x368.jpg
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-06-494x368.jpg
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-07-494x368.jpg
-categories:
-- 2 pigs
-- Price Range $/¥/NT
-- Taiwanese
-- Shanghai
+categories: []
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20111014113348/http://www.thethirstypig.com/2011/09/20/bellagio-shanghai/
 draft: false
@@ -28,6 +24,13 @@ address: 999 Huaihai M Rd | 淮海中路999号 (1/F-43 iapm Mall | 环贸iapm商
 coordinates:
   lat: 31.216985
   lng: 121.453364
+tags:
+- shanghai
+- taiwanese
+- braised-pork-rice
+- comfort-food
+cuisine:
+- Taiwanese
 ---
 
 Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What can you? For me, one of my favorite comfort foods in Taiwanese cuisine. In Shanghai, one of the better options is Bellagio 鹿港小镇. And thank goodness it is open late.

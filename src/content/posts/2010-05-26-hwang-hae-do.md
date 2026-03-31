@@ -1,5 +1,5 @@
 ---
-title: Hwang Hae Do of LA’s Koreatown
+title: Hwang Hae Do of LA’s Koreatown, Los Angeles
 pubDate: '2010-05-26'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,12 +17,12 @@ images:
 - /images/posts/hwang-hae-do/IMG_1349-185x185.jpg
 - /images/posts/hwang-hae-do/IMG_1351-185x185.jpg
 - /images/posts/hwang-hae-do/IMG_1353-185x185.jpg
-categories:
-- 2 pigs
-- Korean
-- Los Angeles
+categories: []
 tags:
-- LA's Koreatown
+- los-angeles
+- korean
+- bbq
+- beef-broth
 description: Not your typical Korean BBQ restaurant, Hwang Hae Do HHD specializes in boiled beef cooked in a mixed broth. Sundays were a ritual for a few of us to try different Korean restaurants. Rather than havi
 archiveUrl: https://web.archive.org/web/20110105161613/http://www.thethirstypig.com/2010/05/26/hwang-hae-do/
 draft: false
@@ -31,6 +31,8 @@ city: Los Angeles
 address: '429 N Western Ave
 
   Los Angeles, CA 90004'
+cuisine:
+- Korean
 ---
 
 Not your typical Korean BBQ restaurant, Hwang Hae Do (HHD) specializes in boiled beef cooked in a mixed broth. Sundays were a ritual for a few of us to try different Korean restaurants. Rather than having regular Korean BBQ, I persuaded Miss C to pick something different and out of the ordinary. HHD was a treat!

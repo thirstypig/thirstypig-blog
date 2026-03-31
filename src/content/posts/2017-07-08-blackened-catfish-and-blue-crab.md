@@ -1,5 +1,5 @@
 ---
-title: Blackened catfish and blue crab
+title: Blackened catfish and blue crab, New Orleans
 pubDate: '2017-07-08'
 author: The Thirsty Pig
 source: instagram
@@ -11,16 +11,17 @@ images:
 - /images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17865255121135630.jpg
 - /images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17879157196079650.jpg
 tags:
-- harborseafoodandoysterbar
-- seafood
-- crab
-- nola
-- thirstypig
+- new-orleans
+- cajun
 - catfish
+- seafood
 description: Blackened catfish and blue crab. With corn and hush puppies. Yum!
 location: Blackened catfish and blue crab
 city: New Orleans
 region: Louisiana
+categories: []
+cuisine:
+- Cajun
 ---
 
 ![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17887584181008810.jpg)

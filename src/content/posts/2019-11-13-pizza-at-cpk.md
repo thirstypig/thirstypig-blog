@@ -1,5 +1,5 @@
 ---
-title: Pizza at CPK
+title: CPK, San Gabriel Valley
 pubDate: '2019-11-13'
 author: The Thirsty Pig
 source: instagram
@@ -9,18 +9,16 @@ images:
 - /images/posts/ig-2019-11-13-pizza-at-cpk/17936141692320238.jpg
 - /images/posts/ig-2019-11-13-pizza-at-cpk/17842409353826940.jpg
 tags:
-- pizza
 - sgv
-- arcadia
-- eat
-- eeeeeats
-- garlicchicken
-- garlicchickenpizza
-- workspizza
-description: 'Pizza at CPK. Garlic Chicken Pizza on cauliflower crust and the “Works” Pizza. This place never disappoints. Consistency and interesting. You don’t find these topping combinations typically at other places . . . .'
+- italian
+- pizza
+description: Pizza at CPK. Garlic Chicken Pizza on cauliflower crust and the “Works” Pizza. This place never disappoints. Consistency and interesting. You don’t find these topping combinations typically at other places . . . .
 location: Pizza at CPK
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Pizza at CPK](/images/posts/ig-2019-11-13-pizza-at-cpk/17936141692320238.jpg)

@@ -1,15 +1,15 @@
 ---
-title: San Francisco Fisherman’s Wharf
+title: Courtyard San Francisco Fisherman's Wharf, San Francisco
 pubDate: '2017-01-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/
-categories:
-- San Francisco
-- Bay Area
+categories: []
 tags:
-- American
-- Seafood
+- san-francisco
+- seafood
+- clam-chowder
+- bread-bowl
 description: Boudin at the Wharfhttp://www.boudinbakery.com has famous clam chowder in a bread bowl Lots of little sidewalk eateries for fresh seafood Home to many immigrant fisherman from the 1800’s Big tourist a
 archiveUrl: https://web.archive.org/web/20170110000028/http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/
 draft: false
@@ -20,6 +20,8 @@ address: 580 Beach St (at Jones St), San Francisco, CA 94133
 coordinates:
   lat: 37.807054
   lng: -122.418256
+cuisine:
+- Seafood
 ---
 
 

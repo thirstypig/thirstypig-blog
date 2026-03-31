@@ -4,16 +4,16 @@ pubDate: '2011-12-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/13/design-boutique-hotel-huangshan/
-categories:
-- 2 pigs
-- hotel
-- Price Range 2 $/¥/NT
-- Huangshan
+categories: []
 description: The Design Boutique Hotel, located in the heart of Huangshan City, creates an whimsical and colorful atmosphere for guests. With natural like Huangshanhttp://www.thethirstypig.com/2011/10/10/huangshan
 archiveUrl: https://web.archive.org/web/20120116092815/http://www.thethirstypig.com:80/2011/12/13/design-boutique-hotel-huangshan/
 draft: false
 location: Design Boutique Hotel
 address: 6 Fairy Cave North Road
+tags:
+- huangshan
+city: Huangshan
+cuisine: []
 ---
 
 The Design Boutique Hotel, located in the heart of Huangshan City, creates an whimsical and colorful atmosphere for guests. With [natural (like Huangshan)](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/), [ancient (like Xidi and Hongcun Village)](http://www.thethirstypig.com/2011/12/07/xidi-and-hongcun-village-huangshan/), and [shopping (like Old Street)](http://www.thethirstypig.com/2011/12/09/huangshan-old-street/) attractions nearby, Huangshan is boasts a thriving tourism economy. Strangely, there aren’t many hotel chains. Independently hotels, like the Design Boutique Hotel, dot the area.

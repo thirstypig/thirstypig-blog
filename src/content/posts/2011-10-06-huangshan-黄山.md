@@ -4,13 +4,13 @@ pubDate: '2011-10-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/06/huangshan-%e9%bb%84%e5%b1%b1/
-categories:
-- 3 pigs
-- Huangshan
+categories: []
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106011311/http://thirstypig.com/2011/10/06/huangshan-%e9%bb%84%e5%b1%b1/
 draft: false
 location: Huangshan 黄山
+tags: []
+cuisine: []
 ---
 
 

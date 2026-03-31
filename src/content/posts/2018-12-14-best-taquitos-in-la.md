@@ -1,5 +1,5 @@
 ---
-title: Best Taquitos in LA
+title: Cielito Lindo, Los Angeles
 pubDate: '2018-12-14'
 author: The Thirsty Pig
 source: instagram
@@ -10,20 +10,16 @@ images:
 - /images/posts/ig-2018-12-14-best-taquitos-in-la/17979300916153788.jpg
 - /images/posts/ig-2018-12-14-best-taquitos-in-la/18009493522032912.jpg
 tags:
-- eeeeeats
-- thirstypig
-- iphonexphotography
-- beef
+- los-angeles
+- mexican
 - taquitos
-- mexicanfood
-- olverastreet
-- losangeles
-- food
-- avocado
 description: Best Taquitos in LA! Cielito Lindo on Olvera Street. . . .
 location: Best Taquitos in LA
 city: Los Angeles
 region: Los Angeles
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Best Taquitos in LA](/images/posts/ig-2018-12-14-best-taquitos-in-la/17995864489129213.jpg)

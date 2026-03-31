@@ -4,14 +4,19 @@ pubDate: '2011-08-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/15/quan-lau-de-306-ho-chi-minh-city/
-categories:
-- Ho Chi Minh City
+categories: []
 tags:
-- Vietnamese
+- ho-chi-minh-city
+- vietnamese
+- goat
+- hot-pot
 description: Goat, I’ve thought, was never that strange of a meat to eat. Its a domesticated animal much like a pig or a cow. Goats aren’t exotic creatures like pangolins, snakes, or even rabbits. But it still doe
 archiveUrl: https://web.archive.org/web/20161106113710/http://thirstypig.com/2011/08/15/quan-lau-de-306-ho-chi-minh-city/
 draft: false
 location: Quán Lẩu Dê 306
+city: Ho Chi Minh City
+cuisine:
+- Vietnamese
 ---
 
 

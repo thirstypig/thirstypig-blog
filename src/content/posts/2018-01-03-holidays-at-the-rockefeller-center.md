@@ -13,11 +13,11 @@ images:
 - /images/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17917011256020840.jpg
 - /images/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17899486744081306.jpg
 - /images/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17903998753096386.jpg
-tags:
-- rockefellercenter
-- thirstypig
+tags: []
 description: Holidays at the Rockefeller Center. We also saw a successful marriage proposal on the ice. Heard a nice show a Saks Fifth Avenue Department Store. And saw a replica at the LEGO store.
 location: Holidays at the Rockefeller Center
+categories: []
+cuisine: []
 ---
 
 ![Holidays at the Rockefeller Center](/images/posts/ig-2018-01-03-holidays-at-the-rockefeller-center/17887982968167282.jpg)

@@ -1,5 +1,5 @@
 ---
-title: Lu Ro Fan at Da Lai Kodate大來小館, Taipei
+title: Sheraton Grand Taipei Hotel (台北喜來登大飯店), Taipei
 pubDate: '2010-06-10'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,12 +11,12 @@ images:
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-4-88x88.jpg
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-5-88x88.jpg
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-6-88x88.jpg
-categories:
-- 2 pigs
-- Taiwanese
-- Taipei
+categories: []
 tags:
-- Shida District 台北師大
+- taipei
+- taiwanese
+- lu-ro-fan
+- rice-bowl
 description: Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowlor two, if I am hungry late at night, o
 archiveUrl: https://web.archive.org/web/20110105015251/http://www.thethirstypig.com/2010/06/10/lu-ro-fan-at-da-lai-kodate-taipei/
 draft: false
@@ -27,6 +27,8 @@ address: 12 Section 1, Zhong Xiao East Road, Zhongzheng District, 台北市,  10
 coordinates:
   lat: 25.044602
   lng: 121.521862
+cuisine:
+- Taiwanese
 ---
 
 Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowl(or two), if I am hungry late at night, or if I don’t have much time, and is one of the primary things I have at a Taiwanese restaurant.

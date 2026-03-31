@@ -1,5 +1,5 @@
 ---
-title: 'Breakfast Burrito from the Queen of LA, Los Angeles'
+title: The Little Jewel of New Orleans, Los Angeles
 pubDate: '2024-11-11'
 author: The Thirsty Pig
 source: instagram
@@ -10,11 +10,8 @@ images:
 - /images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18036753749206044.jpg
 - /images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18050357701821611.jpg
 tags:
-- queenofla
-- dtla
-- breakfastburrito
-- breakfast
-description: 'Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sauce. Her Korean mom was there making sure they made quality burritos. . . . .genetics'
+- los-angeles
+description: Breakfast Burrito from the Queen of LA. Her burrito street cart is right on grand avenue across the street from the music center. Simple burrito with eggs, hash browns, and beef, with a good green sauce. Her Korean mom was there making sure they made quality burritos. . . . .genetics
 location: The Little Jewel of New Orleans
 city: Los Angeles
 region: Los Angeles
@@ -22,6 +19,7 @@ address: 207 Ord St, Los Angeles, CA 90012
 coordinates:
   lat: 34.060036
   lng: -118.23826
+categories: []
 ---
 
 ![Breakfast Burrito from the Queen of LA](/images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18006783689497144.jpg)

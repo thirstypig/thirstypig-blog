@@ -10,17 +10,10 @@ images:
 - /images/posts/ig-2022-06-27-was-looking-for-a-bag/17968676914660951.jpg
 - /images/posts/ig-2022-06-27-was-looking-for-a-bag/17945877296073463.jpg
 - /images/posts/ig-2022-06-27-was-looking-for-a-bag/18243160378111837.jpg
-tags:
-- marfa
-- marfatexas
-- texas
-- roadtrip
-- prada
-- outdoorart
-- interesting
-- pradabag
+tags: []
 description: Was looking for a bag. . . . . This Prada store was in the middle of nowhere. It is an outdoor art installation. Interesting. . . . . .
 location: Was looking for a bag
+categories: []
 ---
 
 ![Was looking for a bag](/images/posts/ig-2022-06-27-was-looking-for-a-bag/17961998179751085.jpg)

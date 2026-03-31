@@ -1,17 +1,15 @@
 ---
-title: Homegirl Cafe and Catering, DTLA
+title: Homegirl Cafe and Catering, Dtla
 pubDate: '2010-04-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
-categories:
-- Chinatown
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- American
-- Mexican
-- Sandwich
+- dtla
+- colombian
+- tacos
+- marinated-meats
 description: This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.
 archiveUrl: https://web.archive.org/web/20161105201427/http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
 draft: false
@@ -19,6 +17,8 @@ location: Homegirl Cafe and Catering
 city: Dtla
 region: Downtown LA
 address: 130 W Bruno St Los Angeles, CA 90012
+cuisine:
+- Colombian
 ---
 
 

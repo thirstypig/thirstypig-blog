@@ -4,11 +4,14 @@ pubDate: '2008-12-29'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2008/12/29/about-the-thirsty-pig/
-categories:
-- Contributors
+categories: []
 description: I’m a simple guy that likes simple things. I don’t necessarily like to write lengthy posts of about my adventures. . . but I will show you some pictures from the current and the past. . .
 archiveUrl: https://web.archive.org/web/20110105193442/http://www.thethirstypig.com/2008/12/29/about-the-thirsty-pig/
 draft: false
+tags:
+- sushi
+- cocktails
+cuisine: []
 ---
 
 I’m a simple guy that likes simple things. I don’t necessarily like to write lengthy posts of about my adventures. . . but I will show you some pictures from the current and the past. . .

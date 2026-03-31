@@ -1,5 +1,5 @@
 ---
-title: 'Pizza from Pizzeria Sei, Los Angeles'
+title: Prime Pizza, Los Angeles
 pubDate: '2025-01-17'
 author: The Thirsty Pig
 source: instagram
@@ -15,16 +15,7 @@ images:
 - /images/posts/ig-2025-01-17-pizza-from-pizzeria-sei/18479043541055015.jpg
 - /images/posts/ig-2025-01-17-pizza-from-pizzeria-sei/18480937192019479.jpg
 tags:
-- pizza
-- losangeleseats
-- laeats
-- eats
-- eeeeeats
-- thirstypig
-- margherita
-- margheritapizza
-- sausagepizza
-- mala
+- los-angeles
 description: Pizza from Pizzeria Sei. We had the classic Margherita, the Bismarck with prosciutto cotto & egg, the Mala Lamb Sausage with spicy mala oil, and the Ruti pizza featuring hot honey and ricotta. I likee
 location: Prime Pizza
 city: Los Angeles
@@ -33,6 +24,7 @@ address: 141 S Central Ave, Los Angeles, CA 90012
 coordinates:
   lat: 34.048288
   lng: -118.239672
+categories: []
 ---
 
 ![Pizza from Pizzeria Sei](/images/posts/ig-2025-01-17-pizza-from-pizzeria-sei/17892878778119487.jpg)

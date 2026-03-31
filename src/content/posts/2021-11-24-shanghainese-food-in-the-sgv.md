@@ -1,5 +1,5 @@
 ---
-title: Shanghainese food in the SGV
+title: The Clinic, Shanghai
 pubDate: '2021-11-24'
 author: The Thirsty Pig
 source: instagram
@@ -14,17 +14,12 @@ images:
 - /images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/17881104674570708.jpg
 - /images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/17883815156541972.jpg
 tags:
-- sgv
-- shanghainesefood
-- dumplings
-- noodles
-- chinesefood
+- shanghai
 description: Shanghainese food in the SGV. Pan fried dumplings 生煎包 were great! After living in Shanghai for six years, you miss some of the these things. . . . . . . .
 location: The Clinic
 city: Shanghai
 region: Shanghai
-categories:
-- Shanghai
+categories: []
 address: 501, Building B, 98-118 Jiashan Rd | 徐汇区嘉善路98-118楼B座501室 (Yongkang Rd | 永康路), Xuhui, 上海市
 coordinates:
   lat: 31.213464

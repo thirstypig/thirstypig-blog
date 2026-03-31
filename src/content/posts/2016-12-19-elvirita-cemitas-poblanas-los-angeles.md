@@ -4,14 +4,12 @@ pubDate: '2016-12-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/
-categories:
-- DTLA
-- Los Angeles
-- Downtown LA
+categories: []
 tags:
-- Mexican
-- Pork
-- Sandwich
+- los-angeles
+- mexican
+- cemitas
+- carnitas
 description: Had the carnitas was flavorful and tender, as expected Cemitas are tortas, Mexican sandwiches, from bread rolls. Try the hot sauce with peppers to give the cemitas a kick Glad it is open till 10pm The
 archiveUrl: https://web.archive.org/web/20161221213512/http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/
 draft: false
@@ -19,6 +17,8 @@ location: Elvirita Cemitas Poblanas
 city: Los Angeles
 region: Downtown LA
 address: 3010 E 1st St
+cuisine:
+- Mexican
 ---
 
 

@@ -1,15 +1,15 @@
 ---
-title: Pho 越苑, Taipei
+title: Pho36 越苑, Taipei
 pubDate: '2010-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
-categories:
-- Songshan
-- Taipei
+categories: []
 tags:
-- Noodles
-- Vietnamese
+- taipei
+- vietnamese
+- pho
+- noodles
 description: 'Sriracha sauce Thai: ศรีราชา sǐrātɕʰā, a Thai spicy sauce, is not from Thailand or even Vietnam It is from Rosemeadhttp://www.huyfong.com/ in Southern California, with Thai roots. In the states, the R'
 archiveUrl: https://web.archive.org/web/20161105081109/http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
 draft: false
@@ -20,6 +20,8 @@ address: 大直街36號
 coordinates:
   lat: 25.081729
   lng: 121.546481
+cuisine:
+- Vietnamese
 ---
 
 

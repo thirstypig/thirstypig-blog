@@ -1,5 +1,5 @@
 ---
-title: Thai cuisine lunch at Spice Thai
+title: Spice Thai, unknown
 pubDate: '2018-10-12'
 author: The Thirsty Pig
 source: instagram
@@ -10,12 +10,14 @@ images:
 - /images/posts/ig-2018-10-12-thai-cuisine-lunch-at-spice-thai/17961203650134009.jpg
 - /images/posts/ig-2018-10-12-thai-cuisine-lunch-at-spice-thai/17924770663219218.jpg
 tags:
-- thaifood
-- eeeeeats
-- tomyumsoup
-- thirstypig
+- thai
+- tom-yum
+- curry
 description: Thai cuisine lunch at Spice Thai. Had a big bowl of spicy Tom Yum soup. Coworkers had fried rice and curry. Soup was memorable and flavorful. . . . .
 location: Thai cuisine lunch at Spice Thai
+categories: []
+cuisine:
+- Thai
 ---
 
 ![Thai cuisine lunch at Spice Thai](/images/posts/ig-2018-10-12-thai-cuisine-lunch-at-spice-thai/17991322729049152.jpg)

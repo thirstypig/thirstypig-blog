@@ -1,5 +1,5 @@
 ---
-title: Day 2 at the Shanghai Expo
+title: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店), Shanghai
 pubDate: '2010-10-13'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -14,11 +14,9 @@ images:
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-70-88x88.jpg
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-74-88x88.jpg
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-751-88x88.jpg
-categories:
-- 3 pigs
-- Shanghai
+categories: []
 tags:
-- Shanghai 上海
+- shanghai
 description: After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.
 archiveUrl: https://web.archive.org/web/20110105105953/http://www.thethirstypig.com/2010/10/13/day-2-at-the-shanghai-expo/
 draft: false
@@ -29,6 +27,7 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine: []
 ---
 
 After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.

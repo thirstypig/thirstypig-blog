@@ -1,5 +1,5 @@
 ---
-title: Chamate 一茶一坐 , Shanghai
+title: Chamate (一茶一坐), Shanghai
 pubDate: '2010-08-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -22,14 +22,12 @@ images:
 - /images/posts/chamate-shanghai/Chamate-7-188x141.jpg
 - /images/posts/chamate-shanghai/Chamate-7-88x88.jpg
 - /images/posts/chamate-shanghai/Chamate-8-88x88.jpg
-categories:
-- 2 pigs
-- Price Range $/¥/NT
-- Tea
-- Shanghai
+categories: []
 tags:
-- Luwan District 上海卢湾区
-- Shanghai 上海
+- shanghai
+- chinese
+- tea
+- dim-sum
 description: Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers a
 archiveUrl: https://web.archive.org/web/20110106021300/http://www.thethirstypig.com/2010/08/12/chamate-shanghai/
 draft: false
@@ -40,6 +38,8 @@ address: 淮海中路939号 (陕西南路), 上海市, 上海市
 coordinates:
   lat: 31.216551
   lng: 121.459657
+cuisine:
+- Chinese
 ---
 
 Drinking tea is an event in its own self. The importance of tea can be seen in the tea ceremonies of Japan, the teahouses of Taiwan, and the tea shops in China. Chamate, located in Xintiandi, offers an assortment of teas – hot and cold, with light snacks and entrees.

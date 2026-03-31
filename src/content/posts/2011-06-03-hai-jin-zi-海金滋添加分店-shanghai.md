@@ -1,14 +1,14 @@
 ---
-title: Hai Jin Zi 海金滋添加分店, Shanghai
+title: Haidilao Hot Pot (海底捞火锅), Shanghai
 pubDate: '2011-06-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/
-categories:
-- Jingan
-- Shanghai
+categories: []
 tags:
-- Shanghainese
+- shanghai
+- chinese
+- hot-pot
 description: Every once and awhile, you go to a restaurant without any expectations and leave pleasantly surprised. This is what happened when I supposedly thought I was going for a simple happy hour.
 archiveUrl: https://web.archive.org/web/20161019080144/http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/
 draft: false
@@ -19,6 +19,8 @@ address: 北京西路1068号3楼 | 1068 Beijing W Rd (近江宁路 | Jiangning R
 coordinates:
   lat: 31.232055
   lng: 121.450242
+cuisine:
+- Chinese
 ---
 
 

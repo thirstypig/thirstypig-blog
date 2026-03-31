@@ -1,5 +1,5 @@
 ---
-title: Fried Chicken from Top Restaurant in Pasadena
+title: Equinox Pasadena, Pasadena
 pubDate: '2025-02-18'
 author: The Thirsty Pig
 source: instagram
@@ -8,22 +8,12 @@ heroImage: /images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasa
 images:
 - /images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasadena/18027006542634931.jpg
 tags:
-- toprestaurant
 - pasadena
-- sgv
-- indonesianfood
-- hawaiianfood
-- indonesianfriedchicken
-- friedchicken
-- locomoco
-- spammusubi
-- spam
-description: 'Unfortunately Top Restaurant only does take out. Make sure you call in the make sure they still have chicken available. I know first hand since this wasn’t the first time I tried to get their fried chicken. I recommend this place and I would go again. . . .'
+description: Unfortunately Top Restaurant only does take out. Make sure you call in the make sure they still have chicken available. I know first hand since this wasn’t the first time I tried to get their fried chicken. I recommend this place and I would go again. . . .
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032

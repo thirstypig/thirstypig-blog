@@ -1,5 +1,5 @@
 ---
-title: 'Scallion oil noodles, Shanghai'
+title: A Niang Noodles (阿娘面), Shanghai
 pubDate: '2024-04-13'
 author: The Thirsty Pig
 source: instagram
@@ -11,22 +11,12 @@ images:
 - /images/posts/ig-2024-04-13-scallion-oil-noodles/17864949579100741.jpg
 - /images/posts/ig-2024-04-13-scallion-oil-noodles/18010164455359896.jpg
 tags:
-- è
 - shanghai
-- ä
-- noodles
-- scallionoilnoodles
-- scallion
-- scallionoil
-- thirstypig
-- tastemakersapp
-- puxi
 description: Scallion oil noodles. 蔥油拌麵A Shanghainese dish. One of first things I had back in Shanghai. Haven’t been back here in years. . . .
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
-categories:
-- Shanghai
+categories: []
 address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
 coordinates:
   lat: 31.219744

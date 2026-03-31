@@ -1,5 +1,5 @@
 ---
-title: Yuxin Sichuan Cuisine Shanghai
+title: Yuxin Sichuan Cuisine, Shanghai
 pubDate: '2010-11-19'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -31,12 +31,7 @@ images:
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-27-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-28-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg
-categories:
-- 3 pigs
-- Jingan District 静安区
-- Price Range 2 $/¥/NT
-- Shanghai
-- Sichuanese
+categories: []
 description: Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 archiveUrl: https://web.archive.org/web/20101120070329/http://www.thethirstypig.com:80/2010/11/19/yuxin-sichuan-cuisine-shanghai/
 draft: false
@@ -47,6 +42,13 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+tags:
+- shanghai
+- chinese
+- sichuan
+- spicy
+cuisine:
+- Chinese
 ---
 
 Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.

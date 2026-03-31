@@ -1,16 +1,12 @@
 ---
-title: 'JingPuHui晶浦会 of Pudong, Shanghai'
+title: Pudong Riverside Promenade (浦东滨江大道), Shanghai
 pubDate: '2010-08-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/
-categories:
-- Pudong
-- Shanghai
+categories: []
 tags:
-- Cantonese
-- Seafood
-- Shanghainese
+- shanghai
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20161019141341/http://thirstypig.com/2010/08/21/jingpuhui%e6%99%b6%e6%b5%a6%e4%bc%9a-of-pudong/
 draft: false
@@ -21,6 +17,7 @@ address: Riverside Promenade (along Huangpu River), Lùjiāzuǐ, Huangpu, 上海
 coordinates:
   lat: 31.237746
   lng: 121.492163
+cuisine: []
 ---
 
 

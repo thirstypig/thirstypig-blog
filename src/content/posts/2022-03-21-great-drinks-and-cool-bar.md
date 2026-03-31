@@ -1,5 +1,5 @@
 ---
-title: 'Great drinks and cool bar, Downtown LA'
+title: 'KazuNori: The Original Hand Roll Bar, Downtown LA'
 pubDate: '2022-03-21'
 author: The Thirsty Pig
 source: instagram
@@ -11,16 +11,7 @@ images:
 - /images/posts/ig-2022-03-21-great-drinks-and-cool-bar/18001830040386685.jpg
 - /images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17920117184171972.jpg
 tags:
-- drinks
-- bourbon
-- whiskey
-- whisky
-- bitters
 - dtla
-- bartenders
-- bar
-- nofood
-- eastlosangeles
 description: Great drinks and cool bar. Nice patio with outdoor bar. I would describe them as having finely crafted drinks with bitters. I’ve been told this is the place where bartenders go for drinks. . . . . .
 location: 'KazuNori: The Original Hand Roll Bar'
 city: Downtown LA
@@ -29,6 +20,7 @@ address: 421 S Main St (at Winston St), Los Angeles, CA 90013
 coordinates:
   lat: 34.047716
   lng: -118.247452
+categories: []
 ---
 
 ![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17978416897496412.jpg)

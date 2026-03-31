@@ -4,12 +4,11 @@ pubDate: '2009-11-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/07/ikes-place-san-francisco/
-categories:
-- San Francisco
-- Bay Area
+categories: []
 tags:
-- San Francisco
-- Sandwich
+- san-francisco
+- american
+- sandwiches
 description: When we first got to Ike’s Place, at 11:30am, there was already a line outside the door – 10 deep. By the time we got our food, the line extended even longer. This hole-in-the-wall sandwich shop draws
 archiveUrl: https://web.archive.org/web/20160828115357/http://thirstypig.com/2009/11/07/ikes-place-san-francisco/
 draft: false
@@ -17,6 +16,8 @@ location: Ike’s Place
 city: San Francisco
 region: Bay Area
 address: 2239 Market St San Francisco, CA 94114
+cuisine:
+- American
 ---
 
 

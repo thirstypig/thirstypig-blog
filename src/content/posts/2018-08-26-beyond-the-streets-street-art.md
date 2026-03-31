@@ -1,5 +1,5 @@
 ---
-title: Beyond the Streets - street art
+title: Beyond The Streets, Downtown LA
 pubDate: '2018-08-26'
 author: The Thirsty Pig
 source: instagram
@@ -17,22 +17,17 @@ images:
 - /images/posts/ig-2018-08-26-beyond-the-streets-street-art/17943821029159997.jpg
 - /images/posts/ig-2018-08-26-beyond-the-streets-street-art/17972558788050404.jpg
 tags:
-- streetart
-- graffiti
 - dtla
-- beyondthestreets
-- thirstypig
-- art
 description: Beyond the Streets - street art. Great look and up close exhibition of art with some well known artists like and . . . .
 location: Beyond The Streets
 city: Downtown LA
-categories:
-- street art
+categories: []
 region: Los Angeles
 address: 434 N La Brea Ave, Los Angeles, CA 90036
 coordinates:
   lat: 34.079202
   lng: -118.34383
+cuisine: []
 ---
 
 ![Beyond the Streets - street art](/images/posts/ig-2018-08-26-beyond-the-streets-street-art/17958239404112795.jpg)

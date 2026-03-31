@@ -1,5 +1,5 @@
 ---
-title: 'Oysters and Seafood Stew at the Grand Central Oyster Bar...'
+title: Grand Central Oyster Bar & Restaurant, New York
 pubDate: '2019-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -10,17 +10,16 @@ images:
 - /images/posts/ig-2019-05-13-oysters-and-seafood-stew-at-the-grand-central-oyster-bar-res/18046184023118891.jpg
 - /images/posts/ig-2019-05-13-oysters-and-seafood-stew-at-the-grand-central-oyster-bar-res/17996750464219850.jpg
 tags:
-- eeeeeats
-- food
-- oysters
-- seafood
 - nyc
-- gout
-- shellfish
-- scallops
+- seafood
+- oysters
+- seafood-stew
 description: Oysters and Seafood Stew at the Grand Central Oyster Bar & Restaurant. . . .
 city: New York
 region: New York
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![Oysters and Seafood Stew at the Grand Central Oyster Bar & Restaurant](/images/posts/ig-2019-05-13-oysters-and-seafood-stew-at-the-grand-central-oyster-bar-res/18044358544127098.jpg)

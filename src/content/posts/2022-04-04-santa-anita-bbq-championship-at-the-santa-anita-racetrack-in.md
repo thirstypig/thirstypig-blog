@@ -16,22 +16,11 @@ images:
 - /images/posts/ig-2022-04-04-santa-anita-bbq-championship-at-the-santa-anita-racetrack-in/17904109049463626.jpg
 - /images/posts/ig-2022-04-04-santa-anita-bbq-championship-at-the-santa-anita-racetrack-in/17950307686826990.jpg
 tags:
-- bbq
-- barbecue
-- barbeque
-- sgv
 - arcadia
-- porkbbq
-- chickenbbq
-- bbqribs
-- bbqchicken
-- bbqpork
-description: 'Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia. Got to try a bunch of different bbq including, Pulled Pork Nachos, BBQ chicken, BBQ pork tenderloin, BBQ pulled pork tacos, BBQ pork ribs, BBQ beef tri tips and more. Yummy. KCBS - Kansas City Barbeque Soceity was on hand to judge 30+ BBQ entrants. You could see their trailers parked outside cooking and smoking. Also, I got to meet a BBQ legend - Harry Soo! Luckily we got there early to avoid the crowds and long lines. . . . . . . . .'
+description: Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia. Got to try a bunch of different bbq including, Pulled Pork Nachos, BBQ chicken, BBQ pork tenderloin, BBQ pulled pork tacos, BBQ pork ribs, BBQ beef tri tips and more. Yummy. KCBS - Kansas City Barbeque Soceity was on hand to judge 30+ BBQ entrants. You could see their trailers parked outside cooking and smoking. Also, I got to meet a BBQ legend - Harry Soo! Luckily we got there early to avoid the crowds and long lines. . . . . . . . .
 city: Arcadia
 region: San Gabriel Valley
-categories:
-- Arcadia
-- San Gabriel Valley
+categories: []
 ---
 
 ![Santa Anita BBQ Championship at the Santa Anita Racetrack in Arcadia](/images/posts/ig-2022-04-04-santa-anita-bbq-championship-at-the-santa-anita-racetrack-in/17925657512103165.jpg)

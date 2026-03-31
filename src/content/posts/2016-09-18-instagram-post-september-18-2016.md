@@ -7,6 +7,9 @@ draft: false
 heroImage: /images/posts/ig-2016-09-18-instagram-post-september-18-2016/17852039881089323.jpg
 images:
 - /images/posts/ig-2016-09-18-instagram-post-september-18-2016/17852039881089323.jpg
+cuisine: []
+tags: []
+categories: []
 ---
 
 ![Instagram Post — September 18, 2016](/images/posts/ig-2016-09-18-instagram-post-september-18-2016/17852039881089323.jpg)

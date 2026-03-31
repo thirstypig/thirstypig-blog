@@ -1,14 +1,15 @@
 ---
-title: My Kitchen, Shanghai
+title: My Kitchen (欣欣小厨房), Shanghai
 pubDate: '2012-05-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/01/my-kitchen-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Taiwanese
+- shanghai
+- chinese
+- home-cooking
+- shanghai-cuisine
 description: My Kitchen 1783 Huaihai Zhong Lu 淮海中路1783号
 archiveUrl: https://web.archive.org/web/20161105114744/http://thirstypig.com/2012/05/01/my-kitchen-shanghai/
 draft: false
@@ -19,6 +20,8 @@ address: Xuhui, 上海市
 coordinates:
   lat: 31.207197
   lng: 121.435627
+cuisine:
+- Chinese
 ---
 
 

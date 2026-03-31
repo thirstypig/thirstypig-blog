@@ -1,5 +1,5 @@
 ---
-title: 'Voodoo Doughnut, Austin'
+title: Voodoo Doughnut, Austin
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -11,17 +11,17 @@ images:
 - /images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17858860408150868.jpg
 - /images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857733482164089.jpg
 tags:
+- austin
+- bakery
 - donuts
-- atx
-- voodoodoughnuts
-- food
-- desserts
+- dessert
 description: we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?
 location: Voodoo Doughnut
-categories:
-- and the Homer Simpson
+categories: []
 city: Austin
 region: Texas
+cuisine:
+- Bakery
 ---
 
 ![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857093546185438.jpg)

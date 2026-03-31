@@ -4,14 +4,12 @@ pubDate: '2010-11-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/26/m1nt-shanghai/
-categories:
-- Luwan District
-- Shanghai
+categories: []
 tags:
-- American
-- Bar
-- Club
-- Shanghai
+- shanghai
+- multi
+- cocktails
+- nightlife
 description: '> M1NT is where the celebrities play with the stars overlooking the glamour of Shanghai.'
 archiveUrl: https://web.archive.org/web/20160914221707/http://thirstypig.com/2010/11/26/m1nt-shanghai/
 draft: false
@@ -19,6 +17,8 @@ location: M1NT
 city: Shanghai
 region: Shanghai
 address: 318 Fuzhou Road
+cuisine:
+- Multi
 ---
 
 

@@ -1,25 +1,16 @@
 ---
 title: Barbecue at
-pubDate: 2025-04-23T00:00:00.000Z
+pubDate: 2025-04-23 00:00:00+00:00
 description: Barbecue at . Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and gla
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
-tags:
-  - thirstypig
-  - barbecue
-  - bbq
-  - eats
-  - eeeeeeeats
-  - porkbelly
-  - gardengrove
-  - oceats
-  - macncheese
-  - cornbread
+tags: []
 location: Smoke Queen
 images:
-  - /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
+- /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
 source: instagram
 draft: false
+categories: []
 ---
 
 ![Barbecue at](/images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg)

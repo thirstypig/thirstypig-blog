@@ -1,5 +1,5 @@
 ---
-title: Part 2 at Sushi Gen
+title: Sushi Gen, Little Tokyo
 pubDate: '2021-07-25'
 author: The Thirsty Pig
 source: instagram
@@ -12,16 +12,10 @@ images:
 - /images/posts/ig-2021-07-25-part-2-at-sushi-gen/17894611148219887.jpg
 - /images/posts/ig-2021-07-25-part-2-at-sushi-gen/17889085364229629.jpg
 tags:
+- little-tokyo
+- japanese
 - sushi
-- salmon
-- salad
-- takosu
-- ankimo
-- blackcod
-- miso
-- eeeeeats
-- eats
-- littletokyo
+- miso-cod
 description: Part 2 at Sushi Gen. Here’s the salmon, miso cod, beer, octopus cucumber salad, and ankimo. . . . . .
 location: Sushi Gen
 city: Little Tokyo
@@ -30,6 +24,9 @@ address: 422 E 2nd St (btw Central & Alameda St.), Los Angeles, CA 90012
 coordinates:
   lat: 34.046849
   lng: -118.23852
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/18021851509312292.jpg)

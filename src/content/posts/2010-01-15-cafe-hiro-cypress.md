@@ -10,19 +10,18 @@ images:
 - /images/posts/cafe-hiro-cypress/IMG_7826.JPG
 - /images/posts/cafe-hiro-cypress/IMG_7834.JPG
 - /images/posts/cafe-hiro-cypress/IMG_7838.JPG
-categories:
-- Japanese
-- Orange County
-- $$
-- 3 pigs
-- Cypress
+categories: []
 tags:
-- LA's Orange County
+- fusion
+- risotto
+- dessert
 description: I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.
 archiveUrl: https://web.archive.org/web/20110105210946/http://www.thethirstypig.com/2010/01/15/cafe-hiro-cypress/
 draft: false
 location: Cafe Hiro
 region: Orange County
+cuisine:
+- Fusion
 ---
 
 I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.

@@ -1,5 +1,5 @@
 ---
-title: Looking for a great Jewish Deli in Downtown LA that is open Late! – Langer’s
+title: Langer's, Downtown LA
 pubDate: '2009-09-17'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -12,20 +12,19 @@ images:
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/DSCN0103.JPG
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/DSCN0114.JPG
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/Pastrami+and+Swiss+Cheese+with+Cole+Slaw+and+Dressing.JPG
-categories:
-- Sandwich
-- Pastrami
-- Downtown LA
-- Deli
-- Los Angeles
-- Langer’s
+categories: []
 tags:
-- Los Angeles
+- dtla
+- american
+- pastrami
+- sandwiches
 description: 'Langer’s arguably makes the best traditional pastrami sandwich in Los Angeles. In my opinion they do have the best jewish deli sandwiches. I have been to Canter’s, Nate N Al’s, and Jerry’s deli – but '
 archiveUrl: https://web.archive.org/web/20110319190900/http://www.thethirstypig.com:80/2009/09/17/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/
 draft: false
 city: Downtown LA
 region: Los Angeles
+cuisine:
+- American
 ---
 
 Langer’s arguably makes the best traditional pastrami sandwich in Los Angeles. In my opinion they do have the best jewish deli sandwiches. I have been to Canter’s, Nate N Al’s, and Jerry’s deli – but I know I am missing one or two in the Valley. I would even compare Langer’s to Katz’s in New York City. But I think Katz beats Langer’s, by a hair. I like the service that Katz has better – where you walk up and order and the guy gives you a small plate sample of the meats. (oh gosh my mouth is watering). . . .back to Langer’s

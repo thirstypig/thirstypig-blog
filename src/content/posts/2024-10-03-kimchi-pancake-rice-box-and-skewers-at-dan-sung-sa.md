@@ -1,5 +1,5 @@
 ---
-title: 'Walt Disney Concert Hall Box Office, Koreatown'
+title: Walt Disney Concert Hall Box Office, Koreatown
 pubDate: '2024-10-03'
 author: The Thirsty Pig
 source: instagram
@@ -16,20 +16,11 @@ images:
 - /images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/17904907689028695.jpg
 - /images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/17931063197937514.jpg
 tags:
-- pocha
-- ktown
 - koreatown
-- koreatownla
-- koreatownlosangeles
-- eats
-- eeeeeats
-- thirstypig
-- tastemakersapp
-description: 'Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long waits - give this place charm. Always an enjoyable night, maybe not memorable. Yet we always return. . . .'
+description: Kimchi pancake, rice box, and skewers at Dan Sung Sa. And lots of Makgeolli. I like the Korean Pocha’s, since they’re a hole in the wall drinking joint. Cramped tables, dented drinking bowls, and long waits - give this place charm. Always an enjoyable night, maybe not memorable. Yet we always return. . . .
 location: Walt Disney Concert Hall Box Office
 city: Koreatown
-categories:
-- and skewers at Dan Sung Sa
+categories: []
 region: Los Angeles
 address: 111 S Grand Ave (1st), Los Angeles, CA 90012
 coordinates:

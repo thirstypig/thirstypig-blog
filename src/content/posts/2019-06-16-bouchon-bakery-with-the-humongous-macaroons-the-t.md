@@ -1,5 +1,5 @@
 ---
-title: Bouchon Bakery with the humongous macaroons, the T
+title: Bouchon Bakery, Yountville
 pubDate: '2019-06-16'
 author: The Thirsty Pig
 source: instagram
@@ -14,13 +14,15 @@ images:
 - /images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17952487903287034.jpg
 tags:
 - yountville
-- croissantð
-- tko
-- macaroon
+- bakery
+- macaroons
+- croissants
 description: Bouchon Bakery with the humongous macaroons, the T.K.O. the Thomas Keller Oreo, brownie, and croissant. Yum . . . 🥐
 location: Bouchon Bakery with the humongous macaroons
-categories:
-- the T
+categories: []
+city: Yountville
+cuisine:
+- Bakery
 ---
 
 ![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17861231473427225.jpg)

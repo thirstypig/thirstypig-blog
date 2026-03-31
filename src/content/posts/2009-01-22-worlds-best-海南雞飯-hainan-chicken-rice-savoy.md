@@ -1,5 +1,5 @@
 ---
-title: World’s Best 海南雞飯 (Hainan Chicken Rice) – Savoy
+title: Savoy Kitchen, Alhambra
 pubDate: '2009-01-22'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,14 +7,12 @@ originalUrl: http://www.thethirstypig.com/2009/01/22/worlds-best-%e6%b5%b7%e5%8d
 heroImage: /images/posts/worlds-best-海南雞飯-hainan-chicken-rice-savoy/072220081700.jpg
 images:
 - /images/posts/worlds-best-海南雞飯-hainan-chicken-rice-savoy/072220081700.jpg
-categories:
-- Hole In the Wall
-- Chinese
-- Alhambra
-- Savoy
-- San Gabriel Valley
+categories: []
 tags:
-- LA's San Gabriel Valley
+- hong-kong
+- chinese
+- hainan-chicken
+- chicken-rice
 description: I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and Macau. I can tell you honesty, that the Best Hainan Chicken is from this little hole-in-the-wall in Alhambra – Savoy Kitchen. It’s funn
 archiveUrl: https://web.archive.org/web/20110105204055/http://www.thethirstypig.com/2009/01/22/worlds-best-%e6%b5%b7%e5%8d%97%e9%9b%9e%e9%a3%af-hainan-chicken-rice-savoy/
 draft: false
@@ -24,6 +22,8 @@ region: Hong Kong
 address: '138 E Valley Blvd
 
   Alhambra, CA 91801'
+cuisine:
+- Chinese
 ---
 
 I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and Macau. I can tell you honesty, that the Best Hainan Chicken is from this little hole-in-the-wall in Alhambra – Savoy Kitchen. It’s funny, i’ve been to Savoy dozens of times, though I have never ordered anything else. Nothing else matters. I’ve had friends in Taiwan tell me that Savoy’s Hainan Chicken is the best in the world as well. We would order 10 at a time and have a little feast.

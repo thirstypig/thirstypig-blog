@@ -7,6 +7,9 @@ draft: false
 heroImage: /images/posts/ig-2012-07-28-instagram-post-july-28-2012/17842691824049948.jpg
 images:
 - /images/posts/ig-2012-07-28-instagram-post-july-28-2012/17842691824049948.jpg
+cuisine: []
+tags: []
+categories: []
 ---
 
 ![Instagram Post — July 28, 2012](/images/posts/ig-2012-07-28-instagram-post-july-28-2012/17842691824049948.jpg)

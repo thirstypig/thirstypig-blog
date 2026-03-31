@@ -1,5 +1,5 @@
 ---
-title: 'Rubin Museum of Art, New York'
+title: Rubin Museum of Art, New York
 pubDate: '2018-01-05'
 author: The Thirsty Pig
 source: instagram
@@ -17,16 +17,7 @@ images:
 - /images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17890482046146311.jpg
 - /images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17919239581045160.jpg
 tags:
-- noguchi
-- japaneseamerican
-- japanese
-- art
-- sculpture
 - nyc
-- astoria
-- queens
-- thirstypig
-- driftwoodart
 description: Sculptures TIL a lot about the most well know Japanese American Sculpture. He volunteered to be interned during WWII. Amazing museum about an amazing man.
 city: New York
 region: New York
@@ -35,6 +26,8 @@ address: 150 W 17th St (btwn 6th & 7th Ave), New York, NY 10011
 coordinates:
   lat: 40.74011
   lng: -73.997807
+categories: []
+cuisine: []
 ---
 
 ![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17911166575070552.jpg)

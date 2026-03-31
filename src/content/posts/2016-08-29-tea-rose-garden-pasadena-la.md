@@ -1,5 +1,5 @@
 ---
-title: Tea Rose Garden, Pasadena LA
+title: Tea Rose Garden, Pasadena
 pubDate: '2016-08-29'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,12 +7,12 @@ originalUrl: http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/
 heroImage: /images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg
 images:
 - /images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg
-categories:
-- Pasadena
+categories: []
 tags:
-- Los Angeles
-- Sandwich
-- Tea
+- pasadena
+- bakery
+- afternoon-tea
+- sandwiches
 description: for girls best for afternoon tea a nice outdoor area would have been nice sandwiches tea
 archiveUrl: https://web.archive.org/web/20160830110359/http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/
 draft: false
@@ -20,6 +20,8 @@ location: Tea Rose Garden
 city: Pasadena
 region: Pasadena
 address: 70 N Raymond Ave Pasadena, CA 91103
+cuisine:
+- Bakery
 ---
 
 [![IMG_0453](/images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg "IMG_0453")](http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/img_0453/)

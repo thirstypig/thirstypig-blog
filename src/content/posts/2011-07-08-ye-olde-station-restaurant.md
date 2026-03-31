@@ -1,17 +1,14 @@
 ---
-title: Ye Olde Station Restaurant
+title: Ye Olde Station Restaurant, Shanghai
 pubDate: '2011-07-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/08/ye-olde-station-restaurant/
-categories:
-- 2 pigs
-- Duck
-- Price Range 2 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 tags:
-- Shanghai
+- shanghai
+- french
+- fine-dining
 description: Ye Olde Station Restaurant is a unique restaurant which used to be an old french monastrey. Out of towners, kids, and foreigners alike will all enjoy the allure of this historic building with old rail
 archiveUrl: https://web.archive.org/web/20110711045041/http://www.thethirstypig.com:80/2011/07/08/ye-olde-station-restaurant/
 draft: false
@@ -19,6 +16,8 @@ location: Ye Olde Station Restaurant
 city: Shanghai
 region: Shanghai
 address: 201 North Caoxi Rd
+cuisine:
+- French
 ---
 
 Ye Olde Station Restaurant is a unique restaurant which used to be an old french monastrey. Out of towners, kids, and foreigners alike will all enjoy the allure of this historic building with old railcars. If you call ahead, you might just get a table in a one of two cars that had passengers of the former empress Cixi and Sun Yat-Sen’s wife, Song Qingling.

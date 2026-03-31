@@ -1,5 +1,5 @@
 ---
-title: 'Vietnamese Noodles at 越苑Pho in Taipei, Rosemead'
+title: In-N-Out Burger, Rosemead
 pubDate: '2010-06-09'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -20,13 +20,12 @@ images:
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-4-fried-rolls-88x88.jpg
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-5-shrimp-rolls-88x88.jpg
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-6-pho-88x88.jpg
-categories:
-- 2 pigs
-- Vietnamese
-- Rosemead
-- San Gabriel Valley
+categories: []
 tags:
-- Taipei 台北
+- rosemead
+- american
+- burgers
+- sriracha
 description: 'Sriracha sauce Thai: ศรีราชา sǐrātɕʰā, a Thai spicy sauce, is not from Thailand or even Vietnam It is from Rosemeadhttp://www.huyfong.com/ in Southern California, with Thai roots. In the states, the R'
 archiveUrl: https://web.archive.org/web/20110106012854/http://www.thethirstypig.com/2010/06/09/vietnamese-noodles-pho-taipei/
 draft: false
@@ -37,6 +36,8 @@ address: 4242 Rosemead Blvd (at Mission Dr), Rosemead, CA 91770
 coordinates:
   lat: 34.083833
   lng: -118.073014
+cuisine:
+- American
 ---
 
 Sriracha sauce (Thai: ศรีราชา [sǐrātɕʰā]), a Thai spicy sauce, is not from Thailand or even Vietnam It is from [Rosemead](http://www.huyfong.com/) in Southern California, with Thai roots. In the states, the Rooster sauce, [originally](http://en.wikipedia.org/wiki/Sriracha_sauce) developed for Asian Americans, is used on buffalo wings, french fries, and other American foods, as well as Asian dishes.

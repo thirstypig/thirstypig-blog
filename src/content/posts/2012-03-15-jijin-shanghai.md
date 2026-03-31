@@ -1,15 +1,10 @@
 ---
-title: JiJin 鸡锦, Shanghai
+title: Jing'an Park (静安公园), Shanghai
 pubDate: '2012-03-15'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/15/jijin-shanghai/
-categories:
-- 3 pigs
-- Chicken
-- Japanese
-- Price Range $/¥/NT
-- Shanghai
+categories: []
 description: Click the pictures below to enlarge them
 archiveUrl: https://web.archive.org/web/20120419022242/http://www.thethirstypig.com:80/2012/03/15/jijin-shanghai/
 draft: false
@@ -20,6 +15,9 @@ address: 1649 Nanjing W Rd | 南京西路1649号, Jìngān, Jingan, 上海市, 2
 coordinates:
   lat: 31.22406
   lng: 121.442077
+tags:
+- shanghai
+cuisine: []
 ---
 
 Click the pictures below to enlarge them

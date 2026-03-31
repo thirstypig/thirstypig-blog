@@ -4,13 +4,12 @@ pubDate: '2016-04-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/04/28/seoul-sausage-los-angeles/
-categories:
-- DTLA
-- Los Angeles
-- Downtown LA
+categories: []
 tags:
-- Korean
-- Sausage
+- los-angeles
+- korean
+- sausage
+- fried-balls
 description: Korean inspired food – sausage, fried balls, and fries Good flavors Seems like fast food done in a new way Not sure if using “Seoul” or Korean cuisine is best to describe this food. It does use typica
 archiveUrl: https://web.archive.org/web/20161018133610/http://thirstypig.com/2016/04/28/seoul-sausage-los-angeles/
 draft: false
@@ -18,6 +17,8 @@ location: Seoul Sausage
 city: Los Angeles
 region: Downtown LA
 address: 11313 Mississippi Ave Los Angeles, CA 90025
+cuisine:
+- Korean
 ---
 
 

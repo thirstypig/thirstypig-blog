@@ -1,5 +1,5 @@
 ---
-title: 'Lechon roast pork at El Cochinito, Silver Lake'
+title: El Cochinito, Silver Lake
 pubDate: '2018-10-06'
 author: The Thirsty Pig
 source: instagram
@@ -10,13 +10,10 @@ images:
 - /images/posts/ig-2018-10-06-lechon-roast-pork-at-el-cochinito/17987060338002019.jpg
 - /images/posts/ig-2018-10-06-lechon-roast-pork-at-el-cochinito/17955928432146430.jpg
 tags:
-- cubanfood
-- eeeeeats
-- thirstypig
+- silver-lake
+- colombian
 - lechon
-- roastpork
-- silverlake
-- echopark
+- roast-pork
 description: Lechon roast pork at El Cochinito. Nice fatty cut if pork, black beans and rice, and steamed yucca. Wife likes the yucca. And had a Yerba matte soda. . . . .
 location: El Pueblo de Los Angeles Historic Monument
 city: Silver Lake
@@ -25,6 +22,9 @@ address: 125 Paseo de La Plz (btwn Main & Los Angeles St), Los Angeles, CA 90012
 coordinates:
   lat: 34.056751
   lng: -118.2384
+categories: []
+cuisine:
+- Colombian
 ---
 
 ![Lechon roast pork at El Cochinito](/images/posts/ig-2018-10-06-lechon-roast-pork-at-el-cochinito/17912681965228518.jpg)

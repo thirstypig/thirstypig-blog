@@ -1,5 +1,5 @@
 ---
-title: 'Dinner at David Chang’s Majordomo, Downtown LA'
+title: Majordomo, Downtown LA
 pubDate: '2018-02-22'
 author: The Thirsty Pig
 source: instagram
@@ -18,19 +18,16 @@ images:
 - /images/posts/ig-2018-02-22-dinner-at-david-changs-majordomo/17902534411139703.jpg
 tags:
 - dtla
-- chinatown
-- koreanfood
-- asianfood
-- thirstypig
-- pork
-- blackcod
-- shavedice
-- bing
-- davidchoeart
-description: 'Dinner at David Chang’s Majordomo. We had 2 Bings - a smoked pork neck & fried egg and a eggs & smoked roe. Both were better than expected. Then had fried butter ball potatoes which had salsa seca and peanuts with interesting texture mix. The Jumeokbap - a DIY rice ball was a crowd pleaser. The black cod in paper, unfortunately not photogenic, had familiar and like-able Chinese or Asian flavors. We also mixed in some yummy fried onion rings. And we finished off the entrees with the popular crispy pork belly with lettuce leaves. We finished off this feast with the two desserts - the only ones available. A shaved ice with fruit - my favorite - that literally melted in your mouth (as soon as you touch it). And had an interesting cinnamon sweet bing (forgot the name) that was also memorable. We need another visit to try the other dishes, like the meats and noodles. Yummy and Yay!'
+- fusion
+- bings
+- fried-chicken
+description: Dinner at David Chang’s Majordomo. We had 2 Bings - a smoked pork neck & fried egg and a eggs & smoked roe. Both were better than expected. Then had fried butter ball potatoes which had salsa seca and peanuts with interesting texture mix. The Jumeokbap - a DIY rice ball was a crowd pleaser. The black cod in paper, unfortunately not photogenic, had familiar and like-able Chinese or Asian flavors. We also mixed in some yummy fried onion rings. And we finished off the entrees with the popular crispy pork belly with lettuce leaves. We finished off this feast with the two desserts - the only ones available. A shaved ice with fruit - my favorite - that literally melted in your mouth (as soon as you touch it). And had an interesting cinnamon sweet bing (forgot the name) that was also memorable. We need another visit to try the other dishes, like the meats and noodles. Yummy and Yay!
 location: Majordomo
 city: Downtown LA
 region: Los Angeles
+categories: []
+cuisine:
+- Fusion
 ---
 
 ![Dinner at David Chang’s Majordomo](/images/posts/ig-2018-02-22-dinner-at-david-changs-majordomo/17914229809103243.jpg)

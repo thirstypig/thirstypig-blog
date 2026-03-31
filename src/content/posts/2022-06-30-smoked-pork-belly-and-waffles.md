@@ -1,5 +1,5 @@
 ---
-title: 'Smoked pork belly and waffles, Austin'
+title: Bouldin Acres, Austin
 pubDate: '2022-06-30'
 author: The Thirsty Pig
 source: instagram
@@ -14,17 +14,8 @@ images:
 - /images/posts/ig-2022-06-30-smoked-pork-belly-and-waffles/17932534274161452.jpg
 - /images/posts/ig-2022-06-30-smoked-pork-belly-and-waffles/18236631628119409.jpg
 tags:
-- bouldinacres
 - austin
-- foodtruck
-- wow
-- deathwokclan
-- thirstypig
-- tastemakersapp
-- porkbelly
-- waffles
-- foodie
-description: 'Smoked pork belly and waffles. Probably the best thing I had in Austin this time around. Bouldin Acres is the stereotypical Austin joint with outdoor seating, music, and food trucks. But today was but hotter than comfortable. Anyways . . . Good times and great to hand with old and new friends. . . . . . . .'
+description: Smoked pork belly and waffles. Probably the best thing I had in Austin this time around. Bouldin Acres is the stereotypical Austin joint with outdoor seating, music, and food trucks. But today was but hotter than comfortable. Anyways . . . Good times and great to hand with old and new friends. . . . . . . .
 location: Bouldin Acres
 city: Austin
 region: Texas
@@ -32,6 +23,7 @@ address: 2027 S Lamar Blvd (W Mary St), Austin, TX 78704
 coordinates:
   lat: 30.248507
   lng: -97.768684
+categories: []
 ---
 
 ![Smoked pork belly and waffles](/images/posts/ig-2022-06-30-smoked-pork-belly-and-waffles/17923034231451451.jpg)

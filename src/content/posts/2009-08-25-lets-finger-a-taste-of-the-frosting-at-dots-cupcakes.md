@@ -1,5 +1,5 @@
 ---
-title: lets finger a taste of the frosting at Dots Cupcakes
+title: Dots Cupcakes, Pasadena
 pubDate: '2009-08-25'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,13 +11,11 @@ images:
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0822.jpg
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0823.jpg
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0828.jpg
-categories:
-- San Gabriel Valley
-- Cupcakes
-- Dessert
-- Pasadena
+categories: []
 tags:
-- LA's San Gabriel Valley
+- pasadena
+- dessert
+- cupcakes
 description: In the spirit of Cupcakes – the third in my Pasadena trilogy of cupcakes – Dots Cupcakes. Recently I posted my thoughts about Violet’s Cakes and Polkatots, both in Pasadena.
 archiveUrl: https://web.archive.org/web/20110105224727/http://www.thethirstypig.com/2009/08/25/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/
 draft: false
@@ -28,6 +26,8 @@ address: 400 S Arroyo Pkwy (btw Del Mar & California), Pasadena, CA 91105
 coordinates:
   lat: 34.139261
   lng: -118.147351
+cuisine:
+- Dessert
 ---
 
 In the spirit of Cupcakes – the third in my Pasadena trilogy of cupcakes – Dots Cupcakes. Recently I posted my thoughts about Violet’s Cakes and Polkatots, both in Pasadena.

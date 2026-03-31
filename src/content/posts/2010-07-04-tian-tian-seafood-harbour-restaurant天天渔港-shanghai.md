@@ -1,17 +1,15 @@
 ---
-title: Tian Tian Seafood Harbour Restaurant天天渔港, Shanghai
+title: Tin Tin Seafood Habour (天天渔港), Shanghai
 pubDate: '2010-07-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Brunch
-- Cantonese
-- Chinese 2
-- Seafood
+- shanghai
+- chinese
+- dim-sum
+- seafood
 description: Tian Tian Seafood Harbour 天天渔港 Tian Tian Yu Gang is one of the largest chain restaurants in Shanghai, but also China. With Hong Kong roots, there are locations in Beijing, Shenzhen, as well as Shangha
 archiveUrl: https://web.archive.org/web/20161018181541/http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/
 draft: false
@@ -22,6 +20,8 @@ address: 徐家汇路548号 (打浦店), Huangpu, 上海市
 coordinates:
   lat: 31.206488
   lng: 121.470723
+cuisine:
+- Chinese
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bar Food – October Choice, Los Angeles'
+title: Ye Rustic Inn, Los Angeles
 pubDate: '2009-10-23'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,15 +17,11 @@ images:
 - /images/posts/bar-food-october-choice/DSCN0040.JPG
 - /images/posts/bar-food-october-choice/DSCN0041.JPG
 - /images/posts/bar-food-october-choice/DSCN0055.JPG
-categories:
-- $$
-- American
-- 2 pigs
-- West LA
-- Oc
-- Orange County
+categories: []
 tags:
-- West LA
+- los-angeles
+- american
+- bar-food
 description: On the suggestion of an Elite Yelper, we decided to make the trek to West Los Angeles to try Bar Food. I know nowadays, that I am a little more pickier from this blog and with the expectations of my f
 archiveUrl: https://web.archive.org/web/20110105172826/http://www.thethirstypig.com/2009/10/23/bar-food-october-choice/
 draft: false
@@ -36,6 +32,8 @@ address: 1831 Hillhurst Ave (at Russell Ave), Los Angeles, CA 90027
 coordinates:
   lat: 34.104372
   lng: -118.287789
+cuisine:
+- American
 ---
 
 On the suggestion of an Elite Yelper, we decided to make the trek to West Los Angeles to try Bar Food. I know nowadays, that I am a little more pickier from this blog and with the expectations of my friends. I know I have to take into account distance & traffic, price & value, and palate & taste. Lately, I think I have a better understanding of what I like and what I don’t like.

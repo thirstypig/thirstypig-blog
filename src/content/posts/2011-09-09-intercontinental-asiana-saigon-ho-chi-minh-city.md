@@ -25,17 +25,16 @@ images:
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-18-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-19-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-20-494x370.jpg
-categories:
-- 2 pigs
-- Breakfast
-- Buffet
-- hotel
-- Vietnamese
-- Ho Chi Minh City
+categories: []
 description: 'Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo '
 archiveUrl: https://web.archive.org/web/20111123105802/http://www.thethirstypig.com/2011/09/09/intercontinental-asiana-saigon-ho-chi-minh-city/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=the+thirsty+pig
 draft: false
 location: Intercontinental Asiana Saigon
+tags:
+- vietnamese
+- fine-dining
+cuisine:
+- Vietnamese
 ---
 
 Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo lifted and the economy starting to pick up, that Ho Chi Minh City has started to see an emergence of prosperity. With this economic growth we see luxury hotels like Intercontinental Asiana Saigon riding this wave.

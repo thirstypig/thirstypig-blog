@@ -1,5 +1,5 @@
 ---
-title: 'Sweet & Savory, Santa Monica'
+title: Sweetfin Poké, Santa Monica
 pubDate: '2009-10-19'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,16 +17,12 @@ images:
 - /images/posts/sweet-savory/DSCN0040.JPG
 - /images/posts/sweet-savory/DSCN0042.JPG
 - /images/posts/sweet-savory/DSCN0043.JPG
-categories:
-- American
-- San Gabriel Valley
-- 2 pigs
-- $
-- Dessert
-- Santa Monica
-- Westside
+categories: []
 tags:
-- Los Angeles
+- santa-monica
+- bakery
+- baked-goods
+- cupcakes
 description: Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.
 archiveUrl: https://web.archive.org/web/20111103144203/http://www.thethirstypig.com/2009/10/19/sweet-savory/
 draft: false
@@ -37,6 +33,8 @@ address: 829 Broadway (at Lincoln Ct), Santa Monica, CA 90401
 coordinates:
   lat: 34.018755
   lng: -118.489466
+cuisine:
+- Bakery
 ---
 
 Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.

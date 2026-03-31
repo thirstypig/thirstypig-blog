@@ -1,5 +1,5 @@
 ---
-title: The Factory Kitchen, DTLA
+title: The Factory Kitchen, Dtla
 pubDate: '2015-02-20'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,12 +7,12 @@ originalUrl: http://thirstypig.com/2015/02/20/factory-kitchen-dtla/
 heroImage: /images/posts/factory-kitchen-dtla/IMG_2290.jpg
 images:
 - /images/posts/factory-kitchen-dtla/IMG_2290.jpg
-categories:
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Italian
-- Los Angeles
+- dtla
+- italian
+- handkerchief-pasta
+- porchetta
 description: One of the best Italian dining experiences I’ve had in LA Could best my argument that Shanghai has better Italian than LA Has a subdued, yet festive space mandilli di seta – handkerchief pasta, liguri
 archiveUrl: https://web.archive.org/web/20160915044849/http://thirstypig.com/2015/02/20/factory-kitchen-dtla/
 draft: false
@@ -20,6 +20,8 @@ location: The Factory Kitchen
 city: Dtla
 region: Downtown LA
 address: 1300 Factory Pl St
+cuisine:
+- Italian
 ---
 
 [![IMG_2286](/images/posts/factory-kitchen-dtla/IMG_2290.jpg "IMG_2286")](http://thirstypig.com/2015/02/20/factory-kitchen-dtla/img_2286/)

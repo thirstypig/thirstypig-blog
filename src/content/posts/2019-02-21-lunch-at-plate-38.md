@@ -1,5 +1,5 @@
 ---
-title: 'Lunch at Plate 38, Pasadena'
+title: Plate 38, Pasadena
 pubDate: '2019-02-21'
 author: The Thirsty Pig
 source: instagram
@@ -13,17 +13,16 @@ images:
 - /images/posts/ig-2019-02-21-lunch-at-plate-38/17918585749281446.jpg
 - /images/posts/ig-2019-02-21-lunch-at-plate-38/17847419869369189.jpg
 tags:
-- burgers
-- oysters
-- brunch
 - pasadena
-- sgv
-- lunch
-- thirstypig
+- american
+- burgers
 description: Lunch at Plate 38. Pretty decent burger. Unexpectedly good experience . . .
 location: Plate 38
 city: Pasadena
 region: San Gabriel Valley
+categories: []
+cuisine:
+- American
 ---
 
 ![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17943715648260730.jpg)

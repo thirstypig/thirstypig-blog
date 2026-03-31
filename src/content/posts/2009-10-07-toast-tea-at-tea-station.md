@@ -1,5 +1,5 @@
 ---
-title: 'Toast & Tea at Tea Station, Los Angeles'
+title: Tea Master Matcha Cafe and Green Tea Shop, Los Angeles
 pubDate: '2009-10-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,13 +10,12 @@ images:
 - /images/posts/toast-tea-at-tea-station/IMG_0858.jpg
 - /images/posts/toast-tea-at-tea-station/IMG_0860.jpg
 - /images/posts/toast-tea-at-tea-station/IMG_0862.jpg
-categories:
-- San Gabriel Valley
-- Tea
-- Taiwanese
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- taiwanese
+- matcha
+- boba
 description: Here’s one last post about Taiwanese cuisine that I wanted to briefly spout about. Its not necessarily a meal, but more of a late night snack or dessert. Though this place also has entrees, is the des
 archiveUrl: https://web.archive.org/web/20111103144634/http://www.thethirstypig.com/2009/10/07/toast-tea-at-tea-station/
 draft: false
@@ -27,6 +26,8 @@ address: 450 E 2nd St, Los Angeles, CA 90012
 coordinates:
   lat: 34.047085
   lng: -118.238598
+cuisine:
+- Taiwanese
 ---
 
 Here’s one last post about Taiwanese cuisine that I wanted to briefly spout about. Its not necessarily a meal, but more of a late night snack or dessert. Though this place also has entrees, is the desserts, snacks, and drinks that people come for.

@@ -1,5 +1,5 @@
 ---
-title: Early lunch/brunch at L’antica in Hollywood
+title: L'Antica Pizzeria da Michele, Hollywood
 pubDate: '2021-05-18'
 author: The Thirsty Pig
 source: instagram
@@ -10,22 +10,17 @@ images:
 - /images/posts/ig-2021-05-18-early-lunchbrunch-at-lantica-in-hollywood/17881891964208218.jpg
 - /images/posts/ig-2021-05-18-early-lunchbrunch-at-lantica-in-hollywood/18210061714072839.jpg
 tags:
-- lanticapizzeriadamichele
-- pizza
-- pizzeria
 - hollywood
-- brunch
-- lunch
-- eeeeeats
-- eats
-- outdoors
-- shade
+- italian
+- pizza
+- pasta
 description: Early lunch/brunch at L’antica in Hollywood. Breakfast pizza, margherita pizza, and Pappardelle Genovese pasta. Enjoyed all the dishes. Too bad they didn’t have bloody marys. . . . . . .
 location: L'Antica Pizzeria da Michele
 city: Hollywood
 region: Hollywood
-categories:
-- Hollywood
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Early lunch/brunch at L’antica in Hollywood](/images/posts/ig-2021-05-18-early-lunchbrunch-at-lantica-in-hollywood/17883680465181233.jpg)

@@ -9,17 +9,11 @@ images:
 - /images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17917614883073539.jpg
 - /images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17910214210126442.jpg
 - /images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17853116464225909.jpg
-tags:
-- bigsur
-- california
-- beach
-- naturalbeauty
-- pacific
-- sunset
-- waves
-- keyholearch
+tags: []
 description: Keyhole arch at Pfieffer state beach
 location: Keyhole arch at Pfieffer state beach
+categories: []
+cuisine: []
 ---
 
 ![Keyhole arch at Pfieffer state beach](/images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17917614883073539.jpg)

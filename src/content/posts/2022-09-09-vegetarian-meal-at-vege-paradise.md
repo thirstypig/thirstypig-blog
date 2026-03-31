@@ -11,12 +11,10 @@ images:
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18318857257033149.jpg
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18051459124354430.jpg
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17938488344468238.jpg
-tags:
-- vegeparadise
-- vegan
-- vegetarian
+tags: []
 description: Vegetarian meal at Vege Paradise.
 location: Vegetarian meal at Vege Paradise
+categories: []
 ---
 
 ![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17977125382723596.jpg)

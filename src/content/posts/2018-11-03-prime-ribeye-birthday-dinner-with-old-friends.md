@@ -15,16 +15,14 @@ images:
 - /images/posts/ig-2018-11-03-prime-ribeye-birthday-dinner-with-old-friends/17905917013255773.jpg
 - /images/posts/ig-2018-11-03-prime-ribeye-birthday-dinner-with-old-friends/17921609299228895.jpg
 tags:
-- happybirthday
-- eeeeeats
+- steakhouse
 - steak
-- primeribeye
-- beef
-- beeftartare
-- food
-- bonemarrow
+- beef-tartare
 description: Prime Ribeye birthday dinner with old friends. Bone marrow, beef tartare, and crab fried rice. . . . .real.mike.gin
 location: Prime Ribeye birthday dinner with old friends
+categories: []
+cuisine:
+- Steakhouse
 ---
 
 ![Prime Ribeye birthday dinner with old friends](/images/posts/ig-2018-11-03-prime-ribeye-birthday-dinner-with-old-friends/17978196139126772.jpg)

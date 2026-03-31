@@ -1,5 +1,5 @@
 ---
-title: Cav Wine Bar
+title: Cav Wine Bar, San Francisco
 pubDate: '2009-11-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,19 +11,17 @@ images:
 - /images/posts/cav-wine-bar/IMG_1061.jpg
 - /images/posts/cav-wine-bar/IMG_1063.JPG
 - /images/posts/cav-wine-bar/IMG_1066.JPG
-categories:
-- American
-- $$
-- Bay Area
-- Wine
-- 2 pigs
+categories: []
 tags:
-- Northern California
+- cocktails
+- wine
 description: On a chilly dark November night, an unsuspecting friend was smuggled into the unknown . . . Cav. My friends brought me for some drinks at a downtown SF wine bar called Cav. Nice little place with spra
 archiveUrl: https://web.archive.org/web/20110105200356/http://www.thethirstypig.com/2009/11/24/cav-wine-bar/
 draft: false
 location: Cav Wine Bar
 region: Bay Area
+cuisine:
+- Cocktails
 ---
 
 On a chilly dark November night, an unsuspecting friend was smuggled into the unknown . . . Cav. My friends brought me for some drinks at a downtown SF wine bar called Cav. Nice little place with spray painted decor.

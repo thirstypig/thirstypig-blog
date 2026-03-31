@@ -1,5 +1,5 @@
 ---
-title: Hot Pot lunch at Little Sheep in old town Pasadena
+title: Little Sheep, Pasadena
 pubDate: '2018-05-26'
 author: The Thirsty Pig
 source: instagram
@@ -16,21 +16,20 @@ images:
 - /images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17919125287157163.jpg
 - /images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17948139979036679.jpg
 tags:
-- littlesheep
-- å
-- hotpot
 - pasadena
-- sgv
+- chinese
+- hot-pot
 description: Hot Pot lunch at Little Sheep in old town Pasadena. 小肥羊
 location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657
   lng: -118.152145
+cuisine:
+- Chinese
 ---
 
 ![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17848494745266491.jpg)

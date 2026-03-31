@@ -1,5 +1,5 @@
 ---
-title: Nathan’s Famous
+title: Nathan's Famous, New York
 pubDate: '2009-05-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,15 +9,19 @@ images:
 - /images/posts/nathans-famous/071620081661.jpg
 - /images/posts/nathans-famous/071620081663.jpg
 - /images/posts/nathans-famous/071620081666.jpg
-categories:
-- American
+categories: []
 tags:
-- New York City
+- nyc
+- american
+- hot-dogs
 description: When you go to New York, there are a couple of street foods that always come to mind. The first one is the New York style pizza, which you can find almost on any street corner. And the 2nd one is a ho
 archiveUrl: https://web.archive.org/web/20110105143858/http://www.thethirstypig.com/2009/05/06/nathans-famous/
 draft: false
 location: Nathan’s Famous
 address: 1310 Surf Ave
+city: New York
+cuisine:
+- American
 ---
 
 When you go to New York, there are a couple of street foods that always come to mind. The first one is the New York style pizza, which you can find almost on any street corner. And the 2nd one is a hot dog.

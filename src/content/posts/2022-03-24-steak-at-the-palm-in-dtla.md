@@ -1,5 +1,5 @@
 ---
-title: 'Steak at the Palm in DTLA, Downtown LA'
+title: Row Dtla, Downtown LA
 pubDate: '2022-03-24'
 author: The Thirsty Pig
 source: instagram
@@ -15,14 +15,7 @@ images:
 - /images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/18052537516313528.jpg
 - /images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/18159269617212414.jpg
 tags:
-- steak
-- tomahawksteak
-- ribeye
-- beef
 - dtla
-- lakergame
-- lebronjames
-- lakerscover
 description: Steak at the Palm in DTLA. The tomahawk ribeye and a bunch of sides. Started off with a nice bottle of wine. Solid steakhouse that came from NYC. . . . . .
 location: Row Dtla
 city: Downtown LA
@@ -31,6 +24,7 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
+categories: []
 ---
 
 ![Steak at the Palm in DTLA](/images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/17957261179721225.jpg)

@@ -1,13 +1,10 @@
 ---
-title: Shanghai Food Blogs – as featured in Shanghai Talk Magazine
+title: Shanghai Food Court, Shanghai
 pubDate: '2011-11-20'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/11/20/shanghai-food-blogs-featured-in-shanghai-talk-magazine/
-categories:
-- 2 pigs
-- Blog
-- Shanghai
+categories: []
 description: I was also recently featured, along with other food bloggers in Shanghai Talk Magazine. The picture they choose to feature was my picture from my post with Mayahttp://www.thethirstypig.com/2011/09/19/
 archiveUrl: https://web.archive.org/web/20120411011347/http://www.thethirstypig.com:80/2011/11/20/shanghai-food-blogs-featured-in-shanghai-talk-magazine/
 draft: false
@@ -18,6 +15,10 @@ address: Guangxi North Road No.288 Nanjing Road Pedestrian Street (South Side), 
 coordinates:
   lat: 31.237081
   lng: 121.472871
+tags:
+- shanghai
+- brunch
+cuisine: []
 ---
 
 I was also recently featured, along with other food bloggers in Shanghai Talk Magazine. The picture they choose to feature was my picture from my post with [Maya](http://www.thethirstypig.com/2011/09/19/maya-brunch-shanghai/).

@@ -1,16 +1,15 @@
 ---
-title: Public School 213, DTLA
+title: Public School 213, Los Angeles
 pubDate: '2017-02-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/13/public-school-213-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- American
-- Gastropub
+- dtla
+- american
+- fried-chicken
+- burgers
 description: 'Cool school themed gastropub concept in DTLA Pretty good food to go along with a large selection of drinks Fried Chicken and Waffles is a safe choice, along with any of the burgers Decent Happy Hour, '
 archiveUrl: https://web.archive.org/web/20170214053939/http://thirstypig.com/2017/02/13/public-school-213-dtla/
 draft: false
@@ -18,6 +17,8 @@ location: Public School 213
 city: Dtla
 region: Downtown LA
 address: 612 Flower St. Los Angeles, CA 90017
+cuisine:
+- American
 ---
 
 

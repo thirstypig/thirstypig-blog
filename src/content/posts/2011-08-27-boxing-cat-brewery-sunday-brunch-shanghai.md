@@ -1,5 +1,5 @@
 ---
-title: Boxing Cat Brewery – Sunday Brunch, Shanghai
+title: Boxing Cat Brewery (拳击猫餐厅), Shanghai
 pubDate: '2011-08-27'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,14 +7,7 @@ originalUrl: http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-b
 heroImage: /images/posts/boxing-cat-brewery-sunday-brunch-shanghai/Boxing-Cat-Brunch-05-494x370.jpg
 images:
 - /images/posts/boxing-cat-brewery-sunday-brunch-shanghai/Boxing-Cat-Brunch-05-494x370.jpg
-categories:
-- 2 pigs
-- American
-- Brewery
-- Brunch
-- Mexican
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20111103155041/http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-brunch-shanghai/
 draft: false
@@ -25,6 +18,13 @@ address: 82 Fuxing W Rd (Yongfu Rd), Xuhui, 上海市, 200031
 coordinates:
   lat: 31.212586
   lng: 121.438435
+tags:
+- shanghai
+- fusion
+- brunch
+- tex-mex
+cuisine:
+- Fusion
 ---
 
 Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up early and got to go with a few friends to Kelley Lee’s Boxing Cat Brewery for brunch.

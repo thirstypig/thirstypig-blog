@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese dinner at Monja Taiker, Rosemead'
+title: Monja Taiker, Rosemead
 pubDate: '2019-10-11'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,17 @@ images:
 - /images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/17875194175462893.jpg
 - /images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/17879749138446968.jpg
 tags:
-- taiwanesefood
-- taiwanesecuisine
-- monjataiker
 - rosemead
-- sgv
-- food
-- eeeeeats
-- eater
-- eat
-- shavedice
-description: 'Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage on rice, and spicy wontons. Unfortunately the rice was too sticky (too much water). Other than that, we liked everything. I think we would return. . . . . .'
+- taiwanese
+- shaved-ice
+- rice-bowls
+description: Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled peanuts and condensed milk is my favorite combination. We also had the fried red pork on rice, chicken roll on rice, Taiwanese sausage on rice, and spicy wontons. Unfortunately the rice was too sticky (too much water). Other than that, we liked everything. I think we would return. . . . . .
 location: Monja Taiker
 city: Rosemead
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese dinner at Monja Taiker](/images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/18107338234005795.jpg)

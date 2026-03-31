@@ -1,5 +1,5 @@
 ---
-title: The Sweet Roasted Fish from Jade Butterfly 蝶翠轩, Shanghai
+title: 蝶园 Butterfly Garden Restaurant, Shanghai
 pubDate: '2010-09-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -31,12 +31,7 @@ images:
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-26-88x88.jpg
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-27-88x88.jpg
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-28-88x88.jpg
-categories:
-- 1 pig
-- Chang Ning District 长宁区
-- Price Range 2 $/¥/NT
-- Shanghai
-- Shanghainese
+categories: []
 description: 'I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes '
 archiveUrl: https://web.archive.org/web/20100915154815/http://www.thethirstypig.com:80/2010/09/08/the-sweet-roasted-fish-from-jade-butterfly-%E8%9D%B6%E7%BF%A0%E8%BD%A9-shanghai/
 draft: false
@@ -47,6 +42,13 @@ address: 70 Taicang Rd, 上海市, 上海市
 coordinates:
   lat: 31.223707
   lng: 121.472333
+tags:
+- shanghai
+- chinese
+- shanghainese
+- dim-sum
+cuisine:
+- Chinese
 ---
 
 I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes are known to be overly sweet and thick in sauce, not with an abundant amount of flavors. Jade Butterfly tries to emphasize in the delicacies and traditional dishes that Shanghai has to offer.

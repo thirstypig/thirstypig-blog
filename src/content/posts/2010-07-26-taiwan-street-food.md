@@ -1,5 +1,5 @@
 ---
-title: Taiwan Street Food
+title: Taiwan Street Food, Taiwan
 pubDate: '2010-07-26'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -13,16 +13,17 @@ images:
 - /images/posts/taiwan-street-food/IMG_2317-88x88.jpg
 - /images/posts/taiwan-street-food/IMG_2320-88x88.jpg
 - /images/posts/taiwan-street-food/IMG_2559-88x88.jpg
-categories:
-- 3 pigs
-- Price Range $/¥/NT
-- Taiwanese
+categories: []
 tags:
-- Taipei
+- taiwanese
+- street-food
+- offal
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20110927115444/http://www.thethirstypig.com/2010/07/26/taiwan-street-food/
 draft: false
 location: Taiwan Street Food
+cuisine:
+- Taiwanese
 ---
 
 Among the delights of Taiwan that I look forward to is Taiwan street food. Like everywhere else in the world, Taiwan features great food from street vendors. I hope, in the future, anywhere I go, that I plan to post more about street food vendors.

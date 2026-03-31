@@ -4,17 +4,19 @@ pubDate: '2011-07-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/
-categories:
-- Songshan
-- Taipei
+categories: []
 tags:
-- Market
-- Taiwanese
+- taipei
+- taiwanese
+- braised-pork-rice
+- night-market
 description: A few months ago, I wrote about Tu Hsiao Yueh, the original from Tainan. I found this knock off copy cat at a little night market in Taipei near Nanjing East Road. I sort of just stumbled upon it whil
 archiveUrl: https://web.archive.org/web/20161105000232/http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/
 draft: false
 city: Taipei
 region: Taipei
+cuisine:
+- Taiwanese
 ---
 
 

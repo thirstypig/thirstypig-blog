@@ -1,5 +1,5 @@
 ---
-title: Secret Lunch Find in Pasadena – Rotisserie Chicken of California
+title: Rotisserie Chicken of California, Pasadena
 pubDate: '2009-08-27'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,20 +9,20 @@ images:
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0040.JPG
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0045.JPG
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0047.JPG
-categories:
-- Lunch
-- San Gabriel Valley
-- Chicken
-- Curry
-- Rotisserie Chicken of California
+categories: []
 tags:
-- Los Angeles
+- pasadena
+- american
+- rotisserie-chicken
+- chicken
 description: Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie an
 archiveUrl: https://web.archive.org/web/20111103144039/http://www.thethirstypig.com/2009/08/27/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/
 draft: false
 location: Secret Lunch Find in Pasadena
 city: Pasadena
 region: San Gabriel Valley
+cuisine:
+- American
 ---
 
 Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie and California restaurants all over the place. So, to me. . . coming here was almost moot. But my friend insisted we go. INSISTED!!

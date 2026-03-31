@@ -1,5 +1,5 @@
 ---
-title: Animal Style Burgers from Southern California’s Own Burger Joint
+title: In-N-Out, Southern California
 pubDate: '2009-09-12'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,14 +9,16 @@ images:
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0794.jpg
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0796.jpg
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0800.JPG
-categories:
-- Hamburgers
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- american
+- burgers
+- fast-food
 description: You could smell their burgers almost a mile away – literally. In-N-Out, a Southern California institution, has been around for over 60 years. If you haven’t heard of or had a double double from In-N-O
 archiveUrl: https://web.archive.org/web/20110105224622/http://www.thethirstypig.com/2009/09/12/animal-style-burgers-from-southern-californias-own-burger-joint/
 draft: false
+cuisine:
+- American
 ---
 
 You could smell their burgers almost a mile away – literally. In-N-Out, a Southern California institution, has been around for over 60 years. If you haven’t heard of or had a double double from In-N-Out, then you haven’t been to LA. But perhaps most of you have heard of their Animal Style Burgers from their secret menu and Animal Style fries.

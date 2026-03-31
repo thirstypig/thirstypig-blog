@@ -1,5 +1,5 @@
 ---
-title: Indian Beer House
+title: Indian Beer House, San Gabriel Valley
 pubDate: '2018-10-21'
 author: The Thirsty Pig
 source: instagram
@@ -13,18 +13,17 @@ images:
 - /images/posts/ig-2018-10-21-indian-beer-house/17992340068021425.jpg
 - /images/posts/ig-2018-10-21-indian-beer-house/17977104196108214.jpg
 tags:
-- eeeeeats
-- popcornchicken
 - sgv
-- thirstypig
-- itfdb
-- dodgers
-- ä
-- é¹½é
-description: 'Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - three cup chicken, grilled sausage, cabbage with pork belly, popcorn chicken, egg, and soup. Yum. I think I’ve had this combination almost every time. Also I like this place since we can watch the dodgers and lakers. . . . .'
+- taiwanese
+- three-cup-chicken
+- popcorn-chicken
+description: Indian Beer House! It’s actually Taiwanese cuisine with beer at a restaurant with a Native American theme. Been going to this place for years. Basically Taiwanese comfort food. Got the favorites - three cup chicken, grilled sausage, cabbage with pork belly, popcorn chicken, egg, and soup. Yum. I think I’ve had this combination almost every time. Also I like this place since we can watch the dodgers and lakers. . . . .
 location: Indian Beer House
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Indian Beer House](/images/posts/ig-2018-10-21-indian-beer-house/17990659756006741.jpg)

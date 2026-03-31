@@ -1,5 +1,5 @@
 ---
-title: 'The Korean Taco Truck! – Kogi BBQ, Los Angeles'
+title: The Korean Taco Truck! – Kogi BBQ, Los Angeles
 pubDate: '2009-01-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,18 +8,19 @@ heroImage: /images/posts/the-korean-taco-truck-kogi-bbq/kogi+2.jpg
 images:
 - /images/posts/the-korean-taco-truck-kogi-bbq/kogi+2.jpg
 - /images/posts/the-korean-taco-truck-kogi-bbq/photo.jpg
-categories:
-- Korean
-- Food Truck
-- Late Night
-- Kogi BBQ
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- fusion
+- tacos
+- bbq
 description: Right outside my friend’s birthday, Kogi had stationed itself right outside on the sidewalk. We were lucky to have them nearby. I only wish they didn’t have to leave so early and wished they would hav
 archiveUrl: https://web.archive.org/web/20111103144052/http://www.thethirstypig.com/2009/01/04/the-korean-taco-truck-kogi-bbq/
 draft: false
 city: Los Angeles
 region: Los Angeles
+cuisine:
+- Fusion
 ---
 
 Right outside my friend’s birthday, Kogi had stationed itself right outside on the sidewalk. We were lucky to have them nearby. I only wish they didn’t have to leave so early and wished they would have come back around 2am. . .

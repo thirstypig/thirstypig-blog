@@ -17,14 +17,11 @@ images:
 - /images/posts/tokyo-wako-arcadia/IMG_0568.jpg
 - /images/posts/tokyo-wako-arcadia/IMG_0569.jpg
 - /images/posts/tokyo-wako-arcadia/IMG_0570.jpg
-categories:
-- Japanese
-- 1 pig
-- San Gabriel Valley
-- $$
-- Arcadia
+categories: []
 tags:
-- LA's San Gabriel Valley
+- arcadia
+- japanese
+- teppanyaki
 description: Tokyo Wako has been the go-to place for my family for birthdays. We have been coming here for years. Tokyo Wako, which also has a location in Pasadena, is a Japanese Teppanyaki鉄板焼き restaurant.
 archiveUrl: https://web.archive.org/web/20110106015142/http://www.thethirstypig.com/2010/03/14/tokyo-wako-arcadia/
 draft: false
@@ -35,6 +32,8 @@ address: 401 E Huntington Dr (at S 5th Ave.), Arcadia, CA 91006
 coordinates:
   lat: 34.140521
   lng: -118.0219
+cuisine:
+- Japanese
 ---
 
 Tokyo Wako in Arcadia.

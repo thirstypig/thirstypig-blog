@@ -1,14 +1,15 @@
 ---
-title: Fresh Roach Coaches on the 1st Friday, Venice
+title: First Friday on Abbot Kinney, Venice
 pubDate: '2009-09-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
-categories:
-- Venice
-- Westside
+categories: []
 tags:
-- Food Truck
+- venice
+- multi
+- tacos
+- food-trucks
 description: 'The first Friday of every month is festival ritual in the heart of Venice. Shops, galleries, and bars open late to slow walking crowds. But unfortunately for the restaurants on Abbot Kinney Road, the '
 archiveUrl: https://web.archive.org/web/20161105212138/http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
 draft: false
@@ -19,6 +20,8 @@ address: Abbot Kinney Blvd (btw Venice Blvd and Main St), Venice, CA 90291
 coordinates:
   lat: 33.990908
   lng: -118.465476
+cuisine:
+- Multi
 ---
 
 

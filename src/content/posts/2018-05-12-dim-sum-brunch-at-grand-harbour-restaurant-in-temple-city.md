@@ -1,5 +1,5 @@
 ---
-title: Dim Sum brunch at Grand Harbour Restaurant in Temple City
+title: Grand Harbor, Temple City
 pubDate: '2018-05-12'
 author: The Thirsty Pig
 source: instagram
@@ -17,13 +17,10 @@ images:
 - /images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17927999218120911.jpg
 - /images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17932004458106652.jpg
 tags:
-- dimsum
-- lunch
-- eeeeeats
-- cantonesecuisine
-- cantonesefood
-- templecity
-- sgv
+- temple-city
+- chinese
+- dim-sum
+- brunch
 description: Dim Sum brunch at Grand Harbour Restaurant in Temple City.
 location: Grand Harbor
 city: Temple City
@@ -32,6 +29,9 @@ address: 5733 Rosemead Blvd (Las Tunas Dr), Temple City, CA 91780
 coordinates:
   lat: 34.104049
   lng: -118.075451
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Dim Sum brunch at Grand Harbour Restaurant in Temple City](/images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17943847807001109.jpg)

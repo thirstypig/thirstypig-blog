@@ -1,5 +1,5 @@
 ---
-title: 경복궁, 보신각, & 청와대 . . . Sightseeing in Seoul
+title: Gyeongbokgung Palace (경복궁), Seoul
 pubDate: '2011-01-24'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,11 +7,10 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/24/%EA%B2%BD%EB%B3%B5%EA%B6
 heroImage: /images/posts/경복궁-보신각-청와대-sightseeing-in-seoul/Sight-Seeing-in-Seoul-27-88x88.jpg
 images:
 - /images/posts/경복궁-보신각-청와대-sightseeing-in-seoul/Sight-Seeing-in-Seoul-27-88x88.jpg
-categories:
-- 2 pigs
-- Seoul
+categories: []
 tags:
-- Seoul 서울
+- seoul
+- kimchi
 description: Seoul is a fascinating city with historical sites that tell about Korea’s past. I was only able get a snapshot of a couple of different tourist places. Aside from the Kimchi Museumhttp://www.thethirst
 archiveUrl: https://web.archive.org/web/20110125221835/http://www.thethirstypig.com:80/2011/01/24/%EA%B2%BD%EB%B3%B5%EA%B6%81-%EB%B3%B4%EC%8B%A0%EA%B0%81-%EC%B2%AD%EC%99%80%EB%8C%80-sightseeing-in-seoul/
 draft: false
@@ -22,6 +21,7 @@ address: 종로구 사직로 161, 종로구, 종로구, 서울특별시, 03045
 coordinates:
   lat: 37.576334
   lng: 126.976925
+cuisine: []
 ---
 
 Seoul is a fascinating city with historical sites that tell about Korea’s past. I was only able get a snapshot of a couple of different tourist places. Aside from the [Kimchi Museum](http://www.thethirstypig.com/2011/01/05/kimchi-museum-김치박물관-at-coex-seoul/) and food, I didn’t really know much about Korean culture and history.

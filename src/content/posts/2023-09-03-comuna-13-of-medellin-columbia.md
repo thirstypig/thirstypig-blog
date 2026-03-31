@@ -1,5 +1,5 @@
 ---
-title: Comuna 13 of Medellin, Columbia
+title: Club Medellín, Medellin
 pubDate: '2023-09-03'
 author: The Thirsty Pig
 source: instagram
@@ -17,20 +17,11 @@ images:
 - /images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18005151553943121.jpg
 - /images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18195298246273562.jpg
 tags:
-- comuna13
 - medellin
-- colombia
-- streetart
-- graffitiart
-- thirstypig
-- art
-- iphonephotography
-- latinamerica
-description: 'Comuna 13 of Medellin, Columbia. Graffiti art adorned this interesting area of Medellin. Popular area had street performers with bars and street food. Glad we went during the week, since I could imagine it would be hella crowded on weekends. Great trip with friends. . . . .'
+description: Comuna 13 of Medellin, Columbia. Graffiti art adorned this interesting area of Medellin. Popular area had street performers with bars and street food. Glad we went during the week, since I could imagine it would be hella crowded on weekends. Great trip with friends. . . . .
 location: Club Medellín
 city: Medellin
-categories:
-- Columbia
+categories: []
 region: Colombia
 address: 'Calle 50 # 43 -65, Medellín, Antioquia'
 coordinates:

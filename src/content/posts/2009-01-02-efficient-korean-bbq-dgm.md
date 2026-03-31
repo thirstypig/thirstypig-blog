@@ -1,5 +1,5 @@
 ---
-title: Efficient Korean BBQ – DGM
+title: Efficient Korean BBQ, Los Angeles
 pubDate: '2009-01-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -9,19 +9,20 @@ images:
 - /images/posts/efficient-korean-bbq-dgm/071320071187.jpg
 - /images/posts/efficient-korean-bbq-dgm/071320071190.jpg
 - /images/posts/efficient-korean-bbq-dgm/071320071191.jpg
-categories:
-- Korean
-- Koreatown
-- Barbeque
-- DGM
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- korean
+- bbq
+- grilled-meat
 description: DGM is a no nonsense Korean BBQ. With stools and small round tables with grills. They really pack this place with people and tables. Their meat is fresh and sliced thinly. The grills cook fast. Though
 archiveUrl: https://web.archive.org/web/20111103144030/http://www.thethirstypig.com/2009/01/02/efficient-korean-bbq-dgm/
 draft: false
 location: Efficient Korean BBQ
 city: Los Angeles
 region: Los Angeles
+cuisine:
+- Korean
 ---
 
 DGM is a no nonsense Korean BBQ. With stools and small round tables with grills. They really pack this place with people and tables. Their meat is fresh and sliced thinly. The grills cook fast. Though you will walk out smelly, this casual Korean BBQ is great. Get their early since there will be lines.

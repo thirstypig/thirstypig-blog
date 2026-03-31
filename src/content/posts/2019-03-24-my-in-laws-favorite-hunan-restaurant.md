@@ -1,5 +1,5 @@
 ---
-title: My in-laws favorite Hunan restaurant
+title: My in-laws favorite Hunan restaurant, San Gabriel
 pubDate: '2019-03-24'
 author: The Thirsty Pig
 source: instagram
@@ -14,20 +14,17 @@ images:
 - /images/posts/ig-2019-03-24-my-in-laws-favorite-hunan-restaurant/17945698897263207.jpg
 - /images/posts/ig-2019-03-24-my-in-laws-favorite-hunan-restaurant/18019543753132570.jpg
 tags:
-- spicy
-- authentic
+- san-gabriel
+- chinese
 - hunan
-- hunanfood
-- eeeeeats
-- porkbelly
-- fish
-- crab
-- chicken
-- pork
+- pork-belly
 description: My in-laws favorite Hunan restaurant. So spicy! Pork belly, fish, chicken were good but almost tasted the same with the spicy.
 location: My in-laws favorite Hunan restaurant
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![My in-laws favorite Hunan restaurant](/images/posts/ig-2019-03-24-my-in-laws-favorite-hunan-restaurant/18027293155120661.jpg)

@@ -1,17 +1,15 @@
 ---
-title: Country Bistro, Rowland Heights (Closed)
+title: Country Bistro, Rowland Heights
 pubDate: '2009-11-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/
-categories:
-- Los Angeles
-- Rowland Heights
-- San Gabriel Valley
+categories: []
 tags:
-- Chinese 2
-- Soup
-- closed
+- rowland-heights
+- taiwanese
+- soup
+- fried-chicken
 description: Country Bistro appears to be a typical Taiwanese restaurant that you’ll find in San Gabriel valley or in Rowland Heights area. But alas, their secret sauce is their soups – herbal soups, in fact. They
 archiveUrl: https://web.archive.org/web/20161105041608/http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/
 draft: false
@@ -19,6 +17,8 @@ location: Country Bistro
 city: Rowland Heights
 region: San Gabriel Valley
 address: 1380 Fullerton Rd St
+cuisine:
+- Taiwanese
 ---
 
 

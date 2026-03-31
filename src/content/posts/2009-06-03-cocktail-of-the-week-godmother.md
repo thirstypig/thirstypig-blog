@@ -7,13 +7,14 @@ originalUrl: http://www.thethirstypig.com/2009/06/03/cocktail-of-the-week-godmot
 heroImage: /images/posts/cocktail-of-the-week-godmother/photo1243967353306.jpg
 images:
 - /images/posts/cocktail-of-the-week-godmother/photo1243967353306.jpg
-categories:
-- Cocktail
-- Amaretto
-- Vodka
+categories: []
 description: A Godmother is a derivative of the Godfather cocktail – which is Amaretto and Scotch. The Godmother – which is Vodka and Amaretto, is a sweet drink that goes well with Cigars. Basically any sweet cock
 archiveUrl: https://web.archive.org/web/20110106001132/http://www.thethirstypig.com/2009/06/03/cocktail-of-the-week-godmother/
 draft: false
+tags:
+- cocktails
+cuisine:
+- Cocktails
 ---
 
 A Godmother is a derivative of the Godfather cocktail – which is Amaretto and Scotch. The Godmother – which is Vodka and Amaretto, is a sweet drink that goes well with Cigars. Basically any sweet cocktail will go well with cigars.

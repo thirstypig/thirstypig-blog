@@ -4,11 +4,11 @@ pubDate: '2011-10-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/
-categories:
-- Hongqiao
-- Shanghai
+categories: []
 tags:
-- Hotel
+- shanghai
+- chinese
+- dim-sum
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161105124210/http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/
 draft: false
@@ -16,6 +16,8 @@ location: San Want Hotel上海神旺大酒店
 city: Shanghai
 region: Shanghai
 address: 650 Yishan Road
+cuisine:
+- Chinese
 ---
 
 

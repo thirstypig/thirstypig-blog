@@ -1,5 +1,5 @@
 ---
-title: Gus’s BBQ, Pasadena LA
+title: Gus’s BBQ, Pasadena
 pubDate: '2016-09-26'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,12 +7,11 @@ originalUrl: http://thirstypig.com/2016/09/26/guss-bbq-pasadena-la/
 heroImage: /images/posts/guss-bbq-pasadena-la/IMG_0046.jpg
 images:
 - /images/posts/guss-bbq-pasadena-la/IMG_0046.jpg
-categories:
-- Pasadena
+categories: []
 tags:
-- Bbq
-- Chicken
-- Pork
+- pasadena
+- bbq
+- fried-chicken
 description: Unbelievable boneless fried chicken Don’t forget the moist cornbread Don’t order the brisket – it’s kind of dry Make reservations, even on weekdays Oldest BBQ restaurant in LA
 archiveUrl: https://web.archive.org/web/20161018163244/http://thirstypig.com/2016/09/26/guss-bbq-pasadena-la/
 draft: false
@@ -20,6 +19,8 @@ location: Gus’s BBQ
 city: Pasadena
 region: Pasadena
 address: 808 Fair Oaks Ave South Pasadena, CA 91030
+cuisine:
+- BBQ
 ---
 
 [![IMG_0048](/images/posts/guss-bbq-pasadena-la/IMG_0046.jpg "IMG_0048")](http://thirstypig.com/2016/09/26/guss-bbq-pasadena-la/img_0048/)

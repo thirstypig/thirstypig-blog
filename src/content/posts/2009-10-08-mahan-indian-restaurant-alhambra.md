@@ -4,16 +4,12 @@ pubDate: '2009-10-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/
-categories:
-- Indian
-- SGV
-- San Gabriel Valley
-- 2 pigs
-- $
-- Alhambra
+categories: []
 tags:
-- Indian
-- LA's San Gabriel Valley
+- alhambra
+- indian
+- curry
+- tandoori
 description: My experience with Indian cuisine started, in of all places, in Hong Kong. I went to 2 places when I was living there. Tandoor Indian Restaurant and Veda – both located in Central were my first ventur
 archiveUrl: https://web.archive.org/web/20161105050425/http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/
 draft: false
@@ -21,6 +17,8 @@ location: Mahan Indian Restaurant
 city: Alhambra
 region: San Gabriel Valley
 address: 110 West Main St. Alhambra, CA 91801
+cuisine:
+- Indian
 ---
 
 

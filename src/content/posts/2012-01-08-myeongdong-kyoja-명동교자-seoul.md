@@ -1,16 +1,15 @@
 ---
-title: Myeongdong Kyoja 명동교자, Seoul
+title: Myeongdong Kyoja (명동교자), Seoul
 pubDate: '2012-01-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/08/myeongdong-kyoja-%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90-seoul/
-categories:
-- Seoul
+categories: []
 tags:
-- Dumplings
-- Korean
-- Noodles
-- Soup
+- seoul
+- korean
+- kalguksu
+- mandu
 description: Since 1966 Founder of Kalguksu, Noodle soup Popular with tourists Also great Mandu
 archiveUrl: https://web.archive.org/web/20161105081118/http://thirstypig.com/2012/01/08/myeongdong-kyoja-%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90-seoul/
 draft: false
@@ -21,6 +20,8 @@ address: 중구 명동10길 29 (본점), 명동, 중구, 서울특별시, 04537
 coordinates:
   lat: 37.562455
   lng: 126.98553
+cuisine:
+- Korean
 ---
 
 

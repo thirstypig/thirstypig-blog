@@ -11,19 +11,19 @@ images:
 - /images/posts/holders-country-inn-cupertino/DSCN0117.JPG
 - /images/posts/holders-country-inn-cupertino/DSCN0120.JPG
 - /images/posts/holders-country-inn-cupertino/DSCN0121.JPG
-categories:
-- American
-- Bay Area
-- Breakfast
-- 1 pig
-- $
-- Cupertino
+categories: []
 tags:
-- Northern California
+- cupertino
+- american
+- breakfast
+- comfort-food
 description: Originally, I wanted to focus on hole-in-the-walls and breakfast joints, but I got a bit sidetracked. Holder’s Country Inn is a place I would have posted about either way.
 archiveUrl: https://web.archive.org/web/20110105200137/http://www.thethirstypig.com/2009/11/20/holders-country-inn-cupertino/
 draft: false
 location: Holder’s Country Inn
+city: Cupertino
+cuisine:
+- American
 ---
 
 Originally, I wanted to focus on hole-in-the-walls and breakfast joints, but I got a bit sidetracked. Holder’s Country Inn is a place I would have posted about either way.

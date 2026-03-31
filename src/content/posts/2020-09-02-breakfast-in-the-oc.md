@@ -1,5 +1,5 @@
 ---
-title: Breakfast in the OC
+title: Breakfast in the OC, Orange County
 pubDate: '2020-09-02'
 author: The Thirsty Pig
 source: instagram
@@ -10,13 +10,14 @@ images:
 - /images/posts/ig-2020-09-02-breakfast-in-the-oc/17871618490917932.jpg
 - /images/posts/ig-2020-09-02-breakfast-in-the-oc/18023403313304561.jpg
 tags:
-- oc
-- bloodymary
-- bloodymarys
-- breakfast
-- eggsbenedict
+- american
+- brunch
+- eggs-benedict
 description: Breakfast in the OC. Bloody Mary for breakfast! Pork belly Benedict was delectable. . . . . .
 location: Breakfast in the OC
+categories: []
+cuisine:
+- American
 ---
 
 ![Breakfast in the OC](/images/posts/ig-2020-09-02-breakfast-in-the-oc/17856967295140032.jpg)

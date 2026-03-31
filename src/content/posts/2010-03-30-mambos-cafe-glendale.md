@@ -4,12 +4,12 @@ pubDate: '2010-03-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/30/mambos-cafe-glendale/
-categories:
-- SFV
-- Glendale
-- San Fernando Valley
+categories: []
 tags:
-- Cuban
+- glendale
+- colombian
+- arepas
+- coffee
 description: Yelp Listinghttps://www.yelp.com/biz/mambos-cafe-glendale
 archiveUrl: https://web.archive.org/web/20161105102644/http://thirstypig.com/2010/03/30/mambos-cafe-glendale/
 draft: false
@@ -17,6 +17,8 @@ location: Mambo’s Cafe
 city: Glendale
 region: San Fernando Valley
 address: 1701 Victory Blvd Glendale, CA 91201
+cuisine:
+- Colombian
 ---
 
 

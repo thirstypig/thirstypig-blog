@@ -1,5 +1,5 @@
 ---
-title: Old Shanghai Moon Restaurant
+title: Old Shanghai Moon Restaurant, Shanghai
 pubDate: '2011-11-01'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -26,12 +26,7 @@ images:
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-18-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-19-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-20-494x370.jpg
-categories:
-- 2 pigs
-- Late Night
-- Price Range 2 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 description: Located in the historic JinJiang Hotel 錦江飯店, the Old Shanghai Moon Restaurant 老夜上海餐廳 is restaurant imagined as if we were dining during the colonial 1930′s. The ambiance is mesh of the classic western
 archiveUrl: https://web.archive.org/web/20120103102802/http://www.thethirstypig.com/2011/11/01/old-shanghai-moon-restaurant/
 draft: false
@@ -41,6 +36,12 @@ region: Shanghai
 coordinates:
   lat: 31.222966
   lng: 121.456317
+tags:
+- shanghai
+- chinese
+- shanghainese
+cuisine:
+- Chinese
 ---
 
 Located in the historic JinJiang Hotel 錦江飯店, the Old Shanghai Moon Restaurant 老夜上海餐廳 is restaurant imagined as if we were dining during the colonial 1930′s. The ambiance is mesh of the classic western European furnishings with the noticeable accents of traditional Chinese artwork.

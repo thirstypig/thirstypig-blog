@@ -1,5 +1,5 @@
 ---
-title: The Cold Egg Tart at Tai Cheong Bakery, Hong Kong
+title: Tai Cheong Bakery, Hong Kong
 pubDate: '2011-04-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,20 +8,20 @@ heroImage: /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Ta
 images:
 - /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Tarts-HKG-02-188x188.jpg
 - /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Tarts-HKG-04-494x370.jpg
-categories:
-- 3 pigs
-- Cantonese
-- Dessert
-- Price Range $/¥/NT
-- Hong Kong
+categories: []
 tags:
-- Hong Kong
+- hong-kong
+- bakery
+- egg-tart
+- pastries
 description: When you expect a item to taste a certain way, you are more likely to embrace it. But when it doesn’t come out the way you expect it, results, are more often than not, to be disastrous. But I am going
 archiveUrl: https://web.archive.org/web/20110410232546/http://www.thethirstypig.com:80/2011/04/08/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/
 draft: false
 location: Tai Cheong Bakery
 city: Hong Kong
 region: Hong Kong
+cuisine:
+- Bakery
 ---
 
 When you expect a item to taste a certain way, you are more likely to embrace it. But when it doesn’t come out the way you expect it, results, are more often than not, to be disastrous. But I am going to tell you a unique story about my egg tart at Tai Cheong Bakery.

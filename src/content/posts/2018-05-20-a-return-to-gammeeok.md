@@ -1,5 +1,5 @@
 ---
-title: 'A return to Gammeeok, Koreatown'
+title: Gammeeok, Koreatown
 pubDate: '2018-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -11,19 +11,17 @@ images:
 - /images/posts/ig-2018-05-20-a-return-to-gammeeok/17873846659224807.jpg
 - /images/posts/ig-2018-05-20-a-return-to-gammeeok/17917934968155328.jpg
 tags:
-- gammeeok
-- koreanfood
-- nyc
-- ktown
-- eeeeeats
-- galbitang
-- friedchickenwings
-- satisfyinglyfull
-- atetoomuch
+- koreatown
+- korean
+- fried-chicken
+- galbi-tang
 description: A return to Gammeeok. Had the Sogogi, fried chicken wings, and the galbi tang. The wings were better than expected. . . .
 location: Gammeeok
 city: Koreatown
 region: Los Angeles
+categories: []
+cuisine:
+- Korean
 ---
 
 ![A return to Gammeeok](/images/posts/ig-2018-05-20-a-return-to-gammeeok/17927135701092556.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Adobada Tacos at Tacos 1986 in DTLA, Downtown LA'
+title: Ave 26 Tacos, Downtown LA
 pubDate: '2019-11-21'
 author: The Thirsty Pig
 source: instagram
@@ -13,17 +13,11 @@ images:
 - /images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17923356103348451.jpg
 - /images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17851525174693660.jpg
 tags:
-- tacos1986
 - dtla
+- mexican
 - tacos
 - adobada
-- pork
-- carneasada
-- beef
-- vampiros
-- eeeeeats
-- eat
-description: 'Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yummy. Also good to have some Topo Chico, Mexican Sparkling Water. First stop of the DTLA Taco Crawl! . . . .'
+description: Adobada Tacos at Tacos 1986 in DTLA. Also had the carne asada Vampiros. The pork adobadas reminded us of the flavors of Taiwanese braised pork 滷肉. I think adobadas would go great on a bowl of rice. Yummy. Also good to have some Topo Chico, Mexican Sparkling Water. First stop of the DTLA Taco Crawl! . . . .
 location: Ave 26 Tacos
 city: Downtown LA
 region: Los Angeles
@@ -31,6 +25,9 @@ address: 353 S Alameda St, Los Angeles, CA 90013
 coordinates:
   lat: 34.04373
   lng: -118.238456
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Adobada Tacos at Tacos 1986 in DTLA](/images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17885632213453805.jpg)

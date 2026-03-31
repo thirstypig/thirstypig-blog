@@ -4,12 +4,12 @@ pubDate: '2016-01-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/01/28/big-daddys-fire-grill-pasadena/
-categories:
-- Pasadena
+categories: []
 tags:
-- Bar
-- Burgers
-- Sandwich
+- pasadena
+- american
+- burgers
+- fried-chicken
 description: 'Burger Joint with lots of big burgers and selections Sports bar atmosphere with lots of TVs, Parking lot in the back Liked the zuchinni sticks Also features sandwiches, hot dogs, and a bunch of beers '
 archiveUrl: https://web.archive.org/web/20161019171524/http://thirstypig.com/2016/01/28/big-daddys-fire-grill-pasadena/
 draft: false
@@ -17,6 +17,8 @@ location: Big Daddy’s Fire Grill
 city: Pasadena
 region: Pasadena
 address: 2122 E Foothill Blvd Pasadena, CA 91107
+cuisine:
+- American
 ---
 
 

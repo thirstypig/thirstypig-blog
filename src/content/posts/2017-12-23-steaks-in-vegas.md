@@ -1,5 +1,5 @@
 ---
-title: 'Steaks in Vegas, Las Vegas'
+title: Downtown Las Vegas Events Center, Las Vegas
 pubDate: '2017-12-23'
 author: The Thirsty Pig
 source: instagram
@@ -21,6 +21,13 @@ address: 200 S 3rd St, Las Vegas, NV 89101
 coordinates:
   lat: 36.168683
   lng: -115.144706
+tags:
+- las-vegas
+- bbq
+- steak
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17901609556118658.jpg)

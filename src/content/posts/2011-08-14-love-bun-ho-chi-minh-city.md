@@ -4,15 +4,17 @@ pubDate: '2011-08-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/
-categories:
-- Ho Chi Minh City
+categories: []
 tags:
-- Noodles
-- Vietnamese
+- vietnamese
+- bun
+- noodles
 description: While I was in Ho Chi Minh city, we stumbled across I Love Bun after shopping at Ben Thanh market. How could you resist a place with the name I Love Bun. The modest place seemed like a typical quick s
 archiveUrl: https://web.archive.org/web/20161104195030/http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/
 draft: false
 location: I Love Bún
+cuisine:
+- Vietnamese
 ---
 
 

@@ -12,11 +12,11 @@ images:
 - /images/posts/ig-2017-07-04-hunan-food-in/17872525375091285.jpg
 - /images/posts/ig-2017-07-04-hunan-food-in/17862499552152344.jpg
 tags:
-- htx
-- spicy
-- hunanfood
+- hunan
 description: Hunan Food in
 location: Hunan Food in
+categories: []
+cuisine: []
 ---
 
 ![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17861265631174266.jpg)

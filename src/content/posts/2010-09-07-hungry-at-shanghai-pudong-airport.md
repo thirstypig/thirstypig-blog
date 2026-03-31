@@ -1,5 +1,5 @@
 ---
-title: Hungry at Shanghai Pudong Airport
+title: JW Marriott Hotel Shanghai at Tomorrow Square, Shanghai
 pubDate: '2010-09-07'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -31,12 +31,9 @@ images:
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-131-188x141.jpg
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-141-188x141.jpg
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-141-88x88.jpg
-categories:
-- 1 pig
-- Price Range $/¥/NT
-- Shanghainese
+categories: []
 tags:
-- Pudong District 浦东
+- shanghai
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20110105042301/http://www.thethirstypig.com/2010/09/07/hungry-at-shanghai-pudong-airport/
 draft: false
@@ -47,6 +44,7 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine: []
 ---
 
 #gallery-2 {

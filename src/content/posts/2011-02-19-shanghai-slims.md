@@ -1,5 +1,5 @@
 ---
-title: Shanghai Slims
+title: Shanghai Slim's, Shanghai
 pubDate: '2011-02-19'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,12 +7,12 @@ originalUrl: http://thirstypig.com/2011/02/19/shanghai-slims/
 heroImage: /images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg
 images:
 - /images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg
-categories:
-- Luwan
-- Shanghai
+categories: []
 tags:
-- American
-- Steak
+- shanghai
+- american
+- steak
+- surf-and-turf
 description: 'Shanghai Slim is your classic unabashed American steakhouse. Located in the Sinan Mansion, Chef Adam Levin, from New York Style Steak & Burger, helms this classic surf & turf restaurant with with the '
 archiveUrl: https://web.archive.org/web/20161019152430/http://thirstypig.com/2011/02/19/shanghai-slims/
 draft: false
@@ -23,6 +23,8 @@ address: 26D, 523 Fuxing Road (Sinan Road), Huangpu, 上海市, 200031
 coordinates:
   lat: 31.216832
   lng: 121.464207
+cuisine:
+- American
 ---
 
 [![shanghai-slims-10](/images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg "shanghai-slims-10")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-10/)

@@ -1,5 +1,5 @@
 ---
-title: 'The Bombay Frankie Company, Los Angeles'
+title: The Bombay Frankie Company, Los Angeles
 pubDate: '2018-04-11'
 author: The Thirsty Pig
 source: instagram
@@ -9,8 +9,10 @@ images:
 - /images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17911415848185975.jpg
 - /images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17864804278238700.jpg
 tags:
+- los-angeles
+- fusion
+- tandoori
 - burrito
-- tandorichicken
 description: Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station. Not bad. Saucey
 location: The Bombay Frankie Company
 city: Los Angeles
@@ -19,6 +21,9 @@ address: 6000 Sepulveda Blvd, Culver City, CA 90230
 coordinates:
   lat: 33.986595
   lng: -118.392895
+categories: []
+cuisine:
+- Fusion
 ---
 
 ![Tandoori Chicken Burrito from the Bombay Frankie Company at a Chevron Station](/images/posts/ig-2018-04-11-tandoori-chicken-burrito-from-the-bombay-frankie-company-at/17911415848185975.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Galbi and Soondubu at Young Dong Tofu, San Gabriel'
+title: Young Dong Tofu, San Gabriel
 pubDate: '2019-01-25'
 author: The Thirsty Pig
 source: instagram
@@ -13,15 +13,17 @@ images:
 - /images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18022067536067291.jpg
 - /images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18009434902113570.jpg
 tags:
-- youngdongtofu
-- sgv
-- eeeeeats
-- sangabriel
-- tofu
+- san-gabriel
+- korean
+- soondubu
+- galbi
 description: Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grilled chicken, and dumpling soondubu. Spicy . . .
 location: Young Dong Tofu
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17951856751232594.jpg)

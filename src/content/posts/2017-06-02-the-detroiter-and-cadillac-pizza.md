@@ -1,5 +1,5 @@
 ---
-title: 'the Detroiter and Cadillac pizza, Austin'
+title: Via 313, Austin
 pubDate: '2017-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -11,13 +11,17 @@ images:
 - /images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17860468282136824.jpg
 - /images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17882286076030282.jpg
 tags:
+- austin
+- italian
 - pizza
-- via313pizza
-- atx
+- pepperoni
 description: the Detroiter and Cadillac pizza. The detroiter - pepperoni and the Cadillac- prosciutto with balsamic vinegar. Cadillac was better than expected
 location: Via 313
 city: Austin
 region: Texas
+categories: []
+cuisine:
+- Italian
 ---
 
 ![the Detroiter and Cadillac pizza](/images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17882720776012057.jpg)

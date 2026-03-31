@@ -1,16 +1,15 @@
 ---
-title: Joe’s Stone Crab, Caeser’s Vegas
+title: Joe’s Stone Crab, Las Vegas
 pubDate: '2016-11-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/
-categories:
-- Las Vegas
-- Caeser’s Vegas
+categories: []
 tags:
-- American
-- Seafood
-- Steak
+- las-vegas
+- seafood
+- stone-crab
+- steak
 description: 'Crab Claw appetizers are a meal all unto itself Steaks are underrated and just as delicious This is where you have power meals, where deals are done One of my recommendations for people to dine at in '
 archiveUrl: https://web.archive.org/web/20161213133607/http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/
 draft: false
@@ -18,6 +17,8 @@ location: Joe’s Stone Crab
 city: Las Vegas
 region: Las Vegas
 address: 3500 Las Vegas Blvd
+cuisine:
+- Seafood
 ---
 
 

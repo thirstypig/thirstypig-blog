@@ -1,5 +1,5 @@
 ---
-title: 'Macaroni and Cheese! – S’Mac, Los Angeles'
+title: Macaroni and Cheese! – S’Mac, Los Angeles
 pubDate: '2009-02-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -8,16 +8,18 @@ heroImage: /images/posts/macaroni-and-cheese-smac/071420081649.jpg
 images:
 - /images/posts/macaroni-and-cheese-smac/071420081649.jpg
 - /images/posts/macaroni-and-cheese-smac/071420081651.jpg
-categories:
-- American
-- S’Mac
+categories: []
 tags:
-- New York City
+- los-angeles
+- american
+- mac-and-cheese
 description: 'One of my favorite American fares is Mac and Cheese. This toxic mix of processed cheese with mini machine cut pasta is wholesome goodness The gooeyness brings us back to our childhood. For me. . . my '
 archiveUrl: https://web.archive.org/web/20110105100124/http://www.thethirstypig.com/2009/02/04/macaroni-and-cheese-smac/
 draft: false
 city: Los Angeles
 region: Los Angeles
+cuisine:
+- American
 ---
 
 One of my favorite American fares is Mac and Cheese. This toxic mix of processed cheese with mini machine cut pasta is wholesome goodness! The gooeyness brings us back to our childhood. For me. . . my college days are reminded of this hearty dish. I roommate used to add additional cheese to the prepackaged version – almost creating a thick stew of cheese. This comfort food will just make everyone smile.

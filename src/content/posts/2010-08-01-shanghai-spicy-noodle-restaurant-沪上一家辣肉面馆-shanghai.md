@@ -1,15 +1,15 @@
 ---
-title: Shanghai Spicy Noodle Restaurant 沪上一家辣肉面馆, Shanghai
+title: Speak Low (彼楼), Shanghai
 pubDate: '2010-08-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/
-categories:
-- Luwan
-- Shanghai
+categories: []
 tags:
-- Late Night
-- Noodles
+- shanghai
+- chinese
+- late-night
+- noodles
 description: I found this little late night eatery, by sheer chance. I was going home from a late night of drinking with some friends and my stomach was taking over. My mouth started to moving, in probably, the be
 archiveUrl: https://web.archive.org/web/20161019094719/http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/
 draft: false
@@ -20,6 +20,8 @@ address: 579 Fuxing Rd | 复兴中路579号 (Ruijin 2nd Rd | 瑞金二路), Xīn
 coordinates:
   lat: 31.216872
   lng: 121.461277
+cuisine:
+- Chinese
 ---
 
 

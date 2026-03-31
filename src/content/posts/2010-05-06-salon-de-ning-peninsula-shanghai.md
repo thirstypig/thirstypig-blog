@@ -4,12 +4,11 @@ pubDate: '2010-05-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/
-categories:
-- Bund
-- Shanghai
+categories: []
 tags:
-- Bar
-- Hotel
+- shanghai
+- cocktails
+- lounge
 description: At the legendary Shanghai Peninsula hotel hides one of the most interesting lounge I have ever been to.
 archiveUrl: https://web.archive.org/web/20161106041046/http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/
 draft: false
@@ -17,6 +16,8 @@ location: Salon de Ning at The Peninsula
 city: Shanghai
 region: Shanghai
 address: 32 Zhongshan Dongyi Road
+cuisine:
+- Cocktails
 ---
 
 

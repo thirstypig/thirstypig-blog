@@ -1,16 +1,14 @@
 ---
-title: Hai Di Lao 海底捞火锅, Shanghai
+title: Haidilao Hot Pot (海底捞火锅), Shanghai
 pubDate: '2011-03-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/18/hai-di-lao-%e6%b5%b7%e5%ba%95%e6%8d%9e%e7%81%ab%e9%94%85-shanghai/
-categories:
-- Jingan District
-- Shanghai
+categories: []
 tags:
-- Chinese 2
-- Hot Pot
-- Shanghai
+- shanghai
+- chinese
+- hot-pot
 description: Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimen
 archiveUrl: https://web.archive.org/web/20160829104122/http://thirstypig.com/2011/03/18/hai-di-lao-%e6%b5%b7%e5%ba%95%e6%8d%9e%e7%81%ab%e9%94%85-shanghai/
 draft: false
@@ -21,6 +19,8 @@ address: 南京东路830号，500号第一百货5楼B馆 (西藏路), Huangpu, �
 coordinates:
   lat: 31.237902
   lng: 121.469456
+cuisine:
+- Chinese
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Korean Bbq at Kang Ho Dong Baekjeong, San Gabriel'
+title: Kang Ho Dong Baekjeong, San Gabriel
 pubDate: '2019-05-01'
 author: The Thirsty Pig
 source: instagram
@@ -16,20 +16,17 @@ images:
 - /images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/17892338314320398.jpg
 - /images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/18028403146158737.jpg
 tags:
-- eeeeeats
-- familydinner
-- koreanfood
-- spicyfood
-- templecity
-- sgv
-- thirstypig
-- beef
+- san-gabriel
+- korean
+- bbq
 - brisket
-- pork
 description: Korean Bbq at Kang Ho Dong Baekjeong. We had the thin sliced Brisket, beef short rib, and pork belly. I think our favorite was the thinly sliced brisket. Also had the tofu soup and lunch box. . . .
 location: Kang Ho Dong Baekjeong
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Korean Bbq at Kang Ho Dong Baekjeong](/images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/17890063960322863.jpg)

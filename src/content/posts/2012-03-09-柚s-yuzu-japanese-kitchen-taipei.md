@@ -1,15 +1,10 @@
 ---
-title: 柚’s Yuzu Japanese Kitchen, Taipei
+title: 柚's Yuzu, Taipei
 pubDate: '2012-03-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/09/%E6%9F%9As-yuzu-japanese-kitchen-taipei/
-categories:
-- 2 pigs
-- Japanese
-- Price Range 3 $/¥/NT
-- Sushi
-- Taipei
+categories: []
 description: 'What is 柚’s Yuzu is a Japanese restaurant that also offers sushi. Tucked away in a alley, Yuzu offers a dining experience that takes you away from the hustle and bustle of Taipei. I have to admit, it '
 archiveUrl: https://web.archive.org/web/20120312092201/http://www.thethirstypig.com:80/2012/03/09/%E6%9F%9As-yuzu-japanese-kitchen-taipei/
 draft: false
@@ -20,6 +15,13 @@ address: 仁愛路四段77號B1, 台北市,  106
 coordinates:
   lat: 25.03797
   lng: 121.547406
+tags:
+- taipei
+- japanese
+- sushi
+- sashimi
+cuisine:
+- Japanese
 ---
 
 **What is 柚’s**

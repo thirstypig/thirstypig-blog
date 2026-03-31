@@ -26,14 +26,12 @@ images:
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-19-88x88.jpg
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-20-88x88.jpg
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-21-88x88.jpg
-categories:
-- 1 pig
-- Price Range 2 $/¥/NT
-- Thai
-- Shanghai
+categories: []
 tags:
-- Jingan District 上海静安区
-- Shanghai 上海
+- shanghai
+- thai
+- pad-thai
+- stir-fry
 description: Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gal
 archiveUrl: https://web.archive.org/web/20110105222349/http://www.thethirstypig.com/2010/09/28/thai-gallery/
 draft: false
@@ -41,6 +39,8 @@ location: My Harem at Thai Gallery 泰廊餐厅
 city: Shanghai
 region: Shanghai
 address: 1 Da Tian Road
+cuisine:
+- Thai
 ---
 
 Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gallery’s interior out-shined their offering.

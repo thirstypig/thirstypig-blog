@@ -8,14 +8,10 @@ heroImage: /images/posts/ig-2024-11-11-at-the-rams-game-for-monday-night-footbal
 images:
 - /images/posts/ig-2024-11-11-at-the-rams-game-for-monday-night-football/18062711272813994.jpg
 - /images/posts/ig-2024-11-11-at-the-rams-game-for-monday-night-football/17885630058120268.jpg
-tags:
-- rams
-- sofistadium
-- nfl
-- football
-- fantasyfootball
-description: 'At the Rams game for Monday Night Football. Enjoying a the Rams taking on the Dolphins and wondering why I traded away Tyreek Hill - he did ok - only 2 catches, but still my fantasy team stinks and is in last place 😢🥲. . . .'
+tags: []
+description: At the Rams game for Monday Night Football. Enjoying a the Rams taking on the Dolphins and wondering why I traded away Tyreek Hill - he did ok - only 2 catches, but still my fantasy team stinks and is in last place 😢🥲. . . .
 location: At the Rams game for Monday Night Football
+categories: []
 ---
 
 ![At the Rams game for Monday Night Football](/images/posts/ig-2024-11-11-at-the-rams-game-for-monday-night-football/18062711272813994.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Lunch at Ola Mexican at 2nd & PCH in the LBC, Long Beach'
+title: Ola Mexican Kitchen, Long Beach
 pubDate: '2021-09-30'
 author: The Thirsty Pig
 source: instagram
@@ -12,18 +12,17 @@ images:
 - /images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17891868275317664.jpg
 - /images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17895295142258480.jpg
 tags:
-- lbc
-- longbeach
-- 2ndandpch
-- mexicanfood
+- long-beach
+- mexican
 - tacos
-- margarita
-- casadragones
-- carnitas
+- lunch
 description: Lunch at Ola Mexican at 2nd & PCH in the LBC. . . . .
 location: Ola Mexican Kitchen
 city: Long Beach
 region: Long Beach
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Lunch at Ola Mexican at 2nd & PCH in the LBC](/images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17902884575228976.jpg)

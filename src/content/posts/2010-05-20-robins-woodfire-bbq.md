@@ -12,17 +12,18 @@ images:
 - /images/posts/robins-woodfire-bbq/IMG_1473-185x185.jpg
 - /images/posts/robins-woodfire-bbq/IMG_1475-185x185.jpg
 - /images/posts/robins-woodfire-bbq/IMG_1478-185x185.jpg
-categories:
-- 2 pigs
-- American
-- Barbeque
-- Sandwich
+categories: []
 tags:
-- LA's San Gabriel Valley
+- pasadena
+- bbq
+- sandwiches
 description: The Bodacious “Que” Stacker is the barbecue sandwich to end all barbecue sandwiches. With pulled pork, tri tip, and a hot link, all smothered with sauce and pepperjack cheese, you can’t possibly go wr
 archiveUrl: https://web.archive.org/web/20110106051254/http://www.thethirstypig.com/2010/05/20/robins-woodfire-bbq/
 draft: false
 location: Robin’s Woodfire BBQ of Pasadena
+city: Pasadena
+cuisine:
+- BBQ
 ---
 
 Robin’s Woodfire BBQ of Pasadena.

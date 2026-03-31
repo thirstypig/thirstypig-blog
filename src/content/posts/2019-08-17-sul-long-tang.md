@@ -1,5 +1,5 @@
 ---
-title: Sul Long Tang
+title: Sul Long Tang, San Gabriel Valley
 pubDate: '2019-08-17'
 author: The Thirsty Pig
 source: instagram
@@ -10,12 +10,16 @@ images:
 - /images/posts/ig-2019-08-17-sul-long-tang/17980461019276638.jpg
 tags:
 - sgv
-- seolleongtang
-- koreanfood
+- korean
+- beef-stew
+- soup
 description: Sul Long Tang. Korean beef stew. . . .
 location: Sul Long Tang
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17871699586441662.jpg)

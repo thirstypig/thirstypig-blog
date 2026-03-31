@@ -1,5 +1,5 @@
 ---
-title: 'Korean BBQ in the has one of the longest waits, Koreatown'
+title: The Little Jewel of New Orleans, Koreatown
 pubDate: '2017-08-21'
 author: The Thirsty Pig
 source: instagram
@@ -15,16 +15,11 @@ images:
 - /images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17883281821116353.jpg
 - /images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17879661724091173.jpg
 tags:
-- sgv
-- koreanbbq
-- koreanfood
-- porkbelly
-- beefbrisket
-- kimchi
-- kimchifriedrice
-- thirstypig
-- baekjeongbbq
-description: 'Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight, we had beef brisket and spicy pork belly. The brisket was great but the spicy pork belly was too sweet. I liked the kimchi fried rice a lot, with the box shaking presentation.'
+- koreatown
+- korean
+- bbq
+- kimchi-fried-rice
+description: Korean BBQ in the has one of the longest waits. I’m glad that this area gets more Korean food options. But I’ve been told that the KTown location is better. I can’t really tell the difference. Tonight, we had beef brisket and spicy pork belly. The brisket was great but the spicy pork belly was too sweet. I liked the kimchi fried rice a lot, with the box shaking presentation.
 location: The Little Jewel of New Orleans
 city: Koreatown
 region: Los Angeles
@@ -32,6 +27,9 @@ address: 207 Ord St, Los Angeles, CA 90012
 coordinates:
   lat: 34.060036
   lng: -118.23826
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Korean BBQ in the has one of the longest waits](/images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17895001045036569.jpg)

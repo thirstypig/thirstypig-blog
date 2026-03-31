@@ -4,11 +4,12 @@ pubDate: '2011-11-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Shanghainese
+- shanghai
+- chinese
+- pumpkin-fries
+- fried-frog-legs
 description: XiaoBaiHua is a small hole-in-the-wall restaurant specializing in Shanghainese cuisine. My friends call it home style cooking. But I would also add that they add a little flair and unique creativity t
 archiveUrl: https://web.archive.org/web/20161104231344/http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/
 draft: false
@@ -16,6 +17,8 @@ location: XiaoBaiHua 小白桦酒家
 city: Shanghai
 region: Shanghai
 address: 3 WanPing Road
+cuisine:
+- Chinese
 ---
 
 

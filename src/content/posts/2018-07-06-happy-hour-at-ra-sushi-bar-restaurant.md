@@ -1,5 +1,5 @@
 ---
-title: Happy Hour at RA Sushi Bar Restaurant
+title: RA Sushi Bar Restaurant, Orange County
 pubDate: '2018-07-06'
 author: The Thirsty Pig
 source: instagram
@@ -12,18 +12,14 @@ images:
 - /images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17958841852044367.jpg
 - /images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17943870901105236.jpg
 tags:
-- rasushi
-- oc
-- thedistrict
-- thirstypig
-- uni
-- seaurchin
-- food
-- happyhour
+- japanese
 - sushi
-- spicytunaroll
+- uni
 description: Happy Hour at RA Sushi Bar Restaurant. Uni Sea Urchin. . . . . .
 location: Happy Hour at RA Sushi Bar Restaurant
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17958732574063545.jpg)

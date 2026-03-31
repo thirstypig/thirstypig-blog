@@ -1,5 +1,5 @@
 ---
-title: Cracked Dungeness Crab from Crustacean Beverly Hills
+title: Crustacean Beverly Hills, Beverly Hills
 pubDate: '2010-02-23'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -22,14 +22,11 @@ images:
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0485.JPG
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0486.JPG
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0488.JPG
-categories:
-- Vietnamese
-- West LA
-- $$$
-- 3 pigs
-- Westside
+categories: []
 tags:
-- West LA
+- beverly-hills
+- seafood
+- crustacean
 description: Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us reme
 archiveUrl: https://web.archive.org/web/20110105031501/http://www.thethirstypig.com/2010/02/23/cracked-dungeness-crab-from-crustacean-beverly-hills/
 draft: false
@@ -40,6 +37,8 @@ address: 468 N Bedford Dr, Beverly Hills, CA 90210
 coordinates:
   lat: 34.069251
   lng: -118.405876
+cuisine:
+- Seafood
 ---
 
 Crustacean Beverly Hills in Beverly Hills.

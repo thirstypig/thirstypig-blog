@@ -1,5 +1,5 @@
 ---
-title: CoCo Curry House, Shanghai
+title: CoCo ICHIBANYA | Curry House (壱番屋), Shanghai
 pubDate: '2010-07-21'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -20,12 +20,12 @@ images:
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-7.5-88x88.jpg
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-8-88x88.jpg
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-9-88x88.jpg
-categories:
-- Jingan
-- Shanghai
+categories: []
 tags:
-- Curry
-- Japanese
+- shanghai
+- japanese
+- curry
+- rice
 description: Curry has origins from India, yet, is arguably perfected in Japan. House Foods Corporation has spread the Curry Gospel to the US with the Curry House.
 archiveUrl: https://web.archive.org/web/20161018163241/http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/
 draft: false
@@ -36,6 +36,8 @@ address: 吴江路269号湟普汇2楼 (茂名北路口), 静安区, 上海市
 coordinates:
   lat: 31.230625
   lng: 121.454254
+cuisine:
+- Japanese
 ---
 
 [![img_3335](/images/posts/coco-curry-house-shanghai/Coco-Curry-House-1-88x88.jpg "img_3335")](http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/img_3335/)

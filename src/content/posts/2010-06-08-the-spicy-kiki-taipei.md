@@ -1,5 +1,5 @@
 ---
-title: The Spicy Kiki’s 老媽餐廳, Taipei
+title: Umeko (梅子餐廳), Taipei
 pubDate: '2010-06-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -16,13 +16,12 @@ images:
 - /images/posts/the-spicy-kiki-taipei/kiki-6-88x88.jpg
 - /images/posts/the-spicy-kiki-taipei/kiki-7-88x88.jpg
 - /images/posts/the-spicy-kiki-taipei/kiki-9-88x88.jpg
-categories:
-- 2 pigs
-- Szechuan
-- Taipei
+categories: []
 tags:
-- Eastern District 台北東區
-- Taipei 台北
+- taipei
+- taiwanese
+- cafe
+- brunch
 description: 'Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the '
 archiveUrl: https://web.archive.org/web/20110105124934/http://www.thethirstypig.com/2010/06/08/the-spicy-kiki-taipei/
 draft: false
@@ -33,6 +32,8 @@ address: 林森北路107巷1號, 台北市,  104
 coordinates:
   lat: 25.050338
   lng: 121.525298
+cuisine:
+- Taiwanese
 ---
 
 Years ago, when I was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.

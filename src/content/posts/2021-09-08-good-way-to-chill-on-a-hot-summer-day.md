@@ -11,16 +11,11 @@ images:
 - /images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/17933321428647892.jpg
 - /images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/18167529103095623.jpg
 - /images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/18245611951047739.jpg
-tags:
-- mexicanfood
-- eats
-- eeeeeats
-- tacos
-- food
-- drinks
-- thirstypig
+tags: []
 description: Good way to chill on a hot summer day. It’s still summer, right??? . . . . . .
 location: Good way to chill on a hot summer day
+categories: []
+cuisine: []
 ---
 
 ![Good way to chill on a hot summer day](/images/posts/ig-2021-09-08-good-way-to-chill-on-a-hot-summer-day/18126992854219407.jpg)

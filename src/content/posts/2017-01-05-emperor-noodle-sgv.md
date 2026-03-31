@@ -1,23 +1,23 @@
 ---
-title: Emperor Noodle, SGV
+title: Emperor Noodle, San Gabriel Valley
 pubDate: '2017-01-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/05/emperor-noodle-sgv/
-categories:
-- SGV
-- Sgv
-- San Gabriel Valley
+categories: []
 tags:
-- Asian
-- Chinese 2
-- Noodles
+- sgv
+- chinese
+- dumplings
+- noodles
 description: Might be my favorite Shanghainese restaurants in LA One of J. Gold’s favorite Sheng jian Baoshttp://www.latimes.com/food/dailydish/la-jonathan-golds-six-favorite-dumplings-20131104-story.html Don’t ca
 archiveUrl: https://web.archive.org/web/20170105233844/http://thirstypig.com/2017/01/05/emperor-noodle-sgv/
 draft: false
 location: Emperor Noodle
 city: Sgv
 region: San Gabriel Valley
+cuisine:
+- Chinese
 ---
 
 

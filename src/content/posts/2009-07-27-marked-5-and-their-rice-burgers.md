@@ -1,5 +1,5 @@
 ---
-title: 'Marked 5 and their Rice Burgers!, Los Angeles'
+title: Marked5, Los Angeles
 pubDate: '2009-07-27'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,14 +11,12 @@ images:
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0692.jpg
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0694.jpg
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0695.jpg
-categories:
-- Japanese
-- Food Truck
-- Price Range $/¥/NT
-- 2 pigs
-- Los Angeles
+categories: []
 tags:
-- Los Angeles
+- los-angeles
+- mexican
+- tacos
+- burgers
 description: The latest craze in Los Angeles are the “taco trucks” that roam around serving delicious food. One such truck is called Marked5.
 archiveUrl: https://web.archive.org/web/20111103140315/http://www.thethirstypig.com/2009/07/27/marked-5-and-their-rice-burgers/
 draft: false
@@ -28,6 +26,8 @@ address: 317 S Broadway, Los Angeles, CA 90013
 coordinates:
   lat: 34.050693
   lng: -118.248789
+cuisine:
+- Mexican
 ---
 
 The latest craze in Los Angeles are the “taco trucks” that roam around serving delicious food. One such truck is called Marked5.

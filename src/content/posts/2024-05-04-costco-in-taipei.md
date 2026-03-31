@@ -1,5 +1,5 @@
 ---
-title: Costco in Taipei
+title: Legacy Taipei, Taipei
 pubDate: '2024-05-04'
 author: The Thirsty Pig
 source: instagram
@@ -12,22 +12,12 @@ images:
 - /images/posts/ig-2024-05-04-costco-in-taipei/18117177844366860.jpg
 - /images/posts/ig-2024-05-04-costco-in-taipei/18027238034044854.jpg
 tags:
-- costco
 - taipei
-- taipeicostco
-- weekendcrowds
-- shopping
-- costcofinds
-- costcodeals
-- costcohaul
-- costcofind
-- costcodoesitagain
-description: 'Costco in Taipei. Had to check it out. I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week. Yeah, I know I’m crazy. But what the hell. Anyways. The $5 chicken there but slightly higher priced. But they also had some other good deals for hot foods - like pork knuckle. Their hot dog and soda deal was there too. They said their hot dogs came from the US. . . . .taiwan'
+description: Costco in Taipei. Had to check it out. I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week. Yeah, I know I’m crazy. But what the hell. Anyways. The $5 chicken there but slightly higher priced. But they also had some other good deals for hot foods - like pork knuckle. Their hot dog and soda deal was there too. They said their hot dogs came from the US. . . . .taiwan
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories:
-- Taipei
+categories: []
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934

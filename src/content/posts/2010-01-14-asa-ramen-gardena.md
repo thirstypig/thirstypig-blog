@@ -16,14 +16,12 @@ images:
 - /images/posts/asa-ramen-gardena/IMG_0951.jpg
 - /images/posts/asa-ramen-gardena/IMG_0952.jpg
 - /images/posts/asa-ramen-gardena/IMG_0954.JPG
-categories:
-- Japanese
-- South Bay
-- 2 pigs
-- $
-- Gardena
+categories: []
 tags:
-- LA's South Bay
+- gardena
+- japanese
+- ramen
+- cocktails
 description: Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.
 archiveUrl: https://web.archive.org/web/20110105204432/http://www.thethirstypig.com/2010/01/14/asa-ramen-gardena/
 draft: false
@@ -34,6 +32,8 @@ address: 18202 S Western Ave (182nd St), Gardena, CA 90248
 coordinates:
   lat: 33.86534
   lng: -118.308221
+cuisine:
+- Japanese
 ---
 
 Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.

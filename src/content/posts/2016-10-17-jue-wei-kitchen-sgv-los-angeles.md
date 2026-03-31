@@ -1,16 +1,15 @@
 ---
-title: Jue Wei Kitchen, SGV Los Angeles
+title: Jue Wei Kitchen, Arcadia
 pubDate: '2016-10-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
-categories:
-- SGV
-- Sgv
-- San Gabriel Valley
+categories: []
 tags:
-- Hunan
-- Spicy
+- sgv
+- chinese
+- duck-neck
+- noodles
 description: Sells Chinese snacks like duck neck, duck wing, and tofu for take out Really good onion pancake – my favorite Wife likes the Beef Noodle Soup with Rice Noodles Specializes in the different hot wok dis
 archiveUrl: https://web.archive.org/web/20161104194029/http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
 draft: false
@@ -20,6 +19,8 @@ region: San Gabriel Valley
 address: '651 West Duarte Rd
 
   St'
+cuisine:
+- Chinese
 ---
 
 

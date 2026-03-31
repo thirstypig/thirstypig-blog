@@ -1,5 +1,5 @@
 ---
-title: 'Pizza Night, Downtown LA'
+title: Tuesday Night Cafe, Downtown LA
 pubDate: '2018-01-17'
 author: The Thirsty Pig
 source: instagram
@@ -13,17 +13,11 @@ images:
 - /images/posts/ig-2018-01-17-pizza-night/17918331892029301.jpg
 - /images/posts/ig-2018-01-17-pizza-night/17904226729126576.jpg
 tags:
-- pizzanight
-- thirstypig
-- pizza
-- italianfood
 - dtla
-- bestia
-- spaghetti
-- margheritapizza
-- allandujapizza
-- allanduja
-description: 'Pizza Night . Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable with the spicy broth. The pizza crust had a nice texture and chewiness. The spaghetti with crab meat was also very good. Overall was a success! sorry for the Alla’njuda pizza picture being out of focus.'
+- italian
+- pizza
+- seafood
+description: Pizza Night . Had the Alla’nduja pizza, the magherita pizza, roasted heirloom cauliflower, Mussels & Clams, pork belly alla plancha and the Spaghetti Rustichella. The mussels & clams were memorable with the spicy broth. The pizza crust had a nice texture and chewiness. The spaghetti with crab meat was also very good. Overall was a success! sorry for the Alla’njuda pizza picture being out of focus.
 location: Tuesday Night Cafe
 city: Downtown LA
 region: Los Angeles
@@ -31,6 +25,9 @@ address: 120 Judge John Aiso St (at 1st St & San Pedro St), Los Angeles, CA 9001
 coordinates:
   lat: 34.050635
   lng: -118.240281
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Pizza Night](/images/posts/ig-2018-01-17-pizza-night/17904104773126660.jpg)

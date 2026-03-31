@@ -4,13 +4,12 @@ pubDate: '2017-01-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
-categories:
-- Oakland
-- Bay Area
+categories: []
 tags:
-- American
-- Breakfast
-- Southern
+- oakland
+- american
+- fried-chicken
+- brunch
 description: Buttermilk Fried Chicken & Cornmeal Wafﬂe is a must order. Chicken is tender and juicy Beignets were almost too much to have at the end, but were yummy – light and fluffy BBQ Shrimp and grits had stro
 archiveUrl: https://web.archive.org/web/20170102232036/http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
 draft: false
@@ -18,6 +17,8 @@ location: Brown Sugar Kitchen
 city: Oakland
 region: Bay Area
 address: 2534 Mandela Pkwy
+cuisine:
+- American
 ---
 
 

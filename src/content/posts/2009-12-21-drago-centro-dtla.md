@@ -1,15 +1,15 @@
 ---
-title: Drago Centro, DTLA
+title: Drago Centro, Los Angeles
 pubDate: '2009-12-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/21/drago-centro-dtla/
-categories:
-- DTLA
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Italian
+- dtla
+- italian
+- pasta
+- upscale-dining
 description: 'Drago Centro chosen on this night for a friend’s birthday, Miss M, which is also one of her favorites. In the heart of the city is Drago Centro, an upscale Italian restaurant for the urbanites of Los '
 archiveUrl: https://web.archive.org/web/20161106105351/http://thirstypig.com/2009/12/21/drago-centro-dtla/
 draft: false
@@ -17,6 +17,8 @@ location: Drago Centro
 city: Dtla
 region: Downtown LA
 address: 525 S Flower St St
+cuisine:
+- Italian
 ---
 
 

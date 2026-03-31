@@ -1,17 +1,15 @@
 ---
-title: Philippe The Original
+title: Philippe The Original, Los Angeles
 pubDate: '2009-02-01'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/02/01/philippe-the-original/
-categories:
-- American
-- Breakfast
-- Chinatown
-- Sandwich
-- Downtown LA
+categories: []
 tags:
-- Downtown LA
+- chinatown
+- american
+- french-dip
+- sandwiches
 description: A little Los Angeles history for you…
 archiveUrl: https://web.archive.org/web/20110105093347/http://www.thethirstypig.com/2009/02/01/philippe-the-original/
 draft: false
@@ -22,6 +20,8 @@ address: 1001 N Alameda St (at Ord St), Los Angeles, CA 90012
 coordinates:
   lat: 34.059622
   lng: -118.237013
+cuisine:
+- American
 ---
 
 A little Los Angeles history for you…

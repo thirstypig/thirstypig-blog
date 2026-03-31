@@ -1,5 +1,5 @@
 ---
-title: Wife’s favorite type of noodles
+title: Noodle Kang, Arcadia
 pubDate: '2018-06-27'
 author: The Thirsty Pig
 source: instagram
@@ -12,9 +12,13 @@ description: Wife’s favorite type of noodles. Noodle Kang in Arcadia.
 location: Wife’s favorite type of noodles
 city: Arcadia
 region: San Gabriel Valley
-categories:
-- Arcadia
-- San Gabriel Valley
+categories: []
+tags:
+- arcadia
+- chinese
+- noodles
+cuisine:
+- Chinese
 ---
 
 ![Wife’s favorite type of noodles](/images/posts/ig-2018-06-27-wifes-favorite-type-of-noodles/17956123960020275.jpg)

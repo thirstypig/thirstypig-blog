@@ -1,5 +1,5 @@
 ---
-title: 'Korean dinner with the family, Arcadia'
+title: The Stables at Santa Anita Park, Arcadia
 pubDate: '2018-08-05'
 author: The Thirsty Pig
 source: instagram
@@ -11,17 +11,11 @@ images:
 - /images/posts/ig-2018-08-05-korean-dinner-with-the-family/17938909882149341.jpg
 - /images/posts/ig-2018-08-05-korean-dinner-with-the-family/17893763965237181.jpg
 tags:
-- koreanfood
-- yongdongtofu
-- youngdongtofu
-- bulgogi
-- galbi
-- nangmyun
-- coldnoodles
 - arcadia
-- sgv
-- barleytea
-description: 'Korean dinner with the family. Soondubu - spicy tofu with beef and kimchi. Also had cold noodles with vinegar and mustard. Beef bulgogi and beef ribs galbi. I liked the rice that was also cooked in a hot stone bowl. . . . .'
+- korean
+- soondubu
+- bulgogi
+description: Korean dinner with the family. Soondubu - spicy tofu with beef and kimchi. Also had cold noodles with vinegar and mustard. Beef bulgogi and beef ribs galbi. I liked the rice that was also cooked in a hot stone bowl. . . . .
 location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley
@@ -29,6 +23,9 @@ address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
 coordinates:
   lat: 34.13803
   lng: -118.04792
+categories: []
+cuisine:
+- Korean
 ---
 
 ![Korean dinner with the family](/images/posts/ig-2018-08-05-korean-dinner-with-the-family/17924568793198815.jpg)

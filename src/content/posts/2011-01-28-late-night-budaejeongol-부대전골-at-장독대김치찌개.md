@@ -1,5 +1,5 @@
 ---
-title: Late Night Budaejeongol 부대전골 at 장독대김치찌개
+title: 장독대김치찌개, Unknown
 pubDate: '2011-01-28'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,16 +7,17 @@ originalUrl: http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb
 heroImage: /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
 images:
 - /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
-categories:
-- 2 pigs
-- Korean
-- Price Range $/¥/NT
+categories: []
 tags:
-- Seoul
+- korean
+- budaejeongol
+- hot-pot
 description: .http://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103150546/http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb%b6%80%eb%8c%80%ec%a0%84%ea%b3%a8-at-%ec%9e%a5%eb%8f%85%eb%8c%80%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c/
 draft: false
 location: Late Night Budaejeongol 부대전골 at 장독대김치찌개
+cuisine:
+- Korean
 ---
 
 [.](http://www.addtoany.com/share_save)

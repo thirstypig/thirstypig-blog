@@ -1,5 +1,6 @@
 import { defineConfig } from "tinacms";
 import LocationLookup from "./LocationLookup";
+import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 
 const branch = process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
@@ -37,6 +38,16 @@ export default defineConfig({
         document.body.appendChild(btn);
       }
     }
+
+    // Register Content Stats dashboard screen
+    cms.plugins.add({
+      __type: "screen",
+      name: "Content Stats",
+      Component: StatsDashboard,
+      Icon: StatsIcon,
+      layout: "fullscreen",
+    });
+
     return cms;
   },
 

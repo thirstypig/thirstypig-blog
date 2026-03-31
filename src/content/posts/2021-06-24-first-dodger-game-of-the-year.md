@@ -11,15 +11,11 @@ images:
 - /images/posts/ig-2021-06-24-first-dodger-game-of-the-year/17978071738378702.jpg
 - /images/posts/ig-2021-06-24-first-dodger-game-of-the-year/18233183056009378.jpg
 - /images/posts/ig-2021-06-24-first-dodger-game-of-the-year/17882269424345127.jpg
-tags:
-- itfdb
-- modelo
-- beer
-- hardseltzer
-- hardicetea
-- gododgers
+tags: []
 description: First dodger game of the year! Go dodgers!! . . . . .
 location: First dodger game of the year
+categories: []
+cuisine: []
 ---
 
 ![First dodger game of the year](/images/posts/ig-2021-06-24-first-dodger-game-of-the-year/17927259088627293.jpg)

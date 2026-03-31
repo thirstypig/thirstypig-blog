@@ -1,5 +1,5 @@
 ---
-title: Kalua Pig and Pork Lau Lau . . . Oh so good at Shaka’s
+title: Shaka’s, Alhambra
 pubDate: '2010-08-27'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -26,17 +26,18 @@ images:
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-15-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-16-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-17-88x88.jpg
-categories:
-- 2 pigs
-- Hawaiian
-- Price Range $/¥/NT
-- San Gabriel Valley
+categories: []
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154758/http://www.thethirstypig.com:80/2010/08/27/shakas-alhambra/
 draft: false
 location: Shaka’s
 region: San Gabriel Valley
 city: Alhambra
+tags:
+- alhambra
+- poke
+- plate-lunch
+cuisine: []
 ---
 
 #gallery-2 {

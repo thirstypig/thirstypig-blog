@@ -4,20 +4,12 @@ pubDate: '2011-08-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/
-categories:
-- American
-- Huangpu
-- hotel
-- Hamburgers
-- 0 pigs
-- Price Range 3 $/¥/NT
-- Happy Hour
-- Shanghai
+categories: []
 tags:
-- Hotel
-- Burgers
-- Beer
-- Bar
+- shanghai
+- american
+- burgers
+- beer
 description: Anticipated and Overrated.
 archiveUrl: https://web.archive.org/web/20161106062859/http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/
 draft: false
@@ -25,6 +17,8 @@ location: Burger and Beer at the Waterhouse
 city: Shanghai
 region: Shanghai
 address: 3 Maojiayuan Rd
+cuisine:
+- American
 ---
 
 

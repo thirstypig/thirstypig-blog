@@ -1,5 +1,5 @@
 ---
-title: Best noodles I have ever made
+title: Best noodles I have ever made, Shanghai
 pubDate: '2021-04-03'
 author: The Thirsty Pig
 source: instagram
@@ -12,22 +12,15 @@ images:
 - /images/posts/ig-2021-04-03-best-noodles-i-have-ever-made/17883565844165452.jpg
 - /images/posts/ig-2021-04-03-best-noodles-i-have-ever-made/17900711365880140.jpg
 tags:
-- homecooked
-- shanghainesefood
+- shanghai
 - noodles
-- scallions
-- eeeeeats
-- eats
-- food
-- egg
-- soysauce
-- shoyu
+- scallion-oil
 description: Best noodles I have ever made. Shanghai scallion of noodles 蔥油拌麵 and with, of course, a fried egg. So simple and yummy. Love it. With olive oil, light & dark soy sauce, sesame oil, and some sugar. I u
 location: Best noodles I have ever made
 city: Shanghai
 region: Shanghai
-categories:
-- Shanghai
+categories: []
+cuisine: []
 ---
 
 ![Best noodles I have ever made](/images/posts/ig-2021-04-03-best-noodles-i-have-ever-made/17911675588685661.jpg)

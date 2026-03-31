@@ -1,5 +1,5 @@
 ---
-title: 'Brunch at the Wayfarer Hotel in DTLA, Downtown LA'
+title: Row Dtla, Downtown LA
 pubDate: '2023-03-20'
 author: The Thirsty Pig
 source: instagram
@@ -13,15 +13,6 @@ images:
 - /images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/18053759479397411.jpg
 tags:
 - dtla
-- losangeles
-- brunch
-- lunch
-- eats
-- eeeats
-- thirstypig
-- bloodymary
-- tastamaker
-- tastemakers
 description: Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. . . . . .
 location: Row Dtla
 city: Downtown LA
@@ -30,6 +21,7 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
+categories: []
 ---
 
 ![Brunch at the Wayfarer Hotel in DTLA](/images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/17946783533565952.jpg)

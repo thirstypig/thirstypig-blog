@@ -7,15 +7,11 @@ originalUrl: http://www.thethirstypig.com/2011/05/26/cantina-agave/
 heroImage: /images/posts/cantina-agave/Catina-Agave-Shanghai-15-188x188.jpg
 images:
 - /images/posts/cantina-agave/Catina-Agave-Shanghai-15-188x188.jpg
-categories:
-- 2 pigs
-- Breakfast
-- Burrito
-- Mexican
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 tags:
-- Shanghai
+- shanghai
+- mexican
+- tex-mex
 description: Cantina Agave 静安区富民路291号悟锦世纪大楼1楼01A-2室近长乐路 291号 Fumin Road, Xuhui, Shanghai, China 021-61701310 www.cantinaagave.comhttp://www.cantinaagave.com
 archiveUrl: https://web.archive.org/web/20111103155240/http://www.thethirstypig.com/2011/05/26/cantina-agave/
 draft: false
@@ -26,6 +22,8 @@ address: 291 Fumin Rd. (Changle Rd.), Xuhui, 上海市
 coordinates:
   lat: 31.219173
   lng: 121.447693
+cuisine:
+- Mexican
 ---
 
 ***Cantina Agave***

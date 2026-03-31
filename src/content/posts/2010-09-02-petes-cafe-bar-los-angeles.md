@@ -22,20 +22,19 @@ images:
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-14-494x370.jpg
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-14-88x88.jpg
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-15-88x88.jpg
-categories:
-- 2 pigs
-- American
-- Hamburgers
-- Price Range 2 $/¥/NT
-- Downtown Los Angeles
+categories: []
 tags:
-- Downtown LA
-- Los Angeles
+- dtla
+- american
+- burgers
+- mac-and-cheese
 description: Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Chees
 archiveUrl: https://web.archive.org/web/20110105191233/http://www.thethirstypig.com/2010/09/02/petes-cafe-bar-los-angeles/
 draft: false
 location: Pete’s Cafe & Bar
 city: Downtown Los Angeles
+cuisine:
+- American
 ---
 
 Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Cheese. While other establishments in the area gussy up their takes, like Nickel Diner, Corkbar, and Mac’n Cheeza – while nothing wrong with that, Pete’s aims for quality experience with quality ingredients.

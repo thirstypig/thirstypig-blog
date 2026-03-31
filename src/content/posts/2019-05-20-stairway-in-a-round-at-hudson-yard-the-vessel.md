@@ -1,5 +1,5 @@
 ---
-title: 'Stairway in a round at Hudson Yard - The Vessel, New York'
+title: Hudson Yards Public Square and Gardens, New York
 pubDate: '2019-05-20'
 author: The Thirsty Pig
 source: instagram
@@ -14,22 +14,16 @@ images:
 - /images/posts/ig-2019-05-20-stairway-in-a-round-at-hudson-yard-the-vessel/17857051294417338.jpg
 tags:
 - nyc
-- chelsea
-- chelseanyc
-- hudsonyardsnyc
-- stairs
-- springtimeinnyc
-- thirstypig
 description: Stairway in a round at Hudson Yard - The Vessel. They wouldn’t let me on the elevator so I had to hike up. They wouldn’t let me DOWN the elevator 🤬😢. . . .
 location: Hudson Yards Public Square and Gardens
 city: New York
-categories:
-- The Vessel
+categories: []
 region: New York
 address: Hudson Yards, New York, NY 10001
 coordinates:
   lat: 40.754214
   lng: -74.002061
+cuisine: []
 ---
 
 ![Stairway in a round at Hudson Yard - The Vessel](/images/posts/ig-2019-05-20-stairway-in-a-round-at-hudson-yard-the-vessel/18037865347131531.jpg)

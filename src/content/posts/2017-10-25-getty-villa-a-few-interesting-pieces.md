@@ -1,5 +1,5 @@
 ---
-title: 'Getty Villa - a few interesting pieces, Malibu'
+title: Kristy's Village Cafe, Malibu
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram
@@ -17,22 +17,17 @@ images:
 - /images/posts/ig-2017-10-25-getty-villa-a-few-interesting-pieces/17905171186052732.jpg
 - /images/posts/ig-2017-10-25-getty-villa-a-few-interesting-pieces/17878805491151583.jpg
 tags:
-- museum
-- getty
-- art
-- roman
-- sculpture
 - malibu
 description: Getty Villa - a few interesting pieces.
 location: Kristy's Village Cafe
 city: Malibu
-categories:
-- a few interesting pieces
+categories: []
 region: Los Angeles
 address: 30745 Pacific Coast Hwy Bldg B, Malibu, CA 90265
 coordinates:
   lat: 34.031206
   lng: -118.842462
+cuisine: []
 ---
 
 ![Getty Villa - a few interesting pieces](/images/posts/ig-2017-10-25-getty-villa-a-few-interesting-pieces/17880681277130428.jpg)

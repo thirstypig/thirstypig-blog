@@ -1,5 +1,5 @@
 ---
-title: Dinner with friends at Sixth+Mill pizzeria
+title: Sixth+Mill Pizzeria
 pubDate: '2019-03-16'
 author: The Thirsty Pig
 source: instagram
@@ -14,13 +14,13 @@ images:
 - /images/posts/ig-2019-03-16-dinner-with-friends-at-sixthmill-pizzeria/17950852474260184.jpg
 - /images/posts/ig-2019-03-16-dinner-with-friends-at-sixthmill-pizzeria/18001958551194955.jpg
 tags:
-- eeeeeats
+- italian
 - pizza
-- gnocchi
-- cheesecake
-- birthday
 description: Dinner with friends at Sixth+Mill pizzeria. . . .
 location: Dinner with friends at Sixth+Mill pizzeria
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Dinner with friends at Sixth+Mill pizzeria](/images/posts/ig-2019-03-16-dinner-with-friends-at-sixthmill-pizzeria/18045399874046683.jpg)

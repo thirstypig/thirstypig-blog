@@ -12,20 +12,19 @@ images:
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0018.JPG
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0021.JPG
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0025.JPG
-categories:
-- Downtown LA
-- $$
-- American
-- 2 pigs
-- Downtown Los Angeles
+categories: []
 tags:
-- Downtown LA
+- dtla
+- scottish
+- scottish-cuisine
 description: The Gorbals is new restaurant that opened in Downtown LA, late last year, in 2009. They are in an interesting space on the first floor of a converted loft apartment building.
 archiveUrl: https://web.archive.org/web/20110105210819/http://www.thethirstypig.com/2010/01/20/the-gorbals-downtown-los-angeles/
 draft: false
 location: The Gorbals
 city: Downtown Los Angeles
 region: Downtown LA
+cuisine:
+- Scottish
 ---
 
 The Gorbals is new restaurant that opened in Downtown LA, late last year, in 2009. They are in an interesting space on the first floor of a converted loft apartment building.

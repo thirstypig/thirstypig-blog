@@ -1,5 +1,5 @@
 ---
-title: 'Had the grilled ahi tuna taco and the braised beef...'
+title: Had the grilled ahi tuna taco and the braised beef...
 pubDate: '2020-10-06'
 author: The Thirsty Pig
 source: instagram
@@ -11,15 +11,15 @@ images:
 - /images/posts/ig-2020-10-06-had-the-grilled-ahi-tuna-taco-and-the-braised-beef-birria-ta/17879334544840352.jpg
 tags:
 - pasadena
-- mexicanfood
+- mexican
 - tacos
-- carnitas
-- beefbirria
-- ahituna
-- eeeeeats
+- birria
 description: Had the grilled ahi tuna taco and the braised beef birria taco. And also had a tacocita bowl with carnitas. All were pretty good. The ahi was a bit dry. But everything was really good. . . . . .
 city: Pasadena
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Mexican
 ---
 
 ![Had the grilled ahi tuna taco and the braised beef birria taco](/images/posts/ig-2020-10-06-had-the-grilled-ahi-tuna-taco-and-the-braised-beef-birria-ta/17853951887263850.jpg)

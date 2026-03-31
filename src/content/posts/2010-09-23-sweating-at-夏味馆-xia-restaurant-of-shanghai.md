@@ -1,5 +1,5 @@
 ---
-title: Sweating at 夏味馆 Xia Restaurant of Shanghai
+title: Pasha (帕夏土耳其餐厅), Shanghai
 pubDate: '2010-09-23'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,14 +17,12 @@ images:
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3658-88x88.jpg
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3660-88x88.jpg
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3662-88x88.jpg
-categories:
-- 3 pigs
-- Price Range 2 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 tags:
-- Jingan District 上海静安区
-- Shanghai 上海
+- shanghai
+- mediterranean
+- turkish
+- kebab
 description: If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your ju
 archiveUrl: https://web.archive.org/web/20110105170113/http://www.thethirstypig.com/2010/09/23/sweating-at-%E5%A4%8F%E5%91%B3%E9%A6%86-xia-restaurant-of-shanghai/
 draft: false
@@ -35,6 +33,8 @@ address: 262 Nanchang Rd | 南昌路262号 (near Ruijin 2nd Rd | 近瑞金二路
 coordinates:
   lat: 31.219325
   lng: 121.459099
+cuisine:
+- Mediterranean
 ---
 
 If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your judgement on the dining experience. A cockroach could probably mean the death of a restaurant if just a couple of patrons see it scurrying about. Not that I saw anything crawling around, but that was almost the case with 夏味馆 Xia Restaurant.

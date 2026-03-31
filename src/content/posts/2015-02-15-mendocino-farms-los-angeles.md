@@ -7,14 +7,12 @@ originalUrl: http://thirstypig.com/2015/02/15/mendocino-farms-los-angeles/
 heroImage: /images/posts/mendocino-farms-los-angeles/IMG_2217.jpg
 images:
 - /images/posts/mendocino-farms-los-angeles/IMG_2217.jpg
-categories:
-- Dtla
-- Los Angeles
-- Santa Monica
-- Downtown LA
+categories: []
 tags:
-- Los Angeles
-- Sandwich
+- los-angeles
+- fusion
+- sandwiches
+- banh-mi
 description: great sandwiches, yet pricey sandwiches pretty good system in ordering get the Kurobuta Pork Belly Banh Mi sandwich I like the bread 15 locations. . .I still remember their first one in DTLA
 archiveUrl: https://web.archive.org/web/20160915042558/http://thirstypig.com/2015/02/15/mendocino-farms-los-angeles/
 draft: false
@@ -22,6 +20,8 @@ location: Mendocino Farms
 city: Los Angeles
 region: Downtown LA
 address: 735 S Figueroa St Los Angeles, CA 90071
+cuisine:
+- Fusion
 ---
 
 [![IMG_4071](/images/posts/mendocino-farms-los-angeles/IMG_2217.jpg "IMG_4071")](http://thirstypig.com/2015/02/15/mendocino-farms-los-angeles/img_4071-2/)

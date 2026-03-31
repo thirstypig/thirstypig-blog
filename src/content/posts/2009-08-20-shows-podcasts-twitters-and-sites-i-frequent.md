@@ -1,5 +1,5 @@
 ---
-title: 'Shows, Podcasts, Twitters, and Sites I Frequent, Santa...'
+title: Shows, Podcasts, Twitters, and Sites I Frequent, Santa...
 pubDate: '2009-08-20'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,15 +11,15 @@ images:
 - /images/posts/shows-podcasts-twitters-and-sites-i-frequent/guy-fieri_med.jpg
 - /images/posts/shows-podcasts-twitters-and-sites-i-frequent/howdeliciousareyou_teaser.png
 - /images/posts/shows-podcasts-twitters-and-sites-i-frequent/kogi_logo_blk_bigger.png
-categories:
-- Blog
-- Santa Monica
-- Westside
+categories: []
 description: These sites, shows, twitters, and podcasts are some of the media that i enjoy. I don’t necessarily keep up with all of them. . .all the time. .. but most of them, some of the time.
 archiveUrl: https://web.archive.org/web/20110106005841/http://www.thethirstypig.com/2009/08/20/shows-podcasts-twitters-and-sites-i-frequent/
 draft: false
 city: Santa Monica
 region: Westside
+tags:
+- santa-monica
+cuisine: []
 ---
 
 These sites, shows, twitters, and podcasts are some of the media that i enjoy. I don’t necessarily keep up with all of them. . .all the time. .. but most of them, some of the time.

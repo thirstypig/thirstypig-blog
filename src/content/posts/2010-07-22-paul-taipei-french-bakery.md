@@ -1,5 +1,5 @@
 ---
-title: Paul Bakery, Taipei
+title: 米塔手感烘焙 Mita Fancy Cafe & Bakery, Taipei
 pubDate: '2010-07-22'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,17 +7,12 @@ originalUrl: http://www.thethirstypig.com/2010/07/22/paul-taipei-french-bakery/
 heroImage: /images/posts/paul-taipei-french-bakery/Paul-Bakery-13-88x88.jpg
 images:
 - /images/posts/paul-taipei-french-bakery/Paul-Bakery-13-88x88.jpg
-categories:
-- 1 pig
-- Bakery
-- Cafe
-- Dessert
-- French
-- Price Range 2 $/¥/NT
-- Tea
-- Taipei
+categories: []
 tags:
-- Taipei
+- taipei
+- bakery
+- quiche
+- soup
 description: Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quit
 archiveUrl: https://web.archive.org/web/20111103134642/http://www.thethirstypig.com/2010/07/22/paul-taipei-french-bakery/
 draft: false
@@ -28,6 +23,8 @@ address: 南京東路一段24號, 台北市,  104
 coordinates:
   lat: 25.051963
   lng: 121.523724
+cuisine:
+- Bakery
 ---
 
 Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quite sure myself. I know I was out of place, when I noticed that 90% of the people were females.

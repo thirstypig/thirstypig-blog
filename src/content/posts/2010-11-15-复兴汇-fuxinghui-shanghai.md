@@ -1,5 +1,5 @@
 ---
-title: 复兴汇 Fuxinghui Shanghai
+title: 复兴汇 Fuxinghui Shanghai, Shanghai
 pubDate: '2010-11-15'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -25,13 +25,12 @@ images:
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-19-88x88.jpg
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-20-88x88.jpg
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-21-88x88.jpg
-categories:
-- 2 pigs
-- Price Range 3 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 tags:
-- Shanghai 上海
+- shanghai
+- chinese
+- shanghainese
+- fine-dining
 description: Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.
 archiveUrl: https://web.archive.org/web/20110105103758/http://www.thethirstypig.com/2010/11/15/%e5%a4%8d%e5%85%b4%e6%b1%87-fuxinghui-shanghai/
 draft: false
@@ -39,6 +38,8 @@ location: 复兴汇 Fuxinghui Shanghai
 city: Shanghai
 region: Shanghai
 address: 1479 Middle Fuxing Road
+cuisine:
+- Chinese
 ---
 
 Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.

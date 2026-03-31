@@ -1,19 +1,15 @@
 ---
-title: Hot Pot at 嗎哪 MaLa in Taipei
+title: Legacy Taipei, Taipei
 pubDate: '2010-06-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/06/16/hot-pot-mala-taipei/
-categories:
-- 2 pigs
-- Hot Pot
-- Price Range 2 $/¥/NT
-- Szechuan
-- Taiwanese
-- Taipei
+categories: []
 tags:
-- Da'an District 台北大安區
-- Taipei 台北
+- taipei
+- chinese
+- hot-pot
+- bbq
 description: One of the popular Chinese cuisines, if you can say cuisine – perhaps method is more appropriate, is Hot Pot cooking. Do It Yourself DIY cooking is found in many Asian cuisines. With Korean BBQ, Japan
 archiveUrl: https://web.archive.org/web/20110209052911/http://www.thethirstypig.com:80/2010/06/16/hot-pot-mala-taipei/
 draft: false
@@ -24,6 +20,8 @@ address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934
   lng: 121.529331
+cuisine:
+- Chinese
 ---
 
 One of the popular Chinese cuisines, if you can say cuisine – perhaps method is more appropriate, is Hot Pot (cooking). Do It Yourself (DIY) cooking is found in many Asian cuisines. With Korean BBQ, Japanese Shabu Shabu, Japanese Tempura/Sushi Bars, Mongolian BBQ, and Chinese Hot Pot the art or performance of cooking and preparing becomes part of the “fun” in the eating environment. Westerners or Americans can also relate with ritual of outdoor Barbecue. Hands on method of cooking has been perfected over the years with *ingredients* being the only way to distinguish restaurants apart.

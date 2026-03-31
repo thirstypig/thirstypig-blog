@@ -1,6 +1,6 @@
 ---
-title: 'Oakalleyplantation, New Orleans'
-description: 'Oakalleyplantation, New Orleans at Oakalleyplantation in New Orleans.'
+title: Oakalleyplantation, New Orleans
+description: Oakalleyplantation, New Orleans at Oakalleyplantation in New Orleans.
 pubDate: '2017-07-08'
 author: The Thirsty Pig
 source: instagram
@@ -18,14 +18,12 @@ images:
 - /images/posts/ig-2017-07-08-instagram-post-july-08-2017/17875978771119876.jpg
 - /images/posts/ig-2017-07-08-instagram-post-july-08-2017/17887425193010998.jpg
 tags:
-- thirstypig
-- nola
-- plantation
-- oaktrees
-- mintjulep
+- new-orleans
 location: Oakalleyplantation
 city: New Orleans
 region: Louisiana
+categories: []
+cuisine: []
 ---
 
 ![Instagram Post — July 08, 2017](/images/posts/ig-2017-07-08-instagram-post-july-08-2017/17879014381078471.jpg)

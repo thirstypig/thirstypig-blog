@@ -11,18 +11,9 @@ images:
 - /images/posts/ig-2022-06-30-a-gas-station/17930270912196779.jpg
 - /images/posts/ig-2022-06-30-a-gas-station/17959943800832122.jpg
 - /images/posts/ig-2022-06-30-a-gas-station/18307423768009951.jpg
-tags:
-- gasstation
-- texas
-- bucees
-- fuel
-- roadtrip
-- bbqsandwich
-- bbq
-- nuts
-- beefjerky
-- icon
-description: 'A gas station. But this is no ordinary gas station. This is a Buc-ee’s!!! This is the largest gas station that I have ever been to. Also, the food. OMG. They have beef jerky, nuts, bbq sandwiches, etc. also, they are known to have the cleanest restrooms. This is a crazy place. Every time I see one, I have to stop. . . . . .'
+tags: []
+description: A gas station. But this is no ordinary gas station. This is a Buc-ee’s!!! This is the largest gas station that I have ever been to. Also, the food. OMG. They have beef jerky, nuts, bbq sandwiches, etc. also, they are known to have the cleanest restrooms. This is a crazy place. Every time I see one, I have to stop. . . . . .
+categories: []
 ---
 
 ![A gas station](/images/posts/ig-2022-06-30-a-gas-station/17957025772868820.jpg)

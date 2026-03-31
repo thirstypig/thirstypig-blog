@@ -22,15 +22,19 @@ images:
 - /images/posts/kyochon-chicken-pudong/IMG_3069-494x370.jpg
 - /images/posts/kyochon-chicken-pudong/IMG_3070-88x88.jpg
 - /images/posts/kyochon-chicken-pudong/KyoChon-客怡村-Chicken-1-88x88.jpg
-categories:
-- Pudong
+categories: []
 tags:
-- Chicken
-- Korean
+- shanghai
+- korean
+- fried-chicken
+- spicy
 description: Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. T
 archiveUrl: https://web.archive.org/web/20161019100345/http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/
 draft: false
 location: Kyochon Chicken
+city: Shanghai
+cuisine:
+- Korean
 ---
 
 [![img_3064](/images/posts/kyochon-chicken-pudong/IMG_3045-88x88.jpg "img_3064")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3064/)

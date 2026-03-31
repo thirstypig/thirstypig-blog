@@ -1,5 +1,5 @@
 ---
-title: Kimlan金蘭醬油, a Taiwanese Institution
+title: Kimlan金蘭醬油, Taoyuan
 pubDate: '2010-07-08'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -35,14 +35,14 @@ images:
 - /images/posts/kimlan-taiwanese-soy-sauce/IMG_2899-88x88.jpg
 - /images/posts/kimlan-taiwanese-soy-sauce/kimlan-904-88x88.jpg
 - /images/posts/kimlan-taiwanese-soy-sauce/kimlan-907-88x88.jpg
-categories:
-- 3 pigs
-- Taiwanese
-- Taiwan
+categories: []
 description: Kimlan an integral part of Taiwanese food history, has a museum for visitors at their main plant in Taoyuan, Taiwan. Similar that of kimchi museum in Seoul, the intimate center showcases the company’s
 archiveUrl: https://web.archive.org/web/20111103150109/http://www.thethirstypig.com/2010/07/08/kimlan-taiwanese-soy-sauce/
 draft: false
 location: Kimlan金蘭醬油
+tags:
+- soy-sauce
+cuisine: []
 ---
 
 Kimlan金蘭醬油.

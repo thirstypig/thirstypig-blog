@@ -1,5 +1,5 @@
 ---
-title: 'Solomon R. Guggenheim Museum, New York'
+title: Solomon R. Guggenheim Museum, New York
 pubDate: '2018-01-02'
 author: The Thirsty Pig
 source: instagram
@@ -17,14 +17,7 @@ images:
 - /images/posts/ig-2018-01-02-an-afternoon-saw-works-from-there-is-an-excellent-exhibit-fe/17915676904036187.jpg
 - /images/posts/ig-2018-01-02-an-afternoon-saw-works-from-there-is-an-excellent-exhibit-fe/17915941825031708.jpg
 tags:
-- manet
-- picasso
-- gauguin
-- aiweiwei
-- art
-- guggenheim
 - nyc
-- chineseart
 description: An afternoon Saw works from there is an excellent exhibit featuring works from China after 1989.
 city: New York
 region: New York
@@ -33,6 +26,8 @@ address: 1071 5th Ave (at E 89th St), New York, NY 10128
 coordinates:
   lat: 40.78303
   lng: -73.958892
+categories: []
+cuisine: []
 ---
 
 ![An afternoon Saw works from there is an excellent exhibit featuring work...](/images/posts/ig-2018-01-02-an-afternoon-saw-works-from-there-is-an-excellent-exhibit-fe/17911615666064040.jpg)

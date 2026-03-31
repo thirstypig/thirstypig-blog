@@ -25,14 +25,19 @@ images:
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-18-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-19-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-20-494x370.jpg
-categories:
-- Ho Chi Minh City
+categories: []
 tags:
-- Hotel
+- ho-chi-minh-city
+- vietnamese
+- brunch
+- cocktails
 description: 'Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo '
 archiveUrl: https://web.archive.org/web/20161106040231/http://thirstypig.com/2011/08/13/intercontinental-asiana-saigon-ho-chi-minh-city/
 draft: false
 location: Intercontinental Asiana Saigon
+city: Ho Chi Minh City
+cuisine:
+- Vietnamese
 ---
 
 [![intercontinental-asiana-saigon-02](/images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-01-494x370.jpg "intercontinental-asiana-saigon-02")](http://thirstypig.com/2011/08/13/intercontinental-asiana-saigon-ho-chi-minh-city/intercontinental-asiana-saigon-02/)

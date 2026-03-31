@@ -1,5 +1,5 @@
 ---
-title: Celebrating my wife’s birthday at Duke’s in Huntington Beach
+title: Duke's, Huntington Beach
 pubDate: '2018-08-15'
 author: The Thirsty Pig
 source: instagram
@@ -12,18 +12,13 @@ images:
 - /images/posts/ig-2018-08-15-celebrating-my-wifes-birthday-at-dukes-in-huntington-beach/17879176060260848.jpg
 - /images/posts/ig-2018-08-15-celebrating-my-wifes-birthday-at-dukes-in-huntington-beach/17970389395048087.jpg
 tags:
-- birthday
-- eeeeeats
-- thirstypig
-- primerib
 - seafood
-- scallops
-- shrimp
-- huntingtonbeach
-- hb
-- birthdaycake
+- prime-rib
 description: Celebrating my wife’s birthday at Duke’s in Huntington Beach. Good food and even better views with great company. Prime Rib, seafood hot pot, scallops, and Coconut shrimp. . . . .
 location: Duke’s
+categories: []
+cuisine:
+- Seafood
 ---
 
 ![Celebrating my wife’s birthday at Duke’s in Huntington Beach](/images/posts/ig-2018-08-15-celebrating-my-wifes-birthday-at-dukes-in-huntington-beach/17851425844282575.jpg)

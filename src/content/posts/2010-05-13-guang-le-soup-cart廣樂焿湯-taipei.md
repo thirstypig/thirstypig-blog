@@ -1,14 +1,15 @@
 ---
-title: Guang Le Soup Cart廣樂焿湯, Taipei
+title: 廣樂焿湯, Taipei
 pubDate: '2010-05-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
-categories:
-- Da-an
-- Taipei
+categories: []
 tags:
-- Tofu
+- taipei
+- taiwanese
+- stinky-tofu
+- street-cart
 description: street cart Stinky Tofu
 archiveUrl: https://web.archive.org/web/20161105232239/http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
 draft: false
@@ -19,6 +20,8 @@ address: No. 56, Section 1, Da'An Road, Da'An District, 台北市,  106
 coordinates:
   lat: 25.043009
   lng: 121.54605
+cuisine:
+- Taiwanese
 ---
 
 

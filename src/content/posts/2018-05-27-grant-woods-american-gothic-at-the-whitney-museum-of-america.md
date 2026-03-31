@@ -1,5 +1,5 @@
 ---
-title: 'Whitney Museum of American Art, New York'
+title: Whitney Museum of American Art, New York
 pubDate: '2018-05-27'
 author: The Thirsty Pig
 source: instagram
@@ -17,13 +17,7 @@ images:
 - /images/posts/ig-2018-05-27-grant-woods-american-gothic-at-the-whitney-museum-of-america/17858740315253338.jpg
 - /images/posts/ig-2018-05-27-grant-woods-american-gothic-at-the-whitney-museum-of-america/17928985333083658.jpg
 tags:
-- whitneymuseum
-- americanart
-- art
-- thirstypig
 - nyc
-- gansevoort
-- meatpackingdistrict
 description: Grant Wood’s American Gothic at the Whitney Museum of American Art. Part 1 of 2 posts. Plus a bunch of other interesting art pieces.
 city: New York
 region: New York
@@ -32,6 +26,8 @@ address: 99 Gansevoort St (btwn 10th Ave & Washington St), New York, NY 10014
 coordinates:
   lat: 40.739506
   lng: -74.008861
+categories: []
+cuisine: []
 ---
 
 ![Grant Wood’s American Gothic at the Whitney Museum of American Art](/images/posts/ig-2018-05-27-grant-woods-american-gothic-at-the-whitney-museum-of-america/17919349621179258.jpg)

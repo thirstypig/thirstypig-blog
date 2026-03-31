@@ -11,13 +11,11 @@ images:
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-18-88x88.jpg
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-19-88x88.jpg
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-9-88x88.jpg
-categories:
-- 1 pig
-- Mexican
-- Price Range $/¥/NT
-- Taipei
+categories: []
 tags:
-- Taipei
+- taipei
+- mexican
+- tacos
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103142214/http://www.thethirstypig.com/2010/07/22/oola-mexican-grill-taipei/
 draft: false
@@ -27,6 +25,8 @@ region: Taipei
 address: '136 Alley
 
   Roosevelt Road'
+cuisine:
+- Mexican
 ---
 
 One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taipei, on a yearly basis and never had the urge to try Mexican food. Yet, when I return from Asia, one of the first things I do is head to a hole-in-the-wall Mexican restaurant. Often times, King Taco will suffice, just nicely.

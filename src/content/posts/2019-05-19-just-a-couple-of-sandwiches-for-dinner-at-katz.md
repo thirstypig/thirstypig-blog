@@ -1,5 +1,5 @@
 ---
-title: 'Just a couple of sandwiches for dinner at Katz, New York'
+title: Katz's Delicatessen, New York
 pubDate: '2019-05-19'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,17 @@ images:
 - /images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17859149230407345.jpg
 - /images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17971146295260025.jpg
 tags:
-- eeeeeats
-- eat
 - nyc
-- thirstypig
+- american
+- sandwiches
 - pastrami
-- pastramisandwich
-- reuben
-- reubensandwich
-- sandwich
-- mustard
 description: Just a couple of sandwiches for dinner at Katz. A Rueben and a Pastrami. . . .
 location: Katz's Delicatessen
 city: New York
 region: New York
+categories: []
+cuisine:
+- American
 ---
 
 ![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17963389465263388.jpg)

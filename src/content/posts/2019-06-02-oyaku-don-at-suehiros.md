@@ -1,5 +1,5 @@
 ---
-title: 'Oyaku-Don at Suehiro’s, Little Tokyo'
+title: Suehiro's, Little Tokyo
 pubDate: '2019-06-02'
 author: The Thirsty Pig
 source: instagram
@@ -9,19 +9,17 @@ images:
 - /images/posts/ig-2019-06-02-oyaku-don-at-suehiros/18062436043078337.jpg
 - /images/posts/ig-2019-06-02-oyaku-don-at-suehiros/17857759291426897.jpg
 tags:
-- japanesefood
-- oyakudon
+- little-tokyo
+- japanese
+- oyakodon
 - ramen
-- littletokyo
-- dtla
-- food
-- latenightsnack
-- rememberthisplace
-- favoritedish
 description: Oyaku-Don at Suehiro’s. One of my favorite Japanese dishes - chicken, egg, and onion over rice. Simple and hearty. Ramen was also not bad. . . .
 location: Suehiro's
 city: Little Tokyo
 region: Los Angeles
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Oyaku-Don at Suehiro’s](/images/posts/ig-2019-06-02-oyaku-don-at-suehiros/18062436043078337.jpg)

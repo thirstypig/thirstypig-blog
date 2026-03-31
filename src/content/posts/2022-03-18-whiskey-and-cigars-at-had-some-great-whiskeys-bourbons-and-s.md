@@ -1,5 +1,5 @@
 ---
-title: 'Water Court at California Plaza, Downtown LA'
+title: Water Court at California Plaza, Downtown LA
 pubDate: '2022-03-18'
 author: The Thirsty Pig
 source: instagram
@@ -15,21 +15,11 @@ images:
 - /images/posts/ig-2022-03-18-whiskey-and-cigars-at-had-some-great-whiskeys-bourbons-and-s/18044187400318605.jpg
 - /images/posts/ig-2022-03-18-whiskey-and-cigars-at-had-some-great-whiskeys-bourbons-and-s/17982025927447307.jpg
 tags:
-- cigars
-- whiskey
-- bourbon
-- scotchwhisky
 - dtla
-- bar
-- whisky
-- japanesewhisky
-- bourbonwhiskey
-- ibericoham
 description: Whiskey and Cigars at had some great whiskeys, bourbons and scotches. also had a cigar. And had some iberico ham to snack on. . . . . .
 location: Water Court at California Plaza
 city: Downtown LA
-categories:
-- bourbons and scotches
+categories: []
 region: Los Angeles
 address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
 coordinates:

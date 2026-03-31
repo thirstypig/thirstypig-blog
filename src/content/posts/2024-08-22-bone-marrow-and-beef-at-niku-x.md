@@ -1,5 +1,5 @@
 ---
-title: 'Bone marrow and beef at NIKU X, Downtown LA'
+title: NIKU X, Downtown LA
 pubDate: '2024-08-22'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,12 @@ images:
 - /images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18054142546775230.jpg
 - /images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18005314277418736.jpg
 tags:
-- thirstypig
-- tastemakers
-- tastemaker
-- tastemakersapp
-- beef
-- bonemarrow
-- dinela
 - dtla
-- eats
-- eeeeeats
 description: Bone marrow and beef at NIKU X. . . .
 location: NIKU X
 city: Downtown LA
 region: Los Angeles
+categories: []
 ---
 
 ![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18298746178167857.jpg)

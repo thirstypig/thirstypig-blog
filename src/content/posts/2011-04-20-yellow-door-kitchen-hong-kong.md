@@ -22,13 +22,12 @@ images:
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-09-188x188.jpg
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-09-494x370.jpg
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-10-188x188.jpg
-categories:
-- 2 pigs
-- Price Range 2 $/¥/NT
-- Sichuanese
-- Hong Kong
+categories: []
 tags:
-- Hong Kong
+- hong-kong
+- chinese
+- sichuan
+- braised-pork-ribs
 description: Located on the 6th floor in a non-descript office building in the crowded district of central is Yellow Door Kitchen. The Yellow Door Kitchen specializes the renown spicy Sichuan cuisine. The Michelin
 archiveUrl: https://web.archive.org/web/20110424172405/http://www.thethirstypig.com:80/2011/04/20/yellow-door-kitchen-hong-kong/
 draft: false
@@ -36,6 +35,8 @@ location: Yellow Door Kitchen
 city: Hong Kong
 region: Hong Kong
 address: 37 Cochrane St
+cuisine:
+- Chinese
 ---
 
 Located on the 6th floor in a non-descript office building in the crowded district of central is Yellow Door Kitchen. The Yellow Door Kitchen specializes the renown spicy Sichuan cuisine. The Michelin Guide recently awarded them Bib Gourmand, which emphasizes acceptable pricing standards for locals. The small restaurant, which can be reserved for private dining parties, features only a 6 tables.

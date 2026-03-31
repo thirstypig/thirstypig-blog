@@ -1,16 +1,15 @@
 ---
-title: VVG Bon Bon 好樣棒棒, Taipei (Closed)
+title: 好樣本事 VVG Something, Taipei
 pubDate: '2010-05-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
-categories:
-- Da-an
-- Taipei
+categories: []
 tags:
-- Dessert
-- Tea
-- closed
+- taipei
+- dessert
+- afternoon-tea
+- desserts
 description: VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 archiveUrl: https://web.archive.org/web/20161105154755/http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
 draft: false
@@ -21,6 +20,8 @@ address: 忠孝東路四段181巷40弄13號, 台北市
 coordinates:
   lat: 25.044054
   lng: 121.549839
+cuisine:
+- Dessert
 ---
 
 

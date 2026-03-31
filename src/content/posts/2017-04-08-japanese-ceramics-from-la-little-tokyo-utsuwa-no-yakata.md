@@ -1,5 +1,5 @@
 ---
-title: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata
+title: Park Hyatt Tokyo (パークハイアット東京), Tokyo
 pubDate: '2017-04-08'
 author: The Thirsty Pig
 source: instagram
@@ -17,23 +17,18 @@ images:
 - /images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17876202196031518.jpg
 - /images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17865584620103222.jpg
 tags:
-- japaneseceramics
-- japanesebowls
-- littletokyo
-- dtla
-- littletokyola
-- bowls
+- tokyo
 - ceramics
 description: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata. Creative designs!
 location: Park Hyatt Tokyo (パークハイアット東京)
 city: Tokyo
 region: Tokyo
-categories:
-- Tokyo
+categories: []
 address: 西新宿3-7-1-2 (新宿パークタワー), 新宿区, 東京都, 163-1055
 coordinates:
   lat: 35.685575
   lng: 139.690639
+cuisine: []
 ---
 
 ![Japanese ceramics from LA Little Tokyo Utsuwa No Yakata](/images/posts/ig-2017-04-08-japanese-ceramics-from-la-little-tokyo-utsuwa-no-yakata/17865580090104331.jpg)

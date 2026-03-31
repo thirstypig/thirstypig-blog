@@ -1,14 +1,10 @@
 ---
-title: Le Sheng, Shanghai
+title: le sheng, Shanghai
 pubDate: '2012-01-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/01/09/le-sheng-shanghai/
-categories:
-- 1 pig
-- Price Range 2 $/¥/NT
-- Shanghainese
-- Shanghai
+categories: []
 description: What is Le Sheng? This is David Laris’s new lovechild, Le Sheng, a Shanghainese cuisine bistro. You might think it is strange for a Greek from Australia, living in China, opening a Shanghainese restau
 archiveUrl: https://web.archive.org/web/20120203100740/http://www.thethirstypig.com:80/2012/01/09/le-sheng-shanghai/
 draft: false
@@ -19,6 +15,13 @@ address: anfu road
 coordinates:
   lat: 31.21516
   lng: 121.435898
+tags:
+- shanghai
+- chinese
+- shanghainese
+- bistro
+cuisine:
+- Chinese
 ---
 
 **What is Le Sheng?**

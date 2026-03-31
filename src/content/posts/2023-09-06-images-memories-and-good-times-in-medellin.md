@@ -1,5 +1,5 @@
 ---
-title: Images, memories, and good times in Medellin
+title: Images, memories, Medellin
 pubDate: '2023-09-06'
 author: The Thirsty Pig
 source: instagram
@@ -17,16 +17,10 @@ images:
 - /images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18037345105528669.jpg
 tags:
 - medellin
-- antioquia
-- colombia
-- thirstypig
-- tastemakersapp
-- goodtimes
 description: Images, memories, and good times in Medellin. Good adventure with friends and meeting new people. Check out my Medellin food posts at . . . . .
 location: Images, memories
 city: Medellin
-categories:
-- and good times in Medellin
+categories: []
 region: Colombia
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'The Smosh Town burger, Pasadena'
+title: Old Town Pasadena, Pasadena
 pubDate: '2020-12-16'
 author: The Thirsty Pig
 source: instagram
@@ -10,13 +10,10 @@ images:
 - /images/posts/ig-2020-12-16-the-smosh-town-burger/18057033277267261.jpg
 - /images/posts/ig-2020-12-16-the-smosh-town-burger/17944387690407993.jpg
 tags:
-- burger
-- smashburger
 - pasadena
-- sgv
-- lunch
-- eat
-- eeeeeats
+- american
+- burgers
+- tater-tots
 description: The Smosh Town burger. Crispy and tasty burgers! Tarot tots with chili and cheese. Yum . . . . .
 location: Old Town Pasadena
 city: Pasadena
@@ -25,6 +22,9 @@ address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657
   lng: -118.152145
+categories: []
+cuisine:
+- American
 ---
 
 ![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17866486280161884.jpg)

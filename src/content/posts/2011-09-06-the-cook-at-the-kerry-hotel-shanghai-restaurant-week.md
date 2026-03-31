@@ -1,5 +1,5 @@
 ---
-title: The Cook at the Kerry Hotel, Shanghai – Restaurant Week
+title: The Cook at the Kerry Hotel, Shanghai
 pubDate: '2011-09-06'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -16,15 +16,7 @@ images:
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-09-494x370.jpg
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-10-494x370.jpg
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-11-494x370.jpg
-categories:
-- 2 pigs
-- American
-- Brewery
-- Chinese
-- Dessert
-- hotel
-- Price Range 3 $/¥/NT
-- Shanghai
+categories: []
 description: The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all y
 archiveUrl: https://web.archive.org/web/20111011065910/http://www.thethirstypig.com/2011/09/06/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/
 draft: false
@@ -32,6 +24,13 @@ location: The Cook at the Kerry Hotel
 city: Shanghai
 region: Shanghai
 address: 1388 Hua Mu Road
+tags:
+- shanghai
+- multi
+- buffet
+- noodles
+cuisine:
+- Multi
 ---
 
 The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all you can eat, with distinct cuisine bars, such as Western, Japanese, Italian, Chinese, Cheese, Deli, Noodle, and a great dessert bar.

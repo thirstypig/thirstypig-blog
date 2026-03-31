@@ -1,5 +1,5 @@
 ---
-title: 'The holy land, Austin'
+title: Franklin BBQ, Austin
 pubDate: '2017-03-31'
 author: The Thirsty Pig
 source: instagram
@@ -17,6 +17,12 @@ description: The holy land
 location: Franklin BBQ
 city: Austin
 region: Texas
+tags:
+- austin
+- bbq
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![The holy land](/images/posts/ig-2017-03-31-the-holy-land/17876063980021808.jpg)

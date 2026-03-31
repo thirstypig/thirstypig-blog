@@ -1,5 +1,5 @@
 ---
-title: 'Shaanxi Garden, San Gabriel'
+title: Shaanxi Garden, San Gabriel
 pubDate: '2017-12-03'
 author: The Thirsty Pig
 source: instagram
@@ -15,20 +15,17 @@ images:
 - /images/posts/ig-2017-12-03-shaanxi-lunch-in-rou-jia-mo-肉夾饃-diced-lamb-pita-and-liang-pi/17911436980043511.jpg
 - /images/posts/ig-2017-12-03-shaanxi-lunch-in-rou-jia-mo-肉夾饃-diced-lamb-pita-and-liang-pi/17887926469139512.jpg
 tags:
-- sgv
-- shotoniphonex
-- lunch
-- chinesefood
-- shaanxifood
-- sgv
-- valleyblvd
-- roujiamo
-- sundayfunday
-- lamb
+- san-gabriel
+- chinese
+- rou-jia-mo
+- noodles
 description: Shaanxi Lunch in Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold noodles were my favorite. The spicy wontons and dry noodles were also quite good, too
 city: San Gabriel
 region: San Gabriel Valley
 location: Shaanxi Garden
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Shaanxi Lunch in Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold n...](/images/posts/ig-2017-12-03-shaanxi-lunch-in-rou-jia-mo-肉夾饃-diced-lamb-pita-and-liang-pi/17897836879112419.jpg)

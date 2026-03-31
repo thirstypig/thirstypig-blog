@@ -1,5 +1,5 @@
 ---
-title: Di Shui Dong 滴水洞 Shanghai – Hunan Cuisine at its Best
+title: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店), Shanghai
 pubDate: '2010-12-16'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -21,13 +21,12 @@ images:
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-25-88x88.jpg
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-27-88x88.jpg
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-28-88x88.jpg
-categories:
-- 3 pigs
-- Hunan
-- Price Range $/¥/NT
-- Hunan Cuisine at its Best
+categories: []
 tags:
-- Luwan District 上海卢湾区
+- shanghai
+- chinese
+- steamed-fish
+- hunan
 description: When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell pepper
 archiveUrl: https://web.archive.org/web/20101220023236/http://www.thethirstypig.com:80/2010/12/16/di-shui-dong-%E6%BB%B4%E6%B0%B4%E6%B4%9E-shanghai-hunan-cuisine-at-its-best/
 draft: false
@@ -38,6 +37,8 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine:
+- Chinese
 ---
 
 When I see a yellow pepper and a red pepper, my instinct is the red one is the more spicy and dangerous one. Westerns, with my upbringing, are more familiar with the big and slightly spicy bell peppers with bold colors and flavors. Rarely will we associate a yellow pepper with heat and spicy.

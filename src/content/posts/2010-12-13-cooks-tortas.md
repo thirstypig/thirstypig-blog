@@ -1,5 +1,5 @@
 ---
-title: 'Cook’s Tortas, Los Angeles'
+title: Super Tortas D.F., Los Angeles
 pubDate: '2010-12-13'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,16 +17,12 @@ images:
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-09-88x88.jpg
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-10-88x88.jpg
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-11-88x88.jpg
-categories:
-- 3 pigs
-- Cuban
-- Lunch
-- Mexican
-- Price Range $/¥/NT
-- Sandwich
-- Los Angeles
+categories: []
 tags:
-- LA's San Gabriel Valley
+- los-angeles
+- mexican
+- tortas
+- sandwiches
 description: 'Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over '
 archiveUrl: https://web.archive.org/web/20101216024600/http://www.thethirstypig.com:80/2010/12/13/cooks-tortas/
 draft: false
@@ -36,6 +32,8 @@ address: 1098 E 41st St, Los Angeles, CA 90011
 coordinates:
   lat: 34.009115
   lng: -118.256704
+cuisine:
+- Mexican
 ---
 
 Not many people know Mexican cuisine features sandwiches. This combination of old and new world influences can be seen directly with theses sandwiches – the Torta. Bakeries and flour was brought over and developed by the French in the early 1800′s. Then by using locally cured and marinated meats, the Mexicans produced wonderful sandwiches.

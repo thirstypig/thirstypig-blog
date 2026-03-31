@@ -1,5 +1,5 @@
 ---
-title: 'Birthday dinner at Chuan’s, San Gabriel'
+title: Chuan's, San Gabriel
 pubDate: '2019-01-28'
 author: The Thirsty Pig
 source: instagram
@@ -15,20 +15,17 @@ images:
 - /images/posts/ig-2019-01-28-birthday-dinner-at-chuans/17993060269160801.jpg
 - /images/posts/ig-2019-01-28-birthday-dinner-at-chuans/17864283313314414.jpg
 tags:
-- spicy
-- sichuancuisine
-- sichuan
-- templecity
-- birthday
-- mala
-- sgv
-- å
-- éº
-- é
+- san-gabriel
+- chinese
+- mapo-tofu
+- noodles
 description: Birthday dinner at Chuan’s. Sichuan cuisine. Father in-laws birthday. Too bad there was no Sichuan Mask show. The fish and mapo tofu was great. The noodles were good too. . . .
 location: Chuan's
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Birthday dinner at Chuan’s](/images/posts/ig-2019-01-28-birthday-dinner-at-chuans/18012715267104660.jpg)

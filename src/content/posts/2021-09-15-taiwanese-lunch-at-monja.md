@@ -1,5 +1,5 @@
 ---
-title: 'Taiwanese lunch at Monja, Rowland Heights'
+title: 5 Bobee Taiwanese Cuisine, Rowland Heights
 pubDate: '2021-09-15'
 author: The Thirsty Pig
 source: instagram
@@ -12,11 +12,10 @@ images:
 - /images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/17918937235840614.jpg
 - /images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/18250523572053409.jpg
 tags:
-- lunch
-- taiwanesefood
-- rowlandheights
-- beefnoodlesoup
-- porkchoprice
+- rowland-heights
+- taiwanese
+- noodles
+- fried-chicken
 description: Taiwanese lunch at Monja. Beef noodle soup, fried pork chop with rice, and popcorn chicken. . . . . .
 location: 5 Bobee Taiwanese Cuisine
 city: Rowland Heights
@@ -25,6 +24,9 @@ address: 1756 Nogales St (at Colima Rd.), Rowland Heights, CA 91748
 coordinates:
   lat: 33.986516
   lng: -117.888214
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese lunch at Monja](/images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/17926686379723739.jpg)

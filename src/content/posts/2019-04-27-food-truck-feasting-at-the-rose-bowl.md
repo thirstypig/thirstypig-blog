@@ -1,5 +1,5 @@
 ---
-title: 'Food Truck Feasting at the Rose Bowl, Pasadena'
+title: Patty Wagon Food Truck, Pasadena
 pubDate: '2019-04-27'
 author: The Thirsty Pig
 source: instagram
@@ -17,17 +17,11 @@ images:
 - /images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/17854676434399255.jpg
 - /images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/18058261438003711.jpg
 tags:
-- finalfridays
-- eeeeeats
-- foodtruck
 - pasadena
-- sgv
-- rosebowl
-- finalfridays
-- thirstypig
+- multi
 - dumplings
-- puertoricocuisine
-description: 'Food Truck Feasting at the Rose Bowl. had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded pork from the Triple Threat Truck (Puerto Rico Cuisine). And finished it off with Cookie Monster ice cream from the Aftershock ice cream truck. I like how it was that crowded and the lines were reasonable. This is the first food truck event I’ve been to in years. Would return. Glad I brought beach and tailgating chairs to kick back on. . . .'
+- mofongo
+description: Food Truck Feasting at the Rose Bowl. had cheese fries with bacon, pizza, pan fried dumplings, scallion pancakes - from Dina’s Dumpling truck, tostones (fried plantains), and mofongo with shredded pork from the Triple Threat Truck (Puerto Rico Cuisine). And finished it off with Cookie Monster ice cream from the Aftershock ice cream truck. I like how it was that crowded and the lines were reasonable. This is the first food truck event I’ve been to in years. Would return. Glad I brought beach and tailgating chairs to kick back on. . . .
 location: Patty Wagon Food Truck
 city: Pasadena
 region: San Gabriel Valley
@@ -35,6 +29,9 @@ address: Greater LA Metro Area, Los Angeles, CA 90015
 coordinates:
   lat: 34.145964
   lng: -118.141352
+categories: []
+cuisine:
+- Multi
 ---
 
 ![Food Truck Feasting at the Rose Bowl](/images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/18029498026131655.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Garlicky Tonkotsu Ramen at Hironiro Craft Ramen, Pasadena'
+title: Hironori Craft Ramen, Pasadena
 pubDate: '2019-09-08'
 author: The Thirsty Pig
 source: instagram
@@ -15,19 +15,16 @@ images:
 - /images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18018999247225593.jpg
 tags:
 - pasadena
-- lakeavenue
+- japanese
 - ramen
-- garlic
-- karage
-- friedchicken
-- japanesefood
-- noodles
-description: 'Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. Ate too fast. . . . . .iwamiya'
+- fried-chicken
+description: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the chasu pork. Rich flavorful and garlicky flavor. Spicy, too. The shoyu ramen looked good too. The fried chicken appetizer was juicy. Ate too fast. . . . . .iwamiya
 location: Hironori Craft Ramen
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Garlicky Tonkotsu Ramen at Hironiro Craft Ramen](/images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18081230185097104.jpg)

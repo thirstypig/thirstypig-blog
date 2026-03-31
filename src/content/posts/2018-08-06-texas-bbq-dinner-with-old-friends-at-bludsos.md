@@ -1,5 +1,5 @@
 ---
-title: Texas BBQ dinner with old friends at Bludso’s
+title: Bludso's, Texas
 pubDate: '2018-08-06'
 author: The Thirsty Pig
 source: instagram
@@ -16,18 +16,13 @@ images:
 - /images/posts/ig-2018-08-06-texas-bbq-dinner-with-old-friends-at-bludsos/17968065106024312.jpg
 - /images/posts/ig-2018-08-06-texas-bbq-dinner-with-old-friends-at-bludsos/17868363943266678.jpg
 tags:
-- thirstypig
-- texasbbq
 - bbq
-- labrea
-- brisket
-- eeeeeats
-- remember
-- porkribs
-- pulledpork
-- beefbrisket
+- ribs
 description: Texas BBQ dinner with old friends at Bludso’s. Pork Ribs, Rib Tips, Pulled Pork, and beef brisket. With collard greens and cole slaw. So much food. Yum! . . . .
 location: Texas BBQ dinner with old friends at Bludso’s
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![Texas BBQ dinner with old friends at Bludso’s](/images/posts/ig-2018-08-06-texas-bbq-dinner-with-old-friends-at-bludsos/17938370692181796.jpg)

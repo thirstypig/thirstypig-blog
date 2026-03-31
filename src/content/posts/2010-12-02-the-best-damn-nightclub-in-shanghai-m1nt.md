@@ -1,5 +1,5 @@
 ---
-title: The Best Damn Nightclub in Shanghai, M1NT
+title: The Best Damn Nightclub in Shanghai, Shanghai
 pubDate: '2010-12-02'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -43,12 +43,7 @@ images:
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-39-88x88.jpg
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-40-88x88.jpg
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-41-88x88.jpg
-categories:
-- 3 pigs
-- Huangpu District
-- Price Range 3 $/¥/NT
-- Shanghai
-- M1NT
+categories: []
 description: '> M1NT is where the celebrities play with the stars overlooking the glamour of Shanghai.'
 archiveUrl: https://web.archive.org/web/20101204221204/http://www.thethirstypig.com:80/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/
 draft: false
@@ -56,6 +51,12 @@ location: The Best Damn Nightclub in Shanghai
 city: Shanghai
 region: Shanghai
 address: 318 Fuzhou Road
+tags:
+- shanghai
+- cocktails
+- nightlife
+cuisine:
+- Cocktails
 ---
 
 > M1NT is where the celebrities play with the stars overlooking the glamour of Shanghai.

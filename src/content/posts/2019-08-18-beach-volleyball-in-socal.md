@@ -1,5 +1,5 @@
 ---
-title: 'Beach Volleyball in SoCal, Manhattan Beach'
+title: Manhattan Beach Creamery, Manhattan Beach
 pubDate: '2019-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -10,14 +10,8 @@ images:
 - /images/posts/ig-2019-08-18-beach-volleyball-in-socal/17913367117335674.jpg
 - /images/posts/ig-2019-08-18-beach-volleyball-in-socal/17859789019478804.jpg
 tags:
-- manhattanbeach
-- beach
-- beachvolleyball
-- avpvolleyball
-- mb
-- outdoors
-- volleyball
-- avpstrong
+- manhattan-beach
+- ice-cream
 description: Beach Volleyball in SoCal! AVP Manhattan Beach Open tournament. . . . .
 location: Manhattan Beach Creamery
 city: Manhattan Beach
@@ -26,6 +20,8 @@ address: 1120 Manhattan Ave (at Manhattan Beach Blvd), Manhattan Beach, CA 90266
 coordinates:
   lat: 33.884676
   lng: -118.410575
+categories: []
+cuisine: []
 ---
 
 ![Beach Volleyball in SoCal](/images/posts/ig-2019-08-18-beach-volleyball-in-socal/17932868722306989.jpg)

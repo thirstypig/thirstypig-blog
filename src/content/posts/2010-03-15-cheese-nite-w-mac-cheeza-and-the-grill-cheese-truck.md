@@ -1,5 +1,5 @@
 ---
-title: 'Cheese Nite w/ Mac & Cheeza and the Grill Cheese Truck,...'
+title: Mac & Cheeza, Downtown LA
 pubDate: '2010-03-15'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -21,19 +21,19 @@ images:
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0714.jpg
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0715.jpg
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0716.jpg
-categories:
-- American
-- Food Truck
-- Downtown LA
-- 2 pigs
-- $
+categories: []
 tags:
-- Downtown LA
+- dtla
+- american
+- mac-and-cheese
+- grilled-cheese
 description: I’ve been dying to try Mac & Cheeza ever since they had their soft opening during Downtown LA’s Artwalk in February. Stalkingly, I have passed by their little shop about 3 times in the last 30 days or
 archiveUrl: https://web.archive.org/web/20110105230517/http://www.thethirstypig.com/2010/03/15/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/
 draft: false
 city: Downtown LA
 region: Downtown LA
+cuisine:
+- American
 ---
 
 American in Downtown LA.

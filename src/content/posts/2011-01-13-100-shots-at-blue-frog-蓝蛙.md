@@ -1,16 +1,15 @@
 ---
-title: '100 Shots at Blue Frog 蓝蛙, Shanghai'
+title: Blue Frog (蓝蛙), Shanghai
 pubDate: '2011-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/13/100-shots-at-blue-frog-%E8%93%9D%E8%9B%99/
-categories:
-- 2 pigs
-- American
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 tags:
-- Pudong District 浦东
+- shanghai
+- fusion
+- burgers
+- cocktails
 description: On December 12, 2010, I finished the last of my 100 shots at Blue Frog. On this last trip, I consumed the last portion of this epic quest – of 20 shots. But, I must confess that I failed in my attempt
 archiveUrl: https://web.archive.org/web/20110116215349/http://www.thethirstypig.com:80/2011/01/13/100-shots-at-blue-frog-%E8%93%9D%E8%9B%99/
 draft: false
@@ -21,6 +20,8 @@ address: 796 Dongfang Rd | 东方路796号 (Plaza 96 | 96广场), Lùjiāzuǐ, �
 coordinates:
   lat: 31.230481
   lng: 121.520734
+cuisine:
+- Fusion
 ---
 
 On December 12, 2010, I finished the last of my 100 shots at Blue Frog. On this last trip, I consumed the last portion of this epic quest – of 20 shots. But, I must confess that I failed in my attempt to finish 20 shots in a row. I could only do 16. You can check out the video below.

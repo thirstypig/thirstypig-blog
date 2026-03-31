@@ -1,5 +1,5 @@
 ---
-title: 'Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant...'
+title: Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant...
 pubDate: '2019-04-29'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,14 @@ images:
 - /images/posts/ig-2019-04-29-hunan-cuisine-at-hunan-chili-king-spicy-fish-fillet-egg-plan/18027552667153700.jpg
 - /images/posts/ig-2019-04-29-hunan-cuisine-at-hunan-chili-king-spicy-fish-fillet-egg-plan/17871762475362654.jpg
 tags:
-- eeeeeats
-- spicy
-- hunanchiliking
-- thirstypig
-- è
-- æ¹
-- å
-- egg
-- pork
-- broccoli
+- chinese
+- spicy-fish
+- eggplant
 description: Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant and green beans, salted pork, broccoli with pork skin, and fried egg with green chili. So F*&king Spicy 🌶 🥵 . . .
 location: Hunan Chili King - spicy fish fillet
-categories:
-- egg plant and green be...
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant and green be...](/images/posts/ig-2019-04-29-hunan-cuisine-at-hunan-chili-king-spicy-fish-fillet-egg-plan/18035071546084941.jpg)

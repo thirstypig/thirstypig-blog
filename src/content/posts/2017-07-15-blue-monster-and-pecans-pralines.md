@@ -1,5 +1,5 @@
 ---
-title: blue monster and pecans pralines
+title: Blue Bell Ice Cream, unknown
 pubDate: '2017-07-15'
 author: The Thirsty Pig
 source: instagram
@@ -10,9 +10,14 @@ images:
 - /images/posts/ig-2017-07-15-blue-monster-and-pecans-pralines/17866658326140392.jpg
 - /images/posts/ig-2017-07-15-blue-monster-and-pecans-pralines/17863836655182485.jpg
 tags:
-- icecream
+- dessert
+- ice-cream
+- pralines
 description: blue monster and pecans pralines
 location: Blue Bell Ice Cream
+categories: []
+cuisine:
+- Dessert
 ---
 
 ![blue monster and pecans pralines](/images/posts/ig-2017-07-15-blue-monster-and-pecans-pralines/17864802052147533.jpg)

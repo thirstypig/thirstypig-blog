@@ -1,5 +1,5 @@
 ---
-title: Tiger Sugar
+title: Tiger Sugar, San Gabriel Valley
 pubDate: '2019-12-04'
 author: The Thirsty Pig
 source: instagram
@@ -10,14 +10,17 @@ images:
 - /images/posts/ig-2019-12-04-tiger-sugar/17873698645503687.jpg
 - /images/posts/ig-2019-12-04-tiger-sugar/17854558279674227.jpg
 tags:
-- drinks
-- boba
-- pearlmilktea
 - sgv
+- taiwanese
+- boba
+- pearl-milk-tea
 description: Tiger Sugar. Taiwanese boba or pearl milk tea. . . . . .usa .usa
 location: Tiger Sugar
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine:
+- Taiwanese
 ---
 
 ![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17891080747436840.jpg)

@@ -1,5 +1,5 @@
 ---
-title: 'Dinner with wife at Public School 213, Downtown LA'
+title: Public School 213, Los Angeles
 pubDate: '2018-08-24'
 author: The Thirsty Pig
 source: instagram
@@ -10,15 +10,10 @@ images:
 - /images/posts/ig-2018-08-24-dinner-with-wife-at-public-school-213/17955887764121064.jpg
 - /images/posts/ig-2018-08-24-dinner-with-wife-at-public-school-213/17958334840119343.jpg
 tags:
-- gastropub
-- eeeeeats
 - dtla
-- dinner
-- burger
-- beets
+- american
+- burgers
 - salad
-- goatcheese
-- brusselsprouts
 description: Dinner with wife at Public School 213. She had the PS burger and I had the Roasted Beet & Goat Cheese Salad with a side of Brussels Sprouts. I always liked this gastropub . . . .
 location: Los Angeles Public Library - Central
 city: Downtown LA
@@ -27,6 +22,9 @@ address: 630 W 5th St (btwn Flower & Grand Ave), Los Angeles, CA 90071
 coordinates:
   lat: 34.050562
   lng: -118.255366
+categories: []
+cuisine:
+- American
 ---
 
 ![Dinner with wife at Public School 213](/images/posts/ig-2018-08-24-dinner-with-wife-at-public-school-213/17895427555244042.jpg)

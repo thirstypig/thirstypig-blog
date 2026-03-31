@@ -1,5 +1,5 @@
 ---
-title: New Star Seafood Restaurant 新星海鮮酒家 HKG
+title: New Star Seafood Restaurant, Hong Kong
 pubDate: '2011-04-18'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -10,18 +10,20 @@ images:
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-09-188x188.jpg
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-12-188x188.jpg
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-13-188x188.jpg
-categories:
-- 1 pig
-- Cantonese
-- Dim Sum
-- Price Range 2 $/¥/NT
+categories: []
 tags:
-- Hong Kong
+- hong-kong
+- chinese
+- dim-sum
+- seafood
 description: I have to preface that we intended to go to Tim Ho Wan, the Dim-Sum Specialists 添好運點心專門店. But after seeing the large crowds and queue’s. . . Mr. J smartly had a back up with New Star Seafood, which wa
 archiveUrl: https://web.archive.org/web/20110424172330/http://www.thethirstypig.com:80/2011/04/18/new-star-seafood-restaurant-%E6%96%B0%E6%98%9F%E6%B5%B7%E9%AE%AE%E9%85%92%E5%AE%B6-hkg/
 draft: false
 location: New Star Seafood Restaurant 新星海鮮酒家 HKG
 address: 33 Kwong Wa St
+city: Hong Kong
+cuisine:
+- Chinese
 ---
 
 I have to preface that we intended to go to Tim Ho Wan, the Dim-Sum Specialists 添好運點心專門店. But after seeing the large crowds and queue’s. . . Mr. J smartly had a back up with New Star Seafood, which was just around the corner.

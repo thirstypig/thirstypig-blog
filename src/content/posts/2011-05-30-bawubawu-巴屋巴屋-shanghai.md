@@ -1,14 +1,13 @@
 ---
-title: BawuBawu 巴屋巴屋, Shanghai
+title: Starbucks Reserve (星巴克臻选), Shanghai
 pubDate: '2011-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
-categories:
-- Hongqiao
-- Shanghai
+categories: []
 tags:
-- Korean
+- shanghai
+- coffee
 description: Every major metropolitan city features little enclaves or ghettos where pockets of individual ethnicities congregate. Whether you’re in London’s Indian Southall, São Paulo’s Japanese Liberdade, or Mel
 archiveUrl: https://web.archive.org/web/20161019141337/http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
 draft: false
@@ -19,6 +18,8 @@ address: N110-N201, 789 Nanjing W. Rd. (1-2/F-10N HKRI Taikoo Hui | 兴业太古
 coordinates:
   lat: 31.232316
   lng: 121.457838
+cuisine:
+- Coffee
 ---
 
 

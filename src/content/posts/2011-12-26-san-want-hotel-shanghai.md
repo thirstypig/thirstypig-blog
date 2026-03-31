@@ -4,11 +4,7 @@ pubDate: '2011-12-26'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/26/san-want-hotel-shanghai/?share=google-plus-1
-categories:
-- 1 pig
-- Hotel
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: The San Want Hotel is a mid-size independent hotel, which a couple of scattered locations in Asia, including Taiwan, Southern China, and Shanghai. I previously had a chance to try their dim sum restau
 archiveUrl: https://web.archive.org/web/20120406122155/http://www.thethirstypig.com:80/2011/12/26/san-want-hotel-shanghai/?share=google-plus-1
 draft: false
@@ -16,6 +12,12 @@ location: San Want Hotel
 city: Shanghai
 region: Shanghai
 address: 650 Yishan Road
+tags:
+- shanghai
+- chinese
+- dim-sum
+cuisine:
+- Chinese
 ---
 
 The San Want Hotel is a mid-size independent hotel, which a couple of scattered locations in Asia, including Taiwan, Southern China, and Shanghai. I previously had a chance to try their [**dim sum restaurant at their Taipei hotel**](http://www.thethirstypig.com/2010/05/17/san-wan-hotel-dim-sum/). I recently stayed over night at the Shanghai location.

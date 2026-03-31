@@ -1,17 +1,14 @@
 ---
-title: 'Nom nom nom . . . C’est Cupcake, Shanghai'
+title: Estado Puro by Paco Rancero, Shanghai
 pubDate: '2011-07-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
-categories:
-- 3 pigs
-- Cupcakes
-- Dessert
-- Price Range $/¥/NT
-- Shanghai
+categories: []
 tags:
-- Shanghai
+- shanghai
+- dessert
+- cupcakes
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20110715015556/http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
 draft: false
@@ -22,6 +19,8 @@ address: Unit 3, 1/F, Bldg 22, North Plaza, Xintiandi, Lane 181 Taicang Road, �
 coordinates:
   lat: 31.222284
   lng: 121.470281
+cuisine:
+- Dessert
 ---
 
 In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.

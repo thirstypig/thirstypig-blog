@@ -1,5 +1,5 @@
 ---
-title: 'Roasted Coffee Laboratory, Tokyo'
+title: Kouraku, Little Tokyo
 pubDate: '2021-03-16'
 author: The Thirsty Pig
 source: instagram
@@ -9,25 +9,20 @@ images:
 - /images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg
 - /images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17903338930770600.jpg
 tags:
-- chicken
-- japanesefood
-- eeeeeats
-- eats
-- firechicken
-- yummy
-- thirstypig
-- happybirthday
-- littletoyko
+- tokyo
+- japanese
+- fried-chicken
 description: Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted. Glad to also hear that Kouraku, the Japanese Denny’s in Little Tokyo is alive and well. . . . . . .
 location: Roasted Coffee Laboratory
 city: Tokyo
 region: Tokyo
-categories:
-- Tokyo
+categories: []
 address: 神南1-6-3 (神南フラッグ 1F), 渋谷区, 東京都, 150-0041
 coordinates:
   lat: 35.664213
   lng: 139.699851
+cuisine:
+- Japanese
 ---
 
 ![Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg)

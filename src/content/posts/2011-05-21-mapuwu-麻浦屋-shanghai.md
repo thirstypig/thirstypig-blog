@@ -1,14 +1,15 @@
 ---
-title: Mapuwu 麻浦屋, Shanghai
+title: Lillian Cake Shop (莉莲蛋挞饼屋), Shanghai
 pubDate: '2011-05-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
-categories:
-- Changning
-- Shanghai
+categories: []
 tags:
-- Korean
+- shanghai
+- bakery
+- pastries
+- egg-tarts
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20161019014425/http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
 draft: false
@@ -19,6 +20,8 @@ address: 南京西路2号B2 | B2, 2 W. Nanjing Rd. (新世界城 | New World), H
 coordinates:
   lat: 31.236219
   lng: 121.469129
+cuisine:
+- Bakery
 ---
 
 

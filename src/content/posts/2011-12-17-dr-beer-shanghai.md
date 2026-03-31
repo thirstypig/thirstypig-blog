@@ -4,20 +4,12 @@ pubDate: '2011-12-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/17/dr-beer-shanghai/
-categories:
-- American
-- Brewery
-- Price Range 2 $/¥/NT
-- Beer
-- Lounge
-- Xuhui
-- 2 pigs
-- Shanghai
+categories: []
 tags:
-- Beer
-- American
-- Lounge
-- Bar
+- shanghai
+- multi
+- gastropub
+- beer
 description: Dr. Beer is a new entrant in the Micro-Bewery or gastropubs in Shanghai. Dr. Beer will compete on a few different fronts with other establishments. Related to Dr. Wine, just located down the street on
 archiveUrl: https://web.archive.org/web/20161105140521/http://thirstypig.com/2011/12/17/dr-beer-shanghai/
 draft: false
@@ -28,6 +20,8 @@ address: 83 Fumin Rd | 富民路83号 (Middle Yan'an Rd | 延安中路), 上海�
 coordinates:
   lat: 31.222578
   lng: 121.445838
+cuisine:
+- Multi
 ---
 
 

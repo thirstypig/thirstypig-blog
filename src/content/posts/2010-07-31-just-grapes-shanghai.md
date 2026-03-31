@@ -1,14 +1,15 @@
 ---
-title: Just Grapes, Shanghai
+title: JustGrapes (葡醉), Shanghai
 pubDate: '2010-07-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/31/just-grapes-shanghai/
-categories:
-- Huangpu
-- Shanghai
+categories: []
 tags:
-- Wine
+- shanghai
+- italian
+- pasta
+- pizza
 description: Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the Americ
 archiveUrl: https://web.archive.org/web/20161018174412/http://thirstypig.com/2010/07/31/just-grapes-shanghai/
 draft: false
@@ -19,6 +20,8 @@ address: 162 Anfu Rd | 安福路162号, Jìngān, Changning, 上海市
 coordinates:
   lat: 31.21618
   lng: 121.440109
+cuisine:
+- Italian
 ---
 
 

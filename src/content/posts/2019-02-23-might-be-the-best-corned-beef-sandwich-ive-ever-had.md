@@ -1,5 +1,5 @@
 ---
-title: 'Might be the best corned beef sandwich I’ve ever had,...'
+title: Cravery, San Gabriel
 pubDate: '2019-02-23'
 author: The Thirsty Pig
 source: instagram
@@ -14,19 +14,16 @@ images:
 - /images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18036864997044793.jpg
 - /images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18017155342126208.jpg
 tags:
-- '1'
-- '7'
-- '10'
-- '10'
-- races
-- santaanitaracetrack
-- santaanita
-- arcadia
-- racetrack
-- horseracing
-description: 'Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day watching the ponies. Cheering , , and for the exacta in race number 5. Too bad came in last. . . .'
+- san-gabriel
+- american
+- corned-beef
+- sandwiches
+description: Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day watching the ponies. Cheering , , and for the exacta in race number 5. Too bad came in last. . . .
 city: San Gabriel
 region: San Gabriel Valley
+categories: []
+cuisine:
+- American
 ---
 
 ![Might be the best corned beef sandwich I’ve ever had](/images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18036501766049141.jpg)

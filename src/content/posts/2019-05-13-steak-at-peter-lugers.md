@@ -1,5 +1,5 @@
 ---
-title: 'Steak at Peter Luger’s, New York'
+title: Peter McManus Cafe, New York
 pubDate: '2019-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -15,16 +15,9 @@ images:
 - /images/posts/ig-2019-05-13-steak-at-peter-lugers/17859827401402772.jpg
 - /images/posts/ig-2019-05-13-steak-at-peter-lugers/18065464813030459.jpg
 tags:
-- eeeeeats
-- steak
-- peterlugersteakhouse
-- thirstypig
-- redmeat
-- gout
 - nyc
-- brooklyn
-- porterhouse
-- ribeye
+- bbq
+- steak
 description: Steak at Peter Luger’s. We had the rib steak and the steak for two. Yum! Glad we went! . . .
 location: Peter McManus Cafe
 city: New York
@@ -33,6 +26,9 @@ address: 152 7th Ave (at W 19th St), New York, NY 10011
 coordinates:
   lat: 40.741713
   lng: -73.99767
+categories: []
+cuisine:
+- BBQ
 ---
 
 ![Steak at Peter Luger’s](/images/posts/ig-2019-05-13-steak-at-peter-lugers/17851651582426314.jpg)

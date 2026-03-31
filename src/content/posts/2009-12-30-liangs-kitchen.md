@@ -1,5 +1,5 @@
 ---
-title: Liang's Kitchen 梁媽媽家
+title: Liang's Kitchen 梁媽媽家, San Gabriel
 pubDate: '2009-12-30'
 author: The Thirsty Pig
 source: blog.thethirstypig.com
@@ -15,12 +15,7 @@ images:
 - /images/posts/liangs-kitchen/IMG_0057.JPG
 - /images/posts/liangs-kitchen/IMG_0058.JPG
 - /images/posts/liangs-kitchen/IMG_1097.jpg
-categories:
-- $
-- 3 pigs
-- San Gabriel Valley
-- Taiwanese
-- San Gabriel
+categories: []
 description: I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang's Kitchen is my new favorite local Taiwanese restaurant. I would almost s
 archiveUrl: https://web.archive.org/web/20100103040517/http://blog.thethirstypig.com:80/2009/12/liangs-kitchen.html
 draft: false
@@ -30,6 +25,13 @@ region: San Gabriel Valley
 address: '1027 S. Baldwin Ave
 
   Arcadia, CA 91007'
+tags:
+- san-gabriel
+- taiwanese
+- pork-chili
+- rice
+cuisine:
+- Taiwanese
 ---
 
 I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang's Kitchen is my new favorite local Taiwanese restaurant. I would almost say hole-in-the-wall. But they have 3 San Gabriel Valley locations.

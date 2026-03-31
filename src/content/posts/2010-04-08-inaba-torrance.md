@@ -4,14 +4,12 @@ pubDate: '2010-04-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/08/inaba-torrance/
-categories:
-- Southbay
-- Torrance
-- South Bay
+categories: []
 tags:
-- Izakaya
-- Japanese
-- Sushi
+- torrance
+- japanese
+- soba
+- tempura
 description: I would lay claim that I-Naba could stand on its own against some of the better Izakaya restaurants such as Musha, Honda-Ya, Izakaya Haru Ulala, and Katsu-Ya. But they don’t specialize in Izakaya – th
 archiveUrl: https://web.archive.org/web/20161105135046/http://thirstypig.com/2010/04/08/inaba-torrance/
 draft: false
@@ -21,6 +19,8 @@ region: South Bay
 address: '20920 Hawthorne Blvd
 
   Torrance, CA 90510'
+cuisine:
+- Japanese
 ---
 
 

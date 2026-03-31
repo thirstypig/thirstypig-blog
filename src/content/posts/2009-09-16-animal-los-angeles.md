@@ -4,13 +4,12 @@ pubDate: '2009-09-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/16/animal-los-angeles/
-categories:
-- Hollywood
-- Los Angeles
+categories: []
 tags:
-- Beef
-- Los Angeles
-- Pork
+- los-angeles
+- american
+- meat
+- steak
 description: 'With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making '
 archiveUrl: https://web.archive.org/web/20160828054123/http://thirstypig.com/2009/09/16/animal-los-angeles/
 draft: false
@@ -18,6 +17,8 @@ location: Animal
 city: Los Angeles
 region: Hollywood
 address: 435 N Fairfax Ave Los Angeles, CA 90036
+cuisine:
+- American
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Favorites from Old Country Cafe
+title: Old Country Cafe, unknown
 pubDate: '2009-10-04'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -17,16 +17,18 @@ images:
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0019.JPG
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0021.JPG
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0025.JPG
-categories:
-- San Gabriel Valley
-- Taiwanese
+categories: []
 tags:
-- LA's San Gabriel Valley
+- taiwanese
+- rice-bowls
+- fried-chicken
 description: Old Country Cafe, also known as 老鄉親, has been serving Taiwanese comfort dishes for almost two decades, maybe longer. Anyways. . . I love this place.
 archiveUrl: https://web.archive.org/web/20110105231945/http://www.thethirstypig.com/2009/10/04/taiwanese-favorites-from-old-country-cafe/
 draft: false
 location: Taiwanese Favorites from Old Country Cafe
 region: San Gabriel Valley
+cuisine:
+- Taiwanese
 ---
 
 Old Country Cafe, also known as 老鄉親, has been serving Taiwanese comfort dishes for almost two decades, maybe longer. Anyways. . . I love this place.

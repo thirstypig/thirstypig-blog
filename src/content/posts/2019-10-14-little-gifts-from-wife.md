@@ -8,16 +8,11 @@ heroImage: /images/posts/ig-2019-10-14-little-gifts-from-wife/17843514154731858.
 images:
 - /images/posts/ig-2019-10-14-little-gifts-from-wife/17843514154731858.jpg
 - /images/posts/ig-2019-10-14-little-gifts-from-wife/17868504445498923.jpg
-tags:
-- madrid
-- spain
-- espaã
-- oliveoil
-- desserts
-- wife
-- gifts
+tags: []
 description: Little gifts from wife. Wife went to Bordeaux and Madrid. Can’t wait to try it! . . . .
 location: Little gifts from wife
+categories: []
+cuisine: []
 ---
 
 ![Little gifts from wife](/images/posts/ig-2019-10-14-little-gifts-from-wife/17843514154731858.jpg)

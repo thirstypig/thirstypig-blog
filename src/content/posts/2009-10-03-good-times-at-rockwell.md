@@ -1,5 +1,5 @@
 ---
-title: 'Good Times at Rockwell, Los Feliz'
+title: Rockwell, Los Feliz
 pubDate: '2009-10-03'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -11,22 +11,19 @@ images:
 - /images/posts/good-times-at-rockwell/IMG_0915.JPG
 - /images/posts/good-times-at-rockwell/IMG_0925.JPG
 - /images/posts/good-times-at-rockwell/IMG_0926.JPG
-categories:
-- American
-- $$
-- Cocktail
-- Los Feliz
-- Lounge
-- 3 pigs
-- Central LA
+categories: []
 tags:
-- LA's Los Feliz
+- los-feliz
+- cocktails
+- lounge
 description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
 archiveUrl: https://web.archive.org/web/20110106014934/http://www.thethirstypig.com/2009/10/03/good-times-at-rockwell/
 draft: false
 location: Rockwell
 city: Los Feliz
 region: Central LA
+cuisine:
+- Cocktails
 ---
 
 The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a lounge in the back.

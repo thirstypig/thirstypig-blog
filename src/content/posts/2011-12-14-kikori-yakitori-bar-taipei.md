@@ -4,12 +4,7 @@ pubDate: '2011-12-14'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/14/kikori-yakitori-bar-taipei/
-categories:
-- 3 pigs
-- Japanese
-- Price Range 3 $/¥/NT
-- Yakitori
-- Taipei
+categories: []
 description: On a recent trip to Taipei, I got a chance to visit 樵 きこり Kikori Yakitori Bar. Located in the Da An district of Taipei, Kikori sits on an unassuming little street, with a barely noticeable sign.
 archiveUrl: https://web.archive.org/web/20120116074008/http://www.thethirstypig.com:80/2011/12/14/kikori-yakitori-bar-taipei/
 draft: false
@@ -17,6 +12,12 @@ location: 樵 きこり Kikori Yakitori Bar
 city: Taipei
 region: Taipei
 address: 38 Dongfeng St
+tags:
+- taipei
+- japanese
+- yakitori
+cuisine:
+- Japanese
 ---
 
 On a recent trip to Taipei, I got a chance to visit 樵 きこり Kikori Yakitori Bar. Located in the Da An district of Taipei, Kikori sits on an unassuming little street, with a barely noticeable sign.

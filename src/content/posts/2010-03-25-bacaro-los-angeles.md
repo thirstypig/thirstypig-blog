@@ -4,15 +4,11 @@ pubDate: '2010-03-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/25/bacaro-los-angeles/
-categories:
-- Dtla
-- Los Angeles
-- Downtown LA
+categories: []
 tags:
-- Bar
-- Beer
-- Los Angeles
-- Wine
+- los-angeles
+- cocktails
+- wine
 description: Bacaro’s been around for a couple of years as a quiet but cool winebar. Perhaps its because I don’t enjoy wine, is why I didn’t look for it. But lately, I have been more daring and wanting to try more
 archiveUrl: https://web.archive.org/web/20160829102516/http://thirstypig.com/2010/03/25/bacaro-los-angeles/
 draft: false
@@ -22,6 +18,8 @@ region: Downtown LA
 address: '2308 S Union Ave
 
   Los Angeles, CA 90007'
+cuisine:
+- Cocktails
 ---
 
 

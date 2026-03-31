@@ -7,14 +7,13 @@ originalUrl: http://www.thethirstypig.com/2011/02/20/saint-sophia-cathedral-in-h
 heroImage: /images/posts/saint-sophia-cathedral-in-harbin/Saint-Sophia-Cathedral-Harbin-14-88x88.jpg
 images:
 - /images/posts/saint-sophia-cathedral-in-harbin/Saint-Sophia-Cathedral-Harbin-14-88x88.jpg
-categories:
-- 2 pigs
-tags:
-- Harbin
+categories: []
+tags: []
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144414/http://www.thethirstypig.com/2011/02/20/saint-sophia-cathedral-in-harbin/
 draft: false
 location: Saint Sophia Cathedral in Harbin
+cuisine: []
 ---
 
 Saint Sophia Cathedral in Harbin is the single most impressive building in Harbin. Though there are other interesting buildings and structures – permanent or temporary – Saint Sophia still stands tall.

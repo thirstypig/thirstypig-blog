@@ -1,5 +1,5 @@
 ---
-title: Shabu Shabu at Kagaya
+title: Kagaya, Little Tokyo
 pubDate: '2022-04-09'
 author: The Thirsty Pig
 source: instagram
@@ -13,17 +13,8 @@ images:
 - /images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17926962116081502.jpg
 - /images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17898048503509610.jpg
 tags:
-- kagaya
-- littletokyo
-- dtla
-- japanesefood
-- wagyu
-- beef
-- shabushabu
-- shabux2
-- shabu
-- hotpot
-description: 'Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right after. . . . . .'
+- little-tokyo
+description: Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right after. . . . . .
 location: Kagaya
 city: Little Tokyo
 region: Los Angeles
@@ -31,6 +22,7 @@ address: 418 E 2nd St, Los Angeles, CA 90012
 coordinates:
   lat: 34.04696
   lng: -118.238625
+categories: []
 ---
 
 ![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18045032158324153.jpg)

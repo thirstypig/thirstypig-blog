@@ -1,5 +1,5 @@
 ---
-title: 'Dama Fashion District, Downtown LA'
+title: Dama, Los Angeles
 pubDate: '2019-04-14'
 author: The Thirsty Pig
 source: instagram
@@ -17,26 +17,21 @@ images:
 - /images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/18030125425090384.jpg
 - /images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/17989706071210638.jpg
 tags:
-- eeeeeats
-- brushetta
-- clams
-- potatoes
-- mexicancorn
-- prawns
-- empanadas
 - dtla
-- dtlafashiondistrict
-- thirstypig
-description: 'Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight. .'
+- peruvian
+- seafood
+- empanadas
+description: Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight. .
 location: Dama Fashion District
 city: Downtown LA
-categories:
-- fashion district
+categories: []
 region: Los Angeles
 address: 612 E 11th St, Los Angeles, CA 90015
 coordinates:
   lat: 34.035199
   lng: -118.253182
+cuisine:
+- Peruvian
 ---
 
 ![Eating at the bar at Dama in DTLA, fashion district](/images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/17979127720233083.jpg)

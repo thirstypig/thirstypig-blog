@@ -1,5 +1,5 @@
 ---
-title: 'Smorgasburg Los Angeles, Los Angeles'
+title: Smorgasburg Los Angeles, Los Angeles
 pubDate: '2019-04-15'
 author: The Thirsty Pig
 source: instagram
@@ -16,16 +16,10 @@ images:
 - /images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17975095348246309.jpg
 - /images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17872064959351017.jpg
 tags:
-- tobin
-- jarren
-- food
-- sunday
-- dtla
-- iphonex
-- iphonephotography
-- foodporn
-- eeeeeats
-- yummy
+- los-angeles
+- multi
+- bbq
+- arepas
 description: 'Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from Avocado Mama, Fries from Super Frites, oysters from the Jolly Oyster, Spam Musubi from Mam Musubi. And also saw Brazilian brigadiero from Maya’s Yum! 📸: . missing'
 location: Smorgasburg Los Angeles
 city: Los Angeles
@@ -34,6 +28,9 @@ address: 777 S Alameda St (at Center St), Los Angeles, CA 90021
 coordinates:
   lat: 34.034807
   lng: -118.24184
+categories: []
+cuisine:
+- Multi
 ---
 
 ![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17937880822302179.jpg)

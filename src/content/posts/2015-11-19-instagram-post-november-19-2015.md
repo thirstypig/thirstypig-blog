@@ -7,6 +7,9 @@ draft: false
 heroImage: /images/posts/ig-2015-11-19-instagram-post-november-19-2015/17842722598125372.jpg
 images:
 - /images/posts/ig-2015-11-19-instagram-post-november-19-2015/17842722598125372.jpg
+cuisine: []
+tags: []
+categories: []
 ---
 
 ![Instagram Post — November 19, 2015](/images/posts/ig-2015-11-19-instagram-post-november-19-2015/17842722598125372.jpg)

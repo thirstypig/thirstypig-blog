@@ -4,10 +4,12 @@ pubDate: '2011-08-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/
-categories:
-- Bangkok
+categories: []
 tags:
-- Thai
+- bangkok
+- thai
+- curry
+- noodles
 description: When you greeted by the beautiful hostesses at Naj and shown to your table in the white motif’d dining room, the feeling of elegance.
 archiveUrl: https://web.archive.org/web/20161104212846/http://thirstypig.com/2011/08/18/naj-exquisite-thai-cuisine-bangkok/
 draft: false
@@ -15,6 +17,8 @@ location: Naj Exquisite Thai Cuisine
 city: Bangkok
 region: Bangkok
 address: 42 Convent Road
+cuisine:
+- Thai
 ---
 
 

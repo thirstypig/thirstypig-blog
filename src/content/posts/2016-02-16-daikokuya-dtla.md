@@ -1,5 +1,5 @@
 ---
-title: Daikokuya, DTLA
+title: Daikokuya, Dtla
 pubDate: '2016-02-16'
 author: The Thirsty Pig
 source: thirstypig.com
@@ -7,14 +7,11 @@ originalUrl: http://thirstypig.com/2016/02/16/daikokuya-dtla/
 heroImage: /images/posts/daikokuya-dtla/IMG_2229.jpg
 images:
 - /images/posts/daikokuya-dtla/IMG_2229.jpg
-categories:
-- Dtla
-- Downtown LA
+categories: []
 tags:
-- Dtla
-- Japanese
-- Los Angeles
-- Ramen
+- dtla
+- japanese
+- ramen
 description: Daikokuya has the best ramen in Downtown Los Angeles. You’ll see crowds waiting for a table or a stool.
 archiveUrl: https://web.archive.org/web/20160915042605/http://thirstypig.com/2016/02/16/daikokuya-dtla/
 draft: false
@@ -22,6 +19,8 @@ location: Daikokuya
 city: Dtla
 region: Downtown LA
 address: 327 East 1st St
+cuisine:
+- Japanese
 ---
 
 [![IMG_2229](/images/posts/daikokuya-dtla/IMG_2229.jpg "IMG_2229")](http://thirstypig.com/2016/02/16/daikokuya-dtla/img_2229/)

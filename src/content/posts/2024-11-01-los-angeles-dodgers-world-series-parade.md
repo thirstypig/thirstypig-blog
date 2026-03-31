@@ -1,5 +1,5 @@
 ---
-title: Los Angeles Dodgers World Series parade
+title: Los Angeles Theatre, Los Angeles
 pubDate: '2024-11-01'
 author: The Thirsty Pig
 source: instagram
@@ -10,21 +10,11 @@ images:
 - /images/posts/ig-2024-11-01-los-angeles-dodgers-world-series-parade/18153189685331404.jpg
 - /images/posts/ig-2024-11-01-los-angeles-dodgers-world-series-parade/17877813234188750.jpg
 tags:
-- losangeles
-- dodgers
-- kobe824
-- worldseries
-- worldserieschamps
-- parade
-- ilovela
-- dodgers
-- itfdb
-- baseball
+- los-angeles
 description: Los Angeles Dodgers World Series parade!8th World Series - 2024 Champs! 7 buses of champions! . . .
 location: Los Angeles Theatre
 city: Los Angeles
-categories:
-- Los Angeles
+categories: []
 address: 615 S Broadway (btwn 6th & 7th), Los Angeles, CA 90014
 coordinates:
   lat: 34.046397

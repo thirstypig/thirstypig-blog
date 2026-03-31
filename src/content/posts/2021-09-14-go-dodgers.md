@@ -9,16 +9,11 @@ images:
 - /images/posts/ig-2021-09-14-go-dodgers/17960752738478883.jpg
 - /images/posts/ig-2021-09-14-go-dodgers/17856101786606248.jpg
 - /images/posts/ig-2021-09-14-go-dodgers/17964529621459405.jpg
-tags:
-- itfdb
-- homerunseats
-- homerunseats
-- baseball
-- dodgerstadium
-- modelo
-- michelada
+tags: []
 description: Go Dodgers! . . . . .
 location: Go Dodgers
+categories: []
+cuisine: []
 ---
 
 ![Go Dodgers](/images/posts/ig-2021-09-14-go-dodgers/17960752738478883.jpg)

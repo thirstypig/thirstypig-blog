@@ -1,16 +1,10 @@
 ---
-title: Meet, Kerry Hotel, Shanghai
+title: Kerry Hotel Pudong, Shanghai (上海浦东嘉里大酒店), Shanghai
 pubDate: '2011-12-27'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/27/meet-kerry-hotel-shanghai/
-categories:
-- 2 pigs
-- hotel
-- Price Range 3 $/¥/NT
-- Seafood
-- Steak
-- Shanghai
+categories: []
 description: Where did the Thirsty Pig go? The Thirsty one and his friends went to the Meet at the Kerry Hotel. It was a invited dinner to try their Tomahawk Steak. The Kerry Hotel, just opened in 2010, is the lat
 archiveUrl: https://web.archive.org/web/20120113085740/http://www.thethirstypig.com:80/2011/12/27/meet-kerry-hotel-shanghai/
 draft: false
@@ -21,6 +15,13 @@ address: 1388 Huamu Rd (at Fangdian Rd), 浦东, 上海市, 201204
 coordinates:
   lat: 31.21539
   lng: 121.559291
+tags:
+- shanghai
+- seafood
+- steak
+- tomahawk
+cuisine:
+- Seafood
 ---
 
 **Where did the Thirsty Pig go?**

@@ -1,5 +1,5 @@
 ---
-title: 'Last night in NYC, New York'
+title: Ashley's Last Night In NYC, New York
 pubDate: '2018-01-08'
 author: The Thirsty Pig
 source: instagram
@@ -15,15 +15,10 @@ images:
 - /images/posts/ig-2018-01-08-last-night-in-nyc/17918473951016629.jpg
 - /images/posts/ig-2018-01-08-last-night-in-nyc/17905204441111088.jpg
 tags:
-- lamb
-- chicken
-- foiegras
-- lobster
-- lecoucou
 - nyc
-- soho
-- frenchdining
-- thirstypig
+- french
+- foie-gras
+- lobster
 description: Last night in NYC. had the chicken & foie gras, lamb chop, and lobster
 location: Ashley's Last Night In NYC
 city: New York
@@ -32,6 +27,9 @@ address: New York, NY
 coordinates:
   lat: 40.779758
   lng: -73.949879
+categories: []
+cuisine:
+- French
 ---
 
 ![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17889966739165003.jpg)

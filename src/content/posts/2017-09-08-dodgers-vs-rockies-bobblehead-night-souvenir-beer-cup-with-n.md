@@ -1,5 +1,5 @@
 ---
-title: 'Dodgers vs Rockies bobblehead night souvenir beer cup with need more h'
+title: Dodger Stadium, Los Angeles
 pubDate: '2017-09-08'
 author: The Thirsty Pig
 source: instagram
@@ -14,13 +14,11 @@ images:
 - /images/posts/ig-2017-09-08-dodgers-vs-rockies-bobblehead-night-souvenir-beer-cup-with-n/17858031547194009.jpg
 - /images/posts/ig-2017-09-08-dodgers-vs-rockies-bobblehead-night-souvenir-beer-cup-with-n/17897364589050900.jpg
 tags:
-- homerun
-- stellacidre
-- dodgers
-- mlbmemories
-- dodgerstadium
-- thirstypig
+- beer
+- hard-cider
 description: Dodgers vs Rockies bobblehead night souvenir beer cup with need more hard cider at Dodger Stadium Almost got a T-shirt. Used a free iPhone charger from Spectrum
+categories: []
+cuisine: []
 ---
 
 ![Dodgers vs Rockies bobblehead night souvenir beer cup with need more h...](/images/posts/ig-2017-09-08-dodgers-vs-rockies-bobblehead-night-souvenir-beer-cup-with-n/17897390575030900.jpg)

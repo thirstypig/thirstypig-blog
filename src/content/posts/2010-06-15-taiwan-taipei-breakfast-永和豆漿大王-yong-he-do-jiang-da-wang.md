@@ -1,5 +1,5 @@
 ---
-title: A Taipei Breakfast at 永和豆漿大王 Yong He Do Jiang Da Wang
+title: 永和豆漿大王 Yong He Do Jiang Da Wang, Taipei
 pubDate: '2010-06-15'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -18,15 +18,12 @@ images:
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-7-88x88.jpg
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-8-88x88.jpg
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-9-88x88.jpg
-categories:
-- 1 pig
-- Breakfast
-- Price Range $/¥/NT
-- Taiwanese
-- Taipei
+categories: []
 tags:
-- Da'an District 台北大安區
-- Taipei 台北
+- taipei
+- taiwanese
+- breakfast
+- soy-milk
 description: Great for breakfast and late night urges, Yong He Da Wang seems to also have a steady flow of hungry customers at all hours. Even in the afternoon, such as the time when I went, there was a small crow
 archiveUrl: https://web.archive.org/web/20110105070007/http://www.thethirstypig.com/2010/06/15/taiwan-taipei-breakfast-%e6%b0%b8%e5%92%8c%e8%b1%86%e6%bc%bf%e5%a4%a7%e7%8e%8b-yong-he-do-jiang-da-wang/
 draft: false
@@ -34,6 +31,8 @@ location: 永和豆漿大王 Yong He Do Jiang Da Wang
 city: Taipei
 region: Taipei
 address: 102 Fuxing South Road
+cuisine:
+- Taiwanese
 ---
 
 Great for breakfast and late night urges, Yong He Da Wang seems to also have a steady flow of hungry customers at all hours. Even in the afternoon, such as the time when I went, there was a small crowd waiting for tables.

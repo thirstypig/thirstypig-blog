@@ -1,13 +1,15 @@
 ---
-title: 21 Cake, Shanghai
+title: 21 cake | 廿一客, Shanghai
 pubDate: '2012-03-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/14/21-cake-shanghai/
-categories:
-- Shanghai
+categories: []
 tags:
-- Dessert
+- shanghai
+- bakery
+- cake
+- dessert
 description: <http://thirstypig.com/wp-content/uploads/2012/03/IMG2090.m4v>http://thirstypig.com/wp-content/uploads/2012/03/IMG2090.m4v?=1
 archiveUrl: https://web.archive.org/web/20161105193820/http://thirstypig.com/2012/03/14/21-cake-shanghai/
 draft: false
@@ -18,6 +20,8 @@ address: 1/F, 200 Huayuangang Road | 花园港路200号当代艺术馆1楼 (Miao
 coordinates:
   lat: 31.202891
   lng: 121.494498
+cuisine:
+- Bakery
 ---
 
 

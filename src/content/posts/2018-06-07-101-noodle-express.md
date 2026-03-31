@@ -1,5 +1,5 @@
 ---
-title: '101 Noodle Express, Irvine'
+title: Capital Noodle Bar, Irvine
 pubDate: '2018-06-07'
 author: The Thirsty Pig
 source: instagram
@@ -11,9 +11,8 @@ images:
 - /images/posts/ig-2018-06-07-101-noodle-express/17945392723079793.jpg
 tags:
 - irvine
-- oc
-- 101noodleexpress
-- eeeeeats
+- chinese
+- noodles
 description: 101 Noodle Express. Dinner with family in the OC
 location: Capital Noodle Bar
 city: Irvine
@@ -22,6 +21,9 @@ address: 3850 Barranca Pkwy Ste E (Barranca and Culver), Irvine, CA 92606
 coordinates:
   lat: 33.68419
   lng: -117.811743
+categories: []
+cuisine:
+- Chinese
 ---
 
 ![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17889023413223345.jpg)

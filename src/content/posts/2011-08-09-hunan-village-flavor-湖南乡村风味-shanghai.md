@@ -1,15 +1,14 @@
 ---
-title: Hunan Village Flavor 湖南乡村风味, Shanghai
+title: Guyi Hunan Restaurant (古意湘味浓), Shanghai
 pubDate: '2011-08-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/09/hunan-village-flavor-%e6%b9%96%e5%8d%97%e4%b9%a1%e6%9d%91%e9%a3%8e%e5%91%b3-shanghai/
-categories:
-- Xuhui
-- Shanghai
+categories: []
 tags:
-- Hunan
-- Spicy
+- shanghai
+- chinese
+- hunan
 description: When you’re at the new restaurant, and its up to you to order since you are known to be the expect foodie, aside from the heavy pressure, I always try a few of things to make sure our group gets the b
 archiveUrl: https://web.archive.org/web/20161105100227/http://thirstypig.com/2011/08/09/hunan-village-flavor-%e6%b9%96%e5%8d%97%e4%b9%a1%e6%9d%91%e9%a3%8e%e5%91%b3-shanghai/
 draft: false
@@ -20,6 +19,8 @@ address: 1618 Nanjing W Rd  | 南京西路1618号 (8/F Joinbuy City Plaza | 久
 coordinates:
   lat: 31.225927
   lng: 121.441322
+cuisine:
+- Chinese
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-title: 'Texas Toast, smoked octopus, beef brisket, beans, San...'
+title: Texas Toast, San Antonio
 pubDate: '2017-03-29'
 author: The Thirsty Pig
 source: instagram
@@ -17,13 +17,17 @@ images:
 - /images/posts/ig-2017-03-29-texas-toast-smoked-octopus-beef-brisket-beans-homemade-root/17853465631145422.jpg
 - /images/posts/ig-2017-03-29-texas-toast-smoked-octopus-beef-brisket-beans-homemade-root/17876545816044547.jpg
 tags:
-- sanantonio
+- san-antonio
+- bbq
+- brisket
+- smoked-octopus
 description: Texas Toast, smoked octopus, beef brisket, beans, homemade root beer
 location: Texas Toast, smoked octopus, beef brisket, beans
-categories:
-- homemade root beer
+categories: []
 city: San Antonio
 region: Texas
+cuisine:
+- BBQ
 ---
 
 ![Texas Toast, smoked octopus, beef brisket, beans, homemade root beer](/images/posts/ig-2017-03-29-texas-toast-smoked-octopus-beef-brisket-beans-homemade-root/17876201263044030.jpg)

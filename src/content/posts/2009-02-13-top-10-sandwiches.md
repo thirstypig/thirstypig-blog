@@ -7,13 +7,15 @@ originalUrl: http://www.thethirstypig.com/2009/02/13/top-10-sandwiches/
 heroImage: /images/posts/top-10-sandwiches/060829_blt_hmed_8a.hmedium.jpg
 images:
 - /images/posts/top-10-sandwiches/060829_blt_hmed_8a.hmedium.jpg
-categories:
-- American
-- Sandwich
+categories: []
 description: I saw this article and I knew I had to repost it here on the blog. I love the sandwich. The simple handheld meal. As some of you know, I have been on a quest to find a great Tuna Steak Sandwich. Anywa
 archiveUrl: https://web.archive.org/web/20110105094043/http://www.thethirstypig.com/2009/02/13/top-10-sandwiches/
 draft: false
 location: Top 10 Sandwiches
+tags:
+- sandwiches
+- tuna
+cuisine: []
 ---
 
 I saw this article and I knew I had to repost it here on the blog. I love the sandwich. The simple handheld meal. As some of you know, I have been on a quest to find a great Tuna Steak Sandwich. Anyways. .. I hope you enjoy the article.

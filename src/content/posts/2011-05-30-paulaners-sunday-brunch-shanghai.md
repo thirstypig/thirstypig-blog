@@ -1,5 +1,5 @@
 ---
-title: Paulaner’s Sunday Brunch, Shanghai
+title: Paulaner, Shanghai
 pubDate: '2011-05-30'
 author: The Thirsty Pig
 source: thethirstypig.com
@@ -7,13 +7,7 @@ originalUrl: http://www.thethirstypig.com/2011/05/30/paulaners-sunday-brunch-sha
 heroImage: /images/posts/paulaners-sunday-brunch-shanghai/Paulner-Brunch-Shanghai-04-494x327.jpg
 images:
 - /images/posts/paulaners-sunday-brunch-shanghai/Paulner-Brunch-Shanghai-04-494x327.jpg
-categories:
-- 2 pigs
-- Breakfast
-- Brunch
-- German
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: Paulaner, Xintiandi 太仓路181号, 新天地北里, 近马当路 House 19-20, North Block Xintiandi, Lane 181 Taicang Road, 200021 Shanghai CHNhttp://maps.google.com/maps/place?cid=15403504959748163525&q=xintiandi&hl=en&sll=
 archiveUrl: https://web.archive.org/web/20111104222815/http://www.thethirstypig.com/2011/05/30/paulaners-sunday-brunch-shanghai/
 draft: false
@@ -21,6 +15,13 @@ location: Paulaner’s Sunday Brunch
 city: Shanghai
 region: Shanghai
 address: 181 Taicang Road
+tags:
+- shanghai
+- german
+- brunch
+- beer
+cuisine:
+- German
 ---
 
 Paulaner, Xintiandi

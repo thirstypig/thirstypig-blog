@@ -1,5 +1,5 @@
 ---
-title: An Okinawan lunch at Habuya in Tustin, CA
+title: Habuya, Tustin
 pubDate: '2017-11-09'
 author: The Thirsty Pig
 source: instagram
@@ -14,18 +14,14 @@ images:
 - /images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17883633106136785.jpg
 - /images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17906973532000140.jpg
 tags:
-- okinawa
-- okinawanfood
-- japan
 - japanese
-- japanesefood
 - udon
-- noodles
-- porkbelly
-- poachedegg
-- oc
-description: 'An Okinawan lunch at Habuya in Tustin, CA. Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating. The pork belly with poached egg is as decadent as it looks. But the rice was cooked with too much water - too sticky. Next time I’m gonna try the ramen.'
+- katsu
+description: An Okinawan lunch at Habuya in Tustin, CA. Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating. The pork belly with poached egg is as decadent as it looks. But the rice was cooked with too much water - too sticky. Next time I’m gonna try the ramen.
 location: An Okinawan lunch at Habuya in Tustin
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![An Okinawan lunch at Habuya in Tustin, CA](/images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17901288130064844.jpg)

@@ -1,21 +1,23 @@
 ---
-title: First Floor Restaurant 老街第一楼, Huangshan
+title: First Floor Restaurant 老街第一楼, Beijing
 pubDate: '2011-12-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/08/first-floor-restaurant-huangshan/
-categories:
-- 2 pigs
-- Anhui Cuisine
-- Chinese
-- Price Range 2 $/¥/NT
-- Huangshan
+categories: []
 description: The First Floor Restaurant 老街第一楼, located in the historic Old Street, in the TunXi district of Huangshan city, is arguably the most popular restaurant in town. On a recent trip to see the famed Huangs
 archiveUrl: https://web.archive.org/web/20120116091452/http://www.thethirstypig.com:80/2011/12/08/first-floor-restaurant-huangshan/
 draft: false
 location: First Floor Restaurant 老街第一楼
 city: Beijing
 region: Beijing
+tags:
+- beijing
+- chinese
+- local-cuisine
+- regional-dishes
+cuisine:
+- Chinese
 ---
 
 The First Floor Restaurant 老街第一楼, located in the historic Old Street, in the TunXi district of Huangshan city, is arguably the most popular restaurant in town. On a recent trip to see the famed [Huangshan (Yellow Mountain)](http://www.thethirstypig.com/2011/10/10/huangshan-黄山/), we spent a day in the nearby town to check out the local sights.

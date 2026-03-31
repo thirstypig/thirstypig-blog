@@ -1,5 +1,5 @@
 ---
-title: 'Porchetta Sandwich at A tasty sandwich, Anaheim'
+title: The Kroft, Anaheim
 pubDate: '2017-12-24'
 author: The Thirsty Pig
 source: instagram
@@ -10,20 +10,17 @@ images:
 - /images/posts/ig-2017-12-24-porchetta-sandwich-at-a-tasty-sandwich/17913977998000196.jpg
 - /images/posts/ig-2017-12-24-porchetta-sandwich-at-a-tasty-sandwich/17906128954076119.jpg
 tags:
-- pullbackthecurtain
-- stillonthefence
-- thirstypig
-- mayormaynotreturn
-- tasty
+- anaheim
+- italian
 - porchetta
-- pork
-- crispy
-- poutine
-- fries
-description: 'Porchetta Sandwich at A tasty sandwich. But was a little disappointed in how they prepared it. I though they were going to pull out a large chunk of the rolled porchetta and have a big slice for my sandwich - instead it was chopped pork from a warming container. I expected bold flavors from the spice rub, yet was overwhelmed by green chutney. Right before they closed the sandwich, they added chopped pieces of the chicarrons/pork skin. If I didn’t I would have been more than happy. Then we also shared the cheeseburger poutine. The kids loved it. I wish they chopped the burger patty, like I asked them to.'
+- sandwich
+description: Porchetta Sandwich at A tasty sandwich. But was a little disappointed in how they prepared it. I though they were going to pull out a large chunk of the rolled porchetta and have a big slice for my sandwich - instead it was chopped pork from a warming container. I expected bold flavors from the spice rub, yet was overwhelmed by green chutney. Right before they closed the sandwich, they added chopped pieces of the chicarrons/pork skin. If I didn’t I would have been more than happy. Then we also shared the cheeseburger poutine. The kids loved it. I wish they chopped the burger patty, like I asked them to.
 location: The Kroft
 city: Anaheim
 region: Orange County
+categories: []
+cuisine:
+- Italian
 ---
 
 ![Porchetta Sandwich at A tasty sandwich](/images/posts/ig-2017-12-24-porchetta-sandwich-at-a-tasty-sandwich/17905828483077351.jpg)

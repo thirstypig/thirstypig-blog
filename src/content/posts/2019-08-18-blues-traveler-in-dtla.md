@@ -1,5 +1,5 @@
 ---
-title: 'Blues Traveler in DTLA, Downtown LA'
+title: Row Dtla, Downtown LA
 pubDate: '2019-08-18'
 author: The Thirsty Pig
 source: instagram
@@ -8,13 +8,7 @@ heroImage: /images/posts/ig-2019-08-18-blues-traveler-in-dtla/17849594749553529.
 images:
 - /images/posts/ig-2019-08-18-blues-traveler-in-dtla/17849594749553529.jpg
 tags:
-- pershingpark
 - dtla
-- freeconcert
-- johnpopper
-- harmonica
-- summerconcert
-- music
 description: Blues Traveler in DTLA. Summer concerts at Pershing Park. . . . .
 location: Row Dtla
 city: Downtown LA
@@ -23,6 +17,8 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
+categories: []
+cuisine: []
 ---
 
 ![Blues Traveler in DTLA](/images/posts/ig-2019-08-18-blues-traveler-in-dtla/17849594749553529.jpg)

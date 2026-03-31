@@ -1,15 +1,15 @@
 ---
-title: TMSK. Shanghai XinTianDi 新天地
+title: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店), Shanghai
 pubDate: '2010-07-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/
-categories:
-- Luwan
-- Shanghai
+categories: []
 tags:
-- Bar
-- Cantonese
+- shanghai
+- chinese
+- modern-chinese
+- dim-sum
 description: Opulence is the word that I would choose in describing modern Chinese cuisine and interior restaurant decor. Fabulous, flashy, glamorous, bold, exciting, intriguing, are other words I would pick. TMSK
 archiveUrl: https://web.archive.org/web/20161018195425/http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/
 draft: false
@@ -20,6 +20,8 @@ address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216
   lng: 121.46526
+cuisine:
+- Chinese
 ---
 
 

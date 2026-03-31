@@ -1,5 +1,5 @@
 ---
-title: 'Kemuri Tatsu-Ya, Austin'
+title: Kemuri Tatsu-Ya, Austin
 pubDate: '2017-06-03'
 author: The Thirsty Pig
 source: instagram
@@ -17,21 +17,17 @@ images:
 - /images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17883319744018799.jpg
 - /images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17860500790132497.jpg
 tags:
-- kemuritatsu_ya
-- japanese
-- atx
-- restaurant
-- food
+- austin
+- fusion
 - izakaya
-- chicken
-- rice
-description: 'Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese and brisket) are recommended. No need to order the Tamale (sticky rice with beef tongue) and chicken meat ball - both ok, nothing to write home about.'
+- octopus
+description: Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more tender than usual Japanese restaurants. The fried rice ball, street corn, soft shell crab, Hot Pocketz (with Gouda cheese and brisket) are recommended. No need to order the Tamale (sticky rice with beef tongue) and chicken meat ball - both ok, nothing to write home about.
 region: Texas
-categories:
-- Oc
-- Orange County
+categories: []
 location: Kemuri Tatsu-Ya
 city: Austin
+cuisine:
+- Fusion
 ---
 
 ![Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more...](/images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17857889098181367.jpg)

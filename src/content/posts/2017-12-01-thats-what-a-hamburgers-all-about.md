@@ -1,5 +1,5 @@
 ---
-title: “That’s what a hamburger’s all about
+title: Thirsty Pig, Long Beach
 pubDate: '2017-12-01'
 author: The Thirsty Pig
 source: instagram
@@ -12,12 +12,15 @@ images:
 - /images/posts/ig-2017-12-01-thats-what-a-hamburgers-all-about/17869941667194437.jpg
 - /images/posts/ig-2017-12-01-thats-what-a-hamburgers-all-about/17887336942186607.jpg
 tags:
-- lbc
-- thirstypig
-- doubledouble
-- fries
+- long-beach
+- american
+- burgers
 description: “That’s what a hamburger’s all about!”
 location: “That’s what a hamburger’s all about
+categories: []
+city: Long Beach
+cuisine:
+- American
 ---
 
 ![“That’s what a hamburger’s all about](/images/posts/ig-2017-12-01-thats-what-a-hamburgers-all-about/17893658827085613.jpg)

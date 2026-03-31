@@ -22,17 +22,19 @@ images:
 - /images/posts/kyochon-chicken-pudong/IMG_3069-494x370.jpg
 - /images/posts/kyochon-chicken-pudong/IMG_3070-88x88.jpg
 - /images/posts/kyochon-chicken-pudong/KyoChon-客怡村-Chicken-1-88x88.jpg
-categories:
-- 1 pig
-- Chicken
-- Korean
-- Price Range $/¥/NT
-- Pudong District
-- PuDong
+categories: []
 description: Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. T
 archiveUrl: https://web.archive.org/web/20100903192334/http://www.thethirstypig.com:80/2010/08/05/kyochon-chicken-pudong/
 draft: false
 location: KyoChon Chicken
+tags:
+- pudong
+- korean
+- fried-chicken
+- spicy
+city: PuDong
+cuisine:
+- Korean
 ---
 
 Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. The fried oily goodness goes well with cold beer and the spicy hearty flavor, or lack of, is the consummate part of Korean cuisine.

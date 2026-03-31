@@ -16,12 +16,7 @@ images:
 - /images/posts/goga-shanghai/Goga-Shanghai-16-494x370.jpg
 - /images/posts/goga-shanghai/Goga-Shanghai-17-494x370.jpg
 - /images/posts/goga-shanghai/Goga-Shanghai-18-494x370.jpg
-categories:
-- 3 pigs
-- American
-- Hamburgers
-- Price Range 2 $/¥/NT
-- Shanghai
+categories: []
 description: The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine cul
 archiveUrl: https://web.archive.org/web/20111011065029/http://www.thethirstypig.com/2011/08/29/goga-shanghai/
 draft: false
@@ -32,6 +27,12 @@ address: 1 Yueyang Rd. (at Dongping Rd.), 上海市, 上海市
 coordinates:
   lat: 31.210292
   lng: 121.447232
+tags:
+- shanghai
+- fusion
+- american
+cuisine:
+- Fusion
 ---
 
 The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine culinary dining from Japan, Italy, France, as well as regional Chinese and with Goga, we see (and taste) decent American food.

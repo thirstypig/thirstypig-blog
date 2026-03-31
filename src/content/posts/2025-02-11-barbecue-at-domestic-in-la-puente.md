@@ -1,5 +1,5 @@
 ---
-title: 'Barbecue at Domestic in La Puente, Los Angeles'
+title: Domestic, Los Angeles
 pubDate: '2025-02-11'
 author: The Thirsty Pig
 source: instagram
@@ -13,20 +13,12 @@ images:
 - /images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17981456978798644.jpg
 - /images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17882279376234272.jpg
 tags:
-- barbecue
-- barbeque
-- bbq
-- thirstypig
-- eats
-- eeeeeats
-- lapuente
-- southerncaliforniabbq
-- brisket
-- sausage
-description: 'Unfortunately, I can''t recommend this place. But I would give it another chance to see if they would either improve or if today was an off day. Its too bad, since you see the big in the back - so one of think they know what they are doing. . . . .'
+- los-angeles
+description: Unfortunately, I can't recommend this place. But I would give it another chance to see if they would either improve or if today was an off day. Its too bad, since you see the big in the back - so one of think they know what they are doing. . . . .
 location: Domestic
 city: Los Angeles
 region: Los Angeles
+categories: []
 ---
 
 ![Barbecue at Domestic in La Puente](/images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17969206526833173.jpg)

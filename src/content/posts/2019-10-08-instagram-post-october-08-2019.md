@@ -1,5 +1,5 @@
 ---
-title: 'San Gabriel Valley'
+title: San Gabriel Valley
 pubDate: '2019-10-08'
 author: The Thirsty Pig
 source: instagram
@@ -13,17 +13,13 @@ images:
 - /images/posts/ig-2019-10-08-instagram-post-october-08-2019/17852193484610437.jpg
 - /images/posts/ig-2019-10-08-instagram-post-october-08-2019/17865206446510608.jpg
 tags:
-- ramen
 - sgv
-- arcadia
-- noodles
-- tonkatsuramen
-- thirstypig
-- japanesefood
-- nippon
+- ramen
 description: . Ramen! . . . . .
 city: San Gabriel Valley
 region: San Gabriel Valley
+categories: []
+cuisine: []
 ---
 
 ![Instagram Post — October 08, 2019](/images/posts/ig-2019-10-08-instagram-post-october-08-2019/18080316382126550.jpg)

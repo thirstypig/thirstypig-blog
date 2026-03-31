@@ -1,16 +1,15 @@
 ---
-title: Half & Half, SGV
+title: Half & Half, San Gabriel Valley
 pubDate: '2009-11-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/11/half-half-sgv/
-categories:
-- SGV
-- Sgv
-- San Gabriel Valley
+categories: []
 tags:
-- Cafe
-- Taiwanese
+- sgv
+- coffee
+- boba
+- tea
 description: 'You don’t usually find guys at a tea house on a weekday afternoon. With my flexible schedule, I was able to invade this oasis usually reserved for the estrogen genders. There’s actually a lot of cute '
 archiveUrl: https://web.archive.org/web/20161105232231/http://thirstypig.com/2009/11/11/half-half-sgv/
 draft: false
@@ -18,6 +17,8 @@ location: Half & Half
 city: Sgv
 region: San Gabriel Valley
 address: 120 N San Gabriel Blvd St
+cuisine:
+- Coffee
 ---
 
 

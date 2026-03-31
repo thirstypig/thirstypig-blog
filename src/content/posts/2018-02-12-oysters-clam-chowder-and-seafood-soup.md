@@ -1,5 +1,5 @@
 ---
-title: 'Oysters, clam chowder, and seafood soup, San Francisco'
+title: Hog Island Oyster Co., San Francisco
 pubDate: '2018-02-12'
 author: The Thirsty Pig
 source: instagram
@@ -13,21 +13,21 @@ images:
 - /images/posts/ig-2018-02-12-oysters-clam-chowder-and-seafood-soup/17911184956111067.jpg
 - /images/posts/ig-2018-02-12-oysters-clam-chowder-and-seafood-soup/17893256245174940.jpg
 tags:
-- sf
-- thirstypig
+- san-francisco
 - seafood
-- clams
 - oysters
+- clam-chowder
 description: Oysters, clam chowder, and seafood soup
 location: Hog Island Oyster Co.
-categories:
-- and seafood soup
+categories: []
 city: San Francisco
 region: San Francisco
 address: '1 Ferry Bldg #11 (at The Embarcadero), San Francisco, CA 94111'
 coordinates:
   lat: 37.796009
   lng: -122.393577
+cuisine:
+- Seafood
 ---
 
 ![Oysters, clam chowder, and seafood soup](/images/posts/ig-2018-02-12-oysters-clam-chowder-and-seafood-soup/17898987214135480.jpg)

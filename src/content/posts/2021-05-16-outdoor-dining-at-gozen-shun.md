@@ -1,5 +1,5 @@
 ---
-title: 'Outdoor dining at Gozen Shun, Pasadena'
+title: Gozen Shun, Pasadena
 pubDate: '2021-05-16'
 author: The Thirsty Pig
 source: instagram
@@ -12,20 +12,16 @@ images:
 - /images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/18226549372014396.jpg
 tags:
 - pasadena
-- japanesefood
-- blackcod
-- tempura
-- karage
+- japanese
 - tonkatsu
-- eeeeeats
-- eats
-- thirstypig
+- tempura
 description: Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. Tonkatsu and miso Black Cod, with tempura and karage. . . . . .
 location: Gozen Shun
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
+cuisine:
+- Japanese
 ---
 
 ![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17908499326747509.jpg)

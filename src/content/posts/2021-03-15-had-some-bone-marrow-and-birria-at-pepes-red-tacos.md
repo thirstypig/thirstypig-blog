@@ -1,5 +1,5 @@
 ---
-title: Had some bone marrow and birria at Pepe’s red tacos
+title: Pepe’s Red Tacos, Pasadena
 pubDate: '2021-03-15'
 author: The Thirsty Pig
 source: instagram
@@ -11,24 +11,21 @@ images:
 - /images/posts/ig-2021-03-15-had-some-bone-marrow-and-birria-at-pepes-red-tacos/17900942656828866.jpg
 - /images/posts/ig-2021-03-15-had-some-bone-marrow-and-birria-at-pepes-red-tacos/17929464694508830.jpg
 tags:
-- birriatacos
-- bonemarrow
-- huesi
-- mexicanfood
+- pasadena
+- mexican
+- birria
 - tacos
-- tacotruck
-- eeeeeats
-- eats
-description: 'Had some bone marrow and birria at Pepe’s red tacos. Bone marrow at a taco truck. Awesome. The birria with the consume was also decadent and rich. So good. So glad they are in Pasadena. Special shout out to .nike for the intro! . . . . . .'
+description: Had some bone marrow and birria at Pepe’s red tacos. Bone marrow at a taco truck. Awesome. The birria with the consume was also decadent and rich. So good. So glad they are in Pasadena. Special shout out to .nike for the intro! . . . . . .
 location: Pepe’s Red Tacos
 city: Pasadena
 region: Pasadena
-categories:
-- Pasadena
+categories: []
 address: Pasadena, CA 91107
 coordinates:
   lat: 34.14633
   lng: -118.101993
+cuisine:
+- Mexican
 ---
 
 ![Had some bone marrow and birria at Pepe’s red tacos](/images/posts/ig-2021-03-15-had-some-bone-marrow-and-birria-at-pepes-red-tacos/17916530563609220.jpg)
