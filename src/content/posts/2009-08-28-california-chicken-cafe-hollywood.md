@@ -10,7 +10,8 @@ images:
 - /images/posts/california-chicken-cafe-hollywood/IMG_0651.jpg
 - /images/posts/california-chicken-cafe-hollywood/IMG_0653.jpg
 - /images/posts/california-chicken-cafe-hollywood/IMG_0654.jpg
-categories: []
+categories:
+- American
 tags:
 - hollywood
 - american

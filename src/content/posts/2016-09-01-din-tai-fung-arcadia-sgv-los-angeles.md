@@ -4,7 +4,8 @@ pubDate: '2016-09-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/09/01/din-tai-fung-arcadia-sgv-los-angeles/
-categories: []
+categories:
+- Chinese
 tags:
 - arcadia
 - chinese

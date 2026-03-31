@@ -9,7 +9,8 @@ images:
 - /images/posts/the-temple-in-the-sky-at-lost-heaven-on-the-bund-shanghai/Lost-Heaven-1-Front-Door-225x300.jpg
 - /images/posts/the-temple-in-the-sky-at-lost-heaven-on-the-bund-shanghai/Lost-Heaven-11-statue-185x185.jpg
 - /images/posts/the-temple-in-the-sky-at-lost-heaven-on-the-bund-shanghai/Lost-Heaven-12-restroom-185x185.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

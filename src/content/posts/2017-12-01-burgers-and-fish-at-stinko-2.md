@@ -19,7 +19,8 @@ description: Burgers and fish at Stinko 2.0 - burger with caramelized onions, th
 location: Stinko's
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

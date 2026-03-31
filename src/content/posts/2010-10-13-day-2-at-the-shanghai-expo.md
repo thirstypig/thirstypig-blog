@@ -14,7 +14,8 @@ images:
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-70-88x88.jpg
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-74-88x88.jpg
 - /images/posts/day-2-at-the-shanghai-expo/Shanghai-Expo-Day-2-2010-751-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 description: After my first visit, I realized that going to the Expo wasn’t so painful. But I made the dreadful mistake of not wearing my new gray New Balance shoes. Ouch.

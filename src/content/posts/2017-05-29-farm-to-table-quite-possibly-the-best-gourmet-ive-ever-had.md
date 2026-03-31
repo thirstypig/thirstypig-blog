@@ -22,7 +22,8 @@ description: farm to table quite possibly the best gourmet I've ever had. The th
 city: Austin
 region: Texas
 location: Odd Duck
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

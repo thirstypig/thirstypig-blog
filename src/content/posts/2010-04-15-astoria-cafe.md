@@ -8,7 +8,8 @@ heroImage: /images/posts/astoria-cafe/25605_378060793940_716198940_3687170_74491
 images:
 - /images/posts/astoria-cafe/25605_378060793940_716198940_3687170_7449193_n.jpg
 - /images/posts/astoria-cafe/25605_378060888940_716198940_3687175_631787_n.jpg
-categories: []
+categories:
+- Coffee
 tags:
 - taipei
 - coffee

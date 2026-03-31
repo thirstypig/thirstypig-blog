@@ -20,7 +20,8 @@ description: Hunan cuisine at Hunan Mao Restaurant. My favorite Hunan Restaurant
 location: Hunan Mao
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

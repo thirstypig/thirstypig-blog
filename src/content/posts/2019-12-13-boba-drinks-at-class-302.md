@@ -21,7 +21,8 @@ address: 19820 E Colima Rd (at Brea Canyon Cut-off Rd), Walnut, CA 91789
 coordinates:
   lat: 33.986742
   lng: -117.869181
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

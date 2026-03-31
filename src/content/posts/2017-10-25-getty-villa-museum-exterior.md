@@ -26,7 +26,8 @@ address: 30745 Pacific Coast Hwy Bldg B, Malibu, CA 90265
 coordinates:
   lat: 34.031206
   lng: -118.842462
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

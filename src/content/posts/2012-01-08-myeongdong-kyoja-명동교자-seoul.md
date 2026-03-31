@@ -4,7 +4,8 @@ pubDate: '2012-01-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/08/myeongdong-kyoja-%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

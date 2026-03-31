@@ -4,7 +4,8 @@ pubDate: '2010-08-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
-categories: []
+categories:
+- Mediterranean
 tags:
 - shanghai
 - mediterranean

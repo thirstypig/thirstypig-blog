@@ -4,7 +4,8 @@ pubDate: '2011-06-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

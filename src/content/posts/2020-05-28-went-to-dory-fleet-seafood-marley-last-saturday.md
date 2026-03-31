@@ -21,7 +21,8 @@ description: Went to Dory Fleet Seafood Marley last Saturday. Got some Sea Urchi
 location: Went to Dory Fleet Seafood Marley last Saturday
 city: Orange County
 region: Orange County
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

@@ -26,7 +26,8 @@ address: 31 W 26th St, New York, NY 10010
 coordinates:
   lat: 40.744409
   lng: -73.990141
-categories: []
+categories:
+- Mediterranean
 cuisine:
 - Mediterranean
 ---

@@ -23,7 +23,8 @@ description: Austin's cookie delivery. . Snicker doodle, chocolate chip, peanut 
 location: Austin's cookie delivery
 city: Austin
 region: Texas
-categories: []
+categories:
+- Bakery
 cuisine:
 - Bakery
 ---

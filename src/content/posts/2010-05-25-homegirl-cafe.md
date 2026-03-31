@@ -4,7 +4,8 @@ pubDate: '2010-05-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2010/05/25/homegirl-cafe/
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

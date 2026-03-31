@@ -10,7 +10,8 @@ images:
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0808.JPG
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0813.JPG
 - /images/posts/a-little-gem-in-pasadena-green-street-tavern/IMG_0818.JPG
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

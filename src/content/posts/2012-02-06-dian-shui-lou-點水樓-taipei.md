@@ -4,7 +4,8 @@ pubDate: '2012-02-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/06/dian-shui-lou-%e9%bb%9e%e6%b0%b4%e6%a8%93-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

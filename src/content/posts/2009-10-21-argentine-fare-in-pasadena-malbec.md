@@ -11,7 +11,8 @@ images:
 - /images/posts/argentine-fare-in-pasadena-malbec/DSCN0015.JPG
 - /images/posts/argentine-fare-in-pasadena-malbec/DSCN0016.JPG
 - /images/posts/argentine-fare-in-pasadena-malbec/DSCN0029.JPG
-categories: []
+categories:
+- Peruvian
 tags:
 - pasadena
 - peruvian

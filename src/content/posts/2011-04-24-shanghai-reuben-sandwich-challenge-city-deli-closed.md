@@ -4,7 +4,8 @@ pubDate: '2011-04-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/shanghai-reuben-sandwich-challenge-city-deli-closed/
-categories: []
+categories:
+- American
 tags:
 - nyc
 - american

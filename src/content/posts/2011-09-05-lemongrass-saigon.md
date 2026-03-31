@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/09/05/lemongrass-saigon/
 heroImage: /images/posts/lemongrass-saigon/Lemongrass-Saigon-06-494x370.jpg
 images:
 - /images/posts/lemongrass-saigon/Lemongrass-Saigon-06-494x370.jpg
-categories: []
+categories:
+- Vietnamese
 description: Tourists, foreigners, and out of towners usually have little or no expectation for food, unless they specifically researched prior to their trip. Yet, the onus of pressure, lies with the host or frien
 archiveUrl: https://web.archive.org/web/20111103233628/http://www.thethirstypig.com/2011/09/05/lemongrass-saigon/
 draft: false

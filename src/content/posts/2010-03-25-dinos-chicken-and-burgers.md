@@ -11,7 +11,8 @@ images:
 - /images/posts/dinos-chicken-and-burgers/IMG_0675.jpg
 - /images/posts/dinos-chicken-and-burgers/IMG_0678.jpg
 - /images/posts/dinos-chicken-and-burgers/IMG_0679.jpg
-categories: []
+categories:
+- American
 tags:
 - american
 - burgers

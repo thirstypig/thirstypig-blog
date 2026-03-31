@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/02/19/%e8%80%81%e6%98%8c%e7%be%8e
 heroImage: /images/posts/老昌美食-lao-chang-restaurant-in-harbin/Lao-Chang-Restaurant-Harbin-10-88x88.jpg
 images:
 - /images/posts/老昌美食-lao-chang-restaurant-in-harbin/Lao-Chang-Restaurant-Harbin-10-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

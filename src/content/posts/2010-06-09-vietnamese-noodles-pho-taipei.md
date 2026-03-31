@@ -20,7 +20,8 @@ images:
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-4-fried-rolls-88x88.jpg
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-5-shrimp-rolls-88x88.jpg
 - /images/posts/vietnamese-noodles-pho-taipei/Pho-6-pho-88x88.jpg
-categories: []
+categories:
+- American
 tags:
 - rosemead
 - american

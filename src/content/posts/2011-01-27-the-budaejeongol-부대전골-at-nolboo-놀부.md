@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/27/the-budaejeongol-%EB%B6%
 heroImage: /images/posts/the-budaejeongol-부대전골-at-nolboo-놀부/Nolboo.co_.kr-Seoul-05-88x88.jpg
 images:
 - /images/posts/the-budaejeongol-부대전골-at-nolboo-놀부/Nolboo.co_.kr-Seoul-05-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - arcadia
 - taiwanese

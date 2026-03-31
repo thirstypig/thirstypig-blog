@@ -14,7 +14,8 @@ tags:
 - pho
 description: Vietnamese cuisine for lunch today. Was looking for stew with French bread. but they didn’t have it. 😩. But the pho was pretty good. . . . .
 location: Vietnamese cuisine for lunch today
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

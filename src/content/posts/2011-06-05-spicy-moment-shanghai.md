@@ -4,7 +4,8 @@ pubDate: '2011-06-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

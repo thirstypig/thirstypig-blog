@@ -22,7 +22,8 @@ description: Wu Ming Hot Pot in the . Might be the most popular hour pot at this
 location: Wu Ming Hot Pot in the
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

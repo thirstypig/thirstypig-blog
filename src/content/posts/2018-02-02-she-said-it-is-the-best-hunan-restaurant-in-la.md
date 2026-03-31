@@ -22,7 +22,8 @@ description: She said it is the best hunan restaurant in LA. Quite authentic.
 location: She said it is the best hunan restaurant in LA
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

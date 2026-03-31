@@ -4,7 +4,8 @@ pubDate: '2011-08-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

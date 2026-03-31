@@ -10,7 +10,8 @@ images:
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0416.JPG
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0418.JPG
 - /images/posts/chicken-waffles-woot-roscoes/IMG_0420.JPG
-categories: []
+categories:
+- American
 tags:
 - sgv
 - american

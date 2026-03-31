@@ -4,7 +4,8 @@ pubDate: '2011-07-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/16/huashan-creative-park-%e8%8f%af%e5%b1%b11914%e6%96%87%e5%89%b5%e5%9c%92%e5%8d%80-taipei/
-categories: []
+categories:
+- Multi
 tags:
 - taipei
 - multi

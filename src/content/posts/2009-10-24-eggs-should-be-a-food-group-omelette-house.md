@@ -11,7 +11,8 @@ images:
 - /images/posts/eggs-should-be-a-food-group-omelette-house/DSCN0003.JPG
 - /images/posts/eggs-should-be-a-food-group-omelette-house/DSCN0005.JPG
 - /images/posts/eggs-should-be-a-food-group-omelette-house/DSCN0008.JPG
-categories: []
+categories:
+- American
 tags:
 - american
 - omelette

@@ -4,7 +4,8 @@ pubDate: '2011-07-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/14/craft-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

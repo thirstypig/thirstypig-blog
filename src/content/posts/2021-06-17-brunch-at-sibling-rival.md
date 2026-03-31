@@ -16,7 +16,8 @@ tags:
 - breakfast-burrito
 description: Brunch at Sibling Rival. Breakfast burrito and the puffed grain bowl. Nice and bright decor. Food was ok. Nothing special. Had the Sunday Bloody with mezcal. Was quite strong. I’d visit again and recommend. . . . . . .
 location: Brunch at Sibling Rival
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

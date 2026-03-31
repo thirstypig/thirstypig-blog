@@ -4,7 +4,8 @@ pubDate: '2010-05-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

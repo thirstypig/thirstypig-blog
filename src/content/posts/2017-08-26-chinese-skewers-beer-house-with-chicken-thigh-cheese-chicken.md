@@ -20,7 +20,8 @@ tags:
 - skewers
 - noodles
 description: Chinese Skewers Beer House with chicken thigh, cheese & chicken, beef, lamb, quail eggs, sausage, eggplant, and spicy black rice noodles. Too bad they ran out of a lot of stuff. We will certainly be back.
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

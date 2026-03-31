@@ -24,7 +24,8 @@ description: Korean Bbq at Kang Ho Dong Baekjeong. We had the thin sliced Briske
 location: Kang Ho Dong Baekjeong
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

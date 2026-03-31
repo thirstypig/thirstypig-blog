@@ -4,7 +4,8 @@ pubDate: '2010-04-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/21/robins-wood-fire-bbq-pasadena/
-categories: []
+categories:
+- BBQ
 tags:
 - pasadena
 - bbq

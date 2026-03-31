@@ -4,9 +4,13 @@ pubDate: 2025-05-15 00:00:00+00:00
 description: American Whiskey Maker - with their Cool tasting room with pretty good pizza from . They had few different old fashioned including a peanut butter banana, S’mores, strawberry cheesecake, and a toffee. I couldn’t decide what to get, since they sounds interesting - so I got a flight to try them all. Unfortunately, after the first 2 - they tasted similar since I was starting to get a buzz. I think it didn’t help, when I also ordered a flight of their whiskeys to taste, too. So 4 different old fashioned and 4 different whiskeys. It was a good night. Good to see some old friends in Seattle. Had a great time. Old log cabin was the perfect place to finish off the trip. . . .
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2025-05-15-american-whiskey-maker-with-their-cool-tasting-room-with-pre/18492883246064740.jpg
-categories: []
+categories:
+- American
 tags:
 - seattle
+- american
+- cocktails
+- whiskey
 location: Old Log Cabin Distillery
 city: Seattle
 region: WA
@@ -24,6 +28,8 @@ images:
 - /images/posts/ig-2025-05-15-american-whiskey-maker-with-their-cool-tasting-room-with-pre/18126738991438691.jpg
 source: instagram
 draft: false
+cuisine:
+- American
 ---
 
 ![American Whiskey Maker - with their Cool tasting room with pretty good pizza...](/images/posts/ig-2025-05-15-american-whiskey-maker-with-their-cool-tasting-room-with-pre/18492883246064740.jpg)

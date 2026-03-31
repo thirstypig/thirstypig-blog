@@ -5,7 +5,8 @@ pubDate: '2009-09-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/18/wan-chun-taiwanese-food-sgv-closed/
-categories: []
+categories:
+- Taiwanese
 tags:
 - sgv
 - taiwanese

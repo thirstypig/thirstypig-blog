@@ -13,7 +13,8 @@ images:
 - /images/posts/taiwan-street-food/IMG_2317-88x88.jpg
 - /images/posts/taiwan-street-food/IMG_2320-88x88.jpg
 - /images/posts/taiwan-street-food/IMG_2559-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taiwanese
 - street-food

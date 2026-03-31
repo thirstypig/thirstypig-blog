@@ -11,7 +11,8 @@ images:
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0677.jpg
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0678.JPG
 - /images/posts/south-pasadenas-own-barbecue-joint-guss-barbecue/IMG_0679.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - san-gabriel
 - bbq

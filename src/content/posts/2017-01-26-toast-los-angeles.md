@@ -4,7 +4,8 @@ pubDate: '2017-01-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/26/toast-los-angeles/
-categories: []
+categories:
+- Bakery
 tags:
 - los-angeles
 - bakery

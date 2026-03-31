@@ -4,7 +4,8 @@ pubDate: '2011-05-04'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/05/04/duck-king-shanghai/
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 - duck

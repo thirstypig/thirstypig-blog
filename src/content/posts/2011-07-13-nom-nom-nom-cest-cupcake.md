@@ -4,7 +4,8 @@ pubDate: '2011-07-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
-categories: []
+categories:
+- Dessert
 tags:
 - shanghai
 - dessert

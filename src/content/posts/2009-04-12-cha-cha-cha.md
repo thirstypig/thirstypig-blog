@@ -10,7 +10,8 @@ images:
 - /images/posts/cha-cha-cha/IMG_0499.jpg
 - /images/posts/cha-cha-cha/IMG_0501.jpg
 - /images/posts/cha-cha-cha/IMG_0502.jpg
-categories: []
+categories:
+- Colombian
 tags:
 - los-angeles
 - colombian

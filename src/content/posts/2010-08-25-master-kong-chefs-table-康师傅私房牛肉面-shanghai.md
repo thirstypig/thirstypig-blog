@@ -4,7 +4,8 @@ pubDate: '2010-08-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/25/master-kong-chefs-table-%e5%ba%b7%e5%b8%88%e5%82%85%e7%a7%81%e6%88%bf%e7%89%9b%e8%82%89%e9%9d%a2-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

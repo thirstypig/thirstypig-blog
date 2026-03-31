@@ -4,7 +4,8 @@ pubDate: '2011-08-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/09/hunan-village-flavor-%e6%b9%96%e5%8d%97%e4%b9%a1%e6%9d%91%e9%a3%8e%e5%91%b3-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -25,7 +25,8 @@ images:
 - /images/posts/colori-kitchen/IMG_1506-185x185.jpg
 - /images/posts/colori-kitchen/IMG_1508-185x185.jpg
 - /images/posts/colori-kitchen/IMG_1509-185x185.jpg
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

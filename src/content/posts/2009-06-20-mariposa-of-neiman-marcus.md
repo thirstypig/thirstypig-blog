@@ -11,7 +11,8 @@ images:
 - /images/posts/mariposa-of-neiman-marcus/IMG_4928.JPG
 - /images/posts/mariposa-of-neiman-marcus/IMG_4930.JPG
 - /images/posts/mariposa-of-neiman-marcus/IMG_4932.JPG
-categories: []
+categories:
+- American
 tags:
 - american
 - brunch

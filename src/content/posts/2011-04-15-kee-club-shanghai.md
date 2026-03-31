@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/04/15/kee-club-shanghai/
 heroImage: /images/posts/kee-club-shanghai/Kee-Club-Shanghai-33-188x188.jpg
 images:
 - /images/posts/kee-club-shanghai/Kee-Club-Shanghai-33-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

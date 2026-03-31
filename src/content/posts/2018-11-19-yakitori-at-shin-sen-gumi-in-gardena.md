@@ -28,7 +28,8 @@ address: 2015 W Redondo Beach Blvd (at Gramercy Pl), Gardena, CA 90247
 coordinates:
   lat: 33.88769
   lng: -118.314053
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

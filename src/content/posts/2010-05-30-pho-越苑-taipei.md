@@ -4,7 +4,8 @@ pubDate: '2010-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/30/pho-%e8%b6%8a%e8%8b%91-taipei/
-categories: []
+categories:
+- Vietnamese
 tags:
 - taipei
 - vietnamese

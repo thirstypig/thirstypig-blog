@@ -18,7 +18,8 @@ description: Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken. 
 location: Zankou Chicken
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Mediterranean
 address: 1296 E Colorado Blvd (S Hill St.), Pasadena, CA 91106
 coordinates:
   lat: 34.145515

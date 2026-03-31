@@ -4,7 +4,8 @@ pubDate: '2010-08-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/20/silk-lounge-mpk-closed/
-categories: []
+categories:
+- Cocktails
 tags:
 - mpk
 - cocktails

@@ -4,7 +4,8 @@ pubDate: '2012-02-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/16/man-ho-chinese-restaurant-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

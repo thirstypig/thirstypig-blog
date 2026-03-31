@@ -4,7 +4,8 @@ pubDate: '2009-11-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/
-categories: []
+categories:
+- Vietnamese
 tags:
 - san-jose
 - vietnamese

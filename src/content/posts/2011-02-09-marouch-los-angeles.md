@@ -4,7 +4,8 @@ pubDate: '2011-02-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/09/marouch-los-angeles/
-categories: []
+categories:
+- Mediterranean
 tags:
 - los-angeles
 - mediterranean

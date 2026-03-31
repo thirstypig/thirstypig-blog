@@ -17,7 +17,8 @@ tags:
 - surtidos
 description: Carnitas Kikos Jr. since 1964, located in Mercado Hidalgo. No one spoke English, so I had to have google translate to help me order. I had no idea what surtidos (little of everything) or meciza (solid chunks) was. After looking it up - that’s what I ordered. It was good and just what we were looking for. Washed it down with Jamaica and some Coke.
 location: Carnitas Kikos Jr
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

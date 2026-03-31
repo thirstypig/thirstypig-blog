@@ -22,7 +22,8 @@ address: 6610 N Lamar Blvd (at Brentwood St), Austin, TX 78752
 coordinates:
   lat: 30.334507
   lng: -97.721322
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

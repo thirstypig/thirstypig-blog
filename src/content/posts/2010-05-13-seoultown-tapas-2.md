@@ -15,7 +15,8 @@ images:
 - /images/posts/seoultown-tapas-2/IMG_1313-185x185.jpg
 - /images/posts/seoultown-tapas-2/IMG_1313-300x225.jpg
 - /images/posts/seoultown-tapas-2/IMG_1314-185x185.jpg
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

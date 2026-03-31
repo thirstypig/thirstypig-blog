@@ -17,7 +17,8 @@ description: Soft serve ice cream Fluffer Nutter and Caramelized Banana Split
 location: Cow Tipping Creamery
 city: Austin
 region: Texas
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

@@ -26,7 +26,8 @@ images:
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-15-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-16-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-17-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154758/http://www.thethirstypig.com:80/2010/08/27/shakas-alhambra/
 draft: false

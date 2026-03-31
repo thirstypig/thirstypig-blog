@@ -4,7 +4,8 @@ pubDate: '2011-11-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/11/21/xiaobaihua-%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

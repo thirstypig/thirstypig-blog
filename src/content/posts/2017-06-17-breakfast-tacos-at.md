@@ -21,7 +21,8 @@ description: Breakfast tacos at
 location: Veracruz All Natural
 city: Austin
 region: Texas
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

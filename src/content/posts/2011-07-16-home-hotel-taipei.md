@@ -4,7 +4,8 @@ pubDate: '2011-07-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/16/home-hotel-taipei/
-categories: []
+categories:
+- Uncategorized
 tags:
 - taipei
 - hotel-dining

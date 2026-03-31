@@ -20,7 +20,8 @@ region: Texas
 tags:
 - austin
 - bbq
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

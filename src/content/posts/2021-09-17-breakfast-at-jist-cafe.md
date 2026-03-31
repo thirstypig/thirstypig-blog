@@ -14,11 +14,13 @@ tags:
 - little-tokyo
 - japanese
 - brunch
+- breakfast
 description: Breakfast at JiST cafe. . . . .
 location: JiST Cafe
 city: Little Tokyo
 region: Los Angeles
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

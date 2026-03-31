@@ -4,7 +4,8 @@ pubDate: '2011-01-19'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/19/myeongdong-%EB%AA%85%EB%8F%99-of-seoul/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 description: One of my favorite areas in Seoul was Myeongdong 명동. This bustling shopping area was lively and crowded at all times. Given that it was close to Mr. B’s apartment, I went there a few times by myself.

@@ -4,7 +4,8 @@ pubDate: '2017-03-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/09/kings-row-gastropub-pasadena/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

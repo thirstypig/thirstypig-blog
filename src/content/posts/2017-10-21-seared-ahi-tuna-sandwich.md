@@ -21,7 +21,8 @@ description: Seared ahi tuna sandwich! I thought this place was a bit pricey. I 
 location: San Marino Seafood
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

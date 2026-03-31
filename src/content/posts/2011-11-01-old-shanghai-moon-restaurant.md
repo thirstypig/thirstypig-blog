@@ -26,7 +26,8 @@ images:
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-18-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-19-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-20-494x370.jpg
-categories: []
+categories:
+- Chinese
 description: Located in the historic JinJiang Hotel 錦江飯店, the Old Shanghai Moon Restaurant 老夜上海餐廳 is restaurant imagined as if we were dining during the colonial 1930′s. The ambiance is mesh of the classic western
 archiveUrl: https://web.archive.org/web/20120103102802/http://www.thethirstypig.com/2011/11/01/old-shanghai-moon-restaurant/
 draft: false

@@ -4,7 +4,8 @@ pubDate: '2011-12-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/24/purple-onion-shanghai-closed/
-categories: []
+categories:
+- French
 tags:
 - shanghai
 - french

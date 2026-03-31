@@ -19,7 +19,8 @@ description: A return to Gammeeok. Had the Sogogi, fried chicken wings, and the 
 location: Gammeeok
 city: Koreatown
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

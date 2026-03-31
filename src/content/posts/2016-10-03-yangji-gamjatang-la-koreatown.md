@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/10/03/yangji-gamjatang-la-koreatown/
 heroImage: /images/posts/yangji-gamjatang-la-koreatown/IMG_2631.jpg
 images:
 - /images/posts/yangji-gamjatang-la-koreatown/IMG_2631.jpg
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

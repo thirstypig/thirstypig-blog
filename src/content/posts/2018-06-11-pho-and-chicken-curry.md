@@ -17,7 +17,8 @@ description: Pho and chicken curry. The French bread accompaniment with the curr
 location: Pho and chicken curry
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

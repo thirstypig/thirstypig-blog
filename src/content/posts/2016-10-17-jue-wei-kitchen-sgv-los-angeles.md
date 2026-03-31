@@ -4,7 +4,8 @@ pubDate: '2016-10-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

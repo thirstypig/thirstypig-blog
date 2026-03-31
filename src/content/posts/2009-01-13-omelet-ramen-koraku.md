@@ -10,7 +10,8 @@ images:
 - /images/posts/omelet-ramen-koraku/12242006548.jpg
 - /images/posts/omelet-ramen-koraku/12242006550.jpg
 - /images/posts/omelet-ramen-koraku/12242006553.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - little-tokyo
 - japanese

@@ -12,7 +12,8 @@ tags:
 - soup
 description: Hot soup on a chilly January evening, yet sunny during the day. Favorite soup on cold days. .kao
 location: Hot soup on a chilly January evening
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

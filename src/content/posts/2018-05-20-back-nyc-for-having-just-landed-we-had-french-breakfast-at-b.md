@@ -25,7 +25,8 @@ address: 42 Grove St (btwn Bedford & Bleecker St), New York, NY 10014
 coordinates:
   lat: 40.732694
   lng: -74.004389
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

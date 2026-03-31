@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2019-05-06-instagram-post-may-06-2019/17876581906358163.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — May 06, 2019](/images/posts/ig-2019-05-06-instagram-post-may-06-2019/17876581906358163.jpg)

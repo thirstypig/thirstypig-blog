@@ -22,7 +22,8 @@ images:
 - /images/posts/chamate-shanghai/Chamate-7-188x141.jpg
 - /images/posts/chamate-shanghai/Chamate-7-88x88.jpg
 - /images/posts/chamate-shanghai/Chamate-8-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

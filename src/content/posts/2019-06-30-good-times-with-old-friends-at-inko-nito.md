@@ -25,7 +25,8 @@ description: Good times with old friends at Inko Nito. Great venue and location.
 location: Inko Nito
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

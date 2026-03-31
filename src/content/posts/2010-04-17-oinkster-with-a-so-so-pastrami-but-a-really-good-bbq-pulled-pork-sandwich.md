@@ -14,7 +14,8 @@ images:
 - /images/posts/oinkster-with-a-so-so-pastrami-but-a-really-good-bbq-pulled-pork-sandwich/IMG_0666.jpg
 - /images/posts/oinkster-with-a-so-so-pastrami-but-a-really-good-bbq-pulled-pork-sandwich/IMG_0667.jpg
 - /images/posts/oinkster-with-a-so-so-pastrami-but-a-really-good-bbq-pulled-pork-sandwich/IMG_0669.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - bbq
 - pastrami

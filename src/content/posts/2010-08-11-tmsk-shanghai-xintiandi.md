@@ -4,7 +4,8 @@ pubDate: '2010-08-11'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2010/08/11/tmsk-shanghai-xintiandi/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

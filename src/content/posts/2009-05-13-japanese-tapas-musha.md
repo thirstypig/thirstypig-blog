@@ -8,7 +8,8 @@ heroImage: /images/posts/japanese-tapas-musha/03192007752.jpg
 images:
 - /images/posts/japanese-tapas-musha/03192007752.jpg
 - /images/posts/japanese-tapas-musha/081120071280.jpg
-categories: []
+categories:
+- Japanese
 description: Musha is one of the finest Japanese restaurants in Southern California. I have couple of friends that swear by it. This izakaya style restaurant features some of the best presentation around.
 archiveUrl: https://web.archive.org/web/20110105144655/http://www.thethirstypig.com/2009/05/13/japanese-tapas-musha/
 draft: false

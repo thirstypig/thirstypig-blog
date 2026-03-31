@@ -24,7 +24,8 @@ tags:
 description: Eating at the bar at Dama in DTLA, fashion district. Had the bread, corn, clams, prawns, empanadas, and potatoes. Washed it down with the Sierra Norte and Pina Colada. Good ambience and crowd tonight. .
 location: Dama Fashion District
 city: Downtown LA
-categories: []
+categories:
+- Peruvian
 region: Los Angeles
 address: 612 E 11th St, Los Angeles, CA 90015
 coordinates:

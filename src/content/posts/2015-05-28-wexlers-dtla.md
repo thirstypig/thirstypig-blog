@@ -4,7 +4,8 @@ pubDate: '2015-05-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/05/28/wexlers-dtla/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

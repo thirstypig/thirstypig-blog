@@ -25,7 +25,8 @@ address: 104 Macdougal St (btwn Bleecker & 3rd St.), New York, NY 10012
 coordinates:
   lat: 40.729375
   lng: -74.000857
-categories: []
+categories:
+- Mediterranean
 cuisine:
 - Mediterranean
 ---

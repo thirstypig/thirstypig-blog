@@ -4,7 +4,8 @@ pubDate: '2012-02-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/01/minsu-snacks-%e6%b0%91%e4%bf%97%e5%b0%8f%e5%90%83-lukang/
-categories: []
+categories:
+- Taiwanese
 tags:
 - lukang
 - taiwanese

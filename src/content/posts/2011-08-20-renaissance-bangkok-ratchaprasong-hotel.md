@@ -4,7 +4,8 @@ pubDate: '2011-08-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/20/renaissance-bangkok-ratchaprasong-hotel/
-categories: []
+categories:
+- Thai
 tags:
 - bangkok
 - thai

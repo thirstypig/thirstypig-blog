@@ -20,7 +20,8 @@ description: Lunch at Ola Mexican at 2nd & PCH in the LBC. . . . .
 location: Ola Mexican Kitchen
 city: Long Beach
 region: Long Beach
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

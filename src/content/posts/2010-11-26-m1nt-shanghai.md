@@ -4,7 +4,8 @@ pubDate: '2010-11-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/26/m1nt-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

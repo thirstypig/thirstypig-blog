@@ -23,7 +23,8 @@ address: 686 N Spring St, Los Angeles, CA 90012
 coordinates:
   lat: 34.059618
   lng: -118.237686
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

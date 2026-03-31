@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2014/09/13/pho-real-shanghai/
 heroImage: /images/posts/pho-real-shanghai/IMG_1341.jpg
 images:
 - /images/posts/pho-real-shanghai/IMG_1341.jpg
-categories: []
+categories:
+- Vietnamese
 tags:
 - shanghai
 - vietnamese

@@ -4,7 +4,8 @@ pubDate: '2011-05-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/26/uminosachi-%e6%b5%b7%e4%b9%8b%e5%b9%b8-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

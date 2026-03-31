@@ -14,7 +14,8 @@ tags:
 - fried-chicken
 description: Taro drink and popcorn chicken. Way too spicy for me . . . . .
 location: Taro drink and popcorn chicken
-categories: []
+categories:
+- Filipino
 cuisine:
 - Filipino
 ---

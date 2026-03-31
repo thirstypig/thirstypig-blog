@@ -4,7 +4,8 @@ pubDate: '2010-04-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/11/hwang-hae-koreatown/
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

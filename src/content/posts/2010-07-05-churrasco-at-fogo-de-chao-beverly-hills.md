@@ -30,7 +30,8 @@ images:
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3002-88x88.jpg
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3004-494x370.jpg
 - /images/posts/churrasco-at-fogo-de-chao-beverly-hills/IMG_3004-88x88.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - beverly-hills
 - bbq

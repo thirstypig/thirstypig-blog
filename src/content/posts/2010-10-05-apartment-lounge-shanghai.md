@@ -4,7 +4,8 @@ pubDate: '2010-10-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

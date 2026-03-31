@@ -4,7 +4,8 @@ pubDate: '2012-05-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/09/mokkos-shanghai-closed/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

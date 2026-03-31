@@ -23,7 +23,8 @@ description: Chuan Chuan in LA at JiouDing Hot Pot. Spicy as hell. One of the mo
 location: JiouDing Hot Pot
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

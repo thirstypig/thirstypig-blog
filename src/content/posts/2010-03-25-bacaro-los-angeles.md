@@ -4,7 +4,8 @@ pubDate: '2010-03-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/25/bacaro-los-angeles/
-categories: []
+categories:
+- Cocktails
 tags:
 - los-angeles
 - cocktails

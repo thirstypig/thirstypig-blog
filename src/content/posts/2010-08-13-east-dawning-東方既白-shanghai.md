@@ -4,7 +4,8 @@ pubDate: '2010-08-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/13/east-dawning-%e6%9d%b1%e6%96%b9%e6%97%a2%e7%99%bd-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

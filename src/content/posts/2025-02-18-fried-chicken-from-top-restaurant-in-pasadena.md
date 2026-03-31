@@ -9,15 +9,21 @@ images:
 - /images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasadena/18027006542634931.jpg
 tags:
 - pasadena
+- hawaiian
+- fried-chicken
+- spam-masubi
 description: Unfortunately Top Restaurant only does take out. Make sure you call in the make sure they still have chicken available. I know first hand since this wasn’t the first time I tried to get their fried chicken. I recommend this place and I would go again. . . .
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Hawaiian
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032
   lng: -118.145536
+cuisine:
+- Hawaiian
 ---
 
 ![Fried Chicken from Top Restaurant in Pasadena](/images/posts/ig-2025-02-18-fried-chicken-from-top-restaurant-in-pasadena/18027006542634931.jpg)

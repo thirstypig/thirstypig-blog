@@ -41,7 +41,8 @@ images:
 - /images/posts/an-organic-farm-in-dalian/Dalian-Li-Organic-Farm-61-88x88.jpg
 - /images/posts/an-organic-farm-in-dalian/Dalian-Li-Organic-Farm-63-88x88.jpg
 - /images/posts/an-organic-farm-in-dalian/Dalian-Li-Organic-Farm-68-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: On my recent trip to Dalian, I was fortunate enough to visit my family friend’s farm, the Li farm. Not just any farm, but an organic and self-sustainable farm just beyond the local hills of Dalian pro
 archiveUrl: https://web.archive.org/web/20101009134042/http://www.thethirstypig.com:80/2010/10/07/an-organic-farm-in-dalian/
 draft: false

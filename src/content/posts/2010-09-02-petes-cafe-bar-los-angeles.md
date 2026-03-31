@@ -22,7 +22,8 @@ images:
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-14-494x370.jpg
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-14-88x88.jpg
 - /images/posts/petes-cafe-bar-los-angeles/Petes-Cafe-and-Bar-DTLA-15-88x88.jpg
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

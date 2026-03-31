@@ -4,7 +4,8 @@ pubDate: '2016-05-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/05/31/dog-haus-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

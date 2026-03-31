@@ -4,7 +4,8 @@ pubDate: '2011-12-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/09/huangshan-old-street/
-categories: []
+categories:
+- Chinese
 description: 'In the town of Huangshan 黄山 Yellow Mountain, there is the famous tourist destination Old Street 老街. The Tunxi district, which is the main shopping district, is where the Old Street starts. The rustic '
 archiveUrl: https://web.archive.org/web/20120116092448/http://www.thethirstypig.com:80/2011/12/09/huangshan-old-street/
 draft: false

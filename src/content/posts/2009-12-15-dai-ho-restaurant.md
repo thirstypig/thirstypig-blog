@@ -20,7 +20,8 @@ tags:
 - taiwanese
 - noodles
 - beef-stew
-categories: []
+categories:
+- Taiwanese
 ---
 
 [![](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s200/IMG_7555.JPG)](http://2.bp.blogspot.com/_5BS35WldtXc/SycP3SjHbPI/AAAAAAAAAEE/94BUfhF0nDY/s1600-h/IMG_7555.JPG)

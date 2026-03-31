@@ -11,7 +11,8 @@ images:
 - /images/posts/j-js-sandwich-shop-dtla/IMG_0414.JPG
 - /images/posts/j-js-sandwich-shop-dtla/IMG_0415.JPG
 - /images/posts/j-js-sandwich-shop-dtla/IMG_0417.JPG
-categories: []
+categories:
+- Korean
 tags:
 - dtla
 - korean

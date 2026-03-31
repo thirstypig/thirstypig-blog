@@ -17,7 +17,8 @@ tags:
 description: Had the grilled ahi tuna taco and the braised beef birria taco. And also had a tacocita bowl with carnitas. All were pretty good. The ahi was a bit dry. But everything was really good. . . . . .
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

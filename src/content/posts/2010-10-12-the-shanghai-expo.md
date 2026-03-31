@@ -47,7 +47,8 @@ images:
 - /images/posts/the-shanghai-expo/Shanghai-Expo-2010-84-88x88.jpg
 - /images/posts/the-shanghai-expo/Shanghai-Expo-2010-96-88x88.jpg
 - /images/posts/the-shanghai-expo/Shanghai-Expo-2010-98-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 - expo-food

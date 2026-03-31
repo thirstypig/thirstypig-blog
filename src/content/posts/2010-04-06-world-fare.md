@@ -16,7 +16,8 @@ images:
 - /images/posts/world-fare/World+Fare+8+bbq+bunny+pork+butt.jpg
 - /images/posts/world-fare/World+Fare+8.5+Truffle+Mac+and+Cheese+Balls.jpg
 - /images/posts/world-fare/World+Fare+9+truffle+mac+and+cheese+ball.jpg
-categories: []
+categories:
+- Multi
 description: This week, I will trying different Food Trucks. People ask me how do I find these great trucks and how can I track them? Here are a couple of places I look - the Find LA Food Truck twitter feedshttp:/
 archiveUrl: https://web.archive.org/web/20100417225839/http://blog.thethirstypig.com:80/2010/04/world-fare.html
 draft: false

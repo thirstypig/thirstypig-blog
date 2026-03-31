@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2010/11/01/bar-rouge-shanghai/
 heroImage: /images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg
 images:
 - /images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 - cocktails

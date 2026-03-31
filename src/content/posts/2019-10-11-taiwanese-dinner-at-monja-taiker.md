@@ -21,7 +21,8 @@ description: Taiwanese dinner at Monja Taiker. The shaved ice with soft boiled p
 location: Monja Taiker
 city: Rosemead
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

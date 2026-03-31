@@ -4,7 +4,8 @@ pubDate: '2016-12-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/15/cafe-habana-malibu/
-categories: []
+categories:
+- Cuban
 tags:
 - santa-monica
 - cuban

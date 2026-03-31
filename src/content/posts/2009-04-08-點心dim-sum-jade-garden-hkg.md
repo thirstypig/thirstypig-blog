@@ -12,7 +12,8 @@ images:
 - /images/posts/點心dim-sum-jade-garden-hkg/010520081529.jpg
 - /images/posts/點心dim-sum-jade-garden-hkg/010520081530-88x88.jpg
 - /images/posts/點心dim-sum-jade-garden-hkg/010520081530.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

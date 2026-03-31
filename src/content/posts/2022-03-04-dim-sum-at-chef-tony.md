@@ -15,6 +15,9 @@ images:
 - /images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17948527231760976.jpg
 tags:
 - hong-kong
+- chinese
+- dim-sum
+- dumplings
 description: Dim Sum at Chef Tony. Squid ink shrimp Shu mai with gold leaf and shrimp and pork dumpling har gow with black truffle were the unique dim sum dishes. . . . .
 location: DimDimSum Dim Sum Specialty Store (點點心點心專門店)
 city: Hong Kong
@@ -23,7 +26,10 @@ address: 26-28 Man Wui St
 coordinates:
   lat: 22.306986
   lng: 114.166155
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Dim Sum at Chef Tony](/images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17909755763432610.jpg)

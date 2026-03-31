@@ -25,7 +25,8 @@ address: 120 Judge John Aiso St (at 1st St & San Pedro St), Los Angeles, CA 9001
 coordinates:
   lat: 34.050635
   lng: -118.240281
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

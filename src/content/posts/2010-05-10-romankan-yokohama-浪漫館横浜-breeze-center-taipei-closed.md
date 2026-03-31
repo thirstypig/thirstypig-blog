@@ -4,7 +4,8 @@ pubDate: '2010-05-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

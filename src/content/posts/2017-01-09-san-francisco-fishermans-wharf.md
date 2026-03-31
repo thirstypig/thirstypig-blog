@@ -4,7 +4,8 @@ pubDate: '2017-01-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/
-categories: []
+categories:
+- Seafood
 tags:
 - san-francisco
 - seafood

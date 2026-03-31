@@ -11,7 +11,8 @@ images:
 - /images/posts/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-阜杭豆漿/Fu-Hang-Dou-Jiang-4-Food-185x185.jpg
 - /images/posts/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-阜杭豆漿/Fu-Hang-Dou-Jiang-5-Food-185x185.jpg
 - /images/posts/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-阜杭豆漿/Fu-Hang-Dou-Jiang-6-Food-185x185.jpg
-categories: []
+categories:
+- Taiwanese
 description: Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.
 archiveUrl: https://web.archive.org/web/20100713075753/http://www.thethirstypig.com:80/2010/05/19/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-%E9%98%9C%E6%9D%AD%E8%B1%86%E6%BC%BF/
 draft: false

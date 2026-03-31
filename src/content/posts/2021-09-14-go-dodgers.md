@@ -12,7 +12,8 @@ images:
 tags: []
 description: Go Dodgers! . . . . .
 location: Go Dodgers
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

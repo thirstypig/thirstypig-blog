@@ -20,7 +20,8 @@ description: Hunan Chili King - one of better Hunan Restaurants in the SGV. Pork
 location: Hunan Chili King
 city: Sgv
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

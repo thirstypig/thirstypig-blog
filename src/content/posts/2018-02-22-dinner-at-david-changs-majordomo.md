@@ -25,7 +25,8 @@ description: Dinner at David Chang’s Majordomo. We had 2 Bings - a smoked pork
 location: Majordomo
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

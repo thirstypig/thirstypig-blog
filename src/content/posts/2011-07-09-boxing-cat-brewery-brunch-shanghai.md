@@ -4,7 +4,8 @@ pubDate: '2011-07-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/
-categories: []
+categories:
+- American
 tags:
 - shanghai
 - american

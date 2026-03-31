@@ -11,7 +11,8 @@ images:
 - /images/posts/cav-wine-bar/IMG_1061.jpg
 - /images/posts/cav-wine-bar/IMG_1063.JPG
 - /images/posts/cav-wine-bar/IMG_1066.JPG
-categories: []
+categories:
+- Cocktails
 tags:
 - cocktails
 - wine

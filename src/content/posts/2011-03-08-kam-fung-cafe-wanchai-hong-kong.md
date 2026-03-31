@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/08/kam-fung-cafe-wanchai-ho
 heroImage: /images/posts/kam-fung-cafe-wanchai-hong-kong/Kam-Fung-Cafe-HKG-04-188x188.jpg
 images:
 - /images/posts/kam-fung-cafe-wanchai-hong-kong/Kam-Fung-Cafe-HKG-04-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

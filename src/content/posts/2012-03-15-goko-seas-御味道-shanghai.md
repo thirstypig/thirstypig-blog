@@ -4,7 +4,8 @@ pubDate: '2012-03-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/15/goko-seas-%e5%be%a1%e5%91%b3%e9%81%93-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

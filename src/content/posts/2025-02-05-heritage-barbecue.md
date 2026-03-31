@@ -1,5 +1,5 @@
 ---
-title: Heritage Barbecue
+title: Heritage Barbecue, unknown
 pubDate: '2025-02-05'
 author: The Thirsty Pig
 source: instagram
@@ -8,10 +8,14 @@ heroImage: /images/posts/ig-2025-02-05-heritage-barbecue/18055992724856086.jpg
 images:
 - /images/posts/ig-2025-02-05-heritage-barbecue/18055992724856086.jpg
 - /images/posts/ig-2025-02-05-heritage-barbecue/17955447890868586.jpg
-tags: []
+tags:
+- bbq
 description: TBH . . .I am not sure I would make the drive again, since it is so far. But if I was to go again, I would try to sneak out during the week, not the weekend. Those lines can get long. Though I might not go again, I do recommend. . . . . 💯
 location: Heritage Barbecue
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Heritage Barbecue](/images/posts/ig-2025-02-05-heritage-barbecue/18055992724856086.jpg)

@@ -21,7 +21,8 @@ description: Shanghainese Lunch at Tasty Noodle House in Irvine. Haven’t had t
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 address: 399 Nanjing W Rd (at Huangpi N Rd), Huangpu, 上海市, 200003
 coordinates:
   lat: 31.232216

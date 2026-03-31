@@ -13,7 +13,8 @@ tags:
 - fish
 description: Homemade Sichuan water boiled fish 四川水煮魚. With the packet. Yummy
 location: Homemade Sichuan water boiled fish 四川水煮魚
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

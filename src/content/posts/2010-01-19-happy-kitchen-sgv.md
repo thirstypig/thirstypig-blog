@@ -4,7 +4,8 @@ pubDate: '2010-01-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/19/happy-kitchen-sgv/
-categories: []
+categories:
+- Multi
 tags:
 - sgv
 - multi

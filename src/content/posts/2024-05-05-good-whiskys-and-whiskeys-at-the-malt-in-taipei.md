@@ -10,15 +10,21 @@ images:
 - /images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18057319195605585.jpg
 tags:
 - taipei
+- cocktails
+- whiskey
+- bourbon
 description: Good whiskys and whiskeys at the Malt in Taipei. Nice little bar tucked away off a small street in Taipei. They have a great selection of whiskeys and bourbons. They even had Pappys. I should have gotten more pics but I was feeling under the weather. . . .
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Cocktails
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934
   lng: 121.529331
+cuisine:
+- Cocktails
 ---
 
 ![Good whiskys and whiskeys at the Malt in Taipei](/images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18432198358045193.jpg)

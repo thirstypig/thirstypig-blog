@@ -19,7 +19,8 @@ tags:
 - deviled-eggs
 description: Deviled Eggs, fried chicken, and spicy chicken sandwiches at Crack Shack! Also had a pretty good Bloody Mary. . . .
 location: Deviled Eggs, fried chicken
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

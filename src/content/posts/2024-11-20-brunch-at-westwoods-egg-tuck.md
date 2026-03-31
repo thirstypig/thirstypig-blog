@@ -6,6 +6,9 @@ author: The Thirsty Pig
 heroImage: /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg
 tags:
 - los-angeles
+- fusion
+- breakfast-sandwiches
+- burritos
 location: Egg Tuck
 city: Los Angeles
 region: CA
@@ -20,7 +23,10 @@ images:
 - /images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17946382286906928.jpg
 source: instagram
 draft: false
-categories: []
+categories:
+- Fusion
+cuisine:
+- Fusion
 ---
 
 ![Brunch at Westwood’s Egg Tuck](/images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg)

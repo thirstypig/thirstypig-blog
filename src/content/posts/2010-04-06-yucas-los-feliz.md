@@ -4,7 +4,8 @@ pubDate: '2010-04-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/06/yucas-los-feliz/
-categories: []
+categories:
+- Mexican
 tags:
 - los-feliz
 - mexican

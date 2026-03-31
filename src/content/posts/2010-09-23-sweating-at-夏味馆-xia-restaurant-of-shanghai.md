@@ -17,7 +17,8 @@ images:
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3658-88x88.jpg
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3660-88x88.jpg
 - /images/posts/sweating-at-夏味馆-xia-restaurant-of-shanghai/IMG_3662-88x88.jpg
-categories: []
+categories:
+- Mediterranean
 tags:
 - shanghai
 - mediterranean

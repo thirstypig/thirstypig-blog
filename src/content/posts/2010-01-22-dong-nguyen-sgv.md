@@ -4,7 +4,8 @@ pubDate: '2010-01-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/22/dong-nguyen-sgv/
-categories: []
+categories:
+- Multi
 tags:
 - sgv
 - multi

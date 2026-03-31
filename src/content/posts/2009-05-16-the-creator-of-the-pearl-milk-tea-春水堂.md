@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/05/16/the-creator-of-the-pearl-mi
 heroImage: /images/posts/the-creator-of-the-pearl-milk-tea-春水堂/010820081543.jpg
 images:
 - /images/posts/the-creator-of-the-pearl-milk-tea-春水堂/010820081543.jpg
-categories: []
+categories:
+- Taiwanese
 description: On a trip back to Taipei, I was taken to a small tea house called Chun Shui Tang. I was told, that one of the chain in Taichung was responsible for creating the Pearl Milk Tea. The Pearl Milk Tea, als
 archiveUrl: https://web.archive.org/web/20110105144116/http://www.thethirstypig.com/2009/05/16/the-creator-of-the-pearl-milk-tea-%e6%98%a5%e6%b0%b4%e5%a0%82/
 draft: false

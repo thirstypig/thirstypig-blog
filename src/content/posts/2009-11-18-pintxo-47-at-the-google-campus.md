@@ -15,7 +15,8 @@ images:
 - /images/posts/pintxo-47-at-the-google-campus/IMG_1028.JPG
 - /images/posts/pintxo-47-at-the-google-campus/IMG_1029.JPG
 - /images/posts/pintxo-47-at-the-google-campus/IMG_1031.JPG
-categories: []
+categories:
+- Spanish
 tags:
 - spanish
 - tapas

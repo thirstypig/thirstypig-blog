@@ -10,7 +10,8 @@ images:
 - /images/posts/russian-lunch-in-harbin/Russian-Lunch-Harbin-12-370x494.jpg
 - /images/posts/russian-lunch-in-harbin/Russian-Lunch-Harbin-13-494x370.jpg
 - /images/posts/russian-lunch-in-harbin/Russian-Lunch-Harbin-22-88x88.jpg
-categories: []
+categories:
+- Russian
 tags:
 - harbin
 - russian

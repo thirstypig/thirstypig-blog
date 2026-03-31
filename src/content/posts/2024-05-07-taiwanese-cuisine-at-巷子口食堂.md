@@ -18,6 +18,9 @@ images:
 - /images/posts/ig-2024-05-07-taiwanese-cuisine-at-巷子口食堂/18310267981147044.jpg
 tags:
 - taipei
+- taiwanese
+- pork
+- seafood
 description: Taiwanese cuisine at 巷子口食堂. Traditional dishes that you won’t find at night markets or on the street. Pork and seafood dishes done well. We almost polished off a bottle of Kaoliang,Taiwanese white wine. It was a great night to catch up with old classmates, from our USC MBA program. . . .
 location: 小器食堂 Xiaoqi +k
 city: Taipei
@@ -26,7 +29,10 @@ address: 赤峰街27號, 台北市,  103
 coordinates:
   lat: 25.054088
   lng: 121.51937
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese cuisine at 巷子口食堂](/images/posts/ig-2024-05-07-taiwanese-cuisine-at-巷子口食堂/18004420247585710.jpg)

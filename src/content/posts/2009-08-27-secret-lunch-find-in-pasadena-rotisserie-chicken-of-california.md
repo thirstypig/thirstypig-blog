@@ -9,7 +9,8 @@ images:
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0040.JPG
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0045.JPG
 - /images/posts/secret-lunch-find-in-pasadena-rotisserie-chicken-of-california/DSCN0047.JPG
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

@@ -14,7 +14,8 @@ images:
 - /images/posts/lazy-ox-canteen-downtown-los-angeles/IMG_0194.JPG
 - /images/posts/lazy-ox-canteen-downtown-los-angeles/IMG_0195.JPG
 - /images/posts/lazy-ox-canteen-downtown-los-angeles/IMG_0197.JPG
-categories: []
+categories:
+- Multi
 tags:
 - dtla
 - multi

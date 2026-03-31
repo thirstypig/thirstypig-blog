@@ -21,7 +21,8 @@ address: 856 S Vermont Ave (btwn 8th & James M Wood), Los Angeles, CA 90005
 coordinates:
   lat: 34.056462
   lng: -118.291348
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

@@ -20,7 +20,8 @@ address: 2801 Leavenworth St (at Bay St), San Francisco, CA 94133
 coordinates:
   lat: 37.80837
   lng: -122.415267
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

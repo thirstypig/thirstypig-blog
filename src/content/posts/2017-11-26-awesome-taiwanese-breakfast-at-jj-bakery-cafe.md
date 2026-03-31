@@ -19,7 +19,8 @@ description: Awesome Taiwanese breakfast at JJ Bakery & Cafe. We shared the Rice
 location: JJ Bakery & Cafe
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

@@ -15,7 +15,8 @@ images:
 - /images/posts/hot-pot-火鍋-at-happy-sheep-shabu-grill-小肥羊-san-gabriel/IMG_0247.JPG
 - /images/posts/hot-pot-火鍋-at-happy-sheep-shabu-grill-小肥羊-san-gabriel/IMG_0248.JPG
 - /images/posts/hot-pot-火鍋-at-happy-sheep-shabu-grill-小肥羊-san-gabriel/IMG_0249.JPG
-categories: []
+categories:
+- Chinese
 tags:
 - san-gabriel
 - chinese

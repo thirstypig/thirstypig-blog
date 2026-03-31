@@ -20,7 +20,8 @@ description: Breakfast burritos at Homestate. Had the brisket taco and the trini
 location: HomeState
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

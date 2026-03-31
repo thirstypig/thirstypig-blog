@@ -12,7 +12,8 @@ images:
 - /images/posts/robins-woodfire-bbq/IMG_1473-185x185.jpg
 - /images/posts/robins-woodfire-bbq/IMG_1475-185x185.jpg
 - /images/posts/robins-woodfire-bbq/IMG_1478-185x185.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - pasadena
 - bbq

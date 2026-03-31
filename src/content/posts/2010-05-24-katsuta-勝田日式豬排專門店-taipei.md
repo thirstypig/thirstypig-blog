@@ -4,7 +4,8 @@ pubDate: '2010-05-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/24/katsuta-%e5%8b%9d%e7%94%b0%e6%97%a5%e5%bc%8f%e8%b1%ac%e6%8e%92%e5%b0%88%e9%96%80%e5%ba%97-taipei/
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

@@ -4,7 +4,8 @@ pubDate: '2017-02-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/06/grimaldis-pizzeria-el-segundo/
-categories: []
+categories:
+- Italian
 tags:
 - el-segundo
 - italian

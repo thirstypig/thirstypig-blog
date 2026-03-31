@@ -21,7 +21,8 @@ description: Pasadena Greek Fest. Gyros, Souvlakia, Baklava, and chicken souvlak
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Mediterranean
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032

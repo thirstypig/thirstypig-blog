@@ -16,7 +16,8 @@ tags:
 description: Hamburger Steak Set Meal and Soy Cod Bowl at the Delicatessen by Osawa. Pretty good. I will certainly return. Not sure if I would recommend since I don’t want it to be too crowded 😜. . .
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

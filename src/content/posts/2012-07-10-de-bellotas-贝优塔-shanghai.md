@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2012/07/10/de-bellotas-%E8%B4%9D%E4
 heroImage: /images/posts/de-bellotas-贝优塔-shanghai/de.bellotas.shanghai.06-188x188.jpg
 images:
 - /images/posts/de-bellotas-贝优塔-shanghai/de.bellotas.shanghai.06-188x188.jpg
-categories: []
+categories:
+- Uncategorized
 description: What is De Bellotas? De Bellotas is a Spanish restaurant located near Shanghai’s Xintaindi. Situated just a 5 minute walk away, with a couple of other interesting restaurants like Tenya, Bellagio, and
 archiveUrl: https://web.archive.org/web/20120724110206/http://www.thethirstypig.com:80/2012/07/10/de-bellotas-%E8%B4%9D%E4%BC%98%E5%A1%94-shanghai/
 draft: false

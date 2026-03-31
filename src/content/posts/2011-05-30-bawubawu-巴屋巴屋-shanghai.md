@@ -4,7 +4,8 @@ pubDate: '2011-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/30/bawubawu-%e5%b7%b4%e5%b1%8b%e5%b7%b4%e5%b1%8b-shanghai/
-categories: []
+categories:
+- Coffee
 tags:
 - shanghai
 - coffee

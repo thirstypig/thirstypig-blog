@@ -26,7 +26,8 @@ address: 150 W 17th St (btwn 6th & 7th Ave), New York, NY 10011
 coordinates:
   lat: 40.74011
   lng: -73.997807
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

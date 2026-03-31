@@ -4,7 +4,8 @@ pubDate: '2010-03-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/04/big-wangs-dtla/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

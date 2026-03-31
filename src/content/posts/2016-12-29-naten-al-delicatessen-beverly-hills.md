@@ -4,7 +4,8 @@ pubDate: '2016-12-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/29/naten-al-delicatessen-beverly-hills/
-categories: []
+categories:
+- American
 tags:
 - beverly-hills
 - american

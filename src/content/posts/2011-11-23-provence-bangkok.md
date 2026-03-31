@@ -4,7 +4,8 @@ pubDate: '2011-11-23'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/11/23/provence-bangkok/
-categories: []
+categories:
+- Thai
 description: Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time t
 archiveUrl: https://web.archive.org/web/20120116091150/http://www.thethirstypig.com:80/2011/11/23/provence-bangkok/
 draft: false

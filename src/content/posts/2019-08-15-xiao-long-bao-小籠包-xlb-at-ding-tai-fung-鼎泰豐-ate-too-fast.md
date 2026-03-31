@@ -22,7 +22,8 @@ tags:
 - dim-sum
 description: Xiao Long Bao 小籠包 XLB at Ding Tai Fung 鼎泰豐 Ate too fast. . . . .
 location: Ding Tai Fung 鼎泰豐  Ate too fast
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

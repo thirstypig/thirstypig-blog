@@ -23,7 +23,8 @@ images:
 - /images/posts/an-evening-with-yue-sai-kan-靳羽西/Yue-Sai-Kan-Event-63-88x88.jpg
 - /images/posts/an-evening-with-yue-sai-kan-靳羽西/Yue-Sai-Kan-Event-64-88x88.jpg
 - /images/posts/an-evening-with-yue-sai-kan-靳羽西/Yue-Sai-Kan-Event-68-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: This past week, we got to meet the venerable Yue-Sai Kan 靳羽西. She graciously hosted us at her spacious home in Shanghai. Our professor, Peter Carnevale was able to arrange for an informal talk with he
 archiveUrl: https://web.archive.org/web/20101126173113/http://www.thethirstypig.com:80/2010/11/25/an-evening-with-yue-sai-kan-%E9%9D%B3%E7%BE%BD%E8%A5%BF/
 draft: false

@@ -13,7 +13,9 @@ images:
 tags: []
 description: Was looking for a bag. . . . . This Prada store was in the middle of nowhere. It is an outdoor art installation. Interesting. . . . . .
 location: Was looking for a bag
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Was looking for a bag](/images/posts/ig-2022-06-27-was-looking-for-a-bag/17961998179751085.jpg)

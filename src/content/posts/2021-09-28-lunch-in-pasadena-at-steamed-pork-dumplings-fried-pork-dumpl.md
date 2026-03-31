@@ -19,7 +19,8 @@ tags:
 description: Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scallion pancakes. Yum! . . . . .
 location: Dumpling Station
 city: Pasadena
-categories: []
+categories:
+- Chinese
 region: San Gabriel Valley
 address: South Pasadena, CA
 coordinates:

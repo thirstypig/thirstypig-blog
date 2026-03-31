@@ -9,7 +9,8 @@ images:
 - /images/posts/efficient-korean-bbq-dgm/071320071187.jpg
 - /images/posts/efficient-korean-bbq-dgm/071320071190.jpg
 - /images/posts/efficient-korean-bbq-dgm/071320071191.jpg
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

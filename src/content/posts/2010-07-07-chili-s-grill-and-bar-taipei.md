@@ -15,7 +15,8 @@ images:
 - /images/posts/chili-s-grill-and-bar-taipei/IMG_2410-88x88.jpg
 - /images/posts/chili-s-grill-and-bar-taipei/IMG_2411-600x450.jpg
 - /images/posts/chili-s-grill-and-bar-taipei/IMG_2411-88x88.jpg
-categories: []
+categories:
+- American
 tags:
 - taipei
 - american

@@ -23,7 +23,8 @@ images:
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-15-88x88.jpg
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-16-88x88.jpg
 - /images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-17-88x88.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

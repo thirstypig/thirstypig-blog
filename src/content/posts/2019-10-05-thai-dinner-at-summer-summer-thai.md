@@ -18,7 +18,8 @@ tags:
 - curry-noodles
 description: Thai dinner at Summer Summer Thai. Summer roll, crab Rangoon, corn fritters, pork steak, beef, and curry noodles. Yummy. Summer rolls make you feel less guilty. Could eat almost everyday. . . . .
 location: Thai dinner at Summer Summer Thai
-categories: []
+categories:
+- Thai
 cuisine:
 - Thai
 ---

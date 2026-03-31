@@ -19,7 +19,8 @@ tags:
 description: Grilled Cheese Sandwich lunch with co-workers at The Melt, Irvine Spectrum. Egg hole grilled cheese.
 city: Irvine
 region: Orange County
-categories: []
+categories:
+- American
 location: The Melt
 address: 665 Spectrum Center Dr (at Irvine Spectrum Center), Irvine, CA 92618
 coordinates:

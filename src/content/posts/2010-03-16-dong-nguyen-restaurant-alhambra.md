@@ -11,7 +11,8 @@ images:
 - /images/posts/dong-nguyen-restaurant-alhambra/IMG_0231.JPG
 - /images/posts/dong-nguyen-restaurant-alhambra/IMG_0232.JPG
 - /images/posts/dong-nguyen-restaurant-alhambra/IMG_0235.JPG
-categories: []
+categories:
+- Multi
 tags:
 - alhambra
 - multi

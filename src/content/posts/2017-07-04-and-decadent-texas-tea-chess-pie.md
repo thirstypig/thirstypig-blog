@@ -22,7 +22,8 @@ description: and decadent Texas tea chess pie
 location: Lucy's Fried Chicken
 city: Austin
 region: Texas
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

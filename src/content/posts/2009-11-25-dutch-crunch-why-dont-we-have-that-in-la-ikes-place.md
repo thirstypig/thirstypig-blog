@@ -12,7 +12,8 @@ images:
 - /images/posts/dutch-crunch-why-dont-we-have-that-in-la-ikes-place/DSCN0013.JPG
 - /images/posts/dutch-crunch-why-dont-we-have-that-in-la-ikes-place/DSCN0015.JPG
 - /images/posts/dutch-crunch-why-dont-we-have-that-in-la-ikes-place/DSCN0019.JPG
-categories: []
+categories:
+- American
 tags:
 - san-francisco
 - american

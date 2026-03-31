@@ -24,7 +24,8 @@ description: The cheeseburger potsticker at Ms Chi in Culver City. Crispy chicke
 location: Ms Chi
 city: Culver City
 region: Los Angeles
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

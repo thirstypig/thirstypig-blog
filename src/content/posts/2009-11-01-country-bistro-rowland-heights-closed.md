@@ -4,7 +4,8 @@ pubDate: '2009-11-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/
-categories: []
+categories:
+- Taiwanese
 tags:
 - rowland-heights
 - taiwanese

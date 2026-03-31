@@ -8,7 +8,8 @@ heroImage: /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Ta
 images:
 - /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Tarts-HKG-02-188x188.jpg
 - /images/posts/the-cold-egg-tart-at-tai-cheong-bakery-hong-kong/Egg-Tarts-HKG-04-494x370.jpg
-categories: []
+categories:
+- Bakery
 tags:
 - hong-kong
 - bakery

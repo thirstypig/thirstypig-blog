@@ -4,7 +4,8 @@ pubDate: '2009-11-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/24/yoshida-san-marino/
-categories: []
+categories:
+- Japanese
 tags:
 - san-marino
 - japanese

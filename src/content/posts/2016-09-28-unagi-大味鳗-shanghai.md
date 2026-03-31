@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-
 heroImage: /images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg
 images:
 - /images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

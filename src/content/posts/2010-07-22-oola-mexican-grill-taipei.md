@@ -11,7 +11,8 @@ images:
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-18-88x88.jpg
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-19-88x88.jpg
 - /images/posts/oola-mexican-grill-taipei/oola-mexican-grill-9-88x88.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - taipei
 - mexican

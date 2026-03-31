@@ -1,5 +1,5 @@
 ---
-title: Had A-sha newest noodles - Meteor noodles
+title: A-sha, Unknown
 pubDate: '2022-06-15'
 author: The Thirsty Pig
 source: instagram
@@ -14,9 +14,15 @@ images:
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17855790593769098.jpg
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17944721717029200.jpg
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17920900889328265.jpg
-tags: []
+tags:
+- taiwanese
+- noodles
+- instant-noodles
 description: Had A-sha newest noodles - Meteor noodles. Great texture and flavor. Noodles did a good job in soaking up the sauce. There’s a sign up on the link in the description. Asha was started by my good friends in Taiwan. Nice to see how popular they now are. 加油！ . . . . .
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Had A-sha newest noodles - Meteor noodles](/images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/18146198236300546.jpg)

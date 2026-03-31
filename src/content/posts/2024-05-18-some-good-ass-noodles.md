@@ -14,6 +14,9 @@ images:
 - /images/posts/ig-2024-05-18-some-good-ass-noodles/18401552122078721.jpg
 tags:
 - taipei
+- chinese
+- noodles
+- ramen
 description: Some good ass noodles. Hearty chicken broth that was over the top rich and not too savory. The chicken which was in the form of meat balls, slices, and thigh chunks made up this unique ramen. Unexpectedly yummy. No wonder there was a line waiting outside in the humid sun. . . .
 location: 張家清真黃牛肉麵館 Chang's Halal beef Noodles
 city: Taipei
@@ -22,7 +25,10 @@ address: 延平南路23號, 中正區, 臺北市 100
 coordinates:
   lat: 25.045718
   lng: 121.51072
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Some good ass noodles](/images/posts/ig-2024-05-18-some-good-ass-noodles/17962423760751790.jpg)

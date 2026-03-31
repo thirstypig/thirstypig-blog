@@ -10,9 +10,14 @@ images:
 - /images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/18080681902359803.jpg
 - /images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/18028636927463987.jpg
 - /images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/17853888731963243.jpg
-tags: []
+tags:
+- bbq
+- burnt-ends
 description: Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork belly burnt ends, and slaw. Everything was spot on. The burnt ends were phenomenal. Only wish it had a little more char. . . . .
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Smoked moist Brisket, spicy beef garlic sausage, brisket beans, Korean pork b...](/images/posts/ig-2023-05-14-smoked-moist-brisket-spicy-beef-garlic-sausage-brisket-beans/17994928285770701.jpg)

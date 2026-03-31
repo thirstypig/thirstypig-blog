@@ -4,7 +4,8 @@ pubDate: 2018-07-11 00:00:00+00:00
 description: Tonkatsu dinner at T.O.T. Restaurant in a Little Tokyo. Teishokuya of Tokyo - T.O.T. I remember the first time I went a long long time ago. We had the pork loin tonkatsu and a potato croquette. Also had a tuna bowl with udon. And couldn’t forget the fried chicken wings. Yum! . . . . .
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2018-07-11-tonkatsu-dinner-at-t/17943295963121728.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - los-angeles
 - japanese

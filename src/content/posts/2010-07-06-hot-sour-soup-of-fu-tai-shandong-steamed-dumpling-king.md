@@ -13,7 +13,8 @@ images:
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-5-88x88.jpg
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-7-88x88.jpg
 - /images/posts/hot-sour-soup-of-fu-tai-shandong-steamed-dumpling-king/San-Dong-8-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

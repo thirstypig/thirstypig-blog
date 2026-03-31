@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/03/04/worlds-best-street-food/
 heroImage: /images/posts/worlds-best-street-food/ideas_streetfood_010p.jpg
 images:
 - /images/posts/worlds-best-street-food/ideas_streetfood_010p.jpg
-categories: []
+categories:
+- Uncategorized
 description: I got this link from Digg.com. I thought it was pretty interesting. I would love to try all of these places – even the dirtiest ones in Mumbai. Anyways. .. I hope you enjoy it.
 archiveUrl: https://web.archive.org/web/20110105062259/http://www.thethirstypig.com/2009/03/04/worlds-best-street-food/
 draft: false

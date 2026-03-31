@@ -4,7 +4,8 @@ pubDate: '2011-09-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/07/la-finca-%e5%ba%84%e6%ba%90-shanghai-restaurant-week-closed/
-categories: []
+categories:
+- Mediterranean
 tags:
 - shanghai
 - mediterranean

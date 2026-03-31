@@ -4,7 +4,8 @@ pubDate: '2016-07-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/07/28/plan-check-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

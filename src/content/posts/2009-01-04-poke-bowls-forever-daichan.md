@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/01/04/poke-bowls-forever-daichan/
 heroImage: /images/posts/poke-bowls-forever-daichan/01182007639.jpg
 images:
 - /images/posts/poke-bowls-forever-daichan/01182007639.jpg
-categories: []
+categories:
+- Japanese
 description: Daichan has one of the few things in this world I would eat everyday. Their poke bowls are hearty, yet healthy. With the combination of the salad components with the fish and rice make this meal compl
 archiveUrl: https://web.archive.org/web/20111103144055/http://www.thethirstypig.com/2009/01/04/poke-bowls-forever-daichan/
 draft: false

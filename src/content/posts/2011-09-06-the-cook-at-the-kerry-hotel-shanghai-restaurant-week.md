@@ -16,7 +16,8 @@ images:
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-09-494x370.jpg
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-10-494x370.jpg
 - /images/posts/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/Cook-Kerry-Shanghai-11-494x370.jpg
-categories: []
+categories:
+- Multi
 description: The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all y
 archiveUrl: https://web.archive.org/web/20111011065910/http://www.thethirstypig.com/2011/09/06/the-cook-at-the-kerry-hotel-shanghai-restaurant-week/
 draft: false

@@ -24,7 +24,8 @@ address: 410 South Myrtle Ave, Monrovia, CA 91016
 coordinates:
   lat: 34.14754
   lng: -118.000373
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

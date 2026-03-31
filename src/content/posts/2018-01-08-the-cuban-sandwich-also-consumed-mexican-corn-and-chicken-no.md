@@ -24,7 +24,8 @@ address: 17 Prince St (at Elizabeth St), New York, NY 10012
 coordinates:
   lat: 40.722796
   lng: -73.994217
-categories: []
+categories:
+- Cuban
 cuisine:
 - Cuban
 ---

@@ -4,7 +4,8 @@ pubDate: '2010-07-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/31/just-grapes-shanghai/
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

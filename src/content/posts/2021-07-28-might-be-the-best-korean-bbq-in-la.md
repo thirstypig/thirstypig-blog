@@ -24,7 +24,8 @@ description: Might be the best Korean BBQ in LA. Known for their highly selectiv
 location: Might be the best Korean BBQ in LA
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

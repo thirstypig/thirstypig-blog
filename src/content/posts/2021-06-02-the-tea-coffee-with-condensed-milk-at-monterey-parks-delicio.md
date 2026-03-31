@@ -20,7 +20,8 @@ address: 318 S Ramona Ave (at Newmark Ave), Monterey Park, CA 91754
 coordinates:
   lat: 34.059099
   lng: -118.124781
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

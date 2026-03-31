@@ -15,7 +15,8 @@ tags:
 - salad
 description: Lunch at The Habit Burger Grill. I had the super foods salad - like a good boy and Michael had the Burger with frings. . . . . .
 location: Lunch at The Habit Burger Grill
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

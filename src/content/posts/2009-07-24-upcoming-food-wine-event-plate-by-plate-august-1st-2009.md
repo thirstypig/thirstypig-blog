@@ -12,7 +12,8 @@ images:
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/post+1.1.jpg
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/post+1.jpg
 - /images/posts/upcoming-food-wine-event-plate-by-plate-august-1st-2009/wine5.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - los-angeles
 - wine-event

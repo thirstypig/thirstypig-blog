@@ -4,7 +4,8 @@ pubDate: '2010-08-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/19/wood-spoon-dtla/
-categories: []
+categories:
+- Brazilian
 tags:
 - dtla
 - brazilian

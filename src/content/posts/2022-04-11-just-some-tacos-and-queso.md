@@ -11,9 +11,15 @@ images:
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/17925098273334205.jpg
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/17971528993514457.jpg
 - /images/posts/ig-2022-04-11-just-some-tacos-and-queso/18290711404041051.jpg
-tags: []
+tags:
+- mexican
+- tacos
+- queso
 description: Just some tacos and queso. And of course some drinks. Really can’t go wrong with tacos. . . . . . .
-categories: []
+categories:
+- Mexican
+cuisine:
+- Mexican
 ---
 
 ![Just some tacos and queso](/images/posts/ig-2022-04-11-just-some-tacos-and-queso/17901761774547339.jpg)

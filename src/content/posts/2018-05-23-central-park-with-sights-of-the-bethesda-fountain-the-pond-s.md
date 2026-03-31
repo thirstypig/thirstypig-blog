@@ -17,7 +17,8 @@ images:
 - /images/posts/ig-2018-05-23-central-park-with-sights-of-the-bethesda-fountain-the-pond-s/17933334622110694.jpg
 tags: []
 description: Central Park with sights of the Bethesda Fountain, the Pond, Statues, and some random park shots. Beautiful park and lots to see. Great day to enjoy the outdoors. It was a little humid, but luckily we had a slight breeze. Too bad the castle was under reconstruction . . . .
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

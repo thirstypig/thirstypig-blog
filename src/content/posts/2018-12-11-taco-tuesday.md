@@ -17,7 +17,8 @@ description: Taco Tuesday! Best fish tacos in Sierra Madre! At Tacos Ensenada . 
 location: Taco Tuesday
 city: Sierra Madre
 region: San Gabriel Valley
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

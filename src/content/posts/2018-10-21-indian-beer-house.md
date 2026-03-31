@@ -21,7 +21,8 @@ description: Indian Beer House! It’s actually Taiwanese cuisine with beer at a
 location: Indian Beer House
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

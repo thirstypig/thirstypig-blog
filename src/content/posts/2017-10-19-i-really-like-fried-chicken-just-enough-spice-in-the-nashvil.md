@@ -26,7 +26,8 @@ address: 3705 W Sunset Blvd, Los Angeles, CA 90026
 coordinates:
   lat: 34.090851
   lng: -118.277753
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

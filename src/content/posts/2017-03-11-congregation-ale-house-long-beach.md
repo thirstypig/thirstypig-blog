@@ -4,7 +4,8 @@ pubDate: '2017-03-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/11/congregation-ale-house-long-beach/
-categories: []
+categories:
+- American
 tags:
 - long-beach
 - american

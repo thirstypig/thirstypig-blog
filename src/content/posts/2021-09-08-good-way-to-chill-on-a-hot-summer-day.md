@@ -14,7 +14,8 @@ images:
 tags: []
 description: Good way to chill on a hot summer day. It’s still summer, right??? . . . . . .
 location: Good way to chill on a hot summer day
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

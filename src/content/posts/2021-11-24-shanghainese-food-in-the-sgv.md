@@ -15,15 +15,21 @@ images:
 - /images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/17883815156541972.jpg
 tags:
 - shanghai
+- chinese
+- dumplings
+- shanghainese
 description: Shanghainese food in the SGV. Pan fried dumplings 生煎包 were great! After living in Shanghai for six years, you miss some of the these things. . . . . . . .
 location: The Clinic
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 address: 501, Building B, 98-118 Jiashan Rd | 徐汇区嘉善路98-118楼B座501室 (Yongkang Rd | 永康路), Xuhui, 上海市
 coordinates:
   lat: 31.213464
   lng: 121.454507
+cuisine:
+- Chinese
 ---
 
 ![Shanghainese food in the SGV](/images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/18019586896338132.jpg)

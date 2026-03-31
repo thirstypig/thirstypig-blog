@@ -23,7 +23,8 @@ description: Japanese ceramics from LA Little Tokyo Utsuwa No Yakata. Creative d
 location: Park Hyatt Tokyo (パークハイアット東京)
 city: Tokyo
 region: Tokyo
-categories: []
+categories:
+- Uncategorized
 address: 西新宿3-7-1-2 (新宿パークタワー), 新宿区, 東京都, 163-1055
 coordinates:
   lat: 35.685575

@@ -12,7 +12,8 @@ images:
 - /images/posts/ig-2018-01-03-views-of-lady-liberty-on-the-staten-island-ferry/17876863903198895.jpg
 tags: []
 description: Views of Lady Liberty on the Staten Island Ferry.
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

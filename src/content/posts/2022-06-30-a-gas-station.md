@@ -1,5 +1,5 @@
 ---
-title: A gas station
+title: Buc-ee's, unknown
 pubDate: '2022-06-30'
 author: The Thirsty Pig
 source: instagram
@@ -11,9 +11,14 @@ images:
 - /images/posts/ig-2022-06-30-a-gas-station/17930270912196779.jpg
 - /images/posts/ig-2022-06-30-a-gas-station/17959943800832122.jpg
 - /images/posts/ig-2022-06-30-a-gas-station/18307423768009951.jpg
-tags: []
+tags:
+- bbq
+- beef-jerky
 description: A gas station. But this is no ordinary gas station. This is a Buc-ee’s!!! This is the largest gas station that I have ever been to. Also, the food. OMG. They have beef jerky, nuts, bbq sandwiches, etc. also, they are known to have the cleanest restrooms. This is a crazy place. Every time I see one, I have to stop. . . . . .
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![A gas station](/images/posts/ig-2022-06-30-a-gas-station/17957025772868820.jpg)

@@ -4,7 +4,8 @@ pubDate: '2009-07-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/07/21/food-wine-events-calendar-los-angeles/
-categories: []
+categories:
+- Uncategorized
 description: 'Here is a list of the Food & Wine Events in and around Los Angeles. I know some of them have past . . .but you can check for them next year as well. These are some of the events that I plan to attend '
 archiveUrl: https://web.archive.org/web/20110106015300/http://www.thethirstypig.com/2009/07/21/food-wine-events-calendar-los-angeles/
 draft: false

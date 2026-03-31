@@ -7,6 +7,10 @@ draft: false
 heroImage: /images/posts/ig-2021-12-17-instagram-post-december-17-2021/17950059040608822.jpg
 images:
 - /images/posts/ig-2021-12-17-instagram-post-december-17-2021/17950059040608822.jpg
+cuisine: []
+tags: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — December 17, 2021](/images/posts/ig-2021-12-17-instagram-post-december-17-2021/17950059040608822.jpg)

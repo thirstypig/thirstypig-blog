@@ -1,5 +1,5 @@
 ---
-title: Vegetarian meal at Vege Paradise
+title: Vege Paradise, unknown
 pubDate: '2022-09-09'
 author: The Thirsty Pig
 source: instagram
@@ -11,10 +11,15 @@ images:
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18318857257033149.jpg
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18051459124354430.jpg
 - /images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17938488344468238.jpg
-tags: []
+tags:
+- multi
+- vegetarian
 description: Vegetarian meal at Vege Paradise.
 location: Vegetarian meal at Vege Paradise
-categories: []
+categories:
+- Multi
+cuisine:
+- Multi
 ---
 
 ![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17977125382723596.jpg)

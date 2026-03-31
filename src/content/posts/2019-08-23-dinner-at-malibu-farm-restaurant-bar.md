@@ -25,7 +25,8 @@ address: 23000 Pacific Coast Hwy, Malibu, CA 90265
 coordinates:
   lat: 34.03711
   lng: -118.676517
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

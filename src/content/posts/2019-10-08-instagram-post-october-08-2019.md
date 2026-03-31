@@ -18,7 +18,8 @@ tags:
 description: . Ramen! . . . . .
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

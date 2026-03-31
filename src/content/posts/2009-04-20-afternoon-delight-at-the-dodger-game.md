@@ -10,7 +10,8 @@ images:
 - /images/posts/afternoon-delight-at-the-dodger-game/IMG_0554.JPG
 - /images/posts/afternoon-delight-at-the-dodger-game/IMG_0556.JPG
 - /images/posts/afternoon-delight-at-the-dodger-game/IMG_0562.JPG
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

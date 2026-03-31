@@ -11,7 +11,8 @@ images:
 tags: []
 description: Union Station before my daily ride. . . . .
 location: Union Station before my daily ride
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

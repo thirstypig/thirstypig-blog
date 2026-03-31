@@ -18,7 +18,8 @@ description: Early lunch/brunch at L’antica in Hollywood. Breakfast pizza, mar
 location: L'Antica Pizzeria da Michele
 city: Hollywood
 region: Hollywood
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

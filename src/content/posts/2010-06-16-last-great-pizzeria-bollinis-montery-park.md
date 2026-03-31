@@ -16,7 +16,8 @@ images:
 - /images/posts/last-great-pizzeria-bollinis-montery-park/Bollini-6-88x88.jpg
 - /images/posts/last-great-pizzeria-bollinis-montery-park/Bollini-7-88x88.jpg
 - /images/posts/last-great-pizzeria-bollinis-montery-park/Bollini-8-88x88.jpg
-categories: []
+categories:
+- Italian
 tags:
 - monterey-park
 - italian

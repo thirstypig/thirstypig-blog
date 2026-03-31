@@ -4,7 +4,8 @@ pubDate: '2010-04-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/05/grumpy-pig-shanghai/
-categories: []
+categories:
+- BBQ
 tags:
 - shanghai
 - bbq

@@ -9,7 +9,8 @@ images:
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+1.jpg
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+2.jpg
 - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+4.jpg
-categories: []
+categories:
+- Korean
 description: Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.
 archiveUrl: https://web.archive.org/web/20110105162822/http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/
 draft: false

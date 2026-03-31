@@ -21,7 +21,8 @@ address: 4115 Campus Dr (at Bridge Rd), Irvine, CA 92612
 coordinates:
   lat: 33.650163
   lng: -117.840666
-categories: []
+categories:
+- Peruvian
 cuisine:
 - Peruvian
 ---

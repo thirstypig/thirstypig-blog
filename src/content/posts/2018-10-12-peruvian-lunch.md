@@ -19,7 +19,8 @@ tags:
 - lunch
 description: Peruvian lunch. Wish the portions were larger. But after an hour we realized we were quite full from lunch. Say hello to Rose the yorkie. . . . . .
 location: Peruvian lunch
-categories: []
+categories:
+- Peruvian
 cuisine:
 - Peruvian
 ---

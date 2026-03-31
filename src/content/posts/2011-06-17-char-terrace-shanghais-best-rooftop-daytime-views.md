@@ -4,7 +4,8 @@ pubDate: '2011-06-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/06/17/char-terrace-shanghais-best-rooftop-daytime-views/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

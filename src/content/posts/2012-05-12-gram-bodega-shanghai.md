@@ -4,7 +4,8 @@ pubDate: '2012-05-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/12/gram-bodega-shanghai/
-categories: []
+categories:
+- Spanish
 tags:
 - shanghai
 - spanish

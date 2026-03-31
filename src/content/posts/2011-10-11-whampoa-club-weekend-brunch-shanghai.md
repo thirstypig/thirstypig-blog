@@ -28,7 +28,8 @@ images:
 - /images/posts/whampoa-club-weekend-brunch-shanghai/Whampoa-Club-Shanghai-22.jpg
 - /images/posts/whampoa-club-weekend-brunch-shanghai/Whampoa-Club-Shanghai-23-494x368.jpg
 - /images/posts/whampoa-club-weekend-brunch-shanghai/Whampoa-Club-Shanghai-24-494x368.jpg
-categories: []
+categories:
+- Chinese
 description: The Whampoa Club at Three on the Bund is promoting their new Shanghai Dim Sum lunch.http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/ I was able to round up
 archiveUrl: https://web.archive.org/web/20111027143319/http://www.thethirstypig.com/2011/10/11/whampoa-club-weekend-brunch-shanghai/
 draft: false

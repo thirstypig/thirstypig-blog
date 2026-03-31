@@ -21,7 +21,8 @@ address: Los Angeles, CA
 coordinates:
   lat: 33.991962
   lng: -118.470475
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

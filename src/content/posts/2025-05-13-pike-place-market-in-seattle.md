@@ -1,5 +1,5 @@
 ---
-title: Pike Place Market Foundation, Seattle
+title: Pike Place Market, Seattle
 pubDate: '2025-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -11,6 +11,8 @@ images:
 - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/17920135584094378.jpg
 tags:
 - seattle
+- market
+- local
 description: Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints
 location: Pike Place Market Foundation
 city: Seattle
@@ -19,7 +21,9 @@ address: Seattle, WA 98101
 coordinates:
   lat: 47.608494
   lng: -122.340327
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Pike Place Market in Seattle](/images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg)

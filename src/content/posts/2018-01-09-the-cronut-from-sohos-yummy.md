@@ -29,7 +29,8 @@ address: 66 Perry St (btwn Bleeker & W 4th St), New York, NY 10014
 coordinates:
   lat: 40.735488
   lng: -74.003781
-categories: []
+categories:
+- Bakery
 cuisine:
 - Bakery
 ---

@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/
 heroImage: /images/posts/garlic-ramen-omfg-ramenya/0b4fb1dd014f0101_m.jpg
 images:
 - /images/posts/garlic-ramen-omfg-ramenya/0b4fb1dd014f0101_m.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - sawtelle
 - japanese

@@ -4,7 +4,8 @@ pubDate: '2013-08-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2013/08/22/zi-lin-charcoal-grilling/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

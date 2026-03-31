@@ -8,7 +8,8 @@ heroImage: /images/posts/shinsen-gumi-ramen-torrance/072720081712.jpg
 images:
 - /images/posts/shinsen-gumi-ramen-torrance/072720081712.jpg
 - /images/posts/shinsen-gumi-ramen-torrance/072720081714.jpg
-categories: []
+categories:
+- Japanese
 description: 'Located in a mini mall off of redondo, Shensen gumi serves some of the best ramen. Differing from the ramen houses in West LA, Shensen Gumi features a basic ramen with pork slices. They offer it with '
 archiveUrl: https://web.archive.org/web/20110105094618/http://www.thethirstypig.com/2009/02/10/shinsen-gumi-ramen-torrance/
 draft: false

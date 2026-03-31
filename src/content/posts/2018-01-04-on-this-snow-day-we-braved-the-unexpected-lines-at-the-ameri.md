@@ -22,7 +22,8 @@ address: 200 Central Park W (btwn W 77th & W 81st St), New York, NY 10024
 coordinates:
   lat: 40.781311
   lng: -73.973479
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

@@ -11,7 +11,8 @@ images:
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-4-88x88.jpg
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-5-88x88.jpg
 - /images/posts/lu-ro-fan-at-da-lai-kodate-taipei/Da-Lai-Kodate-6-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

@@ -4,7 +4,8 @@ pubDate: '2010-08-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

@@ -18,7 +18,8 @@ description: Yet another . . . Taiwanese Beef Noodle Soup, this time from Old Co
 location: Yet another
 city: Alhambra
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

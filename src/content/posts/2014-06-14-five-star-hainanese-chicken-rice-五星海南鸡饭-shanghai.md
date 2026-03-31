@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2014/06/14/five-star-hainanese-chicken-rice-%
 heroImage: /images/posts/five-star-hainanese-chicken-rice-五星海南鸡饭-shanghai/IMG_1257.jpg
 images:
 - /images/posts/five-star-hainanese-chicken-rice-五星海南鸡饭-shanghai/IMG_1257.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

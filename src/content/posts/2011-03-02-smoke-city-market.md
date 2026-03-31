@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/02/smoke-city-market/
 heroImage: /images/posts/smoke-city-market/Smoke-City-BBQ-06-188x188.jpg
 images:
 - /images/posts/smoke-city-market/Smoke-City-BBQ-06-188x188.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - bbq
 - ribs

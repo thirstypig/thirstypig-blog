@@ -20,7 +20,8 @@ address: 1260 Avenue of the Americas (at W 50th St), New York, NY 10020
 coordinates:
   lat: 40.75985
   lng: -73.979344
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

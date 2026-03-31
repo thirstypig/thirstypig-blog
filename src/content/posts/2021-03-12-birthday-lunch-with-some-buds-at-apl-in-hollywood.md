@@ -18,7 +18,8 @@ description: Birthday lunch with some buds at APL in Hollywood. Texas Smokin’ 
 location: Masonic Lodge at Hollywood Forever
 city: Hollywood
 region: Hollywood
-categories: []
+categories:
+- BBQ
 address: 5970 Santa Monica Blvd, Los Angeles, CA 90038
 coordinates:
   lat: 34.090556

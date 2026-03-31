@@ -23,7 +23,8 @@ description: Hot Pot lunch at Little Sheep in old town Pasadena. 小肥羊
 location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Chinese
 address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657

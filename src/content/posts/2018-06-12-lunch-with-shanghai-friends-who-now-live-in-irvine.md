@@ -17,7 +17,8 @@ description: Lunch with Shanghai friends, who now live in Irvine. A good hearty 
 location: Pepper Lunch
 city: Irvine
 region: Orange County
-categories: []
+categories:
+- Japanese
 address: 2750 Alton Pkwy (Jamboree Blvd), Irvine, CA 92606
 coordinates:
   lat: 33.688403

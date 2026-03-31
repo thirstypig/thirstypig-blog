@@ -4,7 +4,8 @@ pubDate: '2011-12-15'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/15/mayan-grill-taipei/
-categories: []
+categories:
+- Mexican
 description: 'With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like Mayahttp://www.thethirstypig.com/2011/09/19/maya-brunch-shanghai/, everyday type '
 archiveUrl: https://web.archive.org/web/20120116092821/http://www.thethirstypig.com:80/2011/12/15/mayan-grill-taipei/
 draft: false

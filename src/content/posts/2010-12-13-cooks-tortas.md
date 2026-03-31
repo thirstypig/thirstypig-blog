@@ -17,7 +17,8 @@ images:
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-09-88x88.jpg
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-10-88x88.jpg
 - /images/posts/cooks-tortas/Cooks-Tortas-Monterey-Park-CA-11-88x88.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

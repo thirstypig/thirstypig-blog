@@ -1,5 +1,5 @@
 ---
-title: Enjoying the experience at Koh Samui
+title: Koh Samui, Koh Samui
 pubDate: '2024-04-18'
 author: The Thirsty Pig
 source: instagram
@@ -14,7 +14,9 @@ images:
 tags: []
 description: Enjoying the experience at Koh Samui. Interesting airport, big Buddha, and the resort. Had a great time. Could have stayed longer. Fun times! . . .
 location: Koh Samui
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Enjoying the experience at Koh Samui](/images/posts/ig-2024-04-18-enjoying-the-experience-at-koh-samui/17846603640181826.jpg)

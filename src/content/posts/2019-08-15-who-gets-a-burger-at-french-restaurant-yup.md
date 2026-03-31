@@ -18,7 +18,8 @@ tags:
 - grilled-octopus
 description: Who gets a burger at French restaurant? Yup. I do. The grilled octopus was pretty good, too . . . .
 location: Who gets a burger at French restaurant?  Yup
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

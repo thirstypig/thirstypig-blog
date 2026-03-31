@@ -17,7 +17,8 @@ description: Pizza near the Manhattan Bridge near DUMBO. We paid over $2 a slice
 location: Pizza near the Manhattan Bridge near DUMBO
 city: Manhattan
 region: New York
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

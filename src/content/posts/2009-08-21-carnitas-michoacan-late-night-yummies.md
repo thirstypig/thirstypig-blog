@@ -11,7 +11,8 @@ images:
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0005.JPG
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0006.JPG
 - /images/posts/carnitas-michoacan-late-night-yummies/DSCN0013.JPG
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

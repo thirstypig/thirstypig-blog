@@ -4,7 +4,8 @@ pubDate: '2011-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/27/ches-cantonese-restaurant-%e8%bb%8a%e6%b0%8f%e7%b2%b5%e8%8f%9c%e8%bb%92-wan-chai/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

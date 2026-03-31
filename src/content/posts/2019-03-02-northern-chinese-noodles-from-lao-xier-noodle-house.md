@@ -25,7 +25,8 @@ address: 921 S Baldwin Ave Ste G-H, Arcadia, CA 91006
 coordinates:
   lat: 34.129101
   lng: -118.0549
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

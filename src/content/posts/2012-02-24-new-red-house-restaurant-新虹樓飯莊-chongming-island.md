@@ -4,7 +4,8 @@ pubDate: '2012-02-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/24/new-red-house-restaurant-%e6%96%b0%e8%99%b9%e6%a8%93%e9%a3%af%e8%8e%8a-chongming-island/
-categories: []
+categories:
+- Chinese
 tags:
 - chongming
 - chinese

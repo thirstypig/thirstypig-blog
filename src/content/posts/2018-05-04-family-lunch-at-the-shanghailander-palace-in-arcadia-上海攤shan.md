@@ -23,7 +23,8 @@ description: Family lunch at the Shanghailander Palace, in Arcadia 上海攤。S
 location: Shanghailander Palace
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

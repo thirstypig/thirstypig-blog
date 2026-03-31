@@ -22,7 +22,8 @@ address: 125 Paseo de La Plz (btwn Main & Los Angeles St), Los Angeles, CA 90012
 coordinates:
   lat: 34.056751
   lng: -118.2384
-categories: []
+categories:
+- Colombian
 cuisine:
 - Colombian
 ---

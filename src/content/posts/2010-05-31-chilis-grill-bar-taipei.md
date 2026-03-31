@@ -4,7 +4,8 @@ pubDate: '2010-05-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/
-categories: []
+categories:
+- American
 tags:
 - taipei
 - american

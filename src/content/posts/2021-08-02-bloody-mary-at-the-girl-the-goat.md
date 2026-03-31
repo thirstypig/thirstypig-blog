@@ -19,10 +19,11 @@ tags:
 - chicago
 - fusion
 - brunch
-- cocktails
+- sausage-sandwich
 description: Bloody Mary at The Girl & the Goat. Brunch consisted of the little piggy (sausage sandwich), parantha, and shrimp fried rice. The sausage egg sandwich was the best thing. Though I am not sure what Sichuan sausage means??? They might need to explain it better. Is Sichuan sausage with the Sichuan peppercorns or hua Jiao 花椒??? The shrimp fried rice was unique. Regretted ordering the parantha. Nice space. Valet parking. Street parking is a challenge. . . . . .
 location: Bloody Mary at The Girl & the Goat
-categories: []
+categories:
+- Fusion
 city: Chicago
 cuisine:
 - Fusion

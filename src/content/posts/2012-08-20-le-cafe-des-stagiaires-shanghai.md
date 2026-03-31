@@ -4,7 +4,8 @@ pubDate: '2012-08-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/
-categories: []
+categories:
+- French
 tags:
 - shanghai
 - french

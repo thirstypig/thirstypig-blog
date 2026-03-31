@@ -16,7 +16,8 @@ tags:
 - ramen
 - noodles
 description: A chilly windy day in Had some hot and hearty had the karaka - the spicy noodles, the shiromaru- the classic pork broth, and the akamaru tamago - rich fatty pork broth with egg. Yum. The thin noodles were just right. Even had extra firm noodles
-categories: []
+categories:
+- Japanese
 location: Ippudo
 city: San Francisco
 region: San Francisco

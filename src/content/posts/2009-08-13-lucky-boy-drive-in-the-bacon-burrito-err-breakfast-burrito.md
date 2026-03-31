@@ -9,7 +9,8 @@ images:
 - /images/posts/lucky-boy-drive-in-the-bacon-burrito-err-breakfast-burrito/DSCN0025.JPG
 - /images/posts/lucky-boy-drive-in-the-bacon-burrito-err-breakfast-burrito/DSCN0026.JPG
 - /images/posts/lucky-boy-drive-in-the-bacon-burrito-err-breakfast-burrito/DSCN0028.JPG
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

@@ -10,7 +10,8 @@ images:
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0608.jpg
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0611.jpg
 - /images/posts/wurstkuche-you-use-what-kind-of-meat/IMG_0616.jpg
-categories: []
+categories:
+- German
 tags:
 - dtla
 - german

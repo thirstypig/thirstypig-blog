@@ -4,7 +4,8 @@ pubDate: '2009-10-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/20/omelette-house-garden-grove/
-categories: []
+categories:
+- American
 tags:
 - garden-grove
 - american

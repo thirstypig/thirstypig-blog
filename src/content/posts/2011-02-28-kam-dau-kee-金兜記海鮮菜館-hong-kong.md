@@ -4,7 +4,8 @@ pubDate: '2011-02-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/28/kam-dau-kee-%e9%87%91%e5%85%9c%e8%a8%98%e6%b5%b7%e9%ae%ae%e8%8f%9c%e9%a4%a8-hong-kong/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

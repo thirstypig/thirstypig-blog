@@ -29,7 +29,8 @@ address: Greater LA Metro Area, Los Angeles, CA 90015
 coordinates:
   lat: 34.145964
   lng: -118.141352
-categories: []
+categories:
+- Multi
 cuisine:
 - Multi
 ---

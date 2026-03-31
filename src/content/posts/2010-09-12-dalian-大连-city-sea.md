@@ -4,7 +4,8 @@ pubDate: '2010-09-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/12/dalian-%e5%a4%a7%e8%bf%9e-city-sea/
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 description: I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach

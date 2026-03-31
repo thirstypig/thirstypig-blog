@@ -11,7 +11,8 @@ images:
 - /images/posts/polkatots/DSCN0029.JPG
 - /images/posts/polkatots/IMG_0787.jpg
 - /images/posts/polkatots/IMG_0789.jpg
-categories: []
+categories:
+- Dessert
 tags:
 - pasadena
 - dessert

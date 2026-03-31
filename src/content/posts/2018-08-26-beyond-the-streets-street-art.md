@@ -21,7 +21,8 @@ tags:
 description: Beyond the Streets - street art. Great look and up close exhibition of art with some well known artists like and . . . .
 location: Beyond The Streets
 city: Downtown LA
-categories: []
+categories:
+- Uncategorized
 region: Los Angeles
 address: 434 N La Brea Ave, Los Angeles, CA 90036
 coordinates:

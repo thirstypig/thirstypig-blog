@@ -14,7 +14,8 @@ tags:
 - salad
 - sunomono
 description: A light lunch. Sunomono. Cucumber salad. Using Japanese cucumbers, thinly sliced. Prepped with a little salt and the water squeezed out. Then marinated with soy sauce, sugar, and rice vinegar. Done. Realized it was quite sour from the vinegar, so next time I will add more sugar. . . . . .
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

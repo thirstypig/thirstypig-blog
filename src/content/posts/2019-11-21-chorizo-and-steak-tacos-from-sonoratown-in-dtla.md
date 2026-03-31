@@ -22,7 +22,8 @@ address: 208 E 8th St (at S Los Angeles St), Los Angeles, CA 90014
 coordinates:
   lat: 34.041529
   lng: -118.252148
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

@@ -17,7 +17,8 @@ images:
 - /images/posts/ayce-korean-bbq-in-rowland-heights-korea-house/IMG_0301.JPG
 - /images/posts/ayce-korean-bbq-in-rowland-heights-korea-house/IMG_0303.JPG
 - /images/posts/ayce-korean-bbq-in-rowland-heights-korea-house/IMG_0305.JPG
-categories: []
+categories:
+- Korean
 tags:
 - rowland-heights
 - korean

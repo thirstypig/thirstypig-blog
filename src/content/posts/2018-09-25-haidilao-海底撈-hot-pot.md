@@ -16,7 +16,8 @@ tags:
 - noodles
 description: Haidilao 海底撈 hot pot! With the famous noodle dance performance. Happy moon festival 🌙 . . . . .
 location: Haidilao 海底撈 hot pot
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

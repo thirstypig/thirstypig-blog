@@ -4,7 +4,8 @@ pubDate: '2010-07-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/20/good-omen-japanese-cuisine%e6%97%a5%e9%9f%a9%e6%96%99%e7%90%86-%e5%90%89%e5%85%86%e6%97%a5%e6%9c%ac%e6%96%99%e7%90%86-suzhou/
-categories: []
+categories:
+- Japanese
 tags:
 - japanese
 - sushi

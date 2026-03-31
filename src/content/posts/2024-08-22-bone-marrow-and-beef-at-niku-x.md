@@ -13,11 +13,17 @@ images:
 - /images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18005314277418736.jpg
 tags:
 - dtla
+- japanese
+- beef
+- bone-marrow
 description: Bone marrow and beef at NIKU X. . . .
 location: NIKU X
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Japanese
+cuisine:
+- Japanese
 ---
 
 ![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18298746178167857.jpg)

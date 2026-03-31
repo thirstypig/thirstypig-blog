@@ -20,7 +20,8 @@ description: We ate too much. Beef dip, pastrami burger, cheese bread, and red c
 location: Clearman's Boat
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -4,7 +4,8 @@ pubDate: '2011-06-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/01/annion-kitchen-shanghai/
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

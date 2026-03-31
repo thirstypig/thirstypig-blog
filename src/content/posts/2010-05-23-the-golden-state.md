@@ -4,7 +4,8 @@ pubDate: '2010-05-23'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2010/05/23/the-golden-state/
-categories: []
+categories:
+- American
 tags:
 - american
 - sweet-potato-fries

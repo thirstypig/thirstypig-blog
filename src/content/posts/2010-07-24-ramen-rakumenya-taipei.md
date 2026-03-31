@@ -22,7 +22,8 @@ images:
 - /images/posts/ramen-rakumenya-taipei/Ramen-7-88x88.jpg
 - /images/posts/ramen-rakumenya-taipei/Ramen-8-88x88.jpg
 - /images/posts/ramen-rakumenya-taipei/Ramen-9-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

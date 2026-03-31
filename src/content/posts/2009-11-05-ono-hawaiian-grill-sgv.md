@@ -4,7 +4,8 @@ pubDate: '2009-11-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/05/ono-hawaiian-grill-sgv/
-categories: []
+categories:
+- Hawaiian
 tags:
 - sgv
 - hawaiian

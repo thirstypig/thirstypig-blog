@@ -17,7 +17,8 @@ description: This week is all about Hainan Chicken Rice. The chronicles starts w
 location: The Chicken Koop
 city: Alhambra
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 101 W Main St (1st St), Alhambra, CA 91801
 coordinates:
   lat: 34.094808

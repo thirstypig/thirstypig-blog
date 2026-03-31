@@ -23,7 +23,8 @@ images:
 - /images/posts/yuyuan-garden-shanghai-part-2/Shanghais-Yuyuan-63-88x88.jpg
 - /images/posts/yuyuan-garden-shanghai-part-2/Shanghais-Yuyuan-68-88x88.jpg
 - /images/posts/yuyuan-garden-shanghai-part-2/Shanghais-Yuyuan-69-88x88.jpg
-categories: []
+categories:
+- Chinese
 description: On my second trip to Yuyuan Garden, I was finally able to get a ticket and go inside the famed walled garden. A couple of classmates and I found a day to not only see the and taste some of the food ve
 archiveUrl: https://web.archive.org/web/20101119160721/http://www.thethirstypig.com:80/2010/11/18/yuyuan-garden-shanghai-part-2/
 draft: false

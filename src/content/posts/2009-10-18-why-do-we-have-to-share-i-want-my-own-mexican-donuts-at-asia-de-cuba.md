@@ -19,7 +19,8 @@ images:
 - /images/posts/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/DSCN0058.JPG
 - /images/posts/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/DSCN0060.JPG
 - /images/posts/why-do-we-have-to-share-i-want-my-own-mexican-donuts-at-asia-de-cuba/DSCN0062.JPG
-categories: []
+categories:
+- Fusion
 tags:
 - hollywood
 - fusion

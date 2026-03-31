@@ -21,7 +21,8 @@ images:
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-25-88x88.jpg
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-27-88x88.jpg
 - /images/posts/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/Di-Shui-Dong-Shanghai-28-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

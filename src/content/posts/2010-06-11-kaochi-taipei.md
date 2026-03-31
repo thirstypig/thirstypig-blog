@@ -21,7 +21,8 @@ images:
 - /images/posts/kaochi-taipei/KaoChi-6-88x88.jpg
 - /images/posts/kaochi-taipei/KaoChi-7-88x88.jpg
 - /images/posts/kaochi-taipei/KaoChi-8-88x88.jpg
-categories: []
+categories:
+- Chinese
 description: Like its, more famous neighbor, 鼎泰豐 Din Tai Fung, 高記 KaoChi is known for it 元籠小籠包 Shanghai Steamed Pork Buns, also known as Xiao Long Buns. But locals know Kao Chi for it 上海生煎包 Shanghai style fried po
 archiveUrl: https://web.archive.org/web/20100612090237/http://www.thethirstypig.com:80/2010/06/11/kaochi-taipei/
 draft: false

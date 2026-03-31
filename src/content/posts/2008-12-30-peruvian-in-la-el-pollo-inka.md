@@ -9,7 +9,8 @@ images:
 - /images/posts/peruvian-in-la-el-pollo-inka/12212006502.jpg
 - /images/posts/peruvian-in-la-el-pollo-inka/12212006503.jpg
 - /images/posts/peruvian-in-la-el-pollo-inka/12212006504.jpg
-categories: []
+categories:
+- Peruvian
 tags:
 - gardena
 - peruvian

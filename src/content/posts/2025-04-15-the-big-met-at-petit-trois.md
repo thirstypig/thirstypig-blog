@@ -14,11 +14,17 @@ images:
 - /images/posts/ig-2025-04-15-the-big-met-at-petit-trois/17962604039875811.jpg
 tags:
 - los-angeles
+- french
+- burgers
+- french-onion-soup
 description: The big Met at Petit Trois. This is the famous burger at Petit Trois, a French cuisine restaurant. Tucked in a mini mall without any prominent signage, Chef Ludo has been one of the top restauranteurs
 location: Petit Trois
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- French
+cuisine:
+- French
 ---
 
 ![The big Met at Petit Trois](/images/posts/ig-2025-04-15-the-big-met-at-petit-trois/18073767958798749.jpg)

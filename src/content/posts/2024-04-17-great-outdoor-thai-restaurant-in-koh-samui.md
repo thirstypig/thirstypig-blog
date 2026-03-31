@@ -1,5 +1,5 @@
 ---
-title: Great outdoor Thai restaurant in Koh Samui
+title: Great outdoor Thai restaurant, Koh Samui
 pubDate: '2024-04-17'
 author: The Thirsty Pig
 source: instagram
@@ -11,10 +11,18 @@ images:
 - /images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/17992304795447862.jpg
 - /images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/17956415006758411.jpg
 - /images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/18232804981253883.jpg
-tags: []
+tags:
+- koh-samui
+- thai
+- pork-belly
+- papaya-salad
 description: Great outdoor Thai restaurant in Koh Samui. Had the crispy pork belly with rice. Also had the spicy pork neck soup and papaya salad. Yummy lunch. Really spicy and flavorful. . . .
 location: Great outdoor Thai restaurant in Koh Samui
-categories: []
+categories:
+- Thai
+city: Koh Samui
+cuisine:
+- Thai
 ---
 
 ![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/18075993466433237.jpg)

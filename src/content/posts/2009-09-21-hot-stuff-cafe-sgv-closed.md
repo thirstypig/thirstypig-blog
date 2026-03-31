@@ -5,7 +5,8 @@ pubDate: '2009-09-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/21/hot-stuff-cafe-sgv-closed/
-categories: []
+categories:
+- Coffee
 tags:
 - sgv
 - coffee

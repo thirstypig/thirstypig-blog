@@ -4,7 +4,8 @@ pubDate: '2017-01-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/16/chiquita-bonita-pasadena/
-categories: []
+categories:
+- Mexican
 tags:
 - pasadena
 - mexican

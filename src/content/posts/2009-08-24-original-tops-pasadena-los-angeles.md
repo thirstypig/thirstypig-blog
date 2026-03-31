@@ -4,7 +4,8 @@ pubDate: '2009-08-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

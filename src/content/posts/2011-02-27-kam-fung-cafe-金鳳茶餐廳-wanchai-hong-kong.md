@@ -4,7 +4,8 @@ pubDate: '2011-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

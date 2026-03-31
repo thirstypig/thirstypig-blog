@@ -22,7 +22,8 @@ address: 800 E 3rd St (at Traction Ave), Los Angeles, CA 90013
 coordinates:
   lat: 34.04552
   lng: -118.236131
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

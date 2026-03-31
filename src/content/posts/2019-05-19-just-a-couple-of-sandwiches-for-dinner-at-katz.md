@@ -20,7 +20,8 @@ description: Just a couple of sandwiches for dinner at Katz. A Rueben and a Past
 location: Katz's Delicatessen
 city: New York
 region: New York
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

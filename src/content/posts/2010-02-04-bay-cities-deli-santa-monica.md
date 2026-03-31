@@ -11,7 +11,8 @@ images:
 - /images/posts/bay-cities-deli-santa-monica/IMG_0171.JPG
 - /images/posts/bay-cities-deli-santa-monica/IMG_0173.JPG
 - /images/posts/bay-cities-deli-santa-monica/IMG_0176.JPG
-categories: []
+categories:
+- Italian
 tags:
 - santa-monica
 - italian

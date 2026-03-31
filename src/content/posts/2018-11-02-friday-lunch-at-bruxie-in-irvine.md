@@ -23,7 +23,8 @@ address: 3309 Michelson Dr, Irvine, CA 92612
 coordinates:
   lat: 33.672436
   lng: -117.844526
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

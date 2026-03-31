@@ -15,7 +15,8 @@ tags:
 - burgers
 description: Cheeseburger Tamales! That’s right! Cheeseburger!!!! Using corn husks and pre-made mixed masa from .supermarkets I experimented and added ground beef 80/20 with burger seasoning and sharp cheddar cheese. Hand packed with a spoon. Steamed in an old rice cooker. Viola!! Done. Best served and eaten immediately. Goes great with . Yup ketchup. The classic flavor combination of a cheeseburger with ketchup and the slight flavor of the traditional corn masa. It is interesting and tastes pretty good. The strong flavors of the cheddar cheese stands out. Let me know if you would try this or if you have a unique mash up! What do you guys think? . . . . . . .supermarkets
 location: Cheeseburger Tamales
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

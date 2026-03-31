@@ -4,7 +4,8 @@ pubDate: '2012-03-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

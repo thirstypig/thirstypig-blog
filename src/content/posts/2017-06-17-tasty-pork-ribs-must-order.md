@@ -20,7 +20,8 @@ tags:
 - ribs
 description: Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.
 location: 2M Smokehouse
-categories: []
+categories:
+- BBQ
 city: San Antonio
 region: Texas
 cuisine:

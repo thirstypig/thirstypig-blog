@@ -4,7 +4,8 @@ pubDate: '2017-01-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/12/honey-bird-la-canada/
-categories: []
+categories:
+- Cajun
 tags:
 - la-canada
 - cajun

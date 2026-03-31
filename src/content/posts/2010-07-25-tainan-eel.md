@@ -11,7 +11,8 @@ images:
 - /images/posts/tainan-eel/IMG_2726-88x88.jpg
 - /images/posts/tainan-eel/IMG_2737-88x88.jpg
 - /images/posts/tainan-eel/IMG_2753-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

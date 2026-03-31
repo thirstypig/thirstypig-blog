@@ -4,7 +4,8 @@ pubDate: '2012-01-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/03/le-sheng-shanghai-closed/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

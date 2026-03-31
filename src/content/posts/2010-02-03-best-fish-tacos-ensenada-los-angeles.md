@@ -4,7 +4,8 @@ pubDate: '2010-02-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/03/best-fish-tacos-ensenada-los-angeles/
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

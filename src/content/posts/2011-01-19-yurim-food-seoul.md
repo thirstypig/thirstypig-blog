@@ -4,7 +4,8 @@ pubDate: '2011-01-19'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/19/yurim-food-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

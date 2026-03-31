@@ -1,5 +1,5 @@
 ---
-title: Wolf & Crane Bar, Downtown LA
+title: Pine & Crane, Downtown LA
 pubDate: '2022-07-09'
 author: The Thirsty Pig
 source: instagram
@@ -15,6 +15,9 @@ images:
 - /images/posts/ig-2022-07-09-pine-crane-vegan-lunch/18009002263437020.jpg
 tags:
 - dtla
+- taiwanese
+- noodles
+- dumplings
 description: Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved ice. Yummy and healthy. Popular spot with street parking only. Outdoor seating is best. . . . . .
 location: Wolf & Crane Bar
 city: Downtown LA
@@ -23,7 +26,10 @@ address: 366 E 2nd St (Central Ave), Los Angeles, CA 90012
 coordinates:
   lat: 34.047816
   lng: -118.239695
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17918051288421128.jpg)

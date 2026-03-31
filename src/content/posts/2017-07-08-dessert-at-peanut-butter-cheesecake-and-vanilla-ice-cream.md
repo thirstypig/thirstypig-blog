@@ -17,7 +17,8 @@ description: Dessert at peanut butter cheesecake and vanilla ice cream
 location: peanut butter cheesecake and vanilla ice cream
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

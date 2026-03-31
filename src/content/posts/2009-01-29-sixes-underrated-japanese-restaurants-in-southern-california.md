@@ -4,7 +4,8 @@ pubDate: '2009-01-29'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/29/sixes-underrated-japanese-restaurants-in-southern-california/
-categories: []
+categories:
+- Uncategorized
 tags:
 - los-angeles
 - steak

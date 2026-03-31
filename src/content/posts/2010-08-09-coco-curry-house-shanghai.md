@@ -20,7 +20,8 @@ images:
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-7.5-88x88.jpg
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-8-88x88.jpg
 - /images/posts/coco-curry-house-shanghai/Coco-Curry-House-9-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

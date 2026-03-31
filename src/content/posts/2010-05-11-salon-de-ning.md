@@ -8,7 +8,8 @@ heroImage: /images/posts/salon-de-ning/IMG_1824-185x185.jpg
 images:
 - /images/posts/salon-de-ning/IMG_1824-185x185.jpg
 - /images/posts/salon-de-ning/IMG_1827-185x185.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

@@ -17,7 +17,8 @@ images:
 - /images/posts/sweet-savory/DSCN0040.JPG
 - /images/posts/sweet-savory/DSCN0042.JPG
 - /images/posts/sweet-savory/DSCN0043.JPG
-categories: []
+categories:
+- Bakery
 tags:
 - santa-monica
 - bakery

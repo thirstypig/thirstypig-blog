@@ -4,7 +4,8 @@ pubDate: '2011-11-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/
-categories: []
+categories:
+- Mexican
 tags:
 - shanghai
 - mexican

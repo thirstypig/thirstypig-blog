@@ -23,7 +23,8 @@ description: Weekend brunch at All Day Baby on Sunset. Of course I had the Blood
 location: All Day Baby
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

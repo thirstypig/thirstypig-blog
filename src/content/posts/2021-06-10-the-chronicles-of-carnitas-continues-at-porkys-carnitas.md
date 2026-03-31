@@ -22,7 +22,8 @@ address: 1720 S Soto St (at E Washington Blvd), Los Angeles, CA 90023
 coordinates:
   lat: 34.017549
   lng: -118.219816
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

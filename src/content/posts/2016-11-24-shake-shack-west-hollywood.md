@@ -4,7 +4,8 @@ pubDate: '2016-11-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/24/shake-shack-west-hollywood/
-categories: []
+categories:
+- American
 tags:
 - weho
 - american

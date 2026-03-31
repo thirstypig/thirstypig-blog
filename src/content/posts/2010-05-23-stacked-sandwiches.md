@@ -10,7 +10,8 @@ images:
 - /images/posts/stacked-sandwiches/IMG_1403-185x185.jpg
 - /images/posts/stacked-sandwiches/IMG_1404-185x185.jpg
 - /images/posts/stacked-sandwiches/IMG_1405-185x185.jpg
-categories: []
+categories:
+- American
 tags:
 - american
 - sandwiches

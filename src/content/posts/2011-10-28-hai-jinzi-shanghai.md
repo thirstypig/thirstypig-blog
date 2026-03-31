@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/10/28/hai-jinzi-shanghai/
 heroImage: /images/posts/hai-jinzi-shanghai/Shanghainese-02-494x327.jpg
 images:
 - /images/posts/hai-jinzi-shanghai/Shanghainese-02-494x327.jpg
-categories: []
+categories:
+- Chinese
 description: Every once and awhile, you go to a restaurant without any expectations and leave pleasantly surprised. This is what happened when I supposedly thought I was going for a simple happy hour.
 archiveUrl: https://web.archive.org/web/20111030124114/http://www.thethirstypig.com:80/2011/10/28/hai-jinzi-shanghai/
 draft: false

@@ -4,7 +4,8 @@ pubDate: '2017-02-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/09/mr-baguette-rosemead/
-categories: []
+categories:
+- Vietnamese
 tags:
 - rosemead
 - vietnamese

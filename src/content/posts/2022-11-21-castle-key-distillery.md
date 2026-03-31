@@ -1,5 +1,5 @@
 ---
-title: Castle & Key distillery
+title: Castle & Key Distillery, Louisville
 pubDate: '2022-11-21'
 author: The Thirsty Pig
 source: instagram
@@ -12,10 +12,18 @@ images:
 - /images/posts/ig-2022-11-21-castle-key-distillery/18244809109126307.jpg
 - /images/posts/ig-2022-11-21-castle-key-distillery/18155897602272073.jpg
 - /images/posts/ig-2022-11-21-castle-key-distillery/18207379117205514.jpg
-tags: []
+tags:
+- louisville
+- cocktails
+- gin
+- bourbon
 description: Castle & Key distillery. Really nice distillery at a picturesque location by a hill and stream. The Castle is the Old Taylor Distillery Company and the key is where the natural spring. The Key, is covered, and in the shape of a key. There's a cool sunken garden in the back. Unfortunately, we didn't go on a tour. Though I did purchase a bottle of their seasonal gin, that is only offered in Louisville. . . . . . . . .castleandkey
 location: Castle & Key distillery
-categories: []
+categories:
+- Cocktails
+city: Louisville
+cuisine:
+- Cocktails
 ---
 
 ![Castle & Key distillery](/images/posts/ig-2022-11-21-castle-key-distillery/17954167376238548.jpg)

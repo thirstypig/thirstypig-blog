@@ -1,5 +1,5 @@
 ---
-title: Smoked meats at Wholly Smokes
+title: Wholly Smokes, La Palma
 pubDate: '2022-04-05'
 author: The Thirsty Pig
 source: instagram
@@ -14,10 +14,15 @@ images:
 - /images/posts/ig-2022-04-05-smoked-meats-at-wholly-smokes/18031260172352245.jpg
 - /images/posts/ig-2022-04-05-smoked-meats-at-wholly-smokes/18289962418052465.jpg
 - /images/posts/ig-2022-04-05-smoked-meats-at-wholly-smokes/17844411494759381.jpg
-tags: []
+tags:
+- bbq
+- brisket
 description: Smoked meats at Wholly Smokes. Brisket, pork ribs, Tri tip, and a bunch of sides. I liked the Cajun rice, fatty beef, and the spicy bbq sauce. Cool venue with a large draft beer selection. Friendly owners and nice neighborhood vibe. . . . . . .
 location: Smoked meats at Wholly Smokes
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Smoked meats at Wholly Smokes](/images/posts/ig-2022-04-05-smoked-meats-at-wholly-smokes/17905292834448827.jpg)

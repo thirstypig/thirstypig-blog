@@ -12,7 +12,8 @@ tags:
 - whisky
 description: Whisky Friday. A couple of new finds. Nikka whisky - The Barrel and Nikka Days. Looking forward to enjoying the smoothness. I sound like a commerical. ROLFCOPTR . . . . . .
 location: Whisky Friday
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

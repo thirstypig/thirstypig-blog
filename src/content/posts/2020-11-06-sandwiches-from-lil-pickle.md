@@ -21,7 +21,8 @@ address: 1835 Newport Blvd, Costa Mesa, CA 92627
 coordinates:
   lat: 33.640995
   lng: -117.920604
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

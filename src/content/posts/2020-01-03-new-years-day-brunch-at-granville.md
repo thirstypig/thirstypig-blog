@@ -21,7 +21,8 @@ description: New Year’s Day brunch at Granville. Liked the Mac and cheese and 
 location: Granville
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

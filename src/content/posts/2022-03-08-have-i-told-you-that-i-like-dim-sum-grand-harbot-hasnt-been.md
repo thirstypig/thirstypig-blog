@@ -1,5 +1,5 @@
 ---
-title: Have I told you that I like Dim Sum? Grand Harbot hasn’t...
+title: Grand Harbot, San Gabriel
 pubDate: '2022-03-08'
 author: The Thirsty Pig
 source: instagram
@@ -17,10 +17,16 @@ images:
 - /images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17981196187477870.jpg
 tags:
 - san-gabriel
+- chinese
+- dim-sum
+- roasted-meat
 description: Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long, but is one of the finer Dim Sum restaurants in SGV. They also have a good Cantonese Roasted Meat 燒臘 shop next door, which is take out only. What I like best there is their roasted pork. They consistently have the best in SGV. . . . . . .real.mike.gin
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long...](/images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17955981103646876.jpg)

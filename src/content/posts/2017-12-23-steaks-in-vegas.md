@@ -25,7 +25,8 @@ tags:
 - las-vegas
 - bbq
 - steak
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

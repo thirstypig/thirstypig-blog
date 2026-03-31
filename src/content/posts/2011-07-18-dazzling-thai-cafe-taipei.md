@@ -19,7 +19,8 @@ images:
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-28-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-29-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-35-494x370.jpg
-categories: []
+categories:
+- Thai
 tags:
 - taipei
 - thai

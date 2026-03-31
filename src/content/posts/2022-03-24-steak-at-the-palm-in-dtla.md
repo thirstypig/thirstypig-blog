@@ -16,6 +16,9 @@ images:
 - /images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/18159269617212414.jpg
 tags:
 - dtla
+- american
+- steak
+- tomahawk-ribeye
 description: Steak at the Palm in DTLA. The tomahawk ribeye and a bunch of sides. Started off with a nice bottle of wine. Solid steakhouse that came from NYC. . . . . .
 location: Row Dtla
 city: Downtown LA
@@ -24,7 +27,10 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Steak at the Palm in DTLA](/images/posts/ig-2022-03-24-steak-at-the-palm-in-dtla/17957261179721225.jpg)

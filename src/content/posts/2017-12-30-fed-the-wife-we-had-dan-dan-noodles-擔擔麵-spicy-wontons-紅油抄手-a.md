@@ -16,7 +16,8 @@ tags:
 - wontons
 description: Fed the wife we had Dan Dan Noodles 擔擔麵, spicy wontons 紅油抄手, and pickled vegetables with pork soup酸菜豬肉湯. Portions were huge, since I guess it is catering to a white clientele. Wontons were really good. Though the noodles were slightly overcooked, the flavor was to my liking. The soup is more Taiwanese, which I liked. Overall we liked it, though we had low expectations. Make sure you say hello to Gina.
 city: Brooklyn
-categories: []
+categories:
+- Chinese
 region: New York
 location: Han Dynasty
 address: 445 Albee Sq (Fleet St), Brooklyn, NY 11201

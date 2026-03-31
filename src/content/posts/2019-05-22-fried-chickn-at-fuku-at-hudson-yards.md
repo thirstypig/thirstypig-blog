@@ -20,7 +20,8 @@ tags:
 - chicken-fingers
 description: Fried Chick’n at Fuku at Hudson Yards. We had fried chicken, chicken fingers, slaw, fries, and chickpea mac’n cheese. I liked the fried chicken and skin. But it isn’t for everyone. . . .
 location: Fried Chick’n at Fuku at Hudson Yards
-categories: []
+categories:
+- American
 city: New York
 cuisine:
 - American

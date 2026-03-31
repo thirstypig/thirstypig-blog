@@ -20,7 +20,8 @@ description: Brunch at ERB . . .
 location: ERB
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

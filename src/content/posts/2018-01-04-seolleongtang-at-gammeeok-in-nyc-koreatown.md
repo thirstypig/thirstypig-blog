@@ -21,7 +21,8 @@ description: Seolleongtang at Gammeeok, in NYC Koreatown. Korean Tang’s are th
 location: Gammeeok
 city: Koreatown
 region: Koreatown
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

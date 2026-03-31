@@ -4,7 +4,8 @@ pubDate: '2010-08-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

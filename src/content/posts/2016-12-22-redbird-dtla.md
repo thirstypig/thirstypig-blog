@@ -4,7 +4,8 @@ pubDate: '2016-12-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/22/redbird-dtla/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

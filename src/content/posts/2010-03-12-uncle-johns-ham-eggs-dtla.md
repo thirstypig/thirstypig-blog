@@ -11,7 +11,8 @@ images:
 - /images/posts/uncle-johns-ham-eggs-dtla/IMG_0312.JPG
 - /images/posts/uncle-johns-ham-eggs-dtla/IMG_0313.JPG
 - /images/posts/uncle-johns-ham-eggs-dtla/IMG_0317.JPG
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

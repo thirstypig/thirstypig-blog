@@ -23,7 +23,8 @@ address: 366 E 2nd St (Central Ave), Los Angeles, CA 90012
 coordinates:
   lat: 34.047816
   lng: -118.239695
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

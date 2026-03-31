@@ -15,7 +15,8 @@ images:
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-14-88x88.jpg
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-15-88x88.jpg
 - /images/posts/tai-thai-at-tianzifang-shanghai/Tai-Thai-Shanghai-16-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

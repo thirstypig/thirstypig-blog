@@ -11,7 +11,8 @@ images:
 - /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0159.JPG
 - /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0161.JPG
 - /images/posts/the-noodle-nazi-from-dai-ho-restaurant-大和滷味/IMG_0165.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - taiwanese
 - noodles

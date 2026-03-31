@@ -20,7 +20,8 @@ tags:
 - ribs
 description: Texas BBQ dinner with old friends at Bludso’s. Pork Ribs, Rib Tips, Pulled Pork, and beef brisket. With collard greens and cole slaw. So much food. Yum! . . . .
 location: Texas BBQ dinner with old friends at Bludso’s
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

@@ -8,7 +8,8 @@ heroImage: /images/posts/macaroni-and-cheese-smac/071420081649.jpg
 images:
 - /images/posts/macaroni-and-cheese-smac/071420081649.jpg
 - /images/posts/macaroni-and-cheese-smac/071420081651.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

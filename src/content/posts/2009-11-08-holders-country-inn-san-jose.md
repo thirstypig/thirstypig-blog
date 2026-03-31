@@ -4,7 +4,8 @@ pubDate: '2009-11-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/08/holders-country-inn-san-jose/
-categories: []
+categories:
+- American
 tags:
 - san-jose
 - american

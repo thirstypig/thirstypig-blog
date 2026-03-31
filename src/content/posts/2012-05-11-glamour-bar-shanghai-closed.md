@@ -4,7 +4,8 @@ pubDate: '2012-05-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/11/glamour-bar-shanghai-closed/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

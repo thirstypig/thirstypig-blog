@@ -4,7 +4,8 @@ pubDate: '2011-06-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/
-categories: []
+categories:
+- American
 tags:
 - shanghai
 - american

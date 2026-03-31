@@ -17,7 +17,8 @@ description: Philadelphia Hoagies at Big Jo’s. Ate too much!
 location: Big Jo's
 city: Santa Monica
 region: Los Angeles
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

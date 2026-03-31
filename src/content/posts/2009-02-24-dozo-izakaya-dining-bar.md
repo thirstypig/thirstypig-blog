@@ -32,7 +32,8 @@ images:
 - /images/posts/dozo-izakaya-dining-bar/6.jpg
 - /images/posts/dozo-izakaya-dining-bar/9.jpg
 - /images/posts/dozo-izakaya-dining-bar/未命名1.JPG
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

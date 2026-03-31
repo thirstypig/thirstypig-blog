@@ -8,7 +8,8 @@ heroImage: /images/posts/the-drunken-cure-jinju-gomtang/012020081549.jpg
 images:
 - /images/posts/the-drunken-cure-jinju-gomtang/012020081549.jpg
 - /images/posts/the-drunken-cure-jinju-gomtang/012020081550.jpg
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

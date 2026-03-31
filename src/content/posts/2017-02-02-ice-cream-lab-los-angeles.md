@@ -4,7 +4,8 @@ pubDate: '2017-02-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2017/02/02/ice-cream-lab-los-angeles/
-categories: []
+categories:
+- Dessert
 tags:
 - los-angeles
 - dessert

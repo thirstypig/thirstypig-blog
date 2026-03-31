@@ -13,6 +13,8 @@ images:
 - /images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17900970771071853.jpg
 tags:
 - victoria
+- bbq
+- brisket
 description: You know I had to have some BBQ . . . While I was in the Pacific Northwest, visiting an old classmate, I was tasked to choose a cuisine/restaurant. So I picked BBQ and found Jones BBQ in Victoria, BC.
 location: Top Grill Restaurante
 city: Victoria
@@ -21,7 +23,10 @@ address: R. Barão de Monjardim, 218, Vitória, ES, 29010-390
 coordinates:
   lat: -20.318509
   lng: -40.328898
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![You know I had to have some BBQ](/images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17934944709010233.jpg)

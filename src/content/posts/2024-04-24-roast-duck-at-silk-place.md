@@ -1,5 +1,5 @@
 ---
-title: Roast duck at Silk Place
+title: Silk Place, Yilan
 pubDate: '2024-04-24'
 author: The Thirsty Pig
 source: instagram
@@ -15,10 +15,16 @@ images:
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18042897199699236.jpg
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18018478709013364.jpg
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18225304483277198.jpg
-tags: []
+tags:
+- chinese
+- roast-duck
+- duck-soup
 description: Roast duck at Silk Place. It was pretty good. The duck skin wrapped rice with cheese was something I never had - it will be quite memorable. The standard duck in green crepe skin was familiar, yet had a thicker chewier texture - was ordinary. The fried pancake with scallion and duck was not bad. But I think the last course was the best - the duck soup with cabbage. This soup was rich with flavor and hearty. I’d come back just for the soup. . . .
 location: Roast duck at Silk Place
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Roast duck at Silk Place](/images/posts/ig-2024-04-24-roast-duck-at-silk-place/18016890218261686.jpg)

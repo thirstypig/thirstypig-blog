@@ -19,7 +19,8 @@ description: Pho at Pho Fillet 2 in . Good alternative to Golden Deli.
 location: Pho at Pho Fillet 2 in
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

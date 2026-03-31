@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2015/02/20/factory-kitchen-dtla/
 heroImage: /images/posts/factory-kitchen-dtla/IMG_2290.jpg
 images:
 - /images/posts/factory-kitchen-dtla/IMG_2290.jpg
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

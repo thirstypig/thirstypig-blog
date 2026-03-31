@@ -8,7 +8,8 @@ heroImage: /images/posts/the-korean-taco-truck-kogi-bbq/kogi+2.jpg
 images:
 - /images/posts/the-korean-taco-truck-kogi-bbq/kogi+2.jpg
 - /images/posts/the-korean-taco-truck-kogi-bbq/photo.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - los-angeles
 - fusion

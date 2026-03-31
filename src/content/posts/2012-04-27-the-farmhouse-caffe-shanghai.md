@@ -5,13 +5,16 @@ author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/04/27/the-farmhouse-caffe-shanghai/
 categories:
-- 1 pig
-- Breakfast
-- Brunch
-- Price Range $/¥/NT
+- British
 description: '| Location | Ratinghttp://www.thethirstypig.com/rating-system/ | | --- | --- | | 69 Yongkang Lu, near Xiangyang Lu 永康路69号 近襄阳路 +86 21 3367-8233 7:30am-9pm | 1 Pigs Price Range 1 $/¥/NT |'
 archiveUrl: https://web.archive.org/web/20120507125744/http://www.thethirstypig.com:80/2012/04/27/the-farmhouse-caffe-shanghai/
 draft: false
+cuisine:
+- British
+tags:
+- british
+- brunch
+- cafe
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

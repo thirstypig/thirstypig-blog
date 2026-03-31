@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/31/%E6%B5%B7%E5%BA%95%E6%8D
 heroImage: /images/posts/海底捞火锅-haidilao-huo-guo-shanghai/Haidilao-Huo-Guo-Shanghai-03-188x188.jpg
 images:
 - /images/posts/海底捞火锅-haidilao-huo-guo-shanghai/Haidilao-Huo-Guo-Shanghai-03-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -17,7 +17,8 @@ description: Haven’t been back to OB Bear in over 20 years.
 location: OB Bear
 city: Koreatown
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

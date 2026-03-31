@@ -25,7 +25,8 @@ address: 350 N Pacific Coast Hwy, Redondo Beach, CA 90277
 coordinates:
   lat: 33.847047
   lng: -118.387689
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

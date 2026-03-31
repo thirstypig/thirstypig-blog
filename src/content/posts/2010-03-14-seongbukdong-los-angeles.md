@@ -4,7 +4,8 @@ pubDate: '2010-03-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/14/seongbukdong-los-angeles/
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

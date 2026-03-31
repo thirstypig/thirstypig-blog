@@ -17,7 +17,8 @@ images:
 - /images/posts/seongbukdong/IMG_0771.jpg
 - /images/posts/seongbukdong/IMG_0775.jpg
 - /images/posts/seongbukdong/IMG_0776.jpg
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

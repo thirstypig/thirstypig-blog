@@ -21,7 +21,8 @@ address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657
   lng: -118.152145
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

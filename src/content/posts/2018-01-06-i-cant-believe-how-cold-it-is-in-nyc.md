@@ -24,7 +24,8 @@ address: 26 W 23rd St (btwn Fifth & Sixth Ave), New York, NY 10010
 coordinates:
   lat: 40.741856
   lng: -73.990783
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

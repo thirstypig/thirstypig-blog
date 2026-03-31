@@ -13,7 +13,8 @@ images:
 - /images/posts/katsu-sandwiches-romankan-yokohama-breeze-center-taipei/Romankan-Yokohama-6-600x450.jpg
 - /images/posts/katsu-sandwiches-romankan-yokohama-breeze-center-taipei/Romankan-Yokohama-6-88x88.jpg
 - /images/posts/katsu-sandwiches-romankan-yokohama-breeze-center-taipei/Romankan-Yokohama-9-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

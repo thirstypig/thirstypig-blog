@@ -4,7 +4,8 @@ pubDate: '2012-03-28'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thursday-night-steak-night/
-categories: []
+categories:
+- Seafood
 description: Every Thursday night…
 archiveUrl: https://web.archive.org/web/20130804043314/http://www.thethirstypig.com:80/2012/03/28/the-public-shanghai-thursday-night-steak-night/
 draft: false

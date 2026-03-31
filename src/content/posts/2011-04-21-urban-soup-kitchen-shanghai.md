@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/04/21/urban-soup-kitchen-shang
 heroImage: /images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg
 images:
 - /images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

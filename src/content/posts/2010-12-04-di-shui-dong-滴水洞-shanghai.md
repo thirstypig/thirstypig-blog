@@ -4,7 +4,8 @@ pubDate: '2010-12-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/04/di-shui-dong-%e6%bb%b4%e6%b0%b4%e6%b4%9e-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

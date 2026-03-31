@@ -16,12 +16,16 @@ images:
 - /images/posts/jun-yue-pork-chop-taipei/Jun.Yue_.Porkchop.taipei.10-188x188.jpg
 - /images/posts/jun-yue-pork-chop-taipei/Jun.Yue_.Porkchop.taipei.11-188x188.jpg
 categories:
-- 2 pigs
-- Price Range $/¥/NT
 - Taiwanese
 description: '| Location | Ratinghttp://www.thethirstypig.com/rating-system/ | | --- | --- | | 君悅排骨 Jun Yue Pork Chop 台北市信義區忠孝路五段135號 +886 2 87870918、+886 2 27519783 台北市大安區敦化南路一段188號2樓 No. 188, 2/f Dun Hwa North Ro'
 archiveUrl: https://web.archive.org/web/20120520175535/http://www.thethirstypig.com/2012/05/04/jun-yue-pork-chop-taipei/
 draft: false
+cuisine:
+- Taiwanese
+tags:
+- taiwanese
+- pork-chop
+- fast-food
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

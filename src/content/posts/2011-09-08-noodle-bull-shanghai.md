@@ -17,7 +17,8 @@ images:
 - /images/posts/noodle-bull-shanghai/Noodle-Bull-Shanghai-09-494x370.jpg
 - /images/posts/noodle-bull-shanghai/Noodle-Bull-Shanghai-10-494x370.jpg
 - /images/posts/noodle-bull-shanghai/Noodle-Bull-Shanghai-11-494x370.jpg
-categories: []
+categories:
+- Taiwanese
 description: Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full
 archiveUrl: https://web.archive.org/web/20111011063629/http://www.thethirstypig.com/2011/09/08/noodle-bull-shanghai/
 draft: false

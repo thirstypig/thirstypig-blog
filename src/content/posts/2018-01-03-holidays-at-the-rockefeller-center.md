@@ -16,7 +16,8 @@ images:
 tags: []
 description: Holidays at the Rockefeller Center. We also saw a successful marriage proposal on the ice. Heard a nice show a Saks Fifth Avenue Department Store. And saw a replica at the LEGO store.
 location: Holidays at the Rockefeller Center
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

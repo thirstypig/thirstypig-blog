@@ -4,7 +4,8 @@ pubDate: '2016-08-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

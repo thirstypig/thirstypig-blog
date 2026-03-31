@@ -22,7 +22,8 @@ address: 2388 Glendale Blvd, Los Angeles, CA 90039
 coordinates:
   lat: 34.099849
   lng: -118.259087
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

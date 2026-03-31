@@ -4,7 +4,8 @@ pubDate: '2016-06-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/06/23/sam-satos-wailuku-maui-hawaii/
-categories: []
+categories:
+- Hawaiian
 tags:
 - maui
 - hawaiian

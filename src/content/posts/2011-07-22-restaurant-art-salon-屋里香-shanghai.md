@@ -4,7 +4,8 @@ pubDate: '2011-07-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

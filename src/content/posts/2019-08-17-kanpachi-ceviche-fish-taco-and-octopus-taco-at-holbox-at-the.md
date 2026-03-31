@@ -23,7 +23,8 @@ tags:
 description: Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC. Excellent seafood. Fresh and tasty. Yummy . . .
 location: Dynasty Typewriter At The Hayworth
 city: Downtown LA
-categories: []
+categories:
+- Seafood
 region: Los Angeles
 address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
 coordinates:

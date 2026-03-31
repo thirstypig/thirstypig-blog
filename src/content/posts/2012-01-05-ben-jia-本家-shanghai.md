@@ -4,7 +4,8 @@ pubDate: '2012-01-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/05/ben-jia-%e6%9c%ac%e5%ae%b6-shanghai/
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

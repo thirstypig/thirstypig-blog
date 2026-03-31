@@ -22,7 +22,8 @@ address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
 coordinates:
   lat: 34.0606
   lng: -118.280585
-categories: []
+categories:
+- Mediterranean
 cuisine:
 - Mediterranean
 ---

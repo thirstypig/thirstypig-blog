@@ -17,6 +17,9 @@ images:
 - /images/posts/ig-2024-04-29-ying-yang-hot-pot/18053477785612038.jpg
 tags:
 - taipei
+- taiwanese
+- hot-pot
+- mala
 description: Ying Yang hot pot. Neighborhood/mom&pop hot pot place. This where locals in the neighborhood get their hot pot fix. . . .
 location: Yuan Yang Mala Hotpot
 city: Taipei
@@ -25,7 +28,10 @@ address: Wanhua District,  108
 coordinates:
   lat: 25.043438
   lng: 121.5062
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18087407305434359.jpg)

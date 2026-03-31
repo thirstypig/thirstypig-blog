@@ -4,7 +4,8 @@ pubDate: '2014-06-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

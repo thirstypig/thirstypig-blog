@@ -4,7 +4,8 @@ pubDate: '2015-06-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/06/28/home-bar-grill-honolulu-oahu-hawaii/
-categories: []
+categories:
+- Fusion
 tags:
 - honolulu
 - fusion

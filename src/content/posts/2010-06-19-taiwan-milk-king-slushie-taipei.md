@@ -15,7 +15,8 @@ images:
 - /images/posts/taiwan-milk-king-slushie-taipei/Milk-King-6-88x88.jpg
 - /images/posts/taiwan-milk-king-slushie-taipei/Milk-King-7-88x88.jpg
 - /images/posts/taiwan-milk-king-slushie-taipei/Milk-King-8-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 description: The slushie is dessert that all youngsters in Taiwan grew up with. 臺一牛奶大王 Milk King, in particular, specializes in the typical Taiwanese slushie – heck that’s all they serve there.
 archiveUrl: https://web.archive.org/web/20100713075818/http://www.thethirstypig.com:80/2010/06/19/taiwan-milk-king-slushie-taipei/
 draft: false

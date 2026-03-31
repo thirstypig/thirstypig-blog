@@ -18,7 +18,8 @@ description: Affogato at Eataly. A new favorite drink (or dessert). What is it? 
 location: Eataly
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

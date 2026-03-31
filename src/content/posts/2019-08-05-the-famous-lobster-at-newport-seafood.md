@@ -20,7 +20,8 @@ address: 518 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.10231
   lng: -118.106975
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

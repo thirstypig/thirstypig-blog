@@ -27,7 +27,8 @@ address: 500 Mateo St, Los Angeles, CA 90013
 coordinates:
   lat: 34.041506
   lng: -118.232955
-categories: []
+categories:
+- Mediterranean
 cuisine:
 - Mediterranean
 ---

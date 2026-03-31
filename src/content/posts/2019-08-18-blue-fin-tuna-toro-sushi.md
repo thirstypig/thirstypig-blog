@@ -18,7 +18,8 @@ tags:
 - toro
 description: Blue fin tuna toro sushi. Spicy tuna hand roll. Avocado hand roll. gyu bowl and chicken katsu bowl. Asked for sashimi and they gave sushi. Asked for an oyaku don, they have a chicken katsu don. The toro was good but not as fatty as I would have expected. . . . . .
 location: Blue fin tuna toro sushi
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

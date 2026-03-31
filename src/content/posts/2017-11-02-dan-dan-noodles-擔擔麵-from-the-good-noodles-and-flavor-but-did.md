@@ -17,7 +17,8 @@ description: Dan Dan Noodles 擔擔麵 from the good noodles and flavor but didn
 location: Chinese Laundry Truck
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

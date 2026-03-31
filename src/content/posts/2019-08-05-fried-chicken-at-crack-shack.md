@@ -23,7 +23,8 @@ address: 26 N Los Robles Ave, Pasadena, CA 91101
 coordinates:
   lat: 34.146247
   lng: -118.141245
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

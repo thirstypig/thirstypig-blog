@@ -4,7 +4,8 @@ pubDate: '2016-11-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/21/mesa-grill-vegas/
-categories: []
+categories:
+- American
 tags:
 - vegas
 - american

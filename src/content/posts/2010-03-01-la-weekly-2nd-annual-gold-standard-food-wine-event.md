@@ -29,7 +29,8 @@ images:
 - /images/posts/la-weekly-2nd-annual-gold-standard-food-wine-event/IMG_0551_2.jpg
 - /images/posts/la-weekly-2nd-annual-gold-standard-food-wine-event/IMG_0552_2.jpg
 - /images/posts/la-weekly-2nd-annual-gold-standard-food-wine-event/IMG_0553_2.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - los-angeles
 - food-wine-event

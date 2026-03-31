@@ -47,7 +47,8 @@ images:
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-41-88x88.jpg
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-42-88x88.jpg
 - /images/posts/restaurant-jesse-吉士-of-shanghai/Jesse-Shanghai-43-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/11/15/marios-peruvian-seafood/
 heroImage: /images/posts/marios-peruvian-seafood/DSC02338.JPG
 images:
 - /images/posts/marios-peruvian-seafood/DSC02338.JPG
-categories: []
+categories:
+- Peruvian
 tags:
 - peruvian
 - seafood

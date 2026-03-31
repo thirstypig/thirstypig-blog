@@ -4,7 +4,8 @@ pubDate: '2010-05-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

@@ -1,5 +1,5 @@
 ---
-title: Japanese style bbq - yakiniku
+title: Japanese style bbq - yakiniku, Taipei
 pubDate: '2024-04-24'
 author: The Thirsty Pig
 source: instagram
@@ -16,10 +16,18 @@ images:
 - /images/posts/ig-2024-04-24-japanese-style-bbq-yakiniku/17993567942433779.jpg
 - /images/posts/ig-2024-04-24-japanese-style-bbq-yakiniku/18023739115915975.jpg
 - /images/posts/ig-2024-04-24-japanese-style-bbq-yakiniku/18337753708116894.jpg
-tags: []
+tags:
+- taipei
+- japanese
+- yakiniku
+- bbq
 description: Japanese style bbq - yakiniku. High quality meats and good times with old friends. Various grades of beef, chicken, and pork. The chicken rice was good, which turned into a nice flavorful rice porridge. Located just north of the Songshan airport in a newish shopping mall, Noke. I believe I saw this place was reviewed by the Michelin guide. . . . .04
 location: Japanese style bbq
-categories: []
+categories:
+- Japanese
+city: Taipei
+cuisine:
+- Japanese
 ---
 
 ![Japanese style bbq - yakiniku](/images/posts/ig-2024-04-24-japanese-style-bbq-yakiniku/18056341489584992.jpg)

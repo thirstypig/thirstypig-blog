@@ -21,7 +21,8 @@ description: Birria Burritos from Burritos La Palma. Simple and little birria bu
 location: Burritos La Palma
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

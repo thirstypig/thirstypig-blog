@@ -23,7 +23,8 @@ address: Madison Square Park (at E 23rd St), New York, NY 10010
 coordinates:
   lat: 40.741484
   lng: -73.988218
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

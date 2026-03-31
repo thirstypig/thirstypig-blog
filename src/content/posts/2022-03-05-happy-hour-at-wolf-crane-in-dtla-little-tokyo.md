@@ -4,9 +4,12 @@ pubDate: 2022-03-05 00:00:00+00:00
 description: Happy Hour at Wolf & Crane in DTLA Little Tokyo. Cool spot that got crowded fast. Luckily we got there early to get a table. . . . . .
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17937014233943319.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - los-angeles
+- cocktails
+- happy-hour
 location: Wolf & Crane Bar
 city: Los Angeles
 region: CA
@@ -20,6 +23,8 @@ images:
 - /images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17899709450480264.jpg
 source: instagram
 draft: false
+cuisine:
+- Cocktails
 ---
 
 ![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17937014233943319.jpg)

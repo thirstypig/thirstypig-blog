@@ -14,7 +14,8 @@ images:
 tags: []
 description: First dodger game of the year! Go dodgers!! . . . . .
 location: First dodger game of the year
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

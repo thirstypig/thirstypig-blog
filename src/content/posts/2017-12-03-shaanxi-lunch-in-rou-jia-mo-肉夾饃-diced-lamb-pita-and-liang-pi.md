@@ -23,7 +23,8 @@ description: Shaanxi Lunch in Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 
 city: San Gabriel
 region: San Gabriel Valley
 location: Shaanxi Garden
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

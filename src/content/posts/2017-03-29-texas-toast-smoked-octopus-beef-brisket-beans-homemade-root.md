@@ -23,7 +23,8 @@ tags:
 - smoked-octopus
 description: Texas Toast, smoked octopus, beef brisket, beans, homemade root beer
 location: Texas Toast, smoked octopus, beef brisket, beans
-categories: []
+categories:
+- BBQ
 city: San Antonio
 region: Texas
 cuisine:

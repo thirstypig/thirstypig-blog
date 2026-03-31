@@ -23,7 +23,8 @@ address: 543 S Broadway (at W 6th St), Los Angeles, CA 90013
 coordinates:
   lat: 34.047195
   lng: -118.251962
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

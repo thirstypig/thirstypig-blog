@@ -9,7 +9,8 @@ images:
 - /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
 - /images/posts/bamboodles-not-just-noodles/IMG_0589.jpg
 - /images/posts/bamboodles-not-just-noodles/IMG_0590.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

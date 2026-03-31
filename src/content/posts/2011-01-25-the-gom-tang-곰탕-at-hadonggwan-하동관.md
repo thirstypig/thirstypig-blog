@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/01/25/the-gom-tang-%ea%b3%b0%ed%8
 heroImage: /images/posts/the-gom-tang-곰탕-at-hadonggwan-하동관/Korean-Beef-Soup-Seoul-05-88x88.jpg
 images:
 - /images/posts/the-gom-tang-곰탕-at-hadonggwan-하동관/Korean-Beef-Soup-Seoul-05-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

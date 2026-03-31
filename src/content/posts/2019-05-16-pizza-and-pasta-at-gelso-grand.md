@@ -23,7 +23,8 @@ address: 200 N Grand Ave (btwn Temple & 1st St), Los Angeles, CA 90012
 coordinates:
   lat: 34.055034
   lng: -118.245179
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

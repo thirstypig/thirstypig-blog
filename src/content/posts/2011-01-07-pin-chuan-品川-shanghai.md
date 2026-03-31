@@ -4,7 +4,8 @@ pubDate: '2011-01-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/01/07/pin-chuan-%e5%93%81%e5%b7%9d-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

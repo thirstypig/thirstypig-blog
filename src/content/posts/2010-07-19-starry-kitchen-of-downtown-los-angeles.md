@@ -17,7 +17,8 @@ images:
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2931-88x88.jpg
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2932-88x88.jpg
 - /images/posts/starry-kitchen-of-downtown-los-angeles/IMG_2933-494x370.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - los-angeles
 description: Seemly a Hollywood story, Starry Kitchen started its humble beginnings out of a small kitchen apartment. They had weekly dining events jam packed with friends and family. Soon, more friends of friends

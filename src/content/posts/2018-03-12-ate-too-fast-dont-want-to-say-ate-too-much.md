@@ -20,7 +20,8 @@ tags:
 - dumplings
 description: Ate too fast (don’t want to say ate too much).
 location: Din Tai Fung
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

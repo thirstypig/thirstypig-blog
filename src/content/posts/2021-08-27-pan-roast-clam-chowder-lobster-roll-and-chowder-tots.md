@@ -19,7 +19,8 @@ tags:
 description: Pan Roast, clam chowder, lobster roll, and chowder tots. The Pan Roast is similar to the Vegas’ Station Casino’s Oyster Bar version. Yum! . . . . .
 location: Mothership Coffee Roasters
 city: Las Vegas
-categories: []
+categories:
+- Seafood
 region: Las Vegas
 address: 1028 Fremont St, Las Vegas, NV 89101
 coordinates:

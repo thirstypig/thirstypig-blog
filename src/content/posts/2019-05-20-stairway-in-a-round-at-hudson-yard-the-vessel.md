@@ -17,7 +17,8 @@ tags:
 description: Stairway in a round at Hudson Yard - The Vessel. They wouldn’t let me on the elevator so I had to hike up. They wouldn’t let me DOWN the elevator 🤬😢. . . .
 location: Hudson Yards Public Square and Gardens
 city: New York
-categories: []
+categories:
+- Uncategorized
 region: New York
 address: Hudson Yards, New York, NY 10001
 coordinates:

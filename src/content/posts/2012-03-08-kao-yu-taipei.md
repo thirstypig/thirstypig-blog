@@ -4,7 +4,8 @@ pubDate: '2012-03-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/03/08/kao-yu-taipei/
-categories: []
+categories:
+- Japanese
 description: 'What is 高玉 高玉 or Kao Yu is a sushi restaurant in Taipei with 2 locations. They also have 小高玉 also known as Sushi Express, which is the more inexpensive restaurant chain with the ever popular conveyor '
 archiveUrl: https://web.archive.org/web/20120429113348/http://www.thethirstypig.com:80/2012/03/08/kao-yu-taipei/
 draft: false

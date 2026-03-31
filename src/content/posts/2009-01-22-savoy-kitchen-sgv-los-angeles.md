@@ -4,7 +4,8 @@ pubDate: '2009-01-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/01/22/savoy-kitchen-sgv-los-angeles/
-categories: []
+categories:
+- Taiwanese
 tags:
 - sgv
 - taiwanese

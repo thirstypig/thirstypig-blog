@@ -4,7 +4,8 @@ pubDate: '2011-08-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/08/09/bawubawu-shanghai/
-categories: []
+categories:
+- Korean
 description: Every major metropolitan city features little enclaves or ghettos where pockets of individual ethnicities congregate. Whether you’re in London’s Indian Southall, São Paulo’s Japanese Liberdade, or Mel
 archiveUrl: https://web.archive.org/web/20111123072134/http://www.thethirstypig.com/2011/08/09/bawubawu-shanghai/
 draft: false

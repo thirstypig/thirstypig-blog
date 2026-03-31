@@ -4,7 +4,8 @@ pubDate: '2010-11-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/30/xinjishi-%e6%96%b0%e5%90%89%e5%a3%ab-shanghai-june-8-2011/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

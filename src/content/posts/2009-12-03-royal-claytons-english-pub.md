@@ -9,7 +9,8 @@ images:
 - /images/posts/royal-claytons-english-pub/DSCN0006.JPG
 - /images/posts/royal-claytons-english-pub/DSCN0011.JPG
 - /images/posts/royal-claytons-english-pub/DSCN0014.JPG
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

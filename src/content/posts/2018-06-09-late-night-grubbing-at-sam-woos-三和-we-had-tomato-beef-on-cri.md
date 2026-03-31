@@ -16,7 +16,8 @@ tags:
 - beef-chow-fun
 description: Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy noodles, beef chow fun, string beans, and beef noodle soup.
 location: Sam Woo’s 三和 we had tomato beef
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

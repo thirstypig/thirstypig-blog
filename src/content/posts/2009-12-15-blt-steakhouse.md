@@ -8,7 +8,8 @@ heroImage: /images/posts/blt-steakhouse/IMG_2816.JPG
 images:
 - /images/posts/blt-steakhouse/IMG_2816.JPG
 - /images/posts/blt-steakhouse/IMG_2817.JPG
-categories: []
+categories:
+- American
 tags:
 - american
 - steak

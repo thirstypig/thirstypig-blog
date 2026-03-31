@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2014-05-13-instagram-post-may-13-2014/17841786232049948.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — May 13, 2014](/images/posts/ig-2014-05-13-instagram-post-may-13-2014/17841786232049948.jpg)

@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2015/02/15/mendocino-farms-los-angeles/
 heroImage: /images/posts/mendocino-farms-los-angeles/IMG_2217.jpg
 images:
 - /images/posts/mendocino-farms-los-angeles/IMG_2217.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - los-angeles
 - fusion

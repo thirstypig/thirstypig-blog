@@ -11,7 +11,8 @@ images:
 tags: []
 description: Little gifts from wife. Wife went to Bordeaux and Madrid. Can’t wait to try it! . . . .
 location: Little gifts from wife
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

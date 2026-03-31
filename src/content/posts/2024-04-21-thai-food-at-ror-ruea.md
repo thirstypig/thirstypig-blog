@@ -1,5 +1,5 @@
 ---
-title: Thai food at Ror Ruea
+title: Ror Ruea, unknown
 pubDate: '2024-04-21'
 author: The Thirsty Pig
 source: instagram
@@ -16,10 +16,16 @@ images:
 - /images/posts/ig-2024-04-21-thai-food-at-ror-ruea/18428845939031110.jpg
 - /images/posts/ig-2024-04-21-thai-food-at-ror-ruea/18047879005587402.jpg
 - /images/posts/ig-2024-04-21-thai-food-at-ror-ruea/18010717913134046.jpg
-tags: []
+tags:
+- thai
+- papaya-salad
+- tom-yum
 description: Thai food at Ror Ruea. Really papaya salad, but incredibly spicy. Tom Yum soup was great with the mushrooms. Egg/shrimp rice was familiar Chinese style dish that my buddy liked. It had a small mom and pop feel, but with A/C. . . .
 location: Thai food at Ror Ruea
-categories: []
+categories:
+- Thai
+cuisine:
+- Thai
 ---
 
 ![Thai food at Ror Ruea](/images/posts/ig-2024-04-21-thai-food-at-ror-ruea/18041121553793542.jpg)

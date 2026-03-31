@@ -24,7 +24,8 @@ description: Dinner at Bonchon. We had spicy and soy-garlic fried chicken, ttokb
 location: Dinner at Bonchon
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

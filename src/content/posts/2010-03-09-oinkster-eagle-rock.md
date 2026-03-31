@@ -4,7 +4,8 @@ pubDate: '2010-03-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/09/oinkster-eagle-rock/
-categories: []
+categories:
+- BBQ
 tags:
 - los-angeles
 - bbq

@@ -13,7 +13,8 @@ images:
 - /images/posts/frysmith-food-truck/Frysmith+5+cooking.jpg
 - /images/posts/frysmith-food-truck/Frysmith+6+pork+belly+kimchi+fries.jpg
 - /images/posts/frysmith-food-truck/Frysmith+7+hungry+bulldog.jpg
-categories: []
+categories:
+- American
 description: This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill. http://4.bp.blogspot.com/UYnRoOEBBM/S7JvtSLChWI/AAAAAAAAA
 archiveUrl: https://web.archive.org/web/20100418081924/http://blog.thethirstypig.com:80/2010/03/frysmith-food-truck.html
 draft: false

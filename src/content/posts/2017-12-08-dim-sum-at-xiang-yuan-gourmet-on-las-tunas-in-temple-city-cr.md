@@ -17,7 +17,8 @@ description: Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative
 location: Xiang Yuan Gourmet
 city: Temple City
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

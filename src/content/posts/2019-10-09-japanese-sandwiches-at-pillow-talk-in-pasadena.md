@@ -20,7 +20,8 @@ description: Japanese Sandwiches at Pillow Talk in Pasadena. Pretty good sandwic
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032

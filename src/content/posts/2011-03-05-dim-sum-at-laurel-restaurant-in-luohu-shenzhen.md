@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/05/dim-sum-at-laurel-restau
 heroImage: /images/posts/dim-sum-at-laurel-restaurant-in-luohu-shenzhen/Laurel-Restaurant-Shenzhen-12-188x188.jpg
 images:
 - /images/posts/dim-sum-at-laurel-restaurant-in-luohu-shenzhen/Laurel-Restaurant-Shenzhen-12-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

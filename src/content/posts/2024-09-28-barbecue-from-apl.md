@@ -6,6 +6,8 @@ author: The Thirsty Pig
 heroImage: /images/posts/ig-2024-09-28-barbecue-from-apl/18070603288587245.jpg
 tags:
 - los-angeles
+- bbq
+- ribs
 location: APL BBQ Pop Up
 city: Los Angeles
 region: CA
@@ -23,7 +25,10 @@ images:
 - /images/posts/ig-2024-09-28-barbecue-from-apl/18043228237843986.jpg
 source: instagram
 draft: false
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Barbecue from APL](/images/posts/ig-2024-09-28-barbecue-from-apl/18070603288587245.jpg)

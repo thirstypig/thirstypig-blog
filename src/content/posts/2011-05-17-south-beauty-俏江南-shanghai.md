@@ -4,7 +4,8 @@ pubDate: '2011-05-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/05/17/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -19,7 +19,8 @@ description: Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. To
 location: Gozen Shun
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

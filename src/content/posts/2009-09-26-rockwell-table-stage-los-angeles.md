@@ -4,7 +4,8 @@ pubDate: '2009-09-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
-categories: []
+categories:
+- Cocktails
 tags:
 - los-angeles
 - cocktails

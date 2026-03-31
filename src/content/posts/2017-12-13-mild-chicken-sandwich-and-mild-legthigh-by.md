@@ -22,7 +22,8 @@ address: 727 N Broadway (btwn Alpine & Ord St), Los Angeles, CA 90012
 coordinates:
   lat: 34.061475
   lng: -118.239719
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -8,7 +8,8 @@ heroImage: /images/posts/orient-king-of-dumplings-东方饺子王-harbin/Orient-
 images:
 - /images/posts/orient-king-of-dumplings-东方饺子王-harbin/Orient-King-of-Dumplings-Harbin-03-494x370.jpg
 - /images/posts/orient-king-of-dumplings-东方饺子王-harbin/Orient-King-of-Dumplings-Harbin-19-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - harbin
 - chinese

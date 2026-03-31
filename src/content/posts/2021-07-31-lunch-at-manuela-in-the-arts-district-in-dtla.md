@@ -26,7 +26,8 @@ address: 828 Traction Ave (at Avery St), Los Angeles, CA 90013
 coordinates:
   lat: 34.044686
   lng: -118.235385
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

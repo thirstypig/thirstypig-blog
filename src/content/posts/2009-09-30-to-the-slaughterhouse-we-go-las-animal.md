@@ -11,7 +11,8 @@ images:
 - /images/posts/to-the-slaughterhouse-we-go-las-animal/IMG_4883.JPG
 - /images/posts/to-the-slaughterhouse-we-go-las-animal/IMG_4885.JPG
 - /images/posts/to-the-slaughterhouse-we-go-las-animal/IMG_4887.JPG
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

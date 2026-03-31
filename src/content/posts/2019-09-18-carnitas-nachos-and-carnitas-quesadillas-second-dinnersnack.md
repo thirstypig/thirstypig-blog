@@ -14,7 +14,8 @@ tags:
 - quesadillas
 description: Carnitas Nachos and Carnitas Quesadillas, second dinner/snack. Yum. Good food and good time, telling lies. . . . .
 location: Carnitas Nachos and Carnitas Quesadillas
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

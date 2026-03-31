@@ -16,7 +16,8 @@ images:
 - /images/posts/oden-studio/7-494x370.jpg
 - /images/posts/oden-studio/8-494x370.jpg
 - /images/posts/oden-studio/9-370x494.jpg
-categories: []
+categories:
+- Japanese
 description: 以前太鼓判關東煮http://blog.sina.com.tw/odenstudio/index.php?pbgid=17849還只是一家開在小發財車上的小店，類似像是行動咖啡那樣，車子停在人行道上，旁邊是山坡，四周荒涼，隔壁只有一家海產店。第一次注意到這一家店是因為開車經過的時候，發現路旁這家富有濃濃日本居酒屋台的小發財車。吧台前只有三、四個座位。
 archiveUrl: https://web.archive.org/web/20100915154743/http://www.thethirstypig.com:80/2010/08/24/oden-studio/
 draft: false

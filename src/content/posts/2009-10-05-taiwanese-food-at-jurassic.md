@@ -12,7 +12,8 @@ images:
 - /images/posts/taiwanese-food-at-jurassic/DSCN0029.JPG
 - /images/posts/taiwanese-food-at-jurassic/DSCN0034.JPG
 - /images/posts/taiwanese-food-at-jurassic/DSCN0040.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

@@ -24,7 +24,8 @@ address: 19715 Colima Rd, Rowland Heights, CA 91748
 coordinates:
   lat: 33.986873
   lng: -117.872342
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

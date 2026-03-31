@@ -26,7 +26,8 @@ address: 152 7th Ave (at W 19th St), New York, NY 10011
 coordinates:
   lat: 40.741713
   lng: -73.99767
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

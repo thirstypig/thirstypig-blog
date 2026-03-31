@@ -4,7 +4,8 @@ pubDate: '2015-12-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/12/12/whataburger-texas/
-categories: []
+categories:
+- American
 tags:
 - brownsville
 - american

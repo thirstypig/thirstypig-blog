@@ -12,7 +12,8 @@ images:
 - /images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17862358282168883.jpg
 description: Brisket Pho, Spring Roll, and creme brule
 location: Brisket Pho, Spring Roll
-categories: []
+categories:
+- Vietnamese
 tags:
 - vietnamese
 - pho

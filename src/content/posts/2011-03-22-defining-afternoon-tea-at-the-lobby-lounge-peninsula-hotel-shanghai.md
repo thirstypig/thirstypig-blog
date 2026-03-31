@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/03/22/defining-afternoon-tea-at-t
 heroImage: /images/posts/defining-afternoon-tea-at-the-lobby-lounge-peninsula-hotel-shanghai/Afternoon-Tea-Peninsula-Shanghai-07-188x188.jpg
 images:
 - /images/posts/defining-afternoon-tea-at-the-lobby-lounge-peninsula-hotel-shanghai/Afternoon-Tea-Peninsula-Shanghai-07-188x188.jpg
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

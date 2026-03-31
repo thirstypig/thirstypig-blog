@@ -9,7 +9,8 @@ images:
 - /images/posts/the-open-door-monterey-park/IMG_4497.JPG
 - /images/posts/the-open-door-monterey-park/IMG_4498.JPG
 - /images/posts/the-open-door-monterey-park/IMG_4595.JPG
-categories: []
+categories:
+- Uncategorized
 tags:
 - monterey-park
 description: 'Seating is limited and the wait is rewarded with good service and an innovative menu. Happy hour is a very good deal but you’ll have to fight the crowd. Decorated well so that you forget you are in a '

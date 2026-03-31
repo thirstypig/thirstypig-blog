@@ -4,7 +4,8 @@ pubDate: '2012-01-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/21/parks-bbq-koreatown/
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

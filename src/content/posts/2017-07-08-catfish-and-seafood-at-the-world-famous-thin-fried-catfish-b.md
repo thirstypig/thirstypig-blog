@@ -22,7 +22,8 @@ tags:
 - fried-catfish
 - boiled-crab
 description: Catfish and seafood at the world famous thin fried catfish, boiled blue crab, fried soft shell crab, boiled shrimp, potatoes, hush puppies, and cole slaw
-categories: []
+categories:
+- Seafood
 city: New Orleans
 region: Louisiana
 location: Middendorf's

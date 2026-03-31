@@ -26,7 +26,8 @@ address: 264 S. Mission (Broadway), San Gabriel, CA 91776
 coordinates:
   lat: 34.098943
   lng: -118.109163
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

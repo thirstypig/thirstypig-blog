@@ -4,7 +4,8 @@ pubDate: '2010-07-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

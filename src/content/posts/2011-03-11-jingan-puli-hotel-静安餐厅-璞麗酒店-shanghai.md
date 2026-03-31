@@ -4,7 +4,8 @@ pubDate: '2011-03-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/11/jingan-puli-hotel-%e9%9d%99%e5%ae%89%e9%a4%90%e5%8e%85-%e7%92%9e%e9%ba%97%e9%85%92%e5%ba%97-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

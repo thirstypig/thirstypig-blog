@@ -4,7 +4,8 @@ pubDate: '2010-04-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/13/merengue-bakery-cafe-monrovia/
-categories: []
+categories:
+- Bakery
 tags:
 - monrovia
 - bakery

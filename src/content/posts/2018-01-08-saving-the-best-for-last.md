@@ -26,7 +26,8 @@ address: 1000 5th Ave (btwn E 80th & E 84th St), New York, NY 10028
 coordinates:
   lat: 40.779729
   lng: -73.963416
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

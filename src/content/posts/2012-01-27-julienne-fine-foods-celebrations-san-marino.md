@@ -4,7 +4,8 @@ pubDate: '2012-01-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/27/julienne-fine-foods-celebrations-san-marino/
-categories: []
+categories:
+- Bakery
 tags:
 - san-marino
 - bakery

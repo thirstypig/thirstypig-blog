@@ -17,7 +17,8 @@ description: Oyaku-Don at Suehiro’s. One of my favorite Japanese dishes - chic
 location: Suehiro's
 city: Little Tokyo
 region: Los Angeles
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

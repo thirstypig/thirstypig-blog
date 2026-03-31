@@ -18,7 +18,8 @@ tags:
 - pizza
 description: Dinner with friends at Sixth+Mill pizzeria. . . .
 location: Dinner with friends at Sixth+Mill pizzeria
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

@@ -30,7 +30,8 @@ images:
 - /images/posts/tanya-matabei-shanghai/IMG_3159-88x88.jpg
 - /images/posts/tanya-matabei-shanghai/IMG_3160-88x88.jpg
 - /images/posts/tanya-matabei-shanghai/IMG_3161-88x88.jpg
-categories: []
+categories:
+- Japanese
 description: Japanese cuisine is not hard to find in Asia, specifically Taipei or Shanghai. I think it would be safe to say, since the 80′s – when Japan’s global reach was at its peak, culture, cuisine, and invest
 archiveUrl: https://web.archive.org/web/20100906025444/http://www.thethirstypig.com:80/2010/08/06/tanya-matabei-shanghai/
 draft: false

@@ -4,7 +4,8 @@ pubDate: '2011-12-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/10/le-saleya-shanghai/
-categories: []
+categories:
+- French
 tags:
 - shanghai
 - french

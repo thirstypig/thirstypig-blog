@@ -17,7 +17,8 @@ description: Rou Jia Mo and Liang Pi. This is Shaanxi or Xi’an Cuisine. You co
 location: Jia Jia Tangbao (佳家汤包)
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 address: 62 Liyuan Road | 丽园路62号 (Nan Chezhan Road | 近南车站路), Huangpu, 上海市
 coordinates:
   lat: 31.212789

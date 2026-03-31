@@ -4,7 +4,8 @@ pubDate: '2008-12-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2008/12/21/steve-b-seoul/
-categories: []
+categories:
+- Uncategorized
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103145647/http://www.thethirstypig.com/2008/12/21/steve-b-seoul/
 draft: false

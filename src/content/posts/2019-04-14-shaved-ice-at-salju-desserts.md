@@ -17,7 +17,8 @@ description: Shaved ice at Salju Desserts. Had the sesame and the green tee matc
 location: Salju Desserts
 city: Alhambra
 region: San Gabriel Valley
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

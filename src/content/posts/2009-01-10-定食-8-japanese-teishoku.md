@@ -15,7 +15,8 @@ images:
 - /images/posts/定食-8-japanese-teishoku/map05.jpg
 - /images/posts/定食-8-japanese-teishoku/n716198940_1274777_2798.jpg
 - /images/posts/定食-8-japanese-teishoku/n716198940_1274778_3898.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

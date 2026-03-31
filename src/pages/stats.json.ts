@@ -43,11 +43,23 @@ export const GET: APIRoute = async () => {
 	// Top cities
 	const topCities = countBy(posts, p => p.data.city?.trim()).slice(0, 20);
 
-	// Top categories
-	const topCategories = countFlat(posts, p => p.data.categories || []).slice(0, 15);
+	// Top categories (exclude Uncategorized from chart)
+	const topCategories = countFlat(posts, p => (p.data.categories || []).filter(c => c !== 'Uncategorized')).slice(0, 15);
 
 	// Top tags (exclude 'closed')
 	const topTags = countFlat(posts, p => (p.data.tags || []).filter(t => t.toLowerCase() !== 'closed')).slice(0, 15);
+
+	// Uncategorized posts (no cuisine assigned)
+	const uncategorizedPosts = [...posts]
+		.filter(p => !p.data.cuisine || p.data.cuisine.length === 0)
+		.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+		.map(p => ({
+			id: p.id,
+			title: p.data.title,
+			date: p.data.pubDate.toISOString().split('T')[0],
+			city: p.data.city || '',
+			source: p.data.source || '',
+		}));
 
 	// GPS stats
 	const withCoords = posts.filter(p => p.data.coordinates).length;
@@ -93,6 +105,8 @@ export const GET: APIRoute = async () => {
 		uniqueVenues: venueSet.size,
 		closedVenues,
 		recentPosts,
+		uncategorizedPosts,
+		cuisineCount: posts.filter(p => p.data.cuisine && p.data.cuisine.length > 0).length,
 	};
 
 	return new Response(JSON.stringify(stats), {

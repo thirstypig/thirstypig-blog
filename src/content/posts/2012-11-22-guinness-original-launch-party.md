@@ -26,7 +26,8 @@ images:
 - /images/posts/guinness-original-launch-party/Guinness.Original.Event_.Shanghai.18-188x188.jpg
 - /images/posts/guinness-original-launch-party/Guinness.Original.Event_.Shanghai.19-188x188.jpg
 - /images/posts/guinness-original-launch-party/image001-188x188.png
-categories: []
+categories:
+- Uncategorized
 description: Hello Folks It certainly has been awhile. Guinness is the world’s best beers – is also one of my favorite beers. I was recently invited to an event which showcased Guinness Original, one of the variet
 archiveUrl: https://web.archive.org/web/20121213191047/http://www.thethirstypig.com:80/2012/11/22/guinness-original-launch-party/
 draft: false

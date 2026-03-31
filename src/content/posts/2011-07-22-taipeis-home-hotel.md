@@ -4,7 +4,8 @@ pubDate: '2011-07-22'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/22/taipeis-home-hotel/
-categories: []
+categories:
+- Uncategorized
 description: Located in the heart of the XinYi district, Home Hotel is the latest trend of new hotels to pop up, with the Le Meridian, the W, and Tango opening recently. Home Hotel is an upscale boutique hotel wit
 archiveUrl: https://web.archive.org/web/20110727201831/http://www.thethirstypig.com:80/2011/07/22/taipeis-home-hotel/
 draft: false

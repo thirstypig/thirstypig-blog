@@ -17,7 +17,8 @@ tags:
 - eggplant
 description: Hunan Cuisine at Hunan Chili King - spicy fish fillet, egg plant and green beans, salted pork, broccoli with pork skin, and fried egg with green chili. So F*&king Spicy 🌶 🥵 . . .
 location: Hunan Chili King - spicy fish fillet
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

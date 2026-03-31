@@ -4,7 +4,8 @@ pubDate: '2012-01-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/13/mastros-beverly-hills/
-categories: []
+categories:
+- Seafood
 tags:
 - beverly-hills
 - seafood

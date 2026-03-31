@@ -4,7 +4,8 @@ pubDate: '2015-11-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/11/15/kang-ho-dong-baekjeong-k-town-los-angeles/
-categories: []
+categories:
+- Korean
 tags:
 - k-town
 - korean

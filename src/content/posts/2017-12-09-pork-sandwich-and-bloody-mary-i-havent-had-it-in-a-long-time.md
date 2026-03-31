@@ -21,7 +21,8 @@ address: 118 E 6th St (at Main St), Los Angeles, CA 90014
 coordinates:
   lat: 34.044872
   lng: -118.249489
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

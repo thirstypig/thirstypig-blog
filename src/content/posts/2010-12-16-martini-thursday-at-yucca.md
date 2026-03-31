@@ -9,7 +9,8 @@ images:
 - /images/posts/martini-thursday-at-yucca/124-88x88.jpg
 - /images/posts/martini-thursday-at-yucca/126-88x88.jpg
 - /images/posts/martini-thursday-at-yucca/127-88x88.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - cocktails
 - martinis

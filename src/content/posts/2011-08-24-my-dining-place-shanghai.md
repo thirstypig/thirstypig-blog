@@ -4,7 +4,8 @@ pubDate: '2011-08-24'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/
-categories: []
+categories:
+- Multi
 description: My Dining Place is a restaurant featuring Singaporean cuisine, with also some Cantonese dishes. Located in Xujiahui’s Novel Place, My Dining Place is operated by the same group from the Singapore Pavi
 archiveUrl: https://web.archive.org/web/20111123074818/http://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/
 draft: false

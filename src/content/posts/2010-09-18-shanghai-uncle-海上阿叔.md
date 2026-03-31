@@ -4,7 +4,8 @@ pubDate: '2010-09-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

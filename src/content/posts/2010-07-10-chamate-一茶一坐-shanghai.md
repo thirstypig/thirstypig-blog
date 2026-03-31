@@ -4,7 +4,8 @@ pubDate: '2010-07-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/10/chamate-%e4%b8%80%e8%8c%b6%e4%b8%80%e5%9d%90-shanghai/
-categories: []
+categories:
+- Taiwanese
 tags:
 - shanghai
 - taiwanese

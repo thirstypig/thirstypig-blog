@@ -18,7 +18,8 @@ description: Dr. Gumbo food tour
 location: Dr. Gumbo Food Tour
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

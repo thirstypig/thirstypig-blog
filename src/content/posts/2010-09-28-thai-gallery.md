@@ -26,7 +26,8 @@ images:
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-19-88x88.jpg
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-20-88x88.jpg
 - /images/posts/thai-gallery/Thai-Gallery-Shanghai-21-88x88.jpg
-categories: []
+categories:
+- Thai
 tags:
 - shanghai
 - thai

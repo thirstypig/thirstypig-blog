@@ -4,7 +4,8 @@ pubDate: '2015-08-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/
-categories: []
+categories:
+- Seafood
 tags:
 - los-angeles
 - seafood

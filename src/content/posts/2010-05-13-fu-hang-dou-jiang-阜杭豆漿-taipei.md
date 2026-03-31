@@ -4,7 +4,8 @@ pubDate: '2010-05-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/fu-hang-dou-jiang-%e9%98%9c%e6%9d%ad%e8%b1%86%e6%bc%bf-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

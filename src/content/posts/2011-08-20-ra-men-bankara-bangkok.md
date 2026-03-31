@@ -12,7 +12,8 @@ images:
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-05-494x370.jpg
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-06-494x370.jpg
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-07-494x370.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - bangkok
 - japanese

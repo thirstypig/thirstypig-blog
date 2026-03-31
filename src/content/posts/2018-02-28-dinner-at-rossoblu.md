@@ -22,7 +22,8 @@ description: Dinner at Rossoblu. Northern Italian cuisine. Had the Salumi plate 
 location: Rossoblu
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

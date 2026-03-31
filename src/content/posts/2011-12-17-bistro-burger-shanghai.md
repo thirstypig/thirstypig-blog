@@ -4,7 +4,8 @@ pubDate: '2011-12-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/17/bistro-burger-shanghai/
-categories: []
+categories:
+- American
 tags:
 - shanghai
 - american

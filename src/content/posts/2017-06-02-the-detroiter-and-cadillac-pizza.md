@@ -19,7 +19,8 @@ description: the Detroiter and Cadillac pizza. The detroiter - pepperoni and the
 location: Via 313
 city: Austin
 region: Texas
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

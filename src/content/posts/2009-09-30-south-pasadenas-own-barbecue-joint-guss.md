@@ -12,7 +12,8 @@ images:
 - /images/posts/south-pasadenas-own-barbecue-joint-guss/IMG_0678.JPG
 - /images/posts/south-pasadenas-own-barbecue-joint-guss/IMG_0679.jpg
 - /images/posts/south-pasadenas-own-barbecue-joint-guss/minilink.gif
-categories: []
+categories:
+- BBQ
 description: Recently renovated, Gus's Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently t
 archiveUrl: https://web.archive.org/web/20091021233245/http://blog.thethirstypig.com:80/2009/09/south-pasadenas-own-barbecue-joint-guss.html
 draft: false

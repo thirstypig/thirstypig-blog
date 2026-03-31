@@ -27,7 +27,8 @@ address: 1714 W Sunset Blvd (at Logan St), Los Angeles, CA 90026
 coordinates:
   lat: 34.077387
   lng: -118.25902
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

@@ -4,7 +4,8 @@ pubDate: '2010-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/13/perdues-barbeque-pasadena-closed/
-categories: []
+categories:
+- BBQ
 tags:
 - pasadena
 - bbq

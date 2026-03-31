@@ -4,7 +4,8 @@ pubDate: '2010-09-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/11/organic-farm-dalian/
-categories: []
+categories:
+- Uncategorized
 tags:
 - dalian
 - farm-to-table

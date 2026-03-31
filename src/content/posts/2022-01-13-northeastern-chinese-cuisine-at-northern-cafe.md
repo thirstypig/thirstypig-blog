@@ -16,6 +16,9 @@ images:
 - /images/posts/ig-2022-01-13-northeastern-chinese-cuisine-at-northern-cafe/17868323576646694.jpg
 tags:
 - temple-city
+- chinese
+- dumplings
+- noodles
 description: Northeastern Chinese Cuisine at Northern Cafe. 東北菜 is one of the more under appreciated cuisines in my humble opinion. Dumplings and noodles are the hallmarks of Northeastern Chinese Cuisine. We had lamb skewers, pork pancake, beef roll, house special knife cut noodles, sauerkraut pickled pepper beef noodles, braised pork belly, and their house special soup. It return again to try their northern style hotpot and their dumplings. It’s also cool that they have private dining rooms and liquor lockers too. . . . . . .cafe .northern
 location: Northern Cafe
 city: Temple City
@@ -24,7 +27,10 @@ address: 9608 Las Tunas Dr, Temple City, CA 91780
 coordinates:
   lat: 34.106534
   lng: -118.060433
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Northeastern Chinese Cuisine at Northern Cafe](/images/posts/ig-2022-01-13-northeastern-chinese-cuisine-at-northern-cafe/17954906215607830.jpg)

@@ -20,11 +20,13 @@ description: Taipei DangDai art & ideas. Got to check out the Taipei art show. T
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Uncategorized
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934
   lng: 121.529331
+cuisine: []
 ---
 
 ![Taipei DangDai art & ideas](/images/posts/ig-2024-05-09-taipei-dangdai-art-ideas/18002558783579780.jpg)

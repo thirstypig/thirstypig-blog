@@ -4,7 +4,8 @@ pubDate: '2015-06-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/
-categories: []
+categories:
+- Seafood
 tags:
 - los-angeles
 - seafood

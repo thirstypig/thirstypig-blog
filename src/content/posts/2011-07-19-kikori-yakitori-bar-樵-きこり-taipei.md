@@ -4,7 +4,8 @@ pubDate: '2011-07-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/19/kikori-yakitori-bar-%e6%a8%b5-%e3%81%8d%e3%81%93%e3%82%8a-taipei/
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

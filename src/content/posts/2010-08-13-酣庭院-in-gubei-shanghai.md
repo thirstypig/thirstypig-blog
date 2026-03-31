@@ -26,7 +26,8 @@ images:
 - /images/posts/酣庭院-in-gubei-shanghai/IMG_3743-88x88.jpg
 - /images/posts/酣庭院-in-gubei-shanghai/IMG_3750-494x370.jpg
 - /images/posts/酣庭院-in-gubei-shanghai/IMG_3750-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

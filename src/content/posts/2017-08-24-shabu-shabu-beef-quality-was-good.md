@@ -24,7 +24,8 @@ address: 1009 E Colorado Blvd (Catalina), Pasadena, CA 91106
 coordinates:
   lat: 34.146124
   lng: -118.129694
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

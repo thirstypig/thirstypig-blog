@@ -31,7 +31,8 @@ images:
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-27-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-28-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

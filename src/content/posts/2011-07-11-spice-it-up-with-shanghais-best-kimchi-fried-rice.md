@@ -4,7 +4,8 @@ pubDate: '2011-07-11'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/11/spice-it-up-with-shanghais-best-kimchi-fried-rice/
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

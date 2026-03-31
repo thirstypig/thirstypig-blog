@@ -4,7 +4,8 @@ pubDate: '2010-05-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

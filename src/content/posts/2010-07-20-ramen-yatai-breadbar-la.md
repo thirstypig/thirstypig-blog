@@ -20,7 +20,8 @@ images:
 - /images/posts/ramen-yatai-breadbar-la/IMG_3041-494x370.jpg
 - /images/posts/ramen-yatai-breadbar-la/IMG_3041-88x88.jpg
 - /images/posts/ramen-yatai-breadbar-la/YataiWeb.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - los-angeles
 - japanese

@@ -19,7 +19,8 @@ images:
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0600.jpg
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0601.jpg
 - /images/posts/truck-feasting-the-buttermilk-truck-and-slice-truck/IMG_0604.jpg
-categories: []
+categories:
+- American
 tags:
 - american
 - fried-chicken

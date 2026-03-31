@@ -20,7 +20,8 @@ description: The 50/50 burgers and the 50/50 pizza burger. Onion rings and Mac a
 location: The Blind Donkey
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 address: 53 E Union St (at Raymond Ave), Pasadena, CA 91103
 coordinates:
   lat: 34.146835

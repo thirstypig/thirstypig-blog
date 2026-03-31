@@ -12,7 +12,8 @@ images:
 - /images/posts/a-lunch-to-be-forgotten-at-伊藤家-itoya-shanghai-luwan/Itoya-Shanghai-09-88x88.jpg
 - /images/posts/a-lunch-to-be-forgotten-at-伊藤家-itoya-shanghai-luwan/Itoya-Shanghai-12-88x88.jpg
 - /images/posts/a-lunch-to-be-forgotten-at-伊藤家-itoya-shanghai-luwan/Itoya-Shanghai-15-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

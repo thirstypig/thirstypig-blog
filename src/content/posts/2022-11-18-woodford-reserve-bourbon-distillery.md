@@ -1,5 +1,5 @@
 ---
-title: Woodford Reserve Bourbon Distillery
+title: Woodford Reserve Bourbon Distillery, Versailles
 pubDate: '2022-11-18'
 author: The Thirsty Pig
 source: instagram
@@ -15,10 +15,14 @@ images:
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17993640604588012.jpg
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17943123695433464.jpg
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17986711732631028.jpg
-tags: []
+tags:
+- bourbon
+- whiskey
 description: Woodford Reserve Bourbon Distillery. Picturesque off a hill. The famed copper kettle distillery. Amazing place. . . . . .
 location: Woodford Reserve Bourbon Distillery
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17961173944980784.jpg)

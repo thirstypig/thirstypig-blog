@@ -4,7 +4,8 @@ pubDate: '2011-12-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/16/tu-hsiao-yueh-on-nanjing-east-road-night-market-taipei/
-categories: []
+categories:
+- Taiwanese
 description: A few months ago, I wrote about Tu Hsiao Yuehhttp://www.thethirstypig.com/2010/06/02/tu-hsiao-yueh-taipei/, the original from Tainan. I found this knock off copy cat at a little night market in Taipei
 archiveUrl: https://web.archive.org/web/20120116091203/http://www.thethirstypig.com:80/2011/12/16/tu-hsiao-yueh-on-nanjing-east-road-night-market-taipei/
 draft: false

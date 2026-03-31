@@ -29,7 +29,8 @@ images:
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-50-88x88.jpg
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-52-88x88.jpg
 - /images/posts/the-live-shrimp-from-天天鱼港-tiantian-seafood-dalian/Tien-Tien-Seafood-Dalian-59-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - dalian
 - chinese

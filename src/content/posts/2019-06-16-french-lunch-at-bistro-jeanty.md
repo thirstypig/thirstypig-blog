@@ -18,7 +18,8 @@ tags:
 - boeuf-bourguignon
 description: French lunch at Bistro Jeanty. The French onion soup, cold asparagus soup, and the tomato puff pastry soup, and the boeuf bourguignon. Also saw an awesome Ford Shelby Cobra. . . . .jeanty 🍅
 location: French lunch at Bistro Jeanty
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

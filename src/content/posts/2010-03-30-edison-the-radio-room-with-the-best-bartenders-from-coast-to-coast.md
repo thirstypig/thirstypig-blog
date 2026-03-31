@@ -16,7 +16,8 @@ images:
 - /images/posts/edison-the-radio-room-with-the-best-bartenders-from-coast-to-coast/Edison+The+Radio+Room+6+appetizer+table.jpg
 - /images/posts/edison-the-radio-room-with-the-best-bartenders-from-coast-to-coast/Edison+The+Radio+Room+7+appetizer+table.jpg
 - /images/posts/edison-the-radio-room-with-the-best-bartenders-from-coast-to-coast/Edison+The+Radio+Room+8+more+drinks.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - dtla
 - cocktails

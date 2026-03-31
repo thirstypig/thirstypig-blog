@@ -4,7 +4,8 @@ pubDate: '2010-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/13/mac-cheeza-dtla-closed/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

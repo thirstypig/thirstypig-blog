@@ -25,7 +25,8 @@ images:
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-18-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-19-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-20-494x370.jpg
-categories: []
+categories:
+- Vietnamese
 description: 'Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo '
 archiveUrl: https://web.archive.org/web/20111123105802/http://www.thethirstypig.com/2011/09/09/intercontinental-asiana-saigon-ho-chi-minh-city/?utm_source=dlvr.it&utm_medium=facebook&utm_campaign=the+thirsty+pig
 draft: false

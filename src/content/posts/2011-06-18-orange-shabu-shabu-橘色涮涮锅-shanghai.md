@@ -4,7 +4,8 @@ pubDate: '2011-06-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/18/orange-shabu-shabu-%e6%a9%98%e8%89%b2%e6%b6%ae%e6%b6%ae%e9%94%85-shanghai/
-categories: []
+categories:
+- Taiwanese
 tags:
 - shanghai
 - taiwanese

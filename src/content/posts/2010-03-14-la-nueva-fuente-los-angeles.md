@@ -4,7 +4,8 @@ pubDate: '2010-03-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

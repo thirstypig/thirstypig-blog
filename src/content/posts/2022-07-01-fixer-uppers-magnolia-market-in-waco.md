@@ -1,5 +1,5 @@
 ---
-title: Fixer Upper’s Magnolia Market in Waco, Austin
+title: Fixer Upper's Magnolia Market, Waco
 pubDate: '2022-07-01'
 author: The Thirsty Pig
 source: instagram
@@ -17,11 +17,17 @@ images:
 - /images/posts/ig-2022-07-01-fixer-uppers-magnolia-market-in-waco/17969290036719971.jpg
 tags:
 - austin
+- multi
+- bakery
+- sweet-tea
 description: Fixer Upper’s Magnolia Market in Waco. This is now Waco’s most famous thing to do and see. Other than Baylor university and that other thing with the FBI, a long time ago. Anyways . . . The famous HDTV show with the Gaines, this place is a huge Mecca for home stuff. They have cafes, a bakery, food trucks, stores, and a really tasty Alabama sweet tea. I recommend checking this place out. Only an hour away from Austin. . . . . .
 location: Fixer Upper’s Magnolia Market in Waco
 city: Austin
 region: Texas
-categories: []
+categories:
+- Multi
+cuisine:
+- Multi
 ---
 
 ![Fixer Upper’s Magnolia Market in Waco](/images/posts/ig-2022-07-01-fixer-uppers-magnolia-market-in-waco/17928765722240370.jpg)

@@ -4,7 +4,8 @@ pubDate: '2011-10-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/08/first-floor-restaurant-%e8%80%81%e8%a1%97%e7%ac%ac%e4%b8%80%e6%a5%bc-huangshan%e9%bb%83%e5%b1%b1/
-categories: []
+categories:
+- Chinese
 tags:
 - chinese
 - regional-chinese

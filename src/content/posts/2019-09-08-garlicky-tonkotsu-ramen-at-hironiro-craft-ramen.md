@@ -22,7 +22,8 @@ description: Garlicky Tonkotsu Ramen at Hironiro Craft Ramen. Nice char on the c
 location: Hironori Craft Ramen
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

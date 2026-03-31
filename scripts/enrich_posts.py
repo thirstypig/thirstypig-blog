@@ -105,7 +105,8 @@ def load_post(filepath):
     if not content.startswith('---'):
         return None, None
     try:
-        end = content.index('---', 3)
+        # Find closing --- on its own line (avoid matching --- inside field values)
+        end = content.index('\n---', 3) + 1
     except ValueError:
         return None, None
     try:
@@ -338,15 +339,13 @@ def main():
     parser.add_argument('--phase1-only', action='store_true', help='Only run deterministic fixes')
     parser.add_argument('--phase2-only', action='store_true', help='Only run AI enrichment')
     parser.add_argument('--resume', action='store_true', help='Resume Phase 2 from checkpoint')
-    parser.add_argument('--limit', type=int, default=0, help='Process only first N posts')
+    parser.add_argument('--limit', type=int, default=0, help='Max NEW posts to process (when resuming, skips already-done posts first)')
     parser.add_argument('--batch-size', type=int, default=50, help='Save progress every N posts')
     parser.add_argument('--report', default=REPORT_FILE, help='Report output path')
     args = parser.parse_args()
 
     files = sorted(glob.glob(os.path.join(CONTENT_DIR, '*.md')))
-    if args.limit:
-        files = files[:args.limit]
-    print(f"Processing {len(files)} posts (dry_run={args.dry_run})")
+    print(f"Found {len(files)} total posts (dry_run={args.dry_run})")
 
     progress = load_progress() if args.resume else {'phase1_complete': False, 'phase2_completed': [], 'phase2_results': {}}
     report_rows = []
@@ -392,11 +391,19 @@ def main():
         client = anthropic.Anthropic(api_key=api_key)
 
         completed_set = set(progress.get('phase2_completed', []))
+        remaining_count = sum(1 for f in files if os.path.basename(f) not in completed_set)
+        target = min(args.limit, remaining_count) if args.limit else remaining_count
+        print(f"  {len(completed_set)} already done, {remaining_count} remaining, will process {target}")
         batch_count = 0
         total_classified = 0
 
         for i, filepath in enumerate(files):
             fname = os.path.basename(filepath)
+
+            # Stop if we've hit the limit for new posts
+            if args.limit and total_classified >= args.limit:
+                print(f"\n  Reached --limit of {args.limit} new posts, stopping.")
+                break
 
             # Skip already completed
             if args.resume and fname in completed_set:
@@ -433,7 +440,7 @@ def main():
             cuisine = changes.get('cuisine', '?')
             dish = '|'.join(changes.get('dish_tags', []))
             tags = ', '.join(fm.get('tags', []))
-            print(f"  [{total_classified}/{len(files)}] {fname[:55]}  cuisine={cuisine}  dish={dish}  tags=[{tags}]")
+            print(f"  [{total_classified}/{target}] {fname[:55]}  cuisine={cuisine}  dish={dish}  tags=[{tags}]")
 
             if not args.dry_run:
                 save_post(filepath, fm, body)

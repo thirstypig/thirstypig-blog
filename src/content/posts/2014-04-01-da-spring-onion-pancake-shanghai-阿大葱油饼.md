@@ -14,7 +14,8 @@ archiveUrl: https://web.archive.org/web/20150502053458/http://thirstypig.com/201
 draft: false
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 location: The Living Room by Octave (The Living Room by Octave (Living Room by Octave | 音昱听堂))
 address: 357 Jianguo W Rd | 建国西路357号 (Taiyuan Rd | 太原路), Xúhuì, Xuhui, 上海市, 200031
 coordinates:

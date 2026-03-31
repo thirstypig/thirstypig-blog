@@ -13,7 +13,8 @@ images:
 - /images/posts/afternoon-tea-at-half-half-伴伴堂-san-gabriel/DSCN0017.JPG
 - /images/posts/afternoon-tea-at-half-half-伴伴堂-san-gabriel/DSCN0020.JPG
 - /images/posts/afternoon-tea-at-half-half-伴伴堂-san-gabriel/DSCN0022.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - san-gabriel
 - taiwanese

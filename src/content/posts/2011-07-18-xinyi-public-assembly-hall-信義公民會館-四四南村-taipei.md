@@ -4,7 +4,8 @@ pubDate: '2011-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/
-categories: []
+categories:
+- Uncategorized
 tags:
 - taipei
 - spa

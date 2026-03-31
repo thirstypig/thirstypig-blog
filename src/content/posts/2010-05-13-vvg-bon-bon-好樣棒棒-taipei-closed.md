@@ -4,7 +4,8 @@ pubDate: '2010-05-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
-categories: []
+categories:
+- Dessert
 tags:
 - taipei
 - dessert

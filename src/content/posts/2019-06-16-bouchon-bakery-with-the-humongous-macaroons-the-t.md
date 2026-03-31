@@ -19,7 +19,8 @@ tags:
 - croissants
 description: Bouchon Bakery with the humongous macaroons, the T.K.O. the Thomas Keller Oreo, brownie, and croissant. Yum . . . 🥐
 location: Bouchon Bakery with the humongous macaroons
-categories: []
+categories:
+- Bakery
 city: Yountville
 cuisine:
 - Bakery

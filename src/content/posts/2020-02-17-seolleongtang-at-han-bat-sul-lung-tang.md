@@ -22,7 +22,8 @@ address: 4163 W 5th St (at Western Ave), Los Angeles, CA 90020
 coordinates:
   lat: 34.065474
   lng: -118.309471
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

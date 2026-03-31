@@ -19,7 +19,8 @@ description: Chicken sando at pikunico. Yummy. One of the best if not the best c
 location: Pikunico
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

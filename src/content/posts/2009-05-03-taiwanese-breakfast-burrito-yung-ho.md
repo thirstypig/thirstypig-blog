@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/05/03/taiwanese-breakfast-burrito
 heroImage: /images/posts/taiwanese-breakfast-burrito-yung-ho/092320071395.jpg
 images:
 - /images/posts/taiwanese-breakfast-burrito-yung-ho/092320071395.jpg
-categories: []
+categories:
+- Taiwanese
 description: Yung Ho is your typical Taiwan breakfast joint. There are two locations on Valley Blvd, that are not related. Each have similar items.
 archiveUrl: https://web.archive.org/web/20110105144016/http://www.thethirstypig.com/2009/05/03/taiwanese-breakfast-burrito-yung-ho/
 draft: false

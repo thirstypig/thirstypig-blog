@@ -4,7 +4,8 @@ pubDate: '2017-01-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/05/emperor-noodle-sgv/
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

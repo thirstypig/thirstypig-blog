@@ -13,7 +13,8 @@ tags:
 - soft-serve
 description: Soft Serve dessert at Honey Mee. Interesting. Not too sweet. Just right on a hot summer night. . . . .
 location: Soft Serve dessert at Honey Mee
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

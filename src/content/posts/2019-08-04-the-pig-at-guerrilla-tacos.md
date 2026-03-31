@@ -23,7 +23,8 @@ address: 353 S Alameda St, Los Angeles, CA 90013
 coordinates:
   lat: 34.04373
   lng: -118.238456
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

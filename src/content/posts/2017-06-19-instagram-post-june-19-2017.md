@@ -16,7 +16,8 @@ tags:
 - austin
 - american
 - fried-chicken
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

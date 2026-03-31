@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2015/02/14/golden-deli-sgv/
 heroImage: /images/posts/golden-deli-sgv/IMG_2223.jpg
 images:
 - /images/posts/golden-deli-sgv/IMG_2223.jpg
-categories: []
+categories:
+- Vietnamese
 tags:
 - sgv
 - vietnamese

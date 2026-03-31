@@ -4,7 +4,8 @@ pubDate: '2010-11-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -4,7 +4,8 @@ pubDate: '2011-12-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/23/long-bar-waldorf-astoria-hotel-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

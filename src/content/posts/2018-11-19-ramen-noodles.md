@@ -15,7 +15,8 @@ tags:
 - tonkatsu
 description: Ramen noodles! Had the black sesame broth with my tonkatsu ramen. . . . .
 location: Ramen noodles
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

@@ -13,7 +13,8 @@ images:
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0053.JPG
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0061.JPG
 - /images/posts/peruvian-cuisine-in-downtown-los-angeles-mo-chica/DSCN0063.JPG
-categories: []
+categories:
+- Peruvian
 tags:
 - dtla
 - peruvian

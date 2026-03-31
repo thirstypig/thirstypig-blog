@@ -4,7 +4,8 @@ pubDate: '2012-03-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/15/8-12-otto-e-mezzo-bombana-shanghai/
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

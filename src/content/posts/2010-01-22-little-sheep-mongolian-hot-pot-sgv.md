@@ -4,7 +4,8 @@ pubDate: '2010-01-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/22/little-sheep-mongolian-hot-pot-sgv/
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

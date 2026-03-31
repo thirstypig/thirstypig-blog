@@ -1,5 +1,5 @@
 ---
-title: Tainan oldest department store 林百貨 also known as Hayashi
+title: Hayashi Department Store, Tainan
 pubDate: '2024-05-02'
 author: The Thirsty Pig
 source: instagram
@@ -14,9 +14,12 @@ images:
 - /images/posts/ig-2024-05-02-tainan-oldest-department-store-林百貨-also-known-as-hayashi/18040996552672075.jpg
 - /images/posts/ig-2024-05-02-tainan-oldest-department-store-林百貨-also-known-as-hayashi/18029823727967590.jpg
 - /images/posts/ig-2024-05-02-tainan-oldest-department-store-林百貨-also-known-as-hayashi/18044712292684120.jpg
-tags: []
+tags:
+- rooftop-eateries
 description: Tainan oldest department store 林百貨 also known as Hayashi. Lots of interesting items from local purveyors. 5 floors of clothing, housewares, and trinkets. The rooftop had a couple of eateries to go along with the great views. The building interior and exterior looks great and well preserved. . . .
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Tainan oldest department store 林百貨 also known as Hayashi](/images/posts/ig-2024-05-02-tainan-oldest-department-store-林百貨-also-known-as-hayashi/18013078793462406.jpg)

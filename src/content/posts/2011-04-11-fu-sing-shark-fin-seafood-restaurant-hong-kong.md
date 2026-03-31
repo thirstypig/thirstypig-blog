@@ -4,7 +4,8 @@ pubDate: '2011-04-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/11/fu-sing-shark-fin-seafood-restaurant-hong-kong/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

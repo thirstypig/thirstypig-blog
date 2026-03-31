@@ -19,7 +19,8 @@ tags:
 - italian
 - pasta
 - pizza
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

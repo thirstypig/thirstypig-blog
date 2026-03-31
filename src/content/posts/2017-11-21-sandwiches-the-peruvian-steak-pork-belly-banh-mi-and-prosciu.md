@@ -17,7 +17,8 @@ tags:
 description: Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sandwiches. Got to try them all. I really liked the Prosciutto Chicken sandwich - I definitely will order this next time.
 location: Buddha Belly
 city: Downtown LA
-categories: []
+categories:
+- Fusion
 region: Los Angeles
 address: 724 S Spring St, Los Angeles, CA 90014
 coordinates:

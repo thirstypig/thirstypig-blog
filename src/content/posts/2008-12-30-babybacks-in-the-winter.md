@@ -8,7 +8,8 @@ heroImage: /images/posts/babybacks-in-the-winter/IMG_0363.JPG
 images:
 - /images/posts/babybacks-in-the-winter/IMG_0363.JPG
 - /images/posts/babybacks-in-the-winter/IMG_0364.JPG
-categories: []
+categories:
+- Uncategorized
 tags:
 - bbq
 - ribs

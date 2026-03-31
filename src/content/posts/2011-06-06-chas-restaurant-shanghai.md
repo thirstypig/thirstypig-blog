@@ -4,7 +4,8 @@ pubDate: '2011-06-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

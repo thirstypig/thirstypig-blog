@@ -16,7 +16,8 @@ images:
 - /images/posts/japon-bistro/IMG_0437.JPG
 - /images/posts/japon-bistro/IMG_0438.jpg
 - /images/posts/japon-bistro/IMG_0440.JPG
-categories: []
+categories:
+- Japanese
 tags:
 - japanese
 - bistro

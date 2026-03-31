@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/
 heroImage: /images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg
 images:
 - /images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

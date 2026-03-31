@@ -4,7 +4,8 @@ pubDate: '2011-07-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/10/sunday-brunch-stage-westin-bund-center-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

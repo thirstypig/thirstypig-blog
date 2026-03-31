@@ -17,7 +17,8 @@ tags:
 - uni
 description: Happy Hour at RA Sushi Bar Restaurant. Uni Sea Urchin. . . . . .
 location: Happy Hour at RA Sushi Bar Restaurant
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

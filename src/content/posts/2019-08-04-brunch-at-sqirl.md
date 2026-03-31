@@ -22,7 +22,8 @@ description: Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. S
 location: Sqirl
 city: Silver Lake
 region: Los Angeles
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

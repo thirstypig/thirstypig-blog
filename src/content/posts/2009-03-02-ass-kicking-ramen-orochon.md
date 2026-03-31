@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
 heroImage: /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
 images:
 - /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - tokyo
 - japanese

@@ -18,7 +18,8 @@ tags:
 - pork-belly
 description: pork belly, chicken karage, and fried beets was great as was the spicy chicken karage (Thai style). The beets had good texture and subtle flavor. Could do without the aioli. Too many ants on the picnic table.
 location: East Side King
-categories: []
+categories:
+- Fusion
 city: Austin
 region: Texas
 cuisine:

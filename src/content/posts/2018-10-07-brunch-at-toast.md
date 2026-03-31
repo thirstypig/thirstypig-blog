@@ -16,7 +16,8 @@ tags:
 - avocado-toast
 description: Brunch at Toast. The protein omelette and the avocado toast. Plus a cool looking French bulldog chillin’ next to me . . . .
 location: Brunch at Toast
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

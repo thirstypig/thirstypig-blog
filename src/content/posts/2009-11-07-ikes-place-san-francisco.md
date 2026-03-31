@@ -4,7 +4,8 @@ pubDate: '2009-11-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/07/ikes-place-san-francisco/
-categories: []
+categories:
+- American
 tags:
 - san-francisco
 - american

@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/
 heroImage: /images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg
 images:
 - /images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg
-categories: []
+categories:
+- American
 tags:
 - beverly-hills
 - american

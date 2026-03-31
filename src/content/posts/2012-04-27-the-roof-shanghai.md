@@ -4,7 +4,8 @@ pubDate: '2012-04-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/27/the-roof-shanghai/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

@@ -18,7 +18,8 @@ description: Hidden gem in the SGV. Diner American/Mexican food at the El Monte 
 location: Hidden gem in the SGV
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

@@ -23,7 +23,8 @@ address: 327 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
 coordinates:
   lat: 34.097536
   lng: -118.108801
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

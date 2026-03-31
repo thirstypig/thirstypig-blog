@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/31/%EA%BC%AC%EB%A6%AC%EA%B3
 heroImage: /images/posts/꼬리곰탕-ox-tail-soup-at-진주집-final-in-the-seoul-series/Ox-Tail-Seoul-17-88x88.jpg
 images:
 - /images/posts/꼬리곰탕-ox-tail-soup-at-진주집-final-in-the-seoul-series/Ox-Tail-Seoul-17-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

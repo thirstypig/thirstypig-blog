@@ -4,7 +4,8 @@ pubDate: '2010-04-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

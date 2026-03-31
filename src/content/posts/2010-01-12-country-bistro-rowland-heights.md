@@ -18,7 +18,8 @@ images:
 - /images/posts/country-bistro-rowland-heights/IMG_0979.jpg
 - /images/posts/country-bistro-rowland-heights/IMG_0983.JPG
 - /images/posts/country-bistro-rowland-heights/IMG_0985.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - rowland-heights
 - taiwanese

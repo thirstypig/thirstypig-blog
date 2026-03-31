@@ -1,5 +1,5 @@
 ---
-title: Equinox Pasadena, Pasadena
+title: BBAD, Pasadena
 pubDate: '2025-03-02'
 author: The Thirsty Pig
 source: instagram
@@ -10,15 +10,21 @@ images:
 - /images/posts/ig-2025-03-02-breakfast-burritos-at-bbad-in-pasadena/17962556618893398.jpg
 tags:
 - pasadena
+- mexican
+- breakfast-burritos
+- bacon
 description: Breakfast burritos at BBAD in Pasadena. The basic Bae-con and the pork chile verde. Both were yumalicious. The basic had really good bacon texture and almost over-the-top bacon flavor. The crunchy pot
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Mexican
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032
   lng: -118.145536
+cuisine:
+- Mexican
 ---
 
 ![Breakfast burritos at BBAD in Pasadena](/images/posts/ig-2025-03-02-breakfast-burritos-at-bbad-in-pasadena/18070895182831051.jpg)

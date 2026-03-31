@@ -23,7 +23,8 @@ description: Birthday dinner at Chuan’s. Sichuan cuisine. Father in-laws birth
 location: Chuan's
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

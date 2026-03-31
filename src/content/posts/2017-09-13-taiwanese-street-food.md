@@ -24,7 +24,8 @@ description: Taiwanese street food - . We had the beef Ban Mien (noodles) - 牛�
 location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Taiwanese
 address: 忠孝東路四段112號2樓, 台北市,  106
 coordinates:
   lat: 25.041346

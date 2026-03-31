@@ -17,7 +17,8 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

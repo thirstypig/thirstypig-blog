@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/01/22/worlds-best-%e6%b5%b7%e5%8d
 heroImage: /images/posts/worlds-best-海南雞飯-hainan-chicken-rice-savoy/072220081700.jpg
 images:
 - /images/posts/worlds-best-海南雞飯-hainan-chicken-rice-savoy/072220081700.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

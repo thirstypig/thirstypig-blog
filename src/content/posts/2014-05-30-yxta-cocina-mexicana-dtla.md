@@ -4,7 +4,8 @@ pubDate: '2014-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/05/30/yxta-cocina-mexicana-dtla/
-categories: []
+categories:
+- Mexican
 tags:
 - dtla
 - mexican

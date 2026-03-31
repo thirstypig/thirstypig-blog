@@ -21,7 +21,8 @@ tags:
 - pastries
 description: Milk Bat in LA. B’day milk quake, cereal milk, crack pie, thanksgiving croissant. Yum. Finally in LA. . . . .
 location: Milk Bat in LA
-categories: []
+categories:
+- Bakery
 city: Los Angeles
 cuisine:
 - Bakery

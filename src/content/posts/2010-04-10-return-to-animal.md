@@ -22,7 +22,8 @@ images:
 - /images/posts/return-to-animal/Animal+7+duck.jpg
 - /images/posts/return-to-animal/Animal+8+chinese+brocoli.jpg
 - /images/posts/return-to-animal/Animal+9+ribs.jpg
-categories: []
+categories:
+- American
 archiveUrl: https://web.archive.org/web/20100417222010/http://blog.thethirstypig.com:80/2010/04/return-to-animal.html
 draft: false
 location: The Return to Animal

@@ -13,7 +13,8 @@ tags:
 - coconut-water
 description: Pink Coconut Water from Nutrivsta. Better that water when you’re dehydrated! . . .
 location: Pink Coconut Water from Nutrivsta
-categories: []
+categories:
+- Beverage
 cuisine:
 - Beverage
 ---

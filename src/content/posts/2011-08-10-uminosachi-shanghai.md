@@ -4,7 +4,8 @@ pubDate: '2011-08-10'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/08/10/uminosachi-shanghai/
-categories: []
+categories:
+- Japanese
 description: Based on an article in CNNGohttp://www.cnngo.com/shanghai/eat/shanghais-5-best-all-you-can-eat-teppanyaki-627739?page=0,1 about Japanese restaurants, I decided to try Uminosachi. Boy, did I regret it.
 archiveUrl: https://web.archive.org/web/20120116080808/http://www.thethirstypig.com:80/2011/08/10/uminosachi-shanghai/
 draft: false

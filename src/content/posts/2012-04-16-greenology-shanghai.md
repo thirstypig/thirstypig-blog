@@ -4,7 +4,8 @@ pubDate: '2012-04-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/16/greenology-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

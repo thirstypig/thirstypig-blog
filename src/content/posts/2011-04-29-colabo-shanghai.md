@@ -4,7 +4,8 @@ pubDate: '2011-04-29'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/04/29/colabo-shanghai/
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

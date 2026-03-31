@@ -4,7 +4,8 @@ pubDate: '2010-05-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

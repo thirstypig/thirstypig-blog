@@ -9,7 +9,8 @@ images:
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0486.JPG
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0487.JPG
 - /images/posts/tasty-dessert-the-secret-dessert-place/IMG_0488.JPG
-categories: []
+categories:
+- Dessert
 description: Mango Delight was its name. . .
 archiveUrl: https://web.archive.org/web/20110105163117/http://www.thethirstypig.com/2009/04/02/tasty-dessert-the-secret-dessert-place/
 draft: false

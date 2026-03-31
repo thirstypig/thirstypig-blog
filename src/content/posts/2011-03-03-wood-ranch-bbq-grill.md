@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/03/wood-ranch-bbq-grill/
 heroImage: /images/posts/wood-ranch-bbq-grill/Wood-Fire-BBQ-08-188x188.jpg
 images:
 - /images/posts/wood-ranch-bbq-grill/Wood-Fire-BBQ-08-188x188.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - bbq
 - steak

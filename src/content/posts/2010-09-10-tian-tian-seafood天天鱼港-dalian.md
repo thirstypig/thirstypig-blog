@@ -4,7 +4,8 @@ pubDate: '2010-09-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/10/tian-tian-seafood%e5%a4%a9%e5%a4%a9%e9%b1%bc%e6%b8%af-dalian/
-categories: []
+categories:
+- Chinese
 tags:
 - dalian
 - chinese

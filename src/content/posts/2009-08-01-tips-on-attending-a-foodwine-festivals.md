@@ -4,7 +4,8 @@ pubDate: '2009-08-01'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/08/01/tips-on-attending-a-foodwine-festivals/
-categories: []
+categories:
+- Uncategorized
 description: Food & Wine Festivals in Southern California seem to come in bunches. You can always find these different events coupled with great charities. Tonight, i will be attending Project By Project’s Plate b
 archiveUrl: https://web.archive.org/web/20110105223910/http://www.thethirstypig.com/2009/08/01/tips-on-attending-a-foodwine-festivals/
 draft: false

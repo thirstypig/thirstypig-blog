@@ -14,7 +14,8 @@ tags:
 - mushroom
 description: Is it a mushroom or a bao? It’s a yummy bao!
 location: Is it a mushroom or a bao?  It’s a yummy bao
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

@@ -13,15 +13,21 @@ images:
 - /images/posts/ig-2022-03-20-birria-tacos-mulitas-and-nachos/17912304341429275.jpg
 tags:
 - east-la
+- mexican
+- birria-tacos
+- mulitas
 description: Birria Tacos, mulitas, and nachos. After drinking we go for eats in east Los Angeles, in Lincoln Heights. The birria Consume is great with the tacos and mulitas. I learned about the consume, with a little salsa and lime, is great to drink. Great recommendation. . . . . . . ❤️
 location: Ave 26 Tacos
 city: East LA
-categories: []
+categories:
+- Mexican
 region: Los Angeles
 address: 353 S Alameda St, Los Angeles, CA 90013
 coordinates:
   lat: 34.04373
   lng: -118.238456
+cuisine:
+- Mexican
 ---
 
 ![Birria Tacos, mulitas, and nachos](/images/posts/ig-2022-03-20-birria-tacos-mulitas-and-nachos/18284177200025381.jpg)

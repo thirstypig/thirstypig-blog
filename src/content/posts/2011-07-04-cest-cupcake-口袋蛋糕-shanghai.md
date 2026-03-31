@@ -4,7 +4,8 @@ pubDate: '2011-07-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/
-categories: []
+categories:
+- Dessert
 tags:
 - shanghai
 - dessert

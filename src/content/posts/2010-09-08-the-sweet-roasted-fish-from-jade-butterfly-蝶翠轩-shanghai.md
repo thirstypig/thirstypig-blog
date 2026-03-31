@@ -31,7 +31,8 @@ images:
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-26-88x88.jpg
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-27-88x88.jpg
 - /images/posts/the-sweet-roasted-fish-from-jade-butterfly-蝶翠轩-shanghai/Jade-Butterfly-Shanghai-28-88x88.jpg
-categories: []
+categories:
+- Chinese
 description: 'I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes '
 archiveUrl: https://web.archive.org/web/20100915154815/http://www.thethirstypig.com:80/2010/09/08/the-sweet-roasted-fish-from-jade-butterfly-%E8%9D%B6%E7%BF%A0%E8%BD%A9-shanghai/
 draft: false

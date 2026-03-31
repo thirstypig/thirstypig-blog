@@ -16,7 +16,8 @@ description: Pizza at CPK. Garlic Chicken Pizza on cauliflower crust and the “
 location: Pizza at CPK
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

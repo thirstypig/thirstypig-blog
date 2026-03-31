@@ -4,7 +4,8 @@ pubDate: '2010-04-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/19/lucky-baldwins-delirium-cafe-sierra-madre/
-categories: []
+categories:
+- British
 tags:
 - sierra-madre
 - british

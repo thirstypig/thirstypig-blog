@@ -17,7 +17,8 @@ tags:
 - caesar-salad
 description: The Caesar Salad at Hotel Caesar in Tijuana. Invented in 1927, this is where it all began. The Caesar Salad is my favorite salad.
 location: The Caesar Salad at Hotel Caesar in Tijuana
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

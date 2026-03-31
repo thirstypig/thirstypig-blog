@@ -26,7 +26,8 @@ address: 704 W Las Tunas Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.102047
   lng: -118.109943
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

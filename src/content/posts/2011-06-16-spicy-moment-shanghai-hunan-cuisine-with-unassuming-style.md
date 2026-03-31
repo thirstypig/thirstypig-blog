@@ -4,7 +4,8 @@ pubDate: '2011-06-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/06/16/spicy-moment-shanghai-hunan-cuisine-with-unassuming-style/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -19,7 +19,8 @@ description: Lunch with mom at Ahgoo’s. Taiwanese beef noodle soup, vegetable 
 location: Ahgoo's Kitchen
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

@@ -19,7 +19,8 @@ description: Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had th
 location: Yi Mei
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

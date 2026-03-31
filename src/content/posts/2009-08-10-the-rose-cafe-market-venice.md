@@ -11,7 +11,8 @@ images:
 - /images/posts/the-rose-cafe-market-venice/DSCN0036.JPG
 - /images/posts/the-rose-cafe-market-venice/DSCN0038.JPG
 - /images/posts/the-rose-cafe-market-venice/DSCN0040.JPG
-categories: []
+categories:
+- Bakery
 tags:
 - venice
 - bakery

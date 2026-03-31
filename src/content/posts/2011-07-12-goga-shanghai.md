@@ -16,7 +16,8 @@ images:
 - /images/posts/goga-shanghai/Goga-Shanghai-16-494x370.jpg
 - /images/posts/goga-shanghai/Goga-Shanghai-17-494x370.jpg
 - /images/posts/goga-shanghai/Goga-Shanghai-18-494x370.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

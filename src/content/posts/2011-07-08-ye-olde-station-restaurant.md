@@ -4,7 +4,8 @@ pubDate: '2011-07-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/07/08/ye-olde-station-restaurant/
-categories: []
+categories:
+- French
 tags:
 - shanghai
 - french

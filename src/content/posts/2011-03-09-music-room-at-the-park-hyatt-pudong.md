@@ -4,7 +4,8 @@ pubDate: '2011-03-09'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/03/09/music-room-at-the-park-hyatt-pudong/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

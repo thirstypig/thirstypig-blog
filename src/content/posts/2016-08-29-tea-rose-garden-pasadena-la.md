@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/
 heroImage: /images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg
 images:
 - /images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg
-categories: []
+categories:
+- Bakery
 tags:
 - pasadena
 - bakery

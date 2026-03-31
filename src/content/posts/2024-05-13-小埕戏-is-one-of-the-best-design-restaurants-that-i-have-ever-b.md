@@ -1,5 +1,5 @@
 ---
-title: 小埕戏 is one of the best design restaurants that I have ever been to
+title: 小埕戏, Xiamen
 pubDate: '2024-05-13'
 author: The Thirsty Pig
 source: instagram
@@ -15,9 +15,17 @@ images:
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18436199131004023.jpg
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18028170574897160.jpg
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18059070817604648.jpg
-tags: []
+tags:
+- xiamen
+- chinese
+- duck
+- fish
 description: 小埕戏 is one of the best design restaurants that I have ever been to. Amazing views, excellent blend of modern and traditional Chinese dining furnishings, and indoor, yet outdoor feel with a retractable roof. Fully impressed by this restaurant, and I’ve been to a lot of eateries. The food was traditional Xiamenese food featuring duck, fish, and vegetables, which reminded me of Taiwanese cooking. My ex coworkers also said the restrooms and the views were also impressive. The private rooms also feature great views. And lastly check out that cabinet full of Mao Tai!! . . .
-categories: []
+categories:
+- Chinese
+city: Xiamen
+cuisine:
+- Chinese
 ---
 
 ![小埕戏 is one of the best design restaurants that I have ever been to](/images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18008504744399398.jpg)

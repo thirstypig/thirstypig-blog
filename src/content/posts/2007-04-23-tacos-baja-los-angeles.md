@@ -4,7 +4,8 @@ pubDate: '2007-04-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2007/04/23/tacos-baja-los-angeles/
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

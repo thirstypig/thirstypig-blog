@@ -15,7 +15,8 @@ images:
 - /images/posts/ari-tofu-house/L1030795-185x185.jpg
 - /images/posts/ari-tofu-house/L1030796-185x185.jpg
 - /images/posts/ari-tofu-house/L1030798-185x185.jpg
-categories: []
+categories:
+- Korean
 tags:
 - taipei
 - korean

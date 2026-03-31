@@ -4,7 +4,8 @@ pubDate: '2011-02-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/11/the-lab-usc/
-categories: []
+categories:
+- American
 tags:
 - american
 - gastropub

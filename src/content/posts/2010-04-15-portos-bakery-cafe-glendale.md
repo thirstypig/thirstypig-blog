@@ -4,7 +4,8 @@ pubDate: '2010-04-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/15/portos-bakery-cafe-glendale/
-categories: []
+categories:
+- Cuban
 tags:
 - glendale
 - cuban

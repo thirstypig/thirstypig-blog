@@ -22,7 +22,8 @@ address: 630 W 5th St (btwn Flower & Grand Ave), Los Angeles, CA 90071
 coordinates:
   lat: 34.050562
   lng: -118.255366
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

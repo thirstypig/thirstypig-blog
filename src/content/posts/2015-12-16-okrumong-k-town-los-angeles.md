@@ -4,7 +4,8 @@ pubDate: '2015-12-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/12/16/okrumong-k-town-los-angeles/
-categories: []
+categories:
+- Korean
 tags:
 - k-town
 - korean

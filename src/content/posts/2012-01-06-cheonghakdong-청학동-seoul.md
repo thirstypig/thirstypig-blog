@@ -4,7 +4,8 @@ pubDate: '2012-01-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/06/cheonghakdong-%ec%b2%ad%ed%95%99%eb%8f%99-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

@@ -13,15 +13,20 @@ images:
 - /images/posts/ig-2024-10-01-seafood-brunch-at-crude-e-nudo-on-santa-monica-main-street/17850429153299173.jpg
 tags:
 - santa-monica
+- seafood
+- brunch
 description: Seafood brunch at Crude e Nudo on Santa Monica Main Street. Cool little sidewalk cafe with fresh seafood. Had the roasted fish collars, chickpea toast, and tuna tartare toast. Everything was yummy. Would certainly visit again and would recommend. . . .
 location: Crudo e Nudo
 city: Santa Monica
 region: Westside
-categories: []
+categories:
+- Seafood
 address: 2724 Main St, Santa Monica, CA 90405
 coordinates:
   lat: 34.000402
   lng: -118.482233
+cuisine:
+- Seafood
 ---
 
 ![Seafood brunch at Crude e Nudo on Santa Monica Main Street](/images/posts/ig-2024-10-01-seafood-brunch-at-crude-e-nudo-on-santa-monica-main-street/18349980136190501.jpg)

@@ -19,7 +19,8 @@ tags:
 description: The next stop of the Chronicles of Carnitas of East Los Angeles is at Los Cinco Puntos, translated as the Five Points. This local and friendly favorite was highly recommended. I had the usual carnitas tacos and also had a carne asada taco as well. The torta was also carne asada. When I ordered the carne asada (beef) taco I asked the counter guy how he would add toppings. I almost regret it since it was so spicy hot! 🌶 🌶 🥵 the carnitas was good and even better with their hand made tortillas. Their tortillas were bread like and had a texture much different from other places. . . . . . .
 location: Los Angeles Theatre
 city: Los Angeles
-categories: []
+categories:
+- Mexican
 address: 615 S Broadway (btwn 6th & 7th), Los Angeles, CA 90014
 coordinates:
   lat: 34.046397

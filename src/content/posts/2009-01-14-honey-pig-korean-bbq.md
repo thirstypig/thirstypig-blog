@@ -12,7 +12,8 @@ images:
 - /images/posts/honey-pig-korean-bbq/n639612684_1399153_6295.jpg
 - /images/posts/honey-pig-korean-bbq/n639612684_1399155_6794.jpg
 - /images/posts/honey-pig-korean-bbq/n639612684_1399160_8076.jpg
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

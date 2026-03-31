@@ -4,7 +4,8 @@ pubDate: '2011-06-27'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/06/27/slurping-ramen-at-kin/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

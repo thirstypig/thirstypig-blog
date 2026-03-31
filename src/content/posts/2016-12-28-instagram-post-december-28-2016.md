@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2016-12-28-instagram-post-december-28-2016/17846150119187962.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — December 28, 2016](/images/posts/ig-2016-12-28-instagram-post-december-28-2016/17846150119187962.jpg)

@@ -4,7 +4,8 @@ pubDate: '2010-07-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/04/tian-tian-seafood-harbour-restaurant%e5%a4%a9%e5%a4%a9%e6%b8%94%e6%b8%af-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

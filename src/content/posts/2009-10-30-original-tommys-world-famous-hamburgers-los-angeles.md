@@ -9,7 +9,8 @@ images:
 - /images/posts/original-tommys-world-famous-hamburgers-los-angeles/IMG_0635.jpg
 - /images/posts/original-tommys-world-famous-hamburgers-los-angeles/IMG_0636.jpg
 - /images/posts/original-tommys-world-famous-hamburgers-los-angeles/IMG_0637.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

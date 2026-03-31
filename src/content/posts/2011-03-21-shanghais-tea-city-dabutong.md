@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/03/21/shanghais-tea-city-dabutong
 heroImage: /images/posts/shanghais-tea-city-dabutong/Da-Bu-Tong-Tea-Center-Shanghai-17-88x88.jpg
 images:
 - /images/posts/shanghais-tea-city-dabutong/Da-Bu-Tong-Tea-Center-Shanghai-17-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

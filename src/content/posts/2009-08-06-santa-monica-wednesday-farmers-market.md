@@ -16,7 +16,8 @@ images:
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0024.JPG
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0025.JPG
 - /images/posts/santa-monica-wednesday-farmers-market/DSCN0029.JPG
-categories: []
+categories:
+- Uncategorized
 tags:
 - santa-monica
 - farmers-market

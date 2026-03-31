@@ -20,7 +20,8 @@ images:
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/DSCN0054.JPG
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/DSCN0057.JPG
 - /images/posts/westside-tavern-i-can-has-a-cheezburger/IMG_0906.JPG
-categories: []
+categories:
+- American
 tags:
 - american
 - cocktails

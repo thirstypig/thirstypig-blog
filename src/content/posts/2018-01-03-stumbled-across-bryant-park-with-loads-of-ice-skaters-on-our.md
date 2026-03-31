@@ -14,7 +14,8 @@ tags:
 - brooklyn
 description: Stumbled across Bryant Park, with loads of ice skaters, on our way home to Brooklyn. Thought about getting some skates to show off some old skills, but decided to rest my feet. Saw the Empire State Building. Also saw a frozen water fountain.
 city: Brooklyn
-categories: []
+categories:
+- Uncategorized
 region: New York
 cuisine: []
 ---

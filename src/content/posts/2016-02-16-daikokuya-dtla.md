@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/02/16/daikokuya-dtla/
 heroImage: /images/posts/daikokuya-dtla/IMG_2229.jpg
 images:
 - /images/posts/daikokuya-dtla/IMG_2229.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - dtla
 - japanese

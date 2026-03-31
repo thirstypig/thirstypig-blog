@@ -14,7 +14,8 @@ images:
 - /images/posts/yoshida-sushi-san-marino/DSCN0028.JPG
 - /images/posts/yoshida-sushi-san-marino/DSCN0031.JPG
 - /images/posts/yoshida-sushi-san-marino/DSCN0035.JPG
-categories: []
+categories:
+- Japanese
 tags:
 - san-marino
 - japanese

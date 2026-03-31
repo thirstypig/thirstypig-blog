@@ -19,7 +19,8 @@ description: One of my favorite ramen shops in LA. Super crowded on a Saturday n
 location: One of my favorite ramen shops in LA
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

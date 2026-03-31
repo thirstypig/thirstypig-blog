@@ -4,7 +4,8 @@ pubDate: '2010-06-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/25/yatai-ramen-twist-popup-los-angeles/
-categories: []
+categories:
+- Japanese
 tags:
 - los-angeles
 - japanese

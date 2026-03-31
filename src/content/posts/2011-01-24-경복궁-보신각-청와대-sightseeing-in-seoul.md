@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/24/%EA%B2%BD%EB%B3%B5%EA%B6
 heroImage: /images/posts/경복궁-보신각-청와대-sightseeing-in-seoul/Sight-Seeing-in-Seoul-27-88x88.jpg
 images:
 - /images/posts/경복궁-보신각-청와대-sightseeing-in-seoul/Sight-Seeing-in-Seoul-27-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 - kimchi
