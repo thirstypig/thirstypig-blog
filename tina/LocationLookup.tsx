@@ -8,10 +8,14 @@
  */
 import React, { useState, useCallback, useRef, useEffect } from "react";
 
-// Dynamically import config — file is gitignored, may not exist in production
+// Load API key: env var (production/Vercel) → local JSON file (dev)
 const GOOGLE_API_KEY = (() => {
+  // Check env var first (set in Vercel dashboard as TINA_PUBLIC_GOOGLE_PLACES_API_KEY)
+  if (typeof process !== "undefined" && process.env?.TINA_PUBLIC_GOOGLE_PLACES_API_KEY) {
+    return process.env.TINA_PUBLIC_GOOGLE_PLACES_API_KEY;
+  }
   try {
-    // Vite glob import resolves at build time; returns empty if file missing
+    // Fallback: local gitignored config file for dev
     const modules = import.meta.glob("./google-places-config.json", { eager: true }) as Record<string, { apiKey?: string }>;
     const config = Object.values(modules)[0];
     return config?.apiKey || "";
