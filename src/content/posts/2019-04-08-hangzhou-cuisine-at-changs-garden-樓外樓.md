@@ -19,13 +19,9 @@ tags:
 - eeeeeats
 - lamb
 description: Hangzhou Cuisine at Chang’s Garden 樓外樓. The big fatty pork belly, bitter melon, a big bowl lamb stew, and rice balls. .
-location: The Stables at Santa Anita Park
+location: Chang's Garden
 city: Arcadia
 region: San Gabriel Valley
-address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
-coordinates:
-  lat: 34.13803
-  lng: -118.04792
 ---
 
 ![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/17847945469403157.jpg)

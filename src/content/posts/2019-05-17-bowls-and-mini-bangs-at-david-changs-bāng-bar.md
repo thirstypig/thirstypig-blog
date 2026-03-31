@@ -23,13 +23,9 @@ tags:
 - chicken
 - eggplant
 description: Bowls and mini Bangs at David Chang’s Bāng Bar. Eggplant and Chicken bowls and chicken and spicy pork mini bangs. . . .
-location: The Bar at Eleven Madison Park
+location: Bāng Bar
 city: New York
 region: New York
-address: 11 Madison Ave (E 24th St), New York, NY 10010
-coordinates:
-  lat: 40.741693
-  lng: -73.987196
 ---
 
 ![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/18037591285135461.jpg)

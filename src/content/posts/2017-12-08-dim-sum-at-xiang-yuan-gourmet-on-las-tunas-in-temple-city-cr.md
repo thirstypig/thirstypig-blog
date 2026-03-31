@@ -15,16 +15,12 @@ tags:
 - taro
 - thirstypig
 description: Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels.
-location: Summer Rolls
+location: Xiang Yuan Gourmet
 city: Temple City
 region: San Gabriel Valley
 categories:
 - Temple City
 - San Gabriel Valley
-address: '5728 Rosemead Blvd #100, Temple City, CA 91780'
-coordinates:
-  lat: 34.104357
-  lng: -118.073209
 ---
 
 ![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17884972897155499.jpg)

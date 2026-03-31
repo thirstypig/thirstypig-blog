@@ -19,13 +19,9 @@ tags:
 - hunancuisine
 - food
 description: Hunan cuisine at Hunan Mao Restaurant. My favorite Hunan Restaurant in LA. Preserved pork, eggplant and green beans, pork belly, steamed spare rib with steamed cake . . .
-location: Hop Li Seafood Restaurant
+location: Hunan Mao
 city: Los Angeles
 region: Los Angeles
-address: 526 Alpine St (at Yale St), Los Angeles, CA 90012
-coordinates:
-  lat: 34.062902
-  lng: -118.240577
 ---
 
 ![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17864235973344775.jpg)

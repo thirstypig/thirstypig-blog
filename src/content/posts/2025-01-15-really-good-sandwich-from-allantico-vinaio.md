@@ -22,15 +22,11 @@ tags:
 - thirstypig
 - tastemakersapp
 description: 'Really good sandwich from All''Antico Vinaio. This was the La Paradiso with Mortadella, stracciatella, pistachio cream, pistachio. This was their most popular sandwich. I first found and heard of this '
-location: Artisanal Goods by Car
+location: All'Antico Vinaio
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
-address: 1009 E Colorado Blvd (Catalina), Pasadena, CA 91106
-coordinates:
-  lat: 34.146124
-  lng: -118.129694
 ---
 
 ![Really good sandwich from All'Antico Vinaio](/images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18049905596141367.jpg)

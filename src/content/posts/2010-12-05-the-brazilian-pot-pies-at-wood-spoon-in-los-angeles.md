@@ -17,12 +17,8 @@ tags:
 description: When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown
 archiveUrl: https://web.archive.org/web/20101207161248/http://www.thethirstypig.com:80/2010/12/05/the-brazilian-pot-pies-at-wood-spoon-in-los-angeles/
 draft: false
-location: Woodcat
+location: Wood Spoon
 city: Los Angeles
-address: 1532 W Sunset Blvd (Laveta Terrace), Los Angeles, CA 90026
-coordinates:
-  lat: 34.07622
-  lng: -118.256321
 ---
 
 When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown Los Angeles Brazilian restaurant had a pot pie that was worth the visit.

@@ -22,13 +22,9 @@ tags:
 description: Not your typical Korean restaurant . . . Kobawoo has pretty good pork – bossam dish. It seems that I am attracted to pork, not sure why.
 archiveUrl: https://web.archive.org/web/20110105031613/http://www.thethirstypig.com/2010/02/05/bossam-%eb%b3%b4%ec%8c%88-at-the-kobawoo-house-los-angeles/
 draft: false
-location: Dynasty Typewriter At The Hayworth
+location: Kobawoo House
 city: Los Angeles
 region: Koreatown
-address: 2511 Wilshire Blvd (S Carondelet St), Los Angeles, CA 90057
-coordinates:
-  lat: 34.0606
-  lng: -118.280585
 ---
 
 Not your typical Korean restaurant . . . Kobawoo has pretty good pork – bossam dish. It seems that I am attracted to pork, not sure why.

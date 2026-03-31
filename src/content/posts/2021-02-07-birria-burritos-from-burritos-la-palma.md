@@ -22,13 +22,9 @@ tags:
 - eats
 - thirstypig
 description: Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty! . . . . . . .
-location: BADMAASH Downtown LA
+location: Burritos La Palma
 city: Los Angeles
 region: Los Angeles
-address: 108 W 2nd St (at Main St), Los Angeles, CA 90012
-coordinates:
-  lat: 34.051342
-  lng: -118.244571
 ---
 
 ![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17904603691723444.jpg)

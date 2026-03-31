@@ -26,13 +26,9 @@ tags:
 - eeeeeats
 - eats
 description: Weekend brunch at All Day Baby on Sunset. Of course I had the Bloody Mary. Had the ADB breakfast biscuit sandwich with sausage, which was an extravagant McDonald’s sausage biscuit sandwich. Sausage wa
-location: The United Theater On Broadway
+location: All Day Baby
 city: Downtown LA
 region: Los Angeles
-address: 933 S Broadway, Los Angeles, CA 90015
-coordinates:
-  lat: 34.042067
-  lng: -118.257015
 ---
 
 ![Weekend brunch at All Day Baby on Sunset](/images/posts/ig-2021-07-14-weekend-brunch-at-all-day-baby-on-sunset/17926895983641628.jpg)

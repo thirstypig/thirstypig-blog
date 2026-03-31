@@ -21,13 +21,9 @@ tags:
 - thirstypig
 - tastemakersapp
 description: Sichuan food 川菜 at Xiang La Hui 香辣汇. We had Spicy Roasted Fish with Red Peppers 香辣风味烤鱼, which was super spicy. The square caldron of fire had a simmering oily broth of goodness with cauliflower, potat
-location: BADMAASH Downtown LA
+location: Xiang La Hui
 city: Los Angeles
 region: Los Angeles
-address: 108 W 2nd St (at Main St), Los Angeles, CA 90012
-coordinates:
-  lat: 34.051342
-  lng: -118.244571
 ---
 
 ![Sichuan food 川菜 at Xiang La Hui 香辣汇](/images/posts/ig-2022-03-07-sichuan-food-川菜-at-xiang-la-hui-香辣汇/17932683875031555.jpg)

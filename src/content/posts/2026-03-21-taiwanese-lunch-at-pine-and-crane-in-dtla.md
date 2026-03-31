@@ -14,8 +14,8 @@ city: Downtown LA
 region: Los Angeles
 address: '1120 S Grand Ave Unit 101, Los Angeles, CA 90015'
 coordinates:
-  lat: 34.047816
-  lng: -118.239695
+  lat: 34.0399
+  lng: -118.2649
 images:
   - /images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/17897894196419106.jpg
   - /images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/18080866865375687.jpg

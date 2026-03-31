@@ -27,13 +27,9 @@ tags:
 - brisket
 - pork
 description: Korean Bbq at Kang Ho Dong Baekjeong. We had the thin sliced Brisket, beef short rib, and pork belly. I think our favorite was the thinly sliced brisket. Also had the tofu soup and lunch box. . . .
-location: Hui Tou Xiang Noodles House
+location: Kang Ho Dong Baekjeong
 city: San Gabriel
 region: San Gabriel Valley
-address: 704 W Las Tunas Dr, San Gabriel, CA 91776
-coordinates:
-  lat: 34.102047
-  lng: -118.109943
 ---
 
 ![Korean Bbq at Kang Ho Dong Baekjeong](/images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/17890063960322863.jpg)

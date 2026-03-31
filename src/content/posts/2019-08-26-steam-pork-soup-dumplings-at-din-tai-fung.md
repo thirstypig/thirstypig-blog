@@ -24,13 +24,9 @@ tags:
 - dtf
 - sgv
 description: Steam Pork Soup Dumplings at Din Tai Fung. 鼎泰豐的小籠包. Beef noodle soup 牛肉麵, vegetable dumplings 蔡包. Not a long wait if you go early. But still a wait. Shanghainese/Taiwanese Dim Sun lunch. . . . .
-location: Atlas Home Repairs
+location: Din Tai Fung
 city: San Gabriel
 region: San Gabriel Valley
-address: 9000 Arcadia Ave, San Gabriel, CA 91775
-coordinates:
-  lat: 34.095717
-  lng: -118.105727
 ---
 
 ![Steam Pork Soup Dumplings at Din Tai Fung](/images/posts/ig-2019-08-26-steam-pork-soup-dumplings-at-din-tai-fung/18060599182183415.jpg)

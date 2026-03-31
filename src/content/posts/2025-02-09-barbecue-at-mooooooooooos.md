@@ -20,13 +20,9 @@ tags:
 - eats
 - eeeeeats
 description: Barbecue at Mooooooooooo’s . . . . With brisket, pork ribs, sausage, and pork belly burnt ends and loads of sides - corn, Mac & cheese, and frito pie. My relatives loved the pork ribs - which I assume
-location: Water Court at California Plaza
+location: Moo's Craft Barbecue
 city: East LA
 region: Los Angeles
-address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
-coordinates:
-  lat: 34.051751
-  lng: -118.251251
 ---
 
 ![Barbecue at Mooooooooooo’s](/images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18032586851533949.jpg)

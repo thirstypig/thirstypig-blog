@@ -23,13 +23,9 @@ tags:
 - eats
 - eeeeeats
 description: Bone marrow and beef at NIKU X. . . .
-location: Water Court at California Plaza
+location: NIKU X
 city: Downtown LA
 region: Los Angeles
-address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
-coordinates:
-  lat: 34.051751
-  lng: -118.251251
 ---
 
 ![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18298746178167857.jpg)

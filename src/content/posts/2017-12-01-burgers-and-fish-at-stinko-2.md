@@ -22,13 +22,9 @@ tags:
 - fish
 - onionrings
 description: Burgers and fish at Stinko 2.0 - burger with caramelized onions, the channel island rock fish - halibut, and French Fried Onions Rings. The burger was very good, but the fries were even better. I like
-location: The Lounge At Mi Piace
+location: Stinko's
 city: Pasadena
 region: San Gabriel Valley
-address: 25 E Colorado Blvd, Pasadena, CA 91105, Pasadena, CA 91105
-coordinates:
-  lat: 34.145855
-  lng: -118.1499
 ---
 
 ![Burgers and fish at Stinko 2](/images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17850818986216471.jpg)

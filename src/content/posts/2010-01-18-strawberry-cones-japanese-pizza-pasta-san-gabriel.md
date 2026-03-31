@@ -21,13 +21,9 @@ tags:
 description: One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.
 archiveUrl: https://web.archive.org/web/20110105210618/http://www.thethirstypig.com/2010/01/18/strawberry-cones-japanese-pizza-pasta-san-gabriel/
 draft: false
-location: Pulciano's Deli & Cafe
+location: Strawberry Cones
 city: San Gabriel
 region: San Gabriel Valley
-address: 327 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
-coordinates:
-  lat: 34.097536
-  lng: -118.108801
 ---
 
 One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.

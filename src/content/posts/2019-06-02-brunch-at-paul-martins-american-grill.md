@@ -24,15 +24,11 @@ tags:
 - brunch
 - saturday
 description: Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, short rib hash tacos, salmon fish tacos, trio of ribs, chicken, and shrimp, brioche French toast, and some table biscuits. Pretty good. Gr
-location: Eden Garden Bar & Grill
+location: Paul Martin's American Grill
 city: Pasadena
 region: Pasadena
 categories:
 - Pasadena
-address: 175 E Holly St (Fair Oaks), Pasadena, CA 91103
-coordinates:
-  lat: 34.147805
-  lng: -118.146514
 ---
 
 ![Brunch at Paul Martin’s American Grill](/images/posts/ig-2019-06-02-brunch-at-paul-martins-american-grill/18062233153077215.jpg)

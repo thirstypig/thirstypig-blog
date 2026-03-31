@@ -21,13 +21,9 @@ tags:
 - casadragones
 - carnitas
 description: Lunch at Ola Mexican at 2nd & PCH in the LBC. . . . .
-location: Harvey Milk Equality Plaza at the Promenade
+location: Ola Mexican Kitchen
 city: Long Beach
 region: Long Beach
-address: 100 East 3rd Street (at Promenade North), Long Beach, CA 90802
-coordinates:
-  lat: 33.770611
-  lng: -118.191111
 ---
 
 ![Lunch at Ola Mexican at 2nd & PCH in the LBC](/images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17902884575228976.jpg)

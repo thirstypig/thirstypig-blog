@@ -19,13 +19,9 @@ tags:
 description: 'Dim sum is Cantonese for desserts 點心 or 点心. This was evolved from Yum Chahttp://en.wikipedia.org/wiki/Dimsum – 飲茶 or to drink tea. In the olden days, travelers on the silk road and field labors would '
 archiveUrl: https://web.archive.org/web/20110311201405/http://www.thethirstypig.com:80/2011/03/07/the-crispy-pork-buns-at-ches-cantonese-restaurant-hong-kong/
 draft: false
-location: The Spa at Four Seasons
+location: Che's Cantonese Restaurant
 city: Hong Kong
 region: Hong Kong
-address: 5-7/F, Four Seasons Hotel Hong Kong, 8 Finance St, 中西區
-coordinates:
-  lat: 22.286279
-  lng: 114.157623
 ---
 
 Dim sum is Cantonese for desserts 點心 or 点心. [This was evolved from Yum Cha](http://en.wikipedia.org/wiki/Dim_sum) – 飲茶 or to drink tea. In the olden days, travelers on the silk road and field labors would stop by these tea house for tea. These establishments started to just serve tea and later little dishes. Recent tradition calls for dim sum to be weekend family lunch events.

@@ -24,13 +24,9 @@ tags:
 - beer
 - eeeeeats
 description: Good times with old friends at Inko Nito. Great venue and location. . . .
-location: Good Clean Fun
+location: Inko Nito
 city: Downtown LA
 region: Los Angeles
-address: 868 S Olive St (Olive/9th), Los Angeles, CA 90014
-coordinates:
-  lat: 34.044065
-  lng: -118.25801
 ---
 
 ![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18075864619068245.jpg)

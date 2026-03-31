@@ -26,13 +26,9 @@ tags:
 - éº
 - é
 description: Birthday dinner at Chuan’s. Sichuan cuisine. Father in-laws birthday. Too bad there was no Sichuan Mask show. The fish and mapo tofu was great. The noodles were good too. . . .
-location: Atlas Home Repairs
+location: Chuan's
 city: San Gabriel
 region: San Gabriel Valley
-address: 9000 Arcadia Ave, San Gabriel, CA 91775
-coordinates:
-  lat: 34.095717
-  lng: -118.105727
 ---
 
 ![Birthday dinner at Chuan’s](/images/posts/ig-2019-01-28-birthday-dinner-at-chuans/18012715267104660.jpg)

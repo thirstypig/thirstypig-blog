@@ -15,13 +15,9 @@ tags:
 description: What a nice little restaurant.
 archiveUrl: https://web.archive.org/web/20110105202901/http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/
 draft: false
-location: Amélie Restaurant, Bistro & Wine Bar
+location: Mundo Cafe & Restaurant
 city: New York
 region: New York
-address: 22 W 8th St (btwn 5th Ave & MacDougal St), New York, NY 10011
-coordinates:
-  lat: 40.732659
-  lng: -73.997713
 ---
 
 What a nice little restaurant.

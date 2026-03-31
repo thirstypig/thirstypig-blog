@@ -22,16 +22,12 @@ tags:
 - arcadia
 - monrovia
 description: Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had the egg pancake 蛋皮 and fried dumplings. Yi Mei is one of the better Taiwanese breakfast restaurants. . . . . .
-location: The Stables at Santa Anita Park
+location: Yi Mei
 city: Arcadia
 region: San Gabriel Valley
 categories:
 - Arcadia
 - San Gabriel Valley
-address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
-coordinates:
-  lat: 34.13803
-  lng: -118.04792
 ---
 
 ![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18096871207129836.jpg)

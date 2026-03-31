@@ -23,13 +23,9 @@ tags:
 - porkchiliverde
 - spicy
 description: Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped w
-location: Water Court at California Plaza
+location: Jenny's Kitchen
 city: Los Angeles
 region: Los Angeles
-address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
-coordinates:
-  lat: 34.051751
-  lng: -118.251251
 ---
 
 ![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18048457702001458.jpg)

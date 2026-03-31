@@ -44,13 +44,9 @@ tags:
 description: Fogo de Chao is a Brazilian Churrasco BBQ. BBQ with the universally accepted meaning of roasting and grilling meats over open flames. Korean also have a BBQ as well as Americans.
 archiveUrl: https://web.archive.org/web/20110105150832/http://www.thethirstypig.com/2010/07/05/churrasco-at-fogo-de-chao-beverly-hills/
 draft: false
-location: Larder at Maple Drive
+location: Fogo de Chao
 city: Beverly Hills
 region: Westside
-address: 345 N Maple Dr (btn Alden Dr & W Third St), Beverly Hills, CA 90210
-coordinates:
-  lat: 34.074534
-  lng: -118.3941
 ---
 
 Larder at Maple Drive in Beverly Hills.

@@ -25,13 +25,9 @@ tags:
 - ginger
 - quiche
 description: Brunch at Sqirl. Long ass lines. Flimsy outdoor table and chairs. Smelly sidewalk. And crowded street parking. Thought this place was a foo-foo organic, gluten-free, vegan, bland cafe. Yet, I would re
-location: Water Court at California Plaza
+location: Sqirl
 city: Silver Lake
 region: Los Angeles
-address: 350 S Grand Ave (at 4th St.), Los Angeles, CA 90071
-coordinates:
-  lat: 34.051751
-  lng: -118.251251
 ---
 
 ![Brunch at Sqirl](/images/posts/ig-2019-08-04-brunch-at-sqirl/17846595841544728.jpg)

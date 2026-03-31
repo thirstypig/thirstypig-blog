@@ -21,13 +21,9 @@ tags:
 description: One day for lunch, I selected to get sandwiches from Guilianos Delicatessen and Bakery, in Gardena. Open for over 50 years, this is the classic deli featuring cold cut meats, cheese, and sandwiches.
 archiveUrl: https://web.archive.org/web/20111103142149/http://www.thethirstypig.com/2009/09/01/the-sub-guilianos/
 draft: false
-location: The Crab Shack
+location: Guiliano's
 city: Gardena
 region: South Bay
-address: 15460 S Western Ave Ste 101, Gardena, CA 90249
-coordinates:
-  lat: 33.889896
-  lng: -118.30854
 ---
 
 One day for lunch, I selected to get sandwiches from Guilianos Delicatessen and Bakery, in Gardena. Open for over 50 years, this is the classic deli featuring cold cut meats, cheese, and sandwiches.

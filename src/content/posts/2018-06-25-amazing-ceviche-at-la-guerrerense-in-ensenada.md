@@ -21,13 +21,9 @@ tags:
 - seaurchin
 - uni
 description: Amazing ceviche at La Guerrerense in Ensenada. We had sea urchin, octopus, and fish ceviche. Then had crab salad and the shrimp special with avocado. Yummy. Unlike anything I ever had! . . . . . .
-location: BADMAASH Downtown LA
+location: La Guerrerense
 city: Los Angeles
 region: Los Angeles
-address: 108 W 2nd St (at Main St), Los Angeles, CA 90012
-coordinates:
-  lat: 34.051342
-  lng: -118.244571
 ---
 
 ![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17921637742175976.jpg)

@@ -24,13 +24,9 @@ tags:
 description: With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants. http://3.bp.blogspot.com/37fRXLoLUPo/S1X2FA69mI/AAAAAAAABb0/G9p4b0pvoPU/s320/IMG0227.JP
 archiveUrl: https://web.archive.org/web/20111103142257/http://www.thethirstypig.com/2010/02/23/steam-buns-at-the-noodle-house-%e9%ba%b5%e9%a6%99%e5%9c%92-monterey-park/
 draft: false
-location: Mama Lu's Dumpling House
+location: Noodle House
 city: Monterey Park
 region: San Gabriel Valley
-address: 153 E Garvey Ave (at Lincoln Ave.), Monterey Park, CA 91755
-coordinates:
-  lat: 34.062682
-  lng: -118.121518
 ---
 
 With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants.
