@@ -4,7 +4,8 @@ pubDate: '2011-01-18'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/01/18/seouls-collegetown-%ed%99%8d%eb%8c%80-hongdae-hongik-university/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 description: <-- a2a\config.linkname="Seoul&8217;s Collegetown 홍대 Hongdae Hongik University"; a2a\config.linkurl="http://www.thethirstypig.com/2011/01/18/seouls-collegetown-%ed%99%8d%eb%8c%80-hongdae-hongik-univer

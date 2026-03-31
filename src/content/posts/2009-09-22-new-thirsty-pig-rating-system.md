@@ -4,7 +4,8 @@ pubDate: '2009-09-22'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/09/22/new-thirsty-pig-rating-system/
-categories: []
+categories:
+- Uncategorized
 description: I have decided to come up with a new rating system. An objective rating system has its faults and traits – but I think overall it can help the reader’s experience on the site. I have a pretty agreeabl
 archiveUrl: https://web.archive.org/web/20110106033544/http://www.thethirstypig.com/2009/09/22/new-thirsty-pig-rating-system/
 draft: false

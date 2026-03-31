@@ -4,7 +4,8 @@ pubDate: '2017-02-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/16/eastside-market-chinatown-la/
-categories: []
+categories:
+- Italian
 tags:
 - chinatown
 - italian

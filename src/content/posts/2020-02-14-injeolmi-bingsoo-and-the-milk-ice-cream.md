@@ -22,7 +22,8 @@ address: 317 S Broadway (4th), Los Angeles, CA 90013
 coordinates:
   lat: 34.050738
   lng: -118.248847
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

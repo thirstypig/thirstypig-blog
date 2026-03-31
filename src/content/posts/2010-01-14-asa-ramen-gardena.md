@@ -16,7 +16,8 @@ images:
 - /images/posts/asa-ramen-gardena/IMG_0951.jpg
 - /images/posts/asa-ramen-gardena/IMG_0952.jpg
 - /images/posts/asa-ramen-gardena/IMG_0954.JPG
-categories: []
+categories:
+- Japanese
 tags:
 - gardena
 - japanese

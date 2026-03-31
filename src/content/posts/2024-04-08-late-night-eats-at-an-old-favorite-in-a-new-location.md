@@ -13,10 +13,16 @@ images:
 - /images/posts/ig-2024-04-08-late-night-eats-at-an-old-favorite-in-a-new-location/18028921081962260.jpg
 tags:
 - tokyo
+- japanese
+- katsudon
+- late-night
 description: Late night eats at an old favorite in a new location. The katsudon - pork cutlet with eggs and onion over rice. I usually get the oyakudon, but tonight I wanted something different. Unfortunately, it was quite salty - too salty for me. So, after the bill was paid, I told the server and owner. They welcomed the feedback and interestedly, they said feedback is great since it comes from customers that care. The poles that don’t care, and have issues, they just won’t return. I know I will return. And I also recommend. Suehiros was part of my college life. I will always associate Suehiros as part of little Tokyo. It is too bad they couldn’t stay at their 1st street location. . . .
 city: Tokyo
 region: Tokyo
-categories: []
+categories:
+- Japanese
+cuisine:
+- Japanese
 ---
 
 ![Late night eats at an old favorite in a new location](/images/posts/ig-2024-04-08-late-night-eats-at-an-old-favorite-in-a-new-location/17916456932913668.jpg)

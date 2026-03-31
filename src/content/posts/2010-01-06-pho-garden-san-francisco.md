@@ -10,7 +10,8 @@ images:
 - /images/posts/pho-garden-san-francisco/IMG_8278.JPG
 - /images/posts/pho-garden-san-francisco/IMG_8281.JPG
 - /images/posts/pho-garden-san-francisco/IMG_8286.JPG
-categories: []
+categories:
+- Vietnamese
 tags:
 - san-francisco
 - vietnamese

@@ -20,7 +20,8 @@ tags:
 description: Sichuan Lunch at Meizhou Dongpo Restaurant at Santa Anita Westfield Mall. Braised pork belly, chicken tofu soup, water boiled fish, roast duck, lion head fish ball. Much better this time around. Yum! . . . . . .us ._lindoris
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

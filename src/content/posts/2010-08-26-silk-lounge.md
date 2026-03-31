@@ -4,7 +4,8 @@ pubDate: '2010-08-26'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/08/26/silk-lounge/
-categories: []
+categories:
+- Uncategorized
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154753/http://www.thethirstypig.com:80/2010/08/26/silk-lounge/
 draft: false

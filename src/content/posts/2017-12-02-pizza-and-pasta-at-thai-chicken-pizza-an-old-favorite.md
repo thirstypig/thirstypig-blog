@@ -15,7 +15,8 @@ tags:
 - pasta
 description: Pizza and pasta at Thai chicken pizza, an old favorite. Spaghetti bolognese and Penna with sun dried tomatoes.
 location: California Pizza Kitchen
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

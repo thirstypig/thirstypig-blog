@@ -22,7 +22,8 @@ address: 339 S Mission Dr, San Gabriel, CA 91776
 coordinates:
   lat: 34.097372
   lng: -118.108872
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

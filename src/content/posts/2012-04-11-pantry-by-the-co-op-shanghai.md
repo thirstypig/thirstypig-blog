@@ -5,16 +5,16 @@ author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/04/11/pantry-by-the-co-op-shanghai/
 categories:
-- 2 pigs
-- American
 - Bakery
-- Cupcakes
-- Farmers' Markets
-- Price Range 2 $/¥/NT
-- Sandwich
 description: '| Location | Ratinghttp://www.thethirstypig.com/rating-system/ | | --- | --- | | Pantry by the Co-op 90 Nanyang lu, Xikang lu, Jing’An District, Shanghai 南阳路90号近西康路http://maps.google.com/maps?q=90+Nan'
 archiveUrl: https://web.archive.org/web/20120413074057/http://www.thethirstypig.com:80/2012/04/11/pantry-by-the-co-op-shanghai/
 draft: false
+cuisine:
+- Bakery
+tags:
+- bakery
+- coffee
+- brunch
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

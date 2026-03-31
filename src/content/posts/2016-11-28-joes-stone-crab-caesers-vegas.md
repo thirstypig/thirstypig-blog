@@ -4,7 +4,8 @@ pubDate: '2016-11-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/11/28/joes-stone-crab-caesers-vegas/
-categories: []
+categories:
+- Seafood
 tags:
 - las-vegas
 - seafood

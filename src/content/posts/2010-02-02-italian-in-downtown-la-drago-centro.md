@@ -14,7 +14,8 @@ images:
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0049.JPG
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0050.JPG
 - /images/posts/italian-in-downtown-la-drago-centro/IMG_0051.jpg
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

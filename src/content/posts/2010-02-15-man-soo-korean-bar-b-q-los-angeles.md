@@ -4,7 +4,8 @@ pubDate: '2010-02-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

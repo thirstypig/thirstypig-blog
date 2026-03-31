@@ -1,5 +1,5 @@
 ---
-title: Curry lunch at Had the Wagyu stone bowl and the tonkatsu...
+title: Had, Los Angeles
 pubDate: '2024-05-24'
 author: The Thirsty Pig
 source: instagram
@@ -18,10 +18,16 @@ images:
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/18047803003689774.jpg
 tags:
 - los-angeles
+- japanese
+- curry
+- stone-bowl
 description: Curry lunch at Had the Wagyu stone bowl and the tonkatsu pork curry. The combo gave us miso soup and fries and cucumber salad. Yummy. Ate too much . . .
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Japanese
+cuisine:
+- Japanese
 ---
 
 ![Curry lunch at Had the Wagyu stone bowl and the tonkatsu pork curry](/images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/17915296826929163.jpg)

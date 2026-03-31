@@ -14,10 +14,16 @@ images:
 - /images/posts/ig-2024-04-28-my-favorite-meal-is-breakfast-and-taiwanese-breakfast-is-one/18017824235247386.jpg
 tags:
 - taipei
+- taiwanese
+- breakfast
+- egg-pancakes
 description: My favorite meal is breakfast and Taiwanese breakfast is one of the best. With the rice balls, egg pancakes, and others. I try to find an egg pancake every morning. I used to have the rice ball with egg, oil curler, and pork floss - every morning but now I realize it is quite heavy and a bit much for me nowadays. You can find these treats almost everyday and almost every other corner. So good. In Taipei, Taichung, Tainan, and everywhere in between. . . .
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![My favorite meal is breakfast and Taiwanese breakfast is one of the best](/images/posts/ig-2024-04-28-my-favorite-meal-is-breakfast-and-taiwanese-breakfast-is-one/17921923208881498.jpg)

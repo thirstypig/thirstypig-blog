@@ -9,9 +9,15 @@ images:
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18052128761250145.jpg
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18082818406731525.jpg
 - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18151127368329074.jpg
-tags: []
+tags:
+- los-angeles
+- hot-dogs
+- stadium-food
 description: Enjoying a Dodger Dog at the game . . .
-categories: []
+categories:
+- Uncategorized
+city: Los Angeles
+cuisine: []
 ---
 
 ![Enjoying a Dodger Dog at the game](/images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18052128761250145.jpg)

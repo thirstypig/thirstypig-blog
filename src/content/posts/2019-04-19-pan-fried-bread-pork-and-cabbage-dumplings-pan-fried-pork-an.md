@@ -20,7 +20,8 @@ tags:
 description: Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings, cabbage and jelly fish, pork cheek, pork tongue, and noodles with bean and pork sauce. Qingdao Bread Food 青島麵館 in Monterey Park in the SGV. . .
 location: Qing Dao Bread Food
 city: Monterey Park
-categories: []
+categories:
+- Chinese
 region: San Gabriel Valley
 address: '301 N Garfield Ave #G (at Garcelon Ave), Monterey Park, CA 91754'
 coordinates:

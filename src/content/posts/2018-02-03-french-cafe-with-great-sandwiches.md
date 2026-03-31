@@ -21,7 +21,8 @@ address: 450 E 2nd St, Los Angeles, CA 90012
 coordinates:
   lat: 34.047085
   lng: -118.238598
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

@@ -13,7 +13,8 @@ images:
 - /images/posts/steam-buns-at-the-noodle-house-麵香園-monterey-park/IMG_0225.JPG
 - /images/posts/steam-buns-at-the-noodle-house-麵香園-monterey-park/IMG_0227.JPG
 - /images/posts/steam-buns-at-the-noodle-house-麵香園-monterey-park/IMG_0230.JPG
-categories: []
+categories:
+- Chinese
 tags:
 - monterey-park
 - chinese

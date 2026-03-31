@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/29/sinadong-toppokki-%EC%8B
 heroImage: /images/posts/sinadong-toppokki-신당동-떡볶이-with-capsaicin-sauce/Famous-Korean-Spicy-Soup-Seoul-13-88x88.jpg
 images:
 - /images/posts/sinadong-toppokki-신당동-떡볶이-with-capsaicin-sauce/Famous-Korean-Spicy-Soup-Seoul-13-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

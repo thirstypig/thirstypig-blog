@@ -16,11 +16,17 @@ images:
 - /images/posts/ig-2022-04-07-prime-rib-at-the-derby/18066834268305663.jpg
 tags:
 - arcadia
+- american
+- prime-rib
+- steak
 description: Prime Rib at the Derby. The Derby is the oldest and arguably the best restaurant in Arcadia. Used to be owned by George Woolf, who also rode the famous race horse - Seabiscuit. The derby was originally located on the corner of Foothill and Santa Anita. Along with the prime rib, we had cheese bread, creamed spinach, potatoes romanoff, calamari, and crab cake. We couldn’t finish our desserts. This year, the Derby is celebrating their 100th year. . . . . . .
 location: The Derby
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Prime Rib at the Derby](/images/posts/ig-2022-04-07-prime-rib-at-the-derby/17889040334549974.jpg)

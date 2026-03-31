@@ -16,7 +16,8 @@ images:
 - /images/posts/ig-2019-05-05-enjoying-a-sunday-afternoon-at-the-park/17860678570379185.jpg
 tags: []
 description: Enjoying a Sunday afternoon at the park. Petco Park, watching the Dodgers attempt to sweep the Padres!!! . . .
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

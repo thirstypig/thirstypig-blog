@@ -4,7 +4,8 @@ pubDate: '2016-12-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/19/elvirita-cemitas-poblanas-los-angeles/
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

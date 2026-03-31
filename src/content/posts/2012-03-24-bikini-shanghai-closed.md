@@ -4,7 +4,8 @@ pubDate: '2012-03-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/24/bikini-shanghai-closed/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

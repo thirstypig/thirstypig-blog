@@ -26,7 +26,8 @@ address: 207 Ord St, Los Angeles, CA 90012
 coordinates:
   lat: 34.060036
   lng: -118.23826
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

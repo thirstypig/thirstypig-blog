@@ -4,7 +4,8 @@ pubDate: '2016-09-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/
-categories: []
+categories:
+- Japanese
 tags:
 - rowland-heights
 - japanese

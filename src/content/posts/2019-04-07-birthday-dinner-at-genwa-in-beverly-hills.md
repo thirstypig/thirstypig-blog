@@ -23,7 +23,8 @@ description: Birthday Dinner at Genwa in Beverly Hills. So much food. .
 location: Beverly Hills Public Library
 city: Beverly Hills
 region: Westside
-categories: []
+categories:
+- Korean
 address: 444 N Rexford Dr (btwn S Santa Monica & Burton Way), Beverly Hills, CA 90210
 coordinates:
   lat: 34.07286

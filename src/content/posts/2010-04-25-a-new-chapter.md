@@ -4,7 +4,8 @@ pubDate: '2010-04-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2010/04/25/a-new-chapter/
-categories: []
+categories:
+- Chinese
 description: I know I have been a bit slow in posting in the last few weeks. But I have a good excuse – I have been busily preparing for a new chapter in my life. My life in LA is ending soon. . . I will be starti
 archiveUrl: https://web.archive.org/web/20110105141722/http://www.thethirstypig.com/2010/04/25/a-new-chapter/
 draft: false

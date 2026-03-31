@@ -23,7 +23,8 @@ address: 45 E 18th St (btwn Broadway & Park Ave S), New York, NY 10003
 coordinates:
   lat: 40.737537
   lng: -73.989302
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

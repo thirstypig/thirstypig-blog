@@ -19,7 +19,8 @@ description: Big Ben Combo at Pie n’Burger. I don’t remember having the burg
 location: Pie 'n Burger
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

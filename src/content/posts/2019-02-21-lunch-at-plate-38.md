@@ -20,7 +20,8 @@ description: Lunch at Plate 38. Pretty decent burger. Unexpectedly good experien
 location: Plate 38
 city: Pasadena
 region: San Gabriel Valley
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

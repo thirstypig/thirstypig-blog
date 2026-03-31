@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/06/the-disappointing-5-star
 heroImage: /images/posts/the-disappointing-5-star-roast-pork-at-tai-hing-in-hong-kong/Tai-Hing-Hong-Kong-05-188x188.jpg
 images:
 - /images/posts/the-disappointing-5-star-roast-pork-at-tai-hing-in-hong-kong/Tai-Hing-Hong-Kong-05-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

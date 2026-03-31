@@ -20,7 +20,8 @@ description: Baked Chicken at Love Baked Wings on Melrose. Still with a nice cra
 location: Korea Ginseng Chicken Soup (고려삼계탕)
 city: Seoul
 region: Seoul
-categories: []
+categories:
+- Korean
 address: 중구 서소문로11길 1 (시청본점), 소공동, 서울특별시, 서울특별시, 100-814
 coordinates:
   lat: 37.562971

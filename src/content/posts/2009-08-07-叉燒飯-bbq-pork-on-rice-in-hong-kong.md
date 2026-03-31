@@ -8,7 +8,8 @@ heroImage: /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/010620081539.jp
 images:
 - /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/010620081539.jpg
 - /images/posts/叉燒飯-bbq-pork-on-rice-in-hong-kong/04012007781.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

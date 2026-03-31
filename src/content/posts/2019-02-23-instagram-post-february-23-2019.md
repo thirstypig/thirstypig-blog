@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2019-02-23-instagram-post-february-23-2019/18037120561028205.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — February 23, 2019](/images/posts/ig-2019-02-23-instagram-post-february-23-2019/18037120561028205.jpg)

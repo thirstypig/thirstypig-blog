@@ -13,7 +13,8 @@ tags:
 - whisky
 description: Compass Box pest Monster Scotch. Great packaging. Really Smokey and peaty. I thought it was interesting and bold. But my friends thought it was a bit too strong. I dig the peat. . . . . .
 location: Compass Box pest Monster Scotch
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

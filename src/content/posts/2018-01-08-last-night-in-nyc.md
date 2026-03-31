@@ -27,7 +27,8 @@ address: New York, NY
 coordinates:
   lat: 40.779758
   lng: -73.949879
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

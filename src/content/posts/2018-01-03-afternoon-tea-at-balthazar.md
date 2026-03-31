@@ -22,7 +22,8 @@ address: 56 Irving Pl (btwn 17th & 18th St), New York, NY 10003
 coordinates:
   lat: 40.736064
   lng: -73.98727
-categories: []
+categories:
+- French
 cuisine:
 - French
 ---

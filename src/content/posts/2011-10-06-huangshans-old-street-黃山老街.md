@@ -4,7 +4,8 @@ pubDate: '2011-10-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/06/huangshans-old-street-%e9%bb%83%e5%b1%b1%e8%80%81%e8%a1%97/
-categories: []
+categories:
+- Uncategorized
 tags:
 - huangshan
 description: OLYMPUS DIGITAL CAMERA

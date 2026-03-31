@@ -23,7 +23,8 @@ address: 813 Decatur St (at The French Market), New Orleans, LA 70116
 coordinates:
   lat: 29.95751
   lng: -90.062056
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

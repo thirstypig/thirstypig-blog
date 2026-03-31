@@ -21,7 +21,8 @@ tags:
 description: we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a
 location: we had fried green tomatoes, fried frog legs
 city: New Orleans
-categories: []
+categories:
+- Cajun
 region: Louisiana
 cuisine:
 - Cajun

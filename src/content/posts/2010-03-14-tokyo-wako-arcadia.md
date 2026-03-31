@@ -17,7 +17,8 @@ images:
 - /images/posts/tokyo-wako-arcadia/IMG_0568.jpg
 - /images/posts/tokyo-wako-arcadia/IMG_0569.jpg
 - /images/posts/tokyo-wako-arcadia/IMG_0570.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - arcadia
 - japanese

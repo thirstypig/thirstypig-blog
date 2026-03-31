@@ -14,7 +14,8 @@ tags:
 - curry
 description: Thirsty Pig cooking - three different dishes. Recently I bought a Le Creuset pot and I made Mac and cheese, mapo tofu, and curry chicken. All of them tasted great! . . . .
 location: Thirsty Pig cooking
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

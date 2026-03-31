@@ -15,7 +15,8 @@ tags:
 - beer
 description: Burgers, beer, and the dodgers at Golden Road. Octoberfest at Golden Road. Got a cool dodger cup and octoberfest mug. Surprising the special octoberfest beer was really good. Also Golden Road has special outdoor seating that was perfect for our group. The pretzel was good with the mustard and cheese dipping sauces . . . .
 location: Burgers, beer
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

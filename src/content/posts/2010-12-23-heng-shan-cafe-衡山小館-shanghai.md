@@ -4,7 +4,8 @@ pubDate: '2010-12-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/23/heng-shan-cafe-%e8%a1%a1%e5%b1%b1%e5%b0%8f%e9%a4%a8-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

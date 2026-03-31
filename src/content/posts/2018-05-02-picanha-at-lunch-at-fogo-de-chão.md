@@ -17,7 +17,8 @@ description: Picanha at lunch at Fogo de Chão. Picanha is one of the best cuts 
 location: Fogo de Chão
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Brazilian
 cuisine:
 - Brazilian
 ---

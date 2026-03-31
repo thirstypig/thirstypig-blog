@@ -9,7 +9,8 @@ images:
 - /images/posts/strawberry-cones-japanese-pizza-pasta-san-gabriel/IMG_1090.jpg
 - /images/posts/strawberry-cones-japanese-pizza-pasta-san-gabriel/IMG_1092.jpg
 - /images/posts/strawberry-cones-japanese-pizza-pasta-san-gabriel/IMG_1093.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - san-gabriel
 - fusion

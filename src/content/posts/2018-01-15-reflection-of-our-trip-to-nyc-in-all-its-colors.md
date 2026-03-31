@@ -23,7 +23,8 @@ tags:
 description: Reflection of our trip to NYC, in all its colors.
 location: Face to Face NYC
 city: New York
-categories: []
+categories:
+- Multi
 region: New York
 address: 20 W 20th St, New York, NY 10011
 coordinates:

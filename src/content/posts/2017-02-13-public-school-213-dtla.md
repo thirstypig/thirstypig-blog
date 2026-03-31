@@ -4,7 +4,8 @@ pubDate: '2017-02-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/13/public-school-213-dtla/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

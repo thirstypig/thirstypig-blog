@@ -8,7 +8,8 @@ heroImage: /images/posts/whisknladle-la-jolla/IMG_8021.JPG
 images:
 - /images/posts/whisknladle-la-jolla/IMG_8021.JPG
 - /images/posts/whisknladle-la-jolla/IMG_8022.JPG
-categories: []
+categories:
+- American
 tags:
 - la-jolla
 - american

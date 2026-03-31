@@ -4,7 +4,8 @@ pubDate: '2010-05-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/07/guyi-%e5%8f%a4%e6%84%8f%e6%b9%98%e5%91%b3%e6%b5%93-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

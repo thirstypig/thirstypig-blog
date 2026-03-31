@@ -27,7 +27,8 @@ address: 1725 Naud St, Los Angeles, CA 90012
 coordinates:
   lat: 34.069166
   lng: -118.226142
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

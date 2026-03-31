@@ -13,7 +13,8 @@ images:
 tags: []
 description: Why do I see Hello Kitty everywhere???? . . .
 location: Why do I see Hello Kitty everywhere????
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

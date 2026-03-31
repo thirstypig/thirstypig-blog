@@ -4,7 +4,8 @@ pubDate: '2011-07-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/20/tu-hsiao-yueh-%e5%ba%a6%e5%b0%8f%e6%9c%88-nanjing-east-road-night-market-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

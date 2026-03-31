@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/07/roast-goose-at-kam-dau-k
 heroImage: /images/posts/roast-goose-at-kam-dau-kee-hong-kong/Kam-Dau-Kee-Seafood-HKG-14-188x188.jpg
 images:
 - /images/posts/roast-goose-at-kam-dau-kee-hong-kong/Kam-Dau-Kee-Seafood-HKG-14-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

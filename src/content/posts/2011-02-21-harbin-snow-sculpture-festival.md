@@ -9,7 +9,8 @@ images:
 - /images/posts/harbin-snow-sculpture-festival/Harbin-Snow-Sculpture-Festival-126-88x88.jpg
 - /images/posts/harbin-snow-sculpture-festival/Harbin-Snow-Sculpture-Festival-198-329x494.jpg
 - /images/posts/harbin-snow-sculpture-festival/Harbin-Snow-Sculpture-Festival-213-329x494.jpg
-categories: []
+categories:
+- Uncategorized
 tags: []
 description: One of the things to see in Harbin during the winter months is the Snow Sculpture Festival. Along with the more famous Winter Ice Festivalhttp://www.thethirstypig.com/2011/02/01/harbin-ice-sculpture-f
 archiveUrl: https://web.archive.org/web/20110224152308/http://www.thethirstypig.com:80/2011/02/21/harbin-snow-sculpture-festival/

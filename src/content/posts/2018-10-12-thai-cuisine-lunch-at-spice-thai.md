@@ -15,7 +15,8 @@ tags:
 - curry
 description: Thai cuisine lunch at Spice Thai. Had a big bowl of spicy Tom Yum soup. Coworkers had fried rice and curry. Soup was memorable and flavorful. . . . .
 location: Thai cuisine lunch at Spice Thai
-categories: []
+categories:
+- Thai
 cuisine:
 - Thai
 ---

@@ -23,7 +23,8 @@ address: 175 E Olive Ave (at San Fernando Blvd.), Burbank, CA 91502
 coordinates:
   lat: 34.180761
   lng: -118.309185
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

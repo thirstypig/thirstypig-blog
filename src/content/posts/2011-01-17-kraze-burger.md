@@ -4,7 +4,8 @@ pubDate: '2011-01-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/17/kraze-burger/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

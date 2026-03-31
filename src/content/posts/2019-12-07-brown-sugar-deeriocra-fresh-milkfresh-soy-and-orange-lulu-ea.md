@@ -16,7 +16,8 @@ tags:
 description: Brown sugar deeriocra (fresh milk/fresh soy) and orange lulu earl grey with orange. The Alley is another chinese or Taiwanese imported boba tea shop. To me they are all the same. Very hard for me to tell the difference from one shop to another. . . . . .usa .la
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

@@ -20,7 +20,8 @@ tags:
 - pork-belly
 description: Taiwanese Rice Porridge Restaurant. Been here for years. I first went here over 25 years ago. Lu’s Garden. Menu hasn’t changed at all. Open somewhat late. Fatty pork belly, spicy pork belly, fried egg with radish, pork sausage, squid, eggplant, and bamboo. . . . . . .
 location: Taiwanese Rice Porridge Restaurant
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

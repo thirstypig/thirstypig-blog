@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/09/26/guss-bbq-pasadena-la/
 heroImage: /images/posts/guss-bbq-pasadena-la/IMG_0046.jpg
 images:
 - /images/posts/guss-bbq-pasadena-la/IMG_0046.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - pasadena
 - bbq

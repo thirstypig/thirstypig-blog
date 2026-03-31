@@ -4,7 +4,8 @@ pubDate: '2010-10-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/13/racks-shanghai-closed/
-categories: []
+categories:
+- Cocktails
 description: I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 archiveUrl: https://web.archive.org/web/20161018030122/http://thirstypig.com/2010/10/13/racks-shanghai-closed/
 draft: false

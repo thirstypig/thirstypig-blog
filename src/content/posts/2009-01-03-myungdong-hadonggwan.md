@@ -4,7 +4,8 @@ pubDate: '2009-01-03'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/03/myungdong-hadonggwan/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

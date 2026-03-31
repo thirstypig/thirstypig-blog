@@ -14,7 +14,8 @@ tags:
 - instant-noodles
 description: SOul Spicy Noodles. 🌶 instant noodles from Taiwan 🇹🇼 tasty and good. . . . . .
 location: SOul Spicy Noodles
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

@@ -4,7 +4,8 @@ pubDate: '2009-09-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
-categories: []
+categories:
+- Multi
 tags:
 - venice
 - multi

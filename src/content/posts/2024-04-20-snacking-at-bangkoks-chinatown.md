@@ -18,6 +18,9 @@ images:
 - /images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/18009223859168267.jpg
 tags:
 - bangkok
+- thai
+- noodles
+- street-food
 description: Snacking at Bangkok’s Chinatown. This Chinatown is the largest Chinatown in the world. This night market features Michelin Bib Gourmand rated stalls which have long lines. Some of the highlights include a rolled rice noodle soup, Chinese donut, and crispy pork belly. It was crowded and it was hot, regardless it was an interesting and fun time. . . .
 location: Floral Café at Napasorn
 city: Bangkok
@@ -26,7 +29,10 @@ address: 67 Chak Phet Rd (at Napasorn), พระนคร, กรุงเท�
 coordinates:
   lat: 13.742175
   lng: 100.496668
-categories: []
+categories:
+- Thai
+cuisine:
+- Thai
 ---
 
 ![Snacking at Bangkok’s Chinatown](/images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/17881605435048262.jpg)

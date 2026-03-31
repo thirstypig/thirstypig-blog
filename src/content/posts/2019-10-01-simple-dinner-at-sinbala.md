@@ -17,7 +17,8 @@ description: Simple Dinner at Sinbala. Fried pork chop on rice and pork belly on
 location: Simple Dinner at Sinbala
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

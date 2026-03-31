@@ -4,7 +4,8 @@ pubDate: '2012-02-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/21/rico-rico-shanghai-closed/
-categories: []
+categories:
+- Colombian
 tags:
 - shanghai
 - colombian

@@ -15,7 +15,8 @@ tags:
 - pizza
 description: Crepes on a Tuesday at Universal Citywalk. I was in the mood for something savory - so I got a pizza crepe. An Italian JianBing as I would call it. 意大利建兵. . . .
 location: Crepes on a Tuesday at Universal Citywalk
-categories: []
+categories:
+- Fusion
 city: Universal City
 cuisine:
 - Fusion

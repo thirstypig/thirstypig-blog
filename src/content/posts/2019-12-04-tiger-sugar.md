@@ -18,7 +18,8 @@ description: Tiger Sugar. Taiwanese boba or pearl milk tea. . . . . .usa .usa
 location: Tiger Sugar
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

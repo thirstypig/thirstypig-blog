@@ -17,7 +17,8 @@ description: Smashed burgers at Pasadena’s Smosh Town. So chilly to be eating 
 location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657

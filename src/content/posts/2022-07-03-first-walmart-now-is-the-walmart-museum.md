@@ -13,7 +13,9 @@ images:
 tags: []
 description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton . . . . . .
 location: First Walmart
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17936385863323997.jpg)

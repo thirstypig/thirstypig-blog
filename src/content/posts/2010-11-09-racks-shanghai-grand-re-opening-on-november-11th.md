@@ -13,7 +13,8 @@ images:
 - /images/posts/racks-shanghai-grand-re-opening-on-november-11th/Racks-Shanghai-071-88x88.jpg
 - /images/posts/racks-shanghai-grand-re-opening-on-november-11th/Racks-Shanghai-091-88x88.jpg
 - /images/posts/racks-shanghai-grand-re-opening-on-november-11th/Racks-Shanghai-101-88x88.jpg
-categories: []
+categories:
+- Cocktails
 description: I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 archiveUrl: https://web.archive.org/web/20101116015547/http://www.thethirstypig.com:80/2010/11/09/racks-shanghai-grand-re-opening-on-november-11th/
 draft: false

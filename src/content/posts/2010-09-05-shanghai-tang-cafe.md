@@ -25,7 +25,8 @@ images:
 - /images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-31-88x88.jpg
 - /images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-32-88x88.jpg
 - /images/posts/shanghai-tang-cafe/Shanghai-Tang-Cafe-34-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

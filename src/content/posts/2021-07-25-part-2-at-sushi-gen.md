@@ -24,7 +24,8 @@ address: 422 E 2nd St (btw Central & Alameda St.), Los Angeles, CA 90012
 coordinates:
   lat: 34.046849
   lng: -118.23852
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

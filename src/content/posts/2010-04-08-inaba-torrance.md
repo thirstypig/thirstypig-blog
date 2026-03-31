@@ -4,7 +4,8 @@ pubDate: '2010-04-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/08/inaba-torrance/
-categories: []
+categories:
+- Japanese
 tags:
 - torrance
 - japanese

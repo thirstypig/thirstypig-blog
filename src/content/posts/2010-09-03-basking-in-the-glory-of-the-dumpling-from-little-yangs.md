@@ -12,7 +12,8 @@ images:
 - /images/posts/basking-in-the-glory-of-the-dumpling-from-little-yangs/Little-Yangs-Fried-Dumplings-4-88x88.jpg
 - /images/posts/basking-in-the-glory-of-the-dumpling-from-little-yangs/Little-Yangs-Fried-Dumplings-7-494x370.jpg
 - /images/posts/basking-in-the-glory-of-the-dumpling-from-little-yangs/Little-Yangs-Fried-Dumplings-8-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

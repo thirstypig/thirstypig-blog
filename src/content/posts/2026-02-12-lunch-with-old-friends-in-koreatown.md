@@ -6,6 +6,9 @@ author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18047950916707924.jpg
 tags:
 - los-angeles
+- chinese
+- noodles
+- dumplings
 location: Liu's Cafe
 city: Los Angeles
 region: CA
@@ -22,7 +25,10 @@ images:
 - /images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18142536136480128.jpg
 source: instagram
 draft: false
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![lunch with old friends in Koreatown](/images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18047950916707924.jpg)

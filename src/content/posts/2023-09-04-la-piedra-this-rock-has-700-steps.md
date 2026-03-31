@@ -20,11 +20,13 @@ description: La Piedra - this rock has 700 steps. Amazing views of the Colombian
 location: Palacio De La Cultura Rafael Uribe Uribe
 city: Medellin
 region: Colombia
-categories: []
+categories:
+- Uncategorized
 address: 'Cra 51 # 52 - 03, Medellín, Antioquia'
 coordinates:
   lat: 6.251792
   lng: -75.568258
+cuisine: []
 ---
 
 ![La Piedra - this rock has 700 steps](/images/posts/ig-2023-09-04-la-piedra-this-rock-has-700-steps/18383559757020435.jpg)

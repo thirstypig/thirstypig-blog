@@ -4,7 +4,8 @@ pubDate: '2012-02-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/25/xibo-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

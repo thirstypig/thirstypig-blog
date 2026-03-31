@@ -4,7 +4,8 @@ pubDate: '2017-03-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
-categories: []
+categories:
+- Vietnamese
 tags:
 - san-gabriel
 - vietnamese

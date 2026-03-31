@@ -27,7 +27,8 @@ images:
 - /images/posts/the-succulent-moistness-of-the-bbq-pork-at-crystal-jade-翡翠酒家-shanghai/IMG_3197-88x88.jpg
 - /images/posts/the-succulent-moistness-of-the-bbq-pork-at-crystal-jade-翡翠酒家-shanghai/IMG_3198-88x88.jpg
 - /images/posts/the-succulent-moistness-of-the-bbq-pork-at-crystal-jade-翡翠酒家-shanghai/IMG_3199-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

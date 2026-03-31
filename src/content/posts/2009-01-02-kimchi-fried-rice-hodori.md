@@ -4,7 +4,8 @@ pubDate: '2009-01-02'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/02/kimchi-fried-rice-hodori/
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

@@ -4,7 +4,8 @@ pubDate: '2010-01-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/13/bay-cities-italian-deli-samo/
-categories: []
+categories:
+- Italian
 tags:
 - san-francisco
 - italian

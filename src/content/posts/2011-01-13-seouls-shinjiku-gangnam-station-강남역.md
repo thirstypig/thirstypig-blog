@@ -4,7 +4,8 @@ pubDate: '2011-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/01/13/seouls-shinjiku-gangnam-station-%ea%b0%95%eb%82%a8%ec%97%ad/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 - street-food

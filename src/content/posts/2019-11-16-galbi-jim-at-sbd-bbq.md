@@ -22,7 +22,8 @@ description: Galbi Jim at SBD BBQ. Seong Buk Dong from Koreantown has come to th
 location: Galbi Jim at SBD BBQ
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

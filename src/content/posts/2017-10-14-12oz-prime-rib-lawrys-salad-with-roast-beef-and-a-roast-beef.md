@@ -16,7 +16,8 @@ tags:
 - roast-beef
 description: 12oz prime rib, lawry’s salad with roast beef, and a roast beef dip sandwich. Good pregame meal before the King’s game
 location: Lawry's The Prime Rib
-categories: []
+categories:
+- American
 city: Beverly Hills
 region: Los Angeles
 address: 100 N La Cienega Blvd, Beverly Hills, CA 90211

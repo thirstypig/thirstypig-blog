@@ -17,7 +17,8 @@ description: Roast chicken might be the best crispy chicken skin.
 city: Arcadia
 region: San Gabriel Valley
 location: Side Chick
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

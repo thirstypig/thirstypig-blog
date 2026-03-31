@@ -4,7 +4,8 @@ pubDate: '2011-05-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

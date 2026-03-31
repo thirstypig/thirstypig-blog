@@ -21,7 +21,8 @@ description: Beef Brisket was good but the spicy sausage was even better. Pull p
 location: Freedmen's Bar
 city: Austin
 region: Texas
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

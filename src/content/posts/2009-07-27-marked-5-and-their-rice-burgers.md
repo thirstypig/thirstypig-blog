@@ -11,7 +11,8 @@ images:
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0692.jpg
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0694.jpg
 - /images/posts/marked-5-and-their-rice-burgers/IMG_0695.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

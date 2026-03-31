@@ -4,7 +4,8 @@ pubDate: '2012-03-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/06/southern-barbarian-yunan-restaurant-%e8%81%9a%e8%8d%a3%e8%bd%a9%e7%94%9f%e6%b4%bb%e8%89%ba%e6%9c%af%e7%a9%ba%e9%97%b4-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

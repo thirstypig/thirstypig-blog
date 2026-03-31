@@ -4,7 +4,8 @@ pubDate: '2012-06-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/06/21/tikka-indian-cuisine-shanghai/
-categories: []
+categories:
+- Indian
 tags:
 - shanghai
 - indian

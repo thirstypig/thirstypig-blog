@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/07/the-crispy-pork-buns-at-
 heroImage: /images/posts/the-crispy-pork-buns-at-ches-cantonese-restaurant-hong-kong/Ches-Cantonese-Restaurant-Hong-Kong-06-188x188.jpg
 images:
 - /images/posts/the-crispy-pork-buns-at-ches-cantonese-restaurant-hong-kong/Ches-Cantonese-Restaurant-Hong-Kong-06-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

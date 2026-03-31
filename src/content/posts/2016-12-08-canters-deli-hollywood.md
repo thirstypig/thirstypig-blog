@@ -4,7 +4,8 @@ pubDate: '2016-12-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/08/canters-deli-hollywood/
-categories: []
+categories:
+- American
 tags:
 - hollywood
 - american

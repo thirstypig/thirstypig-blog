@@ -1,5 +1,5 @@
 ---
-title: Finally made it to the hyped Chubby Cattle in Rosemead
+title: Chubby Cattle, Rosemead
 pubDate: '2025-02-27'
 author: The Thirsty Pig
 source: instagram
@@ -13,10 +13,16 @@ images:
 - /images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/17977450556681632.jpg
 tags:
 - rosemead
+- bbq
+- wagyu
+- ayce
 description: Unfortunately for a guy like me with a gout condition, this was a special and rare occasion for me to have AYCE beef or steak. I don’t have it often. Yes I know this is a contradiction since I’m also a certified Barbecue judge. But at least this allows me to savor beef when I have on rare occasions. Anyways . . . My friends and I all would recommend and would gladly return. . . . .group .0
 city: Rosemead
 region: San Gabriel Valley
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Finally made it to the hyped Chubby Cattle in Rosemead](/images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/18031639997309736.jpg)

@@ -4,7 +4,8 @@ pubDate: '2011-01-24'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/01/24/the-born-%ec%83%88%eb%a7%88%ec%9d%84%ec%8b%9d%eb%8b%b9%ec%8b%a0%ec%82%ac%ec%97%ad%ec%a0%90-korean-bbq/
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

@@ -13,7 +13,8 @@ images:
 - /images/posts/wurstku-che-downtown-la-update/IMG_0101.JPG
 - /images/posts/wurstku-che-downtown-la-update/IMG_0103.JPG
 - /images/posts/wurstku-che-downtown-la-update/IMG_0104.JPG
-categories: []
+categories:
+- German
 tags:
 - downtown-la
 - german

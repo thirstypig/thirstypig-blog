@@ -4,7 +4,8 @@ pubDate: '2012-01-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/31/tao-hua-yuan-restaurant-cafe-%e6%a1%83%e8%8a%b1%e6%ba%90%e7%95%b0%e5%9c%8b%e6%96%99%e7%90%86-taichung/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taichung
 - taiwanese

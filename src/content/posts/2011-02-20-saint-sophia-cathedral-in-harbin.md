@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/02/20/saint-sophia-cathedral-in-h
 heroImage: /images/posts/saint-sophia-cathedral-in-harbin/Saint-Sophia-Cathedral-Harbin-14-88x88.jpg
 images:
 - /images/posts/saint-sophia-cathedral-in-harbin/Saint-Sophia-Cathedral-Harbin-14-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags: []
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103144414/http://www.thethirstypig.com/2011/02/20/saint-sophia-cathedral-in-harbin/

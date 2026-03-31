@@ -11,7 +11,8 @@ tags:
 - american
 - grilled-cheese
 description: Made it again this time double the cheese - two slices of cheddar, 2 slices of Swiss, and 2 slices of pepper jack cheese on sourdough bread. This time I used a torch to melt the cheese.
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

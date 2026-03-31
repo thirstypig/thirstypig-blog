@@ -22,7 +22,8 @@ description: My in-laws favorite Hunan restaurant. So spicy! Pork belly, fish, c
 location: My in-laws favorite Hunan restaurant
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

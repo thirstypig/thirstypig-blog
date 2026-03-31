@@ -21,7 +21,8 @@ address: 'Ave Ruiz #113 (e/ Primera y Segunda), 22800 Ensenada, Baja California'
 coordinates:
   lat: 31.865002
   lng: -116.628687
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

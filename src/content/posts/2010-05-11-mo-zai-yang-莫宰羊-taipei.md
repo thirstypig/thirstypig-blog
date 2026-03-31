@@ -4,7 +4,8 @@ pubDate: '2010-05-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/11/mo-zai-yang-%e8%8e%ab%e5%ae%b0%e7%be%8a-taipei/
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

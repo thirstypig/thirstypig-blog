@@ -4,7 +4,8 @@ pubDate: '2007-04-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/
-categories: []
+categories:
+- Taiwanese
 tags:
 - shanghai
 - taiwanese

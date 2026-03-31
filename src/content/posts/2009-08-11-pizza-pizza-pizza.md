@@ -9,7 +9,8 @@ images:
 - /images/posts/pizza-pizza-pizza/LApizza.jpg
 - /images/posts/pizza-pizza-pizza/Mensstyle.jpg
 - /images/posts/pizza-pizza-pizza/varasanos.jpg
-categories: []
+categories:
+- Italian
 description: Here are three sites that I came across about Pizza. One is about a one man’s quest to make a great pizza – in Atlanta. Another is from men’s magazine that talks about US’s top 25 pizzas. And the last
 archiveUrl: https://web.archive.org/web/20110105232054/http://www.thethirstypig.com/2009/08/11/pizza-pizza-pizza/
 draft: false

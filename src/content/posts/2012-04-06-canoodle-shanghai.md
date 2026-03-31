@@ -5,13 +5,15 @@ author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/04/06/canoodle-shanghai/
 categories:
-- 1 pig
-- Noodles
-- Price Range $/¥/NT
-- Taiwanese
+- Chinese
 description: '| Location | Ratinghttp://www.thethirstypig.com/rating-system/ | | --- | --- | | Canoodle浓劲 Shanghai, Rm. 107, No. 6, Lane 3717 Hongmei Lu, near Yan’an Xi Lu 虹梅路3717弄6号107室, 近延安西路http://maps.google.co'
 archiveUrl: https://web.archive.org/web/20120409024823/http://www.thethirstypig.com:80/2012/04/06/canoodle-shanghai/
 draft: false
+cuisine:
+- Chinese
+tags:
+- chinese
+- noodles
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

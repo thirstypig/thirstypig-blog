@@ -13,7 +13,8 @@ images:
 - /images/posts/dodger-game-taiwan-my-town/DSCN0042.JPG
 - /images/posts/dodger-game-taiwan-my-town/DSCN0054.JPG
 - /images/posts/dodger-game-taiwan-my-town/DSCN0063.JPG
-categories: []
+categories:
+- Uncategorized
 tags:
 - shacha-pork
 - sesame-chicken

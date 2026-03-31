@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/30/korean-tapas-%EB%B0%98%E
 heroImage: /images/posts/korean-tapas-반찬-banchan-at-청수정-cheongsujeong/Korean-Lunch-Place-Seoul-07-88x88.jpg
 images:
 - /images/posts/korean-tapas-반찬-banchan-at-청수정-cheongsujeong/Korean-Lunch-Place-Seoul-07-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

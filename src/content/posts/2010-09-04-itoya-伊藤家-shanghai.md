@@ -4,7 +4,8 @@ pubDate: '2010-09-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

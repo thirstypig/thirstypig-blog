@@ -25,7 +25,8 @@ images:
 - /images/posts/marquee-taipei/IMG_2521-88x88.jpg
 - /images/posts/marquee-taipei/IMG_2522-600x450.jpg
 - /images/posts/marquee-taipei/IMG_2522-88x88.jpg
-categories: []
+categories:
+- Multi
 tags:
 - taipei
 - multi

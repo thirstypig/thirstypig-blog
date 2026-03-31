@@ -12,7 +12,8 @@ images:
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/DSCN0103.JPG
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/DSCN0114.JPG
 - /images/posts/looking-for-a-great-jewish-deli-in-downtown-la-that-is-open-late-langers/Pastrami+and+Swiss+Cheese+with+Cole+Slaw+and+Dressing.JPG
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

@@ -20,7 +20,8 @@ images:
 - /images/posts/craft-century-city/IMG_0276.JPG
 - /images/posts/craft-century-city/IMG_0281.JPG
 - /images/posts/craft-century-city/IMG_0282.JPG
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

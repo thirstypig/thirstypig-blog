@@ -10,7 +10,8 @@ images:
 - /images/posts/fried-chicken-at-restaurant3-los-angeles/IMG_6954.jpg
 - /images/posts/fried-chicken-at-restaurant3-los-angeles/IMG_6957.jpg
 - /images/posts/fried-chicken-at-restaurant3-los-angeles/IMG_6959.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

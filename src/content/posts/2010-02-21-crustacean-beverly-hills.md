@@ -4,7 +4,8 @@ pubDate: '2010-02-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/02/21/crustacean-beverly-hills/
-categories: []
+categories:
+- Vietnamese
 tags:
 - beverly-hills
 - vietnamese

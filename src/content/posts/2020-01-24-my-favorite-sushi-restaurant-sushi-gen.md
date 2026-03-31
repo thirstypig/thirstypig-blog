@@ -21,7 +21,8 @@ tags:
 - sushi
 - nigiri
 description: My favorite Sushi Restaurant- Sushi Gen. Kaz is the best. Used to drink with him when they allowed it. Had many good times before and had a great time last night. Happy Anniversary! Had Uni, Hirame, Toro, Ama-ebi, Hamachi, Saba, and a few others. . . . . .
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

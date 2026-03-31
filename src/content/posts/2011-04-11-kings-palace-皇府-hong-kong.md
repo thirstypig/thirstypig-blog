@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/04/11/kings-palace-%E7%9A%87%E
 heroImage: /images/posts/kings-palace-皇府-hong-kong/Kings-Palace-HKG-11-188x188.jpg
 images:
 - /images/posts/kings-palace-皇府-hong-kong/Kings-Palace-HKG-11-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

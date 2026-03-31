@@ -4,7 +4,8 @@ pubDate: '2011-09-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/19/maya-brunch-shanghai/
-categories: []
+categories:
+- Mexican
 tags:
 - shanghai
 - mexican

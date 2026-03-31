@@ -4,7 +4,8 @@ pubDate: '2016-06-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/06/24/komoda-store-bakery-makawao-maui-hawaii/
-categories: []
+categories:
+- Bakery
 tags:
 - maui
 - bakery

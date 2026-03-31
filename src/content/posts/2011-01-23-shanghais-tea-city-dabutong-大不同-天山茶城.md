@@ -4,7 +4,8 @@ pubDate: '2011-01-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/01/23/shanghais-tea-city-dabutong-%e5%a4%a7%e4%b8%8d%e5%90%8c-%e5%a4%a9%e5%b1%b1%e8%8c%b6%e5%9f%8e/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

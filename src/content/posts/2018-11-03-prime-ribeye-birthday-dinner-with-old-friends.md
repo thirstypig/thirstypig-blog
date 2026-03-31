@@ -20,7 +20,8 @@ tags:
 - beef-tartare
 description: Prime Ribeye birthday dinner with old friends. Bone marrow, beef tartare, and crab fried rice. . . . .real.mike.gin
 location: Prime Ribeye birthday dinner with old friends
-categories: []
+categories:
+- Steakhouse
 cuisine:
 - Steakhouse
 ---

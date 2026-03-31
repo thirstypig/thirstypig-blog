@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/10/08/smorgasburg-los-angeles-dtla/
 heroImage: /images/posts/smorgasburg-los-angeles-dtla/IMG_0987.jpg
 images:
 - /images/posts/smorgasburg-los-angeles-dtla/IMG_0987.jpg
-categories: []
+categories:
+- Multi
 tags:
 - dtla
 - multi

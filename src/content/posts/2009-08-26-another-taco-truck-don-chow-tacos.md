@@ -11,7 +11,8 @@ images:
 - /images/posts/another-taco-truck-don-chow-tacos/IMG_0844.jpg
 - /images/posts/another-taco-truck-don-chow-tacos/IMG_0845.jpg
 - /images/posts/another-taco-truck-don-chow-tacos/IMG_0847.jpg
-categories: []
+categories:
+- Fusion
 description: Don Chow’s Tacos were located, last Friday, in a cool area of Silverlake. I didn’t know that there was a hip crowd with some cool venues in that part of LA. I’ve been meaning to try all these differen
 archiveUrl: https://web.archive.org/web/20110105232341/http://www.thethirstypig.com/2009/08/26/another-taco-truck-don-chow-tacos/
 draft: false

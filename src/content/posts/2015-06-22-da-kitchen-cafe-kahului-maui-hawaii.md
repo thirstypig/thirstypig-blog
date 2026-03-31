@@ -4,7 +4,8 @@ pubDate: '2015-06-22'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/06/22/da-kitchen-cafe-kahului-maui-hawaii/
-categories: []
+categories:
+- Hawaiian
 tags:
 - maui
 - hawaiian

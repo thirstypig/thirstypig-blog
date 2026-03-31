@@ -20,7 +20,8 @@ description: Hot chicken sandwiches from Main Chick in old town Pasadena. Got th
 location: Rotisserie Chicken Of California
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 address: 26 N Los Robles Ave, Pasadena, CA 91101
 coordinates:
   lat: 34.146247

@@ -13,7 +13,8 @@ images:
 - /images/posts/the-ultimate-afternoon-tea-at-vvg-bon-bon-好樣棒棒-taipei/VVG-Bon-Bon-5-Nut-Cracker-185x185.jpg
 - /images/posts/the-ultimate-afternoon-tea-at-vvg-bon-bon-好樣棒棒-taipei/VVG-Bon-Bon-6-More-Sweets-185x185.jpg
 - /images/posts/the-ultimate-afternoon-tea-at-vvg-bon-bon-好樣棒棒-taipei/VVG-Bon-Bon-7-Interior-185x185.jpg
-categories: []
+categories:
+- Dessert
 description: VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 archiveUrl: https://web.archive.org/web/20101015120947/http://www.thethirstypig.com:80/2010/05/19/the-ultimate-afternoon-tea-at-vvg-bon-bon-%E5%A5%BD%E6%A8%A3%E6%A3%92%E6%A3%92-taipei/
 draft: false

@@ -4,7 +4,8 @@ pubDate: '2009-11-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/09/dohatsuten-palo-alto/
-categories: []
+categories:
+- Japanese
 tags:
 - palo-alto
 - japanese

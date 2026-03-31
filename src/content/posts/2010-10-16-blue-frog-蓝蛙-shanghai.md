@@ -4,7 +4,8 @@ pubDate: '2010-10-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/16/blue-frog-%e8%93%9d%e8%9b%99-shanghai/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

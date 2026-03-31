@@ -17,7 +17,8 @@ tags:
 description: Gamjatang (pork neck soup) and selleongtang (beef soup). Wonderful and hearty and perfect for a chilly LA night. Gamjatang was unexpectedly spiced with flavor. Selleongtang, my go to Korean soup, was good after I salted and peppered it. Unfortunately the potatoes were raw and uncooked. But they gave us a 10% discount. Yay! 😀
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

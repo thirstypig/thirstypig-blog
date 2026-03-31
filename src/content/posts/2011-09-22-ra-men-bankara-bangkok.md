@@ -12,7 +12,8 @@ images:
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-05-494x370.jpg
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-06-494x370.jpg
 - /images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-07-494x370.jpg
-categories: []
+categories:
+- Japanese
 description: 'Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding '
 archiveUrl: https://web.archive.org/web/20111014113253/http://www.thethirstypig.com/2011/09/22/ra-men-bankara-bangkok/
 draft: false

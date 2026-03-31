@@ -18,7 +18,8 @@ tags:
 - cast-iron
 description: Cast iron pan pizza. Learned from I had to experiment a few times in order to get the crust just right. Really like this pizza recipe. Yummy! I used regular all purpose flour. Mozzarella cheese, pepperoni, and Italian sausage. One ingredient that was a hit was - crumbled spicy breakfast sausage . . . . . .
 location: Cast iron pan pizza
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

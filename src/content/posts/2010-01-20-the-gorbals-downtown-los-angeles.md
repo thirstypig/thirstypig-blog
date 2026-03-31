@@ -12,7 +12,8 @@ images:
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0018.JPG
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0021.JPG
 - /images/posts/the-gorbals-downtown-los-angeles/DSCN0025.JPG
-categories: []
+categories:
+- Scottish
 tags:
 - dtla
 - scottish

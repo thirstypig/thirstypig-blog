@@ -18,7 +18,8 @@ images:
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-7-88x88.jpg
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-8-88x88.jpg
 - /images/posts/taiwan-taipei-breakfast-永和豆漿大王-yong-he-do-jiang-da-wang/Yungho-9-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

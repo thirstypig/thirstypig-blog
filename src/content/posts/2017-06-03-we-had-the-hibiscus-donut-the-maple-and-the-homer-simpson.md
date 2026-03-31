@@ -17,7 +17,8 @@ tags:
 - dessert
 description: we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?
 location: Voodoo Doughnut
-categories: []
+categories:
+- Bakery
 city: Austin
 region: Texas
 cuisine:

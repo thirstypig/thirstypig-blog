@@ -4,7 +4,8 @@ pubDate: '2011-10-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/12/the-geisha-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

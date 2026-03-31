@@ -15,7 +15,8 @@ description: Christmas Eve Dessert at hooshik. Seems like more and more cool Kor
 location: Hooshik
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

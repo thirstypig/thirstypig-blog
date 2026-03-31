@@ -22,7 +22,8 @@ description: Taiwanese Gastropub 印地安. Yummy Taiwanese food with friends an
 location: Taiwanese Gastropub 印地安
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

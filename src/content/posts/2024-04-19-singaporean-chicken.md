@@ -15,6 +15,9 @@ images:
 - /images/posts/ig-2024-04-19-singaporean-chicken/18022436924503118.jpg
 tags:
 - singapore
+- asian
+- fried-chicken
+- hainan-chicken
 description: Singaporean chicken. Yum! Similar to hainan chicken. But the chicken is steamed not boiled. Flavor soup! Love the hole-in-the-wall joint. Would recommend and would visit again. . . .
 location: Oven & Fried Chicken
 city: Singapore
@@ -23,7 +26,10 @@ address: 182 Telok Ayer St, 068630
 coordinates:
   lat: 1.280479
   lng: 103.847522
-categories: []
+categories:
+- Asian
+cuisine:
+- Asian
 ---
 
 ![Singaporean chicken](/images/posts/ig-2024-04-19-singaporean-chicken/18039598642830338.jpg)

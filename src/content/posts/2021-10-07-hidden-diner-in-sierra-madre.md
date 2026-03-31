@@ -23,7 +23,8 @@ address: 87 W Sierra Madre Blvd, Sierra Madre, CA 91024
 coordinates:
   lat: 34.162084
   lng: -118.054632
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -4,7 +4,8 @@ pubDate: '2016-09-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/09/18/young-dong-tofu-san-gabriel/
-categories: []
+categories:
+- Korean
 tags:
 - san-gabriel
 - korean

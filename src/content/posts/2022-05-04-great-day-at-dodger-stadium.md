@@ -16,7 +16,9 @@ images:
 tags: []
 description: Great day at Dodger Stadium. Good win, too. . . . .
 location: Great day at Dodger Stadium
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17908450211456994.jpg)

@@ -18,7 +18,8 @@ description: Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA. Ha
 location: RAMEN GOSSOU
 city: Tokyo
 region: Tokyo
-categories: []
+categories:
+- Japanese
 address: 早稲田鶴巻町522 (森田ビル 1F), 新宿区, 東京都, 162-0041
 coordinates:
   lat: 35.70739

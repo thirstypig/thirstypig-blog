@@ -17,7 +17,8 @@ description: Galbi Tang
 location: Sun Nong Dan
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

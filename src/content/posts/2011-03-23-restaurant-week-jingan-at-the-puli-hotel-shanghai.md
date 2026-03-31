@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/03/23/restaurant-week-jingan-at-t
 heroImage: /images/posts/restaurant-week-jingan-at-the-puli-hotel-shanghai/JingAn-at-the-Puli-Hotel-Shanghai-16-188x188.jpg
 images:
 - /images/posts/restaurant-week-jingan-at-the-puli-hotel-shanghai/JingAn-at-the-Puli-Hotel-Shanghai-16-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

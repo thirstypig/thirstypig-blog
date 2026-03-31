@@ -11,7 +11,8 @@ images:
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0021.JPG
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0029.JPG
 - /images/posts/hot-stuff-cafe-thats-right-i-am-hot-stuff/DSCN0032.JPG
-categories: []
+categories:
+- Chinese
 tags:
 - monterey-park
 - chinese

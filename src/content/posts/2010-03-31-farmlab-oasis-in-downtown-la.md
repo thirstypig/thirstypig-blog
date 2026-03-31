@@ -24,7 +24,8 @@ images:
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+work.jpg
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+workspace.jpg
 - /images/posts/farmlab-oasis-in-downtown-la/farmlab+young+plants.jpg
-categories: []
+categories:
+- Multi
 description: I was given the chance to attend a Public Salon speak at Farmlab, near downtown Los Angeles.
 archiveUrl: https://web.archive.org/web/20100417225828/http://blog.thethirstypig.com:80/2010/03/farmlab-oasis-in-downtown-la.html
 draft: false

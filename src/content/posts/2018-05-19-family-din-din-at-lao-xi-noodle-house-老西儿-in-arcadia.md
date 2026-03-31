@@ -21,7 +21,8 @@ description: Family Din Din at Lao Xi Noodle House 老西儿 in Arcadia. Knife C
 location: Lao Xi Noodle House
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 921 S Baldwin Ave Ste G-H, Arcadia, CA 91006
 coordinates:
   lat: 34.129101

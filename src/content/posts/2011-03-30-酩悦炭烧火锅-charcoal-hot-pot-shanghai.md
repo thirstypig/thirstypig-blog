@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/03/30/%e9%85%a9%e6%82%a6%e7%82%ad
 heroImage: /images/posts/酩悦炭烧火锅-charcoal-hot-pot-shanghai/Charcoal-Hot-Pot-Shanghai-05-88x88.jpg
 images:
 - /images/posts/酩悦炭烧火锅-charcoal-hot-pot-shanghai/Charcoal-Hot-Pot-Shanghai-05-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -4,7 +4,8 @@ pubDate: '2010-12-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/02/david-laris-yucca-shanghai-closed/
-categories: []
+categories:
+- Mexican
 tags:
 - shanghai
 - mexican

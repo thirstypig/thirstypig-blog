@@ -26,7 +26,8 @@ address: 1071 5th Ave (at E 89th St), New York, NY 10128
 coordinates:
   lat: 40.78303
   lng: -73.958892
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

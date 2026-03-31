@@ -21,7 +21,8 @@ tags:
 description: Late night meal in DTLA at the Original Pantry Cafe. Breakfast all day and night. Country fried steak and eggs with potatoes, green beans, cole slaw, and chicken noodle soup. I love this place. I like going on weekends and having breakfast at the counter. Hate the long lines. . . . .
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

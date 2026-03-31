@@ -18,7 +18,8 @@ description: Bacon wrapped hotdogs outside of Staples Center, DTLA. When you wal
 location: Bacon wrapped hotdogs outside of Staples Center
 city: Dtla
 region: Downtown LA
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

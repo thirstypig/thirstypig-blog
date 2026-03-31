@@ -12,7 +12,8 @@ images:
 - /images/posts/border-grill-truck-with-chilaquiles-tacos/IMG_0020.JPG
 - /images/posts/border-grill-truck-with-chilaquiles-tacos/IMG_0023.JPG
 - /images/posts/border-grill-truck-with-chilaquiles-tacos/pf-button.gif
-categories: []
+categories:
+- Mexican
 description: This week I will be reviewing food trucks in and around LA. I will be looking at the Border Grill Truck, World Fare, the Flying Pig, Frysmith, and Lomo Arigato. Previously, I have tried the Grilled Ch
 archiveUrl: https://web.archive.org/web/20100417225906/http://www.thethirstypig.com:80/2010/04/05/border-grill-truck-with-chilaquiles-tacos/
 draft: false

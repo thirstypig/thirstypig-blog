@@ -12,7 +12,8 @@ description: Giant Spoon Day!
 location: Giant Spoon Day
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Giant Spoon Day](/images/posts/ig-2021-10-07-giant-spoon-day/18146722522200368.jpg)

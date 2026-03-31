@@ -12,15 +12,21 @@ images:
 - /images/posts/ig-2024-04-13-scallion-oil-noodles/18010164455359896.jpg
 tags:
 - shanghai
+- chinese
+- noodles
+- scallion-oil
 description: Scallion oil noodles. 蔥油拌麵A Shanghainese dish. One of first things I had back in Shanghai. Haven’t been back here in years. . . .
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
 coordinates:
   lat: 31.219744
   lng: 121.461994
+cuisine:
+- Chinese
 ---
 
 ![Scallion oil noodles](/images/posts/ig-2024-04-13-scallion-oil-noodles/18030988756790407.jpg)

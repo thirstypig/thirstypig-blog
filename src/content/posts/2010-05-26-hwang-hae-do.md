@@ -17,7 +17,8 @@ images:
 - /images/posts/hwang-hae-do/IMG_1349-185x185.jpg
 - /images/posts/hwang-hae-do/IMG_1351-185x185.jpg
 - /images/posts/hwang-hae-do/IMG_1353-185x185.jpg
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

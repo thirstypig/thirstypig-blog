@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/09/10/sinbala-arcadia-sgv-los-angeles/
 heroImage: /images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg
 images:
 - /images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - arcadia
 - taiwanese

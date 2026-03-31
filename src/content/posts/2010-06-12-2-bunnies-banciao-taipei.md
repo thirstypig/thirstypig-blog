@@ -14,7 +14,8 @@ images:
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-7.5-88x88.jpg
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-8-88x88.jpg
 - /images/posts/2-bunnies-banciao-taipei/2-Bunnies-9-88x88.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - taipei
 - fusion

@@ -4,7 +4,8 @@ pubDate: '2010-08-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/09/jade-butterfly-%e8%9d%b6%e7%bf%a0%e8%bd%a9-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

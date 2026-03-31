@@ -4,7 +4,8 @@ pubDate: '2016-03-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/03/28/little-jewel-dtla/
-categories: []
+categories:
+- Cajun
 tags:
 - dtla
 - cajun

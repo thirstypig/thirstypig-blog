@@ -19,7 +19,8 @@ description: Friday donuts with the team! Trejo’s donuts. . . . . . .mx
 location: Dodger Stadium Team Store
 city: Hollywood
 region: Hollywood
-categories: []
+categories:
+- Bakery
 address: 1000 Vin Scully Ave, Los Angeles, CA 90012
 coordinates:
   lat: 34.07253

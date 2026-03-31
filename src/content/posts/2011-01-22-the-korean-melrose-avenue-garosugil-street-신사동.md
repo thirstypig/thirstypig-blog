@@ -4,7 +4,8 @@ pubDate: '2011-01-22'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/22/the-korean-melrose-avenue-garosugil-street-%EC%8B%A0%EC%82%AC%EB%8F%99/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 - coffee

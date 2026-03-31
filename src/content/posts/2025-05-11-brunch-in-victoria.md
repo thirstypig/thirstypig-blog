@@ -13,6 +13,9 @@ images:
 - /images/posts/ig-2025-05-11-brunch-in-victoria/18063758549018842.jpg
 tags:
 - victoria
+- canadian
+- brunch
+- poutine
 description: Brunch in Victoria. Of course I had to have a Bloody Mary. And since I was still in Canada, I had to have more poutine. Which reminds me - that when I get home, that I should try to order the “wet fri
 location: Jr Informática & Games
 city: Victoria
@@ -21,7 +24,10 @@ address: R. Gama Rosa, 143 - Centro, Vitória, ES, 29015-100
 coordinates:
   lat: -20.319046
   lng: -40.337646
-categories: []
+categories:
+- Canadian
+cuisine:
+- Canadian
 ---
 
 ![Brunch in Victoria](/images/posts/ig-2025-05-11-brunch-in-victoria/18190766269309003.jpg)

@@ -23,7 +23,8 @@ address: 2420 S Halsted St, Chicago, IL 60608
 coordinates:
   lat: 41.848537
   lng: -87.647177
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

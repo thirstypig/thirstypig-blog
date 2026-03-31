@@ -4,7 +4,8 @@ pubDate: '2016-10-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/10/27/spring-bamboo-seafood-arcadia/
-categories: []
+categories:
+- Chinese
 tags:
 - arcadia
 - chinese

@@ -4,7 +4,8 @@ pubDate: '2014-12-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

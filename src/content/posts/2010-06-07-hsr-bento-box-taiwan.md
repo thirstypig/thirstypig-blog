@@ -17,7 +17,8 @@ images:
 - /images/posts/hsr-bento-box-taiwan/HSR-6-88x88.jpg
 - /images/posts/hsr-bento-box-taiwan/HSR-7-88x88.jpg
 - /images/posts/hsr-bento-box-taiwan/HSR-9-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 description: The High Speed RailHSR of Taiwan has roots from Taiwan’s decades old train railway system. And after years of development and construction, the HSR finally opened a couple of years ago with much publi
 archiveUrl: https://web.archive.org/web/20100721034533/http://www.thethirstypig.com:80/2010/06/07/hsr-bento-box-taiwan/
 draft: false

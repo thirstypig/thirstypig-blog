@@ -18,15 +18,20 @@ images:
 - /images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18195298246273562.jpg
 tags:
 - medellin
+- colombian
+- street-food
 description: Comuna 13 of Medellin, Columbia. Graffiti art adorned this interesting area of Medellin. Popular area had street performers with bars and street food. Glad we went during the week, since I could imagine it would be hella crowded on weekends. Great trip with friends. . . . .
 location: Club Medellín
 city: Medellin
-categories: []
+categories:
+- Colombian
 region: Colombia
 address: 'Calle 50 # 43 -65, Medellín, Antioquia'
 coordinates:
   lat: 6.247183
   lng: -75.563571
+cuisine:
+- Colombian
 ---
 
 ![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18030378658592135.jpg)

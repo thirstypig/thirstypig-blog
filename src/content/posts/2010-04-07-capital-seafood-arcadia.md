@@ -4,7 +4,8 @@ pubDate: '2010-04-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/07/capital-seafood-arcadia/
-categories: []
+categories:
+- Seafood
 tags:
 - arcadia
 - seafood

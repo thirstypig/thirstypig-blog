@@ -19,7 +19,8 @@ description: Had some bone marrow and birria at Pepe’s red tacos. Bone marrow 
 location: Pepe’s Red Tacos
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Mexican
 address: Pasadena, CA 91107
 coordinates:
   lat: 34.14633

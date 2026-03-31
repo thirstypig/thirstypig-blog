@@ -31,7 +31,8 @@ images:
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-27-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-28-88x88.jpg
 - /images/posts/yuxin-sichuan-cuisine-shanghai/Yuxin-Sichuan-Cuisine-Shanghai-29-88x88.jpg
-categories: []
+categories:
+- Chinese
 description: Oh god, this place is good. Yuxin Sichuan Cuisine is where Sichuaners’ go to eat Sichuan food.
 archiveUrl: https://web.archive.org/web/20101120070329/http://www.thethirstypig.com:80/2010/11/19/yuxin-sichuan-cuisine-shanghai/
 draft: false

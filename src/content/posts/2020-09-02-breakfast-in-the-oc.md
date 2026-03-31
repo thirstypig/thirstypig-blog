@@ -15,7 +15,8 @@ tags:
 - eggs-benedict
 description: Breakfast in the OC. Bloody Mary for breakfast! Pork belly Benedict was delectable. . . . . .
 location: Breakfast in the OC
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

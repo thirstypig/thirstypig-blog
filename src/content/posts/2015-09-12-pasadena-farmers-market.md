@@ -4,7 +4,8 @@ pubDate: '2015-09-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/09/12/pasadena-farmers-market/
-categories: []
+categories:
+- Uncategorized
 tags:
 - pasadena
 - farmers-market

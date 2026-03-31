@@ -4,7 +4,8 @@ pubDate: '2011-12-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/12/09/itsuki-teppanyaki-%e4%ba%94%e6%9c%a8%e9%93%81%e6%9d%bf%e7%83%a7-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

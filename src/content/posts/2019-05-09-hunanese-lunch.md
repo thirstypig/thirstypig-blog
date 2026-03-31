@@ -18,7 +18,8 @@ description: Hunanese lunch. Spicy chicken feet and pig ear with tofu, spicy Pig
 location: Hunanese lunch
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

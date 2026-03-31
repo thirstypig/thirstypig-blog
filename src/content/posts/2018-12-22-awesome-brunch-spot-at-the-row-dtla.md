@@ -25,7 +25,8 @@ address: 816 S Broadway LA, CA 90014 (Main & Spring btwn 2nd & 9th), Los Angeles
 coordinates:
   lat: 34.047812
   lng: -118.24971
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

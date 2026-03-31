@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/02/25/the-lab-gastropub-at-usc
 heroImage: /images/posts/the-lab-gastropub-at-usc/The-Lab-05-188x188.jpg
 images:
 - /images/posts/the-lab-gastropub-at-usc/The-Lab-05-188x188.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

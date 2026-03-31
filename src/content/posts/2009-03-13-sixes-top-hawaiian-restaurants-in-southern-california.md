@@ -4,7 +4,8 @@ pubDate: '2009-03-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/03/13/sixes-top-hawaiian-restaurants-in-southern-california/
-categories: []
+categories:
+- Uncategorized
 description: '1. Bob’s Okazuyahttp://www.yelp.com/biz/bobs-okazuya-gardena – Old timers swear by Bob’s 2. Roy’s Hawaiian Fusion Cuisinehttp://www.roysrestaurant.com/ – Innovative high brow Hawaiian 3. Ono Hawaiian '
 archiveUrl: https://web.archive.org/web/20110105063612/http://www.thethirstypig.com/2009/03/13/sixes-top-hawaiian-restaurants-in-southern-california/
 draft: false

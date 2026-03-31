@@ -4,7 +4,8 @@ pubDate: '2011-07-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/19/woobar-w-hotel-taipei/
-categories: []
+categories:
+- Cocktails
 tags:
 - taipei
 - cocktails

@@ -11,7 +11,8 @@ images:
 - /images/posts/master-kong-chefs-table/Master-Kongs-Beef-Noodles-07-88x88.jpg
 - /images/posts/master-kong-chefs-table/Master-Kongs-Beef-Noodles-11-88x88.jpg
 - /images/posts/master-kong-chefs-table/Master-Kongs-Beef-Noodles-12-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

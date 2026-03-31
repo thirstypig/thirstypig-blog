@@ -9,7 +9,8 @@ images:
 - /images/posts/nathans-famous/071620081661.jpg
 - /images/posts/nathans-famous/071620081663.jpg
 - /images/posts/nathans-famous/071620081666.jpg
-categories: []
+categories:
+- American
 tags:
 - nyc
 - american

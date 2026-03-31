@@ -4,7 +4,8 @@ pubDate: '2009-12-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

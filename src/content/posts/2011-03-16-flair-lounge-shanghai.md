@@ -4,7 +4,8 @@ pubDate: '2011-03-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/03/16/flair-lounge-shanghai/
-categories: []
+categories:
+- Cocktails
 tags:
 - shanghai
 - cocktails

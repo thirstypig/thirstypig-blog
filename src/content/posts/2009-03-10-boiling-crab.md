@@ -11,7 +11,8 @@ images:
 - /images/posts/boiling-crab/IMG_0480.JPG
 - /images/posts/boiling-crab/IMG_0481.JPG
 - /images/posts/boiling-crab/IMG_0485.JPG
-categories: []
+categories:
+- Seafood
 tags:
 - seafood
 - shellfish

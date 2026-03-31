@@ -19,7 +19,8 @@ description: Blackened catfish and blue crab. With corn and hush puppies. Yum!
 location: Blackened catfish and blue crab
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

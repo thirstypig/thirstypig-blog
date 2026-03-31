@@ -18,7 +18,8 @@ description: The Godmother at Bay Cities Italian Deli in Santa Monica. One of LA
 location: Bay Cities Italian Deli & Bakery
 city: Santa Monica
 region: Westside
-categories: []
+categories:
+- Italian
 address: 1517 Lincoln Blvd (btw Broadway & Colorado), Santa Monica, CA 90401
 coordinates:
   lat: 34.017831

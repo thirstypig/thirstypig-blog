@@ -14,11 +14,16 @@ images:
 - /images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17882279376234272.jpg
 tags:
 - los-angeles
+- bbq
+- brisket
 description: Unfortunately, I can't recommend this place. But I would give it another chance to see if they would either improve or if today was an off day. Its too bad, since you see the big in the back - so one of think they know what they are doing. . . . .
 location: Domestic
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Barbecue at Domestic in La Puente](/images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17969206526833173.jpg)

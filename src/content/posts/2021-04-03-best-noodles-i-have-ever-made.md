@@ -19,7 +19,8 @@ description: Best noodles I have ever made. Shanghai scallion of noodles 蔥油�
 location: Best noodles I have ever made
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

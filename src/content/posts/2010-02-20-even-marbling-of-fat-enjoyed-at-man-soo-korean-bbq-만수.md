@@ -22,7 +22,8 @@ images:
 - /images/posts/even-marbling-of-fat-enjoyed-at-man-soo-korean-bbq-만수/IMG_0461.JPG
 - /images/posts/even-marbling-of-fat-enjoyed-at-man-soo-korean-bbq-만수/IMG_0462.JPG
 - /images/posts/even-marbling-of-fat-enjoyed-at-man-soo-korean-bbq-만수/IMG_0465.JPG
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

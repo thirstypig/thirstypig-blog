@@ -4,9 +4,13 @@ pubDate: 2026-03-02 00:00:00+00:00
 description: Jian Bing from Rowland Heights! This is a Tianjin Jian Bing which is different from the Shanghai ones with the egg on the inside. Inside the Bing we had 3 eggs, a hot dog, a crunchy crisp cracker, and various sauces and spices. Our Jian Bing maker is from Shandong. Yu Ji Stone Mill Chinese Crepes - on Jellick, near Colima.
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-02-jian-bing-from-rowland-heights/18175959046381194.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - rowland-heights
+- chinese
+- jian-bing
+- crepes
 location: Yu Ji Stone Mill Chinese Crepes
 city: Rowland Heights
 region: CA
@@ -21,6 +25,8 @@ images:
 - /images/posts/ig-2026-03-02-jian-bing-from-rowland-heights/18400485472144020.jpg
 source: instagram
 draft: false
+cuisine:
+- Chinese
 ---
 
 ![Jian Bing from Rowland Heights](/images/posts/ig-2026-03-02-jian-bing-from-rowland-heights/18175959046381194.jpg)

@@ -4,7 +4,8 @@ pubDate: '2010-05-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

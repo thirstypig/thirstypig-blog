@@ -4,7 +4,8 @@ pubDate: 2009-01-23 00:00:00+00:00
 description: Nickel Diner opened on Main Street in Downtown Los Angeles last August. What used to be a hole-in-the-wall secret has now exploded with crowds and lines out the door since it was named Los Angeles Mag
 author: The Thirsty Pig
 heroImage: /images/posts/this-is-the-place/IMG00067.jpg
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

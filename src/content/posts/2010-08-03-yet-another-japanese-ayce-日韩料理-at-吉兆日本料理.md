@@ -37,7 +37,8 @@ images:
 - /images/posts/yet-another-japanese-ayce-日韩料理-at-吉兆日本料理/Suzhou-Japanese-9.6-88x88.jpg
 - /images/posts/yet-another-japanese-ayce-日韩料理-at-吉兆日本料理/Suzhou-Japanese-9.7-88x88.jpg
 - /images/posts/yet-another-japanese-ayce-日韩料理-at-吉兆日本料理/Suzhou-Japanese-9.9-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - japanese
 - ayce

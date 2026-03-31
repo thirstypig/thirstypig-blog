@@ -15,7 +15,8 @@ tags:
 - fries
 description: Cheeseburger and fries from pretty good burger. Fries were a bit dry - but that’s me being picky. I don’t know five guys doesn’t get much respect - all I hear is and And Sucks
 location: Cheeseburger and fries from  pretty good burger
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

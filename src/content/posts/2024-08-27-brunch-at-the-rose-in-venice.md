@@ -1,5 +1,5 @@
 ---
-title: Grow Venice, Venice
+title: The Rose, Venice
 pubDate: '2024-08-27'
 author: The Thirsty Pig
 source: instagram
@@ -12,6 +12,9 @@ images:
 - /images/posts/ig-2024-08-27-brunch-at-the-rose-in-venice/18041210489077323.jpg
 tags:
 - venice
+- american
+- brunch
+- cocktails
 description: Brunch at the Rose in Venice. One of my go to’s in Venice. Not far from the beach and abbot Kinney. And of course I had to have a Bloody Mary. . . . 🌯
 location: Grow Venice
 city: Venice
@@ -20,7 +23,10 @@ address: 1650 Abbot Kinney Blvd, Los Angeles, CA 90291
 coordinates:
   lat: 33.989399
   lng: -118.463199
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Brunch at the Rose in Venice](/images/posts/ig-2024-08-27-brunch-at-the-rose-in-venice/17872421859095642.jpg)

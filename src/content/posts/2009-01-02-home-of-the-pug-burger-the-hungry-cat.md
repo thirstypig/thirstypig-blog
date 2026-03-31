@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/01/02/home-of-the-pug-burger-the-
 heroImage: /images/posts/home-of-the-pug-burger-the-hungry-cat/072720071242.jpg
 images:
 - /images/posts/home-of-the-pug-burger-the-hungry-cat/072720071242.jpg
-categories: []
+categories:
+- Seafood
 tags:
 - beverly-hills
 - seafood

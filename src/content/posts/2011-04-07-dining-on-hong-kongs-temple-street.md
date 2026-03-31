@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/04/07/dining-on-hong-kongs-tem
 heroImage: /images/posts/dining-on-hong-kongs-temple-street/Temple-Street-HKG-01-188x188.jpg
 images:
 - /images/posts/dining-on-hong-kongs-temple-street/Temple-Street-HKG-01-188x188.jpg
-categories: []
+categories:
+- Multi
 tags:
 - hong-kong
 - multi

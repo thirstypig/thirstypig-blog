@@ -25,7 +25,8 @@ address: 1850 Nogales St, Rowland Heights, CA 91748
 coordinates:
   lat: 33.984504
   lng: -117.888679
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

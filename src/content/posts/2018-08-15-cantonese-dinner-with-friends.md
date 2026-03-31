@@ -24,7 +24,8 @@ address: 1105 Arcadia Ave, Arcadia, CA 91007
 coordinates:
   lat: 34.139916
   lng: -118.035407
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

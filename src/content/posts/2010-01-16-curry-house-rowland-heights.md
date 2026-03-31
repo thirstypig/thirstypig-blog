@@ -11,7 +11,8 @@ images:
 - /images/posts/curry-house-rowland-heights/IMG_0995.jpg
 - /images/posts/curry-house-rowland-heights/IMG_0998.jpg
 - /images/posts/curry-house-rowland-heights/IMG_1001.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - rowland-heights
 - japanese

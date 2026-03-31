@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/01/28/mundo-cafe-restaurant/
 heroImage: /images/posts/mundo-cafe-restaurant/299802854_ed1016084b.jpg
 images:
 - /images/posts/mundo-cafe-restaurant/299802854_ed1016084b.jpg
-categories: []
+categories:
+- Colombian
 tags:
 - nyc
 - colombian

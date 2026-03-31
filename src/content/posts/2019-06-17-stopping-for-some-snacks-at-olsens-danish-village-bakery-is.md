@@ -20,7 +20,8 @@ tags:
 - snacks
 description: Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang. . . .
 location: Olsen’s Danish Village Bakery is Solvang
-categories: []
+categories:
+- Bakery
 city: Solvang
 cuisine:
 - Bakery

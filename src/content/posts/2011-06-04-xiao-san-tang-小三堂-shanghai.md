@@ -4,7 +4,8 @@ pubDate: '2011-06-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/06/04/xiao-san-tang-%e5%b0%8f%e4%b8%89%e5%a0%82-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

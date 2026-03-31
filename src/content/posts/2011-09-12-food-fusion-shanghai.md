@@ -4,7 +4,8 @@ pubDate: '2011-09-12'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/12/food-fusion-shanghai/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

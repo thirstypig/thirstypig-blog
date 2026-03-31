@@ -26,7 +26,8 @@ images:
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-15-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-16-88x88.jpg
 - /images/posts/shakas-alhambra/Shakas-Alhambra-CA-17-88x88.jpg
-categories: []
+categories:
+- Hawaiian
 tags:
 - alhambra
 - hawaiian

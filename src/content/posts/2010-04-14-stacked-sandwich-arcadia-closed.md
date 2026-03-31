@@ -4,7 +4,8 @@ pubDate: '2010-04-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/14/stacked-sandwich-arcadia-closed/
-categories: []
+categories:
+- American
 tags:
 - arcadia
 - american

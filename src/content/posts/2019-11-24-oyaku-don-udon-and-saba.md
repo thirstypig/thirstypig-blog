@@ -17,7 +17,8 @@ tags:
 description: Oyaku Don, Udon, and Saba. Suehiro is Little Tokyo’s Japanese Denny’s. Love this place. Can always good Japanese comfort dishes. They good rice dishes, ramen, and other dishes. Open Late. But parking sucks - only paid lots and barely any street parking available. . . . . . .
 location: Donut Friend
 city: Little Tokyo
-categories: []
+categories:
+- Japanese
 region: Los Angeles
 address: 543 S Broadway (at W 6th St), Los Angeles, CA 90013
 coordinates:

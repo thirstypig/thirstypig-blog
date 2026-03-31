@@ -4,7 +4,8 @@ pubDate: '2012-01-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/28/papilles-bistro-hollywood/
-categories: []
+categories:
+- French
 tags:
 - hollywood
 - french

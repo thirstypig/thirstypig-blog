@@ -4,7 +4,8 @@ pubDate: '2012-01-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/14/suehiro-cafe-little-tokyo-dtla/
-categories: []
+categories:
+- Japanese
 tags:
 - dtla
 - japanese

@@ -12,7 +12,8 @@ images:
 - /images/posts/mendocino-farms-dtla/IMG_0616.jpg
 - /images/posts/mendocino-farms-dtla/IMG_1227.jpg
 - /images/posts/mendocino-farms-dtla/IMG_1231.jpg
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

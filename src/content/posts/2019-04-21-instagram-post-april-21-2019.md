@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2019-04-21-instagram-post-april-21-2019/17990713270220236.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — April 21, 2019](/images/posts/ig-2019-04-21-instagram-post-april-21-2019/17990713270220236.jpg)

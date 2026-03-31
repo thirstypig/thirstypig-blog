@@ -21,7 +21,8 @@ description: Traditional Hong Kong style breakfast. With the rice porridge, pine
 location: Traditional Hong Kong style breakfast
 city: Hong Kong
 region: Hong Kong
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

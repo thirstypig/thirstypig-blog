@@ -13,7 +13,8 @@ tags:
 - cocktails
 - bloody-mary
 description: Enjoying the Saints game at the Voodoo lounge. Abita beer, cider, and a bunch of bloody Mary’s. . . . ⚜️
-categories: []
+categories:
+- Cocktails
 cuisine:
 - Cocktails
 ---

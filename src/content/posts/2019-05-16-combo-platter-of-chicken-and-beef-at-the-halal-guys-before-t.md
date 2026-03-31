@@ -16,7 +16,8 @@ tags:
 description: Combo Platter of chicken and beef at the Halal Guys before the sauce. White sauce is decadent and the red sauce is just a bit too spicy. Lunch on the streets of New York City. . . .
 city: New York
 region: New York
-categories: []
+categories:
+- Mediterranean
 cuisine:
 - Mediterranean
 ---

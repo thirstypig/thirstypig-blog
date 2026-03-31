@@ -25,7 +25,8 @@ address: 1463 W Sunset Blvd (Portia St), Los Angeles, CA 90026
 coordinates:
   lat: 34.075383
   lng: -118.253893
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

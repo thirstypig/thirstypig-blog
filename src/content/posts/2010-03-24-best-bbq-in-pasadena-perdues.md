@@ -14,7 +14,8 @@ images:
 - /images/posts/best-bbq-in-pasadena-perdues/IMG_0693.jpg
 - /images/posts/best-bbq-in-pasadena-perdues/IMG_0697.jpg
 - /images/posts/best-bbq-in-pasadena-perdues/IMG_0698.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - pasadena
 - bbq

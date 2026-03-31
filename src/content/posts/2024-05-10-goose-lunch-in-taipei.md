@@ -14,15 +14,21 @@ images:
 - /images/posts/ig-2024-05-10-goose-lunch-in-taipei/17908986746952189.jpg
 tags:
 - taipei
+- taiwanese
+- roast-goose
+- stinky-tofu
 description: Goose lunch in Taipei. Popular lunch spot with a long queue. Steamed stinky tofu, Taiwanese sausage with mushroom, rice noodles, and of course roast goose. 阿城鵝肉 . . . restaurant
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Taiwanese
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934
   lng: 121.529331
+cuisine:
+- Taiwanese
 ---
 
 ![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18018167000208397.jpg)

@@ -17,7 +17,8 @@ tags:
 - burgers
 description: Moule (mussels) mariniere (white wine, onion, and parsley). Yum! And a French burger. And fries. Oh and the French onion soup - might be the best I ever had
 location: Chez Maman
-categories: []
+categories:
+- French
 city: San Francisco
 region: San Francisco
 address: 401 Gough St (at Hayes St), San Francisco, CA 94102

@@ -4,7 +4,8 @@ pubDate: '2011-03-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/03/18/hai-di-lao-%e6%b5%b7%e5%ba%95%e6%8d%9e%e7%81%ab%e9%94%85-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

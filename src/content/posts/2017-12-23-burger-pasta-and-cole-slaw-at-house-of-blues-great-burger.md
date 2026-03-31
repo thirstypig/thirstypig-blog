@@ -16,7 +16,8 @@ tags:
 - pasta
 description: Burger, pasta, and cole slaw at House of Blues Great Burger!
 location: Mandalay Bay Resort and Casino
-categories: []
+categories:
+- American
 city: Las Vegas
 region: Las Vegas
 address: 3950 Las Vegas Blvd S (at Russell Rd), Las Vegas, NV 89119

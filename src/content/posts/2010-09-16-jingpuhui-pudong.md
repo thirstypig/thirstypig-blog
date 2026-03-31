@@ -51,7 +51,8 @@ images:
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-51-88x88.jpg
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-54-88x88.jpg
 - /images/posts/jingpuhui-pudong/Jingpuhui-Pudong-Shanghai-55-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: '> You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . . > > — From The Frog and The Princess'
 archiveUrl: https://web.archive.org/web/20100922105055/http://www.thethirstypig.com:80/2010/09/16/jingpuhui-pudong/
 draft: false

@@ -4,7 +4,8 @@ pubDate: '2010-04-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
-categories: []
+categories:
+- Colombian
 tags:
 - dtla
 - colombian

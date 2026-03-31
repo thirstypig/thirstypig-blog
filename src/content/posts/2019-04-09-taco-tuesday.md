@@ -17,7 +17,8 @@ description: Taco Tuesday! At Sierra Madre’s Tacos Ensenada. Our regular Tuesd
 location: Taco Tuesday
 city: Sierra Madre
 region: San Gabriel Valley
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

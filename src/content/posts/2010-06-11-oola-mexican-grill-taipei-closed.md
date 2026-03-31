@@ -4,7 +4,8 @@ pubDate: '2010-06-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
-categories: []
+categories:
+- Mexican
 tags:
 - taipei
 - mexican

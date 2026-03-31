@@ -17,7 +17,8 @@ tags:
 - mexican
 - tacos
 location: Lostaquitosaz
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

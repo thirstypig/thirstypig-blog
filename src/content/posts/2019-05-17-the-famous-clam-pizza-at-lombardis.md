@@ -19,7 +19,8 @@ description: The famous clam pizza at Lombardi’s. Also had the chicken parmesa
 location: Lombardi's
 city: New York
 region: New York
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

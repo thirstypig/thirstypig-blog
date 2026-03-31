@@ -10,7 +10,8 @@ draft: false
 location: New Chapter
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 Please check out the latest posts on the new site - <http://www.thethirstypig.com>

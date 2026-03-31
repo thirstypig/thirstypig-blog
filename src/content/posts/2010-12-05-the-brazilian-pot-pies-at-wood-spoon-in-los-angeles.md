@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2010/12/05/the-brazilian-pot-pies-a
 heroImage: /images/posts/the-brazilian-pot-pies-at-wood-spoon-in-los-angeles/Wood-Spoon-DTLA-A-05-88x88.jpg
 images:
 - /images/posts/the-brazilian-pot-pies-at-wood-spoon-in-los-angeles/Wood-Spoon-DTLA-A-05-88x88.jpg
-categories: []
+categories:
+- Brazilian
 tags:
 - los-angeles
 - brazilian

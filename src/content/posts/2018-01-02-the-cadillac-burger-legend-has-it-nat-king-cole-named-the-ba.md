@@ -26,7 +26,8 @@ address: 915 3rd Ave (at E 55th St), New York, NY 10022
 coordinates:
   lat: 40.758924
   lng: -73.968474
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

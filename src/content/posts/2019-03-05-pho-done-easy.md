@@ -18,7 +18,8 @@ description: Pho done easy. . . I choose to have chicken curry with a French rol
 location: Pho done easy
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

@@ -21,7 +21,8 @@ tags:
 - cocktails
 description: Memories of New Orleans - the French Quarter, Commanders Palace, Pat O’Brien’s Hurricane, Tropical Isle’s Hand Grenade, National WWII Museum, and some crazy ‘Gator pics. And also eating crawfish
 city: New Orleans
-categories: []
+categories:
+- Cajun
 region: Louisiana
 cuisine:
 - Cajun

@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/12/22/mi-tierra-shanghai/
 heroImage: /images/posts/mi-tierra-shanghai/Mi-Tierra-Shanghai-01-494x370.jpg
 images:
 - /images/posts/mi-tierra-shanghai/Mi-Tierra-Shanghai-01-494x370.jpg
-categories: []
+categories:
+- Mexican
 description: I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things t
 archiveUrl: https://web.archive.org/web/20120103162514/http://www.thethirstypig.com/2011/12/22/mi-tierra-shanghai/
 draft: false

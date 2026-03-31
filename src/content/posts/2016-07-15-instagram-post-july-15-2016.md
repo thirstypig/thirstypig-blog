@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2016-07-15-instagram-post-july-15-2016/17859103000052716.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — July 15, 2016](/images/posts/ig-2016-07-15-instagram-post-july-15-2016/17859103000052716.jpg)

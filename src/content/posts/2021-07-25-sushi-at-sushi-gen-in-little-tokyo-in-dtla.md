@@ -4,7 +4,8 @@ pubDate: 2021-07-25 00:00:00+00:00
 description: Sushi at Sushi Gen in Little Tokyo in DTLA. Part 1. This is my favorite place for sushi. Got here real early just to get a seat at the sushi counter. Had uni, Spanish mackerel, halibut, snapper, yellowtail, sardine, tuna belly, and giant clam. I might have missed one or two. . . . . .
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2021-07-25-sushi-at-sushi-gen-in-little-tokyo-in-dtla/18169594324176089.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - los-angeles
 - japanese

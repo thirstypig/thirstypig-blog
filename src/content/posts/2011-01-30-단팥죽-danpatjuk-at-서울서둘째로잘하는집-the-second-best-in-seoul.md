@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/30/%EB%8B%A8%ED%8C%A5%EC%A3
 heroImage: /images/posts/단팥죽-danpatjuk-at-서울서둘째로잘하는집-the-second-best-in-seoul/Korean-Dessert-Place-Seoul-09-88x88.jpg
 images:
 - /images/posts/단팥죽-danpatjuk-at-서울서둘째로잘하는집-the-second-best-in-seoul/Korean-Dessert-Place-Seoul-09-88x88.jpg
-categories: []
+categories:
+- Dessert
 tags:
 - seoul
 - dessert

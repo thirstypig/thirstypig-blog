@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/01/20/great-hole-in-the-wall-meat
 heroImage: /images/posts/great-hole-in-the-wall-meatball-sandwich/Big+O+Meatball+Sandwich.jpg
 images:
 - /images/posts/great-hole-in-the-wall-meatball-sandwich/Big+O+Meatball+Sandwich.jpg
-categories: []
+categories:
+- Italian
 tags:
 - san-clemente
 - italian

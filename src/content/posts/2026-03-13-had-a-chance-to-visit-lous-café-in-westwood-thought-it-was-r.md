@@ -6,6 +6,9 @@ author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/18317145559253607.jpg
 tags:
 - westwood
+- chinese
+- chicken-rice
+- hong-kong-toast
 location: Liu's Cafe
 city: Westwood
 region: Los Angeles
@@ -16,7 +19,10 @@ images:
 - /images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/17867491302594445.jpg
 source: instagram
 draft: false
-categories: []
+categories:
+- Chinese
+cuisine:
+- Chinese
 ---
 
 ![Had a chance to visit Lou’s Café in Westwood thought it was really good](/images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/18317145559253607.jpg)

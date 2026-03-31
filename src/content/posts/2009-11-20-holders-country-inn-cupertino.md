@@ -11,7 +11,8 @@ images:
 - /images/posts/holders-country-inn-cupertino/DSCN0117.JPG
 - /images/posts/holders-country-inn-cupertino/DSCN0120.JPG
 - /images/posts/holders-country-inn-cupertino/DSCN0121.JPG
-categories: []
+categories:
+- American
 tags:
 - cupertino
 - american

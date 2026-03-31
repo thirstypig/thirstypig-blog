@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/04/29/seoul-food-in-san-gabriel-v
 heroImage: /images/posts/seoul-food-in-san-gabriel-valley-young-dong-tofu/070620081618.jpg
 images:
 - /images/posts/seoul-food-in-san-gabriel-valley-young-dong-tofu/070620081618.jpg
-categories: []
+categories:
+- Korean
 tags:
 - sgv
 - korean

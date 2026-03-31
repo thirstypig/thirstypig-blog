@@ -10,7 +10,8 @@ images:
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-09-188x188.jpg
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-12-188x188.jpg
 - /images/posts/new-star-seafood-restaurant-新星海鮮酒家-hkg/New-Star-Seafood-HKG-13-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

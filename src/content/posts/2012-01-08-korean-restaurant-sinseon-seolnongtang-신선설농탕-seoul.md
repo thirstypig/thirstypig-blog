@@ -4,7 +4,8 @@ pubDate: '2012-01-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/08/korean-restaurant-sinseon-seolnongtang-%ec%8b%a0%ec%84%a0%ec%84%a4%eb%86%8d%ed%83%95-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

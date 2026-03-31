@@ -23,7 +23,8 @@ address: 419 N Fairfax Ave (btwn Rosewood & Oakwood Ave), Los Angeles, CA 90036
 coordinates:
   lat: 34.078815
   lng: -118.361568
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

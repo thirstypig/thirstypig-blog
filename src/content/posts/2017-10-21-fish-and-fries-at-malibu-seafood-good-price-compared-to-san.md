@@ -22,7 +22,8 @@ description: Fish and fries at Malibu Seafood good price compared to San Marino 
 city: San Marino
 region: San Gabriel Valley
 location: Malibu Seafood
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

@@ -14,7 +14,8 @@ tags:
 - cracklin
 description: Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market
 location: Gas Station Snacks
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

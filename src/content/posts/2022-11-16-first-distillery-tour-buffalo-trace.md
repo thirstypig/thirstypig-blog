@@ -1,5 +1,5 @@
 ---
-title: First Distillery tour - Buffalo Trace
+title: Buffalo Trace, Louisville
 pubDate: '2022-11-16'
 author: The Thirsty Pig
 source: instagram
@@ -15,10 +15,16 @@ images:
 - /images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18010980937443520.jpg
 - /images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17954607332234439.jpg
 - /images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17873278358748354.jpg
-tags: []
+tags:
+- louisville
+- bourbon
+- whiskey
 description: First Distillery tour - Buffalo Trace. Amazing distillery with one of the hottest tours in Louisville. Buffalo Trace, Wellers, Pappy’s, Fireball, Blantons, and other bourbons are made here. Got to see where they bottle single barrel bourbon. Luckily, we got a chance to purchase a Blantons. It was here, where I learned the most about bourbon distilling. I recommend trying to get a tour appointment here first, when coming to Louisville. Reserve early!! . . . . . . .
 location: First Distillery tour
-categories: []
+categories:
+- Uncategorized
+city: Louisville
+cuisine: []
 ---
 
 ![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18330931573019685.jpg)

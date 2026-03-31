@@ -18,7 +18,8 @@ tags:
 - fishing
 description: 6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to catch some small mackerel. Got to feed some seagull some of our live bait. We will do it again! Thanks to ptwoo and Bosco
 location: 6 hour fishing tour
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

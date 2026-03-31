@@ -20,7 +20,8 @@ address: 3965 Alton Pkwy, Irvine, CA 92606
 coordinates:
   lat: 33.682456
   lng: -117.813445
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

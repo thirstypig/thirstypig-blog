@@ -10,7 +10,8 @@ images:
 - /images/posts/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/DSCN0036.JPG
 - /images/posts/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/IMG_0882.JPG
 - /images/posts/what-high-school-kids-eat-to-grow-big-and-tall-taco-lita/close+up.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - sgv
 - mexican

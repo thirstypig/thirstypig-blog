@@ -19,7 +19,8 @@ images:
 - /images/posts/apple-store-shanghai/DSC00073-188x141.jpg
 - /images/posts/apple-store-shanghai/IMG_3407-494x370.jpg
 - /images/posts/apple-store-shanghai/IMG_3407-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion siteblog. But I had to post about the new official Apple Store in Pudong, Shanghai.
 archiveUrl: https://web.archive.org/web/20100915154739/http://www.thethirstypig.com:80/2010/08/02/apple-store-shanghai/
 draft: false

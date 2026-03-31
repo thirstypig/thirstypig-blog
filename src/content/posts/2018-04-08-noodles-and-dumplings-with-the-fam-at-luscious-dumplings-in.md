@@ -24,7 +24,8 @@ tags:
 - chinese
 - dumplings
 - noodles
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

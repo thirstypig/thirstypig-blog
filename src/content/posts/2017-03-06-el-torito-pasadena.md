@@ -4,7 +4,8 @@ pubDate: '2017-03-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/06/el-torito-pasadena/
-categories: []
+categories:
+- Mexican
 tags:
 - pasadena
 - mexican

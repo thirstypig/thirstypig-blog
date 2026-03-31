@@ -16,7 +16,8 @@ tags:
 - fried-shrimp
 description: peacemaker - fried shrimp and roast beef Po-Boy sandwich and fried shrimp platter with fries and potato salad. Could barely finish the PO-boy but shrimp platter. So full the potato salad was yummy!
 location: peacemaker
-categories: []
+categories:
+- Cajun
 city: New Orleans
 region: Louisiana
 cuisine:

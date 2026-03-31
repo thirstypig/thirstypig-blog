@@ -26,7 +26,8 @@ images:
 - /images/posts/tainan-hong-yutou-taipei-station/IMG_2715-88x88.jpg
 - /images/posts/tainan-hong-yutou-taipei-station/IMG_2716-88x88.jpg
 - /images/posts/tainan-hong-yutou-taipei-station/IMG_2717-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

@@ -28,7 +28,8 @@ images:
 - /images/posts/the-pbj-burger-at-slaters-5050/50-Anaheim-Hills-CA-15-370x494.jpg
 - /images/posts/the-pbj-burger-at-slaters-5050/50-Anaheim-Hills-CA-15-88x88.jpg
 - /images/posts/the-pbj-burger-at-slaters-5050/50-Anaheim-Hills-CA-16-88x88.jpg
-categories: []
+categories:
+- American
 description: As long as I can remember, I have always enjoyed eating hamburgers. But whenever I saw a pink color in the meat, I was told it was a “No-No”. Pink meant that it was non fully cooked, and perhaps unsaf
 archiveUrl: https://web.archive.org/web/20100915154810/http://www.thethirstypig.com:80/2010/08/31/the-pbj-burger-at-slaters-5050/
 draft: false

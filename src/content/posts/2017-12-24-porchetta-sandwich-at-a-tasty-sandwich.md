@@ -18,7 +18,8 @@ description: Porchetta Sandwich at A tasty sandwich. But was a little disappoint
 location: The Kroft
 city: Anaheim
 region: Orange County
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

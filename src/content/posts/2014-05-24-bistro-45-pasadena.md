@@ -4,7 +4,8 @@ pubDate: '2014-05-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2014/05/24/bistro-45-pasadena/
-categories: []
+categories:
+- Fusion
 tags:
 - pasadena
 - fusion

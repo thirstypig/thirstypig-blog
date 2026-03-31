@@ -19,7 +19,8 @@ images:
 - /images/posts/pizza-wine-and-good-times-at-just-grapes-shanghai/Just-Grapes-7-88x88.jpg
 - /images/posts/pizza-wine-and-good-times-at-just-grapes-shanghai/Just-Grapes-8-370x494.jpg
 - /images/posts/pizza-wine-and-good-times-at-just-grapes-shanghai/Just-Grapes-9-88x88.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

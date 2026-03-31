@@ -5,13 +5,16 @@ author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/05/02/southern-barbarian-shanghai/
 categories:
-- 2 pigs
-- Beer
-- Price Range 2 $/¥/NT
-- Yunnan
+- Chinese
 description: '| Location | Ratinghttp://www.thethirstypig.com/rating-system/ | | --- | --- | | 南蛮子云南烧烤吧 Southern Barbarian 进贤路169号生活艺术空间E区2楼 近茂名南路 2/F, Area E, Ju’Roshine Life Art Space, 169 Jinxian Lu, near Maomin'
 archiveUrl: https://web.archive.org/web/20120505211041/http://www.thethirstypig.com:80/2012/05/02/southern-barbarian-shanghai/
 draft: false
+cuisine:
+- Chinese
+tags:
+- chinese
+- bbq
+- yunnan
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

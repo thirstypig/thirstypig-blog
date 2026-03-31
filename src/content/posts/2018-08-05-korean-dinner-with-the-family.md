@@ -23,7 +23,8 @@ address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
 coordinates:
   lat: 34.13803
   lng: -118.04792
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

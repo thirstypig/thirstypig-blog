@@ -20,7 +20,8 @@ address: 648 S Broadway (7th Street), Los Angeles, CA 90014
 coordinates:
   lat: 34.045397
   lng: -118.253102
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

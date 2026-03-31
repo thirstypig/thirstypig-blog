@@ -4,7 +4,8 @@ pubDate: '2011-01-12'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/12/oppadak-baked-chicken-of-seoul-%EC%98%A4%EB%B9%A0%EB%8B%AD/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

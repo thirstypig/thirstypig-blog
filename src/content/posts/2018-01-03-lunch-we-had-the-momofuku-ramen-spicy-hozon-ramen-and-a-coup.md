@@ -17,7 +17,8 @@ tags:
 - pork-buns
 description: Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns. I liked the pork belly with the shredded pork shoulder in my ramen. My wife liked the fried chickpeas in the hozon. We both enjoyed the crispness of the pork belly in the bun. Wife was ok with the noodles.
 city: New York
-categories: []
+categories:
+- Japanese
 region: New York
 location: Momofuku Noodle Bar
 address: 171 1st Ave (btwn E 10th & E 11th St), New York, NY 10003

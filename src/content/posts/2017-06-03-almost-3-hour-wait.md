@@ -28,7 +28,8 @@ address: 516 S Main St, Lexington, TX 78947
 coordinates:
   lat: 30.412832
   lng: -97.006649
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

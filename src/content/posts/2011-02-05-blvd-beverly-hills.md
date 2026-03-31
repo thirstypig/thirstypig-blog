@@ -4,7 +4,8 @@ pubDate: '2011-02-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/05/blvd-beverly-hills/
-categories: []
+categories:
+- American
 tags:
 - beverly-hills
 - american

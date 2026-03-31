@@ -25,7 +25,8 @@ images:
 - /images/posts/shin-sen-gumi-gardena/DSCN0039.JPG
 - /images/posts/shin-sen-gumi-gardena/DSCN0040.JPG
 - /images/posts/shin-sen-gumi-gardena/DSCN0042.JPG
-categories: []
+categories:
+- Japanese
 tags:
 - gardena
 - japanese

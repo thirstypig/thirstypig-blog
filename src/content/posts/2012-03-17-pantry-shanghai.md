@@ -4,7 +4,8 @@ pubDate: '2012-03-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/17/pantry-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

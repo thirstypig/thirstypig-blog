@@ -21,7 +21,8 @@ address: 139 E Huntington Dr, Arcadia, CA 91006
 coordinates:
   lat: 34.1403
   lng: -118.026696
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

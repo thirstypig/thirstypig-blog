@@ -9,7 +9,8 @@ images:
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0794.jpg
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0796.jpg
 - /images/posts/animal-style-burgers-from-southern-californias-own-burger-joint/IMG_0800.JPG
-categories: []
+categories:
+- American
 tags:
 - american
 - burgers

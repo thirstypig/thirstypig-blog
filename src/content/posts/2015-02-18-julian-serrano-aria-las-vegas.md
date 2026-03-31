@@ -4,7 +4,8 @@ pubDate: '2015-02-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2015/02/18/julian-serrano-aria-las-vegas/
-categories: []
+categories:
+- Spanish
 tags:
 - las-vegas
 - spanish

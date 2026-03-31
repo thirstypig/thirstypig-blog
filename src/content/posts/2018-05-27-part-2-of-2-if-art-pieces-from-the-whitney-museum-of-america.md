@@ -26,7 +26,8 @@ address: 99 Gansevoort St (btwn 10th Ave & Washington St), New York, NY 10014
 coordinates:
   lat: 40.739506
   lng: -74.008861
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

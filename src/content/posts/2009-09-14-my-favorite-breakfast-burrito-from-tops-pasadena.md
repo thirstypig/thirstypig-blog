@@ -10,7 +10,8 @@ images:
 - /images/posts/my-favorite-breakfast-burrito-from-tops-pasadena/DSCN0026.JPG
 - /images/posts/my-favorite-breakfast-burrito-from-tops-pasadena/DSCN0031.JPG
 - /images/posts/my-favorite-breakfast-burrito-from-tops-pasadena/DSCN0037.JPG
-categories: []
+categories:
+- Mexican
 tags:
 - pasadena
 - mexican

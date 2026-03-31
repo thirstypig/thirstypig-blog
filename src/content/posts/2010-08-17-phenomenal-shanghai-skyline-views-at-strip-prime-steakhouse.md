@@ -15,7 +15,8 @@ images:
 - /images/posts/phenomenal-shanghai-skyline-views-at-strip-prime-steakhouse/IMG_3675-494x370.jpg
 - /images/posts/phenomenal-shanghai-skyline-views-at-strip-prime-steakhouse/IMG_3675-88x88.jpg
 - /images/posts/phenomenal-shanghai-skyline-views-at-strip-prime-steakhouse/IMG_3676-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20100915154728/http://www.thethirstypig.com:80/2010/08/17/phenomenal-shanghai-skyline-views-at-strip-prime-steakhouse/
 draft: false

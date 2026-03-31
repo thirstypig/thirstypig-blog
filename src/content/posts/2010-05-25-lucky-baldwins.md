@@ -13,7 +13,8 @@ images:
 - /images/posts/lucky-baldwins/IMG_1461-185x185.jpg
 - /images/posts/lucky-baldwins/IMG_1463-185x185.jpg
 - /images/posts/lucky-baldwins/IMG_1464-185x185.jpg
-categories: []
+categories:
+- British
 tags:
 - pasadena
 - british

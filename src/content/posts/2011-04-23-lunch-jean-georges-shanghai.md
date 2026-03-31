@@ -4,7 +4,8 @@ pubDate: '2011-04-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
-categories: []
+categories:
+- French
 tags:
 - shanghai
 - french

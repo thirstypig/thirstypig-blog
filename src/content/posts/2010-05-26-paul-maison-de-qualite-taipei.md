@@ -4,7 +4,8 @@ pubDate: '2010-05-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
-categories: []
+categories:
+- Bakery
 tags:
 - taipei
 - bakery

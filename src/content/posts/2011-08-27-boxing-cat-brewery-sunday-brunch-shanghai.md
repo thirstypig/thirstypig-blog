@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-b
 heroImage: /images/posts/boxing-cat-brewery-sunday-brunch-shanghai/Boxing-Cat-Brunch-05-494x370.jpg
 images:
 - /images/posts/boxing-cat-brewery-sunday-brunch-shanghai/Boxing-Cat-Brunch-05-494x370.jpg
-categories: []
+categories:
+- Fusion
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20111103155041/http://www.thethirstypig.com/2011/08/27/boxing-cat-brewery-sunday-brunch-shanghai/
 draft: false

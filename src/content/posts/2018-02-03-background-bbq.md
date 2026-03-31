@@ -16,7 +16,8 @@ cuisine:
 - BBQ
 tags:
 - bbq
-categories: []
+categories:
+- BBQ
 ---
 
 ![Background BBQ](/images/posts/ig-2018-02-03-background-bbq/17910390601103837.jpg)

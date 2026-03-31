@@ -4,7 +4,8 @@ pubDate: '2011-01-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/21/chicken-and-barbecue-hof-seoul-wtf-spicy/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

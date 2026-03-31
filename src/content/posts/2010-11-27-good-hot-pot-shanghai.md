@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/
 heroImage: /images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg
 images:
 - /images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

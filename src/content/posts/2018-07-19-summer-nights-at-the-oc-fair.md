@@ -19,7 +19,8 @@ description: Summer Nights at the OC Fair. The bacon corn dog, corn in a cup wit
 location: Summer Nights at the OC Fair
 city: Orange County
 region: Orange County
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -26,7 +26,8 @@ images:
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-18-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-19-494x370.jpg
 - /images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-20-494x370.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

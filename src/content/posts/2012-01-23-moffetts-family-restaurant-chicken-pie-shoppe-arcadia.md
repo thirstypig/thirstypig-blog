@@ -4,7 +4,8 @@ pubDate: '2012-01-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/23/moffetts-family-restaurant-chicken-pie-shoppe-arcadia/
-categories: []
+categories:
+- American
 tags:
 - arcadia
 - american

@@ -4,7 +4,8 @@ pubDate: '2009-09-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

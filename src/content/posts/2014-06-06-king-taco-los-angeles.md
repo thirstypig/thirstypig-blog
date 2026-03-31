@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2014/06/06/king-taco-los-angeles/
 heroImage: /images/posts/king-taco-los-angeles/psb-8.jpg
 images:
 - /images/posts/king-taco-los-angeles/psb-8.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

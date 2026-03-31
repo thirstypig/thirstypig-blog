@@ -27,7 +27,8 @@ address: 9500 Wilshire Blvd ((at the Beverly Wilshire, A Four Seasons Hotel)), B
 coordinates:
   lat: 34.066425
   lng: -118.400761
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

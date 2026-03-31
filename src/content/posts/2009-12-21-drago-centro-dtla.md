@@ -4,7 +4,8 @@ pubDate: '2009-12-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/21/drago-centro-dtla/
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

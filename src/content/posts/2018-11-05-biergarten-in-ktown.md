@@ -23,7 +23,8 @@ address: 1000 San Julian St (11th St), Los Angeles, CA 90015
 coordinates:
   lat: 34.036526
   lng: -118.252402
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

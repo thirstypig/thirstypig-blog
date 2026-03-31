@@ -21,7 +21,8 @@ images:
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0714.jpg
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0715.jpg
 - /images/posts/cheese-nite-w-mac-cheeza-and-the-grill-cheese-truck/IMG_0716.jpg
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

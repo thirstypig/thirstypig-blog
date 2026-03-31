@@ -21,7 +21,8 @@ address: Brooklyn Bridge (FDR Dr), New York, NY 11201
 coordinates:
   lat: 40.703952
   lng: -73.994197
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

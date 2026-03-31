@@ -4,7 +4,8 @@ pubDate: '2011-01-18'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/18/galbi-jjim-at-%EA%B0%95%EB%82%A8%EB%A9%B4%EC%98%A5-gangnam-myeonok-in-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

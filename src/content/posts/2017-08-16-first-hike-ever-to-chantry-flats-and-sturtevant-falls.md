@@ -19,7 +19,8 @@ tags:
 description: First hike ever to Chantry Flats and Sturtevant Falls. Lived nearby for years and have never visited the famous falls. A bit sore. big thanks to and . Next time we go to and jump off the cliff
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

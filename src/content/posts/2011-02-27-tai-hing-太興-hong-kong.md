@@ -4,7 +4,8 @@ pubDate: '2011-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/27/tai-hing-%e5%a4%aa%e8%88%88-hong-kong/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/09/12/chuans-sgv-los-angeles/
 heroImage: /images/posts/chuans-sgv-los-angeles/IMG_0846.jpg
 images:
 - /images/posts/chuans-sgv-los-angeles/IMG_0846.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

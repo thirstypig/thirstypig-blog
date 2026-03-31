@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angel
 heroImage: /images/posts/hunan-mao-restaurant-sgv-los-angeles/IMG_0323.jpg
 images:
 - /images/posts/hunan-mao-restaurant-sgv-los-angeles/IMG_0323.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - sgv
 - chinese

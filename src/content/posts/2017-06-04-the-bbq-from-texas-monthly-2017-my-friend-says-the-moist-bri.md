@@ -21,7 +21,8 @@ address: 900 E 11th St (at Branch St), Austin, TX 78702
 coordinates:
   lat: 30.270662
   lng: -97.731385
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2011-08-28-instagram-post-august-28-2011/17842671706049948.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — August 28, 2011](/images/posts/ig-2011-08-28-instagram-post-august-28-2011/17842671706049948.jpg)

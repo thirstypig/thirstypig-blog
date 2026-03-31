@@ -13,7 +13,8 @@ images:
 tags: []
 description: Andreas Canyons near Palm Springs. Amazing little walk/trail . . .
 location: Andreas Canyons near Palm Springs
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

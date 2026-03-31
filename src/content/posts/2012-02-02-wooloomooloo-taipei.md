@@ -4,7 +4,8 @@ pubDate: '2012-02-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/02/wooloomooloo-taipei/
-categories: []
+categories:
+- Fusion
 tags:
 - taipei
 - fusion

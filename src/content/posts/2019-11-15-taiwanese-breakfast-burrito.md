@@ -18,7 +18,8 @@ description: Taiwanese Breakfast Burrito. 飯糰 and egg pancake. This was my da
 location: Taiwanese Breakfast (想彳早餐)
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Taiwanese
 address: 萬壽里,  108
 coordinates:
   lat: 25.04379

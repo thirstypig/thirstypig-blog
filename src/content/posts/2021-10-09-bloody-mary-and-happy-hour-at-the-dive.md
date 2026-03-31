@@ -14,11 +14,16 @@ images:
 - /images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17894568143292875.jpg
 tags:
 - san-gabriel
+- cocktails
+- happy-hour
 description: Bloody Mary and happy hour at The Dive . . . .
 location: The Dive
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Cocktails
+cuisine:
+- Cocktails
 ---
 
 ![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17873914883576045.jpg)

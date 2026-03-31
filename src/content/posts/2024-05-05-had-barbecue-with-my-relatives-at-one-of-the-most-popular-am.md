@@ -17,10 +17,15 @@ images:
 - /images/posts/ig-2024-05-05-had-barbecue-with-my-relatives-at-one-of-the-most-popular-am/18102591520402171.jpg
 tags:
 - taipei
+- bbq
+- ribs
 description: Had barbecue with my relatives at one of the most popular American Barbecue restaurants in Taipei. As a visitor to Taipei, I don’t look for western fare while overseas. But my friends know that I am a
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Had barbecue with my relatives at one of the most popular American Barbecue r...](/images/posts/ig-2024-05-05-had-barbecue-with-my-relatives-at-one-of-the-most-popular-am/18018385982512563.jpg)

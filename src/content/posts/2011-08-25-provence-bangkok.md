@@ -4,7 +4,8 @@ pubDate: '2011-08-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/25/provence-bangkok/
-categories: []
+categories:
+- Thai
 tags:
 - bangkok
 - thai

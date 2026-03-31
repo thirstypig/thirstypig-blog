@@ -22,7 +22,8 @@ images:
 - /images/posts/a-sweet-little-wine-bar-bacaro/IMG_0875.jpg
 - /images/posts/a-sweet-little-wine-bar-bacaro/IMG_0878.jpg
 - /images/posts/a-sweet-little-wine-bar-bacaro/pf-button.gif
-categories: []
+categories:
+- Wine
 description: Bacaro’s been around for a couple of years as a quiet but cool winebar. Perhaps its because I don’t enjoy wine, is why I didn’t look for it. But lately, I have been more daring and wanting to try more
 archiveUrl: https://web.archive.org/web/20100417225856/http://www.thethirstypig.com:80/2010/04/01/a-sweet-little-wine-bar-bacaro/
 draft: false

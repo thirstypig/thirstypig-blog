@@ -17,7 +17,8 @@ description: Sul Long Tang. Korean beef stew. . . .
 location: Sul Long Tang
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

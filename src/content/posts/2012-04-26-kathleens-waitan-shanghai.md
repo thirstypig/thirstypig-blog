@@ -4,7 +4,8 @@ pubDate: '2012-04-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/26/kathleens-waitan-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

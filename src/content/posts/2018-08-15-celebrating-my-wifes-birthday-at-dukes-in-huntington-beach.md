@@ -16,7 +16,8 @@ tags:
 - prime-rib
 description: Celebrating my wife’s birthday at Duke’s in Huntington Beach. Good food and even better views with great company. Prime Rib, seafood hot pot, scallops, and Coconut shrimp. . . . .
 location: Duke’s
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

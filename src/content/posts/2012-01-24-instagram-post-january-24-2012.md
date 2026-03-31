@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2012-01-24-instagram-post-january-24-2012/17841548437049948.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — January 24, 2012](/images/posts/ig-2012-01-24-instagram-post-january-24-2012/17841548437049948.jpg)

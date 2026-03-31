@@ -22,7 +22,8 @@ images:
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0485.JPG
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0486.JPG
 - /images/posts/cracked-dungeness-crab-from-crustacean-beverly-hills/IMG_0488.JPG
-categories: []
+categories:
+- Seafood
 tags:
 - beverly-hills
 - seafood

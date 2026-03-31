@@ -4,7 +4,8 @@ pubDate: '2009-01-14'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/14/sixes-hole-in-the-wall-mexican-food/
-categories: []
+categories:
+- Uncategorized
 tags:
 - tacos
 - burritos

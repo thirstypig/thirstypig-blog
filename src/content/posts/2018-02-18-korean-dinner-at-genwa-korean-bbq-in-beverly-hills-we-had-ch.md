@@ -21,7 +21,8 @@ tags:
 description: Korean Dinner at Genwa Korean BBQ in Beverly Hills we had chapchae, kimchi pancake, beef, pork belly bbq, seolleongtang, sundubue, and tolsopbimbibap. Too much.
 location: Genwa Korean BBQ
 city: Beverly Hills
-categories: []
+categories:
+- Korean
 region: Los Angeles
 address: 170 N La Cienega Blvd, Beverly Hills, CA 90211
 coordinates:

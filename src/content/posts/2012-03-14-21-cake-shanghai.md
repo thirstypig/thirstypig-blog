@@ -4,7 +4,8 @@ pubDate: '2012-03-14'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/14/21-cake-shanghai/
-categories: []
+categories:
+- Bakery
 tags:
 - shanghai
 - bakery

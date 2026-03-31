@@ -4,7 +4,8 @@ pubDate: '2016-02-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

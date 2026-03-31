@@ -17,7 +17,8 @@ tags:
 description: Jalapeño Pepper Burger, Swiss Mushroom Burger, and the spicy pickle fries. At the tilted kilt in Anaheim
 location: Jalapeño Pepper Burger, Swiss Mushroom Burger
 city: Anaheim
-categories: []
+categories:
+- American
 region: Orange County
 cuisine:
 - American

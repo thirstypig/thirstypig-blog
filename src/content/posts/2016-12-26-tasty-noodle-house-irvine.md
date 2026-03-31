@@ -4,7 +4,8 @@ pubDate: '2016-12-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/26/tasty-noodle-house-irvine/
-categories: []
+categories:
+- Chinese
 tags:
 - irvine
 - chinese

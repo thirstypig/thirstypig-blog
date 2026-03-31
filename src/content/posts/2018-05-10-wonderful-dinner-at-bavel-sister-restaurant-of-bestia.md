@@ -23,7 +23,8 @@ tags:
 description: Wonderful dinner at Bavel, sister restaurant of Bestia. Unexpectedly refreshing Middle Eastern cuisine that we usually don’t have. We had foie gras halva and olives to start. Then we had my favorite - the Malawach flat bread. The grilled oyster mushrooms and grilled octopus was yummy. I want to reproduce the mushrooms at home, seriously. And finished off with the grilled lamb saddle chop - never had that before. Yum! Can’t wait to visit again. . .
 location: Bavel
 city: Downtown LA
-categories: []
+categories:
+- Mediterranean
 region: Los Angeles
 address: 500 Mateo St, Los Angeles, CA 90013
 coordinates:

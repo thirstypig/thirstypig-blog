@@ -9,7 +9,8 @@ images:
 - /images/posts/violets-cakes-pasadena/IMG_0655.jpg
 - /images/posts/violets-cakes-pasadena/IMG_0657.jpg
 - /images/posts/violets-cakes-pasadena/IMG_0661.jpg
-categories: []
+categories:
+- Bakery
 tags:
 - pasadena
 - bakery

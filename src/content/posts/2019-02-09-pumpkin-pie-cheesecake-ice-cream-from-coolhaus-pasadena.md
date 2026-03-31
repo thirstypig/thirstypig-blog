@@ -17,7 +17,8 @@ description: Pumpkin Pie Cheesecake Ice Cream from Coolhaus Pasadena. Unfortunat
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Dessert
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032

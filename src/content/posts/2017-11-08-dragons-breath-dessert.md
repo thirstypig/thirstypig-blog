@@ -16,7 +16,8 @@ description: Dragon’s Breath dessert. Light popcorn puffs in cold liquid nitro
 location: Dragon’s Breath dessert
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

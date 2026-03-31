@@ -21,7 +21,8 @@ images:
 - /images/posts/breakfast-at-bottega-louie/IMG_0791.jpg
 - /images/posts/breakfast-at-bottega-louie/IMG_0792.jpg
 - /images/posts/breakfast-at-bottega-louie/IMG_0793.jpg
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

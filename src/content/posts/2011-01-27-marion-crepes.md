@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/27/marion-crepes/
 heroImage: /images/posts/marion-crepes/Marion-Crepes-Seoul-18-88x88.jpg
 images:
 - /images/posts/marion-crepes/Marion-Crepes-Seoul-18-88x88.jpg
-categories: []
+categories:
+- Fusion
 tags:
 - seoul
 - fusion

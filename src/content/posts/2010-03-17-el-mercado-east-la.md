@@ -21,7 +21,8 @@ images:
 - /images/posts/el-mercado-east-la/IMG_0746.jpg
 - /images/posts/el-mercado-east-la/IMG_0747.jpg
 - /images/posts/el-mercado-east-la/IMG_0751.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - east-la
 - mexican

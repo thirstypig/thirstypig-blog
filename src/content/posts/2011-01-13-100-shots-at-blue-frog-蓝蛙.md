@@ -4,7 +4,8 @@ pubDate: '2011-01-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/13/100-shots-at-blue-frog-%E8%93%9D%E8%9B%99/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

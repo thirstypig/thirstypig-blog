@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2017-11-11-instagram-post-november-11-2017/17907500260056432.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — November 11, 2017](/images/posts/ig-2017-11-11-instagram-post-november-11-2017/17907500260056432.jpg)

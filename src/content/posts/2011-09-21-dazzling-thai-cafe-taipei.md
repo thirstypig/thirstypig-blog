@@ -19,7 +19,8 @@ images:
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-28-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-29-494x370.jpg
 - /images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-35-494x370.jpg
-categories: []
+categories:
+- Cafe
 description: An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool l
 archiveUrl: https://web.archive.org/web/20111014113248/http://www.thethirstypig.com/2011/09/21/dazzling-thai-cafe-taipei/
 draft: false

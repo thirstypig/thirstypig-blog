@@ -4,7 +4,8 @@ pubDate: '2012-05-25'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2012/05/25/julienne-pasadena/
-categories: []
+categories:
+- French
 description: Click on the Pictures Above to enlarge
 archiveUrl: https://web.archive.org/web/20121215070741/http://www.thethirstypig.com:80/2012/05/25/julienne-pasadena/
 draft: false

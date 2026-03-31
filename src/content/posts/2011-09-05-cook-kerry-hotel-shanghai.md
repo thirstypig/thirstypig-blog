@@ -4,7 +4,8 @@ pubDate: '2011-09-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

@@ -16,7 +16,8 @@ tags:
 description: Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯. Cluck2go has locations in Pasadena, Rowland Heights and Hacienda Heights. They portion is one of the larger ones among the ones I will post. One of the things that make the Hainan Chicken rice unique is that most places serve the chicken boneless, which is great! I also like how all servings include the popping hot and flavorful chicken broth. . . . . . .
 location: 21 Choices
 city: Pasadena
-categories: []
+categories:
+- Chinese
 region: San Gabriel Valley
 address: 44 N Fair Oaks Ave (at E Union St), Pasadena, CA 91103
 coordinates:

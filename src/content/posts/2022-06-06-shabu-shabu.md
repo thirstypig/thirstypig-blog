@@ -4,9 +4,13 @@ pubDate: 2022-06-06 00:00:00+00:00
 description: Shabu Shabu. All-You-Can-Eat at Kushi Shabu in DTLA little Tokyo. Haven’t Ben to Kushi in years. Had a great time. Great service. Would go again. And recommend. . . . . . .
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2022-06-06-shabu-shabu/17896104665546195.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - los-angeles
+- japanese
+- shabu-shabu
+- all-you-can-eat
 location: Kushi Shabu Restaurant
 city: Los Angeles
 region: CA
@@ -21,6 +25,8 @@ images:
 - /images/posts/ig-2022-06-06-shabu-shabu/17966759986719290.jpg
 source: instagram
 draft: false
+cuisine:
+- Japanese
 ---
 
 ![Shabu Shabu](/images/posts/ig-2022-06-06-shabu-shabu/17896104665546195.jpg)

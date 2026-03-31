@@ -4,7 +4,8 @@ pubDate: '2011-07-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/17/chia-te-bakery-%e4%bd%b3%e5%be%b7%e9%b3%b3%e6%a2%a8%e9%85%a5-taipei/
-categories: []
+categories:
+- Bakery
 tags:
 - taipei
 - bakery

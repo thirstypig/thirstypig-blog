@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2009/04/22/late-night-yummies-jj-cafe/
 heroImage: /images/posts/late-night-yummies-jj-cafe/IMG_0410.JPG
 images:
 - /images/posts/late-night-yummies-jj-cafe/IMG_0410.JPG
-categories: []
+categories:
+- Chinese
 description: JJ Cafe is your typical Monterey Park/Alhambra Cantonese late night cafe. You might have tried Garden Cafe, ABC, Sunday Bistro, and others. They all serve similar items on their menus. JJ’s features s
 archiveUrl: https://web.archive.org/web/20110105162716/http://www.thethirstypig.com/2009/04/22/late-night-yummies-jj-cafe/
 draft: false

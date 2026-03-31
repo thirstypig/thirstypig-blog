@@ -15,7 +15,8 @@ tags:
 - los-angeles
 - beer
 description: Enjoying a dodger win on a nice summer night! Great tee shirt on Japan Night 🇯🇵 was eyeing the Los Doyers tee shirt, too. . . . . .
-categories: []
+categories:
+- Uncategorized
 city: Los Angeles
 cuisine: []
 ---

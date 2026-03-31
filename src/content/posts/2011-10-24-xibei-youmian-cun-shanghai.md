@@ -4,7 +4,8 @@ pubDate: '2011-10-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/24/xibei-youmian-cun-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

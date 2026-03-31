@@ -19,7 +19,8 @@ tags:
 description: Beer can chicken, OG Ribs, kale salad, and popcorn. The chicken was nice and crispy without heavy flour type fried chicken. Salad was refreshing and acidic - good with the chicken.
 location: Venice Canals
 city: Venice
-categories: []
+categories:
+- BBQ
 region: Los Angeles
 address: Dell Ave (at Howland Canal), Venice, CA 90291
 coordinates:

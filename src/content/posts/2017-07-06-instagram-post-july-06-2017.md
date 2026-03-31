@@ -17,7 +17,8 @@ tags:
 location: Big Ez Seafood
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

@@ -4,7 +4,8 @@ pubDate: '2012-04-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/04/04/yuzu-%e6%9f%9a-%e6%97%a5%e5%bc%8f%e9%a4%90%e5%8e%85-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

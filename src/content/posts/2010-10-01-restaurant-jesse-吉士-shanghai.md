@@ -4,7 +4,8 @@ pubDate: '2010-10-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/01/restaurant-jesse-%e5%90%89%e5%a3%ab-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

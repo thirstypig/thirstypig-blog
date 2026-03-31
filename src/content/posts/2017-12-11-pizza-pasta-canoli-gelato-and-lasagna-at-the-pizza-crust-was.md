@@ -20,7 +20,8 @@ tags:
 - pizza
 - pasta
 description: 'Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but a little greasy in the middle. The Lasagna was pleasantly better than expected. The meat sauce was good. Ate too much. Suggestion: Go early to avoid the crowds and waits'
-categories: []
+categories:
+- Italian
 location: Eataly
 city: Los Angeles
 region: Los Angeles

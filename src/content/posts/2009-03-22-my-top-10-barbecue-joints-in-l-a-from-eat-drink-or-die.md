@@ -4,7 +4,8 @@ pubDate: '2009-03-22'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/03/22/my-top-10-barbecue-joints-in-l-a-from-eat-drink-or-die/
-categories: []
+categories:
+- BBQ
 tags:
 - los-angeles
 - bbq

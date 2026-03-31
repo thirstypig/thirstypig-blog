@@ -4,7 +4,8 @@ pubDate: '2010-05-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/16/fu-tai-shandong-steamed-dumpling-king%e7%a6%8f%e5%a4%a7%e5%b1%b1%e6%9d%b1%e8%92%b8%e9%a4%83%e5%a4%a7%e7%8e%8b-taipei/
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

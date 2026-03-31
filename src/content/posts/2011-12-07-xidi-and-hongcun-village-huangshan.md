@@ -4,7 +4,8 @@ pubDate: '2011-12-07'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/07/xidi-and-hongcun-village-huangshan/
-categories: []
+categories:
+- Uncategorized
 description: The ancient villages of Xidi 西递 and Hongcun 宏村, located nearby Huangshan Yellow Mountain, Anhui, China, feature great historic buildings of Chinese culture. Only about an hour’s flight away from Shang
 archiveUrl: https://web.archive.org/web/20120116080550/http://www.thethirstypig.com:80/2011/12/07/xidi-and-hongcun-village-huangshan/
 draft: false

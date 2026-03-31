@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/04/12/joy-hing-roasted-meat-%e5%8
 heroImage: /images/posts/joy-hing-roasted-meat-再興燒臘飯店-wan-chai-hong-kong/BBQ-Pork-HKG-03-188x188.jpg
 images:
 - /images/posts/joy-hing-roasted-meat-再興燒臘飯店-wan-chai-hong-kong/BBQ-Pork-HKG-03-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

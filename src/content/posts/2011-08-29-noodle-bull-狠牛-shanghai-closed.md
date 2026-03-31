@@ -4,7 +4,8 @@ pubDate: '2011-08-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/
-categories: []
+categories:
+- Taiwanese
 tags:
 - shanghai
 - taiwanese

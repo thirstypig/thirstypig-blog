@@ -4,7 +4,8 @@ pubDate: '2017-01-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
-categories: []
+categories:
+- American
 tags:
 - oakland
 - american

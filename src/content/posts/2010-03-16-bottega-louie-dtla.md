@@ -4,7 +4,8 @@ pubDate: '2010-03-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/16/bottega-louie-dtla/
-categories: []
+categories:
+- Italian
 tags:
 - dtla
 - italian

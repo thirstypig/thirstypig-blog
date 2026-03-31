@@ -15,7 +15,8 @@ tags:
 description: BBQ at in we had pork ribs, moist beef brisket, beef rib ends, shredded pork, corn bread, collard greens, and baked beans. So much food. I dig the brisket, baked beans, collard greens, and pork ribs.
 location: Electric Dusk Drive-In
 city: Hollywood
-categories: []
+categories:
+- BBQ
 region: Los Angeles
 address: 1000 San Julian St (11th St), Los Angeles, CA 90015
 coordinates:

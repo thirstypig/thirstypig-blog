@@ -4,7 +4,8 @@ pubDate: '2017-03-15'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/03/15/nice-time-cafe-%e5%a5%bd%e5%b9%b4%e5%86%ac-mpk/
-categories: []
+categories:
+- Taiwanese
 tags:
 - mpk
 - taiwanese

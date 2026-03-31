@@ -15,7 +15,8 @@ description: Happy hour grub
 location: Happy Feet Massage
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Uncategorized
 address: 257 E Colorado Blvd (Marengo), Pasadena, CA 91101
 coordinates:
   lat: 34.146084

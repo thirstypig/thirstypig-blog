@@ -5,7 +5,8 @@ pubDate: '2009-10-09'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/09/asia-de-cuba-hollywood-closed/
-categories: []
+categories:
+- Uncategorized
 tags:
 - hollywood
 archiveUrl: https://web.archive.org/web/20160828103429/http://thirstypig.com/2009/10/09/asia-de-cuba-hollywood-closed/

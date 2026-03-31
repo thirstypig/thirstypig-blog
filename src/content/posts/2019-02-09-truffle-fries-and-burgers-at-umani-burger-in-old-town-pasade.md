@@ -20,7 +20,8 @@ description: Truffle Fries and burgers at Umani Burger in Old Town Pasadena. We 
 location: Pie 'n Burger
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 address: 913 E California Blvd (at Lake Ave), Pasadena, CA 91106
 coordinates:
   lat: 34.135996

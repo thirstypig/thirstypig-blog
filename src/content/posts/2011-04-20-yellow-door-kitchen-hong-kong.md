@@ -22,7 +22,8 @@ images:
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-09-188x188.jpg
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-09-494x370.jpg
 - /images/posts/yellow-door-kitchen-hong-kong/Yellow-Door-Kitchen-HKG-10-188x188.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

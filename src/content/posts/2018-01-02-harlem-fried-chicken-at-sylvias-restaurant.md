@@ -22,7 +22,8 @@ address: 9 9th Ave (Little W 12th), New York, NY 10014
 coordinates:
   lat: 40.73985
   lng: -74.00639
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

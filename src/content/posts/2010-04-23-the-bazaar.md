@@ -4,7 +4,8 @@ pubDate: '2010-04-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com:80/2010/04/23/the-bazaar/
-categories: []
+categories:
+- Spanish
 tags:
 - beverly-hills
 - spanish

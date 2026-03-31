@@ -16,7 +16,8 @@ images:
 - /images/posts/the-spicy-kiki-taipei/kiki-6-88x88.jpg
 - /images/posts/the-spicy-kiki-taipei/kiki-7-88x88.jpg
 - /images/posts/the-spicy-kiki-taipei/kiki-9-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

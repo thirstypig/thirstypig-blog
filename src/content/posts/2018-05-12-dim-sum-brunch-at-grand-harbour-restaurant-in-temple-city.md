@@ -29,7 +29,8 @@ address: 5733 Rosemead Blvd (Las Tunas Dr), Temple City, CA 91780
 coordinates:
   lat: 34.104049
   lng: -118.075451
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

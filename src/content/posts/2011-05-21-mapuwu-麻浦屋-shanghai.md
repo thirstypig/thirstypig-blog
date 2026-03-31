@@ -4,7 +4,8 @@ pubDate: '2011-05-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
-categories: []
+categories:
+- Bakery
 tags:
 - shanghai
 - bakery

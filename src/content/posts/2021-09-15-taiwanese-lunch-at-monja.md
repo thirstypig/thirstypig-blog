@@ -24,7 +24,8 @@ address: 1756 Nogales St (at Colima Rd.), Rowland Heights, CA 91748
 coordinates:
   lat: 33.986516
   lng: -117.888214
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

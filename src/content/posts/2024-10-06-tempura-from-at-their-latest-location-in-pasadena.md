@@ -15,15 +15,21 @@ images:
 - /images/posts/ig-2024-10-06-tempura-from-at-their-latest-location-in-pasadena/18045226673302966.jpg
 tags:
 - pasadena
+- japanese
+- tempura
+- noodles
 description: Tempura from at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay location and this place does not disappointment either. Would gladly visit again, just hopefully without a line. . . .
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032
   lng: -118.145536
+cuisine:
+- Japanese
 ---
 
 ![Tempura from at their latest location in Pasadena](/images/posts/ig-2024-10-06-tempura-from-at-their-latest-location-in-pasadena/17878898190154027.jpg)

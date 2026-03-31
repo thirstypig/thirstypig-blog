@@ -8,7 +8,8 @@ heroImage: /images/posts/good-food-bad-parking-grub/02162007706.jpg
 images:
 - /images/posts/good-food-bad-parking-grub/02162007706.jpg
 - /images/posts/good-food-bad-parking-grub/02162007707.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

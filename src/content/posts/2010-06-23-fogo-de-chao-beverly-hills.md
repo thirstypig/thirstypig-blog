@@ -4,7 +4,8 @@ pubDate: '2010-06-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/23/fogo-de-chao-beverly-hills/
-categories: []
+categories:
+- BBQ
 tags:
 - beverly-hills
 - bbq

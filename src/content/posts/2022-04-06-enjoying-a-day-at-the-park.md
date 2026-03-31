@@ -13,7 +13,9 @@ tags:
 description: Enjoying a day at the park. Watching a preseason game at Angel Stadium - Dodgers vs the Angels. Good times. . . . . .
 city: Anaheim
 region: Orange County
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Enjoying a day at the park](/images/posts/ig-2022-04-06-enjoying-a-day-at-the-park/17905340147443510.jpg)

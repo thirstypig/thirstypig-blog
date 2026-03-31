@@ -11,10 +11,15 @@ images:
 - /images/posts/ig-2024-04-01-barbecue-at-had-the-fatty-beef-brisket-bbq-pork-belly-char-s/18058774096496480.jpg
 - /images/posts/ig-2024-04-01-barbecue-at-had-the-fatty-beef-brisket-bbq-pork-belly-char-s/18339533044129503.jpg
 - /images/posts/ig-2024-04-01-barbecue-at-had-the-fatty-beef-brisket-bbq-pork-belly-char-s/18043912867671061.jpg
-tags: []
+tags:
+- bbq
+- brisket
 description: Barbecue at Had the fatty beef brisket, bbq pork belly char siu, roast pork belly siu yuk, pork ribs, dirty rice, and mapo chili. Went with my fellow bbq judges. Big thanks to for setting it up! Glad we got there early, thank goodness for the rain, and the time change - or else we would have had to wait forever. I recommend the brisket - fatty, the roast pork belly siu yuk (if they didn't give me the burnt parts), dirty rice, and the mapo chili (which could have had more sichuan pepper corn seasoning). I'd visit again to try the beef ribs and chicken and might recommend if you're in the area. . . . .
 location: Had the fatty beef brisket
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Barbecue at Had the fatty beef brisket, bbq pork belly char siu, roast pork ...](/images/posts/ig-2024-04-01-barbecue-at-had-the-fatty-beef-brisket-bbq-pork-belly-char-s/18410253916067111.jpg)

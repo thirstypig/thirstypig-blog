@@ -23,7 +23,8 @@ address: 1969 S Vermont Ave (btwn Cordova St & W 20th St), Los Angeles, CA 90007
 coordinates:
   lat: 34.038428
   lng: -118.291768
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

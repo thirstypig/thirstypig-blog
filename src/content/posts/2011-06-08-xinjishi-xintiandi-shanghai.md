@@ -4,7 +4,8 @@ pubDate: '2011-06-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/06/08/xinjishi-xintiandi-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

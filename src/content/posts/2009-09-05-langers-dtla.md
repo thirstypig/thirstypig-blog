@@ -4,7 +4,8 @@ pubDate: '2009-09-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/05/langers-dtla/
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

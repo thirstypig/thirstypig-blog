@@ -14,7 +14,8 @@ images:
 - /images/posts/shanghai-uncle/IMG_1752-185x185.jpg
 - /images/posts/shanghai-uncle/IMG_1753-185x185.jpg
 - /images/posts/shanghai-uncle/IMG_1753-300x225.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

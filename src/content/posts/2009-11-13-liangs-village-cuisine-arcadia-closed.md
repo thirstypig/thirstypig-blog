@@ -4,7 +4,8 @@ pubDate: '2009-11-13'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
-categories: []
+categories:
+- Taiwanese
 tags:
 - arcadia
 - taiwanese

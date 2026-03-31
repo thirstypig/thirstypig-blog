@@ -18,7 +18,8 @@ tags:
 description: My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese.
 location: The Eli & Edythe Broad Stage
 city: Santa Monica
-categories: []
+categories:
+- American
 region: Los Angeles
 address: 1310 11th St, Santa Monica, CA 90401
 coordinates:

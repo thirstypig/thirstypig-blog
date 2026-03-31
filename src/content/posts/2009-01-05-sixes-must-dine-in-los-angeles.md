@@ -4,7 +4,8 @@ pubDate: '2009-01-05'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/01/05/sixes-must-dine-in-los-angeles/
-categories: []
+categories:
+- Uncategorized
 tags:
 - los-angeles
 - restaurants

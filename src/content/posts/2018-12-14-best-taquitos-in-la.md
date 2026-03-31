@@ -17,7 +17,8 @@ description: Best Taquitos in LA! Cielito Lindo on Olvera Street. . . .
 location: Best Taquitos in LA
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

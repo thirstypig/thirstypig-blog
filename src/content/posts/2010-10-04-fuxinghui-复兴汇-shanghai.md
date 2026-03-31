@@ -4,7 +4,8 @@ pubDate: '2010-10-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/10/04/fuxinghui-%e5%a4%8d%e5%85%b4%e6%b1%87-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

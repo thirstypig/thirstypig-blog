@@ -4,7 +4,8 @@ pubDate: '2010-04-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/
-categories: []
+categories:
+- Italian
 tags:
 - mpk
 - italian

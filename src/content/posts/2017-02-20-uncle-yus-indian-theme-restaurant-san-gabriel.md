@@ -4,7 +4,8 @@ pubDate: '2017-02-20'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/20/uncle-yus-indian-theme-restaurant-san-gabriel/
-categories: []
+categories:
+- Taiwanese
 tags:
 - san-gabriel
 - taiwanese

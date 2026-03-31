@@ -4,7 +4,8 @@ pubDate: '2009-10-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/
-categories: []
+categories:
+- Indian
 tags:
 - alhambra
 - indian

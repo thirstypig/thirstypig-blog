@@ -17,7 +17,8 @@ description: Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nu
 location: Lunch at Summer Rolls
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

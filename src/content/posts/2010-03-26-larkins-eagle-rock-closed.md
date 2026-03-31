@@ -4,7 +4,8 @@ pubDate: '2010-03-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/
-categories: []
+categories:
+- American
 tags:
 - eagle-rock
 - american

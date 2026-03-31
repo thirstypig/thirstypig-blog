@@ -9,7 +9,8 @@ images:
 - /images/posts/oc-foodie-fest/IMG_1675-494x370.jpg
 - /images/posts/oc-foodie-fest/IMG_1677-494x370.jpg
 - /images/posts/oc-foodie-fest/IMG_1684-494x370.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - tacos
 - bbq

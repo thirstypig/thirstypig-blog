@@ -19,7 +19,8 @@ tags:
 - pastries
 description: Our favorite bakery in Berkeley- Acme Bread Co. . . . 🥐
 location: Our favorite bakery in Berkeley- Acme Bread Co
-categories: []
+categories:
+- Bakery
 cuisine:
 - Bakery
 ---

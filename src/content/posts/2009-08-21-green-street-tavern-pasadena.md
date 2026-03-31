@@ -4,7 +4,8 @@ pubDate: '2009-08-21'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

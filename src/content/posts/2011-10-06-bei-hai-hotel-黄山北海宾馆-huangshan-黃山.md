@@ -4,7 +4,8 @@ pubDate: '2011-10-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/
-categories: []
+categories:
+- Multi
 tags:
 - huangshan
 - multi

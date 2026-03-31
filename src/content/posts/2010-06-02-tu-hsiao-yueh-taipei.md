@@ -23,7 +23,8 @@ images:
 - /images/posts/tu-hsiao-yueh-taipei/TSY-7-menu-88x88.jpg
 - /images/posts/tu-hsiao-yueh-taipei/TSY-8-menu-88x88.jpg
 - /images/posts/tu-hsiao-yueh-taipei/TSY-9-lu-ro-fan-88x88.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

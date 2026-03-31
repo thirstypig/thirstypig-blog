@@ -4,7 +4,8 @@ pubDate: '2012-03-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/25/lohasly-cafe-shop-shanghai/
-categories: []
+categories:
+- Coffee
 tags:
 - shanghai
 - coffee

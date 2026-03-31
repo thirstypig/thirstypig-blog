@@ -1,5 +1,5 @@
 ---
-title: NuWu Cannabis Marketplace, Las Vegas
+title: Maker's Mark Distillery, Louisville
 pubDate: '2022-11-23'
 author: The Thirsty Pig
 source: instagram
@@ -17,6 +17,8 @@ images:
 - /images/posts/ig-2022-11-23-makers-mark-distillery/18167113147249921.jpg
 tags:
 - las-vegas
+- whiskey
+- distillery
 description: Maker’s Mark Distillery. Arguably the best distillery we visited. This is what we expected when we visited Louisville and Kentucky - Americana at its best. They had Christmas decorations and lots of h
 location: NuWu Cannabis Marketplace
 city: Las Vegas
@@ -25,7 +27,9 @@ address: 1235 Paiute Circle (Main & Washington), Las Vegas, NV 89106
 coordinates:
   lat: 36.184391
   lng: -115.139908
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Maker’s Mark Distillery](/images/posts/ig-2022-11-23-makers-mark-distillery/18267658375096017.jpg)

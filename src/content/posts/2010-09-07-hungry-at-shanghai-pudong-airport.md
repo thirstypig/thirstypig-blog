@@ -31,7 +31,8 @@ images:
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-131-188x141.jpg
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-141-188x141.jpg
 - /images/posts/hungry-at-shanghai-pudong-airport/Shanghai-Pudong-Airport-141-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'

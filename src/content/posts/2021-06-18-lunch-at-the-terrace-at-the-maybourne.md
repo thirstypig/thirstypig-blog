@@ -23,7 +23,8 @@ address: 225 N Canon Dr, Beverly Hills, CA 90210
 coordinates:
   lat: 34.068136
   lng: -118.398666
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -4,7 +4,8 @@ pubDate: '2009-12-04'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/04/gorbals-dtla-closed/
-categories: []
+categories:
+- Scottish
 tags:
 - dtla
 - scottish

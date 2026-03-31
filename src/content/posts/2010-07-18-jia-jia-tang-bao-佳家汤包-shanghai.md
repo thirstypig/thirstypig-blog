@@ -4,7 +4,8 @@ pubDate: '2010-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/18/jia-jia-tang-bao-%e4%bd%b3%e5%ae%b6%e6%b1%a4%e5%8c%85-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -4,7 +4,8 @@ pubDate: '2011-07-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/07/18/mayan-grill-taipei-closed/
-categories: []
+categories:
+- Mexican
 tags:
 - taipei
 - mexican

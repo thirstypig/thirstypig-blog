@@ -20,7 +20,8 @@ description: Great Breakfast Tacos
 location: Paco's Tacos
 city: Austin
 region: Texas
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

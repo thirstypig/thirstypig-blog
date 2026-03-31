@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/10/06/side-chick-arcadia/
 heroImage: /images/posts/side-chick-arcadia/IMG_0460.jpg
 images:
 - /images/posts/side-chick-arcadia/IMG_0460.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - arcadia
 - chinese

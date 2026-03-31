@@ -4,7 +4,8 @@ pubDate: '2010-03-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/03/30/mambos-cafe-glendale/
-categories: []
+categories:
+- Colombian
 tags:
 - glendale
 - colombian

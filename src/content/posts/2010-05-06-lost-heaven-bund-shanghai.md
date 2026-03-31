@@ -4,7 +4,8 @@ pubDate: '2010-05-06'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/06/lost-heaven-bund-shanghai/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

@@ -4,7 +4,8 @@ pubDate: '2011-01-17'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/01/17/insadong-of-seoul-%EC%9D%B8%EC%82%AC%EB%8F%99/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 - afternoon-tea

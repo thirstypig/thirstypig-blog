@@ -4,7 +4,8 @@ pubDate: '2016-12-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/01/chego-chinatown-la/
-categories: []
+categories:
+- Chinese
 tags:
 - chinatown
 - chinese

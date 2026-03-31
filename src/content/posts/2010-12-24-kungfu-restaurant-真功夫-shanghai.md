@@ -4,7 +4,8 @@ pubDate: '2010-12-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/24/kungfu-restaurant-%e7%9c%9f%e5%8a%9f%e5%a4%ab-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

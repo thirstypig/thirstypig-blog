@@ -18,7 +18,8 @@ tags:
 description: Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ. Average Thai American restaurant. Noodles were too chewy and the chicken was tough. Not sure if there was suppose to be lemongrass, which was absent. Pretty sure I won’t return. Looks like like they were solid with their fried rice - which other patrons were ordering. Also, the majority of their menu was American style single plates. . . .
 location: Honey's Kettle Fried Chicken
 city: Culver City
-categories: []
+categories:
+- Fusion
 region: Los Angeles
 address: 9537 Culver Blvd, Culver City, CA 90232
 coordinates:

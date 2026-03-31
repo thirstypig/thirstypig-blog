@@ -9,7 +9,8 @@ images:
 - /images/posts/buca-di-beppo-pasadena/IMG_0638.jpg
 - /images/posts/buca-di-beppo-pasadena/IMG_0645.jpg
 - /images/posts/buca-di-beppo-pasadena/psb-49.jpg
-categories: []
+categories:
+- Italian
 tags:
 - pasadena
 - italian

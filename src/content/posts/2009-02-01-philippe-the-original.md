@@ -4,7 +4,8 @@ pubDate: '2009-02-01'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2009/02/01/philippe-the-original/
-categories: []
+categories:
+- American
 tags:
 - chinatown
 - american

@@ -12,6 +12,9 @@ images:
 - /images/posts/ig-2022-01-09-vegan-mexican/17934962587781153.jpg
 tags:
 - weho
+- mexican
+- flautas
+- tacos
 description: Vegan Mexican. Potato pimento flautas, enchiladas verdes, and jack fruit carnitas tacos. . . . . . .
 location: Tasco Mexican Restaurant
 city: West Hollywood
@@ -20,7 +23,10 @@ address: 1113 N Harper Ave, West Hollywood, CA 90046
 coordinates:
   lat: 34.091152
   lng: -118.369133
-categories: []
+categories:
+- Mexican
+cuisine:
+- Mexican
 ---
 
 ![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/18123568900255465.jpg)

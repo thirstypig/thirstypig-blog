@@ -17,7 +17,8 @@ tags:
 - hot-pot
 - sichuan
 description: Sichuan Hotpot 四川火鍋. Very good very spicy. Lamb, Beef, and beef meatballs. Could have ordered more veggies.
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

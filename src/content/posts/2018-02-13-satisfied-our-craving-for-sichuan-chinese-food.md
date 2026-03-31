@@ -23,7 +23,8 @@ address: 724 S Spring St, Los Angeles, CA 90014
 coordinates:
   lat: 34.043999
   lng: -118.252716
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

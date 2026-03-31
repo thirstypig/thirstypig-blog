@@ -4,7 +4,8 @@ pubDate: '2011-08-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/08/08/xiao-san-tang-shanghai/
-categories: []
+categories:
+- Chinese
 description: Xiao San Tang is a nice little cafe with a Chinese menu with a touch of whimsy, a western ideal, and just the right amount of elegances.
 archiveUrl: https://web.archive.org/web/20111104114517/http://www.thethirstypig.com/2011/08/08/xiao-san-tang-shanghai/
 draft: false

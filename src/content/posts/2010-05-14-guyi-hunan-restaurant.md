@@ -16,7 +16,8 @@ images:
 - /images/posts/guyi-hunan-restaurant/GUYI-Hunan-Restaurant-8-rice-185x185.jpg
 - /images/posts/guyi-hunan-restaurant/GUYI-Hunan-Restaurant-8-rice-300x225.jpg
 - /images/posts/guyi-hunan-restaurant/GUYI-Hunan-Restaurant-9-hot-pot-chicken-185x185.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - chinese
 - hunan

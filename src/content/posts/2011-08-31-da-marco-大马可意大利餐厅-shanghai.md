@@ -4,7 +4,8 @@ pubDate: '2011-08-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/08/31/da-marco-%e5%a4%a7%e9%a9%ac%e5%8f%af%e6%84%8f%e5%a4%a7%e5%88%a9%e9%a4%90%e5%8e%85-shanghai/
-categories: []
+categories:
+- Italian
 tags:
 - shanghai
 - italian

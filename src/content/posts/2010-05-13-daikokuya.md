@@ -15,7 +15,8 @@ images:
 - /images/posts/daikokuya/IMG_1436-185x185.jpg
 - /images/posts/daikokuya/IMG_1438-185x185.jpg
 - /images/posts/daikokuya/IMG_1439-185x185.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - dtla
 - japanese

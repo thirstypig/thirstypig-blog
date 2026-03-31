@@ -23,7 +23,8 @@ description: Dinner with family at (I love this name!). we had a Triple Fried Du
 location: Salty Sow
 city: Austin
 region: Texas
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

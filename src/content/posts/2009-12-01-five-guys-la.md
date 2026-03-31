@@ -4,7 +4,8 @@ pubDate: '2009-12-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/12/01/five-guys-la/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

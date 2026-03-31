@@ -19,7 +19,8 @@ description: Yet another Hainan Chicken dish, this time from Side Chick in Arcad
 location: Chicken Now
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 400 S Baldwin Ave (at Westfield Santa Anita), Arcadia, CA 91007
 coordinates:
   lat: 34.135286

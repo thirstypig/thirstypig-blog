@@ -4,7 +4,8 @@ pubDate: '2012-05-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/01/my-kitchen-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

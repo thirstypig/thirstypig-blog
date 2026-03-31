@@ -9,7 +9,8 @@ images:
 - /images/posts/johnny-rockets/IMG_0665.jpg
 - /images/posts/johnny-rockets/IMG_0666.jpg
 - /images/posts/johnny-rockets/IMG_0668.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

@@ -4,11 +4,15 @@ pubDate: 2026-03-18 00:00:00+00:00
 description: Diamond Jim Cut at Lawry’s The Prime Rib the Yorkshire pudding, creamed corn, and cream spinach. Great meal. It’s had been a minute since I was last here. I’m hope next time isn’t as long.
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-18-diamond-jim-cut-at-lawrys-the-prime-rib-the-yorkshire-puddin/18164789977418408.jpg
-categories: []
+categories:
+- American
 tags:
 - beverly-hills
+- american
+- prime-rib
+- steak
 cuisine:
-- steakhouse
+- American
 location: Lawry's The Prime Rib
 city: Beverly Hills
 region: Los Angeles

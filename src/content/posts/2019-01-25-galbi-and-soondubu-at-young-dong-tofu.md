@@ -21,7 +21,8 @@ description: Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grill
 location: Young Dong Tofu
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

@@ -18,7 +18,8 @@ description: Grilled Shrimp bowl from says the grilled shrimp was really good.
 location: Park's BBQ
 city: Koreatown
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

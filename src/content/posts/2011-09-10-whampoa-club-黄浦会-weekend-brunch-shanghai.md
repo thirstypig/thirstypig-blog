@@ -4,7 +4,8 @@ pubDate: '2011-09-10'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/09/10/whampoa-club-%e9%bb%84%e6%b5%a6%e4%bc%9a-weekend-brunch-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -18,7 +18,8 @@ description: Tonkotsu ramen at King of Ramen. Pork and soft boiled egg was reall
 location: King of Ramen
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

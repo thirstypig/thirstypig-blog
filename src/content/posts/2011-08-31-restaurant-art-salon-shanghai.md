@@ -4,7 +4,8 @@ pubDate: '2011-08-31'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/08/31/restaurant-art-salon-shanghai/
-categories: []
+categories:
+- Chinese
 description: Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features ori
 archiveUrl: https://web.archive.org/web/20111123073642/http://www.thethirstypig.com/2011/08/31/restaurant-art-salon-shanghai/
 draft: false

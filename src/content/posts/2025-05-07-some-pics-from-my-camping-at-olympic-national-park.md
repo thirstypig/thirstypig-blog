@@ -26,7 +26,9 @@ address: 100 N Central Ave (at E First St), Los Angeles, CA 90012
 coordinates:
   lat: 34.049349
   lng: -118.238642
-categories: []
+categories:
+- Uncategorized
+cuisine: []
 ---
 
 ![Some pics from my camping at Olympic National Park](/images/posts/ig-2025-05-07-some-pics-from-my-camping-at-olympic-national-park/18036570578320284.jpg)

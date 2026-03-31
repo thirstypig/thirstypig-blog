@@ -17,7 +17,8 @@ description: Cold and hot desserts at Blackball Desserts. But quite pricey. $7+ 
 location: Blackball Desserts
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

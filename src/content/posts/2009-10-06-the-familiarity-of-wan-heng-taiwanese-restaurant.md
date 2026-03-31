@@ -13,7 +13,8 @@ images:
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0892.jpg
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0894.jpg
 - /images/posts/the-familiarity-of-wan-heng-taiwanese-restaurant/IMG_0896.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - san-gabriel
 - taiwanese

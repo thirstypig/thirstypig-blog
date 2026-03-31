@@ -4,7 +4,8 @@ pubDate: '2009-09-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/17/marstons-pasadena/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

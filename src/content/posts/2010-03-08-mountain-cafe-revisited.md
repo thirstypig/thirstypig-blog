@@ -13,7 +13,8 @@ images:
 - /images/posts/mountain-cafe-revisited/IMG_0631.jpg
 - /images/posts/mountain-cafe-revisited/IMG_0633.jpg
 - /images/posts/mountain-cafe-revisited/IMG_0635.jpg
-categories: []
+categories:
+- Korean
 tags:
 - koreatown
 - korean

@@ -15,7 +15,8 @@ tags:
 - meatloaf
 description: Reuben and meatloaf at the am LA institution - unfortunately the Reuben (grislely) and meatloaf (carrots undercooked) was so-so. I should have gotten a simple breakfast.
 location: Du-par's
-categories: []
+categories:
+- American
 city: Los Angeles
 region: Los Angeles
 address: 6333 W 3rd St (at Fairfax Ave), Los Angeles, CA 90036

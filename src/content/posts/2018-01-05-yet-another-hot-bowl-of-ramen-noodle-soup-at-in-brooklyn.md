@@ -23,7 +23,8 @@ address: 286 8th Ave (btwn W 24th & W 25th St), New York, NY 10001
 coordinates:
   lat: 40.746119
   lng: -73.9977
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

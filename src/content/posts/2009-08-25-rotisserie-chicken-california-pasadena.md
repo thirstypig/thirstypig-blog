@@ -4,7 +4,8 @@ pubDate: '2009-08-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/25/rotisserie-chicken-california-pasadena/
-categories: []
+categories:
+- American
 tags:
 - pasadena
 - american

@@ -19,7 +19,8 @@ description: Looks may be deceiving. Had a really bad meal at May’s Chinese Re
 location: Best Carpet Care
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Fusion
 address: 118 San Miguel Dr, Arcadia, CA 91007
 coordinates:
   lat: 34.141183

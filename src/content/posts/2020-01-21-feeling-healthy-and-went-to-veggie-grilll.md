@@ -21,7 +21,8 @@ address: 6374-A Sunset Boulevard (at Ivar Ave), Hollywood, CA 90028
 coordinates:
   lat: 34.097857
   lng: -118.328483
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

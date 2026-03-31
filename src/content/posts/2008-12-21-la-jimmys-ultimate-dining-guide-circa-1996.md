@@ -11,7 +11,8 @@ images:
 - /images/posts/la-jimmys-ultimate-dining-guide-circa-1996/96.japanese.jpg
 - /images/posts/la-jimmys-ultimate-dining-guide-circa-1996/96.korean.jpg
 - /images/posts/la-jimmys-ultimate-dining-guide-circa-1996/96.menu.jpg
-categories: []
+categories:
+- Uncategorized
 description: I started writing about food in 1996 with my first website – LA Jimmy’s Ultimate Dining Guide. This was when I first worked for a short lived Internet firm in Los Angeles – Emagine Studios. This foray
 archiveUrl: https://web.archive.org/web/20110105194217/http://www.thethirstypig.com/2008/12/21/la-jimmys-ultimate-dining-guide-circa-1996/
 draft: false

@@ -21,7 +21,8 @@ description: Steam Pork Soup Dumplings at Din Tai Fung. 鼎泰豐的小籠包. B
 location: Din Tai Fung
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

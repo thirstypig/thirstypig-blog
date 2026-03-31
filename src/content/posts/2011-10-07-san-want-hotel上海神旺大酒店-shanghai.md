@@ -4,7 +4,8 @@ pubDate: '2011-10-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/07/san-want-hotel%e4%b8%8a%e6%b5%b7%e7%a5%9e%e6%97%ba%e5%a4%a7%e9%85%92%e5%ba%97-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

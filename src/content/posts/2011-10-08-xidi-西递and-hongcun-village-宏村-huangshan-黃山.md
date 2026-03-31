@@ -4,7 +4,8 @@ pubDate: '2011-10-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/08/xidi-%e8%a5%bf%e9%80%92and-hongcun-village-%e5%ae%8f%e6%9d%91-huangshan-%e9%bb%83%e5%b1%b1/
-categories: []
+categories:
+- Uncategorized
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106040224/http://thirstypig.com/2011/10/08/xidi-%e8%a5%bf%e9%80%92and-hongcun-village-%e5%ae%8f%e6%9d%91-huangshan-%e9%bb%83%e5%b1%b1/
 draft: false

@@ -21,7 +21,8 @@ tags:
 description: Getty Villa - a few interesting pieces.
 location: Kristy's Village Cafe
 city: Malibu
-categories: []
+categories:
+- Uncategorized
 region: Los Angeles
 address: 30745 Pacific Coast Hwy Bldg B, Malibu, CA 90265
 coordinates:

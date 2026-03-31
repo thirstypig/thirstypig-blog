@@ -9,7 +9,8 @@ images:
 - /images/posts/magic-dumplings-din-tai-fung/12172006490.jpg
 - /images/posts/magic-dumplings-din-tai-fung/12172006492.jpg
 - /images/posts/magic-dumplings-din-tai-fung/12172006494.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - arcadia
 - chinese

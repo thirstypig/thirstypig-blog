@@ -9,7 +9,8 @@ images:
 - /images/posts/breakfast-gem-in-mammoth/IMG_0175.JPG
 - /images/posts/breakfast-gem-in-mammoth/IMG_0176.JPG
 - /images/posts/breakfast-gem-in-mammoth/IMG_0177.JPG
-categories: []
+categories:
+- Mexican
 description: this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called brea
 archiveUrl: https://web.archive.org/web/20110105203807/http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/
 draft: false

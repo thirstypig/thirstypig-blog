@@ -20,7 +20,8 @@ description: Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a coupl
 location: Jenny's Kitchen
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

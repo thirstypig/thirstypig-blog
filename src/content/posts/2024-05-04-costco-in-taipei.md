@@ -13,15 +13,21 @@ images:
 - /images/posts/ig-2024-05-04-costco-in-taipei/18027238034044854.jpg
 tags:
 - taipei
+- american
+- hot-dogs
+- rotisserie-chicken
 description: Costco in Taipei. Had to check it out. I had some free time and my buddy was going - so I decided to check it out - on a Saturday afternoon, the busiest day of the week. Yeah, I know I’m crazy. But what the hell. Anyways. The $5 chicken there but slightly higher priced. But they also had some other good deals for hot foods - like pork knuckle. Their hot dog and soda deal was there too. They said their hot dogs came from the US. . . . .taiwan
 location: Legacy Taipei
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- American
 address: 八德路一段1號, 台北市,  100
 coordinates:
   lat: 25.044934
   lng: 121.529331
+cuisine:
+- American
 ---
 
 ![Costco in Taipei](/images/posts/ig-2024-05-04-costco-in-taipei/18184211032295091.jpg)

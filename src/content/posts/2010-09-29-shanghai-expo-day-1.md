@@ -4,7 +4,8 @@ pubDate: '2010-09-29'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/29/shanghai-expo-day-1/
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 - expo-food

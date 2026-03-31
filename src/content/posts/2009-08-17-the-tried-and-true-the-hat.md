@@ -11,7 +11,8 @@ images:
 - /images/posts/the-tried-and-true-the-hat/IMG_0743.jpg
 - /images/posts/the-tried-and-true-the-hat/IMG_0746.jpg
 - /images/posts/the-tried-and-true-the-hat/IMG_0752.jpg
-categories: []
+categories:
+- American
 tags:
 - alhambra
 - american

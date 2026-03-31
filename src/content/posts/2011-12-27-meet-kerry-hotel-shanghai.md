@@ -4,7 +4,8 @@ pubDate: '2011-12-27'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/27/meet-kerry-hotel-shanghai/
-categories: []
+categories:
+- Seafood
 description: Where did the Thirsty Pig go? The Thirsty one and his friends went to the Meet at the Kerry Hotel. It was a invited dinner to try their Tomahawk Steak. The Kerry Hotel, just opened in 2010, is the lat
 archiveUrl: https://web.archive.org/web/20120113085740/http://www.thethirstypig.com:80/2011/12/27/meet-kerry-hotel-shanghai/
 draft: false

@@ -22,7 +22,8 @@ tags:
 location: Oakalleyplantation
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

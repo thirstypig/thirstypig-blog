@@ -1,5 +1,5 @@
 ---
-title: Drink at a cool little bar - F Gallery
+title: F Gallery, unknown
 pubDate: '2024-04-23'
 author: The Thirsty Pig
 source: instagram
@@ -12,10 +12,15 @@ images:
 - /images/posts/ig-2024-04-23-drink-at-a-cool-little-bar-f-gallery/18069098575506518.jpg
 - /images/posts/ig-2024-04-23-drink-at-a-cool-little-bar-f-gallery/17978863862675393.jpg
 - /images/posts/ig-2024-04-23-drink-at-a-cool-little-bar-f-gallery/18043007140691509.jpg
-tags: []
+tags:
+- cocktails
+- old-fashioned
 description: Drink at a cool little bar - F Gallery. They have big ice cubes for my makers mark old fashioned, which I liked. Wish I could have had more drinks. But it was a school night. Couldn’t stay out too late. I’d return. . . .
 location: Drink at a cool little bar
-categories: []
+categories:
+- Cocktails
+cuisine:
+- Cocktails
 ---
 
 ![Drink at a cool little bar - F Gallery](/images/posts/ig-2024-04-23-drink-at-a-cool-little-bar-f-gallery/17954729504779779.jpg)

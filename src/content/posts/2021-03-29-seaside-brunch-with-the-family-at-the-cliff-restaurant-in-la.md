@@ -18,7 +18,8 @@ tags:
 description: Seaside brunch with the family at The Cliff Restaurant in Laguna Beach. Great Views and outdoor seating. Perfect day to be outside. Forgot to take pictures of the view. . . . . . . .
 city: Laguna Beach
 region: Orange County
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

@@ -17,7 +17,8 @@ description: Boudin and Cracklin. Boudin is rice with pork liver, pork meat all 
 location: Boudin and Cracklin
 city: New Orleans
 region: Louisiana
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

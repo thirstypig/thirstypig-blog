@@ -18,7 +18,8 @@ description: New Sichuan Restaurant in Arcadia! Fensanity. First was the Signatu
 location: Arcadia County Park
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 405 S Santa Anita Ave (W Huntington Dr.), Arcadia, CA 91006
 coordinates:
   lat: 34.138556

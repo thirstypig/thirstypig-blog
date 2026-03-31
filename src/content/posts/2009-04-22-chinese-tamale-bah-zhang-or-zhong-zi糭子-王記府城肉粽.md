@@ -8,7 +8,8 @@ heroImage: /images/posts/chinese-tamale-bah-zhang-or-zhong-zi糭子-王記府城
 images:
 - /images/posts/chinese-tamale-bah-zhang-or-zhong-zi糭子-王記府城肉粽/010620081540.jpg
 - /images/posts/chinese-tamale-bah-zhang-or-zhong-zi糭子-王記府城肉粽/010620081541.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

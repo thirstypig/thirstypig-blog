@@ -4,7 +4,8 @@ pubDate: '2010-06-16'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/06/16/hot-pot-mala-taipei/
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

@@ -4,7 +4,8 @@ pubDate: '2017-02-23'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/23/kung-fu-soy-mpk/
-categories: []
+categories:
+- Chinese
 tags:
 - mpk
 - chinese

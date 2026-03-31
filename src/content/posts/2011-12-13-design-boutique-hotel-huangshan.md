@@ -4,7 +4,8 @@ pubDate: '2011-12-13'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/13/design-boutique-hotel-huangshan/
-categories: []
+categories:
+- Uncategorized
 description: The Design Boutique Hotel, located in the heart of Huangshan City, creates an whimsical and colorful atmosphere for guests. With natural like Huangshanhttp://www.thethirstypig.com/2011/10/10/huangshan
 archiveUrl: https://web.archive.org/web/20120116092815/http://www.thethirstypig.com:80/2011/12/13/design-boutique-hotel-huangshan/
 draft: false

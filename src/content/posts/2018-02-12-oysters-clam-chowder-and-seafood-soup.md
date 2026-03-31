@@ -19,7 +19,8 @@ tags:
 - clam-chowder
 description: Oysters, clam chowder, and seafood soup
 location: Hog Island Oyster Co.
-categories: []
+categories:
+- Seafood
 city: San Francisco
 region: San Francisco
 address: '1 Ferry Bldg #11 (at The Embarcadero), San Francisco, CA 94111'

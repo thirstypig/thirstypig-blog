@@ -4,7 +4,8 @@ pubDate: '2010-11-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/17/ji-jin-%e9%b8%a1%e9%94%a6-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

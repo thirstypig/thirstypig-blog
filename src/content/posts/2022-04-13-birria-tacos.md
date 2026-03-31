@@ -1,5 +1,5 @@
 ---
-title: Birria Tacos
+title: Birria Tacos, unknown
 pubDate: '2022-04-13'
 author: The Thirsty Pig
 source: instagram
@@ -9,10 +9,16 @@ images:
 - /images/posts/ig-2022-04-13-birria-tacos/18215124097193996.jpg
 - /images/posts/ig-2022-04-13-birria-tacos/17918963912464133.jpg
 - /images/posts/ig-2022-04-13-birria-tacos/17966457394595598.jpg
-tags: []
+tags:
+- mexican
+- birria
+- tacos
 description: Birria Tacos! . . . .
 location: Birria Tacos
-categories: []
+categories:
+- Mexican
+cuisine:
+- Mexican
 ---
 
 ![Birria Tacos](/images/posts/ig-2022-04-13-birria-tacos/18215124097193996.jpg)

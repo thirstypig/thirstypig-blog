@@ -22,7 +22,8 @@ description: Brunch at Paul Martin’s American Grill. Crab cake Benedict’s, s
 location: Paul Martin's American Grill
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

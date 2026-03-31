@@ -19,7 +19,8 @@ description: Hunanese dinner. S-p-I-c-y! Spicy! Spicy Fried fish, spicy tofu str
 location: Hunanese dinner
 city: San Gabriel Valley
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

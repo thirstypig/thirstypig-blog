@@ -17,7 +17,8 @@ description: First attempt at making Snow’s BBQ famous pork steak. It taste re
 location: making Snow’s BBQ famous pork steak
 city: Austin
 region: Texas
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

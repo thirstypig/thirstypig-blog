@@ -9,7 +9,8 @@ images:
 - /images/posts/best-fish-tacos-hands-down/04232007973.jpg
 - /images/posts/best-fish-tacos-hands-down/CIMG4630.JPG
 - /images/posts/best-fish-tacos-hands-down/CIMG4633.JPG
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

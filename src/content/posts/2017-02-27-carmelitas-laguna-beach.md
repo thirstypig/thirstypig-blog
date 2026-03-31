@@ -4,7 +4,8 @@ pubDate: '2017-02-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2017/02/27/carmelitas-laguna-beach/
-categories: []
+categories:
+- Mexican
 tags:
 - laguna-beach
 - mexican

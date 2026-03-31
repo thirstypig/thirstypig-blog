@@ -21,7 +21,8 @@ address: 3850 Barranca Pkwy Ste E (Barranca and Culver), Irvine, CA 92606
 coordinates:
   lat: 33.68419
   lng: -117.811743
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

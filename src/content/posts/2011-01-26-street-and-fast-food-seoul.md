@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/01/26/street-and-fast-food-seo
 heroImage: /images/posts/street-and-fast-food-seoul/Street-and-Fast-Food-Seoul-27-88x88.jpg
 images:
 - /images/posts/street-and-fast-food-seoul/Street-and-Fast-Food-Seoul-27-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

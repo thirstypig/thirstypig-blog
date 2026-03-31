@@ -5,7 +5,8 @@ pubDate: '2012-02-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/17/caliburger-shanghai/
-categories: []
+categories:
+- American
 tags:
 - shanghai
 - american

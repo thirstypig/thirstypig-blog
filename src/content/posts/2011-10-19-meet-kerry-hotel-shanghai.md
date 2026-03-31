@@ -4,7 +4,8 @@ pubDate: '2011-10-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

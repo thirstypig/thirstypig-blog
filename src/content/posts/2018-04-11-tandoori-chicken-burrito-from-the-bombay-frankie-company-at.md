@@ -21,7 +21,8 @@ address: 6000 Sepulveda Blvd, Culver City, CA 90230
 coordinates:
   lat: 33.986595
   lng: -118.392895
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

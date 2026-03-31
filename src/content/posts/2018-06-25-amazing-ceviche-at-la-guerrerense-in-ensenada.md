@@ -18,7 +18,8 @@ description: Amazing ceviche at La Guerrerense in Ensenada. We had sea urchin, o
 location: La Guerrerense
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Peruvian
 cuisine:
 - Peruvian
 ---

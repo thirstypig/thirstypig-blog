@@ -13,11 +13,17 @@ images:
 - /images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/17922238314034791.jpg
 tags:
 - san-gabriel
+- taiwanese
+- noodles
+- fried-chicken
 description: Taiwanese lunch in the SGV at Bopomofo cafe. We had the beef noodle sandwich, spicy popcorn chicken, braised pork over rice, and the mapo tots. . . .
 location: Bopomofo
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18053556374107303.jpg)

@@ -4,7 +4,8 @@ pubDate: '2009-08-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/08/07/santa-monica-farmers-market/
-categories: []
+categories:
+- Uncategorized
 tags:
 - santa-monica
 - farmers-market

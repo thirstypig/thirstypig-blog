@@ -22,7 +22,8 @@ images:
 - /images/posts/allston-yacht-club/IMG_1398-185x185.jpg
 - /images/posts/allston-yacht-club/IMG_1399-185x185.jpg
 - /images/posts/allston-yacht-club/IMG_1400-185x185.jpg
-categories: []
+categories:
+- Cocktails
 tags:
 - los-feliz
 - cocktails

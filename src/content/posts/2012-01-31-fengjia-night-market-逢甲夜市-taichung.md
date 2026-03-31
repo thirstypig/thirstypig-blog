@@ -4,7 +4,8 @@ pubDate: '2012-01-31'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/31/fengjia-night-market-%e9%80%a2%e7%94%b2%e5%a4%9c%e5%b8%82-taichung/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taichung
 - taiwanese

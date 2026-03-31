@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/05/26/cantina-agave/
 heroImage: /images/posts/cantina-agave/Catina-Agave-Shanghai-15-188x188.jpg
 images:
 - /images/posts/cantina-agave/Catina-Agave-Shanghai-15-188x188.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - shanghai
 - mexican

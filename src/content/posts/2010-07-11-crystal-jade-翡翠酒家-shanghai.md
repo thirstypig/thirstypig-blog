@@ -4,7 +4,8 @@ pubDate: '2010-07-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/11/crystal-jade-%e7%bf%a1%e7%bf%a0%e9%85%92%e5%ae%b6-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

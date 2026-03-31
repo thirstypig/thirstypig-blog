@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2012/04/25/shanghai-italian-restaur
 heroImage: /images/posts/shanghai-italian-restaurant-list/Colabo-Shanghai-16-188x188.jpg
 images:
 - /images/posts/shanghai-italian-restaurant-list/Colabo-Shanghai-16-188x188.jpg
-categories: []
+categories:
+- Italian
 description: Italian restaurants in Shanghai are some of the best. I’d argue that Shanghai would rank near the top worldwide with its diverse Italian restaurant scene. Here are the some of the top ones I have visi
 archiveUrl: https://web.archive.org/web/20120505122125/http://www.thethirstypig.com:80/2012/04/25/shanghai-italian-restaurant-list/
 draft: false

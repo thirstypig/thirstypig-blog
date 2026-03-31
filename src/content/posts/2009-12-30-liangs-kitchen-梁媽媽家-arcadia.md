@@ -15,7 +15,8 @@ images:
 - /images/posts/liangs-kitchen-梁媽媽家-arcadia/IMG_0057.JPG
 - /images/posts/liangs-kitchen-梁媽媽家-arcadia/IMG_0058.JPG
 - /images/posts/liangs-kitchen-梁媽媽家-arcadia/IMG_1097.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - arcadia
 - taiwanese

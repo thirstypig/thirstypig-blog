@@ -19,7 +19,8 @@ images:
 tags:
 - nyc
 description: Saw some paint on canvas from some dudes - Claude, Paul, another Paul, Henri, and another Henri, Pablo, Salvador, Piet, Georges, Jackson and Vincent. Never go on the busiest week of the year on Free Fridays - OMG crowded.
-categories: []
+categories:
+- Uncategorized
 location: Museum of Modern Art (MoMA)
 city: New York
 region: New York

@@ -11,7 +11,8 @@ images:
 - /images/posts/ig-2019-09-18-enjoying-a-dodger-game/17919683140327149.jpg
 tags: []
 description: Enjoying a Dodger game. Tampa Bay Rays at the Dodgers. Looking forward to see Tony Gonsolin pitch! . . . .
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

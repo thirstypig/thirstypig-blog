@@ -4,7 +4,8 @@ pubDate: '2009-11-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/11/11/half-half-sgv/
-categories: []
+categories:
+- Coffee
 tags:
 - sgv
 - coffee

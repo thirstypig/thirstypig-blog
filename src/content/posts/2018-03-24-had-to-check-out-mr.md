@@ -23,7 +23,8 @@ address: 418 Molino St, Los Angeles, CA 90013
 coordinates:
   lat: 34.042499
   lng: -118.233834
-categories: []
+categories:
+- Bakery
 cuisine:
 - Bakery
 ---

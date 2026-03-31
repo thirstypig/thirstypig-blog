@@ -25,7 +25,8 @@ images:
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-18-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-19-494x370.jpg
 - /images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-20-494x370.jpg
-categories: []
+categories:
+- Vietnamese
 tags:
 - ho-chi-minh-city
 - vietnamese

@@ -4,7 +4,8 @@ pubDate: '2010-07-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/25/little-yangs-fried-dumplings-%e5%b0%8f%e6%a5%8a%e7%94%9f%e7%85%8e-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

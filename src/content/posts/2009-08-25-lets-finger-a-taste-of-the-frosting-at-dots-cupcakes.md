@@ -11,7 +11,8 @@ images:
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0822.jpg
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0823.jpg
 - /images/posts/lets-finger-a-taste-of-the-frosting-at-dots-cupcakes/IMG_0828.jpg
-categories: []
+categories:
+- Dessert
 tags:
 - pasadena
 - dessert

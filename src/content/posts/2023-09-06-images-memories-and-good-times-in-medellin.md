@@ -20,8 +20,10 @@ tags:
 description: Images, memories, and good times in Medellin. Good adventure with friends and meeting new people. Check out my Medellin food posts at . . . . .
 location: Images, memories
 city: Medellin
-categories: []
+categories:
+- Uncategorized
 region: Colombia
+cuisine: []
 ---
 
 ![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18067209409417995.jpg)

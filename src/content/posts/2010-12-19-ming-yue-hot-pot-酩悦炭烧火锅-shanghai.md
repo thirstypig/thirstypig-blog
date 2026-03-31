@@ -4,7 +4,8 @@ pubDate: '2010-12-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/12/19/ming-yue-hot-pot-%e9%85%a9%e6%82%a6%e7%82%ad%e7%83%a7%e7%81%ab%e9%94%85-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

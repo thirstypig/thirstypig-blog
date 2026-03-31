@@ -17,7 +17,8 @@ images:
 - /images/posts/the-deep-fried-pork-chop-at-delicious-kitchen-hong-kong/Delicious-Kitchen-HKG-10-494x370.jpg
 - /images/posts/the-deep-fried-pork-chop-at-delicious-kitchen-hong-kong/Delicious-Kitchen-HKG-11-188x188.jpg
 - /images/posts/the-deep-fried-pork-chop-at-delicious-kitchen-hong-kong/Delicious-Kitchen-HKG-11-494x370.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

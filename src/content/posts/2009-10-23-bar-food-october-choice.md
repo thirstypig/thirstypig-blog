@@ -17,7 +17,8 @@ images:
 - /images/posts/bar-food-october-choice/DSCN0040.JPG
 - /images/posts/bar-food-october-choice/DSCN0041.JPG
 - /images/posts/bar-food-october-choice/DSCN0055.JPG
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

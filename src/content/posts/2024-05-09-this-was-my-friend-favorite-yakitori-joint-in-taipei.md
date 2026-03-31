@@ -1,5 +1,5 @@
 ---
-title: This was my friend favorite yakitori joint in Taipei
+title: Yakitori Joint, Taipei
 pubDate: '2024-05-09'
 author: The Thirsty Pig
 source: instagram
@@ -18,10 +18,15 @@ images:
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/18045221551690281.jpg
 tags:
 - taipei
+- japanese
+- yakitori
 description: This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. . . .
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Japanese
+cuisine:
+- Japanese
 ---
 
 ![This was my friend favorite yakitori joint in Taipei](/images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/17906542961878373.jpg)

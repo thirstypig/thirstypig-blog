@@ -4,7 +4,8 @@ pubDate: '2010-05-07'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

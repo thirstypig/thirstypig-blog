@@ -20,7 +20,8 @@ description: Modern Indian food at radhika south Pasadena
 location: Equinox Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Indian
 address: 300 E. Colorado Blvd, Suit 201 (at Marengo Ave), Pasadena, CA 91101
 coordinates:
   lat: 34.145032

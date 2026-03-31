@@ -4,7 +4,8 @@ pubDate: '2011-01-05'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/01/05/kimchi-museum-%ea%b9%80%ec%b9%98%eb%b0%95%eb%ac%bc%ea%b4%80-at-coex-seoul/
-categories: []
+categories:
+- Uncategorized
 tags:
 - seoul
 - kimchi

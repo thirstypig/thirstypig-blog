@@ -19,7 +19,8 @@ description: Chinese hot pot at little sheep in San Gabriel. Lamb, beef, and por
 location: Mission San Gabriel Arcángel
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 428 S Mission Dr (Junipero Serra Dr.), San Gabriel, CA 91776
 coordinates:
   lat: 34.097231

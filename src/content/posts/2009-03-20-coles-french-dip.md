@@ -8,7 +8,8 @@ heroImage: /images/posts/coles-french-dip/IMG_0504.jpg
 images:
 - /images/posts/coles-french-dip/IMG_0504.jpg
 - /images/posts/coles-french-dip/IMG_0505.jpg
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

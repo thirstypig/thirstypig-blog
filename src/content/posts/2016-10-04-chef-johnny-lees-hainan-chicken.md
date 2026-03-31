@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/10/04/chef-johnny-lees-hainan-chicken/
 heroImage: /images/posts/chef-johnny-lees-hainan-chicken/IMG_0739.jpg
 images:
 - /images/posts/chef-johnny-lees-hainan-chicken/IMG_0739.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - chinatown
 - chinese

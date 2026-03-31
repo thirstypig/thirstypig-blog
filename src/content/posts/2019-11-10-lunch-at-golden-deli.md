@@ -15,7 +15,8 @@ tags:
 - spring-rolls
 description: Lunch at Golden Deli. Pho, spring rolls, and rolls. Yummy! . . .
 location: Lunch at Golden Deli
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

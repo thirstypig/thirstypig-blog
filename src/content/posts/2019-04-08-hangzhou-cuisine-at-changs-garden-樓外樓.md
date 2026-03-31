@@ -20,7 +20,8 @@ description: Hangzhou Cuisine at Chang’s Garden 樓外樓. The big fatty pork 
 location: Chang's Garden
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

@@ -4,7 +4,8 @@ pubDate: '2011-04-24'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

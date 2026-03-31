@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb
 heroImage: /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
 images:
 - /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - korean
 - budaejeongol

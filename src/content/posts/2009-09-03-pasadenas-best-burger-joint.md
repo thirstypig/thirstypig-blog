@@ -12,7 +12,8 @@ images:
 - /images/posts/pasadenas-best-burger-joint/IMG_0872.jpg
 - /images/posts/pasadenas-best-burger-joint/IMG_0876.jpg
 - /images/posts/pasadenas-best-burger-joint/IMG_0879.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

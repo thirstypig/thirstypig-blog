@@ -9,9 +9,15 @@ images:
 - /images/posts/ig-2022-04-24-lunch-in-the-valley/18292137643052269.jpg
 - /images/posts/ig-2022-04-24-lunch-in-the-valley/17934793874112133.jpg
 - /images/posts/ig-2022-04-24-lunch-in-the-valley/17961100105654875.jpg
-tags: []
+tags:
+- seafood
+- tuna-salad
+- lunch
 description: Lunch in the valley. Tuna salad. Sounds ordinary but not. . . . . . .
-categories: []
+categories:
+- Seafood
+cuisine:
+- Seafood
 ---
 
 ![Lunch in the valley](/images/posts/ig-2022-04-24-lunch-in-the-valley/18292137643052269.jpg)

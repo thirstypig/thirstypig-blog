@@ -13,6 +13,9 @@ images:
 - /images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/18053759479397411.jpg
 tags:
 - dtla
+- american
+- brunch
+- cocktails
 description: Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. . . . . .
 location: Row Dtla
 city: Downtown LA
@@ -21,7 +24,10 @@ address: 777 Alameda St, Los Angeles, CA 90021
 coordinates:
   lat: 34.03369
   lng: -118.2413
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Brunch at the Wayfarer Hotel in DTLA](/images/posts/ig-2023-03-20-brunch-at-the-wayfarer-hotel-in-dtla/17946783533565952.jpg)

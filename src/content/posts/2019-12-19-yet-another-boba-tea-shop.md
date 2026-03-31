@@ -21,7 +21,8 @@ address: 323 S Mission Dr (at W Santa Anita Ave.), San Gabriel, CA 91776
 coordinates:
   lat: 34.097699
   lng: -118.108963
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

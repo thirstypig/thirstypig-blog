@@ -1,5 +1,5 @@
 ---
-title: Torrance Cultural Arts Center, Torrance
+title: Wadatsumi, Torrance
 pubDate: '2022-03-09'
 author: The Thirsty Pig
 source: instagram
@@ -11,15 +11,21 @@ images:
 - /images/posts/ig-2022-03-09-roast-beef-set-at-wadatsumi-in-torrance/17990558977445524.jpg
 tags:
 - torrance
+- japanese
+- steak
+- sushi
 description: Roast beef set at Wadatsumi in Torrance. Japanese restaurant that specializes in steak and beef. They also have sushi bowls, too. Popular lunch and dinner spot. Get here early. . . . . .
 location: Torrance Cultural Arts Center
 city: Torrance
 region: South Bay
-categories: []
+categories:
+- Japanese
 address: 3330 Civic Center Dr N, Torrance, CA 90503
 coordinates:
   lat: 33.839294
   lng: -118.343441
+cuisine:
+- Japanese
 ---
 
 ![Roast beef set at Wadatsumi in Torrance](/images/posts/ig-2022-03-09-roast-beef-set-at-wadatsumi-in-torrance/18285191797007212.jpg)

@@ -3,7 +3,8 @@ title: Musha, Torrance
 pubDate: 2011-03-04 00:00:00+00:00
 description: Izakaya 居酒屋 is a type of Japanese dining where drinking and little dishes are served. I guess you could associate drinking with any type of Japanese or non Japanese dining, too. Hence, Izakaya’s roots
 author: The Thirsty Pig
-categories: []
+categories:
+- Japanese
 location: Musha
 city: Torrance
 region: South Bay

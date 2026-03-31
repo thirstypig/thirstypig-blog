@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2010/07/22/paul-taipei-french-bakery/
 heroImage: /images/posts/paul-taipei-french-bakery/Paul-Bakery-13-88x88.jpg
 images:
 - /images/posts/paul-taipei-french-bakery/Paul-Bakery-13-88x88.jpg
-categories: []
+categories:
+- Bakery
 tags:
 - taipei
 - bakery

@@ -8,7 +8,8 @@ heroImage: /images/posts/best-pastrami-in-the-world-katz/071320081626.jpg
 images:
 - /images/posts/best-pastrami-in-the-world-katz/071320081626.jpg
 - /images/posts/best-pastrami-in-the-world-katz/071320081627.jpg
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

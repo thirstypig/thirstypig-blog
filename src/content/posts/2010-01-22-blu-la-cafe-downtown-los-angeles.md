@@ -14,7 +14,8 @@ images:
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0210.JPG
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0212.JPG
 - /images/posts/blu-la-cafe-downtown-los-angeles/IMG_0213.JPG
-categories: []
+categories:
+- American
 tags:
 - dtla
 - american

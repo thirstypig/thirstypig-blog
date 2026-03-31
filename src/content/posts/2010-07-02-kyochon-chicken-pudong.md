@@ -22,7 +22,8 @@ images:
 - /images/posts/kyochon-chicken-pudong/IMG_3069-494x370.jpg
 - /images/posts/kyochon-chicken-pudong/IMG_3070-88x88.jpg
 - /images/posts/kyochon-chicken-pudong/KyoChon-客怡村-Chicken-1-88x88.jpg
-categories: []
+categories:
+- Korean
 tags:
 - shanghai
 - korean

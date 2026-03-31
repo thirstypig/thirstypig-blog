@@ -25,7 +25,8 @@ address: 907 E 3rd St (at S Garey St), Los Angeles, CA 90013
 coordinates:
   lat: 34.046468
   lng: -118.234715
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

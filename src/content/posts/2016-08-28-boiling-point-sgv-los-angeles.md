@@ -7,7 +7,8 @@ originalUrl: http://thirstypig.com/2016/08/28/boiling-point-sgv-los-angeles/?sha
 heroImage: /images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg
 images:
 - /images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - sgv
 - taiwanese

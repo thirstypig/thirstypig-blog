@@ -9,7 +9,8 @@ images:
 - /images/posts/dai-ho-restaurant-temple-city/IMG_7553.JPG
 - /images/posts/dai-ho-restaurant-temple-city/IMG_7554.JPG
 - /images/posts/dai-ho-restaurant-temple-city/IMG_7555.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - temple-city
 - taiwanese

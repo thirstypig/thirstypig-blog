@@ -16,7 +16,8 @@ images:
 - /images/posts/san-wan-hotel-dim-sum/IMG_1893-185x185.jpg
 - /images/posts/san-wan-hotel-dim-sum/IMG_1897-185x185.jpg
 - /images/posts/san-wan-hotel-dim-sum/IMG_1898-185x185.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

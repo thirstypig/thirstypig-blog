@@ -4,7 +4,8 @@ pubDate: '2012-01-27'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/27/pizzeria-mozza-los-angeles/
-categories: []
+categories:
+- Italian
 tags:
 - los-angeles
 - italian

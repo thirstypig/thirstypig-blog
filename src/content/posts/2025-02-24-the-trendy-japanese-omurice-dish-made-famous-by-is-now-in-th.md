@@ -13,15 +13,21 @@ images:
 - /images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/18065256073931905.jpg
 tags:
 - arcadia
+- japanese
+- ramen
+- omurice
 description: My buddy got the ramen which I think he said was ok. Nothing special. Next time I would try the ramen. They have a Ying yang bowl in which they would have 2 different broths. I think it is gimmicky, but I would try next time. . . . .official
 location: The Stables at Santa Anita Park
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Japanese
 address: 400 S Baldwin Ave Ste 901L, Arcadia, CA 91007
 coordinates:
   lat: 34.13803
   lng: -118.04792
+cuisine:
+- Japanese
 ---
 
 ![The trendy Japanese omurice dish, made famous by is now in the SGV Arcadia at](/images/posts/ig-2025-02-24-the-trendy-japanese-omurice-dish-made-famous-by-is-now-in-th/18269022787264462.jpg)

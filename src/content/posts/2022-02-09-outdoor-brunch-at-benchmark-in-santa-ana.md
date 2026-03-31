@@ -1,5 +1,5 @@
 ---
-title: Outdoor brunch at Benchmark in Santa Ana
+title: Benchmark, Santa Ana
 pubDate: '2022-02-09'
 author: The Thirsty Pig
 source: instagram
@@ -15,10 +15,16 @@ images:
 - /images/posts/ig-2022-02-09-outdoor-brunch-at-benchmark-in-santa-ana/17899366166427697.jpg
 - /images/posts/ig-2022-02-09-outdoor-brunch-at-benchmark-in-santa-ana/18279523555018811.jpg
 - /images/posts/ig-2022-02-09-outdoor-brunch-at-benchmark-in-santa-ana/17924231657132622.jpg
-tags: []
+tags:
+- american
+- brunch
+- cocktails
 description: Outdoor brunch at Benchmark in Santa Ana. Great outdoor patio, tasty drinks, and yummy brunch. But I think the outdoor space was the best. Oh and the potatoes brava was really good too. Great to catch up with old friends. Would recommend benchmark. Weekend reservations recommended. . . . . . .restaurant
 location: Outdoor brunch at Benchmark in Santa Ana
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Outdoor brunch at Benchmark in Santa Ana](/images/posts/ig-2022-02-09-outdoor-brunch-at-benchmark-in-santa-ana/17909021594298490.jpg)

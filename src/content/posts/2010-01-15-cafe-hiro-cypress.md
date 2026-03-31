@@ -10,7 +10,8 @@ images:
 - /images/posts/cafe-hiro-cypress/IMG_7826.JPG
 - /images/posts/cafe-hiro-cypress/IMG_7834.JPG
 - /images/posts/cafe-hiro-cypress/IMG_7838.JPG
-categories: []
+categories:
+- Fusion
 tags:
 - fusion
 - risotto

@@ -17,7 +17,8 @@ images:
 - /images/posts/fools-noodles-taipei/IMG_2777-88x88.jpg
 - /images/posts/fools-noodles-taipei/IMG_2780-88x88.jpg
 - /images/posts/fools-noodles-taipei/IMG_2781-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

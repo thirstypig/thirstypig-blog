@@ -4,7 +4,8 @@ pubDate: '2010-08-11'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/
-categories: []
+categories:
+- Thai
 tags:
 - shanghai
 - thai

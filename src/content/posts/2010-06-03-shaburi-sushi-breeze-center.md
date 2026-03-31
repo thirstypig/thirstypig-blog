@@ -9,7 +9,8 @@ images:
 - /images/posts/shaburi-sushi-breeze-center/Shaburi-10-88x88.jpg
 - /images/posts/shaburi-sushi-breeze-center/Shaburi-2-88x88.jpg
 - /images/posts/shaburi-sushi-breeze-center/Shaburi-6.4-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - taipei
 - japanese

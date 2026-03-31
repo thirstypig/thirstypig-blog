@@ -15,7 +15,8 @@ description: Love the dodger stadium!
 location: Love the dodger stadium
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Love the dodger stadium](/images/posts/ig-2021-08-29-love-the-dodger-stadium/17846776406639215.jpg)

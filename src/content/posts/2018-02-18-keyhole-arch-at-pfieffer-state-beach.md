@@ -12,7 +12,8 @@ images:
 tags: []
 description: Keyhole arch at Pfieffer state beach
 location: Keyhole arch at Pfieffer state beach
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

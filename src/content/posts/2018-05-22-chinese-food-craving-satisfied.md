@@ -23,7 +23,8 @@ address: West 18th Street (6th Avenue), New York, NY 10011
 coordinates:
   lat: 40.739484
   lng: -73.994885
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

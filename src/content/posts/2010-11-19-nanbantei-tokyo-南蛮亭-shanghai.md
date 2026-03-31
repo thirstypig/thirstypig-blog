@@ -4,7 +4,8 @@ pubDate: '2010-11-19'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/11/19/nanbantei-tokyo-%e5%8d%97%e8%9b%ae%e4%ba%ad-shanghai/
-categories: []
+categories:
+- Japanese
 tags:
 - shanghai
 - japanese

@@ -4,7 +4,8 @@ pubDate: '2011-08-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/08/08/mapuwu-shanghai/
-categories: []
+categories:
+- Korean
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20120116080803/http://www.thethirstypig.com:80/2011/08/08/mapuwu-shanghai/
 draft: false

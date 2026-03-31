@@ -15,7 +15,8 @@ tags:
 description: My favorite pizza joint. Zelo pizza in Arcadia. Cornmeal crust! Had half the eggplant & sausage pizza and the other half pepperoni. Yum!. . . . .
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

@@ -12,7 +12,8 @@ images:
 - /images/posts/ono-hawaiian-grill/IMG_1008.jpg
 - /images/posts/ono-hawaiian-grill/IMG_1010.jpg
 - /images/posts/ono-hawaiian-grill/IMG_1013.jpg
-categories: []
+categories:
+- Hawaiian
 tags:
 - hawaiian
 - kalua-pig

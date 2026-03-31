@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2011/09/06/fizz-baozi-the-shanghai-fb-
 heroImage: /images/posts/fizz-baozi-the-shanghai-fb-event-raises-25k-rmb-for-the-dream-shanghai-charity/11-08-04-v1-FB3-flyer-349x494.jpg
 images:
 - /images/posts/fizz-baozi-the-shanghai-fb-event-raises-25k-rmb-for-the-dream-shanghai-charity/11-08-04-v1-FB3-flyer-349x494.jpg
-categories: []
+categories:
+- Multi
 description: On Thursday the 25th, Shanghai’s Food and Beverage F&B industry got together for a fund-raising event at Zeal, and raised more than 25k RMB for charity
 archiveUrl: https://web.archive.org/web/20111123072121/http://www.thethirstypig.com/2011/09/06/fizz-baozi-the-shanghai-fb-event-raises-25k-rmb-for-the-dream-shanghai-charity/?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=thirstypig
 draft: false

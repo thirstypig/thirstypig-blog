@@ -4,7 +4,8 @@ pubDate: '2012-02-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/02/16/shanghai-marriott-hotel-city-centre-%e4%b8%8a%e6%b5%b7%e9%9b%85%e5%b1%85%e4%b9%90%e4%b8%87%e8%b1%aa%e9%85%92%e5%ba%97/
-categories: []
+categories:
+- Multi
 tags:
 - shanghai
 - multi

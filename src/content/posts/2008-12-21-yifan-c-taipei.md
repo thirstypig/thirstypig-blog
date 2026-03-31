@@ -4,7 +4,8 @@ pubDate: '2008-12-21'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2008/12/21/yifan-c-taipei/
-categories: []
+categories:
+- Uncategorized
 tags:
 - taipei
 description: Yifan C. – Taipei aka 露露http://www.blogger.com/profile/08446448073954436949

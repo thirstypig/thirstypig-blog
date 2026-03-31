@@ -9,7 +9,8 @@ images:
 - /images/posts/dodger-dogs-and-more/IMG_0555.JPG
 - /images/posts/dodger-dogs-and-more/IMG_0556.JPG
 - /images/posts/dodger-dogs-and-more/IMG_0561.JPG
-categories: []
+categories:
+- Uncategorized
 tags:
 - hot-dogs
 - bbq

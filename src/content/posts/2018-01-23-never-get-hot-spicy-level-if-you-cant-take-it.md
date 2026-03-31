@@ -17,7 +17,8 @@ description: Never get “hot” spicy level if you can’t take it. Had the “
 location: Claro's Italian Markets
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Fusion
 address: 19 1/2 E Huntington Dr (at S Santa Anita Ave), Arcadia, CA 91006
 coordinates:
   lat: 34.140282

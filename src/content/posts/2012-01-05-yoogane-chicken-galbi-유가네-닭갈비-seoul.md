@@ -4,7 +4,8 @@ pubDate: '2012-01-05'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/01/05/yoogane-chicken-galbi-%ec%9c%a0%ea%b0%80%eb%84%a4-%eb%8b%ad%ea%b0%88%eb%b9%84-seoul/
-categories: []
+categories:
+- Korean
 tags:
 - seoul
 - korean

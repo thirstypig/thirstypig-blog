@@ -4,7 +4,8 @@ pubDate: '2011-08-03'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/08/03/huashan-creative-park-taipei/
-categories: []
+categories:
+- Uncategorized
 description: Huashan Creative Park is the cultural center for not only Taipei, but for the country of Taiwan as well. With the combination of art and food, the park provides a historic setting.
 archiveUrl: https://web.archive.org/web/20111018164249/http://www.thethirstypig.com:80/2011/08/03/huashan-creative-park-taipei/
 draft: false

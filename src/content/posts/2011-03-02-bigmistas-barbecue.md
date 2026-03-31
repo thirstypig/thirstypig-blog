@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/03/02/bigmistas-barbecue/
 heroImage: /images/posts/bigmistas-barbecue/Big-Mista-BBQ-15-188x188.jpg
 images:
 - /images/posts/bigmistas-barbecue/Big-Mista-BBQ-15-188x188.jpg
-categories: []
+categories:
+- BBQ
 tags:
 - los-angeles
 - bbq

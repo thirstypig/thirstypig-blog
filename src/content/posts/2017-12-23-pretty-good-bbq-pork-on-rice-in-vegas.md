@@ -20,7 +20,8 @@ tags:
 - las-vegas
 - bbq
 - pork
-categories: []
+categories:
+- BBQ
 cuisine:
 - BBQ
 ---

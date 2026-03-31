@@ -5,6 +5,14 @@ export const StatsIcon = () => (
   <span style={{ fontSize: 16, lineHeight: 1 }}>&#x1F4CA;</span>
 );
 
+interface PostRow {
+  id: string;
+  title: string;
+  date: string;
+  city: string;
+  source: string;
+}
+
 interface Stats {
   generatedAt: string;
   totalPosts: number;
@@ -17,7 +25,9 @@ interface Stats {
   imageStats: { withHero: number; withGallery: number; withAny: number; without: number };
   uniqueVenues: number;
   closedVenues: number;
-  recentPosts: { id: string; title: string; date: string; city: string; source: string }[];
+  recentPosts: PostRow[];
+  uncategorizedPosts: PostRow[];
+  cuisineCount: number;
 }
 
 // --- Styles ---
@@ -362,9 +372,15 @@ export default function StatsDashboard() {
           <PercentStat label="Has Image Gallery" value={stats.imageStats.withGallery} total={stats.totalPosts} color="#a855f7" />
         </div>
 
-        {/* Top Categories */}
+        {/* Top Categories (Cuisine) */}
         <div style={styles.card}>
-          <h3 style={styles.cardTitle}>Top Categories</h3>
+          <h3 style={styles.cardTitle}>Top Categories (Cuisine)</h3>
+          <PercentStat
+            label="Cuisine Assigned"
+            value={stats.cuisineCount}
+            total={stats.totalPosts}
+            color="#d97706"
+          />
           {stats.topCategories.length > 0 ? (
             <BarChart data={stats.topCategories} color="#d97706" />
           ) : (
@@ -381,6 +397,53 @@ export default function StatsDashboard() {
             <p style={{ fontSize: 13, color: "#9ca3af" }}>No tags yet</p>
           )}
         </div>
+
+        {/* Needs Attention: Uncategorized Posts */}
+        {stats.uncategorizedPosts && stats.uncategorizedPosts.length > 0 && (
+          <div style={{
+            ...styles.cardFull,
+            borderColor: "#f59e0b",
+            borderWidth: 2,
+          }}>
+            <h3 style={{ ...styles.cardTitle, color: "#b45309" }}>
+              Needs Attention: {stats.uncategorizedPosts.length} Uncategorized Posts
+            </h3>
+            <p style={{ fontSize: 13, color: "#6b7280", marginBottom: 12, marginTop: -4 }}>
+              These posts have no cuisine assigned. Assign a cuisine (e.g. Japanese, Mexican) or a non-food category (Travel, Baseball, etc.)
+            </p>
+            <div style={{ maxHeight: 400, overflowY: "auto" }}>
+              <table style={styles.table}>
+                <thead>
+                  <tr>
+                    <th style={styles.th}>Title</th>
+                    <th style={styles.th}>Date</th>
+                    <th style={styles.th}>City</th>
+                    <th style={styles.th}>Source</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {stats.uncategorizedPosts.map(p => (
+                    <tr key={p.id}>
+                      <td style={{ ...styles.td, maxWidth: 360, overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+                        <a
+                          href={`/admin#/collections/posts/${p.id}`}
+                          target="_blank"
+                          rel="noopener"
+                          style={{ color: "#2563eb", textDecoration: "none" }}
+                        >
+                          {p.title}
+                        </a>
+                      </td>
+                      <td style={{ ...styles.td, whiteSpace: "nowrap" }}>{p.date}</td>
+                      <td style={styles.td}>{p.city}</td>
+                      <td style={styles.td}>{SOURCE_LABELS[p.source] || p.source}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        )}
 
         {/* Recent Posts */}
         <div style={styles.cardFull}>

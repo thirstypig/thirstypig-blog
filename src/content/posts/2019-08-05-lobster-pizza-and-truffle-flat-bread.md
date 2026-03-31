@@ -21,7 +21,8 @@ address: 331 Glendale Blvd, Los Angeles, CA 90026
 coordinates:
   lat: 34.066144
   lng: -118.260592
-categories: []
+categories:
+- Bakery
 cuisine:
 - Bakery
 ---

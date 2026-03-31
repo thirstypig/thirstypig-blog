@@ -17,10 +17,16 @@ images:
 - /images/posts/ig-2024-05-11-beef-noodles-soup-with-a-spicy-broth-or-a-clear-broth/18065329030480521.jpg
 tags:
 - taipei
+- taiwanese
+- beef-noodles
+- noodle-soup
 description: Beef Noodles Soup with a spicy broth or a clear broth. The spicy brother is the Taiwanese style that most people in Taiwan are familiar with. But the clear broth, which is quite flavorful too, is a Chinese style found more in mid- western China. The thin pancake with beef is certain a western Chinese dish. I enjoyed everything here and wondered why I didn’t visit before when I lived here. . . .
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Taiwanese
+cuisine:
+- Taiwanese
 ---
 
 ![Beef Noodles Soup with a spicy broth or a clear broth](/images/posts/ig-2024-05-11-beef-noodles-soup-with-a-spicy-broth-or-a-clear-broth/17880527751061326.jpg)

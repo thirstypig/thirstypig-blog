@@ -22,7 +22,8 @@ description: Yummy Rice 飯香 - Shanghainese cuisine in Rosemead. I was craving
 location: Rolling Rice
 city: Rosemead
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 address: 3586 Rosemead Blvd (Marshall), Rosemead, CA 91770
 coordinates:
   lat: 34.074756

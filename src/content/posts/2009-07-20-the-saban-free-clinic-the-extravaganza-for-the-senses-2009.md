@@ -11,7 +11,8 @@ images:
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0710.jpg
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0712.jpg
 - /images/posts/the-saban-free-clinic-the-extravaganza-for-the-senses-2009/IMG_0714.jpg
-categories: []
+categories:
+- Multi
 tags:
 - los-angeles
 - multi

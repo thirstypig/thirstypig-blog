@@ -26,7 +26,8 @@ address: 1 Beech Tree Ln, Irvine, CA 92612
 coordinates:
   lat: 33.660019
   lng: -117.819619
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

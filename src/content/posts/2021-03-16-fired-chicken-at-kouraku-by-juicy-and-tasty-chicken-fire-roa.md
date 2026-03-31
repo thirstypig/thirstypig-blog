@@ -16,7 +16,8 @@ description: Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted. G
 location: Roasted Coffee Laboratory
 city: Tokyo
 region: Tokyo
-categories: []
+categories:
+- Japanese
 address: 神南1-6-3 (神南フラッグ 1F), 渋谷区, 東京都, 150-0041
 coordinates:
   lat: 35.664213

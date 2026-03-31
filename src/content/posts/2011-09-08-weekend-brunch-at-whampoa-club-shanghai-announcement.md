@@ -4,7 +4,8 @@ pubDate: '2011-09-08'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/
-categories: []
+categories:
+- Chinese
 description: I am actually pretty interested to try this Shanghianese Dim Sum, if it is any different from Cantonese dim sum. But, it does mention they are serving up deep fried sping rolls with shredded pork, cab
 archiveUrl: https://web.archive.org/web/20111014113356/http://www.thethirstypig.com/2011/09/08/weekend-brunch-at-whampoa-club-shanghai-announcement/
 draft: false

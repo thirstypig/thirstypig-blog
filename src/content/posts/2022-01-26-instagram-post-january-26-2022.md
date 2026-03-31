@@ -7,6 +7,10 @@ draft: false
 heroImage: /images/posts/ig-2022-01-26-instagram-post-january-26-2022/18368246005170001.jpg
 images:
 - /images/posts/ig-2022-01-26-instagram-post-january-26-2022/18368246005170001.jpg
+cuisine: []
+tags: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — January 26, 2022](/images/posts/ig-2022-01-26-instagram-post-january-26-2022/18368246005170001.jpg)

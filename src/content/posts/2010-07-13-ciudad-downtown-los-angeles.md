@@ -28,7 +28,8 @@ images:
 - /images/posts/ciudad-downtown-los-angeles/4773526544_9a03ed79d6_o-88x88.jpg
 - /images/posts/ciudad-downtown-los-angeles/4773526752_402709d234_o-88x88.jpg
 - /images/posts/ciudad-downtown-los-angeles/4773527244_0ccdd1e19b_o-88x88.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - dtla
 - mexican

@@ -25,7 +25,8 @@ description: Beijing Roast Duck 北京烤鴨 at the Duck House. Haven’t had du
 location: Duck House
 city: Monterey Park
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 cuisine:
 - Chinese
 ---

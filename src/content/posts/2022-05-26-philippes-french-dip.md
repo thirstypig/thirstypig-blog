@@ -12,6 +12,9 @@ images:
 - /images/posts/ig-2022-05-26-philippes-french-dip/17904209786598310.jpg
 tags:
 - dtla
+- american
+- french-dip
+- sandwiches
 description: Philippe’s French Dip. Beef double dip, cold slaw, and lemon meringue pie. The spicy horse radish mustard is a must have with your sandwich. Makes all the difference. Today was a good day. . . . .
 location: Cole's French Dip
 city: Downtown LA
@@ -20,7 +23,10 @@ address: 118 E 6th St (at Main St), Los Angeles, CA 90014
 coordinates:
   lat: 34.044872
   lng: -118.249489
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg)

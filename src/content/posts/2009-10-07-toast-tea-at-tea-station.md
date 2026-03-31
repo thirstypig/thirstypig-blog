@@ -10,7 +10,8 @@ images:
 - /images/posts/toast-tea-at-tea-station/IMG_0858.jpg
 - /images/posts/toast-tea-at-tea-station/IMG_0860.jpg
 - /images/posts/toast-tea-at-tea-station/IMG_0862.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - los-angeles
 - taiwanese

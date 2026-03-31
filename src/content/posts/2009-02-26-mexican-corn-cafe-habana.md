@@ -9,7 +9,8 @@ images:
 - /images/posts/mexican-corn-cafe-habana/04262007989.jpg
 - /images/posts/mexican-corn-cafe-habana/04262007990.jpg
 - /images/posts/mexican-corn-cafe-habana/04262007991.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - los-angeles
 - mexican

@@ -15,7 +15,8 @@ tags:
 - pralines
 description: blue monster and pecans pralines
 location: Blue Bell Ice Cream
-categories: []
+categories:
+- Dessert
 cuisine:
 - Dessert
 ---

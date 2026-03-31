@@ -18,7 +18,8 @@ description: Seolleongtang on a chilly December day. Not that chilly today in So
 location: The United Theater On Broadway
 city: Koreatown
 region: Los Angeles
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

@@ -11,7 +11,8 @@ description: New Year’s eve at the Maroon 5 concert! . . .
 location: LONGBAR at the D Casino Hotel
 city: Las Vegas
 region: Las Vegas
-categories: []
+categories:
+- Cocktails
 cuisine:
 - Cocktails
 ---

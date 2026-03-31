@@ -20,7 +20,8 @@ description: Missed those breakfast tacos from Austin. Luckily we have we had th
 location: HomeState
 city: Austin
 region: Texas
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

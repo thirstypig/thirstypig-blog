@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-t
 heroImage: /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
 images:
 - /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 description: Sharehttp://www.addtoany.com/sharesave

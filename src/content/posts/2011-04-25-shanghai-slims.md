@@ -7,7 +7,8 @@ originalUrl: http://www.thethirstypig.com:80/2011/04/25/shanghai-slims/
 heroImage: /images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg
 images:
 - /images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg
-categories: []
+categories:
+- American
 tags:
 - shanghai
 - american

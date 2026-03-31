@@ -22,7 +22,8 @@ description: Night+Market. Thai food in Hollywood. My first time here. I had hea
 location: Night + Market
 city: Hollywood
 region: Hollywood
-categories: []
+categories:
+- Thai
 address: 9043 W Sunset Blvd (at N Doheny Dr), West Hollywood, CA 90069
 coordinates:
   lat: 34.090705

@@ -4,7 +4,8 @@ pubDate: '2012-03-25'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/03/25/glo-london-shanghai/
-categories: []
+categories:
+- Fusion
 tags:
 - shanghai
 - fusion

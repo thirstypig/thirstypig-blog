@@ -1,5 +1,5 @@
 ---
-title: After watching these guys on TikTok almost every morning...
+title: Tacos Los Huic, Los Angeles
 pubDate: '2024-12-04'
 author: The Thirsty Pig
 source: instagram
@@ -11,10 +11,16 @@ images:
 - /images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18056023111902406.jpg
 tags:
 - los-angeles
+- mexican
+- burritos
+- breakfast
 description: After watching these guys on TikTok almost every morning I knew I had to stop by a grab a burrito. This morning I took a screenshot of their TikTok feed and decided to ride a line scooter to snag one.
 city: Los Angeles
 region: Los Angeles
-categories: []
+categories:
+- Mexican
+cuisine:
+- Mexican
 ---
 
 ![After watching these guys on TikTok almost every morning I knew I had to stop...](/images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18015272360415790.jpg)

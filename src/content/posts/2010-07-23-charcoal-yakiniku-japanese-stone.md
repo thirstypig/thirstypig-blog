@@ -19,7 +19,8 @@ images:
 - /images/posts/charcoal-yakiniku-japanese-stone/IMG_2805-88x88.jpg
 - /images/posts/charcoal-yakiniku-japanese-stone/IMG_2807-88x88.jpg
 - /images/posts/charcoal-yakiniku-japanese-stone/IMG_2808-88x88.jpg
-categories: []
+categories:
+- Japanese
 tags:
 - japanese
 - yakiniku

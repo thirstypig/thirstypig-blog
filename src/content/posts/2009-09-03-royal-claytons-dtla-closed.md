@@ -4,7 +4,8 @@ pubDate: '2009-09-03'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/03/royal-claytons-dtla-closed/
-categories: []
+categories:
+- British
 tags:
 - dtla
 - british

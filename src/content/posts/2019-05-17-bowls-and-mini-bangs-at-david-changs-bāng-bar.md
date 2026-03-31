@@ -20,7 +20,8 @@ description: Bowls and mini Bangs at David Chang’s Bāng Bar. Eggplant and Chi
 location: Bāng Bar
 city: New York
 region: New York
-categories: []
+categories:
+- Fusion
 cuisine:
 - Fusion
 ---

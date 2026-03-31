@@ -21,7 +21,8 @@ address: 555 Mateo St, Los Angeles, CA 90013
 coordinates:
   lat: 34.040179
   lng: -118.233225
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

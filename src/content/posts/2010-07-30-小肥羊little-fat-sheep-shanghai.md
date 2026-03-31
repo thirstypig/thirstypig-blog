@@ -4,7 +4,8 @@ pubDate: '2010-07-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/07/30/%e5%b0%8f%e8%82%a5%e7%be%8alittle-fat-sheep-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

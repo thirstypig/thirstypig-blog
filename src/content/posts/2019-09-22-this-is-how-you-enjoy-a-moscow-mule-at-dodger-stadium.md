@@ -14,7 +14,8 @@ tags:
 - moscow-mule
 description: This is how you enjoy a Moscow Mule at Dodger Stadium. With Souvenir Cup - twenty five bucks. A bit pricey, but it is pretty awesome! 😎 . . . .
 location: Dodger Stadium
-categories: []
+categories:
+- Cocktails
 city: Los Angeles
 cuisine:
 - Cocktails

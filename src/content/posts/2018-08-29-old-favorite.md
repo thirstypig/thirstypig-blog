@@ -15,7 +15,8 @@ tags:
 - paella
 description: Old favorite! Haven’t been here in over 20 years. Dinner with classmates at Killer Shrimp. I had the regular with French bread. We also ordered the coconut shrimp, paella, and the shrimp, crab, and lobster combo. Yum! We all couldn’t get enough of the broth! But I regret not ordering the peeled shrimp for $5 more :( . . . . .
 location: Old favorite
-categories: []
+categories:
+- Seafood
 cuisine:
 - Seafood
 ---

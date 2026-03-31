@@ -4,7 +4,8 @@ pubDate: '2009-09-16'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2009/09/16/animal-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

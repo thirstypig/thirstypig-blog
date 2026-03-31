@@ -20,7 +20,8 @@ tags:
 - brunch
 - pastrami-hash
 description: Didn't know brunch was serious in , pastrami hash, and Bloody Mary were yummy
-categories: []
+categories:
+- American
 location: Launderette
 city: Austin
 region: Texas

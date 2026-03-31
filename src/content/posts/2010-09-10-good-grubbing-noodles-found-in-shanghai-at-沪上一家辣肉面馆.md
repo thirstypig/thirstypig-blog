@@ -8,7 +8,8 @@ heroImage: /images/posts/good-grubbing-noodles-found-in-shanghai-at-沪上一家
 images:
 - /images/posts/good-grubbing-noodles-found-in-shanghai-at-沪上一家辣肉面馆/Shanghai-Late-Night-Noodles-6-88x88.jpg
 - /images/posts/good-grubbing-noodles-found-in-shanghai-at-沪上一家辣肉面馆/Shanghai-Late-Night-Noodles-9-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -22,7 +22,8 @@ address: 200 S 3rd St, Las Vegas, NV 89101
 coordinates:
   lat: 36.168683
   lng: -115.144706
-categories: []
+categories:
+- Vietnamese
 cuisine:
 - Vietnamese
 ---

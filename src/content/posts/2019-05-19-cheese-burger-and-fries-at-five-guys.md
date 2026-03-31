@@ -21,7 +21,8 @@ address: 138 5th Ave (19th Street), New York, NY 10011
 coordinates:
   lat: 40.738959
   lng: -73.991544
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

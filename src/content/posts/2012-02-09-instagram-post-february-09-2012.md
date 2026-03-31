@@ -9,7 +9,8 @@ images:
 - /images/posts/ig-2012-02-09-instagram-post-february-09-2012/17842676122049948.jpg
 cuisine: []
 tags: []
-categories: []
+categories:
+- Uncategorized
 ---
 
 ![Instagram Post — February 09, 2012](/images/posts/ig-2012-02-09-instagram-post-february-09-2012/17842676122049948.jpg)

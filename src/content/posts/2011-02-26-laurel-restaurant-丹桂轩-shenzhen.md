@@ -4,7 +4,8 @@ pubDate: '2011-02-26'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2011/02/26/laurel-restaurant-%e4%b8%b9%e6%a1%82%e8%bd%a9-shenzhen/
-categories: []
+categories:
+- Chinese
 tags:
 - hong-kong
 - chinese

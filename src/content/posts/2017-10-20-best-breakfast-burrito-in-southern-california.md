@@ -20,7 +20,8 @@ address: 3838 E Colorado Blvd (Merlton Ave), Pasadena, CA 91107
 coordinates:
   lat: 34.146778
   lng: -118.069279
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

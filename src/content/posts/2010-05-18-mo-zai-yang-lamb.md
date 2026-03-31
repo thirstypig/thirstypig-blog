@@ -4,7 +4,8 @@ pubDate: '2010-05-18'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2010/05/18/mo-zai-yang-lamb/
-categories: []
+categories:
+- Taiwanese
 tags:
 - los-angeles
 - taiwanese

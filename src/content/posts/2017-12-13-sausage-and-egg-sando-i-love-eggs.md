@@ -21,7 +21,8 @@ address: 317 S Broadway, Los Angeles, CA 90013
 coordinates:
   lat: 34.050635
   lng: -118.248678
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

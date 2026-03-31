@@ -18,7 +18,8 @@ description: Sunday lunch with old friends at the old spaghetti factory
 city: Duarte
 region: San Gabriel Valley
 location: The Old Spaghetti Factory
-categories: []
+categories:
+- Italian
 cuisine:
 - Italian
 ---

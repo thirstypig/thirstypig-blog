@@ -22,11 +22,13 @@ description: Random photos of my Taiwan trip. Lots of first for me even though I
 location: Miniature Museum Of Taiwan (袖珍博物館 Miniature Museum Of Taiwan)
 city: Taipei
 region: Taipei
-categories: []
+categories:
+- Uncategorized
 address: 中山區建國北路一段96號B1, 台北市,  10489
 coordinates:
   lat: 25.050281
   lng: 121.536394
+cuisine: []
 ---
 
 ![Random photos of my Taiwan trip](/images/posts/ig-2024-05-16-random-photos-of-my-taiwan-trip/18014038238124003.jpg)

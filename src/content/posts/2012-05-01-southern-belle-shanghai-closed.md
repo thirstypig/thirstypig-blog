@@ -4,7 +4,8 @@ pubDate: '2012-05-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/01/southern-belle-shanghai-closed/
-categories: []
+categories:
+- Cajun
 tags:
 - shanghai
 - cajun

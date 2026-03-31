@@ -12,7 +12,8 @@ images:
 tags: []
 description: Tender greens and a big add Christmas tree! . . . .
 location: Tender greens and a big add Christmas tree
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

@@ -14,10 +14,16 @@ images:
 - /images/posts/ig-2022-03-17-bloody-mary-and-lunch/18157403179226902.jpg
 - /images/posts/ig-2022-03-17-bloody-mary-and-lunch/17857566743686210.jpg
 - /images/posts/ig-2022-03-17-bloody-mary-and-lunch/17914921928257614.jpg
-tags: []
+tags:
+- mexican
+- tacos
+- cocktails
 description: Bloody Mary and Lunch. Cauliflower tacos and Al Pastor tacos, with fries and chicken strips. Also the caipirinha with mezcal and cachaça and passion fruit juice was raves about. Excellent day for a rooftop lunch. I dig the art deco decor and signage. . . . . .
 location: Bloody Mary and Lunch
-categories: []
+categories:
+- Mexican
+cuisine:
+- Mexican
 ---
 
 ![Bloody Mary and Lunch](/images/posts/ig-2022-03-17-bloody-mary-and-lunch/17894449022595997.jpg)

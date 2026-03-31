@@ -17,7 +17,8 @@ images:
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0019.JPG
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0021.JPG
 - /images/posts/taiwanese-favorites-from-old-country-cafe/DSCN0025.JPG
-categories: []
+categories:
+- Taiwanese
 tags:
 - taiwanese
 - rice-bowls

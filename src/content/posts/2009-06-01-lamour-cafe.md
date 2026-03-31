@@ -10,7 +10,8 @@ images:
 - /images/posts/lamour-cafe/IMG_0596.jpg
 - /images/posts/lamour-cafe/IMG_0599.jpg
 - /images/posts/lamour-cafe/IMG_0602.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - monterey-park
 - chinese

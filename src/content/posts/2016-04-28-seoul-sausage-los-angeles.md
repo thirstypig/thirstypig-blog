@@ -4,7 +4,8 @@ pubDate: '2016-04-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/04/28/seoul-sausage-los-angeles/
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

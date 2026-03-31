@@ -16,7 +16,8 @@ tags:
 - sausage
 description: 3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3 cup chicken 台灣香腸，鹽酥雞，和 三杯雞 I know some Taiwanese friends may not like the place, but I dig it. I also like the soups and the TVs for sporting events.
 city: San Gabriel Valley
-categories: []
+categories:
+- Taiwanese
 region: San Gabriel Valley
 location: Uncle Yu Beer House
 cuisine:

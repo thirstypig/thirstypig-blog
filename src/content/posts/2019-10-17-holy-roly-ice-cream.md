@@ -18,7 +18,8 @@ description: Holy Roly ice cream. Peanut butter Reese’s ice cream. Interesting
 location: Holy Roly Ice Cream
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Dessert
 address: 400 S Baldwin Ave, Arcadia, CA 91007
 coordinates:
   lat: 34.13474

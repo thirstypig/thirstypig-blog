@@ -4,7 +4,8 @@ pubDate: '2010-08-17'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/17/slaters-5050-los-angeles/
-categories: []
+categories:
+- American
 tags:
 - los-angeles
 - american

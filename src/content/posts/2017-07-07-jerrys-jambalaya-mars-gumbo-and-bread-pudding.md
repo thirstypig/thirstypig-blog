@@ -19,7 +19,8 @@ tags:
 - gumbo
 description: Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding. Washed down with Yuengling Beer. Tonight we are just tasting a few dishes.
 location: Mother's Restaurant
-categories: []
+categories:
+- Cajun
 city: New Orleans
 region: Louisiana
 address: 401 Poydras St (at Tchoupitoulas St), New Orleans, LA 70130

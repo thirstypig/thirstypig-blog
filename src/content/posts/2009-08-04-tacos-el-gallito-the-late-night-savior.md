@@ -11,7 +11,8 @@ images:
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0700.jpg
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0703.JPG
 - /images/posts/tacos-el-gallito-the-late-night-savior/IMG_0704.jpg
-categories: []
+categories:
+- Mexican
 tags:
 - monterey-park
 - mexican

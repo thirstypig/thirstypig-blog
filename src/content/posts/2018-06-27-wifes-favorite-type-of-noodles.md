@@ -12,7 +12,8 @@ description: Wife’s favorite type of noodles. Noodle Kang in Arcadia.
 location: Wife’s favorite type of noodles
 city: Arcadia
 region: San Gabriel Valley
-categories: []
+categories:
+- Chinese
 tags:
 - arcadia
 - chinese

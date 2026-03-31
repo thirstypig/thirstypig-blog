@@ -16,7 +16,8 @@ tags:
 description: Black Sesame Korean shaved ice and Mango shaved ice. . . . .
 city: San Gabriel
 region: San Gabriel Valley
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---

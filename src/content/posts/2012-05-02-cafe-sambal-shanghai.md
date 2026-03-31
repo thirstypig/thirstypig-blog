@@ -4,7 +4,8 @@ pubDate: '2012-05-02'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2012/05/02/cafe-sambal-shanghai/
-categories: []
+categories:
+- Malaysian
 tags:
 - shanghai
 - malaysian

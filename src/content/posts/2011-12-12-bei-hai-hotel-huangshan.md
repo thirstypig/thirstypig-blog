@@ -4,7 +4,8 @@ pubDate: '2011-12-12'
 author: The Thirsty Pig
 source: thethirstypig.com
 originalUrl: http://www.thethirstypig.com:80/2011/12/12/bei-hai-hotel-huangshan/
-categories: []
+categories:
+- Chinese
 description: 'North Sea Hotel, directly translated from Bei Hai Hotel or 黄山北海宾馆, is a strange name for a hotel being that it is located in a land locked province. Yet, after visiting, you realize the poetic sea of '
 archiveUrl: https://web.archive.org/web/20120118003430/http://www.thethirstypig.com:80/2011/12/12/bei-hai-hotel-huangshan/
 draft: false

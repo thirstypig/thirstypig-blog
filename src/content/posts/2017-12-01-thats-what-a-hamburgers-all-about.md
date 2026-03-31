@@ -17,7 +17,8 @@ tags:
 - burgers
 description: “That’s what a hamburger’s all about!”
 location: “That’s what a hamburger’s all about
-categories: []
+categories:
+- American
 city: Long Beach
 cuisine:
 - American

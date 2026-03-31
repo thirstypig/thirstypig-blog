@@ -12,6 +12,8 @@ images:
 - /images/posts/ig-2022-08-24-beef-rib-from-smoke-queen/17964687034849463.jpg
 tags:
 - los-angeles
+- bbq
+- dumplings
 description: And lastly, had the dumplings. Too bad they were out of the chicken dumplings by 11am. I bet they didn’t even have that day. The pork was good. The beef was unmemorable. The veggie was ok. Their cooking style is quite traditional. Except I would have liked a more crispy skin. I think the unique fillings and wrapper colors were the big draw. I’d order again, just to try the chicken. . . . . . .
 location: Smoke Tokes
 city: Los Angeles
@@ -20,7 +22,10 @@ address: 330 E 3rd St, Los Angeles, CA 90013
 coordinates:
   lat: 34.047259
   lng: -118.242863
-categories: []
+categories:
+- BBQ
+cuisine:
+- BBQ
 ---
 
 ![Beef Rib from Smoke Queen](/images/posts/ig-2022-08-24-beef-rib-from-smoke-queen/18021247084416064.jpg)

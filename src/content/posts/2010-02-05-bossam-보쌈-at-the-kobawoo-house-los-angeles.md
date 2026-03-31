@@ -11,7 +11,8 @@ images:
 - /images/posts/bossam-보쌈-at-the-kobawoo-house-los-angeles/DSCN0020.JPG
 - /images/posts/bossam-보쌈-at-the-kobawoo-house-los-angeles/DSCN0021.JPG
 - /images/posts/bossam-보쌈-at-the-kobawoo-house-los-angeles/DSCN0024.JPG
-categories: []
+categories:
+- Korean
 tags:
 - los-angeles
 - korean

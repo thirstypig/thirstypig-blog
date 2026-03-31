@@ -17,7 +17,8 @@ tags:
 - enchiladas
 description: Family dinner with mom picking Mexican Food. We shared and couldn’t finish everything. We had pork carnitas, cheese enchiladas, beef taquitos, chicken quesadilla, beef tacos, chicken tacos, and Mexican rice. I think I must have carnitas everywhere. Yum! . . . . . . . .
 location: Family dinner with mom picking Mexican Food
-categories: []
+categories:
+- Mexican
 cuisine:
 - Mexican
 ---

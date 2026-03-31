@@ -4,7 +4,8 @@ pubDate: '2010-08-01'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/08/01/shanghai-spicy-noodle-restaurant-%e6%b2%aa%e4%b8%8a%e4%b8%80%e5%ae%b6%e8%be%a3%e8%82%89%e9%9d%a2%e9%a6%86-shanghai/
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

@@ -23,7 +23,8 @@ images:
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-7-copper-statue-88x88.jpg
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-8-shelves-88x88.jpg
 - /images/posts/afternoon-tea-at-寶茶baocha-taipei/Baocha-Tea-9-trinkets-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - taipei
 - chinese

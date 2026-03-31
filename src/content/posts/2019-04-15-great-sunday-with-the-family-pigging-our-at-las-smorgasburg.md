@@ -28,7 +28,8 @@ address: 777 S Alameda St (at Center St), Los Angeles, CA 90021
 coordinates:
   lat: 34.034807
   lng: -118.24184
-categories: []
+categories:
+- Multi
 cuisine:
 - Multi
 ---

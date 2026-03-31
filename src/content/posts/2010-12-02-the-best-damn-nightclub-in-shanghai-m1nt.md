@@ -43,7 +43,8 @@ images:
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-39-88x88.jpg
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-40-88x88.jpg
 - /images/posts/the-best-damn-nightclub-in-shanghai-m1nt/M1NT-Shanghai-41-88x88.jpg
-categories: []
+categories:
+- Cocktails
 description: '> M1NT is where the celebrities play with the stars overlooking the glamour of Shanghai.'
 archiveUrl: https://web.archive.org/web/20101204221204/http://www.thethirstypig.com:80/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/
 draft: false

@@ -25,7 +25,8 @@ address: 3514 Rosemead Blvd, Rosemead, CA 91770
 coordinates:
   lat: 34.072908
   lng: -118.070917
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

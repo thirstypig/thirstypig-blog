@@ -4,7 +4,8 @@ pubDate: '2010-01-28'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/28/new-house-korea-rowland-heights/
-categories: []
+categories:
+- Korean
 tags:
 - rowland-heights
 - korean

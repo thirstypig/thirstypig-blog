@@ -21,7 +21,8 @@ address: 2114 E Foothill Blvd (at Craig Ave), Pasadena, CA 91107
 coordinates:
   lat: 34.149519
   lng: -118.106795
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

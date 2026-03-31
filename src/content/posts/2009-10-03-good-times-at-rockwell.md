@@ -11,7 +11,8 @@ images:
 - /images/posts/good-times-at-rockwell/IMG_0915.JPG
 - /images/posts/good-times-at-rockwell/IMG_0925.JPG
 - /images/posts/good-times-at-rockwell/IMG_0926.JPG
-categories: []
+categories:
+- Cocktails
 tags:
 - los-feliz
 - cocktails

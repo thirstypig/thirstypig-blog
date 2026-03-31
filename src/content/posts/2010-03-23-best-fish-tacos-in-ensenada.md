@@ -12,7 +12,8 @@ images:
 - /images/posts/best-fish-tacos-in-ensenada/IMG_0324.JPG
 - /images/posts/best-fish-tacos-in-ensenada/IMG_0328.JPG
 - /images/posts/best-fish-tacos-in-ensenada/IMG_0329.JPG
-categories: []
+categories:
+- Mexican
 tags:
 - los-feliz
 - mexican

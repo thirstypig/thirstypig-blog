@@ -21,7 +21,8 @@ address: 97 St Marks Pl, New York, NY 10009
 coordinates:
   lat: 40.727471
   lng: -73.984585
-categories: []
+categories:
+- Taiwanese
 cuisine:
 - Taiwanese
 ---

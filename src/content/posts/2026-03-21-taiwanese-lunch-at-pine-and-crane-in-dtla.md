@@ -6,6 +6,8 @@ author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/17897894196419106.jpg
 tags:
 - dtla
+- taiwanese
+- lunch
 cuisine:
 - Taiwanese
 location: Pine & Crane
@@ -27,7 +29,8 @@ images:
 - /images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/18081378278610836.jpg
 source: instagram
 draft: false
-categories: []
+categories:
+- Taiwanese
 ---
 
 ![Taiwanese lunch at Pine and Crane in dtla](/images/posts/ig-2026-03-21-taiwanese-lunch-at-pine-and-crane-in-dtla/17897894196419106.jpg)

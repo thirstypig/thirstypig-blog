@@ -11,7 +11,8 @@ images:
 - /images/posts/the-sub-guilianos/DSCN0012.JPG
 - /images/posts/the-sub-guilianos/DSCN0014.JPG
 - /images/posts/the-sub-guilianos/DSCN0015.JPG
-categories: []
+categories:
+- American
 tags:
 - gardena
 - american

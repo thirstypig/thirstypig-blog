@@ -20,7 +20,8 @@ description: Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focu
 location: Xindalu (新大陆)
 city: Shanghai
 region: Shanghai
-categories: []
+categories:
+- Chinese
 address: 199 Huangpu Rd | 黄浦路199号 (1/F Hyatt on the Bund | 上海外滩茂悦大酒店1楼大堂), Huangpu, 上海市, 200080
 coordinates:
   lat: 31.247296

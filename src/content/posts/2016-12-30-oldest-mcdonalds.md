@@ -4,7 +4,8 @@ pubDate: '2016-12-30'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2016/12/30/oldest-mcdonalds/
-categories: []
+categories:
+- American
 tags:
 - american
 - burgers

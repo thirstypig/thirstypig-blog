@@ -16,7 +16,8 @@ description: Ramen for dinner at Tatsunoya in Old Town Pasadena. Wife’s favori
 location: Old Town Pasadena
 city: Pasadena
 region: Pasadena
-categories: []
+categories:
+- Japanese
 address: Pasadena, CA 91105
 coordinates:
   lat: 34.145657

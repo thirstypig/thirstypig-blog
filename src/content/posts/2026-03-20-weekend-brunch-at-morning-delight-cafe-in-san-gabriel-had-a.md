@@ -4,9 +4,13 @@ pubDate: 2026-03-20 00:00:00+00:00
 description: Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the egg pancakes - with sausage and pork. They were out of the tuna ones. Also had the peanut butter toast and a hash brown. Unfortunately the egg pancakes lacked egg - I think it was a small one too. The peanut butter toast barely had peanut butter. I really wanted to like this place but I don’t. I love a good Taiwanese egg pancake 蛋餅 I also like their concept. But at those prices and the execution - I can’t say I like it. The other couple of times I tried to go they ran out of food before they closed, which pissed me off. Anyways. I cannot recommend. And I will not return.
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg
-categories: []
+categories:
+- Taiwanese
 tags:
 - san-gabriel
+- taiwanese
+- egg-pancakes
+- brunch
 location: Morning Delight Cafe
 city: San Gabriel
 region: San Gabriel Valley
@@ -24,6 +28,8 @@ images:
 - /images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17955829088940515.jpg
 source: instagram
 draft: false
+cuisine:
+- Taiwanese
 ---
 
 ![Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the eg...](/images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg)

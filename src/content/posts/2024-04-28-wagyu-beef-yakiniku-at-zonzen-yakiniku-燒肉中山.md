@@ -12,10 +12,16 @@ images:
 - /images/posts/ig-2024-04-28-wagyu-beef-yakiniku-at-zonzen-yakiniku-燒肉中山/17883452814046597.jpg
 - /images/posts/ig-2024-04-28-wagyu-beef-yakiniku-at-zonzen-yakiniku-燒肉中山/17843952192213458.jpg
 - /images/posts/ig-2024-04-28-wagyu-beef-yakiniku-at-zonzen-yakiniku-燒肉中山/18034217152754205.jpg
-tags: []
+tags:
+- japanese
+- yakiniku
+- wagyu
 description: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山. One of the best meals I’ve had in in Asia. Outstanding beef - marbling, flavor with just salt, and tender buttery texture. Decor was cool. They even have a robot server. . . .
 location: Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山
-categories: []
+categories:
+- Japanese
+cuisine:
+- Japanese
 ---
 
 ![Wagyu Beef Yakiniku at Zonzen Yakiniku 燒肉中山](/images/posts/ig-2024-04-28-wagyu-beef-yakiniku-at-zonzen-yakiniku-燒肉中山/17944073714804886.jpg)

@@ -17,7 +17,8 @@ tags:
 description: Japanese fried chicken karage 🍗 🐓 🐔 very crunchy with lots of choices for dipping sauces. Yummy . . . . .
 city: Tokyo
 region: Tokyo
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

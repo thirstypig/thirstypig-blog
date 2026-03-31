@@ -4,7 +4,8 @@ pubDate: '2010-06-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/
-categories: []
+categories:
+- Taiwanese
 tags:
 - taipei
 - taiwanese

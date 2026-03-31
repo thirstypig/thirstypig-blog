@@ -20,7 +20,8 @@ address: 316 W 2nd St (at S Hill St), Los Angeles, CA 90012
 coordinates:
   lat: 34.052522
   lng: -118.247462
-categories: []
+categories:
+- American
 cuisine:
 - American
 ---

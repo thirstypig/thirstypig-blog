@@ -25,7 +25,8 @@ images:
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-19-88x88.jpg
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-20-88x88.jpg
 - /images/posts/复兴汇-fuxinghui-shanghai/Fuxinghui-Shanghai-21-88x88.jpg
-categories: []
+categories:
+- Chinese
 tags:
 - shanghai
 - chinese

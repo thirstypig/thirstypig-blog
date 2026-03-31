@@ -4,7 +4,8 @@ pubDate: '2010-01-18'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/01/18/noodle-house-mpk/
-categories: []
+categories:
+- Chinese
 tags:
 - mpk
 - chinese

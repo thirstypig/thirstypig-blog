@@ -4,7 +4,8 @@ pubDate: '2010-09-08'
 author: The Thirsty Pig
 source: thirstypig.com
 originalUrl: http://thirstypig.com/2010/09/08/yuyuan-garden-%e8%b1%ab%e5%9b%ad-shanghai/
-categories: []
+categories:
+- Uncategorized
 tags:
 - shanghai
 description: Yuyuan Garden is probably the most popular tourist attraction in Shanghai. Located in the middle of city, close the Bund, this spot was a private residence with a sprawling garden and reflection pools

@@ -13,7 +13,8 @@ images:
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-05-494x368.jpg
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-06-494x368.jpg
 - /images/posts/bellagio-shanghai/Bellagio-Shanghai-07-494x368.jpg
-categories: []
+categories:
+- Taiwanese
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20111014113348/http://www.thethirstypig.com/2011/09/20/bellagio-shanghai/
 draft: false

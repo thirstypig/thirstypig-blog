@@ -21,7 +21,8 @@ address: 30 Rockefeller Plz (btwn 5th & 6th Ave), New York, NY 10112
 coordinates:
   lat: 40.759157
   lng: -73.979687
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

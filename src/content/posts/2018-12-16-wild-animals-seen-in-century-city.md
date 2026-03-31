@@ -13,7 +13,8 @@ images:
 tags: []
 description: Wild Animals seen in Century City! Frogcats from Dreamscape Immersive VR. Saw Alien Zoo. Want to The Blu and Magic Projector next! . . .
 location: Wild Animals seen in Century City
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

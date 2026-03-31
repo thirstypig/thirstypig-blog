@@ -20,7 +20,8 @@ tags:
 description: Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn. Started with a Caesar salad and octopus salad. Then had a sausage and mushroom pizza and a prosciutto and arugula pizza. Solid thin crust pizza. . . . .
 location: Di Fara Pizza
 city: Brooklyn
-categories: []
+categories:
+- Italian
 region: New York
 address: 1424 Avenue J (at E 15th St), Brooklyn, NY 11230
 coordinates:

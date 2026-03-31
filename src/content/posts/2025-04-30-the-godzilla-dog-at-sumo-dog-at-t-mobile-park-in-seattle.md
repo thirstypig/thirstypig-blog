@@ -13,6 +13,9 @@ images:
 - /images/posts/ig-2025-04-30-the-godzilla-dog-at-sumo-dog-at-t-mobile-park-in-seattle/18162379789347728.jpg
 tags:
 - seattle
+- american
+- hot-dogs
+- ballpark-food
 description: The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle. Watching the Mariners take on the Angels and savoring a baseball game hot dog. I’m proudly wearing my Dodger cap and checking out the baseball in Seattle and the ballpark. . . .
 location: The 'Pen at T-Mobile Park
 city: Seattle
@@ -21,7 +24,10 @@ address: 1250 1st Ave S (at Edgar Martinez Dr), Seattle, WA 98134
 coordinates:
   lat: 47.592027
   lng: -122.331909
-categories: []
+categories:
+- American
+cuisine:
+- American
 ---
 
 ![The Godzilla Dog at Sumo Dog at T-Mobile Park in Seattle](/images/posts/ig-2025-04-30-the-godzilla-dog-at-sumo-dog-at-t-mobile-park-in-seattle/18004662821765582.jpg)

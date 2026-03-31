@@ -23,7 +23,8 @@ address: 108 W 2nd St (at Main St), Los Angeles, CA 90012
 coordinates:
   lat: 34.051342
   lng: -118.244571
-categories: []
+categories:
+- Cajun
 cuisine:
 - Cajun
 ---

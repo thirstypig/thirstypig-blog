@@ -20,7 +20,8 @@ address: 1120 Manhattan Ave (at Manhattan Beach Blvd), Manhattan Beach, CA 90266
 coordinates:
   lat: 33.884676
   lng: -118.410575
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

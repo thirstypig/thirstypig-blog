@@ -16,7 +16,8 @@ description: Found the Secret Swing in Elysian Park. Easy to find but a bit of a
 location: Found the Secret Swing in Elysian Park
 city: Downtown LA
 region: Los Angeles
-categories: []
+categories:
+- Uncategorized
 cuisine: []
 ---
 

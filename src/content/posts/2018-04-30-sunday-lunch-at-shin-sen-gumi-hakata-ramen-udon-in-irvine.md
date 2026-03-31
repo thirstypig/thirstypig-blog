@@ -23,7 +23,8 @@ address: 6404 Irvine Blvd, Irvine, CA 92620
 coordinates:
   lat: 33.69807
   lng: -117.740985
-categories: []
+categories:
+- Japanese
 cuisine:
 - Japanese
 ---

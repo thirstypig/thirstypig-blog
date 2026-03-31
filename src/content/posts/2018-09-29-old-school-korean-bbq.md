@@ -23,7 +23,8 @@ address: 3385 W 8th St (at S Kingsley Dr), Los Angeles, CA 90005
 coordinates:
   lat: 34.057926
   lng: -118.302766
-categories: []
+categories:
+- Korean
 cuisine:
 - Korean
 ---
