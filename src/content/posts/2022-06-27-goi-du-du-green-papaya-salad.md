@@ -1,5 +1,5 @@
 ---
-title: 'Goi Du Du, Unknown'
+title: 'Goi Vietnamese Eats, Los Angeles'
 pubDate: 2022-06-27T00:00:00.000Z
 description: Goi Du Du - green papaya salad. And Goi Guon - fresh spring rolls. Yum. Nice spot for a light dinner. . . . .
 author: The Thirsty Pig
