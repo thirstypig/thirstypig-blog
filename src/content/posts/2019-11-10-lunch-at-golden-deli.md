@@ -1,5 +1,5 @@
 ---
-title: Golden Deli
+title: 'Golden Deli, San Gabriel'
 pubDate: 2019-11-10T00:00:00.000Z
 description: 'Lunch at Golden Deli. Pho, spring rolls, and rolls. Yummy! . . .'
 author: The Thirsty Pig
