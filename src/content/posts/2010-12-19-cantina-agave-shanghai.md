@@ -12,7 +12,7 @@ tags:
 - tex-mex
 description: I try to avoid certain ethnic cuisines while in Asia, Mexican being one of them. I have tried for years to try to accept Mexican foods in Taiwan, Hong Kong, and now Shanghai. Both in Taiwan and Hong K
 archiveUrl: https://web.archive.org/web/20160914223841/http://thirstypig.com/2010/12/19/cantina-agave-shanghai/
-draft: false
+draft: true
 location: Cantina Agave
 city: Shanghai
 region: Shanghai

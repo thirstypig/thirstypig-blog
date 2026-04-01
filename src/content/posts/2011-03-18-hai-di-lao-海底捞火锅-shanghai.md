@@ -12,7 +12,7 @@ tags:
 - hot-pot
 description: Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimen
 archiveUrl: https://web.archive.org/web/20160829104122/http://thirstypig.com/2011/03/18/hai-di-lao-%e6%b5%b7%e5%ba%95%e6%8d%9e%e7%81%ab%e9%94%85-shanghai/
-draft: false
+draft: true
 location: Haidilao Hot Pot (海底捞火锅)
 city: Shanghai
 region: Shanghai

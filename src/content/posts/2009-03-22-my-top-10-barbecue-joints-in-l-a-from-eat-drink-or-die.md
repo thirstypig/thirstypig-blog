@@ -11,7 +11,7 @@ tags:
 - bbq
 description: I first read Eat Drink or Die this past week and realized that they have a great site. Then I saw Michael Lippman’s post about the top 10+ bbq joints. . . I found some places that I really want to vis
 archiveUrl: https://web.archive.org/web/20110105061748/http://www.thethirstypig.com/2009/03/22/my-top-10-barbecue-joints-in-l-a-from-eat-drink-or-die/
-draft: false
+draft: true
 location: Eat
 city: Los Angeles
 region: Los Angeles

@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: 'With the trend of Organic food, farmer’s markets have been more popular than ever. You can find the best produce and vegetables at these outdoor markets. In addition to strawberries and tomatoes, you '
 archiveUrl: https://web.archive.org/web/20110105204158/http://www.thethirstypig.com/2009/01/21/southern-california-farmers-markets/
-draft: false
+draft: true
 location: Southern California Farmers’ Markets
 city: Santa Monica
 region: Westside

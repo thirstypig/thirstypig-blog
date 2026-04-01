@@ -13,7 +13,7 @@ tags:
 - marinated-meats
 description: This week, I am trying to round up my past visit to all the LA area restaurants that I recently tried before I left for Asia. And Homegirl Cafe is strongly recommend by a good friend.
 archiveUrl: https://web.archive.org/web/20161105201427/http://thirstypig.com/2010/04/01/homegirl-cafe-catering-dtla/
-draft: false
+draft: true
 location: Homegirl Cafe and Catering
 city: Dtla
 region: Downtown LA

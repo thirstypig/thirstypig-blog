@@ -12,7 +12,7 @@ tags:
 - cooking-demonstration
 description: Last Saturday the world-renown 3-Star Michelin chef Jean-Georges Vongerichten was in town, Shanghai, showcasing a cooking demonstration & class at his restaurant Jean Georges Shanghai.
 archiveUrl: https://web.archive.org/web/20161018102047/http://thirstypig.com/2011/04/23/lunch-jean-georges-shanghai/
-draft: false
+draft: true
 location: Jean Georges
 city: Shanghai
 region: Shanghai

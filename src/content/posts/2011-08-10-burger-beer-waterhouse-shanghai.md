@@ -13,7 +13,7 @@ tags:
 - beer
 description: Anticipated and Overrated.
 archiveUrl: https://web.archive.org/web/20161106062859/http://thirstypig.com/2011/08/10/burger-beer-waterhouse-shanghai/
-draft: false
+draft: true
 location: Burger and Beer at the Waterhouse
 city: Shanghai
 region: Shanghai

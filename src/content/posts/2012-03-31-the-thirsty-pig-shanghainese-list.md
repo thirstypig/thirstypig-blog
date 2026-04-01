@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: Favorite Shanghainese Restaurants 1. Old Jesse 吉士, Shanghaihttp://www.thethirstypig.com/2010/12/22/restaurant-jesse-吉士-of-shanghai/ – the steamed fish head and drunken crab 2. 小白桦酒家 XiaoBaiHua, Shangh
 archiveUrl: https://web.archive.org/web/20120413074540/http://www.thethirstypig.com:80/2012/03/31/the-thirsty-pig-shanghainese-list/
-draft: false
+draft: true
 city: Shanghai
 region: Shanghai
 tags:

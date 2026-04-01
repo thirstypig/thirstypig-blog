@@ -13,7 +13,7 @@ tags:
 - cubano
 description: Love the Grilled Corn Mexican Style with cotija cheese – one day I am going copy it They make a proper Cubano with both Ham and Pork Nice walled garden for outdoor seating Good brunch spot Wish they h
 archiveUrl: https://web.archive.org/web/20161221023059/http://thirstypig.com/2016/12/15/cafe-habana-malibu/
-draft: false
+draft: true
 location: Cafe Habana Malibu
 city: Santa Monica
 region: Westside

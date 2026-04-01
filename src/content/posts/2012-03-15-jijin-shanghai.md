@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: Click the pictures below to enlarge them
 archiveUrl: https://web.archive.org/web/20120419022242/http://www.thethirstypig.com:80/2012/03/15/jijin-shanghai/
-draft: false
+draft: true
 location: Jing'an Park (静安公园)
 city: Shanghai
 region: Shanghai

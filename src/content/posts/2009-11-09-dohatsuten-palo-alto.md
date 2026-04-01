@@ -13,7 +13,7 @@ tags:
 - tapas
 description: Dohatsuten is a nice little find in the South Bay of Northern Cal. Who says there isn’t good food down here. The South Bay resembles Southern California with its diversity of ethnic cuisine. And Dohat
 archiveUrl: https://web.archive.org/web/20161106041709/http://thirstypig.com/2009/11/09/dohatsuten-palo-alto/
-draft: false
+draft: true
 location: Dohatsuten
 address: 799 San Antonio Rd Palo Alto, CA 94303
 city: Palo Alto

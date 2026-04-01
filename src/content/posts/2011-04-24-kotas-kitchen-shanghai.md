@@ -13,7 +13,7 @@ tags:
 - ramen
 description: Kota’s is a small yakitori restaurant near the Shanghai Stadium. This establishment combines the western culture of the Beatles with the traditional Japanese setting. This cozy place bring intimacy wi
 archiveUrl: https://web.archive.org/web/20160911044418/http://thirstypig.com/2011/04/24/kotas-kitchen-shanghai/
-draft: false
+draft: true
 location: Kota's Kitchen II
 city: Shanghai
 region: Shanghai

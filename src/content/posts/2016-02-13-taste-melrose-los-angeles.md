@@ -13,7 +13,7 @@ tags:
 - brunch
 description: Great Happy Hour Mac and Cheese, all versions, is nice and cheesy and gooey Nice semi-outdoor patio in the back. Small, cozy, and airy Heard it has a pretty good brunch menu Valet parking available, b
 archiveUrl: https://web.archive.org/web/20160914091358/http://thirstypig.com/2016/02/13/taste-melrose-los-angeles/
-draft: false
+draft: true
 location: Taste on Melrose
 city: Los Angeles
 region: Hollywood

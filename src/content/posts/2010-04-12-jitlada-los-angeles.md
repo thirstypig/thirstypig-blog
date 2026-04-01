@@ -13,7 +13,7 @@ tags:
 - seafood
 description: Jitlada specializes in southern Thai style cuisine. Arguably the best Thai restaurant in Southern California, Jitlada can also be found at some of summer Food & Wine festivals. Several LA food writers
 archiveUrl: https://web.archive.org/web/20161106015446/http://thirstypig.com/2010/04/12/jitlada-los-angeles/
-draft: false
+draft: true
 location: Jitlada
 city: Los Angeles
 region: Hollywood

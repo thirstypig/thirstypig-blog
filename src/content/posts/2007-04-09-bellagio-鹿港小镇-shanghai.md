@@ -13,7 +13,7 @@ tags:
 - rice
 description: Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What
 archiveUrl: https://web.archive.org/web/20161106101600/http://thirstypig.com/2007/04/09/bellagio-%e9%b9%bf%e6%b8%af%e5%b0%8f%e9%95%87-shanghai/
-draft: false
+draft: true
 location: Bellagio (鹿港小鎮)
 city: Shanghai
 region: Shanghai

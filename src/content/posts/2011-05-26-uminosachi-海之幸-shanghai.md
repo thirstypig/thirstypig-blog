@@ -12,7 +12,7 @@ tags:
 - teppanyaki
 description: Based on an article in CNNGohttp://www.cnngo.com/shanghai/eat/shanghais-5-best-all-you-can-eat-teppanyaki-627739?page=0,1 about Japanese restaurants, I decided to try Uminosachi. Boy, did I regret it.
 archiveUrl: https://web.archive.org/web/20161019014445/http://thirstypig.com/2011/05/26/uminosachi-%e6%b5%b7%e4%b9%8b%e5%b9%b8-shanghai/
-draft: false
+draft: true
 location: Umi No Sachi 海之幸
 city: Shanghai
 region: Shanghai

@@ -13,7 +13,7 @@ tags:
 - fries
 description: Chubby Pork Belly Bowl is my favorite at Chego Ooey Gooey Fries are quite popular The Beefy T is not bad, but better with the fried egg Outdoor picnic table seating available Cool area with lots of ea
 archiveUrl: https://web.archive.org/web/20161213073036/http://thirstypig.com/2016/12/01/chego-chinatown-la/
-draft: false
+draft: true
 location: Chego!
 city: Chinatown
 region: Downtown LA

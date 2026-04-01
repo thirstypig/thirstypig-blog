@@ -12,7 +12,7 @@ tags:
 - pizza
 description: 'gallery-2 { margin: auto; } gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 20%; } gallery-2 img { border: 2px solid cfcfcf; } gallery-2 .gallery-caption { margin-l'
 archiveUrl: https://web.archive.org/web/20110502071602/http://www.thethirstypig.com:80/2011/04/29/colabo-shanghai/
-draft: false
+draft: true
 location: Colabo Pizza & Vino
 city: Shanghai
 region: Shanghai

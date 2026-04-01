@@ -13,7 +13,7 @@ tags:
 - casual-dining
 description: Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt
 archiveUrl: https://web.archive.org/web/20161106043500/http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
-draft: false
+draft: true
 location: Green Street Tavern
 city: Pasadena
 region: Pasadena

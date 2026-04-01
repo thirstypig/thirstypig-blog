@@ -13,7 +13,7 @@ tags:
 - dim-sum
 description: Opulence is the word that I would choose in describing modern Chinese cuisine and interior restaurant decor. Fabulous, flashy, glamorous, bold, exciting, intriguing, are other words I would pick. TMSK
 archiveUrl: https://web.archive.org/web/20161018195425/http://thirstypig.com/2010/07/24/tmsk-shanghai-xintiandi-%e6%96%b0%e5%a4%a9%e5%9c%b0/
-draft: false
+draft: true
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai

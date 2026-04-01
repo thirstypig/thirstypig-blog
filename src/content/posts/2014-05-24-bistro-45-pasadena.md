@@ -13,7 +13,7 @@ tags:
 - roasted-chicken
 description: Underrated Pasadena restaurant Good American-French food done right Great Service Must order the mussels Roasted Chicken was juicy and not dry
 archiveUrl: https://web.archive.org/web/20160914221954/http://thirstypig.com/2014/05/24/bistro-45-pasadena/
-draft: false
+draft: true
 location: Bistro 45
 city: Pasadena
 region: Pasadena

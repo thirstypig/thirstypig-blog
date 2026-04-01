@@ -13,7 +13,7 @@ tags:
 - korean-cuisine
 description: Yelp Listinghttps://www.yelp.com/biz/new-house-of-korea-rowland-heights-3
 archiveUrl: https://web.archive.org/web/20161105040927/http://thirstypig.com/2010/01/28/new-house-korea-rowland-heights/
-draft: false
+draft: true
 location: New House of Korea
 city: Rowland Heights
 region: San Gabriel Valley

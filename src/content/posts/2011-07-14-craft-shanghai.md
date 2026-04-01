@@ -12,7 +12,7 @@ tags:
 - vodka
 description: Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singa
 archiveUrl: https://web.archive.org/web/20161106075149/http://thirstypig.com/2011/07/14/craft-shanghai/
-draft: false
+draft: true
 location: Craft
 city: Shanghai
 region: Shanghai

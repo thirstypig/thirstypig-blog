@@ -13,7 +13,7 @@ tags:
 - dumplings
 description: Cha’s, which opened in 2009, looks like its been there for years. A typical Hong Kong Cantonese cafe/diner – Cha features great Cantonese dishes. The original chain is based out of Hong Kong, and is b
 archiveUrl: https://web.archive.org/web/20160910224243/http://thirstypig.com/2011/06/06/chas-restaurant-shanghai/
-draft: false
+draft: true
 location: Cha's Restaurant (查餐厅)
 city: Shanghai
 region: Shanghai

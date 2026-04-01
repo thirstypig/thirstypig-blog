@@ -12,7 +12,7 @@ tags:
 - sushi
 description: 1. The Steak Househttp://www.steakhousekobe.com/ – Kobe beef steaks. Omigosh, just take a look at the pictures on their site. 2. Ikko Japanese Restauranthttp://www.yelp.com/biz/ikko-japanese-restauran
 archiveUrl: https://web.archive.org/web/20110105203059/http://www.thethirstypig.com/2009/01/29/sixes-underrated-japanese-restaurants-in-southern-california/
-draft: false
+draft: true
 location: Sixes
 city: Los Angeles
 region: Los Angeles

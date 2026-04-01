@@ -13,7 +13,7 @@ tags:
 - fries
 description: A decent burger from the East Coast, Five Guys Burgers and Fries, makes its way to my stomach. Though the image of the burger is not appetizing . . .almost looks like a sad burger, it is actually a pr
 archiveUrl: https://web.archive.org/web/20161105183051/http://thirstypig.com/2009/12/01/five-guys-la/
-draft: false
+draft: true
 location: Five Guys
 city: Pasadena
 region: Pasadena

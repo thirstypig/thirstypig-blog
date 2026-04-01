@@ -13,7 +13,7 @@ tags:
 - burgers
 description: Holy crap . . . what a find. Did you know that Dino’s has the most yelp burger reviews in Los Angeles, except for Tommy’s? And Dino’s doesn’t even specialize in burgers.
 archiveUrl: https://web.archive.org/web/20161105195857/http://thirstypig.com/2010/03/11/dinos-chicken-burgers-los-angeles/
-draft: false
+draft: true
 location: Dino’s Chicken and Burgers
 city: Los Angeles
 address: 2575 W Pico Blvd Los Angeles, CA 90006

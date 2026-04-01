@@ -13,7 +13,7 @@ tags:
 - mandu
 description: Since 1966 Founder of Kalguksu, Noodle soup Popular with tourists Also great Mandu
 archiveUrl: https://web.archive.org/web/20161105081118/http://thirstypig.com/2012/01/08/myeongdong-kyoja-%eb%aa%85%eb%8f%99%ea%b5%90%ec%9e%90-seoul/
-draft: false
+draft: true
 location: Myeongdong Kyoja (명동교자)
 city: Seoul
 region: Seoul

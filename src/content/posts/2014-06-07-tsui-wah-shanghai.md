@@ -13,7 +13,7 @@ tags:
 - pineapple-buns
 description: Went to my first one in Hong Kong, in 2003 Love the bbq pork and roast pork Gets crowded fast. Especially before and after the clubs open and close The Pineapple buns are good and popular. Probably th
 archiveUrl: https://web.archive.org/web/20160915042555/http://thirstypig.com/2014/06/07/tsui-wah-shanghai/
-draft: false
+draft: true
 location: Tsui Wah Restaurant (翠华餐厅)
 city: Shanghai
 region: Shanghai

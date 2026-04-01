@@ -12,7 +12,7 @@ tags:
 - lobster-roll
 description: Inside Cousin’s Maine
 archiveUrl: https://web.archive.org/web/20161019003843/http://thirstypig.com/2015/08/28/la-lobster-roll-crawl-emc-connie-teds-cousins-los-angeles/
-draft: false
+draft: true
 location: LA Lobster Roll Crawl – EMC
 city: Los Angeles
 address: 8171 Santa Monica Blvd

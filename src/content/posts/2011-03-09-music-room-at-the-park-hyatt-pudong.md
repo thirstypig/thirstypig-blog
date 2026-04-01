@@ -12,7 +12,7 @@ tags:
 - nightclub
 description: In large metropolitan cities, some of the best night clubs are located at the top of high-rises. Towering nighttime views offer excitement, romance, and allure. The Music Room at the Park Hyatt in Pud
 archiveUrl: https://web.archive.org/web/20110314202521/http://www.thethirstypig.com:80/2011/03/09/music-room-at-the-park-hyatt-pudong/
-draft: false
+draft: true
 location: The Living Room by Octave (The Living Room by Octave (Living Room by Octave | 音昱听堂))
 city: Shanghai
 region: Shanghai

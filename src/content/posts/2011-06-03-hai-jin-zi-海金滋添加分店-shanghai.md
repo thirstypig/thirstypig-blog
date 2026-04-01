@@ -12,7 +12,7 @@ tags:
 - hot-pot
 description: Every once and awhile, you go to a restaurant without any expectations and leave pleasantly surprised. This is what happened when I supposedly thought I was going for a simple happy hour.
 archiveUrl: https://web.archive.org/web/20161019080144/http://thirstypig.com/2011/06/03/hai-jin-zi-%e6%b5%b7%e9%87%91%e6%bb%8b%e6%b7%bb%e5%8a%a0%e5%88%86%e5%ba%97-shanghai/
-draft: false
+draft: true
 location: Haidilao Hot Pot (海底捞火锅)
 city: Shanghai
 region: Shanghai

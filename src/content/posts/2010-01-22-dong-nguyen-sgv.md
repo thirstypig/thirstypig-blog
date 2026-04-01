@@ -13,7 +13,7 @@ tags:
 - chinese
 description: Dong Nguyen is a neighborhood favorite in San Gabriel. Their menu features languages in Vietnamese, Chinese, English, and Thai. You could say this is the All American restaurant of different nationali
 archiveUrl: https://web.archive.org/web/20161104233558/http://thirstypig.com/2010/01/22/dong-nguyen-sgv/
-draft: false
+draft: true
 location: Dong Nguyen
 city: Sgv
 region: San Gabriel Valley

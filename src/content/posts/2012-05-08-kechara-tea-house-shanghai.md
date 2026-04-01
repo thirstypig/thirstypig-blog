@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: Click on the Pictures Above to enlarge
 archiveUrl: https://web.archive.org/web/20120606120223/http://www.thethirstypig.com:80/2012/05/08/kechara-tea-house-shanghai/
-draft: false
+draft: true
 location: Kechara Tea House | 克切拉素品茶
 city: Shanghai
 region: Shanghai

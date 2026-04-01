@@ -13,7 +13,7 @@ tags:
 - burgers
 description: I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylize
 archiveUrl: https://web.archive.org/web/20161105081112/http://thirstypig.com/2009/09/25/westside-tavern-los-angeles/
-draft: false
+draft: true
 location: Westside Tavern
 city: Los Angeles
 region: Westside

@@ -13,7 +13,7 @@ tags:
 - beer
 description: Dr. Beer is a new entrant in the Micro-Bewery or gastropubs in Shanghai. Dr. Beer will compete on a few different fronts with other establishments. Related to Dr. Wine, just located down the street on
 archiveUrl: https://web.archive.org/web/20161105140521/http://thirstypig.com/2011/12/17/dr-beer-shanghai/
-draft: false
+draft: true
 location: Dr. Beer
 city: Shanghai
 region: Shanghai

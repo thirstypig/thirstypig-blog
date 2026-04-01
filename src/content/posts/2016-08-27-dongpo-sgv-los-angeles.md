@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Overrated Couldn’t Do Sichuan’s Most Famous Dish, Water Boiled Fish, right Great Decor Scallops were terrible Spicy dry noodles were really good
 archiveUrl: https://web.archive.org/web/20160828111541/http://thirstypig.com/2016/08/27/dongpo-sgv-los-angeles/
-draft: false
+draft: true
 location: Dongpo
 city: Sgv
 region: San Gabriel Valley

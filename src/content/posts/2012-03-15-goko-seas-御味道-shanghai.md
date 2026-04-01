@@ -12,7 +12,7 @@ tags:
 - seafood
 description: Dingping Listinghttp://www.dianping.com/shop/2558077
 archiveUrl: https://web.archive.org/web/20161105235221/http://thirstypig.com/2012/03/15/goko-seas-%e5%be%a1%e5%91%b3%e9%81%93-shanghai/
-draft: false
+draft: true
 location: Goko Seas 御味道
 city: Shanghai
 region: Shanghai

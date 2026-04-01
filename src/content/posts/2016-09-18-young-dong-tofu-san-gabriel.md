@@ -13,7 +13,7 @@ tags:
 - stew
 description: Yelp Listinghttps://www.yelp.com/biz/young-dong-tofu-san-gabriel-san-gabriel?osq=tofu
 archiveUrl: https://web.archive.org/web/20161104233646/http://thirstypig.com/2016/09/18/young-dong-tofu-san-gabriel/
-draft: false
+draft: true
 location: Young Dong Tofu
 city: San Gabriel
 region: San Gabriel Valley

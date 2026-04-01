@@ -12,7 +12,7 @@ tags:
 - tea
 description: There’s a place in Shanghai call DaBuTong Tea City. Its a massive complex, with traditional ornamental Chinese architecture. It looks as if there is a large castle on the corner of this busy street. T
 archiveUrl: https://web.archive.org/web/20161019042250/http://thirstypig.com/2011/01/23/shanghais-tea-city-dabutong-%e5%a4%a7%e4%b8%8d%e5%90%8c-%e5%a4%a9%e5%b1%b1%e8%8c%b6%e5%9f%8e/
-draft: false
+draft: true
 location: Shanghai’s Tea City
 city: Shanghai
 address: 518 West Zhongshan Rd

@@ -12,7 +12,7 @@ tags:
 - pork
 description: Grumpy Pighttp://www.thegrumpypig.com/ 65-4 Maoming Bei Lu, near Yan’an Lu 茂名北路65-4号, 近延安路
 archiveUrl: https://web.archive.org/web/20161106022018/http://thirstypig.com/2010/04/05/grumpy-pig-shanghai/
-draft: false
+draft: true
 location: The Grumpy Pig
 city: Shanghai
 region: Shanghai

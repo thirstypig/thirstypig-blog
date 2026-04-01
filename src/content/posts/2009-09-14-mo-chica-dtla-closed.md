@@ -13,7 +13,7 @@ tags:
 - ceviche
 - seafood
 archiveUrl: https://web.archive.org/web/20160828022203/http://thirstypig.com/2009/09/14/mo-chica-dtla-closed/
-draft: false
+draft: true
 location: Mo-Chica
 city: Dtla
 region: Downtown LA

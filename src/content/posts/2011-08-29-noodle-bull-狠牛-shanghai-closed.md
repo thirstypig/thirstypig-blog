@@ -13,7 +13,7 @@ tags:
 - beef-noodle-soup
 description: Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full
 archiveUrl: https://web.archive.org/web/20161104232542/http://thirstypig.com/2011/08/29/noodle-bull-%e7%8b%a0%e7%89%9b-shanghai-closed/
-draft: false
+draft: true
 location: Noodle Bull
 city: Shanghai
 region: Shanghai

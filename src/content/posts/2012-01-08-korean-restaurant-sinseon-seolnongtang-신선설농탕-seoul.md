@@ -13,7 +13,7 @@ tags:
 - kimchi
 description: Late night Seolnongtang eatery Open 24 hours, I think Kimchi banchan in the tables
 archiveUrl: https://web.archive.org/web/20161105090753/http://thirstypig.com/2012/01/08/korean-restaurant-sinseon-seolnongtang-%ec%8b%a0%ec%84%a0%ec%84%a4%eb%86%8d%ed%83%95-seoul/
-draft: false
+draft: true
 location: National Museum of Korean Contemporary History (대한민국역사박물관)
 city: Seoul
 region: Seoul

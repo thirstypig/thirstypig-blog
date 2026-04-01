@@ -13,7 +13,7 @@ tags:
 - bakery
 description: Quite possibly the best egg tart in Shanghai. Indeed
 archiveUrl: https://web.archive.org/web/20161105184110/http://thirstypig.com/2010/05/07/lillian-cakes-egg-tarts-best-shanghai-%e8%8e%89%e8%8e%b2%e8%9b%8b%e6%8c%9e/
-draft: false
+draft: true
 location: Chicken & Egg
 city: Shanghai
 region: Shanghai

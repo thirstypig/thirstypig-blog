@@ -13,7 +13,7 @@ tags:
 - coffee
 description: Yelp Listinghttps://www.yelp.com/biz/mambos-cafe-glendale
 archiveUrl: https://web.archive.org/web/20161105102644/http://thirstypig.com/2010/03/30/mambos-cafe-glendale/
-draft: false
+draft: true
 location: Mambo’s Cafe
 city: Glendale
 region: San Fernando Valley

@@ -13,7 +13,7 @@ tags:
 - breakfast
 description: 'Perhaps I should have made a few more visits to Bottega Louie, but with the suggestion of some friends, I knew I had to visit this place. The space occupies a prime 1st floor space on a corner in the '
 archiveUrl: https://web.archive.org/web/20160829110429/http://thirstypig.com/2010/03/16/bottega-louie-dtla/
-draft: false
+draft: true
 location: Bottega Louie
 city: Dtla
 region: Downtown LA

@@ -8,7 +8,7 @@ categories:
 - Vietnamese
 description: This is supposedly the best Pho place in Honolulu’s Chinatown district. The restaurant is nestled in between 2 other Pho places, but clearly stands out from the rest. If you’re having a hard time find
 archiveUrl: https://web.archive.org/web/20110105204026/http://www.thethirstypig.com/2009/01/14/pho-to-chau-vietnamese-restaurant-honolulu-hi/
-draft: false
+draft: true
 location: Pho 97 Vietnamese Restaurant
 city: Honolulu
 region: Hawaii

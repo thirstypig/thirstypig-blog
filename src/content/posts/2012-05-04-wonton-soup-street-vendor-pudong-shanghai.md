@@ -13,7 +13,7 @@ tags:
 - soup
 description: Wonton Soup Street Vendor, Pudong Shanghai Lulin Road
 archiveUrl: https://web.archive.org/web/20161106110406/http://thirstypig.com/2012/05/04/wonton-soup-street-vendor-pudong-shanghai/
-draft: false
+draft: true
 location: Fujian Qian Li Xiang Wonton King (福建千里香馄饨王)
 city: Shanghai
 region: Shanghai

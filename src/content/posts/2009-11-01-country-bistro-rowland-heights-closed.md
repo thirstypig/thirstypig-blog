@@ -13,7 +13,7 @@ tags:
 - fried-chicken
 description: Country Bistro appears to be a typical Taiwanese restaurant that you’ll find in San Gabriel valley or in Rowland Heights area. But alas, their secret sauce is their soups – herbal soups, in fact. They
 archiveUrl: https://web.archive.org/web/20161105041608/http://thirstypig.com/2009/11/01/country-bistro-rowland-heights-closed/
-draft: false
+draft: true
 location: Country Bistro
 city: Rowland Heights
 region: San Gabriel Valley

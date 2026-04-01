@@ -12,7 +12,7 @@ tags:
 - noodles
 description: While I was in Ho Chi Minh city, we stumbled across I Love Bun after shopping at Ben Thanh market. How could you resist a place with the name I Love Bun. The modest place seemed like a typical quick s
 archiveUrl: https://web.archive.org/web/20161104195030/http://thirstypig.com/2011/08/14/love-bun-ho-chi-minh-city/
-draft: false
+draft: true
 location: I Love Bún
 cuisine:
 - Vietnamese

@@ -13,7 +13,7 @@ tags:
 - cocktails
 description: GLO London 1 Wulumuqi Lu, near Dongping Lu 乌鲁木齐路1号, 近东平路 +86 21 6466 6565
 archiveUrl: https://web.archive.org/web/20161106063410/http://thirstypig.com/2012/03/25/glo-london-shanghai/
-draft: false
+draft: true
 location: glo London
 city: Shanghai
 region: Shanghai

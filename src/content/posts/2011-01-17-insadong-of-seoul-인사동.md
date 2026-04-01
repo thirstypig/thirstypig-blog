@@ -11,7 +11,7 @@ tags:
 - afternoon-tea
 description: One of the most interesting areas of Seoul that I visited was Insadong 인사동. With a singled laned one-way main street, Insadong features lots of little stores, galleries, and restaurants. Insadong is p
 archiveUrl: https://web.archive.org/web/20110122114305/http://www.thethirstypig.com:80/2011/01/17/insadong-of-seoul-%EC%9D%B8%EC%82%AC%EB%8F%99/
-draft: false
+draft: true
 location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul

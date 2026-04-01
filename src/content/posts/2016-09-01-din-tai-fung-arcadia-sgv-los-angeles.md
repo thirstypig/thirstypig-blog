@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Best Steam Pork Dumplings 小龍包 Great new location and decor, but challenging parking situation Spicy Wontons are great, too Get there is in the late afternoon on a weekday to avoid the crowds Beef in B
 archiveUrl: https://web.archive.org/web/20160901220822/http://thirstypig.com/2016/09/01/din-tai-fung-arcadia-sgv-los-angeles/
-draft: false
+draft: true
 location: Din Tai Fung
 city: Arcadia
 region: San Gabriel Valley

@@ -13,7 +13,7 @@ tags:
 - noodles
 description: The Cook at Kerry Hotel in Pudong was our first visit for Restaurant Week this year, here in Shanghai. The Cook restaurant is a unique concept which blends buffet style, but not an all inclusive all y
 archiveUrl: https://web.archive.org/web/20161105144348/http://thirstypig.com/2011/09/05/cook-kerry-hotel-shanghai/
-draft: false
+draft: true
 location: The Cook at the Kerry Hotel
 city: Shanghai
 region: Shanghai

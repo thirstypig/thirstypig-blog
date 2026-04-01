@@ -13,7 +13,7 @@ tags:
 - bread-bowl
 description: Boudin at the Wharfhttp://www.boudinbakery.com has famous clam chowder in a bread bowl Lots of little sidewalk eateries for fresh seafood Home to many immigrant fisherman from the 1800’s Big tourist a
 archiveUrl: https://web.archive.org/web/20170110000028/http://thirstypig.com/2017/01/09/san-francisco-fishermans-wharf/
-draft: false
+draft: true
 location: Courtyard San Francisco Fisherman's Wharf
 city: San Francisco
 region: Bay Area

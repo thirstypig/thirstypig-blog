@@ -10,7 +10,7 @@ categories:
 tags:
 - hollywood
 archiveUrl: https://web.archive.org/web/20160828103429/http://thirstypig.com/2009/10/09/asia-de-cuba-hollywood-closed/
-draft: false
+draft: true
 location: El Pueblo de Los Angeles Historic Monument
 city: Hollywood
 region: Hollywood

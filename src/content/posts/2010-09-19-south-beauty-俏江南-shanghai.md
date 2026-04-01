@@ -13,7 +13,7 @@ tags:
 - roast-duck
 description: The tea scroll, featuring several different varieties of tea
 archiveUrl: https://web.archive.org/web/20160914022648/http://thirstypig.com/2010/09/19/south-beauty-%e4%bf%8f%e6%b1%9f%e5%8d%97-shanghai/
-draft: false
+draft: true
 location: South Beauty (俏江南)
 city: Shanghai
 region: Shanghai

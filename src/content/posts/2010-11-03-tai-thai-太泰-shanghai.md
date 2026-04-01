@@ -13,7 +13,7 @@ tags:
 - dumplings
 description: First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to g
 archiveUrl: https://web.archive.org/web/20161019105021/http://thirstypig.com/2010/11/03/tai-thai-%e5%a4%aa%e6%b3%b0-shanghai/
-draft: false
+draft: true
 location: Din Tai Fung (鼎泰丰)
 city: Shanghai
 region: Shanghai

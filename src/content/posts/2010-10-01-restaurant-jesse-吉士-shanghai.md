@@ -13,7 +13,7 @@ tags:
 - noodles
 description: The best Shanghainese restaurant, arguably, is Restaurant Jesse or 吉士. With this site, I get always get asked a couple of questions. One of them being – “What is the best Shanghainese restaurant?” Jes
 archiveUrl: https://web.archive.org/web/20160914030518/http://thirstypig.com/2010/10/01/restaurant-jesse-%e5%90%89%e5%a3%ab-shanghai/
-draft: false
+draft: true
 location: Restaurant Jesse 吉士
 city: Shanghai
 region: Shanghai

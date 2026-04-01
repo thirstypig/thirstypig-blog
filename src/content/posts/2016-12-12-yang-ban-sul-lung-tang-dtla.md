@@ -13,7 +13,7 @@ tags:
 - ox-tail
 description: Caters to the Koreans who work in the garment district in DTLA Very good Ox Tail Soup, Sul Lung Tang Beef, and Galbi Tang Beef Rib soups Seems like the only Korean restaurant in the area Hours are a b
 archiveUrl: https://web.archive.org/web/20161220175458/http://thirstypig.com/2016/12/12/yang-ban-sul-lung-tang-dtla/
-draft: false
+draft: true
 location: Yang Ban Sul Lung Tang
 city: Dtla
 region: Downtown LA

@@ -13,7 +13,7 @@ tags:
 - shakes
 description: Concept based on West LA’s Apple Panhttps://en.wikipedia.org/wiki/TheApplePan restaurant, opened in 1947 First location was on Melrose, but closed in 2015 Decent burgers and shakes The staff would oft
 archiveUrl: https://web.archive.org/web/20160828021658/http://thirstypig.com/2009/06/28/johnny-rockets-los-angeles/
-draft: false
+draft: true
 location: Johnny Rockets
 city: Los Angeles
 address: 6801 Hollywood Blvd (at N Highland Ave), Hollywood, CA 90028

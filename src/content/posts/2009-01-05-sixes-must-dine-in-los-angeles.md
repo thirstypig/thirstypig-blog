@@ -12,7 +12,7 @@ tags:
 - dining
 description: Part of my series of Sixes. This will be the first one of many Sixes. Most lists you’ll see are Top 10′s or Top 5 . . . but in an effort to be different, Sixes will be the Thirsty Pig’s thing. As an e
 archiveUrl: https://web.archive.org/web/20110105231705/http://www.thethirstypig.com/2009/01/05/sixes-must-dine-in-los-angeles/
-draft: false
+draft: true
 location: Sixes
 city: Los Angeles
 region: Los Angeles

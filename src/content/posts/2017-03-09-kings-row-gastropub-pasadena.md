@@ -13,7 +13,7 @@ tags:
 - gastropub
 description: My Goto spot for food and sporting events in Old Town Pasadena Burger. Good. Cool outdoor seating area, but is a little tight Darts Live Music
 archiveUrl: https://web.archive.org/web/20170310024920/http://thirstypig.com/2017/03/09/kings-row-gastropub-pasadena/
-draft: false
+draft: true
 location: King’s Row Gastropub
 city: Pasadena
 region: Pasadena

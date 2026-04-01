@@ -13,7 +13,7 @@ tags:
 - chicken
 description: In my limited experience, I believe most Korean dishes are spicy in heat. The hearty nature in the food, fills the stomach, though in forgo’ing taste and appearance. At Yurim, they have a hot pot styl
 archiveUrl: https://web.archive.org/web/20110211070009/http://www.thethirstypig.com:80/2011/01/19/yurim-food-seoul/
-draft: false
+draft: true
 location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul

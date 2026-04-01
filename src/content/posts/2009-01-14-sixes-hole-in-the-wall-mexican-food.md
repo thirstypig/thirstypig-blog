@@ -11,7 +11,7 @@ tags:
 - burritos
 description: 1. Tacos Bajahttp://www.tacosbaja.com/ – Best Fish Tacos. 2. Yuca’shttp://www.yucasla.com/ – Great Tacos and Burritos. 3. Tacos Villa Coronahttp://www.yelp.com/biz/tacos-villa-corona-los-angeles – Awe
 archiveUrl: https://web.archive.org/web/20110105203517/http://www.thethirstypig.com/2009/01/14/sixes-hole-in-the-wall-mexican-food/
-draft: false
+draft: true
 location: Sixes
 cuisine: []
 ---

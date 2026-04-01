@@ -13,7 +13,7 @@ tags:
 - dim-sum
 description: One of the best desserts in the world is the simple cantonese egg tart 蛋撻 or 蛋挞. There are a few accounts on the origins of the mini egg tarts, found today in Chinese Bakeries & Dim Sum Restaurants. I
 archiveUrl: https://web.archive.org/web/20161018183706/http://thirstypig.com/2011/02/27/kam-fung-cafe-%e9%87%91%e9%b3%b3%e8%8c%b6%e9%a4%90%e5%bb%b3-wanchai-hong-kong/
-draft: false
+draft: true
 location: Kam Fung Cafe 金鳳茶餐廳, Wanchai
 city: Hong Kong
 region: Hong Kong

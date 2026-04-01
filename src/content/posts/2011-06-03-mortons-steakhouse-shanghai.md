@@ -13,7 +13,7 @@ tags:
 - cocktails
 description: Arguably, the best happy hour on the Pudong side of Shanghai is at Morton’s the Steakhouse at the IFC shopping center. I recently had a chance to sample their great deal – for RMB 38 martini’s and com
 archiveUrl: https://web.archive.org/web/20161019091803/http://thirstypig.com/2011/06/03/mortons-steakhouse-shanghai/
-draft: false
+draft: true
 location: Morton’s the Steakhouse
 city: Shanghai
 region: Shanghai

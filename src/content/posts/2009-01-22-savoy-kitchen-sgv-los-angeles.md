@@ -13,7 +13,7 @@ tags:
 - chicken
 description: I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and Macau. I can tell you honesty, that the Best Hainan Chicken is from this little hole-in-the-wall in Alhambra – Savoy Kitchen. It’s funn
 archiveUrl: https://web.archive.org/web/20160913080806/http://thirstypig.com/2009/01/22/savoy-kitchen-sgv-los-angeles/
-draft: false
+draft: true
 location: Savoy Kitchen
 city: Sgv
 region: San Gabriel Valley

@@ -13,7 +13,7 @@ tags:
 - cocktails
 description: When you think of English afternoon tea, you think of high society sipping on tea with crumpets at a posh hotel, like the Peninsula. At the Lobby Lounge, that’s what you’ll find. With a live 3 piece s
 archiveUrl: https://web.archive.org/web/20161018163251/http://thirstypig.com/2011/03/17/lobby-lounge-peninsula-hotel-shanghai/
-draft: false
+draft: true
 location: Lobby Lounge
 city: Shanghai
 region: Shanghai

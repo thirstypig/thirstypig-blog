@@ -12,7 +12,7 @@ tags:
 - sausage
 description: My last post, for awhile about Taiwan, ends with a short one about Taiwanese Sausage. At least one thing in Taiwan never changes and will always stay the same – Taiwanese Sausages香腸.
 archiveUrl: https://web.archive.org/web/20161105010728/http://thirstypig.com/2010/07/29/taiwanese-sausage-%e9%a6%99%e8%85%b8/
-draft: false
+draft: true
 location: Shin Yeh Taiwanese Cuisine (欣葉)
 city: Taipei
 region: Taipei

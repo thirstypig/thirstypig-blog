@@ -13,7 +13,7 @@ tags:
 - brunch
 description: Buttermilk Fried Chicken & Cornmeal Wafﬂe is a must order. Chicken is tender and juicy Beignets were almost too much to have at the end, but were yummy – light and fluffy BBQ Shrimp and grits had stro
 archiveUrl: https://web.archive.org/web/20170102232036/http://thirstypig.com/2017/01/02/brown-sugar-kitchen-oakland/
-draft: false
+draft: true
 location: Brown Sugar Kitchen
 city: Oakland
 region: Bay Area

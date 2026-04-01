@@ -13,7 +13,7 @@ tags:
 - fine-dining
 description: '8 1/2 Otto e Mezzo Bombanahttp://www.ottoemezzobombana.com/shanghai/ Rockbund, Associate Mission Building, 6-7/F, 169 Yuanmingyuan Lu, near Beijing Dong Lu 圆明园路169号协进大楼6-7楼近北京东路 Shanghai Phone: +86 21'
 archiveUrl: https://web.archive.org/web/20161105115319/http://thirstypig.com/2012/03/15/8-12-otto-e-mezzo-bombana-shanghai/
-draft: false
+draft: true
 location: 8½ Otto e Mezzo BOMBANA
 city: Shanghai
 region: Shanghai

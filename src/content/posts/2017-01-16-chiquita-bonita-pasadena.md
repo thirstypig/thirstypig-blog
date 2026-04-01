@@ -13,7 +13,7 @@ tags:
 - huevos-rancheros
 description: Authentic Mexican food Classic Mexican breakfast – Chilaquiles and Huevos Rancheros Space looks small from the outside, but large and airy on the inside Will try lunch and dinner next time Parking ava
 archiveUrl: https://web.archive.org/web/20170117003858/http://thirstypig.com/2017/01/16/chiquita-bonita-pasadena/
-draft: false
+draft: true
 location: Chiquita Bonita
 city: Pasadena
 region: Pasadena

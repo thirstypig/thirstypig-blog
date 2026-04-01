@@ -12,7 +12,7 @@ tags:
 - noodles
 description: Tourists, foreigners, and out of towners usually have little or no expectation for food, unless they specifically researched prior to their trip. Yet, the onus of pressure, lies with the host or frien
 archiveUrl: https://web.archive.org/web/20161105232236/http://thirstypig.com/2011/08/13/lemongrass-ho-chi-minh-city/
-draft: false
+draft: true
 location: Lemongrass
 cuisine:
 - Vietnamese

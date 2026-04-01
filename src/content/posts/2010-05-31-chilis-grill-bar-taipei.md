@@ -13,7 +13,7 @@ tags:
 - appetizers
 description: 'My first experience at Chili’s was in high school, in Southern California. Back then, it was such a cool experience, different from fast food joints we were used to. Chili’s was the first type of sit '
 archiveUrl: https://web.archive.org/web/20161106105408/http://thirstypig.com/2010/05/31/chilis-grill-bar-taipei/
-draft: false
+draft: true
 location: Chili's Grill & Bar
 city: Taipei
 region: Taipei

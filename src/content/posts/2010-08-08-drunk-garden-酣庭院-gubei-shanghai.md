@@ -13,7 +13,7 @@ tags:
 - beef-soup
 description: The Gubei area of Shanghai, located in the southwest part of the city proper, boasts a large enclave of Taiwanese and Korean. My personal experience in Gubei is very little. Though I wish to visit tha
 archiveUrl: https://web.archive.org/web/20161018163248/http://thirstypig.com/2010/08/08/drunk-garden-%e9%85%a3%e5%ba%ad%e9%99%a2%e2%80%8e-gubei-shanghai/
-draft: false
+draft: true
 location: Yu Garden (豫园)
 city: Shanghai
 region: Shanghai

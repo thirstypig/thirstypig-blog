@@ -12,7 +12,7 @@ tags:
 - crepes
 description: La Creperie 1 Taojiang Rd, Xuhui Shanghai, China +86 21 5465 9055
 archiveUrl: https://web.archive.org/web/20161106105401/http://thirstypig.com/2011/07/13/la-creperie-shanghai/
-draft: false
+draft: true
 location: La Creperie
 city: Shanghai
 region: Shanghai

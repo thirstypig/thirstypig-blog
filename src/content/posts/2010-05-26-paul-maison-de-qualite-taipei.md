@@ -13,7 +13,7 @@ tags:
 - afternoon-tea
 description: Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quit
 archiveUrl: https://web.archive.org/web/20161105151258/http://thirstypig.com/2010/05/26/paul-maison-de-qualite-taipei/
-draft: false
+draft: true
 location: 樂盒子 La Caja De Musica
 city: Taipei
 region: Taipei

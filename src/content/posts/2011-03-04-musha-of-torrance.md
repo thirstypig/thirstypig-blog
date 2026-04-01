@@ -15,7 +15,7 @@ coordinates:
 originalUrl: http://www.thethirstypig.com:80/2011/03/04/musha-of-torrance/
 archiveUrl: https://web.archive.org/web/20110307205956/http://www.thethirstypig.com:80/2011/03/04/musha-of-torrance/
 source: thethirstypig.com
-draft: false
+draft: true
 tags:
 - torrance
 - japanese

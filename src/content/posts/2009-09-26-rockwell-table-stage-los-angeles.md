@@ -12,7 +12,7 @@ tags:
 - lounge
 description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
 archiveUrl: https://web.archive.org/web/20161106094719/http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
-draft: false
+draft: true
 location: Rockwell Table & Stage
 city: Los Angeles
 region: Hollywood

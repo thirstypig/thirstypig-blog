@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Sells Chinese snacks like duck neck, duck wing, and tofu for take out Really good onion pancake – my favorite Wife likes the Beef Noodle Soup with Rice Noodles Specializes in the different hot wok dis
 archiveUrl: https://web.archive.org/web/20161104194029/http://thirstypig.com/2016/10/17/jue-wei-kitchen-sgv-los-angeles/
-draft: false
+draft: true
 location: Jue Wei Kitchen
 city: Sgv
 region: San Gabriel Valley

@@ -13,7 +13,7 @@ tags:
 - sushi
 description: With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Centr
 archiveUrl: https://web.archive.org/web/20161019093329/http://thirstypig.com/2010/09/04/itoya-%e4%bc%8a%e8%97%a4%e5%ae%b6-shanghai/
-draft: false
+draft: true
 location: Itoya 伊藤家
 city: Shanghai
 region: Shanghai

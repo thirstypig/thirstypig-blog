@@ -13,7 +13,7 @@ tags:
 - braised-beef
 description: On my short list of things to do before I came to Seoul included having Galbi Jjim. Galbi Jjim is braised beef ribs, in a sweet and savory sauce. I first had Galbi Jjim from a small place in Los Angel
 archiveUrl: https://web.archive.org/web/20110122120543/http://www.thethirstypig.com:80/2011/01/18/galbi-jjim-at-%EA%B0%95%EB%82%A8%EB%A9%B4%EC%98%A5-gangnam-myeonok-in-seoul/
-draft: false
+draft: true
 location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul

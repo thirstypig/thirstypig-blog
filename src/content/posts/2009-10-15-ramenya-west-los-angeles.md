@@ -13,7 +13,7 @@ tags:
 - tan-tan-ramen
 description: Located in Little Osaka Been around awhile, favored by loyal customers Could always depend on a solid ramen meal Waits could be long, so get there early Tan-tan ramen is good
 archiveUrl: https://web.archive.org/web/20160828115349/http://thirstypig.com/2009/10/15/ramenya-west-los-angeles/
-draft: false
+draft: true
 location: Ramenya
 city: Osaka
 region: Osaka

@@ -12,7 +12,7 @@ tags:
 - shanghainese
 description: Opened by a couple of Shanghainese brothers, Restaurant Art Salon quaint little eatery in the tree lined Xuhui district or French Concession. Not just a place to eat, this restaurant also features ori
 archiveUrl: https://web.archive.org/web/20161105172325/http://thirstypig.com/2011/07/22/restaurant-art-salon-%e5%b1%8b%e9%87%8c%e9%a6%99-shanghai/
-draft: false
+draft: true
 location: Restaurant Art Salon 屋里香
 city: Shanghai
 region: Shanghai

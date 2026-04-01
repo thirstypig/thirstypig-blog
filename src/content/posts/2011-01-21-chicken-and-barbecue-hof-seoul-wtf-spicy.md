@@ -13,7 +13,7 @@ tags:
 - spicy
 description: Korean love their chicken. They absolutely love their chicken spicy. I don’t think there is anything in American cuisine that comes close to this level of pain. We stopped by Chicken and Hof, as a lat
 archiveUrl: https://web.archive.org/web/20110211070028/http://www.thethirstypig.com:80/2011/01/21/chicken-and-barbecue-hof-seoul-wtf-spicy/
-draft: false
+draft: true
 location: Lotte Hotel Seoul (롯데호텔 서울)
 city: Seoul
 region: Seoul

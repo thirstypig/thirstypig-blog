@@ -13,7 +13,7 @@ tags:
 - cocktails
 description: Where Did the Thirsty Pig Go? We were looking for a French restaurant and I hate to say it. . . it looks as if I settled on Le Saleya. Unfortunately, I made the mistake of trying to find and make rese
 archiveUrl: https://web.archive.org/web/20161105154752/http://thirstypig.com/2011/12/10/le-saleya-shanghai/
-draft: false
+draft: true
 location: Le Saleya
 city: Shanghai
 region: Shanghai

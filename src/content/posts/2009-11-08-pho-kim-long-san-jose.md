@@ -12,7 +12,7 @@ tags:
 - pho
 description: Yelphttps://www.yelp.com/biz/pho-kim-long-restaurant-san-jose
 archiveUrl: https://web.archive.org/web/20160828111201/http://thirstypig.com/2009/11/08/pho-kim-long-san-jose/
-draft: false
+draft: true
 location: Pho Kim Long
 city: San Jose
 region: Bay Area

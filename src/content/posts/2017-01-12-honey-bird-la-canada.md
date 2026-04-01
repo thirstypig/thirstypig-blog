@@ -13,7 +13,7 @@ tags:
 - southern-sides
 description: 'Southern/Soul cuisine featuring yummy fried chicken I love the sides, the cornbread, collard greens, cole slaw, and red potato salad. I could have a meal with just the sides Parking on the street and '
 archiveUrl: https://web.archive.org/web/20170113012752/http://thirstypig.com/2017/01/12/honey-bird-la-canada/
-draft: false
+draft: true
 location: Honey Bird
 city: La Canada
 region: Pasadena

@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: What is Le Sheng? This is David Laris’s new lovechild, Le Sheng, a Shanghainese cuisine bistro. You might think it is strange for a Greek from Australia, living in China, opening a Shanghainese restau
 archiveUrl: https://web.archive.org/web/20120203100740/http://www.thethirstypig.com:80/2012/01/09/le-sheng-shanghai/
-draft: false
+draft: true
 location: le sheng
 city: Shanghai
 region: Shanghai

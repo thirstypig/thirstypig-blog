@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Man Ho Chinese Restaurant, Shanghaihttp://www.marriott.com/hotels/hotel-information/restaurant/shamc-shanghai-marriott-hotel-city-centre/ Shanghai Marriott Hotel City Centre 555 Xi Zang Road Middle, H
 archiveUrl: https://web.archive.org/web/20161106105355/http://thirstypig.com/2012/02/16/man-ho-chinese-restaurant-shanghai/
-draft: false
+draft: true
 location: Man Ho Chinese Restaurant
 city: Shanghai
 region: Shanghai

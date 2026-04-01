@@ -13,7 +13,7 @@ tags:
 - foie-gras
 description: We recently made a visit to Breadbar again for their next feature – Ramen by Yatai. Yatai, meaning food stall in Japanese, is from Ironnori Concepts, Chef Kazuo Shimamura.
 archiveUrl: https://web.archive.org/web/20160914024151/http://thirstypig.com/2010/06/25/yatai-ramen-twist-popup-los-angeles/
-draft: false
+draft: true
 location: Yatai Ramen Twist Popup
 city: Los Angeles
 region: Westside

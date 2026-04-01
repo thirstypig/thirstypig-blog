@@ -13,7 +13,7 @@ tags:
 - cocktails
 description: Rico Ricohttp://www.ricorico.sh/ 601 Waima rd, Bld 3, Local 114, near zhuhangmatoujie Rd, Shanghai, China +86 21-33300977
 archiveUrl: https://web.archive.org/web/20161104192503/http://thirstypig.com/2012/02/21/rico-rico-shanghai-closed/
-draft: false
+draft: true
 location: Porto Rico
 city: Shanghai
 region: Shanghai

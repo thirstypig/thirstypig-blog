@@ -13,7 +13,7 @@ tags:
 - beef-broth
 description: Not your typical Korean BBQ restaurant, Hwang Hae Do HHD specializes in boiled beef cooked in a mixed broth. Sundays were a ritual for a few of us to try different Korean restaurants. Rather than havi
 archiveUrl: https://web.archive.org/web/20161106052549/http://thirstypig.com/2010/04/11/hwang-hae-koreatown/
-draft: false
+draft: true
 location: Hwang Hae Do
 city: Koreatown
 region: Koreatown

@@ -13,7 +13,7 @@ tags:
 - grilled-meat
 description: ChangNing Distinguish XianXia Road 858, Shanghai, China https://www.tripadvisor.com/Restaurant\Review-g308272-d3448608-Reviews-YouZi\Lin\TanHuo\ShaoRou\XianXia\Road-Shanghai.html
 archiveUrl: https://web.archive.org/web/20160523091445/http://thirstypig.com:80/2013/08/22/zi-lin-charcoal-grilling/
-draft: false
+draft: true
 location: Tianzifang (田子坊)
 city: Shanghai
 region: Shanghai

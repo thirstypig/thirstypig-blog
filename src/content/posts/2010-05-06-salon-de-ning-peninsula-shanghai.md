@@ -12,7 +12,7 @@ tags:
 - lounge
 description: At the legendary Shanghai Peninsula hotel hides one of the most interesting lounge I have ever been to.
 archiveUrl: https://web.archive.org/web/20161106041046/http://thirstypig.com/2010/05/06/salon-de-ning-peninsula-shanghai/
-draft: false
+draft: true
 location: Salon de Ning at The Peninsula
 city: Shanghai
 region: Shanghai

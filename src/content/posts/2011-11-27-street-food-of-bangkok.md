@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: <-- //LinkWithinCodeStart var linkwithin\site\id = 187727; var linkwithin\div\class = "linkwithin\hook"; //LinkWithinCodeEnd -->
 archiveUrl: https://web.archive.org/web/20120116091407/http://www.thethirstypig.com:80/2011/11/27/street-food-of-bangkok/
-draft: false
+draft: true
 location: Bangkok City Pillar Shrine (ศาลหลักเมือง)
 city: Bangkok
 region: Bangkok

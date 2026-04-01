@@ -13,7 +13,7 @@ tags:
 - stir-fry
 description: Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gal
 archiveUrl: https://web.archive.org/web/20161019120625/http://thirstypig.com/2010/08/11/thai-gallery-%e6%b3%b0%e5%bb%8a%e9%a4%90%e5%8e%85-shanghai/
-draft: false
+draft: true
 location: Thai Gallery 泰廊餐厅
 city: Shanghai
 region: Shanghai

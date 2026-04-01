@@ -13,7 +13,7 @@ tags:
 - cats
 description: 'Years ago, when i was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the '
 archiveUrl: https://web.archive.org/web/20161105084713/http://thirstypig.com/2010/05/22/kikis-%e8%80%81%e5%aa%bd%e9%a4%90%e5%bb%b3-taipei/
-draft: false
+draft: true
 location: Umeko (梅子餐廳)
 city: Taipei
 region: Taipei

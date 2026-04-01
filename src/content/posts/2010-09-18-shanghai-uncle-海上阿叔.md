@@ -13,7 +13,7 @@ tags:
 - seafood
 description: The steady stalwart, Shanghai Uncle, is the go-to place when I come to Shanghai on short trips. My business partners usually leave full and happy.
 archiveUrl: https://web.archive.org/web/20161019081701/http://thirstypig.com/2010/09/18/shanghai-uncle-%e6%b5%b7%e4%b8%8a%e9%98%bf%e5%8f%94/
-draft: false
+draft: true
 location: Shanghai Uncle
 city: Shanghai
 region: Shanghai

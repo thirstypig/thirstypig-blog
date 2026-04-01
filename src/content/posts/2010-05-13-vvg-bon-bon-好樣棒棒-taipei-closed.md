@@ -13,7 +13,7 @@ tags:
 - desserts
 description: VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.
 archiveUrl: https://web.archive.org/web/20161105154755/http://thirstypig.com/2010/05/13/vvg-bon-bon-%e5%a5%bd%e6%a8%a3%e6%a3%92%e6%a3%92-taipei-closed/
-draft: false
+draft: true
 location: 好樣本事 VVG Something
 city: Taipei
 region: Taipei

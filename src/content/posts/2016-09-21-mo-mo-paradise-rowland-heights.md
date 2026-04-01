@@ -13,7 +13,7 @@ tags:
 - dumplings
 description: Yelp Listinghttps://www.yelp.com/biz/mo-mo-paradise-rowland-heights-2
 archiveUrl: https://web.archive.org/web/20161120162946/http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/
-draft: false
+draft: true
 location: Mo-Mo-Paradise
 city: Rowland Heights
 region: San Gabriel Valley

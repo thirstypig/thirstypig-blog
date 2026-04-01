@@ -12,7 +12,7 @@ tags:
 - wood-fire
 description: Yelp Listinghttps://www.yelp.com/biz/robins-wood-fire-bbq-pasadena
 archiveUrl: https://web.archive.org/web/20161106123634/http://thirstypig.com/2010/04/21/robins-wood-fire-bbq-pasadena/
-draft: false
+draft: true
 location: Robin’s Wood Fire BBQ
 city: Pasadena
 region: Pasadena

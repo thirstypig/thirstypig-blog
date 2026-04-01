@@ -13,7 +13,7 @@ tags:
 - seafood
 description: Our food adventure tonight brought us to Crustacean. Originally we had planned elsewhere, but we were too late in planning and couldn’t get a decent time for the ten of us. Fortunately, one of us reme
 archiveUrl: https://web.archive.org/web/20161104223911/http://thirstypig.com/2010/02/21/crustacean-beverly-hills/
-draft: false
+draft: true
 location: Crustacean
 city: Beverly Hills
 region: Westside

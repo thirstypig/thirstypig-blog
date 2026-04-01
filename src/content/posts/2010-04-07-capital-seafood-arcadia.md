@@ -12,7 +12,7 @@ tags:
 - dim-sum
 description: Yelp Listinghttps://www.yelp.com/biz/capital-seafood-arcadia
 archiveUrl: https://web.archive.org/web/20161106105405/http://thirstypig.com/2010/04/07/capital-seafood-arcadia/
-draft: false
+draft: true
 location: Capital Seafood
 city: Arcadia
 region: San Gabriel Valley

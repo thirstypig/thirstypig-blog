@@ -13,7 +13,7 @@ tags:
 - dessert
 description: Must order the Deep fried whole snapper, Strawberry Ricotta Crostata with honeycomb Great Beer SelectionSmall Restaurant Wonderful Meal Would return immediately if it wasn’t so far
 archiveUrl: https://web.archive.org/web/20160913205017/http://thirstypig.com/2015/06/13/tar-roses-samo-los-angeles/
-draft: false
+draft: true
 location: Tar & Roses
 city: Los Angeles
 region: Los Angeles

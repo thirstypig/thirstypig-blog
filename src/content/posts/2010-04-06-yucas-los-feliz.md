@@ -13,7 +13,7 @@ tags:
 - yuca
 description: Yelp Listinghttps://www.yelp.com/biz/yucas-los-angeles
 archiveUrl: https://web.archive.org/web/20161106022412/http://thirstypig.com/2010/04/06/yucas-los-feliz/
-draft: false
+draft: true
 location: Yuca’s
 city: Los Feliz
 region: Central LA

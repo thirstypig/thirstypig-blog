@@ -11,7 +11,7 @@ tags:
 - sgv
 - coffee
 archiveUrl: https://web.archive.org/web/20160828112603/http://thirstypig.com/2009/09/21/hot-stuff-cafe-sgv-closed/
-draft: false
+draft: true
 location: Hot Stuff Cafe
 city: Sgv
 region: San Gabriel Valley

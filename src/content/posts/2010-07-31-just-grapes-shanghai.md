@@ -13,7 +13,7 @@ tags:
 - pizza
 description: Just Grapes is a wine bar that features tapas-like food selections. Not necessarily full entrees, Just Grapes offers pasta, pizza and snacks to go along with their extensive wine list. Like the Americ
 archiveUrl: https://web.archive.org/web/20161018174412/http://thirstypig.com/2010/07/31/just-grapes-shanghai/
-draft: false
+draft: true
 location: JustGrapes (葡醉)
 city: Shanghai
 region: Shanghai
