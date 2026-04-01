@@ -58,7 +58,10 @@ function loadGoogleMaps(): Promise<void> {
     script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=weekly`;
     script.async = true;
     script.onload = () => resolve();
-    script.onerror = () => reject(new Error("Failed to load Google Maps SDK"));
+    script.onerror = () => {
+      loadPromise = null; // Allow retry on next call
+      reject(new Error("Failed to load Google Maps SDK"));
+    };
     document.head.appendChild(script);
   });
 

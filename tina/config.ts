@@ -2,6 +2,20 @@ import { defineConfig } from "tinacms";
 import LocationLookup from "./LocationLookup";
 import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 
+// Shared cuisine options — single source of truth for both fields
+const CUISINE_OPTIONS = [
+  "Japanese", "Korean", "Mexican", "Taiwanese", "American", "Chinese",
+  "Thai", "Vietnamese", "Italian", "French", "Indian", "Peruvian",
+  "Mediterranean", "Filipino", "Hawaiian", "Colombian", "Cajun",
+  "BBQ", "Seafood", "Bakery", "Dessert", "Coffee", "Cocktails",
+  "Fusion", "Multi", "Cuban", "German", "British", "Spanish",
+  "Brazilian", "Russian", "Ethiopian", "Persian", "Malaysian",
+];
+
+const NON_FOOD_CATEGORIES = [
+  "Travel", "Baseball", "Sports", "Non-Food", "Uncategorized",
+];
+
 const branch = process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
@@ -14,11 +28,13 @@ export default defineConfig({
 
   cmsCallback: (cms) => {
     if (typeof document !== "undefined") {
-      // Inject custom CSS
-      const link = document.createElement("link");
-      link.rel = "stylesheet";
-      link.href = "/admin/custom.css";
-      document.head.appendChild(link);
+      // Inject custom CSS (guard against duplicate injection)
+      if (!document.querySelector('link[href="/admin/custom.css"]')) {
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = "/admin/custom.css";
+        document.head.appendChild(link);
+      }
 
       // Add dark mode toggle button
       if (!document.getElementById("dark-mode-toggle")) {
@@ -136,16 +152,9 @@ export default defineConfig({
             type: "string",
             name: "categories",
             label: "Categories",
+            description: "Auto-synced from cuisine by sync_categories.py — edit cuisine instead",
             list: true,
-            options: [
-              "Japanese", "Korean", "Mexican", "Taiwanese", "American", "Chinese",
-              "Thai", "Vietnamese", "Italian", "French", "Indian", "Peruvian",
-              "Mediterranean", "Filipino", "Hawaiian", "Colombian", "Cajun",
-              "BBQ", "Seafood", "Bakery", "Dessert", "Coffee", "Cocktails",
-              "Fusion", "Multi", "Cuban", "German", "British", "Spanish",
-              "Brazilian", "Russian", "Ethiopian", "Persian", "Malaysian",
-              "Travel", "Baseball", "Sports", "Non-Food", "Uncategorized",
-            ],
+            options: [...CUISINE_OPTIONS, ...NON_FOOD_CATEGORIES],
           },
           {
             type: "string",
@@ -158,14 +167,7 @@ export default defineConfig({
             name: "cuisine",
             label: "Cuisine",
             list: true,
-            options: [
-              "Japanese", "Korean", "Mexican", "Taiwanese", "American", "Chinese",
-              "Thai", "Vietnamese", "Italian", "French", "Indian", "Peruvian",
-              "Mediterranean", "Filipino", "Hawaiian", "Colombian", "Cajun",
-              "BBQ", "Seafood", "Bakery", "Dessert", "Coffee", "Cocktails",
-              "Fusion", "Multi", "Cuban", "German", "British", "Spanish",
-              "Brazilian", "Russian", "Ethiopian", "Persian", "Malaysian",
-            ],
+            options: CUISINE_OPTIONS,
           },
           {
             type: "string",

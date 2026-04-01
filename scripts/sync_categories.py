@@ -14,42 +14,10 @@ import glob
 import os
 import sys
 
-import yaml
+from post_utils import load_post, save_post
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(SCRIPT_DIR, '..', 'src', 'content', 'posts')
-
-
-def load_post(filepath):
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    if not content.startswith('---'):
-        return None, None
-    try:
-        end = content.index('\n---', 3) + 1
-    except ValueError:
-        return None, None
-    try:
-        fm = yaml.safe_load(content[3:end])
-    except yaml.YAMLError:
-        print(f"  YAML error: {os.path.basename(filepath)}")
-        return None, None
-    if not isinstance(fm, dict):
-        return None, None
-    body = content[end + 3:]
-    return fm, body
-
-
-def save_post(filepath, fm, body):
-    yaml_str = yaml.dump(
-        fm, default_flow_style=False, allow_unicode=True,
-        sort_keys=False, width=1000,
-    )
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write('---\n')
-        f.write(yaml_str)
-        f.write('---')
-        f.write(body)
 
 
 def main():
