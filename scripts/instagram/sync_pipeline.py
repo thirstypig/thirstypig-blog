@@ -27,9 +27,10 @@ LOGS_DIR = os.path.join(PROJECT_ROOT, 'logs')
 SYNC_LOG = os.path.join(LOGS_DIR, 'sync-log.json')
 
 # Safety limits
-MAX_FILE_SIZE = 50 * 1024 * 1024       # 50 MB per entry
+MAX_FILE_SIZE = 200 * 1024 * 1024      # 200 MB per entry (videos can exceed 50 MB)
 MAX_FILE_COUNT = 10_000
 MAX_TOTAL_SIZE = 2 * 1024 * 1024 * 1024  # 2 GB total
+MIN_COMPRESSION_RATIO = 0.01           # Flag entries with < 1% ratio as suspicious
 
 
 def safe_extract_zip(zip_path: str, dest_dir: str) -> None:
@@ -58,6 +59,15 @@ def safe_extract_zip(zip_path: str, dest_dir: str) -> None:
                     f"Entry {member.filename!r} is {member.file_size} bytes, "
                     f"exceeds limit of {MAX_FILE_SIZE} bytes"
                 )
+
+            # Compression ratio check (zip bomb detection)
+            if member.file_size > 0 and member.compress_size > 0:
+                ratio = member.compress_size / member.file_size
+                if ratio < MIN_COMPRESSION_RATIO:
+                    raise ValueError(
+                        f"Suspicious compression ratio for {member.filename!r}: "
+                        f"{ratio:.4f} (threshold: {MIN_COMPRESSION_RATIO})"
+                    )
 
             # ZIP slip protection: resolve the target path and ensure it
             # stays within the destination directory
@@ -296,8 +306,12 @@ def main() -> int:
         validation_errors = validate_new_markdown(new_files)
         if validation_errors:
             for ve in validation_errors:
-                print(f"  WARN: {ve}")
+                print(f"  ERROR: {ve}")
                 errors.append(ve)
+            raise RuntimeError(
+                f"Validation failed: {len(validation_errors)} file(s) have invalid YAML. "
+                "Fix before committing."
+            )
         else:
             print(f"  OK: All {len(new_files)} new files have valid YAML")
 

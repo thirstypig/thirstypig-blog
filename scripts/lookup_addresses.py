@@ -168,7 +168,7 @@ def main():
             continue
         try:
             fm = yaml.safe_load(parts[1])
-        except:
+        except Exception:
             continue
         if not fm:
             continue
@@ -181,6 +181,9 @@ def main():
             continue
 
         candidates.append((path, fm, parts, loc, city))
+
+    # Sort newest first so recent imports get geocoded before the backlog
+    candidates.sort(key=lambda c: c[1].get('pubDate', ''), reverse=True)
 
     total = min(args.limit, len(candidates))
     print(f'Candidates: {len(candidates)}')

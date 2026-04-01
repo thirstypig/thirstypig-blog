@@ -6,6 +6,7 @@ Reads the Instagram JSON export, extracts posts with media,
 deduplicates against existing blog posts, and generates Markdown files.
 """
 
+import glob
 import json
 import os
 import re
@@ -315,14 +316,27 @@ def process_post(post: dict, post_index: int, existing_posts: list[dict],
     video_paths = []
     slug_dir = os.path.join(IMAGES_DIR, f'ig-{slug}')
 
+    ALLOWED_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.gif', '.webp', '.mp4', '.mov'}
+
     for m in media:
         uri = m.get('uri', '')
-        src_path = os.path.join(media_base_dir, uri)
+        src_path = os.path.realpath(os.path.join(media_base_dir, uri))
+
+        # Path traversal check — media must be inside the data directory
+        if not src_path.startswith(os.path.realpath(media_base_dir) + os.sep):
+            print(f'  Skipping suspicious URI: {uri}')
+            continue
 
         if not os.path.exists(src_path):
             continue
 
         filename = os.path.basename(uri)
+
+        # Extension allowlist
+        ext = os.path.splitext(filename)[1].lower()
+        if ext not in ALLOWED_EXTENSIONS:
+            print(f'  Skipping unsupported file type: {filename}')
+            continue
 
         if uri.endswith('.mp4'):
             # Video
@@ -434,16 +448,19 @@ def main():
     print('  INSTAGRAM IMPORT')
     print('=' * 60)
 
-    # Load Instagram data
-    posts_json = os.path.join(DATA_DIR, 'your_instagram_activity', 'media', 'posts_1.json')
-    if not os.path.exists(posts_json):
-        print(f'ERROR: {posts_json} not found')
+    # Load Instagram data — glob for posts_*.json (Instagram splits large exports)
+    posts_files = sorted(glob.glob(os.path.join(DATA_DIR, '**', 'posts_*.json'), recursive=True))
+    if not posts_files:
+        print(f'ERROR: No posts_*.json found in {DATA_DIR}')
         sys.exit(1)
 
-    with open(posts_json, encoding='utf-8') as f:
-        ig_posts = json.load(f)
+    ig_posts = []
+    for pf in posts_files:
+        print(f'Loading: {os.path.relpath(pf, DATA_DIR)}')
+        with open(pf, encoding='utf-8') as f:
+            ig_posts.extend(json.load(f))
 
-    print(f'Instagram posts: {len(ig_posts)}')
+    print(f'Instagram posts: {len(ig_posts)} (from {len(posts_files)} file(s))')
 
     # Load existing posts for dedup
     existing = load_existing_posts()
