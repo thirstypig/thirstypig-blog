@@ -51,47 +51,25 @@ Links
 164 Nanchang Road, near Sinan Road, Shanghai
 +86 21 53065462
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-01-494x368.jpg "Art Salon Shanghai")
-
 Art Salon is a small Shanghainese restaurant
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-14-494x368.jpg "Art Salon Shanghai ")
 
 Tea. Beautiful presentation of just a pot of Tea
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-06-494x368.jpg "Art Salon Shanghai")
-
 Salt Chicken with Spring Onion Sauce (Boneless) RMB 38
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-11-494x368.jpg "Art Salon Shanghai")
 
 Braised Pork with Cuttle Fish with Hard Boiled Eggs. Hong Sau Rou
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-07-494x368.jpg "Art Salon Shanghai ")
-
 Bean Curd with Dry Scallop, Day Shrimp, Salt Egg and Preserved Egg RMB 28
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-09-494x368.jpg "Art Salon Shanghai")
 
 Sichuan Style Chicken - La Zi Ji
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-12-494x368.jpg "Art Salon Shanghai")
-
 Green Vegetables. Notice the great details in the artwork in the plates, dishes, and pots.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-13-494x368.jpg "Art Salon Shanghai ")
 
 Soup. I love this bowl
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-15-494x368.jpg "Art Salon Shanghai")
-
 Soup with tofu.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-16-494x368.jpg "Art Salon Shanghai")
-
 The interior is like an antique store crossed with a cafe.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Art-Salon-Shanghai-17-494x368.jpg "Art Salon Shanghai")
 
 At 164 Nanchang Road
 

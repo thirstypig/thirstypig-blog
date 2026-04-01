@@ -41,6 +41,6 @@ cuisine:
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 229);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 229);)
 
 [![Print](http://cdn.printfriendly.com/pf-button.gif)](http://www.printfriendly.com "Print an optimized version of this web page")

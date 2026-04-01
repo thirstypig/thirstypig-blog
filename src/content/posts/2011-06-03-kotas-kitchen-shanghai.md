@@ -51,78 +51,40 @@ Price Range 2 $/¥/NT
 Links
 [City Weekend](http://www.cityweekend.com.cn/shanghai/listings/nightlife/bars/has/kota-s-kitchen-maido/), [Smart Shanghai](http://www.smartshanghai.com/venue/5284/Kotas_Kitchen), [CNNGo](http://www.cnngo.com/shanghai/eat/kotas-kitchen), [Dianping](http://www.dianping.com/shop/3071557), [Sloshspot](http://www.sloshspot.com/bar-club-pub/kotas-kitchen-shanghai-66367), [Shanghai Expat](http://www.shanghaiexpat.com/listing/kotas-kitchen-4449.html), [Faerieimps](http://faerieimps.blogspot.com/2011/02/kotas-kitchen.html), [Asia City](http://sh.asia-city.com/restaurants/shanghai-restaurant-reviews/kotas-kitchen), [Shanghai Stuff,](http://www.shanghaistuff.com/group/kotaskitchen) [Chainavi](http://www.chainavi.cn/shanghai/user.html?sid=3485282)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-21-494x370.jpg "Kotas Kitchen Shanghai")
-
 When the weather's nice, Kota's offers outdoor seating
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-01-494x370.jpg "Kotas Kitchen Shanghai")
 
 Kota's Kitchen is located right across the street from the Shanghai Stadium
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-02-494x370.jpg "Kotas Kitchen Shanghai")
-
 Beatles Yakitori Shochu Bar
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-04-494x370.jpg "Kotas Kitchen Shanghai")
 
 A cozy little bar/restaurant with Beatles music
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-07-494x370.jpg "Kotas Kitchen Shanghai")
-
 Make sure you call ahead for reservations.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-10-494x370.jpg "Kotas Kitchen Shanghai")
 
 Yes! Beef Sashimi!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-09-494x370.jpg "Kotas Kitchen Shanghai")
-
 This little hole-in-the-wall is a Japanese favorite of my friends
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-05-494x370.jpg "Kotas Kitchen Shanghai")
 
 Japanese Shochu. Really Good
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-06-494x370.jpg "Kotas Kitchen Shanghai")
-
 You might not be able to see it. But there's just 1 large ice cube in this glass. Its the best way to drink any alcohol
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-08-494x370.jpg "Kotas Kitchen Shanghai")
 
 Cooking/Searing the mackerel.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-17-494x370.jpg "Kotas Kitchen Shanghai")
-
 Chicken Meatballs!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-20-494x370.jpg "Kotas Kitchen Shanghai")
 
 Stuffed Meatball with hardoiled quail egg inside
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-19-494x370.jpg "Kotas Kitchen Shanghai")
-
 Ramen. Their Ramen is one of the best in Shanghai
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-15-494x370.jpg "Kotas Kitchen Shanghai")
 
 Chicken Gizzard and Chicken Heart . . . not my favorites, but a popular dish
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-14-494x370.jpg "Kotas Kitchen Shanghai")
-
 Chicken Cartilage. Way more cartilage than I am used to.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-11-494x370.jpg "Kotas Kitchen Shanghai")
 
 More Chicken Skewers
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-12-494x370.jpg "Kotas Kitchen Shanghai")
-
 Thin Sliced Beef Tongue
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-16-494x370.jpg "Kotas Kitchen Shanghai")
-
 Chicken Breast
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Kotas-Kitchen-Shanghai-13-494x370.jpg "Kotas Kitchen Shanghai")
 
 More Chicken Breast Skewers

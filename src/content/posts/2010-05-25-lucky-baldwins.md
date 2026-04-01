@@ -75,4 +75,4 @@ SHARETHIS.addEntry({ title: "Lucky Baldwin&#8217;s of Sierra Madre", url: "http:
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 549);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 549);)

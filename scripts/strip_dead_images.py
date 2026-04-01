@@ -1,133 +1,188 @@
 #!/usr/bin/env python3
-"""
-Strip dead wp.com Photon CDN image references from blog post markdown.
+"""Strip dead image references from post content.
 
-These images return 403 Forbidden — they were never archived by the Wayback Machine
-and are permanently lost. Removing the references eliminates console errors and
-unnecessary network requests.
+Removes:
+- Markdown images: ![alt](dead-url) or ![alt](dead-url "title")
+- HTML img tags: <img src="dead-url" .../>
+- WordPress plugin artifacts (google-ajax-translation, add-to-any icons)
+
+Does NOT remove:
+- Links to dead URLs (only images)
+- URLs in frontmatter fields (originalUrl, archiveUrl — those are references)
+
+Usage:
+    python scripts/strip_dead_images.py [--dry-run]
 """
 
-import glob
 import os
 import re
+import sys
 
-CONTENT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'src', 'content', 'posts')
+POSTS_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "content", "posts")
 
-# Patterns for dead image URLs
-DEAD_URL_PATTERN = r'i[0-9]\.wp\.com'
+DEAD_DOMAINS = [
+    "thethirstypig.com/wp-content",
+    "thirstypig.com/wp-content",
+    "www.thethirstypig.com/wp-content",
+    "www.thirstypig.com/wp-content",
+    "blog.thethirstypig.com/wp-content",
+    "bp.blogspot.com",
+]
 
-def strip_dead_images(content: str) -> tuple[str, int]:
-    """Remove dead wp.com image references from markdown content.
 
-    Returns (cleaned_content, count_removed).
-    """
+def is_dead_url(url):
+    """Check if a URL matches a known-dead domain."""
+    for domain in DEAD_DOMAINS:
+        if domain in url:
+            return True
+    return False
+
+
+def strip_dead_images(body):
+    """Remove dead image references from markdown body. Returns (cleaned_body, count)."""
     count = 0
-    lines = content.split('\n')
-    cleaned = []
 
-    for line in lines:
-        # Skip lines that are purely a dead image reference
-        # Pattern 1: [![alt](dead-url "title")](link) — clickable image
-        # Pattern 2: ![alt](dead-url) — plain image
-        # Pattern 3: <img src="dead-url" ...> — HTML image tag
+    # 1. Markdown images: ![alt](url) or ![alt](url "title")
+    def replace_md_img(m):
+        nonlocal count
+        url = m.group(1)
+        if is_dead_url(url):
+            count += 1
+            return ""
+        return m.group(0)
 
-        if re.search(DEAD_URL_PATTERN, line):
-            # Check if the entire line is just an image reference (possibly with whitespace)
-            stripped = line.strip()
+    body = re.sub(r'!\[[^\]]*\]\(([^)\s]+)(?:\s+"[^"]*")?\)', replace_md_img, body)
 
-            # Clickable image: [![...](wp.com...)](...)
-            if re.match(r'^\[!\[.*?\]\(https?://i[0-9]\.wp\.com/.*?\)\]\(.*?\)$', stripped):
+    # 1b. Empty-alt links used as images in old Blogger: [](url)
+    def replace_empty_link(m):
+        nonlocal count
+        url = m.group(1)
+        if is_dead_url(url):
+            count += 1
+            return ""
+        return m.group(0)
+
+    body = re.sub(r'\[\]\(([^)\s]+)\)', replace_empty_link, body)
+
+    # 1c. Angle-bracket autolinks to dead URLs: <http://dead-url>
+    def replace_autolink(m):
+        nonlocal count
+        url = m.group(1)
+        if is_dead_url(url):
+            count += 1
+            return ""
+        return m.group(0)
+
+    body = re.sub(r'<(https?://[^>]+)>', replace_autolink, body)
+
+    # 1d. Bare dead URLs on their own or inline (markdown link targets already handled)
+    def replace_bare_url(m):
+        nonlocal count
+        url = m.group(0)
+        if is_dead_url(url):
+            count += 1
+            return ""
+        return m.group(0)
+
+    body = re.sub(r'https?://[^\s)<\]]+thethirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
+    body = re.sub(r'https?://[^\s)<\]]+thirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
+    body = re.sub(r'https?://[^\s)<\]]*bp\.blogspot\.com[^\s)<\]]*', replace_bare_url, body)
+
+    # 2. HTML img tags: <img ... src="url" ... />
+    def replace_html_img(m):
+        nonlocal count
+        src = re.search(r'src=["\']([^"\']+)["\']', m.group(0))
+        if src and is_dead_url(src.group(1)):
+            count += 1
+            return ""
+        return m.group(0)
+
+    body = re.sub(r'<img[^>]+/?>', replace_html_img, body, flags=re.IGNORECASE)
+
+    # 3. Clean up leftover blank lines (3+ consecutive newlines -> 2)
+    body = re.sub(r'\n{3,}', '\n\n', body)
+
+    return body, count
+
+
+def process_file(filepath, dry_run=False):
+    """Process a single markdown file. Returns number of removals."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Split frontmatter from body
+    if not content.startswith("---"):
+        return 0
+
+    end = content.index("---", 3)
+    frontmatter = content[:end + 3]
+    body = content[end + 3:]
+
+    # Clean body
+    cleaned_body, count = strip_dead_images(body)
+
+    # Clean dead URLs from description field in frontmatter
+    cleaned_fm = frontmatter
+    desc_match = re.search(r"^(description:\s*)(.*)", frontmatter, re.MULTILINE)
+    if desc_match:
+        desc_val = desc_match.group(2)
+        # Strip dead URLs from description
+        for pattern in [
+            r'https?://[^\s]*thethirstypig\.com/wp-content[^\s]*',
+            r'https?://[^\s]*thirstypig\.com/wp-content[^\s]*',
+            r'https?://[^\s]*bp\.blogspot\.com[^\s]*',
+        ]:
+            old_desc = desc_val
+            desc_val = re.sub(pattern, '', desc_val)
+            if desc_val != old_desc:
                 count += 1
-                continue
+        desc_val = re.sub(r'\s{2,}', ' ', desc_val).strip()
+        cleaned_fm = frontmatter[:desc_match.start(2)] + desc_val + frontmatter[desc_match.end(2):]
 
-            # Plain image: ![...](wp.com...)
-            if re.match(r'^!\[.*?\]\(https?://i[0-9]\.wp\.com/.*?\)$', stripped):
-                count += 1
-                continue
+    if count > 0 and not dry_run:
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(cleaned_fm + cleaned_body)
 
-            # HTML img tag
-            if re.match(r'^<img\s+.*?src=["\']https?://i[0-9]\.wp\.com/.*?["\'].*?/?>$', stripped):
-                count += 1
-                continue
-
-            # Line contains dead URL mixed with other content — remove just the image part
-            # Remove clickable image pattern inline
-            new_line, n = re.subn(
-                r'\[!\[.*?\]\(https?://i[0-9]\.wp\.com/[^)]*\)\]\([^)]*\)',
-                '', line
-            )
-            count += n
-            # Remove plain image pattern inline
-            new_line, n = re.subn(
-                r'!\[.*?\]\(https?://i[0-9]\.wp\.com/[^)]*\)',
-                '', new_line
-            )
-            count += n
-            # Remove HTML img tags inline
-            new_line, n = re.subn(
-                r'<img\s+[^>]*src=["\']https?://i[0-9]\.wp\.com/[^"\']*["\'][^>]*/?>',
-                '', new_line
-            )
-            count += n
-
-            # Only keep the line if there's meaningful content left
-            if new_line.strip():
-                cleaned.append(new_line)
-            else:
-                pass  # drop empty line
-        else:
-            cleaned.append(line)
-
-    # Collapse 3+ consecutive blank lines into 2
-    result = '\n'.join(cleaned)
-    result = re.sub(r'\n{4,}', '\n\n\n', result)
-
-    return result, count
+    return count
 
 
 def main():
-    print('=' * 60)
-    print('  STRIP DEAD WP.COM IMAGE REFERENCES')
-    print('=' * 60)
+    dry_run = "--dry-run" in sys.argv
 
-    md_files = sorted(glob.glob(os.path.join(CONTENT_DIR, '*.md')))
-    print(f'Scanning {len(md_files)} posts...\n')
+    if dry_run:
+        print("DRY RUN — no files will be modified\n")
 
-    total_files = 0
-    total_images = 0
+    posts_dir = os.path.realpath(POSTS_DIR)
+    files = sorted(f for f in os.listdir(posts_dir) if f.endswith(".md"))
+    print(f"Scanning {len(files)} posts...\n")
 
-    for path in md_files:
-        with open(path, encoding='utf-8') as f:
-            content = f.read()
+    total_removed = 0
+    affected_files = []
 
-        if not re.search(DEAD_URL_PATTERN, content):
-            continue
+    for filename in files:
+        filepath = os.path.join(posts_dir, filename)
+        count = process_file(filepath, dry_run)
+        if count > 0:
+            affected_files.append((filename, count))
+            total_removed += count
 
-        # Split frontmatter from body
-        parts = content.split('---', 2)
-        if len(parts) < 3:
-            continue
+    print("=" * 60)
+    print(f"RESULTS")
+    print(f"  Files scanned:    {len(files)}")
+    print(f"  Files affected:   {len(affected_files)}")
+    print(f"  Images removed:   {total_removed}")
+    print("=" * 60)
 
-        body = parts[2]
-        cleaned_body, removed = strip_dead_images(body)
+    if affected_files:
+        print(f"\n--- Affected files ---")
+        for f, c in affected_files:
+            print(f"  {f} ({c} images removed)")
 
-        if removed > 0:
-            with open(path, 'w', encoding='utf-8') as f:
-                f.write(parts[0])
-                f.write('---')
-                f.write(parts[1])
-                f.write('---')
-                f.write(cleaned_body)
-
-            total_files += 1
-            total_images += removed
-            print(f'  {os.path.basename(path)}: removed {removed} dead images')
-
-    print(f'\nResults:')
-    print(f'  Files updated: {total_files}')
-    print(f'  Dead image references removed: {total_images}')
-    print(f'\nDone!')
+    if dry_run:
+        print(f"\nDRY RUN complete. Run without --dry-run to apply changes.")
+    else:
+        print(f"\nDone. Removed {total_removed} dead image references from {len(affected_files)} files.")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

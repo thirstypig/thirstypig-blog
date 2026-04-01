@@ -23,8 +23,6 @@ cuisine:
 - Irish
 ---
 
-![](http://www.thethirstypig.com/wp-content/uploads/2012/02/Ireland-Week-Picture.jpg "Ireland-Week-Picture")
-
 Downstairs with David Laris and our very own Irish chef Siobhán Gough are proud to be part of the Féile Shanghai Ireland Festival 2012. Supported by the Irish Consulate General of Shanghai and Bord Bia, the Irish Food Board, the festival is Shanghai’s celebration of all things Irish.
 
 In honour of the festival, Chef Siobhán has created a set of Irish-inspired menus that will be exclusively available at Downstairs during Ireland Week. Siobhán and the team at Downstairs will be working closely with Bord Bia to host a series of media and industry events during the week that will highlight Irish cuisine and specialty Irish food products.

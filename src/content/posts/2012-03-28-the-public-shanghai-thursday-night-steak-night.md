@@ -32,6 +32,4 @@ Roast Beet Salad Starter
 1 Dessert
 RMB350/Each, minimum 2 persons**
 
-![](http://www.thethirstypig.com/wp-content/uploads/2012/03/590logo-494x100.jpg "590logo")
-
 RSVP 21-3368-9419. 4/F, Bldg 1, Sinan Mansions, Lane 507, Fuxing Zhong Lu (near Chongqing Lu) 思南公官，4偻，复兴中路507弄(近重庆路) (the old Apothecary location)

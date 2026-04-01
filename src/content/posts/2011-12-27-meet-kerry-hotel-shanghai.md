@@ -52,9 +52,6 @@ fbreservations.khpu@thekerryhotels.com
 <http://www.thecookthemeetthebrew.com/the-meet/>
 Open: 5:30pm-10pm
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Meet-Kerry-Hotel-Shanghai-09-494x370.jpg "Meet Kerry Hotel Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Meet-Kerry-Hotel-Shanghai-06-494x329.jpg "Meet Kerry Hotel Shanghai")![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Meet-Kerry-Hotel-Shanghai-13-494x370.jpg "Meet Kerry Hotel Shanghai")
-
 Candied Desserts
 
 - Share this:

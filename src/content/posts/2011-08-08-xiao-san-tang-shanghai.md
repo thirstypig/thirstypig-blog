@@ -48,30 +48,16 @@ Liuli Museum, 1/F, 25 TaiKang Rd (near SiNan Rd)
 +86 21 6467-2278
 [liulichinamuseum.com](http://www.liulichinamuseum.com/)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-07-494x369.jpg "Xiao San Tang Shanghai")
-
 Museum Cafe, Xiao San Tang.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-01-494x369.jpg "Xiao San Tang Shanghai")
 
 This little museum/cafe also features a great gift shop. Museum gift shops are some of the best places to get cool items.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-05-494x369.jpg "Xiao San Tang Shanghai")
-
 You'd never know that there was a cool little cafe right outside Tianzifang.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-02-494x327.jpg "Xiao San Tang Shanghai")
 
 The Classic Duck Confit with Apple and Salted Potato for 45 RMB. This was highly recommended.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-04-494x369.jpg "Xiao San Tang Shanghai")
-
 Fries for 15 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-03-494x369.jpg "Xiao San Tang Shanghai")
-
 Fresh Asparagus - Pan Fried, Garlicky, Black Bean 35 RMB - We choose our simply Pan Fried.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Xiao-San-Tang-Shanghai-06-494x369.jpg "Xiao San Tang Shanghai")
 
 Nice little ducks. . . ready for a wet day.

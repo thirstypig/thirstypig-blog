@@ -51,68 +51,35 @@ Links
 
 Lemongrass is one of the choice Vietnamese restaurants in Saigon for upscale dining
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-02-494x370.jpg "Lemongrass Saigon")
-
 This location is located on the top floor of a hotel
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-03-494x370.jpg "Lemongrass Saigon")
 
 Overlook the skyline of Saigon
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-04-494x370.jpg "Lemongrass Saigon")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-05-494x370.jpg "Lemongrass Saigon")
-
 333 Vietnamese Beer
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-06-494x370.jpg "Lemongrass Saigon")
 
 The set meal included fried spring rolls in which you wrap with rice noodles around a leafy vegetable.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-07-494x370.jpg "Lemongrass Saigon")
-
 Lotus stems salad with shrimp and pork
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-08-494x370.jpg "Lemongrass Saigon")
 
 Deep fried crab claws wrapped in minced pork & crab
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-09-494x370.jpg "Lemongrass Saigon")
-
 Fried sea bass fish with oyster sauce
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-10-494x370.jpg "Lemongrass Saigon")
 
 Shrimp fried rice
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-11-494x370.jpg "Lemongrass Saigon")
-
 Stewed pork in clay-pot
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-12-494x370.jpg "Lemongrass Saigon")
 
 Sweet & sour shrimps soup with morning glory
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-13-494x370.jpg "Lemongrass Saigon")
-
 Stir-fried mixed vegetables
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-14-494x370.jpg "Lemongrass Saigon")
 
 Grilled pork with Lemongrass
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-15-494x370.jpg "Lemongrass Saigon")
-
 Lemongrass seafood soup
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-16-494x370.jpg "Lemongrass Saigon")
 
 Roasted chicken with garlic
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-17-494x370.jpg "Lemongrass Saigon")
-
 Banana fritter
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Lemongrass-Saigon-18-494x370.jpg "Lemongrass Saigon")
 
 Banana fritter dessert
 

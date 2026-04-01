@@ -37,7 +37,5 @@ One of Shanghai’s delicacies is ‘Xiao Long Bao’, known more commonly as Sh
 
 A slightly more indulgent breakfast is ‘[Youtao](http://www.thethirstypig.com/2010/05/19/the-most-popular-taiwanese-breakfast-in-taipei-fu-hang-dou-jiang-阜杭豆漿/)‘. This is a doughy substance which is deep fried in oil then wrapped in a thick pancake. This is accompanied by soy milk which many people enjoy soaking their Youtao in.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Little-Yangs-Fried-Dumplings-7-494x370.jpg "Little-Yangs-Fried-Dumplings-7-494x370")
-
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/06/breakfast-in-china/?share=facebook "Share on Facebook")

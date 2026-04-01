@@ -29,6 +29,6 @@ cuisine: []
 Vote for the best food trucks at [MobileCraving.com](http://www.mobilecravings.com/bestlosangelesfoodtrucks/). And if you are interested in starting your own food truck, try these two resources [Road Stoves](http://roadstoves.com/) and [Mobi Munch](http://mobimunch.com/).
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 232);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 232);)
 
 [![Print](/images/posts/the-magic-sauce-from-lomo-arigato/pf-button.gif)](http://www.printfriendly.com "Print an optimized version of this web page")

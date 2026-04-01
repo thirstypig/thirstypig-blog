@@ -41,12 +41,7 @@ Web: [www.thethirstypig.com](http://www.thethirstypig.com)
 
 I thought the little write was nice. I kind liked the name “the Glutton”.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/IMG_1212-494x370.jpg "Shanghai Talk Magazine")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Maya-Shanghai-07-494x370.jpg "Maya")
-
 Maya
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-18-at-11.49.24-AM.jpg "Screen Shot of ")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/20/shanghai-food-blogs-featured-in-shanghai-talk-magazine/?share=facebook "Share on Facebook")

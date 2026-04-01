@@ -45,100 +45,49 @@ BeiHai Scenic Area, HuangShan city, AnHui 242709
 
 http://www.hsbeihaihotel.com/
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-24-494x370.jpg "North Sea Hotel, Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-20-494x277.jpg "North Sea Hotel, Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-40-494x370.jpg "North Sea Hotel, Huangshan")
-
 Tent City, the hotel offers tents with inflatable beds for rental
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-38-494x370.jpg "North Sea Hotel, Huangshan")
 
 During the Autumn Holiday - Huangshan is so crowded and the hotel is booked weeks in advance. Plus their prices go way up.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-36-494x370.jpg "North Sea Hotel, Huangshan")
-
 It was kind of chilly. I don't think I would have liked sleeping outside.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-18-494x277.jpg "North Sea Hotel, Huangshan")
 
 Here is little map of the area
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-17-494x277.jpg "North Sea Hotel, Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-25-494x370.jpg "North Sea Hotel, Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-16-277x494.jpg "North Sea Hotel, Huangshan")
-
 The Locks - symbolizing forever love or something like that. Couples will put together a lock on the chains on top of Huangshan
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-15-494x277.jpg "North Sea Hotel, Huangshan")
 
 If you get tired, you can get a couple of people to pick you up and carry you down/up the mountain. For me (as a big guy) it would have cost USD 100 for them to take me down the mountain. I was actually considering it.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-04-494x277.jpg "North Sea Hotel, Huangshan")
-
 The 2 days that we were on Huangshan, the mornings proved to have spectacular views. But the afternoons had foggy and almost no visibility.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-03-494x277.jpg "North Sea Hotel, Huangshan")
 
 Morning
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-02-494x368.jpg "North Sea Hotel, Huangshan")
-
 Late afternoon or nighttime view of the hotel with the fog rolling in
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-28-494x370.jpg "North Sea Hotel, Huangshan")
 
 Our room. Not bad. But not great.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-33-494x370.jpg "North Sea Hotel, Huangshan")
-
 Our room came with 2 of these heavy coats. Pretty cool!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-12-494x277.jpg "North Sea Hotel, Huangshan")
 
 There isn't a view, but at least it was better than sleeping in a tent
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-13-277x494.jpg "North Sea Hotel, Huangshan")
-
 Our bathroom was small and spartan
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-19-277x494.jpg "North Sea Hotel, Huangshan")
 
 Huangshan Beer
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-43-494x370.jpg "North Sea Hotel, Huangshan")
-
 This was the main dining hall, where we had lunch, dinner, and breakfast.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-42-494x370.jpg "North Sea Hotel, Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-23-494x277.jpg "North Sea Hotel, Huangshan")
 
 Breakfast - Noodle Soup
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-22-494x277.jpg "North Sea Hotel, Huangshan")
-
 Steamed pork buns - breakfast
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-21-494x277.jpg "North Sea Hotel, Huangshan")
 
 Fried onion pancakes - breakfast
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-05-494x277.jpg "North Sea Hotel, Huangshan")
-
 Cucumber - cold dish appetizer - lunch
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-10-494x277.jpg "North Sea Hotel, Huangshan")
 
 Beef with vegetables - lunch
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-08-494x277.jpg "North Sea Hotel, Huangshan")
-
 Spicy stir-fried potato strings - lunch
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-07-494x277.jpg "North Sea Hotel, Huangshan")
-
 Scrambled eggs with tomatoes - lunch
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Bei-Hai-Bin-Quan-06-494x277.jpg "North Sea Hotel, Huangshan")
 
 Fried Rice - Lunch
 

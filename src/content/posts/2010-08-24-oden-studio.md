@@ -64,4 +64,4 @@ Sun: 5:30 – 11 PM
 Phone: (02)2634-5476
 Address: 台北市內湖區金湖路377號 (可訂位)
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1649);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1649);)

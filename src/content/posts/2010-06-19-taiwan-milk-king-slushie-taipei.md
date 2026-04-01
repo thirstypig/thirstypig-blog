@@ -72,4 +72,4 @@ SHARETHIS.addEntry({ title: 'Taiwanese Slushie at 臺一牛奶大王 Milk King, 
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1128);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1128);)

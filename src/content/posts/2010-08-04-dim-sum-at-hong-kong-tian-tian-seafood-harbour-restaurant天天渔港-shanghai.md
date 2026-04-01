@@ -44,4 +44,4 @@ Chinese restaurants in China, with Chinese food 中餐 (zhong can), that are hig
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1449);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1449);)

@@ -27,4 +27,4 @@ by Andrew Fung
 
 This song features several of my favorite restaurants in the San Gabriel Valley in Southern California. I hope you enjoy the song.
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 2222);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 2222);)

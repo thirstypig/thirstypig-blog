@@ -41,29 +41,15 @@ Peninsula Plaza, 153 Rajdamri Rd, Bangkok 10330
 Gaysorn (2F), Phloen Chit Rd, Lumphini, Pathum Wan, Bangkok, 10330
 02-656-1050
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-04-494x370.jpg "Provence, Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-01-494x370.jpg "Provence, Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-07-494x370.jpg "Provence, Bangkok")
-
 Sauces - Spicy, Sweet, and Tangy
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-05-494x370.jpg "Provence, Bangkok")
 
 Squid with Mayonnaise - fried calamari
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-08-494x370.jpg "Provence, Bangkok")
-
 Steamed noodle with chicken in soy sauce 80 BHT
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-09-494x370.jpg "Provence, Bangkok")
 
 The steamed noodles with chicken
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-10-494x370.jpg "Provence, Bangkok")
-
 Famous Boat Noodle with Special Beef 205 BHT
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Provence-Bangkok-06-494x370.jpg "Provence, Bangkok")
 
 Thai Ice Tea
 

@@ -48,70 +48,36 @@ Price Range 2 $/¥/NT
 Other posts
 [The Shanghai Foodist](http://www.shanghaifoodist.com/?p=836), [City Weekend](http://www.cityweekend.com.cn/shanghai/listings/dining/shanghai/has/jesse-restaurant/), [A Modern Lei Feng](http://www.modernleifeng.com/?p=938), [Virtual Tourist](http://www.virtualtourist.com/travel/Asia/China/Shanghai_Shi/Shanghai-1003464/Restaurants-Shanghai-Xin_Ji_Shi_Zin_Tian_Di_Restaurant-BR-1.html), [Zagat Listing](http://www.zagat.com/Verticals/PropertyDetails.aspx?VID=8&R=92964), [Smart Shanghai](http://www.smartshanghai.com/venue/4445/Xinjishi_shanghai), [Shanghai Eats](http://www.shanghai-eats.com/portal/716_0/Xin_Ji_Shi_Xintiandi.aspx), [Dianping Listing](http://www.dianping.com/shop/500705)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-10-494x370.jpg "Xinjishi Xintiandi Shanghai")
-
 rustic interior in the famed xintiandi
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-09-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 XinJiShi is one of my Go-To places when I have guests in town.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-04-494x370.jpg "Xinjishi Xintiandi Shanghai")
-
 The interior of Xinjishi.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-08-370x494.jpg "Xinjishi Xintiandi Shanghai")
 
 Jishi is part of the La Confrérie de la Chaîne des Rôtisseurs - a International gastronomic society.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-02-494x370.jpg "Xinjishi Xintiandi Shanghai - Cold Dishes")
-
 This is the first of the cold dishes (appetizers) - sliced cucumber
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-05-494x370.jpg "Xinjishi Xintiandi Shanghai - Cold Dishes")
 
 Stuffed and Sticky Lotus Root, served cold. A popular Shanghainese Dish
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-12-494x370.jpg "Xinjishi Xintiandi Shanghai - Cold Dishes")
-
 Enoki Mushrooms. Girls love these types of mushrooms
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-03-494x370.jpg "Xinjishi Xintiandi Shanghai - Cold Dishes")
 
 Sliced Radishes in a sweet and savory marinade. Quite refreshingly crisp
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-20-370x494.jpg "Xinjishi Xintiandi Shanghai")
-
 Hong Sau Rou - Braised Pork Belly - the Most Famous Shanghainese Dish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-07-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 Hong Sau Rou - Sweet and Tender
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-19-494x370.jpg "Xinjishi Xintiandi Shanghai - Hot Dishes")
-
 Hot and Spicy Crispy Chicken with Shrimp - more of a Sichuan Dish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-18-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 Sichuan Chicken with Shrimp or Prawns
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-17-494x370.jpg "Xinjishi Xintiandi Shanghai")
-
 Fried Soy Sauced Fish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-15-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 Up Close with this Fish. Not a lot of bones - which is Great!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-06-494x370.jpg "Xinjishi Xintiandi Shanghai - Hot Dishes")
-
 Stewed Tofu with Mushrooms
 
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-13-494x370.jpg "Xinjishi Xintiandi Shanghai")
-
 Vegetable Soup with Mushrooms. Mushrooms are a big part of Shanghainese, let alone Chinese Cuisine.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Xinjishi-Xintiandi-Shanghai-01-494x370.jpg "Xinjishi Xintiandi Shanghai")
 
 Chinese broccoli - The requisite vegetable dish

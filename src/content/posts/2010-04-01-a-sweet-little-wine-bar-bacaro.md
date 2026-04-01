@@ -43,6 +43,6 @@ draft: false
 
 ***
 
-\[\[Translate]]\(javascript:show\_translate\_popup('en', 'post', 228);)![](/images/postshttp://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+\[\[Translate]]\(javascript:show\_translate\_popup('en', 'post', 228);)
 
 [![Print](/images/postshttp://cdn.printfriendly.com/pf-button.gif)](http://www.printfriendly.com "Print an optimized version of this web page")

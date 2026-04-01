@@ -42,30 +42,15 @@ First Floor Restaurant
 黄山市屯溪区屯溪老街247号(老街口)
 ＋86 559-2539797
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-29-494x370.jpg "First Floor Restaurant Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-37-494x370.jpg "First Floor Restaurant Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-42-494x370.jpg "First Floor Restaurant Huangshan")
-
 Vegetable rice
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-46-494x370.jpg "First Floor Restaurant Huangshan")
 
 毛豆腐 Tofu
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-47-494x370.jpg "First Floor Restaurant Huangshan")
-
 臭桂鱼 Braised fish in heavy sauce
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-12-494x277.jpg "First Floor Restaurant Huangshan")
 
 Steamed pork - unfortunately, not very good
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-13-494x277.jpg "First Floor Restaurant Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-16-494x277.jpg "First Floor Restaurant Huangshan")
-
 Dumplings
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/First-Floor-Restaurant-Huangshan-18-494x277.jpg "First Floor Restaurant Huangshan")
 
 Steamed pork with pumpkin
 

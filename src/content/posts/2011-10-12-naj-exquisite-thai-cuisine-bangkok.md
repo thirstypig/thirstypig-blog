@@ -47,39 +47,19 @@ Silom, Bangkok 10500 Thailand
 najcuisine@asia.com
 [www.najcuisine.com](http://www.najcuisine.com )
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-02-494x370.jpg "Naj Thai Bangkok")
-
 Naj is a Thai restaurant. This place is great for large groups
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-01-494x370.jpg "Naj Thai Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-04-494x370.jpg "Naj Thai Bangkok")
 
 Appetizers - กระทงทอง Kra Thong Tong A Crispy Gold Flour Cup Filled With Herbs Minced Chicken, Sweet Corn And Vegetable
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-05.jpg "Naj Thai Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-06-494x370.jpg "Naj Thai Bangkok")
-
 มัสมั่นไก่ Massaman Kai - Chicken in Mussaman Thicky Curry With Peanut And Potato, Delicious!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-07-494x370.jpg "Naj Thai Bangkok")
 
 Thai steamed rice
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-08-494x370.jpg "Naj Thai Bangkok")
-
 Stir fried vegetables
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-09.jpg "Naj Thai Bangkok")
 
 ส้มตำ, หมูแดดเดียว, ข้าวเหนียวทอด Som Tam Set Papaya Salad Served with Fried Sticky Rice and Pork Jerky
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-10.jpg "Naj Thai Bangkok")
-
 ต้มยำกุ้ง Tom Yum Goong Hot And Sour Soup With Prawns, Lemon Leaves, Onions And Herbs In Lemon Grass Broth
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-11-494x370.jpg "Naj Thai Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-13-494x370.jpg "Naj Thai Bangkok")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Naj-Thai-Bangkok-12-494x370.jpg "Naj Thai Bangkok")
 
 Outdoor courtyard
 

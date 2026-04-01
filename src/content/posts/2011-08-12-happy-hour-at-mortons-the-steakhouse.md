@@ -59,14 +59,8 @@ What could be better? I welcome comments on better Happy Hour specials in Shangh
 
 These petite filet mignon steak sandwiches are really good. All you can eat. No Limits!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghai-Mortons-Happy-Hour-03-494x326.jpg "Shanghai Morton's Happy Hour")
-
 Martini's are also on special for only RMB 38
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghai-Mortons-Happy-Hour-08-494x369.jpg "Shanghai Morton's Happy Hour")
-
 Get there early before 5pm, between Monday through Friday, for outdoor seating. It fills up fast.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghai-Mortons-Happy-Hour-09-494x369.jpg "Shanghai Morton's Happy Hour")
 
 Just like the American original's, Morton's specializes in steaks. This place gets packed fast. Lots of neighboring building empty out around happy hour to head to Morton's, in IFC.

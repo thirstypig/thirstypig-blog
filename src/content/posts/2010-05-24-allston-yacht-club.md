@@ -45,4 +45,4 @@ SHARETHIS.addEntry({ title: 'Allston Yacht Club of Echo Park, Los Feliz', url: "
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 528);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 528);)

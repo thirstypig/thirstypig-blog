@@ -46,87 +46,43 @@ Kikori Yakitori Bar
 No. 38 Dongfeng St., Da-an Dist., Taipei
 +886 223259680
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-38-494x368.jpg "Yakitori Bar Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-02-494x368.jpg "Yakitori Bar")
-
 The Menus
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-10-494x368.jpg "Yakitori Bar")
 
 Very cool decor
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-11-494x368.jpg "Yakitori Bar Taipei")
-
 The little pots of peppers and spices
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-13-494x368.jpg "Yakitori Bar Taipei")
 
 Radish appetizers
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-15-494x368.jpg "Yakitori Bar Taipei")
-
 Chicken breast with little dollops of wasabi. Very popular and one of the first things I would order
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-16-494x368.jpg "Yakitori Bar Taipei")
 
 Chicken heart . . . not something I would eat or order
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-17-494x368.jpg "Yakitori Bar Taipei")
-
 Diced octopus with radishes
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-18-494x368.jpg "Yakitori Bar Taipei")
 
 Chicken Liver
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-19-494x368.jpg "Yakitori Bar Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-20-494x368.jpg "Yakitori Bar Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-21-494x368.jpg "Yakitori Bar Taipei")
-
 Sake
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-22-494x368.jpg "Yakitori Bar Taipei")
 
 You get to pick the sake glass that you want to drink with. Kinda cool
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-24-494x368.jpg "Yakitori Bar Taipei")
-
 Chicken Skin
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-25-494x368.jpg "Yakitori Bar Taipei")
 
 Intestine - chewy and not something I'd pick
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-26-494x368.jpg "Yakitori Bar Taipei")
-
 The stone grill for the beef tongue
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-27-494x368.jpg "Yakitori Bar Taipei")
 
 I believe these are Ginkgo Nuts
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-28-494x368.jpg "Yakitori Bar Taipei")
-
 Sliced Beef Tenderloin
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-29-494x368.jpg "Yakitori Bar Taipei")
 
 Albacore - I think
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-30-494x368.jpg "Yakitori Bar Taipei")
-
 More Grilled Ginkgo Nuts
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-31-494x368.jpg "Yakitori Bar Taipei")
 
 Grilled Ground Chicken
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-32-494x368.jpg "Yakitori Bar Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-33-494x368.jpg "Yakitori Bar Taipei")
-
 Beef with Radish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Yakitori-Bar-Taipei-36-494x368.jpg "Yakitori Bar Taipei")
 
 Soup
 

@@ -40,44 +40,23 @@ Quán Lẩu Dê 306
 306 Điện Biên Phủ, Quận 3 – Hồ Chí Minh
 +84 0933 128686, +84 0903 058686, +84 08 38358686
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-01-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-
 Vietnamese Homemade Whiskey
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-02-494x370.jpg "Quán Lẩu Dê 306, Saigon")
 
 Butter with sugar
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-03-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-
 Fried Goat bone marrow with egg
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-04-494x370.jpg "Quán Lẩu Dê 306, Saigon")
 
 Roasting Vietnamese bread Banh over hot coals
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-05-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-
 Goat Meat
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-06-494x370.jpg "Quán Lẩu Dê 306, Saigon")
 
 Spicy Red Chili Sauce/Paste
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-07-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-
 Stir Fried Vegetable Greens with Garlic
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-08-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-09-494x370.jpg "Quán Lẩu Dê 306, Saigon")
 
 Rice
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-10-494x370.jpg "Quán Lẩu Dê 306, Saigon")
-
 Goat Breast Meat with Herbs
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/Quán-Lẩu-Dê-306-Saigon-12-494x370.jpg "Quán Lẩu Dê 306, Saigon")
 
 Goat Meat
 

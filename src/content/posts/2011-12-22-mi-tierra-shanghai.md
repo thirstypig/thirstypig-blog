@@ -57,24 +57,13 @@ Mi Tierra
 
 99 RMB Tuesday Night All You Can Eat Fajita Special
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-01-494x370.jpg "Mi Tierra Shanghai")
-
 Corn and Bean Appetizer - Quite Yummy
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-04-494x370.jpg "Mi Tierra Shanghai")
 
 Chips with Guacamole and Salsa
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-05-494x370.jpg "Mi Tierra Shanghai")
-
 Shrimp Fajitas
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-06-494x370.jpg "Mi Tierra Shanghai")
-
 Chicken Fajitas
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-07-494x370.jpg "Mi Tierra Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Mi-Tierra-Shanghai-08-494x370.jpg "Mi Tierra Shanghai")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/22/mi-tierra-shanghai/?share=facebook "Share on Facebook")

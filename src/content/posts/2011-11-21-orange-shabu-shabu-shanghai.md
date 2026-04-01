@@ -46,46 +46,24 @@ Orange Shabu Shabu
 Sinan Mansions, Unit 26C, 55 Sinan Road, near Fu Xing Middle Road, Shanghai
 +86 21-64180933
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-07-494x368.jpg "Orange Hot Pot Shanghai")
-
 The Hot Pot Cauldron used to cook our food.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-03-494x368.jpg "Orange Hot Pot Shanghai")
 
 The multitude of sauces to enhance the flavors for each tasty bite
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-01-494x368.jpg "Orange Hot Pot Shanghai")
-
 Crab Legs - ready to be thrown in the pipping hot pot
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-02-494x368.jpg "Orange Hot Pot Shanghai")
 
 Ready to be gobbled up!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-04-494x368.jpg "Orange Hot Pot Shanghai")
-
 The abalone sashimi
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-05-494x368.jpg "Orange Hot Pot Shanghai")
 
 Such as large plate of abalone
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-11-494x368.jpg "Orange Hot Pot Shanghai")
-
 The thinly sliced beef just seconds after being boiled in the hot pot
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-12-494x368.jpg "Orange Hot Pot Shanghai")
 
 The Mushroom and Tomato side dish - such a cool presentation
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-16-494x368.jpg "Orange Hot Pot Shanghai")
-
 The porridge preparation, toward the end of the meal
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-18-494x368.jpg "Orange Hot Pot Shanghai")
-
 This one of the unique treats at Orange - the rice porridge they make using the essence left over from your hot pot soup
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Orange-Hot-Pot-Shanghai-20-494x368.jpg "Orange Hot Pot Shanghai")
 
 The flan custard dessert

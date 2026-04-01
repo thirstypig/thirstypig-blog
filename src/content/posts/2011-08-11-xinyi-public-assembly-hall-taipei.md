@@ -46,74 +46,37 @@ Good Cho’s 好丘
 台北市松勤街54號 (信義公民會館C館)
 02)27582-609
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-01-494x370.jpg "XinYi Military Village Taipei")
-
 You wouldn't know it, but this military village is smack dab in the middle of one of the most popular and expensive real estate areas in Taipei
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-02-494x370.jpg "XinYi Military Village Taipei")
 
 This village is a tourist attraction all on its own
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-17-494x370.jpg "XinYi Military Village Taipei")
-
 These little hills are bomb shelter bunkers
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-18-494x370.jpg "XinYi Military Village Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-03-494x370.jpg "Xin3Yi Military Village Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-04-494x370.jpg "XinYi Military Village Taipei")
 
 The courtyard of the Village
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-05-494x370.jpg "XinYi Military Village Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-06-494x370.jpg "XinYi Military Village Taipei")
-
 Remnants of the Xinyi Military Village.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-07-494x370.jpg "XinYi Military Village Taipei ")
 
 The indoor shopping area and food court
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-08-494x370.jpg "XinYi Military Village Taipei")
-
 This is the famous bagel shop at the XinYi Village. Yes, Bagels!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-16-494x370.jpg "XinYi Military Village Taipei")
 
 See how they roll the bagels
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-12-370x494.jpg "XinYi Military Village Taipei")
-
 The menu of the bagels. The black sesame is probably the most popular
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-09-494x370.jpg "XinYi Military Village Taipei")
 
 This indoor food court seating area is packed with people, almost all the time.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-11-494x370.jpg "XinYi Military Village Taipei")
-
 The different flavors of filling bagels
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-19-494x370.jpg "XinYi Military Village Taipei")
 
 Inside the black sesame bagel. A unique way of making bagels, in which they stuff filling.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-21-494x370.jpg "XinYi Military Village Taipei")
-
 On the outside, these bagels look like any other bagel, even looks like the standard New York Bagel
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-22-494x370.jpg "XinYi Military Village Taipei")
 
 Looks yummy doesn't it?
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-23-494x370.jpg "XinYi Military Village Taipei")
-
 Inside the garlic bagel! And yes, it taste very yummalicious!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-10-494x370.jpg "XinYi Military Village Taipei")
-
 Lots of little snacks, gifts, and trinkets
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/XinYi-Military-Village-Taipei-14-494x370.jpg "XinYi Military Village Taipei")
 
 Homemade and hand-packed ice cream
 

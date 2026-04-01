@@ -44,34 +44,18 @@ Spicy Moment
 71 Wuyuan Lu, near Changshu Lu
 +86 21 5403 0775
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-06-494x368.jpg "Spicy Moment Shanghai")
-
 Spicy Moment is new Hunan restaurant in contemporary dining setting
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-05-494x368.jpg "Spicy Moment Shanghai")
 
 Look for Dant Deng 邓佥潋, the owner. He also has a furniture boutique across the street.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-01-494x368.jpg "Spicy Moment Shanghai")
-
 Spicy Cold Fungus. After immediately finding out seats, Brother Deng greets us and offers selections from his home province. His emphasis on localvore, organic, and carefully selected ingredients had us almost had our mouths watering with hunger. We started with the cold spicy black fungus - a local shanghai ingredient with spicy Hunan influence. This particular twist was appealing to me.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-02-494x327.jpg "Spicy Moment Shanghai")
 
 Cold dish appetizer - Fenpi: Sliced bean curd in sour & spicy sauce. This dish was one of my favorites of the night. 12 RMB. Next we had the Sliced bean curd in sour & spicy sauce, which was my favorite of the night. The slippery jello-like tofu has good texture and melded with the spicy sauce well. The presentation was was interesting with the round pyramid structure.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-04-494x368.jpg "Spicy Moment Shanghai")
-
 Shredded Chicken. Another great refreshing and non spicy dish. Another excellent choice. I liked this dish a lot, too. I think non-chinese would like it as well. Spicy but not too spicy and boneless.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-03-494x368.jpg "Spicy Moment Shanghai")
 
 Soup Noodles, with dried fish and vegetables with Fresh Alkaline noodles. I am not sure what Alkaline noodles are - but it was good. The centerpiece of the night. I didn't like the dried fish, which provides flavor with a chewy texture - a bit off-settling.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-07-494x368.jpg "Spicy Moment Shanghai")
-
 The Famous Hunan Spicy Fish Head. Quite spicy. Though there was great flavor, there were way too many bones for my liking. Way too many bones.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Spicy-Moment-Shanghai-08-494x368.jpg "Spicy Moment Shanghai")
 
 Pumpkin dessert with black sesame glutinous rice balls. The pumpkin has a subdued flavor with the thick slightly sweet broth. Very good!

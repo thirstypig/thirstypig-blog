@@ -22,7 +22,7 @@ tags:
 - american
 - bbq
 - grilled
-description: Chili’shttp://www.thethirstypig.com/wp-content/uploads/2010/06/IMG2411-600x450.jpg "IMG2411"http://www.thethirstypig.com/2010/07/07/chili%e2%80%99s-grill-and-bar-taipei/img2411/ My first experience at
+description: Chili’s "IMG2411"http://www.thethirstypig.com/2010/07/07/chili%e2%80%99s-grill-and-bar-taipei/img2411/ My first experience at
 archiveUrl: https://web.archive.org/web/20110105133246/http://www.thethirstypig.com/2010/07/07/chili%e2%80%99s-grill-and-bar-taipei/
 draft: false
 location: Chili's Grill & Bar

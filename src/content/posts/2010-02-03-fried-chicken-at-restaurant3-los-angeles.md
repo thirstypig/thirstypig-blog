@@ -16,7 +16,7 @@ tags:
 - los-angeles
 - american
 - fried-chicken
-description: On the suggestion from a friend, Miss J, I was told that Restaurant3, formerly known as Cynthia’s had some of the best fried chicken. http://3.bp.blogspot.com/UYnRoOEBBM/S0ysNFagx5I/AAAAAAAAAn4/LAyEmx
+description: On the suggestion from a friend, Miss J, I was told that Restaurant3, formerly known as Cynthia’s had some of the best fried chicken.
 archiveUrl: https://web.archive.org/web/20110105031156/http://www.thethirstypig.com/2010/02/03/fried-chicken-at-restaurant3-los-angeles/
 draft: false
 location: Sultan Chicken
