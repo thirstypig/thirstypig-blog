@@ -51,30 +51,15 @@ Level F, Waldorf Astoria Club, 2 Zhong Shan Dong Yi Lu, near Guangdong Lu
 daily from 11 a.m. to 2 a.m.
 [waldorfastoria.com](http://www.waldorfastoria.com)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-11-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-
 This classic bar features a live Jazz band with singer. Been around since 1911
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-09-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
 
 A mojito and old fashion
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-05-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-
 Unfortunately, the old fashion was a bit too sweet
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-04-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
 
 It truly is a Long Bar
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-03-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-12-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-07-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-06-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
-
 Check out the oyster bar in the back
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Long-Bar-Waldorf-Astoria-Shanghai-01-494x370.jpg "Long Bar Waldorf Astoria Shanghai")
 
 Merry Christmas!
 

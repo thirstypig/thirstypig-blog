@@ -38,4 +38,4 @@ SHARETHIS.addEntry({ title: "Hanyang Korean Cuisine, Taipei 韓國料理漢陽�
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1182);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1182);)

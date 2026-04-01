@@ -31,7 +31,7 @@ cuisine:
 ---
 
 This week, I will trying different Food Trucks. People ask me how do I find these great trucks and how can I track them? Here are a couple of places I look - the [Find LA Food Truck twitter feeds](http://www.findlafoodtrucks.com/), [TruxMap](http://la.truxmap.com/), and [Roaming Hunger](http://www.roaminghunger.com/la).
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/S7at4dQZHVI/AAAAAAAACGs/OsQ3XFnxBZg/s400/World+Fare+0+short+rib+bunny+sandwich.jpg)](/images/posts/world-fare/World+Fare+0+short+rib+bunny+sandwich.jpg)A bite into a Bunny Chow. See the hollowed out hand held bread bowl.
+[](/images/posts/world-fare/World+Fare+0+short+rib+bunny+sandwich.jpg)A bite into a Bunny Chow. See the hollowed out hand held bread bowl.
 
 The World Fare, one of the newer Food Trucks (or buses) to hit the streets of LA, features bunny chows. Originally a South African street worker food, the hollowed out loaf of bread with filled with different types of savory meats.
 
@@ -49,20 +49,20 @@ World Fare
 [www.worldfare.com](http://www.worldfare.com/)
 [twitter.com/worldfare](http://www.twitter.com/worldfare)
 
-[![](http://4.bp.blogspot.com/_37fRXLoLUPo/S7at4B1rYuI/AAAAAAAACGk/x_6Jy6EPKSg/s400/World+Fare+1+Menu.jpg)](/images/posts/world-fare/World+Fare+1+Menu.jpg)The World Fare Menu.
+[](/images/posts/world-fare/World+Fare+1+Menu.jpg)The World Fare Menu.
 
-[![](http://4.bp.blogspot.com/_37fRXLoLUPo/S7at3RQanjI/AAAAAAAACGc/2guh5CYEEQs/s400/World+Fare+2+Bus+Front.jpg)](/images/posts/world-fare/World+Fare+2+Bus+Front.jpg)The World Fare Bus
+[](/images/posts/world-fare/World+Fare+2+Bus+Front.jpg)The World Fare Bus
 
-[![](http://1.bp.blogspot.com/_37fRXLoLUPo/S7at27FxsOI/AAAAAAAACGU/n0WyX_NMsM0/s400/World+Fare+3+Bus+Order.jpg)](/images/posts/world-fare/World+Fare+3+Bus+Order.jpg)See the stairs leading up to the top of the bus.
+[](/images/posts/world-fare/World+Fare+3+Bus+Order.jpg)See the stairs leading up to the top of the bus.
 
-[![](http://2.bp.blogspot.com/_37fRXLoLUPo/S7at2jZLZVI/AAAAAAAACGM/Oz3m7kGQD74/s400/World+Fare+5+Bunny+sandwich.jpg)](/images/posts/world-fare/World+Fare+5+Bunny+sandwich.jpg)The three bunny chow's - chicken, pork, and beef. All quite good.
+[](/images/posts/world-fare/World+Fare+5+Bunny+sandwich.jpg)The three bunny chow's - chicken, pork, and beef. All quite good.
 
-[![](http://4.bp.blogspot.com/_37fRXLoLUPo/S7atpWRytuI/AAAAAAAACGE/deWqbJCxNZs/s400/World+Fare+6+Short+Rib+Bunny.jpg)](/images/posts/world-fare/World+Fare+6+Short+Rib+Bunny.jpg)The Braised Beef Bunny Chow.
+[](/images/posts/world-fare/World+Fare+6+Short+Rib+Bunny.jpg)The Braised Beef Bunny Chow.
 
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/S7atpEZy4tI/AAAAAAAACF8/5ryUlpXKo6U/s400/World+Fare+7+original+bunny+sandwich.jpg)](/images/posts/world-fare/World+Fare+7+original+bunny+sandwich.jpg)The original curry chicken bunny chow.
+[](/images/posts/world-fare/World+Fare+7+original+bunny+sandwich.jpg)The original curry chicken bunny chow.
 
-[![](http://2.bp.blogspot.com/_37fRXLoLUPo/S7atonA3mxI/AAAAAAAACF0/Eiu8t-R8KP8/s400/World+Fare+8+bbq+bunny+pork+butt.jpg)](/images/posts/world-fare/World+Fare+8+bbq+bunny+pork+butt.jpg)The pork butt bunny chow.
+[](/images/posts/world-fare/World+Fare+8+bbq+bunny+pork+butt.jpg)The pork butt bunny chow.
 
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/S7atoNNi3qI/AAAAAAAACFs/fOM99wzFHaA/s400/World+Fare+8.5+Truffle+Mac+and+Cheese+Balls.jpg)](/images/posts/world-fare/World+Fare+8.5+Truffle+Mac+and+Cheese+Balls.jpg)Mac and Cheese Balls!
+[](/images/posts/world-fare/World+Fare+8.5+Truffle+Mac+and+Cheese+Balls.jpg)Mac and Cheese Balls!
 
-[![](http://3.bp.blogspot.com/_37fRXLoLUPo/S7atn85vPhI/AAAAAAAACFk/-r0u-TSjsu8/s400/World+Fare+9+truffle+mac+and+cheese+ball.jpg)](/images/posts/world-fare/World+Fare+9+truffle+mac+and+cheese+ball.jpg)Look at the mac and cheese inside. It was yummy. I wish I knew how to make these.
+[](/images/posts/world-fare/World+Fare+9+truffle+mac+and+cheese+ball.jpg)Look at the mac and cheese inside. It was yummy. I wish I knew how to make these.

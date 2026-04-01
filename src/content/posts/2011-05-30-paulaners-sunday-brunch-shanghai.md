@@ -55,51 +55,27 @@ Links
 
 Sundays means brunch at Paulaner's Xintiandi and to people watch
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-09-494x370.jpg "Paulaner Brunch Shanghai 09")
-
 Xintiandi is the place to people watch on Sunday's
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-10-494x370.jpg "Paulaner Brunch Shanghai 10")
 
 Sunday Brunch in Shanghai is a big event for all
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-11-494x370.jpg "Paulaner Brunch Shanghai 11")
-
 The most successful German chain of restaurants in Shanghai. Everyone is outside enjoying the Sunday day
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-12-494x370.jpg "Paulaner Brunch Shanghai 12")
 
 A traditional beer house. . . in Shanghai!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-13-494x370.jpg "Paulaner Brunch Shanghai 13")
-
 Inside the spacious Paulaner Xintiandi location
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-05-494x370.jpg "Paulaner Brunch Shanghai 05")
 
 Bavarian Breakfast
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-04-494x327.jpg "Paulaner Brunch Shanghai 04")
-
 Bavarian Breakfast with Fried Eggs, Crispy Bacon, Ham, Home-Made Pork Sausages, and Sauteed Potatoes
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-01-494x370.jpg "Paulaner Brunch Shanghai 01")
 
 The simple Club Sandwich. This is one of my favorites
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-02-494x370.jpg "Paulaner Brunch Shanghai 02")
-
 The Paulaner menu features English, Chinese, and German!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-08-494x370.jpg "Paulaner Brunch Shanghai 08")
 
 French Toast. . . another Breakfast/Brunch favorite
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-07-494x370.jpg "Paulaner Brunch Shanghai 07")
-
 Mountain Cheese Special, Melted Cheese on Toasted Farm Bread, Topped with cooked Ham and fried Eggs
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/04/Paulner-Brunch-Shanghai-06-494x370.jpg "Paulaner Brunch Shanghai")
 
 Paulaner's famous Apple Strudel
 

@@ -29,20 +29,11 @@ Quận 1
 TP. HCM Điện thoại
 (08) 62762609
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/I-love-bun-Saigon-07-494x368.jpg "I love bun, Saigon")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/I-love-bun-Saigon-06-494x370.jpg "I love bun, Saigon")
-
 Ice Coffee
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/I-love-bun-Saigon-04-494x370.jpg "I love bun, Saigon")
 
 Dry rice noodles with pork
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/I-love-bun-Saigon-03-494x370.jpg "I love bun, Saigon")
-
 Pho Noodles
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/09/I-love-bun-Saigon-02-494x370.jpg "I love bun, Saigon")
 
 Spicy Noodle Soup
 

@@ -91,4 +91,4 @@ SHARETHIS.addEntry({ title: "Best Shanghai Style Fried Pork Buns 上海生煎包
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1102);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1102);)

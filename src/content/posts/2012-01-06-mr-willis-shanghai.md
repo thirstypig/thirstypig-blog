@@ -49,55 +49,29 @@ Mr. Willis
 3/F, 195 Anfu Lu, near Wulumuqi Lu
 +86 21 5404 0200
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-19-494x370.jpg "Mr Willis Shanghai")
-
 Entrance
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-01-494x494.jpg "Mr Willis Shanghai")
 
 Family style Western restaurant
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-08-494x370.jpg "Mr Willis Shanghai")
-
 High ceiling interior
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-18-494x370.jpg "Mr Willis Shanghai")
 
 Located on the 3rd floor on the popular restaurant street Anfu Road, Shanghai
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-10-494x370.jpg "Mr Willis Shanghai")
-
 An Old Fashion - Bourbon, bitters and a twist of orange rind
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-16-494x370.jpg "Mr Willis Shanghai")
 
 Suckling pig, Anne's little onions braised with raisins - 165 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-12-494x370.jpg "Mr Willis Shanghai")
-
 Mr Willis Roast Chicken - provencal pumpkin gratin, roasting jus - half chicken
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-14-494x370.jpg "Mr Willis Shanghai")
 
 Grilled Salmon, carrots & cumin puree - 152 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-15-494x370.jpg "Mr Willis Shanghai")
-
 Risotto: mushrooms, porcini, truffel - 168 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-13-494x370.jpg "Mr Willis Shanghai")
 
 Artichokes, truffled mushrooms, white bean, and arugula
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-09-494x370.jpg "Mr Willis Shanghai")
-
 Basket of wheat table bread with olive oil
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-11-494x370.jpg "Mr Willis Shanghai")
-
 Rucola Pizza - tomato, mozzarella, Prosciutto crudo, rucola, parmesan - 98 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Mr-Willis-Shanghai-17-494x370.jpg "Mr Willis Shanghai")
 
 Grilled zucchini, olives, olive oil
 

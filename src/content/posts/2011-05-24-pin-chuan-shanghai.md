@@ -46,90 +46,46 @@ Price Range 2 $/¥/NT
 Links
 [Cityweekend](http://www.cityweekend.com.cn/shanghai/listings/dining/sichuan/has/pin-chuan/), [Smart Shanghai](http://www.smartshanghai.com/blog/828/%5BRevisited%5D_Pin_Chuan_shanghai), [Shanghai-Eats](http://www.shanghai-eats.com/portal/746_0/Pin_Chuan.aspx), [SH-Reviews](http://www.sh-reviews.com/shanghai/restaurant/review/sichuan/205/pin_chuan/), [Dining Secretary](http://www.diningsecretary.com/shanghai/restaurant-d/AESH10000790.shtml), [Zagats](http://www.zagat.com/r/pin-chuan-shanghai-china)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-01-494x370.jpg "Pin Chuan")
-
 . . . is located in the heart of the French Concession
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-23-494x370.jpg "Pin Chuan")
 
 The contemporary decor of Pin Chuan
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-21-494x370.jpg "Pin Chuan")
-
 If you can't take the heat . . . don't come to Pin Chuan
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-04-494x370.jpg "Appetizers")
 
 Peanuts with Sichuan Peppercorns and Dried Chilies
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-03-370x494.jpg "Sliced Pork Belly")
-
 A Pin Chuan Favorite.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-05-494x370.jpg "Another Appetizer")
 
 Sliced Celery Stalks with peanut sauce
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-11-494x370.jpg "天府豆花 (桶)")
-
 Homemade Soft Beancurd
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-12-370x494.jpg "The Sichuan Spicy Speciality")
 
 Crispy Chicken with Chilies and Sichuan Peppercorns
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-02-370x494.jpg "Sichuan Chicken")
-
 Mouth Watering Chicken in thick Sichuan Peppercorn sauce
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-22-494x370.jpg "House Speciality")
 
 Shredded Beef with Chilies & Onions in Hot Oil with Hot Stone
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-07-494x370.jpg "Fish Head")
-
 The Double Chili Fish Head
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-08-494x370.jpg "Spicy Tofu")
 
 招牌麻婆豆腐 Mapo Tofu, goes great with rice
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-09-370x494.jpg "Beef")
-
 Stir Fried Beef with Green Beans
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-15-494x370.jpg "Fried Fish")
 
 Fried Fish with diced chilies
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-17-370x494.jpg "Tofu with Crab")
-
 Tofu with Crab. Not exactly a Sichuan dish, more of a Shanghainese one
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-19-494x370.jpg "Eggplant")
 
 Diced vegetables with Eggplant in heavy sauce. Not that good.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-18-494x370.jpg "Frog Legs")
-
 Frog Legs in a Spicy Sichuan Broth
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-14-370x494.jpg "Soup")
 
 Hot & Sour Soup
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-13-370x494.jpg "Vegetables")
-
 Chinese Broccoli with Diced Salted & 1000 year old egg
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-16-370x494.jpg "Dumplings")
 
 Pan Fried Dumplings
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-10-370x494.jpg "Soup")
-
 Just Chicken Soup. A flavorful consume
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Pin-Chuan-Shanghai-20-494x370.jpg "Dessert")
 
 Fried Sweet Bread Sticks

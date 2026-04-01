@@ -11,7 +11,7 @@ tags:
 - bakery
 - cake
 - dessert
-description: <http://thirstypig.com/wp-content/uploads/2012/03/IMG2090.m4v>http://thirstypig.com/wp-content/uploads/2012/03/IMG2090.m4v?=1
+description: <
 archiveUrl: https://web.archive.org/web/20161105193820/http://thirstypig.com/2012/03/14/21-cake-shanghai/
 draft: true
 location: 21 cake | 廿一客
@@ -24,8 +24,5 @@ coordinates:
 cuisine:
 - Bakery
 ---
-
-
-[<http://thirstypig.com/wp-content/uploads/2012/03/IMG_2090.m4v>](http://thirstypig.com/wp-content/uploads/2012/03/IMG_2090.m4v?_=1)
 
 ##### [21 Cake](http://www.21cake.com/)

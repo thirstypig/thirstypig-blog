@@ -35,59 +35,29 @@ Design Boutique Hotels
 安徽省黄山市屯溪区仙人洞北路1-6号
 No.1-6 Fairy Cave North Road, Tunxi District, Huangshan 245000, China
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-04-494x277.jpg "Design Hotel Huangshan")
-
 Front Entrance
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-47-494x370.jpg "Design Hotel Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-05-494x277.jpg "Design Hotel Huangshan")
 
 Walking toward the lobby
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-44-494x370.jpg "Design Hotel Huangshan")
-
 Indoor Pond
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-42-494x370.jpg "Design Hotel Huangshan")
 
 The airy lobby
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-37-494x370.jpg "Design Hotel Huangshan")
-
 The main lobby of the hotel
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-06-494x277.jpg "Design Hotel Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-24-494x277.jpg "Design Hotel Huangshan")
 
 The ornate ceiling
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-25-494x277.jpg "Design Hotel Huangshan")
-
 Just behind the wall is the lobby restrooms
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-41-494x370.jpg "Design Hotel Huangshan")
 
 The Butterfly Chair. A really cool looking chair
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-39-494x370.jpg "Design Hotel Huangshan")
-
 A colorful chest bench
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-27-277x494.jpg "Design Hotel Huangshan")
 
 The dark hall is lit with wall base lights. Probably not enough light.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-14-494x277.jpg "Design Hotel Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-30-494x370.jpg "Design Hotel Huangshan")
-
 The room has cool decor, that you typically don't find in Hotels in China, or even in the US.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-31-494x370.jpg "Design Hotel Huangshan")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-33-494x370.jpg "Design Hotel Huangshan")
-
 Bathroom
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Design-Hotel-Huangshan-35-494x370.jpg "Design Hotel Huangshan")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/13/design-boutique-hotel-huangshan/?share=facebook "Share on Facebook")

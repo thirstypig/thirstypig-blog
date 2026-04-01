@@ -51,43 +51,23 @@ Links
 +86 21 6209-9849
 open from 8-5am
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-13-494x370.jpg "Mapowu Shanghai")
-
 Look for this sign. Late at night, it should be one of the only places around that is still open
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-02-494x370.jpg "Mapowu Shanghai")
 
 The large cover of the Mapowu menu. Inside it features lot so pictures, so, if you can't read, you can just point - like I do.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-01-494x370.jpg "Mapowu Shanghai")
-
 The apps. . .Every single Korean meals starts with the panchan - the appetizers. Usually served cold or room temperature.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-11-494x370.jpg "Mapowu Shanghai")
 
 Tofu stew - called Sundubu jjigae. I just call it sundubu.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-12-494x370.jpg "Mapowu Shanghai")
-
 Sundubu is served quite spicy and bubbling hot. Unfortunately, I have burned my tongue almost every time I have had this dish.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-09-494x370.jpg "Mapowu Shanghai")
 
 Seolleongtang or just beef stew is one of my favorite Korean dishes. I remember having this non-spicy dish years ago in Korea-town, back when I was in school in LA.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-10-494x370.jpg "Mapowu Shanghai")
-
 Seolleongtang is a great dish for those who can't handle spicy. Unfortunately, I might be in this boat.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-08-494x370.jpg "Mapowu Shanghai")
 
 Kimchi Pancake. This is another favorite dish, usually served as an appetizer.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-17-494x327.jpg "Mapowu Shanghai")
-
 Kimchi Fried Rice! Yummy!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Mapowu-Shanghai-14-494x370.jpg "Mapowu Shanghai")
 
 Mapowu's version of Kimchi fried rice is good, but not the best I have had. I wish it was a little more spicier.
 

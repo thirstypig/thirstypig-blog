@@ -58,31 +58,17 @@ Links
 
 The simple interior of the restaurant
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-02-494x327.jpg "Shanghainese")
-
 Hong Sau Ji - Braised Chicken
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-03-494x369.jpg "Shanghainese")
 
 River Shrimp 油爆虾 - small but tasty
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-04-494x369.jpg "Shanghainese")
-
 Steamed Fish with heavy sauce 海金滋
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-06-494x369.jpg "Shanghainese")
 
 Soup! Pork with Tofu and Mushroom (but actually Shanghai fungus)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-07-494x369.jpg "Shanghainese")
-
 Soup!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-08-494x369.jpg "Shanghainese")
-
 Eggs! 蟹粉蛋 Xie Fen Dan
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Shanghainese-10-494x369.jpg "Shanghainese")
 
 葱烤大排
 

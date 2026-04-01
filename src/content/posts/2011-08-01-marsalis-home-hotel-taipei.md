@@ -38,39 +38,20 @@ No. 90 SongRen Road, 3rd Floor, XinYi District, Taipei 110, Taiwan, R.O.C.
 +886 2 87890111 t, +886 2 87890222 f
 [www.homehotel.com.tw](http://www.homehotel.com.tw)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-07-494x370.jpg "Marsalis Taipei")
-
 Marsalis Home is a Whiskey Lounge located in the Home Hotel
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-05-494x370.jpg "Marsalis Taipei")
 
 Part of the Scotch Malt Whiskey Society
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-17-494x370.jpg "Marsalis Taipei")
-
 Check out the shelf of the special Single Malt Scotch Whiskey's.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-14-494x370.jpg "Marsalis Taipei")
 
 The special labels from the Scotch Malt Whiskey Society. Please note the exclusive ratings, reviews, and classic look of each label.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-12-494x370.jpg "Marsalis Taipei")
-
 Each of the special bottles has a limited release. They come from a special cask from each distillery.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-09-494x370.jpg "Marsalis Taipei")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-04-494x370.jpg "Marsalis Taipei")
 
 Marsalis is also an intimate live Jazz venue. I personally think live music is best experienced in a small intimate setting - like Marsalis.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-19-494x370.jpg "Marsalis Taipei")
-
 Its the little details that make all the difference.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-02-494x370.jpg "Marsalis Taipei")
-
 Marsalis also features a couple of private rooms.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Marsalis-Taipei-11-494x370.jpg "Marsalis Taipei")
 
 Check out this 32 year old scotch from the private owner's collection. This has to be worth thousands of dollars.

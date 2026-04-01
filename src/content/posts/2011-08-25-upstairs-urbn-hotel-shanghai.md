@@ -62,15 +62,9 @@ General Inquiries:info@urbnhotels.com
 +86 21 5153 4600
 <http://www.urbnhotels.com>
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Upstairs-494x329.jpg "Upstairs")
-
 As you walk up the stairs to the outdoor patio, the open air refreshes you.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Upstairs1-494x329.jpg "Upstairs")
-
 Great place to chill after a date
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Upstairs3-494x329.jpg "Upstairs")
 
 Moet Chandon is the primary sponsor for Upstairs
 

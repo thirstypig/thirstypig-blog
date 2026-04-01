@@ -80,4 +80,4 @@ SHARETHIS.addEntry({ title: "Katsuta, The Japanese Pork Chop Shop, Taipei 勝田
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 817);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 817);)

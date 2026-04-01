@@ -56,11 +56,6 @@ Links
 [DianPing listing](http://www.dianping.com/shop/2883745), [Shanghaiist](http://shanghaiist.com/2008/12/08/cantina_agave_hallelujah.php), [Nileguide](http://www.nileguide.com/destination/shanghai/restaurants/cantina-agave/416471), [Best Food in China](http://www.bestfoodinchina.net/node/619), [Friday Nite](http://blog.friday-nite.com/?p=979)
 
 ![](/images/posts/cantina-agave/Catina-Agave-Shanghai-15-188x188.jpg "Catina Agave Shanghai 24")
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Catina-Agave-Shanghai-21-494x370.jpg "Catina Agave Shanghai 21")
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Catina-Agave-Shanghai-18-494x370.jpg "Catina Agave Shanghai 18")
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Catina-Agave-Shanghai-16-370x494.jpg "Catina Agave Shanghai 16")
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Catina-Agave-Shanghai-08-494x370.jpg "Catina Agave Shanghai 08")
-![](http://www.thethirstypig.com/wp-content/uploads/2010/12/Catina-Agave-Shanghai-01-494x370.jpg "Catina Agave Shanghai 01")
 
 #gallery-2 {
 margin: auto;

@@ -54,38 +54,20 @@ Rm. 102 Bldg 11, 3911 Hongmei Lu, Shanghai
 [weibo.com/cestcupcake](http://weibo.com/cestcupcake)
 jennifer@cestcupcake.com
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-04-494x369.jpg "C'est Cupcake")
-
 Cupcake creations. They can make all types of cupcakes with different designs.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-14-494x369.jpg "C'est Cupcake - Morning Bliss and Tuxedo")
 
 Morning Bliss - Decadent chocolate cake, topped with scrumptious coffee butter cream frosting (foreground). And the Tuxedo - Vanilla bean cake, topped with French dark chocolate ganache.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-20-494x369.jpg "C'est Cupcake")
-
 A bite into the Tuxedo cupcake. Moist and sweet, but not overly sweet - just right.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-19-494x369.jpg "C'est Cupcake")
 
 Check out the lusciousness of the Morning Bliss
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-21-494x369.jpg "C'est Cupcake")
-
 The wood forks - the same ones that Sprinkles - of Los Angeles, uses. Such a nice touch.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-16-494x369.jpg "C'est Cupcake")
 
 Check all the different cupcakes they make.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-03-494x369.jpg "C'est Cupcake")
-
 Not sure where this little girl's mouth and nose are. . . but cute picture anyways.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-05-494x369.jpg "C'est Cupcake")
-
 Taste literally and figuratively is at C'est Cupcakes, as seen in this cute art piece.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/07/Cest-Cupcake-01-494x369.jpg "C'est Cupcake")
 
 Look for this sign on Hongmei Lu 虹梅路.

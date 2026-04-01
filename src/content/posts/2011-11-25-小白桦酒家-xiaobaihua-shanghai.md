@@ -44,90 +44,45 @@ XiaoBaiHua (translated as Little Birch Restaurant)
 Xuhui District, No. 297-3 WanPing Road, near ZhaoJiangBang Road
 ＋86 21-64721867
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-22-494x370.jpg "Xiao Bai Hua")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-21-494x370.jpg "Xiao Bai Hua")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-01-494x370.jpg "Xiao Bai Hua")
-
 Cold Dish Appetizer - Jellyfish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-02-494x370.jpg "Xiao Bai Hua")
 
 Cold Dish Appetizer - Drunken Shrimp
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-03-494x370.jpg "Xiao Bai Hua")
-
 Cold Dish Appetizer - Marinated Chicken
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-04-494x370.jpg "Xiao Bai Hua")
 
 Cold Dish Appetizer - Pig Ear
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-05-494x370.jpg "Xiao Bai Hua")
-
 Cold Dish Appetizer - Marinated Fish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-06-494x370.jpg "Xiao Bai Hua")
 
 Cold Dish Appetizer - Sliced Cucumber
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-07-494x370.jpg "Xiao Bai Hua")
-
 Cold Dish Appetizer - Tofu Skins
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-08-494x370.jpg "Xiao Bai Hua")
 
 Steamed Sticky Rice with Fatty Pork
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-09-494x370.jpg "Xiao Bai Hua")
-
 Up Close with the Sticky Rice
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-10-494x370.jpg "Xiao Bai Hua")
 
 Pumpkin or Sweet Potato Fries
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-11-494x370.jpg "Xiao Bai Hua")
-
 Stir fried Mussel Shellfish
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-12-494x370.jpg "Xiao Bai Hua")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-13-494x370.jpg "Xiao Bai Hua")
 
 Eel
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-14-494x370.jpg "Xiao Bai Hua")
-
 Fried Fish - Highly Recommended
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-15-494x370.jpg "Xiao Bai Hua")
 
 Fried Frog Legs - Highly Recommended
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-16-494x370.jpg "Xiao Bai Hua")
-
 Braised Pork Belly with Tofu
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-17-494x370.jpg "Xiao Bai Hua")
 
 Spicy Glass Noodles - Recommended
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-18-494x370.jpg "Xiao Bai Hua")
-
 Steamed Hairy Crab (females) - 79 RMB each
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-19-494x370.jpg "Xiao Bai Hua")
 
 Hairy Crab with roe
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-20-494x370.jpg "Xiao Bai Hua")
-
 My Precious
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-23-494x370.jpg "Xiao Bai Hua")
-
 Dessert with glutinous rice balls
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xiao-Bai-Hua-Shanghai-24-494x370.jpg "Xiao Bai Hua")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/11/25/%e5%b0%8f%e7%99%bd%e6%a1%a6%e9%85%92%e5%ae%b6-xiaobaihua-shanghai/?share=facebook "Share on Facebook")

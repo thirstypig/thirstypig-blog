@@ -42,4 +42,4 @@ Most people don’t necessarily associate chicken with Korean food. But Korean F
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1432);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1432);)

@@ -46,45 +46,23 @@ Hunan Village Flavor
 168 Wulumuqi Zhong Lu, near Anfu Lu
 +86 21-64370952
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-02-494x368.jpg "Wulumuqi Road Restaurant")
-
 This restaurant is a secret find of a friend of mine, who asked me not to blog about. It is quite yummy. She doesn't want this place to become too crowded.. . . but too late!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-03.jpg "Wulumuqi Road Restaurant")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-11.jpg "Wulumuqi Road Restaurant")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-13.jpg "Wulumuqi Road Restaurant")
 
 Doujiao Preserved Eggs - 12 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-14.jpg "Wulumuqi Road Restaurant")
-
 Cold Sheet Jelly - 12 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-18.jpg "Wulumuqi Road Restaurant")
 
 Chop Bell Pepper Scrambled Eggs - 15 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-21.jpg "Wulumuqi Road Restaurant")
-
 Hunan Flavor Potato Cake - 18 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-22.jpg "Wulumuqi Road Restaurant")
 
 Throwback Cauliflower - 22 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-24.jpg "Wulumuqi Road Restaurant")
-
 Seasoned Pork Chop - 48 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-25.jpg "Wulumuqi Road Restaurant")
 
 A bite from the Hunan Flavor Potato Cake
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-27.jpg "Wulumuqi Road Restaurant")
-
 The Pork Chop. This dish had great flavor and is recommended.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Wulumuqi-Road-Restaurant-28.jpg "Wulumuqi Road Restaurant")
 
 剁椒鱼头 Duojiao Opium Fish Head - 48 RMB
 

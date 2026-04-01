@@ -43,34 +43,18 @@ Price Range 1 $/¥/NT
 Links
 [Smart Shanghai](http://www.smartshanghai.com/venue/5484/Kin), [City Weekend](http://www.cityweekend.com.cn/shanghai/events/78624/), [Phatsh](http://phatsh.com/?p=1009), [Facebook](http://www.facebook.com/group.php?gid=115959558439989&v=wall)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-03-494x370.jpg "Kin Shanghai")
-
 Kin is a small ramen bistro located in the back of a street wear boutique. You wouldn't know it if you walked by. The courtyard dining area is a nice place to enjoy a light meal.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-01-494x370.jpg "Kin Shanghai")
 
 We started off with a scrumptious citrus duck salad. The tangy oranges melds nicely with the slivers of hearty duck.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-02-494x370.jpg "Kin Shanghai")
-
 Fried Spring Rolls! Always a nice treat. Crispy on the outside and delectable on the inside. I always smile (on the inside and out) when I see spring rolls.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-04-494x327.jpg "Kin Shanghai")
 
 Ramen. Rated as one of the best in Shanghai - Kin's ramen is famous for the time and effort they put into it. They cooked the meat for hours on end. The rich broth is savory and hearty (I said that already) and the egg. THE EGG! the poached egg is just right - with a slightly runny yolk - perfect!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-05-494x370.jpg "Kin Shanghai")
-
 Check out the cool details of the chopsticks. Kin pays attention to the slightest details, which make all the difference.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-07-494x370.jpg "Kin Shanghai")
 
 Look at this egg! I love it! I think this is much better than the standard hard-boiled egg.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-06-494x370.jpg "Kin Shanghai")
-
 Mac and Cheese. I know why I ordered it. . . yet I would still order it, again. But if there is one thing Kin can improve on . . . its the Mac and Cheese. There wasn't much flavor in this gooey dish.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/Kin-Shanghai-08-494x370.jpg "Kin Shanghai")
 
 The homemade lemon bar. The crusty and sweet graham cracker cuts right through the lemony sourness - great combination. I'm glad I had it, though I didn't have much room in my stomach.

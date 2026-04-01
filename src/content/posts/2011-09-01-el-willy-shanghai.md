@@ -49,39 +49,21 @@ El Willy迪雅居
 20 Donghu Lu, near Huaihai Lu, Metro Line 1 Shaanxi Nan Lu Station
 [el-willy.com](http://www.el-willy.com/)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-10-494x368.jpg "El Willy Shanghai")
-
 The spacious courtyard - The Siesta Garden at El Willy. For Al Fresco dining
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-02-494x368.jpg "El Willy Shanghai")
 
 This little piggie was my chopstick holder. Strangely, this Spanish tapas restaurant also provided chopsticks, which i gladly used.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-03-494x368.jpg "El Willy Shanghai")
-
 Cool Ashtray. . . I had thoughts on how to sneak it out with me
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-04-494x368.jpg "El Willy Shanghai")
 
 The first appetizer of thinly sliced ham on bread. I only wish they prepared this after we ordered, so that the bread wouldn't be soggy
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-05-494x368.jpg "El Willy Shanghai")
-
 Sangria - yes 1 pitcher. I like the prepared collection of fruit that was in my glass. Though I was unsuccessful in proper manner of consuming this beverage by eating the fruit before the sangria was done. I didn't let the fruit "marinate" and soak up the alcohol, as I should have.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-07-494x368.jpg "El Willy Shanghai")
 
 "Tortilla Espanola" Spanish Omelette with home-made chorizo 60 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-06-494x368.jpg "El Willy Shanghai")
-
 Crispy suckling pig cooked 12 hours, apple tatin & 5 spice sauce 88 RMB
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-08-494x368.jpg "El Willy Shanghai")
-
 "Canelones a la Barcelonesa" Mixed chicken & beef cannelloni, bechamel sauce with cheese gratin & black truffle 68 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/El-Willy-Shanghai-09-494x368.jpg "El Willy Shanghai")
 
 Willy's very special lobster & mixed seafood dry paella 388 RMB
 

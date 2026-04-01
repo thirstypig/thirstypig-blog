@@ -51,174 +51,88 @@ No. 1, Bade Road Sec. 1, Zhong Zhen District, Taipei 100
 +886(2) 2358-1165 fax
 [huashan1914.com](http://www.huashan1914.com "Huashan Creative Park")
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-25-494x370.jpg "Hua Shan Taipei")
-
 Huashan Creative Park is an renovated Wine Factory dating back to around 100 years.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-96-494x370.jpg "Hua Shan Taipei ")
 
 青葉新樂園 is the restaurant that we had lunch at.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-106-494x370.jpg "Hua Shan Taipei")
-
 Green Leaf Restaurant 青葉新樂園 - check out the authentic feel of the street food carts.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-97-494x370.jpg "Hua Shan Taipei")
 
 They cook tasty Taiwanese favorites right in front of you.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-01-494x370.jpg "Hua Shan Taipei")
-
 Here's the spread for the buffet of other traditional taiwanese dishes
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-109-494x370.jpg "Hua Shan Taipei")
 
 There was a nice variety of seafood and meats.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-110-494x370.jpg "Hua Shan Taipei")
-
 Braised fatty pork was one of the foods at the buffet that I particularly liked.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-108-494x370.jpg "Hua Shan Taipei")
 
 Green Leaf Restaurant is great for groups
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-103-494x370.jpg "Hua Shan Taipei")
-
 Oyster Egg snack one of the Taiwanese favorite dishes.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-111-494x370.jpg "Hua Shan Taipei")
 
 A vegetable dish from the Buffet.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-04-494x370.jpg "Hua Shan Taipei")
-
 A hand rolled Taiwanese vegetable wrap. I believe it is called Buddhist Delight.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-12-494x370.jpg "Hua Shan Taipei")
 
 Stir fried vegetables.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-11-494x370.jpg "Hua Shan Taipei")
-
 A light rice noodle soup dish. Savory and Yummy!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-05-494x370.jpg "Hua Shan Taipei")
 
 This is a steamed glutinous rice ball filed with vegetables.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-95-494x494.jpg "Hua Shan Taipei")
-
 Look at all the goodness inside
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-02-494x370.jpg "Hua Shan Taipei")
 
 This is a He-Song Sarsaparilla drink. Sort of like ginger ale and root beer. Great Taiwanese drink.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-07-494x370.jpg "Hua Shan Taipei")
-
 To finish things off, I had a little popsicle.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-10-494x370.jpg "Hua Shan Taipei")
 
 The Roselle Hibiscus flavor of this popsicle brought back memories of my childhood at my grandparents' home in Tainan, years ago. Unfortunately, I cannot describe the flavor - you just have to try it.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-17-494x370.jpg "Hua Shan Taipei")
-
 Right across the way is this little cafe featuring furniture, crafts, and arts of local Taiwanese designers. This Cafe, 1914Furnifood(家傢酒), is located in a former military building. Home Hotel uses furniture in their hotel from some of these designers.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-14-494x370.jpg "Hua Shan Taipei")
 
 The building that 1914Furnifood(家傢酒) has walls almost 1 meter thick - to protect from bombs.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-23-494x370.jpg "Hua Shan Taipei")
-
 This complex was originally built by the Japanese in the early 1900's
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-34-494x370.jpg "Hua Shan Taipei")
 
 A Little Tea House (一間茶屋) is yet another quaint cafe. Inside there's little trinkets and memorabiliia of Taiwan's pop culture.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-35-494x370.jpg "Hua Shan Taipei")
-
 Inside A Little Tea House (一間茶屋) with the display case of Taiwanese pop culture history.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-37-494x370.jpg "Hua Shan Taipei")
 
 Check out Kimlan soy sauce.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-31-494x370.jpg "Hua Shan Taipei")
-
 Huashan is also the home of Al Cicchetto 義麵坊小酒館, a little Italian bistro.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-28-494x370.jpg "Hua Shan Taipei ")
 
 Outside of Al Cicchetto 義麵坊小酒館 is the outdoor patio. These tall bar stools emulate the old style plastic stools that you used to see at roadside hole-in-the-wall Taiwanese restaurants.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-40-494x370.jpg "Hua Shan Taipei")
-
 Huashan also features art exhibits. This one is from the NPM Animation studio, showcasing their 3D prototypes, especially their glass-less 3D flat screen large screen monitor.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-38-494x370.jpg "Hua Shan Taipei")
 
 The NPM Animation exhibit is housed inside a large kiln, where you can actually see the furnace.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-85-494x370.jpg "Hua Shan Taipei")
-
 In this part of Huashan, there's large exhibit halls for temporary art and performance shows.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-42-494x370.jpg "Hua Shan Taipei")
 
 You can see the railroad ties, remnants of the old wine making factory. Now these building bring life to art and culture.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-45-494x370.jpg "Hua Shan Taipei")
-
 The 100 plays Acrobatics Festival (百戲雜技節) was an amazing exhibit of one guy standing on his hands in various parts of picturesque Taiwan.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-47-494x370.jpg "Hua Shan Taipei")
 
 At 百戲雜技節 you weren't really sure of what you were watching till you delved into it. Then after realizing what he did, it was amazing. The story how his parents support his idea, just by the fact that he was doing what he dreamed about - was refreshing to hear - since we hear so many Taiwanese parents with their traditional upbringing ideals.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-83-494x370.jpg "Hua Shan Taipei")
-
 This was also another cool exhibit, One-carat dream exhibition of contemporary aesthetics (一克拉的夢想當代美學展) about contemporary Taiwanese artists, who are influenced from around the world.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-54-494x370.jpg "Hua Shan Taipei")
 
 一克拉的夢想當代美學展 or as I would call the "DREAMS" exhibit has some pretty interesting art and designs using different mediums.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-56-494x370.jpg "Hua Shan Taipei")
-
 The entrance to the DREAMS exhibition.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-58-494x370.jpg "Hua Shan Taipei")
 
 This artist, 王建揚 – 村上隆欽點攝影新人, features amazing imagery featuring nude models in unique poses in a colorful dreamlike stance. He is
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-64-494x370.jpg "Hua Shan Taipei")
-
 王建揚, who is featured with the giant ice cream cone, will take pictures over and over again, in order to get the right shot. He does not use any wires. Looks as if he has inspirations from Salvador Dali.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-59-494x370.jpg "Hua Shan Taipei")
 
 王建揚 has an eye for the playful, the colorful, as well as the sexy.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-61-494x370.jpg "Hua Shan Taipei")
-
 I must confess that I was initially drawn to the naked girls, but the color pictures make it worthwhile.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-70-494x370.jpg "Hua Shan Taipei")
 
 古又文, 美國Gen Art國際服裝大賽『前衛時裝』大賞得主 creates using yarn to produce extrodinary pieces of wearable art.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-77-494x370.jpg "Hua Shan Taipei")
-
 不二良 - 第54屆威尼斯雙年展藝術新星 produces unique figurines in color shapes and sizes - with some immensely large.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-74-494x370.jpg "Hua Shan Taipei")
-
 The large exhibit space at Huashan is a great venue for artist community in Taiwan.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Hua-Shan-Taipei-82-494x370.jpg "Hua Shan Taipei")
 
 The Huashan Creative Park is one of the top destinations in Taiwan for tourists.

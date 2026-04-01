@@ -45,51 +45,27 @@ Craft
 Donghu Hotel South Wing, 7 Donghu Lu, Huaihai Xi Lu
 +86 13917985763
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-05-494x368.jpg "Craft Vodka Shanghai")
-
 Over 30 different Vodkas
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-07-494x368.jpg "Craft Vodka Shanghai")
 
 Craft, recently opened, features over 30 different vodkas
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-20-494x368.jpg "Craft Vodka Shanghai ")
-
 The Dreamy Dorini Smokey Martini for 75 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-19-494x368.jpg "Craft Vodka Shanghai")
 
 The Russian (White) 60 RMB - one of my favorite drinks. Yes, I know it is creamy - and that's the way I like it!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-02-494x368.jpg "Craft Vodka Shanghai")
-
 The Blueberry Thyme Cobbler 65 RMB - the first drink I had at Craft
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-01-494x368.jpg "Craft Vodka Shanghai")
 
 Craft Ice Tea 70 RMB - their take on the Long Island Ice Tea
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-12-494x368.jpg "Craft Vodka Shanghai")
-
 Raspberry Mint Fizz 60 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-15-494x368.jpg "Craft Vodka Shanghai")
 
 Whippet 60 RMB. I kinda like drinks with egg whites. Sort of my creamy crave, you could say.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-18-494x368.jpg "Craft Vodka Shanghai")
-
 Normandie Special 65 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-24-494x368.jpg "Craft Vodka Shanghai")
 
 Though Craft can be considered small, it is cozy. The high airy ceilings give this industrial post modern feel.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-04-494x368.jpg "Craft Vodka Shanghai")
-
 The eclectic details of Craft are from owner Jerrica Lee.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/12/Craft-Vodka-Shanghai-06-494x368.jpg "Craft Vodka Shanghai")
 
 Pipes! This industrial feel gives you a feeling of almost Russian industrialism with what they were drinking. . . Vodka
 

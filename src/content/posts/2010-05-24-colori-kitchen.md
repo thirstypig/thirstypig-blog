@@ -45,4 +45,4 @@ SHARETHIS.addEntry({ title: "Risotto from Colori Kitchen, Downtown Los Angeles",
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 548);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 548);)

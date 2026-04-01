@@ -41,7 +41,7 @@ cuisine:
 - Multi
 ---
 
-[![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7JlFg9Gg8I/AAAAAAAAAy0/17tM3XJL7vw/s400/farmlab+message+artists.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+corn.jpg)Inspiration
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+corn.jpg)Inspiration
 
 I was given the chance to attend a Public Salon speak at Farmlab, near downtown Los Angeles.
 
@@ -66,28 +66,28 @@ Los Angeles, CA 90012
 info@farmlab.com
 [http://farmlabinfo.blogspot.com](http://farmlabinfo.blogspot.com/)
 
-[![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7JlRpYuvCI/AAAAAAAAAzc/46rAW4yX8lc/s400/farmlab+corn.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+juliano+brotman.jpg)This crate this full of corn. The corn is slowly breaking down. The director of farmlab plants to create sculpture with this material.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+juliano+brotman.jpg)This crate this full of corn. The corn is slowly breaking down. The director of farmlab plants to create sculpture with this material.
 
-[![](http://2.bp.blogspot.com/_UYnR_oOEBBM/S7JlRHGF3kI/AAAAAAAAAzU/87pBIO_-uOM/s400/farmlab+juliano+brotman.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+loft+space.jpg)Juliano Brotman
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+loft+space.jpg)Juliano Brotman
 
-[![](http://4.bp.blogspot.com/_UYnR_oOEBBM/S7JlQ8G48_I/AAAAAAAAAzM/mbUzjk7ivqE/s400/farmlab+vegetarian+lunch+plate.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+lunch+cucumbers.jpg)Our lunch today. I believe most is vegan.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+lunch+cucumbers.jpg)Our lunch today. I believe most is vegan.
 
-[![](http://4.bp.blogspot.com/_UYnR_oOEBBM/S7JlGM1X0AI/AAAAAAAAAzE/c5rrCpkahys/s400/farmlab+lunch+cucumbers.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+lunch+vegetables.jpg)This was actually a really good meal.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+lunch+vegetables.jpg)This was actually a really good meal.
 
-[![](http://2.bp.blogspot.com/_UYnR_oOEBBM/S7JlF9yeAXI/AAAAAAAAAy8/1hcZ6v7I1xc/s400/farmlab+lunch+vegetables.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+message+artists.jpg)Lunch today was basically a potluck.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+message+artists.jpg)Lunch today was basically a potluck.
 
-[![](http://3.bp.blogspot.com/_UYnR_oOEBBM/S7JlEibIoBI/AAAAAAAAAys/95fjTrt-7E4/s400/farmlab+message.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+message.jpg)Farmlab takes advantage of the space beneath the ramp.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+message.jpg)Farmlab takes advantage of the space beneath the ramp.
 
-[![](http://3.bp.blogspot.com/_UYnR_oOEBBM/S7JlEfold8I/AAAAAAAAAyk/N5RjrmN3LyQ/s400/farmlab+outdoor+garden.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+outdoor+garden.jpg)Their outdoor vegetable nursery.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+outdoor+garden.jpg)Their outdoor vegetable nursery.
 
-[![](http://3.bp.blogspot.com/_UYnR_oOEBBM/S7Jk2zRLrmI/AAAAAAAAAyc/bwm5izKarz8/s400/farmlab+outdoor+platform.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+outdoor+platform.jpg)
-[![](http://2.bp.blogspot.com/_UYnR_oOEBBM/S7Jk2vMT3sI/AAAAAAAAAyU/Hsrvojd3hHs/s400/farmlab+platform+underpass.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+platform+underpass.jpg)
-[![](http://3.bp.blogspot.com/_UYnR_oOEBBM/S7Jk2P6G0zI/AAAAAAAAAyM/Lb0o7JS0ETo/s400/farmlab+potable+water.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+potable+water.jpg)
-[![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7Jk1ppmaiI/AAAAAAAAAyE/VVcC0e6Pwns/s400/farmlab+presentation+space.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+presentation+space.jpg)
-[![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7Jk1FP4kxI/AAAAAAAAAx8/RZgu9iGiM3U/s400/farmlab+seed+bank.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+seed+bank.jpg)The Farmlab seed bank.
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+outdoor+platform.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+platform+underpass.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+potable+water.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+presentation+space.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+seed+bank.jpg)The Farmlab seed bank.
 
-[![](http://4.bp.blogspot.com/_UYnR_oOEBBM/S7JkoCe7E8I/AAAAAAAAAx0/oZj8U0zgm6E/s400/farmlab+water+tank.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+vegetarian+lunch+plate.jpg)
-[![](http://4.bp.blogspot.com/_UYnR_oOEBBM/S7JknsHlC7I/AAAAAAAAAxs/SXRj-AQOCyY/s400/farmlab+work.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+water+tank.jpg)
-[![](http://1.bp.blogspot.com/_UYnR_oOEBBM/S7JkmyFdh3I/AAAAAAAAAxk/Qdz-I9Z6E94/s400/farmlab+workspace.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+work.jpg)
-[![](http://3.bp.blogspot.com/_UYnR_oOEBBM/S7JkmltMFLI/AAAAAAAAAxc/8MN-KGaOkQo/s400/farmlab+young+plants.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+workspace.jpg)
-[![](http://4.bp.blogspot.com/_UYnR_oOEBBM/S7JkmAFPkjI/AAAAAAAAAxU/9mYLR7eaUkc/s400/farmlab+loft+space.jpg)](/images/posts/farmlab-oasis-in-downtown-la/farmlab+young+plants.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+vegetarian+lunch+plate.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+water+tank.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+work.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+workspace.jpg)
+[](/images/posts/farmlab-oasis-in-downtown-la/farmlab+young+plants.jpg)

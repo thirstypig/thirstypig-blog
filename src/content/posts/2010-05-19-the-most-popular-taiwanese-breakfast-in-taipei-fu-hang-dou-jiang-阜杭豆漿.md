@@ -75,4 +75,4 @@ SHARETHIS.addEntry({ title: "The Most Popular Taiwanese Breakfast in Taipei, Fu 
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 755);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 755);)

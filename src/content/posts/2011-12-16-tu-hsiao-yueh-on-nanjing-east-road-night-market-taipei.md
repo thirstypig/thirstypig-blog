@@ -41,41 +41,21 @@ Price Range 1 $/¥/NT
 度小月
 Unfortunately, I have do not have the address. I just know it is off of Nanjing East Road in Taipei. There is a small alley that doubles as a night market. Check out the photos below for the exact location. I am not even sure I could find it again, myself.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-12-494x368.jpg "Taipei Restaurant")
-
 Located on a small street, this place is one of the most famous places for Braised pork rice.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-01-494x368.jpg "Taipei Restaurant")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-02-494x368.jpg "Taipei Restaurant")
 
 The standard menu on the wall, featuring many Taiwanese favorites
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-03-494x368.jpg "Taipei Restaurant")
-
 The specialities featured in yellow
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-04-494x368.jpg "Taipei Restaurant")
 
 The spartan amenities don't deter me from eating at this place
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-05-494x368.jpg "Taipei Restaurant")
-
 紅燒肉 Pork
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-06-494x368.jpg "Taipei Restaurant")
 
 Braised Pork on Rice
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-08-494x368.jpg "Taipei Restaurant")
-
 Fish Soup
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-09-494x368.jpg "Taipei Restaurant")
-
 紅燒肉 Pork
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-13-494x368.jpg "Taipei Restaurant")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Taipei-Restaurant-14-494x368.jpg "Taipei Restaurant")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/16/tu-hsiao-yueh-on-nanjing-east-road-night-market-taipei/?share=facebook "Share on Facebook")

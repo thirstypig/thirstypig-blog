@@ -44,26 +44,13 @@ Links
 [sanwant.com](http://www.sanwant.com/ )
 +86-021-61451111
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-07-368x494.jpg "San Want Hotel, Shanghai")
-
 The San Want Hotel is located in Shanghai's Hong Qiao district
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-04-368x494.jpg "San Want Hotel, Shanghai")
 
 The unique details found in almost everything at the San Want Hotel
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-02-368x494.jpg "San Want Hotel, Shanghai")
-
 Elevator lobby
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-01-368x494.jpg "San Want Hotel, Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-11-494x277.jpg "San Want Hotel, Shanghai")
 
 Double with 2 twin sized beds
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-13-494x370.jpg "San Want Hotel, Shanghai")
-
 The Bathroom
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-19-494x370.jpg "San Want Hotel, Shanghai")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/San-Want-Hotel-Shanghai-20-494x370.jpg "San Want Hotel, Shanghai")

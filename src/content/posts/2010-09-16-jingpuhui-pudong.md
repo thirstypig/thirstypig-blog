@@ -76,4 +76,4 @@ Shanghai, in my humble opinion, gathers the a diverse population that rivals oth
 
 Jingpuhui 晶浦会, specializing in Cantonese cuisine, is located right on the river front with views from Pudong to the Shanghai Puxi side. Right across the street, the [Tomson Riviera](http://www.tomson-riviera.com) at 160,848 yuan per square meter or 130 million yuan per unit. Tomson Riviera is the most expensive apartment condos complexes in the world. On the other side of the restaurant, there’s a outdoor balcony overlooking the river. Banquets and private events utilize this space. Coupled with great views and Tomson Riviera overlooking the Huangpu River, one can only imagine the exquisiteness of the food at Jingpuhui.
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 1942);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 1942);)

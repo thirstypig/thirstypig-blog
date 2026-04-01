@@ -52,38 +52,20 @@ Links
 
 http://www.mydiningplacesh.com/index2.htm
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-11-494x327.jpg "My Dining Place Shanghai")
-
 星洲辣椒螃蟹 Singapore Chilli Crab - a Singaporian specialty
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-13-494x370.jpg "My Dining Place Shanghai")
 
 咖喱鱼头煲 Fish Head Curry Served in Claypot
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-12-494x370.jpg "My Dining Place Shanghai")
-
 香炸馒头 Deep-Fried Mantou
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-08-494x370.jpg "My Dining Place Shanghai")
 
 红烧豆腐烩烧肉 Braised Beancurd with Roasted Pork
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-07-494x370.jpg "My Dining Place Shanghai")
-
 马来串烧 Grilled Satay
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-05-494x370.jpg "My Dining Place Shanghai")
 
 香脆麦片虾 Stir-Fried Golden Cereal Prawn
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-03-494x370.jpg "My Dining Place Shanghai")
-
 冰果咕噜肉 Sweet & Sour Pork with Iced Mixed Fruit
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-02-494x370.jpg "My Dining Place Shanghai")
-
 招牌咖喱鸡 Signature Curry Chicken
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/06/My-Dining-Place-Shanghai-01-494x370.jpg "My Dining Place Shanghai")
 
 My Dining Place

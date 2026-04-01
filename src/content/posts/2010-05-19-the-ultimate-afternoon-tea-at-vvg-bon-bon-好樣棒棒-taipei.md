@@ -73,4 +73,4 @@ border: 2px solid #cfcfcf;
 margin-left: 0;
 }
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 772);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 772);)

@@ -71,4 +71,4 @@ SHARETHIS.addEntry({ title: "便當 (The Bento Box) aboard Taiwan&#8217;s HSR", 
 
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 932);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 932);)

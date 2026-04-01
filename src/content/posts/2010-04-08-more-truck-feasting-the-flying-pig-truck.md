@@ -17,7 +17,7 @@ images:
 - /images/posts/more-truck-feasting-the-flying-pig-truck/pf-button.gif
 categories:
 - Uncategorized
-description: If you are looking for food trucks, you can follow my twitter list of mobile foodhttp://twitter.com/ThirstyPig/mobilefood. http://1.bp.blogspot.com/37fRXLoLUPo/S1Cz046frxI/AAAAAAAABZk/p3dyf7ueTmE/s320
+description: If you are looking for food trucks, you can follow my twitter list of mobile foodhttp://twitter.com/ThirstyPig/mobilefood.
 archiveUrl: https://web.archive.org/web/20100417225920/http://www.thethirstypig.com:80/2010/04/08/more-truck-feasting-the-flying-pig-truck/
 draft: false
 location: Truck Norris
@@ -36,6 +36,6 @@ cuisine: []
 If you are looking for food trucks, you can follow my twitter list of [mobile food](http://twitter.com/ThirstyPig/mobilefood.)
 ---
 
-[[Translate]](javascript:show_translate_popup('en', 'post', 233);)![](http://www.thethirstypig.com/wp-content/plugins/google-ajax-translation/transparent.gif)
+[[Translate]](javascript:show_translate_popup('en', 'post', 233);)
 
 [![Print](/images/posts/more-truck-feasting-the-flying-pig-truck/pf-button.gif)](http://www.printfriendly.com "Print an optimized version of this web page")

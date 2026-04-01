@@ -47,59 +47,31 @@ No. 6, Lane 65, Zhongshan N. Road, Section 2, Taipei City
 +886 02 2511 6282
 [www.mayangrill.com](http://www.mayangrill.com)
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-11-494x370.jpg "Mayan Taipei")
-
 Mayan is an upscale Mexican restaurant in the heart of Taipei
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-13-494x370.jpg "Mayan Taipei")
 
 From the 2nd floor dining room overlooking the bar
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-10-494x370.jpg "Mayan Taipei")
-
 The outdoor patio on the 2nd floor
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-12-494x370.jpg "Mayan Taipei")
 
 There's a nice water fountain on the 2nd floor balcony to offer a bit of ambiance.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-17-494x370.jpg "Mayan Taipei")
-
 Lime Margarita
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-16-494x370.jpg "Mayan Taipei")
 
 Soup
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-18-494x370.jpg "Mayan Taipei")
-
 Chips, Salsa, and Guacamole - almost a requirement for any Mexican meal
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-19-494x370.jpg "Mayan Taipei")
 
 Over the years, I have grown to like guacamole more and more.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-22-494x370.jpg "Mayan Taipei")
-
 The sampler platter - with quesadillas, taquitos, and chimichanga. Yummy!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-25-494x370.jpg "Mayan Taipei")
 
 Fish - Pescado
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-26-494x370.jpg "Mayan Taipei")
-
 Chilaquiles for breakfast! Yummy! Probably my favorite Mexican breakfast dish. And Mayan does it quite well. I love the egg.
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-30-494x370.jpg "Mayan Taipei")
 
 Check out the great green sauce on the enchiladas.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-33-494x370.jpg "Mayan Taipei")
-
 Brownies!
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Mayan-Taipei-21-494x370.jpg "Mayan Taipei")
 
 Mayan also features some pretty spicy hot sauce. You use an eye dropper - for drops of hot sauce. It is pretty hot.
 

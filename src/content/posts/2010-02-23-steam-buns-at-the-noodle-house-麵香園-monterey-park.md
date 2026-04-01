@@ -20,7 +20,7 @@ tags:
 - chinese
 - noodles
 - tianjin-cuisine
-description: With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants. http://3.bp.blogspot.com/37fRXLoLUPo/S1X2FA69mI/AAAAAAAABb0/G9p4b0pvoPU/s320/IMG0227.JP
+description: With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants.
 archiveUrl: https://web.archive.org/web/20111103142257/http://www.thethirstypig.com/2010/02/23/steam-buns-at-the-noodle-house-%e9%ba%b5%e9%a6%99%e5%9c%92-monterey-park/
 draft: false
 location: Noodle House

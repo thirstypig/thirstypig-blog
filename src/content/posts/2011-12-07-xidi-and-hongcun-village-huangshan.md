@@ -27,63 +27,31 @@ Xidi and Hongcun are similar in their historic importance. But each a different 
 
 So, when you make arrangements for your trip to Huangshan, make sure you arrange a day to visit Xidi and Hongcun. Most hotel will be able to arrange for tours.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-76-370x494.jpg "Xidi Village 西递")
-
 Intricate Door Details at Xidi Village 西递
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-29-370x494.jpg " Xidi Village 西递")
 
 Just outside a restaurant at Xidi Village 西递
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-B06-494x277.jpg "Xidi Village 西递")
-
 A courtyard at Xidi Village 西递
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-100-494x370.jpg " Xidi Village 西递")
 
 A large round red door at Xidi Village 西递
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-93-494x370.jpg " Xidi Village 西递")
-
 White Sheets drying on bamboo poles at Xidi Village 西递
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-82-494x370.jpg " Xidi Village 西递")
 
 The courtyard of an old house at Xidi Village 西递
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-67-494x370.jpg " Xidi Village 西递")
-
 A decorative window in Xidi Village 西递
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Xidi-Village-西递-19-494x370.jpg " Xidi Village 西递")
 
 Just outside Xidi Village 西递. Beautiful lake scenery
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-92-494x370.jpg "Hongcun Village 宏村")
-
 The large lake of Hongcun Village 宏村
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-96-494x370.jpg "Hongcun Village 宏村")
 
 Student artists painting on the shores of the lake overlooking Hongcun Village 宏村
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-97-494x370.jpg "Hongcun Village 宏村")
-
 The famous bridge crossing at Hongcun Village 宏村
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-103-494x370.jpg "Hongcun Village 宏村")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-111-494x370.jpg "Hongcun Village 宏村")
 
 Lilies
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-124-494x370.jpg "Hongcun Village 宏村")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-131-494x370.jpg "Hongcun Village 宏村")
-
 The small lake surrounding ancient village structures
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-132-494x370.jpg "Hongcun Village 宏村")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-34-494x277.jpg "Hongcun Village 宏村")
-![](http://www.thethirstypig.com/wp-content/uploads/2011/11/Hongcun-Village-宏村-165-370x494.jpg "Hongcun Village 宏村")
 
 - Share this:
 - [Facebook](http://www.thethirstypig.com/2011/12/07/xidi-and-hongcun-village-huangshan/?share=facebook "Share on Facebook")

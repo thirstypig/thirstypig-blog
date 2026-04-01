@@ -59,15 +59,9 @@ Boxing Cat Brewery
 
 Sunday Brunch at Boxing Cat Brewery is a good thing. Good food and a relaxing place, that's all you need.
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Boxing-Cat-Brunch-05-494x370.jpg "Boxing Cat Brunch")
-
 Is a Brunch complete without a Bloody Mary? I think not!
 
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Boxing-Cat-Brunch-06-494x370.jpg "Boxing Cat Brunch")
-
 BBQ Pulled Pork Quesadillas with Homemade Sour Cream BBQ Sauce 60 RMB
-
-![](http://www.thethirstypig.com/wp-content/uploads/2011/08/Boxing-Cat-Brunch-08-494x370.jpg "Boxing Cat Brunch")
 
 Texan Wake Up Call - Imagine A Cheese Quesadilla Filled with Roasted Green Chilies, Crack an egg inside and smother it with our signature chili. That's a wake up call! Served with a side of Roasted Potatoes. 75 RMB taken from the Boxing Cat Brewery Menu.
 
