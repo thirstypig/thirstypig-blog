@@ -17,9 +17,6 @@ location: The Local
 city: Victoria
 region: BC
 address: '1205 Wharf St, Victoria, BC V8W 1T8, Canada'
-coordinates:
-  lat: 48.426061999999995
-  lng: -123.369869
 images:
   - /images/posts/ig-2025-05-11-brunch-in-victoria/18190766269309003.jpg
   - /images/posts/ig-2025-05-11-brunch-in-victoria/17859612573350190.jpg
