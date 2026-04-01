@@ -1,5 +1,5 @@
 ---
-title: The Local Victoria
+title: 'The Local, Victoria'
 pubDate: 2025-05-11T00:00:00.000Z
 description: 'Brunch in Victoria. Of course I had to have a Bloody Mary. And since I was still in Canada, I had to have more poutine. Which reminds me - that when I get home, that I should try to order the “wet fri'
 author: The Thirsty Pig
