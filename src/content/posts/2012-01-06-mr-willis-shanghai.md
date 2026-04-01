@@ -8,7 +8,7 @@ categories:
 - French
 description: What is Mr Willis? Situated on Anfu road in Shanghai, Mr Willis is a western restaurant. Anfu road is known for the little eateries and shops. Lots of expats and foreigners frequent this area. Yet, Mr
 archiveUrl: https://web.archive.org/web/20120203111052/http://www.thethirstypig.com:80/2012/01/06/mr-willis-shanghai/
-draft: false
+draft: true
 location: Mr. Willis
 city: Shanghai
 region: Shanghai

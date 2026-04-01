@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: Huashan Creative Park is the cultural center for not only Taipei, but for the country of Taiwan as well. With the combination of art and food, the park provides a historic setting.
 archiveUrl: https://web.archive.org/web/20111018164249/http://www.thethirstypig.com:80/2011/08/03/huashan-creative-park-taipei/
-draft: false
+draft: true
 location: Huashan 1914 Creative Park (華山1914文創園區)
 city: Taipei
 region: Taipei

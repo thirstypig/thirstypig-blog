@@ -12,7 +12,7 @@ tags:
 - rooftop-bar
 description: Nighttime views of Shanghai aren’t hard to come by, with M1NThttp://www.thethirstypig.com/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/, Flairhttp://www.thethirstypig.com/2011/03/16/flair-loung
 archiveUrl: https://web.archive.org/web/20110703035437/http://www.thethirstypig.com:80/2011/06/17/char-terrace-shanghais-best-rooftop-daytime-views/
-draft: false
+draft: true
 location: CHAR Bar
 city: Shanghai
 region: Shanghai

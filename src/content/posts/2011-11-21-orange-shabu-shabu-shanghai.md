@@ -8,7 +8,7 @@ categories:
 - Taiwanese
 description: I have never associated hot pot as fine dining. Its always a festive occasion with friends and family busily cooking and eating over a communal pot. You’d never bring a customers, vendors, or even a d
 archiveUrl: https://web.archive.org/web/20120411113022/http://www.thethirstypig.com:80/2011/11/21/orange-shabu-shabu-shanghai/?share=google-plus-1
-draft: false
+draft: true
 location: Orange Shabu Shabu
 city: Shanghai
 region: Shanghai

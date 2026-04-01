@@ -13,7 +13,7 @@ tags:
 - cantonese
 description: 新吉士酒楼新天地店 Xinjishi Xintiandi Shanghai 卢湾区太仓路181弄2号新天地北里9号楼近马当路 Unit 4, Bldg 9, Lane 169 Taicang Lu, Xintiandi, Luwan District, Shanghai 6336-4746 www.xinjishi.comhttp://www.xinjishi.com
 archiveUrl: https://web.archive.org/web/20110824224159/http://www.thethirstypig.com/2011/06/08/xinjishi-xintiandi-shanghai/
-draft: false
+draft: true
 location: Shanghai XinJiShi (SOGO)
 city: Shanghai
 region: Shanghai

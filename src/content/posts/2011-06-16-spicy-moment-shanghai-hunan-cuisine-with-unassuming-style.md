@@ -13,7 +13,7 @@ tags:
 - spicy
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20110717091421/http://www.thethirstypig.com:80/2011/06/16/spicy-moment-shanghai-hunan-cuisine-with-unassuming-style/
-draft: false
+draft: true
 location: Spicy Moment
 city: Shanghai
 region: Shanghai

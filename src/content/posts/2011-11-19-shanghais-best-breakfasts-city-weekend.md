@@ -8,7 +8,7 @@ categories:
 - American
 description: I was recently a contributor to an article in City Weekend about Shanghai’s Best Breakfasts. One of my favorites is Boxing Cat Brewery’s Texas Wake Up Call.
 archiveUrl: https://web.archive.org/web/20120212113602/http://www.thethirstypig.com:80/2011/11/19/shanghais-best-breakfasts-city-weekend/
-draft: false
+draft: true
 location: Shanghai’s Best Breakfasts
 city: Shanghai
 region: Shanghai

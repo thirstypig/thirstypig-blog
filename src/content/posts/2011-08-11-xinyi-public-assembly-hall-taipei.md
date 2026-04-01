@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incomi
 archiveUrl: https://web.archive.org/web/20120116073938/http://www.thethirstypig.com:80/2011/08/11/xinyi-public-assembly-hall-taipei/
-draft: false
+draft: true
 location: National Concert Hall (國家音樂廳)
 city: Taipei
 region: Taipei

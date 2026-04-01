@@ -8,7 +8,7 @@ categories:
 - Seafood
 description: Where did the Thirsty Pig go? The Thirsty one and his friends went to the Meet at the Kerry Hotel. It was a invited dinner to try their Tomahawk Steak. The Kerry Hotel, just opened in 2010, is the lat
 archiveUrl: https://web.archive.org/web/20120113085740/http://www.thethirstypig.com:80/2011/12/27/meet-kerry-hotel-shanghai/
-draft: false
+draft: true
 location: Kerry Hotel Pudong, Shanghai (上海浦东嘉里大酒店)
 city: Shanghai
 region: Shanghai

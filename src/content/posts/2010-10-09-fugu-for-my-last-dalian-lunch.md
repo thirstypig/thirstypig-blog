@@ -8,7 +8,7 @@ categories:
 - Japanese
 description: My last lunch in Dalian could have been my last meal ever. Among the different things we had at lunch, we finished it off with a braised fish – Fugu. I will forever remember the Dalian, especially wit
 archiveUrl: https://web.archive.org/web/20101012011742/http://www.thethirstypig.com:80/2010/10/09/fugu-for-my-last-dalian-lunch/
-draft: false
+draft: true
 location: Fugu for My Last Dalian Lunch
 city: Dalian
 region: Dalian

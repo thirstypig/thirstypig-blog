@@ -8,7 +8,7 @@ categories:
 - Multi
 description: 'If you are just like me and you love to taste new and exciting dishes, then you are sure to enjoy reading through my website and admiring the photographs from some of the amazing food I have tried. I '
 archiveUrl: https://web.archive.org/web/20120116063154/http://www.thethirstypig.com:80/2011/12/06/breakfast-in-china/
-draft: false
+draft: true
 location: Breakfast @ Radisson
 city: Shanghai
 region: Shanghai
