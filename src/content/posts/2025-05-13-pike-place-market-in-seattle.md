@@ -11,13 +11,13 @@ tags:
   - market
   - local
 cuisine: []
-location: Pike Place Market Foundation
+location: Pike Place Market
 city: Seattle
-region: Seattle
-address: 'Seattle, WA 98101'
+region: WA
+address: '85 Pike St, Seattle, WA 98101, USA'
 coordinates:
-  lat: 47.608494
-  lng: -122.340327
+  lat: 47.6094076
+  lng: -122.34183580000001
 images:
   - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18073969060861339.jpg
   - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/18004814396751609.jpg
