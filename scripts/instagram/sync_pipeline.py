@@ -27,9 +27,10 @@ LOGS_DIR = os.path.join(PROJECT_ROOT, 'logs')
 SYNC_LOG = os.path.join(LOGS_DIR, 'sync-log.json')
 
 # Safety limits
-MAX_FILE_SIZE = 50 * 1024 * 1024       # 50 MB per entry
+MAX_FILE_SIZE = 200 * 1024 * 1024      # 200 MB per entry (videos can exceed 50 MB)
 MAX_FILE_COUNT = 10_000
 MAX_TOTAL_SIZE = 2 * 1024 * 1024 * 1024  # 2 GB total
+MIN_COMPRESSION_RATIO = 0.01           # Flag entries with < 1% ratio as suspicious
 
 
 def safe_extract_zip(zip_path: str, dest_dir: str) -> None:
@@ -58,6 +59,15 @@ def safe_extract_zip(zip_path: str, dest_dir: str) -> None:
                     f"Entry {member.filename!r} is {member.file_size} bytes, "
                     f"exceeds limit of {MAX_FILE_SIZE} bytes"
                 )
+
+            # Compression ratio check (zip bomb detection)
+            if member.file_size > 0 and member.compress_size > 0:
+                ratio = member.compress_size / member.file_size
+                if ratio < MIN_COMPRESSION_RATIO:
+                    raise ValueError(
+                        f"Suspicious compression ratio for {member.filename!r}: "
+                        f"{ratio:.4f} (threshold: {MIN_COMPRESSION_RATIO})"
+                    )
 
             # ZIP slip protection: resolve the target path and ensure it
             # stays within the destination directory
@@ -88,13 +98,27 @@ def count_markdown_files() -> set[str]:
     return set(glob.glob(os.path.join(CONTENT_DIR, '*.md')))
 
 
-def run_step(label: str, cmd: list[str], critical: bool = False) -> bool:
-    """Run a subprocess step. Returns True on success."""
+def run_step(label: str, cmd: list[str], critical: bool = False) -> tuple[bool, str]:
+    """Run a subprocess step. Returns (success, captured_output)."""
     print(f"\n{'='*60}")
     print(f"  {label}")
+    print(f"  $ {' '.join(cmd)}")
     print(f"{'='*60}")
 
-    result = subprocess.run(cmd, cwd=PROJECT_ROOT)
+    result = subprocess.run(
+        cmd, cwd=PROJECT_ROOT,
+        capture_output=True, text=True,
+    )
+
+    # Print output in real-time style
+    if result.stdout:
+        for line in result.stdout.splitlines():
+            print(f"  | {line}")
+    if result.stderr:
+        for line in result.stderr.splitlines():
+            print(f"  ! {line}")
+
+    combined = (result.stdout or '') + (result.stderr or '')
 
     if result.returncode != 0:
         msg = f"FAILED (exit {result.returncode}): {label}"
@@ -103,10 +127,10 @@ def run_step(label: str, cmd: list[str], critical: bool = False) -> bool:
             raise RuntimeError(msg)
         else:
             print(f"  WARNING {msg} -- continuing")
-            return False
+            return False, combined
 
     print(f"  OK: {label}")
-    return True
+    return True, combined
 
 
 def validate_new_markdown(new_files: set[str]) -> list[str]:
@@ -159,16 +183,24 @@ def append_sync_log(entry: dict) -> None:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        print(f"Usage: {sys.argv[0]} <path-to-zip>", file=sys.stderr)
-        return 1
+    import argparse
+    parser = argparse.ArgumentParser(description="Instagram sync pipeline")
+    parser.add_argument("zip_path", help="Path to Instagram export ZIP")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Pass --dry-run to all subscripts; skip destructive operations")
+    args = parser.parse_args()
 
-    zip_path = os.path.abspath(sys.argv[1])
+    zip_path = os.path.abspath(args.zip_path)
+    dry_run = args.dry_run
     if not os.path.isfile(zip_path):
         print(f"Error: ZIP file not found: {zip_path}", file=sys.stderr)
         return 1
 
+    if dry_run:
+        print("\n*** DRY RUN MODE — no files will be written ***\n")
+
     python = sys.executable
+    dry_flag = ["--dry-run"] if dry_run else []
     errors: list[str] = []
     new_posts_count = 0
     venues_extracted = 0
@@ -204,7 +236,7 @@ def main() -> int:
         # ------------------------------------------------------------------
         run_step(
             "Import Instagram posts",
-            [python, os.path.join(SCRIPT_DIR, 'import_instagram.py')],
+            [python, os.path.join(SCRIPT_DIR, 'import_instagram.py')] + dry_flag,
             critical=True,
         )
 
@@ -217,9 +249,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 4: Extract venues from captions (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Extract venues from captions",
-            [python, os.path.join(SCRIPT_DIR, 'extract_ig_venues.py')],
+            [python, os.path.join(SCRIPT_DIR, 'extract_ig_venues.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -242,9 +274,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 5: Cleanup locations (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Cleanup locations",
-            [python, os.path.join(PROJECT_ROOT, 'scripts', 'cleanup_locations.py')],
+            [python, os.path.join(PROJECT_ROOT, 'scripts', 'cleanup_locations.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -253,9 +285,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 6: Fix venues from @mentions (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Fix venues from @mentions",
-            [python, os.path.join(PROJECT_ROOT, 'scripts', 'fix_venues_from_mentions.py')],
+            [python, os.path.join(PROJECT_ROOT, 'scripts', 'fix_venues_from_mentions.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -264,10 +296,10 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 7: Geocode via Foursquare (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Geocode addresses (Foursquare)",
             [python, os.path.join(PROJECT_ROOT, 'scripts', 'lookup_addresses.py'),
-             '--limit', '50'],
+             '--limit', '50'] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -296,8 +328,12 @@ def main() -> int:
         validation_errors = validate_new_markdown(new_files)
         if validation_errors:
             for ve in validation_errors:
-                print(f"  WARN: {ve}")
+                print(f"  ERROR: {ve}")
                 errors.append(ve)
+            raise RuntimeError(
+                f"Validation failed: {len(validation_errors)} file(s) have invalid YAML. "
+                "Fix before committing."
+            )
         else:
             print(f"  OK: All {len(new_files)} new files have valid YAML")
 

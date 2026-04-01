@@ -19,6 +19,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
         with:
@@ -37,8 +38,8 @@ jobs:
       - name: Download ZIP from release
         env:
           GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.event.release.tag_name || github.event.inputs.release_tag }}
         run: |
-          TAG="${{ github.event.release.tag_name || github.event.inputs.release_tag }}"
           echo "Downloading ZIP from release: $TAG"
           mkdir -p /tmp/import
           gh release download "$TAG" --pattern "*.zip" --dir /tmp/import/
@@ -73,7 +74,28 @@ jobs:
           git diff --staged --quiet && echo "No new posts imported" && exit 0
           POSTS_ADDED=$(git diff --staged --name-only -- src/content/posts/ | wc -l | tr -d ' ')
           IMAGES_ADDED=$(git diff --staged --name-only -- public/images/ | wc -l | tr -d ' ')
-          git commit -m "Auto-import Instagram posts: ${POSTS_ADDED} posts, ${IMAGES_ADDED} images [skip ci]"
-          git pull --rebase origin main
-          git push
+          git commit -m "Auto-import Instagram posts: ${POSTS_ADDED} posts, ${IMAGES_ADDED} images"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed, retrying..."
+            sleep 2
+          done
           echo "Pushed: ${POSTS_ADDED} new posts, ${IMAGES_ADDED} new images"
+
+      - name: Generate job summary
+        if: always()
+        env:
+          TAG: ${{ github.event.release.tag_name || github.event.inputs.release_tag }}
+        run: |
+          echo "## Instagram Import Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Release:** \`${TAG}\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Count |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|------:|" >> $GITHUB_STEP_SUMMARY
+          POSTS=$(git diff HEAD~1 --name-only -- src/content/posts/ 2>/dev/null | wc -l | tr -d ' ')
+          IMAGES=$(git diff HEAD~1 --name-only -- public/images/ 2>/dev/null | wc -l | tr -d ' ')
+          VIDEOS=$(git diff HEAD~1 --name-only -- public/videos/ 2>/dev/null | wc -l | tr -d ' ')
+          echo "| Posts created | ${POSTS:-0} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Images copied | ${IMAGES:-0} |" >> $GITHUB_STEP_SUMMARY
+          echo "| Videos copied | ${VIDEOS:-0} |" >> $GITHUB_STEP_SUMMARY
