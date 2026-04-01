@@ -1,22 +1,27 @@
 ---
-title: Bogachiel River rain forest
-pubDate: '2025-05-08'
+title: 'Bogachiel River, Washington'
+pubDate: 2025-05-08T00:00:00.000Z
+description: 'Bogachiel River rain forest. A nice 3 mile loop. I wasn’t planning to complete it but I passed the point of no return a long time ago, so I was begrudgingly forced to finish. Luckily I found a Gandalf wizard walking stick to help me along the way. This was a really cool trail with fallen logs along the trail. But there was mud pits every so often that I tried to avoid. We saw elk tracks here and there. But we didn’t see any animals. I think the animals heard me complaining. This nature hike might have been the best one yet. . . .'
 author: The Thirsty Pig
+heroImage: /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg
+categories:
+  - Travel
+tags: []
+cuisine: []
+location: Bogachiel River
+region: WA
+address: 'Bogachiel River, Washington, USA'
+coordinates:
+  lat: 47.8830197
+  lng: -124.1671735
+images:
+  - /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg
+  - /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18142992736388541.jpg
+  - /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/17907990282039702.jpg
+  - /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18109572052491188.jpg
+  - /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18042309437222006.jpg
 source: instagram
 draft: false
-heroImage: /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg
-images:
-- /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg
-- /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18142992736388541.jpg
-- /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/17907990282039702.jpg
-- /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18109572052491188.jpg
-- /images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18042309437222006.jpg
-tags: []
-description: Bogachiel River rain forest. A nice 3 mile loop. I wasn’t planning to complete it but I passed the point of no return a long time ago, so I was begrudgingly forced to finish. Luckily I found a Gandalf wizard walking stick to help me along the way. This was a really cool trail with fallen logs along the trail. But there was mud pits every so often that I tried to avoid. We saw elk tracks here and there. But we didn’t see any animals. I think the animals heard me complaining. This nature hike might have been the best one yet. . . .
-location: Bogachiel River rain forest
-categories:
-- Uncategorized
-cuisine: []
 ---
 
 ![Bogachiel River rain forest](/images/posts/ig-2025-05-08-bogachiel-river-rain-forest/18309216703234018.jpg)
