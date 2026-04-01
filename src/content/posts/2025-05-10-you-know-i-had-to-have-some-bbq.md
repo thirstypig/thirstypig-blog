@@ -16,6 +16,9 @@ location: Jones Bar-B-Que Victoria
 city: Victoria
 region: BC
 address: '1725 Cook St, Victoria, BC V8T 3P4, Canada'
+coordinates:
+  lat: 48.4293079
+  lng: -123.3527395
 images:
   - /images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17934944709010233.jpg
   - /images/posts/ig-2025-05-10-you-know-i-had-to-have-some-bbq/17930580222021255.jpg
