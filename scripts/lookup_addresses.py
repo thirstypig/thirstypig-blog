@@ -23,46 +23,11 @@ import urllib.parse
 
 import yaml
 
+# Add parent dir to path for shared imports
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from shared.city_data import REAL_CITIES, CITY_SEARCH_NAMES
+
 CONTENT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'src', 'content', 'posts')
-
-REAL_CITIES = {
-    'Los Angeles', 'Downtown LA', 'Koreatown', 'Hollywood', 'West Hollywood',
-    'Silver Lake', 'Echo Park', 'Venice', 'Santa Monica', 'Culver City',
-    'Beverly Hills', 'Brentwood', 'Westwood', 'Chinatown', 'Little Tokyo',
-    'Malibu', 'East LA', 'Arts District', 'Highland Park', 'Eagle Rock',
-    'Los Feliz', 'Pasadena', 'Alhambra', 'Arcadia', 'Monterey Park',
-    'San Gabriel', 'Rosemead', 'Rowland Heights', 'Temple City', 'San Marino',
-    'Monrovia', 'Sierra Madre', 'La Canada', 'Diamond Bar', 'Hacienda Heights',
-    'Torrance', 'Gardena', 'Manhattan Beach', 'El Segundo', 'Redondo Beach',
-    'Burbank', 'Glendale', 'Long Beach', 'Irvine', 'Costa Mesa', 'Laguna Beach',
-    'San Francisco', 'Oakland', 'San Jose', 'San Diego', 'Las Vegas',
-    'New York', 'Brooklyn', 'Honolulu', 'Maui', 'Seattle', 'Portland', 'Chicago',
-    'Shanghai', 'Taipei', 'Tokyo', 'Osaka', 'Seoul', 'Hong Kong', 'Bangkok',
-    'Singapore', 'Medellin', 'La Puente', 'El Monte', 'West Covina',
-    'Lake Forest', 'Garden Grove', 'Ensenada', 'Victoria',
-}
-
-CITY_SEARCH_NAMES = {
-    'Downtown LA': 'Los Angeles, CA',
-    'Koreatown': 'Los Angeles, CA',
-    'Hollywood': 'Los Angeles, CA',
-    'West Hollywood': 'West Hollywood, CA',
-    'Silver Lake': 'Los Angeles, CA',
-    'Echo Park': 'Los Angeles, CA',
-    'Venice': 'Venice, Los Angeles, CA',
-    'Chinatown': 'Los Angeles, CA',
-    'Little Tokyo': 'Los Angeles, CA',
-    'East LA': 'Los Angeles, CA',
-    'Arts District': 'Los Angeles, CA',
-    'Highland Park': 'Los Angeles, CA',
-    'Eagle Rock': 'Los Angeles, CA',
-    'Los Feliz': 'Los Angeles, CA',
-    'Brentwood': 'Los Angeles, CA',
-    'Westwood': 'Los Angeles, CA',
-    'Brooklyn': 'Brooklyn, NY',
-    'Maui': 'Maui, HI',
-    'Honolulu': 'Honolulu, HI',
-}
 
 
 def is_good_venue_name(name: str) -> bool:

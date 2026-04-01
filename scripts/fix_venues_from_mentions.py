@@ -10,108 +10,20 @@ Usage:
   python3 scripts/fix_venues_from_mentions.py [--dry-run]
 """
 
+
 import argparse
 import glob
 import os
 import re
+import sys
 
 import yaml
 
-CONTENT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'src', 'content', 'posts')
+# Add parent dir to path for shared imports
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from shared.city_data import HANDLE_MAP
 
-# Known IG handle -> (venue name, city, region) mappings
-# city/region can be None if unknown or already set
-HANDLE_MAP = {
-    # Texas - Austin
-    'snowsbbq': ("Snow's BBQ", 'Austin', 'Texas'),
-    'franklinbbq': ('Franklin BBQ', 'Austin', 'Texas'),
-    'stilesswitchbbq': ('Stiles Switch BBQ', 'Austin', 'Texas'),
-    'oddduckaustin': ('Odd Duck', 'Austin', 'Texas'),
-    'eastsideking': ('East Side King', 'Austin', 'Texas'),
-    'via313': ('Via 313', 'Austin', 'Texas'),
-    'tiffstreats': ("Tiff's Treats", 'Austin', 'Texas'),
-    'voodoodoughnutaustin': ('Voodoo Doughnut', 'Austin', 'Texas'),
-    'valentinastexmexbbq': ("Valentina's Tex Mex BBQ", 'Austin', 'Texas'),
-    'kemuritatsu_ya': ('Kemuri Tatsu-Ya', 'Austin', 'Texas'),
-    'kreuzmarket': ('Kreuz Market', 'Lockhart', 'Texas'),
-    'veracruztacos': ('Veracruz All Natural', 'Austin', 'Texas'),
-    '2msmokehouse': ('2M Smokehouse', 'San Antonio', 'Texas'),
-    'saltysow': ('Salty Sow', 'Austin', 'Texas'),
-    'lucysfriedchick': ("Lucy's Fried Chicken", 'Austin', 'Texas'),
-    'pacostacosaustin': ("Paco's Tacos", 'Austin', 'Texas'),
-    'launderetteatx': ('Launderette', 'Austin', 'Texas'),
-    'freedmens': ("Freedmen's Bar", 'Austin', 'Texas'),
-    'cowtippingcreamery': ('Cow Tipping Creamery', 'Austin', 'Texas'),
-    'thegranarysa': ('The Granary', 'San Antonio', 'Texas'),
-    'perlassouthcongress': ("Perla's Seafood", 'Austin', 'Texas'),
-    # Louisiana
-    'cafedumondeofficial': ('Cafe Du Monde', 'New Orleans', 'Louisiana'),
-    'cafedumonde': ('Cafe Du Monde', 'New Orleans', 'Louisiana'),
-    'bigezseafood': ('Big Ez Seafood', 'New Orleans', 'Louisiana'),
-    'mothersrestaurant': ("Mother's Restaurant", 'New Orleans', 'Louisiana'),
-    'drgumbo': ('Dr. Gumbo Food Tour', 'New Orleans', 'Louisiana'),
-    'doctorgumbo': ('Dr. Gumbo Food Tour', 'New Orleans', 'Louisiana'),
-    'beviseafoodco': ('Bevi Seafood Co.', 'New Orleans', 'Louisiana'),
-    'palacecafe_nola': ('Palace Cafe', 'New Orleans', 'Louisiana'),
-    'oakalleyplantation': ('Oak Alley Plantation', 'New Orleans', 'Louisiana'),
-    'homestate': ('HomeState', 'Los Angeles', 'Los Angeles'),
-    # LA - various
-    'howlinrays': ("Howlin' Ray's", 'Chinatown', 'Los Angeles'),
-    'thebroadmuseum': ('The Broad', 'Downtown LA', 'Los Angeles'),
-    'blossomrestaurant': ('Blossom Restaurant', 'Los Angeles', 'Los Angeles'),
-    'lawrystheprimerib': ("Lawry's The Prime Rib", 'Beverly Hills', 'Los Angeles'),
-    'phatbirds': ('Phat Birds', 'East LA', 'Los Angeles'),
-    'theoriginaltops': ("The Original Tops", 'Pasadena', 'San Gabriel Valley'),
-    'malibuseafood': ('Malibu Seafood', 'Malibu', 'Los Angeles'),
-    'sanmarinoseafood': ('San Marino Seafood', 'San Marino', 'San Gabriel Valley'),
-    'duparsrestaurants': ("Du-par's", 'Los Angeles', 'Los Angeles'),
-    'chineselaundrytruck': ('Chinese Laundry Truck', 'Pasadena', 'San Gabriel Valley'),
-    'parksbbq': ("Park's BBQ", 'Koreatown', 'Los Angeles'),
-    'uncleyubeerhouse': ('Uncle Yu Beer House', 'San Gabriel', 'San Gabriel Valley'),
-    'shaanxigarden': ('Shaanxi Garden', 'San Gabriel', 'San Gabriel Valley'),
-    'colesfrenchdip': ("Cole's French Dip", 'Downtown LA', 'Los Angeles'),
-    'clearmansboat': ("Clearman's Boat", 'San Gabriel', 'San Gabriel Valley'),
-    'eatalyla': ('Eataly LA', 'Los Angeles', 'Los Angeles'),
-    'sidechickla': ('Side Chick', 'Arcadia', 'San Gabriel Valley'),
-    'innout': ('In-N-Out Burger', None, None),
-    'californiapizzakitchen': ('California Pizza Kitchen', None, None),
-    'feastownmarket': ('Feast Own Market', 'Hollywood', 'Los Angeles'),
-    'bombayfrankiela': ('Bombay Frankie Company', 'Los Angeles', 'Los Angeles'),
-    'cantersdeli': ("Canter's Deli", 'Los Angeles', 'Los Angeles'),
-    'dintaifungusa': ('Din Tai Fung', None, None),
-    'oldspaghettifactory': ('The Old Spaghetti Factory', None, None),
-    'sunnongdan': ('Sun Nong Dan', 'Koreatown', 'Los Angeles'),
-    'themelt': ('The Melt', None, None),
-    'chicknskin': ("Chick'n Skin", 'Hollywood', 'Los Angeles'),
-    'frysmith': ('Frysmith', 'Los Angeles', 'Los Angeles'),
-    'thekroft': ('The Kroft', 'Anaheim', 'Orange County'),
-    # New York
-    'grayspapayanyc': ("Gray's Papaya", 'New York', 'New York'),
-    'pjclarkes': ("P.J. Clarke's", 'New York', 'New York'),
-    'momofukunoodlebar': ('Momofuku Noodle Bar', 'New York', 'New York'),
-    'cafehabana': ('Cafe Habana', 'New York', 'New York'),
-    'handynastynyc': ('Han Dynasty', 'Brooklyn', 'New York'),
-    'themuseumofmodernart': ('Museum of Modern Art', 'New York', 'New York'),
-    'guggenheim': ('Guggenheim Museum', 'New York', 'New York'),
-    'metmuseum': ('The Metropolitan Museum of Art', 'New York', 'New York'),
-    'whitneymuseum': ('Whitney Museum of American Art', 'New York', 'New York'),
-    'radiocitymusichall': ('Radio City Music Hall', 'New York', 'New York'),
-    'noguchimuseum': ('Noguchi Museum', 'New York', 'New York'),
-    'american_museum_of_natural_his': ('American Museum of Natural History', 'New York', 'New York'),
-    'rockcenternyc': ('Top of the Rock', 'New York', 'New York'),
-    'turkisscatering': ('Turkiss', 'New York', 'New York'),
-    'baohausnyc': ('BaoHaus', 'New York', 'New York'),
-    'ippudous': ('Ippudo', 'San Francisco', 'San Francisco'),
-    # San Francisco / Bay Area
-    'hogislandoysterco': ('Hog Island Oyster Co.', 'San Francisco', 'San Francisco'),
-    'chezmamansf': ('Chez Maman', 'San Francisco', 'San Francisco'),
-    'fishermanswharf': ("Fisherman's Wharf", 'San Francisco', 'San Francisco'),
-    'stagsleapwinecellars': ("Stag's Leap Wine Cellars", 'Napa', 'Napa Valley'),
-    # Las Vegas
-    'mandalaybay': ('Mandalay Bay', 'Las Vegas', 'Las Vegas'),
-    # International
-    'bluebellicecream': ('Blue Bell Ice Cream', None, None),
-}
+CONTENT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'src', 'content', 'posts')
 
 # Handles that are people, not venues — skip these
 PERSON_HANDLES = {
@@ -121,7 +33,7 @@ PERSON_HANDLES = {
     'sochon881', 'travistu110968', 'bckc38.', 'johnnyrayzone', 'jj_kingman',
     'twangg007', 'cody_bellinger', 'redturn2', 'darvishsefat11',
     'thirstypig', 'thethirstypig', 'instagram',
-    # Generic brand handles that aren't venue-specific
+    # Generic brand handles that are not venue-specific
     'atx', 'bbq', 'texasmonthly', 'yuenglingbeer', 'southwestair',
     'yummiapp', 'innout', 'shakeshack', 'whataburger', 'figat7th',
     'packingdistrict', 'ferry_building', 'irvinespectrumcenter',
