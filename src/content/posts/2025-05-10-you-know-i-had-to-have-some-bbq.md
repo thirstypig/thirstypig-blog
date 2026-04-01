@@ -1,5 +1,5 @@
 ---
-title: 'Top Grill Restaurante, Victoria'
+title: 'Jones Bar-B-Que, Victoria'
 pubDate: 2025-05-10T00:00:00.000Z
 description: 'You know I had to have some BBQ . . . While I was in the Pacific Northwest, visiting an old classmate, I was tasked to choose a cuisine/restaurant. So I picked BBQ and found Jones BBQ in Victoria, BC.'
 author: The Thirsty Pig
