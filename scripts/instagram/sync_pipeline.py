@@ -98,13 +98,27 @@ def count_markdown_files() -> set[str]:
     return set(glob.glob(os.path.join(CONTENT_DIR, '*.md')))
 
 
-def run_step(label: str, cmd: list[str], critical: bool = False) -> bool:
-    """Run a subprocess step. Returns True on success."""
+def run_step(label: str, cmd: list[str], critical: bool = False) -> tuple[bool, str]:
+    """Run a subprocess step. Returns (success, captured_output)."""
     print(f"\n{'='*60}")
     print(f"  {label}")
+    print(f"  $ {' '.join(cmd)}")
     print(f"{'='*60}")
 
-    result = subprocess.run(cmd, cwd=PROJECT_ROOT)
+    result = subprocess.run(
+        cmd, cwd=PROJECT_ROOT,
+        capture_output=True, text=True,
+    )
+
+    # Print output in real-time style
+    if result.stdout:
+        for line in result.stdout.splitlines():
+            print(f"  | {line}")
+    if result.stderr:
+        for line in result.stderr.splitlines():
+            print(f"  ! {line}")
+
+    combined = (result.stdout or '') + (result.stderr or '')
 
     if result.returncode != 0:
         msg = f"FAILED (exit {result.returncode}): {label}"
@@ -113,10 +127,10 @@ def run_step(label: str, cmd: list[str], critical: bool = False) -> bool:
             raise RuntimeError(msg)
         else:
             print(f"  WARNING {msg} -- continuing")
-            return False
+            return False, combined
 
     print(f"  OK: {label}")
-    return True
+    return True, combined
 
 
 def validate_new_markdown(new_files: set[str]) -> list[str]:
@@ -169,16 +183,24 @@ def append_sync_log(entry: dict) -> None:
 
 
 def main() -> int:
-    if len(sys.argv) != 2:
-        print(f"Usage: {sys.argv[0]} <path-to-zip>", file=sys.stderr)
-        return 1
+    import argparse
+    parser = argparse.ArgumentParser(description="Instagram sync pipeline")
+    parser.add_argument("zip_path", help="Path to Instagram export ZIP")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Pass --dry-run to all subscripts; skip destructive operations")
+    args = parser.parse_args()
 
-    zip_path = os.path.abspath(sys.argv[1])
+    zip_path = os.path.abspath(args.zip_path)
+    dry_run = args.dry_run
     if not os.path.isfile(zip_path):
         print(f"Error: ZIP file not found: {zip_path}", file=sys.stderr)
         return 1
 
+    if dry_run:
+        print("\n*** DRY RUN MODE — no files will be written ***\n")
+
     python = sys.executable
+    dry_flag = ["--dry-run"] if dry_run else []
     errors: list[str] = []
     new_posts_count = 0
     venues_extracted = 0
@@ -214,7 +236,7 @@ def main() -> int:
         # ------------------------------------------------------------------
         run_step(
             "Import Instagram posts",
-            [python, os.path.join(SCRIPT_DIR, 'import_instagram.py')],
+            [python, os.path.join(SCRIPT_DIR, 'import_instagram.py')] + dry_flag,
             critical=True,
         )
 
@@ -227,9 +249,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 4: Extract venues from captions (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Extract venues from captions",
-            [python, os.path.join(SCRIPT_DIR, 'extract_ig_venues.py')],
+            [python, os.path.join(SCRIPT_DIR, 'extract_ig_venues.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -252,9 +274,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 5: Cleanup locations (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Cleanup locations",
-            [python, os.path.join(PROJECT_ROOT, 'scripts', 'cleanup_locations.py')],
+            [python, os.path.join(PROJECT_ROOT, 'scripts', 'cleanup_locations.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -263,9 +285,9 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 6: Fix venues from @mentions (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Fix venues from @mentions",
-            [python, os.path.join(PROJECT_ROOT, 'scripts', 'fix_venues_from_mentions.py')],
+            [python, os.path.join(PROJECT_ROOT, 'scripts', 'fix_venues_from_mentions.py')] + dry_flag,
             critical=False,
         )
         if not ok:
@@ -274,10 +296,10 @@ def main() -> int:
         # ------------------------------------------------------------------
         # Step 7: Geocode via Foursquare (non-critical)
         # ------------------------------------------------------------------
-        ok = run_step(
+        ok, _ = run_step(
             "Geocode addresses (Foursquare)",
             [python, os.path.join(PROJECT_ROOT, 'scripts', 'lookup_addresses.py'),
-             '--limit', '50'],
+             '--limit', '50'] + dry_flag,
             critical=False,
         )
         if not ok:
