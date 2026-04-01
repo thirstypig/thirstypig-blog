@@ -214,29 +214,6 @@ function BarChart({ data, color = "#3b82f6", labelWidth }: {
   );
 }
 
-function YearChart({ data }: { data: { year: number; count: number }[] }) {
-  const max = Math.max(...data.map(d => d.count), 1);
-  return (
-    <div>
-      {data.map(d => (
-        <div key={d.year} style={styles.barRow}>
-          <div style={{ ...styles.barLabel, width: 50, fontWeight: 500 }}>{d.year}</div>
-          <div style={styles.barTrack}>
-            <div style={{
-              width: `${(d.count / max) * 100}%`,
-              height: "100%",
-              background: "linear-gradient(90deg, #3b82f6, #6366f1)",
-              borderRadius: 4,
-              minWidth: 2,
-              transition: "width 0.3s ease",
-            }} />
-          </div>
-          <div style={styles.barCount}>{d.count.toLocaleString()}</div>
-        </div>
-      ))}
-    </div>
-  );
-}
 
 function PercentStat({ label, value, total, color = "#3b82f6" }: {
   label: string;
@@ -343,7 +320,11 @@ export default function StatsDashboard() {
       {/* Posts by Year — hero chart */}
       <div style={styles.cardFull}>
         <h3 style={styles.cardTitle}>Posts by Year</h3>
-        <YearChart data={stats.postsByYear} />
+        <BarChart
+          data={stats.postsByYear.map(d => ({ key: String(d.year), count: d.count }))}
+          color="linear-gradient(90deg, #3b82f6, #6366f1)"
+          labelWidth={50}
+        />
       </div>
 
       {/* Grid of stat cards */}

@@ -23,6 +23,8 @@ import time
 
 import yaml
 
+from post_utils import load_post, save_post
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONTENT_DIR = os.path.join(SCRIPT_DIR, '..', 'src', 'content', 'posts')
 PROGRESS_FILE = os.path.join(SCRIPT_DIR, '.enrich_progress.json')
@@ -95,45 +97,6 @@ Return: {{"cuisine":"...","dish_tags":["..."],"title":null,"city":null,"is_resta
 
 
 # ---------------------------------------------------------------------------
-# Frontmatter I/O
-# ---------------------------------------------------------------------------
-
-def load_post(filepath):
-    """Load a post, returning (frontmatter_dict, body_text) or (None, None)."""
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-    if not content.startswith('---'):
-        return None, None
-    try:
-        # Find closing --- on its own line (avoid matching --- inside field values)
-        end = content.index('\n---', 3) + 1
-    except ValueError:
-        return None, None
-    try:
-        fm = yaml.safe_load(content[3:end])
-    except yaml.YAMLError:
-        print(f"  YAML error: {os.path.basename(filepath)}")
-        return None, None
-    if not isinstance(fm, dict):
-        return None, None
-    body = content[end + 3:]
-    return fm, body
-
-
-def save_post(filepath, fm, body):
-    """Write frontmatter + body back to file."""
-    yaml_str = yaml.dump(
-        fm, default_flow_style=False, allow_unicode=True,
-        sort_keys=False, width=1000,
-    )
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write('---\n')
-        f.write(yaml_str)
-        f.write('---')
-        f.write(body)
-
-
-# ---------------------------------------------------------------------------
 # Phase 1: Deterministic fixes
 # ---------------------------------------------------------------------------
 
@@ -145,14 +108,6 @@ def city_to_tag(city):
     if city in CITY_TAG_MAP:
         return CITY_TAG_MAP[city]
     return city.lower().replace(' ', '-')
-
-
-def is_good_title(title, location, city):
-    """Check if title is already in 'Venue, City' format."""
-    if not title or not location or not city:
-        return False
-    expected = f"{location}, {city}"
-    return title.strip() == expected.strip()
 
 
 def phase1_fix(fm):
