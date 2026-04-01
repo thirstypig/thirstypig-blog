@@ -13,7 +13,7 @@ tags:
 - deli
 description: Long time Beverly Hills institution Jewish Deli, featuring pastrami sandwiches and other famous Jewish Deli cuisine Opened in 1945 Saw Donald T. Sterling, former owner of the Los Angeles Clippers, din
 archiveUrl: https://web.archive.org/web/20161229234154/http://thirstypig.com/2016/12/29/naten-al-delicatessen-beverly-hills/
-draft: false
+draft: true
 location: Nate’n Al Delicatessen
 city: Beverly Hills
 region: Westside

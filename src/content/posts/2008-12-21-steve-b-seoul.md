@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103145647/http://www.thethirstypig.com/2008/12/21/steve-b-seoul/
-draft: false
+draft: true
 location: Steve B.
 city: Seoul
 region: Seoul

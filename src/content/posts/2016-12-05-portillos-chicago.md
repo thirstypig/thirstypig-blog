@@ -13,7 +13,7 @@ tags:
 - hot-dogs
 description: 'The Italian beef is the signature sandwich at Portillos, nothing like it anywhere else The Hot Dogs, Chicago style, is interesting, but something I wouldn’t order again Open since 1963 with locations '
 archiveUrl: https://web.archive.org/web/20161220060612/http://thirstypig.com/2016/12/05/portillos-chicago/
-draft: false
+draft: true
 location: Portillo’s
 city: Chicago
 address: 5532 S. Harlem Ave

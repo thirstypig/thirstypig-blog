@@ -13,7 +13,7 @@ tags:
 - stewed-kimchi
 description: This place is a find. This is probably one of the better Korean meals, I have had in awhile. Seongbukdong is known for having excellent Korean comfort food. Perhaps known for the simplicity of the dis
 archiveUrl: https://web.archive.org/web/20160912104110/http://thirstypig.com/2010/03/14/seongbukdong-los-angeles/
-draft: false
+draft: true
 location: Seongbukdong
 city: Los Angeles
 address: 3303 W 6th St

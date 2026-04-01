@@ -11,7 +11,7 @@ tags:
 - cocktails
 description: The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.
 archiveUrl: https://web.archive.org/web/20161018172436/http://thirstypig.com/2010/10/05/apartment-lounge-shanghai/
-draft: false
+draft: true
 location: The Apartment Lounge
 city: Shanghai
 region: Shanghai

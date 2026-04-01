@@ -13,7 +13,7 @@ tags:
 - bbq
 description: One of the popular Chinese cuisines, if you can say cuisine – perhaps method is more appropriate, is Hot Pot cooking. Do It Yourself DIY cooking is found in many Asian cuisines. With Korean BBQ, Japan
 archiveUrl: https://web.archive.org/web/20110209052911/http://www.thethirstypig.com:80/2010/06/16/hot-pot-mala-taipei/
-draft: false
+draft: true
 location: Legacy Taipei
 city: Taipei
 region: Taipei

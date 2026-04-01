@@ -13,7 +13,7 @@ tags:
 - sandwiches
 description: Simple, yet delicious Banh Mi Vietnamese Sandwiches Bread is baked fresh right in the shop Arguably better than Mr. Lee’s Sandwiches I like the grilled pork and meatball Spacious parking lot, but fill
 archiveUrl: https://web.archive.org/web/20170210055537/http://thirstypig.com/2017/02/09/mr-baguette-rosemead/
-draft: false
+draft: true
 city: Rosemead
 region: San Gabriel Valley
 address: 8702 E Valley Blvd

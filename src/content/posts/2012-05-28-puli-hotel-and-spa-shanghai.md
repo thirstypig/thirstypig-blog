@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: Click on the Pictures Above to enlarge
 archiveUrl: https://web.archive.org/web/20121213021638/http://www.thethirstypig.com:80/2012/05/28/puli-hotel-and-spa-shanghai/
-draft: false
+draft: true
 location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai

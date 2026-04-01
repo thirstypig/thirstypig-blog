@@ -13,7 +13,7 @@ tags:
 - coal-fired
 description: New York’s finest pizzeria, here in LA Coal burning pizza oven Large restaurant, good for groups Validated parking available for the nearby parking structure bunch of location all over the US
 archiveUrl: https://web.archive.org/web/20170207060826/http://thirstypig.com/2017/02/06/grimaldis-pizzeria-el-segundo/
-draft: false
+draft: true
 location: Grimaldi’s Pizzeria
 city: El Segundo
 region: South Bay

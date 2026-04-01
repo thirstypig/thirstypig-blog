@@ -13,7 +13,7 @@ tags:
 - tacos
 description: I believe the direction and concept that The Best Fish Tacos in Ensenada TBFTiE is great one. Talk about what you serve and specialize in it. You also create conversation as to who has the best Fish T
 archiveUrl: https://web.archive.org/web/20161105111321/http://thirstypig.com/2010/02/03/best-fish-tacos-ensenada-los-angeles/
-draft: false
+draft: true
 city: Los Angeles
 address: 1650 Hillhurst Ave Los Angeles, CA 90027
 cuisine:

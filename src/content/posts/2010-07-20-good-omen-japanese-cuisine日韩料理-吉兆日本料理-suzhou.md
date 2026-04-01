@@ -12,7 +12,7 @@ tags:
 - ayce
 description: I had to make a one day trip to Suzhou for a short business trip. The manager that we were visiting took us out to lunch at a place called 吉兆日本料理, which loosely translated means Good Omen Japanese Cui
 archiveUrl: https://web.archive.org/web/20161018023337/http://thirstypig.com/2010/07/20/good-omen-japanese-cuisine%e6%97%a5%e9%9f%a9%e6%96%99%e7%90%86-%e5%90%89%e5%85%86%e6%97%a5%e6%9c%ac%e6%96%99%e7%90%86-suzhou/
-draft: false
+draft: true
 location: Good Omen Japanese Cuisine日韩料理 at 吉兆日本料理
 cuisine:
 - Japanese

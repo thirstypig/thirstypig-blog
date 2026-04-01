@@ -12,7 +12,7 @@ tags:
 - hot-pot
 description: Yelp Listinghttps://www.yelp.com/biz/little-sheep-mongolian-hot-pot-san-gabriel
 archiveUrl: https://web.archive.org/web/20161105172322/http://thirstypig.com/2010/01/22/little-sheep-mongolian-hot-pot-sgv/
-draft: false
+draft: true
 location: Little Sheep Mongolian Hot Pot
 city: Sgv
 region: San Gabriel Valley

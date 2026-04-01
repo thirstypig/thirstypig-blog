@@ -13,7 +13,7 @@ tags:
 - banh-mi
 description: Yelp Listinghttps://www.yelp.com/biz/lees-sandwiches-rosemead
 archiveUrl: https://web.archive.org/web/20170314134535/http://thirstypig.com/2017/03/13/lees-sandwiches-san-gabriel/
-draft: false
+draft: true
 location: Lee’s Sandwiches
 city: San Gabriel
 region: San Gabriel Valley

@@ -13,7 +13,7 @@ tags:
 - dumplings
 description: Dry Oil Noodles was tasty and reminiscent of noodles from Shanghai Shanghainese cuisine with other Chinese cuisines Water boiled dumplings were pretty good Small restaurant, but is popular with the lo
 archiveUrl: https://web.archive.org/web/20161227032411/http://thirstypig.com/2016/12/26/tasty-noodle-house-irvine/
-draft: false
+draft: true
 location: Tasty Noodle House
 city: Irvine
 region: Orange County

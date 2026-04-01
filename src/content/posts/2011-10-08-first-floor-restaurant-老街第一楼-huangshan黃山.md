@@ -11,7 +11,7 @@ tags:
 - regional-chinese
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106034442/http://thirstypig.com/2011/10/08/first-floor-restaurant-%e8%80%81%e8%a1%97%e7%ac%ac%e4%b8%80%e6%a5%bc-huangshan%e9%bb%83%e5%b1%b1/
-draft: false
+draft: true
 location: First Floor Restaurant 老街第一楼
 cuisine:
 - Chinese

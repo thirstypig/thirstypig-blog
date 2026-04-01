@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: The Sichuan Pepper or Szechuan Peppercornhttp://en.wikipedia.org/wiki/Sichuanpeppercorn is a unique breed of spice. When eaten, it gives, not a spicy, nor savory flavor, but a distinguishing mouth num
 archiveUrl: https://web.archive.org/web/20110106183213/http://www.thethirstypig.com:80/2010/12/22/sichuan-pepper-huang-fei-hong/
-draft: false
+draft: true
 city: Shanghai
 region: Shanghai
 tags:

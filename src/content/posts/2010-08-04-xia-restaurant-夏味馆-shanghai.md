@@ -13,7 +13,7 @@ tags:
 - kebab
 description: If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your ju
 archiveUrl: https://web.archive.org/web/20161019153946/http://thirstypig.com/2010/08/04/xia-restaurant-%e5%a4%8f%e5%91%b3%e9%a6%86-shanghai/
-draft: false
+draft: true
 location: Pasha (帕夏土耳其餐厅)
 city: Shanghai
 region: Shanghai

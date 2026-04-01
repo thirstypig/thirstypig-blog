@@ -12,7 +12,7 @@ tags:
 - comfort-food
 description: Yelphttps://www.yelp.com/biz/holders-country-inn-san-jose-2
 archiveUrl: https://web.archive.org/web/20160828103323/http://thirstypig.com/2009/11/08/holders-country-inn-san-jose/
-draft: false
+draft: true
 location: Holder’s Country Inn
 city: San Jose
 region: Bay Area

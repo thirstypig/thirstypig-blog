@@ -13,7 +13,7 @@ tags:
 - mac-and-cheese
 description: Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Chees
 archiveUrl: https://web.archive.org/web/20161018073342/http://thirstypig.com/2010/08/16/petes-cafe-bar-downtown-los-angeles/
-draft: false
+draft: true
 location: Pete’s Cafe & Bar
 city: Downtown Los Angeles
 region: Downtown LA

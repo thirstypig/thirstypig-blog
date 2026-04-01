@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Royal Thai Kitchen Villa 3, 3911 Hongmei Lu 虹梅路3911号3号楼， 近虹桥路 +86 21 6242 3023
 archiveUrl: https://web.archive.org/web/20161106013054/http://thirstypig.com/2012/03/17/royal-thai-kitchen-shanghai/
-draft: false
+draft: true
 location: Muang Thai Kitchen (泰厨)
 city: Shanghai
 region: Shanghai

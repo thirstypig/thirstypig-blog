@@ -13,7 +13,7 @@ tags:
 - fried-balls
 description: Korean inspired food – sausage, fried balls, and fries Good flavors Seems like fast food done in a new way Not sure if using “Seoul” or Korean cuisine is best to describe this food. It does use typica
 archiveUrl: https://web.archive.org/web/20161018133610/http://thirstypig.com/2016/04/28/seoul-sausage-los-angeles/
-draft: false
+draft: true
 location: Seoul Sausage
 city: Los Angeles
 region: Downtown LA

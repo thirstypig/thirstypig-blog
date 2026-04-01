@@ -13,7 +13,7 @@ tags:
 - street-cart
 description: street cart Stinky Tofu
 archiveUrl: https://web.archive.org/web/20161105232239/http://thirstypig.com/2010/05/13/guang-le-soup-cart%e5%bb%a3%e6%a8%82%e7%84%bf%e6%b9%af-taipei/
-draft: false
+draft: true
 location: Hotel Proverbs (賦樂旅居 Hotel Proverbs)
 city: Taipei
 region: Taipei

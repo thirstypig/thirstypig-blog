@@ -13,7 +13,7 @@ tags:
 - beef
 description: Provence is a little restaurant located in the center of 2 upscale shopping centers in the Peninsula Plaza and Graysorn Mall. Mr. A had insistently brought us to Provence, since it was my first time t
 archiveUrl: https://web.archive.org/web/20161105143718/http://thirstypig.com/2011/08/25/provence-bangkok/
-draft: false
+draft: true
 location: Provence
 city: Bangkok
 region: Bangkok

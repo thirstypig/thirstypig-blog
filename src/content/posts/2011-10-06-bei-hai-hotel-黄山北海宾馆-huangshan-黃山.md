@@ -12,7 +12,7 @@ tags:
 - hotel-dining
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161105172333/http://thirstypig.com/2011/10/06/bei-hai-hotel-%e9%bb%84%e5%b1%b1%e5%8c%97%e6%b5%b7%e5%ae%be%e9%a6%86-huangshan-%e9%bb%83%e5%b1%b1/
-draft: false
+draft: true
 location: Bei Hai Hotel 黄山北海宾馆
 city: Huangshan
 cuisine:

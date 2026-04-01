@@ -13,7 +13,7 @@ tags:
 - tater-tots
 description: 'Love the tater tots I like how they use sweet Hawaiian Bread on everything This is a guilty pleasure that isn’t healthy Fast Casual Food that is going against the health trend Burgers and Sausage are '
 archiveUrl: https://web.archive.org/web/20160914224653/http://thirstypig.com/2016/05/31/dog-haus-los-angeles/
-draft: false
+draft: true
 location: Dog Haus
 city: Los Angeles
 region: Pasadena

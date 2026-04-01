@@ -13,7 +13,7 @@ tags:
 - bagels
 description: Come for the Pastrami, stay for the lox & bagels Has a great Instagram Feedhttps://www.instagram.com/wexlersdeli Suggest you just parking the structure next door for Wexler’s and the other shops at Gr
 archiveUrl: https://web.archive.org/web/20160829101227/http://thirstypig.com/2015/05/28/wexlers-dtla/
-draft: false
+draft: true
 location: Wexler’s
 city: Dtla
 region: Downtown LA

@@ -8,7 +8,7 @@ originalUrl: http://thirstypig.com/2012/04/09/the-bund-shanghai/
 categories:
 - Uncategorized
 archiveUrl: https://web.archive.org/web/20161106065322/http://thirstypig.com/2012/04/09/the-bund-shanghai/
-draft: false
+draft: true
 location: The Bund (外滩)
 city: Shanghai
 region: Shanghai

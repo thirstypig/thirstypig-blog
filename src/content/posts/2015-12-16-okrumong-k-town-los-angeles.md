@@ -13,7 +13,7 @@ tags:
 - dessert
 description: Unique Korean desserts combining shaved ice with red bean Open late Parking is small and sucks during dinner time Don’t forget the drinks Black Sesame is my favorite
 archiveUrl: https://web.archive.org/web/20161019091744/http://thirstypig.com/2015/12/16/okrumong-k-town-los-angeles/
-draft: false
+draft: true
 location: Okrumong
 city: K-Town
 region: Koreatown

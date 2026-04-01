@@ -13,7 +13,7 @@ tags:
 - pie
 description: Pie ‘N Burger, located near Caltech, features a simple menu of burgers and, of all things, pie. Strange bedfellows they are, burgers and pies is your All American fare. Not much has changed in the 50+
 archiveUrl: https://web.archive.org/web/20160828021816/http://thirstypig.com/2009/09/02/pien-burger-pasadena-los-angeles/
-draft: false
+draft: true
 location: Pie’n Burger
 city: Pasadena
 region: Pasadena

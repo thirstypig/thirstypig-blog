@@ -13,7 +13,7 @@ tags:
 - bakery
 description: Du-Par’s has been serving food with fresh ingredients since 1938 Had the famous Monte Cristo Sandwich Open 24 hours Part of LA’s famous Farmer’s Market 6 other locations
 archiveUrl: https://web.archive.org/web/20170120013949/http://thirstypig.com/2017/01/19/du-pars-restaurant-bakery-los-angeles/
-draft: false
+draft: true
 location: Du-par's
 city: Los Angeles
 region: Hollywood

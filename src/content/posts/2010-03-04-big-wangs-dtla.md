@@ -13,7 +13,7 @@ tags:
 - onion-rings
 description: Big Wangs, with a funny name for a Sports Bar, is located in the heart of Downtown LA. I visited there with a friend, Mr. J, for a short happy hour and to just check out the place.
 archiveUrl: https://web.archive.org/web/20161105041218/http://thirstypig.com/2010/03/04/big-wangs-dtla/
-draft: false
+draft: true
 location: Big Wangs
 city: Dtla
 region: Downtown LA

@@ -13,7 +13,7 @@ tags:
 - french-toast
 description: Famous for their Cornflake French Toast Parking lot is small and fills up fast One of the local favorite brunch and breakfast restaurants in the area Eggs Benedict is yummy Open only for Breakfast, Br
 archiveUrl: https://web.archive.org/web/20160828061938/http://thirstypig.com/2009/09/17/marstons-pasadena/
-draft: false
+draft: true
 location: Marstons
 city: Pasadena
 region: Pasadena

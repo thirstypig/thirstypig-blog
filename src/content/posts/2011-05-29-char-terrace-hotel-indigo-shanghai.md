@@ -12,7 +12,7 @@ tags:
 - rooftop
 description: Nighttime views of Shanghai aren’t hard to come by, with M1NT, Flair, Vue, and Bar Rouge. But there’s a new player in town, Char Terrace at the Hotel Indigo.
 archiveUrl: https://web.archive.org/web/20160910225844/http://thirstypig.com/2011/05/29/char-terrace-hotel-indigo-shanghai/
-draft: false
+draft: true
 location: CHAR
 city: Shanghai
 region: Shanghai

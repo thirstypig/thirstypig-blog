@@ -13,7 +13,7 @@ tags:
 - rice-bowl
 description: Lu Ro Fan is part of a main staple in Taiwan. Like noodles, this rice dish, is simply made with fatty pork and rice. For a quick fix, I know I can pick up a bowlor two, if I am hungry late at night, o
 archiveUrl: https://web.archive.org/web/20161106013059/http://thirstypig.com/2010/06/08/da-lai-kodate%e5%a4%a7%e4%be%86%e5%b0%8f%e9%a4%a8-taipei/
-draft: false
+draft: true
 location: Sheraton Grand Taipei Hotel (台北喜來登大飯店)
 city: Taipei
 region: Taipei

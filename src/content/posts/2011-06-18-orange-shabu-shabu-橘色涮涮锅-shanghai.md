@@ -13,7 +13,7 @@ tags:
 - shabu-shabu
 description: I have never associated hot pot as fine dining. Its always a festive occasion with friends and family busily cooking and eating over a communal pot. You’d never bring a customers, vendors, or even a d
 archiveUrl: https://web.archive.org/web/20161018153225/http://thirstypig.com/2011/06/18/orange-shabu-shabu-%e6%a9%98%e8%89%b2%e6%b6%ae%e6%b6%ae%e9%94%85-shanghai/
-draft: false
+draft: true
 location: Orange Shabu Shabu 橘色涮涮锅
 city: Shanghai
 region: Shanghai

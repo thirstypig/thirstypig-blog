@@ -13,7 +13,7 @@ tags:
 - lunch-sets
 description: Shaburi, at Breeze Center, is a nice unassuming and non-pretentious Japanese restaurant. With high expectations on presentation and food, lunch was nice treat.
 archiveUrl: https://web.archive.org/web/20161106123640/http://thirstypig.com/2010/05/30/shaburi-%e7%b4%97%e8%88%9e%e7%b8%ad%e5%a3%bd%e5%8f%b8%e5%b1%8b-breeze-center-%e5%be%ae%e9%a2%a8%e5%bb%a3%e5%a0%b4-taipei/
-draft: false
+draft: true
 location: Shaburi 紗舞縭壽司屋, Breeze Center 微風廣場
 city: Taipei
 region: Taipei

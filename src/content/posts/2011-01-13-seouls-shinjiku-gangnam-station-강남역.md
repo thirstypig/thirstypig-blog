@@ -11,7 +11,7 @@ tags:
 - street-food
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103151452/http://www.thethirstypig.com/2011/01/13/seouls-shinjiku-gangnam-station-%ea%b0%95%eb%82%a8%ec%97%ad/
-draft: false
+draft: true
 location: Seoul Station - KTX/Korail (서울역 KTX/코레일)
 city: Seoul
 region: Seoul

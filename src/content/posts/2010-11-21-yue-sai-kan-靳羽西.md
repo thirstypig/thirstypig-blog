@@ -8,7 +8,7 @@ categories:
 - Uncategorized
 description: This past week, we got to meet the venerable Yue-Sai Kan 靳羽西. She graciously hosted us at her spacious home in Shanghai. Our professor, Peter Carnevale was able to arrange for an informal talk with he
 archiveUrl: https://web.archive.org/web/20161018155237/http://thirstypig.com/2010/11/21/yue-sai-kan-%e9%9d%b3%e7%be%bd%e8%a5%bf/
-draft: false
+draft: true
 location: Kangaroo Bar
 city: Shanghai
 region: Shanghai

@@ -13,7 +13,7 @@ tags:
 - mac-and-cheese
 description: The sparse menu showed few food items but included Guinness beer The menu primarily looked like food you’d find at a bar, hence the name – Bar Food. This pub, or gastropub – the new moniker and also i
 archiveUrl: https://web.archive.org/web/20160828103845/http://thirstypig.com/2009/10/22/bar-food-west-los-angeles/
-draft: false
+draft: true
 location: Bar Food
 city: Los Angeles
 region: Los Angeles

@@ -13,7 +13,7 @@ tags:
 - soup
 description: Taiwanese Beer House Basically a Taiwanese Gastropub The soups are good, and they will refill the broth for you I like the Amber Bock dark beer The fried popcorn chicken is one of my favorite dishes
 archiveUrl: https://web.archive.org/web/20170222180319/http://thirstypig.com/2017/02/20/uncle-yus-indian-theme-restaurant-san-gabriel/
-draft: false
+draft: true
 location: Uncle Yu’s Indian Theme Restaurant
 city: San Gabriel
 region: San Gabriel Valley

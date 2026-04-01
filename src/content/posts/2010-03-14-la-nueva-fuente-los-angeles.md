@@ -13,7 +13,7 @@ tags:
 - enchiladas
 description: Yelp Listinghttps://www.yelp.com/biz/la-nueva-fuente-restaurant-los-angeles
 archiveUrl: https://web.archive.org/web/20161104234833/http://thirstypig.com/2010/03/14/la-nueva-fuente-los-angeles/
-draft: false
+draft: true
 location: La Nueva Fuente Restaurant
 city: Los Angeles
 address: 3425 E 1st St

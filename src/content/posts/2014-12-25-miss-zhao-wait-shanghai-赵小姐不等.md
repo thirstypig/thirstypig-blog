@@ -13,7 +13,7 @@ tags:
 - seafood
 description: 赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish. If you haven’t guesse
 archiveUrl: https://web.archive.org/web/20160523080922/http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
-draft: false
+draft: true
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai

@@ -11,7 +11,7 @@ tags:
 - hotel-dining
 description: Located in the heart of the XinYi district, Home Hotel is the latest trend of new hotels to pop up, with the Le Meridian, the W, and Tango opening recently. Home Hotel is an upscale boutique hotel wit
 archiveUrl: https://web.archive.org/web/20161106022408/http://thirstypig.com/2011/07/16/home-hotel-taipei/
-draft: false
+draft: true
 location: Home Hotel
 city: Taipei
 region: Taipei

@@ -13,7 +13,7 @@ tags:
 - eggs-benedict
 description: Wonderful breakfast joint Had the Eggs Florentine which was healthy and good Valet parking available, but there is some street parking, if you can find it On 3rd street, with other great little restau
 archiveUrl: https://web.archive.org/web/20170203043943/http://thirstypig.com/2017/01/26/toast-los-angeles/
-draft: false
+draft: true
 location: Toast
 city: Los Angeles
 region: Hollywood

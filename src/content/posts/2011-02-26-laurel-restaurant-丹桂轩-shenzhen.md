@@ -12,7 +12,7 @@ tags:
 - roasted-goose
 description: Shenzhen is the city located right across the border from Hong Kong. You might say it is the Tijuana of China. A little over 30 years ago, this sleepy town, with around 30,000 people, is growing to ov
 archiveUrl: https://web.archive.org/web/20161019091800/http://thirstypig.com/2011/02/26/laurel-restaurant-%e4%b8%b9%e6%a1%82%e8%bd%a9-shenzhen/
-draft: false
+draft: true
 location: Yat Lok Restaurant (一樂燒鵝)
 city: Hong Kong
 region: Hong Kong

@@ -13,7 +13,7 @@ tags:
 - ceviche
 description: Mexican dining, with local and fresh ingredients Located just steps away from the beach Nice big bar Seafood enchiladas, carnitas, and shrimp ceviche were all excellent They serve an interesting Sunda
 archiveUrl: https://web.archive.org/web/20170228050056/http://thirstypig.com/2017/02/27/carmelitas-laguna-beach/
-draft: false
+draft: true
 location: Carmelitas
 city: Laguna Beach
 region: Orange County

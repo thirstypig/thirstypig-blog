@@ -13,7 +13,7 @@ tags:
 - seafood
 description: 'Roast Goose 燒鵝 is the preferred fowl in Hong Kong. Yet, geese are much more pricey than other winged animals, such as the duck or chicken, except maybe an ostrich. Economics is the reason why duck is '
 archiveUrl: https://web.archive.org/web/20161018014235/http://thirstypig.com/2011/02/28/kam-dau-kee-%e9%87%91%e5%85%9c%e8%a8%98%e6%b5%b7%e9%ae%ae%e8%8f%9c%e9%a4%a8-hong-kong/
-draft: false
+draft: true
 location: Kam Dau Kee 金兜記海鮮菜館
 city: Hong Kong
 region: Hong Kong

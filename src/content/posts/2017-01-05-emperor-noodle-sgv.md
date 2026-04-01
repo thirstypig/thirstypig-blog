@@ -13,7 +13,7 @@ tags:
 - noodles
 description: Might be my favorite Shanghainese restaurants in LA One of J. Gold’s favorite Sheng jian Baoshttp://www.latimes.com/food/dailydish/la-jonathan-golds-six-favorite-dumplings-20131104-story.html Don’t ca
 archiveUrl: https://web.archive.org/web/20170105233844/http://thirstypig.com/2017/01/05/emperor-noodle-sgv/
-draft: false
+draft: true
 location: Emperor Noodle
 city: Sgv
 region: San Gabriel Valley

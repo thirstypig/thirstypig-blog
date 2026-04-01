@@ -13,7 +13,7 @@ tags:
 - chili
 description: Slaw Dogs opened with much excitement in the blogger and yelp community. In the Los Angeles area, there is Pink’s, Fab Hot Dogs, and now Slaw Dogs. Each of them have similar diverse menus, but serving
 archiveUrl: https://web.archive.org/web/20161105024416/http://thirstypig.com/2010/04/16/slaw-dogs-pasadena/
-draft: false
+draft: true
 location: The Slaw Dogs
 city: Pasadena
 region: Pasadena

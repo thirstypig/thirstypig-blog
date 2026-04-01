@@ -13,7 +13,7 @@ tags:
 - sandwiches
 description: Get there early or arrive around 3pm in the afternoon on the weekdays to avoid the long lines The Eggslut is the coddled egg, which is pretty good, but you have to let it cool down a bit The egg sandw
 archiveUrl: https://web.archive.org/web/20161105195901/http://thirstypig.com/2016/10/10/eggslut-dtla/
-draft: false
+draft: true
 location: Eggslut
 city: Dtla
 region: Downtown LA

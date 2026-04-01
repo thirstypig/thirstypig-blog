@@ -12,7 +12,7 @@ tags:
 - brunch
 description: Miss F was craving something Mexican, as I was, so we ventured to Maya for Sunday brunch. She had heard that Maya was arguably the best Mexican restaurant in town. With that, it sounded like a challen
 archiveUrl: https://web.archive.org/web/20161106003225/http://thirstypig.com/2011/09/19/maya-brunch-shanghai/
-draft: false
+draft: true
 location: Maya Mexican Restaurant (玛雅)
 city: Shanghai
 region: Shanghai

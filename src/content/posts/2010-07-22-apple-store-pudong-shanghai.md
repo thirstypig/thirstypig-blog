@@ -10,7 +10,7 @@ tags:
 - shanghai
 description: Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion siteblog. But I had to post about the new official Apple Store in Pudong, Shanghai.
 archiveUrl: https://web.archive.org/web/20161018224611/http://thirstypig.com/2010/07/22/apple-store-pudong-shanghai/
-draft: false
+draft: true
 location: Apple Store
 city: Shanghai
 region: Shanghai

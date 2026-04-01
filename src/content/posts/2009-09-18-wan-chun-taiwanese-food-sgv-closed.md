@@ -12,7 +12,7 @@ tags:
 - taiwanese
 - taiwanese-food
 archiveUrl: https://web.archive.org/web/20160828111251/http://thirstypig.com/2009/09/18/wan-chun-taiwanese-food-sgv-closed/
-draft: false
+draft: true
 location: Wan Chun Taiwanese Food
 city: Sgv
 region: San Gabriel Valley

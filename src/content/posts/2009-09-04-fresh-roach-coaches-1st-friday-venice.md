@@ -13,7 +13,7 @@ tags:
 - food-trucks
 description: 'The first Friday of every month is festival ritual in the heart of Venice. Shops, galleries, and bars open late to slow walking crowds. But unfortunately for the restaurants on Abbot Kinney Road, the '
 archiveUrl: https://web.archive.org/web/20161105212138/http://thirstypig.com/2009/09/04/fresh-roach-coaches-1st-friday-venice/
-draft: false
+draft: true
 location: First Friday on Abbot Kinney
 city: Venice
 region: Westside

@@ -13,7 +13,7 @@ tags:
 - small-plates
 description: Azul Tapas Lounge 378 Wukang Rd, Xuhui, Shanghai, China +86 21 5405 2252
 archiveUrl: https://web.archive.org/web/20161019014500/http://thirstypig.com/2010/11/13/azul-shanghai/
-draft: false
+draft: true
 location: Azul Tapas Lounge
 city: Shanghai
 region: Shanghai

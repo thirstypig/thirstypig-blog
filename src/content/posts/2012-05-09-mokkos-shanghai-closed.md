@@ -11,7 +11,7 @@ tags:
 - cocktails
 description: Mokkos 1/F, 68 Jinling Dong Lu, near Jiangxi Lu 金陵东路68号1楼, 近江西路 3331 6559
 archiveUrl: https://web.archive.org/web/20161106062733/http://thirstypig.com/2012/05/09/mokkos-shanghai-closed/
-draft: false
+draft: true
 location: Mokkos Bar
 city: Shanghai
 region: Shanghai

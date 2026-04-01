@@ -11,7 +11,7 @@ tags:
 - expo-food
 description: I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so
 archiveUrl: https://web.archive.org/web/20161019044906/http://thirstypig.com/2010/09/29/shanghai-expo-day-1/
-draft: false
+draft: true
 location: The Shanghai EDITION (上海爱迪逊酒店)
 city: Shanghai
 region: Shanghai

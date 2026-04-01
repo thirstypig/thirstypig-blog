@@ -12,7 +12,7 @@ tags:
 - dim-sum
 description: Links Chongming 365 listinghttp://www.chongming365.com/msdet.aspx?id=76 Dingping Listinghttp://www.dianping.com/shop/5619136
 archiveUrl: https://web.archive.org/web/20161106034149/http://thirstypig.com/2012/02/24/new-red-house-restaurant-%e6%96%b0%e8%99%b9%e6%a8%93%e9%a3%af%e8%8e%8a-chongming-island/
-draft: false
+draft: true
 location: New Red House Restaurant 新虹樓飯莊
 city: Chongming Island
 cuisine:

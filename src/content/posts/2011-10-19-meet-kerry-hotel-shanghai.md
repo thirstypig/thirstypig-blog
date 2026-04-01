@@ -12,7 +12,7 @@ tags:
 - hotel-dining
 description: OLYMPUS DIGITAL CAMERA
 archiveUrl: https://web.archive.org/web/20161106060450/http://thirstypig.com/2011/10/19/meet-kerry-hotel-shanghai/
-draft: false
+draft: true
 location: Kerry Hotel Pudong, Shanghai (上海浦东嘉里大酒店)
 city: Shanghai
 region: Shanghai

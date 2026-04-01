@@ -13,7 +13,7 @@ tags:
 - burritos
 description: Lucky Boy has many loyal followers that lay claim of the best breakfast burrito. Even Los Angeles Magazine boasted about the burrito as well – I believe it was in the May 2009 issue. Many of my friend
 archiveUrl: https://web.archive.org/web/20170303072357/http://thirstypig.com/2017/03/02/lucky-boy-pasadena/
-draft: false
+draft: true
 location: Lucky Boy
 city: Pasadena
 region: Pasadena

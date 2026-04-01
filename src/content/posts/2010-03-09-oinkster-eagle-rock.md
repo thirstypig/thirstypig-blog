@@ -12,7 +12,7 @@ tags:
 - fried-chicken
 description: Yelp Listinghttps://www.yelp.com/biz/the-oinkster-los-angeles
 archiveUrl: https://web.archive.org/web/20161105045220/http://thirstypig.com/2010/03/09/oinkster-eagle-rock/
-draft: false
+draft: true
 location: Oinkster
 city: Los Angeles
 region: Los Angeles

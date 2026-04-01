@@ -13,7 +13,7 @@ tags:
 - breakfast
 description: Breakfast Joint, Duh Highly rated in the area Found it on a whim
 archiveUrl: https://web.archive.org/web/20160828112559/http://thirstypig.com/2009/10/20/omelette-house-garden-grove/
-draft: false
+draft: true
 location: Omelette House
 region: Orange County
 address: 10082 Chapman Ave Garden Grove, CA 92840

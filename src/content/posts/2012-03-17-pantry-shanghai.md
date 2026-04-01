@@ -13,7 +13,7 @@ tags:
 - cafe
 description: Pantry 205 Wulumuqi Nan Lu, near Jianguo Xi Lu 乌鲁木齐南路205号, 近建国西路 Shanghai
 archiveUrl: https://web.archive.org/web/20161106075153/http://thirstypig.com/2012/03/17/pantry-shanghai/
-draft: false
+draft: true
 location: Pantry Shanghai
 city: Shanghai
 region: Shanghai

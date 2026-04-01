@@ -13,7 +13,7 @@ tags:
 - milkshake
 description: Burger Bistro has just introduced their new burger challenge. In 20 mins, one has to finish a Bistro Belt Buster Burger with fries and milkshake. Priced at 160 RMB, the burger is a 3 stack 600 grams t
 archiveUrl: https://web.archive.org/web/20160912113713/http://thirstypig.com/2011/12/17/bistro-burger-shanghai/
-draft: false
+draft: true
 location: Bistro Burger
 city: Shanghai
 region: Shanghai

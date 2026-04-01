@@ -13,7 +13,7 @@ tags:
 - fried-pork
 description: 'Romankan makes a type of sandwich that features a specific type of filling that is quite popular. This Japanese style sandwich is packed with a fried pork cutlet, or chicken one. That’s all you need, '
 archiveUrl: https://web.archive.org/web/20161105085753/http://thirstypig.com/2010/05/10/romankan-yokohama-%e6%b5%aa%e6%bc%ab%e9%a4%a8%e6%a8%aa%e6%b5%9c-breeze-center-taipei-closed/
-draft: false
+draft: true
 location: 台北馥華商旅(松江館) Forward Hotel Taipei
 city: Taipei
 region: Taipei

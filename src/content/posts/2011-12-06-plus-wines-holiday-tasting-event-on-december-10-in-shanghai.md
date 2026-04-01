@@ -8,7 +8,7 @@ categories:
 - Cocktails
 description: My friend Steve is hosting a Wine Tasting Event this Saturday at Crown Wine Cellars, in the Putuo District, Shanghai.
 archiveUrl: https://web.archive.org/web/20120116091155/http://www.thethirstypig.com:80/2011/12/06/plus-wines-holiday-tasting-event-on-december-10-in-shanghai/
-draft: false
+draft: true
 city: Shanghai
 region: Shanghai
 address: 75 Sui De Road

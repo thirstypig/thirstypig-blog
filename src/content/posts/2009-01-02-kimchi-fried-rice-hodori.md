@@ -12,7 +12,7 @@ tags:
 - kimchi-fried-rice
 description: 'Last night, after the film festival, our friends and I was craving a late night snack. We went to one of steady favorites Hodori. I have been going here since the early 1990′s. I have brought so many '
 archiveUrl: https://web.archive.org/web/20110105195038/http://www.thethirstypig.com/2009/01/02/kimchi-fried-rice-hodori/
-draft: false
+draft: true
 location: Kimchi Fried Rice
 city: Koreatown
 region: Los Angeles

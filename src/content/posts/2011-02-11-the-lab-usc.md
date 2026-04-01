@@ -12,7 +12,7 @@ tags:
 - cocktails
 description: The Lab is a gastropub located across the street from USC. In the spirit of gastropubs and wine bars, like Bar Food, Westside Tavern, and Bacaro, The Lab features nice selection of libations and food.
 archiveUrl: https://web.archive.org/web/20161019201455/http://thirstypig.com/2011/02/11/the-lab-usc/
-draft: false
+draft: true
 location: The Lab
 address: 3500 S Figueroa Blvd, Los Angeles, CA 90007
 cuisine:

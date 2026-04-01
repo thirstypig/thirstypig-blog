@@ -8,7 +8,7 @@ categories:
 - Fusion
 description: What is Woolloomooloo? Woolloomooloo is an Australian cafe located in Taipei, with 2 locations. Opened by Jimmy Yang, a Taiwanese that lived in Australia, Woolloomooloo offers a cool space with pizza,
 archiveUrl: https://web.archive.org/web/20120317215859/http://www.thethirstypig.com:80/2012/03/07/woolloomooloo-taipei/
-draft: false
+draft: true
 location: Woolloomooloo
 city: Taipei
 region: Taipei

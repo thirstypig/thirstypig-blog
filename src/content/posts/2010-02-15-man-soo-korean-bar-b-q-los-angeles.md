@@ -13,7 +13,7 @@ tags:
 - korean-bbq
 description: The thing about new Korean BBQ restaurants – it is said that they offer morein their servings to entice new customers, smell nicersince they don’t have the stench in the walls, and less crowdedtill th
 archiveUrl: https://web.archive.org/web/20161105033627/http://thirstypig.com/2010/02/15/man-soo-korean-bar-b-q-los-angeles/
-draft: false
+draft: true
 location: Man Soo Korean Bar-B-Q
 city: Los Angeles
 region: Koreatown

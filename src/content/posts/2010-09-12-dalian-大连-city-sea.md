@@ -10,7 +10,7 @@ tags:
 - shanghai
 description: I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach
 archiveUrl: https://web.archive.org/web/20161018232348/http://thirstypig.com/2010/09/12/dalian-%e5%a4%a7%e8%bf%9e-city-sea/
-draft: false
+draft: true
 location: 大连银行
 city: Shanghai
 region: Shanghai

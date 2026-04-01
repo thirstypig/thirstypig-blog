@@ -13,7 +13,7 @@ tags:
 - salsa
 description: I’ve been planning to return to Los Angeles for a visit in January for month now. And it is December now, and I have been literally counting the days. Near the top of the never-ending list of things t
 archiveUrl: https://web.archive.org/web/20161104230941/http://thirstypig.com/2011/11/22/mi-tierra-shanghai-closed/
-draft: false
+draft: true
 location: Mi Tierra
 city: Shanghai
 region: Shanghai

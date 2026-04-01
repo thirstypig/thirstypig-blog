@@ -13,7 +13,7 @@ tags:
 - seafood
 description: Good BBQ Pork – Char Siu is not that difficult to find. Siu Mei’s are often hit or miss. If you are polite and ask the right questions, you can more than often get a good cut of the BBQ Pork. But some
 archiveUrl: https://web.archive.org/web/20160602090146/http://thirstypig.com/2011/04/11/fu-sing-shark-fin-seafood-restaurant-hong-kong/
-draft: false
+draft: true
 location: Fu Sing Shark Fin Seafood Restaurant
 city: Hong Kong
 region: Hong Kong

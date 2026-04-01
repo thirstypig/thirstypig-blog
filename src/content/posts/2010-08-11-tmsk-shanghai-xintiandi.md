@@ -13,7 +13,7 @@ tags:
 - fine-dining
 description: Sharehttp://www.addtoany.com/sharesave
 archiveUrl: https://web.archive.org/web/20111103142228/http://www.thethirstypig.com/2010/08/11/tmsk-shanghai-xintiandi/
-draft: false
+draft: true
 location: The Langham, Shanghai, Xintiandi (上海新天地朗廷酒店)
 city: Shanghai
 region: Shanghai

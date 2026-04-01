@@ -13,7 +13,7 @@ tags:
 - steak
 description: 'With a restaurant name like Animal, there’s almost a sense of arrogance about what you think you do well – which is anything non-seafood or vegetable related. Man is instinctively carnivorous, making '
 archiveUrl: https://web.archive.org/web/20160828054123/http://thirstypig.com/2009/09/16/animal-los-angeles/
-draft: false
+draft: true
 location: Animal
 city: Los Angeles
 region: Hollywood

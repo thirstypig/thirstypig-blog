@@ -13,7 +13,7 @@ tags:
 - desserts
 description: Green Tea, with China origins, has been cultivated extensively by the Japanese. In fact, Japanese green tea is simply referred as Japanese tea. Green tea is used for desserts, cooking, and just tea. A
 archiveUrl: https://web.archive.org/web/20161019091749/http://thirstypig.com/2011/03/19/nanas-green-tea-shanghai/
-draft: false
+draft: true
 location: Nana's Green Tea (七叶和茶)
 city: Shanghai
 region: Shanghai

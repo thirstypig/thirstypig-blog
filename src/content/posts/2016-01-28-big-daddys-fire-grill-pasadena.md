@@ -13,7 +13,7 @@ tags:
 - fried-chicken
 description: 'Burger Joint with lots of big burgers and selections Sports bar atmosphere with lots of TVs, Parking lot in the back Liked the zuchinni sticks Also features sandwiches, hot dogs, and a bunch of beers '
 archiveUrl: https://web.archive.org/web/20161019171524/http://thirstypig.com/2016/01/28/big-daddys-fire-grill-pasadena/
-draft: false
+draft: true
 location: Big Daddy’s Fire Grill
 city: Pasadena
 region: Pasadena

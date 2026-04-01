@@ -13,7 +13,7 @@ tags:
 - southern
 description: When it comes to comfort food, almost nothing compares to good ole hearty American Southern cuisine. As much as we hate it, lard, butter, and grease are all necessary evils and ingredients for wholeso
 archiveUrl: https://web.archive.org/web/20161105165307/http://thirstypig.com/2011/09/13/boxing-cat-brewery-shanghai/
-draft: false
+draft: true
 location: Boxing Cat Brewery (拳击猫餐厅)
 city: Shanghai
 region: Shanghai

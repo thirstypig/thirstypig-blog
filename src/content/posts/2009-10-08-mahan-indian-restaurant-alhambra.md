@@ -13,7 +13,7 @@ tags:
 - tandoori
 description: My experience with Indian cuisine started, in of all places, in Hong Kong. I went to 2 places when I was living there. Tandoor Indian Restaurant and Veda – both located in Central were my first ventur
 archiveUrl: https://web.archive.org/web/20161105050425/http://thirstypig.com/2009/10/08/mahan-indian-restaurant-alhambra/
-draft: false
+draft: true
 location: Mahan Indian Restaurant
 city: Alhambra
 region: San Gabriel Valley

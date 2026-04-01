@@ -1,6 +1,7 @@
 import { defineConfig } from "tinacms";
 import LocationLookup from "./LocationLookup";
 import StatsDashboard, { StatsIcon } from "./StatsDashboard";
+import PostManager, { PostManagerIcon } from "./PostManager";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -61,6 +62,15 @@ export default defineConfig({
       name: "Content Stats",
       Component: StatsDashboard,
       Icon: StatsIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Post Manager screen
+    cms.plugins.add({
+      __type: "screen",
+      name: "Post Manager",
+      Component: PostManager,
+      Icon: PostManagerIcon,
       layout: "fullscreen",
     });
 

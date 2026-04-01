@@ -12,7 +12,7 @@ tags:
 - yakitori
 description: On a recent trip to Taipei, I got a chance to visit 樵 きこり Kikori Yakitori Bar. Located in the Da An district of Taipei, Kikori sits on an unassuming little street, with a barely noticeable sign.
 archiveUrl: https://web.archive.org/web/20161104230416/http://thirstypig.com/2011/07/19/kikori-yakitori-bar-%e6%a8%b5-%e3%81%8d%e3%81%93%e3%82%8a-taipei/
-draft: false
+draft: true
 location: Kikori Yakitori Bar 樵 きこり
 city: Taipei
 region: Taipei

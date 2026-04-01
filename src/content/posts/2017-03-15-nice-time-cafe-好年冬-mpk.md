@@ -13,7 +13,7 @@ tags:
 - oyster-omelette
 description: Since 1988 台灣美食給您的感動, translated as Taiwanese food made with Care Yummy Taiwanese favorites like Beef Noodle Soup, Fried Pork Chop on Rice, Three Cup Chicken, and Oyster Omelette Also does family styl
 archiveUrl: https://web.archive.org/web/20170316033629/http://thirstypig.com/2017/03/15/nice-time-cafe-%e5%a5%bd%e5%b9%b4%e5%86%ac-mpk/
-draft: false
+draft: true
 location: Nice Time Cafe 好年冬
 city: Mpk
 region: San Gabriel Valley

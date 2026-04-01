@@ -12,7 +12,7 @@ tags:
 - fried-chicken
 description: Drive-up style restaurant reminiscent of the 1950’s Food is all the same Museum next door at the out door dining area Still sells original fried apple pies Has the old Speedee mascot
 archiveUrl: https://web.archive.org/web/20161231004335/http://thirstypig.com/2016/12/30/oldest-mcdonalds/
-draft: false
+draft: true
 location: Oldest McDonald’s
 region: Orange County
 address: 10207 Lakewood Blvd Downey, CA 90241

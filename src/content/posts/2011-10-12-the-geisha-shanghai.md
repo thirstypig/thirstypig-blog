@@ -13,7 +13,7 @@ tags:
 - bar
 description: Where did the Thirsty Pig go? The Geisha is a Japanese themed restaurant with a dance club and bar lounge in a multilevel space. Situated in the heart of the French Concession of Shanghai 上海法租界, Geish
 archiveUrl: https://web.archive.org/web/20161104193403/http://thirstypig.com/2011/10/12/the-geisha-shanghai/
-draft: false
+draft: true
 location: The PuLi Hotel and Spa (璞丽酒店)
 city: Shanghai
 region: Shanghai

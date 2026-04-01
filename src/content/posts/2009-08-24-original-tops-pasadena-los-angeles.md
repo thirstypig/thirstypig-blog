@@ -13,7 +13,7 @@ tags:
 - burgers
 description: Best Breakfast Burrito . . . Period The potatoes sliced and grilled which provides great texture Humongous amount of fries, onion rings, and zucchini on both the small and large order The chili for th
 archiveUrl: https://web.archive.org/web/20160828011909/http://thirstypig.com/2009/08/24/original-tops-pasadena-los-angeles/
-draft: false
+draft: true
 location: The Original Tops
 city: Pasadena
 region: Pasadena
