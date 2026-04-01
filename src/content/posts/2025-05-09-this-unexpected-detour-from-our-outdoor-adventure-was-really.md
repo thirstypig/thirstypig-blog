@@ -5,7 +5,7 @@ description: 'This unexpected detour from our outdoor adventure was really fun. 
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2025-05-09-this-unexpected-detour-from-our-outdoor-adventure-was-really/18053061137048497.jpg
 categories:
-  - Uncategorized
+  - Travel
 tags: []
 cuisine: []
 location: Olympic Game Farm Inc.
