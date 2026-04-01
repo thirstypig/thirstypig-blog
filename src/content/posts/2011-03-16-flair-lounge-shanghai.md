@@ -11,7 +11,7 @@ tags:
 - cocktails
 description: <-- a2a\config.linkname="Flair Lounge, Shanghai"; a2a\config.linkurl="http://www.thethirstypig.com/2011/03/16/flair-lounge-shanghai/"; a2a.init'page'; //-->
 archiveUrl: https://web.archive.org/web/20111103092350/http://www.thethirstypig.com/2011/03/16/flair-lounge-shanghai/
-draft: false
+draft: true
 location: Le Royal Club Lounge
 city: Shanghai
 region: Shanghai

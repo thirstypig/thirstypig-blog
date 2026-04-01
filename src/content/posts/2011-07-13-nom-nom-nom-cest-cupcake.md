@@ -12,7 +12,7 @@ tags:
 - cupcakes
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20110715015556/http://www.thethirstypig.com:80/2011/07/13/nom-nom-nom-cest-cupcake/
-draft: false
+draft: true
 location: Estado Puro by Paco Rancero
 city: Shanghai
 region: Shanghai

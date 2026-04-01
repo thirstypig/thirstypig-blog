@@ -40,13 +40,27 @@ def parse_frontmatter(filepath):
     return fm, body, content
 
 
+DEAD_DOMAINS = [
+    "thethirstypig.com",
+    "thirstypig.com/wp-content",
+    "www.thethirstypig.com",
+    "www.thirstypig.com/wp-content",
+    "blog.thethirstypig.com",
+    "bp.blogspot.com",  # Google Blogger image CDN — returns 404
+]
+
+
 def image_exists(path):
     """Check if an image path resolves to a file on disk."""
     if not path:
         return False
-    # Skip external URLs
+    # Treat known-dead external URLs as broken
+    for domain in DEAD_DOMAINS:
+        if domain in path:
+            return False
+    # Other external URLs — assume valid (can't verify)
     if path.startswith(("http://", "https://", "data:")):
-        return True  # Can't verify external, assume valid
+        return True
     # Paths in frontmatter are relative to public/
     full = os.path.join(PUBLIC_DIR, path.lstrip("/"))
     return os.path.isfile(full)

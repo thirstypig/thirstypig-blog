@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: When you’re at the new restaurant, and its up to you to order since you are known to be the expect foodie, aside from the heavy pressure, I always try a few of things to make sure our group gets the b
 archiveUrl: https://web.archive.org/web/20120103222642/http://www.thethirstypig.com/2011/11/17/hunan-village-flavor-shanghai/
-draft: false
+draft: true
 location: Guyi Hunan Restaurant (古意湘味浓)
 city: Shanghai
 region: Shanghai

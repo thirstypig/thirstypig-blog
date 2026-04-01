@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: The First Floor Restaurant 老街第一楼, located in the historic Old Street, in the TunXi district of Huangshan city, is arguably the most popular restaurant in town. On a recent trip to see the famed Huangs
 archiveUrl: https://web.archive.org/web/20120116091452/http://www.thethirstypig.com:80/2011/12/08/first-floor-restaurant-huangshan/
-draft: false
+draft: true
 location: First Floor Restaurant 老街第一楼
 city: Beijing
 region: Beijing

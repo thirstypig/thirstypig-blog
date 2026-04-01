@@ -8,7 +8,7 @@ categories:
 - Cocktails
 description: Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten p
 archiveUrl: https://web.archive.org/web/20120116090821/http://www.thethirstypig.com:80/2011/08/25/upstairs-urbn-hotel-shanghai/
-draft: false
+draft: true
 location: URBN Boutique Hotel (雅悦酒店)
 city: Shanghai
 region: Shanghai

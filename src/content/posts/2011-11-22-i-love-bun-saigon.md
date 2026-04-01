@@ -8,7 +8,7 @@ categories:
 - Vietnamese
 description: While I was in Ho Chi Minh city, we stumbled across I Love Bun after shopping at Ben Thanh market. How could you resist a place with the name I Love Bun. The modest place seemed like a typical quick s
 archiveUrl: https://web.archive.org/web/20120116073949/http://www.thethirstypig.com:80/2011/11/22/i-love-bun-saigon/
-draft: false
+draft: true
 location: I Love Bún
 tags:
 - vietnamese

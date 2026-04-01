@@ -12,7 +12,7 @@ tags:
 - fine-dining
 description: Ye Olde Station Restaurant is a unique restaurant which used to be an old french monastrey. Out of towners, kids, and foreigners alike will all enjoy the allure of this historic building with old rail
 archiveUrl: https://web.archive.org/web/20110711045041/http://www.thethirstypig.com:80/2011/07/08/ye-olde-station-restaurant/
-draft: false
+draft: true
 location: Ye Olde Station Restaurant
 city: Shanghai
 region: Shanghai

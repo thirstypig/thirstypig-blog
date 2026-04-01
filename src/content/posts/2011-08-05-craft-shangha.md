@@ -8,7 +8,7 @@ categories:
 - Cocktails
 description: Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singa
 archiveUrl: https://web.archive.org/web/20111018164245/http://www.thethirstypig.com:80/2011/08/05/craft-shangha/
-draft: false
+draft: true
 location: Craft
 city: Shanghai
 region: Shanghai

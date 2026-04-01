@@ -8,7 +8,7 @@ categories:
 - Vietnamese
 description: Goat, I’ve thought, was never that strange of a meat to eat. Its a domesticated animal much like a pig or a cow. Goats aren’t exotic creatures like pangolins, snakes, or even rabbits. But it still doe
 archiveUrl: https://web.archive.org/web/20120116073954/http://www.thethirstypig.com:80/2011/11/24/quan-l%E1%BA%A9u-de-306-saigon/
-draft: false
+draft: true
 location: Quán Lẩu Dê 306
 tags:
 - saigon

@@ -12,7 +12,7 @@ tags:
 - ramen
 description: We’ve been hearing so much about Kin with the different events, that we should also remember that Kin also does food, and pretty good, too. Kin is a boutique that features streetwear and goods, that y
 archiveUrl: https://web.archive.org/web/20110702232723/http://www.thethirstypig.com:80/2011/06/27/slurping-ramen-at-kin/
-draft: false
+draft: true
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai

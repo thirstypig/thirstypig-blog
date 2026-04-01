@@ -10,7 +10,7 @@ tags:
 - seoul
 description: <-- a2a\config.linkname="Seoul&8217;s Collegetown 홍대 Hongdae Hongik University"; a2a\config.linkurl="http://www.thethirstypig.com/2011/01/18/seouls-collegetown-%ed%99%8d%eb%8c%80-hongdae-hongik-univer
 archiveUrl: https://web.archive.org/web/20111103140426/http://www.thethirstypig.com/2011/01/18/seouls-collegetown-%ed%99%8d%eb%8c%80-hongdae-hongik-university/
-draft: false
+draft: true
 location: Seoul Station - KTX/Korail (서울역 KTX/코레일)
 city: Seoul
 region: Seoul

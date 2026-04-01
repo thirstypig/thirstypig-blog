@@ -8,7 +8,7 @@ categories:
 - Cocktails
 description: Marsalis, located in the 3rd floor lobby of the Home Hotelhttp://www.thethirstypig.com/2011/07/22/taipeis-home-hotel/, is a Jazz/Whiskey Lounge. The combination of Jazz and Whiskey offers a refiner ex
 archiveUrl: https://web.archive.org/web/20111104124024/http://www.thethirstypig.com/2011/08/01/marsalis-home-hotel-taipei/
-draft: false
+draft: true
 location: Marsalis @Home Hotel Taipei
 city: Taipei
 region: Taipei

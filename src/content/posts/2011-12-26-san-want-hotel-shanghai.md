@@ -8,7 +8,7 @@ categories:
 - Chinese
 description: The San Want Hotel is a mid-size independent hotel, which a couple of scattered locations in Asia, including Taiwan, Southern China, and Shanghai. I previously had a chance to try their dim sum restau
 archiveUrl: https://web.archive.org/web/20120406122155/http://www.thethirstypig.com:80/2011/12/26/san-want-hotel-shanghai/?share=google-plus-1
-draft: false
+draft: true
 location: San Want Hotel
 city: Shanghai
 region: Shanghai
