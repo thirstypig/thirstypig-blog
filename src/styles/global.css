@@ -109,8 +109,8 @@
 
 /* ─── Dark mode ───────────────────────────────── */
 [data-theme="dark"] {
-	--color-cream: #1A1A1A;
-	--color-cream-dark: #2A2A2A;
+	--color-cream: #2E2E2E;
+	--color-cream-dark: #1F1F1F;
 	--color-ink: #E8E4DF;
 	--color-ink-light: #C8C4BF;
 	--color-amber: #D97706;
