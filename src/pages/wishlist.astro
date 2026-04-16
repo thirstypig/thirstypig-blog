@@ -9,11 +9,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 		<!-- Filters -->
 		<div class="flex flex-wrap gap-3 mb-8">
-			<select id="city-filter" class="px-3 py-2 rounded-lg border border-cream-dark bg-white text-ink text-sm focus:outline-none focus:border-amber">
+			<select id="city-filter" class="px-3 py-2 rounded-lg border border-cream-dark bg-cream text-ink text-sm focus:outline-none focus:border-amber">
 				<option value="">All cities</option>
 			</select>
 			<div id="tag-pills" class="flex flex-wrap gap-2"></div>
-			<button id="clear-filters" class="hidden px-3 py-2 rounded-lg border border-cream-dark bg-white text-stone text-sm hover:text-ink hover:bg-cream-dark/50 transition-colors">
+			<button id="clear-filters" class="hidden px-3 py-2 rounded-lg border border-cream-dark bg-cream text-stone text-sm hover:text-ink hover:bg-cream-dark/50 transition-colors">
 				Clear filters
 			</button>
 		</div>
@@ -114,7 +114,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			.join('');
 
 		return `
-			<div class="bg-white rounded-xl border border-cream-dark p-5 hover:shadow-md transition-shadow">
+			<div class="bg-cream-dark/40 rounded-xl border border-cream-dark p-5 hover:shadow-md transition-shadow">
 				<div class="flex items-start justify-between mb-1">
 					<h3 class="font-serif text-lg font-semibold text-ink leading-snug">${esc(item.name)}</h3>
 					${badge ? `<span class="shrink-0 ml-2 text-xs font-medium px-2 py-0.5 rounded-full ${item.priority === 1 ? 'bg-amber/10 text-amber' : 'bg-cream-dark text-stone'}">${badge}</span>` : ''}
