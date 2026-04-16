@@ -10,6 +10,7 @@ const REPO_NAME = "thirstypig-blog";
 const FILE_PATH = "src/data/places-hitlist.yaml";
 const TOKEN_KEY = "hitlist-github-pat";
 
+// Shape used when serializing to YAML (matches on-disk format)
 interface HitListEntry {
   id: string;
   name: string;
@@ -19,6 +20,19 @@ interface HitListEntry {
   date_added: string;
   notes?: string;
   links: Record<string, string | null>;
+  tags: string[];
+}
+
+// Shape returned by /places-hitlist.json (camelCase, no null link values)
+interface HitListDisplayItem {
+  id: string;
+  name: string;
+  neighborhood: string;
+  city: string;
+  priority: number;
+  dateAdded: string;
+  notes: string;
+  links: Record<string, string>;
   tags: string[];
 }
 
@@ -82,8 +96,8 @@ const s = {
     letterSpacing: "0.04em",
     marginBottom: 16,
   } as React.CSSProperties,
-  row: { display: "flex", gap: 12, marginBottom: 12 } as React.CSSProperties,
-  field: { flex: 1, display: "flex", flexDirection: "column" as const } as React.CSSProperties,
+  row: { display: "flex", gap: 12, marginBottom: 12, flexWrap: "wrap" as const } as React.CSSProperties,
+  field: { flex: "1 1 200px", minWidth: 160, display: "flex", flexDirection: "column" as const } as React.CSSProperties,
   label: { fontSize: 12, fontWeight: 500, color: "#6b7280", marginBottom: 4 } as React.CSSProperties,
   input: {
     padding: "8px 10px",
@@ -241,7 +255,7 @@ async function githubPut(token: string, newContent: string, sha: string, message
 }
 
 export default function HitListManager() {
-  const [items, setItems] = useState<HitListEntry[]>([]);
+  const [items, setItems] = useState<HitListDisplayItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [form, setForm] = useState<FormState>(emptyForm);
   const [submitting, setSubmitting] = useState(false);
@@ -256,6 +270,13 @@ export default function HitListManager() {
     else setShowTokenForm(true);
     loadList();
   }, []);
+
+  // Auto-dismiss success messages after 8 seconds
+  useEffect(() => {
+    if (message?.type !== "success") return;
+    const t = setTimeout(() => setMessage(null), 8000);
+    return () => clearTimeout(t);
+  }, [message]);
 
   async function loadList() {
     setLoading(true);
@@ -317,12 +338,27 @@ export default function HitListManager() {
 
       await githubPut(token, yaml, sha, commitMsg);
 
+      // Optimistically show the new entry in the table (JSON endpoint won't update until rebuild)
+      const displayItem: HitListDisplayItem = {
+        id: newEntry.id,
+        name: newEntry.name,
+        neighborhood: newEntry.neighborhood || "",
+        city: newEntry.city,
+        priority: newEntry.priority,
+        dateAdded: newEntry.date_added,
+        notes: newEntry.notes || "",
+        links: Object.fromEntries(
+          Object.entries(newEntry.links).filter(([, v]) => v != null) as [string, string][]
+        ),
+        tags: newEntry.tags,
+      };
+      setItems(prev => [...prev, displayItem]);
+
       setMessage({
         type: "success",
         text: `Saved "${newEntry.name}" to hit list. Vercel is rebuilding now — it will appear on /hitlist in about a minute.`,
       });
       setForm(emptyForm);
-      setTimeout(loadList, 3000);
     } catch (e) {
       setMessage({ type: "error", text: `Failed to save: ${(e as Error).message}` });
     } finally {
@@ -572,7 +608,7 @@ export default function HitListManager() {
                       {item.priority === 1 ? "Must Try" : item.priority === 3 ? "Curious" : "Want to Try"}
                     </span>
                   </td>
-                  <td style={s.td}>{(item as any).dateAdded || item.date_added}</td>
+                  <td style={s.td}>{item.dateAdded}</td>
                   <td style={s.td}>{item.tags.join(", ")}</td>
                 </tr>
               ))}
