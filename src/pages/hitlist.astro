@@ -2,10 +2,10 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Wishlist" description="Restaurants and places I want to try, and the ones I've been to.">
+<BaseLayout title="Hit List" description="Restaurants and places I want to try.">
 	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Places</h1>
-		<p class="text-stone mb-6">Restaurants I want to try and places I've been.</p>
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Hit List</h1>
+		<p class="text-stone mb-6">Restaurants and places I want to try.</p>
 
 		<!-- Filters -->
 		<div class="flex flex-wrap gap-3 mb-8">
@@ -18,22 +18,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			</button>
 		</div>
 
-		<!-- Want to Try -->
-		<div id="to-visit-section">
+		<!-- Hit list -->
+		<div>
 			<h2 class="font-serif text-2xl font-bold text-ink mb-4 flex items-center gap-2">
-				Want to Try
-				<span id="to-visit-count" class="text-sm font-sans font-normal text-stone"></span>
+				<span id="hitlist-count" class="text-sm font-sans font-normal text-stone"></span>
 			</h2>
-			<div id="to-visit-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12"></div>
-		</div>
-
-		<!-- Been There -->
-		<div id="visited-section">
-			<h2 class="font-serif text-2xl font-bold text-ink mb-4 flex items-center gap-2">
-				Been There
-				<span id="visited-count" class="text-sm font-sans font-normal text-stone"></span>
-			</h2>
-			<div id="visited-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+			<div id="hitlist-cards" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
 		</div>
 
 		<!-- Empty state -->
@@ -50,27 +40,23 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <script>
-	interface WishlistItem {
+	interface HitListItem {
 		id: string;
 		name: string;
 		neighborhood: string;
 		city: string;
-		visited: boolean;
 		priority: number;
 		dateAdded: string;
-		dateVisited: string | null;
 		notes: string;
 		links: Record<string, string>;
-		posts: Array<{ slug: string; title: string; url: string }>;
 		tags: string[];
 	}
 
-	interface WishlistData {
-		toVisit: WishlistItem[];
-		visited: WishlistItem[];
+	interface HitListData {
+		items: HitListItem[];
 	}
 
-	let data: WishlistData | null = null;
+	let data: HitListData | null = null;
 	let activeCity = '';
 	let activeTag = '';
 
@@ -95,7 +81,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		return '';
 	}
 
-	function renderCard(item: WishlistItem): string {
+	function renderCard(item: HitListItem): string {
 		const links = Object.entries(item.links)
 			.filter(([, url]) => url)
 			.map(([key, url]) => {
@@ -103,10 +89,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 				return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="text-amber hover:text-rust transition-colors">${esc(label)}</a>`;
 			})
 			.join('<span class="text-stone-light mx-1">·</span>');
-
-		const postLinks = item.posts
-			.map(p => `<a href="${esc(p.url)}" class="text-amber hover:text-rust transition-colors no-underline">${esc(p.title)}</a>`)
-			.join('');
 
 		const badge = priorityLabel(item.priority);
 		const tags = item.tags
@@ -121,8 +103,6 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 				</div>
 				<p class="text-sm text-stone mb-2">${esc(item.neighborhood ? `${item.neighborhood}, ${item.city}` : item.city)}</p>
 				${item.notes ? `<p class="text-sm text-ink-light mb-3">${esc(item.notes)}</p>` : ''}
-				${item.visited && item.dateVisited ? `<p class="text-xs text-stone mb-2">Visited ${esc(item.dateVisited)}</p>` : ''}
-				${postLinks ? `<div class="text-sm mb-3">${postLinks}</div>` : ''}
 				${links ? `<div class="text-xs flex flex-wrap items-center gap-0 mb-2">${links}</div>` : ''}
 				${tags ? `<div class="flex flex-wrap gap-1.5 mt-2">${tags}</div>` : ''}
 			</div>
@@ -132,35 +112,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 	function render() {
 		if (!data) return;
 
-		let toVisit = data.toVisit;
-		let visited = data.visited;
+		let items = data.items;
 
-		if (activeCity) {
-			toVisit = toVisit.filter(i => i.city === activeCity);
-			visited = visited.filter(i => i.city === activeCity);
-		}
-		if (activeTag) {
-			toVisit = toVisit.filter(i => i.tags.includes(activeTag));
-			visited = visited.filter(i => i.tags.includes(activeTag));
-		}
+		if (activeCity) items = items.filter(i => i.city === activeCity);
+		if (activeTag) items = items.filter(i => i.tags.includes(activeTag));
 
-		const toVisitEl = document.getElementById('to-visit-list')!;
-		const visitedEl = document.getElementById('visited-list')!;
-		const toVisitSection = document.getElementById('to-visit-section')!;
-		const visitedSection = document.getElementById('visited-section')!;
+		const cardsEl = document.getElementById('hitlist-cards')!;
+		const countEl = document.getElementById('hitlist-count')!;
 		const emptyState = document.getElementById('empty-state')!;
-		const toVisitCount = document.getElementById('to-visit-count')!;
-		const visitedCount = document.getElementById('visited-count')!;
 
-		toVisitEl.innerHTML = toVisit.map(renderCard).join('');
-		visitedEl.innerHTML = visited.map(renderCard).join('');
+		cardsEl.innerHTML = items.map(renderCard).join('');
+		countEl.textContent = `${items.length} ${items.length === 1 ? 'place' : 'places'}`;
 
-		toVisitCount.textContent = toVisit.length ? `(${toVisit.length})` : '';
-		visitedCount.textContent = visited.length ? `(${visited.length})` : '';
-
-		toVisitSection.classList.toggle('hidden', toVisit.length === 0);
-		visitedSection.classList.toggle('hidden', visited.length === 0);
-		emptyState.classList.toggle('hidden', toVisit.length > 0 || visited.length > 0);
+		emptyState.classList.toggle('hidden', items.length > 0);
+		cardsEl.classList.toggle('hidden', items.length === 0);
 
 		const clearBtn = document.getElementById('clear-filters')!;
 		clearBtn.classList.toggle('hidden', !activeCity && !activeTag);
@@ -169,9 +134,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 	function buildFilters() {
 		if (!data) return;
 
-		const allItems = [...data.toVisit, ...data.visited];
-		const cities = [...new Set(allItems.map(i => i.city))].sort();
-		const tags = [...new Set(allItems.flatMap(i => i.tags))].sort();
+		const cities = [...new Set(data.items.map(i => i.city))].sort();
+		const tags = [...new Set(data.items.flatMap(i => i.tags))].sort();
 
 		const citySelect = document.getElementById('city-filter') as HTMLSelectElement;
 		cities.forEach(c => {
@@ -208,7 +172,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 	async function init() {
 		try {
-			const resp = await fetch('/places-wishlist.json');
+			const resp = await fetch('/places-hitlist.json');
 			if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
 			data = await resp.json();
 
@@ -225,7 +189,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			document.getElementById('clear-filters')!.addEventListener('click', clearFilters);
 			document.getElementById('empty-clear')!.addEventListener('click', clearFilters);
 		} catch {
-			document.getElementById('loading')!.innerHTML = '<p class="text-stone">Could not load wishlist data.</p>';
+			document.getElementById('loading')!.innerHTML = '<p class="text-stone">Could not load hit list data.</p>';
 		}
 	}
 
