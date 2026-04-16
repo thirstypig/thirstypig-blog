@@ -9,8 +9,8 @@
 @import "@fontsource/playfair-display/700.css";
 
 @theme {
-	--color-cream: #FAF7F2;
-	--color-cream-dark: #F0EBE3;
+	--color-cream: #F5EFE3;
+	--color-cream-dark: #E9DFC9;
 	--color-ink: #1A1A1A;
 	--color-ink-light: #374151;
 	--color-amber: #B45309;
@@ -109,8 +109,8 @@
 
 /* ─── Dark mode ───────────────────────────────── */
 [data-theme="dark"] {
-	--color-cream: #2E2E2E;
-	--color-cream-dark: #1F1F1F;
+	--color-cream: #3A3A3A;
+	--color-cream-dark: #282828;
 	--color-ink: #E8E4DF;
 	--color-ink-light: #C8C4BF;
 	--color-amber: #D97706;
