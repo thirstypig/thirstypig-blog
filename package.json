@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
-    "validate:hitlist": "node --input-type=module -e \"import{readFileSync}from'fs';import{parse}from'yaml';parse(readFileSync('src/data/places-hitlist.yaml','utf8'));console.log('Hit List YAML valid')\"",
+    "validate:hitlist": "node scripts/validate_hitlist.mjs",
     "build": "npm run validate:hitlist && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
     "preview": "astro preview",
     "astro": "astro"

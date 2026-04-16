@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { parseDocument, visit, isScalar, isSeq, Scalar, YAMLSeq } from "yaml";
 
 export const HitListIcon = () => (
@@ -239,7 +239,10 @@ async function githubGet(token: string) {
     `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
     { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } }
   );
-  if (!resp.ok) throw new Error(`GitHub GET failed: ${resp.status} ${await resp.text()}`);
+  // Avoid interpolating resp.text() into the error — it surfaces in the UI and,
+  // while GitHub doesn't echo the Authorization header today, a response body
+  // is a fragile place to guard token leaks. resp.statusText is predictable.
+  if (!resp.ok) throw new Error(`GitHub GET failed: ${resp.status} ${resp.statusText}`);
   const data = await resp.json();
   return { content: base64ToUtf8(data.content), sha: data.sha as string };
 }
@@ -266,7 +269,7 @@ async function githubPut(token: string, newContent: string, sha: string, message
       body: JSON.stringify({ message, content: b64, sha }),
     }
   );
-  if (!resp.ok) throw new Error(`GitHub PUT failed: ${resp.status} ${await resp.text()}`);
+  if (!resp.ok) throw new Error(`GitHub PUT failed: ${resp.status} ${resp.statusText}`);
 }
 
 export default function HitListManager() {
@@ -279,11 +282,21 @@ export default function HitListManager() {
   const [tokenInput, setTokenInput] = useState("");
   const [showTokenForm, setShowTokenForm] = useState(false);
 
+  // Holds the pending "is the new entry live yet?" check. We keep the id so we
+  // can ignore stale results if the user submits another entry before the
+  // Vercel rebuild completes, and the timer so unmount cleans up.
+  const liveCheckRef = useRef<{ id: string; timer: ReturnType<typeof setTimeout> } | null>(null);
+
   useEffect(() => {
-    const saved = localStorage.getItem(TOKEN_KEY);
+    // sessionStorage (not localStorage) so the PAT dies when the tab closes,
+    // narrowing the blast radius of any XSS on /admin.
+    const saved = sessionStorage.getItem(TOKEN_KEY);
     if (saved) setToken(saved);
     else setShowTokenForm(true);
     loadList();
+    return () => {
+      if (liveCheckRef.current?.timer) clearTimeout(liveCheckRef.current.timer);
+    };
   }, []);
 
   // Auto-dismiss success messages after 8 seconds
@@ -309,17 +322,47 @@ export default function HitListManager() {
 
   function saveToken() {
     if (!tokenInput.trim()) return;
-    localStorage.setItem(TOKEN_KEY, tokenInput.trim());
+    sessionStorage.setItem(TOKEN_KEY, tokenInput.trim());
     setToken(tokenInput.trim());
     setTokenInput("");
     setShowTokenForm(false);
-    setMessage({ type: "success", text: "Token saved. You can now add places to your hit list." });
+    setMessage({ type: "success", text: "Token saved for this session. You can now add places to your hit list." });
   }
 
   function clearToken() {
-    localStorage.removeItem(TOKEN_KEY);
+    sessionStorage.removeItem(TOKEN_KEY);
     setToken("");
     setShowTokenForm(true);
+  }
+
+  // After a successful commit, wait past Vercel's typical rebuild window and
+  // re-fetch /places-hitlist.json (with cache-buster). Confirming the new id
+  // is live upgrades the banner to success; if it's missing after the wait,
+  // point the user at the Vercel dashboard instead of leaving them guessing.
+  function scheduleLiveCheck(id: string, name: string) {
+    if (liveCheckRef.current?.timer) clearTimeout(liveCheckRef.current.timer);
+    const timer = setTimeout(async () => {
+      if (liveCheckRef.current?.id !== id) return;
+      try {
+        const resp = await fetch(`/places-hitlist.json?_=${Date.now()}`);
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const data = await resp.json();
+        const live = Array.isArray(data.items) && data.items.some((i: { id?: unknown }) => i?.id === id);
+        if (liveCheckRef.current?.id !== id) return;
+        setMessage(
+          live
+            ? { type: "success", text: `✓ "${name}" is now live on /hitlist.` }
+            : { type: "info", text: `Saved "${name}" but not yet live — check the Vercel dashboard if it doesn't appear soon.` }
+        );
+      } catch (e) {
+        if (liveCheckRef.current?.id !== id) return;
+        setMessage({
+          type: "info",
+          text: `Saved "${name}". Could not confirm live status (${(e as Error).message}).`,
+        });
+      }
+    }, 75_000);
+    liveCheckRef.current = { id, timer };
   }
 
   function updateForm<K extends keyof FormState>(key: K, value: FormState[K]) {
@@ -359,17 +402,19 @@ export default function HitListManager() {
       const newEntry = formToEntry(form, existingIds);
       // Collection.add accepts an unknown value at runtime and wraps it via the
       // document's schema. The Parsed<> type narrows add()'s signature, so widen
-      // to YAMLSeq to let TS accept a plain JS object here.
+      // to YAMLSeq to let TS accept a plain JS object here. (doc.createNode()
+      // doesn't help — it returns Node, not ParsedNode, so the cast is still
+      // required. The cast is the cleanest path through yaml v2's types.)
       (doc.contents as YAMLSeq).add(newEntry);
 
-      // Force every date_added scalar to be double-quoted. Plain ISO dates
-      // like 2026-04-16 get auto-tagged as !!timestamp on the next parse,
-      // which Astro's z.string() schema rejects. (Applied to existing
-      // entries too, so one bad write doesn't poison the whole file.)
+      // Force every date_added scalar to be double-quoted. Astro's file() loader
+      // uses js-yaml, which parses bare ISO dates as !!timestamp → JS Date and
+      // then fails the z.string() schema. Visiting every pair (not just the new
+      // one) also repairs any poisoned pre-existing entries.
       visit(doc, {
         Pair(_key, pair) {
-          const k = isScalar(pair.key) ? pair.key.value : pair.key;
-          if (k === "date_added" && isScalar(pair.value)) {
+          const key = isScalar(pair.key) ? pair.key.value : null;
+          if (key === "date_added" && isScalar(pair.value)) {
             pair.value.type = Scalar.QUOTE_DOUBLE;
           }
         },
@@ -397,10 +442,11 @@ export default function HitListManager() {
       setItems(prev => [...prev, displayItem]);
 
       setMessage({
-        type: "success",
-        text: `Saved "${newEntry.name}" to hit list. Vercel is rebuilding now — it will appear on /hitlist in about a minute.`,
+        type: "info",
+        text: `Saved "${newEntry.name}" to GitHub. Vercel is rebuilding — checking if it's live in ~75s…`,
       });
       setForm(emptyForm);
+      scheduleLiveCheck(newEntry.id, newEntry.name);
     } catch (e) {
       setMessage({ type: "error", text: `Failed to save: ${(e as Error).message}` });
     } finally {
@@ -428,7 +474,7 @@ export default function HitListManager() {
           <div style={s.cardTitle}>GitHub Token Required</div>
           <p style={s.helpText}>
             To commit new entries, paste a GitHub fine-grained personal access token below.
-            The token is stored in your browser's localStorage (only on this device).
+            The token is stored in your browser's sessionStorage and is cleared when you close this tab.
           </p>
           <p style={s.helpText}>
             Create one at:{" "}
