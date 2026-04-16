@@ -1,0 +1,241 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Wishlist" description="Restaurants and places I want to try, and the ones I've been to.">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Places</h1>
+		<p class="text-stone mb-6">Restaurants I want to try and places I've been.</p>
+
+		<!-- Filters -->
+		<div class="flex flex-wrap gap-3 mb-8">
+			<select id="city-filter" class="px-3 py-2 rounded-lg border border-cream-dark bg-white text-ink text-sm focus:outline-none focus:border-amber">
+				<option value="">All cities</option>
+			</select>
+			<div id="tag-pills" class="flex flex-wrap gap-2"></div>
+			<button id="clear-filters" class="hidden px-3 py-2 rounded-lg border border-cream-dark bg-white text-stone text-sm hover:text-ink hover:bg-cream-dark/50 transition-colors">
+				Clear filters
+			</button>
+		</div>
+
+		<!-- Want to Try -->
+		<div id="to-visit-section">
+			<h2 class="font-serif text-2xl font-bold text-ink mb-4 flex items-center gap-2">
+				Want to Try
+				<span id="to-visit-count" class="text-sm font-sans font-normal text-stone"></span>
+			</h2>
+			<div id="to-visit-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-12"></div>
+		</div>
+
+		<!-- Been There -->
+		<div id="visited-section">
+			<h2 class="font-serif text-2xl font-bold text-ink mb-4 flex items-center gap-2">
+				Been There
+				<span id="visited-count" class="text-sm font-sans font-normal text-stone"></span>
+			</h2>
+			<div id="visited-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+		</div>
+
+		<!-- Empty state -->
+		<div id="empty-state" class="hidden text-center py-12">
+			<p class="text-stone text-lg">No places match your filters.</p>
+			<button id="empty-clear" class="mt-3 text-amber hover:text-rust transition-colors text-sm">Clear filters</button>
+		</div>
+
+		<!-- Loading -->
+		<div id="loading" class="text-center py-12">
+			<p class="text-stone">Loading places...</p>
+		</div>
+	</section>
+</BaseLayout>
+
+<script>
+	interface WishlistItem {
+		id: string;
+		name: string;
+		neighborhood: string;
+		city: string;
+		visited: boolean;
+		priority: number;
+		dateAdded: string;
+		dateVisited: string | null;
+		notes: string;
+		links: Record<string, string>;
+		posts: Array<{ slug: string; title: string; url: string }>;
+		tags: string[];
+	}
+
+	interface WishlistData {
+		toVisit: WishlistItem[];
+		visited: WishlistItem[];
+	}
+
+	let data: WishlistData | null = null;
+	let activeCity = '';
+	let activeTag = '';
+
+	const linkLabels: Record<string, string> = {
+		yelp: 'Yelp',
+		google: 'Map',
+		instagram: 'IG',
+		resy: 'Resy',
+		opentable: 'OpenTable',
+		website: 'Web',
+	};
+
+	function esc(s: string): string {
+		const d = document.createElement('div');
+		d.textContent = s;
+		return d.innerHTML;
+	}
+
+	function priorityLabel(p: number): string {
+		if (p === 1) return 'Must Try';
+		if (p === 3) return 'Curious';
+		return '';
+	}
+
+	function renderCard(item: WishlistItem): string {
+		const links = Object.entries(item.links)
+			.filter(([, url]) => url)
+			.map(([key, url]) => {
+				const label = linkLabels[key] || key.charAt(0).toUpperCase() + key.slice(1);
+				return `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer" class="text-amber hover:text-rust transition-colors">${esc(label)}</a>`;
+			})
+			.join('<span class="text-stone-light mx-1">·</span>');
+
+		const postLinks = item.posts
+			.map(p => `<a href="${esc(p.url)}" class="text-amber hover:text-rust transition-colors no-underline">${esc(p.title)}</a>`)
+			.join('');
+
+		const badge = priorityLabel(item.priority);
+		const tags = item.tags
+			.map(t => `<span class="text-xs text-stone bg-cream-dark px-2 py-0.5 rounded-full">${esc(t)}</span>`)
+			.join('');
+
+		return `
+			<div class="bg-white rounded-xl border border-cream-dark p-5 hover:shadow-md transition-shadow">
+				<div class="flex items-start justify-between mb-1">
+					<h3 class="font-serif text-lg font-semibold text-ink leading-snug">${esc(item.name)}</h3>
+					${badge ? `<span class="shrink-0 ml-2 text-xs font-medium px-2 py-0.5 rounded-full ${item.priority === 1 ? 'bg-amber/10 text-amber' : 'bg-cream-dark text-stone'}">${badge}</span>` : ''}
+				</div>
+				<p class="text-sm text-stone mb-2">${esc(item.neighborhood ? `${item.neighborhood}, ${item.city}` : item.city)}</p>
+				${item.notes ? `<p class="text-sm text-ink-light mb-3">${esc(item.notes)}</p>` : ''}
+				${item.visited && item.dateVisited ? `<p class="text-xs text-stone mb-2">Visited ${esc(item.dateVisited)}</p>` : ''}
+				${postLinks ? `<div class="text-sm mb-3">${postLinks}</div>` : ''}
+				${links ? `<div class="text-xs flex flex-wrap items-center gap-0 mb-2">${links}</div>` : ''}
+				${tags ? `<div class="flex flex-wrap gap-1.5 mt-2">${tags}</div>` : ''}
+			</div>
+		`;
+	}
+
+	function render() {
+		if (!data) return;
+
+		let toVisit = data.toVisit;
+		let visited = data.visited;
+
+		if (activeCity) {
+			toVisit = toVisit.filter(i => i.city === activeCity);
+			visited = visited.filter(i => i.city === activeCity);
+		}
+		if (activeTag) {
+			toVisit = toVisit.filter(i => i.tags.includes(activeTag));
+			visited = visited.filter(i => i.tags.includes(activeTag));
+		}
+
+		const toVisitEl = document.getElementById('to-visit-list')!;
+		const visitedEl = document.getElementById('visited-list')!;
+		const toVisitSection = document.getElementById('to-visit-section')!;
+		const visitedSection = document.getElementById('visited-section')!;
+		const emptyState = document.getElementById('empty-state')!;
+		const toVisitCount = document.getElementById('to-visit-count')!;
+		const visitedCount = document.getElementById('visited-count')!;
+
+		toVisitEl.innerHTML = toVisit.map(renderCard).join('');
+		visitedEl.innerHTML = visited.map(renderCard).join('');
+
+		toVisitCount.textContent = toVisit.length ? `(${toVisit.length})` : '';
+		visitedCount.textContent = visited.length ? `(${visited.length})` : '';
+
+		toVisitSection.classList.toggle('hidden', toVisit.length === 0);
+		visitedSection.classList.toggle('hidden', visited.length === 0);
+		emptyState.classList.toggle('hidden', toVisit.length > 0 || visited.length > 0);
+
+		const clearBtn = document.getElementById('clear-filters')!;
+		clearBtn.classList.toggle('hidden', !activeCity && !activeTag);
+	}
+
+	function buildFilters() {
+		if (!data) return;
+
+		const allItems = [...data.toVisit, ...data.visited];
+		const cities = [...new Set(allItems.map(i => i.city))].sort();
+		const tags = [...new Set(allItems.flatMap(i => i.tags))].sort();
+
+		const citySelect = document.getElementById('city-filter') as HTMLSelectElement;
+		cities.forEach(c => {
+			const opt = document.createElement('option');
+			opt.value = c;
+			opt.textContent = c;
+			citySelect.appendChild(opt);
+		});
+
+		const tagContainer = document.getElementById('tag-pills')!;
+		tags.forEach(t => {
+			const btn = document.createElement('button');
+			btn.textContent = t;
+			btn.className = 'text-xs px-3 py-1.5 rounded-full border border-cream-dark text-stone hover:text-ink hover:bg-cream-dark/50 transition-colors';
+			btn.dataset.tag = t;
+			btn.addEventListener('click', () => {
+				activeTag = activeTag === t ? '' : t;
+				updateTagStyles();
+				render();
+			});
+			tagContainer.appendChild(btn);
+		});
+	}
+
+	function updateTagStyles() {
+		const buttons = document.querySelectorAll('#tag-pills button') as NodeListOf<HTMLButtonElement>;
+		buttons.forEach(btn => {
+			const isActive = btn.dataset.tag === activeTag;
+			btn.className = isActive
+				? 'text-xs px-3 py-1.5 rounded-full border border-amber bg-amber/10 text-amber font-medium transition-colors'
+				: 'text-xs px-3 py-1.5 rounded-full border border-cream-dark text-stone hover:text-ink hover:bg-cream-dark/50 transition-colors';
+		});
+	}
+
+	async function init() {
+		try {
+			const resp = await fetch('/places-wishlist.json');
+			if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+			data = await resp.json();
+
+			document.getElementById('loading')!.classList.add('hidden');
+
+			buildFilters();
+			render();
+
+			document.getElementById('city-filter')!.addEventListener('change', (e) => {
+				activeCity = (e.target as HTMLSelectElement).value;
+				render();
+			});
+
+			document.getElementById('clear-filters')!.addEventListener('click', clearFilters);
+			document.getElementById('empty-clear')!.addEventListener('click', clearFilters);
+		} catch {
+			document.getElementById('loading')!.innerHTML = '<p class="text-stone">Could not load wishlist data.</p>';
+		}
+	}
+
+	function clearFilters() {
+		activeCity = '';
+		activeTag = '';
+		(document.getElementById('city-filter') as HTMLSelectElement).value = '';
+		updateTagStyles();
+		render();
+	}
+
+	init();
+</script>

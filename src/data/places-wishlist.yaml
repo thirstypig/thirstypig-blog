@@ -1,0 +1,178 @@
+- id: miopane
+  name: Miopane
+  neighborhood: Old Town
+  city: Pasadena
+  visited: false
+  priority: 1
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Taiwanese bakery, Roman-style pizza, cream cheese-filled bagels"
+  links:
+    yelp: "https://www.yelp.com/biz/miopane-pasadena"
+    google: "https://maps.google.com/maps?q=Miopane+Pasadena+CA"
+    instagram: "https://www.instagram.com/miopaneusa/"
+    website: "https://miopaneusa.com/"
+  thirstypig_posts: []
+  tags:
+    - bakery
+    - taiwanese
+    - pastries
+
+- id: perse
+  name: Persé
+  neighborhood: Brentwood
+  city: Los Angeles
+  visited: false
+  priority: 1
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Refined Persian cuisine, fine dining, 11677 San Vicente Blvd"
+  links:
+    yelp: "https://www.yelp.com/biz/perse-restaurant-los-angeles"
+    google: "https://maps.google.com/maps?q=Perse+Restaurant+San+Vicente+Los+Angeles"
+    instagram: "https://www.instagram.com/perse.losangeles/"
+    opentable: "https://www.opentable.com/r/perse-restaurant-los-angeles"
+    website: "https://perserestaurant.com/"
+  thirstypig_posts: []
+  tags:
+    - persian
+    - fine-dining
+
+- id: badmaash-venice
+  name: Badmaash
+  neighborhood: Venice
+  city: Los Angeles
+  visited: false
+  priority: 2
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Modern Indian, Abbot Kinney, chicken tikka poutine"
+  links:
+    yelp: "https://www.yelp.com/biz/badmaash-los-angeles-5"
+    google: "https://maps.google.com/maps?q=Badmaash+Venice+Los+Angeles"
+    instagram: "https://www.instagram.com/badmaashla/"
+    opentable: "https://www.opentable.com/r/badmaash-venice1-los-angeles"
+    website: "https://badmaashla.com/"
+  thirstypig_posts: []
+  tags:
+    - indian
+    - modern
+
+- id: little-fish
+  name: Little Fish
+  neighborhood: Melrose Hill
+  city: Los Angeles
+  visited: false
+  priority: 1
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Michelin Bib Gourmand, seasonal sustainably sourced seafood, walk-ins welcome"
+  links:
+    yelp: "https://www.yelp.com/biz/little-fish-melrose-hill-los-angeles-2"
+    google: "https://maps.google.com/maps?q=Little+Fish+Melrose+Hill+Los+Angeles"
+    instagram: "https://www.instagram.com/littlefish_melrosehill/"
+    resy: "https://resy.com/cities/los-angeles-ca/venues/little-fish-melrose-hill"
+    website: "https://littlefishla.com/"
+  thirstypig_posts: []
+  tags:
+    - seafood
+    - californian
+    - michelin
+
+- id: el-moro
+  name: Churrería El Moro
+  neighborhood: Echo Park
+  city: Los Angeles
+  visited: false
+  priority: 2
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Mexico City's iconic churrería since 1935, churros, champurrado, al pastor tortas"
+  links:
+    yelp: "https://www.yelp.com/biz/el-moro-los-angeles"
+    google: "https://maps.google.com/maps?q=El+Moro+Echo+Park+Los+Angeles"
+    instagram: "https://www.instagram.com/elmoro_usa/"
+    website: "https://elmoro.mx/en/"
+  thirstypig_posts: []
+  tags:
+    - mexican
+    - churros
+    - dessert
+
+- id: chubby-mart
+  name: Chubby Mart
+  neighborhood: Rowland Heights
+  city: Rowland Heights
+  visited: false
+  priority: 2
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "KBBQ, shabu, hot pot, live seafood counter, wagyu butcher, self-serve concept"
+  links:
+    yelp: "https://www.yelp.com/biz/chubby-mart-rowland-heights-3"
+    google: "https://maps.google.com/maps?q=Chubby+Mart+Rowland+Heights"
+    instagram: "https://www.instagram.com/chubbymartca/"
+  thirstypig_posts: []
+  tags:
+    - korean
+    - kbbq
+    - hot-pot
+
+- id: mountain-house
+  name: Szechuan Mountain House
+  neighborhood: Rowland Heights
+  city: Rowland Heights
+  visited: false
+  priority: 1
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "川山甲, ancient Chinese garden decor, koi ponds, NYT Top 100 Restaurant"
+  links:
+    yelp: "https://www.yelp.com/biz/mountain-house-rowland-heights"
+    google: "https://maps.google.com/maps?q=Mountain+House+18888+Labin+Ct+Rowland+Heights"
+    instagram: "https://www.instagram.com/mountainhouse.usa/"
+  thirstypig_posts: []
+  tags:
+    - chinese
+    - szechuan
+    - sgv
+
+- id: white-rabbit
+  name: White Rabbit Sky Lounge
+  neighborhood: West Hollywood
+  city: Los Angeles
+  visited: false
+  priority: 3
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "Rooftop at The Valorian (formerly Mondrian/SkyBar), Sunset Strip, cocktails"
+  links:
+    yelp: "https://www.yelp.com/biz/skybar-west-hollywood"
+    google: "https://maps.google.com/maps?q=White+Rabbit+Sky+Lounge+Valorian+West+Hollywood"
+    instagram: "https://www.instagram.com/whiterabbit_la/"
+    website: "https://www.valorianhotel.com/dine-drinks/white-rabbit"
+  thirstypig_posts: []
+  tags:
+    - bar
+    - rooftop
+    - cocktails
+
+- id: calic-bagel
+  name: Calic Bagel
+  neighborhood: Koreatown
+  city: Los Angeles
+  visited: false
+  priority: 2
+  date_added: "2026-04-15"
+  date_visited: null
+  notes: "LA-style stuffed bagels, Tangzhong technique, went viral, 107K IG followers"
+  links:
+    yelp: "https://www.yelp.com/biz/calic-bagel-los-angeles"
+    google: "https://maps.google.com/maps?q=Calic+Bagel+Los+Angeles"
+    instagram: "https://www.instagram.com/calicbagel/"
+    website: "https://www.calicbagel.com/"
+  thirstypig_posts: []
+  tags:
+    - bagels
+    - bakery
+    - korean

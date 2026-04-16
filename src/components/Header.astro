@@ -67,6 +67,15 @@ const pathname = Astro.url.pathname;
 					Map
 				</a>
 				<a
+					href="/wishlist"
+					class:list={[
+						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
+						pathname === '/wishlist' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+					]}
+				>
+					Wishlist
+				</a>
+				<a
 					href="/about"
 					class:list={[
 						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
@@ -113,6 +122,7 @@ const pathname = Astro.url.pathname;
 				<a href="/categories" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Categories</a>
 				<a href="/search" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Search</a>
 				<a href="/map" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Map</a>
+				<a href="/wishlist" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Wishlist</a>
 				<a href="/about" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">About</a>
 			</div>
 		</div>
