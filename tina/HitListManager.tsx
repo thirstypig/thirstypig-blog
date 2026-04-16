@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { parse, stringify } from "yaml";
+import { parseDocument, visit, isScalar, isSeq, Scalar, YAMLSeq } from "yaml";
 
 export const HitListIcon = () => (
   <span style={{ fontSize: 16, lineHeight: 1 }}>&#x1F3AF;</span>
@@ -226,6 +226,14 @@ function formToEntry(form: FormState, existingIds: Set<string>): HitListEntry {
   return entry;
 }
 
+// Decode base64 as UTF-8. `atob` returns a Latin-1 binary string; naively using
+// it as text corrupts any multi-byte char (é, í, 川…) on every round-trip.
+function base64ToUtf8(b64: string): string {
+  const binary = atob(b64.replace(/\n/g, ""));
+  const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
+  return new TextDecoder("utf-8").decode(bytes);
+}
+
 async function githubGet(token: string) {
   const resp = await fetch(
     `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
@@ -233,8 +241,7 @@ async function githubGet(token: string) {
   );
   if (!resp.ok) throw new Error(`GitHub GET failed: ${resp.status} ${await resp.text()}`);
   const data = await resp.json();
-  const content = atob(data.content.replace(/\n/g, ""));
-  return { content, sha: data.sha as string };
+  return { content: base64ToUtf8(data.content), sha: data.sha as string };
 }
 
 // UTF-8 safe string → base64 (replaces the deprecated unescape() pattern)
@@ -336,13 +343,13 @@ export default function HitListManager() {
 
     try {
       const { content, sha } = await githubGet(token);
-      const parsed = parse(content);
-      // Defensive: the on-disk YAML should always be an array of entries.
-      // If someone hand-edits it into a weird shape, refuse to mutate.
-      const existing: HitListEntry[] = parsed === null || parsed === undefined ? [] : parsed;
-      if (!Array.isArray(existing)) {
+      // parseDocument preserves per-scalar formatting (quote style, comments) so we can
+      // append a new entry without reformatting the whole file.
+      const doc = parseDocument(content);
+      if (!isSeq(doc.contents)) {
         throw new Error("places-hitlist.yaml is not a list — refusing to overwrite. Check the file.");
       }
+      const existing = doc.toJS() as HitListEntry[];
       for (const item of existing) {
         if (!item || typeof item !== "object" || typeof item.id !== "string" || typeof item.name !== "string") {
           throw new Error(`Existing entry missing required fields (id, name): ${JSON.stringify(item)}`);
@@ -350,9 +357,25 @@ export default function HitListManager() {
       }
       const existingIds = new Set(existing.map(e => e.id));
       const newEntry = formToEntry(form, existingIds);
-      existing.push(newEntry);
+      // Collection.add accepts an unknown value at runtime and wraps it via the
+      // document's schema. The Parsed<> type narrows add()'s signature, so widen
+      // to YAMLSeq to let TS accept a plain JS object here.
+      (doc.contents as YAMLSeq).add(newEntry);
 
-      const yaml = stringify(existing, { lineWidth: 0 });
+      // Force every date_added scalar to be double-quoted. Plain ISO dates
+      // like 2026-04-16 get auto-tagged as !!timestamp on the next parse,
+      // which Astro's z.string() schema rejects. (Applied to existing
+      // entries too, so one bad write doesn't poison the whole file.)
+      visit(doc, {
+        Pair(_key, pair) {
+          const k = isScalar(pair.key) ? pair.key.value : pair.key;
+          if (k === "date_added" && isScalar(pair.value)) {
+            pair.value.type = Scalar.QUOTE_DOUBLE;
+          }
+        },
+      });
+
+      const yaml = doc.toString({ lineWidth: 0 });
       const commitMsg = `Add ${newEntry.name} to hit list`;
 
       await githubPut(token, yaml, sha, commitMsg);
