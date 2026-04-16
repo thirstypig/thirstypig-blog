@@ -237,8 +237,16 @@ async function githubGet(token: string) {
   return { content, sha: data.sha as string };
 }
 
+// UTF-8 safe string → base64 (replaces the deprecated unescape() pattern)
+function utf8ToBase64(str: string): string {
+  const bytes = new TextEncoder().encode(str);
+  let binary = "";
+  for (const byte of bytes) binary += String.fromCharCode(byte);
+  return btoa(binary);
+}
+
 async function githubPut(token: string, newContent: string, sha: string, message: string) {
-  const b64 = btoa(unescape(encodeURIComponent(newContent)));
+  const b64 = utf8ToBase64(newContent);
   const resp = await fetch(
     `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
     {
@@ -328,7 +336,18 @@ export default function HitListManager() {
 
     try {
       const { content, sha } = await githubGet(token);
-      const existing = (parse(content) || []) as HitListEntry[];
+      const parsed = parse(content);
+      // Defensive: the on-disk YAML should always be an array of entries.
+      // If someone hand-edits it into a weird shape, refuse to mutate.
+      const existing: HitListEntry[] = parsed === null || parsed === undefined ? [] : parsed;
+      if (!Array.isArray(existing)) {
+        throw new Error("places-hitlist.yaml is not a list — refusing to overwrite. Check the file.");
+      }
+      for (const item of existing) {
+        if (!item || typeof item !== "object" || typeof item.id !== "string" || typeof item.name !== "string") {
+          throw new Error(`Existing entry missing required fields (id, name): ${JSON.stringify(item)}`);
+        }
+      }
       const existingIds = new Set(existing.map(e => e.id));
       const newEntry = formToEntry(form, existingIds);
       existing.push(newEntry);
@@ -366,7 +385,8 @@ export default function HitListManager() {
     }
   }
 
-  const tokenMasked = token ? `${token.slice(0, 8)}…${token.slice(-4)}` : "(not set)";
+  // Show only the public prefix ("github_pat_") — never reveal the secret suffix
+  const tokenMasked = token ? `${token.slice(0, 11)}…` : "(not set)";
 
   return (
     <div style={s.container}>
