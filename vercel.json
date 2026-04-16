@@ -2,6 +2,16 @@
   "framework": "astro",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
+  "headers": [
+    {
+      "source": "/places-wishlist.json",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "https://jameschang.co" },
+        { "key": "Access-Control-Allow-Methods", "value": "GET" },
+        { "key": "Cache-Control", "value": "public, max-age=3600, s-maxage=86400" }
+      ]
+    }
+  ],
   "redirects": [
     {
       "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug/",
