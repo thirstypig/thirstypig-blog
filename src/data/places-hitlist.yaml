@@ -15,7 +15,7 @@
     - taiwanese
     - pastries
 - id: perse
-  name: PersÃ©
+  name: "PersÃÂ©"
   neighborhood: Brentwood
   city: Los Angeles
   priority: 1
@@ -64,12 +64,12 @@
     - californian
     - michelin
 - id: el-moro
-  name: ChurrerÃ­a El Moro
+  name: "ChurrerÃÂ­a El Moro"
   neighborhood: Echo Park
   city: Los Angeles
   priority: 2
   date_added: 2026-04-15
-  notes: Mexico City's iconic churrerÃ­a since 1935, churros, champurrado, al pastor tortas
+  notes: "Mexico City's iconic churrerÃÂ­a since 1935, churros, champurrado, al pastor tortas"
   links:
     yelp: https://www.yelp.com/biz/el-moro-los-angeles
     google: https://maps.google.com/maps?q=El+Moro+Echo+Park+Los+Angeles
@@ -100,7 +100,7 @@
   city: Rowland Heights
   priority: 1
   date_added: 2026-04-15
-  notes: "å·å±±ç², ancient Chinese garden decor, koi ponds, NYT Top 100 Restaurant"
+  notes: "Ã¥Â·ÂÃ¥Â±Â±Ã§ÂÂ², ancient Chinese garden decor, koi ponds, NYT Top 100 Restaurant"
   links:
     yelp: https://www.yelp.com/biz/mountain-house-rowland-heights
     google: https://maps.google.com/maps?q=Mountain+House+18888+Labin+Ct+Rowland+Heights
@@ -157,3 +157,20 @@
     - seasfood
     - omakase
   neighborhood: DTLA
+- id: hayato
+  name: Hayato
+  city: Los Angeles
+  priority: 2
+  date_added: 2026-04-16
+  links:
+    yelp: https://www.yelp.com/biz/hayato-los-angeles-3
+    google: https://maps.app.goo.gl/Bu3gbHi125KmbDW19
+    instagram: https://www.instagram.com/hayatorestaurant/
+    resy: https://www.exploretock.com/hayato
+    website: http://hayatorestaurant.com/
+  tags:
+    - omakase
+    - japanese
+    - 2 michelin stars
+  neighborhood: DTLA
+  notes: Omakase
