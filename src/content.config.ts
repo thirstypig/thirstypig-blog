@@ -26,22 +26,19 @@ const posts = defineCollection({
 	}),
 });
 
-const wishlist = defineCollection({
-	loader: file('src/data/places-wishlist.yaml'),
+const hitlist = defineCollection({
+	loader: file('src/data/places-hitlist.yaml'),
 	schema: z.object({
 		id: z.string(),
 		name: z.string(),
 		neighborhood: z.string().optional(),
 		city: z.string(),
-		visited: z.boolean().default(false),
 		priority: z.number().min(1).max(3).default(2),
 		date_added: z.string(),
-		date_visited: z.string().nullable().default(null),
 		notes: z.string().optional(),
 		links: z.record(z.string(), z.string().nullable()).default({}),
-		thirstypig_posts: z.array(z.string()).default([]),
 		tags: z.array(z.string()).default([]),
 	}),
 });
 
-export const collections = { posts, wishlist };
+export const collections = { posts, hitlist };

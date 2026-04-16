@@ -2,6 +2,7 @@ import { defineConfig } from "tinacms";
 import LocationLookup from "./LocationLookup";
 import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 import PostManager, { PostManagerIcon } from "./PostManager";
+import HitListManager, { HitListIcon } from "./HitListManager";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -71,6 +72,15 @@ export default defineConfig({
       name: "Post Manager",
       Component: PostManager,
       Icon: PostManagerIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Hit List Manager screen
+    cms.plugins.add({
+      __type: "screen",
+      name: "Hit List Manager",
+      Component: HitListManager,
+      Icon: HitListIcon,
       layout: "fullscreen",
     });
 
