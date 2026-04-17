@@ -28,6 +28,18 @@ tina/google-places-config.json
 # macOS-specific files
 .DS_Store
 
+# Playwright / review screenshots (generated during audits, not source)
+.playwright-mcp/
+review-*.png
+*-check.png
+homepage-*.png
+wishlist-*.png
+hitlist-*.png
+admin-*.png
+map-*.png
+search-*.png
+about-*.png
+
 # jetbrains setting folder
 .idea/
 
