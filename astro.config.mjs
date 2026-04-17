@@ -6,6 +6,7 @@ import { defineConfig } from 'astro/config';
 
 import tailwindcss from '@tailwindcss/vite';
 import remarkInstagramMentions from './src/plugins/remark-instagram-mentions.mjs';
+import remarkImageOptimize from './src/plugins/remark-image-optimize.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,7 +14,7 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
 
   markdown: {
-    remarkPlugins: [remarkInstagramMentions],
+    remarkPlugins: [remarkInstagramMentions, remarkImageOptimize],
   },
 
   vite: {
