@@ -10,6 +10,13 @@
         { "key": "Access-Control-Allow-Methods", "value": "GET" },
         { "key": "Cache-Control", "value": "public, max-age=3600, s-maxage=86400" }
       ]
+    },
+    {
+      "source": "/posts-admin.json",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" },
+        { "key": "Cache-Control", "value": "private, max-age=300" }
+      ]
     }
   ],
   "redirects": [

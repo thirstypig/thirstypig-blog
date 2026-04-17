@@ -27,6 +27,8 @@
 @layer base {
 	html {
 		scroll-behavior: smooth;
+		/* Prevents sticky header (h-16 = 4rem) from covering anchor targets on in-page jumps */
+		scroll-padding-top: 5rem;
 	}
 
 	body {
