@@ -1,5 +1,6 @@
 ---
 import FormattedDate from './FormattedDate.astro';
+import { getImageInfo } from '../utils/image-dimensions.mjs';
 
 interface Props {
 	title: string;
@@ -13,21 +14,29 @@ interface Props {
 
 const { title, pubDate, description, heroImage, categories = [], tags = [], slug } = Astro.props;
 const isClosed = tags.some(t => t.toLowerCase() === 'closed') || title.toLowerCase().includes('closed');
+const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
+const imgClasses = [
+	'w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300',
+	isClosed && 'grayscale opacity-75',
+].filter(Boolean).join(' ');
 ---
 
 <article class="group">
 	<a href={`/posts/${slug}/`} class="block no-underline">
 		<div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-cream-dark mb-3">
-			{heroImage ? (
-				<img
-					src={heroImage}
-					alt={title}
-					class:list={[
-						'w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300',
-						isClosed && 'grayscale opacity-75'
-					]}
-					loading="lazy"
-				/>
+			{heroImage && heroInfo ? (
+				<picture>
+					{heroInfo.webp && <source type="image/webp" srcset={heroInfo.webp} />}
+					<img
+						src={heroImage}
+						alt={title}
+						width={heroInfo.width ?? undefined}
+						height={heroInfo.height ?? undefined}
+						class={imgClasses}
+						loading="lazy"
+						decoding="async"
+					/>
+				</picture>
 			) : (
 				<div class="w-full h-full flex items-center justify-center bg-gradient-to-br from-amber/10 to-rust/10">
 					<span class="font-serif text-4xl text-amber/30">TP</span>

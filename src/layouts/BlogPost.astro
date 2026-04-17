@@ -6,6 +6,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import LocationCard from '../components/LocationCard.astro';
 import ImageGallery from '../components/ImageGallery.astro';
 import AdSlot from '../components/AdSlot.astro';
+import { getImageInfo } from '../utils/image-dimensions.mjs';
 
 type Props = CollectionEntry<'posts'>['data'];
 
@@ -26,6 +27,8 @@ const {
 	address,
 	coordinates,
 } = Astro.props;
+
+const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 ---
 
 <BaseLayout
@@ -87,15 +90,21 @@ const {
 		<AdSlot format="article" />
 
 		<!-- Hero Image (constrained height) -->
-		{heroImage && (
+		{heroImage && heroInfo && (
 			<div class="hero-container mb-6 -mx-4 sm:mx-0">
-				<img
-					src={heroImage}
-					alt={title}
-					class="w-full rounded-none sm:rounded-xl shadow-lg hero-image"
-					loading="lazy"
-					fetchpriority="low"
-				/>
+				<picture>
+					{heroInfo.webp && <source type="image/webp" srcset={heroInfo.webp} />}
+					<img
+						src={heroImage}
+						alt={title}
+						width={heroInfo.width ?? undefined}
+						height={heroInfo.height ?? undefined}
+						class="w-full rounded-none sm:rounded-xl shadow-lg hero-image"
+						loading="lazy"
+						decoding="async"
+						fetchpriority="low"
+					/>
+				</picture>
 			</div>
 		)}
 
