@@ -1,0 +1,103 @@
+name: Sync Hit List from vault
+
+# Pulls hitlist.md from the external Obsidian vault repo, converts it to YAML,
+# validates, and commits the result to src/data/places-hitlist.yaml.
+#
+# Triggers:
+#   - repository_dispatch (event_type: hitlist-sync) — fired by the vault
+#     repo's own workflow on push to main
+#   - workflow_dispatch — manual "Run workflow" button for ad-hoc sync
+#
+# Required repo secrets:
+#   VAULT_REPO           — e.g. "thirstypig/hitlist-vault"
+#   VAULT_READ_TOKEN     — fine-grained PAT with Contents: read on the vault repo
+#
+# Commits are made with the default GITHUB_TOKEN; no additional write secret
+# needed because the workflow runs in this repo.
+#
+# See docs/hitlist-vault-setup.md for the one-time setup on the vault side.
+
+on:
+  repository_dispatch:
+    types: [hitlist-sync]
+  workflow_dispatch:
+    inputs:
+      vault_path:
+        description: "Path to the markdown file in the vault repo"
+        required: false
+        default: "hitlist.md"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: pip install pyyaml
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Node deps for validator
+        run: npm install js-yaml
+
+      - name: Clone vault repo
+        env:
+          VAULT_REPO: ${{ secrets.VAULT_REPO }}
+          VAULT_READ_TOKEN: ${{ secrets.VAULT_READ_TOKEN }}
+        run: |
+          if [ -z "$VAULT_REPO" ] || [ -z "$VAULT_READ_TOKEN" ]; then
+            echo "::error::VAULT_REPO and VAULT_READ_TOKEN secrets must be set"
+            exit 1
+          fi
+          git clone --depth 1 "https://x-access-token:${VAULT_READ_TOKEN}@github.com/${VAULT_REPO}.git" /tmp/vault
+
+      - name: Resolve vault markdown path
+        id: vault
+        run: |
+          # Path can come from repository_dispatch client_payload.path, or from
+          # workflow_dispatch inputs.vault_path, or defaults to hitlist.md.
+          PATH_INPUT="${{ github.event.client_payload.path }}"
+          if [ -z "$PATH_INPUT" ]; then
+            PATH_INPUT="${{ inputs.vault_path }}"
+          fi
+          if [ -z "$PATH_INPUT" ]; then
+            PATH_INPUT="hitlist.md"
+          fi
+          FULL="/tmp/vault/$PATH_INPUT"
+          if [ ! -f "$FULL" ]; then
+            echo "::error::Vault file not found at $FULL"
+            exit 1
+          fi
+          echo "path=$FULL" >> "$GITHUB_OUTPUT"
+
+      - name: Parse markdown → YAML
+        run: |
+          python3 scripts/sync_hitlist_from_md.py "${{ steps.vault.outputs.path }}" src/data/places-hitlist.yaml
+
+      - name: Validate YAML
+        run: node scripts/validate_hitlist.mjs src/data/places-hitlist.yaml
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet src/data/places-hitlist.yaml; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git add src/data/places-hitlist.yaml
+          git commit -m "Sync hit list from vault $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
