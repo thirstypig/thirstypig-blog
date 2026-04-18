@@ -92,15 +92,25 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 			const safeTitle = esc(post.title);
 			const safeId = esc(post.id);
 			const safeImage = post.heroImage ? esc(post.heroImage) : '';
+			const safeWebp = post.heroWebp ? esc(post.heroWebp) : '';
+			const dimAttrs = post.heroWidth && post.heroHeight
+				? ` width="${post.heroWidth}" height="${post.heroHeight}"`
+				: '';
+			const imgClass = `w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 ${isClosed ? 'grayscale opacity-75' : ''}`;
+			const imgTag = safeImage
+				? `<img src="${safeImage}" alt="${safeTitle}"${dimAttrs} class="${imgClass}" loading="lazy" decoding="async" />`
+				: '';
+			const imgMarkup = safeImage
+				? (safeWebp
+					? `<picture><source type="image/webp" srcset="${safeWebp}" />${imgTag}</picture>`
+					: imgTag)
+				: `<div class="w-full h-full flex items-center justify-center"><span class="font-serif text-4xl text-amber/30">TP</span></div>`;
 
 			return `
 				<article class="group">
 					<a href="/posts/${safeId}/" class="block no-underline">
 						<div class="relative aspect-[4/3] overflow-hidden rounded-xl bg-gradient-to-br from-amber/5 to-rust/5 mb-3">
-							${safeImage
-								? `<img src="${safeImage}" alt="${safeTitle}" class="w-full h-full object-cover rounded-xl group-hover:scale-105 transition-transform duration-300 ${isClosed ? 'grayscale opacity-75' : ''}" loading="lazy" />`
-								: `<div class="w-full h-full flex items-center justify-center"><span class="font-serif text-4xl text-amber/30">TP</span></div>`
-							}
+							${imgMarkup}
 							${isClosed ? '<div class="absolute top-3 right-3 bg-[#9A3412] text-[#FAF7F2] text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wide shadow-lg">Closed</div>' : ''}
 						</div>
 						<div class="space-y-1.5">
