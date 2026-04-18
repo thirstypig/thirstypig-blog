@@ -16,8 +16,9 @@
 	--color-amber: #B45309;
 	--color-amber-light: #D97706;
 	--color-rust: #9A3412;
-	--color-sage: #6B7B5E;
-	--color-stone: #78716C;
+	--color-sage: #5A6B4D;
+	/* --color-stone darkened from #78716C (4.3:1, AA fail) to pass AA on cream bg */
+	--color-stone: #655F5B;
 	--color-stone-light: #A8A29E;
 
 	--font-serif: 'Playfair Display', Georgia, serif;
@@ -115,9 +116,10 @@
 	--color-cream-dark: #282828;
 	--color-ink: #E8E4DF;
 	--color-ink-light: #C8C4BF;
-	--color-amber: #D97706;
-	--color-amber-light: #F59E0B;
-	--color-rust: #EA580C;
+	/* --color-amber lightened from #D97706 (4.3:1, AA fail) to pass AA on dark bg */
+	--color-amber: #F59E0B;
+	--color-amber-light: #FBBF24;
+	--color-rust: #FB923C;
 	--color-sage: #8FA07F;
 	--color-stone: #A8A29E;
 	--color-stone-light: #78716C;
@@ -165,6 +167,16 @@ select:focus-visible,
 textarea:focus-visible {
 	outline: 2px solid var(--color-amber);
 	outline-offset: 0;
+}
+
+/* ─── High contrast ───────────────────────────── */
+/* For users who explicitly request more contrast, drop the muted text tones
+ * onto the primary ink value. */
+@media (prefers-contrast: more) {
+	:root {
+		--color-ink-light: var(--color-ink);
+		--color-stone: var(--color-ink-light);
+	}
 }
 
 /* ─── Reduced motion ──────────────────────────── */
