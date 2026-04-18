@@ -18,24 +18,12 @@ import os
 import re
 import sys
 
+from post_utils import (
+    frontmatter_close_index,
+    is_dead_wp_content_url as is_dead_url,
+)
+
 POSTS_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "content", "posts")
-
-DEAD_DOMAINS = [
-    "thethirstypig.com/wp-content",
-    "thirstypig.com/wp-content",
-    "www.thethirstypig.com/wp-content",
-    "www.thirstypig.com/wp-content",
-    "blog.thethirstypig.com/wp-content",
-    "bp.blogspot.com",
-]
-
-
-def is_dead_url(url):
-    """Check if a URL matches a known-dead domain."""
-    for domain in DEAD_DOMAINS:
-        if domain in url:
-            return True
-    return False
 
 
 def strip_dead_images(body):
@@ -106,15 +94,17 @@ def strip_dead_images(body):
 
 
 def process_file(filepath, dry_run=False):
-    """Process a single markdown file. Returns number of removals."""
+    """Process a single markdown file. Returns number of removals.
+    Files without valid frontmatter are silently skipped (return 0)."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
     # Split frontmatter from body
-    if not content.startswith("---"):
+    end = frontmatter_close_index(content)
+    if end == -1:
+        # Missing opening '---' OR missing closing delimiter — skip gracefully
         return 0
 
-    end = content.index("---", 3)
     frontmatter = content[:end + 3]
     body = content[end + 3:]
 

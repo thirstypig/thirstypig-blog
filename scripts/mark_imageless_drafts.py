@@ -12,7 +12,12 @@ Usage:
 import os
 import re
 import sys
-import yaml
+
+from post_utils import (
+    frontmatter_close_index,
+    is_dead_image_url,
+    load_post,
+)
 
 POSTS_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "content", "posts")
 PUBLIC_DIR = os.path.join(os.path.dirname(__file__), "..", "public")
@@ -22,42 +27,13 @@ INLINE_IMAGE_RE = re.compile(r"!\[.*?\]\(([^)]+)\)")
 HTML_IMAGE_RE = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.IGNORECASE)
 
 
-def parse_frontmatter(filepath):
-    """Parse YAML frontmatter and body from a markdown file."""
-    with open(filepath, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    if not content.startswith("---"):
-        return None, content, content
-
-    end = content.index("---", 3)
-    fm_text = content[3:end].strip()
-    body = content[end + 3:].strip()
-    try:
-        fm = yaml.safe_load(fm_text)
-    except yaml.YAMLError:
-        return None, body, content
-    return fm, body, content
-
-
-DEAD_DOMAINS = [
-    "thethirstypig.com",
-    "thirstypig.com/wp-content",
-    "www.thethirstypig.com",
-    "www.thirstypig.com/wp-content",
-    "blog.thethirstypig.com",
-    "bp.blogspot.com",  # Google Blogger image CDN — returns 404
-]
-
-
 def image_exists(path):
     """Check if an image path resolves to a file on disk."""
     if not path:
         return False
     # Treat known-dead external URLs as broken
-    for domain in DEAD_DOMAINS:
-        if domain in path:
-            return False
+    if is_dead_image_url(path):
+        return False
     # Other external URLs — assume valid (can't verify)
     if path.startswith(("http://", "https://", "data:")):
         return True
@@ -92,7 +68,7 @@ def get_image_refs(fm, body):
 
 
 def set_draft_true(filepath):
-    """Set draft: true in a post's frontmatter."""
+    """Set draft: true in a post's frontmatter. Skips files with malformed frontmatter."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -101,7 +77,11 @@ def set_draft_true(filepath):
         content = content.replace("draft: false", "draft: true", 1)
     elif "draft:" not in content:
         # Add draft: true before the closing ---
-        idx = content.index("---", 3)
+        idx = frontmatter_close_index(content)
+        if idx == -1:
+            # Malformed frontmatter (no closing delimiter) — skip rather than crash
+            print(f"  skipped (malformed frontmatter): {os.path.basename(filepath)}")
+            return
         content = content[:idx] + "draft: true\n" + content[idx:]
 
     with open(filepath, "w", encoding="utf-8") as f:
@@ -125,7 +105,7 @@ def main():
 
     for filename in files:
         filepath = os.path.join(posts_dir, filename)
-        fm, body, _ = parse_frontmatter(filepath)
+        fm, body = load_post(filepath)
         if fm is None:
             continue
 
