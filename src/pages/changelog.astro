@@ -9,6 +9,27 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 		<div class="prose max-w-none">
 
+			<h2>April 2026 — Performance, Accessibility & Mobile Editing</h2>
+
+			<h3>April 17 — Hit List mobile editing, Post Manager cleanup</h3>
+			<ul>
+				<li><strong>Hit List Phase 4</strong> — Obsidian vault sync pipeline: separate vault repo holds a mobile-friendly markdown checklist; GitHub Action pulls, converts to YAML, validates, and commits. Ships a parser, a seeder (yaml → md), the workflow, and setup docs.</li>
+				<li><strong>Client-rendered search WebP</strong> — <code>/search.json</code> now ships pre-computed WebP paths + dimensions per post so client-rendered result cards emit <code>&lt;picture&gt;</code> elements instead of plain <code>&lt;img&gt;</code>. +14 KB gzipped JSON cost, ~700 KB saved per search session.</li>
+				<li><strong>Post Manager P1 fixes</strong> — Fixed <code>content.index("---", 3)</code> crash risk on malformed frontmatter in two Python scripts; consolidated <code>DEAD_DOMAINS</code> registry into <code>scripts/post_utils.py</code> with two intentionally-scoped lists; replaced <code>as any</code> casts in <code>PostManager.tsx</code> with proper union types.</li>
+			</ul>
+
+			<h3>April 16–17 — Senior Front-End Audit (6 PRs)</h3>
+			<ul>
+				<li><strong>SVG logo</strong> — 25 KB JPG replaced with 650 B SVG (<code>currentColor</code> for theme adaptation). Every page loads lighter.</li>
+				<li><strong>Image pipeline</strong> — New remark plugin transforms every markdown <code>!&#91;&#93;()</code> into <code>&lt;picture&gt;</code> with WebP source + explicit width/height (read via <code>sharp</code>) + <code>loading="lazy"</code>. <code>PostCard</code> and <code>BlogPost</code> hero get the same treatment via a shared <code>getImageInfo()</code> utility. 7,503 previously-unused WebPs now actually serve.</li>
+				<li><strong>Accessibility pass</strong> — Skip link, <code>aria-current="page"</code> on active nav, <code>aria-expanded</code>/<code>aria-pressed</code> on toggles, dynamic <code>aria-label</code> on the theme button, <code>:focus-visible</code> outline rule, <code>@media (prefers-reduced-motion)</code> override.</li>
+				<li><strong>Contrast fixes</strong> — Light-mode <code>--color-stone</code> darkened from #78716C to #655F5B (4.3:1 → 5.6:1 on cream). Dark-mode <code>--color-amber</code> lightened from #D97706 to #F59E0B (4.3:1 → 5.3:1). All WCAG AA failures closed. <code>@media (prefers-contrast: more)</code> override added.</li>
+				<li><strong>Map hardening</strong> — Leaflet bundled via npm (removes <code>unpkg.com</code> CDN dependency); closed venues now render as dashed hollow rings so color-blind users can distinguish them; visible legend added.</li>
+				<li><strong>Build cleanup</strong> — Latin-only <code>@fontsource</code> imports (33 woff2 + 33 woff files → 6 + 6, ~1.1 MB → 324 KB font bytes in <code>dist</code>); print stylesheet that hides chrome, switches to system fonts, and reveals external link URLs.</li>
+				<li><strong>Quick wins</strong> — <code>scroll-padding-top: 5rem</code> so anchors stop hiding under the sticky header; <code>/posts-admin.json</code> deindexed via <code>robots.txt</code> Disallow + <code>X-Robots-Tag: noindex</code>; orphaned <code>BaseHead.astro</code> deleted.</li>
+				<li><strong>Expected impact</strong> — Post-page mobile Lighthouse Performance ~45 → ~78, LCP ~5 s → ~2 s, CLS ~0.22 → &lt;0.05, Accessibility ~85 → ~96.</li>
+			</ul>
+
 			<h2>March 2026 — The Rebuild</h2>
 
 			<h3>March 30 — Location Data Enrichment & Map Expansion</h3>
