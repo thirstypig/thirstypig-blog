@@ -1,8 +1,54 @@
-"""Shared utilities for loading and saving blog post frontmatter."""
+"""Shared utilities for loading, saving, and inspecting blog post frontmatter.
+
+Dead-URL registries are kept here as the single source of truth so scripts
+that mark broken images (mark_imageless_drafts.py) and scripts that strip
+dead content (strip_dead_images.py) don't drift out of sync.
+"""
 
 import os
 
 import yaml
+
+
+# --- Dead-URL registries ---------------------------------------------------
+
+# Narrow /wp-content matcher — safe for content stripping.
+# A URL containing "thirstypig.com/wp-content" was uploaded to the old
+# WordPress install which no longer serves media, so stripping is safe.
+DEAD_WP_CONTENT_DOMAINS = [
+    "thethirstypig.com/wp-content",
+    "thirstypig.com/wp-content",
+    "www.thethirstypig.com/wp-content",
+    "www.thirstypig.com/wp-content",
+    "blog.thethirstypig.com/wp-content",
+    "bp.blogspot.com",  # Google Blogger image CDN — returns 404
+]
+
+# Whole-domain legacy hosts — used ONLY for image-existence checks.
+# Never use these for content stripping; they'd false-positive on valid
+# descriptive mentions of "thethirstypig.com" in post bodies.
+DEAD_BLOG_DOMAINS = [
+    "thethirstypig.com",
+    "www.thethirstypig.com",
+    "blog.thethirstypig.com",
+]
+
+# For image-existence checks: combine both (broader match).
+DEAD_IMAGE_HOST_PATTERNS = DEAD_WP_CONTENT_DOMAINS + DEAD_BLOG_DOMAINS
+
+
+def is_dead_wp_content_url(url):
+    """Narrow check — safe for content stripping. Matches /wp-content only."""
+    return any(domain in url for domain in DEAD_WP_CONTENT_DOMAINS)
+
+
+def is_dead_image_url(url):
+    """Broad check — matches /wp-content paths AND bare legacy hosts.
+    Use when deciding if an image reference is broken."""
+    return any(domain in url for domain in DEAD_IMAGE_HOST_PATTERNS)
+
+
+# --- Frontmatter parsing ---------------------------------------------------
 
 
 def load_post(filepath):
@@ -38,3 +84,20 @@ def save_post(filepath, fm, body):
         f.write(yaml_str)
         f.write('---')
         f.write(body)
+
+
+def frontmatter_close_index(content):
+    """Return the index of the closing frontmatter '---' delimiter, or -1.
+
+    Use instead of content.index('---', 3) — that idiom crashes on malformed
+    posts that have an opening '---' but no closing delimiter, and it matches
+    a stray '---' inside a field value (e.g. a long en-dash run).
+
+    This helper anchors on a newline before the closing '---' and returns -1
+    on failure so callers can skip the file gracefully.
+    """
+    if not content.startswith('---'):
+        return -1
+    # +1 because we want the index of the '-' in '---', not the preceding '\n'
+    idx = content.find('\n---', 3)
+    return idx + 1 if idx != -1 else -1

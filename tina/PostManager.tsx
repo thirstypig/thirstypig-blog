@@ -28,6 +28,8 @@ interface AdminData {
 
 type SortField = "title" | "date" | "location" | "city" | "draft";
 type SortDir = "asc" | "desc";
+type DraftFilter = "all" | "draft" | "live";
+type ImageFilter = "all" | "has" | "none";
 
 const PAGE_SIZE = 50;
 
@@ -215,10 +217,10 @@ export default function PostManager() {
 
   // Filters
   const [search, setSearch] = useState("");
-  const [draftFilter, setDraftFilter] = useState<"all" | "draft" | "live">("all");
+  const [draftFilter, setDraftFilter] = useState<DraftFilter>("all");
   const [categoryFilter, setCategoryFilter] = useState("");
   const [cityFilter, setCityFilter] = useState("");
-  const [imageFilter, setImageFilter] = useState<"all" | "has" | "none">("all");
+  const [imageFilter, setImageFilter] = useState<ImageFilter>("all");
 
   // Sort
   const [sortField, setSortField] = useState<SortField>("date");
@@ -333,13 +335,13 @@ export default function PostManager() {
           style={s.searchInput}
         />
 
-        <select value={draftFilter} onChange={e => setDraftFilter(e.target.value as any)} style={s.select}>
+        <select value={draftFilter} onChange={e => setDraftFilter(e.target.value as DraftFilter)} style={s.select}>
           <option value="all">All statuses</option>
           <option value="live">Live only</option>
           <option value="draft">Drafts only</option>
         </select>
 
-        <select value={imageFilter} onChange={e => setImageFilter(e.target.value as any)} style={s.select}>
+        <select value={imageFilter} onChange={e => setImageFilter(e.target.value as ImageFilter)} style={s.select}>
           <option value="all">All images</option>
           <option value="has">Has images</option>
           <option value="none">No images</option>
