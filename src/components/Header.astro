@@ -1,11 +1,22 @@
 ---
 import { SITE_TITLE } from '../consts';
 
-const pathname = Astro.url.pathname;
+// Normalize trailing slash so Astro's '/hitlist/' path matches href '/hitlist'.
+const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
+
+const navItems = [
+	{ href: '/', label: 'Home', isActive: pathname === '/' },
+	{ href: '/archive/', label: 'Archive', isActive: pathname.startsWith('/archive') },
+	{ href: '/categories', label: 'Categories', isActive: pathname.startsWith('/categories') },
+	{ href: '/search', label: 'Search', isActive: pathname === '/search' },
+	{ href: '/map', label: 'Map', isActive: pathname === '/map' },
+	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },
+	{ href: '/about', label: 'About', isActive: pathname === '/about' },
+];
 ---
 
 <header class="bg-cream sticky top-0 z-50 border-b border-cream-dark/50">
-	<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+	<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
 		<div class="flex items-center justify-between h-16">
 			<!-- Logo / Site Title -->
 			<a href="/" class="flex items-center gap-2 no-underline group text-ink group-hover:text-amber">
@@ -23,82 +34,33 @@ const pathname = Astro.url.pathname;
 
 			<!-- Navigation Links -->
 			<div class="hidden sm:flex items-center gap-1">
-				<a
-					href="/"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname === '/' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Home
-				</a>
-				<a
-					href="/archive/"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname.startsWith('/archive') ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Archive
-				</a>
-				<a
-					href="/categories"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname.startsWith('/categories') ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Categories
-				</a>
-				<a
-					href="/search"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname === '/search' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Search
-				</a>
-				<a
-					href="/map"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname === '/map' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Map
-				</a>
-				<a
-					href="/hitlist"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname === '/hitlist' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					Hit List
-				</a>
-				<a
-					href="/about"
-					class:list={[
-						'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-						pathname === '/about' ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
-					]}
-				>
-					About
-				</a>
+				{navItems.map(({ href, label, isActive }) => (
+					<a
+						href={href}
+						aria-current={isActive ? 'page' : undefined}
+						class:list={[
+							'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
+							isActive ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+						]}
+					>
+						{label}
+					</a>
+				))}
 			</div>
 
 			<div class="flex items-center gap-1">
 				<!-- Theme toggle -->
 				<button
 					id="theme-toggle"
+					type="button"
 					class="p-2 rounded-lg text-stone hover:text-ink hover:bg-cream-dark/50 transition-colors"
 					aria-label="Toggle dark mode"
+					aria-pressed="false"
 				>
-					<svg id="theme-icon-sun" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<svg id="theme-icon-sun" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
 					</svg>
-					<svg id="theme-icon-moon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<svg id="theme-icon-moon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
 						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
 					</svg>
 				</button>
@@ -106,53 +68,67 @@ const pathname = Astro.url.pathname;
 				<!-- Mobile menu button -->
 				<button
 					id="mobile-menu-btn"
+					type="button"
 					class="sm:hidden p-2 rounded-lg text-stone hover:text-ink hover:bg-cream-dark/50"
 					aria-label="Toggle menu"
+					aria-expanded="false"
+					aria-controls="mobile-menu"
 				>
-				<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-				</svg>
-			</button>
-		</div> <!-- close flex for toggle + hamburger -->
+					<svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+					</svg>
+				</button>
+			</div>
 		</div>
 
 		<!-- Mobile menu -->
 		<div id="mobile-menu" class="hidden sm:hidden pb-4 border-t border-cream-dark/50">
 			<div class="flex flex-col gap-1 pt-2">
-				<a href="/" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Home</a>
-				<a href="/archive/" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Archive</a>
-				<a href="/categories" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Categories</a>
-				<a href="/search" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Search</a>
-				<a href="/map" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Map</a>
-				<a href="/hitlist" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">Hit List</a>
-				<a href="/about" class="px-3 py-2 rounded-lg text-sm font-medium text-stone hover:text-ink hover:bg-cream-dark/50 no-underline">About</a>
+				{navItems.map(({ href, label, isActive }) => (
+					<a
+						href={href}
+						aria-current={isActive ? 'page' : undefined}
+						class:list={[
+							'px-3 py-2 rounded-lg text-sm font-medium no-underline',
+							isActive ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+						]}
+					>
+						{label}
+					</a>
+				))}
 			</div>
 		</div>
 	</nav>
 </header>
 
 <script>
-	// Mobile menu
-	const btn = document.getElementById('mobile-menu-btn');
+	// Mobile menu with aria-expanded sync
+	const menuBtn = document.getElementById('mobile-menu-btn');
 	const menu = document.getElementById('mobile-menu');
-	btn?.addEventListener('click', () => {
+	menuBtn?.addEventListener('click', () => {
+		const isOpen = !menu?.classList.contains('hidden');
 		menu?.classList.toggle('hidden');
+		menuBtn.setAttribute('aria-expanded', String(!isOpen));
 	});
 
-	// Theme toggle
-	function updateThemeIcons() {
+	// Theme toggle with aria-pressed sync
+	const themeBtn = document.getElementById('theme-toggle');
+
+	function updateThemeUI() {
 		const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
 		document.getElementById('theme-icon-sun')!.classList.toggle('hidden', !isDark);
 		document.getElementById('theme-icon-moon')!.classList.toggle('hidden', isDark);
+		themeBtn?.setAttribute('aria-pressed', String(isDark));
+		themeBtn?.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
 	}
 
-	document.getElementById('theme-toggle')?.addEventListener('click', () => {
+	themeBtn?.addEventListener('click', () => {
 		const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
 		const next = isDark ? 'light' : 'dark';
 		document.documentElement.setAttribute('data-theme', next);
 		localStorage.setItem('theme', next);
-		updateThemeIcons();
+		updateThemeUI();
 	});
 
-	updateThemeIcons();
+	updateThemeUI();
 </script>
