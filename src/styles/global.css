@@ -1,12 +1,19 @@
 @import "tailwindcss";
 
-/* Self-hosted fonts (eliminates render-blocking Google Fonts request) */
-@import "@fontsource/inter/400.css";
-@import "@fontsource/inter/500.css";
-@import "@fontsource/inter/600.css";
-@import "@fontsource/playfair-display/400.css";
-@import "@fontsource/playfair-display/600.css";
-@import "@fontsource/playfair-display/700.css";
+/* Self-hosted fonts, latin subset only.
+ *
+ * The non-suffixed @fontsource imports (e.g. @fontsource/inter/400.css) bundle
+ * every subset: cyrillic, cyrillic-ext, greek, greek-ext, vietnamese, latin,
+ * latin-ext. We only ship Latin content, so including the others just bloats
+ * dist/_astro with ~27 unused font files (~500 KB) even though unicode-range
+ * prevents browsers from actually fetching them.
+ */
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/playfair-display/latin-400.css";
+@import "@fontsource/playfair-display/latin-600.css";
+@import "@fontsource/playfair-display/latin-700.css";
 
 @theme {
 	--color-cream: #F5EFE3;
@@ -176,6 +183,53 @@ textarea:focus-visible {
 	:root {
 		--color-ink-light: var(--color-ink);
 		--color-stone: var(--color-ink-light);
+	}
+}
+
+/* ─── Print ───────────────────────────────────── */
+@media print {
+	/* Hide site chrome — nav, footer, ads aren't useful on paper */
+	header,
+	footer,
+	#mobile-menu,
+	[aria-label="Pagination"],
+	.location-card a[target="_blank"] {
+		display: none !important;
+	}
+
+	html,
+	body {
+		background: #fff !important;
+		color: #000 !important;
+		font-family: Georgia, 'Times New Roman', serif;
+	}
+
+	main {
+		max-width: none !important;
+	}
+
+	a {
+		color: #000 !important;
+		text-decoration: underline;
+	}
+
+	/* Expose the destination of external links so printed copies remain useful */
+	.prose a[href^="http"]::after {
+		content: " (" attr(href) ")";
+		font-size: 0.85em;
+		color: #555;
+	}
+
+	/* Avoid awkward breaks inside blocks of content */
+	h1, h2, h3, h4, h5, h6,
+	figure, img, blockquote, pre {
+		break-inside: avoid;
+		page-break-inside: avoid;
+	}
+
+	h2, h3 {
+		break-after: avoid;
+		page-break-after: avoid;
 	}
 }
 
