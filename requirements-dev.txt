@@ -1,0 +1,9 @@
+# Development / testing dependencies for Python scripts.
+# Install: pip install -r requirements-dev.txt
+#
+# PyYAML is used by sync_hitlist_from_md.py, seed_hitlist_vault.py, and
+# post_utils.py at runtime — listed here too so test environments get it
+# without needing a separate runtime requirements file.
+
+pyyaml>=6.0
+pytest>=8.0

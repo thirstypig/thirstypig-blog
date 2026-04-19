@@ -36,6 +36,20 @@ const tests: TestEntry[] = [
 		status: "passing",
 	},
 	{
+		file: "scripts/test_sync_hitlist.py",
+		kind: "unit",
+		covers: "Hit List vault parser — header parsing with commas in names, metadata keys, tag normalization, priority bounds, id slug + override, unknown-key drop, CJK slug handling",
+		assertions: 25,
+		status: "passing",
+	},
+	{
+		file: "scripts/test_post_utils.py",
+		kind: "unit",
+		covers: "Frontmatter parser + dead-URL helpers — crash-free on malformed frontmatter, stray --- in values handled, dead-domain list structure invariants",
+		assertions: 18,
+		status: "passing",
+	},
+	{
 		file: "tests/e2e/homepage.spec.ts",
 		kind: "e2e",
 		covers: "Homepage — hero renders, aria-current on active nav, skip link works, theme toggle persists across navigation",

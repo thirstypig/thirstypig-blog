@@ -5,8 +5,8 @@
 | | Unit tests | E2E tests |
 |---|---|---|
 | **What** | One function, isolated | Real browser, real built site |
-| **Tool** | [Vitest](https://vitest.dev) | [Playwright](https://playwright.dev) |
-| **Where** | `src/**/*.test.{ts,mjs}` + `scripts/**/*.test.{ts,mjs}` | `tests/e2e/**/*.spec.ts` |
+| **Tool** | [Vitest](https://vitest.dev) for JS/TS, [pytest](https://docs.pytest.org) for Python | [Playwright](https://playwright.dev) |
+| **Where** | JS: `src/**/*.test.{ts,mjs}` · Python: `scripts/test_*.py` | `tests/e2e/**/*.spec.ts` |
 | **Speed** | Milliseconds per test | ~1s per test |
 | **What they prove** | The code is correct | The site works |
 
@@ -25,9 +25,12 @@ happy path while an edge-case bug lurks in a function nobody exercises.
 ## How to run them
 
 ```bash
-# Unit tests — fast, runs in Node
+# JS/TS unit tests — fast, runs in Node
 npm run test:unit           # one-shot
 npm run test:unit:watch     # watch mode while iterating
+
+# Python unit tests — via pytest
+npm run test:py             # or: python3 -m pytest scripts/
 
 # E2E tests — spins up astro preview on port 4321, drives Chromium
 npm run test:e2e            # headless
@@ -37,10 +40,11 @@ npm run test:e2e:ui         # Playwright UI mode (great for debugging)
 npm run test
 ```
 
-First E2E run on a fresh checkout needs Chromium installed:
+First-time setup on a fresh checkout:
 
 ```bash
-npx playwright install chromium
+npx playwright install chromium        # E2E browser
+pip install -r requirements-dev.txt    # pytest + pyyaml
 ```
 
 ## Cadence
@@ -50,7 +54,7 @@ Four tiers, of which we currently run tier 2. The rest are planned:
 | Tier | Trigger | Runs | Duration | Status |
 |---|---|---|---|---|
 | 1 | Pre-commit hook | Fastest unit tests + `validate_hitlist.mjs` | ~2-5 s | **Not yet — opt-in `npm run test:unit` for now** |
-| 2 | GitHub Actions on every PR + push to `main` | All unit + E2E | ~1-3 min | **Active** — `.github/workflows/test.yml` |
+| 2 | GitHub Actions on every PR + push to `main` | JS unit + Python unit + E2E (parallel jobs) | ~1-3 min | **Active** — `.github/workflows/test.yml` |
 | 3 | Nightly cron against production | E2E suite hitting `thirstypig.com` | ~1-3 min | **Not yet — add once tier 2 is stable for a few weeks** |
 | 4 | Pre-deploy smoke | Handful of critical E2E | ~30 s | **Skip** — over-engineered for this project's scale |
 
@@ -64,6 +68,13 @@ At a glance:
 - **`src/utils.test.ts`** (6 unit assertions) — `slugify()` behavior
 - **`src/plugins/remark-image-optimize.test.mjs`** (5 unit assertions) —
   `buildPictureHtml()` HTML emission, WebP source presence, HTML escaping
+- **`scripts/test_sync_hitlist.py`** (25 unit assertions) — Hit List vault
+  parser: header parsing, metadata keys, tag normalization, priority bounds,
+  id slugification and override, unknown-key drop, CJK handling
+- **`scripts/test_post_utils.py`** (18 unit assertions) — frontmatter parser
+  is crash-free on malformed input; dead-URL helpers; the
+  current-vs-legacy-domain distinction (caught a subtle regression during
+  test writing)
 - **`tests/e2e/homepage.spec.ts`** (4 E2E assertions) — hero renders, nav
   `aria-current`, skip link works, theme toggle persists
 
@@ -71,31 +82,37 @@ At a glance:
 
 In rough priority order (pick based on what you're editing):
 
-1. **Hit List parser** — `scripts/sync_hitlist_from_md.py`. Highest-churn code
-   with most edge cases (header parsing, tag normalization, unknown-key drop,
-   default values, id slugification). Python code — either add pytest or port
-   the parser to JS. Recommend pytest + add a `test:py` npm script.
-2. **`/hitlist` E2E** — filter by city, filter by tag, clear-filters button,
+1. **`/hitlist` E2E** — filter by city, filter by tag, clear-filters button,
    empty state, priority badge rendering.
-3. **`/search` E2E** — debounced search finds posts, renders `<picture>` with
+2. **`/search` E2E** — debounced search finds posts, renders `<picture>` with
    WebP source, closed posts show CLOSED badge.
-4. **`/map` E2E** — map loads, markers render, closed markers use dashed ring,
+3. **`/map` E2E** — map loads, markers render, closed markers use dashed ring,
    popup works. Flakier than the others; mark `test.slow()` or run serially.
-5. **Unit — `post_utils.py`** — `frontmatter_close_index()` edge cases (no
-   opening delim, no closing delim, stray `---` in values). Needs pytest.
-6. **Unit — `src/utils/image-dimensions.mjs`** — cache hit/miss logic,
+4. **Unit — `src/utils/image-dimensions.mjs`** — cache hit/miss logic,
    graceful fallback on missing files. Needs mocking `sharp` — slightly more
    setup.
+5. **Unit — `scripts/seed_hitlist_vault.py`** — the yaml → md converter.
+   Round-trip stability is already exercised manually; a pytest version
+   would lock it in as a regression guard.
 
 ## How to add a new test
 
-### A unit test
+### A JS/TS unit test
 
 1. Create `foo.test.ts` next to `foo.ts` (or `foo.test.mjs` for MJS modules).
 2. Import the thing you're testing. Export it from the source file if it
    isn't already (see how `buildPictureHtml` was exported for its test).
 3. Use `describe` / `it` / `expect` from Vitest.
 4. Run `npm run test:unit:watch` while you write — Vitest re-runs on save.
+5. When green, update `src/pages/tests-admin.json.ts` with the new entry.
+
+### A Python unit test
+
+1. Create `scripts/test_foo.py` next to `scripts/foo.py`.
+2. Import the thing you're testing: `from foo import something`.
+3. Use pytest classes (`class TestX:`) for grouping, plain `def test_*` for
+   assertions, and `@pytest.mark.parametrize` for table-driven cases.
+4. Run `npm run test:py` (or `python3 -m pytest scripts/test_foo.py -v`).
 5. When green, update `src/pages/tests-admin.json.ts` with the new entry.
 
 ### An E2E test

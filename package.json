@@ -11,9 +11,10 @@
     "build": "npm run validate:hitlist && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "npm run test:unit && npm run test:e2e",
+    "test": "npm run test:unit && npm run test:py && npm run test:e2e",
     "test:unit": "vitest run",
     "test:unit:watch": "vitest",
+    "test:py": "python3 -m pytest scripts/",
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui"
   },
