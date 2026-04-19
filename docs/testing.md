@@ -77,23 +77,33 @@ At a glance:
   test writing)
 - **`tests/e2e/homepage.spec.ts`** (4 E2E assertions) — hero renders, nav
   `aria-current`, skip link works, theme toggle persists
+- **`tests/e2e/hitlist.spec.ts`** (5 E2E assertions) — cards render, city
+  filter narrows, tag filter narrows, clear-filters resets, nav `aria-current`
+- **`tests/e2e/search.spec.ts`** (4 E2E assertions) — initial state + total
+  count, debounced typing narrows, `<picture>` with WebP source is emitted,
+  no-results state on gibberish
+- **`tests/e2e/map.spec.ts`** (3 E2E assertions) — page shell + legend,
+  Leaflet initializes and paints markers, marker count populates
 
 ## What to test next
 
 In rough priority order (pick based on what you're editing):
 
-1. **`/hitlist` E2E** — filter by city, filter by tag, clear-filters button,
-   empty state, priority badge rendering.
-2. **`/search` E2E** — debounced search finds posts, renders `<picture>` with
-   WebP source, closed posts show CLOSED badge.
-3. **`/map` E2E** — map loads, markers render, closed markers use dashed ring,
-   popup works. Flakier than the others; mark `test.slow()` or run serially.
-4. **Unit — `src/utils/image-dimensions.mjs`** — cache hit/miss logic,
+1. **Unit — `src/utils/image-dimensions.mjs`** — cache hit/miss logic,
    graceful fallback on missing files. Needs mocking `sharp` — slightly more
    setup.
-5. **Unit — `scripts/seed_hitlist_vault.py`** — the yaml → md converter.
-   Round-trip stability is already exercised manually; a pytest version
-   would lock it in as a regression guard.
+2. **Unit — `scripts/seed_hitlist_vault.py`** — the yaml → md converter.
+   Round-trip stability is exercised manually; a pytest version would lock
+   it in as a regression guard.
+3. **E2E — post-page regression suite** — pick one representative post and
+   assert hero `<picture>` renders, body images lazy-loaded, skip link, prose
+   heading hierarchy. Guards the image pipeline from silently regressing on
+   the highest-traffic page type.
+4. **E2E — closed-venue rendering** — Navigate to a search query known to
+   include a closed post; assert the CLOSED badge appears and the image has
+   `grayscale opacity-75` classes. Currently skipped because we'd need a
+   stable closed-post fixture — worth a helper that picks one from
+   `/search.json` at test time.
 
 ## How to add a new test
 
