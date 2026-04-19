@@ -84,6 +84,12 @@ At a glance:
   no-results state on gibberish
 - **`tests/e2e/map.spec.ts`** (3 E2E assertions) — page shell + legend,
   Leaflet initializes and paints markers, marker count populates
+- **`tests/e2e/post-page.spec.ts`** (7 E2E assertions) — post regression
+  suite: h1 singleton + no heading-level skips, hero `<picture>` + WebP +
+  dimensions, body images optimized, LocationCard renders, no unexpected
+  console errors, skip link works
+- **`src/utils/image-dimensions.test.mjs`** (7 unit assertions) —
+  `webpSibling()` path transforms
 
 ## What to test next
 
