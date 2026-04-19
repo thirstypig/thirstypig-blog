@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import FormattedDate from './FormattedDate.astro';
+import { getImageInfo } from '../utils/image-dimensions.mjs';
 
 interface Props {
 	currentId: string;
@@ -45,27 +46,38 @@ const scored = allPosts.map(post => {
 }).filter(s => s.score > 0)
   .sort((a, b) => b.score - a.score || b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf())
   .slice(0, limit);
+
+const heroInfo = await Promise.all(
+	scored.map(({ post }) =>
+		post.data.heroImage ? getImageInfo(post.data.heroImage) : Promise.resolve(null)
+	)
+);
 ---
 
 {scored.length > 0 && (
 	<div class="mt-12 pt-8 border-t border-cream-dark">
-		<h3 class="font-serif text-xl font-bold text-ink mb-6">You might also enjoy</h3>
+		<h2 class="font-serif text-xl font-bold text-ink mb-6">You might also enjoy</h2>
 		<div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
-			{scored.map(({ post }) => {
+			{scored.map(({ post }, i) => {
 				const isClosed = (post.data.tags || []).some(t => t.toLowerCase() === 'closed');
+				const info = heroInfo[i];
+				const imgClass = `w-full h-full object-cover group-hover:scale-105 transition-transform duration-300${isClosed ? ' grayscale opacity-75' : ''}`;
 				return (
 					<a href={`/posts/${post.id}/`} class="flex gap-4 no-underline group">
 						<div class="relative w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden bg-cream-dark">
-							{post.data.heroImage ? (
-								<img
-									src={post.data.heroImage}
-									alt={post.data.title}
-									class:list={[
-										'w-full h-full object-cover group-hover:scale-105 transition-transform duration-300',
-										isClosed && 'grayscale opacity-75'
-									]}
-									loading="lazy"
-								/>
+							{post.data.heroImage && info ? (
+								<picture>
+									{info.webp && <source type="image/webp" srcset={info.webp} />}
+									<img
+										src={post.data.heroImage}
+										alt={post.data.title}
+										width={info.width ?? undefined}
+										height={info.height ?? undefined}
+										class={imgClass}
+										loading="lazy"
+										decoding="async"
+									/>
+								</picture>
 							) : (
 								<div class="w-full h-full flex items-center justify-center bg-gradient-to-br from-amber/10 to-rust/10">
 									<span class="font-serif text-xl text-amber/30">TP</span>
@@ -78,9 +90,9 @@ const scored = allPosts.map(post => {
 							)}
 						</div>
 						<div class="flex-1 min-w-0">
-							<h4 class="font-serif text-sm font-semibold text-ink group-hover:text-amber transition-colors leading-snug line-clamp-2">
+							<h3 class="font-serif text-sm font-semibold text-ink group-hover:text-amber transition-colors leading-snug line-clamp-2">
 								{post.data.title}
-							</h4>
+							</h3>
 							<p class="text-xs text-stone mt-1">
 								<FormattedDate date={post.data.pubDate} />
 							</p>

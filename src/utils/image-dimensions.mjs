@@ -53,7 +53,7 @@ function toFsPath(src) {
 	return join(PUBLIC_DIR, src);
 }
 
-function webpSibling(src) {
+export function webpSibling(src) {
 	const ext = extname(src);
 	return ext ? src.slice(0, -ext.length) + '.webp' : src + '.webp';
 }

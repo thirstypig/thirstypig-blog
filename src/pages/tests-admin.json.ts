@@ -36,6 +36,13 @@ const tests: TestEntry[] = [
 		status: "passing",
 	},
 	{
+		file: "src/utils/image-dimensions.test.mjs",
+		kind: "unit",
+		covers: "webpSibling() — lowercase/uppercase extension, .jpeg and .png, multi-dot filenames, no-extension fallback, path preservation",
+		assertions: 7,
+		status: "passing",
+	},
+	{
 		file: "scripts/test_sync_hitlist.py",
 		kind: "unit",
 		covers: "Hit List vault parser — header parsing with commas in names, metadata keys, tag normalization, priority bounds, id slug + override, unknown-key drop, CJK slug handling",
@@ -75,6 +82,13 @@ const tests: TestEntry[] = [
 		kind: "e2e",
 		covers: "Map — heading + legend render, Leaflet initializes and paints markers, marker count populates from /map.json",
 		assertions: 3,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/post-page.spec.ts",
+		kind: "e2e",
+		covers: "Post page regression — h1 singleton + no heading-level skips, hero <picture> with WebP + dimensions, body images <picture>/lazy/dimensioned, LocationCard renders, no unexpected console errors, skip link jumps to main",
+		assertions: 7,
 		status: "passing",
 	},
 ];
