@@ -3,6 +3,7 @@ import LocationLookup from "./LocationLookup";
 import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 import PostManager, { PostManagerIcon } from "./PostManager";
 import HitListManager, { HitListIcon } from "./HitListManager";
+import TestingDashboard, { TestingIcon } from "./TestingDashboard";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -81,6 +82,15 @@ export default defineConfig({
       name: "Hit List Manager",
       Component: HitListManager,
       Icon: HitListIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Testing dashboard screen
+    cms.plugins.add({
+      __type: "screen",
+      name: "Testing",
+      Component: TestingDashboard,
+      Icon: TestingIcon,
       layout: "fullscreen",
     });
 

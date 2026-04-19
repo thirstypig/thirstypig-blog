@@ -25,7 +25,7 @@ function escAttr(s) {
 		.replace(/>/g, '&gt;');
 }
 
-function buildPictureHtml({ src, webp, width, height, alt }) {
+export function buildPictureHtml({ src, webp, width, height, alt }) {
 	const dimAttrs = width && height ? ` width="${width}" height="${height}"` : '';
 	const imgTag = `<img src="${escAttr(src)}" alt="${escAttr(alt || '')}"${dimAttrs} loading="lazy" decoding="async">`;
 
