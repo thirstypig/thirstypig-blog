@@ -56,6 +56,27 @@ const tests: TestEntry[] = [
 		assertions: 4,
 		status: "passing",
 	},
+	{
+		file: "tests/e2e/hitlist.spec.ts",
+		kind: "e2e",
+		covers: "Hit List — cards render from JSON, city filter narrows, tag filter narrows, clear-filters resets, active-nav aria-current",
+		assertions: 5,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/search.spec.ts",
+		kind: "e2e",
+		covers: "Search — initial state + total count, debounced typing filters, results emit <picture> with WebP source, gibberish shows no-results state",
+		assertions: 4,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/map.spec.ts",
+		kind: "e2e",
+		covers: "Map — heading + legend render, Leaflet initializes and paints markers, marker count populates from /map.json",
+		assertions: 3,
+		status: "passing",
+	},
 ];
 
 export const GET: APIRoute = async () => {
