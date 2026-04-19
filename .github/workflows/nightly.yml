@@ -1,0 +1,47 @@
+name: Nightly E2E (production)
+
+# Runs the full E2E suite against the live site every night. Catches
+# regressions from deploys, CDN issues, upstream API drift (Leaflet tiles,
+# Vercel Analytics, etc.) that wouldn't surface in CI-against-preview.
+#
+# Tier 3 of the cadence in docs/testing.md. Schedule: 11:00 UTC
+# (3am PT before DST, 4am PDT after). Can also be kicked off manually via
+# the Actions tab.
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  e2e-production:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run E2E against production
+        env:
+          PLAYWRIGHT_BASE_URL: https://thirstypig.com
+        # No local build needed — we're hitting the live deployed site
+        run: npx playwright test
+
+      - name: Upload Playwright report on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nightly-playwright-report
+          path: playwright-report/
+          retention-days: 14

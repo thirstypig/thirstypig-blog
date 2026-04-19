@@ -48,9 +48,9 @@ export function flushImageCache() {
 	}
 }
 
-function toFsPath(src) {
+function toFsPath(src, publicDir) {
 	if (!src || !src.startsWith('/')) return null;
-	return join(PUBLIC_DIR, src);
+	return join(publicDir, src);
 }
 
 export function webpSibling(src) {
@@ -64,17 +64,22 @@ export function webpSibling(src) {
  * callers should treat this as "skip optimization, emit plain <img>".
  *
  * @param {string} src - site-absolute path like "/images/posts/slug/file.jpg"
+ * @param {{ publicDir?: string, cache?: boolean }} [options] - Test override.
+ *   publicDir defaults to <cwd>/public; cache defaults to true. Tests pass
+ *   a custom publicDir + cache:false to run in isolation.
  * @returns {Promise<ImageInfo>}
  */
-export async function getImageInfo(src) {
-	loadCache();
+export async function getImageInfo(src, options = {}) {
+	const { publicDir = PUBLIC_DIR, cache: cacheEnabled = true } = options;
+
+	if (cacheEnabled) loadCache();
 
 	const fallback = { src, webp: null, width: null, height: null };
-	const fsPath = toFsPath(src);
+	const fsPath = toFsPath(src, publicDir);
 	if (!fsPath || !existsSync(fsPath)) return fallback;
 
 	const mtime = statSync(fsPath).mtimeMs;
-	const cached = cache[src];
+	const cached = cacheEnabled ? cache[src] : null;
 	if (cached && cached.mtime === mtime) {
 		return {
 			src,
@@ -97,10 +102,12 @@ export async function getImageInfo(src) {
 	const webpFs = webpSibling(fsPath);
 	const hasWebp = existsSync(webpFs);
 
-	cache[src] = { mtime, width, height, hasWebp };
-	cacheDirty = true;
-	writesSinceFlush++;
-	if (writesSinceFlush >= FLUSH_EVERY) flushImageCache();
+	if (cacheEnabled) {
+		cache[src] = { mtime, width, height, hasWebp };
+		cacheDirty = true;
+		writesSinceFlush++;
+		if (writesSinceFlush >= FLUSH_EVERY) flushImageCache();
+	}
 
 	return {
 		src,

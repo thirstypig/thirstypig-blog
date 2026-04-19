@@ -60,7 +60,7 @@ Four tiers, of which we currently run tier 2. The rest are planned:
 |---|---|---|---|---|
 | 1 | Pre-commit hook | `validate_hitlist` + JS unit + Python unit | ~0.5 s | **Active** — `.githooks/pre-commit` (opt-in via `npm run setup:hooks`) |
 | 2 | GitHub Actions on every PR + push to `main` | JS unit + Python unit + E2E (parallel jobs) | ~1-3 min | **Active** — `.github/workflows/test.yml` |
-| 3 | Nightly cron against production | E2E suite hitting `thirstypig.com` | ~1-3 min | **Not yet — add once tier 2 is stable for a few weeks** |
+| 3 | Nightly cron against production | E2E suite hitting `thirstypig.com` | ~1-3 min | **Active** — `.github/workflows/nightly.yml`, 11:00 UTC daily |
 | 4 | Pre-deploy smoke | Handful of critical E2E | ~30 s | **Skip** — over-engineered for this project's scale |
 
 ### Bypassing the pre-commit hook
@@ -109,25 +109,36 @@ At a glance:
   suite: h1 singleton + no heading-level skips, hero `<picture>` + WebP +
   dimensions, body images optimized, LocationCard renders, no unexpected
   console errors, skip link works
-- **`src/utils/image-dimensions.test.mjs`** (7 unit assertions) —
-  `webpSibling()` path transforms
+- **`tests/e2e/closed-venues.spec.ts`** (1 E2E assertion, currently skipped)
+  — dynamic fixture picks a closed post from `/search.json`, asserts the
+  CLOSED badge + `grayscale` class render in search results. Test skips
+  cleanly today because all 37 closed-venue posts in `src/content/posts/`
+  are `draft: true` and therefore excluded from `/search.json`. The
+  `isClosed` rendering branches in `PostCard`, `search.astro`, and
+  `RelatedPosts` are currently **unreachable in production** — the test is
+  pre-staged to start working the moment any closed venue is flipped live.
+- **`src/utils/image-dimensions.test.mjs`** (13 unit assertions) —
+  `webpSibling()` path transforms + `getImageInfo` integration using
+  generated temp fixture files with the `{publicDir, cache: false}` test
+  options (file-missing fallback, real sharp dimension reads, WebP sibling
+  detection, portrait orientation preserved, non-absolute path rejection)
 
 ## What to test next
 
 In rough priority order (pick based on what you're editing):
 
-1. **Unit — `src/utils/image-dimensions.mjs` full integration** — cache hit/
-   miss logic, graceful fallback on missing files. Needs mocking `sharp` or
-   a fixture-file setup — slightly more setup lift. (`webpSibling()` is
-   already covered.)
-2. **E2E — closed-venue rendering** — Navigate to a search query known to
-   include a closed post; assert the CLOSED badge appears and the image has
-   `grayscale opacity-75` classes. Currently deferred because we'd need a
-   stable closed-post fixture — worth a helper that picks one from
-   `/search.json` at test time.
-3. **Nightly cron against production** (tier 3) — wire up once tier 2 has
-   been stable for a couple of weeks. E2E suite pointed at `thirstypig.com`
-   with a schedule trigger at 3am PT.
+The test backlog as originally scoped in PR #45 is now complete. Open
+follow-up opportunities (none urgent):
+
+1. **Flip a few closed venues to `draft: false`** — content decision. Would
+   activate the `isClosed` rendering branches on the live site and
+   auto-un-skip `tests/e2e/closed-venues.spec.ts`.
+2. **Browser matrix expansion** — Playwright currently runs Chromium only.
+   Adding Firefox + WebKit is one config edit but ~3× the CI minutes. Worth
+   revisiting if a Safari-specific bug ever slips through.
+3. **Visual regression** — Playwright snapshot assertions on stable pages.
+   Flaky on content-heavy sites like this one; defer unless you start seeing
+   layout regressions in prod.
 
 ## How to add a new test
 

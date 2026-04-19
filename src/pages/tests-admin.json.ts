@@ -38,8 +38,8 @@ const tests: TestEntry[] = [
 	{
 		file: "src/utils/image-dimensions.test.mjs",
 		kind: "unit",
-		covers: "webpSibling() — lowercase/uppercase extension, .jpeg and .png, multi-dot filenames, no-extension fallback, path preservation",
-		assertions: 7,
+		covers: "webpSibling() path transforms + getImageInfo integration (file-missing fallback, real dimensions via sharp, webp sibling detection, portrait orientation, non-absolute path rejection) using temp fixtures with {cache: false}",
+		assertions: 13,
 		status: "passing",
 	},
 	{
@@ -97,6 +97,13 @@ const tests: TestEntry[] = [
 		covers: "Post page regression — h1 singleton + no heading-level skips, hero <picture> with WebP + dimensions, body images <picture>/lazy/dimensioned, LocationCard renders, no unexpected console errors, skip link jumps to main",
 		assertions: 7,
 		status: "passing",
+	},
+	{
+		file: "tests/e2e/closed-venues.spec.ts",
+		kind: "e2e",
+		covers: "Closed venue rendering — dynamic fixture picks a closed post from /search.json, asserts CLOSED badge + grayscale class in results. Currently skips gracefully because all 37 closed-venue posts are marked draft:true, excluding them from the index.",
+		assertions: 1,
+		status: "untested",
 	},
 ];
 
