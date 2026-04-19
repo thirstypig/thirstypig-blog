@@ -3,10 +3,15 @@ import { defineConfig, devices } from "@playwright/test";
 /**
  * Playwright config.
  *
- * - Boots `astro preview` on port 4321 before tests run
- * - Runs tests from `tests/e2e/**`
- * - Uses Chromium only for now (add Firefox/WebKit later once suite is stable)
+ * Runs against one of two targets depending on PLAYWRIGHT_BASE_URL:
+ *   - Unset (default): boots `astro preview` on :4321 and tests locally
+ *   - Set (e.g. https://thirstypig.com): hits that URL directly, no local server
+ *
+ * The nightly workflow sets PLAYWRIGHT_BASE_URL to production so the same
+ * E2E suite doubles as a live-site regression check.
  */
+const prodBaseURL = process.env.PLAYWRIGHT_BASE_URL;
+
 export default defineConfig({
 	testDir: "./tests/e2e",
 	fullyParallel: true,
@@ -16,7 +21,7 @@ export default defineConfig({
 	reporter: "list",
 
 	use: {
-		baseURL: "http://localhost:4321",
+		baseURL: prodBaseURL || "http://localhost:4321",
 		trace: "on-first-retry",
 	},
 
@@ -27,12 +32,13 @@ export default defineConfig({
 		},
 	],
 
-	// Build + preview server the tests hit
-	webServer: {
-		// Use a pre-built dist in CI (faster); use dev mode locally for fast iteration
-		command: process.env.CI ? "npm run preview" : "npm run preview",
-		url: "http://localhost:4321",
-		reuseExistingServer: !process.env.CI,
-		timeout: 120_000,
-	},
+	// Local preview only spins up when we DON'T have a prod URL override
+	webServer: prodBaseURL
+		? undefined
+		: {
+			command: "npm run preview",
+			url: "http://localhost:4321",
+			reuseExistingServer: !process.env.CI,
+			timeout: 120_000,
+		},
 });
