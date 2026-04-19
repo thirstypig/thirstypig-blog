@@ -57,6 +57,13 @@ const tests: TestEntry[] = [
 		status: "passing",
 	},
 	{
+		file: "scripts/test_seed_hitlist_vault.py",
+		kind: "unit",
+		covers: "Hit List vault seeder — entry_to_md field formatting, optional-field omission, id override always emitted, integration round-trip (real YAML → md → parsed back) preserves ids/names/cities/priorities/links/tags",
+		assertions: 14,
+		status: "passing",
+	},
+	{
 		file: "tests/e2e/homepage.spec.ts",
 		kind: "e2e",
 		covers: "Homepage — hero renders, aria-current on active nav, skip link works, theme toggle persists across navigation",

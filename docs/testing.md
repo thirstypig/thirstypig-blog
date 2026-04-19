@@ -75,6 +75,12 @@ At a glance:
   is crash-free on malformed input; dead-URL helpers; the
   current-vs-legacy-domain distinction (caught a subtle regression during
   test writing)
+- **`scripts/test_seed_hitlist_vault.py`** (14 unit assertions) —
+  `entry_to_md()` field formatting + omission of empty fields;
+  integration round-trip that loads the real `places-hitlist.yaml`, seeds it
+  to markdown, parses it back, and asserts every id/name/city/priority/tag/
+  link survived. Guards the Hit List Phase 4 vault-sync path against silent
+  id corruption on switch-over.
 - **`tests/e2e/homepage.spec.ts`** (4 E2E assertions) — hero renders, nav
   `aria-current`, skip link works, theme toggle persists
 - **`tests/e2e/hitlist.spec.ts`** (5 E2E assertions) — cards render, city
@@ -95,21 +101,18 @@ At a glance:
 
 In rough priority order (pick based on what you're editing):
 
-1. **Unit — `src/utils/image-dimensions.mjs`** — cache hit/miss logic,
-   graceful fallback on missing files. Needs mocking `sharp` — slightly more
-   setup.
-2. **Unit — `scripts/seed_hitlist_vault.py`** — the yaml → md converter.
-   Round-trip stability is exercised manually; a pytest version would lock
-   it in as a regression guard.
-3. **E2E — post-page regression suite** — pick one representative post and
-   assert hero `<picture>` renders, body images lazy-loaded, skip link, prose
-   heading hierarchy. Guards the image pipeline from silently regressing on
-   the highest-traffic page type.
-4. **E2E — closed-venue rendering** — Navigate to a search query known to
+1. **Unit — `src/utils/image-dimensions.mjs` full integration** — cache hit/
+   miss logic, graceful fallback on missing files. Needs mocking `sharp` or
+   a fixture-file setup — slightly more setup lift. (`webpSibling()` is
+   already covered.)
+2. **E2E — closed-venue rendering** — Navigate to a search query known to
    include a closed post; assert the CLOSED badge appears and the image has
-   `grayscale opacity-75` classes. Currently skipped because we'd need a
+   `grayscale opacity-75` classes. Currently deferred because we'd need a
    stable closed-post fixture — worth a helper that picks one from
    `/search.json` at test time.
+3. **Pre-commit hook** — enable tier 1 in the cadence table. `npm run
+   test:unit && npm run test:py` runs in ~2 s total; blocks before every
+   commit so regressions never reach a branch.
 
 ## How to add a new test
 
