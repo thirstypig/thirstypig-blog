@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+#
+# Pre-commit hook — runs the fast half of the test suite before allowing a commit.
+#
+# Activated by running once after a fresh clone:
+#   npm run setup:hooks
+#
+# Runs:
+#   - npm run validate:hitlist   (~50 ms)
+#   - npm run test:unit          (~200 ms, Vitest)
+#   - npm run test:py            (~300 ms, pytest)
+#
+# Skipped intentionally (kept in CI):
+#   - test:e2e — requires Astro build + Playwright browser, ~5 s, too slow for pre-commit
+#
+# Emergency bypass (use sparingly — CI will still catch regressions):
+#   git commit --no-verify
+set -e
+
+echo "→ pre-commit: running fast test suite..."
+
+# Figure out the repo root so the hook works from any cwd
+REPO_ROOT=$(git rev-parse --show-toplevel)
+cd "$REPO_ROOT"
+
+fail() {
+	echo ""
+	echo "✗ pre-commit: $1 failed — commit aborted"
+	echo "   Fix the issue and try again, or bypass with 'git commit --no-verify'"
+	exit 1
+}
+
+npm run --silent validate:hitlist  || fail "validate:hitlist"
+npm run --silent test:unit         || fail "test:unit"
+npm run --silent test:py           || fail "test:py"
+
+echo "✓ pre-commit: all fast tests passed"
