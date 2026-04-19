@@ -45,7 +45,12 @@ First-time setup on a fresh checkout:
 ```bash
 npx playwright install chromium        # E2E browser
 pip install -r requirements-dev.txt    # pytest + pyyaml
+npm run setup:hooks                    # pre-commit hook
 ```
+
+The `setup:hooks` command points git at `.githooks/`, which makes the pre-commit
+hook run automatically before every commit. See the Cadence section for what
+it runs.
 
 ## Cadence
 
@@ -53,10 +58,20 @@ Four tiers, of which we currently run tier 2. The rest are planned:
 
 | Tier | Trigger | Runs | Duration | Status |
 |---|---|---|---|---|
-| 1 | Pre-commit hook | Fastest unit tests + `validate_hitlist.mjs` | ~2-5 s | **Not yet — opt-in `npm run test:unit` for now** |
+| 1 | Pre-commit hook | `validate_hitlist` + JS unit + Python unit | ~0.5 s | **Active** — `.githooks/pre-commit` (opt-in via `npm run setup:hooks`) |
 | 2 | GitHub Actions on every PR + push to `main` | JS unit + Python unit + E2E (parallel jobs) | ~1-3 min | **Active** — `.github/workflows/test.yml` |
 | 3 | Nightly cron against production | E2E suite hitting `thirstypig.com` | ~1-3 min | **Not yet — add once tier 2 is stable for a few weeks** |
 | 4 | Pre-deploy smoke | Handful of critical E2E | ~30 s | **Skip** — over-engineered for this project's scale |
+
+### Bypassing the pre-commit hook
+
+```bash
+git commit --no-verify -m "WIP, will fix tests"
+```
+
+Use sparingly — CI will still catch regressions on the push, and a failing
+test on `main` blocks everyone. If the hook is legitimately broken, fix the
+hook before merging.
 
 ## What's covered today
 
@@ -110,9 +125,9 @@ In rough priority order (pick based on what you're editing):
    `grayscale opacity-75` classes. Currently deferred because we'd need a
    stable closed-post fixture — worth a helper that picks one from
    `/search.json` at test time.
-3. **Pre-commit hook** — enable tier 1 in the cadence table. `npm run
-   test:unit && npm run test:py` runs in ~2 s total; blocks before every
-   commit so regressions never reach a branch.
+3. **Nightly cron against production** (tier 3) — wire up once tier 2 has
+   been stable for a couple of weeks. E2E suite pointed at `thirstypig.com`
+   with a schedule trigger at 3am PT.
 
 ## How to add a new test
 

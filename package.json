@@ -16,7 +16,8 @@
     "test:unit:watch": "vitest",
     "test:py": "python3 -m pytest scripts/",
     "test:e2e": "playwright test",
-    "test:e2e:ui": "playwright test --ui"
+    "test:e2e:ui": "playwright test --ui",
+    "setup:hooks": "git config core.hooksPath .githooks && echo 'Pre-commit hook active. Bypass once with: git commit --no-verify'"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.3",
