@@ -204,7 +204,10 @@ export default defineConfig({
             name: "location",
             label: "Restaurant / Location Name",
             ui: {
-              component: LocationLookup,
+              // TinaCMS field.ui.component accepts a React component at runtime,
+              // but its type is too narrow. Cast to satisfy tsc without losing
+              // the real type at runtime.
+              component: LocationLookup as unknown as string,
             },
           },
           {
