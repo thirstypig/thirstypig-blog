@@ -9,7 +9,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 		<div class="prose max-w-none">
 
-			<h2>April 2026 — Performance, Accessibility & Mobile Editing</h2>
+			<h2>April 2026 — Performance, Accessibility, Mobile Editing & Testing</h2>
+
+			<h3>April 18–20 — Testing stack (8 PRs)</h3>
+			<ul>
+				<li><strong>Testing foundation</strong> — Vitest (JS/TS unit) + Playwright (E2E) + GitHub Actions CI on every PR, plus a TinaCMS admin screen at <code>/admin → Testing</code> showing file-by-file inventory, assertion counts, and cadence. Shipped 3 example tests as proof-of-shape.</li>
+				<li><strong>Python parser tests</strong> — pytest added to the stack with <code>requirements-dev.txt</code>; 43 assertions locking in the Hit List vault parser + shared <code>post_utils.py</code> helpers. Meta-tests guard the intentional narrow-vs-broad dead-domain list distinction.</li>
+				<li><strong>E2E batch for feature pages</strong> — <code>/hitlist</code>, <code>/search</code>, <code>/map</code> each got spec files with 3–5 assertions: filter behavior, debounced search, WebP source emission, Leaflet marker paint, legend render.</li>
+				<li><strong>Post-page regression suite + bugs caught</strong> — First-run surfaced two real production bugs: <code>RelatedPosts</code> skipped heading level h2 (WCAG violation), and its thumbnails missed PR #35's WebP pipeline. Both fixed in the same PR; the test is now a permanent regression guard.</li>
+				<li><strong>Vault seeder round-trip tests</strong> — 14 assertions (7 unit on <code>entry_to_md</code>, 7 integration loading the real YAML → md → re-parsed → semantic equivalence). Locks in the invariant that switching to vault-editing can never silently rename existing entry ids.</li>
+				<li><strong>Pre-commit hook (tier 1)</strong> — <code>.githooks/pre-commit</code> runs <code>validate:hitlist + test:unit + test:py</code> in ~1.7 s before every commit. Plain shell hook, activated via <code>npm run setup:hooks</code>. Zero new deps.</li>
+				<li><strong>Final backlog + nightly production cron (tier 3)</strong> — Image-dimensions integration tests (with in-test fixture generation via sharp); closed-venue E2E (skips cleanly — revealed all 37 closed posts are <code>draft: true</code>); <code>.github/workflows/nightly.yml</code> runs full E2E against <code>thirstypig.com</code> daily at 11:00 UTC.</li>
+				<li><strong>Typecheck script</strong> — <code>npm run typecheck</code> (plain <code>tsc --noEmit</code> with 4 GB heap; <code>astro check</code> OOMs on 2,120 post routes). Installed React + Google Maps types, fixed 2 pre-existing TS errors in <code>tina/*</code> files.</li>
+				<li><strong>Totals</strong> — 12 test files, 105 assertions (24 JS + 57 Python + 24 E2E), ~6 s wall time. 3 of 4 cadence tiers live (pre-commit, CI on PR, nightly). Full details at <code>/admin → Testing</code>.</li>
+			</ul>
 
 			<h3>April 17 — Hit List mobile editing, Post Manager cleanup</h3>
 			<ul>
