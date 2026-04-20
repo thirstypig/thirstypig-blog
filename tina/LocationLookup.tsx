@@ -75,7 +75,7 @@ export default function LocationLookup(props: TinaFieldProps) {
   const [error, setError] = useState("");
   const [showResults, setShowResults] = useState(false);
   const [ready, setReady] = useState(false);
-  const debounceTimer = useRef<ReturnType<typeof setTimeout>>();
+  const debounceTimer = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
   const inputRef = useRef<HTMLInputElement>(null);
   const [dropdownPos, setDropdownPos] = useState({ top: 0, left: 0, width: 0 });
 

@@ -25,6 +25,9 @@ happy path while an edge-case bug lurks in a function nobody exercises.
 ## How to run them
 
 ```bash
+# Typecheck everything (src/, tina/, scripts/*.mjs) — ~14s with 4GB heap
+npm run typecheck
+
 # JS/TS unit tests — fast, runs in Node
 npm run test:unit           # one-shot
 npm run test:unit:watch     # watch mode while iterating
@@ -43,10 +46,15 @@ npm run test
 First-time setup on a fresh checkout:
 
 ```bash
+npm install                            # incl. typescript + @astrojs/check + @types/*
 npx playwright install chromium        # E2E browser
 pip install -r requirements-dev.txt    # pytest + pyyaml
 npm run setup:hooks                    # pre-commit hook
 ```
+
+### Why `tsc --noEmit`, not `astro check`?
+
+`astro check` OOMs on this project — it tries to type-check every generated post route (2,120 posts × schema) and blows past 8 GB of heap. Plain `tsc --noEmit` with the existing `tsconfig.json` runs in ~14 s against a 4 GB heap and covers every `.ts` / `.tsx` / `.mjs` file under `src/`, `tina/`, and `scripts/`. It's what `npm run typecheck` runs.
 
 The `setup:hooks` command points git at `.githooks/`, which makes the pre-commit
 hook run automatically before every commit. See the Cadence section for what
