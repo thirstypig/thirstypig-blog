@@ -65,7 +65,10 @@ jobs:
     steps:
       - name: Fire repository_dispatch at main repo
         env:
-          # PAT with "Actions: Write" on the main repo
+          # PAT with "Contents: Read and write" on the main repo.
+          # Note: despite the endpoint being called "dispatches", GitHub
+          # checks Contents permission, NOT Actions. See
+          # https://docs.github.com/en/rest/repos/repos#create-a-repository-dispatch-event
           DISPATCH_TOKEN: ${{ secrets.MAIN_REPO_DISPATCH_TOKEN }}
         run: |
           curl -X POST \
@@ -77,8 +80,11 @@ jobs:
 ```
 
 Then in the **vault repo** secrets, add `MAIN_REPO_DISPATCH_TOKEN` — a second
-fine-grained PAT, this time with **Actions: Read and write** on the *main* repo
-only.
+fine-grained PAT with **Contents: Read and write** on the *main* repo only.
+
+> **Gotcha:** GitHub's repository_dispatch endpoint requires `Contents` permission
+> despite being called "dispatches." Setting Actions permission alone will produce
+> a curl exit-22 (HTTP 403) at dispatch time. Lesson learned the hard way here.
 
 ## Step 6 — Test it
 
