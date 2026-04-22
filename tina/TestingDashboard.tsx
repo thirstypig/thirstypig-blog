@@ -9,7 +9,15 @@ interface TestEntry {
 	kind: "unit" | "e2e";
 	covers: string;
 	assertions: number;
+	status: "passing" | "failing" | "untested" | "missing";
+}
+
+interface LatestRun {
 	status: "passing" | "failing" | "untested";
+	conclusion: string | null;
+	runNumber: number | null;
+	url: string | null;
+	finishedAt: string | null;
 }
 
 interface TestingData {
@@ -20,7 +28,10 @@ interface TestingData {
 		unit: number;
 		e2e: number;
 		totalAssertions: number;
+		missing: number;
+		undocumented: number;
 	};
+	latestRun: LatestRun;
 }
 
 const s = {
@@ -118,10 +129,38 @@ const s = {
 		fontWeight: 600,
 		color:
 			status === "passing" ? "#065f46" :
-			status === "failing" ? "#991b1b" : "#6b7280",
+			status === "failing" ? "#991b1b" :
+			status === "missing" ? "#7c2d12" : "#6b7280",
 		background:
 			status === "passing" ? "#d1fae5" :
-			status === "failing" ? "#fee2e2" : "#f3f4f6",
+			status === "failing" ? "#fee2e2" :
+			status === "missing" ? "#fed7aa" : "#f3f4f6",
+	}),
+
+	ciCard: (status: LatestRun["status"]) => ({
+		marginBottom: 24,
+		padding: "14px 18px",
+		borderRadius: 8,
+		border: "1px solid",
+		borderColor:
+			status === "passing" ? "#a7f3d0" :
+			status === "failing" ? "#fca5a5" : "#e5e7eb",
+		background:
+			status === "passing" ? "#ecfdf5" :
+			status === "failing" ? "#fef2f2" : "#f9fafb",
+		display: "flex",
+		alignItems: "center",
+		gap: 16,
+	}),
+
+	ciDot: (status: LatestRun["status"]) => ({
+		width: 10,
+		height: 10,
+		borderRadius: 9999,
+		background:
+			status === "passing" ? "#10b981" :
+			status === "failing" ? "#ef4444" : "#9ca3af",
+		flexShrink: 0,
 	}),
 
 	fileCode: {
@@ -138,6 +177,16 @@ const s = {
 		borderRadius: 6,
 		fontSize: 13,
 		color: "#78350f",
+	} as React.CSSProperties,
+
+	driftNote: {
+		marginTop: 16,
+		padding: 12,
+		background: "#fef2f2",
+		borderLeft: "3px solid #dc2626",
+		borderRadius: 6,
+		fontSize: 13,
+		color: "#7f1d1d",
 	} as React.CSSProperties,
 
 	cadence: {
@@ -189,8 +238,31 @@ export default function TestingDashboard() {
 			<div style={s.header}>
 				<h1 style={s.title}>Testing</h1>
 				<div style={s.subtitle}>
-					Test inventory for The Thirsty Pig. Data last generated at build time:{" "}
+					Test inventory for The Thirsty Pig. Auto-derived at build time:{" "}
 					{new Date(data.generatedAt).toLocaleString()}
+				</div>
+			</div>
+
+			{/* Latest CI run card */}
+			<div style={s.ciCard(data.latestRun.status)}>
+				<div style={s.ciDot(data.latestRun.status)} aria-hidden="true" />
+				<div style={{ flex: 1 }}>
+					<div style={{ fontSize: 14, fontWeight: 600, color: "#111827" }}>
+						Latest CI run:{" "}
+						{data.latestRun.status === "passing" && "✓ All tests passing on main"}
+						{data.latestRun.status === "failing" && "✗ Tests failing on main — check the workflow"}
+						{data.latestRun.status === "untested" && "Status unknown (run in progress or API unreachable)"}
+					</div>
+					{data.latestRun.url && (
+						<div style={{ fontSize: 12, color: "#6b7280", marginTop: 2 }}>
+							Run #{data.latestRun.runNumber}
+							{data.latestRun.finishedAt && ` · ${new Date(data.latestRun.finishedAt).toLocaleString()}`}
+							{" · "}
+							<a href={data.latestRun.url} target="_blank" rel="noopener noreferrer" style={{ color: "#2563eb" }}>
+								view run →
+							</a>
+						</div>
+					)}
 				</div>
 			</div>
 
@@ -246,10 +318,16 @@ export default function TestingDashboard() {
 				</ul>
 			</div>
 
-			<div style={s.note}>
-				<strong>Phase 1 caveat:</strong> statuses shown above are snapshots from the last manual update to{" "}
-				<code>src/pages/tests-admin.json.ts</code>, not live CI results. Phase 2 will wire real CI artifacts so this screen reflects the actual latest run.
-			</div>
+			{data.summary.missing > 0 && (
+				<div style={s.driftNote}>
+					<strong>⚠️ Drift detected:</strong> {data.summary.missing} file(s) are documented in metadata but don't exist on disk. Check the Status column for entries marked <em>missing</em>.
+				</div>
+			)}
+			{data.summary.undocumented > 0 && (
+				<div style={s.driftNote}>
+					<strong>📝 Undocumented tests:</strong> {data.summary.undocumented} test file(s) exist on disk but have no description. Add an entry in <code>src/pages/tests-admin.json.ts</code> metadata.
+				</div>
+			)}
 		</div>
 	);
 }
