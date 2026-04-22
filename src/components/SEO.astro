@@ -1,5 +1,6 @@
 ---
 import { SITE_TITLE, SITE_URL } from '../consts';
+import { slugify } from '../utils';
 
 interface Props {
 	title: string;
@@ -29,11 +30,17 @@ const {
 	region,
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || SITE_URL);
+const siteBase = Astro.site || SITE_URL;
+const canonicalURL = new URL(Astro.url.pathname, siteBase);
 const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
-const ogImage = image ? new URL(image, Astro.site || SITE_URL).toString() : undefined;
+const ogImage = image ? new URL(image, siteBase).toString() : undefined;
 
-// Build Restaurant JSON-LD when we have venue data
+const isHomepage = Astro.url.pathname === '/';
+const primaryCategory = categories[0];
+
+// --- Structured data ------------------------------------------------------
+
+// Restaurant LD when we have venue data
 const hasRestaurant = location && (address || coordinates);
 const restaurantLD = hasRestaurant ? {
 	'@context': 'https://schema.org',
@@ -51,6 +58,50 @@ const restaurantLD = hasRestaurant ? {
 		longitude: coordinates.lng,
 	}}),
 	...(ogImage && { image: ogImage }),
+} : null;
+
+// Article LD for post pages (type === 'article')
+const articleLD = (type === 'article' && publishDate) ? {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: title,
+	description: description,
+	datePublished: publishDate.toISOString(),
+	author: { '@type': 'Person', name: 'The Thirsty Pig' },
+	publisher: { '@type': 'Organization', name: SITE_TITLE },
+	...(ogImage && { image: ogImage }),
+	...(primaryCategory && { articleSection: primaryCategory }),
+	mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.toString() },
+} : null;
+
+// BreadcrumbList LD for post pages with a known category.
+// SERPs render this as Home › Category › Post beneath the title.
+const breadcrumbLD = (type === 'article' && primaryCategory) ? {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: [
+		{ '@type': 'ListItem', position: 1, name: 'Home', item: siteBase.toString().replace(/\/$/, '') + '/' },
+		{ '@type': 'ListItem', position: 2, name: primaryCategory, item: new URL(`/categories/${slugify(primaryCategory)}/`, siteBase).toString() },
+		{ '@type': 'ListItem', position: 3, name: title, item: canonicalURL.toString() },
+	],
+} : null;
+
+// WebSite LD with SearchAction — homepage only.
+// Tells Google about the internal search so it can render a search box in
+// the site's SERP result (sitelinks search box feature).
+const websiteLD = isHomepage ? {
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: SITE_TITLE,
+	url: siteBase.toString(),
+	potentialAction: {
+		'@type': 'SearchAction',
+		target: {
+			'@type': 'EntryPoint',
+			urlTemplate: new URL('/search?q={search_term_string}', siteBase).toString(),
+		},
+		'query-input': 'required name=search_term_string',
+	},
 } : null;
 ---
 
@@ -79,31 +130,22 @@ const restaurantLD = hasRestaurant ? {
 {publishDate && <meta property="article:published_time" content={publishDate.toISOString()} />}
 {categories.map(cat => <meta property="article:tag" content={cat} />)}
 
-<!-- JSON-LD Article Structured Data -->
-{type === 'article' && publishDate && (
-	<script type="application/ld+json" set:html={JSON.stringify({
-		'@context': 'https://schema.org',
-		'@type': 'Article',
-		headline: title,
-		description: description,
-		datePublished: publishDate.toISOString(),
-		author: {
-			'@type': 'Person',
-			name: 'The Thirsty Pig',
-		},
-		publisher: {
-			'@type': 'Organization',
-			name: SITE_TITLE,
-		},
-		...(ogImage && { image: ogImage }),
-		mainEntityOfPage: {
-			'@type': 'WebPage',
-			'@id': canonicalURL.toString(),
-		},
-	})} />
+<!-- JSON-LD: WebSite + SearchAction (homepage only, enables SERP search box) -->
+{websiteLD && (
+	<script type="application/ld+json" set:html={JSON.stringify(websiteLD)} />
 )}
 
-<!-- JSON-LD Restaurant Structured Data -->
+<!-- JSON-LD: Article (post pages) -->
+{articleLD && (
+	<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
+)}
+
+<!-- JSON-LD: BreadcrumbList (post pages with a category) -->
+{breadcrumbLD && (
+	<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
+)}
+
+<!-- JSON-LD: Restaurant (venue pages with location + address or coords) -->
 {restaurantLD && (
 	<script type="application/ld+json" set:html={JSON.stringify(restaurantLD)} />
 )}
