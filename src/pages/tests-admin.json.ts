@@ -140,6 +140,13 @@ const tests: TestEntry[] = [
 		assertions: 3,
 		status: "passing",
 	},
+	{
+		file: "tests/e2e/endpoints.spec.ts",
+		kind: "e2e",
+		covers: "Build-time JSON schema + self-consistency — /tests-admin.json (counters match entries; no dashboard lies), /stats.json (StatsDashboard keys + image-stats invariant), /posts-admin.json (12-field PostManager shape), /search.json (WebP metadata for every heroImage — PR #40 guard), /places-hitlist.json (priority 1-3)",
+		assertions: 5,
+		status: "passing",
+	},
 ];
 
 export const GET: APIRoute = async () => {
