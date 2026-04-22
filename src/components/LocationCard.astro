@@ -1,4 +1,6 @@
 ---
+import { buildLocationLinks } from '../utils/location-links';
+
 interface Props {
 	location?: string;
 	city?: string;
@@ -13,16 +15,7 @@ const hasLocation = location || city;
 if (!hasLocation) return;
 
 const cityRegion = [city, region].filter(Boolean).join(', ');
-const mapUrl = coordinates
-	? `/map#lat=${coordinates.lat}&lng=${coordinates.lng}&zoom=15`
-	: city
-		? `/map`
-		: null;
-const googleMapsUrl = coordinates
-	? `https://www.google.com/maps/search/?api=1&query=${coordinates.lat},${coordinates.lng}`
-	: address
-		? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
-		: null;
+const { mapUrl, googleMapsUrl } = buildLocationLinks({ coordinates, city, address });
 ---
 
 <div class="location-card">
