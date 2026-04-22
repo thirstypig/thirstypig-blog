@@ -7,12 +7,13 @@ originalUrl: http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-clo
 categories:
 - Taiwanese
 tags:
+- closed
 - arcadia
 - taiwanese
 - noodles
 description: In the 1st half of the last century, there was a large migration of Chinese to the small island country of Taiwan. Most were in the military following Chiang Kai Shek. They settled in little pockets i
 archiveUrl: https://web.archive.org/web/20161106014441/http://thirstypig.com/2009/11/13/liangs-village-cuisine-arcadia-closed/
-draft: true
+draft: false
 location: Liang’s Village Cuisine
 city: Arcadia
 region: San Gabriel Valley

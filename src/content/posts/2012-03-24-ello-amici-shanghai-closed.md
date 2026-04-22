@@ -7,13 +7,14 @@ originalUrl: http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/
 categories:
 - Italian
 tags:
+- closed
 - shanghai
 - italian
 - pasta
 - pizza
 description: Ello Amici 102 Xiangyang Nan Lu, near Nanchang Lu 襄阳路102号， 近南昌路
 archiveUrl: https://web.archive.org/web/20161106040235/http://thirstypig.com/2012/03/24/ello-amici-shanghai-closed/
-draft: true
+draft: false
 location: Ello Amicis
 city: Shanghai
 region: Shanghai

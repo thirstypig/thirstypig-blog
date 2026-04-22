@@ -7,13 +7,14 @@ originalUrl: http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/
 categories:
 - American
 tags:
+- closed
 - eagle-rock
 - american
 - soul-food
 - fried-chicken
 description: Grubstreethttp://www.grubstreet.com/2012/11/larkins-closing-eagle-rock.html Yelphttps://www.yelp.com/biz/larkins-eagle-rock Eater 1http://la.eater.com/2012/11/5/6525917/larkins-soul-food-joint-finally
 archiveUrl: https://web.archive.org/web/20160829002202/http://thirstypig.com/2010/03/26/larkins-eagle-rock-closed/
-draft: true
+draft: false
 location: Larkin's
 city: Eagle Rock
 region: Los Angeles

@@ -7,13 +7,14 @@ originalUrl: http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-c
 categories:
 - Italian
 tags:
+- closed
 - mpk
 - italian
 - pizza
 - thin-crust
 description: After reviewing Zelo’s Pizza. . .I felt I should submit my review for Bollini’s.
 archiveUrl: https://web.archive.org/web/20161105081122/http://thirstypig.com/2010/04/03/bollinis-pizzeria-napolitana-mpk-closed/
-draft: true
+draft: false
 location: Bollini’s Pizzeria Napolitana
 city: Mpk
 region: San Gabriel Valley

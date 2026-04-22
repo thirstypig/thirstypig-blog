@@ -51,12 +51,18 @@ test.describe("closed venue rendering", () => {
 		const resultCard = page.locator("#search-results article", { hasText: closedPost!.title.split(",")[0] }).first();
 		await expect(resultCard).toBeVisible();
 
-		// CLOSED badge visible inside the card
+		// CLOSED badge is the universal signal — renders whether or not the post
+		// has a hero image. Always expected.
 		const badge = resultCard.locator("text=Closed");
 		await expect(badge).toBeVisible();
 
-		// Grayscale class applied to the image (search.astro renders this inline)
-		const grayscaleImg = resultCard.locator("img.grayscale");
-		await expect(grayscaleImg).toBeVisible();
+		// Grayscale class only applies when there's a hero image. Most legacy
+		// closed-venue posts (2009-2012 WordPress reviews) are text-only, so
+		// this assertion only fires when the picked post happens to have one.
+		const hasHero = Boolean((closedPost as unknown as { heroImage?: string }).heroImage);
+		if (hasHero) {
+			const grayscaleImg = resultCard.locator("img.grayscale");
+			await expect(grayscaleImg).toBeVisible();
+		}
 	});
 });

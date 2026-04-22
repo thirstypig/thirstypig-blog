@@ -8,12 +8,13 @@ categories:
 - Cocktails
 description: I got to check out Racks before their Grand Re-Opening at their new location, from their Xintiandi location.
 archiveUrl: https://web.archive.org/web/20161018030122/http://thirstypig.com/2010/10/13/racks-shanghai-closed/
-draft: true
+draft: false
 location: Racks
 city: Shanghai
 region: Shanghai
 address: 221 Jinxian Road near Maoming Road
 tags:
+- closed
 - shanghai
 - cocktails
 - bar
