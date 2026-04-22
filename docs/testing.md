@@ -109,6 +109,16 @@ At a glance:
   to markdown, parses it back, and asserts every id/name/city/priority/tag/
   link survived. Guards the Hit List Phase 4 vault-sync path against silent
   id corruption on switch-over.
+- **`scripts/test_strip_dead_images.py`** (17 unit assertions) — regex-heavy
+  content cleaner: markdown images, Blogger empty-alt links, autolinks, bare
+  apex-domain + subdomain URLs, HTML img tags (case-insensitive), blank-line
+  collapse, mixed-content realistic scenarios. Caught a real regex bug (+
+  instead of * before apex domain matcher) while writing.
+- **`scripts/test_mark_imageless_drafts.py`** (16 unit assertions) —
+  `image_exists` routing (empty/None → False, dead URLs → False, externals
+  → True, local filesystem check) + `get_image_refs` collection across
+  heroImage, images array, inline markdown, HTML img tags, plus graceful
+  handling of missing/None entries.
 - **`tests/e2e/homepage.spec.ts`** (4 E2E assertions) — hero renders, nav
   `aria-current`, skip link works, theme toggle persists
 - **`tests/e2e/hitlist.spec.ts`** (5 E2E assertions) — cards render, city
@@ -161,13 +171,20 @@ In rough priority order (pick based on what you're editing):
 Phase A (site page coverage) and Phase B (endpoint schema checks) are
 complete. Remaining low-priority follow-ups:
 
-1. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
-   `strip_dead_images.py`. Extract pure helpers first, then pytest. ~45 min.
-2. **Extractable component helpers** — `Pagination.astro` (2-line URL
+Phases A (site pages), B (endpoint schemas), C (remark plugin unit), and
+D (Python scripts) are all complete. The "entire site" test coverage plan
+from PR #57's framing is done.
+
+Remaining opportunistic follow-ups (none urgent):
+
+1. **Extractable component helpers** — `Pagination.astro` (2-line URL
    derivation; low ROI, already E2E-covered), `FormattedDate.astro` (trivial
    wrapper around `toLocaleDateString`), `LocationCard.astro` (conditional
    URL building — worth it if extracted into a helper). Consider when
    touching those components for something else.
+2. **Flip a few closed venues to `draft: false`** — content decision. Would
+   activate the `isClosed` rendering branches on the live site and
+   auto-un-skip `tests/e2e/closed-venues.spec.ts`.
 3. **Flip a few closed venues to `draft: false`** — content decision. Would
    activate the `isClosed` rendering branches on the live site and
    auto-un-skip `tests/e2e/closed-venues.spec.ts`.

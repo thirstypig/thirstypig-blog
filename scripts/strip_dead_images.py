@@ -72,8 +72,12 @@ def strip_dead_images(body):
             return ""
         return m.group(0)
 
-    body = re.sub(r'https?://[^\s)<\]]+thethirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
-    body = re.sub(r'https?://[^\s)<\]]+thirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
+    # Use `*` (not `+`) for the pre-domain char class so apex-domain URLs match.
+    # `+` would require at least one char between `://` and the domain, which
+    # misses `https://thirstypig.com/wp-content/...` (apex, no subdomain).
+    # Caught by test_removes_bare_wp_content_url in test_strip_dead_images.py.
+    body = re.sub(r'https?://[^\s)<\]]*thethirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
+    body = re.sub(r'https?://[^\s)<\]]*thirstypig\.com/wp-content[^\s)<\]]*', replace_bare_url, body)
     body = re.sub(r'https?://[^\s)<\]]*bp\.blogspot\.com[^\s)<\]]*', replace_bare_url, body)
 
     # 2. HTML img tags: <img ... src="url" ... />
