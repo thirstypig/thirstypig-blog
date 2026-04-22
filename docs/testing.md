@@ -130,21 +130,40 @@ At a glance:
   generated temp fixture files with the `{publicDir, cache: false}` test
   options (file-missing fallback, real sharp dimension reads, WebP sibling
   detection, portrait orientation preserved, non-absolute path rejection)
+- **`tests/e2e/archive.spec.ts`** (4 E2E assertions) — `/archive/*`:
+  index + year page + year-month page + Archive nav aria-current
+- **`tests/e2e/categories.spec.ts`** (3 E2E assertions) — `/categories/*`:
+  index + individual category page + Categories nav aria-current
+- **`tests/e2e/pagination.spec.ts`** (3 E2E assertions) — `/posts/N/`:
+  grid renders, Next link (scoped to nav aria-label=Pagination) navigates,
+  Previous is disabled on page 1
+- **`tests/e2e/static-pages.spec.ts`** (4 E2E assertions) — `/about`,
+  `/best-of`, `/changelog` each render heading + stable content
+- **`tests/e2e/feeds.spec.ts`** (3 E2E assertions) — `/rss.xml`,
+  `/sitemap-index.xml`, `/robots.txt` return correct content-types +
+  expected structural markers
 
 ## What to test next
 
 In rough priority order (pick based on what you're editing):
 
-The test backlog as originally scoped in PR #45 is now complete. Open
-follow-up opportunities (none urgent):
+Phase A site-coverage batch (archive, categories, pagination, static pages,
+feeds) shipped in PR after #56. The remaining low-priority follow-ups:
 
-1. **Flip a few closed venues to `draft: false`** — content decision. Would
+1. **Phase B — Endpoint schema checks** — `/stats.json`, `/tests-admin.json`,
+   `/posts-admin.json` structural assertions. Quick win (~30-45 min).
+2. **Phase C — Missing unit coverage** — `remark-instagram-mentions.mjs`,
+   extractable helpers from `Pagination.astro`, `FormattedDate.astro`,
+   `LocationCard.astro`. ~45 min.
+3. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
+   `strip_dead_images.py`. Extract pure helpers first, then pytest. ~45 min.
+4. **Flip a few closed venues to `draft: false`** — content decision. Would
    activate the `isClosed` rendering branches on the live site and
    auto-un-skip `tests/e2e/closed-venues.spec.ts`.
-2. **Browser matrix expansion** — Playwright currently runs Chromium only.
+5. **Browser matrix expansion** — Playwright currently runs Chromium only.
    Adding Firefox + WebKit is one config edit but ~3× the CI minutes. Worth
    revisiting if a Safari-specific bug ever slips through.
-3. **Visual regression** — Playwright snapshot assertions on stable pages.
+6. **Visual regression** — Playwright snapshot assertions on stable pages.
    Flaky on content-heavy sites like this one; defer unless you start seeing
    layout regressions in prod.
 
