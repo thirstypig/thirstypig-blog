@@ -142,22 +142,26 @@ At a glance:
 - **`tests/e2e/feeds.spec.ts`** (3 E2E assertions) — `/rss.xml`,
   `/sitemap-index.xml`, `/robots.txt` return correct content-types +
   expected structural markers
+- **`tests/e2e/endpoints.spec.ts`** (5 E2E assertions) — build-time JSON
+  shape + self-consistency invariants across `/tests-admin.json` (counters
+  match actual entries), `/stats.json`, `/posts-admin.json`, `/search.json`
+  (PR #40 WebP-metadata regression guard), `/places-hitlist.json`. Written
+  so a silent field rename in any generator blows up in CI instead of the
+  admin dashboard.
 
 ## What to test next
 
 In rough priority order (pick based on what you're editing):
 
-Phase A site-coverage batch (archive, categories, pagination, static pages,
-feeds) shipped in PR after #56. The remaining low-priority follow-ups:
+Phase A (site page coverage) and Phase B (endpoint schema checks) are
+complete. Remaining low-priority follow-ups:
 
-1. **Phase B — Endpoint schema checks** — `/stats.json`, `/tests-admin.json`,
-   `/posts-admin.json` structural assertions. Quick win (~30-45 min).
-2. **Phase C — Missing unit coverage** — `remark-instagram-mentions.mjs`,
+1. **Phase C — Missing unit coverage** — `remark-instagram-mentions.mjs`,
    extractable helpers from `Pagination.astro`, `FormattedDate.astro`,
    `LocationCard.astro`. ~45 min.
-3. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
+2. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
    `strip_dead_images.py`. Extract pure helpers first, then pytest. ~45 min.
-4. **Flip a few closed venues to `draft: false`** — content decision. Would
+3. **Flip a few closed venues to `draft: false`** — content decision. Would
    activate the `isClosed` rendering branches on the live site and
    auto-un-skip `tests/e2e/closed-venues.spec.ts`.
 5. **Browser matrix expansion** — Playwright currently runs Chromium only.
