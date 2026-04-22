@@ -18,7 +18,7 @@
   name: Persé
   neighborhood: Brentwood
   city: Los Angeles
-  priority: 1
+  priority: 2
   date_added: '2026-04-15'
   notes: Refined Persian cuisine, fine dining, 11677 San Vicente Blvd
   links:
@@ -50,7 +50,7 @@
   name: Little Fish
   neighborhood: Melrose Hill
   city: Los Angeles
-  priority: 1
+  priority: 2
   date_added: '2026-04-15'
   notes: Michelin Bib Gourmand, seasonal sustainably sourced seafood, walk-ins welcome
   links:
@@ -67,7 +67,7 @@
   name: Churrería El Moro
   neighborhood: Echo Park
   city: Los Angeles
-  priority: 2
+  priority: 1
   date_added: '2026-04-15'
   notes: Mexico City's iconic churrería since 1935, churros, champurrado, al pastor tortas
   links:
@@ -98,7 +98,7 @@
   name: Szechuan Mountain House
   neighborhood: Rowland Heights
   city: Rowland Heights
-  priority: 1
+  priority: 3
   date_added: '2026-04-15'
   notes: 川山甲, ancient Chinese garden decor, koi ponds, NYT Top 100 Restaurant
   links:
@@ -162,7 +162,7 @@
   name: Hayato
   neighborhood: DTLA
   city: Los Angeles
-  priority: 2
+  priority: 1
   date_added: '2026-04-16'
   notes: Kaiseki omakase, Row DTLA, two Michelin stars
   links:
