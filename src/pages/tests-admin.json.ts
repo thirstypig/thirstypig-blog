@@ -36,6 +36,13 @@ const tests: TestEntry[] = [
 		status: "passing",
 	},
 	{
+		file: "src/plugins/remark-instagram-mentions.test.mjs",
+		kind: "unit",
+		covers: "@mention plugin — splits text/link/text, hProperties (target/rel/class), start/end/middle positioning, multiple @handles, email-boundary rejection, dot/underscore handles, skip-override (the/was/a/etc), mixed skip+real, case preservation",
+		assertions: 11,
+		status: "passing",
+	},
+	{
 		file: "src/utils/image-dimensions.test.mjs",
 		kind: "unit",
 		covers: "webpSibling() path transforms + getImageInfo integration (file-missing fallback, real dimensions via sharp, webp sibling detection, portrait orientation, non-absolute path rejection) using temp fixtures with {cache: false}",

@@ -91,6 +91,11 @@ At a glance:
 - **`src/utils.test.ts`** (6 unit assertions) — `slugify()` behavior
 - **`src/plugins/remark-image-optimize.test.mjs`** (5 unit assertions) —
   `buildPictureHtml()` HTML emission, WebP source presence, HTML escaping
+- **`src/plugins/remark-instagram-mentions.test.mjs`** (11 unit assertions) —
+  the `@handle` → Instagram-link transform: single/multiple matches,
+  start/end/middle positioning, email-like boundary rejection, dot+underscore
+  handles, skip-overrides (English short words from mention-overrides.json),
+  mixed skip+real, link hProperties (target/rel/class), case preservation
 - **`scripts/test_sync_hitlist.py`** (25 unit assertions) — Hit List vault
   parser: header parsing, metadata keys, tag normalization, priority bounds,
   id slugification and override, unknown-key drop, CJK handling
@@ -156,11 +161,13 @@ In rough priority order (pick based on what you're editing):
 Phase A (site page coverage) and Phase B (endpoint schema checks) are
 complete. Remaining low-priority follow-ups:
 
-1. **Phase C — Missing unit coverage** — `remark-instagram-mentions.mjs`,
-   extractable helpers from `Pagination.astro`, `FormattedDate.astro`,
-   `LocationCard.astro`. ~45 min.
-2. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
+1. **Phase D — Python script tests** — `mark_imageless_drafts.py`,
    `strip_dead_images.py`. Extract pure helpers first, then pytest. ~45 min.
+2. **Extractable component helpers** — `Pagination.astro` (2-line URL
+   derivation; low ROI, already E2E-covered), `FormattedDate.astro` (trivial
+   wrapper around `toLocaleDateString`), `LocationCard.astro` (conditional
+   URL building — worth it if extracted into a helper). Consider when
+   touching those components for something else.
 3. **Flip a few closed venues to `draft: false`** — content decision. Would
    activate the `isClosed` rendering branches on the live site and
    auto-un-skip `tests/e2e/closed-venues.spec.ts`.
