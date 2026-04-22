@@ -105,6 +105,41 @@ const tests: TestEntry[] = [
 		assertions: 1,
 		status: "untested",
 	},
+	{
+		file: "tests/e2e/archive.spec.ts",
+		kind: "e2e",
+		covers: "/archive/* — index lists years, year page (2022) shows month-with-posts links, year-month page (2022/06) lists post links, Archive nav gets aria-current on archive pages",
+		assertions: 4,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/categories.spec.ts",
+		kind: "e2e",
+		covers: "/categories/* — index renders with >10 category links, individual category (japanese) shows heading + post grid, Categories nav gets aria-current",
+		assertions: 3,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/pagination.spec.ts",
+		kind: "e2e",
+		covers: "/posts/N/ — post grid renders, Next link in Pagination nav navigates to page 2, Previous is disabled on page 1 (scoped to nav aria-label=Pagination to avoid PostCard matches)",
+		assertions: 3,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/static-pages.spec.ts",
+		kind: "e2e",
+		covers: "/about, /best-of, /changelog — each renders its heading + stable content markers; About nav link gets aria-current",
+		assertions: 4,
+		status: "passing",
+	},
+	{
+		file: "tests/e2e/feeds.spec.ts",
+		kind: "e2e",
+		covers: "/rss.xml, /sitemap-index.xml, /robots.txt — each returns 200 with XML/text content-type, RSS has channel+title, sitemap references downstream file, robots disallows admin paths",
+		assertions: 3,
+		status: "passing",
+	},
 ];
 
 export const GET: APIRoute = async () => {
