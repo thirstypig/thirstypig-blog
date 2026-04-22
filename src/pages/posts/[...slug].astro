@@ -2,6 +2,7 @@
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
+import Webmentions from '../../components/Webmentions.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('posts');
@@ -17,6 +18,7 @@ type Props = CollectionEntry<'posts'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+const canonical = new URL(`/posts/${post.id}/`, Astro.site).toString();
 ---
 
 <BlogPost {...post.data}>
@@ -28,4 +30,5 @@ const { Content } = await render(post);
 		city={post.data.city}
 		cuisine={post.data.cuisine}
 	/>
+	<Webmentions target={canonical} />
 </BlogPost>
