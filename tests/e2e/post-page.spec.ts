@@ -112,11 +112,20 @@ test.describe("post page", () => {
 		expect(errors, `Unexpected console errors:\n${errors.join("\n")}`).toHaveLength(0);
 	});
 
-	test("article landmark gets focused when skip link is activated", async ({ page }) => {
+	test("article landmark gets focused when skip link is activated", async ({ page, browserName }) => {
 		await page.goto(POST_URL);
-		await page.keyboard.press("Tab");
+
 		const skipLink = page.getByRole("link", { name: "Skip to content" });
-		await expect(skipLink).toBeFocused();
+
+		if (browserName === "webkit") {
+			// WebKit + macOS default keyboard-nav skips links in the Tab sequence.
+			// See tests/e2e/homepage.spec.ts for the full explanation.
+			await skipLink.focus();
+		} else {
+			await page.keyboard.press("Tab");
+			await expect(skipLink).toBeFocused();
+		}
+
 		await skipLink.press("Enter");
 		await expect(page.locator("main#main")).toBeFocused();
 	});

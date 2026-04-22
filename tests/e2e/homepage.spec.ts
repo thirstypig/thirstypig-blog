@@ -20,11 +20,20 @@ test.describe("homepage", () => {
 		await expect(homeLinks.first()).toHaveText("Home");
 	});
 
-	test("skip link becomes visible on first Tab and jumps to main", async ({ page }) => {
+	test("skip link becomes visible on first Tab and jumps to main", async ({ page, browserName }) => {
 		await page.goto("/");
-		await page.keyboard.press("Tab");
+
 		const skipLink = page.getByRole("link", { name: "Skip to content" });
-		await expect(skipLink).toBeFocused();
+
+		if (browserName === "webkit") {
+			// WebKit + macOS default keyboard-nav skips links in the Tab sequence
+			// unless "Full Keyboard Access" is enabled in System Preferences.
+			// Focus the link directly so we still verify the landmark jump works.
+			await skipLink.focus();
+		} else {
+			await page.keyboard.press("Tab");
+			await expect(skipLink).toBeFocused();
+		}
 
 		await skipLink.press("Enter");
 		// After activation, the main landmark receives focus (tabindex="-1")

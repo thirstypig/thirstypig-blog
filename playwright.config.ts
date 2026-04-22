@@ -30,6 +30,14 @@ export default defineConfig({
 			name: "chromium",
 			use: { ...devices["Desktop Chrome"] },
 		},
+		{
+			name: "firefox",
+			use: { ...devices["Desktop Firefox"] },
+		},
+		{
+			name: "webkit",
+			use: { ...devices["Desktop Safari"] },
+		},
 	],
 
 	// Local preview only spins up when we DON'T have a prod URL override

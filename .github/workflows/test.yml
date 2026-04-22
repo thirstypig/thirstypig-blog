@@ -55,7 +55,10 @@ jobs:
       - run: npm ci
 
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps chromium
+        # Full matrix: Chromium + Firefox + WebKit. ~3× test time vs. Chromium
+        # only, but catches browser-specific regressions (e.g. WebKit's
+        # different Tab-keyboard-nav default caught in PR #61).
+        run: npx playwright install --with-deps chromium firefox webkit
 
       # Build once, then Playwright's webServer reuses the existing preview
       - name: Build site
