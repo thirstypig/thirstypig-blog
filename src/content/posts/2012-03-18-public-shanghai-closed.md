@@ -7,13 +7,14 @@ originalUrl: http://thirstypig.com/2012/03/18/public-shanghai-closed/
 categories:
 - Multi
 tags:
+- closed
 - shanghai
 - multi
 - brunch
 - cocktails
 description: The Public, Shanghai Closed 2/F, 174 Xiangyang Nan Lu, near Fuxing Zhong Lu 襄阳南路174号2楼， 近复兴中路 +86 21 6417 1679
 archiveUrl: https://web.archive.org/web/20161106084421/http://thirstypig.com/2012/03/18/public-shanghai-closed/
-draft: true
+draft: false
 location: The Public
 city: Shanghai
 region: Shanghai

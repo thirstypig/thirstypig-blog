@@ -7,13 +7,14 @@ originalUrl: http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
 categories:
 - Mexican
 tags:
+- closed
 - taipei
 - mexican
 - tacos
 - burritos
 description: One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taip
 archiveUrl: https://web.archive.org/web/20161105031435/http://thirstypig.com/2010/06/11/oola-mexican-grill-taipei-closed/
-draft: true
+draft: false
 location: Oola Mexican Grill
 city: Taipei
 region: Taipei

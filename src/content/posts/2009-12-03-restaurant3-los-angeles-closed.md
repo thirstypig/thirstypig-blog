@@ -7,12 +7,13 @@ originalUrl: http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/
 categories:
 - American
 tags:
+- closed
 - los-angeles
 - american
 - fried-chicken
 description: I wish I wasn’t hyped up about the fried chicken. Otherwise, it would have been a good lunch. But here I was, expecting mouth-watering and show-stopping fried chicken. Their menu features many souther
 archiveUrl: https://web.archive.org/web/20161106014258/http://thirstypig.com/2009/12/03/restaurant3-los-angeles-closed/
-draft: true
+draft: false
 location: Restaurant3
 city: Los Angeles
 region: Hollywood

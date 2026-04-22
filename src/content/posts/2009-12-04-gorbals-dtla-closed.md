@@ -7,11 +7,12 @@ originalUrl: http://thirstypig.com/2009/12/04/gorbals-dtla-closed/
 categories:
 - Scottish
 tags:
+- closed
 - dtla
 - scottish
 description: Yelp Listinghttps://www.yelp.com/biz/the-gorbals-los-angeles
 archiveUrl: https://web.archive.org/web/20161105201432/http://thirstypig.com/2009/12/04/gorbals-dtla-closed/
-draft: true
+draft: false
 location: The Gorbals
 city: Dtla
 region: Downtown LA

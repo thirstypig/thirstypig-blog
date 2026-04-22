@@ -7,12 +7,13 @@ originalUrl: http://thirstypig.com/2011/08/30/el-mexicano-shanghai-closed/
 categories:
 - Mexican
 tags:
+- closed
 - shanghai
 - mexican
 - tacos
 description: El Mexicanohttp://www.elmexicano.com.cn/ 485-2 Zhengmin Rd, near Guoding Rd 政民路485号-2, 近国定路 Shanghai
 archiveUrl: https://web.archive.org/web/20161105210219/http://thirstypig.com/2011/08/30/el-mexicano-shanghai-closed/
-draft: true
+draft: false
 location: El Mexicano
 city: Shanghai
 region: Shanghai
