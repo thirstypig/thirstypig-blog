@@ -33,7 +33,7 @@ test.describe("build-time JSON endpoints", () => {
 			expect(entry).toHaveProperty("assertions");
 			expect(entry).toHaveProperty("status");
 			expect(["unit", "e2e"]).toContain(entry.kind);
-			expect(["passing", "failing", "untested"]).toContain(entry.status);
+			expect(["passing", "failing", "untested", "missing"]).toContain(entry.status);
 			expect(typeof entry.assertions).toBe("number");
 		}
 
