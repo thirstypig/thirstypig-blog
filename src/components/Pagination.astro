@@ -1,4 +1,6 @@
 ---
+import { paginationUrls } from '../utils/pagination';
+
 interface Props {
 	currentPage: number;
 	totalPages: number;
@@ -6,8 +8,7 @@ interface Props {
 }
 
 const { currentPage, totalPages, baseUrl } = Astro.props;
-const prevUrl = currentPage > 1 ? `${baseUrl}/${currentPage - 1}` : null;
-const nextUrl = currentPage < totalPages ? `${baseUrl}/${currentPage + 1}` : null;
+const { prevUrl, nextUrl } = paginationUrls(currentPage, totalPages, baseUrl);
 ---
 
 {totalPages > 1 && (
