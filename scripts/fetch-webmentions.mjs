@@ -21,6 +21,11 @@ const OUT = "src/data/webmentions.json";
 const PER_PAGE = 200;
 const API = "https://webmention.io/api/mentions.jf2";
 
+// The domain-wide endpoint (?domain=X) requires authentication. The token is
+// read-only and only scoped to mentions for the owner's domain — low blast
+// radius if it leaks, but rotation is trivial in the webmention.io dashboard.
+const TOKEN = process.env.WEBMENTION_IO_TOKEN;
+
 const WM_PROPERTY_TO_TYPE = {
   "in-reply-to": "reply",
   "like-of": "like",
@@ -30,8 +35,9 @@ const WM_PROPERTY_TO_TYPE = {
 };
 
 async function fetchPage(page) {
-  const url = `${API}?domain=${DOMAIN}&per-page=${PER_PAGE}&page=${page}`;
-  const res = await fetch(url, { headers: { Accept: "application/json" } });
+  const params = new URLSearchParams({ domain: DOMAIN, "per-page": String(PER_PAGE), page: String(page) });
+  if (TOKEN) params.set("token", TOKEN);
+  const res = await fetch(`${API}?${params}`, { headers: { Accept: "application/json" } });
   if (!res.ok) throw new Error(`webmention.io ${res.status} on page ${page}`);
   return res.json();
 }
@@ -68,6 +74,10 @@ function writeOut(data) {
 }
 
 async function main() {
+  if (!TOKEN) {
+    console.warn("WEBMENTION_IO_TOKEN not set — skipping fetch, keeping existing cache");
+    return;
+  }
   const mentions = [];
   let page = 0;
   while (true) {
