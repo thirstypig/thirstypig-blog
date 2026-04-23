@@ -8,8 +8,7 @@
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "validate:hitlist": "node scripts/validate_hitlist.mjs",
-    "fetch:webmentions": "node --env-file-if-exists=.env.local scripts/fetch-webmentions.mjs",
-    "build": "npm run validate:hitlist && npm run fetch:webmentions && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
+    "build": "npm run validate:hitlist && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "test": "npm run typecheck && npm run test:unit && npm run test:py && npm run test:e2e",
