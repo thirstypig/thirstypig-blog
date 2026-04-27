@@ -49,6 +49,18 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "webpSibling() path transforms + getImageInfo integration (file-missing fallback, real dimensions via sharp, webp sibling detection, portrait orientation, non-absolute path rejection) using temp fixtures with {cache: false}",
 	},
+	"src/utils/pagination.test.ts": {
+		kind: "unit",
+		covers: "paginationUrls() — page 1 has next-no-prev, last page has prev-no-next, middle has both, single-page has neither, alt baseUrl, off-by-one regression guard at page=1 / total=1",
+	},
+	"src/utils/location-links.test.ts": {
+		kind: "unit",
+		covers: "Location link helpers — venue/address/city URL construction, fallback ordering, query encoding, edge cases (empty fields, special characters)",
+	},
+	"src/utils/regions.test.ts": {
+		kind: "unit",
+		covers: "aggregateRegions() — homepage city tile aggregation. Posts without `region` field land in elsewhereCount (regression guard against phantom undefined-keyed top region), counts ranked desc, topN respected, sum invariant: top counts + elsewhere = posts.length, empty-list safe",
+	},
 	"scripts/test_sync_hitlist.py": {
 		kind: "unit",
 		covers: "Hit List vault parser — header parsing with commas in names, metadata keys, tag normalization, priority bounds, id slug + override, unknown-key drop, CJK slug handling",

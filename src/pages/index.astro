@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { slugify } from '../utils';
+import { aggregateRegions } from '../utils/regions';
 import { getImageInfo } from '../utils/image-dimensions.mjs';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
@@ -18,18 +19,10 @@ const secondaryInfos = await Promise.all(
 	secondary.map(p => p.data.heroImage ? getImageInfo(p.data.heroImage) : Promise.resolve(null))
 );
 
-const regionCounts = new Map<string, number>();
-posts.forEach(p => {
-	if (p.data.region) regionCounts.set(p.data.region, (regionCounts.get(p.data.region) || 0) + 1);
-});
-const topRegions = [...regionCounts.entries()]
-	.sort((a, b) => b[1] - a[1])
-	.slice(0, 3);
-const topRegionPosts = topRegions.reduce((sum, [, n]) => sum + n, 0);
-const elsewhereCount = posts.length - topRegionPosts;
+const { top: topRegions, elsewhereCount } = aggregateRegions(posts, 3);
 
 const cityTiles = [
-	...topRegions.map(([region, count]) => ({
+	...topRegions.map(({ region, count }) => ({
 		label: region,
 		count,
 		href: `/regions/${slugify(region)}/`,

@@ -145,6 +145,18 @@ At a glance:
   generated temp fixture files with the `{publicDir, cache: false}` test
   options (file-missing fallback, real sharp dimension reads, WebP sibling
   detection, portrait orientation preserved, non-absolute path rejection)
+- **`src/utils/pagination.test.ts`** (6 unit assertions) — `paginationUrls()`
+  for `/posts/N/` etc.: page 1 has next but no prev, last page has prev but
+  no next, middle has both, single-page has neither, alt baseUrl support,
+  explicit off-by-one guard at page=1 / total=1
+- **`src/utils/location-links.test.ts`** (12 unit assertions) — Location
+  link helpers (venue / address / city URL construction, fallback ordering,
+  query encoding, empty-field and special-character edge cases)
+- **`src/utils/regions.test.ts`** (5 unit assertions) — `aggregateRegions()`
+  for the homepage city picker. Regression guard: posts without a `region`
+  field land in `elsewhereCount`, never as a phantom undefined-keyed top
+  region. Counts ranked desc, `topN` respected, `sum(top) + elsewhere ==
+  posts.length` invariant, empty-list safe.
 - **`tests/e2e/archive.spec.ts`** (4 E2E assertions) — `/archive/*`:
   index + year page + year-month page + Archive nav aria-current
 - **`tests/e2e/categories.spec.ts`** (3 E2E assertions) — `/categories/*`:
