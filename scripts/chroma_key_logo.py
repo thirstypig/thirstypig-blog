@@ -1,14 +1,27 @@
-"""Chroma-key the red background out of redpig.jpg, producing a transparent PNG.
+"""Chroma-key the red background out of redpig.jpg, then upscale 4×.
 
-Outputs `public/images/redpig-transparent.png` — the pig illustration alone, on
-a transparent background, suitable for compositing on any color (the homepage
-hero pins it on a full-bleed red field).
+Documents the technique used to produce `public/images/redpig-transparent.png`
+(the pig alone, on a transparent background, suitable for a full-bleed hero).
+
+Pipeline:
+1. HSV threshold to mask the red field (tighter than RGB distance — robust to
+   JPEG compression noise, which jitters R/G/B more than hue).
+2. 1px alpha erosion to kill the halo around the pig outline.
+3. 4× LANCZOS upscale on the masked RGBA image.
+
+Note: the *currently committed* PNG was produced from a higher-resolution
+AI-rendered source (`thirsty-pig-exact.svg` — an SVG container around a
+1335×1178 PNG) chroma-keyed with the same HSV technique below. Re-running this
+script against `redpig.jpg` will produce a usable but lower-fidelity result
+since the JPG source is only 350×309. For maximum sharpness on a re-run, start
+from the highest-resolution source available and consider swapping LANCZOS for
+a model-based upscaler (Real-ESRGAN, waifu2x).
 
 Run:
     python3 scripts/chroma_key_logo.py
 
-Re-run only if the source `public/images/redpig.jpg` is replaced. The output PNG
-is committed; this script does not need to be on the build path.
+The output PNG is committed; this script does not need to be on the build
+path.
 """
 
 from __future__ import annotations
@@ -26,6 +39,7 @@ OUTPUT = REPO_ROOT / "public" / "images" / "redpig-transparent.png"
 HUE_TOLERANCE = 15 / 360.0
 SAT_FLOOR = 0.40
 VAL_FLOOR = 0.30
+UPSCALE = 4
 
 
 def is_red(r: int, g: int, b: int) -> bool:
@@ -56,8 +70,9 @@ def main() -> None:
     alpha = out.getchannel("A").filter(ImageFilter.MinFilter(3))
     out.putalpha(alpha)
 
-    out.save(OUTPUT, "PNG", optimize=True)
-    print(f"wrote {OUTPUT.relative_to(REPO_ROOT)} ({OUTPUT.stat().st_size:,} bytes)")
+    upscaled = out.resize((w * UPSCALE, h * UPSCALE), Image.LANCZOS)
+    upscaled.save(OUTPUT, "PNG", optimize=True)
+    print(f"wrote {OUTPUT.relative_to(REPO_ROOT)} {upscaled.size} ({OUTPUT.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
