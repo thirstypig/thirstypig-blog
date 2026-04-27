@@ -11,30 +11,27 @@ const socialLinks = [
 ];
 ---
 
-<footer class="bg-ink text-stone-light mt-16">
+<footer class="bg-[#1A1413] text-white/70 mt-16">
 	<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-		<!-- Logo and tagline -->
-		<div class="text-center mb-8 text-cream">
-			<img
-				src="/images/redpig.jpg"
-				alt="Thirsty Pig"
-				width="64"
-				height="64"
-				class="h-16 w-16 mx-auto mb-3 rounded object-cover"
-			/>
-			<p class="text-sm text-stone italic">
-				Snapshots of the Wet, Savory, & Delectable
+		<div class="text-center mb-8">
+			<span
+				class="inline-block h-16 w-16 rounded-full bg-[#E4152B] bg-no-repeat bg-center mb-3"
+				style="background-image: url('/images/redpig-transparent.png'); background-size: 110%;"
+				aria-label="Thirsty Pig"
+			></span>
+			<p class="font-[Archivo,system-ui,sans-serif] font-extrabold text-xl text-white tracking-tight">
+				thirsty<span class="text-[#E4152B]">pig</span>
 			</p>
+			<p class="text-sm italic mt-1">Snapshots of the Wet, Savory, &amp; Delectable</p>
 		</div>
 
-		<!-- Social Links -->
 		<div class="flex justify-center gap-5 mb-8">
 			{socialLinks.map(({ name, url, icon }) => (
 				<a
 					href={url}
 					target="_blank"
 					rel="noopener noreferrer"
-					class="text-stone hover:text-amber transition-colors no-underline"
+					class="text-white/60 hover:text-[#E4152B] transition-colors no-underline"
 					aria-label={`Follow on ${name}`}
 				>
 					{icon === 'instagram' && (
@@ -71,19 +68,17 @@ const socialLinks = [
 			))}
 		</div>
 
-		<!-- Footer nav -->
-		<div class="flex justify-center gap-6 text-sm mb-6">
-			<a href="/" class="text-stone hover:text-amber transition-colors no-underline">Home</a>
-			<a href="/archive/" class="text-stone hover:text-amber transition-colors no-underline">Archive</a>
-			<a href="/categories" class="text-stone hover:text-amber transition-colors no-underline">Categories</a>
-			<a href="/hitlist" class="text-stone hover:text-amber transition-colors no-underline">Hit List</a>
-			<a href="/about" class="text-stone hover:text-amber transition-colors no-underline">About</a>
-			<a href="/rss.xml" class="text-stone hover:text-amber transition-colors no-underline">RSS</a>
+		<div class="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm mb-6">
+			<a href="/" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">Home</a>
+			<a href="/archive/" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">Archive</a>
+			<a href="/categories" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">Categories</a>
+			<a href="/hitlist" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">Hit List</a>
+			<a href="/about" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">About</a>
+			<a href="/rss.xml" class="text-white/60 hover:text-[#E4152B] transition-colors no-underline">RSS</a>
 		</div>
 
-		<!-- Copyright -->
-		<div class="text-center text-xs text-stone">
-			<p>&copy; {today.getFullYear()} The Thirsty Pig. All rights reserved.</p>
+		<div class="text-center text-xs text-white/40">
+			<p>&copy; 2007&ndash;{today.getFullYear()} The Thirsty Pig. All rights reserved.</p>
 		</div>
 	</div>
 </footer>

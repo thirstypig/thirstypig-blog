@@ -1,46 +1,44 @@
 ---
 import { SITE_TITLE } from '../consts';
 
-// Normalize trailing slash so Astro's '/hitlist/' path matches href '/hitlist'.
 const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
 const navItems = [
-	{ href: '/', label: 'Home', isActive: pathname === '/' },
-	{ href: '/archive/', label: 'Archive', isActive: pathname.startsWith('/archive') },
-	{ href: '/categories', label: 'Categories', isActive: pathname.startsWith('/categories') },
-	{ href: '/search', label: 'Search', isActive: pathname === '/search' },
+	{ href: '/archive/', label: 'Stories', isActive: pathname.startsWith('/archive') },
+	{ href: '/categories', label: 'Cities', isActive: pathname.startsWith('/categories') },
 	{ href: '/map', label: 'Map', isActive: pathname === '/map' },
-	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },
+	{ href: '/best-of', label: 'Best Of', isActive: pathname.startsWith('/best-of') },
 	{ href: '/about', label: 'About', isActive: pathname === '/about' },
+];
+
+const mobileExtras = [
+	{ href: '/search', label: 'Search', isActive: pathname === '/search' },
+	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },
 ];
 ---
 
 <header class="bg-cream sticky top-0 z-50 border-b border-cream-dark/50">
 	<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
-		<div class="flex items-center justify-between h-16">
-			<!-- Logo / Site Title -->
-			<a href="/" class="flex items-center gap-2 no-underline group text-ink group-hover:text-amber">
-				<img
-					src="/images/redpig.jpg"
-					alt="Thirsty Pig"
-					width="40"
-					height="40"
-					class="h-10 w-10 rounded object-cover"
-				/>
-				<span class="text-xl font-serif font-bold text-ink group-hover:text-amber transition-colors hidden sm:inline">
-					{SITE_TITLE}
+		<div class="flex items-center justify-between h-16 gap-4">
+			<a href="/" class="flex items-center gap-2 no-underline group text-ink shrink-0">
+				<span
+					class="block h-10 w-10 rounded-full shrink-0 bg-[#E4152B] bg-no-repeat bg-center"
+					style="background-image: url('/images/redpig-transparent.png'); background-size: 110%; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08);"
+					aria-label={SITE_TITLE}
+				></span>
+				<span class="font-[Archivo,system-ui,sans-serif] font-extrabold text-lg tracking-tight text-ink hidden sm:inline">
+					thirsty<span class="text-[#E4152B]">pig</span>
 				</span>
 			</a>
 
-			<!-- Navigation Links -->
-			<div class="hidden sm:flex items-center gap-1">
+			<div class="hidden md:flex items-center gap-7">
 				{navItems.map(({ href, label, isActive }) => (
 					<a
 						href={href}
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
-							'px-3 py-2 rounded-lg text-sm font-medium transition-colors no-underline',
-							isActive ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+							'text-sm font-medium transition-colors no-underline',
+							isActive ? 'text-[#E4152B]' : 'text-ink hover:text-[#E4152B]'
 						]}
 					>
 						{label}
@@ -48,8 +46,17 @@ const navItems = [
 				))}
 			</div>
 
-			<div class="flex items-center gap-1">
-				<!-- Theme toggle -->
+			<div class="flex items-center gap-2 shrink-0">
+				<form action="/search" method="get" class="hidden lg:block">
+					<input
+						type="search"
+						name="q"
+						placeholder="Search posts"
+						aria-label="Search posts"
+						class="px-3 py-1.5 rounded-full border border-cream-dark/70 text-sm bg-transparent text-ink placeholder:text-stone w-44 focus:outline-none focus:border-[#E4152B]"
+					/>
+				</form>
+
 				<button
 					id="theme-toggle"
 					type="button"
@@ -65,11 +72,10 @@ const navItems = [
 					</svg>
 				</button>
 
-				<!-- Mobile menu button -->
 				<button
 					id="mobile-menu-btn"
 					type="button"
-					class="sm:hidden p-2 rounded-lg text-stone hover:text-ink hover:bg-cream-dark/50"
+					class="md:hidden p-2 rounded-lg text-stone hover:text-ink hover:bg-cream-dark/50"
 					aria-label="Toggle menu"
 					aria-expanded="false"
 					aria-controls="mobile-menu"
@@ -81,16 +87,15 @@ const navItems = [
 			</div>
 		</div>
 
-		<!-- Mobile menu -->
-		<div id="mobile-menu" class="hidden sm:hidden pb-4 border-t border-cream-dark/50">
+		<div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-cream-dark/50">
 			<div class="flex flex-col gap-1 pt-2">
-				{navItems.map(({ href, label, isActive }) => (
+				{[...navItems, ...mobileExtras].map(({ href, label, isActive }) => (
 					<a
 						href={href}
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
 							'px-3 py-2 rounded-lg text-sm font-medium no-underline',
-							isActive ? 'bg-amber/10 text-amber' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+							isActive ? 'bg-[#E4152B]/10 text-[#E4152B]' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
 						]}
 					>
 						{label}
@@ -102,7 +107,6 @@ const navItems = [
 </header>
 
 <script>
-	// Mobile menu with aria-expanded sync
 	const menuBtn = document.getElementById('mobile-menu-btn');
 	const menu = document.getElementById('mobile-menu');
 	menuBtn?.addEventListener('click', () => {
@@ -111,7 +115,6 @@ const navItems = [
 		menuBtn.setAttribute('aria-expanded', String(!isOpen));
 	});
 
-	// Theme toggle with aria-pressed sync
 	const themeBtn = document.getElementById('theme-toggle');
 
 	function updateThemeUI() {

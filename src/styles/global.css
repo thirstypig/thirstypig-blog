@@ -14,6 +14,11 @@
 @import "@fontsource/playfair-display/latin-400.css";
 @import "@fontsource/playfair-display/latin-600.css";
 @import "@fontsource/playfair-display/latin-700.css";
+@import "@fontsource/archivo/latin-500.css";
+@import "@fontsource/archivo/latin-700.css";
+@import "@fontsource/archivo/latin-800.css";
+@import "@fontsource/archivo/latin-900.css";
+@import "@fontsource/archivo-black/latin-400.css";
 
 @theme {
 	--color-cream: #F5EFE3;
@@ -28,8 +33,17 @@
 	--color-stone: #655F5B;
 	--color-stone-light: #A8A29E;
 
+	/* Bold Red Poster homepage tokens. Scoped — not used elsewhere yet. */
+	--color-poster-red: #E4152B;
+	--color-poster-red-deep: #B50E1F;
+	--color-poster-paper: #FDFBF7;
+	--color-poster-ink: #1A1413;
+	--color-poster-muted: #6B635C;
+
 	--font-serif: 'Playfair Display', Georgia, serif;
 	--font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+	--font-poster: 'Archivo', system-ui, -apple-system, sans-serif;
+	--font-poster-display: 'Archivo Black', 'Archivo', system-ui, sans-serif;
 }
 
 @layer base {

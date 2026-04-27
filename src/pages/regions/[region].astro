@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostGrid from '../../components/PostGrid.astro';
+import { slugify } from '../../utils';
+
+export async function getStaticPaths() {
+	const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+	const bySlug = new Map<string, { name: string; posts: typeof posts }>();
+	posts.forEach(post => {
+		const region = post.data.region;
+		if (!region) return;
+		const slug = slugify(region);
+		if (!slug) return;
+		const existing = bySlug.get(slug);
+		if (existing) {
+			existing.posts.push(post);
+		} else {
+			bySlug.set(slug, { name: region, posts: [post] });
+		}
+	});
+
+	return [...bySlug.entries()].map(([slug, { name, posts: regionPosts }]) => ({
+		params: { region: slug },
+		props: {
+			region: name,
+			posts: regionPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+		},
+	}));
+}
+
+const { region, posts } = Astro.props;
+---
+
+<BaseLayout title={`${region} · Thirsty Pig`} description={`All Thirsty Pig posts from ${region}.`}>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<div class="mb-8">
+			<a href="/" class="text-sm text-[#E4152B] hover:underline no-underline">&larr; Home</a>
+			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mt-2">{region}</h1>
+			<p class="text-stone">{posts.length} post{posts.length === 1 ? '' : 's'}</p>
+		</div>
+		<PostGrid posts={posts} />
+	</section>
+</BaseLayout>
