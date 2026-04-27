@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd agent template for the Thirsty Pig IG watcher.
+  install_ig_watcher.sh substitutes {{HOME}} and {{REPO_PATH}} with absolute
+  paths, then writes the result to ~/Library/LaunchAgents/.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.thirstypig.ig-watcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>{{REPO_PATH}}/scripts/local/ig_watcher.sh</string>
+    </array>
+
+    <!-- Fire whenever ~/Downloads changes. -->
+    <key>WatchPaths</key>
+    <array>
+        <string>{{HOME}}/Downloads</string>
+    </array>
+
+    <!-- Don't refire more than once every 5 seconds. -->
+    <key>ThrottleInterval</key>
+    <integer>5</integer>
+
+    <!-- Aqua = only run when a user is logged into the GUI. -->
+    <key>LimitLoadToSessionType</key>
+    <string>Aqua</string>
+
+    <key>StandardOutPath</key>
+    <string>{{HOME}}/Library/Logs/thirstypig-ig-watcher.log</string>
+    <key>StandardErrorPath</key>
+    <string>{{HOME}}/Library/Logs/thirstypig-ig-watcher.log</string>
+
+    <!-- Inherit PATH so `gh` works. -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+</dict>
+</plist>
