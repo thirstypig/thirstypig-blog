@@ -1,0 +1,77 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const lastUpdated = '2026-04-27';
+---
+
+<BaseLayout
+	title="Privacy Policy"
+	description="The Thirsty Pig privacy policy — what (little) data this site handles."
+>
+	<section class="max-w-3xl mx-auto px-4 sm:px-6 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Privacy Policy</h1>
+		<p class="text-stone mb-8 text-sm">Last updated: {lastUpdated}</p>
+
+		<div class="prose max-w-none">
+			<h2>The short version</h2>
+			<p>
+				The Thirsty Pig is a personal food blog. It does not collect, store, or
+				share personal information about you. There are no analytics, no email
+				signups, no cookies that identify you, and no third-party trackers.
+			</p>
+
+			<h2>What's actually stored</h2>
+			<ul>
+				<li>
+					<strong>A theme preference cookie</strong> &mdash; If you toggle dark mode,
+					your browser stores your choice locally so the site remembers next visit.
+					This is held in <code>localStorage</code> on your device. It is not sent
+					to any server. Clearing your browser data removes it.
+				</li>
+				<li>
+					<strong>Standard server logs</strong> &mdash; The site is hosted on
+					<a href="https://vercel.com" target="_blank" rel="noopener">Vercel</a>,
+					which keeps short-term operational logs (IP, user agent, requested URL)
+					for caching and abuse prevention. These are governed by
+					<a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener">
+						Vercel's privacy policy
+					</a>.
+				</li>
+			</ul>
+
+			<h2>What this site does NOT do</h2>
+			<ul>
+				<li>No Google Analytics, no Meta Pixel, no other behavioural trackers.</li>
+				<li>No email/newsletter signup forms.</li>
+				<li>No advertising network. No tracking pixels.</li>
+				<li>No selling, sharing, or transferring of any user data to third parties.</li>
+			</ul>
+
+			<h2>Embedded content</h2>
+			<p>
+				Some posts may embed images or videos hosted on third-party services
+				(Instagram, YouTube, Vimeo). Those services may set their own cookies
+				when their content loads. If you don't visit those services directly
+				from this site, no information about you is sent to them by The Thirsty
+				Pig itself.
+			</p>
+
+			<h2>Sources of content</h2>
+			<p>
+				Posts on this site come from three places: the original blog
+				(2007&ndash;2017, recovered from the Internet Archive), an Instagram data
+				export, and an automated sync from the Thirsty Pig Facebook Page. None of
+				those pipelines collect data <em>about visitors</em>; they only import
+				the author's own posts.
+			</p>
+
+			<h2>Contact</h2>
+			<p>
+				Questions about this policy? Reach out via
+				<a href="https://instagram.com/thirstypig" target="_blank" rel="noopener">
+					@thirstypig on Instagram
+				</a>.
+			</p>
+		</div>
+	</section>
+</BaseLayout>
