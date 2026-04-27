@@ -19,7 +19,7 @@ const posts = defineCollection({
 		address: z.string().optional(),
 		coordinates: z.object({ lat: z.number(), lng: z.number() }).optional(),
 		cuisine: z.array(z.string()).default([]),
-		source: z.enum(['thirstypig.com', 'thethirstypig.com', 'blog.thethirstypig.com', 'instagram', 'facebook', 'new']).default('new'),
+		source: z.enum(['thirstypig.com', 'thethirstypig.com', 'blog.thethirstypig.com', 'instagram', 'new']).default('new'),
 		originalUrl: z.string().optional(),
 		archiveUrl: z.string().optional(),
 		draft: z.boolean().default(false),
