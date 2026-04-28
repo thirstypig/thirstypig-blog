@@ -1,0 +1,71 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+
+interface Chip {
+	label: string;
+	mention_count: number;
+}
+
+interface Props {
+	placeId?: string;
+}
+
+const { placeId } = Astro.props;
+
+// Read the venue's chip JSON at build time. Returns null and renders
+// nothing if the file is missing — keeps posts without chip data unaffected.
+let chips: Chip[] | null = null;
+let venueName: string | null = null;
+if (placeId) {
+	const chipFile = path.join(process.cwd(), 'public', 'venue-tags', `${placeId}.json`);
+	if (fs.existsSync(chipFile)) {
+		const data = JSON.parse(fs.readFileSync(chipFile, 'utf-8')) as {
+			chips: Chip[];
+			venue_name?: string;
+		};
+		chips = [...data.chips].sort((a, b) => b.mention_count - a.mention_count);
+		venueName = data.venue_name ?? null;
+	}
+}
+
+const formatCount = (n: number) => n.toLocaleString('en-US');
+---
+
+{chips && chips.length > 0 && (
+	<aside class="venue-chips" aria-label={venueName ? `Topic chips for ${venueName}` : 'Topic chips'}>
+		<header class="mb-3 flex items-baseline justify-between gap-3">
+			<h3 class="text-sm font-semibold text-stone uppercase tracking-wide">
+				What people mention
+			</h3>
+			<a
+				href={`/venue-tags/${placeId}.json`}
+				class="text-xs text-stone hover:text-amber transition-colors"
+				title="Raw chip data"
+			>
+				source
+			</a>
+		</header>
+		<div class="flex flex-wrap gap-2">
+			{chips.map(chip => (
+				<span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-cream border border-cream-dark text-sm">
+					<span class="text-ink">{chip.label}</span>
+					<span class="text-stone text-xs font-mono">{formatCount(chip.mention_count)}</span>
+				</span>
+			))}
+		</div>
+		<p class="mt-3 text-xs text-stone">
+			Popular phrases pulled from Google Maps reviews. The number is how many reviews mention each phrase.
+		</p>
+	</aside>
+)}
+
+<style>
+	.venue-chips {
+		margin: 1.5rem 0;
+		padding: 1rem 1.25rem;
+		border-radius: 0.5rem;
+		background: color-mix(in oklab, var(--color-cream-dark) 30%, transparent);
+		border: 1px solid var(--color-cream-dark);
+	}
+</style>

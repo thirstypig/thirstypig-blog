@@ -32,6 +32,7 @@ tags:
 - comfort-food
 cuisine:
 - Taiwanese
+placeId: "0x35b2706fcb6bdb15:0x20b7a2ce3cb25418"
 ---
 
 Comfort food comes in different shapes and sizes, and especially flavors. When people have cravings of foods, particularly of ones they grew up with, it’s like an itch that needs to be scratched. What can you? For me, one of my favorite comfort foods in Taiwanese cuisine. In Shanghai, one of the better options is Bellagio 鹿港小镇. And thank goodness it is open late.

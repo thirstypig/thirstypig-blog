@@ -18,6 +18,10 @@ const posts = defineCollection({
 		region: z.string().optional(),
 		address: z.string().optional(),
 		coordinates: z.object({ lat: z.number(), lng: z.number() }).optional(),
+		// Google Maps FID hex pair (e.g. "0x89c2598f7ff4aa09:0x313547e757cb8cea").
+		// When set and a matching public/venue-tags/{placeId}.json exists, the
+		// post page renders the venue's "Refine reviews" topic chips.
+		placeId: z.string().optional(),
 		cuisine: z.array(z.string()).default([]),
 		source: z.enum(['thirstypig.com', 'thethirstypig.com', 'blog.thethirstypig.com', 'instagram', 'new']).default('new'),
 		originalUrl: z.string().optional(),
