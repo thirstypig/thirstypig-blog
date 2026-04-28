@@ -3,7 +3,7 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–2017, rebuilt from Wayback Machine archives and back online at thirstypig.com. Sits in maintenance mode now — 2,120 posts and 1,400+ mapped restaurants are live, with new posts wired in automatically from Instagram. Working slowly through the hit list of places to try; no urgency, since the content pipeline runs itself.
+My food blog from 2007–present, rebuilt from Wayback Machine archives + Instagram exports. 1,639 published posts and 1,400+ mapped restaurants live at thirstypig.com. Maintenance mode — homepage was redesigned April 2026 as the "Bold Red Poster" (full-bleed red hero, Archivo type, the original pig logo, region landing pages). New Instagram content arrives via a manual-export pipeline (Meta API is walled for personal Pages — confirmed dead end across both FB Graph and IG Graph in April 2026), with a local macOS launchd watcher that auto-uploads export ZIPs as GitHub releases when they land in `~/Downloads`, plus a Monday-9am-PT weekly reminder routine. 10 places on the hit list, no urgency.
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
