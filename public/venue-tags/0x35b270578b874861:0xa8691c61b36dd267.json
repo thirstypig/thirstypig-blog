@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b270578b874861:0xa8691c61b36dd267",
+  "venue_name": "Bar Rouge",
+  "chips": [
+    {
+      "label": "view of the bund",
+      "mention_count": 32
+    },
+    {
+      "label": "rooftop",
+      "mention_count": 20
+    },
+    {
+      "label": "nightclub",
+      "mention_count": 15
+    },
+    {
+      "label": "balcony show",
+      "mention_count": 2
+    },
+    {
+      "label": "edm music",
+      "mention_count": 2
+    },
+    {
+      "label": "rooftop bar",
+      "mention_count": 5
+    },
+    {
+      "label": "dress code",
+      "mention_count": 2
+    },
+    {
+      "label": "crowd",
+      "mention_count": 6
+    },
+    {
+      "label": "closed",
+      "mention_count": 3
+    },
+    {
+      "label": "party",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:59Z",
+  "city": "Shanghai",
+  "key": "bar-rouge-shanghai"
+}

@@ -30,6 +30,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c65adf56b007:0x3029097586d1a8f8"
 ---
 
 ![The Chronicles of Carnitas of East LA](/images/posts/ig-2021-06-07-the-chronicles-of-carnitas-of-east-la/18183879700105476.jpg)

@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c6359f6c9d81:0xf5d57a5a78e20b09"
 ---
 
 ![Philippe’s French Dip](/images/posts/ig-2022-05-26-philippes-french-dip/17953626028741433.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6359f6c9d81:0xf5d57a5a78e20b09",
+  "venue_name": "Cole's French Dip",
+  "chips": [
+    {
+      "label": "french dip",
+      "mention_count": 234
+    },
+    {
+      "label": "speakeasy",
+      "mention_count": 69
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 52
+    },
+    {
+      "label": "garlic fries",
+      "mention_count": 29
+    },
+    {
+      "label": "tots",
+      "mention_count": 40
+    },
+    {
+      "label": "au jus",
+      "mention_count": 36
+    },
+    {
+      "label": "old fashioned",
+      "mention_count": 41
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 26
+    },
+    {
+      "label": "horseradish mustard",
+      "mention_count": 14
+    },
+    {
+      "label": "beef dip",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:30Z",
+  "city": "Los Angeles",
+  "key": "coles-french-dip-dtla"
+}

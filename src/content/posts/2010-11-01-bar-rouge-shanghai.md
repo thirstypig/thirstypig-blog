@@ -23,6 +23,7 @@ coordinates:
   lat: 31.240391
   lng: 121.485224
 cuisine: []
+placeId: "0x35b270578b874861:0xa8691c61b36dd267"
 ---
 
 [![img_5572](/images/posts/bar-rouge-shanghai/bar.rouge_.shanghai.01-188x188.jpg "img_5572")](http://thirstypig.com/2010/11/01/bar-rouge-shanghai/img_5572/)

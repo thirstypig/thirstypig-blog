@@ -31,6 +31,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c65adf56b007:0x3029097586d1a8f8"
 ---
 
 ![Doubleheader at Yankee stadium watching Baltimore at New York](/images/posts/ig-2019-05-15-doubleheader-at-yankee-stadium-watching-baltimore-at-new-yor/18061216726065771.jpg)

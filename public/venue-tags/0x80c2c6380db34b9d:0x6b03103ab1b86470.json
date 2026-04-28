@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6380db34b9d:0x6b03103ab1b86470",
+  "venue_name": "Wolf & Crane Bar",
+  "chips": [
+    {
+      "label": "whiskey selection",
+      "mention_count": 13
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 12
+    },
+    {
+      "label": "hip hop music",
+      "mention_count": 6
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 16
+    },
+    {
+      "label": "crowded",
+      "mention_count": 13
+    },
+    {
+      "label": "wolf and crane mural",
+      "mention_count": 2
+    },
+    {
+      "label": "creative cocktails",
+      "mention_count": 3
+    },
+    {
+      "label": "craft cocktails",
+      "mention_count": 2
+    },
+    {
+      "label": "vibe",
+      "mention_count": 64
+    },
+    {
+      "label": "clean toilets",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:48Z",
+  "city": "Los Angeles",
+  "key": "wolf-crane-dtla"
+}

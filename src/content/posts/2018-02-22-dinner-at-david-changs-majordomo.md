@@ -29,6 +29,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c6611b681927:0x29fe8bed454c7cae"
 ---
 
 ![Dinner at David Chang’s Majordomo](/images/posts/ig-2018-02-22-dinner-at-david-changs-majordomo/17914229809103243.jpg)

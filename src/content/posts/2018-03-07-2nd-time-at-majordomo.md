@@ -31,6 +31,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c6611b681927:0x29fe8bed454c7cae"
 ---
 
 ![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17871597709207324.jpg)

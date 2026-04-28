@@ -24,6 +24,7 @@ tags:
 - cocktails
 cuisine:
 - Cocktails
+placeId: "0x35b270578b874861:0xa8691c61b36dd267"
 ---
 
 Bar Rouge in Shanghai.

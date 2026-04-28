@@ -26,6 +26,7 @@ coordinates:
   lng: 121.46358
 cuisine:
 - Italian
+placeId: "0x14f70c636fd1aa5f:0x46461d71d24ceaf9"
 ---
 
 [![pane-e-vino-shanghai-26](/images/posts/pane-e-vino-shanghai/Pane-E-Vino-Shanghai-19-88x88.jpg "pane-e-vino-shanghai-26")](http://thirstypig.com/2010/11/04/pane-e-vino-shanghai/pane-e-vino-shanghai-26/)

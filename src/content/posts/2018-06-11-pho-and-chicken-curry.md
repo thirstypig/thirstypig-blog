@@ -25,6 +25,7 @@ images:
   - /images/posts/ig-2018-06-11-pho-and-chicken-curry/17926661038136327.jpg
 source: instagram
 draft: false
+placeId: "0x80c2db2ac87d1897:0xd50fbd33a3056663"
 ---
 
 ![Pho and chicken curry](/images/posts/ig-2018-06-11-pho-and-chicken-curry/17932400617083989.jpg)
