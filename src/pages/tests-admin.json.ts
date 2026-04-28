@@ -83,7 +83,7 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 	},
 	"tests/e2e/homepage.spec.ts": {
 		kind: "e2e",
-		covers: "Homepage — hero renders, aria-current on active nav, skip link works (WebKit uses .focus() due to macOS Tab-skip-links default), theme toggle persists across navigation",
+		covers: "Homepage (Bold Red Poster) — hero renders 'Eat everything. Twice.' h1 + 'Right off the stove' section, aria-current works on interior nav (homepage itself has no Home link in the new design), skip link works (WebKit uses .focus() due to macOS Tab-skip-links default), theme toggle persists across navigation",
 	},
 	"tests/e2e/hitlist.spec.ts": {
 		kind: "e2e",
@@ -107,11 +107,11 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 	},
 	"tests/e2e/archive.spec.ts": {
 		kind: "e2e",
-		covers: "/archive/* — index lists years, year page (2022) shows month-with-posts links, year-month page (2022/06) lists post links, Archive nav gets aria-current on archive pages",
+		covers: "/archive/* — index lists years, year page (2022) shows month-with-posts links, year-month page (2022/06) lists post links, Stories nav (renamed from 'Archive' in the Bold Red Poster redesign; route still /archive/) gets aria-current on archive pages",
 	},
 	"tests/e2e/categories.spec.ts": {
 		kind: "e2e",
-		covers: "/categories/* — index renders with >10 category links, individual category (japanese) shows heading + post grid, Categories nav gets aria-current",
+		covers: "/categories/* — index renders with >10 category links, individual category (japanese) shows heading + post grid, Cities nav (renamed from 'Categories' in the Bold Red Poster redesign; route still /categories) gets aria-current",
 	},
 	"tests/e2e/pagination.spec.ts": {
 		kind: "e2e",
