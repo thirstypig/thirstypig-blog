@@ -3,7 +3,7 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–present, rebuilt from Wayback Machine archives + Instagram exports. 1,639 published posts and 1,400+ mapped restaurants live at thirstypig.com. Maintenance mode — homepage was redesigned April 2026 as the "Bold Red Poster" (full-bleed red hero, Archivo type, the original pig logo, region landing pages). New Instagram content arrives via a manual-export pipeline (Meta API is walled for personal Pages — confirmed dead end across both FB Graph and IG Graph in April 2026), with a local macOS launchd watcher that auto-uploads export ZIPs as GitHub releases when they land in `~/Downloads`, plus a Monday-9am-PT weekly reminder routine. 10 places on the hit list, no urgency.
+My food blog from 2007–present, rebuilt from Wayback Machine archives + Instagram exports. 1,639 published posts and 1,400+ mapped restaurants live at thirstypig.com. Active redesign push using Claude Design — extending April 2026's "Bold Red Poster" homepage (full-bleed red hero, Archivo type, the original pig logo, region landing pages) across the rest of the site. Content pipeline runs itself: new Instagram posts arrive via a manual-export pipeline (Meta API is walled for personal Pages — confirmed dead end across both FB Graph and IG Graph in April 2026), a local macOS launchd watcher auto-uploads export ZIPs as GitHub releases when they land in ~/Downloads, and a Monday-9am-PT weekly routine reminds me to drop the new ZIP. 10 places on the hit list.
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
