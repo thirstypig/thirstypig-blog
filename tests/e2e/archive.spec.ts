@@ -38,9 +38,10 @@ test.describe("archive", () => {
 		expect(count).toBeGreaterThan(0);
 	});
 
-	test("Archive nav link gets aria-current on archive pages", async ({ page }) => {
+	test("Stories nav link (points to /archive/) gets aria-current on archive pages", async ({ page }) => {
+		// Bold Red Poster redesign renamed "Archive" -> "Stories"; the route stayed as /archive/.
 		await page.goto("/archive/");
 		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("Archive");
+		await expect(active).toHaveText("Stories");
 	});
 });

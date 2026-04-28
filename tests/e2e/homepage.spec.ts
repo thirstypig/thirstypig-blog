@@ -7,17 +7,21 @@ import { test, expect } from "@playwright/test";
  * script, skip link, and theme toggle persistence across navigation.
  */
 test.describe("homepage", () => {
-	test("renders hero and recent posts", async ({ page }) => {
+	test("renders Bold Red Poster hero and the Right off the stove section", async ({ page }) => {
 		await page.goto("/");
-		await expect(page.getByRole("heading", { level: 1, name: "The Thirsty Pig" })).toBeVisible();
-		await expect(page.getByRole("heading", { level: 2, name: "Recent Posts" })).toBeVisible();
+		// H1 is "Eat<br>everything.<br>Twice." — accessible name normalizes the <br>s
+		// to whitespace, but to be tolerant across browsers use a regex.
+		await expect(page.getByRole("heading", { level: 1 })).toContainText(/Eat\s*everything\.\s*Twice\./);
+		await expect(page.getByRole("heading", { level: 2, name: "Right off the stove" })).toBeVisible();
 	});
 
-	test("main nav has aria-current on the active link", async ({ page }) => {
-		await page.goto("/");
-		// Scope to the main nav (there's also a mobile menu with duplicate links)
-		const homeLinks = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]');
-		await expect(homeLinks.first()).toHaveText("Home");
+	test("aria-current is set on the matching nav link when visiting an interior page", async ({ page }) => {
+		// The Bold Red Poster nav intentionally has no "Home" link — the wordmark links to /
+		// instead. So aria-current is meaningful only on interior pages. Visit /about to
+		// verify the mechanism wires up correctly.
+		await page.goto("/about");
+		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
+		await expect(active).toHaveText("About");
 	});
 
 	test("skip link becomes visible on first Tab and jumps to main", async ({ page, browserName }) => {

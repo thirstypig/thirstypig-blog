@@ -28,9 +28,10 @@ test.describe("categories", () => {
 		expect(count).toBeGreaterThan(0);
 	});
 
-	test("Categories nav link gets aria-current on category pages", async ({ page }) => {
+	test("Cities nav link (points to /categories) gets aria-current on category pages", async ({ page }) => {
+		// Bold Red Poster redesign renamed "Categories" -> "Cities"; the route stayed at /categories.
 		await page.goto("/categories/");
 		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("Categories");
+		await expect(active).toHaveText("Cities");
 	});
 });
