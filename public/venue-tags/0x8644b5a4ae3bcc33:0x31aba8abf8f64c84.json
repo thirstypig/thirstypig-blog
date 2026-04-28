@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84",
+  "venue_name": "Franklin Barbecue",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 2142
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 288
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 17
+    },
+    {
+      "label": "long lines",
+      "mention_count": 287
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 90
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 9
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 218
+    },
+    {
+      "label": "turkey",
+      "mention_count": 365
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 208
+    },
+    {
+      "label": "jalapeño cheddar sausage",
+      "mention_count": 49
+    }
+  ],
+  "scraped_at": "2026-04-28T04:44:41Z",
+  "city": "Austin",
+  "key": "franklin-bbq-austin"
+}

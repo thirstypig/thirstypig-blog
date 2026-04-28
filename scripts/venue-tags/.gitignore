@@ -3,3 +3,5 @@ data/
 *.png
 *.html
 __pycache__/
+.chrome-profile/
+probe_url.py
