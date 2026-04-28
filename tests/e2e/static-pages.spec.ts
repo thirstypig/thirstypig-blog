@@ -19,9 +19,9 @@ test.describe("static pages", () => {
 		await expect(active).toHaveText("About");
 	});
 
-	test("best-of index renders heading", async ({ page }) => {
+	test("best-of (Cuisine) index renders heading", async ({ page }) => {
 		await page.goto("/best-of");
-		await expect(page.getByRole("heading", { level: 1, name: "Best Of" })).toBeVisible();
+		await expect(page.getByRole("heading", { level: 1, name: "Cuisine" })).toBeVisible();
 	});
 
 	test("changelog renders heading and recent entry", async ({ page }) => {

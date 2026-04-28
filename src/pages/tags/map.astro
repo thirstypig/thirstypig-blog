@@ -1,0 +1,157 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+interface Chip {
+	label: string;
+	mention_count: number;
+}
+
+interface VenueRecord {
+	place_id: string;
+	venue_name: string;
+	city: string | null;
+	key: string | null;
+	chips: Chip[];
+}
+
+// Pull every venue's chip data at build time.
+const venueDir = path.join(process.cwd(), 'public', 'venue-tags');
+let venues: VenueRecord[] = [];
+if (fs.existsSync(venueDir)) {
+	venues = fs
+		.readdirSync(venueDir)
+		.filter(f => f.endsWith('.json'))
+		.map(f => JSON.parse(fs.readFileSync(path.join(venueDir, f), 'utf-8')) as VenueRecord)
+		.filter(v => v.city);
+}
+
+// Group venues by city, then sum chip mention counts within each city.
+// Output: cities sorted by total chip volume (most-talked-about cities first).
+type CityAggregate = {
+	city: string;
+	venues: VenueRecord[];
+	totalMentions: number;
+	topChips: Chip[];
+};
+
+const byCity = new Map<string, VenueRecord[]>();
+for (const v of venues) {
+	const city = v.city as string;
+	if (!byCity.has(city)) byCity.set(city, []);
+	byCity.get(city)!.push(v);
+}
+
+const cities: CityAggregate[] = Array.from(byCity.entries()).map(([city, vs]) => {
+	// Aggregate chip labels across the city's venues, summing counts.
+	const chipMap = new Map<string, number>();
+	for (const v of vs) {
+		for (const c of v.chips) {
+			chipMap.set(c.label, (chipMap.get(c.label) ?? 0) + c.mention_count);
+		}
+	}
+	const topChips = Array.from(chipMap.entries())
+		.map(([label, mention_count]) => ({ label, mention_count }))
+		.sort((a, b) => b.mention_count - a.mention_count)
+		.slice(0, 5);
+	return {
+		city,
+		venues: vs,
+		totalMentions: topChips.reduce((s, c) => s + c.mention_count, 0),
+		topChips,
+	};
+});
+
+cities.sort((a, b) => b.totalMentions - a.totalMentions);
+
+const formatCount = (n: number) => n.toLocaleString('en-US');
+const totalVenues = venues.length;
+const totalCities = cities.length;
+---
+
+<BaseLayout
+	title="Tags by Place"
+	description="Top topic chips grouped by city — where each cuisine signature lives."
+>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<header class="mb-10">
+			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">
+				Tags by Place
+			</h1>
+			<p class="text-stone max-w-2xl">
+				Top phrases people mention in reviews, grouped by city. The
+				bigger the count, the more reviews say that word in that
+				city. {totalCities} cities · {totalVenues} venues.
+			</p>
+			<p class="text-xs text-stone mt-3">
+				Looking for the venue-pin map?
+				<a href="/map" class="text-amber hover:text-rust transition-colors">/map</a>.
+			</p>
+		</header>
+
+		{cities.length === 0 ? (
+			<div class="bg-cream-dark/50 border border-cream-dark rounded-lg p-6">
+				<p class="text-stone">No chip data yet. Run the scraper first.</p>
+			</div>
+		) : (
+			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+				{cities.map(c => (
+					<article class="bg-cream-dark/30 border border-cream-dark rounded-lg p-6 flex flex-col">
+						<header class="mb-4 flex items-baseline justify-between gap-3">
+							<h2 class="font-serif text-xl font-bold text-ink leading-tight flex items-center gap-2">
+								<span aria-hidden="true">📍</span>
+								<a
+									href={`/search/?q=${encodeURIComponent(c.city)}`}
+									class="hover:text-amber transition-colors no-underline"
+								>
+									{c.city}
+								</a>
+							</h2>
+							<span class="text-xs text-stone font-mono whitespace-nowrap">
+								{c.venues.length} {c.venues.length === 1 ? 'venue' : 'venues'}
+							</span>
+						</header>
+
+						<ul class="flex flex-col gap-2 mb-4">
+							{c.topChips.map((chip, i) => (
+								<li class="flex items-center justify-between gap-3">
+									<a
+										href={`/search/?q=${encodeURIComponent(chip.label)}`}
+										class="text-ink hover:text-amber transition-colors no-underline truncate"
+									>
+										<span class="text-stone text-xs font-mono mr-2 tabular-nums">
+											{(i + 1).toString().padStart(2, '0')}
+										</span>
+										{chip.label}
+									</a>
+									<span class="text-stone text-xs font-mono tabular-nums shrink-0">
+										{formatCount(chip.mention_count)}
+									</span>
+								</li>
+							))}
+						</ul>
+
+						<footer class="mt-auto pt-3 border-t border-cream-dark/50 text-xs text-stone">
+							{c.venues.map((v, i) => (
+								<>
+									{i > 0 && <span class="mx-1">·</span>}
+									<span>{v.venue_name}</span>
+								</>
+							))}
+						</footer>
+					</article>
+				))}
+			</div>
+		)}
+
+		<footer class="mt-10 text-xs text-stone">
+			<p>
+				Phrases pulled from Google Maps reviews. Each city's list is
+				the top 5 chips by total mention count across its venues.
+				See also: <a href="/tags/cloud" class="text-amber hover:text-rust">tag cloud</a>
+				· <a href="/tags/graph" class="text-amber hover:text-rust">graph</a>.
+			</p>
+		</footer>
+	</section>
+</BaseLayout>

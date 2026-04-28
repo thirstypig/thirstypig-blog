@@ -4,6 +4,7 @@ import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 import PostManager, { PostManagerIcon } from "./PostManager";
 import HitListManager, { HitListIcon } from "./HitListManager";
 import TestingDashboard, { TestingIcon } from "./TestingDashboard";
+import StyleSheet, { StyleSheetIcon } from "./StyleSheet";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -91,6 +92,15 @@ export default defineConfig({
       name: "Testing",
       Component: TestingDashboard,
       Icon: TestingIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Style Sheet screen — design-system reference
+    cms.plugins.add({
+      __type: "screen",
+      name: "Style Sheet",
+      Component: StyleSheet,
+      Icon: StyleSheetIcon,
       layout: "fullscreen",
     });
 

@@ -52,13 +52,36 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		}
 
 		const terms = query.toLowerCase().split(/\s+/);
-		const results = searchIndex.filter(post => {
-			const searchable = [
-				post.title, post.description, post.location,
-				post.city, post.region, ...post.categories, ...post.tags
-			].join(' ').toLowerCase();
-			return terms.every(term => searchable.includes(term));
-		});
+		// Score each post by chip-mention strength. A post whose chip label
+		// contains all query terms gets that chip's mention_count as its
+		// score (max across matching chips). A post that only matches via
+		// title/desc/etc. gets score 0 and falls through to recency order.
+		const scored = searchIndex
+			.map(post => {
+				const searchable = [
+					post.title, post.description, post.location,
+					post.city, post.region, ...post.categories, ...post.tags
+				].join(' ').toLowerCase();
+				if (!terms.every(term => searchable.includes(term)
+					|| (post.chips || []).some((c: any) =>
+						c.label.toLowerCase().includes(term)))) {
+					return null;
+				}
+				let chipScore = 0;
+				for (const c of post.chips || []) {
+					const lbl = c.label.toLowerCase();
+					if (terms.every(t => lbl.includes(t))) {
+						if (c.n > chipScore) chipScore = c.n;
+					}
+				}
+				return { post, chipScore };
+			})
+			.filter(Boolean) as { post: any; chipScore: number }[];
+
+		// Chip-matched results first (highest mention_count wins), then
+		// plain text matches in recency order (the index is pre-sorted).
+		scored.sort((a, b) => b.chipScore - a.chipScore);
+		const results = scored.map(s => s.post);
 
 		renderResults(results.slice(0, 30));
 
