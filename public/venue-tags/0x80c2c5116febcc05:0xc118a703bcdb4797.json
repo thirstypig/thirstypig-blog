@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5116febcc05:0xc118a703bcdb4797",
+  "venue_name": "Yang's Kitchen",
+  "chips": [
+    {
+      "label": "barramundi",
+      "mention_count": 8
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 17
+    },
+    {
+      "label": "mochi pancake",
+      "mention_count": 16
+    },
+    {
+      "label": "cold sesame noodles",
+      "mention_count": 12
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 15
+    },
+    {
+      "label": "hanger steak",
+      "mention_count": 7
+    },
+    {
+      "label": "salmon hash",
+      "mention_count": 5
+    },
+    {
+      "label": "kale salad",
+      "mention_count": 5
+    },
+    {
+      "label": "chimichurri sauce",
+      "mention_count": 4
+    },
+    {
+      "label": "prawn ceviche",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-28T17:32:01Z",
+  "city": "Alhambra",
+  "key": "yangs-kitchen-alhambra"
+}

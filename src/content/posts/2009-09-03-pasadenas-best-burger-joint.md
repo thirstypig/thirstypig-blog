@@ -27,6 +27,7 @@ city: Los Angeles
 region: San Gabriel Valley
 cuisine:
 - American
+placeId: "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab"
 ---
 
 Pie ‘N Burger, located near Caltech, features a simple menu of burgers and, of all things, pie. Strange bedfellows they are, burgers and pies is your All American fare. Not much has changed in the 50+ years since it opened in 1963, as you can see from the interior. I was kind of excited about going to Pie ‘N Burger. I had passed by so many times that I never had the chance to try it.

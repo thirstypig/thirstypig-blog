@@ -28,6 +28,7 @@ coordinates:
   lng: -73.987433
 cuisine:
 - American
+placeId: "0x89c2598f7ff4aa09:0x313547e757cb8cea"
 ---
 
 ![This was a life changing experience - the pastrami sandwich at Katz Deli](/images/posts/ig-2018-05-25-this-was-a-life-changing-experience-the-pastrami-sandwich-at/17948920966062118.jpg)

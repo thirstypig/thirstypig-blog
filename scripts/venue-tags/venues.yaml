@@ -34,3 +34,105 @@
   city: Taipei
   query: "無老鍋 Taipei"
   place_id: "0x3442a96903907a95:0x49dcaaa99c710207"
+
+- key: langers-deli-la
+  name: "Langer's Deli"
+  city: Los Angeles
+  query: "Langer's Deli 704 S Alvarado Los Angeles"
+  place_id: "0x80c2c79f65c05a3f:0x36ae812febfdc501"
+
+- key: sushi-gen-la
+  name: "Sushi Gen"
+  city: Los Angeles
+  query: "Sushi Gen Little Tokyo Los Angeles"
+  place_id: "0x80c2c63850150b9d:0x96cdcf9a38a24170"
+
+- key: din-tai-fung-arcadia
+  name: "Din Tai Fung (Arcadia)"
+  city: Arcadia
+  query: "Din Tai Fung Arcadia CA"
+  place_id: "0x80c2dba524af30e1:0x16db24d33722beac"
+
+- key: sapp-coffee-shop-la
+  name: "Sapp Coffee Shop"
+  city: Los Angeles
+  query: "Sapp Coffee Shop Thai Town Los Angeles"
+  place_id: "0x80c2bf571d7a7c37:0x80a7256111ba6352"
+
+- key: jitlada-la
+  name: "Jitlada"
+  city: Los Angeles
+  query: "Jitlada Hollywood Los Angeles"
+  place_id: "0x80c2bf5410a61eb1:0x284d8605a71cb6f9"
+
+- key: howlin-rays-la
+  name: "Howlin' Ray's"
+  city: Los Angeles
+  query: "Howlin Ray's Chinatown Los Angeles"
+  place_id: "0x80c2c65af5e138b1:0x6b3390b8e0d01d0"
+
+- key: republique-la
+  name: "Republique"
+  city: Los Angeles
+  query: "Republique 624 S La Brea Los Angeles"
+  place_id: "0x80c2b8dfce39a0a9:0x9ab1e575a704621c"
+
+- key: bestia-la
+  name: "Bestia"
+  city: Los Angeles
+  query: "Bestia Arts District Los Angeles"
+  place_id: "0x80c2c621d7d91b49:0x5e3e80cfbddfba70"
+
+- key: guisados-boyle-heights
+  name: "Guisados (Boyle Heights)"
+  city: Los Angeles
+  query: "Guisados Boyle Heights Los Angeles"
+  place_id: "0x80c2c6092c76af25:0xa94ff9fb60027ec0"
+
+- key: newport-seafood-sgv
+  name: "Newport Seafood"
+  city: San Gabriel
+  query: "Newport Seafood San Gabriel CA"
+  place_id: "0x80c2db2a0421cc0f:0x9220aa124e915c64"
+
+- key: sea-harbour-sgv
+  name: "Sea Harbour"
+  city: Rosemead
+  query: "Sea Harbour Seafood Rosemead CA"
+  place_id: "0x80c2da8f651834fd:0x8aa158c3ced53a02"
+
+- key: elite-restaurant-sgv
+  name: "Elite Restaurant"
+  city: Monterey Park
+  query: "Elite Restaurant Monterey Park CA"
+  place_id: "0x80c2cf8aaa72d31f:0x94ee157fd8af2458"
+
+- key: pie-n-burger-pasadena
+  name: "Pie 'n Burger"
+  city: Pasadena
+  query: "Pie 'n Burger Pasadena CA"
+  place_id: "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab"
+
+- key: yangs-kitchen-alhambra
+  name: "Yang's Kitchen"
+  city: Alhambra
+  query: "Yang's Kitchen Alhambra CA"
+  place_id: "0x80c2c5116febcc05:0xc118a703bcdb4797"
+
+- key: spago-bh
+  name: "Spago Beverly Hills"
+  city: Beverly Hills
+  query: "Spago Beverly Hills"
+  place_id: "0x80c2bbfed96ef75b:0x6595937c3757fbed"
+
+- key: tim-ho-wan-hk
+  name: "Tim Ho Wan"
+  city: Hong Kong
+  query: "Tim Ho Wan Sham Shui Po Hong Kong"
+  place_id: "0x340400b5751a9c03:0x3f033cd9702ad3d3"
+
+- key: ippudo-tokyo
+  name: "Ippudo (Roppongi)"
+  city: Tokyo
+  query: "Ippudo Roppongi Tokyo"
+  place_id: "0x60188b82a8814ae9:0xfb48d965b9cf2b73"

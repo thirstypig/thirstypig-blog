@@ -28,6 +28,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c63850150b9d:0x96cdcf9a38a24170"
 ---
 
 ![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/18021851509312292.jpg)

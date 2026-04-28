@@ -124,19 +124,53 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		}).join('');
 	}
 
-	// Initialize
-	loadIndex().then(() => {
-		search('');
+	// Initial query comes from URL ?q= param so:
+	// - the header search form (action="/search" method="get") arrives
+	//   with results pre-rendered;
+	// - clicking a result and hitting back returns to the same query;
+	// - the URL is shareable.
+	function getQueryFromURL(): string {
+		return new URLSearchParams(window.location.search).get('q') || '';
+	}
 
+	function syncURL(query: string) {
+		const url = new URL(window.location.href);
+		if (query) {
+			url.searchParams.set('q', query);
+		} else {
+			url.searchParams.delete('q');
+		}
+		// replaceState (not push) so the URL updates as the user types
+		// without polluting browser history.
+		window.history.replaceState({}, '', url.toString());
+	}
+
+	loadIndex().then(() => {
 		const input = document.getElementById('search-input') as HTMLInputElement;
+		const initialQuery = getQueryFromURL();
+		if (initialQuery) {
+			input.value = initialQuery;
+		}
+		search(initialQuery);
+
 		input.addEventListener('input', () => {
 			clearTimeout(debounceTimer);
 			debounceTimer = window.setTimeout(() => {
-				search(input.value.trim());
+				const q = input.value.trim();
+				search(q);
+				syncURL(q);
 			}, 200);
 		});
 
-		// Focus on load
-		input.focus();
+		// Re-run when the user navigates back/forward through history.
+		window.addEventListener('popstate', () => {
+			const q = getQueryFromURL();
+			input.value = q;
+			search(q);
+		});
+
+		// Focus only when there's no initial query — preserves scroll
+		// position when a user arrives with ?q= already set.
+		if (!initialQuery) input.focus();
 	});
 </script>

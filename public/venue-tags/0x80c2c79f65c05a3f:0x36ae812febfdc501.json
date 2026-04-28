@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c79f65c05a3f:0x36ae812febfdc501",
+  "venue_name": "Langer's Delicatessen-Restaurant",
+  "chips": [
+    {
+      "label": "pastrami",
+      "mention_count": 644
+    },
+    {
+      "label": "rye bread",
+      "mention_count": 168
+    },
+    {
+      "label": "corned beef",
+      "mention_count": 112
+    },
+    {
+      "label": "coleslaw",
+      "mention_count": 138
+    },
+    {
+      "label": "matzo ball soup",
+      "mention_count": 44
+    },
+    {
+      "label": "russian dressing",
+      "mention_count": 44
+    },
+    {
+      "label": "Hot Pastrami Sandwich",
+      "mention_count": 21
+    },
+    {
+      "label": "swiss cheese",
+      "mention_count": 38
+    },
+    {
+      "label": "french dip",
+      "mention_count": 22
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 116
+    }
+  ],
+  "scraped_at": "2026-04-28T17:30:49Z",
+  "city": "Los Angeles",
+  "key": "langers-deli-la"
+}

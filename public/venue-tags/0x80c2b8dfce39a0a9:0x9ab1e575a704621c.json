@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8dfce39a0a9:0x9ab1e575a704621c",
+  "venue_name": "République",
+  "chips": [
+    {
+      "label": "shakshuka",
+      "mention_count": 101
+    },
+    {
+      "label": "lobster omelette",
+      "mention_count": 52
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 61
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 62
+    },
+    {
+      "label": "mushroom toast",
+      "mention_count": 41
+    },
+    {
+      "label": "pastries",
+      "mention_count": 408
+    },
+    {
+      "label": "potato pancake",
+      "mention_count": 49
+    },
+    {
+      "label": "short rib",
+      "mention_count": 54
+    },
+    {
+      "label": "croque madame",
+      "mention_count": 52
+    },
+    {
+      "label": "avocado toast",
+      "mention_count": 43
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:15Z",
+  "city": "Los Angeles",
+  "key": "republique-la"
+}

@@ -32,6 +32,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c65af5e138b1:0x6b3390b8e0d01d0"
 ---
 
 ![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17869764496138058.jpg)

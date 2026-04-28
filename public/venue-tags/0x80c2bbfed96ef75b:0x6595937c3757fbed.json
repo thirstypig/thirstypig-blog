@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbfed96ef75b:0x6595937c3757fbed",
+  "venue_name": "Spago",
+  "chips": [
+    {
+      "label": "wolfgang puck",
+      "mention_count": 96
+    },
+    {
+      "label": "salmon pizza",
+      "mention_count": 56
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 43
+    },
+    {
+      "label": "agnolotti",
+      "mention_count": 13
+    },
+    {
+      "label": "tasting menu",
+      "mention_count": 28
+    },
+    {
+      "label": "courtyard seating",
+      "mention_count": 4
+    },
+    {
+      "label": "souffle",
+      "mention_count": 23
+    },
+    {
+      "label": "branzino",
+      "mention_count": 12
+    },
+    {
+      "label": "caviar",
+      "mention_count": 14
+    },
+    {
+      "label": "tuna cones",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-04-28T17:32:05Z",
+  "city": "Beverly Hills",
+  "key": "spago-bh"
+}

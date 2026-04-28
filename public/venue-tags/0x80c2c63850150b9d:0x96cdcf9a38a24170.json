@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63850150b9d:0x96cdcf9a38a24170",
+  "venue_name": "Sushi Gen",
+  "chips": [
+    {
+      "label": "chirashi",
+      "mention_count": 29
+    },
+    {
+      "label": "omakase",
+      "mention_count": 31
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 81
+    },
+    {
+      "label": "long lines",
+      "mention_count": 38
+    },
+    {
+      "label": "sashimi deluxe",
+      "mention_count": 13
+    },
+    {
+      "label": "hamachi",
+      "mention_count": 22
+    },
+    {
+      "label": "fatty tuna",
+      "mention_count": 16
+    },
+    {
+      "label": "wait time",
+      "mention_count": 117
+    },
+    {
+      "label": "fresh fish",
+      "mention_count": 66
+    },
+    {
+      "label": "sushi bar",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-04-28T17:30:54Z",
+  "city": "Los Angeles",
+  "key": "sushi-gen-la"
+}

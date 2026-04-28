@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c621d7d91b49:0x5e3e80cfbddfba70",
+  "venue_name": "Bestia",
+  "chips": [
+    {
+      "label": "bone marrow",
+      "mention_count": 98
+    },
+    {
+      "label": "cavatelli",
+      "mention_count": 78
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 47
+    },
+    {
+      "label": "agnolotti",
+      "mention_count": 48
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 50
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 25
+    },
+    {
+      "label": "Squid Ink Spaghetti",
+      "mention_count": 40
+    },
+    {
+      "label": "Peruvian Scallop Crudo",
+      "mention_count": 38
+    },
+    {
+      "label": "Grilled Branzino",
+      "mention_count": 19
+    },
+    {
+      "label": "lamb neck",
+      "mention_count": 30
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:19Z",
+  "city": "Los Angeles",
+  "key": "bestia-la"
+}

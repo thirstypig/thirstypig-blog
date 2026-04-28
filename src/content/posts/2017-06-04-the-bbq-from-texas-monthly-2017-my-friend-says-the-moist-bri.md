@@ -25,6 +25,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84"
 ---
 
 ![The BBQ from Texas Monthly 2017 my friend says the moist brisket is bette...](/images/posts/ig-2017-06-04-the-bbq-from-texas-monthly-2017-my-friend-says-the-moist-bri/17882878252056577.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf5410a61eb1:0x284d8605a71cb6f9",
+  "venue_name": "Jitlada Restaurant",
+  "chips": [
+    {
+      "label": "Crying Tiger Beef or Pork",
+      "mention_count": 44
+    },
+    {
+      "label": "Mango Sticky Rice with Coconut Ice Cream",
+      "mention_count": 32
+    },
+    {
+      "label": "soft shell crab",
+      "mention_count": 24
+    },
+    {
+      "label": "pad see ew",
+      "mention_count": 41
+    },
+    {
+      "label": "mussels",
+      "mention_count": 22
+    },
+    {
+      "label": "red snapper",
+      "mention_count": 11
+    },
+    {
+      "label": "jungle curry",
+      "mention_count": 13
+    },
+    {
+      "label": "morning glory salad",
+      "mention_count": 8
+    },
+    {
+      "label": "crab claw noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "jazz burger",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:06Z",
+  "city": "Los Angeles",
+  "key": "jitlada-la"
+}
