@@ -1,0 +1,254 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+interface Chip {
+	label: string;
+	mention_count: number;
+}
+
+interface VenueRecord {
+	place_id: string;
+	venue_name: string;
+	city: string | null;
+	key: string | null;
+	chips: Chip[];
+	scraped_at: string;
+}
+
+// Read all venue chip JSON files at build time. Source of truth is
+// public/venue-tags/, populated by scripts/venue-tags/publish.py.
+const venueDir = path.join(process.cwd(), 'public', 'venue-tags');
+let venues: VenueRecord[] = [];
+if (fs.existsSync(venueDir)) {
+	venues = fs
+		.readdirSync(venueDir)
+		.filter(f => f.endsWith('.json'))
+		.map(f => JSON.parse(fs.readFileSync(path.join(venueDir, f), 'utf-8')) as VenueRecord);
+}
+
+// Aggregate chips across every venue. Same label at multiple venues sums
+// the mention counts. Track venue count per label too so big universal
+// terms (e.g. "tacos") rise above niche-but-loud per-venue spikes.
+const aggregate = new Map<string, { label: string; total: number; venueCount: number }>();
+for (const v of venues) {
+	for (const chip of v.chips) {
+		const existing = aggregate.get(chip.label);
+		if (existing) {
+			existing.total += chip.mention_count;
+			existing.venueCount += 1;
+		} else {
+			aggregate.set(chip.label, {
+				label: chip.label,
+				total: chip.mention_count,
+				venueCount: 1,
+			});
+		}
+	}
+}
+
+const allChips = [...aggregate.values()].sort((a, b) => b.total - a.total);
+
+// Logarithmic font-size scale. log(min..max) -> 0.75rem..3rem so the
+// quietest chip stays readable and the loudest doesn't blot the page.
+const MIN_REM = 0.75;
+const MAX_REM = 3;
+const counts = allChips.map(c => c.total);
+const minCount = Math.min(...counts, 1);
+const maxCount = Math.max(...counts, 1);
+const logMin = Math.log(minCount);
+const logMax = Math.log(maxCount);
+const logRange = logMax - logMin || 1;
+
+// Deterministic pseudo-random from a string. Used for rotation + color
+// jitter so layout is stable across builds (no hydration / build flicker).
+function hash(s: string): number {
+	let h = 2166136261;
+	for (let i = 0; i < s.length; i++) {
+		h ^= s.charCodeAt(i);
+		h = Math.imul(h, 16777619);
+	}
+	return h >>> 0;
+}
+
+// Three palette buckets cycle through the brand colors. We bias the
+// hottest chips toward rust/amber so they read as "hot topics".
+const palettes = ['ink', 'amber', 'rust', 'stone'] as const;
+type Palette = (typeof palettes)[number];
+
+const formatCount = (n: number) => n.toLocaleString('en-US');
+
+interface Rendered {
+	label: string;
+	total: number;
+	venueCount: number;
+	rem: number;
+	rotation: number;
+	palette: Palette;
+	weight: number;
+}
+
+const rendered: Rendered[] = allChips.map((c, i) => {
+	const norm = (Math.log(c.total) - logMin) / logRange; // 0..1
+	const rem = MIN_REM + norm * (MAX_REM - MIN_REM);
+	const h = hash(c.label);
+	// Subtle rotation: -4deg .. +4deg, deterministic per label.
+	const rotation = ((h % 9) - 4) * 1;
+	// Top 10% rust, next 25% amber, next 30% ink, rest stone — gives
+	// the cloud a clear visual hierarchy without rainbow chaos.
+	let palette: Palette;
+	const rank = i / Math.max(allChips.length - 1, 1);
+	if (rank < 0.1) palette = 'rust';
+	else if (rank < 0.35) palette = 'amber';
+	else if (rank < 0.65) palette = 'ink';
+	else palette = 'stone';
+	// Bold the top quarter for extra visual punch.
+	const weight = rank < 0.25 ? 700 : rank < 0.6 ? 600 : 500;
+	return { label: c.label, total: c.total, venueCount: c.venueCount, rem, rotation, palette, weight };
+});
+
+// Shuffle the rendered list deterministically so big chips don't all
+// cluster at the top-left. Sort by hash but with a slight bias keeping
+// the very largest chips relatively early — that way the cloud reads
+// dynamically but the eye still lands on hot topics first.
+const shuffled = [...rendered].sort((a, b) => {
+	const ha = hash(a.label) % 1000;
+	const hb = hash(b.label) % 1000;
+	return ha - hb;
+});
+
+const totalChipCount = allChips.length;
+const totalMentions = allChips.reduce((s, c) => s + c.total, 0);
+---
+
+<BaseLayout
+	title="Tag Cloud — What people talk about"
+	description="A word cloud of every topic chip mentioned across every venue on Thirsty Pig, sized by how often people bring it up in Google Maps reviews."
+>
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<header class="mb-10">
+			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-3">
+				What people are talking about across all venues
+			</h1>
+			<p class="text-stone max-w-2xl">
+				Every topic chip from every venue on the blog, sized by how often it
+				shows up in Google Maps reviews. Click a tag to find posts that
+				mention it.
+			</p>
+			<p class="text-xs text-stone mt-3 font-mono">
+				{formatCount(totalChipCount)} chips across {formatCount(venues.length)} venues
+				· {formatCount(totalMentions)} total mentions
+			</p>
+		</header>
+
+		{shuffled.length === 0 ? (
+			<div class="bg-cream-dark/50 border border-cream-dark rounded-lg p-6">
+				<p class="text-stone">
+					No chip data yet. Run the venue-tags scraper + publisher to populate{' '}
+					<code class="font-mono">public/venue-tags/</code>.
+				</p>
+			</div>
+		) : (
+			<div class="bg-cream-dark/30 border border-cream-dark rounded-lg p-8 sm:p-10">
+				<ul class="tag-cloud">
+					{shuffled.map(r => {
+						const colorClass =
+							r.palette === 'rust' ? 'text-rust hover:text-amber'
+							: r.palette === 'amber' ? 'text-amber hover:text-rust'
+							: r.palette === 'ink' ? 'text-ink hover:text-rust'
+							: 'text-stone hover:text-amber';
+						return (
+							<li class="tag-cloud-item">
+								<a
+									href={`/search/?q=${encodeURIComponent(r.label)}`}
+									class={`tag-link no-underline ${colorClass}`}
+									style={`--rem:${r.rem.toFixed(3)}rem; --rot:${r.rotation}deg; --weight:${r.weight};`}
+									title={`${r.label} — ${formatCount(r.total)} mentions across ${r.venueCount} venue${r.venueCount === 1 ? '' : 's'}`}
+								>
+									<span class="tag-label">{r.label}</span>
+									<span class="tag-count">{formatCount(r.total)}</span>
+								</a>
+							</li>
+						);
+					})}
+				</ul>
+			</div>
+		)}
+
+		<footer class="mt-8 text-xs text-stone">
+			<p>Tags pulled from Google Maps reviews.</p>
+		</footer>
+	</section>
+</BaseLayout>
+
+<style>
+	.tag-cloud {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		justify-content: center;
+		gap: 0.5rem 0.85rem;
+		line-height: 1.15;
+	}
+
+	.tag-cloud-item {
+		display: inline-block;
+	}
+
+	.tag-link {
+		display: inline-flex;
+		align-items: baseline;
+		gap: 0.35em;
+		padding: 0.05em 0.3em;
+		font-size: var(--rem);
+		font-weight: var(--weight);
+		transform: rotate(var(--rot));
+		transform-origin: center;
+		transition: transform 200ms ease, color 150ms ease, background-color 150ms ease;
+		border-radius: 0.35rem;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+
+	.tag-link:hover,
+	.tag-link:focus-visible {
+		transform: rotate(0deg) scale(1.06);
+		background: color-mix(in oklab, var(--color-cream-dark) 60%, transparent);
+		outline: none;
+	}
+
+	.tag-label {
+		font-family: var(--font-serif, ui-serif, Georgia, serif);
+	}
+
+	.tag-count {
+		font-size: 0.55em;
+		font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+		color: var(--color-stone);
+		font-weight: 400;
+		opacity: 0.75;
+	}
+
+	/* Tighten gaps on small screens so the cloud doesn't get too sparse. */
+	@media (max-width: 640px) {
+		.tag-cloud {
+			gap: 0.4rem 0.6rem;
+		}
+	}
+
+	/* Respect reduced-motion: kill rotation entirely. */
+	@media (prefers-reduced-motion: reduce) {
+		.tag-link {
+			transform: none;
+			transition: color 150ms ease, background-color 150ms ease;
+		}
+		.tag-link:hover,
+		.tag-link:focus-visible {
+			transform: none;
+		}
+	}
+</style>
