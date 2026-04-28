@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2b95d26ef9d5f:0xccd584a1af7638f9"
 ---
 
 ![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17911119247147192.jpg)

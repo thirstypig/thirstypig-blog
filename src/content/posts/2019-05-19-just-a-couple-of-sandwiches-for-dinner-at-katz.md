@@ -24,6 +24,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x89c2598f7ff4aa09:0x313547e757cb8cea"
 ---
 
 ![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17963389465263388.jpg)

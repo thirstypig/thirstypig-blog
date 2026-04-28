@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro';
 import { slugify } from '../utils';
 import FormattedDate from '../components/FormattedDate.astro';
 import LocationCard from '../components/LocationCard.astro';
+import VenueChips from '../components/VenueChips.astro';
 import ImageGallery from '../components/ImageGallery.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { getImageInfo } from '../utils/image-dimensions.mjs';
@@ -26,6 +27,7 @@ const {
 	region,
 	address,
 	coordinates,
+	placeId,
 } = Astro.props;
 
 const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
@@ -77,6 +79,9 @@ const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 			address={address}
 			coordinates={coordinates}
 		/>
+
+		<!-- Venue chips (renders only when placeId has chip data published) -->
+		<VenueChips placeId={placeId} />
 
 		<!-- Ad: between location card and content -->
 		<AdSlot format="horizontal" />

@@ -20,6 +20,7 @@ region: Hollywood
 address: 419 N Fairfax Ave Los Angeles, CA 90036
 cuisine:
 - American
+placeId: "0x80c2b95d26ef9d5f:0xccd584a1af7638f9"
 ---
 
 
