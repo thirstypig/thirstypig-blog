@@ -262,3 +262,18 @@ And we explicitly don't bother with:
 3. If the test is actually wrong, fix the test
 4. If the code is actually wrong, fix the code
 5. **Never** skip a test with `.skip` without an issue link and a dated TODO
+
+## Documented failure patterns
+
+Recurring or non-obvious test failures get written up as compoundable lessons
+under `docs/solutions/test-failures/`. Read them before digging into a new
+failure that smells familiar — odds are the pattern's been seen before.
+
+Current entries:
+
+- **`e2e-coupled-to-ui-text-after-rename.md`** — Playwright assertions that
+  match by visible text break the next CI run after a redesign renames nav
+  labels or headings. Pre-commit (Tier 1) doesn't catch this; only Tier 2 CI
+  does. Includes the canonical fix and a bonus gotcha about Playwright's
+  `reuseExistingServer: !CI` reusing a stale `astro dev` server's
+  dev-toolbar markup, which produces local-only false positives.
