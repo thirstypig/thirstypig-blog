@@ -1,29 +1,32 @@
 ---
-title: Best Pastrami in the World, Los Angeles
-pubDate: '2009-01-17'
+title: 'Katz''s Delicatessen, New York City'
+pubDate: 2009-01-17T00:00:00.000Z
+description: 'This is the place where Meg Ryan had the famous scene in When Harry Met Sally. Among other things, this place has a pretty good Pastrami and Corned Beef Sandwich. It is also New York’s oldest deli. No'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/
 heroImage: /images/posts/best-pastrami-in-the-world-katz/071320081626.jpg
-images:
-- /images/posts/best-pastrami-in-the-world-katz/071320081626.jpg
-- /images/posts/best-pastrami-in-the-world-katz/071320081627.jpg
 categories:
-- American
+  - American
 tags:
-- los-angeles
-- american
-- pastrami
-- deli
-description: This is the place where Meg Ryan had the famous scene in When Harry Met Sally. Among other things, this place has a pretty good Pastrami and Corned Beef Sandwich. It is also New York’s oldest deli. No
-archiveUrl: https://web.archive.org/web/20110105202931/http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/
-draft: false
-location: Best Pastrami in the World
-city: Los Angeles
-region: Los Angeles
-address: 205 E Houston St
+  - new york city
+  - ''
+  - pastrami
+  - deli
 cuisine:
-- American
+  - American
+location: Katz's Delicatessen
+city: New York
+region: NY
+address: '205 E Houston St, New York, NY 10002, USA'
+coordinates:
+  lat: 40.722232999999996
+  lng: -73.98742899999999
+images:
+  - /images/posts/best-pastrami-in-the-world-katz/071320081626.jpg
+  - /images/posts/best-pastrami-in-the-world-katz/071320081627.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/'
+archiveUrl: 'https://web.archive.org/web/20110105202931/http://www.thethirstypig.com/2009/01/17/best-pastrami-in-the-world-katz/'
+source: thethirstypig.com
+draft: false
 ---
 
 This is the place where Meg Ryan had the famous scene in When Harry Met Sally. Among other things, this place has a pretty good Pastrami and Corned Beef Sandwich. It is also New York’s oldest deli. Not just good, but probably the best in the world.
