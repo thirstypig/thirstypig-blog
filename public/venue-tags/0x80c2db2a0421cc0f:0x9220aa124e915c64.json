@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2a0421cc0f:0x9220aa124e915c64",
+  "venue_name": "Newport Seafood Restaurant",
+  "chips": [
+    {
+      "label": "lobster",
+      "mention_count": 133
+    },
+    {
+      "label": "house special lobster",
+      "mention_count": 23
+    },
+    {
+      "label": "crab",
+      "mention_count": 29
+    },
+    {
+      "label": "clams",
+      "mention_count": 64
+    },
+    {
+      "label": "shaken beef",
+      "mention_count": 31
+    },
+    {
+      "label": "chinese broccoli",
+      "mention_count": 10
+    },
+    {
+      "label": "Kong Pao Chicken",
+      "mention_count": 34
+    },
+    {
+      "label": "Deep Fried Tofu",
+      "mention_count": 12
+    },
+    {
+      "label": "Salt & Pepper Shrimp",
+      "mention_count": 14
+    },
+    {
+      "label": "steamed fish",
+      "mention_count": 19
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:29Z",
+  "city": "San Gabriel",
+  "key": "newport-seafood-sgv"
+}

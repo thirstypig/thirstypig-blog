@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2da8f651834fd:0x8aa158c3ced53a02",
+  "venue_name": "Sea Harbour Seafood Restaurant",
+  "chips": [
+    {
+      "label": "dim sum",
+      "mention_count": 290
+    },
+    {
+      "label": "har gow",
+      "mention_count": 20
+    },
+    {
+      "label": "shumai",
+      "mention_count": 33
+    },
+    {
+      "label": "egg yolk buns",
+      "mention_count": 6
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 28
+    },
+    {
+      "label": "chicken feet",
+      "mention_count": 16
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 8
+    },
+    {
+      "label": "hong kong style dim sum",
+      "mention_count": 24
+    },
+    {
+      "label": "black truffle siu mai",
+      "mention_count": 4
+    },
+    {
+      "label": "no carts",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:33Z",
+  "city": "Rosemead",
+  "key": "sea-harbour-sgv"
+}

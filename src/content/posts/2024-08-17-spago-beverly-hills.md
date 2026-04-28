@@ -29,6 +29,7 @@ coordinates:
   lng: -118.397657
 cuisine:
 - French
+placeId: "0x80c2bbfed96ef75b:0x6595937c3757fbed"
 ---
 
 ![Spago, Beverly Hills](/images/posts/ig-2024-08-17-spago-beverly-hills/18026256929465632.jpg)

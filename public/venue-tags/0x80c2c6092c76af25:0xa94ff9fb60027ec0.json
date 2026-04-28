@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6092c76af25:0xa94ff9fb60027ec0",
+  "venue_name": "Guisados",
+  "chips": [
+    {
+      "label": "fried pork rinds",
+      "mention_count": 33
+    },
+    {
+      "label": "Cochinita Pibil",
+      "mention_count": 30
+    },
+    {
+      "label": "mole tacos",
+      "mention_count": 15
+    },
+    {
+      "label": "aguas frescas",
+      "mention_count": 31
+    },
+    {
+      "label": "chorizo tacos",
+      "mention_count": 12
+    },
+    {
+      "label": "handmade tortillas",
+      "mention_count": 24
+    },
+    {
+      "label": "sampler platter",
+      "mention_count": 12
+    },
+    {
+      "label": "chicharron taco",
+      "mention_count": 8
+    },
+    {
+      "label": "freshly made tortillas",
+      "mention_count": 8
+    },
+    {
+      "label": "tamales",
+      "mention_count": 25
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:24Z",
+  "city": "Los Angeles",
+  "key": "guisados-boyle-heights"
+}

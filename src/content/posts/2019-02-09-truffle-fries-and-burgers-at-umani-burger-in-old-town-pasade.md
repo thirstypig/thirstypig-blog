@@ -28,6 +28,7 @@ coordinates:
   lng: -118.131632
 cuisine:
 - American
+placeId: "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab"
 ---
 
 ![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18032134717028066.jpg)

@@ -20,6 +20,7 @@ region: Pasadena
 address: 913 E California Blvd Pasadena, CA 91106
 cuisine:
 - American
+placeId: "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab"
 ---
 
 

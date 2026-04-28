@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf571d7a7c37:0x80a7256111ba6352",
+  "venue_name": "Sapp Coffee Shop Thai Restaurant",
+  "chips": [
+    {
+      "label": "Boat Noodle Soup with Beef",
+      "mention_count": 115
+    },
+    {
+      "label": "jade noodles",
+      "mention_count": 21
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "pad kra pao",
+      "mention_count": 13
+    },
+    {
+      "label": "cash only",
+      "mention_count": 21
+    },
+    {
+      "label": "anthony bourdain",
+      "mention_count": 9
+    },
+    {
+      "label": "crispy pork",
+      "mention_count": 4
+    },
+    {
+      "label": "kha na moo krob",
+      "mention_count": 2
+    },
+    {
+      "label": "liver",
+      "mention_count": 10
+    },
+    {
+      "label": "morning glory",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:02Z",
+  "city": "Los Angeles",
+  "key": "sapp-coffee-shop-la"
+}

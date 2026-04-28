@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab",
+  "venue_name": "Pie 'n Burger",
+  "chips": [
+    {
+      "label": "cash only",
+      "mention_count": 108
+    },
+    {
+      "label": "Cheeseburger Combo with Grilled Onions",
+      "mention_count": 108
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 15
+    },
+    {
+      "label": "pie",
+      "mention_count": 218
+    },
+    {
+      "label": "boysenberry pie",
+      "mention_count": 32
+    },
+    {
+      "label": "apple pie",
+      "mention_count": 34
+    },
+    {
+      "label": "classic diner",
+      "mention_count": 112
+    },
+    {
+      "label": "peach pie",
+      "mention_count": 20
+    },
+    {
+      "label": "strawberry pie",
+      "mention_count": 19
+    },
+    {
+      "label": "pecan pie",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:56Z",
+  "city": "Pasadena",
+  "key": "pie-n-burger-pasadena"
+}

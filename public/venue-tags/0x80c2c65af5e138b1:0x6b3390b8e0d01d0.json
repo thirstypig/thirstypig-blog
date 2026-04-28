@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c65af5e138b1:0x6b3390b8e0d01d0",
+  "venue_name": "Howlin' Ray's Hot Chicken - Chinatown",
+  "chips": [
+    {
+      "label": "hot chicken sandwich",
+      "mention_count": 42
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 521
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "long lines",
+      "mention_count": 175
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 9
+    },
+    {
+      "label": "banana pudding",
+      "mention_count": 45
+    },
+    {
+      "label": "chicken and waffles",
+      "mention_count": 46
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 4
+    },
+    {
+      "label": "comeback sauce",
+      "mention_count": 62
+    },
+    {
+      "label": "spice level",
+      "mention_count": 75
+    }
+  ],
+  "scraped_at": "2026-04-28T17:31:10Z",
+  "city": "Los Angeles",
+  "key": "howlin-rays-la"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x340400b5751a9c03:0x3f033cd9702ad3d3",
+  "venue_name": "Tim Ho Wan",
+  "chips": [
+    {
+      "label": "char siu bao",
+      "mention_count": 228
+    },
+    {
+      "label": "melon bread",
+      "mention_count": 33
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 199
+    },
+    {
+      "label": "har gow",
+      "mention_count": 86
+    },
+    {
+      "label": "glutinous rice chicken",
+      "mention_count": 28
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 39
+    },
+    {
+      "label": "malay cake",
+      "mention_count": 22
+    },
+    {
+      "label": "pork buns",
+      "mention_count": 37
+    },
+    {
+      "label": "pork liver rice rolls",
+      "mention_count": 17
+    },
+    {
+      "label": "crispy char siu bao",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-04-28T17:32:10Z",
+  "city": "Hong Kong",
+  "key": "tim-ho-wan-hk"
+}

@@ -33,6 +33,7 @@ source: instagram
 draft: false
 cuisine:
 - Japanese
+placeId: "0x80c2c63850150b9d:0x96cdcf9a38a24170"
 ---
 
 ![Sushi at Sushi Gen in Little Tokyo in DTLA](/images/posts/ig-2021-07-25-sushi-at-sushi-gen-in-little-tokyo-in-dtla/18169594324176089.jpg)

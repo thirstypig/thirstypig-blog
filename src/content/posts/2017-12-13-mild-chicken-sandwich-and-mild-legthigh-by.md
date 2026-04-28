@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c65af5e138b1:0x6b3390b8e0d01d0"
 ---
 
 ![Mild chicken sandwich and mild leg/thigh 📱📷 by](/images/posts/ig-2017-12-13-mild-chicken-sandwich-and-mild-legthigh-by/17899522813102724.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dba524af30e1:0x16db24d33722beac",
+  "venue_name": "Din Tai Fung 鼎泰豐",
+  "chips": [
+    {
+      "label": "soup dumplings",
+      "mention_count": 250
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 5
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 23
+    },
+    {
+      "label": "red bean buns",
+      "mention_count": 16
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 3
+    },
+    {
+      "label": "Cucumber Salad",
+      "mention_count": 29
+    },
+    {
+      "label": "garlic green beans",
+      "mention_count": 13
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 10
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 28
+    },
+    {
+      "label": "potstickers",
+      "mention_count": 18
+    }
+  ],
+  "scraped_at": "2026-04-28T17:30:58Z",
+  "city": "Arcadia",
+  "key": "din-tai-fung-arcadia"
+}

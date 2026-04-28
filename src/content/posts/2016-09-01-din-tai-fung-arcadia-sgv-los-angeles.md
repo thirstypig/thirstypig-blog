@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 400 Baldwin Ave St
 cuisine:
 - Chinese
+placeId: "0x80c2dba524af30e1:0x16db24d33722beac"
 ---
 
 

@@ -17,15 +17,18 @@ const { placeId } = Astro.props;
 // nothing if the file is missing — keeps posts without chip data unaffected.
 let chips: Chip[] | null = null;
 let venueName: string | null = null;
+let city: string | null = null;
 if (placeId) {
 	const chipFile = path.join(process.cwd(), 'public', 'venue-tags', `${placeId}.json`);
 	if (fs.existsSync(chipFile)) {
 		const data = JSON.parse(fs.readFileSync(chipFile, 'utf-8')) as {
 			chips: Chip[];
 			venue_name?: string;
+			city?: string;
 		};
 		chips = [...data.chips].sort((a, b) => b.mention_count - a.mention_count);
 		venueName = data.venue_name ?? null;
+		city = data.city ?? null;
 	}
 }
 
@@ -47,6 +50,16 @@ const formatCount = (n: number) => n.toLocaleString('en-US');
 			</a>
 		</header>
 		<div class="flex flex-wrap gap-2">
+			{city && (
+				<a
+					href={`/search/?q=${encodeURIComponent(city)}`}
+					class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber/15 border border-amber/40 text-sm text-ink hover:bg-amber/25 transition-colors no-underline"
+					title={`Other posts in ${city}`}
+				>
+					<span aria-hidden="true">📍</span>
+					<span>{city}</span>
+				</a>
+			)}
 			{chips.map(chip => (
 				<span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-cream border border-cream-dark text-sm">
 					<span class="text-ink">{chip.label}</span>

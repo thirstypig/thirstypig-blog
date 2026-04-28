@@ -32,6 +32,7 @@ coordinates:
   lng: -118.106975
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2a0421cc0f:0x9220aa124e915c64"
 ---
 
 This is my last stop of Taiwanese restaurants that I have recently visited & revisited. I think, lately, I had a huge craving for Taiwanese food, for whatever reason. Of the three, Wang Heng, Jurassic, and Old Country Cafe, Wan Heng might be the oldest and have the longest history.

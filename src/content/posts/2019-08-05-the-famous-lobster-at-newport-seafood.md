@@ -24,6 +24,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80c2db2a0421cc0f:0x9220aa124e915c64"
 ---
 
 ![The famous lobster at Newport Seafood](/images/posts/ig-2019-08-05-the-famous-lobster-at-newport-seafood/17869084033441637.jpg)
