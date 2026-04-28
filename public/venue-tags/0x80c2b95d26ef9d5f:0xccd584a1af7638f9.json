@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b95d26ef9d5f:0xccd584a1af7638f9",
+  "venue_name": "Canter's Deli",
+  "chips": [
+    {
+      "label": "corned beef",
+      "mention_count": 51
+    },
+    {
+      "label": "jewish deli",
+      "mention_count": 54
+    },
+    {
+      "label": "people watching",
+      "mention_count": 6
+    },
+    {
+      "label": "pastrami",
+      "mention_count": 143
+    },
+    {
+      "label": "matzo ball soup",
+      "mention_count": 78
+    },
+    {
+      "label": "rye bread",
+      "mention_count": 43
+    },
+    {
+      "label": "potato pancakes",
+      "mention_count": 20
+    },
+    {
+      "label": "pickles",
+      "mention_count": 69
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 18
+    },
+    {
+      "label": "bagels",
+      "mention_count": 25
+    }
+  ],
+  "scraped_at": "2026-04-28T04:44:44Z",
+  "city": "Los Angeles",
+  "key": "canters-deli-la"
+}

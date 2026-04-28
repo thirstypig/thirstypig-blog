@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2598f7ff4aa09:0x313547e757cb8cea",
+  "venue_name": "Katz's Delicatessen",
+  "chips": [
+    {
+      "label": "pastrami",
+      "mention_count": 9550
+    },
+    {
+      "label": "corned beef",
+      "mention_count": 1588
+    },
+    {
+      "label": "brisket",
+      "mention_count": 744
+    },
+    {
+      "label": "matzo ball soup",
+      "mention_count": 603
+    },
+    {
+      "label": "pickles",
+      "mention_count": 1432
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 2764
+    },
+    {
+      "label": "long lines",
+      "mention_count": 1636
+    },
+    {
+      "label": "wait time",
+      "mention_count": 1167
+    },
+    {
+      "label": "portion size",
+      "mention_count": 871
+    },
+    {
+      "label": "latkes",
+      "mention_count": 246
+    }
+  ],
+  "scraped_at": "2026-04-28T04:44:47Z",
+  "city": "New York",
+  "key": "katzs-deli-nyc"
+}

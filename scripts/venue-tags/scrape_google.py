@@ -1,221 +1,301 @@
-"""Scrape Google Maps reviews for a venue.
+"""Scrape Google Maps "Refine reviews" topic chips for venues.
 
-DIY approach (no API costs): drives a real Chromium via Playwright through the
-public Google Maps web UI, scrolls the reviews feed, expands truncated text,
-and dumps every review's text + rating into JSON.
+Why chips, not raw reviews: validated 2026-04-27 that Google's pre-computed
+chip widget yields better tags than naive N-gram extraction over scraped
+review text. See README for the pivot rationale.
 
-ToS caveat: scraping Google Maps violates their TOS. For personal-volume use
-(low frequency, low concurrency) this rarely triggers blocks. If/when blocks
-happen, the script logs the failure and exits cleanly — no retry storms.
+Why a persistent Chrome profile: cold/anonymous sessions see Google Maps'
+"limited view" — no Reviews tab, no chips. Auth gates the chips. The
+profile must be signed into Google once via bootstrap_profile.py.
 
 Usage:
-    scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py \\
-        --query "Franklin Barbecue Austin TX" --key franklin-bbq-austin
+    # All MVP venues from venues.yaml
+    scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py
 
-    # Diagnostic mode: open browser non-headless and pause so you can inspect
-    # the DOM. Use this on first run to verify selectors are still valid.
+    # Just one (useful for re-running after a Google UI change)
     scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py \\
-        --query "Franklin Barbecue Austin TX" --key franklin-bbq-austin --debug
+        --venue franklin-bbq-austin
 
-Output: scripts/venue-tags/data/{key}_raw.json
+    # Ad-hoc venue not in venues.yaml
+    scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py \\
+        --query "Tatsu Ramen Sawtelle" --key tatsu-ramen-sawtelle
+
+    # Show the browser (debug)
+    scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py --headed
+
+Output: scripts/venue-tags/data/{key}_chips.json per venue.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import re
 import sys
+import time
 from pathlib import Path
+from typing import Iterable
 from urllib.parse import quote_plus
 
-from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
+import yaml
+from playwright.sync_api import Page, sync_playwright
+from playwright_stealth import Stealth
 
 HERE = Path(__file__).resolve().parent
 DATA_DIR = HERE / "data"
-DATA_DIR.mkdir(exist_ok=True)
+USER_DATA_DIR = HERE / ".chrome-profile"
+VENUES_PATH = HERE / "venues.yaml"
 
-USER_AGENT = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-)
+DATA_DIR.mkdir(exist_ok=True)
 
 
 def log(msg: str) -> None:
     print(f"[scrape] {msg}", flush=True)
 
 
-def extract_place_id(url: str) -> str | None:
-    """Pull a Google place_id out of a Maps URL if present."""
-    m = re.search(r"!1s(0x[0-9a-fA-F]+:0x[0-9a-fA-F]+)", url)
-    if m:
-        return m.group(1)
-    m = re.search(r"place_id:([A-Za-z0-9_-]+)", url)
-    if m:
-        return m.group(1)
-    return None
+def clear_stale_singleton_locks() -> None:
+    """Chrome leaves SingletonLock + SingletonCookie + SingletonSocket
+    in the user-data-dir to prevent multiple instances from corrupting the
+    profile. When Playwright kills the browser abruptly (or a previous run
+    crashed), the locks survive and abort the next launch with 'Failed to
+    create a ProcessSingleton'. Removing the locks is safe — no profile
+    data is touched."""
+    for name in ("SingletonLock", "SingletonCookie", "SingletonSocket"):
+        (USER_DATA_DIR / name).unlink(missing_ok=True)
 
 
-def scrape(query: str, key: str, max_reviews: int = 200, debug: bool = False) -> dict:
-    out: dict = {"key": key, "query": query, "reviews": []}
+# Browser-side: wait for chips, expand "View N more", parse aria-labels.
+# Assumes we're already on a /maps/place/ page — caller handles the
+# results-list-to-place-page navigation, since SPA-click via JS .click()
+# doesn't reliably trigger Maps' route handler.
+EXTRACT_JS = r"""
+async () => {
+  // Wait for the chip radiogroup to appear (signed-in) or time out (auth-gated).
+  for (let i = 0; i < 30; i++) {
+    if (document.querySelector('[role="radio"][aria-label*="mentioned in"]')) break;
+    await new Promise(r => setTimeout(r, 500));
+  }
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=not debug)
-        ctx = browser.new_context(user_agent=USER_AGENT, locale="en-US")
-        page = ctx.new_page()
+  // Expand the chip list if there's a "View N more Topics" toggle.
+  const moreBtn = Array.from(document.querySelectorAll('button')).find(b =>
+    /View \d+ more Topics?/i.test(b.textContent || ''));
+  if (moreBtn) {
+    moreBtn.click();
+    await new Promise(r => setTimeout(r, 800));
+  }
 
-        url = f"https://www.google.com/maps/search/?api=1&query={quote_plus(query)}"
-        log(f"opening {url}")
-        page.goto(url, wait_until="domcontentloaded")
+  const chipPattern = /^(.+?), mentioned in ([\d,]+) reviews?$/;
+  const chips = Array.from(document.querySelectorAll('[role="radio"]'))
+    .map(r => r.getAttribute('aria-label') || '')
+    .map(label => {
+      const m = label.match(chipPattern);
+      return m ? { label: m[1], mention_count: parseInt(m[2].replace(/,/g, ''), 10) } : null;
+    })
+    .filter(Boolean);
 
+  const tabs = Array.from(document.querySelectorAll('[role="tab"]'))
+    .map(t => t.getAttribute('aria-label') || t.textContent || '');
+  // Match either Google's data-param format (`!1s<hex>:<hex>`, embedded in
+  // /maps/place/Foo/data=!4m...!1s0x...:0x...) or the cleaner ftid query
+  // param we use directly (?ftid=0x...:0x...).
+  const placeIdMatch = location.href.match(/(?:!1s|ftid=)(0x[0-9a-f]+:0x[0-9a-f]+)/);
+
+  return {
+    final_url: location.href,
+    place_id: placeIdMatch ? placeIdMatch[1] : null,
+    venue_name: (document.title || '').replace(/ - Google Maps$/, '') || null,
+    tab_labels: tabs,
+    chips,
+  };
+}
+"""
+
+
+# When chip data is sparse, Google pads the radiogroup with **amenity
+# attributes** ("Serves dessert", "Offers takeout", "Wheelchair accessible")
+# sourced from its place-attributes widget, not from review content. These
+# follow predictable verb-prefix patterns. The naive "starts with capital"
+# heuristic was too aggressive — it dropped real chips like "Bingsu"
+# (Korean dessert) just because they're proper nouns. So we filter on the
+# specific verb prefixes Google uses.
+_AMENITY_PREFIXES = (
+    "Serves ",
+    "Offers ",
+    "Has ",
+    "Wheelchair",
+    "No-contact",
+    "Accepts ",
+)
+
+
+def looks_like_amenity(label: str) -> bool:
+    return any(label.startswith(p) for p in _AMENITY_PREFIXES)
+
+
+def scrape_venue(
+    page: Page, query: str, key: str, place_id: str | None = None
+) -> dict:
+    # Prefer a direct /maps/place/?ftid=<place_id> URL when we have it —
+    # bypasses Google's multi-match resolution, which session-trust-scoring
+    # gates and which fails for chain venues. ?q= search is the fallback
+    # for ad-hoc queries we don't have a place_id for yet.
+    if place_id:
+        url = f"https://www.google.com/maps/place/?ftid={place_id}"
+    else:
+        url = f"https://www.google.com/maps?q={quote_plus(query)}"
+    log(f"  → {url}")
+    page.goto(url, wait_until="domcontentloaded")
+    page.wait_for_timeout(2500)
+
+    # ?q= flow may have landed on a /maps/search/ results list. Navigate to
+    # the first result's href directly (page.goto, not click — Maps' SPA
+    # route handler doesn't reliably pick up programmatic clicks).
+    if "/maps/place/" not in page.url:
         try:
-            page.wait_for_selector("h1", timeout=20_000)
-        except PWTimeout:
-            log("ERROR: page never produced an h1 (consent screen? blocked?)")
-            if debug:
-                page.screenshot(path=str(DATA_DIR / f"{key}_error.png"), full_page=True)
-            browser.close()
-            return out
-
-        out["resolved_url"] = page.url
-        out["place_id"] = extract_place_id(page.url)
-        try:
-            out["venue_name"] = page.locator("h1").first.inner_text(timeout=3000)
-        except PWTimeout:
-            out["venue_name"] = None
-        log(f"resolved: {out.get('venue_name')!r}  place_id={out.get('place_id')}")
-
-        # Click the Reviews tab. Try a few selector strategies in order; first
-        # one to land wins.
-        clicked = False
-        for selector_try in [
-            lambda: page.get_by_role("tab", name=re.compile(r"reviews", re.I)).first.click(timeout=4000),
-            lambda: page.get_by_role("button", name=re.compile(r"reviews", re.I)).first.click(timeout=4000),
-            lambda: page.locator('button[aria-label*="Reviews"]').first.click(timeout=4000),
-        ]:
-            try:
-                selector_try()
-                clicked = True
-                log("clicked Reviews tab")
-                break
-            except Exception:
-                continue
-        if not clicked:
-            log("WARNING: couldn't click Reviews tab — proceeding anyway in case reviews are already visible")
-
-        page.wait_for_timeout(2500)
-
-        # Identify the scroll container. The reviews feed is the last element
-        # in the side panel that scrolls — we'll grab it heuristically and
-        # confirm by feature-detecting that scrolling it loads more reviews.
-        scroll_targets = page.locator('div[role="main"] div[tabindex="-1"]').all()
-        scroll_el = scroll_targets[-1] if scroll_targets else None
-        if not scroll_el:
-            scroll_el = page.locator('div[role="main"]').last
-
-        # Scroll loop. Stop when we hit max OR when reviews count plateaus.
-        previous_count = -1
-        plateau = 0
-        for i in range(40):
-            count = page.locator('[data-review-id], div[jsaction*="review"]').count()
-            log(f"  scroll {i}: ~{count} review nodes")
-            if count >= max_reviews:
-                break
-            if count == previous_count:
-                plateau += 1
-                if plateau >= 3:
-                    log("  plateaued — assuming no more reviews")
-                    break
-            else:
-                plateau = 0
-            previous_count = count
-            try:
-                scroll_el.evaluate("el => el.scrollBy(0, el.scrollHeight)")
-            except Exception:
-                pass
-            page.wait_for_timeout(1200)
-
-        # Expand truncated reviews. Many reviews show "More" — clicking it
-        # reveals the full text. Best effort; ignore individual failures.
-        more_buttons = page.locator('button:has-text("More")').all()
-        log(f"  expanding {len(more_buttons)} 'More' buttons")
-        for btn in more_buttons:
-            try:
-                btn.click(timeout=400)
-            except Exception:
-                pass
-
-        # Strategy: pull text from elements that look like review cards.
-        # We try multiple shapes — first the [data-review-id] anchor (most
-        # stable), then a fallback class-name approach as backup.
-        cards = page.locator('div[data-review-id]').all()
-        if not cards:
-            log("  no [data-review-id] nodes — falling back to .jftiEf")
-            cards = page.locator('div.jftiEf').all()
-
-        log(f"  parsing {len(cards)} review cards")
-        for card in cards:
-            try:
-                # Get full text content of the card
-                full_text = card.inner_text(timeout=1000)
-            except Exception:
-                continue
-
-            # Try to extract just the review text (the longest paragraph-ish
-            # chunk in the card, after author + date). The card text usually
-            # looks like: "Author\nLocal Guide · 50 reviews\n5 stars 1 month ago\n
-            # The actual review text..."
-            lines = [ln.strip() for ln in full_text.splitlines() if ln.strip()]
-            if not lines:
-                continue
-
-            # Heuristic: review text is the longest line that isn't a star/date/
-            # author meta line. Skip obvious meta patterns.
-            meta_pat = re.compile(
-                r"^(\d+\s+(stars?|months?\s+ago|years?\s+ago|days?\s+ago|weeks?\s+ago|reviews?)|"
-                r"local\s+guide|new|google|edited|like|share|see\s+more|less|more)$",
-                re.I,
+            page.wait_for_selector(
+                'article a[href*="/maps/place/"]', timeout=10_000
             )
-            text_candidates = [ln for ln in lines if not meta_pat.match(ln) and len(ln) > 30]
-            text = max(text_candidates, key=len) if text_candidates else ""
+        except Exception:
+            log(f"    WARNING: no article links appeared on results page")
+        first_link = page.locator('article a[href*="/maps/place/"]').first
+        href = first_link.get_attribute("href") if first_link.count() else None
+        if href:
+            log(f"    multi-match → navigating to first result")
+            page.goto(href, wait_until="domcontentloaded")
+            page.wait_for_timeout(1500)
 
-            # Rating: look for "X stars" pattern inside the card
-            rating: float | None = None
-            stars_match = re.search(r"(\d)(?:\.\d)?\s+stars?", full_text, re.I)
-            if stars_match:
-                try:
-                    rating = float(stars_match.group(1))
-                except ValueError:
-                    pass
+    result = page.evaluate(EXTRACT_JS)
 
-            if text:
-                out["reviews"].append({"text": text, "rating": rating})
+    raw_chips = result.get("chips") or []
+    chips = [c for c in raw_chips if not looks_like_amenity(c["label"])]
+    dropped = [c["label"] for c in raw_chips if looks_like_amenity(c["label"])]
+    if dropped:
+        log(f"    dropped amenity-like chips: {dropped}")
 
-        log(f"got {len(out['reviews'])} reviews with text")
+    return {
+        "key": key,
+        "query": query,
+        # Prefer the place_id we passed in from venues.yaml (canonical) over
+        # whatever the URL parser extracted. Fall back to the URL-extracted
+        # value for ad-hoc queries that didn't supply one.
+        "place_id": place_id or result.get("place_id"),
+        "venue_name": result.get("venue_name"),
+        "final_url": result.get("final_url"),
+        "tab_labels": result.get("tab_labels") or [],
+        "chips": chips,
+        "scraped_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    }
 
-        if debug:
-            page.screenshot(path=str(DATA_DIR / f"{key}_final.png"), full_page=True)
-            (DATA_DIR / f"{key}_dom.html").write_text(page.content())
-            log(f"saved debug artifacts to {DATA_DIR}/{key}_*")
 
-        browser.close()
+def auth_gated(record: dict) -> bool:
+    """Detect the 'limited view' failure mode.
 
-    return out
+    Logged-in places have 4 tabs (Overview/Menu/Reviews/About) and at
+    least some chips. Logged-out places have 2 tabs and no chips."""
+    has_reviews_tab = any(
+        "Reviews" in (label or "") for label in record.get("tab_labels", [])
+    )
+    return not has_reviews_tab and not record.get("chips")
 
 
-def main() -> None:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--query", required=True)
-    ap.add_argument("--key", required=True, help="filename slug for output")
-    ap.add_argument("--max-reviews", type=int, default=150)
-    ap.add_argument("--debug", action="store_true", help="non-headless + save DOM/screenshot")
+def load_venues() -> list[dict]:
+    return yaml.safe_load(VENUES_PATH.read_text())
+
+
+def venues_to_scrape(
+    args: argparse.Namespace,
+) -> Iterable[tuple[str, str, str | None]]:
+    if args.query and args.key:
+        yield args.query, args.key, None
+        return
+    venues = load_venues()
+    for v in venues:
+        if args.venue and v["key"] != args.venue:
+            continue
+        yield v["query"], v["key"], v.get("place_id")
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    ap.add_argument("--venue", help="Scrape just this venue key from venues.yaml")
+    ap.add_argument("--query", help="Ad-hoc Google Maps query (use with --key)")
+    ap.add_argument("--key", help="Filename slug for ad-hoc query")
+    ap.add_argument(
+        "--headless",
+        action="store_true",
+        help="Run without a visible browser window. Often hits Google's "
+        "'limited view' even with valid auth — Google detects headless "
+        "Chrome's fingerprint and downgrades the page. Default is headed.",
+    )
     args = ap.parse_args()
 
-    result = scrape(args.query, args.key, max_reviews=args.max_reviews, debug=args.debug)
-    out_path = DATA_DIR / f"{args.key}_raw.json"
-    out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
-    log(f"wrote {out_path} ({len(result['reviews'])} reviews)")
+    if bool(args.query) != bool(args.key):
+        ap.error("--query and --key must be used together")
+
+    targets = list(venues_to_scrape(args))
+    if not targets:
+        ap.error(
+            "No venues to scrape. Pass --venue, --query/--key, "
+            "or check venues.yaml."
+        )
+
+    if not USER_DATA_DIR.exists() or not any(USER_DATA_DIR.iterdir()):
+        log("WARNING: profile dir is empty. Run bootstrap_profile.py first.")
+
+    log(f"scraping {len(targets)} venue(s)")
+    failures: list[str] = []
+    clear_stale_singleton_locks()
+
+    # Stealth wraps the playwright instance to mask headless-Chrome fingerprint
+    # signals (navigator.webdriver, sec-ch-ua, plugins, WebGL vendor, etc.).
+    # Without this, headless runs hit Google's "limited view" even with valid
+    # signed-in cookies — Google's session-trust scorer sees the automation
+    # fingerprint and downgrades the page. Headed mode doesn't need it because
+    # real-GPU rendering already produces a non-suspicious fingerprint.
+    with Stealth().use_sync(sync_playwright()) as p:
+        ctx = p.chromium.launch_persistent_context(
+            user_data_dir=str(USER_DATA_DIR),
+            channel="chrome",
+            headless=args.headless,
+            viewport={"width": 1280, "height": 900},
+            locale="en-US",
+        )
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+
+        for query, key, place_id in targets:
+            log(f"[{key}] {query}")
+            try:
+                record = scrape_venue(page, query, key, place_id=place_id)
+            except Exception as exc:
+                log(f"    ERROR: {exc}")
+                failures.append(key)
+                continue
+
+            if auth_gated(record):
+                log(
+                    "    ERROR: page has no Reviews tab or chips — looks like "
+                    "Google's 'limited view'. Re-run bootstrap_profile.py and "
+                    "make sure you're signed in."
+                )
+                failures.append(key)
+                continue
+
+            out_path = DATA_DIR / f"{key}_chips.json"
+            out_path.write_text(json.dumps(record, indent=2, ensure_ascii=False))
+            log(
+                f"    {len(record['chips'])} chips → {out_path.name} "
+                f"(top: {record['chips'][0]['label']}={record['chips'][0]['mention_count']})"
+                if record["chips"]
+                else f"    0 chips → {out_path.name} (low-coverage venue)"
+            )
+
+        ctx.close()
+
+    if failures:
+        log(f"FAILED: {failures}")
+        return 1
+    log("done.")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

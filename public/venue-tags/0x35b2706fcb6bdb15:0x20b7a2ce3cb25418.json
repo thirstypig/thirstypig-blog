@@ -1,0 +1,25 @@
+{
+  "place_id": "0x35b2706fcb6bdb15:0x20b7a2ce3cb25418",
+  "venue_name": "鹿港小镇",
+  "chips": [
+    {
+      "label": "taiwanese food",
+      "mention_count": 3
+    },
+    {
+      "label": "Bingsu",
+      "mention_count": 5
+    },
+    {
+      "label": "pineapple",
+      "mention_count": 2
+    },
+    {
+      "label": "peanut",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-28T04:44:50Z",
+  "city": "Shanghai",
+  "key": "bellagio-shanghai"
+}
