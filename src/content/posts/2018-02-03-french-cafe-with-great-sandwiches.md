@@ -25,6 +25,7 @@ categories:
 - French
 cuisine:
 - French
+placeId: "0x80c2c6385b5e8591:0xd04b92bffebdfbd3"
 ---
 
 ![French cafe with great sandwiches](/images/posts/ig-2018-02-03-french-cafe-with-great-sandwiches/17893350901163496.jpg)

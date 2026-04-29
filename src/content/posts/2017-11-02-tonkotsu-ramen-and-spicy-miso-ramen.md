@@ -27,6 +27,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2dad467747067:0x3b197541d80b539c"
 ---
 
 ![Tonkotsu Ramen and Spicy Miso Ramen](/images/posts/ig-2017-11-02-tonkotsu-ramen-and-spicy-miso-ramen/17865663568194419.jpg)

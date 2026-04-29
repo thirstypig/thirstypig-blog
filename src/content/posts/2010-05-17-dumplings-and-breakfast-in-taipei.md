@@ -32,6 +32,7 @@ tags:
 - comfort-food
 cuisine:
 - Taiwanese
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 [[Translate]](javascript:show_translate_popup('en', 'post', 707);)

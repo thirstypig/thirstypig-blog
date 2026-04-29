@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a968cc61d107:0xbc6a9bf9fbb04fcf",
+  "venue_name": "Mita Bakery",
+  "chips": [
+    {
+      "label": "egg tart",
+      "mention_count": 27
+    },
+    {
+      "label": "pineapple cake",
+      "mention_count": 24
+    },
+    {
+      "label": "cream puff",
+      "mention_count": 9
+    },
+    {
+      "label": "pudding tart",
+      "mention_count": 15
+    },
+    {
+      "label": "german pudding",
+      "mention_count": 10
+    },
+    {
+      "label": "scone",
+      "mention_count": 5
+    },
+    {
+      "label": "bread variety",
+      "mention_count": 12
+    },
+    {
+      "label": "pineapple bun",
+      "mention_count": 3
+    },
+    {
+      "label": "green onion bread",
+      "mention_count": 3
+    },
+    {
+      "label": "hash brown bread",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:55Z",
+  "city": "Taipei",
+  "key": "米塔手感烘焙-mita-fancy-cafe-bakery-taipei"
+}

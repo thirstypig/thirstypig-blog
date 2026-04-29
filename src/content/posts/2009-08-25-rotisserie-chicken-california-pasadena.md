@@ -21,6 +21,7 @@ address: '26 Los Robles Ave.
   Pasadena, CA 91101'
 cuisine:
 - American
+placeId: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 ---
 
 

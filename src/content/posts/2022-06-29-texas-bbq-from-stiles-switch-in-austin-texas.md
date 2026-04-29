@@ -30,6 +30,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x8644ca48760d6971:0xa5521d488ea5860d"
 ---
 
 ![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17946953639043815.jpg)

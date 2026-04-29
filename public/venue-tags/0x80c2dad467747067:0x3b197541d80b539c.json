@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dad467747067:0x3b197541d80b539c",
+  "venue_name": "Pulciano's Deli & Cafe",
+  "chips": [
+    {
+      "label": "sandwiches",
+      "mention_count": 99
+    },
+    {
+      "label": "mafia sandwich",
+      "mention_count": 14
+    },
+    {
+      "label": "meatball sub",
+      "mention_count": 10
+    },
+    {
+      "label": "egg salad sandwich",
+      "mention_count": 6
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 41
+    },
+    {
+      "label": "roast beef",
+      "mention_count": 7
+    },
+    {
+      "label": "provolone",
+      "mention_count": 3
+    },
+    {
+      "label": "garlic bread",
+      "mention_count": 6
+    },
+    {
+      "label": "cold sandwiches",
+      "mention_count": 4
+    },
+    {
+      "label": "roast beef dip",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:26Z",
+  "city": "San Gabriel",
+  "key": "pulcianos-deli-cafe-san-gabrie"
+}

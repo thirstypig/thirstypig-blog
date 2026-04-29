@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb8b7ad0a7b7:0x216c071c6cdb7021",
+  "venue_name": "Eataly",
+  "chips": [
+    {
+      "label": "gelato",
+      "mention_count": 48
+    },
+    {
+      "label": "Pasticcini",
+      "mention_count": 13
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "cacio e pepe",
+      "mention_count": 13
+    },
+    {
+      "label": "cannoli",
+      "mention_count": 25
+    },
+    {
+      "label": "burrata",
+      "mention_count": 19
+    },
+    {
+      "label": "arugula salad",
+      "mention_count": 6
+    },
+    {
+      "label": "fresh pasta",
+      "mention_count": 22
+    },
+    {
+      "label": "branzino",
+      "mention_count": 8
+    },
+    {
+      "label": "margherita pizza",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-04-29T18:09:56Z",
+  "city": "Los Angeles",
+  "key": "eataly-los-angele"
+}

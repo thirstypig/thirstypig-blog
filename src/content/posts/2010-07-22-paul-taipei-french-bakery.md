@@ -26,6 +26,7 @@ coordinates:
   lng: 121.523724
 cuisine:
 - Bakery
+placeId: "0x3442a968cc61d107:0xbc6a9bf9fbb04fcf"
 ---
 
 Paul Bakery is a quaint little cafe featuring baked breads, dainty entrees, in a nice ambient local. Afternoon tea is nice for a place like this. But what is a guy, like me, doing there? I wasn’t quite sure myself. I know I was out of place, when I noticed that 90% of the people were females.

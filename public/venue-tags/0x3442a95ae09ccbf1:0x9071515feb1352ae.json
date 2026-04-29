@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a95ae09ccbf1:0x9071515feb1352ae",
+  "venue_name": "Mitsui Japanese Restaurant",
+  "chips": [
+    {
+      "label": "omakase",
+      "mention_count": 330
+    },
+    {
+      "label": "king crab",
+      "mention_count": 46
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 5
+    },
+    {
+      "label": "nigiri sushi",
+      "mention_count": 49
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 187
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 88
+    },
+    {
+      "label": "matcha ice cream",
+      "mention_count": 25
+    },
+    {
+      "label": "eel rice",
+      "mention_count": 24
+    },
+    {
+      "label": "fried durian",
+      "mention_count": 12
+    },
+    {
+      "label": "serving speed",
+      "mention_count": 86
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:51Z",
+  "city": "Taipei",
+  "key": "mitsui-japanese-cuisine-三井日式料理-taipei"
+}

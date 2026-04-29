@@ -29,6 +29,7 @@ coordinates:
   lng: -118.236131
 cuisine:
 - German
+placeId: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 ---
 
 Wurstküche, located near little Tokyo, recently opened in the past year. They fill the void, here in Los Angeles, of a needed german influenced Sausage & Beer house. I could be wrong . . . but that’s what I feel. With the back room of wood benches and flowing beers, on tap, Wurstkuche almost has the feel of a Beer Hall.

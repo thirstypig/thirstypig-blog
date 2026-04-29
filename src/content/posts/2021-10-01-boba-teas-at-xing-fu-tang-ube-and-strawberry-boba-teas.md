@@ -24,6 +24,7 @@ categories:
 - Boba
 cuisine:
 - Boba
+placeId: "0x80c2dad467747067:0x3b197541d80b539c"
 ---
 
 ![Boba Teas at Xing Fu Tang Ube and strawberry boba teas](/images/posts/ig-2021-10-01-boba-teas-at-xing-fu-tang-ube-and-strawberry-boba-teas/18194540158142223.jpg)

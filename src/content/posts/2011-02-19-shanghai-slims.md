@@ -26,6 +26,7 @@ coordinates:
   lng: 121.464207
 cuisine:
 - American
+placeId: "0x35b270752a3c14f5:0xa69247b8f55c2e6"
 ---
 
 [![shanghai-slims-10](/images/posts/shanghai-slims/Shanghai-Slims-00-188x188.jpg "shanghai-slims-10")](http://thirstypig.com/2011/02/19/shanghai-slims/shanghai-slims-10/)

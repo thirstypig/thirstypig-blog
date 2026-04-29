@@ -30,6 +30,7 @@ tags:
 - flatbread
 cuisine:
 - Taiwanese
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 Fu Hang Dou Jiang serves up Taiwanese breakfast favorites in a food court in the Shandao Temple area.

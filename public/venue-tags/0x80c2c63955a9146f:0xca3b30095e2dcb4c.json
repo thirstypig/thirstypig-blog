@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63955a9146f:0xca3b30095e2dcb4c",
+  "venue_name": "Arts District Brewing Company",
+  "chips": [
+    {
+      "label": "skeeball",
+      "mention_count": 176
+    },
+    {
+      "label": "arcade games",
+      "mention_count": 67
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 79
+    },
+    {
+      "label": "tater tots",
+      "mention_count": 27
+    },
+    {
+      "label": "ipas",
+      "mention_count": 49
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 3
+    },
+    {
+      "label": "photo booth",
+      "mention_count": 11
+    },
+    {
+      "label": "sour beer",
+      "mention_count": 11
+    },
+    {
+      "label": "axe throwing",
+      "mention_count": 7
+    },
+    {
+      "label": "crowded",
+      "mention_count": 52
+    }
+  ],
+  "scraped_at": "2026-04-29T18:10:13Z",
+  "city": "Downtown LA",
+  "key": "arts-district-brewing-company-downtown-l"
+}

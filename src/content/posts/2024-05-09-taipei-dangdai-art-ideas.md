@@ -27,6 +27,7 @@ coordinates:
   lat: 25.044934
   lng: 121.529331
 cuisine: []
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 ![Taipei DangDai art & ideas](/images/posts/ig-2024-05-09-taipei-dangdai-art-ideas/18002558783579780.jpg)

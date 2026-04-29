@@ -23,6 +23,7 @@ region: Westside
 address: 100 N La Cienega Blvd Beverly Hills, CA 90211
 cuisine:
 - American
+placeId: "0x80c2b94f25c7eb0f:0x83add879c8fe0c99"
 ---
 
 [![IMG_1029](/images/posts/lawrys-prime-rib-beverly-hills/IMG_1035.jpg "IMG_1029")](http://thirstypig.com/2015/06/23/lawrys-prime-rib-beverly-hills/img_1029/)

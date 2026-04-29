@@ -38,9 +38,9 @@ const formatCount = (n: number) => n.toLocaleString('en-US');
 {chips && chips.length > 0 && (
 	<aside class="venue-chips" aria-label={venueName ? `Topic chips for ${venueName}` : 'Topic chips'}>
 		<header class="mb-3 flex items-baseline justify-between gap-3">
-			<h3 class="text-sm font-semibold text-stone uppercase tracking-wide">
+			<h2 class="text-sm font-semibold text-stone uppercase tracking-wide">
 				What people mention
-			</h3>
+			</h2>
 			<a
 				href={`/venue-tags/${placeId}.json`}
 				class="text-xs text-stone hover:text-amber transition-colors"

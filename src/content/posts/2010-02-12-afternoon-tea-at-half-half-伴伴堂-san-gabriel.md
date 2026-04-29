@@ -32,6 +32,7 @@ coordinates:
   lng: -118.108963
 cuisine:
 - Taiwanese
+placeId: "0x80c2dad45fd40bbb:0xfb165165a6781a72"
 ---
 
 Lately, I’ve been frequenting this little tea house, in the afternoons, to do some work. Half & Half is a quaint Taiwanese tea house in San Gabriel valley.

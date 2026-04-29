@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2dad467747067:0x3b197541d80b539c"
 ---
 
 ![Beef Dip Sandwich and wedge fries](/images/posts/ig-2017-10-07-beef-dip-sandwich-and-wedge-fries/17885914636083563.jpg)

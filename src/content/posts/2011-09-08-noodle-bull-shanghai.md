@@ -36,6 +36,7 @@ tags:
 - beef-noodle-soup
 cuisine:
 - Taiwanese
+placeId: "0x35b27aa9e259df0b:0xc9bda681bda19ef7"
 ---
 
 Noodle Bull is a trendy and popular noodle restaurant in the heart of bustling area near Donghu road in Xuhui district. This area is full of restaurants, bars, lounges, and nightclubs – basically full of expats.

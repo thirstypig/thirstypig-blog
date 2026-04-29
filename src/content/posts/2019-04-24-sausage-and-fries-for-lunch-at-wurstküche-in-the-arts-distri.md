@@ -26,6 +26,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 ---
 
 ![Sausage and fries for lunch at Wurstküche in the Arts District in DTLA](/images/posts/ig-2019-04-24-sausage-and-fries-for-lunch-at-wurstküche-in-the-arts-distri/17848031944417390.jpg)

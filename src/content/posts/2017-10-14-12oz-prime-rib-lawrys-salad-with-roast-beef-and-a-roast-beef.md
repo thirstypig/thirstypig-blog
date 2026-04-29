@@ -26,6 +26,7 @@ coordinates:
   lng: -118.376122
 cuisine:
 - American
+placeId: "0x80c2b94f25c7eb0f:0x83add879c8fe0c99"
 ---
 
 ![12oz prime rib, lawry’s salad with roast beef, and a roast beef dip sandwich](/images/posts/ig-2017-10-14-12oz-prime-rib-lawrys-salad-with-roast-beef-and-a-roast-beef/17886509233094593.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644ca48760d6971:0xa5521d488ea5860d",
+  "venue_name": "Stiles Switch BBQ",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 1184
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 105
+    },
+    {
+      "label": "plenty of seating",
+      "mention_count": 5
+    },
+    {
+      "label": "corn casserole",
+      "mention_count": 153
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 162
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 232
+    },
+    {
+      "label": "jalapeño sausage",
+      "mention_count": 103
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 203
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 223
+    },
+    {
+      "label": "prime rib",
+      "mention_count": 55
+    }
+  ],
+  "scraped_at": "2026-04-29T18:09:43Z",
+  "city": "Austin",
+  "key": "stiles-switch-bbq-brew-austin"
+}

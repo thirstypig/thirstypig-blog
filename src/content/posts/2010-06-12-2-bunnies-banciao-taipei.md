@@ -33,6 +33,7 @@ coordinates:
   lng: 121.523724
 cuisine:
 - Fusion
+placeId: "0x3442a968cc61d107:0xbc6a9bf9fbb04fcf"
 ---
 
 One afternoon I was looking for a cafe to do some quiet work and reading, and I was recommended 2 Bunnies Cafe. Its nice little cafe that serves Japanese style meals and cafe drinks.
