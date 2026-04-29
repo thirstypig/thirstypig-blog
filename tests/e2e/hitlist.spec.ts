@@ -79,7 +79,8 @@ test.describe("hitlist page", () => {
 
 	test("Hit List nav link gets aria-current on this page", async ({ page }) => {
 		await page.goto("/hitlist");
-		const activeLinks = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]');
-		await expect(activeLinks.first()).toHaveText("Hit List");
+		// Assert via stable data-testid; survives label renames.
+		await expect(page.locator('[data-testid="nav-hitlist"]').first())
+			.toHaveAttribute("aria-current", "page");
 	});
 });

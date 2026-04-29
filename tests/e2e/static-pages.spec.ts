@@ -15,8 +15,9 @@ test.describe("static pages", () => {
 
 	test("about nav link gets aria-current", async ({ page }) => {
 		await page.goto("/about");
-		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("About");
+		// Assert via stable data-testid; survives label renames.
+		await expect(page.locator('[data-testid="nav-about"]').first())
+			.toHaveAttribute("aria-current", "page");
 	});
 
 	test("cuisine index renders heading (also covers the /best-of redirect)", async ({ page }) => {

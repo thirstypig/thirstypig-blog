@@ -3,17 +3,19 @@ import { SITE_TITLE } from '../consts';
 
 const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
+// `testId` is the stable hook for e2e assertions. Labels can rename freely
+// without breaking tests as long as the testId stays the same.
 const navItems = [
-	{ href: '/posts/', label: 'Posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
-	{ href: '/cities', label: 'Cities', isActive: pathname.startsWith('/cities') },
-	{ href: '/map', label: 'Map', isActive: pathname === '/map' },
-	{ href: '/cuisine', label: 'Cuisine', isActive: pathname.startsWith('/cuisine') || pathname.startsWith('/best-of') },
-	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },
-	{ href: '/about', label: 'About', isActive: pathname === '/about' },
+	{ href: '/posts/', label: 'Posts', testId: 'nav-posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
+	{ href: '/cities', label: 'Cities', testId: 'nav-cities', isActive: pathname.startsWith('/cities') },
+	{ href: '/map', label: 'Map', testId: 'nav-map', isActive: pathname === '/map' },
+	{ href: '/cuisine', label: 'Cuisine', testId: 'nav-cuisine', isActive: pathname.startsWith('/cuisine') || pathname.startsWith('/best-of') },
+	{ href: '/hitlist', label: 'Hit List', testId: 'nav-hitlist', isActive: pathname === '/hitlist' },
+	{ href: '/about', label: 'About', testId: 'nav-about', isActive: pathname === '/about' },
 ];
 
 const mobileExtras = [
-	{ href: '/search', label: 'Search', isActive: pathname === '/search' },
+	{ href: '/search', label: 'Search', testId: 'nav-search', isActive: pathname === '/search' },
 ];
 ---
 
@@ -32,9 +34,10 @@ const mobileExtras = [
 			</a>
 
 			<div class="hidden md:flex items-center gap-7">
-				{navItems.map(({ href, label, isActive }) => (
+				{navItems.map(({ href, label, testId, isActive }) => (
 					<a
 						href={href}
+						data-testid={testId}
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
 							'text-sm font-medium transition-colors no-underline',
@@ -89,9 +92,10 @@ const mobileExtras = [
 
 		<div id="mobile-menu" class="hidden md:hidden pb-4 border-t border-cream-dark/50">
 			<div class="flex flex-col gap-1 pt-2">
-				{[...navItems, ...mobileExtras].map(({ href, label, isActive }) => (
+				{[...navItems, ...mobileExtras].map(({ href, label, testId, isActive }) => (
 					<a
 						href={href}
+						data-testid={`${testId}-mobile`}
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
 							'px-3 py-2 rounded-lg text-sm font-medium no-underline',

@@ -40,7 +40,8 @@ test.describe("posts archive", () => {
 
 	test("Posts nav link gets aria-current on the /posts index", async ({ page }) => {
 		await page.goto("/posts/");
-		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("Posts");
+		// Assert via stable data-testid; survives label renames.
+		await expect(page.locator('[data-testid="nav-posts"]').first())
+			.toHaveAttribute("aria-current", "page");
 	});
 });
