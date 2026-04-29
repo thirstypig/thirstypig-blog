@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { slugify } from '../../utils';
+
+const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+// Cuisine categories shown on this page. Region/type sections were removed
+// — Cuisine is the page now. Region grouping lives at /cities; type-based
+// browsing belongs in search/tags.
+const cuisineCategories = [
+	'Japanese', 'Korean', 'Chinese', 'Taiwanese', 'Thai', 'Vietnamese',
+	'Mexican', 'American', 'Italian', 'French', 'Indian',
+	'Shanghainese', 'Cantonese', 'Peruvian', 'Hawaiian', 'Spanish',
+];
+
+const categoryCount = new Map<string, number>();
+posts.forEach(post => {
+	(post.data.categories || []).forEach(cat => {
+		categoryCount.set(cat, (categoryCount.get(cat) || 0) + 1);
+	});
+});
+
+const cuisines = cuisineCategories
+	.filter(c => (categoryCount.get(c) || 0) >= 3)
+	.sort((a, b) => (categoryCount.get(b) || 0) - (categoryCount.get(a) || 0));
+---
+
+<BaseLayout title="Cuisine" description="Restaurants grouped by cuisine.">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Cuisine</h1>
+		<p class="text-stone mb-8">{cuisines.length} cuisines · {posts.length} posts</p>
+
+		<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+			{cuisines.map(cuisine => (
+				<a
+					href={`/categories/${slugify(cuisine)}/`}
+					class="flex items-center justify-between p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
+				>
+					<span class="font-medium text-ink group-hover:text-amber transition-colors">
+						{cuisine}
+					</span>
+					<span class="text-sm text-stone tabular-nums">
+						{categoryCount.get(cuisine)}
+					</span>
+				</a>
+			))}
+		</div>
+	</section>
+</BaseLayout>

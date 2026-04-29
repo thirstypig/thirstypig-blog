@@ -17,6 +17,18 @@ const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCas
 				<strong>Snapshots of the Wet, Savory, & Delectable.</strong>
 			</p>
 
+			<div class="not-prose flex justify-center my-8">
+				<img
+					src="/images/thirstypig-badge-red.svg"
+					alt="The Thirsty Pig badge"
+					width="180"
+					height="180"
+					class="thirstypig-badge"
+					loading="lazy"
+					decoding="async"
+				/>
+			</div>
+
 			<p>
 				The Thirsty Pig is a food, drink, and dining adventure blog that has been exploring
 				restaurants, street food, cocktails, and culinary culture since 2007. From the legendary
@@ -129,3 +141,15 @@ const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCas
 		</div>
 	</section>
 </BaseLayout>
+
+<style>
+	/* Clip to a circle so the drop-shadow follows the round badge edge,
+	   not the SVG's square 1024x1024 bounding box. Also future-proofs
+	   the look if a swapped-in SVG happens to have visible padding. */
+	.thirstypig-badge {
+		width: 180px;
+		height: 180px;
+		clip-path: circle(50% at 50% 50%);
+		filter: drop-shadow(0 12px 30px rgba(228, 21, 43, 0.25));
+	}
+</style>

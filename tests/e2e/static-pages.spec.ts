@@ -19,8 +19,8 @@ test.describe("static pages", () => {
 		await expect(active).toHaveText("About");
 	});
 
-	test("best-of (Cuisine) index renders heading", async ({ page }) => {
-		await page.goto("/best-of");
+	test("cuisine index renders heading (also covers the /best-of redirect)", async ({ page }) => {
+		await page.goto("/cuisine");
 		await expect(page.getByRole("heading", { level: 1, name: "Cuisine" })).toBeVisible();
 	});
 

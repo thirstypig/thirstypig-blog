@@ -1,18 +1,18 @@
 import { test, expect } from "@playwright/test";
 
 /**
- * Archive page coverage — /archive/, /archive/[year]/, /archive/[year]/[month]/.
+ * Posts archive coverage — /posts/, /archive/[year]/, /archive/[year]/[month]/.
  *
- * Static pages (no client-side JS), so assertions focus on server-rendered
- * structure: heading, year grid, month grid, nav active state.
+ * The archive index moved from /archive to /posts in PR #91; year + month
+ * detail pages still live at /archive/[year]/ for now (renaming would
+ * collide with /posts/[page].astro pagination + /posts/[...slug].astro).
+ * /archive 301-redirects to /posts via astro.config.mjs.
  */
-test.describe("archive", () => {
-	test("index renders heading and year links for every year with posts", async ({ page }) => {
-		await page.goto("/archive/");
-		await expect(page.getByRole("heading", { level: 1, name: "Archive" })).toBeVisible();
-
-		// Every year since the blog started should have a link. Spot-check two
-		// corners: 2008 (oldest era) and a recent year.
+test.describe("posts archive", () => {
+	test("index renders year links for every year with posts", async ({ page }) => {
+		await page.goto("/posts/");
+		// H1 was dropped in PR #91 — the page-title + count line carry context.
+		// Verify the year links instead, which are the load-bearing content.
 		await expect(page.getByRole("link", { name: /^2008$/ })).toBeVisible();
 		await expect(page.getByRole("link", { name: /^2022$/ })).toBeVisible();
 	});
@@ -38,10 +38,9 @@ test.describe("archive", () => {
 		expect(count).toBeGreaterThan(0);
 	});
 
-	test("Stories nav link (points to /archive/) gets aria-current on archive pages", async ({ page }) => {
-		// Bold Red Poster redesign renamed "Archive" -> "Stories"; the route stayed as /archive/.
-		await page.goto("/archive/");
+	test("Posts nav link gets aria-current on the /posts index", async ({ page }) => {
+		await page.goto("/posts/");
 		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("Stories");
+		await expect(active).toHaveText("Posts");
 	});
 });

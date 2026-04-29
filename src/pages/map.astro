@@ -1,11 +1,24 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import TagGraph from '../components/TagGraph.astro';
 ---
 
 <BaseLayout title="Map" description="Explore restaurants on a map — The Thirsty Pig food blog.">
 	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
 		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Restaurant Map</h1>
 		<p class="text-stone mb-6">Explore all the places we've eaten, across LA and around the world.</p>
+
+		<!-- What people talk about — chip co-occurrence graph -->
+		<h2 class="font-serif text-xl font-bold text-ink mb-2">What people talk about</h2>
+		<p class="text-stone text-sm mb-3">
+			Each dot is a phrase from Google Maps reviews — sized by total mentions.
+			Lines connect phrases that show up at the same venue. Click any chip to
+			search the blog for it.
+		</p>
+		<TagGraph aspectRatio="5 / 2" minHeight="320px" caption="" />
+
+		<!-- Where they live — venue pin map -->
+		<h2 class="font-serif text-xl font-bold text-ink mt-8 mb-2">Where they live</h2>
 
 		<!-- Legend -->
 		<div class="flex flex-wrap gap-4 mb-3 text-sm" aria-label="Map legend">

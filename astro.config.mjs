@@ -13,6 +13,12 @@ export default defineConfig({
   site: 'https://thirstypig.com',
   integrations: [mdx(), sitemap()],
 
+  // URL renames — preserve old links for external traffic.
+  redirects: {
+    '/best-of': '/cuisine',
+    '/archive': '/posts',
+  },
+
   markdown: {
     remarkPlugins: [remarkInstagramMentions, remarkImageOptimize],
   },
