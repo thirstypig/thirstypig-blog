@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c65adf56b007:0x3029097586d1a8f8",
+  "venue_name": "The Little Jewel of New Orleans",
+  "chips": [
+    {
+      "label": "muffaletta",
+      "mention_count": 34
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "crawfish mac and cheese",
+      "mention_count": 17
+    },
+    {
+      "label": "fried shrimp po boy",
+      "mention_count": 18
+    },
+    {
+      "label": "pulled pork sandwich",
+      "mention_count": 11
+    },
+    {
+      "label": "beignets",
+      "mention_count": 48
+    },
+    {
+      "label": "oyster po boy",
+      "mention_count": 11
+    },
+    {
+      "label": "surf and turf",
+      "mention_count": 13
+    },
+    {
+      "label": "cochon de lait",
+      "mention_count": 8
+    },
+    {
+      "label": "remoulade",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:39Z",
+  "city": "Los Angeles",
+  "key": "little-jewel-no-la"
+}

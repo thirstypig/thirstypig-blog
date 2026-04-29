@@ -29,6 +29,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
 ---
 
 ![Beef Noodle Soup at 一條龍 PP Pop](/images/posts/ig-2019-11-26-beef-noodle-soup-at-一條龍-pp-pop/17844876400819057.jpg)

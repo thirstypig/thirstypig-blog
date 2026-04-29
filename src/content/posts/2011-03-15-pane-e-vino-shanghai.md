@@ -26,6 +26,7 @@ coordinates:
   lng: 121.46358
 cuisine:
 - Italian
+placeId: "0x14f70c636fd1aa5f:0x46461d71d24ceaf9"
 ---
 
 Sometimes food prepared the traditional simple manner is all you need. But of course you need quality ingredients. Echo and her husband, Antonio have done just that. With imported Italian floor, spices, and wines, Pane e Vino is able to recreate time tested & honored recipes, here in Shanghai.

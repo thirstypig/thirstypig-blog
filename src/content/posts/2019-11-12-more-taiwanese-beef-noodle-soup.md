@@ -29,6 +29,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
 ---
 
 ![More Taiwanese Beef Noodle Soup](/images/posts/ig-2019-11-12-more-taiwanese-beef-noodle-soup/17874952684488456.jpg)

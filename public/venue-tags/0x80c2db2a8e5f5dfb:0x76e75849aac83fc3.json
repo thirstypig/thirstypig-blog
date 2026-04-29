@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3",
+  "venue_name": "Hui Tou Xiang Noodles House",
+  "chips": [
+    {
+      "label": "Xiaolongbao",
+      "mention_count": 24
+    },
+    {
+      "label": "pan fried dumplings",
+      "mention_count": 11
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 5
+    },
+    {
+      "label": "scallion pancakes",
+      "mention_count": 4
+    },
+    {
+      "label": "take out only",
+      "mention_count": 7
+    },
+    {
+      "label": "pork shumai",
+      "mention_count": 3
+    },
+    {
+      "label": "pork belly noodle soup",
+      "mention_count": 2
+    },
+    {
+      "label": "minced pork noodles 卤肉面",
+      "mention_count": 2
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 6
+    },
+    {
+      "label": "three flavor dumplings",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:24Z",
+  "city": "San Gabriel",
+  "key": "hui-tou-xiang-sgv"
+}

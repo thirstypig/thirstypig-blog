@@ -136,3 +136,88 @@
   city: Tokyo
   query: "Ippudo Roppongi Tokyo"
   place_id: "0x60188b82a8814ae9:0xfb48d965b9cf2b73"
+
+# === Batch 2 — high-mention untagged venues from corpus (2026-04-28) ===
+
+- key: hui-tou-xiang-sgv
+  name: "Hui Tou Xiang Noodles House"
+  city: San Gabriel
+  query: "Hui Tou Xiang Noodles House San Gabriel CA"
+  place_id: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
+
+- key: ave-26-tacos-dtla
+  name: "Ave 26 Tacos"
+  city: Los Angeles
+  query: "Ave 26 Tacos Lincoln Heights Los Angeles"
+
+- key: coles-french-dip-dtla
+  name: "Cole's French Dip"
+  city: Los Angeles
+  query: "Cole's Originators of the French Dip Downtown Los Angeles"
+  place_id: "0x80c2c6359f6c9d81:0xf5d57a5a78e20b09"
+
+- key: shin-yeh-taipei
+  name: "Shin Yeh Taiwanese Cuisine"
+  city: Taipei
+  query: "Shin Yeh 欣葉台菜 Taipei"
+
+- key: haidilao-shanghai
+  name: "Haidilao Hot Pot Shanghai"
+  city: Shanghai
+  query: "Haidilao Hot Pot 海底捞 Shanghai"
+
+- key: golden-deli-sgv
+  name: "Golden Deli"
+  city: San Gabriel
+  query: "Golden Deli San Gabriel CA"
+  place_id: "0x80c2db2ac87d1897:0xd50fbd33a3056663"
+
+- key: little-jewel-no-la
+  name: "The Little Jewel of New Orleans"
+  city: Los Angeles
+  query: "The Little Jewel of New Orleans Chinatown Los Angeles"
+  place_id: "0x80c2c65adf56b007:0x3029097586d1a8f8"
+
+- key: a-niang-noodles-shanghai
+  name: "A Niang Noodles"
+  city: Shanghai
+  query: "A Niang Noodles 阿娘面 Shanghai"
+
+- key: majordomo-dtla
+  name: "Majordomo"
+  city: Los Angeles
+  query: "Majordomo Chinatown Los Angeles"
+  place_id: "0x80c2c6611b681927:0x29fe8bed454c7cae"
+
+- key: wolf-crane-dtla
+  name: "Wolf & Crane Bar"
+  city: Los Angeles
+  query: "Wolf and Crane Little Tokyo Los Angeles"
+  place_id: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
+
+- key: pane-e-vino-shanghai
+  name: "Pane e Vino"
+  city: Shanghai
+  query: "Pane e Vino Shanghai"
+  place_id: "0x14f70c636fd1aa5f:0x46461d71d24ceaf9"
+
+- key: dazzling-cafe-taipei
+  name: "Dazzling Cafe Pink"
+  city: Taipei
+  query: "Dazzling Cafe Taipei"
+
+- key: bankara-ramen-bangkok
+  name: "Bankara Ramen"
+  city: Bangkok
+  query: "Bankara Ramen Bangkok"
+
+- key: bar-rouge-shanghai
+  name: "Bar Rouge"
+  city: Shanghai
+  query: "Bar Rouge Bund Shanghai"
+  place_id: "0x35b270578b874861:0xa8691c61b36dd267"
+
+- key: oola-taipei
+  name: "Oola Mexican Grill"
+  city: Taipei
+  query: "Oola Mexican Grill Taipei"

@@ -27,6 +27,7 @@ coordinates:
   lng: -118.249489
 cuisine:
 - American
+placeId: "0x80c2c6359f6c9d81:0xf5d57a5a78e20b09"
 ---
 
 I was in downtown Los Angeles the other day for a seminar, and we decided to stop at Cole’s for lunch. In the heart of downtown, it is right next to one of the newest and hottest lounges – The Association. . . I’ll save that for another post. . .

@@ -27,6 +27,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
 ![Texas BBQ at yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17881776544175032.jpg)

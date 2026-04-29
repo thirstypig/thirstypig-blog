@@ -30,6 +30,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
 ---
 
 ![Sichuan Noodles at a bunch of different noodles](/images/posts/ig-2017-11-11-sichuan-noodles-at-a-bunch-of-different-noodles/17907377224051422.jpg)

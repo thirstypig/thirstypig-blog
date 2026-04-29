@@ -27,6 +27,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
 ---
 
 ![Got a second chance to have curry with katsu](/images/posts/ig-2019-12-22-got-a-second-chance-to-have-curry-with-katsu/17879992042488466.jpg)

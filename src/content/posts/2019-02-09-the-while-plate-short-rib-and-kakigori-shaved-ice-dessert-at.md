@@ -26,6 +26,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c6611b681927:0x29fe8bed454c7cae"
 ---
 
 ![The While Plate Short Rib and kakigori shaved ice dessert at Majordomo](/images/posts/ig-2019-02-09-the-while-plate-short-rib-and-kakigori-shaved-ice-dessert-at/17864199772322041.jpg)

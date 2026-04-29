@@ -26,6 +26,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c65adf56b007:0x3029097586d1a8f8"
 ---
 
 ![Breakfast Burrito from the Queen of LA](/images/posts/ig-2024-11-11-breakfast-burrito-from-the-queen-of-la/18006783689497144.jpg)

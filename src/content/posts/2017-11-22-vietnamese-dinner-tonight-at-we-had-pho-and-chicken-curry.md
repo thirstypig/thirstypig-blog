@@ -25,6 +25,7 @@ images:
   - /images/posts/ig-2017-11-22-vietnamese-dinner-tonight-at-we-had-pho-and-chicken-curry/17896849006111962.jpg
 source: instagram
 draft: false
+placeId: "0x80c2db2ac87d1897:0xd50fbd33a3056663"
 ---
 
 ![Vietnamese Dinner tonight at we had pho and chicken curry](/images/posts/ig-2017-11-22-vietnamese-dinner-tonight-at-we-had-pho-and-chicken-curry/17909440537039114.jpg)

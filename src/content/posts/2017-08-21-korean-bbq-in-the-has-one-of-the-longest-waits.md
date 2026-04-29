@@ -31,6 +31,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2c65adf56b007:0x3029097586d1a8f8"
 ---
 
 ![Korean BBQ in the has one of the longest waits](/images/posts/ig-2017-08-21-korean-bbq-in-the-has-one-of-the-longest-waits/17895001045036569.jpg)

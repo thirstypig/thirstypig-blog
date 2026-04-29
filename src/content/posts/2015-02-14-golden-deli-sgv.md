@@ -23,6 +23,7 @@ region: San Gabriel Valley
 address: 815 W Las Tunas Dr. San Gabriel, CA 91776
 cuisine:
 - Vietnamese
+placeId: "0x80c2db2ac87d1897:0xd50fbd33a3056663"
 ---
 
 [![IMG_2223](/images/posts/golden-deli-sgv/IMG_2223.jpg "IMG_2223")](http://thirstypig.com/2015/02/14/golden-deli-sgv/img_2223/)

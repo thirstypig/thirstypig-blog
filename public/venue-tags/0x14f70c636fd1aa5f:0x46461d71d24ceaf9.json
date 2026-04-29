@@ -1,0 +1,17 @@
+{
+  "place_id": "0x14f70c636fd1aa5f:0x46461d71d24ceaf9",
+  "venue_name": "Pane E Vino",
+  "chips": [
+    {
+      "label": "truffle",
+      "mention_count": 2
+    },
+    {
+      "label": "pasta",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:53Z",
+  "city": "Shanghai",
+  "key": "pane-e-vino-shanghai"
+}

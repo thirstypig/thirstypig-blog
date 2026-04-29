@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6611b681927:0x29fe8bed454c7cae",
+  "venue_name": "Majordomo",
+  "chips": [
+    {
+      "label": "bo ssam",
+      "mention_count": 28
+    },
+    {
+      "label": "short rib",
+      "mention_count": 94
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 9
+    },
+    {
+      "label": "mushroom crispy rice",
+      "mention_count": 32
+    },
+    {
+      "label": "little gem salad",
+      "mention_count": 17
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 27
+    },
+    {
+      "label": "crispy potatoes",
+      "mention_count": 18
+    },
+    {
+      "label": "Fried Cauliflower TG",
+      "mention_count": 15
+    },
+    {
+      "label": "pork shoulder",
+      "mention_count": 12
+    },
+    {
+      "label": "lo mein",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-04-28T21:45:43Z",
+  "city": "Los Angeles",
+  "key": "majordomo-dtla"
+}
