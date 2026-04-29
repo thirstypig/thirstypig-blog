@@ -5,7 +5,7 @@ const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
 const navItems = [
 	{ href: '/archive/', label: 'Stories', isActive: pathname.startsWith('/archive') },
-	{ href: '/categories', label: 'Cities', isActive: pathname.startsWith('/categories') },
+	{ href: '/cities', label: 'Cities', isActive: pathname.startsWith('/cities') },
 	{ href: '/map', label: 'Map', isActive: pathname === '/map' },
 	{ href: '/best-of', label: 'Cuisine', isActive: pathname.startsWith('/best-of') },
 	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },

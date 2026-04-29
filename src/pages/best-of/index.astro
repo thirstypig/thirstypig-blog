@@ -5,26 +5,15 @@ import { slugify } from '../../utils';
 
 const posts = (await getCollection('posts')).filter(p => !p.data.draft);
 
-// Build best-of lists based on categories that represent cuisines and regions
+// Cuisine categories shown on this page. Region/type sections were removed
+// — Cuisine is the page now. Region grouping lives at /cities; type-based
+// browsing belongs in search/tags.
 const cuisineCategories = [
 	'Japanese', 'Korean', 'Chinese', 'Taiwanese', 'Thai', 'Vietnamese',
 	'Mexican', 'American', 'Italian', 'French', 'Indian',
 	'Shanghainese', 'Cantonese', 'Peruvian', 'Hawaiian', 'Spanish',
 ];
 
-const typeCategories = [
-	'Hamburgers', 'Ramen', 'Sushi', 'Barbeque', 'Pizza', 'Sandwich',
-	'Breakfast', 'Seafood', 'Cocktail', 'Dessert', 'Noodles', 'Tacos',
-	'Late Night', 'Hot Dogs',
-];
-
-const regionCategories = [
-	'San Gabriel Valley', 'Pasadena', 'Downtown LA', 'Westside',
-	'Hollywood', 'Koreatown', 'South Bay', 'Long Beach', 'Orange County',
-	'Bay Area', 'Shanghai', 'Taipei', 'Tokyo', 'Seoul', 'Hong Kong',
-];
-
-// Count posts per category
 const categoryCount = new Map<string, number>();
 posts.forEach(post => {
 	(post.data.categories || []).forEach(cat => {
@@ -32,82 +21,30 @@ posts.forEach(post => {
 	});
 });
 
-// Filter to categories that actually have posts
-const cuisines = cuisineCategories.filter(c => (categoryCount.get(c) || 0) >= 3);
-const types = typeCategories.filter(c => (categoryCount.get(c) || 0) >= 3);
-const regions = regionCategories.filter(c => (categoryCount.get(c) || 0) >= 3);
-
-// Top rated (3 pigs)
-const topRated = posts
-	.filter(p => (p.data.categories || []).includes('3 pigs'))
-	.length;
+const cuisines = cuisineCategories
+	.filter(c => (categoryCount.get(c) || 0) >= 3)
+	.sort((a, b) => (categoryCount.get(b) || 0) - (categoryCount.get(a) || 0));
 ---
 
-<BaseLayout title="Cuisine" description="Restaurants grouped by cuisine, dish type, and region.">
+<BaseLayout title="Cuisine" description="Restaurants grouped by cuisine.">
 	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Cuisine</h1>
-		<p class="text-stone mb-10">Browse {posts.length} dining adventures by cuisine, type, and region.</p>
+		<p class="text-stone mb-8">{cuisines.length} cuisines · {posts.length} posts</p>
 
-		<!-- Top Rated -->
-		{topRated > 0 && (
-			<div class="mb-12">
-				<h2 class="font-serif text-2xl font-bold text-ink mb-4">Top Rated</h2>
+		<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+			{cuisines.map(cuisine => (
 				<a
-					href={`/categories/${slugify('3 pigs')}/`}
-					class="inline-flex items-center gap-2 px-5 py-3 bg-amber/10 border border-amber/30 rounded-xl text-amber font-medium hover:bg-amber/20 transition-colors no-underline"
+					href={`/categories/${slugify(cuisine)}/`}
+					class="flex items-center justify-between p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
 				>
-					3 Pigs — The Best of the Best
-					<span class="text-sm text-stone">({topRated} posts)</span>
+					<span class="font-medium text-ink group-hover:text-amber transition-colors">
+						{cuisine}
+					</span>
+					<span class="text-sm text-stone tabular-nums">
+						{categoryCount.get(cuisine)}
+					</span>
 				</a>
-			</div>
-		)}
-
-		<!-- By Cuisine -->
-		<div class="mb-12">
-			<h2 class="font-serif text-2xl font-bold text-ink mb-4">By Cuisine</h2>
-			<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-				{cuisines.map(cuisine => (
-					<a
-						href={`/categories/${slugify(cuisine)}/`}
-						class="flex items-center justify-between p-3 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
-					>
-						<span class="font-medium text-ink group-hover:text-amber transition-colors">{cuisine}</span>
-						<span class="text-xs text-stone">{categoryCount.get(cuisine)}</span>
-					</a>
-				))}
-			</div>
-		</div>
-
-		<!-- By Type -->
-		<div class="mb-12">
-			<h2 class="font-serif text-2xl font-bold text-ink mb-4">By Type</h2>
-			<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-				{types.map(type => (
-					<a
-						href={`/categories/${slugify(type)}/`}
-						class="flex items-center justify-between p-3 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
-					>
-						<span class="font-medium text-ink group-hover:text-amber transition-colors">{type}</span>
-						<span class="text-xs text-stone">{categoryCount.get(type)}</span>
-					</a>
-				))}
-			</div>
-		</div>
-
-		<!-- By Region -->
-		<div class="mb-12">
-			<h2 class="font-serif text-2xl font-bold text-ink mb-4">By Region</h2>
-			<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-				{regions.map(region => (
-					<a
-						href={`/categories/${slugify(region)}/`}
-						class="flex items-center justify-between p-3 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
-					>
-						<span class="font-medium text-ink group-hover:text-amber transition-colors">{region}</span>
-						<span class="text-xs text-stone">{categoryCount.get(region)}</span>
-					</a>
-				))}
-			</div>
+			))}
 		</div>
 	</section>
 </BaseLayout>

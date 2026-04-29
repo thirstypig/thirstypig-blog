@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('posts')).filter(p => !p.data.draft);
+
+// Aggregate posts by city. Skip empties.
+const cityMap = new Map<string, number>();
+for (const post of posts) {
+	const city = (post.data.city || '').trim();
+	if (!city) continue;
+	cityMap.set(city, (cityMap.get(city) || 0) + 1);
+}
+
+const cities = [...cityMap.entries()]
+	.sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="Cities" description="Browse posts by city — every place we've eaten.">
+	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Cities</h1>
+		<p class="text-stone mb-8">{cities.length} cities · {posts.length} posts</p>
+
+		<div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+			{cities.map(([city, count]) => (
+				<a
+					href={`/search/?q=${encodeURIComponent(city)}`}
+					class="flex items-center justify-between p-4 rounded-xl border border-cream-dark hover:border-amber hover:bg-amber/5 transition-all no-underline group"
+				>
+					<span class="font-medium text-ink group-hover:text-amber transition-colors">
+						{city}
+					</span>
+					<span class="text-sm text-stone tabular-nums">
+						{count}
+					</span>
+				</a>
+			))}
+		</div>
+	</section>
+</BaseLayout>
