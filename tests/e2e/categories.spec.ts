@@ -1,21 +1,19 @@
 import { test, expect } from "@playwright/test";
 
 /**
- * Category page coverage — /categories/ index + an individual category page.
- * Categories are derived from cuisine + a few non-food categories.
+ * Category page coverage — /categories/[category] detail pages.
+ *
+ * The bare /categories index was redirected to /cuisine in PR #91 (it
+ * was orphaned from nav once /cuisine + /cities shipped). The detail
+ * pages still resolve directly.
  */
 test.describe("categories", () => {
-	test("index renders Categories heading and multiple category links", async ({ page }) => {
+	test("/categories redirects to /cuisine", async ({ page }) => {
 		await page.goto("/categories/");
-		await expect(page.getByRole("heading", { level: 1, name: "Categories" })).toBeVisible();
-
-		// Japanese is one of the largest categories and has existed since the rebuild
-		await expect(page.getByRole("link", { name: /^Japanese/ })).toBeVisible();
-
-		// There should be many categories — the seed-time count was 45
-		const categoryLinks = page.locator('a[href^="/categories/"]');
-		const count = await categoryLinks.count();
-		expect(count).toBeGreaterThan(10);
+		// Astro redirects are 301/308; Playwright follows them by default,
+		// landing us on /cuisine. Assert we ended up there.
+		await expect(page).toHaveURL(/\/cuisine\/?$/);
+		await expect(page.getByRole("heading", { level: 1, name: "Cuisine" })).toBeVisible();
 	});
 
 	test("individual category page renders with correct heading and posts", async ({ page }) => {
