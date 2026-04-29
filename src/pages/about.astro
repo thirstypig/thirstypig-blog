@@ -18,16 +18,15 @@ const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCas
 			</p>
 
 			<div class="not-prose flex justify-center my-8">
-				<div class="thirstypig-badge" aria-label="The Thirsty Pig logo badge">
-					<img
-						src="/images/redpig-transparent.png"
-						alt="The Thirsty Pig"
-						width="160"
-						height="160"
-						loading="lazy"
-						decoding="async"
-					/>
-				</div>
+				<img
+					src="/images/thirstypig-badge-red.svg"
+					alt="The Thirsty Pig badge"
+					width="180"
+					height="180"
+					class="thirstypig-badge"
+					loading="lazy"
+					decoding="async"
+				/>
 			</div>
 
 			<p>
@@ -145,19 +144,8 @@ const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCas
 
 <style>
 	.thirstypig-badge {
-		width: 160px;
-		height: 160px;
-		border-radius: 9999px;
-		background: #E4152B;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		box-shadow: 0 12px 30px rgba(228, 21, 43, 0.25), 0 4px 10px rgba(0, 0, 0, 0.1);
-		overflow: hidden;
-	}
-	.thirstypig-badge img {
-		width: 130px;
-		height: 130px;
-		object-fit: contain;
+		width: 180px;
+		height: 180px;
+		filter: drop-shadow(0 12px 30px rgba(228, 21, 43, 0.25));
 	}
 </style>

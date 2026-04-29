@@ -3,14 +3,23 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 interface Props {
-	/** CSS aspect-ratio for the canvas. Default 16/9 — pass "3/1" or similar
-	 *  for a shorter banner-style placement (e.g. above the venue map). */
+	/** CSS aspect-ratio for the canvas. Default 16/9 — pass "5/2" or similar
+	 *  for a banner-style placement (e.g. above the venue map). */
 	aspectRatio?: string;
+	/** CSS min-height for the canvas. Useful when the aspect-ratio would
+	 *  produce too short a canvas on narrow viewports — e.g. a 5/2 ratio
+	 *  on a 360px-wide phone is only 144px tall, too cramped for the
+	 *  graph's 100+ nodes. Default "0" (no min). */
+	minHeight?: string;
 	/** Optional caption shown under the canvas. Pass empty string to hide. */
 	caption?: string;
 }
 
-const { aspectRatio = "16 / 9", caption = "Tags pulled from Google Maps reviews." } = Astro.props;
+const {
+	aspectRatio = "16 / 9",
+	minHeight = "0",
+	caption = "Tags pulled from Google Maps reviews.",
+} = Astro.props;
 
 // --- Build-time data prep ---------------------------------------------------
 // Read every venue-tags JSON, build node + edge lists.
@@ -77,7 +86,7 @@ const graphData = { nodes, edges };
 	<canvas
 		id="chip-graph"
 		class="block w-full"
-		style={`aspect-ratio: ${aspectRatio};`}
+		style={`aspect-ratio: ${aspectRatio}; min-height: ${minHeight};`}
 		aria-label="Force-directed graph of chip co-occurrence"
 	></canvas>
 	<div

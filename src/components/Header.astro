@@ -4,10 +4,10 @@ import { SITE_TITLE } from '../consts';
 const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
 const navItems = [
-	{ href: '/archive/', label: 'Stories', isActive: pathname.startsWith('/archive') },
+	{ href: '/posts/', label: 'Posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
 	{ href: '/cities', label: 'Cities', isActive: pathname.startsWith('/cities') },
 	{ href: '/map', label: 'Map', isActive: pathname === '/map' },
-	{ href: '/best-of', label: 'Cuisine', isActive: pathname.startsWith('/best-of') },
+	{ href: '/cuisine', label: 'Cuisine', isActive: pathname.startsWith('/cuisine') || pathname.startsWith('/best-of') },
 	{ href: '/hitlist', label: 'Hit List', isActive: pathname === '/hitlist' },
 	{ href: '/about', label: 'About', isActive: pathname === '/about' },
 ];

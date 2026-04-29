@@ -24,7 +24,7 @@ const years = [...byYear.entries()].sort((a, b) => b[0] - a[0]);
 const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 ---
 
-<BaseLayout title="Archive" description="Browse all posts by year and month.">
+<BaseLayout title="Posts" description="Browse all posts by year and month.">
 	<section class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 		<p class="text-stone mb-10">{posts.length} posts from {years[years.length - 1]?.[0]} to {years[0]?.[0]}</p>
 
