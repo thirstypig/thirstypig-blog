@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b98253f81f7b:0x984bac857fbd77c7",
+  "venue_name": "Lukshon",
+  "chips": [
+    {
+      "label": "asian fusion foods",
+      "mention_count": 13
+    },
+    {
+      "label": "small plates",
+      "mention_count": 5
+    },
+    {
+      "label": "patio",
+      "mention_count": 8
+    },
+    {
+      "label": "fried whole fish",
+      "mention_count": 2
+    },
+    {
+      "label": "Crab Fried Rice",
+      "mention_count": 3
+    },
+    {
+      "label": "black rice",
+      "mention_count": 4
+    },
+    {
+      "label": "butterfish",
+      "mention_count": 7
+    },
+    {
+      "label": "Clam Chowder",
+      "mention_count": 3
+    },
+    {
+      "label": "cocktails",
+      "mention_count": 5
+    },
+    {
+      "label": "tasting menu",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:31Z",
+  "city": "Los Angeles",
+  "key": "lukshon-la"
+}

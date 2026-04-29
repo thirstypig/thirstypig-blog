@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3ffca83b651:0x8226f1237187728f",
+  "venue_name": "Donut Friend - Highland Park - Dessert, Ice Cream, Coffee & More",
+  "chips": [
+    {
+      "label": "vegan options",
+      "mention_count": 312
+    },
+    {
+      "label": "vegan donuts",
+      "mention_count": 68
+    },
+    {
+      "label": "creme brulee donut",
+      "mention_count": 25
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 40
+    },
+    {
+      "label": "passion fruit donut",
+      "mention_count": 13
+    },
+    {
+      "label": "vegan ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "customizable donuts",
+      "mention_count": 7
+    },
+    {
+      "label": "frosting toppings",
+      "mention_count": 9
+    },
+    {
+      "label": "fritter",
+      "mention_count": 24
+    },
+    {
+      "label": "unique flavors",
+      "mention_count": 26
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:23Z",
+  "city": "Los Angeles",
+  "key": "donut-friend-la"
+}

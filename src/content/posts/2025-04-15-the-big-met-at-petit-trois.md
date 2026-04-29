@@ -25,6 +25,7 @@ categories:
 - French
 cuisine:
 - French
+placeId: "0x80c2b8d33ce3dcc9:0xb0a9252822b856f6"
 ---
 
 ![The big Met at Petit Trois](/images/posts/ig-2025-04-15-the-big-met-at-petit-trois/18073767958798749.jpg)

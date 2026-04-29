@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8d33ce3dcc9:0xb0a9252822b856f6",
+  "venue_name": "Petit Trois",
+  "chips": [
+    {
+      "label": "escargot",
+      "mention_count": 43
+    },
+    {
+      "label": "French Onion Soup",
+      "mention_count": 56
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 22
+    },
+    {
+      "label": "steak frites",
+      "mention_count": 28
+    },
+    {
+      "label": "bordelaise sauce",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 32
+    },
+    {
+      "label": "croque madame",
+      "mention_count": 14
+    },
+    {
+      "label": "Big MEC Burger",
+      "mention_count": 2
+    },
+    {
+      "label": "kitchen view",
+      "mention_count": 4
+    },
+    {
+      "label": "Trout Almondine",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:52Z",
+  "city": "Los Angeles",
+  "key": "petit-trois-la"
+}

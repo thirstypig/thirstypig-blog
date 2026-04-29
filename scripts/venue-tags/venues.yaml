@@ -479,3 +479,63 @@
   city: "East LA"
   query: "Moo's Craft Barbecue East LA"
   place_id: "0x80c2cf0c5ae4fcdd:0xe6501d37c5c212b8"
+
+# === Batch 5 — famous LA single-post venues (2026-04-29) ===
+
+- key: parks-bbq-koreatown
+  name: "Park's BBQ"
+  city: Koreatown
+  query: "Park's BBQ Koreatown Los Angeles"
+  place_id: "0x80c2c78249aba68f:0x6b5f9f23aa51f439"
+
+- key: sqirl-silver-lake
+  name: "Sqirl"
+  city: Los Angeles
+  query: "Sqirl Silver Lake Los Angeles"
+  place_id: "0x80c2c744c4fe7f0d:0x2a1c8fb7ecf1ac7f"
+
+- key: night-market-hollywood
+  name: "Night + Market"
+  city: Los Angeles
+  query: "Night Market Song Hollywood Los Angeles"
+
+- key: animal-la
+  name: "Animal"
+  city: Los Angeles
+  query: "Animal Restaurant Fairfax Los Angeles"
+
+- key: smorgasburg-la
+  name: "Smorgasburg LA"
+  city: Los Angeles
+  query: "Smorgasburg ROW DTLA Los Angeles"
+  place_id: "0x80c2c62f7b047c81:0x65fba4816d4a10de"
+
+- key: petit-trois-la
+  name: "Petit Trois"
+  city: Los Angeles
+  query: "Petit Trois Highland Los Angeles"
+  place_id: "0x80c2b8d33ce3dcc9:0xb0a9252822b856f6"
+
+- key: donut-friend-la
+  name: "Donut Friend"
+  city: Los Angeles
+  query: "Donut Friend Highland Park Los Angeles"
+  place_id: "0x80c2c3ffca83b651:0x8226f1237187728f"
+
+- key: genwa-bbq-bh
+  name: "Genwa Korean BBQ"
+  city: Beverly Hills
+  query: "Genwa Korean BBQ Beverly Hills"
+  place_id: "0x80c2b94ecf2c2487:0xb0a1935e6e4ce695"
+
+- key: lukshon-la
+  name: "Lukshon"
+  city: Los Angeles
+  query: "Lukshon Culver City Helms Bakery"
+  place_id: "0x80c2b98253f81f7b:0x984bac857fbd77c7"
+
+- key: birrieria-don-boni-east-la
+  name: "Birrieria de Don Boni"
+  city: Los Angeles
+  query: "Birrieria de Don Boni East Los Angeles"
+  place_id: "0x80c2c611dbb0d1c3:0x519393b55b22066e"

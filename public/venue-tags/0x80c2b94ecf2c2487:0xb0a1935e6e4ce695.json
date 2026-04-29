@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b94ecf2c2487:0xb0a1935e6e4ce695",
+  "venue_name": "Genwa Korea BBQ (Beverly Hills)",
+  "chips": [
+    {
+      "label": "korean bbq",
+      "mention_count": 75
+    },
+    {
+      "label": "banchan",
+      "mention_count": 26
+    },
+    {
+      "label": "kalbi",
+      "mention_count": 10
+    },
+    {
+      "label": "sundubu",
+      "mention_count": 3
+    },
+    {
+      "label": "no grill tables",
+      "mention_count": 2
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 9
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 4
+    },
+    {
+      "label": "marinated meat",
+      "mention_count": 2
+    },
+    {
+      "label": "portion size",
+      "mention_count": 7
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:27Z",
+  "city": "Beverly Hills",
+  "key": "genwa-bbq-bh"
+}

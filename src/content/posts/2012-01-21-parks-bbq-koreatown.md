@@ -19,6 +19,7 @@ region: Koreatown
 address: 955 S Vermont Ave G Los Angeles, CA 90006
 cuisine:
 - Korean
+placeId: "0x80c2c78249aba68f:0x6b5f9f23aa51f439"
 ---
 
 

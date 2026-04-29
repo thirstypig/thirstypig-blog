@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c78249aba68f:0x6b5f9f23aa51f439",
+  "venue_name": "Park's BBQ",
+  "chips": [
+    {
+      "label": "short rib soup",
+      "mention_count": 29
+    },
+    {
+      "label": "banchan",
+      "mention_count": 43
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "marinated meats",
+      "mention_count": 38
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 3
+    },
+    {
+      "label": "ribeye",
+      "mention_count": 19
+    },
+    {
+      "label": "brisket",
+      "mention_count": 25
+    },
+    {
+      "label": "Seafood Pancake Special 해물파전",
+      "mention_count": 12
+    },
+    {
+      "label": "michelin recognition",
+      "mention_count": 10
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:09Z",
+  "city": "Koreatown",
+  "key": "parks-bbq-koreatown"
+}

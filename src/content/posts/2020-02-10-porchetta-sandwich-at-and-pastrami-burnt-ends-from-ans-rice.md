@@ -27,6 +27,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c3ffca83b651:0x8226f1237187728f"
 ---
 
 ![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)
