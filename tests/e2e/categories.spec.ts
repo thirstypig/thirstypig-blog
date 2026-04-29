@@ -29,12 +29,9 @@ test.describe("categories", () => {
 	});
 
 	test("Cities nav link gets aria-current on /cities (the new cities index)", async ({ page }) => {
-		// PR #91 split the conflated "Cities -> /categories" nav into a real
-		// /cities index. /categories still exists but is no longer the nav
-		// target, so visiting it produces no aria-current match. Test the
-		// canonical Cities path instead.
 		await page.goto("/cities/");
-		const active = page.locator('nav[aria-label="Main navigation"] a[aria-current="page"]').first();
-		await expect(active).toHaveText("Cities");
+		// Assert via stable data-testid; survives label renames.
+		await expect(page.locator('[data-testid="nav-cities"]').first())
+			.toHaveAttribute("aria-current", "page");
 	});
 });

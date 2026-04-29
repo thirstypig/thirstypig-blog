@@ -17,6 +17,10 @@ export default defineConfig({
   redirects: {
     '/best-of': '/cuisine',
     '/archive': '/posts',
+    // /categories was orphaned from nav once we built /cuisine + /cities.
+    // Send the bare /categories index to /cuisine since that's the closest
+    // analogue. The /categories/[category] detail pages still resolve.
+    '/categories': '/cuisine',
   },
 
   markdown: {
