@@ -39,6 +39,7 @@ region: Shanghai
 address: 269 Wujiang Road
 cuisine:
 - Fusion
+placeId: "0x35b27010f7ab81f5:0x2b9bda9d725cd782"
 ---
 
 One would expect traditional Portuguese cuisine at a restaurant name Lisboa. Named after the capital of Portugal, this chain features Macanese cuisine – a combination of Cantonese and Portuguese flavors.

@@ -20,6 +20,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2cf0c5ae4fcdd:0xe6501d37c5c212b8"
 ---
 
 ![Barbecue at Mooooooooooo’s](/images/posts/ig-2025-02-09-barbecue-at-mooooooooooos/18032586851533949.jpg)

@@ -39,6 +39,7 @@ region: Shanghai
 address: 269 Wujiang Road
 cuisine:
 - Fusion
+placeId: "0x35b27010f7ab81f5:0x2b9bda9d725cd782"
 ---
 
 [![lisboa-restaurant-shanghai-04](/images/posts/lisboa-restaurant-shanghai/Lisboa-Restaurant-Shanghai-01-88x88.jpg "lisboa-restaurant-shanghai-04")](http://thirstypig.com/2010/11/21/lisboa-restaurant-shanghai/lisboa-restaurant-shanghai-04/)

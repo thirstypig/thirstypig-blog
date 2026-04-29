@@ -24,6 +24,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2cf0c5ae4fcdd:0xe6501d37c5c212b8"
 ---
 
 ![Barbecue Day at Moo’s Craft Barbecue](/images/posts/ig-2022-02-26-barbecue-day-at-moos-craft-barbecue/17945603227815543.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259a8f9c85799:0xa94402a5a1f4db65",
+  "venue_name": "Gammeeok",
+  "chips": [
+    {
+      "label": "seolleongtang",
+      "mention_count": 142
+    },
+    {
+      "label": "kkakdugi",
+      "mention_count": 26
+    },
+    {
+      "label": "soondae",
+      "mention_count": 17
+    },
+    {
+      "label": "kimchi jigae",
+      "mention_count": 10
+    },
+    {
+      "label": "jokbal",
+      "mention_count": 11
+    },
+    {
+      "label": "seafood pancake",
+      "mention_count": 16
+    },
+    {
+      "label": "galbitang",
+      "mention_count": 8
+    },
+    {
+      "label": "yukgaejang",
+      "mention_count": 9
+    },
+    {
+      "label": "soft tofu stew",
+      "mention_count": 8
+    },
+    {
+      "label": "samgyetang",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-29T01:05:00Z",
+  "city": "Koreatown",
+  "key": "gammeeok-koreatown"
+}

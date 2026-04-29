@@ -23,6 +23,7 @@ region: San Gabriel Valley
 address: 400 Baldwin Ave Arcadia, CA 91007
 cuisine:
 - Chinese
+placeId: "0x80c2dbbd15522cf3:0x54149437d378d7f5"
 ---
 
 [![img_0455](/images/posts/side-chick-arcadia/IMG_0460.jpg "img_0455")](http://thirstypig.com/2016/10/06/side-chick-arcadia/img_0455-3/)

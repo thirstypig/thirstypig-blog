@@ -23,6 +23,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x89c259a8f9c85799:0xa94402a5a1f4db65"
 ---
 
 ![A return to Gammeeok](/images/posts/ig-2018-05-20-a-return-to-gammeeok/17927135701092556.jpg)
