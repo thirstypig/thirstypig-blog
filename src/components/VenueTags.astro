@@ -1,11 +1,5 @@
 ---
-import fs from 'node:fs';
-import path from 'node:path';
-
-interface Chip {
-	label: string;
-	mention_count: number;
-}
+import { loadVenueByPlaceId, type Chip } from '../utils/venue-tags';
 
 interface Props {
 	placeId?: string;
@@ -15,22 +9,12 @@ const { placeId } = Astro.props;
 
 // Read the venue's chip JSON at build time. Returns null and renders
 // nothing if the file is missing — keeps posts without chip data unaffected.
-let chips: Chip[] | null = null;
-let venueName: string | null = null;
-let city: string | null = null;
-if (placeId) {
-	const chipFile = path.join(process.cwd(), 'public', 'venue-tags', `${placeId}.json`);
-	if (fs.existsSync(chipFile)) {
-		const data = JSON.parse(fs.readFileSync(chipFile, 'utf-8')) as {
-			chips: Chip[];
-			venue_name?: string;
-			city?: string;
-		};
-		chips = [...data.chips].sort((a, b) => b.mention_count - a.mention_count);
-		venueName = data.venue_name ?? null;
-		city = data.city ?? null;
-	}
-}
+const data = placeId ? loadVenueByPlaceId(placeId) : null;
+const chips: Chip[] | null = data
+	? [...data.chips].sort((a, b) => b.mention_count - a.mention_count)
+	: null;
+const venueName = data?.venue_name ?? null;
+const city = data?.city ?? null;
 
 const formatCount = (n: number) => n.toLocaleString('en-US');
 ---

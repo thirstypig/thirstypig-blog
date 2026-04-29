@@ -1,6 +1,5 @@
 ---
-import fs from 'node:fs';
-import path from 'node:path';
+import { loadAllVenues } from '../utils/venue-tags';
 
 interface Props {
 	/** CSS aspect-ratio for the canvas. Default 16/9 — pass "5/2" or similar
@@ -11,38 +10,18 @@ interface Props {
 	 *  on a 360px-wide phone is only 144px tall, too cramped for the
 	 *  graph's 100+ nodes. Default "0" (no min). */
 	minHeight?: string;
-	/** Optional caption shown under the canvas. Pass empty string to hide. */
-	caption?: string;
 }
 
 const {
 	aspectRatio = "16 / 9",
 	minHeight = "0",
-	caption = "Tags pulled from Google Maps reviews.",
 } = Astro.props;
 
 // --- Build-time data prep ---------------------------------------------------
 // Read every venue-tags JSON, build node + edge lists.
 // Nodes = unique chip labels, sized by total mention_count across venues.
 // Edges = chip pairs that co-occur at the same venue, weighted by venue count.
-const venueTagsDir = path.resolve('public/venue-tags');
-const files = fs.existsSync(venueTagsDir)
-	? fs.readdirSync(venueTagsDir).filter((f) => f.endsWith('.json'))
-	: [];
-
-interface Chip { label: string; mention_count: number }
-interface VenueFile {
-	place_id: string;
-	venue_name: string;
-	city?: string;
-	key: string;
-	chips: Chip[];
-	scraped_at: string;
-}
-
-const venues: VenueFile[] = files.map((f) =>
-	JSON.parse(fs.readFileSync(path.join(venueTagsDir, f), 'utf8')),
-);
+const venues = loadAllVenues();
 
 const nodeMap = new Map<string, { label: string; mentions: number; venues: Set<string> }>();
 const edgeMap = new Map<string, { a: string; b: string; weight: number }>();
@@ -96,9 +75,9 @@ const graphData = { nodes, edges };
 	></div>
 </div>
 
-{caption && <p class="text-stone text-sm mt-3">{caption}</p>}
-
-<script type="application/json" id="chip-graph-data" set:html={JSON.stringify(graphData)} />
+{/* Escape `<` so a chip label containing `</script>` can't close this
+   block early. JSON.stringify alone does NOT escape `<`. */}
+<script type="application/json" id="chip-graph-data" set:html={JSON.stringify(graphData).replace(/</g, '\\u003c')} />
 
 <script>
 	const dataEl = document.getElementById('chip-graph-data');
