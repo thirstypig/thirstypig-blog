@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b94f25c7eb0f:0x83add879c8fe0c99",
+  "venue_name": "Lawry's The Prime Rib",
+  "chips": [
+    {
+      "label": "prime rib",
+      "mention_count": 429
+    },
+    {
+      "label": "yorkshire pudding",
+      "mention_count": 108
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 23
+    },
+    {
+      "label": "creamed corn",
+      "mention_count": 118
+    },
+    {
+      "label": "spinning salad",
+      "mention_count": 55
+    },
+    {
+      "label": "live music",
+      "mention_count": 7
+    },
+    {
+      "label": "lobster tail",
+      "mention_count": 29
+    },
+    {
+      "label": "Mac & Cheese Four Chesse",
+      "mention_count": 29
+    },
+    {
+      "label": "horseradish",
+      "mention_count": 35
+    },
+    {
+      "label": "baked alaska",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-29T18:09:47Z",
+  "city": "Beverly Hills",
+  "key": "lawrys-the-prime-rib-beverly-hi"
+}

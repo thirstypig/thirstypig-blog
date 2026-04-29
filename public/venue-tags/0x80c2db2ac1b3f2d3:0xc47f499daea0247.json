@@ -1,0 +1,45 @@
+{
+  "place_id": "0x80c2db2ac1b3f2d3:0xc47f499daea0247",
+  "venue_name": "Southern Mini Town Restaurant小南国",
+  "chips": [
+    {
+      "label": "tteokbokki",
+      "mention_count": 2
+    },
+    {
+      "label": "authentic shanghainese food",
+      "mention_count": 2
+    },
+    {
+      "label": "kidney",
+      "mention_count": 2
+    },
+    {
+      "label": "small place",
+      "mention_count": 2
+    },
+    {
+      "label": "sticky rice",
+      "mention_count": 2
+    },
+    {
+      "label": "fish",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 4
+    },
+    {
+      "label": "braised",
+      "mention_count": 3
+    },
+    {
+      "label": "rice cake",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:34Z",
+  "city": "San Gabriel",
+  "key": "southern-mini-town-restaurant-小南國-san-gabrie"
+}

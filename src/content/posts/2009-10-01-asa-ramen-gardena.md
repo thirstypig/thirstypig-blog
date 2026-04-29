@@ -31,6 +31,7 @@ region: South Bay
 address: 18202 S Western Ave Gardena, CA 90248
 cuisine:
 - Japanese
+placeId: "0x80c2b55da807114b:0xcd9047a3e71e4403"
 ---
 
 [![dscn0027-3](/images/posts/asa-ramen-gardena/IMG_0933.JPG "dscn0027-3")](http://thirstypig.com/2009/10/01/asa-ramen-gardena/dscn0027-3/)

@@ -25,6 +25,7 @@ coordinates:
   lng: 121.529331
 cuisine:
 - Cocktails
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 ![Good whiskys and whiskeys at the Malt in Taipei](/images/posts/ig-2024-05-05-good-whiskys-and-whiskeys-at-the-malt-in-taipei/18432198358045193.jpg)

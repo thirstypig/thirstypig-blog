@@ -44,6 +44,7 @@ coordinates:
   lng: 121.529331
 cuisine:
 - Multi
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 Legacy Taipei in Taipei.

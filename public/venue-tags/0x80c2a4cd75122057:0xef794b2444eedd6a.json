@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2a4cd75122057:0xef794b2444eedd6a",
+  "venue_name": "Bay Cities Italian Deli & Bakery",
+  "chips": [
+    {
+      "label": "sandwiches",
+      "mention_count": 340
+    },
+    {
+      "label": "cash only",
+      "mention_count": 92
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 18
+    },
+    {
+      "label": "italian sandwich",
+      "mention_count": 57
+    },
+    {
+      "label": "godmother sandwich",
+      "mention_count": 44
+    },
+    {
+      "label": "subs",
+      "mention_count": 98
+    },
+    {
+      "label": "chicken parm",
+      "mention_count": 23
+    },
+    {
+      "label": "prosciutto sandwich",
+      "mention_count": 21
+    },
+    {
+      "label": "fresh bread",
+      "mention_count": 40
+    },
+    {
+      "label": "meatballs",
+      "mention_count": 49
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:43Z",
+  "city": "Santa Monica",
+  "key": "bay-cities-italian-deli-bakery-santa-moni"
+}

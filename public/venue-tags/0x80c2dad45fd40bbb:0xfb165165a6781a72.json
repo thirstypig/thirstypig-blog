@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dad45fd40bbb:0xfb165165a6781a72",
+  "venue_name": "Factory Tea Bar",
+  "chips": [
+    {
+      "label": "pool tables",
+      "mention_count": 23
+    },
+    {
+      "label": "green milk tea",
+      "mention_count": 22
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 10
+    },
+    {
+      "label": "couches",
+      "mention_count": 18
+    },
+    {
+      "label": "boba",
+      "mention_count": 35
+    },
+    {
+      "label": "loud music",
+      "mention_count": 5
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 24
+    },
+    {
+      "label": "karaoke",
+      "mention_count": 39
+    },
+    {
+      "label": "arcade",
+      "mention_count": 24
+    },
+    {
+      "label": "claw machines",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:47Z",
+  "city": "San Gabriel",
+  "key": "factory-tea-bar-san-gabrie"
+}

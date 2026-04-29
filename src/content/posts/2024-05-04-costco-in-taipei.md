@@ -28,6 +28,7 @@ coordinates:
   lng: 121.529331
 cuisine:
 - American
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 ![Costco in Taipei](/images/posts/ig-2024-05-04-costco-in-taipei/18184211032295091.jpg)

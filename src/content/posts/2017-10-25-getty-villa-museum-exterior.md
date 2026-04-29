@@ -29,6 +29,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80e81859b42fa1a9:0x12cddd8e84fa783d"
 ---
 
 ![Getty Villa museum exterior](/images/posts/ig-2017-10-25-getty-villa-museum-exterior/17845621804219203.jpg)

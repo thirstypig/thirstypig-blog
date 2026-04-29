@@ -57,7 +57,7 @@ def main() -> int:
         return 0
     print(f"Looking up place_ids for {len(targets)} venues missing one.")
     print()
-    yaml_lines: list[str] = []
+    successes: dict[str, str] = {}  # key -> place_id
     failures: list[str] = []
 
     with Stealth().use_sync(sync_playwright()) as p:
@@ -97,9 +97,7 @@ def main() -> int:
 
             if place_id:
                 print(f"→ {place_id}")
-                yaml_lines.append(
-                    f'\n- key: {key}\n  name: "{name}"\n  city: {city}\n  query: "{query}"\n  place_id: "{place_id}"'
-                )
+                successes[key] = place_id
             else:
                 print("→ <NOT FOUND>")
                 failures.append(key)
@@ -110,13 +108,27 @@ def main() -> int:
 
         ctx.close()
 
+    # Write the successful place_ids directly back into venues.yaml using
+    # surgical regex injection — keeps the rest of the file byte-identical.
+    if successes:
+        import re as _re
+        content = VENUES_PATH.read_text()
+        for k, pid in successes.items():
+            pattern = _re.compile(
+                r'(- key: ' + _re.escape(k) + r'\n(?:  [^\n]+\n)*?  query: "[^"]+")\n',
+                _re.MULTILINE,
+            )
+            new_content = pattern.sub(rf'\1\n  place_id: "{pid}"\n', content, count=1)
+            if new_content == content:
+                print(f"  WARN: didn't inject {k} into venues.yaml")
+            content = new_content
+        VENUES_PATH.write_text(content)
+        print(f"\nWrote {len(successes)} place_ids back to venues.yaml.")
+
     print("\n" + "=" * 60)
-    print(f"Found: {len(yaml_lines)}  Failed: {len(failures)}")
+    print(f"Found: {len(successes)}  Failed: {len(failures)}")
     if failures:
         print(f"Failures: {failures}")
-    print("\n--- YAML to append to venues.yaml ---")
-    for line in yaml_lines:
-        print(line)
     return 0 if not failures else 1
 
 

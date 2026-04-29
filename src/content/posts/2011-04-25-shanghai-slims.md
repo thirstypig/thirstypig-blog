@@ -26,6 +26,7 @@ coordinates:
   lng: 121.464207
 cuisine:
 - American
+placeId: "0x35b270752a3c14f5:0xa69247b8f55c2e6"
 ---
 
 **From April 15th till May 8, Sinan Mansions is celebrating Restaurant Week. They are specials at each of the different restaurants – including [Yucca](http://www.thethirstypig.com/2010/12/07/david-laris-yucca-shanghai/), Boxing Cat Brewery, and California Pizza Kitchen. At Shanghai Slim’s they are offering Sunday Brunch from ¥88 and 10% off champagne brunches. And a free gift at Mother’s Day.**

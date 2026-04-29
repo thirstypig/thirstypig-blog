@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b270752a3c14f5:0xa69247b8f55c2e6",
+  "venue_name": "Shanghai Slim‘s",
+  "chips": [
+    {
+      "label": "seafood",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-29T18:09:00Z",
+  "city": "Shanghai",
+  "key": "shanghai-slims-shanghai"
+}

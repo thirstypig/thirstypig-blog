@@ -24,6 +24,7 @@ city: Pasadena
 region: San Gabriel Valley
 cuisine:
 - American
+placeId: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 ---
 
 Almost forced to try yet-another chicken place. . . my friend took me to Rotisserie Chicken of California in Pasadena. I don’t know why . . . but there’s a smattering list of Chicken and Rotisserie and California restaurants all over the place. So, to me. . . coming here was almost moot. But my friend insisted we go. INSISTED!!

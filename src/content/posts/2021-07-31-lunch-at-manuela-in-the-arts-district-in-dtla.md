@@ -30,6 +30,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c63955a9146f:0xca3b30095e2dcb4c"
 ---
 
 ![Lunch at Manuela in the arts district in DTLA](/images/posts/ig-2021-07-31-lunch-at-manuela-in-the-arts-district-in-dtla/17892986255175471.jpg)

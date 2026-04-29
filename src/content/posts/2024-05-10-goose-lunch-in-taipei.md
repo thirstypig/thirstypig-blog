@@ -29,6 +29,7 @@ coordinates:
   lng: 121.529331
 cuisine:
 - Taiwanese
+placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
 ![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18018167000208397.jpg)

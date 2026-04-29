@@ -28,6 +28,7 @@ coordinates:
   lng: -118.111852
 cuisine:
 - BBQ
+placeId: "0x80c2db2ac1b3f2d3:0xc47f499daea0247"
 ---
 
 Recently renovated, Gus’s Barbecue features some of the good barbecue in the West San Gabriel area. I was first there about 10 years ago . . . and for my 2nd trip the summer of 2009. It was recently taken over by the same group/family that owns Tops in Pasadena. They did a complete makeover to the place along with a new website.

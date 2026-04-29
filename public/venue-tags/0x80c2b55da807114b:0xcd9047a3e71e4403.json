@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b55da807114b:0xcd9047a3e71e4403",
+  "venue_name": "Asa Ramen",
+  "chips": [
+    {
+      "label": "Curry Ramen",
+      "mention_count": 7
+    },
+    {
+      "label": "fried oysters",
+      "mention_count": 3
+    },
+    {
+      "label": "chicken karaage",
+      "mention_count": 4
+    },
+    {
+      "label": "fire ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "croquette",
+      "mention_count": 4
+    },
+    {
+      "label": "late night ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "hole in the wall",
+      "mention_count": 4
+    },
+    {
+      "label": "family owned and run",
+      "mention_count": 2
+    },
+    {
+      "label": "fresh ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "late hours",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:38Z",
+  "city": "Gardena",
+  "key": "asa-ramen-gardena"
+}

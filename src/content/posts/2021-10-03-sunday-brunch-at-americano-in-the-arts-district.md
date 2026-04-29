@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c63955a9146f:0xca3b30095e2dcb4c"
 ---
 
 ![Sunday Brunch at Americano in the Art’s District](/images/posts/ig-2021-10-03-sunday-brunch-at-americano-in-the-arts-district/17945791804559805.jpg)

@@ -26,6 +26,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x8644ca48760d6971:0xa5521d488ea5860d"
 ---
 
 ![One of Texas Monthly's top 50 BBQ 2017 -](/images/posts/ig-2017-05-27-one-of-texas-monthlys-top-50-bbq-2017/17857492750163779.jpg)

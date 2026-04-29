@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 ---
 
 ![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17852015587518298.jpg)

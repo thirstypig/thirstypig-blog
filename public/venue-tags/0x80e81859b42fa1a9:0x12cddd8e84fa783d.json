@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80e81859b42fa1a9:0x12cddd8e84fa783d",
+  "venue_name": "Kristy's Malibu",
+  "chips": [
+    {
+      "label": "seafood pasta",
+      "mention_count": 6
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 37
+    },
+    {
+      "label": "Fish Sandwich Combo",
+      "mention_count": 6
+    },
+    {
+      "label": "calamari",
+      "mention_count": 8
+    },
+    {
+      "label": "live music",
+      "mention_count": 4
+    },
+    {
+      "label": "pork chop",
+      "mention_count": 5
+    },
+    {
+      "label": "macadamia nut pancakes",
+      "mention_count": 2
+    },
+    {
+      "label": "acai bowl",
+      "mention_count": 2
+    },
+    {
+      "label": "quinoa salad",
+      "mention_count": 2
+    },
+    {
+      "label": "chocolate cake",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-29T18:09:51Z",
+  "city": "Malibu",
+  "key": "kristys-village-cafe-malibu"
+}

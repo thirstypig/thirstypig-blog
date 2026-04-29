@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63938f382ff:0x7415d27e30dd5bcd",
+  "venue_name": "Wurstküche",
+  "chips": [
+    {
+      "label": "belgian beers",
+      "mention_count": 46
+    },
+    {
+      "label": "pheasant",
+      "mention_count": 33
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 81
+    },
+    {
+      "label": "truffle fries",
+      "mention_count": 29
+    },
+    {
+      "label": "rabbit",
+      "mention_count": 198
+    },
+    {
+      "label": "hot dogs",
+      "mention_count": 120
+    },
+    {
+      "label": "sausages",
+      "mention_count": 216
+    },
+    {
+      "label": "Bratwurst",
+      "mention_count": 179
+    },
+    {
+      "label": "rattlesnake",
+      "mention_count": 256
+    },
+    {
+      "label": "dipping sauces",
+      "mention_count": 73
+    }
+  ],
+  "scraped_at": "2026-04-29T18:08:30Z",
+  "city": "Downtown LA",
+  "key": "wurstküche-downtown-l"
+}

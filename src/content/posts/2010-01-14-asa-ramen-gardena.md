@@ -35,6 +35,7 @@ coordinates:
   lng: -118.308221
 cuisine:
 - Japanese
+placeId: "0x80c2b55da807114b:0xcd9047a3e71e4403"
 ---
 
 Asa Ramen is a late night local favorite. The idea of having ramen, alcohol, and being open late is a great combination. There aren’t too many places like Asa Ramen.

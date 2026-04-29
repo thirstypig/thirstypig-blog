@@ -26,6 +26,7 @@ coordinates:
   lng: -118.489319
 cuisine:
 - Italian
+placeId: "0x80c2a4cd75122057:0xef794b2444eedd6a"
 ---
 
 ![The Godmother at Bay Cities Italian Deli in Santa Monica](/images/posts/ig-2019-02-09-the-godmother-at-bay-cities-italian-deli-in-santa-monica/18018076360096727.jpg)

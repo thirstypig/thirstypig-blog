@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63ce6f00001:0x408b2a5b25d4727",
+  "venue_name": "Bavel",
+  "chips": [
+    {
+      "label": "lamb neck shawarma",
+      "mention_count": 77
+    },
+    {
+      "label": "baba ghanoush",
+      "mention_count": 74
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 35
+    },
+    {
+      "label": "malawach",
+      "mention_count": 33
+    },
+    {
+      "label": "Oyster Mushroom Kebab",
+      "mention_count": 99
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 21
+    },
+    {
+      "label": "grilled prawns",
+      "mention_count": 54
+    },
+    {
+      "label": "duck",
+      "mention_count": 104
+    },
+    {
+      "label": "duck hummus",
+      "mention_count": 41
+    },
+    {
+      "label": "middle eastern food",
+      "mention_count": 44
+    }
+  ],
+  "scraped_at": "2026-04-29T18:10:04Z",
+  "city": "Downtown LA",
+  "key": "bavel-downtown-l"
+}

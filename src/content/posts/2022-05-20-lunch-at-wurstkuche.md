@@ -28,6 +28,7 @@ categories:
 - German
 cuisine:
 - German
+placeId: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 ---
 
 ![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17937720668118068.jpg)

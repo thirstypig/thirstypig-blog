@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6385b5e8591:0xd04b92bffebdfbd3",
+  "venue_name": "Tea Master Matcha Cafe and Green Tea Shop",
+  "chips": [
+    {
+      "label": "matcha ice cream",
+      "mention_count": 78
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 13
+    },
+    {
+      "label": "oat milk",
+      "mention_count": 37
+    },
+    {
+      "label": "matcha flavor",
+      "mention_count": 21
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 53
+    },
+    {
+      "label": "tofu donuts",
+      "mention_count": 5
+    },
+    {
+      "label": "gyokuro",
+      "mention_count": 4
+    },
+    {
+      "label": "authentic matcha",
+      "mention_count": 3
+    },
+    {
+      "label": "smoothie",
+      "mention_count": 18
+    },
+    {
+      "label": "fresh matcha",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-29T18:10:00Z",
+  "city": "Downtown LA",
+  "key": "tea-master-matcha-cafe-and-green-te-downtown-l"
+}

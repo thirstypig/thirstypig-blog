@@ -28,6 +28,7 @@ coordinates:
   lng: -118.141245
 cuisine:
 - American
+placeId: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 ---
 
 ![Hot chicken sandwiches from Main Chick in old town Pasadena](/images/posts/ig-2021-07-15-hot-chicken-sandwiches-from-main-chick-in-old-town-pasadena/17972467312380906.jpg)

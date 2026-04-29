@@ -30,6 +30,7 @@ coordinates:
   lng: 121.526655
 cuisine:
 - Japanese
+placeId: "0x3442a95ae09ccbf1:0x9071515feb1352ae"
 ---
 
 ![Japanese food in Taiwan, is arguably the best outside of Japan](/images/posts/ig-2024-05-05-japanese-food-in-taiwan-is-arguably-the-best-outside-of-japa/18119142736366563.jpg)

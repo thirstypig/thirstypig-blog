@@ -29,6 +29,7 @@ coordinates:
   lng: -118.238598
 cuisine:
 - Taiwanese
+placeId: "0x80c2c6385b5e8591:0xd04b92bffebdfbd3"
 ---
 
 Here’s one last post about Taiwanese cuisine that I wanted to briefly spout about. Its not necessarily a meal, but more of a late night snack or dessert. Though this place also has entrees, is the desserts, snacks, and drinks that people come for.

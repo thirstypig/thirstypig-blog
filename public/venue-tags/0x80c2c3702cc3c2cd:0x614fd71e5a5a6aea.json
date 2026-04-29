@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea",
+  "venue_name": "Rotisserie Chicken of California",
+  "chips": [
+    {
+      "label": "rotisserie chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "32 spice chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "half chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "house hot sauce",
+      "mention_count": 4
+    },
+    {
+      "label": "garlic chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "home cooking",
+      "mention_count": 6
+    },
+    {
+      "label": "sandwich",
+      "mention_count": 12
+    },
+    {
+      "label": "curry",
+      "mention_count": 4
+    },
+    {
+      "label": "falls off the bone",
+      "mention_count": 2
+    },
+    {
+      "label": "honest food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-29T18:10:08Z",
+  "city": "Pasadena",
+  "key": "rotisserie-chicken-of-california-pasadena"
+}

@@ -30,6 +30,7 @@ coordinates:
   lng: -118.489319
 cuisine:
 - Italian
+placeId: "0x80c2a4cd75122057:0xef794b2444eedd6a"
 ---
 
 Based on the reviews on Yelp, Bay Cities is THE place for sandwiches in Santa Monica.

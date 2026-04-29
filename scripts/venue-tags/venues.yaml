@@ -229,30 +229,17 @@
   name: "Legacy Taipei"
   city: "Taipei"
   query: "Legacy Taipei Taipei"
+  place_id: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 
 # [4 posts]
-- key: shin-yeh-taiwanese-cuisine-欣葉-taipei
-  name: "Shin Yeh Taiwanese Cuisine (欣葉)"
-  city: "Taipei"
-  query: "Shin Yeh Taiwanese Cuisine (欣葉) Taipei"
-
 # [4 posts]
-- key: haidilao-hot-pot-海底捞火锅-shanghai
-  name: "Haidilao Hot Pot (海底捞火锅)"
-  city: "Shanghai"
-  query: "Haidilao Hot Pot (海底捞火锅) Shanghai"
-
 # [3 posts]
-- key: a-niang-noodles-阿娘面-shanghai
-  name: "A Niang Noodles (阿娘面)"
-  city: "Shanghai"
-  query: "A Niang Noodles (阿娘面) Shanghai"
-
 # [3 posts]
 - key: pulcianos-deli-cafe-san-gabrie
   name: "Pulciano's Deli & Cafe"
   city: "San Gabriel"
   query: "Pulciano's Deli & Cafe San Gabriel"
+  place_id: "0x80c2dad467747067:0x3b197541d80b539c"
 
 # [2 posts]
 - key: sticky-rice-los-angele
@@ -265,18 +252,21 @@
   name: "Wurstküche"
   city: "Downtown LA"
   query: "Wurstküche Downtown LA"
+  place_id: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 
 # [2 posts]
 - key: southern-mini-town-restaurant-小南國-san-gabrie
   name: "Southern Mini Town Restaurant (小南國)"
   city: "San Gabriel"
   query: "Southern Mini Town Restaurant (小南國) San Gabriel"
+  place_id: "0x80c2db2ac1b3f2d3:0xc47f499daea0247"
 
 # [2 posts]
 - key: asa-ramen-gardena
   name: "Asa Ramen"
   city: "Gardena"
   query: "Asa Ramen Gardena"
+  place_id: "0x80c2b55da807114b:0xcd9047a3e71e4403"
 
 # [2 posts]
 - key: curry-house-rowland-he
@@ -289,24 +279,28 @@
   name: "Bay Cities Italian Deli & Bakery"
   city: "Santa Monica"
   query: "Bay Cities Italian Deli & Bakery Santa Monica"
+  place_id: "0x80c2a4cd75122057:0xef794b2444eedd6a"
 
 # [2 posts]
 - key: factory-tea-bar-san-gabrie
   name: "Factory Tea Bar"
   city: "San Gabriel"
   query: "Factory Tea Bar San Gabriel"
+  place_id: "0x80c2dad45fd40bbb:0xfb165165a6781a72"
 
 # [2 posts]
 - key: mitsui-japanese-cuisine-三井日式料理-taipei
   name: "Mitsui Japanese Cuisine (三井日式料理)"
   city: "Taipei"
   query: "Mitsui Japanese Cuisine (三井日式料理) Taipei"
+  place_id: "0x3442a95ae09ccbf1:0x9071515feb1352ae"
 
 # [2 posts]
 - key: 米塔手感烘焙-mita-fancy-cafe-bakery-taipei
   name: "米塔手感烘焙 Mita Fancy Cafe & Bakery"
   city: "Taipei"
   query: "米塔手感烘焙 Mita Fancy Cafe & Bakery Taipei"
+  place_id: "0x3442a968cc61d107:0xbc6a9bf9fbb04fcf"
 
 # [2 posts]
 - key: coco-ichibanya-curry-house-壱番屋-shanghai
@@ -356,6 +350,7 @@
   name: "Shanghai Slim's"
   city: "Shanghai"
   query: "Shanghai Slim's Shanghai"
+  place_id: "0x35b270752a3c14f5:0xa69247b8f55c2e6"
 
 # [2 posts]
 - key: dimdimsum-dim-sum-specialty-store-點-hong-kong
@@ -374,18 +369,15 @@
   name: "Goga"
   city: "Shanghai"
   query: "Goga Shanghai"
+  place_id: "0x35b27aae0da7b709:0x6b05cd1508bdae9e"
 
 # [2 posts]
-- key: bankara-ramen-บงคาระ-ราเมง-bangkok
-  name: "Bankara Ramen (บังคาระ ราเม็ง)"
-  city: "Bangkok"
-  query: "Bankara Ramen (บังคาระ ราเม็ง) Bangkok"
-
 # [2 posts]
 - key: noodle-bull-shanghai
   name: "Noodle Bull"
   city: "Shanghai"
   query: "Noodle Bull Shanghai"
+  place_id: "0x35b27aa9e259df0b:0xc9bda681bda19ef7"
 
 # [2 posts]
 - key: mi-tierra-shanghai
@@ -405,24 +397,28 @@
   name: "Stiles Switch BBQ & Brew"
   city: "Austin"
   query: "Stiles Switch BBQ & Brew Austin"
+  place_id: "0x8644ca48760d6971:0xa5521d488ea5860d"
 
 # [2 posts]
 - key: lawrys-the-prime-rib-beverly-hi
   name: "Lawry's The Prime Rib"
   city: "Beverly Hills"
   query: "Lawry's The Prime Rib Beverly Hills"
+  place_id: "0x80c2b94f25c7eb0f:0x83add879c8fe0c99"
 
 # [2 posts]
 - key: kristys-village-cafe-malibu
   name: "Kristy's Village Cafe"
   city: "Malibu"
   query: "Kristy's Village Cafe Malibu"
+  place_id: "0x80e81859b42fa1a9:0x12cddd8e84fa783d"
 
 # [2 posts]
 - key: eataly-los-angele
   name: "Eataly"
   city: "Los Angeles"
   query: "Eataly Los Angeles"
+  place_id: "0x80c2bb8b7ad0a7b7:0x216c071c6cdb7021"
 
 # [2 posts]
 - key: gammeeok-koreatown
@@ -442,12 +438,14 @@
   name: "Tea Master Matcha Cafe and Green Tea Shop"
   city: "Downtown LA"
   query: "Tea Master Matcha Cafe and Green Tea Shop Downtown LA"
+  place_id: "0x80c2c6385b5e8591:0xd04b92bffebdfbd3"
 
 # [2 posts]
 - key: bavel-downtown-l
   name: "Bavel"
   city: "Downtown LA"
   query: "Bavel Downtown LA"
+  place_id: "0x80c2c63ce6f00001:0x408b2a5b25d4727"
 
 # [2 posts]
 - key: lao-xi-noodle-house-arcadia
@@ -466,12 +464,14 @@
   name: "Rotisserie Chicken Of California"
   city: "Pasadena"
   query: "Rotisserie Chicken Of California Pasadena"
+  place_id: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 
 # [2 posts]
 - key: arts-district-brewing-company-downtown-l
   name: "Arts District Brewing Company"
   city: "Downtown LA"
   query: "Arts District Brewing Company Downtown LA"
+  place_id: "0x80c2c63955a9146f:0xca3b30095e2dcb4c"
 
 # [2 posts]
 - key: moos-craft-barbecue-east-la
