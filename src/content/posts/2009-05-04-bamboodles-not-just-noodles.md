@@ -1,32 +1,32 @@
 ---
-title: A Niang Noodles (阿娘面), Shanghai
-pubDate: '2009-05-04'
-author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/
-heroImage: /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
-images:
-- /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
-- /images/posts/bamboodles-not-just-noodles/IMG_0589.jpg
-- /images/posts/bamboodles-not-just-noodles/IMG_0590.jpg
-categories:
-- Chinese
-tags:
-- shanghai
-- chinese
-- noodles
+title: 'Bamboodles, SGV'
+pubDate: 2009-05-04T00:00:00.000Z
 description: I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winn
-archiveUrl: https://web.archive.org/web/20110105144940/http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/
-draft: false
+author: The Thirsty Pig
+heroImage: /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
+categories:
+  - Chinese
+tags:
+  - shanghai
+  - chinese
+  - noodles
+cuisine:
+  - Chinese
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
-address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
+address: '思南路36号 (近南昌路), Huangpu, 上海市, 200020'
 coordinates:
   lat: 31.219744
   lng: 121.461994
-cuisine:
-- Chinese
+images:
+  - /images/posts/bamboodles-not-just-noodles/IMG_0587.JPG
+  - /images/posts/bamboodles-not-just-noodles/IMG_0589.jpg
+  - /images/posts/bamboodles-not-just-noodles/IMG_0590.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/'
+archiveUrl: 'https://web.archive.org/web/20110105144940/http://www.thethirstypig.com/2009/05/04/bamboodles-not-just-noodles/'
+source: thethirstypig.com
+draft: false
 ---
 
 I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winning food critic for LA Weekly. So, anything he says and write is “Gold!” Anyways. . .
@@ -37,4 +37,4 @@ Anyways. . .with regards to the food. We ordered 3 main dishes, a shrimp won ton
 
 Anyways, just to recap, I would order the tan tan nooodles, the spare ribs rice, and perhaps the pork won ton noodle soup. Get there early, parking is a pain. Except to pay about $10 per head, no alcohol.
 
-You can listen to the original podcast here – http://www.kcrw.com/etc/programs/gf/gf090425god\_in\_a\_cup\_food\_an
+You can listen to the original podcast here – [http://www.kcrw.com/etc/programs/gf/gf090425god\\\_in\\\_a\\\_cup\\\_food\\\_an](http://www.kcrw.com/etc/programs/gf/gf090425god/_in/_a/_cup/_food/_an)
