@@ -1,26 +1,14 @@
 import { getCollection } from 'astro:content';
 import type { APIRoute } from 'astro';
-import fs from 'node:fs';
-import path from 'node:path';
 import { getImageInfo } from '../utils/image-dimensions.mjs';
+import { loadAllVenues, type Chip } from '../utils/venue-tags';
 
-// Cache the per-placeId chip lookup so we don't re-read each JSON for every
-// post that shares a venue.
-const chipsByPlaceId = new Map<string, { label: string; mention_count: number }[]>();
-const venueDir = path.join(process.cwd(), 'public', 'venue-tags');
-if (fs.existsSync(venueDir)) {
-	for (const f of fs.readdirSync(venueDir)) {
-		if (!f.endsWith('.json')) continue;
-		try {
-			const data = JSON.parse(fs.readFileSync(path.join(venueDir, f), 'utf-8'));
-			if (data.place_id && Array.isArray(data.chips)) {
-				chipsByPlaceId.set(data.place_id, data.chips);
-			}
-		} catch {
-			// Skip malformed; search degrades gracefully.
-		}
-	}
-}
+// Index venues by place_id so we don't re-walk the venue list for every post.
+const chipsByPlaceId = new Map<string, Chip[]>(
+	loadAllVenues()
+		.filter(v => v.place_id && Array.isArray(v.chips))
+		.map(v => [v.place_id, v.chips] as const),
+);
 
 export const GET: APIRoute = async () => {
 	const posts = (await getCollection('posts'))

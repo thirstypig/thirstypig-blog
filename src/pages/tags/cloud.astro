@@ -1,32 +1,8 @@
 ---
-import fs from 'node:fs';
-import path from 'node:path';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadAllVenues } from '../../utils/venue-tags';
 
-interface Chip {
-	label: string;
-	mention_count: number;
-}
-
-interface VenueRecord {
-	place_id: string;
-	venue_name: string;
-	city: string | null;
-	key: string | null;
-	chips: Chip[];
-	scraped_at: string;
-}
-
-// Read all venue chip JSON files at build time. Source of truth is
-// public/venue-tags/, populated by scripts/venue-tags/publish.py.
-const venueDir = path.join(process.cwd(), 'public', 'venue-tags');
-let venues: VenueRecord[] = [];
-if (fs.existsSync(venueDir)) {
-	venues = fs
-		.readdirSync(venueDir)
-		.filter(f => f.endsWith('.json'))
-		.map(f => JSON.parse(fs.readFileSync(path.join(venueDir, f), 'utf-8')) as VenueRecord);
-}
+const venues = loadAllVenues();
 
 // Aggregate chips across every venue. Same label at multiple venues sums
 // the mention counts. Track venue count per label too so big universal

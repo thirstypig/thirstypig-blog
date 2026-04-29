@@ -12,7 +12,6 @@ and tastemakers-ios (via the same URLs over CORS).
 | File | Purpose |
 |------|---------|
 | `venues.yaml` | Slice MVP venue list — 1 each from Austin, LA, NYC, Shanghai, Taipei |
-| `taxonomy.yaml` | Curated tag categories — kept for now, but largely unused given the pivot below |
 | `scrape_google.py` | Playwright scraper. **Currently broken**: blocked by Google's signed-in-only Reviews gate. See "Path forward" below |
 | `probe_url.py` | One-off debug script that proved `?api=1&query=` redirects nowhere; the working URL form is `?q=` (gitignored) |
 | `data/{key}_validation.json` | Validation captures from the 2026-04-27 MCP-browser run — one per MVP venue |
@@ -145,7 +144,5 @@ scripts/venue-tags/venv/bin/python scripts/venue-tags/scrape_google.py --headed
 ## Out of scope
 
 - Yelp / TripAdvisor / Dianping scrapers (not needed if chips work)
-- Curated taxonomy (`taxonomy.yaml`) — keep for now, may revisit if we
-  ever want to map chips into a normalized category set
 - Integration into thirstypig.com post pages or tastemakers-ios
 - Refresh cadence for stored chip data

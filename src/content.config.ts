@@ -21,7 +21,9 @@ const posts = defineCollection({
 		// Google Maps FID hex pair (e.g. "0x89c2598f7ff4aa09:0x313547e757cb8cea").
 		// When set and a matching public/venue-tags/{placeId}.json exists, the
 		// post page renders the venue's "Refine reviews" topic chips.
-		placeId: z.string().optional(),
+		// Regex enforces the exact shape so a malformed value can't slip into
+		// `path.join()` at build time (closes a path-traversal door).
+		placeId: z.string().regex(/^0x[0-9a-f]+:0x[0-9a-f]+$/).optional(),
 		cuisine: z.array(z.string()).default([]),
 		source: z.enum(['thirstypig.com', 'thethirstypig.com', 'blog.thethirstypig.com', 'instagram', 'new']).default('new'),
 		originalUrl: z.string().optional(),

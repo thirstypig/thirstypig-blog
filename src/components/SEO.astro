@@ -130,22 +130,25 @@ const websiteLD = isHomepage ? {
 {publishDate && <meta property="article:published_time" content={publishDate.toISOString()} />}
 {categories.map(cat => <meta property="article:tag" content={cat} />)}
 
+{/* Escape `<` in JSON-LD payload so frontmatter never closes the script
+   block early. JSON.stringify does NOT escape `<` by default. */}
+
 <!-- JSON-LD: WebSite + SearchAction (homepage only, enables SERP search box) -->
 {websiteLD && (
-	<script type="application/ld+json" set:html={JSON.stringify(websiteLD)} />
+	<script type="application/ld+json" set:html={JSON.stringify(websiteLD).replace(/</g, '\\u003c')} />
 )}
 
 <!-- JSON-LD: Article (post pages) -->
 {articleLD && (
-	<script type="application/ld+json" set:html={JSON.stringify(articleLD)} />
+	<script type="application/ld+json" set:html={JSON.stringify(articleLD).replace(/</g, '\\u003c')} />
 )}
 
 <!-- JSON-LD: BreadcrumbList (post pages with a category) -->
 {breadcrumbLD && (
-	<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD)} />
+	<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLD).replace(/</g, '\\u003c')} />
 )}
 
 <!-- JSON-LD: Restaurant (venue pages with location + address or coords) -->
 {restaurantLD && (
-	<script type="application/ld+json" set:html={JSON.stringify(restaurantLD)} />
+	<script type="application/ld+json" set:html={JSON.stringify(restaurantLD).replace(/</g, '\\u003c')} />
 )}

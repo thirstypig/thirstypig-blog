@@ -1,31 +1,10 @@
 ---
-import fs from 'node:fs';
-import path from 'node:path';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { loadAllVenues, type VenueRecord } from '../../utils/venue-tags';
 
-interface Chip {
-	label: string;
-	mention_count: number;
-}
-
-interface VenueRecord {
-	place_id: string;
-	venue_name: string;
-	city: string | null;
-	key: string | null;
-	chips: Chip[];
-}
-
-// Pull every venue's chip data at build time.
-const venueDir = path.join(process.cwd(), 'public', 'venue-tags');
-let venues: VenueRecord[] = [];
-if (fs.existsSync(venueDir)) {
-	venues = fs
-		.readdirSync(venueDir)
-		.filter(f => f.endsWith('.json'))
-		.map(f => JSON.parse(fs.readFileSync(path.join(venueDir, f), 'utf-8')) as VenueRecord)
-		.filter(v => v.city);
-}
+// Drop venues without a city — this page groups by city, so a missing
+// one would be ungroupable.
+const venues: VenueRecord[] = loadAllVenues().filter(v => v.city);
 
 // Group venues by city, then sum chip mention counts within each city.
 // Output: cities sorted by total chip volume (most-talked-about cities first).
