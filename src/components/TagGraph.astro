@@ -1,0 +1,384 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+
+interface Props {
+	/** CSS aspect-ratio for the canvas. Default 16/9 — pass "3/1" or similar
+	 *  for a shorter banner-style placement (e.g. above the venue map). */
+	aspectRatio?: string;
+	/** Optional caption shown under the canvas. Pass empty string to hide. */
+	caption?: string;
+}
+
+const { aspectRatio = "16 / 9", caption = "Tags pulled from Google Maps reviews." } = Astro.props;
+
+// --- Build-time data prep ---------------------------------------------------
+// Read every venue-tags JSON, build node + edge lists.
+// Nodes = unique chip labels, sized by total mention_count across venues.
+// Edges = chip pairs that co-occur at the same venue, weighted by venue count.
+const venueTagsDir = path.resolve('public/venue-tags');
+const files = fs.existsSync(venueTagsDir)
+	? fs.readdirSync(venueTagsDir).filter((f) => f.endsWith('.json'))
+	: [];
+
+interface Chip { label: string; mention_count: number }
+interface VenueFile {
+	place_id: string;
+	venue_name: string;
+	city?: string;
+	key: string;
+	chips: Chip[];
+	scraped_at: string;
+}
+
+const venues: VenueFile[] = files.map((f) =>
+	JSON.parse(fs.readFileSync(path.join(venueTagsDir, f), 'utf8')),
+);
+
+const nodeMap = new Map<string, { label: string; mentions: number; venues: Set<string> }>();
+const edgeMap = new Map<string, { a: string; b: string; weight: number }>();
+
+for (const v of venues) {
+	const labels = v.chips.map((c) => c.label);
+	for (const c of v.chips) {
+		const existing = nodeMap.get(c.label);
+		if (existing) {
+			existing.mentions += c.mention_count;
+			existing.venues.add(v.venue_name);
+		} else {
+			nodeMap.set(c.label, {
+				label: c.label,
+				mentions: c.mention_count,
+				venues: new Set([v.venue_name]),
+			});
+		}
+	}
+	for (let i = 0; i < labels.length; i++) {
+		for (let j = i + 1; j < labels.length; j++) {
+			const [a, b] = [labels[i], labels[j]].sort();
+			const key = `${a}|${b}`;
+			const e = edgeMap.get(key);
+			if (e) e.weight += 1;
+			else edgeMap.set(key, { a, b, weight: 1 });
+		}
+	}
+}
+
+const nodes = Array.from(nodeMap.values()).map((n) => ({
+	label: n.label,
+	mentions: n.mentions,
+	venueCount: n.venues.size,
+}));
+const edges = Array.from(edgeMap.values());
+const graphData = { nodes, edges };
+---
+
+<div class="relative w-full rounded-lg border border-cream-dark bg-cream/40 overflow-hidden">
+	<canvas
+		id="chip-graph"
+		class="block w-full"
+		style={`aspect-ratio: ${aspectRatio};`}
+		aria-label="Force-directed graph of chip co-occurrence"
+	></canvas>
+	<div
+		id="chip-tooltip"
+		class="pointer-events-none absolute hidden px-2 py-1 rounded-md bg-ink text-cream text-xs font-sans shadow-lg"
+		style="transform: translate(-50%, calc(-100% - 8px));"
+	></div>
+</div>
+
+{caption && <p class="text-stone text-sm mt-3">{caption}</p>}
+
+<script type="application/json" id="chip-graph-data" set:html={JSON.stringify(graphData)} />
+
+<script>
+	const dataEl = document.getElementById('chip-graph-data');
+	const raw = dataEl ? JSON.parse(dataEl.textContent || '{}') : { nodes: [], edges: [] };
+
+	interface RawNode { label: string; mentions: number; venueCount: number }
+	interface RawEdge { a: string; b: string; weight: number }
+	interface SimNode {
+		label: string; mentions: number; venueCount: number;
+		x: number; y: number; vx: number; vy: number; r: number;
+	}
+	interface SimEdge { a: number; b: number; weight: number }
+
+	const canvas = document.getElementById('chip-graph') as HTMLCanvasElement | null;
+	const tooltip = document.getElementById('chip-tooltip') as HTMLDivElement | null;
+	if (canvas && tooltip) {
+		const ctx = canvas.getContext('2d')!;
+
+		function fitCanvas(): { w: number; h: number } {
+			const dpr = window.devicePixelRatio || 1;
+			const rect = canvas!.getBoundingClientRect();
+			canvas!.width = Math.floor(rect.width * dpr);
+			canvas!.height = Math.floor(rect.height * dpr);
+			ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+			return { w: rect.width, h: rect.height };
+		}
+
+		let { w, h } = fitCanvas();
+
+		const rawNodes: RawNode[] = raw.nodes || [];
+		const rawEdges: RawEdge[] = raw.edges || [];
+		const indexByLabel = new Map<string, number>();
+		rawNodes.forEach((n, i) => indexByLabel.set(n.label, i));
+
+		const maxMentions = rawNodes.reduce((m, n) => Math.max(m, n.mentions), 1);
+		const minR = 6;
+		const maxR = 28;
+
+		function radiusFor(mentions: number): number {
+			const t = Math.sqrt(mentions) / Math.sqrt(maxMentions);
+			return minR + t * (maxR - minR);
+		}
+
+		const nodes: SimNode[] = rawNodes.map((n, i) => {
+			const angle = (i / Math.max(rawNodes.length, 1)) * Math.PI * 2;
+			const seedR = Math.min(w, h) * 0.35;
+			return {
+				label: n.label, mentions: n.mentions, venueCount: n.venueCount,
+				x: w / 2 + Math.cos(angle) * seedR + (Math.random() - 0.5) * 30,
+				y: h / 2 + Math.sin(angle) * seedR + (Math.random() - 0.5) * 30,
+				vx: 0, vy: 0,
+				r: radiusFor(n.mentions),
+			};
+		});
+
+		const edges: SimEdge[] = rawEdges
+			.map((e) => ({
+				a: indexByLabel.get(e.a) ?? -1,
+				b: indexByLabel.get(e.b) ?? -1,
+				weight: e.weight,
+			}))
+			.filter((e) => e.a >= 0 && e.b >= 0);
+
+		const adjacency: Set<number>[] = nodes.map(() => new Set<number>());
+		edges.forEach((e) => {
+			adjacency[e.a].add(e.b);
+			adjacency[e.b].add(e.a);
+		});
+
+		const REPULSION = 4500;
+		const SPRING_K = 0.02;
+		const SPRING_LEN = 110;
+		const CENTER_PULL = 0.005;
+		const DAMPING = 0.85;
+		const MAX_VELOCITY = 30;
+		const TICK_MS = 16;
+		const TOTAL_TICKS = 180;
+
+		function step() {
+			for (let i = 0; i < nodes.length; i++) {
+				const a = nodes[i];
+				for (let j = i + 1; j < nodes.length; j++) {
+					const b = nodes[j];
+					let dx = a.x - b.x;
+					let dy = a.y - b.y;
+					let dist2 = dx * dx + dy * dy;
+					if (dist2 < 0.01) {
+						dx = Math.random() - 0.5;
+						dy = Math.random() - 0.5;
+						dist2 = dx * dx + dy * dy + 0.01;
+					}
+					const dist = Math.sqrt(dist2);
+					const force = REPULSION / dist2;
+					const fx = (dx / dist) * force;
+					const fy = (dy / dist) * force;
+					a.vx += fx; a.vy += fy;
+					b.vx -= fx; b.vy -= fy;
+				}
+			}
+			for (const e of edges) {
+				const a = nodes[e.a];
+				const b = nodes[e.b];
+				const dx = b.x - a.x;
+				const dy = b.y - a.y;
+				const dist = Math.sqrt(dx * dx + dy * dy) || 0.01;
+				const k = SPRING_K * Math.min(1 + Math.log(e.weight), 3);
+				const displacement = dist - SPRING_LEN;
+				const force = k * displacement;
+				const fx = (dx / dist) * force;
+				const fy = (dy / dist) * force;
+				a.vx += fx; a.vy += fy;
+				b.vx -= fx; b.vy -= fy;
+			}
+			const cx = w / 2;
+			const cy = h / 2;
+			for (const n of nodes) {
+				n.vx += (cx - n.x) * CENTER_PULL;
+				n.vy += (cy - n.y) * CENTER_PULL;
+				n.vx *= DAMPING;
+				n.vy *= DAMPING;
+				const speed = Math.hypot(n.vx, n.vy);
+				if (speed > MAX_VELOCITY) {
+					n.vx = (n.vx / speed) * MAX_VELOCITY;
+					n.vy = (n.vy / speed) * MAX_VELOCITY;
+				}
+				n.x += n.vx;
+				n.y += n.vy;
+				const pad = n.r + 4;
+				if (n.x < pad) { n.x = pad; n.vx *= -0.3; }
+				if (n.x > w - pad) { n.x = w - pad; n.vx *= -0.3; }
+				if (n.y < pad) { n.y = pad; n.vy *= -0.3; }
+				if (n.y > h - pad) { n.y = h - pad; n.vy *= -0.3; }
+			}
+		}
+
+		let hoverIndex = -1;
+
+		function themeColors() {
+			const cs = getComputedStyle(document.documentElement);
+			const get = (name: string, fallback: string) => {
+				const v = cs.getPropertyValue(name).trim();
+				return v || fallback;
+			};
+			return {
+				ink: get('--color-ink', '#1a1a1a'),
+				stone: get('--color-stone', '#6b6b6b'),
+				amber: get('--color-amber', '#d97706'),
+				rust: get('--color-rust', '#b1432a'),
+				cream: get('--color-cream', '#faf6ee'),
+				creamDark: get('--color-cream-dark', '#e8e0d0'),
+			};
+		}
+
+		function draw() {
+			const c = themeColors();
+			ctx.clearRect(0, 0, w, h);
+			for (let i = 0; i < edges.length; i++) {
+				const e = edges[i];
+				const a = nodes[e.a];
+				const b = nodes[e.b];
+				const isHi = hoverIndex >= 0 && (e.a === hoverIndex || e.b === hoverIndex);
+				ctx.strokeStyle = isHi ? c.rust : c.stone;
+				ctx.globalAlpha = isHi ? 0.85 : 0.18;
+				ctx.lineWidth = isHi ? Math.min(0.8 + e.weight * 0.6, 3) : Math.min(0.4 + e.weight * 0.25, 2);
+				ctx.beginPath();
+				ctx.moveTo(a.x, a.y);
+				ctx.lineTo(b.x, b.y);
+				ctx.stroke();
+			}
+			ctx.globalAlpha = 1;
+			for (let i = 0; i < nodes.length; i++) {
+				const n = nodes[i];
+				const isHover = i === hoverIndex;
+				const isNeighbor = hoverIndex >= 0 && adjacency[hoverIndex].has(i);
+				const dim = hoverIndex >= 0 && !isHover && !isNeighbor;
+				ctx.globalAlpha = dim ? 0.3 : 1;
+				ctx.fillStyle = isHover ? c.rust : c.amber;
+				ctx.strokeStyle = c.ink;
+				ctx.lineWidth = isHover ? 2 : 1;
+				ctx.beginPath();
+				ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+				ctx.fill();
+				ctx.stroke();
+			}
+			ctx.fillStyle = c.ink;
+			ctx.font = '12px system-ui, sans-serif';
+			ctx.textAlign = 'center';
+			ctx.textBaseline = 'middle';
+			for (let i = 0; i < nodes.length; i++) {
+				const n = nodes[i];
+				const isHover = i === hoverIndex;
+				const isNeighbor = hoverIndex >= 0 && adjacency[hoverIndex].has(i);
+				const big = n.r >= 14;
+				if (!big && !isHover && !isNeighbor) continue;
+				ctx.globalAlpha = hoverIndex >= 0 && !isHover && !isNeighbor ? 0.3 : 1;
+				ctx.fillText(n.label, n.x, n.y + n.r + 10);
+			}
+			ctx.globalAlpha = 1;
+		}
+
+		let tick = 0;
+		let rafId = 0;
+		let lastFrame = performance.now();
+
+		function frame(now: number) {
+			const elapsed = now - lastFrame;
+			if (elapsed >= TICK_MS) {
+				step();
+				tick++;
+				lastFrame = now;
+			}
+			draw();
+			if (tick < TOTAL_TICKS) {
+				rafId = requestAnimationFrame(frame);
+			} else {
+				rafId = 0;
+			}
+		}
+		rafId = requestAnimationFrame(frame);
+
+		function pickNode(mx: number, my: number): number {
+			for (let i = nodes.length - 1; i >= 0; i--) {
+				const n = nodes[i];
+				const dx = mx - n.x;
+				const dy = my - n.y;
+				if (dx * dx + dy * dy <= n.r * n.r) return i;
+			}
+			return -1;
+		}
+
+		function setHover(i: number, mx: number, my: number) {
+			if (i === hoverIndex) {
+				if (i >= 0) positionTooltip(mx, my, nodes[i]);
+				return;
+			}
+			hoverIndex = i;
+			if (i >= 0) {
+				canvas!.style.cursor = 'pointer';
+				tooltip!.classList.remove('hidden');
+				tooltip!.textContent = `${nodes[i].label} — ${nodes[i].mentions} mentions across ${nodes[i].venueCount} venues`;
+				positionTooltip(mx, my, nodes[i]);
+			} else {
+				canvas!.style.cursor = 'default';
+				tooltip!.classList.add('hidden');
+			}
+			if (rafId === 0) draw();
+		}
+
+		function positionTooltip(_mx: number, _my: number, n: SimNode) {
+			tooltip!.style.left = `${n.x}px`;
+			tooltip!.style.top = `${n.y - n.r}px`;
+		}
+
+		canvas.addEventListener('mousemove', (e) => {
+			const rect = canvas!.getBoundingClientRect();
+			setHover(pickNode(e.clientX - rect.left, e.clientY - rect.top), e.clientX - rect.left, e.clientY - rect.top);
+		});
+		canvas.addEventListener('mouseleave', () => setHover(-1, 0, 0));
+		canvas.addEventListener('click', (e) => {
+			const rect = canvas!.getBoundingClientRect();
+			const i = pickNode(e.clientX - rect.left, e.clientY - rect.top);
+			if (i >= 0) {
+				window.location.href = `/search/?q=${encodeURIComponent(nodes[i].label)}`;
+			}
+		});
+
+		let resizeTimer: number | null = null;
+		window.addEventListener('resize', () => {
+			if (resizeTimer) window.clearTimeout(resizeTimer);
+			resizeTimer = window.setTimeout(() => {
+				const oldW = w;
+				const oldH = h;
+				const fit = fitCanvas();
+				w = fit.w; h = fit.h;
+				const sx = w / oldW;
+				const sy = h / oldH;
+				for (const n of nodes) { n.x *= sx; n.y *= sy; }
+				tick = Math.max(0, TOTAL_TICKS - 60);
+				lastFrame = performance.now();
+				if (rafId === 0) rafId = requestAnimationFrame(frame);
+			}, 150);
+		});
+
+		const themeObserver = new MutationObserver(() => {
+			if (rafId === 0) draw();
+		});
+		themeObserver.observe(document.documentElement, {
+			attributes: true,
+			attributeFilter: ['data-theme'],
+		});
+	}
+</script>
