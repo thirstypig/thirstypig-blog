@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c62f7b047c81:0x65fba4816d4a10de",
+  "venue_name": "Smorgasburg (Los Angeles)",
+  "chips": [
+    {
+      "label": "smorgasburg",
+      "mention_count": 17
+    },
+    {
+      "label": "food trucks",
+      "mention_count": 74
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 133
+    },
+    {
+      "label": "beer garden",
+      "mention_count": 40
+    },
+    {
+      "label": "lobsterdamus",
+      "mention_count": 21
+    },
+    {
+      "label": "oysters",
+      "mention_count": 20
+    },
+    {
+      "label": "long lines",
+      "mention_count": 53
+    },
+    {
+      "label": "food selection",
+      "mention_count": 92
+    },
+    {
+      "label": "desserts",
+      "mention_count": 48
+    },
+    {
+      "label": "food variety",
+      "mention_count": 89
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:18Z",
+  "city": "Los Angeles",
+  "key": "smorgasburg-la"
+}

@@ -22,6 +22,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2c78249aba68f:0x6b5f9f23aa51f439"
 ---
 
 ![Grilled Shrimp bowl from says the grilled shrimp was really good](/images/posts/ig-2017-11-04-grilled-shrimp-bowl-from-says-the-grilled-shrimp-was-really/17847279019212817.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c611dbb0d1c3:0x519393b55b22066e",
+  "venue_name": "Birrieria Don Boni",
+  "chips": [
+    {
+      "label": "goat birria",
+      "mention_count": 39
+    },
+    {
+      "label": "goat meat",
+      "mention_count": 21
+    },
+    {
+      "label": "consome",
+      "mention_count": 36
+    },
+    {
+      "label": "quesabirria",
+      "mention_count": 8
+    },
+    {
+      "label": "birrieria",
+      "mention_count": 10
+    },
+    {
+      "label": "handmade tortillas",
+      "mention_count": 8
+    },
+    {
+      "label": "cafe de olla",
+      "mention_count": 3
+    },
+    {
+      "label": "birria plate",
+      "mention_count": 2
+    },
+    {
+      "label": "cilantro",
+      "mention_count": 6
+    },
+    {
+      "label": "beef birria",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-29T18:47:35Z",
+  "city": "Los Angeles",
+  "key": "birrieria-don-boni-east-la"
+}

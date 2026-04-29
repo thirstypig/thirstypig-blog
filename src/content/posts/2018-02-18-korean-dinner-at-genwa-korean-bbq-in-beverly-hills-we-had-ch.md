@@ -30,6 +30,7 @@ coordinates:
   lng: -118.376111
 cuisine:
 - Korean
+placeId: "0x80c2b94ecf2c2487:0xb0a1935e6e4ce695"
 ---
 
 ![Korean Dinner at Genwa Korean BBQ in Beverly Hills we had chapchae, kimchi p...](/images/posts/ig-2018-02-18-korean-dinner-at-genwa-korean-bbq-in-beverly-hills-we-had-ch/17902029022136795.jpg)

@@ -26,6 +26,7 @@ coordinates:
   lng: -118.251962
 cuisine:
 - Japanese
+placeId: "0x80c2c3ffca83b651:0x8226f1237187728f"
 ---
 
 ![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/17886257527446610.jpg)
