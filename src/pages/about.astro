@@ -143,9 +143,13 @@ const closedCount = posts.filter(p => (p.data.tags || []).some(t => t.toLowerCas
 </BaseLayout>
 
 <style>
+	/* Clip to a circle so the drop-shadow follows the round badge edge,
+	   not the SVG's square 1024x1024 bounding box. Also future-proofs
+	   the look if a swapped-in SVG happens to have visible padding. */
 	.thirstypig-badge {
 		width: 180px;
 		height: 180px;
+		clip-path: circle(50% at 50% 50%);
 		filter: drop-shadow(0 12px 30px rgba(228, 21, 43, 0.25));
 	}
 </style>
