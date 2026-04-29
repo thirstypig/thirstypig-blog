@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbd15522cf3:0x54149437d378d7f5",
+  "venue_name": "Side Chick",
+  "chips": [
+    {
+      "label": "Hainan Chicken Rice",
+      "mention_count": 34
+    },
+    {
+      "label": "garlic rice",
+      "mention_count": 6
+    },
+    {
+      "label": "dark meat",
+      "mention_count": 8
+    },
+    {
+      "label": "yu choy",
+      "mention_count": 2
+    },
+    {
+      "label": "bone broth",
+      "mention_count": 2
+    },
+    {
+      "label": "crispy skin",
+      "mention_count": 3
+    },
+    {
+      "label": "roasted chicken",
+      "mention_count": 9
+    },
+    {
+      "label": "cucumbers",
+      "mention_count": 3
+    },
+    {
+      "label": "mall",
+      "mention_count": 11
+    },
+    {
+      "label": "flavor",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-29T01:04:56Z",
+  "city": "Arcadia",
+  "key": "side-chick-arcadia"
+}

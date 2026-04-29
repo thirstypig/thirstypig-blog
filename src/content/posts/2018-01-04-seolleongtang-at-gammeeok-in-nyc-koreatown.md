@@ -25,6 +25,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x89c259a8f9c85799:0xa94402a5a1f4db65"
 ---
 
 ![Seolleongtang at Gammeeok, in NYC Koreatown](/images/posts/ig-2018-01-04-seolleongtang-at-gammeeok-in-nyc-koreatown/17914609630065490.jpg)

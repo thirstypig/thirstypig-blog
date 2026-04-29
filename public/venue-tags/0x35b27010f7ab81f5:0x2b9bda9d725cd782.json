@@ -1,0 +1,13 @@
+{
+  "place_id": "0x35b27010f7ab81f5:0x2b9bda9d725cd782",
+  "venue_name": "Xibe Xinjiang Restaurant",
+  "chips": [
+    {
+      "label": "food",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-29T01:04:51Z",
+  "city": "Shanghai",
+  "key": "lisboa-restaurant-shanghai"
+}

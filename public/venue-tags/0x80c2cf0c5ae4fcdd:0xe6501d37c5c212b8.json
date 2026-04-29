@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2cf0c5ae4fcdd:0xe6501d37c5c212b8",
+  "venue_name": "Moo's Craft Barbecue",
+  "chips": [
+    {
+      "label": "mac and cheese",
+      "mention_count": 83
+    },
+    {
+      "label": "texas style bbq",
+      "mention_count": 25
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 18
+    },
+    {
+      "label": "brisket",
+      "mention_count": 226
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 53
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 26
+    },
+    {
+      "label": "esquites",
+      "mention_count": 9
+    },
+    {
+      "label": "poblano oaxaca sausage",
+      "mention_count": 10
+    },
+    {
+      "label": "banana pudding",
+      "mention_count": 16
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-04-29T01:05:04Z",
+  "city": "East LA",
+  "key": "moos-craft-barbecue-east-la"
+}

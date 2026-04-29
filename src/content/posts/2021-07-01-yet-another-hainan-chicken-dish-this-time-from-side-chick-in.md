@@ -27,6 +27,7 @@ coordinates:
   lng: -118.049391
 cuisine:
 - Chinese
+placeId: "0x80c2dbbd15522cf3:0x54149437d378d7f5"
 ---
 
 ![Yet another Hainan Chicken dish, this time from Side Chick in Arcadia’s Santa...](/images/posts/ig-2021-07-01-yet-another-hainan-chicken-dish-this-time-from-side-chick-in/17917567621782916.jpg)
