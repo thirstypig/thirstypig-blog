@@ -38,6 +38,7 @@ tags:
 - coffee
 cuisine:
 - Cafe
+placeId: "0x3442abdb93d0c185:0x7e0a43850ce693f9"
 ---
 
 An interesting business model we see in Taipei is the chain restaurants that feature different cuisines. With the People and Shintori, they feature Chinese cuisine, Japanese Sushi, as well as a cool lounge in Taipei and Shanghai. With the smaller group VVG, their little group extends from a French eatery, [dessert cafe](http://www.thethirstypig.com/2010/05/19/the-ultimate-afternoon-tea-at-vvg-bon-bon-好樣棒棒-taipei/), and a luxury boutique bed+breakfast. With the Dazzling, their empire reaches to a champagne lounge bar, a shabu-shabu restaurant, jewelry, and restaurants. It is fascinating how these groups leverage their brand marketing across these different ventures.

@@ -26,6 +26,7 @@ coordinates:
   lng: 121.470253
 cuisine:
 - Chinese
+placeId: "0x35b270716755d321:0xc1f7c92f8fa6764c"
 ---
 
 [![urban-soup-kitchen-shanghai-11](/images/posts/urban-soup-kitchen-shanghai/Urban-Soup-Kitchen-Shanghai-2.08-188x188.jpg "urban-soup-kitchen-shanghai-11")](http://thirstypig.com/2010/11/28/urban-soup-kitchen-shanghai/urban-soup-kitchen-shanghai-11/)

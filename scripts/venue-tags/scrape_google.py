@@ -132,14 +132,22 @@ def looks_like_amenity(label: str) -> bool:
 
 
 def scrape_venue(
-    page: Page, query: str, key: str, place_id: str | None = None
+    page: Page,
+    query: str,
+    key: str,
+    place_id: str | None = None,
+    cid: str | None = None,
 ) -> dict:
-    # Prefer a direct /maps/place/?ftid=<place_id> URL when we have it —
-    # bypasses Google's multi-match resolution, which session-trust-scoring
-    # gates and which fails for chain venues. ?q= search is the fallback
-    # for ad-hoc queries we don't have a place_id for yet.
+    # URL preference order:
+    # 1. ftid=<FID hex pair> — direct, bypasses Google's multi-match resolution
+    # 2. cid=<decimal> — Places API gives us this when FID hex isn't in the
+    #    response. Maps redirects cid URLs to the full /maps/place/ URL
+    #    (containing FID hex), so the EXTRACT_JS regex picks it up after load.
+    # 3. ?q= search — ad-hoc queries; subject to multi-match failures.
     if place_id:
         url = f"https://www.google.com/maps/place/?ftid={place_id}"
+    elif cid:
+        url = f"https://www.google.com/maps/place/?cid={cid}"
     else:
         url = f"https://www.google.com/maps?q={quote_plus(query)}"
     log(f"  → {url}")
@@ -201,17 +209,37 @@ def load_venues() -> list[dict]:
     return yaml.safe_load(VENUES_PATH.read_text())
 
 
+def _writeback_place_id(key: str, place_id: str) -> None:
+    """Inject `place_id: "<pid>"` into the venues.yaml entry for `key`,
+    keeping the rest of the file byte-identical. Used after a cid-based
+    scrape resolves the actual FID hex via the redirect."""
+    import re as _re
+    content = VENUES_PATH.read_text()
+    pattern = _re.compile(
+        r'(- key: ' + _re.escape(key) + r'\n(?:  [^\n]+\n)*?  query: "[^"]+")\n',
+        _re.MULTILINE,
+    )
+    new_content = pattern.sub(rf'\1\n  place_id: "{place_id}"\n', content, count=1)
+    if new_content != content:
+        VENUES_PATH.write_text(new_content)
+        log(f"    venues.yaml: wrote place_id for {key}")
+
+
 def venues_to_scrape(
     args: argparse.Namespace,
-) -> Iterable[tuple[str, str, str | None]]:
+) -> Iterable[tuple[str, str, str | None, str | None]]:
+    """Yield (query, key, place_id, cid) per venue."""
     if args.query and args.key:
-        yield args.query, args.key, None
+        yield args.query, args.key, None, None
         return
     venues = load_venues()
     for v in venues:
         if args.venue and v["key"] != args.venue:
             continue
-        yield v["query"], v["key"], v.get("place_id")
+        # Coerce cid to str — yaml may parse decimals as int
+        cid = v.get("cid")
+        cid = str(cid) if cid is not None else None
+        yield v["query"], v["key"], v.get("place_id"), cid
 
 
 def main() -> int:
@@ -261,10 +289,10 @@ def main() -> int:
         )
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
 
-        for query, key, place_id in targets:
+        for query, key, place_id, cid in targets:
             log(f"[{key}] {query}")
             try:
-                record = scrape_venue(page, query, key, place_id=place_id)
+                record = scrape_venue(page, query, key, place_id=place_id, cid=cid)
             except Exception as exc:
                 log(f"    ERROR: {exc}")
                 failures.append(key)
@@ -287,6 +315,14 @@ def main() -> int:
                 if record["chips"]
                 else f"    0 chips → {out_path.name} (low-coverage venue)"
             )
+
+            # If we resolved a venue via cid (no place_id in venues.yaml) and
+            # the scraper extracted the FID hex from the page URL, write it
+            # back so future scrape + auto-tag runs can use it as a normal
+            # ftid-keyed venue.
+            extracted_pid = record.get("place_id")
+            if extracted_pid and not place_id and cid:
+                _writeback_place_id(key, extracted_pid)
 
         ctx.close()
 

@@ -39,6 +39,7 @@ coordinates:
   lng: 121.454254
 cuisine:
 - Japanese
+placeId: "0x35b27010fa74fc4f:0x6631a320c9365f6f"
 ---
 
 [![img_3335](/images/posts/coco-curry-house-shanghai/Coco-Curry-House-1-88x88.jpg "img_3335")](http://thirstypig.com/2010/07/21/coco-curry-house-shanghai/img_3335/)
