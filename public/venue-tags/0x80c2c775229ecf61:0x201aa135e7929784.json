@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c775229ecf61:0x201aa135e7929784",
+  "venue_name": "Hanu K BBQ",
+  "chips": [
+    {
+      "label": "robots",
+      "mention_count": 109
+    },
+    {
+      "label": "robot servers",
+      "mention_count": 33
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 12
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 11
+    },
+    {
+      "label": "galbi",
+      "mention_count": 19
+    },
+    {
+      "label": "ribeye",
+      "mention_count": 8
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 10
+    },
+    {
+      "label": "brisket",
+      "mention_count": 13
+    },
+    {
+      "label": "beef pancake",
+      "mention_count": 4
+    },
+    {
+      "label": "corn cheese",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:16Z",
+  "city": "Los Angeles",
+  "key": "efficient-korean-bbq-los-angele"
+}

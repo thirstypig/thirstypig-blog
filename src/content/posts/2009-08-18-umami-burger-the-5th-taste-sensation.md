@@ -29,6 +29,7 @@ tags:
 - umami
 cuisine:
 - Fusion
+placeId: "0x80c2c7b124ff1061:0x5fe29e1851685c1a"
 ---
 
 I first heard about Umami from from Good Food from KCRW. Almost anything that Evan Kleiman and Jonathan Gold says, I would almost want to try. In addition, I admit I was intrigued with the idea of anything remotely Japanese and with Burgers (though I am not suppose to eat too much red meat – more on that later).

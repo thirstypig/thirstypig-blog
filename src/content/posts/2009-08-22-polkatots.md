@@ -26,6 +26,7 @@ city: Pasadena
 region: Pasadena
 cuisine:
 - Dessert
+placeId: "0x80c2c33f726b971d:0xd640afa885af0eea"
 ---
 
 Does Pasadena really need 50 cupcake shops? Will one more really matter? Well, in this case, Polkatots it does. Located far from the trendy part of Pasadena’s Old Town and South Lake shopping area. Polkatots is north of the 210 hidden in the back of a little mini mall.

@@ -25,6 +25,7 @@ tags:
 - noodles
 cuisine:
 - Chinese
+placeId: "0x80c2c55b9bb91199:0x1187d2a0e53b9b92"
 ---
 
 JJ Cafe is your typical Monterey Park/Alhambra Cantonese late night cafe. You might have tried Garden Cafe, ABC, Sunday Bistro, and others. They all serve similar items on their menus. JJ’s features several rice dishes including Fu Zhou Fried Rice as well as some noodle dishes.

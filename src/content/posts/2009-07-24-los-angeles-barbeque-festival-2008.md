@@ -21,6 +21,7 @@ tags:
 - ribs
 cuisine:
 - BBQ
+placeId: "0x80c2c62f7b047c81:0x65fba4816d4a10de"
 ---
 
 Late last year, I went to the Los Angeles Barbeque Festival at the Santa Monica Pier. Held on a nice sunny September day, the 13th and 14th to be exact. Unfortunately, I didn’t know that they moved this year’s, 2009, to May 9th and 10th.

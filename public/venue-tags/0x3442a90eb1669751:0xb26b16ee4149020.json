@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a90eb1669751:0xb26b16ee4149020",
+  "venue_name": "Yong He Soy Milk",
+  "chips": [
+    {
+      "label": "youtiao",
+      "mention_count": 263
+    },
+    {
+      "label": "xiaolongbao",
+      "mention_count": 145
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 19
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 72
+    },
+    {
+      "label": "upstairs seating",
+      "mention_count": 4
+    },
+    {
+      "label": "shaobing youtiao",
+      "mention_count": 73
+    },
+    {
+      "label": "doujiang",
+      "mention_count": 73
+    },
+    {
+      "label": "dough fritters",
+      "mention_count": 42
+    },
+    {
+      "label": "rice ball",
+      "mention_count": 57
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 50
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:12Z",
+  "city": "Taipei",
+  "key": "yonghe-chinese-type-breakfast-shop--taipei"
+}

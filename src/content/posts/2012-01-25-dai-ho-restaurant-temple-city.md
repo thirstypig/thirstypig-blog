@@ -25,6 +25,7 @@ tags:
 - dim-sum
 cuisine:
 - Chinese
+placeId: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
 ---
 
 [![o](/images/posts/dai-ho-restaurant-temple-city/IMG_7553.JPG "o")](http://thirstypig.com/2012/01/25/dai-ho-restaurant-temple-city/o-5/)

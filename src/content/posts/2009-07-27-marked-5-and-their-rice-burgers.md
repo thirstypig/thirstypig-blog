@@ -29,6 +29,7 @@ coordinates:
   lng: -118.248789
 cuisine:
 - Mexican
+placeId: "0x80c2b9abac0fff13:0x8e4fc8692afa5ef2"
 ---
 
 The latest craze in Los Angeles are the “taco trucks” that roam around serving delicious food. One such truck is called Marked5.

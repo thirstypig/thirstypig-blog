@@ -28,6 +28,7 @@ coordinates:
   lng: -118.15218
 cuisine:
 - Italian
+placeId: "0x80c2c370d8c00e33:0x7b9f98984a14eeab"
 ---
 
 I was here over the summer with family and relatives. And this is the ideal place to bring large crowds. Though its a chain, it does have a feel of a New York Italian restaurant, maybe on steroids. With all the visuals – pictures, statues, and even the staff, this place might have gone a bit too far. But I think that’s part of the fun.

@@ -23,6 +23,7 @@ location: Best Fish Tacos Hands Down
 city: Los Angeles
 cuisine:
 - Mexican
+placeId: "0x80c2c0b27bd8044b:0x7264142b26a78d90"
 ---
 
 Best Fish Tacos Hands Down.

@@ -29,6 +29,7 @@ tags:
 - breakfast
 cuisine:
 - Taiwanese
+placeId: "0x3442a97065a9fe7d:0x9f8ad0b871ef2d1e"
 ---
 
 There was a place in Taipei that I used to go to all the time. It was called Si Hai Tou Jiang of the same name 四海豆漿

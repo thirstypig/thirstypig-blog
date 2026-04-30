@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9f5403ecefd:0x5f350a9b1e116ec5",
+  "venue_name": "Miznon",
+  "chips": [
+    {
+      "label": "hummus",
+      "mention_count": 4
+    },
+    {
+      "label": "schnitzel",
+      "mention_count": 3
+    },
+    {
+      "label": "cauliflower",
+      "mention_count": 6
+    },
+    {
+      "label": "pita",
+      "mention_count": 14
+    },
+    {
+      "label": "israeli",
+      "mention_count": 2
+    },
+    {
+      "label": "green beans",
+      "mention_count": 2
+    },
+    {
+      "label": "tahini",
+      "mention_count": 2
+    },
+    {
+      "label": "mediterranean",
+      "mention_count": 4
+    },
+    {
+      "label": "cucumber",
+      "mention_count": 2
+    },
+    {
+      "label": "energy",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T00:22:05Z",
+  "city": "Los Angeles",
+  "key": "restaurant3-los-angele"
+}

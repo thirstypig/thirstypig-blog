@@ -25,6 +25,7 @@ region: Pasadena
 address: 80 W Green St
 cuisine:
 - Italian
+placeId: "0x80c2c370d8c00e33:0x7b9f98984a14eeab"
 ---
 
 [![psb-46](/images/posts/buca-di-beppo-pasadena/IMG_0638.jpg "psb-46")](http://thirstypig.com/2014/06/07/buca-di-beppo-pasadena/psb-46/)

@@ -21,6 +21,7 @@ region: Shanghai
 address: 17 YongJia Rd
 cuisine:
 - Mexican
+placeId: "0x88d9b7bdf34a37df:0xea517cacebe0f0b3"
 ---
 
 

@@ -25,6 +25,7 @@ address: '138 E Valley Blvd
   Alhambra, CA 91801'
 cuisine:
 - Chinese
+placeId: "0x80c2c537cd44f0d1:0x5f30555f1aac2bb7"
 ---
 
 I’ve had Hainan Chicken in the US, Taiwan, China, Hong Kong, and Macau. I can tell you honesty, that the Best Hainan Chicken is from this little hole-in-the-wall in Alhambra – Savoy Kitchen. It’s funny, i’ve been to Savoy dozens of times, though I have never ordered anything else. Nothing else matters. I’ve had friends in Taiwan tell me that Savoy’s Hainan Chicken is the best in the world as well. We would order 10 at a time and have a little feast.

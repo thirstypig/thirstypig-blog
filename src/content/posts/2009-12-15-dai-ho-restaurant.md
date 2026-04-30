@@ -22,6 +22,7 @@ tags:
 - beef-stew
 categories:
 - Taiwanese
+placeId: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
 ---
 
 This is *almost* as good as my mom's Taiwanese beef noodle stew, but definitely the best you can get outside of a Taiwanese household. Family run and seems like they're hardly ever open since they can afford to keep limited hours. You might have to sit with strangers since they get so packed. There's a display case of cold appetizers (see the spicy bean curd buried under the cilantro) but they are known for their simple menu of noodles. You won't be disappointed by the broth of the beef noodles (the photo doesn't do the soup justice), but I also love the dry noodles (you can't tell from the photo that the sauce is simple and slightly addictive).

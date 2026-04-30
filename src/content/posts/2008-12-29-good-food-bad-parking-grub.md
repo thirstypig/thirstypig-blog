@@ -26,6 +26,7 @@ address: '911 Seward St
 region: Los Angeles
 cuisine:
 - American
+placeId: "0x80c2b9f8f78679b5:0x2b0c3879ebb7cbb5"
 ---
 
 I visited Grub about a year ago and had their Mac and Cheese and Club Croissant Sandwich. I need to visit them again to try their famous breakfasts. Unfortunately, parking sucks at Grub.

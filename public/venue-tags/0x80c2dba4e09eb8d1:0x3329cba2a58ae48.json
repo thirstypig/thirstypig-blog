@@ -1,0 +1,13 @@
+{
+  "place_id": "0x80c2dba4e09eb8d1:0x3329cba2a58ae48",
+  "venue_name": "Liang's Village Cuisine",
+  "chips": [
+    {
+      "label": "taiwanese",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:55Z",
+  "city": "Arcadia",
+  "key": "liangs-village-cuisine-arcadia"
+}

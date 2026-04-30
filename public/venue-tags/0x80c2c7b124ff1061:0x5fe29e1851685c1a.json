@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b124ff1061:0x5fe29e1851685c1a",
+  "venue_name": "Taste Food Hall",
+  "chips": [
+    {
+      "label": "poke bowl",
+      "mention_count": 3
+    },
+    {
+      "label": "salads",
+      "mention_count": 9
+    },
+    {
+      "label": "pizza",
+      "mention_count": 11
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 2
+    },
+    {
+      "label": "burgers",
+      "mention_count": 4
+    },
+    {
+      "label": "indian food",
+      "mention_count": 3
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    },
+    {
+      "label": "grilled",
+      "mention_count": 3
+    },
+    {
+      "label": "restaurants",
+      "mention_count": 2
+    },
+    {
+      "label": "shopping mall",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:15Z",
+  "city": "Los Angeles",
+  "key": "taste-food-hall-los-angele"
+}

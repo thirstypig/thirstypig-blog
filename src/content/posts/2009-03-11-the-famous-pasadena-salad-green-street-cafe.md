@@ -25,6 +25,7 @@ tags:
 - chicken
 cuisine:
 - American
+placeId: "0x80c2c35c68099f2b:0xcfa88b17be4ee7de"
 ---
 
 The Diane Salad from the Green Street Cafe is probably one of the best salads I have ever had. I usually don’t order salads myself, but the Diane salad is one of the best. One of the rumors is that Green Street Cafe came up with the Chinese Chicken Salad, which derived from the Diane Salad. I wouldn’t be surprised.

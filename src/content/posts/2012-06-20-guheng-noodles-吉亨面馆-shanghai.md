@@ -23,6 +23,7 @@ tags:
 - beef-noodle-soup
 cuisine:
 - Taiwanese
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 A Niang Noodles (阿娘面) in Shanghai.

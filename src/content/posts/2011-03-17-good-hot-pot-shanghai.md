@@ -25,6 +25,7 @@ tags:
 - hot-pot
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 My friends know me to not be a big fan of hot pot. I never liked the DIY cooking aspect of handling raw food cooking in a pot. But it seems that girls really like hot pot. I am not sure why, but they just seem to crave it, such as Regular Cantonese style hot pot, Japanese Shabu Shabu, Sichuan Mala hot pot, and other types.

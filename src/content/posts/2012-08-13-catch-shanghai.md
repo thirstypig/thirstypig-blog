@@ -25,6 +25,7 @@ tags:
 - fried-fish
 cuisine:
 - Seafood
+placeId: "0x35b27aacc8ab837d:0x8a032bc3d12fb567"
 ---
 
 Little Catch in Shanghai.

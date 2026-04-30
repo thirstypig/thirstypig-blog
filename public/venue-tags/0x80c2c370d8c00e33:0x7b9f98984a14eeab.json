@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c370d8c00e33:0x7b9f98984a14eeab",
+  "venue_name": "Buca di Beppo Italian Restaurant",
+  "chips": [
+    {
+      "label": "fettuccine alfredo",
+      "mention_count": 26
+    },
+    {
+      "label": "chicken parm",
+      "mention_count": 31
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 9
+    },
+    {
+      "label": "spicy chicken rigatoni",
+      "mention_count": 7
+    },
+    {
+      "label": "Colossal Brownie Sundae",
+      "mention_count": 10
+    },
+    {
+      "label": "Chicken Limone",
+      "mention_count": 5
+    },
+    {
+      "label": "Apple Gorgonzola Salad",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken carbonara",
+      "mention_count": 4
+    },
+    {
+      "label": "family style",
+      "mention_count": 17
+    },
+    {
+      "label": "kitchen tour",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:28Z",
+  "city": "Pasadena",
+  "key": "buca-di-beppo-pasadena"
+}

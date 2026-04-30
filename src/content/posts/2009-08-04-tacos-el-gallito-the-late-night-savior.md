@@ -30,6 +30,7 @@ coordinates:
   lng: -118.123075
 cuisine:
 - Mexican
+placeId: "0x80c2cfe4171a1377:0x312c6c76027edb5e"
 ---
 
 Recently, after a night of fun and drinks, we were looking for a place to grub on. Some of the time, we usually go to a Cantonese cafe in Monterey Park or Alhambra to get our late night fix. But this night, we decided on Tacos!!!

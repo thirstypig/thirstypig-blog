@@ -29,6 +29,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c3eb0240144d:0xb85fa85974b60789"
 ---
 
 ![Adobada Tacos at Tacos 1986 in DTLA](/images/posts/ig-2019-11-21-adobada-tacos-at-tacos-1986-in-dtla/17885632213453805.jpg)

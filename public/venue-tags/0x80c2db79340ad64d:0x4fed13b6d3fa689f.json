@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db79340ad64d:0x4fed13b6d3fa689f",
+  "venue_name": "The Original Tops",
+  "chips": [
+    {
+      "label": "pastrami",
+      "mention_count": 157
+    },
+    {
+      "label": "drive thru",
+      "mention_count": 79
+    },
+    {
+      "label": "chili cheese fries",
+      "mention_count": 70
+    },
+    {
+      "label": "zucchini fries",
+      "mention_count": 70
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 10
+    },
+    {
+      "label": "onion rings",
+      "mention_count": 75
+    },
+    {
+      "label": "bacon avocado cheeseburger",
+      "mention_count": 24
+    },
+    {
+      "label": "burgers",
+      "mention_count": 108
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 17
+    },
+    {
+      "label": "tuna melt",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:51Z",
+  "city": "Pasadena",
+  "key": "my-favorite-breakfast-burrito-from--pasadena"
+}

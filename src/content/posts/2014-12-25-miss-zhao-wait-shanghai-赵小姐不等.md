@@ -23,6 +23,7 @@ coordinates:
   lng: 121.461994
 cuisine:
 - Fusion
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish.  If you haven’t guessed, the most interesting thing about this place is the name and the back story.  The owner, a well-known writer, was dating Miss Zhao 赵若虹 whom they later married, and decided to open a restaurant.

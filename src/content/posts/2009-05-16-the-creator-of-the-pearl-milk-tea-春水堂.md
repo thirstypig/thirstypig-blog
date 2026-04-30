@@ -26,6 +26,7 @@ tags:
 - tea
 cuisine:
 - Taiwanese
+placeId: "0x3442a968d1b7225f:0x202a37ce7ae7400c"
 ---
 
 On a trip back to Taipei, I was taken to a small tea house called Chun Shui Tang. I was told, that one of the chain in Taichung was responsible for creating the Pearl Milk Tea. The Pearl Milk Tea, also known as the Boba Icea Tea, is the key product in the Lollicup and Tapioca Express shops. I know girls like this place as an afternoon tea choice.

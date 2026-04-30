@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb8cf4aac185:0x9d11acb5cb57c5b3",
+  "venue_name": "Westfield Century City",
+  "chips": [
+    {
+      "label": "nordstrom",
+      "mention_count": 20
+    },
+    {
+      "label": "food court",
+      "mention_count": 244
+    },
+    {
+      "label": "outdoor mall",
+      "mention_count": 138
+    },
+    {
+      "label": "brand selection",
+      "mention_count": 123
+    },
+    {
+      "label": "remodel",
+      "mention_count": 266
+    },
+    {
+      "label": "food options",
+      "mention_count": 203
+    },
+    {
+      "label": "variety of stores",
+      "mention_count": 176
+    },
+    {
+      "label": "christmas decorations",
+      "mention_count": 35
+    },
+    {
+      "label": "fire pits",
+      "mention_count": 15
+    },
+    {
+      "label": "upscale mall",
+      "mention_count": 28
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:13Z",
+  "city": "San Gabriel Valley",
+  "key": "what-high-school-kids-eat-to-grow-b-san-gabrie"
+}

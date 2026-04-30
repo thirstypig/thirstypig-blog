@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9729cbacbe3:0x58a5e1dacd445f64",
+  "venue_name": "Hi Sushi",
+  "chips": [
+    {
+      "label": "mentaiko squid",
+      "mention_count": 18
+    },
+    {
+      "label": "sea urchin hand roll",
+      "mention_count": 12
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 8
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 26
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 18
+    },
+    {
+      "label": "umi sushi",
+      "mention_count": 8
+    },
+    {
+      "label": "tamagoyaki",
+      "mention_count": 10
+    },
+    {
+      "label": "mentaiko seared salmon",
+      "mention_count": 4
+    },
+    {
+      "label": "angel red shrimp",
+      "mention_count": 5
+    },
+    {
+      "label": "flower sushi",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:39Z",
+  "city": "Taipei",
+  "key": "海壽司-hi-sushi-taipei"
+}

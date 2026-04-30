@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b3cf51593d:0x33dbbf8578eb16fa",
+  "venue_name": "Drago Centro",
+  "chips": [
+    {
+      "label": "pheasant pappardelle",
+      "mention_count": 7
+    },
+    {
+      "label": "polpo",
+      "mention_count": 11
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 10
+    },
+    {
+      "label": "lobster pasta",
+      "mention_count": 2
+    },
+    {
+      "label": "garganelli",
+      "mention_count": 2
+    },
+    {
+      "label": "sommelier",
+      "mention_count": 4
+    },
+    {
+      "label": "burrata",
+      "mention_count": 8
+    },
+    {
+      "label": "truffle pasta",
+      "mention_count": 2
+    },
+    {
+      "label": "wine pairing",
+      "mention_count": 4
+    },
+    {
+      "label": "venison",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:39Z",
+  "city": "Los Angeles",
+  "key": "drago-centro-los-angele"
+}

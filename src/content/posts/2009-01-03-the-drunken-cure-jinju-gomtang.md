@@ -26,6 +26,7 @@ address: '3377 Wilshire Blvd
   Los Angeles, CA 90010'
 cuisine:
 - Korean
+placeId: "0x80c2c711eea9ddf9:0xe73535c2399b1c36"
 ---
 
 I actually like this place. Understandably, Mr. Steve knows that there are better places in Seoul than in Los Angeles. But for what we have here, I’ll take Jinju, after a heavy round of drinking. Jinju is great since it is open late and with those great korean table call buttons.

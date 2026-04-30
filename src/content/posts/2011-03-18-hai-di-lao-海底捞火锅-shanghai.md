@@ -22,6 +22,7 @@ coordinates:
   lng: 121.469456
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 

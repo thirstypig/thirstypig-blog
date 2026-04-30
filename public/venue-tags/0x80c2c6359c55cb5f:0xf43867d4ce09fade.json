@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6359c55cb5f:0xf43867d4ce09fade",
+  "venue_name": "WAKE AND LATE — DOWNTOWN LA",
+  "chips": [
+    {
+      "label": "tater tots",
+      "mention_count": 40
+    },
+    {
+      "label": "steak burrito",
+      "mention_count": 19
+    },
+    {
+      "label": "cilantro crema",
+      "mention_count": 25
+    },
+    {
+      "label": "chipotle aioli",
+      "mention_count": 13
+    },
+    {
+      "label": "pastrami burrito",
+      "mention_count": 12
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 27
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 8
+    },
+    {
+      "label": "bagels",
+      "mention_count": 14
+    },
+    {
+      "label": "chorizo",
+      "mention_count": 7
+    },
+    {
+      "label": "tofu scramble",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:20Z",
+  "city": "Los Angeles",
+  "key": "wake-and-late-los-angele"
+}

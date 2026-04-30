@@ -1,0 +1,45 @@
+{
+  "place_id": "0x80c2cfe4171a1377:0x312c6c76027edb5e",
+  "venue_name": "Plumberland Emergency Plumbing Land Commerce",
+  "chips": [
+    {
+      "label": "water softener",
+      "mention_count": 2
+    },
+    {
+      "label": "garbage disposal",
+      "mention_count": 2
+    },
+    {
+      "label": "technician",
+      "mention_count": 13
+    },
+    {
+      "label": "valve",
+      "mention_count": 5
+    },
+    {
+      "label": "call",
+      "mention_count": 5
+    },
+    {
+      "label": "the office",
+      "mention_count": 2
+    },
+    {
+      "label": "facebook",
+      "mention_count": 2
+    },
+    {
+      "label": "home",
+      "mention_count": 8
+    },
+    {
+      "label": "water heater",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T00:19:02Z",
+  "city": "Monterey Park",
+  "key": "el-sereno-emergency-plumbers-llc-monterey-p"
+}

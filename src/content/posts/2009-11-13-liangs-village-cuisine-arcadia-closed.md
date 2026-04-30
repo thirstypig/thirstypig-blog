@@ -22,6 +22,7 @@ address: '1027 S Baldwin Ave
   Arcadia, CA 91007'
 cuisine:
 - Taiwanese
+placeId: "0x80c2dba4e09eb8d1:0x3329cba2a58ae48"
 ---
 
 

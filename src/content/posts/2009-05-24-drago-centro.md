@@ -24,6 +24,7 @@ tags:
 city: Los Angeles
 cuisine:
 - Italian
+placeId: "0x80c2c7b3cf51593d:0x33dbbf8578eb16fa"
 ---
 
 Drago Centro.

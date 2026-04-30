@@ -29,6 +29,7 @@ coordinates:
   lng: -118.24952
 cuisine:
 - Mexican
+placeId: "0x80c2c6359c55cb5f:0xf43867d4ce09fade"
 ---
 
 Last night, after some K-town drinking. . .a couple of friends and I went to Carnitas Michoacan. I had never heard or been there, but my friends were raving about it. After considering Pinks, Kogi, and King Taco . . . they emphatically insisted on Michoacan. I had to admit that I was skeptical at first . . . but I wanted to keep an open mind about trying new things. And at the end, I was pleasantly surprised.

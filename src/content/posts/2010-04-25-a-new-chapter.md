@@ -22,6 +22,7 @@ tags:
 - noodles
 cuisine:
 - Chinese
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 I know I have been a bit slow in posting in the last few weeks. But I have a good excuse – I have been busily preparing for a new chapter in my life. My life in LA is ending soon. . . I will be starting a new one in Shanghai and Taipei. I will be moving to Taipei, temporarily, for training at my new job – which will have me based out of Shanghai. In addition, I am also enrolled in a graduate degree program in Shanghai, with USC.

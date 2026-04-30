@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32a5e01e53bfd:0x86cc186401f5da07",
+  "venue_name": "Midoh - Rowland Heights",
+  "chips": [
+    {
+      "label": "corn soup",
+      "mention_count": 29
+    },
+    {
+      "label": "tonkatsu",
+      "mention_count": 40
+    },
+    {
+      "label": "hamburg steak",
+      "mention_count": 13
+    },
+    {
+      "label": "japanese curry",
+      "mention_count": 18
+    },
+    {
+      "label": "omurice",
+      "mention_count": 7
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 8
+    },
+    {
+      "label": "udon",
+      "mention_count": 16
+    },
+    {
+      "label": "seafood doria",
+      "mention_count": 3
+    },
+    {
+      "label": "pork loin",
+      "mention_count": 4
+    },
+    {
+      "label": "chicken katsu",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:49Z",
+  "city": "Rowland Heights",
+  "key": "country-bistro-rowland-he"
+}

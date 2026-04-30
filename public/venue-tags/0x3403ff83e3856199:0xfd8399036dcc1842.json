@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3403ff83e3856199:0xfd8399036dcc1842",
+  "venue_name": "Wing Hop Shing Restaurant",
+  "chips": [
+    {
+      "label": "Clay Pot Rice with Beef and Fried Egg",
+      "mention_count": 127
+    },
+    {
+      "label": "rice crust",
+      "mention_count": 35
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "minced beef claypot rice",
+      "mention_count": 10
+    },
+    {
+      "label": "eel claypot rice",
+      "mention_count": 5
+    },
+    {
+      "label": "chinese sausage",
+      "mention_count": 8
+    },
+    {
+      "label": "Pork Ribs with Chicken Feet in Black Bean Sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "spare ribs claypot rice",
+      "mention_count": 2
+    },
+    {
+      "label": "liver sausages",
+      "mention_count": 2
+    },
+    {
+      "label": "onion pork chop",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:19:13Z",
+  "city": "Hong Kong",
+  "key": "永合成馳名煲仔飯-hong-kong"
+}

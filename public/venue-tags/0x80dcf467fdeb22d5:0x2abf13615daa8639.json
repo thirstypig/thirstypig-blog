@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcf467fdeb22d5:0x2abf13615daa8639",
+  "venue_name": "Guichos Eatery",
+  "chips": [
+    {
+      "label": "arugula salad",
+      "mention_count": 3
+    },
+    {
+      "label": "meatball sub",
+      "mention_count": 3
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 3
+    },
+    {
+      "label": "seafood linguini",
+      "mention_count": 2
+    },
+    {
+      "label": "turkey sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "spaghetti and meatballs",
+      "mention_count": 4
+    },
+    {
+      "label": "tagliatelle",
+      "mention_count": 4
+    },
+    {
+      "label": "grilled chicken salad",
+      "mention_count": 2
+    },
+    {
+      "label": "sausage sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "alfredo",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:15:03Z",
+  "city": "San Clemente",
+  "key": "great-hole-in-the-wall-meatball-san-san-clemen"
+}

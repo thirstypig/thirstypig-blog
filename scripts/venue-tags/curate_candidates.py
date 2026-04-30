@@ -5,15 +5,21 @@ canonical (location, city), filters out:
 - Already-tagged venues (placeId in frontmatter)
 - Drafts
 - Non-food venues by name pattern (hotels, spas, parks, etc.)
-- Single-post venues (configurable)
+- Venues with fewer than --min-posts posts (default 2)
 
-Outputs YAML-shaped entries to stdout. Each entry includes a coordinates-
-augmented query when post coordinates are available — disambiguates Google
-Maps multi-match resolution that's been our biggest lookup-failure mode.
+Outputs YAML-shaped entries to stdout. With the Places API in the pipeline
+the `@lat,lng` query trick is no longer necessary (API disambiguates by
+name + city alone), so queries are kept simple.
 
 Usage:
+    # Default: only venues with 2+ posts (high-confidence)
     scripts/venue-tags/venv/bin/python scripts/venue-tags/curate_candidates.py
-    # Append the output to venues.yaml after eyeball review.
+
+    # Include single-post venues (broader sweep — paired with API lookup)
+    scripts/venue-tags/venv/bin/python scripts/venue-tags/curate_candidates.py --min-posts 1
+
+    # Cap the number of candidates emitted (sorted by post count desc)
+    scripts/venue-tags/venv/bin/python scripts/venue-tags/curate_candidates.py --min-posts 1 --limit 100
 """
 
 from __future__ import annotations
@@ -93,6 +99,16 @@ def slugify(s: str) -> str:
 
 
 def main() -> int:
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--min-posts", type=int, default=2,
+                    help="Min posts per venue to include (default 2 — high "
+                         "confidence). Use 1 for broader API-driven sweeps.")
+    ap.add_argument("--limit", type=int, default=0,
+                    help="Cap candidates emitted (0 = no cap). Sorted by "
+                         "post count desc.")
+    args = ap.parse_args()
+
     # Index venues already in venues.yaml so we don't re-suggest them.
     existing_venues = yaml.safe_load(VENUES_PATH.read_text())
     existing_keys = {v["key"] for v in existing_venues}
@@ -142,18 +158,18 @@ def main() -> int:
         if is_non_food(loc):
             skipped_nonfood += 1
             continue
-        if len(data["posts"]) < 2:
+        if len(data["posts"]) < args.min_posts:
             skipped_single_post += 1
             continue
         # Skip if the venue name matches one already in venues.yaml
         if loc.lower() in existing_query_substrs:
             skipped_existing += 1
             continue
-        # Coordinates-augmented query: include lat,lng when we have them
-        if data["coords"]:
-            lat, lng = data["coords"]
-            query = f"{loc} {city} @{lat:.4f},{lng:.4f}"
-        elif data["address"]:
+        # Simple `name city` query — Places API disambiguates well enough
+        # that @lat,lng or address concatenation isn't needed (and the
+        # @lat,lng form actually CONFUSED Google Maps' web search; not
+        # an issue for the API but cleaner to leave it off).
+        if data["address"]:
             query = f"{loc} {data['address']}"
         else:
             query = f"{loc} {city}"
@@ -172,6 +188,8 @@ def main() -> int:
 
     # Sort by post count desc — biggest impact venues first
     candidates.sort(key=lambda c: -c["post_count"])
+    if args.limit > 0:
+        candidates = candidates[:args.limit]
 
     # --- Diagnostic header to stderr ---
     print(f"# Curated {len(candidates)} candidates", file=sys.stderr)

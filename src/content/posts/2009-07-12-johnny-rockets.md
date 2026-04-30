@@ -28,6 +28,7 @@ coordinates:
   lng: -118.339547
 cuisine:
 - American
+placeId: "0x80c2bf23c3bb14c7:0xa187eb88b20cab66"
 ---
 
 I’m not sure what I would categorize Johnny Rocket’s. It’s similar to fast food, but you have waiter service. It’s similar to a dine-in restaurant, yet they mostly have burger and fries. I like Johnny Rocket’s for several reasons.

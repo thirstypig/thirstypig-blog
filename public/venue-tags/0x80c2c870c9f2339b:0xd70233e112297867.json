@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c870c9f2339b:0xd70233e112297867",
+  "venue_name": "Shaka Wear",
+  "chips": [
+    {
+      "label": "tank tops",
+      "mention_count": 2
+    },
+    {
+      "label": "plaid shorts",
+      "mention_count": 2
+    },
+    {
+      "label": "shirt quality",
+      "mention_count": 3
+    },
+    {
+      "label": "fit",
+      "mention_count": 2
+    },
+    {
+      "label": "pickup",
+      "mention_count": 3
+    },
+    {
+      "label": "brand",
+      "mention_count": 3
+    },
+    {
+      "label": "durability",
+      "mention_count": 2
+    },
+    {
+      "label": "wholesale",
+      "mention_count": 2
+    },
+    {
+      "label": "shipping",
+      "mention_count": 4
+    },
+    {
+      "label": "website",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:51Z",
+  "city": "Alhambra",
+  "key": "shakas-alhambra"
+}

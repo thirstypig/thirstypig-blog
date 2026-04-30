@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a99ee973e64d:0xec381b3dd9311a12",
+  "venue_name": "NALA's 台北店｜Burrito墨西哥捲 ｜ Tacos ｜ Burrito bowl墨西哥碗 ｜ Nachos ｜ Coffee",
+  "chips": [
+    {
+      "label": "avocado sauce",
+      "mention_count": 50
+    },
+    {
+      "label": "jalapeños",
+      "mention_count": 55
+    },
+    {
+      "label": "mexican bowl",
+      "mention_count": 18
+    },
+    {
+      "label": "corn chips",
+      "mention_count": 24
+    },
+    {
+      "label": "shredded beef burrito",
+      "mention_count": 7
+    },
+    {
+      "label": "chicken burrito",
+      "mention_count": 6
+    },
+    {
+      "label": "veggie burrito",
+      "mention_count": 8
+    },
+    {
+      "label": "chili sauce",
+      "mention_count": 12
+    },
+    {
+      "label": "cactus sauce",
+      "mention_count": 5
+    },
+    {
+      "label": "carnitas",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:35Z",
+  "city": "Taipei",
+  "key": "oola-taipei"
+}

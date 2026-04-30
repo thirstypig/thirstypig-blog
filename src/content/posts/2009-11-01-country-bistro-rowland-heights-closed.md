@@ -21,6 +21,7 @@ region: San Gabriel Valley
 address: 1380 Fullerton Rd St
 cuisine:
 - Taiwanese
+placeId: "0x80c32a5e01e53bfd:0x86cc186401f5da07"
 ---
 
 

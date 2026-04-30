@@ -29,6 +29,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c"
 ---
 
 ![Northern Chinese noodles from Lao Xi’er Noodle House](/images/posts/ig-2019-03-02-northern-chinese-noodles-from-lao-xier-noodle-house/18016082320081889.jpg)

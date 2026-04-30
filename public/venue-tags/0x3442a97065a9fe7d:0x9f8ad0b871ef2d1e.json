@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a97065a9fe7d:0x9f8ad0b871ef2d1e",
+  "venue_name": "Fuhang Soy Milk",
+  "chips": [
+    {
+      "label": "youtiao",
+      "mention_count": 3174
+    },
+    {
+      "label": "shaobing youtiao",
+      "mention_count": 3650
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 325
+    },
+    {
+      "label": "thick flatbread",
+      "mention_count": 1192
+    },
+    {
+      "label": "thick pancake with egg",
+      "mention_count": 837
+    },
+    {
+      "label": "rice ball",
+      "mention_count": 924
+    },
+    {
+      "label": "queue",
+      "mention_count": 1822
+    },
+    {
+      "label": "iced soy milk",
+      "mention_count": 294
+    },
+    {
+      "label": "radish pastry",
+      "mention_count": 239
+    },
+    {
+      "label": "caramel sweet cake",
+      "mention_count": 262
+    }
+  ],
+  "scraped_at": "2026-04-30T00:18:30Z",
+  "city": "Taipei",
+  "key": "fu-hang-dou-jiang-阜杭豆漿-taipei"
+}

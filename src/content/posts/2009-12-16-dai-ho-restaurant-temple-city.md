@@ -28,6 +28,7 @@ coordinates:
   lng: -118.06929
 cuisine:
 - Taiwanese
+placeId: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
 ---
 
 Dai Ho Restaurant (大和) in Temple City.

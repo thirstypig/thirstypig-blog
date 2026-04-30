@@ -24,6 +24,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x89c259e61562f0a9:0x826e55a65b25ea65"
 ---
 
 ![Iconic photo of the Manhattan Bridge from DUMBO Brooklyn](/images/posts/ig-2018-01-06-iconic-photo-of-the-manhattan-bridge-from-dumbo-brooklyn/17900325124088615.jpg)

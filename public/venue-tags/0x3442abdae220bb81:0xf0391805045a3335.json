@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442abdae220bb81:0xf0391805045a3335",
+  "venue_name": "Bar Mood Taipei",
+  "chips": [
+    {
+      "label": "gabriel's call",
+      "mention_count": 23
+    },
+    {
+      "label": "mentaiko pasta",
+      "mention_count": 35
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 32
+    },
+    {
+      "label": "Soft Shell Crab Spaghetti",
+      "mention_count": 15
+    },
+    {
+      "label": "creative cocktails",
+      "mention_count": 22
+    },
+    {
+      "label": "foie gras turnip cake",
+      "mention_count": 13
+    },
+    {
+      "label": "sofa area",
+      "mention_count": 20
+    },
+    {
+      "label": "whiskey",
+      "mention_count": 51
+    },
+    {
+      "label": "asia's top 50 bars",
+      "mention_count": 10
+    },
+    {
+      "label": "beef skewers",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:15Z",
+  "city": "Taipei",
+  "key": "bar-mood-taipei"
+}

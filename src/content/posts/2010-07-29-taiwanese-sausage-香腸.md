@@ -22,6 +22,7 @@ coordinates:
   lng: 121.546908
 cuisine:
 - Taiwanese
+placeId: "0x3442a945418ca96d:0xf68fcf3305a75588"
 ---
 
 

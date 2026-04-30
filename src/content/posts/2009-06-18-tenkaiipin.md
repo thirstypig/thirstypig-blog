@@ -21,6 +21,7 @@ tags:
 cuisine:
 - Japanese
 city: Honolulu
+placeId: "0x7c006d80bd91132f:0x86433c7732eea4f5"
 ---
 
 Tenkaiipin.

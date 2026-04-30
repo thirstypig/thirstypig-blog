@@ -24,6 +24,7 @@ tags:
 - pudding
 cuisine:
 - Dessert
+placeId: "0x80c2dbf9c4ebaf21:0xe5ca38734747aa76"
 ---
 
 Mango Delight was its name. . .

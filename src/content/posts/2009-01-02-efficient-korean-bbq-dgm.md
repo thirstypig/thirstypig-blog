@@ -24,6 +24,7 @@ city: Los Angeles
 region: Los Angeles
 cuisine:
 - Korean
+placeId: "0x80c2c775229ecf61:0x201aa135e7929784"
 ---
 
 DGM is a no nonsense Korean BBQ. With stools and small round tables with grills. They really pack this place with people and tables. Their meat is fresh and sliced thinly. The grills cook fast. Though you will walk out smelly, this casual Korean BBQ is great. Get their early since there will be lines.

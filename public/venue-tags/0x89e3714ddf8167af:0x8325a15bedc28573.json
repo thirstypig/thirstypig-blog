@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89e3714ddf8167af:0x8325a15bedc28573",
+  "venue_name": "Shanghai Moon 1987",
+  "chips": [
+    {
+      "label": "chicken fingers",
+      "mention_count": 6
+    },
+    {
+      "label": "crab rangoons",
+      "mention_count": 6
+    },
+    {
+      "label": "egg rolls",
+      "mention_count": 9
+    },
+    {
+      "label": "karaoke",
+      "mention_count": 7
+    },
+    {
+      "label": "chicken lo mein",
+      "mention_count": 3
+    },
+    {
+      "label": "sushi",
+      "mention_count": 26
+    },
+    {
+      "label": "roast pork lo mein",
+      "mention_count": 2
+    },
+    {
+      "label": "boneless spareribs",
+      "mention_count": 2
+    },
+    {
+      "label": "scorpion bowl",
+      "mention_count": 2
+    },
+    {
+      "label": "beef teriyaki",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:12Z",
+  "city": "Shanghai",
+  "key": "old-shanghai-moon-restaurant-shanghai"
+}

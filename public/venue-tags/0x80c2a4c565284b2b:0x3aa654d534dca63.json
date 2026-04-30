@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2a4c565284b2b:0x3aa654d534dca63",
+  "venue_name": "Farmers Market",
+  "chips": [
+    {
+      "label": "organic produce",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh fruits",
+      "mention_count": 7
+    },
+    {
+      "label": "social distancing",
+      "mention_count": 3
+    },
+    {
+      "label": "vendors",
+      "mention_count": 4
+    },
+    {
+      "label": "dates",
+      "mention_count": 2
+    },
+    {
+      "label": "volunteers",
+      "mention_count": 2
+    },
+    {
+      "label": "flowers",
+      "mention_count": 2
+    },
+    {
+      "label": "sanitizers",
+      "mention_count": 2
+    },
+    {
+      "label": "berries",
+      "mention_count": 2
+    },
+    {
+      "label": "variety",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:19:07Z",
+  "city": "Santa Monica",
+  "key": "santa-monica-farmers-market-santa-moni"
+}

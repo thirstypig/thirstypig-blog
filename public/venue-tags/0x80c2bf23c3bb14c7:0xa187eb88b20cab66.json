@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf23c3bb14c7:0xa187eb88b20cab66",
+  "venue_name": "Johnny Rockets",
+  "chips": [
+    {
+      "label": "shakes",
+      "mention_count": 103
+    },
+    {
+      "label": "chicken tenders",
+      "mention_count": 10
+    },
+    {
+      "label": "vegan milkshake",
+      "mention_count": 4
+    },
+    {
+      "label": "Philly Cheese Steak",
+      "mention_count": 6
+    },
+    {
+      "label": "bacon cheese fries",
+      "mention_count": 4
+    },
+    {
+      "label": "vanilla shake",
+      "mention_count": 5
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 10
+    },
+    {
+      "label": "50s theme",
+      "mention_count": 2
+    },
+    {
+      "label": "smoked burger",
+      "mention_count": 2
+    },
+    {
+      "label": "oreo shake",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:18:46Z",
+  "city": "Los Angeles",
+  "key": "johnny-rockets-los-angele"
+}

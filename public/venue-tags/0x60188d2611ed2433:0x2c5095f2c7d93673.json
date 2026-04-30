@@ -1,0 +1,49 @@
+{
+  "place_id": "0x60188d2611ed2433:0x2c5095f2c7d93673",
+  "venue_name": "Korean Kitchen Macchan",
+  "chips": [
+    {
+      "label": "samgyeopsal",
+      "mention_count": 95
+    },
+    {
+      "label": "chijimi",
+      "mention_count": 41
+    },
+    {
+      "label": "table seating",
+      "mention_count": 13
+    },
+    {
+      "label": "thick-cut samgyeopsal",
+      "mention_count": 15
+    },
+    {
+      "label": "all-you-can-drink soft drinks",
+      "mention_count": 19
+    },
+    {
+      "label": "japchae",
+      "mention_count": 30
+    },
+    {
+      "label": "cheese dakgalbi",
+      "mention_count": 3
+    },
+    {
+      "label": "all-you-can-eat",
+      "mention_count": 8
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 9
+    },
+    {
+      "label": "sundubu jjigae",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:25Z",
+  "city": "Tokyo",
+  "key": "味ちゃん-1号店-tokyo"
+}

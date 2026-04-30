@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442ab84237815fb:0xdd034f0ca4142958",
+  "venue_name": "Teishoku 8 Carrefour Neihu Store",
+  "chips": [
+    {
+      "label": "chawanmushi",
+      "mention_count": 30
+    },
+    {
+      "label": "all-you-can-eat",
+      "mention_count": 23
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 67
+    },
+    {
+      "label": "fried shrimp tempura",
+      "mention_count": 13
+    },
+    {
+      "label": "teishoku 8",
+      "mention_count": 28
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 10
+    },
+    {
+      "label": "pork chop",
+      "mention_count": 39
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 21
+    },
+    {
+      "label": "six-item fisherman's bowl",
+      "mention_count": 4
+    },
+    {
+      "label": "eel rice",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:47Z",
+  "city": "Taipei",
+  "key": "定食8-taipei"
+}

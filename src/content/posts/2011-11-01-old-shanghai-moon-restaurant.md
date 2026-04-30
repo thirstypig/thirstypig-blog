@@ -43,6 +43,7 @@ tags:
 - shanghainese
 cuisine:
 - Chinese
+placeId: "0x89e3714ddf8167af:0x8325a15bedc28573"
 ---
 
 Located in the historic JinJiang Hotel 錦江飯店, the Old Shanghai Moon Restaurant 老夜上海餐廳 is restaurant imagined as if we were dining during the colonial 1930′s. The ambiance is mesh of the classic western European furnishings with the noticeable accents of traditional Chinese artwork.

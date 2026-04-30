@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c50054aeb473:0x7ec4c6bc1591eb09",
+  "venue_name": "Must Have Coffee",
+  "chips": [
+    {
+      "label": "matcha",
+      "mention_count": 29
+    },
+    {
+      "label": "unique matcha flavors",
+      "mention_count": 4
+    },
+    {
+      "label": "lattes",
+      "mention_count": 12
+    },
+    {
+      "label": "banana matcha",
+      "mention_count": 3
+    },
+    {
+      "label": "waffles",
+      "mention_count": 5
+    },
+    {
+      "label": "pandan matcha",
+      "mention_count": 2
+    },
+    {
+      "label": "strawberry yakult matcha",
+      "mention_count": 2
+    },
+    {
+      "label": "hojicha latte",
+      "mention_count": 2
+    },
+    {
+      "label": "black sesame creme combo",
+      "mention_count": 2
+    },
+    {
+      "label": "kiosk ordering",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:07Z",
+  "city": "Sgv",
+  "key": "hot-stuff-cafe-sgv"
+}

@@ -28,6 +28,7 @@ address: '136 Alley
   Roosevelt Road'
 cuisine:
 - Mexican
+placeId: "0x3442a99ee973e64d:0xec381b3dd9311a12"
 ---
 
 One of the toughest cuisines to find is Mexican food. I take that back, there’s actually a few. I hear there’s one in Tienmu, maybe a couple in Taipei, and even on in Dansuei. I’ve been coming to Taipei, on a yearly basis and never had the urge to try Mexican food. Yet, when I return from Asia, one of the first things I do is head to a hole-in-the-wall Mexican restaurant. Often times, King Taco will suffice, just nicely.

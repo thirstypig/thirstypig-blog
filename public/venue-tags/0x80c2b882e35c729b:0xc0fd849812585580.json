@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b882e35c729b:0xc0fd849812585580",
+  "venue_name": "Bonjuk",
+  "chips": [
+    {
+      "label": "porridge",
+      "mention_count": 50
+    },
+    {
+      "label": "banchan",
+      "mention_count": 5
+    },
+    {
+      "label": "abalone porridge",
+      "mention_count": 3
+    },
+    {
+      "label": "dongchimi broth",
+      "mention_count": 2
+    },
+    {
+      "label": "rice porridge",
+      "mention_count": 2
+    },
+    {
+      "label": "seafood porridge",
+      "mention_count": 2
+    },
+    {
+      "label": "veggies porridge",
+      "mention_count": 2
+    },
+    {
+      "label": "radish",
+      "mention_count": 2
+    },
+    {
+      "label": "mushrooms",
+      "mention_count": 8
+    },
+    {
+      "label": "new location",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:46Z",
+  "city": "Koreatown",
+  "key": "abalone-congee-koreatown"
+}

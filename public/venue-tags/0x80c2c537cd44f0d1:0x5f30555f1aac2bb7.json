@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c537cd44f0d1:0x5f30555f1aac2bb7",
+  "venue_name": "Savoy Kitchen",
+  "chips": [
+    {
+      "label": "hainan chicken",
+      "mention_count": 426
+    },
+    {
+      "label": "cash only",
+      "mention_count": 50
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 37
+    },
+    {
+      "label": "ginger sauce",
+      "mention_count": 19
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "Escargot",
+      "mention_count": 18
+    },
+    {
+      "label": "curry",
+      "mention_count": 64
+    },
+    {
+      "label": "Curry Beef Stew",
+      "mention_count": 7
+    },
+    {
+      "label": "dark meat",
+      "mention_count": 19
+    },
+    {
+      "label": "dipping sauces",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-04-30T00:15:08Z",
+  "city": "Hong Kong",
+  "key": "worlds-best-海南雞飯-hainan-chicken-ric-hong-kong"
+}

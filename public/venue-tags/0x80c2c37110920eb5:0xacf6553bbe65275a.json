@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c37110920eb5:0xacf6553bbe65275a",
+  "venue_name": "The Dog Bakery - Fresh Baked Treats & Dog Birthday Cakes",
+  "chips": [
+    {
+      "label": "dog treats",
+      "mention_count": 18
+    },
+    {
+      "label": "dog cakes",
+      "mention_count": 11
+    },
+    {
+      "label": "peanut butter treats",
+      "mention_count": 5
+    },
+    {
+      "label": "accessories pack",
+      "mention_count": 3
+    },
+    {
+      "label": "party supplies",
+      "mention_count": 3
+    },
+    {
+      "label": "cat stuff",
+      "mention_count": 2
+    },
+    {
+      "label": "cute items",
+      "mention_count": 2
+    },
+    {
+      "label": "healthy treats",
+      "mention_count": 2
+    },
+    {
+      "label": "pupcakes",
+      "mention_count": 3
+    },
+    {
+      "label": "dog birthday cake",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:18:41Z",
+  "city": "Pasadena",
+  "key": "the-dog-bakery-fresh-baked-treats-d-pasadena"
+}

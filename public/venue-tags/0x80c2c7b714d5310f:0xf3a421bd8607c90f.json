@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b714d5310f:0xf3a421bd8607c90f",
+  "venue_name": "The Original Pantry Cafe",
+  "chips": [
+    {
+      "label": "sourdough bread",
+      "mention_count": 172
+    },
+    {
+      "label": "cash only",
+      "mention_count": 92
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 75
+    },
+    {
+      "label": "coleslaw",
+      "mention_count": 111
+    },
+    {
+      "label": "portions",
+      "mention_count": 225
+    },
+    {
+      "label": "hashbrowns",
+      "mention_count": 48
+    },
+    {
+      "label": "pancakes",
+      "mention_count": 163
+    },
+    {
+      "label": "long lines",
+      "mention_count": 109
+    },
+    {
+      "label": "biscuits and gravy",
+      "mention_count": 30
+    },
+    {
+      "label": "chicken fried steak",
+      "mention_count": 21
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:36Z",
+  "city": "Downtown LA",
+  "key": "pantry-downtown-l"
+}

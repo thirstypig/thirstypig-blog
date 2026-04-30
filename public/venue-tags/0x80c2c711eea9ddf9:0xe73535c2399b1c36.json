@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c711eea9ddf9:0xe73535c2399b1c36",
+  "venue_name": "Intercrew",
+  "chips": [
+    {
+      "label": "live music",
+      "mention_count": 11
+    },
+    {
+      "label": "wagyu bolognese",
+      "mention_count": 13
+    },
+    {
+      "label": "chandelier",
+      "mention_count": 7
+    },
+    {
+      "label": "hamachi crudo",
+      "mention_count": 2
+    },
+    {
+      "label": "food presentation",
+      "mention_count": 6
+    },
+    {
+      "label": "burrata toast",
+      "mention_count": 4
+    },
+    {
+      "label": "goatcheese cheescake",
+      "mention_count": 3
+    },
+    {
+      "label": "glamorous venue",
+      "mention_count": 2
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 8
+    },
+    {
+      "label": "duck bao buns",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:26Z",
+  "city": "Los Angeles",
+  "key": "the-drunken-cure-los-angele"
+}

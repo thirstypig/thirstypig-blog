@@ -26,6 +26,7 @@ coordinates:
   lng: 121.461994
 cuisine:
 - Chinese
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 ![Had a burger today](/images/posts/ig-2024-04-14-had-a-burger-today/18024204629101913.jpg)

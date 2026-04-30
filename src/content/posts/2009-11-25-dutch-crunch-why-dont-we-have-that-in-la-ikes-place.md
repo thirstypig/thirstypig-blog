@@ -27,6 +27,7 @@ city: San Francisco
 region: San Francisco
 cuisine:
 - American
+placeId: "0x80858083ba147b83:0x7f293054a3647a6"
 ---
 
 Ike’s Place in San Francisco is a local sandwich place that has a bread called Dutch Crunch. Dutch Crunch is a type of sourdough that a bit crunchy, yet not too hard, that is only found in SF. I really wish we had it here in LA.

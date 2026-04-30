@@ -39,6 +39,7 @@ coordinates:
   lng: -118.239152
 cuisine:
 - Japanese
+placeId: "0x80c2c638714c1d43:0xe4d682ad07de14b0"
 ---
 
 Shin-Sen-Gumi Hakata Ramen - Little Tokyo in Los Angeles.

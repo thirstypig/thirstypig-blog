@@ -27,6 +27,7 @@ coordinates:
   lng: 121.461994
 cuisine:
 - Chinese
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 I first heard about this restaurant a few weeks ago on the Podcast – Good Food with Evan Kleiman. She was actually doing her weekly segment with Jonathan Gold. Jonathan Gold is the Pulitzer Prize winning food critic for LA Weekly. So, anything he says and write is “Gold!” Anyways. . .

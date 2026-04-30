@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b93324ee6203:0x4ae37216188510ba",
+  "venue_name": "Jon & Vinny's Fairfax",
+  "chips": [
+    {
+      "label": "gem salad",
+      "mention_count": 39
+    },
+    {
+      "label": "Spicy Fusilli Vodka Basil Parmesan",
+      "mention_count": 14
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 8
+    },
+    {
+      "label": "corn agnolotti",
+      "mention_count": 6
+    },
+    {
+      "label": "avocado toast",
+      "mention_count": 9
+    },
+    {
+      "label": "soft serve ice cream",
+      "mention_count": 5
+    },
+    {
+      "label": "spaghetti limone",
+      "mention_count": 6
+    },
+    {
+      "label": "rigatoni bolognese",
+      "mention_count": 5
+    },
+    {
+      "label": "meatballs",
+      "mention_count": 70
+    },
+    {
+      "label": "cavatelli",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:44Z",
+  "city": "Los Angeles",
+  "key": "animal-la"
+}

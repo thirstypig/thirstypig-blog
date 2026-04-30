@@ -31,6 +31,7 @@ coordinates:
   lng: 121.455385
 cuisine:
 - Chinese
+placeId: "0x35b27aacc8ab837d:0x8a032bc3d12fb567"
 ---
 
 There are those that would argue that steamed pork dumplings, from a variety of different places, are best dumplings in Shanghai. But the pan fried pork dumplings from Little Yang’s might have something to say.

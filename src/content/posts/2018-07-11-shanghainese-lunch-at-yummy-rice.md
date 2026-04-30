@@ -30,6 +30,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2b9abac0fff13:0x8e4fc8692afa5ef2"
 ---
 
 ![Shanghainese lunch at Yummy Rice](/images/posts/ig-2018-07-11-shanghainese-lunch-at-yummy-rice/17930972353153197.jpg)

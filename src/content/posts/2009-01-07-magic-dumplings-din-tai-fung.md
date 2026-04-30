@@ -27,6 +27,7 @@ address: '1108 S. Baldwin Ave.
   Arcadia, CA 91007'
 cuisine:
 - Chinese
+placeId: "0x80c2dba4bc029da7:0x9509d583d37e5ed6"
 ---
 
 Steamed Pork Dumplings (known as Shaio Long Bao or Xiao Long Bao) is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve had steamed dumplings in Taipei, Hong Kong, the US, and even Shanghai. Though, arguably, people will say the original Din Tai Fung, in Taipei has the best. Everything here is made fresh and never frozen. You can see all the dumplings being made from the large glass window in the front. Anyways. . .

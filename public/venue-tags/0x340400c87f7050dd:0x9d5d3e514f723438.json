@@ -1,0 +1,49 @@
+{
+  "place_id": "0x340400c87f7050dd:0x9d5d3e514f723438",
+  "venue_name": "Dim Dim Sum Mong Kok",
+  "chips": [
+    {
+      "label": "har gow",
+      "mention_count": 123
+    },
+    {
+      "label": "xiao long bao",
+      "mention_count": 101
+    },
+    {
+      "label": "custard buns",
+      "mention_count": 56
+    },
+    {
+      "label": "eggplant dim sum",
+      "mention_count": 43
+    },
+    {
+      "label": "pineapple buns",
+      "mention_count": 34
+    },
+    {
+      "label": "siew mai",
+      "mention_count": 40
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 31
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 43
+    },
+    {
+      "label": "chili dim sum",
+      "mention_count": 19
+    },
+    {
+      "label": "cash only",
+      "mention_count": 26
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:07Z",
+  "city": "Hong Kong",
+  "key": "dimdimsum-dim-sum-specialty-store-點-hong-kong"
+}

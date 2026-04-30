@@ -32,6 +32,7 @@ coordinates:
   lng: -118.253671
 cuisine:
 - Italian
+placeId: "0x80c2c7b3cf51593d:0x33dbbf8578eb16fa"
 ---
 
 Drago Centro is featured in dineLA’s Restaurant Week 2010. Check out their [menu](http://discoverlosangeles.com/play/dining/restaurantweek/aapartdetail.jsp?id=31445) during their promotion. Unfortunately, I didn’t get to try their dineLA menu.

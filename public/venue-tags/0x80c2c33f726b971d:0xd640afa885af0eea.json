@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c33f726b971d:0xd640afa885af0eea",
+  "venue_name": "Pulpit Cupcakes Polkatots Cupcakes",
+  "chips": [
+    {
+      "label": "mini cupcakes",
+      "mention_count": 3
+    },
+    {
+      "label": "simple ordering",
+      "mention_count": 2
+    },
+    {
+      "label": "understanding staff",
+      "mention_count": 2
+    },
+    {
+      "label": "decorations",
+      "mention_count": 2
+    },
+    {
+      "label": "birthday cake",
+      "mention_count": 2
+    },
+    {
+      "label": "flavor",
+      "mention_count": 3
+    },
+    {
+      "label": "delivered",
+      "mention_count": 2
+    },
+    {
+      "label": "regular cupcakes",
+      "mention_count": 3
+    },
+    {
+      "label": "owner",
+      "mention_count": 2
+    },
+    {
+      "label": "door",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:25Z",
+  "city": "Pasadena",
+  "key": "polkatots-pasadena"
+}

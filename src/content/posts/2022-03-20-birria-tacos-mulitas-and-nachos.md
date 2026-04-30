@@ -28,6 +28,7 @@ coordinates:
   lng: -118.238456
 cuisine:
 - Mexican
+placeId: "0x80c2c3eb0240144d:0xb85fa85974b60789"
 ---
 
 ![Birria Tacos, mulitas, and nachos](/images/posts/ig-2022-03-20-birria-tacos-mulitas-and-nachos/18284177200025381.jpg)

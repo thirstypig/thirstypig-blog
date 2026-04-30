@@ -27,6 +27,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c3eb0240144d:0xb85fa85974b60789"
 ---
 
 ![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/17906031595344082.jpg)

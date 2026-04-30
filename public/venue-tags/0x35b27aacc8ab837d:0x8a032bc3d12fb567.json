@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b27aacc8ab837d:0x8a032bc3d12fb567",
+  "venue_name": "Little Catch",
+  "chips": [
+    {
+      "label": "poke",
+      "mention_count": 4
+    },
+    {
+      "label": "fish",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:56Z",
+  "city": "Shanghai",
+  "key": "little-catch-shanghai"
+}

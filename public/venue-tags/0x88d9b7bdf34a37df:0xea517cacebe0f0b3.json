@@ -1,0 +1,49 @@
+{
+  "place_id": "0x88d9b7bdf34a37df:0xea517cacebe0f0b3",
+  "venue_name": "Mi Tierra Bar & Kitchen",
+  "chips": [
+    {
+      "label": "mofongo",
+      "mention_count": 214
+    },
+    {
+      "label": "dominican food",
+      "mention_count": 135
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 25
+    },
+    {
+      "label": "chicharrón de pollo",
+      "mention_count": 42
+    },
+    {
+      "label": "churrasco",
+      "mention_count": 68
+    },
+    {
+      "label": "empanadas",
+      "mention_count": 54
+    },
+    {
+      "label": "sancocho",
+      "mention_count": 26
+    },
+    {
+      "label": "picadera",
+      "mention_count": 24
+    },
+    {
+      "label": "quipes",
+      "mention_count": 12
+    },
+    {
+      "label": "tostones",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:18Z",
+  "city": "Shanghai",
+  "key": "mi-tierra-shanghai"
+}

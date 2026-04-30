@@ -32,6 +32,7 @@ coordinates:
   lng: 121.546908
 cuisine:
 - Taiwanese
+placeId: "0x3442a945418ca96d:0xf68fcf3305a75588"
 ---
 
 ![Taiwanese street food -](/images/posts/ig-2017-09-13-taiwanese-street-food/17873207422186876.jpg)

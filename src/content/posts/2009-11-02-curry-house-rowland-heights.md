@@ -27,6 +27,7 @@ region: San Gabriel Valley
 address: 17865 Colima Rd Rowland Heights, CA 91748
 cuisine:
 - Japanese
+placeId: "0x80c2db8be938fb59:0x41f38fe48a1d769e"
 ---
 
 [![IMG_0988](/images/posts/curry-house-rowland-heights/IMG_0987.jpg "IMG_0988")](http://thirstypig.com/2009/11/02/curry-house-rowland-heights/img_0988-2/)

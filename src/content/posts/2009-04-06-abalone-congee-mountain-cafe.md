@@ -24,6 +24,7 @@ tags:
 - abalone
 cuisine:
 - Korean
+placeId: "0x80c2b882e35c729b:0xc0fd849812585580"
 ---
 
 Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.

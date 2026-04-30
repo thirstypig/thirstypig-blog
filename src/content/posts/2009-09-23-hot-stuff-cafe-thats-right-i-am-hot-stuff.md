@@ -30,6 +30,7 @@ coordinates:
   lng: -118.124145
 cuisine:
 - Chinese
+placeId: "0x80c2c550a81662e1:0x967bbca955c471f4"
 ---
 
 I’m always on the look out for places that surprise me. Hot Stuff Cafe, with one of the more interesting names, surprises me in more ways than one.

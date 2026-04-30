@@ -1,0 +1,49 @@
+{
+  "place_id": "0x7c006d80bd91132f:0x86433c7732eea4f5",
+  "venue_name": "Tenkaippin Hawaii",
+  "chips": [
+    {
+      "label": "tonkotsu broth",
+      "mention_count": 16
+    },
+    {
+      "label": "spicy mix",
+      "mention_count": 26
+    },
+    {
+      "label": "kotteri ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "karaage chicken",
+      "mention_count": 4
+    },
+    {
+      "label": "garlic butter oyster",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy miso beef tendon",
+      "mention_count": 2
+    },
+    {
+      "label": "black tonkotsu ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "light rich ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "tenkaippin",
+      "mention_count": 2
+    },
+    {
+      "label": "authentic ramen",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:18:36Z",
+  "city": "Honolulu",
+  "key": "tenkaiipin-honolulu"
+}

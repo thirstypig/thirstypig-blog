@@ -31,6 +31,7 @@ coordinates:
   lng: -118.303099
 cuisine:
 - Korean
+placeId: "0x80c2b88165a4f30f:0x5d9512c3a8cea197"
 ---
 
 I’ve been asked to write a little about this place. So, here it goes. . .

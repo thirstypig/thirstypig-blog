@@ -31,6 +31,7 @@ coordinates:
   lng: -118.26098
 cuisine:
 - Peruvian
+placeId: "0x80c2c77a4ea6cb59:0x4e85997cb100e54f"
 ---
 
 Tucked away in a food court, blocks away from USC, lives peruvian cuisine at its finest. I recently joined a newly formed monthly dining group that choose Mo-Chica for its first event. I didn’t remember Mo-Chica’s offering much from the Project by Project event, unfortunately either. All I was told, that we were going to a latin style restaurant near USC. Thus I was thinking hole-in-the-wall and something Mexican.

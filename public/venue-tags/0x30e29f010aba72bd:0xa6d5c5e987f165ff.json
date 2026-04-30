@@ -1,0 +1,49 @@
+{
+  "place_id": "0x30e29f010aba72bd:0xa6d5c5e987f165ff",
+  "venue_name": "BANKARA Ramen Sukhumvit 39",
+  "chips": [
+    {
+      "label": "kakuni",
+      "mention_count": 72
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 56
+    },
+    {
+      "label": "restaurant atmosphere",
+      "mention_count": 65
+    },
+    {
+      "label": "chashu pork",
+      "mention_count": 38
+    },
+    {
+      "label": "pork bone soup",
+      "mention_count": 47
+    },
+    {
+      "label": "gyoza",
+      "mention_count": 37
+    },
+    {
+      "label": "less oily",
+      "mention_count": 87
+    },
+    {
+      "label": "shina soba",
+      "mention_count": 5
+    },
+    {
+      "label": "large bowl",
+      "mention_count": 63
+    },
+    {
+      "label": "siam paragon",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:00Z",
+  "city": "Bangkok",
+  "key": "bankara-ramen-บงคาระ-ราเมง-bangkok"
+}

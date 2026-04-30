@@ -94,10 +94,25 @@ async () => {
 
   const tabs = Array.from(document.querySelectorAll('[role="tab"]'))
     .map(t => t.getAttribute('aria-label') || t.textContent || '');
-  // Match either Google's data-param format (`!1s<hex>:<hex>`, embedded in
-  // /maps/place/Foo/data=!4m...!1s0x...:0x...) or the cleaner ftid query
-  // param we use directly (?ftid=0x...:0x...).
-  const placeIdMatch = location.href.match(/(?:!1s|ftid=)(0x[0-9a-f]+:0x[0-9a-f]+)/);
+  // FID hex pair extraction. Three search surfaces in priority order:
+  //   1. location.href — present when navigated via ?ftid= or after a /maps/place/Name/data=…!1s redirect.
+  //   2. Anchor hrefs — present in URL-encoded form (`1s0x…%3A0x…`) inside the sign-in continuation
+  //      link, which Maps renders even when the page URL stays at ?cid=N. This is the path that
+  //      makes cid-driven scrapes self-healing.
+  //   3. Anywhere in document HTML — last resort.
+  const fidPattern = /(?:!1s|ftid=)(0x[0-9a-f]+:0x[0-9a-f]+)/;
+  const fidEncPattern = /[!1]?1s(0x[0-9a-f]+)%3A(0x[0-9a-f]+)/i;
+  let placeIdMatch = location.href.match(fidPattern);
+  if (!placeIdMatch) {
+    for (const a of document.querySelectorAll('a[href*="1s0x"]')) {
+      const m = (a.getAttribute('href') || '').match(fidEncPattern);
+      if (m) { placeIdMatch = [m[0], `${m[1]}:${m[2]}`]; break; }
+    }
+  }
+  if (!placeIdMatch) {
+    const m = (document.documentElement.outerHTML || '').match(fidPattern);
+    if (m) placeIdMatch = m;
+  }
 
   return {
     final_url: location.href,
@@ -153,6 +168,14 @@ def scrape_venue(
     log(f"  → {url}")
     page.goto(url, wait_until="domcontentloaded")
     page.wait_for_timeout(2500)
+    # cid loads need extra time for Maps to rewrite the URL into the
+    # /maps/place/Name/data=…!1s0x…:0x… form that contains the FID hex.
+    # Without this, FID extraction silently falls back to None.
+    if cid and not place_id:
+        try:
+            page.wait_for_url("**/maps/place/**/data=**", timeout=5000)
+        except Exception:
+            page.wait_for_timeout(2000)
 
     # ?q= flow may have landed on a /maps/search/ results list. Navigate to
     # the first result's href directly (page.goto, not click — Maps' SPA
