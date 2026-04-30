@@ -1262,13 +1262,6 @@ Arcadia, CA 91007"
   cid: "9660625225263927086"
 
 # === Batch 7: 100 single-post candidates (2026-04-29) ===
-- key: garvey-garage-door-repair-monterey-p
-  name: "Garvey Garage Door Repair"
-  city: "Monterey Park"
-  query: "Garvey Garage Door Repair 107 East Garvey Avenue, Monterey Park, CA 91755"
-  place_id: "0x80c2dbb017406cdd:0xe61600284d290ef9"
-  cid: "16579439251304287993"
-
 # [1 posts]
 - key: liangs-kitchen-arcadia
   name: "Liang's Kitchen"

@@ -30,7 +30,6 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
-placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
 ![Taiwanese lunch at Pine & Crane in DTLA](/images/posts/ig-2022-08-25-taiwanese-lunch-at-pine-crane-in-dtla/17976028573655423.jpg)
