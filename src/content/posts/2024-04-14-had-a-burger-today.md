@@ -1,31 +1,31 @@
 ---
-title: A Niang Noodles (阿娘面), Shanghai
-pubDate: '2024-04-14'
+title: 'Rou Jia Mo 肉夾饃, Shanghai'
+pubDate: 2024-04-14T00:00:00.000Z
+description: 'Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. These are great. Shaanxi cuisine. Typically lamb is used. But you can find chicken, pork, or beef. The meat is stir fried with seasonings and inserted in a flaky bun. . . .'
 author: The Thirsty Pig
-source: instagram
-draft: false
 heroImage: /images/posts/ig-2024-04-14-had-a-burger-today/18024204629101913.jpg
-images:
-- /images/posts/ig-2024-04-14-had-a-burger-today/18024204629101913.jpg
-- /images/posts/ig-2024-04-14-had-a-burger-today/18425047291013796.jpg
-- /images/posts/ig-2024-04-14-had-a-burger-today/18121319602358041.jpg
+categories:
+  - Chinese
 tags:
-- shanghai
-- chinese
-- rou-jia-mo
-- sandwiches
-description: Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. These are great. Shaanxi cuisine. Typically lamb is used. But you can find chicken, pork, or beef. The meat is stir fried with seasonings and inserted in a flaky bun. . . .
+  - shanghai
+  - chinese
+  - rou-jia-mo
+  - sandwiches
+cuisine:
+  - Chinese
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
-categories:
-- Chinese
-address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
+address: '思南路36号 (近南昌路), Huangpu, 上海市, 200020'
 coordinates:
   lat: 31.219744
   lng: 121.461994
-cuisine:
-- Chinese
+images:
+  - /images/posts/ig-2024-04-14-had-a-burger-today/18024204629101913.jpg
+  - /images/posts/ig-2024-04-14-had-a-burger-today/18425047291013796.jpg
+  - /images/posts/ig-2024-04-14-had-a-burger-today/18121319602358041.jpg
+source: instagram
+draft: false
 placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
@@ -39,4 +39,4 @@ Had a burger today. A Chinese burger - black pepper beef Rou Jia Mo 肉夾饃. T
 .
 .
 .
-#shanghaieats #shanghai #roujiamo #肉夾饃 @thirstypig @tastemakersapp @ilovebreakfastburritos
+\#shanghaieats #shanghai #roujiamo #肉夾饃 @thirstypig @tastemakersapp @ilovebreakfastburritos

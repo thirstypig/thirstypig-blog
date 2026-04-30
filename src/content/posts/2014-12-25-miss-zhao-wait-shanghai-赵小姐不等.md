@@ -1,28 +1,28 @@
 ---
-title: A Niang Noodles, Shanghai
-pubDate: '2014-12-25'
+title: '赵小姐不等位, Miss Zhao Does Does Not Wait for a Seat, Shanghai'
+pubDate: 2014-12-25T00:00:00.000Z
+description: '赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish. If you haven’t guesse'
 author: The Thirsty Pig
-source: thirstypig.com
-originalUrl: http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
 categories:
-- Fusion
+  - Fusion
 tags:
-- shanghai
-- fusion
-- noodles
-- seafood
-description: 赵小姐不等位, translated to Miss Zhao Does Does Not Wait for a Seat, the name of the restaurant, is Chinese restaurant specializing in Japanese influenced seafood, featuring shellfish. If you haven’t guesse
-archiveUrl: https://web.archive.org/web/20160523080922/http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/
-draft: true
+  - shanghai
+  - fusion
+  - noodles
+  - seafood
+cuisine:
+  - Fusion
 location: A Niang Noodles (阿娘面)
 city: Shanghai
 region: Shanghai
-address: 思南路36号 (近南昌路), Huangpu, 上海市, 200020
+address: '思南路36号 (近南昌路), Huangpu, 上海市, 200020'
 coordinates:
   lat: 31.219744
   lng: 121.461994
-cuisine:
-- Fusion
+originalUrl: 'http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/'
+archiveUrl: 'https://web.archive.org/web/20160523080922/http://thirstypig.com:80/2014/12/25/miss-zhao-wait-shanghai-%E8%B5%B5%E5%B0%8F%E5%A7%90%E4%B8%8D%E7%AD%89/'
+source: thirstypig.com
+draft: true
 placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 

@@ -1,30 +1,33 @@
 ---
-title: Abalone Congee, Koreatown
-pubDate: '2009-04-06'
+title: 'Mountain San BBQ, Koreatown'
+pubDate: 2009-04-06T00:00:00.000Z
+description: 'Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/
 heroImage: /images/posts/abalone-congee-mountain-cafe/mountain+cafe+1.jpg
-images:
-- /images/posts/abalone-congee-mountain-cafe/mountain+cafe+1.jpg
-- /images/posts/abalone-congee-mountain-cafe/mountain+cafe+2.jpg
-- /images/posts/abalone-congee-mountain-cafe/mountain+cafe+4.jpg
 categories:
-- Korean
-description: Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.
-archiveUrl: https://web.archive.org/web/20110105162822/http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/
-draft: false
-location: Abalone Congee
-city: Koreatown
-region: Los Angeles
+  - Korean
 tags:
-- koreatown
-- korean
-- congee
-- abalone
+  - koreatown
+  - korean
+  - congee
+  - abalone
 cuisine:
-- Korean
-placeId: "0x80c2b882e35c729b:0xc0fd849812585580"
+  - Korean
+location: Mountain San BBQ
+city: Los Angeles
+region: CA
+address: '928 S Western Ave fl 3, Los Angeles, CA 90006, USA'
+coordinates:
+  lat: 34.0551603
+  lng: -118.30838609999999
+images:
+  - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+1.jpg
+  - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+2.jpg
+  - /images/posts/abalone-congee-mountain-cafe/mountain+cafe+4.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/'
+archiveUrl: 'https://web.archive.org/web/20110105162822/http://www.thethirstypig.com/2009/04/06/abalone-congee-mountain-cafe/'
+source: thethirstypig.com
+draft: false
 ---
 
 Porridge or congee is one of the best things to have when you are drunk, hung over, or sick. This bland, stomach filling meal is perfect to sooth that the body that you put it through.

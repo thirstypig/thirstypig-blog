@@ -1,24 +1,24 @@
 ---
-title: 장독대김치찌개, Unknown
-pubDate: '2011-01-28'
+title: '장독대김치찌개, Seoul'
+pubDate: 2011-01-28T00:00:00.000Z
+description: '.http://www.addtoany.com/sharesave'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb%b6%80%eb%8c%80%ec%a0%84%ea%b3%a8-at-%ec%9e%a5%eb%8f%85%eb%8c%80%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c/
 heroImage: /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
-images:
-- /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
 categories:
-- Korean
+  - Korean
 tags:
-- korean
-- budaejeongol
-- hot-pot
-description: .http://www.addtoany.com/sharesave
-archiveUrl: https://web.archive.org/web/20111103150546/http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb%b6%80%eb%8c%80%ec%a0%84%ea%b3%a8-at-%ec%9e%a5%eb%8f%85%eb%8c%80%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c/
-draft: false
-location: Late Night Budaejeongol 부대전골 at 장독대김치찌개
+  - korean
+  - budaejeongol
+  - hot-pot
 cuisine:
-- Korean
+  - Korean
+location: Late Night Budaejeongol 부대전골 at 장독대김치찌개
+images:
+  - /images/posts/late-night-budaejeongol-부대전골-at-장독대김치찌개/Late-Night-Dining-Seoul-07-88x88.jpg
+originalUrl: 'http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb%b6%80%eb%8c%80%ec%a0%84%ea%b3%a8-at-%ec%9e%a5%eb%8f%85%eb%8c%80%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c/'
+archiveUrl: 'https://web.archive.org/web/20111103150546/http://www.thethirstypig.com/2011/01/28/late-night-budaejeongol-%eb%b6%80%eb%8c%80%ec%a0%84%ea%b3%a8-at-%ec%9e%a5%eb%8f%85%eb%8c%80%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c/'
+source: thethirstypig.com
+draft: false
 ---
 
 [.](http://www.addtoany.com/share_save)
