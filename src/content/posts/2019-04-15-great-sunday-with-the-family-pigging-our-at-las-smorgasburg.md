@@ -32,6 +32,7 @@ categories:
 - Multi
 cuisine:
 - Multi
+placeId: "0x80c2c62f7b047c81:0x65fba4816d4a10de"
 ---
 
 ![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17937880822302179.jpg)

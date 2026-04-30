@@ -1,0 +1,21 @@
+{
+  "place_id": "0x80c2b9002841a967:0xccc3c49414167d1a",
+  "venue_name": "Rockwell Lounge",
+  "chips": [
+    {
+      "label": "vibe",
+      "mention_count": 3
+    },
+    {
+      "label": "drinks",
+      "mention_count": 3
+    },
+    {
+      "label": "party",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:23Z",
+  "city": "Los Feliz",
+  "key": "rockwell-los-feliz"
+}

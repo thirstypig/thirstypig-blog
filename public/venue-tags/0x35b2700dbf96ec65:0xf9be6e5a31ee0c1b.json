@@ -1,0 +1,33 @@
+{
+  "place_id": "0x35b2700dbf96ec65:0xf9be6e5a31ee0c1b",
+  "venue_name": "Found 158 West Gate",
+  "chips": [
+    {
+      "label": "night life",
+      "mention_count": 5
+    },
+    {
+      "label": "cool place",
+      "mention_count": 2
+    },
+    {
+      "label": "clubs",
+      "mention_count": 2
+    },
+    {
+      "label": "staff",
+      "mention_count": 2
+    },
+    {
+      "label": "bar",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:12:45Z",
+  "city": "Shanghai",
+  "key": "datong-mill-aka-found-158-大同坊-158坊-shanghai"
+}

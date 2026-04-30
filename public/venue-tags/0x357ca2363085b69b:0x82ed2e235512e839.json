@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357ca2363085b69b:0x82ed2e235512e839",
+  "venue_name": "Linus BBQ",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 82
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 31
+    },
+    {
+      "label": "spacious seating",
+      "mention_count": 5
+    },
+    {
+      "label": "Mac N Cheese Ballls",
+      "mention_count": 14
+    },
+    {
+      "label": "gravy sauce",
+      "mention_count": 10
+    },
+    {
+      "label": "Onion Rings Fried Pickles Mac N Cheese Balls",
+      "mention_count": 9
+    },
+    {
+      "label": "barbecue",
+      "mention_count": 42
+    },
+    {
+      "label": "original platter",
+      "mention_count": 5
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 5
+    },
+    {
+      "label": "baked beans",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T06:01:07Z",
+  "city": "Seoul",
+  "key": "linus-bbq-라이너스-바베큐-seoul"
+}

@@ -28,6 +28,7 @@ coordinates:
   lng: -118.36316
 cuisine:
 - Colombian
+placeId: "0x80c2bec5db69a725:0x92a9619f3620efe1"
 ---
 
 Cha Cha Cha is a long time Los Angeles favorite. Not just for Latin Star – like Jimmy Smit, but all Angelenos alike. Cha Cha Cha is a Tapas restaurant specializing in Carribean fare. Tapas is a type of cuisine of little dishes, sort of like appetizers. Food is great with wine or Sangria.

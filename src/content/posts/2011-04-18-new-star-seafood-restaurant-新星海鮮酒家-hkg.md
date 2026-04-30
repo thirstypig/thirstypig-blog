@@ -25,6 +25,7 @@ address: 33 Kwong Wa St
 city: Hong Kong
 cuisine:
 - Chinese
+placeId: "0x80c2dab740e88fcf:0x345ac21ab38fa3d3"
 ---
 
 I have to preface that we intended to go to Tim Ho Wan, the Dim-Sum Specialists 添好運點心專門店. But after seeing the large crowds and queue’s. . . Mr. J smartly had a back up with New Star Seafood, which was just around the corner.

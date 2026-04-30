@@ -39,6 +39,7 @@ location: Intercontinental Asiana Saigon
 city: Ho Chi Minh City
 cuisine:
 - Vietnamese
+placeId: "0x31752f1ec86d8a65:0xe7ba8ef8a67451c8"
 ---
 
 [![intercontinental-asiana-saigon-02](/images/posts/intercontinental-asiana-saigon-ho-chi-minh-city/Intercontinental-Asiana-Saigon-01-494x370.jpg "intercontinental-asiana-saigon-02")](http://thirstypig.com/2011/08/13/intercontinental-asiana-saigon-ho-chi-minh-city/intercontinental-asiana-saigon-02/)

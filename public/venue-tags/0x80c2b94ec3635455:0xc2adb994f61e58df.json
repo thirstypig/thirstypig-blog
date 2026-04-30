@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b94ec3635455:0xc2adb994f61e58df",
+  "venue_name": "Fogo de Chão Brazilian Steakhouse",
+  "chips": [
+    {
+      "label": "moises",
+      "mention_count": 387
+    },
+    {
+      "label": "salad bar",
+      "mention_count": 317
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 35
+    },
+    {
+      "label": "brazilian steakhouse",
+      "mention_count": 138
+    },
+    {
+      "label": "gauchos",
+      "mention_count": 40
+    },
+    {
+      "label": "ribeye",
+      "mention_count": 34
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 36
+    },
+    {
+      "label": "momo",
+      "mention_count": 21
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 30
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 121
+    }
+  ],
+  "scraped_at": "2026-04-30T05:30:31Z",
+  "city": "Beverly Hills",
+  "key": "fogo-de-chao-beverly-hi"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3eb0240144d:0xb85fa85974b60789",
+  "venue_name": "Avenue 26 Tacos",
+  "chips": [
+    {
+      "label": "al pastor",
+      "mention_count": 11
+    },
+    {
+      "label": "quesataco",
+      "mention_count": 2
+    },
+    {
+      "label": "aqua fresca",
+      "mention_count": 2
+    },
+    {
+      "label": "cash only",
+      "mention_count": 3
+    },
+    {
+      "label": "taco stand",
+      "mention_count": 6
+    },
+    {
+      "label": "buche",
+      "mention_count": 2
+    },
+    {
+      "label": "chorizo",
+      "mention_count": 2
+    },
+    {
+      "label": "dodgers",
+      "mention_count": 2
+    },
+    {
+      "label": "affordability",
+      "mention_count": 2
+    },
+    {
+      "label": "street tacos",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:14Z",
+  "city": "Los Angeles",
+  "key": "ave-26-tacos-dtla"
+}

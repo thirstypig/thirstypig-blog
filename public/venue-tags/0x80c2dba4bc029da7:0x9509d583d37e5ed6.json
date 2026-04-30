@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dba4bc029da7:0x9509d583d37e5ed6",
+  "venue_name": "Dumpling House",
+  "chips": [
+    {
+      "label": "soup dumplings",
+      "mention_count": 23
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 12
+    },
+    {
+      "label": "pan fried pork dumplings",
+      "mention_count": 10
+    },
+    {
+      "label": "onion pancake",
+      "mention_count": 8
+    },
+    {
+      "label": "chicken dumplings",
+      "mention_count": 6
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 7
+    },
+    {
+      "label": "juicy pork dumplings",
+      "mention_count": 4
+    },
+    {
+      "label": "beef roll",
+      "mention_count": 6
+    },
+    {
+      "label": "lamb dumplings",
+      "mention_count": 3
+    },
+    {
+      "label": "dumpling skin",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:37Z",
+  "city": "Arcadia",
+  "key": "magic-dumplings-arcadia"
+}

@@ -24,6 +24,7 @@ tags:
 city: Mammoth
 cuisine:
 - Mexican
+placeId: "0x80960dcd4544a2c5:0x1bd6b7d1e34c9831"
 ---
 
 this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called breakfast club. yes it’s a cute and punny name. kinda makes me wanna barf. fortunately, the food does not.

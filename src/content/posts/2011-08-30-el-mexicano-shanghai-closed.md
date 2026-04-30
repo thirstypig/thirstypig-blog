@@ -20,6 +20,7 @@ region: Shanghai
 address: 2 Zhengmin Rd
 cuisine:
 - Mexican
+placeId: "0x80db4fb3325e2a9b:0x6ef8ad5c54605328"
 ---
 
 

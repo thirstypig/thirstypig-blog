@@ -29,6 +29,7 @@ coordinates:
   lng: -118.147351
 cuisine:
 - Dessert
+placeId: "0x80c2db794ae735b1:0x80a64cf22a156b4e"
 ---
 
 In the spirit of Cupcakes – the third in my Pasadena trilogy of cupcakes – Dots Cupcakes. Recently I posted my thoughts about Violet’s Cakes and Polkatots, both in Pasadena.

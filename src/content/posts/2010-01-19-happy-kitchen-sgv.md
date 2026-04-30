@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 301 W Valley Blvd
 cuisine:
 - Multi
+placeId: "0x80c332a704d94129:0xeb69a9d4b9db888a"
 ---
 
 

@@ -21,6 +21,7 @@ location: Wood Spoon
 city: Los Angeles
 cuisine:
 - Brazilian
+placeId: "0x80c2c7cb016b0d5b:0x9db7c07b6b618846"
 ---
 
 When I was last in Los Angeles – in August, I had put together a list of places that I wanted, rather needed to feast on. On this list, and near the top, was Wood Spoon. I had heard that this downtown Los Angeles Brazilian restaurant had a pot pie that was worth the visit.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x808fb5a11587a951:0xc2ab639255953939",
+  "venue_name": "Liang's Village",
+  "chips": [
+    {
+      "label": "beef noodle soup",
+      "mention_count": 107
+    },
+    {
+      "label": "hand pulled noodles",
+      "mention_count": 34
+    },
+    {
+      "label": "scallion pancake",
+      "mention_count": 29
+    },
+    {
+      "label": "cold peanut noodles",
+      "mention_count": 12
+    },
+    {
+      "label": "Beef Pancake Wrap 牛肉捲餅",
+      "mention_count": 18
+    },
+    {
+      "label": "hainan chicken",
+      "mention_count": 13
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 9
+    },
+    {
+      "label": "chili oils",
+      "mention_count": 10
+    },
+    {
+      "label": "dry noodles",
+      "mention_count": 11
+    },
+    {
+      "label": "turnip cake fries",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:20:49Z",
+  "city": "San Gabriel",
+  "key": "liangs-kitchen-梁媽媽家-san-gabrie"
+}

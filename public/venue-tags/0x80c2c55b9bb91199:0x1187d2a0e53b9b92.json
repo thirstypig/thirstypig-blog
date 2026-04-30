@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c55b9bb91199:0x1187d2a0e53b9b92",
+  "venue_name": "J J Hong Kong Cafe",
+  "chips": [
+    {
+      "label": "Indo Fried Rice",
+      "mention_count": 4
+    },
+    {
+      "label": "hong kong style western food",
+      "mention_count": 10
+    },
+    {
+      "label": "pork hocks",
+      "mention_count": 4
+    },
+    {
+      "label": "free refills",
+      "mention_count": 8
+    },
+    {
+      "label": "Hainan Chicken w Rice",
+      "mention_count": 6
+    },
+    {
+      "label": "crispy noodle",
+      "mention_count": 2
+    },
+    {
+      "label": "late hours",
+      "mention_count": 14
+    },
+    {
+      "label": "steaks",
+      "mention_count": 4
+    },
+    {
+      "label": "thai tea",
+      "mention_count": 2
+    },
+    {
+      "label": "black pepper sauce",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:18Z",
+  "city": "Monterey Park",
+  "key": "late-night-yummies-monterey-p"
+}

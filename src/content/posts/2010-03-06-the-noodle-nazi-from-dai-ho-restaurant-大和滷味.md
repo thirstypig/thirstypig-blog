@@ -24,6 +24,7 @@ location: The Noodle Nazi from Dai Ho Restaurant 大和滷味
 region: San Gabriel Valley
 cuisine:
 - Taiwanese
+placeId: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
 ---
 
 The Noodle Nazi from Dai Ho Restaurant 大和滷味.

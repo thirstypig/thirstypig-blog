@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ca8349288235:0x57819f208c751481",
+  "venue_name": "The Original Giuliano's Delicatessen in Gardena",
+  "chips": [
+    {
+      "label": "italian food",
+      "mention_count": 342
+    },
+    {
+      "label": "torpedo",
+      "mention_count": 165
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 23
+    },
+    {
+      "label": "torpedo sandwich",
+      "mention_count": 44
+    },
+    {
+      "label": "meatball sandwich",
+      "mention_count": 38
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 179
+    },
+    {
+      "label": "fresh bread",
+      "mention_count": 59
+    },
+    {
+      "label": "subs",
+      "mention_count": 85
+    },
+    {
+      "label": "cannoli",
+      "mention_count": 17
+    },
+    {
+      "label": "pastrami",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:41Z",
+  "city": "Gardena",
+  "key": "guilianos-gardena"
+}

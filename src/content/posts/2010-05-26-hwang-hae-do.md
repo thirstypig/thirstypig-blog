@@ -34,6 +34,7 @@ address: '429 N Western Ave
   Los Angeles, CA 90004'
 cuisine:
 - Korean
+placeId: "0x80c2b8a4e61b21d5:0xcc095bdc89b53a0f"
 ---
 
 Not your typical Korean BBQ restaurant, Hwang Hae Do (HHD) specializes in boiled beef cooked in a mixed broth. Sundays were a ritual for a few of us to try different Korean restaurants. Rather than having regular Korean BBQ, I persuaded Miss C to pick something different and out of the ordinary. HHD was a treat!

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b88165a4f30f:0x5d9512c3a8cea197",
+  "venue_name": "Honey Pig",
+  "chips": [
+    {
+      "label": "cast iron lid samgyeopsal",
+      "mention_count": 3
+    },
+    {
+      "label": "kimchi bean sprouts",
+      "mention_count": 2
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 16
+    },
+    {
+      "label": "soybean paste stew",
+      "mention_count": 2
+    },
+    {
+      "label": "combos",
+      "mention_count": 2
+    },
+    {
+      "label": "food portion",
+      "mention_count": 3
+    },
+    {
+      "label": "steamed egg",
+      "mention_count": 3
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 2
+    },
+    {
+      "label": "steak",
+      "mention_count": 3
+    },
+    {
+      "label": "nice workers",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:58Z",
+  "city": "Koreatown",
+  "key": "honey-pig-koreatown"
+}

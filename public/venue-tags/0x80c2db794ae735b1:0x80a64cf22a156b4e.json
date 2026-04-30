@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db794ae735b1:0x80a64cf22a156b4e",
+  "venue_name": "Dots Cafe",
+  "chips": [
+    {
+      "label": "cupcakes",
+      "mention_count": 132
+    },
+    {
+      "label": "mini cupcakes",
+      "mention_count": 8
+    },
+    {
+      "label": "red velvet cupcake",
+      "mention_count": 7
+    },
+    {
+      "label": "cupcakes for pups",
+      "mention_count": 3
+    },
+    {
+      "label": "fleur de sel cupcake",
+      "mention_count": 3
+    },
+    {
+      "label": "cinnamon tones",
+      "mention_count": 3
+    },
+    {
+      "label": "cream cheese scone",
+      "mention_count": 3
+    },
+    {
+      "label": "desserts",
+      "mention_count": 21
+    },
+    {
+      "label": "carrot cupcake",
+      "mention_count": 2
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:31Z",
+  "city": "Pasadena",
+  "key": "dots-cupcakes-pasadena"
+}

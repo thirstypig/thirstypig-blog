@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b5a771205af3:0x86f416ea2f93d43c",
+  "venue_name": "Voodoo Doughnut",
+  "chips": [
+    {
+      "label": "vegan options",
+      "mention_count": 213
+    },
+    {
+      "label": "Bacon Maple Bar",
+      "mention_count": 77
+    },
+    {
+      "label": "live music",
+      "mention_count": 10
+    },
+    {
+      "label": "voodoo doll",
+      "mention_count": 77
+    },
+    {
+      "label": "fritters",
+      "mention_count": 90
+    },
+    {
+      "label": "long lines",
+      "mention_count": 83
+    },
+    {
+      "label": "butterfinger donut",
+      "mention_count": 12
+    },
+    {
+      "label": "creative donuts",
+      "mention_count": 19
+    },
+    {
+      "label": "maple cream donut",
+      "mention_count": 9
+    },
+    {
+      "label": "soft doughnuts",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:41Z",
+  "city": "Austin",
+  "key": "voodoo-doughnut-austin"
+}

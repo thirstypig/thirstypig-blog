@@ -25,6 +25,7 @@ tags:
 - ramen
 cuisine:
 - Japanese
+placeId: "0x80c2b59d79dc3509:0x1edfbd8cb3e64276"
 ---
 
 Located in a mini mall off of redondo, Shensen gumi serves some of the best ramen. Differing from the ramen houses in West LA, Shensen Gumi features a basic ramen with pork slices. They offer it with varying types of soups, oil bases, and noodle textures – but all basically the same. You really can’t go wrong here. While in West LA – they put garlic, other types of meats, vegetables, etc.

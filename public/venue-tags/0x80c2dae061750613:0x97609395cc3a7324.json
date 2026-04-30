@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dae061750613:0x97609395cc3a7324",
+  "venue_name": "Sun Nong Dan",
+  "chips": [
+    {
+      "label": "galbi jjim",
+      "mention_count": 69
+    },
+    {
+      "label": "braised beef",
+      "mention_count": 26
+    },
+    {
+      "label": "Teuk Galbi Tang",
+      "mention_count": 20
+    },
+    {
+      "label": "ribs",
+      "mention_count": 55
+    },
+    {
+      "label": "oxtail",
+      "mention_count": 19
+    },
+    {
+      "label": "Kim Chi",
+      "mention_count": 26
+    },
+    {
+      "label": "rice cake",
+      "mention_count": 11
+    },
+    {
+      "label": "purple rice",
+      "mention_count": 6
+    },
+    {
+      "label": "beef soup",
+      "mention_count": 8
+    },
+    {
+      "label": "yuk gae jang",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:23Z",
+  "city": "San Gabriel Valley",
+  "key": "seoul-food-in-san-gabriel-valley-san-gabrie"
+}

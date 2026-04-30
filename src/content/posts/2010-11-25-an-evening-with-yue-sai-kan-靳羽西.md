@@ -38,6 +38,7 @@ coordinates:
 tags:
 - shanghai
 cuisine: []
+placeId: "0x35b2705bb60cffad:0x96b0a2a99f4a4414"
 ---
 
 This past week, we got to meet the venerable Yue-Sai Kan 靳羽西. She graciously hosted us at her spacious home in Shanghai. Our professor, Peter Carnevale was able to arrange for an informal talk with her to talk about her experiences.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c708f9209ce7:0xf37eb52b944f2ad7",
+  "venue_name": "Gaam Karaoke",
+  "chips": [
+    {
+      "label": "music selection",
+      "mention_count": 13
+    },
+    {
+      "label": "karaoke bar",
+      "mention_count": 4
+    },
+    {
+      "label": "soju",
+      "mention_count": 17
+    },
+    {
+      "label": "karaoke system",
+      "mention_count": 2
+    },
+    {
+      "label": "spacious rooms",
+      "mention_count": 2
+    },
+    {
+      "label": "room size",
+      "mention_count": 2
+    },
+    {
+      "label": "wait time",
+      "mention_count": 2
+    },
+    {
+      "label": "vibe",
+      "mention_count": 16
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    },
+    {
+      "label": "fun with friends",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:26:54Z",
+  "city": "Koreatown",
+  "key": "gaam-koreatown"
+}

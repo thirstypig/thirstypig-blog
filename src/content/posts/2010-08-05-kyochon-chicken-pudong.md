@@ -36,6 +36,7 @@ tags:
 city: PuDong
 cuisine:
 - Korean
+placeId: "0x80c2b89b40e41ce9:0xef39fb5fda24e28f"
 ---
 
 Most people don’t necessarily associate chicken with Korean food. But Korean Fried Chicken is a common dish in beer houses and drinking establishments. This particular chicken is spicy, quite spicy. The fried oily goodness goes well with cold beer and the spicy hearty flavor, or lack of, is the consummate part of Korean cuisine.

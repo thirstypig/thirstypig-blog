@@ -27,6 +27,7 @@ coordinates:
   lng: 121.461405
 cuisine:
 - Chinese
+placeId: "0x35b270150bf90d01:0x18d4e6fd3d272c63"
 ---
 
 Spicy Pork Noodles In Kwo (沪上一家辣肉面) in Shanghai.

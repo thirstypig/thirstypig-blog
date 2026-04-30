@@ -24,6 +24,7 @@ city: San Gabriel Valley
 region: San Gabriel Valley
 cuisine:
 - Mexican
+placeId: "0x80c2bb8cf4aac185:0x9d11acb5cb57c5b3"
 ---
 
 High School kids need to eat simple things like meat and some sort of starch – like bread, tortilla, or rice. They don’t really want to eat vegetables, fruits, and healthy things. Taco Lita serves that purpose for growing kids in San Gabriel Valley.

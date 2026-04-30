@@ -1,0 +1,49 @@
+{
+  "place_id": "0x340400f2731f48a1:0x5415c67da99c37e8",
+  "venue_name": "Din Tai Fung",
+  "chips": [
+    {
+      "label": "xiaolongbao",
+      "mention_count": 257
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 125
+    },
+    {
+      "label": "shanghai food",
+      "mention_count": 12
+    },
+    {
+      "label": "dim sum",
+      "mention_count": 114
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 20
+    },
+    {
+      "label": "Egg Fried Rice with Deep-Fried Pork Chop Peppery",
+      "mention_count": 8
+    },
+    {
+      "label": "dan dan noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "michelin star restaurant",
+      "mention_count": 24
+    },
+    {
+      "label": "crab roe xiaolongbao",
+      "mention_count": 4
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:34Z",
+  "city": "Hong Kong",
+  "key": "din-tai-fung-鼎泰豐-hong-kong"
+}

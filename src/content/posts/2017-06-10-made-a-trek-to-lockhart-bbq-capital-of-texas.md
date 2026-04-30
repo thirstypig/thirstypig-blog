@@ -27,6 +27,7 @@ city: Lockhart
 region: Texas
 cuisine:
 - BBQ
+placeId: "0x80c2bb7fcb4663ad:0x70a224fa659bef45"
 ---
 
 ![Made a trek to Lockhart, BBQ Capital of Texas](/images/posts/ig-2017-06-10-made-a-trek-to-lockhart-bbq-capital-of-texas/17883621268053241.jpg)

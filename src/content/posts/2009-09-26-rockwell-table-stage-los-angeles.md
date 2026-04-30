@@ -19,6 +19,7 @@ region: Hollywood
 address: 1714 N. Vermont Ave Los Angeles, CA 90027
 cuisine:
 - Cocktails
+placeId: "0x80c2b9002841a967:0xccc3c49414167d1a"
 ---
 
 

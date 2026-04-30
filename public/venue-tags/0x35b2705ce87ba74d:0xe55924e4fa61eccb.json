@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b2705ce87ba74d:0xe55924e4fa61eccb",
+  "venue_name": "Shanghai Bookstore",
+  "chips": [
+    {
+      "label": "chinese books",
+      "mention_count": 2
+    },
+    {
+      "label": "new book store",
+      "mention_count": 3
+    },
+    {
+      "label": "must-visit for bookworms",
+      "mention_count": 3
+    },
+    {
+      "label": "stationery",
+      "mention_count": 4
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "book variety",
+      "mention_count": 5
+    },
+    {
+      "label": "cafe",
+      "mention_count": 6
+    },
+    {
+      "label": "spaciousness",
+      "mention_count": 2
+    },
+    {
+      "label": "book collection",
+      "mention_count": 2
+    },
+    {
+      "label": "physical bookstore",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:44Z",
+  "city": "Shanghai",
+  "key": "shanghais-city-of-books-上海书城-shanghai"
+}

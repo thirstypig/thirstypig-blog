@@ -26,6 +26,7 @@ coordinates:
   lng: 121.484583
 cuisine:
 - Multi
+placeId: "0x35b27051234e1edd:0x126e60aeceb05d6a"
 ---
 
 When you think of English afternoon tea, you think of high society sipping on tea with crumpets at a posh hotel, like the Peninsula. At the Lobby Lounge, that’s what you’ll find. With a live 3 piece string triplet playing, you can relax the afternoon away.

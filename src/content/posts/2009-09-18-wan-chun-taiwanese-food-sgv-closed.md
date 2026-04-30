@@ -19,6 +19,7 @@ city: Sgv
 region: San Gabriel Valley
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2d2383b591:0xa47811c48e0398ef"
 ---
 
 Wan Chun Taiwanese Food in Sgv.

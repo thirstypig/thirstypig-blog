@@ -25,6 +25,7 @@ coordinates:
   lng: 121.450242
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 Haidilao is Hot Pot restaurant. Their popularity started in Beijing and Sichuan, before they came to Shanghai, recently. Haidilao is known for their unique attention to customers and special complimentary services. With dozens of locations throughout China, Haidilao is one of the well-known hot pot chains.

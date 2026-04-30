@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dc7c7c245dbf:0x5b5d6e041029f0c0",
+  "venue_name": "Tacos Ensenada",
+  "chips": [
+    {
+      "label": "fish tacos",
+      "mention_count": 56
+    },
+    {
+      "label": "shrimp burrito",
+      "mention_count": 8
+    },
+    {
+      "label": "taco tuesday",
+      "mention_count": 19
+    },
+    {
+      "label": "asada",
+      "mention_count": 18
+    },
+    {
+      "label": "carnitas tacos",
+      "mention_count": 8
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 11
+    },
+    {
+      "label": "al pastor",
+      "mention_count": 7
+    },
+    {
+      "label": "crema",
+      "mention_count": 2
+    },
+    {
+      "label": "seafood",
+      "mention_count": 14
+    },
+    {
+      "label": "meat tacos",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:33Z",
+  "city": "Sierra Madre",
+  "key": "taco-tuesday-sierra-mad"
+}

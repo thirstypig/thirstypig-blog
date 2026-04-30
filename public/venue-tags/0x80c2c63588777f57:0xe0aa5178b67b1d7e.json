@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63588777f57:0xe0aa5178b67b1d7e",
+  "venue_name": "Nickel Diner",
+  "chips": [
+    {
+      "label": "pop tart",
+      "mention_count": 36
+    },
+    {
+      "label": "donuts",
+      "mention_count": 73
+    },
+    {
+      "label": "homemade pop tarts",
+      "mention_count": 10
+    },
+    {
+      "label": "Gio's Chilaquiles",
+      "mention_count": 17
+    },
+    {
+      "label": "homemade jam",
+      "mention_count": 9
+    },
+    {
+      "label": "duck and cluck",
+      "mention_count": 6
+    },
+    {
+      "label": "bacon donut",
+      "mention_count": 6
+    },
+    {
+      "label": "poached eggs",
+      "mention_count": 10
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 14
+    },
+    {
+      "label": "Corned Beef Eggs and Potatoes",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T00:15:13Z",
+  "city": "Downtown LA",
+  "key": "nickel-diner-downtown-l"
+}

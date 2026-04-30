@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b2700b6dd01297:0x3403c5e1c645dd29",
+  "venue_name": "阿娘面馆",
+  "chips": [
+    {
+      "label": "yellow croaker noodles",
+      "mention_count": 8
+    },
+    {
+      "label": "crab roe noodles",
+      "mention_count": 7
+    },
+    {
+      "label": "crab meat noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "michelin",
+      "mention_count": 9
+    },
+    {
+      "label": "soy sauce based soup",
+      "mention_count": 3
+    },
+    {
+      "label": "eel",
+      "mention_count": 2
+    },
+    {
+      "label": "lively atmosphere",
+      "mention_count": 2
+    },
+    {
+      "label": "queue",
+      "mention_count": 2
+    },
+    {
+      "label": "gourmand",
+      "mention_count": 2
+    },
+    {
+      "label": "Richness",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:54Z",
+  "city": "Shanghai",
+  "key": "a-niang-noodles-阿娘面-shanghai"
+}

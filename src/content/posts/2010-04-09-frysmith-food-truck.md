@@ -28,6 +28,7 @@ tags:
 - food-truck
 cuisine:
 - American
+placeId: "0x80c2bec9e64bc7db:0xbc9bddd3f485432c"
 ---
 
 This is the last in a series of Truck Feasting Week. Check out my earlier posts of the Flying Pig, Lomo Arigato, World Fare, and Border Grill.

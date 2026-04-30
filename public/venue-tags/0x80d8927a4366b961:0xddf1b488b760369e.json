@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80d8927a4366b961:0xddf1b488b760369e",
+  "venue_name": "Tacos Fenix (Fish & Shrimp)",
+  "chips": [
+    {
+      "label": "fish tacos",
+      "mention_count": 608
+    },
+    {
+      "label": "shrimp tacos",
+      "mention_count": 378
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 15
+    },
+    {
+      "label": "fish and shrimp tacos",
+      "mention_count": 74
+    },
+    {
+      "label": "live music",
+      "mention_count": 3
+    },
+    {
+      "label": "battered fish tacos",
+      "mention_count": 17
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "standing room only",
+      "mention_count": 7
+    },
+    {
+      "label": "flavor of the tacos",
+      "mention_count": 12
+    },
+    {
+      "label": "horchata",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T05:24:05Z",
+  "city": "Los Feliz",
+  "key": "best-fish-tacos-in-ensenada-los-feliz"
+}

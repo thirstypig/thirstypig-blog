@@ -42,6 +42,7 @@ coordinates:
   lng: 121.529303
 cuisine:
 - Chinese
+placeId: "0x3442a98390bf3369:0x38b585c0a1facff0"
 ---
 
 Baocha is a tea house with all the traditional details you’d expect. A serene setting just meters away from the busiest street in Taipei. This oasis features speciality Chinese teas as well as unique ornamental pieces.

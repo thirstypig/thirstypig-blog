@@ -36,6 +36,7 @@ location: Kyochon Chicken
 city: Shanghai
 cuisine:
 - Korean
+placeId: "0x80c2b89b40e41ce9:0xef39fb5fda24e28f"
 ---
 
 [![img_3064](/images/posts/kyochon-chicken-pudong/IMG_3045-88x88.jpg "img_3064")](http://thirstypig.com/2010/07/02/kyochon-chicken-pudong/img_3064/)

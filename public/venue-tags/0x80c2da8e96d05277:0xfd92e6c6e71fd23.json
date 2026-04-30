@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2da8e96d05277:0xfd92e6c6e71fd23",
+  "venue_name": "In-N-Out Burger",
+  "chips": [
+    {
+      "label": "drive thru",
+      "mention_count": 106
+    },
+    {
+      "label": "animal style fries",
+      "mention_count": 12
+    },
+    {
+      "label": "shakes",
+      "mention_count": 41
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "grilled onions",
+      "mention_count": 12
+    },
+    {
+      "label": "protein burger",
+      "mention_count": 2
+    },
+    {
+      "label": "wait time",
+      "mention_count": 33
+    },
+    {
+      "label": "double double",
+      "mention_count": 21
+    },
+    {
+      "label": "line",
+      "mention_count": 48
+    },
+    {
+      "label": "no indoor seating",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:11Z",
+  "city": "Rosemead",
+  "key": "in-n-out-burger-rosemead"
+}

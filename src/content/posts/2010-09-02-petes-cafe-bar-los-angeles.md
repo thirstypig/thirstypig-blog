@@ -36,6 +36,7 @@ location: Pete’s Cafe & Bar
 city: Downtown Los Angeles
 cuisine:
 - American
+placeId: "0x80c2c64a1fa6c435:0x37c9d7d155348147"
 ---
 
 Located near the historic bank district of downtown Los Angeles is Pete’s Cafe & Bar. With pedestrian-like name with Cafe & Bar, Pete’s features good old American classics like Burgers and Mac’n Cheese. While other establishments in the area gussy up their takes, like Nickel Diner, Corkbar, and Mac’n Cheeza – while nothing wrong with that, Pete’s aims for quality experience with quality ingredients.

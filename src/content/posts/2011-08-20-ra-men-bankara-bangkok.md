@@ -30,6 +30,7 @@ coordinates:
   lng: 100.57202
 cuisine:
 - Japanese
+placeId: "0x30e29f010aba72bd:0xa6d5c5e987f165ff"
 ---
 
 [![ra-men-bankara-bangkok-05](/images/posts/ra-men-bankara-bangkok/Ra-men-Bankara-Bangkok-01-494x370.jpg "ra-men-bankara-bangkok-05")](http://thirstypig.com/2011/08/20/ra-men-bankara-bangkok/ra-men-bankara-bangkok-05/)

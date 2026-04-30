@@ -41,6 +41,7 @@ region: Shanghai
 address: 1479 Middle Fuxing Road
 cuisine:
 - Chinese
+placeId: "0x35b27074efa4ae1b:0x8c8d6f1c3c6c0e13"
 ---
 
 Fuxinghui is fine dining establishment that specializes in Shanghainese cuisine. Located near the heart of the bustling HuaiHai Middle road, Fuxinghui offers up some an intimate dining experience.

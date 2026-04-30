@@ -28,6 +28,7 @@ city: Monterey Park
 region: San Gabriel Valley
 cuisine:
 - Chinese
+placeId: "0x80c2daaaf937c195:0x6a9ea3a8bc43d365"
 ---
 
 With such a name, as the Noodle House, you wouldn’t know this is one of the best Tianjin 天津 cuisine restaurants.

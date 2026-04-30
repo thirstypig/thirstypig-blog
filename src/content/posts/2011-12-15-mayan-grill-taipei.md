@@ -22,6 +22,7 @@ tags:
 - grill
 cuisine:
 - Mexican
+placeId: "0x3442a9688b247a65:0x64eb3ec24e492181"
 ---
 
 With growing emergence of Mexican restaurants, in both Shanghai and Taipei, I have seen both high end restaurants like [Maya](http://www.thethirstypig.com/2011/09/19/maya-brunch-shanghai/), everyday type of restaurants like [Cantina Agave](http://www.thethirstypig.com/2011/05/26/cantina-agave/), and almost fast food types like [Oola Mexican Grill](http://www.thethirstypig.com/2010/07/22/oola-mexican-grill-taipei/). Mayan Grill, which opened in the spring of 2011, has entered with its own concept, featuring a great dining space, which is also suitable for drinking.

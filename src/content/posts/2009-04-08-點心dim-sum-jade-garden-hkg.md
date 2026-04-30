@@ -28,6 +28,7 @@ region: Hong Kong
 address: 1 Hysan Ave
 cuisine:
 - Chinese
+placeId: "0x3404005722712e7d:0x8d544765cbdbda94"
 ---
 
 One night. . . after stumbling for a few hours in Hong Kong and Macau, we were all heading back to out hotels around 6am. But being that we were on vacation, we decided to stay up for breakfast. Breakfast in Hong Kong means Dim Sum.

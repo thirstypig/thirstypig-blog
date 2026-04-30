@@ -36,6 +36,7 @@ coordinates:
   lng: -118.489466
 cuisine:
 - Bakery
+placeId: "0x80c2a4cda9a155e3:0xe4f82d1f1a74f790"
 ---
 
 Sweet & Savory is a nice neighborhood sweet shop. They have bake goods and sandwiches on Huntington Blvd. in San Marino. This is the typical afternoon tea place where ladies can enjoy passerby’s.

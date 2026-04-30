@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dab740e88fcf:0x345ac21ab38fa3d3",
+  "venue_name": "Five Star Seafood Restaurant",
+  "chips": [
+    {
+      "label": "dim sum",
+      "mention_count": 258
+    },
+    {
+      "label": "har gow",
+      "mention_count": 9
+    },
+    {
+      "label": "siu mai",
+      "mention_count": 21
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 29
+    },
+    {
+      "label": "lobster",
+      "mention_count": 29
+    },
+    {
+      "label": "chicken feet",
+      "mention_count": 16
+    },
+    {
+      "label": "char siu bao",
+      "mention_count": 5
+    },
+    {
+      "label": "steamed fish",
+      "mention_count": 16
+    },
+    {
+      "label": "scallops",
+      "mention_count": 8
+    },
+    {
+      "label": "dim sum carts",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:05:38Z",
+  "city": "Hong Kong",
+  "key": "new-star-seafood-restaurant-新星海鮮酒家--hong-kong"
+}

@@ -20,6 +20,7 @@ address: 62 Lockhart Road
 region: Hong Kong
 cuisine:
 - Chinese
+placeId: "0x3404005cffa504ad:0xaeb1ed7f2d8caecd"
 ---
 
 

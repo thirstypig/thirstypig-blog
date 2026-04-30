@@ -27,6 +27,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x89c259e61562f0a9:0x826e55a65b25ea65"
 ---
 
 ![Yet another hot bowl of ramen noodle soup at in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17904406126129840.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2daaaf937c195:0x6a9ea3a8bc43d365",
+  "venue_name": "Noodle House",
+  "chips": [
+    {
+      "label": "baozi",
+      "mention_count": 13
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 9
+    },
+    {
+      "label": "chive box",
+      "mention_count": 2
+    },
+    {
+      "label": "seafood",
+      "mention_count": 2
+    },
+    {
+      "label": "cash",
+      "mention_count": 6
+    },
+    {
+      "label": "cucumber",
+      "mention_count": 2
+    },
+    {
+      "label": "made to order",
+      "mention_count": 2
+    },
+    {
+      "label": "cabbage",
+      "mention_count": 3
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    },
+    {
+      "label": "buns",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:56Z",
+  "city": "Monterey Park",
+  "key": "noodle-house-monterey-p"
+}

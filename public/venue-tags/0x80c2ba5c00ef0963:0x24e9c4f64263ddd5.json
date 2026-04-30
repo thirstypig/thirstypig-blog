@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba5c00ef0963:0x24e9c4f64263ddd5",
+  "venue_name": "Hokkaido Ramen Santouka",
+  "chips": [
+    {
+      "label": "Shio Ramen Salt Flavor",
+      "mention_count": 14
+    },
+    {
+      "label": "Spicy Miso Ramen Medium",
+      "mention_count": 6
+    },
+    {
+      "label": "cash only",
+      "mention_count": 31
+    },
+    {
+      "label": "toroniku",
+      "mention_count": 3
+    },
+    {
+      "label": "food court",
+      "mention_count": 39
+    },
+    {
+      "label": "salmon roe rice",
+      "mention_count": 3
+    },
+    {
+      "label": "affordability",
+      "mention_count": 3
+    },
+    {
+      "label": "portions",
+      "mention_count": 4
+    },
+    {
+      "label": "flavorful broth",
+      "mention_count": 2
+    },
+    {
+      "label": "hidden gem",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:02Z",
+  "city": "Los Angeles",
+  "key": "santoka-los-angele"
+}

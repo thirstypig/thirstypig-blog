@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbb8ea694e19:0x5d4a5a887baa2368",
+  "venue_name": "Gjelina",
+  "chips": [
+    {
+      "label": "lamb pizza",
+      "mention_count": 17
+    },
+    {
+      "label": "burrata pizza",
+      "mention_count": 25
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 63
+    },
+    {
+      "label": "moroccan eggs",
+      "mention_count": 15
+    },
+    {
+      "label": "mushroom pizza",
+      "mention_count": 13
+    },
+    {
+      "label": "people watching",
+      "mention_count": 5
+    },
+    {
+      "label": "japanese sweet potato",
+      "mention_count": 12
+    },
+    {
+      "label": "duck hash",
+      "mention_count": 10
+    },
+    {
+      "label": "date cake",
+      "mention_count": 11
+    },
+    {
+      "label": "chorizo pizza",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:13Z",
+  "city": "Venice",
+  "key": "hank-moodys-gjelina-of-venice-venice"
+}

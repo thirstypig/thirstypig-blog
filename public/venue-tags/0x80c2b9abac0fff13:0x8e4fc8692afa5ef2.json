@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9abac0fff13:0x8e4fc8692afa5ef2",
+  "venue_name": "Sticky Rice on 3rd",
+  "chips": [
+    {
+      "label": "khao soi",
+      "mention_count": 19
+    },
+    {
+      "label": "gai yang",
+      "mention_count": 9
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 13
+    },
+    {
+      "label": "crispy tofu",
+      "mention_count": 6
+    },
+    {
+      "label": "pad kra pow",
+      "mention_count": 6
+    },
+    {
+      "label": "roti with green curry",
+      "mention_count": 4
+    },
+    {
+      "label": "mango sticky rice",
+      "mention_count": 27
+    },
+    {
+      "label": "boat noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "pad woon sen",
+      "mention_count": 5
+    },
+    {
+      "label": "wings",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:40Z",
+  "city": "Los Angeles",
+  "key": "sticky-rice-los-angele"
+}

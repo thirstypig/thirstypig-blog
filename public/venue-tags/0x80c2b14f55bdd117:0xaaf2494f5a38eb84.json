@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b14f55bdd117:0xaaf2494f5a38eb84",
+  "venue_name": "I Heart Mac & Cheese - Los Angeles, CA",
+  "chips": [
+    {
+      "label": "grilled cheese",
+      "mention_count": 10
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 9
+    },
+    {
+      "label": "cheesy broccoli",
+      "mention_count": 4
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 12
+    },
+    {
+      "label": "short rib",
+      "mention_count": 4
+    },
+    {
+      "label": "cheese dip",
+      "mention_count": 4
+    },
+    {
+      "label": "tots",
+      "mention_count": 6
+    },
+    {
+      "label": "mac n cheese balls",
+      "mention_count": 2
+    },
+    {
+      "label": "spacious dining area",
+      "mention_count": 3
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:17Z",
+  "city": "Dtla",
+  "key": "mac-cheeza-dtla"
+}

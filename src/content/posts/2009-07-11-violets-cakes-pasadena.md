@@ -28,6 +28,7 @@ coordinates:
   lng: -118.151154
 cuisine:
 - Bakery
+placeId: "0x80c2c37110920eb5:0xacf6553bbe65275a"
 ---
 
 Everyone knows about DOT’s in Pasadena. . . . but not everyone knows about Violet’s. Violet’s is hidden behind the hustle and bustle of Old Town Pasadena. I recently went there after lunch to try some cupcakes.

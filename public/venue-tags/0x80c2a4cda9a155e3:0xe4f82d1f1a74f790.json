@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2a4cda9a155e3:0xe4f82d1f1a74f790",
+  "venue_name": "Sweetfin Poke Santa Monica",
+  "chips": [
+    {
+      "label": "bamboo rice",
+      "mention_count": 7
+    },
+    {
+      "label": "kale",
+      "mention_count": 9
+    },
+    {
+      "label": "spicy tuna",
+      "mention_count": 15
+    },
+    {
+      "label": "gluten free menu",
+      "mention_count": 7
+    },
+    {
+      "label": "lemonade",
+      "mention_count": 10
+    },
+    {
+      "label": "free matcha popcorn",
+      "mention_count": 2
+    },
+    {
+      "label": "crispy onions",
+      "mention_count": 2
+    },
+    {
+      "label": "build your own bowl",
+      "mention_count": 4
+    },
+    {
+      "label": "black rice",
+      "mention_count": 9
+    },
+    {
+      "label": "yuzu",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:34Z",
+  "city": "Santa Monica",
+  "key": "sweetfin-poké-santa-moni"
+}

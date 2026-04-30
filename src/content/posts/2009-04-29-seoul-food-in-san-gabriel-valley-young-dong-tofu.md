@@ -25,6 +25,7 @@ address: '927 E Las Tunas Dr
   San Gabriel, CA 91776'
 cuisine:
 - Korean
+placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
 There aren’t many good Korean restaurants in the San Gabriel valley. . . So when there is a decent one, they seem to do a combination of things well.

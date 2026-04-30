@@ -27,6 +27,7 @@ address: '1425 W Artesia Blvd
 region: South Bay
 cuisine:
 - Peruvian
+placeId: "0x80c2ca9e519bf875:0x8d115ea63f3f083b"
 ---
 
 The Saltado de Pollo was quite tasty. Peruvian is quite hearty. I guess the cowboys in Peru like these types of meals. I first went to El Pollo Inka about a year or two ago. I would visit there again. Most of the menu items seem to be enticing enough try in the future. I only with El Pollo Inka had branch in LA.

@@ -22,6 +22,7 @@ region: Shanghai
 address: 338 Zi Zhong Road
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 [![good-hot-pot-xintiandi-shanghai-13](/images/posts/good-hot-pot-shanghai/Good-Hot-Pot-Xintiandi-Shanghai-10-88x88.jpg "good-hot-pot-xintiandi-shanghai-13")](http://thirstypig.com/2010/11/27/good-hot-pot-shanghai/good-hot-pot-xintiandi-shanghai-13/)

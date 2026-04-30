@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80960dcd4544a2c5:0x1bd6b7d1e34c9831",
+  "venue_name": "Breakfast Club",
+  "chips": [
+    {
+      "label": "hash browns",
+      "mention_count": 26
+    },
+    {
+      "label": "cinnamon rolls",
+      "mention_count": 11
+    },
+    {
+      "label": "cash only",
+      "mention_count": 13
+    },
+    {
+      "label": "machaca",
+      "mention_count": 8
+    },
+    {
+      "label": "chorizo burrito",
+      "mention_count": 7
+    },
+    {
+      "label": "huevos rancheros",
+      "mention_count": 8
+    },
+    {
+      "label": "corned beef hash",
+      "mention_count": 8
+    },
+    {
+      "label": "denver omelet",
+      "mention_count": 6
+    },
+    {
+      "label": "crab cake benedict",
+      "mention_count": 4
+    },
+    {
+      "label": "biscuits and gravy",
+      "mention_count": 19
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:04Z",
+  "city": "Mammoth",
+  "key": "breakfast-gem-in-mammoth-mammoth"
+}

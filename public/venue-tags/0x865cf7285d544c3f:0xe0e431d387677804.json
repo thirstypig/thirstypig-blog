@@ -1,0 +1,49 @@
+{
+  "place_id": "0x865cf7285d544c3f:0xe0e431d387677804",
+  "venue_name": "2M Smokehouse",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 640
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 44
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 37
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 97
+    },
+    {
+      "label": "street corn",
+      "mention_count": 35
+    },
+    {
+      "label": "pork sausage",
+      "mention_count": 26
+    },
+    {
+      "label": "serrano sausage",
+      "mention_count": 23
+    },
+    {
+      "label": "bbq sauce",
+      "mention_count": 97
+    },
+    {
+      "label": "macaroni",
+      "mention_count": 83
+    },
+    {
+      "label": "chopped brisket sandwich",
+      "mention_count": 20
+    }
+  ],
+  "scraped_at": "2026-04-30T06:16:07Z",
+  "city": "San Antonio",
+  "key": "2m-smokehouse-san-antoni"
+}

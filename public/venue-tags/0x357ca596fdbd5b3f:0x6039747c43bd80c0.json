@@ -1,0 +1,17 @@
+{
+  "place_id": "0x357ca596fdbd5b3f:0x6039747c43bd80c0",
+  "venue_name": "브라이드앤유(BAU by Bride And You)",
+  "chips": [
+    {
+      "label": "dresses",
+      "mention_count": 2
+    },
+    {
+      "label": "employee",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:59:27Z",
+  "city": "Seoul",
+  "key": "youbae-seoul"
+}

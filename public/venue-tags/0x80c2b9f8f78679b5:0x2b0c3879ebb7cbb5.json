@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9f8f78679b5:0x2b0c3879ebb7cbb5",
+  "venue_name": "Tacos Entre Amigos",
+  "chips": [
+    {
+      "label": "blue corn tortilla",
+      "mention_count": 6
+    },
+    {
+      "label": "flank steak",
+      "mention_count": 4
+    },
+    {
+      "label": "charcoal grill",
+      "mention_count": 2
+    },
+    {
+      "label": "al pastor",
+      "mention_count": 3
+    },
+    {
+      "label": "taco stand",
+      "mention_count": 4
+    },
+    {
+      "label": "steak quality",
+      "mention_count": 2
+    },
+    {
+      "label": "asada",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh meat",
+      "mention_count": 2
+    },
+    {
+      "label": "arrachera",
+      "mention_count": 2
+    },
+    {
+      "label": "al pastor tacos",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:05Z",
+  "city": "Los Angeles",
+  "key": "good-food-los-angele"
+}

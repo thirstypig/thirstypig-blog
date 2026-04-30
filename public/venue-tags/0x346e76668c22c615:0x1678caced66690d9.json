@@ -1,0 +1,49 @@
+{
+  "place_id": "0x346e76668c22c615:0x1678caced66690d9",
+  "venue_name": "A-Jiang Eel Noodles",
+  "chips": [
+    {
+      "label": "full of wok hei",
+      "mention_count": 160
+    },
+    {
+      "label": "eel noodles",
+      "mention_count": 407
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 146
+    },
+    {
+      "label": "dry-fried eel noodles",
+      "mention_count": 231
+    },
+    {
+      "label": "stir-fried eel",
+      "mention_count": 144
+    },
+    {
+      "label": "beef soup",
+      "mention_count": 87
+    },
+    {
+      "label": "tainan food",
+      "mention_count": 57
+    },
+    {
+      "label": "eel portion",
+      "mention_count": 26
+    },
+    {
+      "label": "eel texture",
+      "mention_count": 36
+    },
+    {
+      "label": "fresh eel",
+      "mention_count": 21
+    }
+  ],
+  "scraped_at": "2026-04-30T05:31:40Z",
+  "city": "Taipei",
+  "key": "tainan-eel-noodles-台南鱔魚意麵-taipei"
+}

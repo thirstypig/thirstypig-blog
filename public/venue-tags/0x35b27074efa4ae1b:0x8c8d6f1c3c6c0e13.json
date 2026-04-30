@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b27074efa4ae1b:0x8c8d6f1c3c6c0e13",
+  "venue_name": "Fuxing Park",
+  "chips": [
+    {
+      "label": "rose garden",
+      "mention_count": 3
+    },
+    {
+      "label": "flower",
+      "mention_count": 4
+    },
+    {
+      "label": "relaxing atmosphere",
+      "mention_count": 13
+    },
+    {
+      "label": "tai chi",
+      "mention_count": 8
+    },
+    {
+      "label": "stray cats",
+      "mention_count": 2
+    },
+    {
+      "label": "flower beds",
+      "mention_count": 2
+    },
+    {
+      "label": "french park",
+      "mention_count": 3
+    },
+    {
+      "label": "old men playing cards",
+      "mention_count": 2
+    },
+    {
+      "label": "lawn view",
+      "mention_count": 2
+    },
+    {
+      "label": "walking",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-04-30T05:56:42Z",
+  "city": "Shanghai",
+  "key": "复兴汇-fuxinghui-shanghai-shanghai"
+}

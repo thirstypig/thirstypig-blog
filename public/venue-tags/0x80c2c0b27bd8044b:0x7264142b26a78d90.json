@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c0b27bd8044b:0x7264142b26a78d90",
+  "venue_name": "Best Fish Taco in Ensenada",
+  "chips": [
+    {
+      "label": "fish tacos",
+      "mention_count": 194
+    },
+    {
+      "label": "shrimp tacos",
+      "mention_count": 85
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 37
+    },
+    {
+      "label": "potato tacos",
+      "mention_count": 32
+    },
+    {
+      "label": "fried fish",
+      "mention_count": 18
+    },
+    {
+      "label": "comedy night",
+      "mention_count": 15
+    },
+    {
+      "label": "taquitos",
+      "mention_count": 27
+    },
+    {
+      "label": "crema",
+      "mention_count": 10
+    },
+    {
+      "label": "salsa bar",
+      "mention_count": 18
+    },
+    {
+      "label": "free agua fresca",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:42Z",
+  "city": "Los Angeles",
+  "key": "best-fish-tacos-hands-down-los-angele"
+}

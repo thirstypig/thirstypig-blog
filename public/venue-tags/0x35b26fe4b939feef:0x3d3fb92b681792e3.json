@@ -1,0 +1,13 @@
+{
+  "place_id": "0x35b26fe4b939feef:0x3d3fb92b681792e3",
+  "venue_name": "Mokkos",
+  "chips": [
+    {
+      "label": "decor",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:12:29Z",
+  "city": "Shanghai",
+  "key": "mokkos-bar-shanghai"
+}

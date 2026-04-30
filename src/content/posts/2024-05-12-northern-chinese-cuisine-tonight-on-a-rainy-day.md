@@ -32,6 +32,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442a945418ca96d:0xf68fcf3305a75588"
 ---
 
 ![Northern Chinese Cuisine tonight on a rainy day](/images/posts/ig-2024-05-12-northern-chinese-cuisine-tonight-on-a-rainy-day/17888637896964185.jpg)

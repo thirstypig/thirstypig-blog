@@ -23,6 +23,7 @@ originalUrl: 'http://www.thethirstypig.com:80/2012/06/20/guheng-noodles-%E5%90%8
 archiveUrl: 'https://web.archive.org/web/20130501221629/http://www.thethirstypig.com:80/2012/06/20/guheng-noodles-%E5%90%89%E4%BA%A8%E9%9D%A2%E9%A6%86-shanghai/'
 source: thethirstypig.com
 draft: true
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 A Niang Noodles (阿娘面) in Shanghai.

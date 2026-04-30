@@ -33,6 +33,7 @@ coordinates:
   lat: 34.017024
   lng: -118.497677
 cuisine: []
+placeId: "0x80c2a4c565284b2b:0x3aa654d534dca63"
 ---
 
 Wednesdays in Santa Monica mean one thing – Farmer’s Market day! The Wednesday Market is one of the largest and most diverse grower’s only markets in the state. Their website also states that some of the, after more than 20 years, some of the best known chefs and restaurants have frequented this market. KCRW also has a weekly show – Evan Kleiman’s Good Food about the market update with Laura Avery. She will talk with some of the growers about what’s fresh and speak to one of the local chefs about a favorite recipe.

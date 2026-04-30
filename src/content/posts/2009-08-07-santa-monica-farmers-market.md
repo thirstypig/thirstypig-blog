@@ -17,6 +17,7 @@ location: Santa Monica Farmers Market
 city: Santa Monica
 region: Westside
 cuisine: []
+placeId: "0x80c2a4c565284b2b:0x3aa654d534dca63"
 ---
 
 

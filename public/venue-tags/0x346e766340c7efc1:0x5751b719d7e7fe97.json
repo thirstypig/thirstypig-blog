@@ -1,0 +1,49 @@
+{
+  "place_id": "0x346e766340c7efc1:0x5751b719d7e7fe97",
+  "venue_name": "Du Hsiao Yueh Restaurant Tainan Chung Cheng Flagship Store",
+  "chips": [
+    {
+      "label": "danzai noodles",
+      "mention_count": 443
+    },
+    {
+      "label": "tainan snacks",
+      "mention_count": 40
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 88
+    },
+    {
+      "label": "traditional tofu pudding",
+      "mention_count": 46
+    },
+    {
+      "label": "stir-fried eel",
+      "mention_count": 13
+    },
+    {
+      "label": "oyster omelette",
+      "mention_count": 36
+    },
+    {
+      "label": "milkfish",
+      "mention_count": 45
+    },
+    {
+      "label": "du hsiao yueh",
+      "mention_count": 12
+    },
+    {
+      "label": "water spinach",
+      "mention_count": 18
+    },
+    {
+      "label": "danzai rice noodles",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:45Z",
+  "city": "Taipei",
+  "key": "braised-pork-rice-at-台南度小月-tu-hsiao-taipei"
+}

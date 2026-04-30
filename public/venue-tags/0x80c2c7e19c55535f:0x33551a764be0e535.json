@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7e19c55535f:0x33551a764be0e535",
+  "venue_name": "The Lab Gastropub",
+  "chips": [
+    {
+      "label": "spinach dip",
+      "mention_count": 12
+    },
+    {
+      "label": "patio",
+      "mention_count": 12
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 8
+    },
+    {
+      "label": "wings",
+      "mention_count": 13
+    },
+    {
+      "label": "bison burger",
+      "mention_count": 2
+    },
+    {
+      "label": "beer selection",
+      "mention_count": 11
+    },
+    {
+      "label": "pita chips",
+      "mention_count": 2
+    },
+    {
+      "label": "pricing",
+      "mention_count": 27
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 16
+    },
+    {
+      "label": "guacamole",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:07Z",
+  "city": "Los Angeles",
+  "key": "the-lab-gastropub-los-angele"
+}

@@ -20,6 +20,7 @@ city: Dtla
 region: Downtown LA
 cuisine:
 - Peruvian
+placeId: "0x80c2c77a4ea6cb59:0x4e85997cb100e54f"
 ---
 
 Mo-Chica in Dtla.

@@ -36,6 +36,7 @@ coordinates:
   lng: -118.294286
 cuisine:
 - Korean
+placeId: "0x80c2c77c853ad33b:0x2eb3db7671a6c8d1"
 ---
 
 Seongbukdong in Koreatown.

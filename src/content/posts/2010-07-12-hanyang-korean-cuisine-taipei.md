@@ -32,6 +32,7 @@ tags:
 - grilled-meat
 cuisine:
 - Korean
+placeId: "0x3442a945418ca96d:0xf68fcf3305a75588"
 ---
 
 SHARETHIS.addEntry({ title: "Hanyang Korean Cuisine, Taipei 韓國料理漢陽館", url: "http://www.thethirstypig.com/2010/07/12/hanyang-korean-cuisine-taipei/" });

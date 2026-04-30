@@ -25,6 +25,7 @@ city: Rowland Heights
 region: San Gabriel Valley
 cuisine:
 - Japanese
+placeId: "0x80c2db8be938fb59:0x41f38fe48a1d769e"
 ---
 
 This is the last in a series of Japanese restaurants. I started earlier this week with Yoshida Sushi, Shin Sen Gumi, Cafe Hiro, and now The Curry House.

@@ -25,6 +25,7 @@ tags:
 - cocktails
 cuisine:
 - American
+placeId: "0x80c2bfcf1c08a7d9:0x65a6475a6e032eb5"
 ---
 
 Arguably, the best happy hour on the Pudong side of Shanghai is at Morton’s the Steakhouse at the IFC shopping center. I recently had a chance to sample their great deal – for RMB 38 martini’s and complimentary petite filet mignon steak sandwiches. You could also get cosmopolitan, or appletini, or chocolate martini. I know I must have had 4 or 5 of these little sandwiches to go along with my 4 extra dirty vodka martini’s. I don’t consider myself a martini drinker, but if push comes to shove, I’d gladly take an extra dirty one with 3 or 4 olives. The only gripe I had was the smallish size of the green olives, with hand-stuffed blue cheese. I like the big juicy ones.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644cb90ebfb24e5:0x761a3437a346cb6a",
+  "venue_name": "Veracruz All Natural",
+  "chips": [
+    {
+      "label": "agua fresca",
+      "mention_count": 131
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 31
+    },
+    {
+      "label": "migas taco",
+      "mention_count": 54
+    },
+    {
+      "label": "vegan tacos",
+      "mention_count": 33
+    },
+    {
+      "label": "al pastor",
+      "mention_count": 114
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 110
+    },
+    {
+      "label": "smoothies",
+      "mention_count": 95
+    },
+    {
+      "label": "corn tortillas",
+      "mention_count": 75
+    },
+    {
+      "label": "steak tacos",
+      "mention_count": 55
+    },
+    {
+      "label": "barbacoa",
+      "mention_count": 57
+    }
+  ],
+  "scraped_at": "2026-04-30T06:16:02Z",
+  "city": "Austin",
+  "key": "veracruz-all-natural-austin"
+}

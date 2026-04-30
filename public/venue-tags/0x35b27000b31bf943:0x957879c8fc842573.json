@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b27000b31bf943:0x957879c8fc842573",
+  "venue_name": "PHO REAL",
+  "chips": [
+    {
+      "label": "milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "vietnamese",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:06Z",
+  "city": "Shanghai",
+  "key": "pho-real-shanghai"
+}

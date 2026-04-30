@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c33f6d7d93c9:0x95b61cb95c85ac50",
+  "venue_name": "The Slaw Dogs",
+  "chips": [
+    {
+      "label": "bulgogi",
+      "mention_count": 2
+    },
+    {
+      "label": "Chicago-Style Hot Dog",
+      "mention_count": 5
+    },
+    {
+      "label": "tater tots",
+      "mention_count": 2
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 2
+    },
+    {
+      "label": "truffle",
+      "mention_count": 2
+    },
+    {
+      "label": "gourmet",
+      "mention_count": 4
+    },
+    {
+      "label": "sweet potato",
+      "mention_count": 2
+    },
+    {
+      "label": "parmesan",
+      "mention_count": 3
+    },
+    {
+      "label": "chili",
+      "mention_count": 3
+    },
+    {
+      "label": "garlic",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:08Z",
+  "city": "Pasadena",
+  "key": "slaw-dogs-of-pasadena-pasadena"
+}

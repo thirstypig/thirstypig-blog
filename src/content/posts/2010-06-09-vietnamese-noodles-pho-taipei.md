@@ -39,6 +39,7 @@ coordinates:
   lng: -118.073014
 cuisine:
 - American
+placeId: "0x80c2da8e96d05277:0xfd92e6c6e71fd23"
 ---
 
 Sriracha sauce (Thai: ศรีราชา [sǐrātɕʰā]), a Thai spicy sauce, is not from Thailand or even Vietnam It is from [Rosemead](http://www.huyfong.com/) in Southern California, with Thai roots. In the states, the Rooster sauce, [originally](http://en.wikipedia.org/wiki/Sriracha_sauce) developed for Asian Americans, is used on buffalo wings, french fries, and other American foods, as well as Asian dishes.

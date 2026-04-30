@@ -31,6 +31,7 @@ address: 2315 South Garfield Ave
 region: San Gabriel Valley
 cuisine:
 - Italian
+placeId: "0x80c2cfea3c89207f:0x46204ea9b77be1ed"
 ---
 
 Traditional pizzas nowadays are tough to find. Pizza Hut, Domino’s, and Papa John’s dominate public perception of what a pizza is suppose to be like. Nuevo pies, such as California Pizza Kitchen, Wolfgang Puck’s, and to some extent Pizzeria Mozza are establishing standards for new generations. Chicago style, though my favorite, is more like a casserole, a quiche, or even like a meat pie. As much as I hate to give New Yorker’s credit, the thin crust pizza is proper one.

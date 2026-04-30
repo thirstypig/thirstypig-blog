@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b1261aaa75:0xf1d05dcf3e4e924b",
+  "venue_name": "Mendocino Farms",
+  "chips": [
+    {
+      "label": "not so fried chicken sandwich",
+      "mention_count": 8
+    },
+    {
+      "label": "couscous",
+      "mention_count": 6
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "farmer sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "salads",
+      "mention_count": 16
+    },
+    {
+      "label": "lemonade",
+      "mention_count": 7
+    },
+    {
+      "label": "steak sandwich",
+      "mention_count": 7
+    },
+    {
+      "label": "sides",
+      "mention_count": 10
+    },
+    {
+      "label": "avocado",
+      "mention_count": 12
+    },
+    {
+      "label": "banh mi",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:59Z",
+  "city": "Dtla",
+  "key": "mendocino-farms-dtla"
+}

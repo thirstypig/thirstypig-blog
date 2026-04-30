@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf2accdf0857:0x28baab47a2ca58e0",
+  "venue_name": "Pink's Hot Dogs",
+  "chips": [
+    {
+      "label": "chili dog",
+      "mention_count": 411
+    },
+    {
+      "label": "long lines",
+      "mention_count": 321
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 86
+    },
+    {
+      "label": "onion rings",
+      "mention_count": 316
+    },
+    {
+      "label": "pastrami",
+      "mention_count": 151
+    },
+    {
+      "label": "celebrity photos",
+      "mention_count": 269
+    },
+    {
+      "label": "chili cheese fries",
+      "mention_count": 90
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 53
+    },
+    {
+      "label": "burgers",
+      "mention_count": 102
+    },
+    {
+      "label": "guacamole",
+      "mention_count": 42
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:02Z",
+  "city": "Los Angeles",
+  "key": "pinks-hot-dogs-los-angele"
+}

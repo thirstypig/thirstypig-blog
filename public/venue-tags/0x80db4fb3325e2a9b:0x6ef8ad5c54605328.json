@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80db4fb3325e2a9b:0x6ef8ad5c54605328",
+  "venue_name": "El Mexicano II",
+  "chips": [
+    {
+      "label": "chile verde plate",
+      "mention_count": 3
+    },
+    {
+      "label": "burrito ranchero",
+      "mention_count": 2
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 24
+    },
+    {
+      "label": "live music",
+      "mention_count": 7
+    },
+    {
+      "label": "chile relleno",
+      "mention_count": 4
+    },
+    {
+      "label": "friendly waitress",
+      "mention_count": 4
+    },
+    {
+      "label": "mole",
+      "mention_count": 3
+    },
+    {
+      "label": "fireplace",
+      "mention_count": 2
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 3
+    },
+    {
+      "label": "gracious owners",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:07:36Z",
+  "city": "Shanghai",
+  "key": "el-mexicano-shanghai"
+}

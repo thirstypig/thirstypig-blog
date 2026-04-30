@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80858098bacce0a1:0x86f3d2e30e8e0eb0",
+  "venue_name": "Dark Garden",
+  "chips": [
+    {
+      "label": "corset",
+      "mention_count": 32
+    },
+    {
+      "label": "custom corset",
+      "mention_count": 8
+    },
+    {
+      "label": "helpful staff",
+      "mention_count": 16
+    },
+    {
+      "label": "wedding dress",
+      "mention_count": 2
+    },
+    {
+      "label": "skilled seamstresses",
+      "mention_count": 2
+    },
+    {
+      "label": "beautiful decor",
+      "mention_count": 2
+    },
+    {
+      "label": "boutique",
+      "mention_count": 4
+    },
+    {
+      "label": "retail experience",
+      "mention_count": 2
+    },
+    {
+      "label": "clothes",
+      "mention_count": 11
+    },
+    {
+      "label": "autumn",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T05:20:54Z",
+  "city": "San Francisco",
+  "key": "pho-garden-san-franci"
+}

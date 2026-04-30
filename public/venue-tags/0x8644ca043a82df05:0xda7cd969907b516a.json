@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644ca043a82df05:0xda7cd969907b516a",
+  "venue_name": "Paco's Tacos",
+  "chips": [
+    {
+      "label": "migas taco",
+      "mention_count": 21
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 81
+    },
+    {
+      "label": "habanero salsa",
+      "mention_count": 12
+    },
+    {
+      "label": "margaritas",
+      "mention_count": 23
+    },
+    {
+      "label": "live music",
+      "mention_count": 13
+    },
+    {
+      "label": "carnitas taco",
+      "mention_count": 10
+    },
+    {
+      "label": "brisket taco",
+      "mention_count": 8
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 6
+    },
+    {
+      "label": "mimosas",
+      "mention_count": 9
+    },
+    {
+      "label": "salsas",
+      "mention_count": 62
+    }
+  ],
+  "scraped_at": "2026-04-30T06:16:23Z",
+  "city": "Austin",
+  "key": "pacos-tacos-austin"
+}

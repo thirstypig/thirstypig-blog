@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b26559d4908127:0xfbb144ca32c7f7b2",
+  "venue_name": "Jesse Restaurant",
+  "chips": [
+    {
+      "label": "braised pork",
+      "mention_count": 13
+    },
+    {
+      "label": "authentic shanghainese cuisine",
+      "mention_count": 5
+    },
+    {
+      "label": "dongpo pork",
+      "mention_count": 10
+    },
+    {
+      "label": "scallion oil noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 3
+    },
+    {
+      "label": "lamb skewers",
+      "mention_count": 2
+    },
+    {
+      "label": "xiaolongbao",
+      "mention_count": 2
+    },
+    {
+      "label": "Tomato Egg",
+      "mention_count": 2
+    },
+    {
+      "label": "eels",
+      "mention_count": 2
+    },
+    {
+      "label": "korean menu",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:59:22Z",
+  "city": "Shanghai",
+  "key": "restaurant-jesse-吉士-of-shanghai-shanghai"
+}

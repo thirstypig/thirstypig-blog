@@ -23,6 +23,7 @@ tags:
 - beer
 cuisine:
 - German
+placeId: "0x35b270fcd92c2287:0x1f40bc3a616207d"
 ---
 
 Paulaner, Xintiandi

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4",
+  "venue_name": "Umeko Taiwanese Cuisine",
+  "chips": [
+    {
+      "label": "pork liver",
+      "mention_count": 82
+    },
+    {
+      "label": "danzai noodles",
+      "mention_count": 11
+    },
+    {
+      "label": "red crab rice cake",
+      "mention_count": 45
+    },
+    {
+      "label": "freshwater clams",
+      "mention_count": 21
+    },
+    {
+      "label": "crab okowa",
+      "mention_count": 22
+    },
+    {
+      "label": "water spinach",
+      "mention_count": 19
+    },
+    {
+      "label": "eel rice",
+      "mention_count": 11
+    },
+    {
+      "label": "preserved radish omelette",
+      "mention_count": 10
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 23
+    },
+    {
+      "label": "fried rice vermicelli",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:06Z",
+  "city": "Taipei",
+  "key": "umeko-梅子餐廳-taipei"
+}

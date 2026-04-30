@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c550a81662e1:0x967bbca955c471f4",
+  "venue_name": "HongKong Cafe 香港茶餐廳",
+  "chips": [
+    {
+      "label": "pineapple bun",
+      "mention_count": 32
+    },
+    {
+      "label": "cheong fun",
+      "mention_count": 13
+    },
+    {
+      "label": "french toast",
+      "mention_count": 6
+    },
+    {
+      "label": "authentic cantonese food",
+      "mention_count": 8
+    },
+    {
+      "label": "curry dishes",
+      "mention_count": 9
+    },
+    {
+      "label": "beef brisket noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "cash only",
+      "mention_count": 7
+    },
+    {
+      "label": "curry fish balls",
+      "mention_count": 3
+    },
+    {
+      "label": "nostalgic feeling",
+      "mention_count": 4
+    },
+    {
+      "label": "fried noodle",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:18Z",
+  "city": "Monterey Park",
+  "key": "hong-kong-cafe-monterey-p"
+}

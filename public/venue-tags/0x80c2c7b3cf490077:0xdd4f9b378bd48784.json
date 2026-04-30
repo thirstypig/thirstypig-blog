@@ -1,0 +1,33 @@
+{
+  "place_id": "0x80c2c7b3cf490077:0xdd4f9b378bd48784",
+  "venue_name": "Chaya Downtown",
+  "chips": [
+    {
+      "label": "tartare",
+      "mention_count": 3
+    },
+    {
+      "label": "goat cheese",
+      "mention_count": 2
+    },
+    {
+      "label": "bento box",
+      "mention_count": 5
+    },
+    {
+      "label": "fan",
+      "mention_count": 3
+    },
+    {
+      "label": "appetizers",
+      "mention_count": 6
+    },
+    {
+      "label": "croissant",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:39Z",
+  "city": "Beverly Hills",
+  "key": "los-angeles-chaya-downtown-beverly-hi"
+}

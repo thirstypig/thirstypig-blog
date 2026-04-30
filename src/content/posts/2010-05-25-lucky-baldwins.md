@@ -31,6 +31,7 @@ address: '21 Kersting Court
   Sierra Madre, CA 91024'
 cuisine:
 - British
+placeId: "0x80c2dc70a55dec9f:0xb6fb22305677e5c7"
 ---
 
 Lucky Baldwin is an English Pub with fare found from the other side of the pond. You’ll find Bangers & Mash, Traditional Meat Pies, and Fish & Chips.

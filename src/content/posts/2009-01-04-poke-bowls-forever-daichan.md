@@ -26,6 +26,7 @@ tags:
 city: Studio City
 cuisine:
 - Japanese
+placeId: "0x80c2bfc7fc72cf0f:0x8e078e9252256d3e"
 ---
 
 Daichan has one of the few things in this world I would eat everyday. Their poke bowls are hearty, yet healthy. With the combination of the salad components with the fish and rice make this meal complete. I’ve been going to Daichan for years, yet only a couple of times a year. Not exactly close to where I live, but Daichan is well worth the trek.

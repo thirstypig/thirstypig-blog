@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b26fe7a9296bad:0x653a4654f07059ed",
+  "venue_name": "Haidilao Hot Pot",
+  "chips": [
+    {
+      "label": "spicy broth",
+      "mention_count": 2
+    },
+    {
+      "label": "noodle show",
+      "mention_count": 2
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 2
+    },
+    {
+      "label": "candy",
+      "mention_count": 2
+    },
+    {
+      "label": "location",
+      "mention_count": 2
+    },
+    {
+      "label": "tomato",
+      "mention_count": 4
+    },
+    {
+      "label": "manicure",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    },
+    {
+      "label": "hotel",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T00:12:24Z",
+  "city": "Shanghai",
+  "key": "haidilao-shanghai"
+}

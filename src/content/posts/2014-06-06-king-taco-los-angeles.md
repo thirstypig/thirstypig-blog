@@ -25,6 +25,7 @@ coordinates:
   lng: -118.282369
 cuisine:
 - Mexican
+placeId: "0x80c2c790b7d6456f:0x2efed3dcf9f07792"
 ---
 
 [![IMG_1125](/images/posts/king-taco-los-angeles/psb-8.jpg "IMG_1125")](http://thirstypig.com/2014/06/06/king-taco-los-angeles/img_1125/)

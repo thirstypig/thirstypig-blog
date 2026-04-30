@@ -33,6 +33,7 @@ coordinates:
   lng: -118.25093
 cuisine:
 - Korean
+placeId: "0x80c2c7cb50cbde27:0x657b5b84be1a31ec"
 ---
 
 BROKEN MOUTH | Lee's Homestyle in Los Angeles.

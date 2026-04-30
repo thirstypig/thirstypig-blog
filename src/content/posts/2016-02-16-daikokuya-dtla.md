@@ -22,6 +22,7 @@ region: Downtown LA
 address: 327 East 1st St
 cuisine:
 - Japanese
+placeId: "0x80c2c647c36efd67:0xc53f5231ed83a07c"
 ---
 
 [![IMG_2229](/images/posts/daikokuya-dtla/IMG_2229.jpg "IMG_2229")](http://thirstypig.com/2016/02/16/daikokuya-dtla/img_2229/)

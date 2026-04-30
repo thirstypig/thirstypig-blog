@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259e61562f0a9:0x826e55a65b25ea65",
+  "venue_name": "Brooklyn Bagel & Coffee Company",
+  "chips": [
+    {
+      "label": "egg bagel",
+      "mention_count": 4
+    },
+    {
+      "label": "nyc bagel",
+      "mention_count": 8
+    },
+    {
+      "label": "everything bagel",
+      "mention_count": 74
+    },
+    {
+      "label": "fresh squeezed orange juice",
+      "mention_count": 6
+    },
+    {
+      "label": "scallion cream cheese",
+      "mention_count": 10
+    },
+    {
+      "label": "tofu spread",
+      "mention_count": 5
+    },
+    {
+      "label": "schmears",
+      "mention_count": 5
+    },
+    {
+      "label": "bagel size",
+      "mention_count": 14
+    },
+    {
+      "label": "smoked salmon",
+      "mention_count": 9
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:23Z",
+  "city": "New York",
+  "key": "brooklyn-bagel-coffee-company-new-york"
+}

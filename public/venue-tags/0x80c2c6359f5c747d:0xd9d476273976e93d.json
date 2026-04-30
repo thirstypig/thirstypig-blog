@@ -1,0 +1,13 @@
+{
+  "place_id": "0x80c2c6359f5c747d:0xd9d476273976e93d",
+  "venue_name": "Blu LA Cafe",
+  "chips": [
+    {
+      "label": "burgers",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:14Z",
+  "city": "Downtown Los Angeles",
+  "key": "blu-la-cafe-downtown-l"
+}

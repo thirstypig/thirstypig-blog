@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32a67287308b5:0xa58472765ca02732",
+  "venue_name": "Garden Bistro",
+  "chips": [
+    {
+      "label": "pork chop",
+      "mention_count": 12
+    },
+    {
+      "label": "peking duck pizza",
+      "mention_count": 7
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 7
+    },
+    {
+      "label": "fried rice noodle with beef",
+      "mention_count": 2
+    },
+    {
+      "label": "korean short rib",
+      "mention_count": 2
+    },
+    {
+      "label": "pork feet",
+      "mention_count": 2
+    },
+    {
+      "label": "baked bolognese",
+      "mention_count": 2
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 3
+    },
+    {
+      "label": "black pepper sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "free drink refills",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:21:10Z",
+  "city": "Rowland Heights",
+  "key": "garden-bistro-rowland-he"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2a355ea01126b:0x961c586091df6591",
+  "venue_name": "PLATEFIT",
+  "chips": [
+    {
+      "label": "lymphatic drainage",
+      "mention_count": 7
+    },
+    {
+      "label": "full body workout",
+      "mention_count": 6
+    },
+    {
+      "label": "intense workout",
+      "mention_count": 6
+    },
+    {
+      "label": "quick classes",
+      "mention_count": 2
+    },
+    {
+      "label": "detox",
+      "mention_count": 3
+    },
+    {
+      "label": "effective workout",
+      "mention_count": 5
+    },
+    {
+      "label": "varied classes",
+      "mention_count": 3
+    },
+    {
+      "label": "instructors",
+      "mention_count": 12
+    },
+    {
+      "label": "welcoming atmosphere",
+      "mention_count": 5
+    },
+    {
+      "label": "motivational push",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:18:57Z",
+  "city": "Los Angeles",
+  "key": "plate-by-plate-2009-los-angele"
+}

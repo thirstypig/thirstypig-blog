@@ -21,6 +21,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x86445ea1200576a9:0x28fc4cc3aa69a5f2"
 ---
 
 ![First attempt at making Snow’s BBQ famous pork steak](/images/posts/ig-2021-05-15-first-attempt-at-making-snows-bbq-famous-pork-steak/17910630751816508.jpg)

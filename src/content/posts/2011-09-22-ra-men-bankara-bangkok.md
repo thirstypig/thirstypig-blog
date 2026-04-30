@@ -30,6 +30,7 @@ tags:
 - ramen
 cuisine:
 - Japanese
+placeId: "0x30e29f010aba72bd:0xa6d5c5e987f165ff"
 ---
 
 Trust in Mr. B. . . that’s what I kept saying. After being lead through traffic on motorcycle taxis, we had finally arrived. Just minutes ago, I was sweating bullets from the fear while riding riding the motorcycles, but now my perspiration from the ramen I was happily consuming in this hot summer heat in Bangkok. With the sights, sounds, flavors, and sensory overload, I just about worn out from this experience in Bangkok, after only 4 days. But it was just the start of a crazy night for us in Bangkok.

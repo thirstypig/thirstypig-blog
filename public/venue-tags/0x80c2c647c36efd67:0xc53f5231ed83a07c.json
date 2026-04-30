@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c647c36efd67:0xc53f5231ed83a07c",
+  "venue_name": "Daikokuya Little Tokyo",
+  "chips": [
+    {
+      "label": "Daikoku Ramen and Small Fried Rice",
+      "mention_count": 15
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 50
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 22
+    },
+    {
+      "label": "tonkatsu ramen",
+      "mention_count": 37
+    },
+    {
+      "label": "spicy miso ramen",
+      "mention_count": 33
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 10
+    },
+    {
+      "label": "poke bowl",
+      "mention_count": 19
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 67
+    },
+    {
+      "label": "wait time",
+      "mention_count": 200
+    },
+    {
+      "label": "chashu pork bowl",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:17Z",
+  "city": "Dtla",
+  "key": "daikokuya-dtla"
+}

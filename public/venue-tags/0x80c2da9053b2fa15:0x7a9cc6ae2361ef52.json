@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2da9053b2fa15:0x7a9cc6ae2361ef52",
+  "venue_name": "Hunan Maojia",
+  "chips": [
+    {
+      "label": "fish head",
+      "mention_count": 5
+    },
+    {
+      "label": "cilantro",
+      "mention_count": 2
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 2
+    },
+    {
+      "label": "cured meat",
+      "mention_count": 3
+    },
+    {
+      "label": "eggplant",
+      "mention_count": 2
+    },
+    {
+      "label": "hunan cuisine",
+      "mention_count": 2
+    },
+    {
+      "label": "waitress",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 16
+    },
+    {
+      "label": "food",
+      "mention_count": 5
+    },
+    {
+      "label": "dishes",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:43Z",
+  "city": "Sgv",
+  "key": "hunan-mao-restaurant-sgv"
+}

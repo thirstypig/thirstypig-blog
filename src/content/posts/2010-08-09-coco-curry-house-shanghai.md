@@ -39,6 +39,7 @@ coordinates:
   lng: 121.454254
 cuisine:
 - Japanese
+placeId: "0x35b27010fa74fc4f:0x6631a320c9365f6f"
 ---
 
 Curry has origins from India, yet, is arguably perfected in Japan. House Foods Corporation has spread the Curry Gospel to the US with the Curry House. See [my previous post](http://www.thethirstypig.com/2010/01/16/curry-house-rowland-heights/) about the Rowland Heights location, a few month ago. In [2004](http://housefoods.jp/en/company/information/history.html), House Foods, opened CoCo Curry House.

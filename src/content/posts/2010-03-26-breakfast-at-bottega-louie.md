@@ -40,6 +40,7 @@ coordinates:
   lng: -118.256603
 cuisine:
 - Italian
+placeId: "0x80c2c7b44ee125ff:0x189e483154a17e53"
 ---
 
 Bottega Louie in Downtown LA.

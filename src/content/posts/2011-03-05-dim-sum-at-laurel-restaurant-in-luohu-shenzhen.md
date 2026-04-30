@@ -26,6 +26,7 @@ coordinates:
   lng: 114.166155
 cuisine:
 - Chinese
+placeId: "0x340400c87f7050dd:0x9d5d3e514f723438"
 ---
 
 Shenzhen is the city located right across the border from Hong Kong. You might say it is the Tijuana of China. A little over 30 years ago, this sleepy town, with around 30,000 people, is growing to over a serious 8 million today. At one of the 6 major border crossings, in the Luohu district, a mind-boggling 100 million people cross between China and Hong Kong every year. Right by this transportation hub, of buses, subways, and trains, a large 5 story mall of knock-offs, fake electronics, and other knick knacks for all type of tourists alike.

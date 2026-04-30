@@ -29,6 +29,7 @@ coordinates:
   lng: -118.256086
 cuisine:
 - American
+placeId: "0x80c2c7867bbcdd5b:0x3f07d0f76deaa19d"
 ---
 
 California Chicken Cafe is my favorite chicken place. I’ve been a loyal fan and have been going to the Melrose location for over 10 years. Situated near Highland and on Melrose, California Chicken Cafe is a local lunch favorite for the studios nearby.

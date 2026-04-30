@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c244353f830641:0x7236f2dccccf97c0",
+  "venue_name": "Nathan's Famous",
+  "chips": [
+    {
+      "label": "hot dogs",
+      "mention_count": 1392
+    },
+    {
+      "label": "frog legs",
+      "mention_count": 178
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 57
+    },
+    {
+      "label": "clams",
+      "mention_count": 164
+    },
+    {
+      "label": "corn dogs",
+      "mention_count": 87
+    },
+    {
+      "label": "long lines",
+      "mention_count": 252
+    },
+    {
+      "label": "chili cheese dog",
+      "mention_count": 65
+    },
+    {
+      "label": "lobster roll",
+      "mention_count": 55
+    },
+    {
+      "label": "cheese fries",
+      "mention_count": 240
+    },
+    {
+      "label": "sauerkraut",
+      "mention_count": 43
+    }
+  ],
+  "scraped_at": "2026-04-30T00:17:34Z",
+  "city": "New York",
+  "key": "nathans-famous-new-york"
+}

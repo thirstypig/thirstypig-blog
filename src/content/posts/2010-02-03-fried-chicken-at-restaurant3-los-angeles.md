@@ -28,6 +28,7 @@ coordinates:
   lng: -118.252241
 cuisine:
 - American
+placeId: "0x80c2c64acc47a679:0xef77d725998a9373"
 ---
 
 On the suggestion from a friend, Miss J, I was told that Restaurant3, formerly known as Cynthia’s had some of the best fried chicken.

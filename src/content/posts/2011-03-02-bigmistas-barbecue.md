@@ -23,6 +23,7 @@ coordinates:
   lng: -118.26007
 cuisine:
 - BBQ
+placeId: "0x80c2c0dbba6bb079:0x2971a086dade9be6"
 ---
 
 I had heard of Bigmista and his wonderful Barbecue from twitter feeds, blogger pundits, and the LA rags. Yet, I could never find a way or excuse to one of his farmer market appearances. So, this last trip to Los Angeles, [Sinosoul](http://www. Sinosoul.com) and I decided on making a trek to the holy BBQ church of Bigmista.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b5d981ab93:0xf6351c55f41f120c",
+  "venue_name": "El Tejano",
+  "chips": [
+    {
+      "label": "fire pit",
+      "mention_count": 3
+    },
+    {
+      "label": "free chips",
+      "mention_count": 2
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 10
+    },
+    {
+      "label": "wings",
+      "mention_count": 24
+    },
+    {
+      "label": "tvs",
+      "mention_count": 14
+    },
+    {
+      "label": "watching games",
+      "mention_count": 4
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 28
+    },
+    {
+      "label": "pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "tacos",
+      "mention_count": 7
+    },
+    {
+      "label": "salsa",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:49Z",
+  "city": "Dtla",
+  "key": "big-wangs-dtla"
+}

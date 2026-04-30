@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b26ff873f05379:0xf6ee4c906466cb87",
+  "venue_name": "Fu 1088",
+  "chips": [
+    {
+      "label": "private rooms",
+      "mention_count": 4
+    },
+    {
+      "label": "michelin one-star",
+      "mention_count": 6
+    },
+    {
+      "label": "braised pork belly",
+      "mention_count": 4
+    },
+    {
+      "label": "authentic shanghainese cuisine",
+      "mention_count": 3
+    },
+    {
+      "label": "stir-fried crab roe with toast",
+      "mention_count": 2
+    },
+    {
+      "label": "old shanghai smoked fish",
+      "mention_count": 2
+    },
+    {
+      "label": "hairy crab",
+      "mention_count": 3
+    },
+    {
+      "label": "colonial house",
+      "mention_count": 2
+    },
+    {
+      "label": "classic dishes",
+      "mention_count": 3
+    },
+    {
+      "label": "wine",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:55:03Z",
+  "city": "Shanghai",
+  "key": "福1088-shanghai"
+}

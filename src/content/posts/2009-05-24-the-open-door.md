@@ -23,6 +23,7 @@ tags:
 cuisine:
 - Fusion
 city: Monterey Park
+placeId: "0x80c2c55da1f1b3f7:0xd7e029e083760929"
 ---
 
 The Open Door.

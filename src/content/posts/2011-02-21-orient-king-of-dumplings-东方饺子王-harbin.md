@@ -21,6 +21,7 @@ location: Orient King of Dumplings 东方饺子王
 city: Harbin
 cuisine:
 - Chinese
+placeId: "0x5e4478c0de819465:0x3f49f8cf905e6e67"
 ---
 
 One of the more popular restaurant chains in Harbin is Orient King 东方饺子王 (Dongfang Jiaozi Wang). Based on referrals from locals, the hotel, and the drivers, Orient King was a place that we had to try.

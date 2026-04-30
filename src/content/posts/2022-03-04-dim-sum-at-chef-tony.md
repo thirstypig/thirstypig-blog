@@ -30,6 +30,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x340400c87f7050dd:0x9d5d3e514f723438"
 ---
 
 ![Dim Sum at Chef Tony](/images/posts/ig-2022-03-04-dim-sum-at-chef-tony/17909755763432610.jpg)

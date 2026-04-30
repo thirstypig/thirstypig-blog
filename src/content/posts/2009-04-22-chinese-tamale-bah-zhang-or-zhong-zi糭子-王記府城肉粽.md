@@ -27,6 +27,7 @@ coordinates:
   lng: 121.507464
 cuisine:
 - Chinese
+placeId: "0x3442a90eb1669751:0xb26b16ee4149020"
 ---
 
 This place in Taipei is known for their Chinese Tamale. A Taipei institution – this place is open late and seems to always have a diverse young and old crowd. Their limited menu featuring the Bah Zhang and some side dishes and soups – keeps everyone happy with consistency.

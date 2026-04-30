@@ -39,6 +39,7 @@ originalUrl: 'http://www.thethirstypig.com:80/2010/04/01/a-sweet-little-wine-bar
 archiveUrl: 'https://web.archive.org/web/20100417225856/http://www.thethirstypig.com:80/2010/04/01/a-sweet-little-wine-bar-bacaro/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80c2c7ec5d711435:0xc4e5b8e93183c6c9"
 ---
 
 ***

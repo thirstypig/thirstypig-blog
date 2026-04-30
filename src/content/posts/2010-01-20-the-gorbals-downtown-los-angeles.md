@@ -26,6 +26,7 @@ city: Downtown Los Angeles
 region: Downtown LA
 cuisine:
 - Scottish
+placeId: "0x80c2c64af5c25319:0xbe023bd1f6425296"
 ---
 
 The Gorbals is new restaurant that opened in Downtown LA, late last year, in 2009. They are in an interesting space on the first floor of a converted loft apartment building.

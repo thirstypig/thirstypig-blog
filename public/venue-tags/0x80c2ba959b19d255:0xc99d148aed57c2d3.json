@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba959b19d255:0xc99d148aed57c2d3",
+  "venue_name": "Erewhon Venice",
+  "chips": [
+    {
+      "label": "vegan options",
+      "mention_count": 23
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 83
+    },
+    {
+      "label": "fresh produce",
+      "mention_count": 20
+    },
+    {
+      "label": "sushi",
+      "mention_count": 26
+    },
+    {
+      "label": "salads",
+      "mention_count": 19
+    },
+    {
+      "label": "salmon",
+      "mention_count": 8
+    },
+    {
+      "label": "hot bar",
+      "mention_count": 18
+    },
+    {
+      "label": "supplements",
+      "mention_count": 10
+    },
+    {
+      "label": "prepared foods",
+      "mention_count": 15
+    },
+    {
+      "label": "buffalo cauliflower",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:19:18Z",
+  "city": "Venice",
+  "key": "erewhon-natural-foods-market-venice"
+}

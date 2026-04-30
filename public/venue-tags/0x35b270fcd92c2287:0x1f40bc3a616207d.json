@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b270fcd92c2287:0x1f40bc3a616207d",
+  "venue_name": "Paulaner Brauhaus Shanghai At Binjiang Branch",
+  "chips": [
+    {
+      "label": "view on bund",
+      "mention_count": 9
+    },
+    {
+      "label": "river view",
+      "mention_count": 4
+    },
+    {
+      "label": "pork knuckle",
+      "mention_count": 6
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "german beer",
+      "mention_count": 3
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 4
+    },
+    {
+      "label": "pretzels",
+      "mention_count": 7
+    },
+    {
+      "label": "biergarten",
+      "mention_count": 5
+    },
+    {
+      "label": "weiss beer",
+      "mention_count": 3
+    },
+    {
+      "label": "sausages",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T06:06:29Z",
+  "city": "Shanghai",
+  "key": "paulaners-sunday-brunch-shanghai"
+}

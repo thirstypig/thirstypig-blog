@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b55c9a437961:0xdb65a4103db59a56",
+  "venue_name": "Shin-Sen-Gumi Chanko - Gardena",
+  "chips": [
+    {
+      "label": "pork belly",
+      "mention_count": 26
+    },
+    {
+      "label": "kobe beef",
+      "mention_count": 11
+    },
+    {
+      "label": "chicken thighs",
+      "mention_count": 13
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 9
+    },
+    {
+      "label": "meatballs",
+      "mention_count": 14
+    },
+    {
+      "label": "small portions",
+      "mention_count": 10
+    },
+    {
+      "label": "yakitori selection",
+      "mention_count": 5
+    },
+    {
+      "label": "Plain Rice Ball and Rice Ball with Sauce and Shiso",
+      "mention_count": 5
+    },
+    {
+      "label": "Takoyaki",
+      "mention_count": 5
+    },
+    {
+      "label": "scallops",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:21:16Z",
+  "city": "Gardena",
+  "key": "shin-sen-gumi-yakitori-gardena"
+}

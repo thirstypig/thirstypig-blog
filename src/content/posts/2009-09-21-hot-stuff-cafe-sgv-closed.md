@@ -18,6 +18,7 @@ city: Sgv
 region: San Gabriel Valley
 cuisine:
 - Coffee
+placeId: "0x80c2c50054aeb473:0x7ec4c6bc1591eb09"
 ---
 
 Hot Stuff Cafe in Sgv.

@@ -24,6 +24,7 @@ coordinates:
   lng: 121.45263
 cuisine:
 - Multi
+placeId: "0x35b27069bae30e4f:0x69bed10757a4f1b8"
 ---
 
 

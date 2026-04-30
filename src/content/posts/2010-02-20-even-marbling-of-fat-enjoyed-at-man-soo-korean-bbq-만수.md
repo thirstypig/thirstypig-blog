@@ -41,6 +41,7 @@ coordinates:
   lng: -118.24861
 cuisine:
 - Korean
+placeId: "0x80c2c7f325185515:0x3e0bb5e538304f32"
 ---
 
 Miss C made the daring selection for us tonight. Since she is Korean, I trust her judgment in K-Town selections . . . thank goodness. She said she noticed Man Soo, which was opening, while driving around in K-Town. . .

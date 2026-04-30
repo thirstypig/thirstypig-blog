@@ -26,6 +26,7 @@ city: San Antonio
 region: Texas
 cuisine:
 - BBQ
+placeId: "0x865cf7285d544c3f:0xe0e431d387677804"
 ---
 
 ![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17862320248140384.jpg)

@@ -28,6 +28,7 @@ coordinates:
   lng: -118.255696
 cuisine:
 - American
+placeId: "0x80c2c623c7dbc2c1:0x9ee6c1bd6413889f"
 ---
 
 Royal Claytons is an English Pub located in the new trendy industrial area of Downtown Los Angeles. They feature British food in a dark spacious bar. Royal Clayton’s English Pub, the full name, is an excellent destination drinking place for a group of friends.

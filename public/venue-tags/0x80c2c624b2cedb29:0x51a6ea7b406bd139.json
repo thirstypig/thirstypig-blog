@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c624b2cedb29:0x51a6ea7b406bd139",
+  "venue_name": "The Factory Kitchen",
+  "chips": [
+    {
+      "label": "handkerchief pasta",
+      "mention_count": 29
+    },
+    {
+      "label": "prosciutto",
+      "mention_count": 49
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 6
+    },
+    {
+      "label": "pesto pasta",
+      "mention_count": 20
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 20
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 9
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 11
+    },
+    {
+      "label": "casonzei",
+      "mention_count": 8
+    },
+    {
+      "label": "Arugula Salad",
+      "mention_count": 8
+    },
+    {
+      "label": "focaccia",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:11Z",
+  "city": "Dtla",
+  "key": "the-factory-kitchen-dtla"
+}

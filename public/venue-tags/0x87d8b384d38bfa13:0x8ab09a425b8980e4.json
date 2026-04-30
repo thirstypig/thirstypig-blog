@@ -1,0 +1,49 @@
+{
+  "place_id": "0x87d8b384d38bfa13:0x8ab09a425b8980e4",
+  "venue_name": "Peacemaker Lobster & Crab",
+  "chips": [
+    {
+      "label": "lobster roll",
+      "mention_count": 374
+    },
+    {
+      "label": "hush puppies",
+      "mention_count": 109
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 14
+    },
+    {
+      "label": "lobster bisque",
+      "mention_count": 57
+    },
+    {
+      "label": "po boys",
+      "mention_count": 108
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 9
+    },
+    {
+      "label": "oysters",
+      "mention_count": 189
+    },
+    {
+      "label": "shrimp boil",
+      "mention_count": 39
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 47
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 47
+    }
+  ],
+  "scraped_at": "2026-04-30T06:17:12Z",
+  "city": "New Orleans",
+  "key": "peacemaker-new-orlean"
+}

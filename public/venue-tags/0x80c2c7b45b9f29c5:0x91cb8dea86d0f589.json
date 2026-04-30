@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b45b9f29c5:0x91cb8dea86d0f589",
+  "venue_name": "Casey's Irish Pub",
+  "chips": [
+    {
+      "label": "ping pong",
+      "mention_count": 41
+    },
+    {
+      "label": "pool tables",
+      "mention_count": 21
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 29
+    },
+    {
+      "label": "dive bar",
+      "mention_count": 7
+    },
+    {
+      "label": "patio",
+      "mention_count": 18
+    },
+    {
+      "label": "live music",
+      "mention_count": 31
+    },
+    {
+      "label": "darts",
+      "mention_count": 21
+    },
+    {
+      "label": "shepherds pie",
+      "mention_count": 6
+    },
+    {
+      "label": "jameson",
+      "mention_count": 5
+    },
+    {
+      "label": "whiskey selection",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T00:22:10Z",
+  "city": "Downtown LA",
+  "key": "caseys-irish-pub-downtown-l"
+}

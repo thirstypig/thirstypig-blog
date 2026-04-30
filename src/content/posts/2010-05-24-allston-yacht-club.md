@@ -39,6 +39,7 @@ coordinates:
   lng: -118.259074
 cuisine:
 - Cocktails
+placeId: "0x80dd37c6665647cf:0xdf985df1783be895"
 ---
 
 SHARETHIS.addEntry({ title: 'Allston Yacht Club of Echo Park, Los Feliz', url: "http://www.thethirstypig.com/2010/05/24/allston-yacht-club/" });

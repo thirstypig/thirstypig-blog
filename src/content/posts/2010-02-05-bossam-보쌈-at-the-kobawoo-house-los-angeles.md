@@ -26,6 +26,7 @@ city: Los Angeles
 region: Koreatown
 cuisine:
 - Korean
+placeId: "0x80c2c7796df6ffd3:0xc6c9b606f7866317"
 ---
 
 Not your typical Korean restaurant . . . Kobawoo has pretty good pork – bossam dish. It seems that I am attracted to pork, not sure why.

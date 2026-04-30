@@ -26,6 +26,7 @@ coordinates:
   lng: 139.72573
 cuisine:
 - Japanese
+placeId: "0x80c2c647c36efd67:0xc53f5231ed83a07c"
 ---
 
 ![Dinner with the wife at Daikokuya Ramen in Little Tokyo in DTLA](/images/posts/ig-2019-04-16-dinner-with-the-wife-at-daikokuya-ramen-in-little-tokyo-in-d/18020352979164341.jpg)

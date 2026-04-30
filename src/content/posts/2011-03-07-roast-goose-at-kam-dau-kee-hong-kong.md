@@ -26,6 +26,7 @@ coordinates:
   lng: 114.15361
 cuisine:
 - Chinese
+placeId: "0x3404007b725ae8d1:0xf99565d46d4821e8"
 ---
 
 Roast Goose 燒鵝 is the preferred fowl in Hong Kong. Yet, geese are much more pricey than other winged animals, such as the duck or chicken, except maybe an ostrich. Economics is the reason why duck is so much more popular in Southern China and Hong Kong. If you ever see it on the menu, it is strongly suggested that you try it. The goose is so good, when roasted the tender meat and the crispy skin. Though this description also describes duck, has a more oily with slightly different flavors.

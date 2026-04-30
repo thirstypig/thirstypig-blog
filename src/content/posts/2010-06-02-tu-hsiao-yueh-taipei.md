@@ -39,6 +39,7 @@ region: Taipei
 address: 4 Jhongsiao E. Road
 cuisine:
 - Taiwanese
+placeId: "0x346e766340c7efc1:0x5751b719d7e7fe97"
 ---
 
 Tu Hsiao Yueh, hails from Tainan – a city in southern Taiwan, is known for traditional Taiwanese food. You’ll find all sorts of foreign visitors waiting for a table, like Americans, Japanese,and Hong Kongers. Their flagship location, in the heart of the eastern district of Taipei on Jhong Hsiao East Road, is on a bustling alley of the main road. Some of the best neighborhood restaurants are off the beaten path.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644cbf395fc96e7:0x327bccf833759dfa",
+  "venue_name": "Tinys Milk & Cookies - Austin",
+  "chips": [
+    {
+      "label": "chocolate chip cookies",
+      "mention_count": 103
+    },
+    {
+      "label": "cinnamon roll",
+      "mention_count": 25
+    },
+    {
+      "label": "no seating",
+      "mention_count": 5
+    },
+    {
+      "label": "sugar cookie",
+      "mention_count": 13
+    },
+    {
+      "label": "scones",
+      "mention_count": 11
+    },
+    {
+      "label": "brioche bun",
+      "mention_count": 10
+    },
+    {
+      "label": "chocolate croissant",
+      "mention_count": 9
+    },
+    {
+      "label": "ice cream",
+      "mention_count": 68
+    },
+    {
+      "label": "cookie dough",
+      "mention_count": 6
+    },
+    {
+      "label": "morning bun",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:30Z",
+  "city": "Austin",
+  "key": "austins-cookie-delivery-austin"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b50c20337d41:0x8ff870c7261d811e",
+  "venue_name": "Valentina's Tex Mex BBQ",
+  "chips": [
+    {
+      "label": "brisket tacos",
+      "mention_count": 185
+    },
+    {
+      "label": "carnitas taco",
+      "mention_count": 51
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 29
+    },
+    {
+      "label": "queso",
+      "mention_count": 226
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 64
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 143
+    },
+    {
+      "label": "tex mex bbq",
+      "mention_count": 35
+    },
+    {
+      "label": "long lines",
+      "mention_count": 84
+    },
+    {
+      "label": "Chopped Brisket",
+      "mention_count": 29
+    },
+    {
+      "label": "smoked corn",
+      "mention_count": 27
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:46Z",
+  "city": "Austin",
+  "key": "valentinas-tex-mex-bbq-austin"
+}

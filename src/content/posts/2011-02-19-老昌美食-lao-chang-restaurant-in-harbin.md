@@ -26,6 +26,7 @@ coordinates:
   lng: 121.450242
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 Lao Chang is a restaurant chain based in northern China. They feature a pancake-like food that you stuff with vegetables and meat, which is tasty as hell. After a day of sightseeing, Lao Chang was suggested by our local Harbin driver.

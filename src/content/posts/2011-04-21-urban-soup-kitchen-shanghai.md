@@ -26,6 +26,7 @@ coordinates:
   lng: 121.470253
 cuisine:
 - Chinese
+placeId: "0x35b270716755d321:0xc1f7c92f8fa6764c"
 ---
 
 On chilly cold days, in my humble opinion, there’s nothing better than a nice hot bowl of soup. On a suggestion, I decided to try Urban Soup Kitchen, near Xintiandi.

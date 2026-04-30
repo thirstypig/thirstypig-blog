@@ -24,6 +24,7 @@ location: Afternoon Delight at the Dodger Game
 city: Los Angeles
 cuisine:
 - American
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 I was fortunate enough to get to go to a Dodger game and experience a Dodger win. Amidst the game, there was some great fare. We had a regular dodger dog, a super dodger dog, bratwurst, chili cheese fries, and garlic fries. I tried a taste of each. Each were different and was a change from the traditional American foods you would find at the ball park.

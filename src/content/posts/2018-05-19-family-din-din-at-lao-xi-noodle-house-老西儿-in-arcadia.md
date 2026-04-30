@@ -29,6 +29,7 @@ coordinates:
   lng: -118.0549
 cuisine:
 - Chinese
+placeId: "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c"
 ---
 
 ![Family Din Din at Lao Xi Noodle House 老西儿 in Arcadia](/images/posts/ig-2018-05-19-family-din-din-at-lao-xi-noodle-house-老西儿-in-arcadia/17873653171226866.jpg)

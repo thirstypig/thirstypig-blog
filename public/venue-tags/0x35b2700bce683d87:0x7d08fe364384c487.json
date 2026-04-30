@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b2700bce683d87:0x7d08fe364384c487",
+  "venue_name": "Pasha Turkish Restaurant",
+  "chips": [
+    {
+      "label": "turkish food",
+      "mention_count": 14
+    },
+    {
+      "label": "halal food",
+      "mention_count": 12
+    },
+    {
+      "label": "adana kebab",
+      "mention_count": 2
+    },
+    {
+      "label": "steak",
+      "mention_count": 6
+    },
+    {
+      "label": "cleanliness of the place",
+      "mention_count": 2
+    },
+    {
+      "label": "elegance of the place",
+      "mention_count": 2
+    },
+    {
+      "label": "food portion",
+      "mention_count": 3
+    },
+    {
+      "label": "beer",
+      "mention_count": 3
+    },
+    {
+      "label": "tasty food",
+      "mention_count": 4
+    },
+    {
+      "label": "meat",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:38:29Z",
+  "city": "Shanghai",
+  "key": "pasha-帕夏土耳其餐厅-shanghai"
+}

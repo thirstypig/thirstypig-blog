@@ -21,6 +21,7 @@ city: Hong Kong
 region: Hong Kong
 cuisine:
 - Chinese
+placeId: "0x3404005cffa504ad:0xaeb1ed7f2d8caecd"
 ---
 
 Dim sum is Cantonese for desserts 點心 or 点心. [This was evolved from Yum Cha](http://en.wikipedia.org/wiki/Dim_sum) – 飲茶 or to drink tea. In the olden days, travelers on the silk road and field labors would stop by these tea house for tea. These establishments started to just serve tea and later little dishes. Recent tradition calls for dim sum to be weekend family lunch events.

@@ -25,6 +25,7 @@ city: Los Feliz
 region: Central LA
 cuisine:
 - Cocktails
+placeId: "0x80c2b9002841a967:0xccc3c49414167d1a"
 ---
 
 The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a lounge in the back.

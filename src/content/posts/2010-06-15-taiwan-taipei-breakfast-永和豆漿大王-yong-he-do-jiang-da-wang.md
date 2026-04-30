@@ -34,6 +34,7 @@ region: Taipei
 address: 102 Fuxing South Road
 cuisine:
 - Taiwanese
+placeId: "0x3442aa2c85b42663:0x2fa03ede42204c90"
 ---
 
 Great for breakfast and late night urges, Yong He Da Wang seems to also have a steady flow of hungry customers at all hours. Even in the afternoon, such as the time when I went, there was a small crowd waiting for tables.

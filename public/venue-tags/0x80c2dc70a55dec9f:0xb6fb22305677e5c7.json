@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dc70a55dec9f:0xb6fb22305677e5c7",
+  "venue_name": "Lucky Baldwin's Pub",
+  "chips": [
+    {
+      "label": "belgian beers",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 16
+    },
+    {
+      "label": "fish and chips",
+      "mention_count": 35
+    },
+    {
+      "label": "fried chicken sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "watching sports",
+      "mention_count": 5
+    },
+    {
+      "label": "cottage pie",
+      "mention_count": 2
+    },
+    {
+      "label": "meat pies",
+      "mention_count": 2
+    },
+    {
+      "label": "cold pint",
+      "mention_count": 2
+    },
+    {
+      "label": "bangers and mash",
+      "mention_count": 2
+    },
+    {
+      "label": "pretzel",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:24Z",
+  "city": "Pasadena",
+  "key": "lucky-baldwins-of-sierra-madre-pasadena"
+}

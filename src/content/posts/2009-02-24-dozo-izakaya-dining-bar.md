@@ -51,6 +51,7 @@ coordinates:
   lng: 121.546572
 cuisine:
 - Japanese
+placeId: "0x3442abdae220bb81:0xf0391805045a3335"
 ---
 
 [DOZO](http://www.dozo.com.tw/) is not an ordinary Japanese restaurant – mixed of izakaya (dining bar), lounge bar with very creative Japanese cuisine. The price is not ordinarily cheap either…….that was why every time I came here only for company events.

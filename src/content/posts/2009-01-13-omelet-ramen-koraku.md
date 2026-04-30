@@ -29,6 +29,7 @@ coordinates:
   lng: -118.239152
 cuisine:
 - Japanese
+placeId: "0x80c2c638714c1d43:0xe4d682ad07de14b0"
 ---
 
 The Tenshin Ramen at Koraku Ramen in Little Tokyo is not the best dish, nor is the tastiest dish. . . it is just my favorite. I have a secret craving for eggs. . .any type of eggs. Anyways. . .This is my favorite at Koraku. Usually, the egg (omelet) includes shrimp, but i usually ask without shrimp. This is a simple ramen dish, that I know I can’t go wrong with. With some white pepper, I am good to go. So, why order anything else?

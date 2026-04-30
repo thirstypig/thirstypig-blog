@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2d2383b591:0xa47811c48e0398ef",
+  "venue_name": "Yi Mei San Gabriel",
+  "chips": [
+    {
+      "label": "rice roll",
+      "mention_count": 17
+    },
+    {
+      "label": "fan tuan",
+      "mention_count": 7
+    },
+    {
+      "label": "clean environment",
+      "mention_count": 9
+    },
+    {
+      "label": "you tiao",
+      "mention_count": 8
+    },
+    {
+      "label": "soy milk",
+      "mention_count": 28
+    },
+    {
+      "label": "egg omelette",
+      "mention_count": 13
+    },
+    {
+      "label": "Green Onion Pancake",
+      "mention_count": 8
+    },
+    {
+      "label": "Daikon Cake",
+      "mention_count": 15
+    },
+    {
+      "label": "salty soy milk",
+      "mention_count": 5
+    },
+    {
+      "label": "frozen dumplings",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:57Z",
+  "city": "Sgv",
+  "key": "wan-chun-taiwanese-food-sgv"
+}

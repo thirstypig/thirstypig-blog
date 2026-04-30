@@ -28,6 +28,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2c64acc47a679:0xef77d725998a9373"
 ---
 
 ![Spicy Chicken in Koreatown](/images/posts/ig-2024-09-05-spicy-chicken-in-koreatown/17888575470017263.jpg)

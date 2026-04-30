@@ -26,6 +26,7 @@ city: Dtla
 region: Downtown LA
 cuisine:
 - American
+placeId: "0x80c2c7b674d67d65:0x2792e6244718045e"
 ---
 
 Uncle John’s Ham & Eggs in Dtla.

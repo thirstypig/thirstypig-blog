@@ -23,6 +23,7 @@ address: 1310 Surf Ave
 city: New York
 cuisine:
 - American
+placeId: "0x89c244353f830641:0x7236f2dccccf97c0"
 ---
 
 When you go to New York, there are a couple of street foods that always come to mind. The first one is the New York style pizza, which you can find almost on any street corner. And the 2nd one is a hot dog.

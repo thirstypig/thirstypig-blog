@@ -21,6 +21,7 @@ region: San Gabriel Valley
 address: 2315 S Garfield Ave Monterey Park, CA 91754
 cuisine:
 - Italian
+placeId: "0x80c2cfea3c89207f:0x46204ea9b77be1ed"
 ---
 
 

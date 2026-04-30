@@ -23,6 +23,7 @@ region: Shanghai
 address: 166 Fumin Rd
 cuisine:
 - Vietnamese
+placeId: "0x35b27000b31bf943:0x957879c8fc842573"
 ---
 
 [![IMG_1341](/images/posts/pho-real-shanghai/IMG_1341.jpg "IMG_1341")](http://thirstypig.com/2014/09/13/pho-real-shanghai/img_1341/)

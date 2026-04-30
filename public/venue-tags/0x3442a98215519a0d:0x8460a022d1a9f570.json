@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a98215519a0d:0x8460a022d1a9f570",
+  "venue_name": "Kao Chi Xinsheng Restaurant",
+  "chips": [
+    {
+      "label": "dongpo pork",
+      "mention_count": 274
+    },
+    {
+      "label": "shaomai",
+      "mention_count": 79
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 86
+    },
+    {
+      "label": "pan-fried buns",
+      "mention_count": 685
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 58
+    },
+    {
+      "label": "xiaolongbao",
+      "mention_count": 507
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 65
+    },
+    {
+      "label": "crab shell yellow",
+      "mention_count": 39
+    },
+    {
+      "label": "vermicelli with fried tofu",
+      "mention_count": 31
+    },
+    {
+      "label": "char siu pastry",
+      "mention_count": 25
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:16Z",
+  "city": "Taipei",
+  "key": "高記-kaochi-taipei"
+}

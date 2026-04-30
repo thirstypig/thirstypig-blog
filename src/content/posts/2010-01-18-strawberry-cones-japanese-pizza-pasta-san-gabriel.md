@@ -24,6 +24,7 @@ city: San Gabriel
 region: San Gabriel Valley
 cuisine:
 - Fusion
+placeId: "0x80c2db7b8d191665:0xe3e0e029a31cf1b1"
 ---
 
 One last Japanese entry. Ninjya pizza from Strawberry Cones Japanese Pizza & Pasta in San Gabriel.

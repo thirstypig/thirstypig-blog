@@ -22,6 +22,7 @@ region: San Gabriel Valley
 address: 206 S. First Ave. Arcadia, CA 91006
 cuisine:
 - Taiwanese
+placeId: "0x80c2dbdc902356fd:0xde045cc13e0a3fdc"
 ---
 
 [![IMG_0492](/images/posts/boiling-point-sgv-los-angeles/IMG_3319.jpg "IMG_0492")](http://thirstypig.com/2016/08/28/boiling-point-sgv-los-angeles/img_0492-2/)

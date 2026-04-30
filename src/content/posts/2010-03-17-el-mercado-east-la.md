@@ -39,6 +39,7 @@ coordinates:
   lng: -118.353562
 cuisine:
 - Mexican
+placeId: "0x80c2b904f37b8c69:0x2b9817a5cfaded98"
 ---
 
 El Mercado in East LA.

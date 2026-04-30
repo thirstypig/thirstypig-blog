@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bec5db69a725:0x92a9619f3620efe1",
+  "venue_name": "Employees Only Cocktail Bar and Restaurant",
+  "chips": [
+    {
+      "label": "outdoor patio",
+      "mention_count": 15
+    },
+    {
+      "label": "comfortable tables",
+      "mention_count": 20
+    },
+    {
+      "label": "speakeasy",
+      "mention_count": 13
+    },
+    {
+      "label": "live music",
+      "mention_count": 5
+    },
+    {
+      "label": "tiramisu",
+      "mention_count": 4
+    },
+    {
+      "label": "Arancini",
+      "mention_count": 2
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 5
+    },
+    {
+      "label": "creative cocktails",
+      "mention_count": 4
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 2
+    },
+    {
+      "label": "cocktail selection",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:57Z",
+  "city": "Los Angeles",
+  "key": "cha-cha-cha-los-angele"
+}

@@ -26,6 +26,7 @@ city: Gardena
 region: South Bay
 cuisine:
 - American
+placeId: "0x80c2ca8349288235:0x57819f208c751481"
 ---
 
 One day for lunch, I selected to get sandwiches from Guilianos Delicatessen and Bakery, in Gardena. Open for over 50 years, this is the classic deli featuring cold cut meats, cheese, and sandwiches.

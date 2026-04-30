@@ -22,6 +22,7 @@ tags:
 - noodles
 cuisine:
 - Chinese
+placeId: "0x35b2653289a931e7:0xfd559bdceef4a403"
 ---
 
 The Xin Jiang Province, شىنجاڭ‎ or 新疆, is located in the far west portion of China. With a population that is heavily influenced from the Kazaks and Hans, there is a blending of the different cultures and cuisines.

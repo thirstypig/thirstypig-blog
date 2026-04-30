@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9728f98e347:0x1b81cf1094c0496b",
+  "venue_name": "TR Bento Qidu (West 3 Gate)",
+  "chips": [
+    {
+      "label": "pork ribs",
+      "mention_count": 46
+    },
+    {
+      "label": "tra bento",
+      "mention_count": 16
+    },
+    {
+      "label": "pork chop bento",
+      "mention_count": 11
+    },
+    {
+      "label": "cherry duck bento",
+      "mention_count": 7
+    },
+    {
+      "label": "60-yuan bento",
+      "mention_count": 5
+    },
+    {
+      "label": "chicken leg bento",
+      "mention_count": 5
+    },
+    {
+      "label": "braised pork ribs",
+      "mention_count": 4
+    },
+    {
+      "label": "Dried tofu",
+      "mention_count": 7
+    },
+    {
+      "label": "vegetarian bento",
+      "mention_count": 3
+    },
+    {
+      "label": "surf and turf bento",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:01Z",
+  "city": "Taipei",
+  "key": "台鐵便當本鋪-taipei"
+}

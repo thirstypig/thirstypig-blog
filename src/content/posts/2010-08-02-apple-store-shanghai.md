@@ -34,6 +34,7 @@ coordinates:
 tags:
 - shanghai
 cuisine: []
+placeId: "0x35b270e4537d3cc3:0xa2832a1d93599b7e"
 ---
 
 Yes, I admit I am a huge Apple fanboy. Yes, I know this is my restaurant and food review opinion site(blog). But I had to post about the new official Apple Store in Pudong, Shanghai.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b1cfcd2ed1:0xa1b9fc38158593f9",
+  "venue_name": "The Piero Apartments",
+  "chips": [
+    {
+      "label": "friendly staff",
+      "mention_count": 49
+    },
+    {
+      "label": "jacuzzi",
+      "mention_count": 3
+    },
+    {
+      "label": "security",
+      "mention_count": 32
+    },
+    {
+      "label": "sound insulation",
+      "mention_count": 2
+    },
+    {
+      "label": "pumpkin painting",
+      "mention_count": 2
+    },
+    {
+      "label": "leasing office staff",
+      "mention_count": 9
+    },
+    {
+      "label": "gym",
+      "mention_count": 12
+    },
+    {
+      "label": "pool",
+      "mention_count": 7
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 11
+    },
+    {
+      "label": "conference room",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:02Z",
+  "city": "Downtown LA",
+  "key": "luxury-suite-in-downtown-los-angele-downtown-l"
+}

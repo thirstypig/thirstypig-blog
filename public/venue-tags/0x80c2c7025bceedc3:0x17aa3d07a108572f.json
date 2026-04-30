@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2c7025bceedc3:0x17aa3d07a108572f",
+  "venue_name": "Hermes Bitcoin ATM - Downtown Los Angeles",
+  "chips": [
+    {
+      "label": "receipt",
+      "mention_count": 3
+    },
+    {
+      "label": "qr",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:31:30Z",
+  "city": "Los Angeles",
+  "key": "hermes-bitcoin-atm-downtown-los-ang-los-angele"
+}

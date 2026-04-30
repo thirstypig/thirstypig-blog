@@ -19,6 +19,7 @@ region: Westside
 address: 133 N. La Cienega Blvd Beverly Hills, CA 90211
 cuisine:
 - BBQ
+placeId: "0x80c2b94ec3635455:0xc2adb994f61e58df"
 ---
 
 

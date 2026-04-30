@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7796df6ffd3:0xc6c9b606f7866317",
+  "venue_name": "Kobawoo House",
+  "chips": [
+    {
+      "label": "Medium Bossam",
+      "mention_count": 177
+    },
+    {
+      "label": "Seafood Pancake Haemul Pajeon",
+      "mention_count": 19
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 24
+    },
+    {
+      "label": "soybean paste stew",
+      "mention_count": 22
+    },
+    {
+      "label": "napa cabbage",
+      "mention_count": 10
+    },
+    {
+      "label": "kimchi pancake",
+      "mention_count": 13
+    },
+    {
+      "label": "Chung Guk Jang",
+      "mention_count": 12
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 19
+    },
+    {
+      "label": "radish",
+      "mention_count": 16
+    },
+    {
+      "label": "jokbal",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:35Z",
+  "city": "Los Angeles",
+  "key": "kobawoo-house-los-angele"
+}

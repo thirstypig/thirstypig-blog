@@ -27,6 +27,7 @@ images:
   - /images/posts/ig-2024-04-13-scallion-oil-noodles/18010164455359896.jpg
 source: instagram
 draft: false
+placeId: "0x35b2700b6dd01297:0x3403c5e1c645dd29"
 ---
 
 ![Scallion oil noodles](/images/posts/ig-2024-04-13-scallion-oil-noodles/18030988756790407.jpg)

@@ -27,6 +27,7 @@ city: Los Feliz
 region: Central LA
 cuisine:
 - Mexican
+placeId: "0x80d8927a4366b961:0xddf1b488b760369e"
 ---
 
 Best Fish Tacos in Ensenada in Los Feliz.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c35c68099f2b:0xcfa88b17be4ee7de",
+  "venue_name": "Green Street Restaurant",
+  "chips": [
+    {
+      "label": "zucchini bread",
+      "mention_count": 108
+    },
+    {
+      "label": "diane salad",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 46
+    },
+    {
+      "label": "mexican street corn flatbread",
+      "mention_count": 4
+    },
+    {
+      "label": "cornucopia",
+      "mention_count": 10
+    },
+    {
+      "label": "reuben",
+      "mention_count": 7
+    },
+    {
+      "label": "potato chips",
+      "mention_count": 20
+    },
+    {
+      "label": "corn chowder",
+      "mention_count": 3
+    },
+    {
+      "label": "chicken salad",
+      "mention_count": 12
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:30Z",
+  "city": "Pasadena",
+  "key": "the-famous-pasadena-salad-pasadena"
+}

@@ -34,6 +34,7 @@ coordinates:
   lng: 121.523506
 cuisine:
 - Korean
+placeId: "0x3442a968f68729e7:0xe2dc91302bf325bc"
 ---
 
 晶華軒 Silks House in Taipei.

@@ -44,6 +44,7 @@ coordinates:
   lng: 121.456317
 cuisine:
 - Chinese
+placeId: "0x89e3714ddf8167af:0x8325a15bedc28573"
 ---
 
 [![old-shanghai-moon-01](/images/posts/old-shanghai-moon-restaurant/Old-Shanghai-Moon-01-494x370.jpg "old-shanghai-moon-01")](http://thirstypig.com/2011/06/12/old-shanghai-moon-restaurant/old-shanghai-moon-01/)

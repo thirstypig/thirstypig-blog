@@ -25,6 +25,7 @@ tags:
 - rice-rolls
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2d2383b591:0xa47811c48e0398ef"
 ---
 
 Yung Ho is your typical Taiwan breakfast joint. There are two locations on Valley Blvd, that are not related. Each have similar items.

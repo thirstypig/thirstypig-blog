@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bc083e0b1f21:0x76acc62a27588a38",
+  "venue_name": "Crustacean Restaurant Beverly Hills, CA - Brunch, Lunch & Fine Dining",
+  "chips": [
+    {
+      "label": "garlic noodles",
+      "mention_count": 100
+    },
+    {
+      "label": "dungeness crab",
+      "mention_count": 21
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 11
+    },
+    {
+      "label": "Tuna Cigars",
+      "mention_count": 12
+    },
+    {
+      "label": "crab cake",
+      "mention_count": 11
+    },
+    {
+      "label": "beignets",
+      "mention_count": 9
+    },
+    {
+      "label": "lobster",
+      "mention_count": 8
+    },
+    {
+      "label": "caviar",
+      "mention_count": 8
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 45
+    },
+    {
+      "label": "wontons",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:51Z",
+  "city": "Beverly Hills",
+  "key": "crustacean-beverly-hills-beverly-hi"
+}

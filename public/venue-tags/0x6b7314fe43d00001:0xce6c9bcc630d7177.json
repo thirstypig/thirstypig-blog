@@ -1,0 +1,49 @@
+{
+  "place_id": "0x6b7314fe43d00001:0xce6c9bcc630d7177",
+  "venue_name": "The Yellow Door Kitchen",
+  "chips": [
+    {
+      "label": "bread class",
+      "mention_count": 5
+    },
+    {
+      "label": "panna cotta",
+      "mention_count": 3
+    },
+    {
+      "label": "pasta making class",
+      "mention_count": 4
+    },
+    {
+      "label": "chef skills",
+      "mention_count": 10
+    },
+    {
+      "label": "knowledgeable instructor",
+      "mention_count": 7
+    },
+    {
+      "label": "kids cooking classes",
+      "mention_count": 2
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 4
+    },
+    {
+      "label": "informative class",
+      "mention_count": 3
+    },
+    {
+      "label": "well organised",
+      "mention_count": 3
+    },
+    {
+      "label": "excellent teacher",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T06:05:48Z",
+  "city": "Hong Kong",
+  "key": "yellow-door-kitchen-hong-kong"
+}

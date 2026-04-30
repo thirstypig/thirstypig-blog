@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bfc7fc72cf0f:0x8e078e9252256d3e",
+  "venue_name": "KazuNori: The Original Hand Roll Bar",
+  "chips": [
+    {
+      "label": "hand rolls",
+      "mention_count": 24
+    },
+    {
+      "label": "bar stool seating",
+      "mention_count": 8
+    },
+    {
+      "label": "crispy seaweed",
+      "mention_count": 3
+    },
+    {
+      "label": "seabream hand roll",
+      "mention_count": 2
+    },
+    {
+      "label": "hirame sashimi",
+      "mention_count": 2
+    },
+    {
+      "label": "scallop hand roll",
+      "mention_count": 2
+    },
+    {
+      "label": "bay scallops",
+      "mention_count": 2
+    },
+    {
+      "label": "eel roll",
+      "mention_count": 2
+    },
+    {
+      "label": "cucumber roll",
+      "mention_count": 2
+    },
+    {
+      "label": "individual rolls",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:14:31Z",
+  "city": "Studio City",
+  "key": "poke-bowls-forever-studio-cit"
+}

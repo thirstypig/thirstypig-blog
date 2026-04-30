@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442ae808aab4351:0x31a53aa4177864d9",
+  "venue_name": "Chili's Grill & Bar美式休閒餐廳 - 天母店",
+  "chips": [
+    {
+      "label": "pork ribs",
+      "mention_count": 26
+    },
+    {
+      "label": "Quesadilla Explosion Salad",
+      "mention_count": 6
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 48
+    },
+    {
+      "label": "fajitas",
+      "mention_count": 13
+    },
+    {
+      "label": "margaritas",
+      "mention_count": 10
+    },
+    {
+      "label": "chocolate cake",
+      "mention_count": 7
+    },
+    {
+      "label": "chicken strips",
+      "mention_count": 15
+    },
+    {
+      "label": "spicy chicken wings",
+      "mention_count": 4
+    },
+    {
+      "label": "mushroom cheese burger",
+      "mention_count": 4
+    },
+    {
+      "label": "sirloin steak",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T05:30:37Z",
+  "city": "Taipei",
+  "key": "chilis-grill-bar-taipei"
+}

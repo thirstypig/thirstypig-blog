@@ -22,6 +22,7 @@ location: Russian Lunch on Central Street
 city: Harbin
 cuisine:
 - Russian
+placeId: "0x5e43806b35c8f305:0x1b36b022978ee161"
 ---
 
 The best meal I had in Harbin was at this Russian Restaurant near our hotel. Though I forgot the name of the restaurant on central street 中央大街, I have pictures to bring back fond memories.

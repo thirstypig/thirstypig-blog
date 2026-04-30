@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbf9c4ebaf21:0xe5ca38734747aa76",
+  "venue_name": "Patisserie too",
+  "chips": [
+    {
+      "label": "desserts",
+      "mention_count": 39
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 33
+    },
+    {
+      "label": "outdoor patio",
+      "mention_count": 16
+    },
+    {
+      "label": "macarons",
+      "mention_count": 6
+    },
+    {
+      "label": "tiramisu",
+      "mention_count": 6
+    },
+    {
+      "label": "mango texture",
+      "mention_count": 9
+    },
+    {
+      "label": "mango cake",
+      "mention_count": 4
+    },
+    {
+      "label": "hazelnut cake",
+      "mention_count": 3
+    },
+    {
+      "label": "napoleon",
+      "mention_count": 3
+    },
+    {
+      "label": "mystery cake box",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T00:16:41Z",
+  "city": "San Gabriel Valley",
+  "key": "tasty-dessert-san-gabrie"
+}

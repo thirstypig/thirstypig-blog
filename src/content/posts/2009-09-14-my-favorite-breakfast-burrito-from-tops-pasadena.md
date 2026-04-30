@@ -24,6 +24,7 @@ city: Pasadena
 region: Pasadena
 cuisine:
 - Mexican
+placeId: "0x80c2db79340ad64d:0x4fed13b6d3fa689f"
 ---
 
 A couple of months ago, I wrote about the Lucky Boy’s breakfast burrito. [Link](http://blog.thethirstypig.com/2009/08/lucky-boy-drive-in-bacon-burrito-err.html) Lucky Boy’s is probably the famous notable and famous breakfast burrito in Pasadena. But on the far eastside of Pasadena is another local favorite from Tops. They make one that I call my favorite.

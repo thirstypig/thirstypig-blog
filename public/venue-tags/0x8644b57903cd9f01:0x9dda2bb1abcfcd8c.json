@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b57903cd9f01:0x9dda2bb1abcfcd8c",
+  "venue_name": "Cow Tipping Creamery",
+  "chips": [
+    {
+      "label": "Smores Sundae",
+      "mention_count": 8
+    },
+    {
+      "label": "lemon curd",
+      "mention_count": 4
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "soft serve",
+      "mention_count": 8
+    },
+    {
+      "label": "chocolate ice cream",
+      "mention_count": 6
+    },
+    {
+      "label": "fudge",
+      "mention_count": 5
+    },
+    {
+      "label": "southern charm",
+      "mention_count": 3
+    },
+    {
+      "label": "toppings",
+      "mention_count": 9
+    },
+    {
+      "label": "Housemade Bubble Waffle Cone",
+      "mention_count": 3
+    },
+    {
+      "label": "kind employees",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:51Z",
+  "city": "Austin",
+  "key": "cow-tipping-creamery-austin"
+}

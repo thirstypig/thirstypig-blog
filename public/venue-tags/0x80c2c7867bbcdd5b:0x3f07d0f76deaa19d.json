@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7867bbcdd5b:0x3f07d0f76deaa19d",
+  "venue_name": "Calif Chicken Cafe",
+  "chips": [
+    {
+      "label": "wraps",
+      "mention_count": 24
+    },
+    {
+      "label": "broccoli pasta salad",
+      "mention_count": 6
+    },
+    {
+      "label": "rotisserie chicken",
+      "mention_count": 6
+    },
+    {
+      "label": "chinese chicken salad",
+      "mention_count": 5
+    },
+    {
+      "label": "mashed potatoes and gravy",
+      "mention_count": 3
+    },
+    {
+      "label": "salads",
+      "mention_count": 12
+    },
+    {
+      "label": "chicken rice wrap",
+      "mention_count": 2
+    },
+    {
+      "label": "roasted potatoes",
+      "mention_count": 2
+    },
+    {
+      "label": "combo wrap",
+      "mention_count": 2
+    },
+    {
+      "label": "cookies",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:36Z",
+  "city": "Hollywood",
+  "key": "california-chicken-cafe-hollywood"
+}

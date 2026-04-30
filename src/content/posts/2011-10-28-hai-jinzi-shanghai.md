@@ -25,6 +25,7 @@ tags:
 - hot-pot
 cuisine:
 - Chinese
+placeId: "0x35b26fe7a9296bad:0x653a4654f07059ed"
 ---
 
 Every once and awhile, you go to a restaurant without any expectations and leave pleasantly surprised. This is what happened when I supposedly thought I was going for a simple happy hour.

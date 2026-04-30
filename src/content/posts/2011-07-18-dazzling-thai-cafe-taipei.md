@@ -38,6 +38,7 @@ coordinates:
   lng: 121.552391
 cuisine:
 - Thai
+placeId: "0x3442abdb93d0c185:0x7e0a43850ce693f9"
 ---
 
 [![dazzling-thai-cafe-08](/images/posts/dazzling-thai-cafe-taipei/Dazzling-Thai-Cafe-02-494x370.jpg "dazzling-thai-cafe-08")](http://thirstypig.com/2011/07/18/dazzling-thai-cafe-taipei/dazzling-thai-cafe-08/)

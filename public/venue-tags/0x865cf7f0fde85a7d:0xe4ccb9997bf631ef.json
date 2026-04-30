@@ -1,0 +1,49 @@
+{
+  "place_id": "0x865cf7f0fde85a7d:0xe4ccb9997bf631ef",
+  "venue_name": "Reese Bros Barbecue",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 235
+    },
+    {
+      "label": "carnitas",
+      "mention_count": 59
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 46
+    },
+    {
+      "label": "queso fundido sausage",
+      "mention_count": 24
+    },
+    {
+      "label": "okra beans",
+      "mention_count": 35
+    },
+    {
+      "label": "shaded seating",
+      "mention_count": 6
+    },
+    {
+      "label": "pina colada cobbler",
+      "mention_count": 8
+    },
+    {
+      "label": "brisket taco",
+      "mention_count": 23
+    },
+    {
+      "label": "outdoor tables",
+      "mention_count": 4
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 20
+    }
+  ],
+  "scraped_at": "2026-04-30T06:14:53Z",
+  "city": "San Antonio",
+  "key": "texas-toast-smoked-octopus-beef-bri-san-antoni"
+}

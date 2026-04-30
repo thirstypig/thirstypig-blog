@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c77a4ea6cb59:0x4e85997cb100e54f",
+  "venue_name": "INKA WASi DTLA",
+  "chips": [
+    {
+      "label": "complimentary soup",
+      "mention_count": 11
+    },
+    {
+      "label": "picarones",
+      "mention_count": 3
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "pollo a la brasa",
+      "mention_count": 10
+    },
+    {
+      "label": "chipotle",
+      "mention_count": 2
+    },
+    {
+      "label": "parihuela",
+      "mention_count": 2
+    },
+    {
+      "label": "garlic rice",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh salad",
+      "mention_count": 2
+    },
+    {
+      "label": "family run",
+      "mention_count": 2
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T00:20:46Z",
+  "city": "Dtla",
+  "key": "mo-chica-dtla"
+}

@@ -19,6 +19,7 @@ coordinates:
   lat: 31.237746
   lng: 121.492163
 cuisine: []
+placeId: "0x35b27b99df539f3d:0x7c4877e90e6294b5"
 ---
 
 

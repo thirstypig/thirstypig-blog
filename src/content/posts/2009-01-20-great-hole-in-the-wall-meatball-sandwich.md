@@ -21,6 +21,7 @@ region: Orange County
 city: San Clemente
 cuisine:
 - Italian
+placeId: "0x80dcf467fdeb22d5:0x2abf13615daa8639"
 ---
 
 Great hole in the wall meatball sandwich.

@@ -21,6 +21,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x8620a6eadfd79db5:0x373e233220431034"
 ---
 
 ![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17864920108131777.jpg)

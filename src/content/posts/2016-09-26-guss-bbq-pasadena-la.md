@@ -22,6 +22,7 @@ region: Pasadena
 address: 808 Fair Oaks Ave South Pasadena, CA 91030
 cuisine:
 - BBQ
+placeId: "0x80c2c48dd30fc2fb:0x835d3e44293eeec6"
 ---
 
 [![IMG_0048](/images/posts/guss-bbq-pasadena-la/IMG_0046.jpg "IMG_0048")](http://thirstypig.com/2016/09/26/guss-bbq-pasadena-la/img_0048/)

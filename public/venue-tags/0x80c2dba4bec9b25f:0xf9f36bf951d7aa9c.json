@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c",
+  "venue_name": "Lao Xi Noodle House",
+  "chips": [
+    {
+      "label": "beef noodle soup",
+      "mention_count": 31
+    },
+    {
+      "label": "knife cut noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 12
+    },
+    {
+      "label": "Wife Special Noodle",
+      "mention_count": 3
+    },
+    {
+      "label": "House Special Fried Noodle",
+      "mention_count": 6
+    },
+    {
+      "label": "Green Onion Pancake",
+      "mention_count": 4
+    },
+    {
+      "label": "chewy noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "lamb soup",
+      "mention_count": 3
+    },
+    {
+      "label": "tender beef",
+      "mention_count": 6
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T05:20:44Z",
+  "city": "Arcadia",
+  "key": "liangs-kitchen-arcadia"
+}

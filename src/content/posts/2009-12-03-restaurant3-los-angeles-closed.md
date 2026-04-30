@@ -20,6 +20,7 @@ region: Hollywood
 address: 8370 W 3rd St
 cuisine:
 - American
+placeId: "0x80c2b9f5403ecefd:0x5f350a9b1e116ec5"
 ---
 
 

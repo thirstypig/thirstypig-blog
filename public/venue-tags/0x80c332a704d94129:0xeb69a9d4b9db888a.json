@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c332a704d94129:0xeb69a9d4b9db888a",
+  "venue_name": "Happy Kitchen",
+  "chips": [
+    {
+      "label": "kung pao",
+      "mention_count": 5
+    },
+    {
+      "label": "walnut shrimp",
+      "mention_count": 2
+    },
+    {
+      "label": "family vibes",
+      "mention_count": 2
+    },
+    {
+      "label": "seaweed fish",
+      "mention_count": 2
+    },
+    {
+      "label": "green bean dish",
+      "mention_count": 2
+    },
+    {
+      "label": "large portions",
+      "mention_count": 8
+    },
+    {
+      "label": "seafood soup",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy level",
+      "mention_count": 3
+    },
+    {
+      "label": "fish filet",
+      "mention_count": 2
+    },
+    {
+      "label": "Fried Fish Fillet with Seaweed",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:02Z",
+  "city": "Chino Hills",
+  "key": "happy-kitchen-chino-hill"
+}

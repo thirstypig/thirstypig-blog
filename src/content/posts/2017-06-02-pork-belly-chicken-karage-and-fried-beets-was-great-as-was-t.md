@@ -24,6 +24,7 @@ city: Austin
 region: Texas
 cuisine:
 - Fusion
+placeId: "0x8644b5b72a6b1869:0x1a0e365d55812123"
 ---
 
 ![pork belly, chicken karage, and fried beets was great as was the spicy chic...](/images/posts/ig-2017-06-02-pork-belly-chicken-karage-and-fried-beets-was-great-as-was-t/17883489826057272.jpg)

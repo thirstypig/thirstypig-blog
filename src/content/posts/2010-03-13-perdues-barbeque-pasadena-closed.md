@@ -20,6 +20,7 @@ region: Pasadena
 address: 456 E Orange Grove Ave Pasadena, CA 91104
 cuisine:
 - BBQ
+placeId: "0x80c2dd83b8e4b819:0x1952f768c8adf512"
 ---
 
 

@@ -1,0 +1,45 @@
+{
+  "place_id": "0x80c2c64af5c25319:0xbe023bd1f6425296",
+  "venue_name": "The Gorbals",
+  "chips": [
+    {
+      "label": "poutine",
+      "mention_count": 4
+    },
+    {
+      "label": "matzo ball soup",
+      "mention_count": 4
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 3
+    },
+    {
+      "label": "bahn mi",
+      "mention_count": 5
+    },
+    {
+      "label": "sticky toffee pudding",
+      "mention_count": 3
+    },
+    {
+      "label": "oxtail",
+      "mention_count": 2
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 2
+    },
+    {
+      "label": "latkes",
+      "mention_count": 2
+    },
+    {
+      "label": "bacon",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T00:22:15Z",
+  "city": "Dtla",
+  "key": "the-gorbals-dtla"
+}

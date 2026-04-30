@@ -44,6 +44,7 @@ city: Beverly Hills
 region: Westside
 cuisine:
 - BBQ
+placeId: "0x80c2b94ec3635455:0xc2adb994f61e58df"
 ---
 
 Larder at Maple Drive in Beverly Hills.

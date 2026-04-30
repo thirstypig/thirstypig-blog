@@ -19,6 +19,7 @@ city: Los Angeles
 address: 3303 W 6th St
 cuisine:
 - Korean
+placeId: "0x80c2c77c853ad33b:0x2eb3db7671a6c8d1"
 ---
 
 

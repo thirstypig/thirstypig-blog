@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x8644b4eff0627a33:0x84555b2a41647162"
 ---
 
 ![and decadent Texas tea chess pie](/images/posts/ig-2017-07-04-and-decadent-texas-tea-chess-pie/17863301038144660.jpg)

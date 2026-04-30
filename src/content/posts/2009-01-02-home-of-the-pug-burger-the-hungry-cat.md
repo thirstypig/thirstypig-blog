@@ -24,6 +24,7 @@ address: '1535 Vine St
   Hollywood, CA 90028'
 cuisine:
 - Seafood
+placeId: "0x80c2bf39aba823bb:0xef33b62c6e9489b1"
 ---
 
 The burger here at the Hungry Cat, known as the Pug Burger, is not a big burger. It’s quite small, in fact. But it is one of the better tasting burgers around. I realize most of these Hollywood, Beverly Hills, Santa Monica restaurants are all featuring burgers. The one thing they do, to justify the $16 price, is using fancier cheese (like gruyere) and higher quality meat.

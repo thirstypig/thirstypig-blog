@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7389f55b855:0xb564135452d76424",
+  "venue_name": "Night + Market Song",
+  "chips": [
+    {
+      "label": "larb gai",
+      "mention_count": 28
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 34
+    },
+    {
+      "label": "crispy rice salad",
+      "mention_count": 14
+    },
+    {
+      "label": "Pad See EW Gai",
+      "mention_count": 21
+    },
+    {
+      "label": "Som Tum Papaya Salad",
+      "mention_count": 13
+    },
+    {
+      "label": "Khao Soi Jay",
+      "mention_count": 19
+    },
+    {
+      "label": "coconut rice",
+      "mention_count": 10
+    },
+    {
+      "label": "natural wine",
+      "mention_count": 10
+    },
+    {
+      "label": "free spring rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "wings",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-04-30T00:13:39Z",
+  "city": "Los Angeles",
+  "key": "night-market-hollywood"
+}

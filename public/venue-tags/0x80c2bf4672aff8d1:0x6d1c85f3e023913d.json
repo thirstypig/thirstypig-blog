@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf4672aff8d1:0x6d1c85f3e023913d",
+  "venue_name": "Original Tommy's World Famous Hamburgers",
+  "chips": [
+    {
+      "label": "chili burger",
+      "mention_count": 141
+    },
+    {
+      "label": "chili cheese fries",
+      "mention_count": 40
+    },
+    {
+      "label": "drive thru",
+      "mention_count": 45
+    },
+    {
+      "label": "chili dogs",
+      "mention_count": 23
+    },
+    {
+      "label": "tamales",
+      "mention_count": 18
+    },
+    {
+      "label": "chili sauce",
+      "mention_count": 9
+    },
+    {
+      "label": "double chili cheeseburger",
+      "mention_count": 5
+    },
+    {
+      "label": "original burger",
+      "mention_count": 2
+    },
+    {
+      "label": "crispy fries",
+      "mention_count": 3
+    },
+    {
+      "label": "greasy food",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T00:21:44Z",
+  "city": "Los Angeles",
+  "key": "original-tommys-hamburgers-los-angele"
+}

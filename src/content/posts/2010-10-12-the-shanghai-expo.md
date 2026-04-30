@@ -63,6 +63,7 @@ coordinates:
   lat: 31.240001
   lng: 121.481678
 cuisine: []
+placeId: "0x35b27059f4baa609:0xf291802532254018"
 ---
 
 I finally made my way to the Shanghai Expo 2010. After a hot summer and growing expectations, I realized that if I didn’t go to the Expo, it would have been a waste of an opportunity, since I lived so close.

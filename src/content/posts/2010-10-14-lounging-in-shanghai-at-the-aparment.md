@@ -26,6 +26,7 @@ tags:
 - pizza
 cuisine:
 - Cocktails
+placeId: "0x35b26552e64dd35f:0x68e76bb5ac834750"
 ---
 
 The Apartment is one my favorite lounges in Shanghai. Always a challenge for someone new to any city, is finding a decent place to hangout for drinks and chillaxin’.

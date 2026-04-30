@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c77f2d419951:0x26285631b21e324c",
+  "venue_name": "Mountain San BBQ",
+  "chips": [
+    {
+      "label": "abalone porridge",
+      "mention_count": 48
+    },
+    {
+      "label": "kbbq",
+      "mention_count": 22
+    },
+    {
+      "label": "banchan",
+      "mention_count": 26
+    },
+    {
+      "label": "steamed egg",
+      "mention_count": 12
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 13
+    },
+    {
+      "label": "premium beef combo",
+      "mention_count": 7
+    },
+    {
+      "label": "grill design",
+      "mention_count": 9
+    },
+    {
+      "label": "jangjorim",
+      "mention_count": 5
+    },
+    {
+      "label": "Ginseng Chicken Soup",
+      "mention_count": 16
+    },
+    {
+      "label": "galbi jimm",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:07Z",
+  "city": "Koreatown",
+  "key": "mountain-cafe-koreatown"
+}

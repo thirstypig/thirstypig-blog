@@ -29,6 +29,7 @@ city: Downtown Los Angeles
 region: Downtown LA
 cuisine:
 - Multi
+placeId: "0x80c2c64810da98df:0x85c26107749eac8"
 ---
 
 On the edge of J-Town, yet still part of Downtown exist a new must-and-check-out space, Lazy Ox Canteen.

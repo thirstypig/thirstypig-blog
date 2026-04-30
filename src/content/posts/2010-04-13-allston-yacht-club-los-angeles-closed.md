@@ -20,6 +20,7 @@ city: Los Angeles
 address: 1320 Echo Park Ave Los Angeles, CA 90026
 cuisine:
 - American
+placeId: "0x80dd37c6665647cf:0xdf985df1783be895"
 ---
 
 

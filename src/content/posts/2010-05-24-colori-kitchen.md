@@ -39,6 +39,7 @@ city: Downtown Los Angeles
 region: Downtown LA
 cuisine:
 - Italian
+placeId: "0x80c2c7b59045e241:0x2a06224019bf15ce"
 ---
 
 SHARETHIS.addEntry({ title: "Risotto from Colori Kitchen, Downtown Los Angeles", url: "http://www.thethirstypig.com/2010/05/24/colori-kitchen/" });
