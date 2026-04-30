@@ -34,6 +34,7 @@ coordinates:
   lng: -118.110602
 cuisine:
 - Chinese
+placeId: "0x80c2db2ae973602b:0x3624970f62a138b7"
 ---
 
 Happy Sheep Shabu Shabu is traditional Chinese hot pot restaurant featuring the goodness of Lamb!

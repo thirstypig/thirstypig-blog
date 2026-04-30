@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c70dc271d7d7:0xeefc7af3d12f79b2",
+  "venue_name": "SUSHIZANMAI LA",
+  "chips": [
+    {
+      "label": "blue fin tuna",
+      "mention_count": 3
+    },
+    {
+      "label": "ipad ordering",
+      "mention_count": 3
+    },
+    {
+      "label": "omakase",
+      "mention_count": 7
+    },
+    {
+      "label": "tuna nigiri",
+      "mention_count": 2
+    },
+    {
+      "label": "otoro",
+      "mention_count": 3
+    },
+    {
+      "label": "karaage",
+      "mention_count": 2
+    },
+    {
+      "label": "Seared Snapper Nigiri",
+      "mention_count": 2
+    },
+    {
+      "label": "bento",
+      "mention_count": 3
+    },
+    {
+      "label": "authentic food",
+      "mention_count": 2
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:50Z",
+  "city": "Taipei",
+  "key": "sushi-at-紗舞縭壽司屋shaburi-taipei"
+}

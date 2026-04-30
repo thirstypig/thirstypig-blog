@@ -29,6 +29,7 @@ originalUrl: 'http://www.thethirstypig.com/2010/02/26/pork-sour-casserole-at-hap
 archiveUrl: 'https://web.archive.org/web/20110105031038/http://www.thethirstypig.com/2010/02/26/pork-sour-casserole-at-happy-kitchen-%e6%9f%b3%e6%a3%95%e5%9c%92%e7%be%8e%e9%a3%9f%e5%9d%8a-in-san-gabriel/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80c332a704d94129:0xeb69a9d4b9db888a"
 ---
 
 San Gabriel Kitchen Remodeling in San Gabriel.

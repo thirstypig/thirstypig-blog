@@ -25,6 +25,7 @@ address: 599 Sushi Set featuring Uni and Scallop and the Dr
 region: Taipei
 cuisine:
 - Japanese
+placeId: "0x80c2c70dc271d7d7:0xeefc7af3d12f79b2"
 ---
 
 Shaburi, at Breeze Center, is a nice unassuming and non-pretentious Japanese restaurant. With high expectations on presentation and food, lunch was nice treat.

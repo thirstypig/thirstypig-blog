@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a96f66abad45:0x905f3583cbd4da2c",
+  "venue_name": "Double V",
+  "chips": [
+    {
+      "label": "pistachio flavor",
+      "mention_count": 58
+    },
+    {
+      "label": "small cookies",
+      "mention_count": 42
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "murcott tangerine",
+      "mention_count": 5
+    },
+    {
+      "label": "meringue",
+      "mention_count": 24
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 34
+    },
+    {
+      "label": "sorbet",
+      "mention_count": 41
+    },
+    {
+      "label": "vanilla flavor",
+      "mention_count": 32
+    },
+    {
+      "label": "matcha flavor",
+      "mention_count": 21
+    },
+    {
+      "label": "variety of flavors",
+      "mention_count": 208
+    }
+  ],
+  "scraped_at": "2026-04-30T05:34:30Z",
+  "city": "Taipei",
+  "key": "studio-du-double-v-taipei"
+}

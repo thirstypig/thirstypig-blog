@@ -20,6 +20,7 @@ region: Westside
 address: 9646 S Santa Monica Blvd Beverly Hills, CA 90210
 cuisine:
 - Vietnamese
+placeId: "0x80c2bc083e0b1f21:0x76acc62a27588a38"
 ---
 
 

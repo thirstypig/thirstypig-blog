@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dc03fb62acca2b:0x3008908115b608de",
+  "venue_name": "Whisknladle Bistro & Bar",
+  "chips": [
+    {
+      "label": "bone marrow",
+      "mention_count": 8
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 14
+    },
+    {
+      "label": "scallops",
+      "mention_count": 11
+    },
+    {
+      "label": "chilaquiles",
+      "mention_count": 7
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 11
+    },
+    {
+      "label": "cocktails",
+      "mention_count": 31
+    },
+    {
+      "label": "flatbreads",
+      "mention_count": 8
+    },
+    {
+      "label": "butterscotch budino",
+      "mention_count": 3
+    },
+    {
+      "label": "squid ink pasta",
+      "mention_count": 2
+    },
+    {
+      "label": "truffle",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:21:00Z",
+  "city": "La Jolla",
+  "key": "whisknladle-la-jolla"
+}

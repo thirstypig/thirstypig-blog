@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442abc4ded4372b:0x18d03f0d005300b",
+  "venue_name": "TOASTERiA CAFE 吐司利亞 - 敦南店｜地中海廚房｜約會聚餐首選｜客製化包場外燴｜異國料理｜寵物友善｜家庭聚會｜親子友善餐廳",
+  "chips": [
+    {
+      "label": "panini",
+      "mention_count": 304
+    },
+    {
+      "label": "shakshuka",
+      "mention_count": 137
+    },
+    {
+      "label": "moon-viewing cream bacon pasta",
+      "mention_count": 4
+    },
+    {
+      "label": "puttanesca pasta",
+      "mention_count": 16
+    },
+    {
+      "label": "philly cheesesteak panini",
+      "mention_count": 53
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 247
+    },
+    {
+      "label": "tiramisu",
+      "mention_count": 123
+    },
+    {
+      "label": "hot pressed toast",
+      "mention_count": 16
+    },
+    {
+      "label": "second floor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "grilled octopus legs",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-04-30T05:25:40Z",
+  "city": "Taipei",
+  "key": "toasteria-cafe-taipei"
+}

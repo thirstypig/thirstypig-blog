@@ -41,6 +41,7 @@ coordinates:
   lng: 121.52507
 cuisine:
 - Japanese
+placeId: "0x3442a9d86eaf89a9:0x532d9321d5a305f0"
 ---
 
 Rakumenya is ramen house featuring a spicy ramen. Modeled after a typical Ramen house in Japan with wood accents and a chorus of Japanese yells and calls – as you enter, leave, and order.

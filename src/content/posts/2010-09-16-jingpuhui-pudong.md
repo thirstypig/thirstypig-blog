@@ -66,6 +66,7 @@ coordinates:
 tags:
 - shanghai
 cuisine: []
+placeId: "0x35b27b99df539f3d:0x7c4877e90e6294b5"
 ---
 
 > You know the thing about good food? It brings folks together from all walks of life. It warms them right up and it puts little smiles on their faces . . .

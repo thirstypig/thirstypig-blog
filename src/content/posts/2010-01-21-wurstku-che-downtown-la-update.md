@@ -28,6 +28,7 @@ city: Downtown La
 region: Downtown LA
 cuisine:
 - German
+placeId: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 ---
 
 I was recently back at Wurstküche again. Not much has changed since I first went there. But it did get more crowded and popular. This time, I will just post up some pictures.

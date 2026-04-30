@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a968f68729e7:0xe2dc91302bf325bc",
+  "venue_name": "Silks House",
+  "chips": [
+    {
+      "label": "crab roe noodles",
+      "mention_count": 51
+    },
+    {
+      "label": "peking duck",
+      "mention_count": 128
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 80
+    },
+    {
+      "label": "snow crab xi shi rice soup",
+      "mention_count": 36
+    },
+    {
+      "label": "xishi pao fan",
+      "mention_count": 116
+    },
+    {
+      "label": "king crab",
+      "mention_count": 47
+    },
+    {
+      "label": "crab roe mapo tofu",
+      "mention_count": 27
+    },
+    {
+      "label": "shredded radish pastry",
+      "mention_count": 39
+    },
+    {
+      "label": "michelin plate recommendation",
+      "mention_count": 40
+    },
+    {
+      "label": "winter melon soup",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-04-30T05:26:59Z",
+  "city": "Taipei",
+  "key": "晶華軒-silks-house-taipei"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a98390bf3369:0x38b585c0a1facff0",
+  "venue_name": "Stop By Tea House",
+  "chips": [
+    {
+      "label": "tea brewing",
+      "mention_count": 13
+    },
+    {
+      "label": "comfortable space",
+      "mention_count": 17
+    },
+    {
+      "label": "taiwanese specialty teas",
+      "mention_count": 8
+    },
+    {
+      "label": "basement space",
+      "mention_count": 19
+    },
+    {
+      "label": "oriental beauty tea",
+      "mention_count": 5
+    },
+    {
+      "label": "friendly owner",
+      "mention_count": 19
+    },
+    {
+      "label": "winding water banquet",
+      "mention_count": 4
+    },
+    {
+      "label": "introductory tea class",
+      "mention_count": 2
+    },
+    {
+      "label": "underground space",
+      "mention_count": 4
+    },
+    {
+      "label": "taiwanese tea ceremony",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:55Z",
+  "city": "Taipei",
+  "key": "串門子茶館-stop-by-tea-house-taipei"
+}

@@ -28,6 +28,7 @@ city: San Marino
 region: San Gabriel Valley
 cuisine:
 - Japanese
+placeId: "0x80c2db350aa87c57:0xc281352e23c813f4"
 ---
 
 I’ve heard about Yoshida for awhile now. I have been meaning to go, but never had a chance. Thought I rarely try new sushi restaurants due to my personal sushi policy.

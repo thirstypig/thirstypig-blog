@@ -25,6 +25,7 @@ coordinates:
   lng: 121.549553
 cuisine:
 - Coffee
+placeId: "0x3442abc4ded4372b:0x18d03f0d005300b"
 ---
 
 It was so many years back when I noticed this famous cafe ‘[Astoria Cafe (明星咖啡館)](http://www.astoria.com.tw/)‘ in [隱地](http://zh.wikipedia.org/wiki/%E9%9A%B1%E5%9C%B0)‘s books. He was one of my favourite Chinese writers when I was a NZ high school student. He often mentioned that Astoria Cafe was a cafe where most literary authors loved to spend the whole day in there while only ordered **one** cup of coffee! The Astoria Cafe was closed in 1989 and what he missed that good old time so much.

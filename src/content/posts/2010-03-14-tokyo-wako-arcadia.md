@@ -35,6 +35,7 @@ coordinates:
   lng: -118.0219
 cuisine:
 - Japanese
+placeId: "0x80c2dbdefcb4893b:0x2cd64450c7700c3e"
 ---
 
 Tokyo Wako in Arcadia.

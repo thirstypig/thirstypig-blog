@@ -44,6 +44,7 @@ coordinates:
   lng: -118.309459
 cuisine:
 - Japanese
+placeId: "0x80c2b55c9a437961:0xdb65a4103db59a56"
 ---
 
 Since I have been thinking of Japanese food lately, I thought I would continue on this path. Shin Sen Gumi has a small chain of specialty Japanese restaurants all throughout the LA area. They have ramen houses, chanko nabe, shabu-shabu, and yakitori. This particular Shin Sen Gumi specializes in yakitori.

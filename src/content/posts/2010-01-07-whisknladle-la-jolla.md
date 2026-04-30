@@ -23,6 +23,7 @@ region: San Diego
 city: La Jolla
 cuisine:
 - American
+placeId: "0x80dc03fb62acca2b:0x3008908115b608de"
 ---
 
 Whisknladle.

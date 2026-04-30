@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9681a68c2c5:0x7fe664e2d7cd8e0f",
+  "venue_name": "世界豆漿大王",
+  "chips": [
+    {
+      "label": "xiaolongbao",
+      "mention_count": 119
+    },
+    {
+      "label": "salty soy milk",
+      "mention_count": 73
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 65
+    },
+    {
+      "label": "shaobing",
+      "mention_count": 42
+    },
+    {
+      "label": "danbing",
+      "mention_count": 25
+    },
+    {
+      "label": "rice ball",
+      "mention_count": 52
+    },
+    {
+      "label": "japanese menu",
+      "mention_count": 67
+    },
+    {
+      "label": "fried bread",
+      "mention_count": 11
+    },
+    {
+      "label": "fried radish cake with egg",
+      "mention_count": 10
+    },
+    {
+      "label": "taiwanese-style onigiri",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:33Z",
+  "city": "Taipei",
+  "key": "世界豆漿大王-taipei"
+}

@@ -40,6 +40,7 @@ coordinates:
   lng: -118.405876
 cuisine:
 - Seafood
+placeId: "0x80c2bc083e0b1f21:0x76acc62a27588a38"
 ---
 
 Crustacean Beverly Hills in Beverly Hills.

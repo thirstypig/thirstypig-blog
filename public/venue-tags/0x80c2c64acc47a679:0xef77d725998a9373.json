@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64acc47a679:0xef77d725998a9373",
+  "venue_name": "The Sultan Chicken",
+  "chips": [
+    {
+      "label": "kabobs",
+      "mention_count": 36
+    },
+    {
+      "label": "rotisserie chicken",
+      "mention_count": 7
+    },
+    {
+      "label": "busy atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "rib eye",
+      "mention_count": 6
+    },
+    {
+      "label": "lamb shank",
+      "mention_count": 4
+    },
+    {
+      "label": "combo kabob",
+      "mention_count": 2
+    },
+    {
+      "label": "family run",
+      "mention_count": 5
+    },
+    {
+      "label": "slaw",
+      "mention_count": 3
+    },
+    {
+      "label": "lamb chops",
+      "mention_count": 4
+    },
+    {
+      "label": "meat combo",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:30Z",
+  "city": "Los Angeles",
+  "key": "sultan-chicken-los-angele"
+}

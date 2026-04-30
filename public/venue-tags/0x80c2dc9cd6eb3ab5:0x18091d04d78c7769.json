@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dc9cd6eb3ab5:0x18091d04d78c7769",
+  "venue_name": "Robin's Woodfire BBQ",
+  "chips": [
+    {
+      "label": "corn bread",
+      "mention_count": 30
+    },
+    {
+      "label": "tri tip sandwich",
+      "mention_count": 14
+    },
+    {
+      "label": "spicy bbq sauce",
+      "mention_count": 8
+    },
+    {
+      "label": "blue cheese pecan slaw",
+      "mention_count": 2
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 10
+    },
+    {
+      "label": "Beef Ribs",
+      "mention_count": 44
+    },
+    {
+      "label": "huge portions",
+      "mention_count": 2
+    },
+    {
+      "label": "closed for retirement",
+      "mention_count": 4
+    },
+    {
+      "label": "garbage can lid",
+      "mention_count": 5
+    },
+    {
+      "label": "catering",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:27:57Z",
+  "city": "Pasadena",
+  "key": "robins-woodfire-bbq-of-pasadena-pasadena"
+}

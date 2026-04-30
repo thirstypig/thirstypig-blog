@@ -29,6 +29,7 @@ city: Downtown Los Angeles
 region: Downtown LA
 cuisine:
 - American
+placeId: "0x80c2c6359f5c747d:0xd9d476273976e93d"
 ---
 
 I found this place on a recommendation from a friend. We were looking for a non-Asian place to go. Then my buddy starts talking about a cafe, how cool it is, with artwork, and great burgers. All I heard blah blah blah and GREAT BURGERS!

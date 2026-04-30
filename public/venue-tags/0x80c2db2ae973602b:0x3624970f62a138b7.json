@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2ae973602b:0x3624970f62a138b7",
+  "venue_name": "Happy Donut",
+  "chips": [
+    {
+      "label": "mom and pop donut shop",
+      "mention_count": 2
+    },
+    {
+      "label": "croissants",
+      "mention_count": 6
+    },
+    {
+      "label": "cinnamon rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "smoothies",
+      "mention_count": 2
+    },
+    {
+      "label": "custard",
+      "mention_count": 2
+    },
+    {
+      "label": "friendly people",
+      "mention_count": 5
+    },
+    {
+      "label": "local donut shop",
+      "mention_count": 2
+    },
+    {
+      "label": "ham",
+      "mention_count": 3
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    },
+    {
+      "label": "icing",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:46Z",
+  "city": "San Gabriel",
+  "key": "happy-donut-san-gabrie"
+}

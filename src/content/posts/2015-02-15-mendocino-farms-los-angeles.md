@@ -23,6 +23,7 @@ region: Downtown LA
 address: 735 S Figueroa St Los Angeles, CA 90071
 cuisine:
 - Fusion
+placeId: "0x80c2c7b1261aaa75:0xf1d05dcf3e4e924b"
 ---
 
 [![IMG_4071](/images/posts/mendocino-farms-los-angeles/IMG_2217.jpg "IMG_4071")](http://thirstypig.com/2015/02/15/mendocino-farms-los-angeles/img_4071-2/)

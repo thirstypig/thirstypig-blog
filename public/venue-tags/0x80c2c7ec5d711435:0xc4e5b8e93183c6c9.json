@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7ec5d711435:0xc4e5b8e93183c6c9",
+  "venue_name": "Bacari W. Adams",
+  "chips": [
+    {
+      "label": "pork belly",
+      "mention_count": 12
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 12
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "sangria",
+      "mention_count": 22
+    },
+    {
+      "label": "small plates",
+      "mention_count": 22
+    },
+    {
+      "label": "tapas",
+      "mention_count": 32
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 11
+    },
+    {
+      "label": "brussels sprouts",
+      "mention_count": 7
+    },
+    {
+      "label": "asian pear pizza",
+      "mention_count": 5
+    },
+    {
+      "label": "chicken wingettes",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:25:07Z",
+  "city": "Los Angeles",
+  "key": "bacari-w-adams-los-angele"
+}

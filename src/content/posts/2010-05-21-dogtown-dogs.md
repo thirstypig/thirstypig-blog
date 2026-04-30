@@ -32,6 +32,7 @@ tags:
 - hot-dogs
 cuisine:
 - American
+placeId: "0x80c2bf2accdf0857:0x28baab47a2ca58e0"
 ---
 
 Pink's Hot Dogs in Los Angeles.

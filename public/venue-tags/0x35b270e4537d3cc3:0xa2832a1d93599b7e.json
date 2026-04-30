@@ -1,0 +1,37 @@
+{
+  "place_id": "0x35b270e4537d3cc3:0xa2832a1d93599b7e",
+  "venue_name": "Apple Store",
+  "chips": [
+    {
+      "label": "iphone",
+      "mention_count": 8
+    },
+    {
+      "label": "architecture",
+      "mention_count": 5
+    },
+    {
+      "label": "wifi",
+      "mention_count": 5
+    },
+    {
+      "label": "tech",
+      "mention_count": 2
+    },
+    {
+      "label": "design",
+      "mention_count": 8
+    },
+    {
+      "label": "glass",
+      "mention_count": 6
+    },
+    {
+      "label": "hotel",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:31:51Z",
+  "city": "Shanghai",
+  "key": "apple-shanghai-iapm-apple-上海环贸-iapm-shanghai"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8a4e61b21d5:0xcc095bdc89b53a0f",
+  "venue_name": "Hwang Hae Doe",
+  "chips": [
+    {
+      "label": "dumpling hot pot",
+      "mention_count": 5
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 21
+    },
+    {
+      "label": "bulgogi with broth",
+      "mention_count": 7
+    },
+    {
+      "label": "banchan",
+      "mention_count": 6
+    },
+    {
+      "label": "grilled deodeok",
+      "mention_count": 4
+    },
+    {
+      "label": "vietnamese spring rolls",
+      "mention_count": 2
+    },
+    {
+      "label": "stir-fried webfoot octopus",
+      "mention_count": 2
+    },
+    {
+      "label": "kbbq",
+      "mention_count": 7
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 4
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:29Z",
+  "city": "Los Angeles",
+  "key": "hwang-hae-do-of-las-koreatown-los-angele"
+}

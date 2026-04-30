@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b89b40e41ce9:0xef39fb5fda24e28f",
+  "venue_name": "Kyochon Chicken",
+  "chips": [
+    {
+      "label": "wings",
+      "mention_count": 203
+    },
+    {
+      "label": "crispy chicken",
+      "mention_count": 33
+    },
+    {
+      "label": "soy garlic wings",
+      "mention_count": 20
+    },
+    {
+      "label": "pickled radish",
+      "mention_count": 18
+    },
+    {
+      "label": "honey wings",
+      "mention_count": 14
+    },
+    {
+      "label": "potato wedges",
+      "mention_count": 7
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 8
+    },
+    {
+      "label": "flavorful chicken",
+      "mention_count": 9
+    },
+    {
+      "label": "whole chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "korean fried chicken",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T05:30:26Z",
+  "city": "Shanghai",
+  "key": "kyochon-chicken-shanghai"
+}

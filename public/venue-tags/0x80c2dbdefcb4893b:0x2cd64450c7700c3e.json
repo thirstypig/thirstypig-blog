@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbdefcb4893b:0x2cd64450c7700c3e",
+  "venue_name": "Tokyo Wako Arcadia",
+  "chips": [
+    {
+      "label": "Teppanyaki",
+      "mention_count": 23
+    },
+    {
+      "label": "hibachi chef",
+      "mention_count": 6
+    },
+    {
+      "label": "chicken and shrimp combo",
+      "mention_count": 2
+    },
+    {
+      "label": "teriyaki steak",
+      "mention_count": 2
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 5
+    },
+    {
+      "label": "friendly chef",
+      "mention_count": 3
+    },
+    {
+      "label": "welcoming staff",
+      "mention_count": 5
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 2
+    },
+    {
+      "label": "kid friendly",
+      "mention_count": 2
+    },
+    {
+      "label": "bar area",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:28Z",
+  "city": "Arcadia",
+  "key": "tokyo-wako-arcadia"
+}

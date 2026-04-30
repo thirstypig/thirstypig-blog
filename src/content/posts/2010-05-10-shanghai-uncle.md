@@ -29,6 +29,7 @@ city: Shanghai
 region: Shanghai
 cuisine:
 - Chinese
+placeId: "0x40d4cef03956f7bb:0xf83b8ed0c6bfc92a"
 ---
 
 My Favorite Uncle in Shanghai.

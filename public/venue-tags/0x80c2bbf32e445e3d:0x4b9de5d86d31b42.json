@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbf32e445e3d:0x4b9de5d86d31b42",
+  "venue_name": "Craft Los Angeles",
+  "chips": [
+    {
+      "label": "potato puree",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "kitchen tour",
+      "mention_count": 5
+    },
+    {
+      "label": "chocolate chip cookies",
+      "mention_count": 2
+    },
+    {
+      "label": "Avocado Salad",
+      "mention_count": 5
+    },
+    {
+      "label": "Amuse Buche",
+      "mention_count": 3
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 5
+    },
+    {
+      "label": "granola",
+      "mention_count": 5
+    },
+    {
+      "label": "efficient staff",
+      "mention_count": 3
+    },
+    {
+      "label": "flat iron steak",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:25Z",
+  "city": "Los Angeles",
+  "key": "craft-los-angele"
+}

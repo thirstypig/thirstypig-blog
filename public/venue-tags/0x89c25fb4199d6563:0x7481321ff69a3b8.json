@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25fb4199d6563:0x7481321ff69a3b8",
+  "venue_name": "Stacked Sandwich Shop",
+  "chips": [
+    {
+      "label": "hero sandwich",
+      "mention_count": 6
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 17
+    },
+    {
+      "label": "sandwich size",
+      "mention_count": 17
+    },
+    {
+      "label": "vegan sandwiches",
+      "mention_count": 4
+    },
+    {
+      "label": "stacked sandwiches",
+      "mention_count": 4
+    },
+    {
+      "label": "egg salad sandwich",
+      "mention_count": 3
+    },
+    {
+      "label": "pastrami",
+      "mention_count": 7
+    },
+    {
+      "label": "cold italian sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "horseradish mayo",
+      "mention_count": 2
+    },
+    {
+      "label": "corned beef",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:25:35Z",
+  "city": "Arcadia",
+  "key": "stacked-sandwich-arcadia"
+}

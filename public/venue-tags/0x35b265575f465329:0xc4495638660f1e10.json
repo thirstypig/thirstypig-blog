@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b265575f465329:0xc4495638660f1e10",
+  "venue_name": "Da Marco",
+  "chips": [
+    {
+      "label": "english-speaking waiter",
+      "mention_count": 2
+    },
+    {
+      "label": "limoncello",
+      "mention_count": 2
+    },
+    {
+      "label": "affordable",
+      "mention_count": 5
+    },
+    {
+      "label": "chinese food",
+      "mention_count": 3
+    },
+    {
+      "label": "tasty ingredients",
+      "mention_count": 2
+    },
+    {
+      "label": "authentic italian food",
+      "mention_count": 2
+    },
+    {
+      "label": "decor",
+      "mention_count": 8
+    },
+    {
+      "label": "carbonara",
+      "mention_count": 4
+    },
+    {
+      "label": "pepperoni",
+      "mention_count": 2
+    },
+    {
+      "label": "longevity",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:26:49Z",
+  "city": "Shanghai",
+  "key": "da-marcos-italian-fare-in-shanghai-shanghai"
+}

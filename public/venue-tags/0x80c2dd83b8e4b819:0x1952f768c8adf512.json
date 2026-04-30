@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dd83b8e4b819:0x1952f768c8adf512",
+  "venue_name": "Smokehouse Social Barbecue",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 32
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 18
+    },
+    {
+      "label": "brisket chopped cheese",
+      "mention_count": 5
+    },
+    {
+      "label": "baked beans with bacon",
+      "mention_count": 3
+    },
+    {
+      "label": "blue cornbread",
+      "mention_count": 3
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 17
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 9
+    },
+    {
+      "label": "chimichurri sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 10
+    },
+    {
+      "label": "beer selection",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:23Z",
+  "city": "Pasadena",
+  "key": "perdues-barbeque-pasadena"
+}

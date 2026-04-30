@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bec9e64bc7db:0xbc9bddd3f485432c",
+  "venue_name": "Paul Smith",
+  "chips": [
+    {
+      "label": "pink wall",
+      "mention_count": 16
+    },
+    {
+      "label": "instagrammable backdrop",
+      "mention_count": 3
+    },
+    {
+      "label": "suits",
+      "mention_count": 4
+    },
+    {
+      "label": "wallets",
+      "mention_count": 2
+    },
+    {
+      "label": "good for taking pictures",
+      "mention_count": 5
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 2
+    },
+    {
+      "label": "pink instagram wall",
+      "mention_count": 2
+    },
+    {
+      "label": "photo opportunities",
+      "mention_count": 16
+    },
+    {
+      "label": "exterior design",
+      "mention_count": 2
+    },
+    {
+      "label": "instagram effect",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-04-30T05:25:24Z",
+  "city": "Los Angeles",
+  "key": "frysmith-los-angele"
+}

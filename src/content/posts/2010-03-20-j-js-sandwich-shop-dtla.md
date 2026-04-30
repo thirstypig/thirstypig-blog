@@ -25,6 +25,7 @@ city: Dtla
 region: Downtown LA
 cuisine:
 - Korean
+placeId: "0x80c2c7b5473519c5:0xcfbae7e20b360742"
 ---
 
 J J’s Sandwich Shop in Dtla.

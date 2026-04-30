@@ -763,6 +763,7 @@ Alhambra, CA 91801"
   city: "New York"
   query: "Mundo Cafe & Restaurant New York"
   cid: "13770102953811356094"
+  cid: "13770102953811356094"
 
 # [1 posts]
 - key: breakfast-gem-in-mammoth-mammoth
@@ -949,6 +950,7 @@ San Gabriel, CA 91776"
   name: "L'Amour Cafe"
   city: "Monterey Park"
   query: "L'Amour Cafe 230 N Garfield Ave, Monterey Park, CA 91754"
+  cid: "4745852388998726539"
   cid: "16168677771741621090"
 
 # [1 posts]
@@ -1036,6 +1038,7 @@ San Gabriel, CA 91776"
   name: "Pizza Patron"
   city: "Los Angeles"
   query: "Pizza Patron 223 W Anaheim St, Wilmington, CA 90744"
+  cid: "16066451401356848064"
   cid: "16066451401356848064"
 
 # [1 posts]
@@ -1254,3 +1257,794 @@ Arcadia, CA 91007"
   query: "Dai Ho Restaurant (大和) 9148 Las Tunas Dr (at Loma Ave), Temple City, CA 91780"
   place_id: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
   cid: "9660625225263927086"
+
+# === Batch 7: 100 single-post candidates (2026-04-29) ===
+- key: garvey-garage-door-repair-monterey-p
+  name: "Garvey Garage Door Repair"
+  city: "Monterey Park"
+  query: "Garvey Garage Door Repair 107 East Garvey Avenue, Monterey Park, CA 91755"
+  place_id: "0x80c2dbb017406cdd:0xe61600284d290ef9"
+  cid: "16579439251304287993"
+
+# [1 posts]
+- key: liangs-kitchen-arcadia
+  name: "Liang's Kitchen"
+  city: "Arcadia"
+  query: "Liang's Kitchen Arcadia"
+  place_id: "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c"
+  cid: "18010858053348862620"
+
+# [1 posts]
+- key: liangs-kitchen-梁媽媽家-san-gabrie
+  name: "Liang's Kitchen 梁媽媽家"
+  city: "San Gabriel"
+  query: "Liang's Kitchen 梁媽媽家 1027 S. Baldwin Ave
+Arcadia, CA 91007"
+  place_id: "0x808fb5a11587a951:0xc2ab639255953939"
+  cid: "14027414944527759673"
+
+# [1 posts]
+- key: pho-garden-san-franci
+  name: "Pho Garden"
+  city: "San Francisco"
+  query: "Pho Garden 321 Linden St (btwn Octavia & Gough St.), San Francisco, CA 94102"
+  place_id: "0x80858098bacce0a1:0x86f3d2e30e8e0eb0"
+  cid: "9724347893066632880"
+
+# [1 posts]
+- key: whisknladle-la-jolla
+  name: "Whisknladle"
+  city: "La Jolla"
+  query: "Whisknladle La Jolla"
+  place_id: "0x80dc03fb62acca2b:0x3008908115b608de"
+  cid: "3461175197723658462"
+
+# [1 posts]
+- key: yoshida-sushi-san-marino
+  name: "Yoshida Sushi"
+  city: "San Marino"
+  query: "Yoshida Sushi San Marino"
+  place_id: "0x80c2db350aa87c57:0xc281352e23c813f4"
+  cid: "14015541987638776820"
+
+# [1 posts]
+- key: garden-bistro-rowland-he
+  name: "Garden Bistro"
+  city: "Rowland Heights"
+  query: "Garden Bistro 1390 Fullerton Rd #101 (at Diamond Plz), Rowland Heights, CA 91748"
+  place_id: "0x80c32a67287308b5:0xa58472765ca02732"
+  cid: "11926783565869623090"
+
+# [1 posts]
+- key: shin-sen-gumi-yakitori-gardena
+  name: "Shin-Sen-Gumi Yakitori"
+  city: "Gardena"
+  query: "Shin-Sen-Gumi Yakitori 18517 S Western Ave (at West 186th St), Gardena, CA 90248"
+  place_id: "0x80c2b55c9a437961:0xdb65a4103db59a56"
+  cid: "15809222456615737942"
+
+# [1 posts]
+- key: strawberry-cones-san-gabrie
+  name: "Strawberry Cones"
+  city: "San Gabriel"
+  query: "Strawberry Cones San Gabriel"
+  cid: "16420370710827692465"
+
+# [1 posts]
+- key: lazy-ox-canteen-downtown-l
+  name: "Lazy Ox Canteen"
+  city: "Downtown Los Angeles"
+  query: "Lazy Ox Canteen Downtown Los Angeles"
+  place_id: "0x80c2c64810da98df:0x85c26107749eac8"
+  cid: "602398302323469000"
+
+# [1 posts]
+- key: wurstkuche-downtown-l
+  name: "Wurstküche"
+  city: "Downtown La"
+  query: "Wurstküche Downtown La"
+  place_id: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
+  cid: "8364823322338089933"
+
+# [1 posts]
+- key: blu-la-cafe-downtown-l
+  name: "Blu La Cafe"
+  city: "Downtown Los Angeles"
+  query: "Blu La Cafe Downtown Los Angeles"
+  place_id: "0x80c2c6359f5c747d:0xd9d476273976e93d"
+  cid: "15696300512132917565"
+
+# [1 posts]
+- key: espn-zone-downtown-l
+  name: "ESPN Zone"
+  city: "Downtown Los Angeles"
+  query: "ESPN Zone Downtown Los Angeles"
+  place_id: "0x80dd282824197031:0xcb149d79020c3bff"
+  cid: "14633494232284543999"
+
+# [1 posts]
+- key: craft-los-angele
+  name: "Craft"
+  city: "Los Angeles"
+  query: "Craft 10100 Constellation Blvd (Century City East), Los Angeles, CA 90067"
+  place_id: "0x80c2bbf32e445e3d:0x4b9de5d86d31b42"
+  cid: "340547740118489922"
+
+# [1 posts]
+- key: sultan-chicken-los-angele
+  name: "Sultan Chicken"
+  city: "Los Angeles"
+  query: "Sultan Chicken 311 W 6th St (btwn Hill & Broadway), Los Angeles, CA 90014"
+  place_id: "0x80c2c64acc47a679:0xef77d725998a9373"
+  cid: "17255497053783102323"
+
+# [1 posts]
+- key: kobawoo-house-los-angele
+  name: "Kobawoo House"
+  city: "Los Angeles"
+  query: "Kobawoo House Los Angeles"
+  place_id: "0x80c2c7796df6ffd3:0xc6c9b606f7866317"
+  cid: "14324180230867411735"
+
+# [1 posts]
+- key: the-donut-man-koreatown
+  name: "The Donut Man"
+  city: "Koreatown"
+  query: "The Donut Man 317 S Broadway, Los Angeles, CA 90013"
+  place_id: "0x80c2c7f325185515:0x3e0bb5e538304f32"
+  cid: "4470867051190177586"
+
+# [1 posts]
+- key: happy-donut-san-gabrie
+  name: "Happy Donut"
+  city: "San Gabriel"
+  query: "Happy Donut 701 W Las Tunas Dr (btwn N. Mission Dr. & N. Franklin Dr.), San Gabriel, CA 91776"
+  place_id: "0x80c2db2ae973602b:0x3624970f62a138b7"
+  cid: "3901409269544728759"
+
+# [1 posts]
+- key: crustacean-beverly-hills-beverly-hi
+  name: "Crustacean Beverly Hills"
+  city: "Beverly Hills"
+  query: "Crustacean Beverly Hills 468 N Bedford Dr, Beverly Hills, CA 90210"
+  place_id: "0x80c2bc083e0b1f21:0x76acc62a27588a38"
+  cid: "8551427676820769336"
+
+# [1 posts]
+- key: noodle-house-monterey-p
+  name: "Noodle House"
+  city: "Monterey Park"
+  query: "Noodle House Monterey Park"
+  place_id: "0x80c2daaaf937c195:0x6a9ea3a8bc43d365"
+  cid: "7682757959449039717"
+
+# [1 posts]
+- key: happy-kitchen-chino-hill
+  name: "Happy Kitchen"
+  city: "Chino Hills"
+  query: "Happy Kitchen 3233 Grand Ave J, Chino Hills, CA 91709, USA"
+  place_id: "0x80c332a704d94129:0xeb69a9d4b9db888a"
+  cid: "16963276202584017034"
+
+# [1 posts]
+- key: mountain-cafe-koreatown
+  name: "Mountain Cafe"
+  city: "Koreatown"
+  query: "Mountain Cafe Koreatown"
+  place_id: "0x80c2c77f2d419951:0x26285631b21e324c"
+  cid: "2749542343951397452"
+
+# [1 posts]
+- key: uncle-johns-ham-eggs-dtla
+  name: "Uncle John’s Ham & Eggs"
+  city: "Dtla"
+  query: "Uncle John’s Ham & Eggs Dtla"
+  place_id: "0x80c2c7b674d67d65:0x2792e6244718045e"
+  cid: "2851594557564912734"
+
+# [1 posts]
+- key: mac-cheeza-dtla
+  name: "Mac & Cheeza"
+  city: "Dtla"
+  query: "Mac & Cheeza Dtla"
+  place_id: "0x80c2b14f55bdd117:0xaaf2494f5a38eb84"
+  cid: "12317988535976651652"
+
+# [1 posts]
+- key: perdues-barbeque-pasadena
+  name: "Perdue’s Barbeque"
+  city: "Pasadena"
+  query: "Perdue’s Barbeque 456 E Orange Grove Ave Pasadena, CA 91104"
+  place_id: "0x80c2dd83b8e4b819:0x1952f768c8adf512"
+  cid: "1824792828453975314"
+
+# [1 posts]
+- key: tokyo-wako-arcadia
+  name: "Tokyo Wako"
+  city: "Arcadia"
+  query: "Tokyo Wako 401 E Huntington Dr (at S 5th Ave.), Arcadia, CA 91006"
+  place_id: "0x80c2dbdefcb4893b:0x2cd64450c7700c3e"
+  cid: "3230844896418991166"
+
+# [1 posts]
+- key: dong-nguyen-restaurant-alhambra
+  name: "Dong Nguyen Restaurant"
+  city: "Alhambra"
+  query: "Dong Nguyen Restaurant 1433 E Valley Blvd (at N New Ave), Alhambra, CA 91801"
+  place_id: "0x80c2dab5a12c0907:0x289cc2059d65f2ee"
+  cid: "2926427187255309038"
+
+# [1 posts]
+- key: el-mercado-east-la
+  name: "El Mercado"
+  city: "East LA"
+  query: "El Mercado 5287 W Pico Blvd (Dunsmuir), Los Angeles, CA 90019"
+  place_id: "0x80c2b904f37b8c69:0x2b9817a5cfaded98"
+  cid: "3141286741012245912"
+
+# [1 posts]
+- key: seongbukdong-koreatown
+  name: "Seongbukdong"
+  city: "Koreatown"
+  query: "Seongbukdong 3303 W 6th St (at Berendo St), Los Angeles, CA 90020"
+  place_id: "0x80c2c77c853ad33b:0x2eb3db7671a6c8d1"
+  cid: "3365274648335272145"
+
+# [1 posts]
+- key: big-wangs-dtla
+  name: "Big Wangs"
+  city: "Dtla"
+  query: "Big Wangs Dtla"
+  place_id: "0x80c2c7b5d981ab93:0xf6351c55f41f120c"
+  cid: "17741117462589411852"
+
+# [1 posts]
+- key: j-js-sandwich-shop-dtla
+  name: "J J’s Sandwich Shop"
+  city: "Dtla"
+  query: "J J’s Sandwich Shop Dtla"
+  place_id: "0x80c2c7b5473519c5:0xcfbae7e20b360742"
+  cid: "14968531269555980098"
+
+# [1 posts]
+- key: mendocino-farms-dtla
+  name: "Mendocino Farms"
+  city: "Dtla"
+  query: "Mendocino Farms Dtla"
+  place_id: "0x80c2c7b1261aaa75:0xf1d05dcf3e4e924b"
+  cid: "17424530102981399115"
+
+# [1 posts]
+- key: best-fish-tacos-in-ensenada-los-feliz
+  name: "Best Fish Tacos in Ensenada"
+  city: "Los Feliz"
+  query: "Best Fish Tacos in Ensenada Los Feliz"
+  place_id: "0x80d8927a4366b961:0xddf1b488b760369e"
+  cid: "15992762251054429854"
+
+# [1 posts]
+- key: best-bbq-in-pasadena-pasadena
+  name: "Best BBQ in Pasadena"
+  city: "Pasadena"
+  query: "Best BBQ in Pasadena Pasadena"
+  place_id: "0x80c2dd83b8e4b819:0x1952f768c8adf512"
+  cid: "1824792828453975314"
+
+# [1 posts]
+- key: bottega-louie-downtown-l
+  name: "Bottega Louie"
+  city: "Downtown LA"
+  query: "Bottega Louie 700 S Grand Ave (at 7th St), Los Angeles, CA 90017"
+  place_id: "0x80c2c7b44ee125ff:0x189e483154a17e53"
+  cid: "1773934679941021267"
+
+# [1 posts]
+- key: larkins-eagle-rock
+  name: "Larkin's"
+  city: "Eagle Rock"
+  query: "Larkin's Eagle Rock"
+  cid: "10159384991101780421"
+
+# [1 posts]
+- key: farmlab-downtown-l
+  name: "Farmlab"
+  city: "Downtown La"
+  query: "Farmlab 1745 North Spring St"
+  cid: "10269898218956759526"
+
+# [1 posts]
+- key: bacari-w-adams-los-angele
+  name: "Bacari W. Adams"
+  city: "Los Angeles"
+  query: "Bacari W. Adams 2308 S Union Ave, Los Angeles, CA 90007, USA"
+  place_id: "0x80c2c7ec5d711435:0xc4e5b8e93183c6c9"
+  cid: "14187949512798226121"
+
+# [1 posts]
+- key: bollinis-pizzeria-napolitana-mpk
+  name: "Bollini’s Pizzeria Napolitana"
+  city: "Mpk"
+  query: "Bollini’s Pizzeria Napolitana 2315 S Garfield Ave Monterey Park, CA 91754"
+  place_id: "0x80c2cfea3c89207f:0x46204ea9b77be1ed"
+  cid: "5053125272744485357"
+
+# [1 posts]
+- key: border-grill-truck-downtown-l
+  name: "Border Grill Truck"
+  city: "Downtown LA"
+  query: "Border Grill Truck Downtown LA"
+  place_id: "0x80c2c7cfccb156e1:0x7539b34e19614775"
+  cid: "8446979724124702581"
+
+# [1 posts]
+- key: truck-norris-downtown-l
+  name: "Truck Norris"
+  city: "Downtown LA"
+  query: "Truck Norris Greater LA Metro Area, Los Angeles, CA"
+
+# [1 posts]
+- key: frysmith-los-angele
+  name: "Frysmith"
+  city: "Los Angeles"
+  query: "Frysmith Los Angeles"
+  place_id: "0x80c2bec9e64bc7db:0xbc9bddd3f485432c"
+  cid: "13590700202930815788"
+
+# [1 posts]
+- key: allston-yacht-club-los-angele
+  name: "Allston Yacht Club"
+  city: "Los Angeles"
+  query: "Allston Yacht Club 1320 Echo Park Ave Los Angeles, CA 90026"
+  place_id: "0x80dd37c6665647cf:0xdf985df1783be895"
+  cid: "16111730958603643029"
+
+# [1 posts]
+- key: stacked-sandwich-arcadia
+  name: "Stacked Sandwich"
+  city: "Arcadia"
+  query: "Stacked Sandwich 18 N 1st Ave"
+  place_id: "0x89c25fb4199d6563:0x7481321ff69a3b8"
+  cid: "524690393328624568"
+
+# [1 posts]
+- key: toasteria-cafe-taipei
+  name: "Toasteria Cafe"
+  city: "Taipei"
+  query: "Toasteria Cafe 敦化南路一段169巷3號, 台北市,  106"
+  place_id: "0x3442abc4ded4372b:0x18d03f0d005300b"
+  cid: "111749898571165707"
+
+# [1 posts]
+- key: speak-low-彼楼-shanghai
+  name: "Speak Low (彼楼)"
+  city: "Shanghai"
+  query: "Speak Low (彼楼) 579 Fuxing Rd | 复兴中路579号 (Ruijin 2nd Rd | 瑞金二路), Xīntiāndì, Huangpu, 上海市"
+  place_id: "0x35b2700a8b73ca47:0xe9feffe1ff93701"
+  cid: "1053824712565143297"
+
+# [1 posts]
+- key: my-favorite-uncle-shanghai
+  name: "My Favorite Uncle"
+  city: "Shanghai"
+  query: "My Favorite Uncle Shanghai"
+  place_id: "0x40d4cef03956f7bb:0xf83b8ed0c6bfc92a"
+  cid: "17887047372370856234"
+
+# [1 posts]
+- key: broken-mouth-lees-homestyle-los-angele
+  name: "BROKEN MOUTH | Lee's Homestyle"
+  city: "Los Angeles"
+  query: "BROKEN MOUTH | Lee's Homestyle 718 S Los Angeles St, Los Angeles, CA 90014"
+  place_id: "0x80c2c7cb50cbde27:0x657b5b84be1a31ec"
+  cid: "7312539045649330668"
+
+# [1 posts]
+- key: 好樣本事-vvg-something-taipei
+  name: "好樣本事 VVG Something"
+  city: "Taipei"
+  query: "好樣本事 VVG Something 忠孝東路四段181巷40弄13號, 台北市"
+  cid: "11000102264327876554"
+
+# [1 posts]
+- key: da-marcos-italian-fare-in-shanghai-shanghai
+  name: "Da Marco’s Italian Fare in Shanghai"
+  city: "Shanghai"
+  query: "Da Marco’s Italian Fare in Shanghai Shanghai"
+  place_id: "0x35b265575f465329:0xc4495638660f1e10"
+  cid: "14143930904964177424"
+
+# [1 posts]
+- key: gaam-koreatown
+  name: "Gaam"
+  city: "Koreatown"
+  query: "Gaam Koreatown"
+  place_id: "0x80c2c708f9209ce7:0xf37eb52b944f2ad7"
+  cid: "17545660397058468567"
+
+# [1 posts]
+- key: 晶華軒-silks-house-taipei
+  name: "晶華軒 Silks House"
+  city: "Taipei"
+  query: "晶華軒 Silks House 中山北路二段41號, 中山區, 臺北市 104"
+  place_id: "0x3442a968f68729e7:0xe2dc91302bf325bc"
+  cid: "16347100383529870780"
+
+# [1 posts]
+- key: spot-huashan-光點華山-taipei
+  name: "SPOT Huashan (光點華山)"
+  city: "Taipei"
+  query: "SPOT Huashan (光點華山) 八德路一段1號, 台北市,  100"
+  place_id: "0x3442a97b1dc87c91:0xe8bcbe2f5909290a"
+  cid: "16770488222987397386"
+
+# [1 posts]
+- key: an-eagle-rock-favorite-eagle-rock
+  name: "An Eagle Rock Favorite"
+  city: "Eagle Rock"
+  query: "An Eagle Rock Favorite Eagle Rock"
+  place_id: "0x80c2c3166c65f143:0x7757d2965f9f9ab0"
+  cid: "8599573556778474160"
+
+# [1 posts]
+- key: robins-woodfire-bbq-of-pasadena-pasadena
+  name: "Robin’s Woodfire BBQ of Pasadena"
+  city: "Pasadena"
+  query: "Robin’s Woodfire BBQ of Pasadena Pasadena"
+  place_id: "0x80c2dc9cd6eb3ab5:0x18091d04d78c7769"
+  cid: "1731947438334048105"
+
+# [1 posts]
+- key: pinks-hot-dogs-los-angele
+  name: "Pink's Hot Dogs"
+  city: "Los Angeles"
+  query: "Pink's Hot Dogs 709 N La Brea Ave (at Melrose Ave), Los Angeles, CA 90038"
+  place_id: "0x80c2bf2accdf0857:0x28baab47a2ca58e0"
+  cid: "2934846431347497184"
+
+# [1 posts]
+- key: slaw-dogs-of-pasadena-pasadena
+  name: "Slaw Dogs of Pasadena"
+  city: "Pasadena"
+  query: "Slaw Dogs of Pasadena Pasadena"
+  place_id: "0x80c2c33f6d7d93c9:0x95b61cb95c85ac50"
+  cid: "10787841539859393616"
+
+# [1 posts]
+- key: hank-moodys-gjelina-of-venice-venice
+  name: "Hank Moody’s Gjelina of Venice"
+  city: "Venice"
+  query: "Hank Moody’s Gjelina of Venice Venice"
+  place_id: "0x80c2bbb8ea694e19:0x5d4a5a887baa2368"
+  cid: "6722284936040686440"
+
+# [1 posts]
+- key: risotto-from-colori-kitchen-downtown-l
+  name: "Risotto from Colori Kitchen"
+  city: "Downtown Los Angeles"
+  query: "Risotto from Colori Kitchen Downtown Los Angeles"
+  place_id: "0x80c2c7b59045e241:0x2a06224019bf15ce"
+  cid: "3028145458158441934"
+
+# [1 posts]
+- key: lucky-baldwins-of-sierra-madre-pasadena
+  name: "Lucky Baldwin’s of Sierra Madre"
+  city: "Pasadena"
+  query: "Lucky Baldwin’s of Sierra Madre 21 Kersting Court
+Sierra Madre, CA 91024"
+  place_id: "0x80c2dc70a55dec9f:0xb6fb22305677e5c7"
+  cid: "13185169925061731783"
+
+# [1 posts]
+- key: hwang-hae-do-of-las-koreatown-los-angele
+  name: "Hwang Hae Do of LA’s Koreatown"
+  city: "Los Angeles"
+  query: "Hwang Hae Do of LA’s Koreatown 429 N Western Ave
+Los Angeles, CA 90004"
+  place_id: "0x80c2b8a4e61b21d5:0xcc095bdc89b53a0f"
+  cid: "14702383461288983055"
+
+# [1 posts]
+- key: southern-thai-cuisine-at-jitlada-of-los-angele
+  name: "Southern Thai Cuisine at Jitlada of Hollywood"
+  city: "Los Angeles"
+  query: "Southern Thai Cuisine at Jitlada of Hollywood 5233 W Sunset Blvd
+Los Angeles, CA 90027"
+  place_id: "0x80c2bf5410a61eb1:0x284d8605a71cb6f9"
+  cid: "2904124693560473337"
+
+# [1 posts]
+- key: los-angeles-chaya-downtown-beverly-hi
+  name: "Los Angeles’ Chaya Downtown"
+  city: "Beverly Hills"
+  query: "Los Angeles’ Chaya Downtown 525 South Flower St"
+  place_id: "0x80c2c7b3cf490077:0xdd4f9b378bd48784"
+  cid: "15947135468413683588"
+
+# [1 posts]
+- key: braised-pork-rice-at-台南度小月-tu-hsiao-taipei
+  name: "Braised Pork Rice at 台南度小月 Tu Hsiao Yueh"
+  city: "Taipei"
+  query: "Braised Pork Rice at 台南度小月 Tu Hsiao Yueh 4 Jhongsiao E. Road"
+  place_id: "0x346e766340c7efc1:0x5751b719d7e7fe97"
+  cid: "6292011476037664407"
+
+# [1 posts]
+- key: sushi-at-紗舞縭壽司屋shaburi-taipei
+  name: "Sushi at 紗舞縭壽司屋Shaburi"
+  city: "Taipei"
+  query: "Sushi at 紗舞縭壽司屋Shaburi 599 Sushi Set featuring Uni and Scallop and the Dr"
+  place_id: "0x80c2c70dc271d7d7:0xeefc7af3d12f79b2"
+  cid: "17220774262763125170"
+
+# [1 posts]
+- key: 串門子茶館-stop-by-tea-house-taipei
+  name: "串門子茶館 Stop By Tea House"
+  city: "Taipei"
+  query: "串門子茶館 Stop By Tea House 麗水街13巷9號, 臺北市, 臺北市 106"
+  place_id: "0x3442a98390bf3369:0x38b585c0a1facff0"
+  cid: "4086319299306377200"
+
+# [1 posts]
+- key: 台鐵便當本鋪-taipei
+  name: "台鐵便當本鋪"
+  city: "Taipei"
+  query: "台鐵便當本鋪 北平西路3號 (台北火車站1樓西三門商場區), 台北市,  100"
+  place_id: "0x3442a9728f98e347:0x1b81cf1094c0496b"
+  cid: "1982092981141784939"
+
+# [1 posts]
+- key: umeko-梅子餐廳-taipei
+  name: "Umeko (梅子餐廳)"
+  city: "Taipei"
+  query: "Umeko (梅子餐廳) 林森北路107巷1號, 台北市,  104"
+  place_id: "0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+  cid: "12307489069994273764"
+
+# [1 posts]
+- key: in-n-out-burger-rosemead
+  name: "In-N-Out Burger"
+  city: "Rosemead"
+  query: "In-N-Out Burger 4242 Rosemead Blvd (at Mission Dr), Rosemead, CA 91770"
+  place_id: "0x80c2da8e96d05277:0xfd92e6c6e71fd23"
+  cid: "1141995023759441187"
+
+# [1 posts]
+- key: 高記-kaochi-taipei
+  name: "高記 KaoChi"
+  city: "Taipei"
+  query: "高記 KaoChi 5 Yongkang St"
+  place_id: "0x3442a98215519a0d:0x8460a022d1a9f570"
+  cid: "9538800082177619312"
+
+# [1 posts]
+- key: 永和豆漿大王-yong-he-do-jiang-da-wang-taipei
+  name: "永和豆漿大王 Yong He Do Jiang Da Wang"
+  city: "Taipei"
+  query: "永和豆漿大王 Yong He Do Jiang Da Wang 102 Fuxing South Road"
+  place_id: "0x3442aa2c85b42663:0x2fa03ede42204c90"
+  cid: "3431812040369392784"
+
+# [1 posts]
+- key: the-last-great-pizzeria-monterey-p
+  name: "The Last Great Pizzeria"
+  city: "Monterey Park"
+  query: "The Last Great Pizzeria 2315 South Garfield Ave"
+  place_id: "0x80c2cfea3c89207f:0x46204ea9b77be1ed"
+  cid: "5053125272744485357"
+
+# [1 posts]
+- key: 世界豆漿大王-taipei
+  name: "世界豆漿大王"
+  city: "Taipei"
+  query: "世界豆漿大王 林森北路310巷27號, 中山區, 臺北市 104"
+  place_id: "0x3442a9681a68c2c5:0x7fe664e2d7cd8e0f"
+  cid: "9216164612906257935"
+
+# [1 posts]
+- key: ciudad-dtla
+  name: "Ciudad"
+  city: "Dtla"
+  query: "Ciudad 445 S. Figueroa St. Los Angeles, CA 90071"
+  place_id: "0x80c2c7b2389525eb:0x2896b8b6a10b0c13"
+  cid: "2924728102549130259"
+
+# [1 posts]
+- key: kyochon-chicken-shanghai
+  name: "Kyochon Chicken"
+  city: "Shanghai"
+  query: "Kyochon Chicken Shanghai"
+  place_id: "0x80c2b89b40e41ce9:0xef39fb5fda24e28f"
+  cid: "17238085437837599375"
+
+# [1 posts]
+- key: fogo-de-chao-beverly-hi
+  name: "Fogo de Chao"
+  city: "Beverly Hills"
+  query: "Fogo de Chao Beverly Hills"
+  place_id: "0x80c2b94ec3635455:0xc2adb994f61e58df"
+  cid: "14028072463764445407"
+
+# [1 posts]
+- key: chilis-grill-bar-taipei
+  name: "Chili's Grill & Bar"
+  city: "Taipei"
+  query: "Chili's Grill & Bar 忠誠路二段200號B館2樓 (市東路), 台北市,  111"
+  place_id: "0x3442ae808aab4351:0x31a53aa4177864d9"
+  cid: "3577329955458540761"
+
+# [1 posts]
+- key: ciudad-downtown-l
+  name: "Ciudad"
+  city: "Downtown Los Angeles"
+  query: "Ciudad Downtown Los Angeles"
+  place_id: "0x80c2c7b2389525eb:0x2896b8b6a10b0c13"
+  cid: "2924728102549130259"
+
+# [1 posts]
+- key: hermes-bitcoin-atm-downtown-los-ang-los-angele
+  name: "Hermes Bitcoin ATM - Downtown Los Angeles"
+  city: "Los Angeles"
+  query: "Hermes Bitcoin ATM - Downtown Los Angeles 221 W 8th St, Los Angeles, CA 90014"
+  place_id: "0x80c2c7025bceedc3:0x17aa3d07a108572f"
+  cid: "1705242511888897839"
+
+# [1 posts]
+- key: 麵屋千雲-menya-chikumo-taipei
+  name: "麵屋千雲 Menya Chikumo"
+  city: "Taipei"
+  query: "麵屋千雲 Menya Chikumo 105-1, Linsen N Rd, 中山區, 臺北市 10491"
+  place_id: "0x3442a9d86eaf89a9:0x532d9321d5a305f0"
+  cid: "5993608452627432944"
+
+# [1 posts]
+- key: tainan-eel-noodles-台南鱔魚意麵-taipei
+  name: "Tainan Eel Noodles (台南鱔魚意麵)"
+  city: "Taipei"
+  query: "Tainan Eel Noodles (台南鱔魚意麵) 師大路45號, 台北市,  106"
+  place_id: "0x346e76668c22c615:0x1678caced66690d9"
+  cid: "1619267055748813017"
+
+# [1 posts]
+- key: 宜品福州乾拌麵-taipei
+  name: "宜品福州乾拌麵"
+  city: "Taipei"
+  query: "宜品福州乾拌麵 忠孝東路四段216巷32弄5號, 台北市"
+  place_id: "0x3442abc58b0d7413:0x53f733f53158d2c0"
+  cid: "6050361752583459520"
+
+# [1 posts]
+- key: apple-shanghai-iapm-apple-上海环贸-iapm-shanghai
+  name: "Apple Shanghai iapm (Apple 上海环贸 iapm)"
+  city: "Shanghai"
+  query: "Apple Shanghai iapm (Apple 上海环贸 iapm) 淮海中路999号, 环贸iapm商场L1-107&L2-207, 徐汇区 (iapm Mall | 环贸iapm商场), 上海市, 上海市, 200031"
+  place_id: "0x35b270e4537d3cc3:0xa2832a1d93599b7e"
+  cid: "11710249762607963006"
+
+# [1 posts]
+- key: kyochon-chicken-pudong
+  name: "KyoChon Chicken"
+  city: "PuDong"
+  query: "KyoChon Chicken PuDong"
+  place_id: "0x80c2b89b40e41ce9:0xef39fb5fda24e28f"
+  cid: "17238085437837599375"
+
+# [1 posts]
+- key: tanya-matabei-shanghai
+  name: "Tanya Matabei"
+  city: "Shanghai"
+  query: "Tanya Matabei 581 Fuxing lu (Ruijin lu), 上海市, 上海市, 200000"
+
+# [1 posts]
+- key: chamate-一茶一坐-shanghai
+  name: "Chamate (一茶一坐)"
+  city: "Shanghai"
+  query: "Chamate (一茶一坐) 淮海中路939号 (陕西南路), 上海市, 上海市"
+  place_id: "0x35b26ffe08b78ccb:0x91cd54b94031228e"
+  cid: "10506146660347880078"
+
+# [1 posts]
+- key: hermès-maison-in-shanghai-上海爱马仕之家-shanghai
+  name: "Hermès Maison in Shanghai (上海爱马仕之家)"
+  city: "Shanghai"
+  query: "Hermès Maison in Shanghai (上海爱马仕之家) 217 Huaihai M Rd  | 淮海中路217号, Huangpu, 上海市"
+  place_id: "0x35b2706ef723205b:0xe60166e9e51df7da"
+  cid: "16573641258457495514"
+
+# [1 posts]
+- key: strip-ministry-of-waxing-shanghai
+  name: "Strip: Ministry of Waxing"
+  city: "Shanghai"
+  query: "Strip: Ministry of Waxing 158 Xinle Rd. (Donghu Rd.), Xuhui, 上海市"
+  place_id: "0x35b2700779518d4d:0xf6acc6d8d93452b7"
+  cid: "17774800463983825591"
+
+# [1 posts]
+- key: silk-lounge-mpk
+  name: "Silk Lounge"
+  city: "Mpk"
+  query: "Silk Lounge 123 South Lincoln Ave"
+  cid: "12353790477862255651"
+
+# [1 posts]
+- key: studio-du-double-v-taipei
+  name: "Studio du Double-V"
+  city: "Taipei"
+  query: "Studio du Double-V 延吉街234號, 台北市"
+  place_id: "0x3442a96f66abad45:0x905f3583cbd4da2c"
+  cid: "10403092504425847340"
+
+# [1 posts]
+- key: petes-cafe-bar-downtown-l
+  name: "Pete’s Cafe & Bar"
+  city: "Downtown Los Angeles"
+  query: "Pete’s Cafe & Bar Downtown Los Angeles"
+  place_id: "0x80c2c64a1fa6c435:0x37c9d7d155348147"
+  cid: "4019981436482519367"
+
+# [1 posts]
+- key: 伊藤家-itoya-shanghai
+  name: "伊藤家 Itoya"
+  city: "Shanghai"
+  query: "伊藤家 Itoya 381 Middle Huaihai Road"
+  cid: "4156138506608595401"
+
+# [1 posts]
+- key: 蝶园-butterfly-garden-restaurant-shanghai
+  name: "蝶园 Butterfly Garden Restaurant"
+  city: "Shanghai"
+  query: "蝶园 Butterfly Garden Restaurant 70 Taicang Rd, 上海市, 上海市"
+  place_id: "0x35b27010fb2a53ab:0xc89cfaaa30c42d57"
+  cid: "14455704512821996887"
+
+# [1 posts]
+- key: spicy-pork-noodles-in-kwo-沪上一家辣肉面-shanghai
+  name: "Spicy Pork Noodles In Kwo (沪上一家辣肉面)"
+  city: "Shanghai"
+  query: "Spicy Pork Noodles In Kwo (沪上一家辣肉面) 535 Fengyang Rd | 凤阳路535号 (near Chengdu N Rd | 近成都北路), Jing'an, 上海市"
+  place_id: "0x35b270150bf90d01:0x18d4e6fd3d272c63"
+  cid: "1789308927300021347"
+
+# [1 posts]
+- key: pudong-riverside-promenade-浦东滨江大道-shanghai
+  name: "Pudong Riverside Promenade (浦东滨江大道)"
+  city: "Shanghai"
+  query: "Pudong Riverside Promenade (浦东滨江大道) Riverside Promenade (along Huangpu River), Lùjiāzuǐ, Huangpu, 上海市, 200030"
+  place_id: "0x35b27b99df539f3d:0x7c4877e90e6294b5"
+  cid: "8955539701878658229"
+
+# [1 posts]
+- key: pasha-帕夏土耳其餐厅-shanghai
+  name: "Pasha (帕夏土耳其餐厅)"
+  city: "Shanghai"
+  query: "Pasha (帕夏土耳其餐厅) 262 Nanchang Rd | 南昌路262号 (near Ruijin 2nd Rd | 近瑞金二路), Xīntiāndì, Huangpu, 上海市"
+  place_id: "0x35b2700bce683d87:0x7d08fe364384c487"
+  cid: "9009730563569140871"
+
+# [1 posts]
+- key: master-kong-chefs-table-康师傅私房牛肉面-shanghai
+  name: "Master Kong Chef's Table (康师傅私房牛肉面)"
+  city: "Shanghai"
+  query: "Master Kong Chef's Table (康师傅私房牛肉面) 762 Tianshan Rd | 天山路762号 (Hong Xin Fashion Plaza | 泓鑫时尚广场), Xian xiá, Changning, 上海市, 200051"
+  cid: "14953250910547571815"
+
+# [1 posts]
+- key: 大连银行-shanghai
+  name: "大连银行"
+  city: "Shanghai"
+  query: "大连银行 Changning, 上海市"
+  cid: "6930454257929317394"
+
+# [1 posts]
+- key: an-organic-farm-in-dalian-dalian
+  name: "An Organic Farm in Dalian"
+  city: "Dalian"
+  query: "An Organic Farm in Dalian Dalian"
+  cid: "5503365376496693443"
+
+# [1 posts]
+- key: the-shanghai-edition-上海爱迪逊酒店-shanghai
+  name: "The Shanghai EDITION (上海爱迪逊酒店)"
+  city: "Shanghai"
+  query: "The Shanghai EDITION (上海爱迪逊酒店) 199 Nanjing Road East, Huangpu District, Huangpu District, 上海市, 上海市, 200002"
+  place_id: "0x35b27059f4baa609:0xf291802532254018"
+  cid: "17478892526045052952"

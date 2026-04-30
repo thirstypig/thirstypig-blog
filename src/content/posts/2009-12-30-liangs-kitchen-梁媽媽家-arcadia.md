@@ -30,6 +30,7 @@ city: Arcadia
 region: San Gabriel Valley
 cuisine:
 - Taiwanese
+placeId: "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c"
 ---
 
 I know I have been a bit lazy about posting this month. Anyways. . . I wanted to get this in before the end of the year. Liang’s Kitchen is my new favorite local Taiwanese restaurant. I would almost say hole-in-the-wall. But they have 3 San Gabriel Valley locations.

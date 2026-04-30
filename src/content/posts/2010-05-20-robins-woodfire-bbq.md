@@ -25,6 +25,7 @@ location: Robin’s Woodfire BBQ of Pasadena
 city: Pasadena
 cuisine:
 - BBQ
+placeId: "0x80c2dc9cd6eb3ab5:0x18091d04d78c7769"
 ---
 
 Robin’s Woodfire BBQ of Pasadena.

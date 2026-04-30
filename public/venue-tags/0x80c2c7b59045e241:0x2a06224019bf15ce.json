@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b59045e241:0x2a06224019bf15ce",
+  "venue_name": "Colori Kitchen",
+  "chips": [
+    {
+      "label": "no corkage fee",
+      "mention_count": 27
+    },
+    {
+      "label": "cioppino",
+      "mention_count": 9
+    },
+    {
+      "label": "tagliatelle alla bolognese",
+      "mention_count": 11
+    },
+    {
+      "label": "fettuccine alfredo",
+      "mention_count": 9
+    },
+    {
+      "label": "spaghetti with meatballs",
+      "mention_count": 7
+    },
+    {
+      "label": "calamari",
+      "mention_count": 21
+    },
+    {
+      "label": "mushroom risotto",
+      "mention_count": 2
+    },
+    {
+      "label": "panna cotta",
+      "mention_count": 7
+    },
+    {
+      "label": "byob",
+      "mention_count": 25
+    },
+    {
+      "label": "flan",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:28:18Z",
+  "city": "Downtown Los Angeles",
+  "key": "risotto-from-colori-kitchen-downtown-l"
+}

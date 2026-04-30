@@ -30,6 +30,7 @@ coordinates:
 tags:
 - shanghai
 cuisine: []
+placeId: "0x35b2700779518d4d:0xf6acc6d8d93452b7"
 ---
 
 #gallery-2 {

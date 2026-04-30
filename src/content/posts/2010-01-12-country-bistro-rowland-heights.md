@@ -37,6 +37,7 @@ coordinates:
   lng: -117.904321
 cuisine:
 - Taiwanese
+placeId: "0x80c32a67287308b5:0xa58472765ca02732"
 ---
 
 Country Bistro is a hidden gem that specializes in Taiwanese food and herbal soups.

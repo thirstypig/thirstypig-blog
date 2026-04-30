@@ -30,6 +30,7 @@ coordinates:
   lng: -118.109534
 cuisine:
 - Multi
+placeId: "0x80c2dab5a12c0907:0x289cc2059d65f2ee"
 ---
 
 Dong Nguyen Restaurant in Alhambra.

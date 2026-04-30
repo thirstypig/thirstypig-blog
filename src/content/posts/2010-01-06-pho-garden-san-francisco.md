@@ -28,6 +28,7 @@ originalUrl: 'http://www.thethirstypig.com/2010/01/06/pho-garden-san-francisco/'
 archiveUrl: 'https://web.archive.org/web/20110105200726/http://www.thethirstypig.com/2010/01/06/pho-garden-san-francisco/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80858098bacce0a1:0x86f3d2e30e8e0eb0"
 ---
 
 Dark Garden in San Francisco.

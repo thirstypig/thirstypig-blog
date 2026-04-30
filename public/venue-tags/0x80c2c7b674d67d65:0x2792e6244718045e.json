@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b674d67d65:0x2792e6244718045e",
+  "venue_name": "Uncle John's Cafe",
+  "chips": [
+    {
+      "label": "steak and eggs",
+      "mention_count": 96
+    },
+    {
+      "label": "spicy pork chops",
+      "mention_count": 50
+    },
+    {
+      "label": "fried rice",
+      "mention_count": 102
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 14
+    },
+    {
+      "label": "thai iced tea",
+      "mention_count": 10
+    },
+    {
+      "label": "medium rare steak",
+      "mention_count": 9
+    },
+    {
+      "label": "fried pork chop",
+      "mention_count": 6
+    },
+    {
+      "label": "chow mein",
+      "mention_count": 16
+    },
+    {
+      "label": "spicy orange chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "french toast",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:12Z",
+  "city": "Dtla",
+  "key": "uncle-johns-ham-eggs-dtla"
+}

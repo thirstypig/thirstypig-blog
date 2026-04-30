@@ -1,0 +1,45 @@
+{
+  "place_id": "0x80dd282824197031:0xcb149d79020c3bff",
+  "venue_name": "ESPN Zone",
+  "chips": [
+    {
+      "label": "arcade",
+      "mention_count": 15
+    },
+    {
+      "label": "brisket",
+      "mention_count": 5
+    },
+    {
+      "label": "disneyland",
+      "mention_count": 17
+    },
+    {
+      "label": "appetizer",
+      "mention_count": 7
+    },
+    {
+      "label": "vacation",
+      "mention_count": 5
+    },
+    {
+      "label": "kids",
+      "mention_count": 18
+    },
+    {
+      "label": "adults",
+      "mention_count": 5
+    },
+    {
+      "label": "dining",
+      "mention_count": 6
+    },
+    {
+      "label": "check",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:20Z",
+  "city": "Downtown Los Angeles",
+  "key": "espn-zone-downtown-l"
+}

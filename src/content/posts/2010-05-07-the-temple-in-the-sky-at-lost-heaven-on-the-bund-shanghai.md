@@ -26,6 +26,7 @@ coordinates:
   lng: 121.461277
 cuisine:
 - Cocktails
+placeId: "0x35b2700a8b73ca47:0xe9feffe1ff93701"
 ---
 
 Speak Low (彼楼) in Shanghai.

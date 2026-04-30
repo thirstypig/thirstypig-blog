@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7cfccb156e1:0x7539b34e19614775",
+  "venue_name": "Holy Grill Food Truck",
+  "chips": [
+    {
+      "label": "kabob burger",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken schnitzel",
+      "mention_count": 2
+    },
+    {
+      "label": "food truck",
+      "mention_count": 5
+    },
+    {
+      "label": "shawarma",
+      "mention_count": 5
+    },
+    {
+      "label": "hummus",
+      "mention_count": 2
+    },
+    {
+      "label": "convenient location",
+      "mention_count": 2
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 2
+    },
+    {
+      "label": "wait time",
+      "mention_count": 3
+    },
+    {
+      "label": "pita",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:25:19Z",
+  "city": "Downtown LA",
+  "key": "border-grill-truck-downtown-l"
+}

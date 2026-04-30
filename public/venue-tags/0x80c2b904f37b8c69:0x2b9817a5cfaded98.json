@@ -1,0 +1,41 @@
+{
+  "place_id": "0x80c2b904f37b8c69:0x2b9817a5cfaded98",
+  "venue_name": "Colon Rollin'",
+  "chips": [
+    {
+      "label": "funny staff",
+      "mention_count": 2
+    },
+    {
+      "label": "knowledgeable staff",
+      "mention_count": 5
+    },
+    {
+      "label": "colonic",
+      "mention_count": 5
+    },
+    {
+      "label": "caring staff",
+      "mention_count": 4
+    },
+    {
+      "label": "vibe",
+      "mention_count": 3
+    },
+    {
+      "label": "treatment",
+      "mention_count": 3
+    },
+    {
+      "label": "feel",
+      "mention_count": 5
+    },
+    {
+      "label": "energy",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:38Z",
+  "city": "East LA",
+  "key": "el-mercado-east-la"
+}

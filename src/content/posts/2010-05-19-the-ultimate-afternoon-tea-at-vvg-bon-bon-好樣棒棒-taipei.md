@@ -32,6 +32,7 @@ tags:
 - desserts
 cuisine:
 - Dessert
+placeId: "0x3442a97b1dc87c91:0xe8bcbe2f5909290a"
 ---
 
 VVG Bon Bon is a quaint little afternoon tea place. It is so cute and feminine that I had no business being there.

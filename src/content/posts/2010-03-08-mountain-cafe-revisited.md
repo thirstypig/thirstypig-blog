@@ -28,6 +28,7 @@ city: Koreatown
 region: Koreatown
 cuisine:
 - Korean
+placeId: "0x80c2c77f2d419951:0x26285631b21e324c"
 ---
 
 Tea Master Matcha Cafe and Green Tea Shop in Koreatown.

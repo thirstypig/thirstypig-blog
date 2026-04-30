@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7f325185515:0x3e0bb5e538304f32",
+  "venue_name": "The Donut Man",
+  "chips": [
+    {
+      "label": "strawberry donut",
+      "mention_count": 99
+    },
+    {
+      "label": "strawberry filled donut",
+      "mention_count": 16
+    },
+    {
+      "label": "French Cruller",
+      "mention_count": 10
+    },
+    {
+      "label": "peach donut",
+      "mention_count": 18
+    },
+    {
+      "label": "fresh strawberries",
+      "mention_count": 11
+    },
+    {
+      "label": "tiger tail",
+      "mention_count": 21
+    },
+    {
+      "label": "glazed donut",
+      "mention_count": 19
+    },
+    {
+      "label": "raspberry filled",
+      "mention_count": 11
+    },
+    {
+      "label": "bavarian cream donut",
+      "mention_count": 8
+    },
+    {
+      "label": "cream cheese donut",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-04-30T05:22:41Z",
+  "city": "Koreatown",
+  "key": "the-donut-man-koreatown"
+}

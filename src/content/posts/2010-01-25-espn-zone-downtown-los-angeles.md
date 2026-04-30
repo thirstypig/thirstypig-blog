@@ -25,6 +25,7 @@ city: Downtown Los Angeles
 region: Downtown LA
 cuisine:
 - American
+placeId: "0x80dd282824197031:0xcb149d79020c3bff"
 ---
 
 The first time I went to an ESPN Zone was in Baltimore, when the first one opened over 12 years ago. I can’t believe it took that long for ESPN to open its first one in Los Angeles. I know there’s on in Anaheim at Downtown Disney – but that doesn’t count.

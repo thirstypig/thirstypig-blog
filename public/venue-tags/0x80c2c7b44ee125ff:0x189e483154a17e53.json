@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b44ee125ff:0x189e483154a17e53",
+  "venue_name": "Bottega Louie",
+  "chips": [
+    {
+      "label": "macarons",
+      "mention_count": 394
+    },
+    {
+      "label": "beignets",
+      "mention_count": 80
+    },
+    {
+      "label": "people watching",
+      "mention_count": 7
+    },
+    {
+      "label": "portobello fries",
+      "mention_count": 50
+    },
+    {
+      "label": "pastries",
+      "mention_count": 182
+    },
+    {
+      "label": "high ceilings",
+      "mention_count": 85
+    },
+    {
+      "label": "eggs benedict",
+      "mention_count": 64
+    },
+    {
+      "label": "Tartufo Pizza",
+      "mention_count": 25
+    },
+    {
+      "label": "Chocolate Souffle",
+      "mention_count": 21
+    },
+    {
+      "label": "lobster hash",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-04-30T05:24:15Z",
+  "city": "Downtown LA",
+  "key": "bottega-louie-downtown-l"
+}

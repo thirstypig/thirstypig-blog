@@ -50,6 +50,7 @@ tags:
 - dim-sum
 cuisine:
 - Chinese
+placeId: "0x35b27010fb2a53ab:0xc89cfaaa30c42d57"
 ---
 
 I was recently told, that local Shanghainese don’t necessarily like their own cuisine, all that much. They, my classmates in particular, have indicated they prefer Cantonese fare. Shanghainese dishes are known to be overly sweet and thick in sauce, not with an abundant amount of flavors. Jade Butterfly tries to emphasize in the delicacies and traditional dishes that Shanghai has to offer.

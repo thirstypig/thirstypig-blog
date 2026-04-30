@@ -27,6 +27,7 @@ tags:
 - tacos
 cuisine:
 - Mexican
+placeId: "0x80c2c7cfccb156e1:0x7539b34e19614775"
 ---
 
 This week I will be reviewing food trucks in and around LA. I will be looking at the Border Grill Truck, World Fare, the Flying Pig, Frysmith, and Lomo Arigato. Previously, I have tried the [Grilled Cheese Truck](http://blog.thethirstypig.com/2010/03/cheese-nite-w-mac-cheeza-and-grill.html), [the Buttermilk Truck](http://blog.thethirstypig.com/2010/03/truck-feasting-buttermilk-truck-and.html), [the Slice Truck](http://blog.thethirstypig.com/2010/03/truck-feasting-buttermilk-truck-and.html), [Don Chow Tacos](http://blog.thethirstypig.com/2009/08/another-taco-truck-don-chow-tacos.html), [Kogi](http://blog.thethirstypig.com/2009/01/kogi-bbq-korean-taco-truck.html), [Tacos El Gallito](http://blog.thethirstypig.com/2009/08/tacos-el-gallito-late-night-savior.html), [Marked 5](http://blog.thethirstypig.com/2009/09/fresh-roach-coaches-on-1st-friday.html), [Fishlips Sushi](http://blog.thethirstypig.com/2009/09/fresh-roach-coaches-on-1st-friday.html), and [Barbie Q](http://blog.thethirstypig.com/2009/09/fresh-roach-coaches-on-1st-friday.html).

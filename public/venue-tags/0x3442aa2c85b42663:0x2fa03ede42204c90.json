@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442aa2c85b42663:0x2fa03ede42204c90",
+  "venue_name": "Yong He Soya Milk King (Da’an)",
+  "chips": [
+    {
+      "label": "you tiao",
+      "mention_count": 653
+    },
+    {
+      "label": "shaobing youtiao",
+      "mention_count": 693
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "xiaolongbao",
+      "mention_count": 306
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 73
+    },
+    {
+      "label": "rice roll",
+      "mention_count": 264
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 118
+    },
+    {
+      "label": "shaobing with egg",
+      "mention_count": 53
+    },
+    {
+      "label": "dan bing",
+      "mention_count": 34
+    },
+    {
+      "label": "yonghe soy milk",
+      "mention_count": 18
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:22Z",
+  "city": "Taipei",
+  "key": "永和豆漿大王-yong-he-do-jiang-da-wang-taipei"
+}

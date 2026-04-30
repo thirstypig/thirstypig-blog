@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c77c853ad33b:0x2eb3db7671a6c8d1",
+  "venue_name": "Seong Buk Dong",
+  "chips": [
+    {
+      "label": "braised short ribs",
+      "mention_count": 69
+    },
+    {
+      "label": "soft tofu stew",
+      "mention_count": 34
+    },
+    {
+      "label": "galbi tang",
+      "mention_count": 19
+    },
+    {
+      "label": "banchan",
+      "mention_count": 37
+    },
+    {
+      "label": "braised mackerel",
+      "mention_count": 11
+    },
+    {
+      "label": "beef stew",
+      "mention_count": 8
+    },
+    {
+      "label": "tofu soup",
+      "mention_count": 7
+    },
+    {
+      "label": "Yugsu Bulgogi",
+      "mention_count": 14
+    },
+    {
+      "label": "Haemul Pajeon",
+      "mention_count": 2
+    },
+    {
+      "label": "stir-fried octopus",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:23:44Z",
+  "city": "Koreatown",
+  "key": "seongbukdong-koreatown"
+}

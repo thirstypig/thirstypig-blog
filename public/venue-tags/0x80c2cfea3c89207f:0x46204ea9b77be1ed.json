@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2cfea3c89207f:0x46204ea9b77be1ed",
+  "venue_name": "Ravello Osteria",
+  "chips": [
+    {
+      "label": "cash only",
+      "mention_count": 34
+    },
+    {
+      "label": "family style seating",
+      "mention_count": 4
+    },
+    {
+      "label": "arugula salad",
+      "mention_count": 13
+    },
+    {
+      "label": "truffle pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "spaghetti carbonara",
+      "mention_count": 24
+    },
+    {
+      "label": "pork chops",
+      "mention_count": 8
+    },
+    {
+      "label": "pork wings",
+      "mention_count": 7
+    },
+    {
+      "label": "wood fire oven",
+      "mention_count": 7
+    },
+    {
+      "label": "Linguini with Lobster",
+      "mention_count": 5
+    },
+    {
+      "label": "communal tables",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T05:29:27Z",
+  "city": "Monterey Park",
+  "key": "the-last-great-pizzeria-monterey-p"
+}
