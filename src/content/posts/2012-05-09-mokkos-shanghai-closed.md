@@ -22,6 +22,7 @@ coordinates:
   lng: 121.428803
 cuisine:
 - Cocktails
+placeId: "0x35b26fe4b939feef:0x3d3fb92b681792e3"
 ---
 
 

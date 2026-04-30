@@ -26,6 +26,7 @@ tags:
 - tex-mex
 cuisine:
 - Fusion
+placeId: "0x35b2f99e2e421e4d:0xe42ce70085bedf71"
 ---
 
 Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up early and got to go with a few friends to Kelley Lee’s Boxing Cat Brewery for brunch.

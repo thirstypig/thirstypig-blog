@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b5b72a6b1869:0x1a0e365d55812123",
+  "venue_name": "Kitsu Nori",
+  "chips": [
+    {
+      "label": "hamachi crudo",
+      "mention_count": 10
+    },
+    {
+      "label": "pork belly buns",
+      "mention_count": 23
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 8
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 24
+    },
+    {
+      "label": "chicken karage",
+      "mention_count": 13
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 13
+    },
+    {
+      "label": "beet fries",
+      "mention_count": 10
+    },
+    {
+      "label": "hand rolls",
+      "mention_count": 6
+    },
+    {
+      "label": "food truck",
+      "mention_count": 16
+    },
+    {
+      "label": "avocado buns",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:14Z",
+  "city": "Austin",
+  "key": "east-side-king-austin"
+}

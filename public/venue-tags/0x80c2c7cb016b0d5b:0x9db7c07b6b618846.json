@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7cb016b0d5b:0x9db7c07b6b618846",
+  "venue_name": "Woodspoon",
+  "chips": [
+    {
+      "label": "sangria",
+      "mention_count": 33
+    },
+    {
+      "label": "pot pie",
+      "mention_count": 26
+    },
+    {
+      "label": "yucca fries",
+      "mention_count": 11
+    },
+    {
+      "label": "moqueca",
+      "mention_count": 11
+    },
+    {
+      "label": "croquettes",
+      "mention_count": 10
+    },
+    {
+      "label": "collared greens",
+      "mention_count": 5
+    },
+    {
+      "label": "coxinha",
+      "mention_count": 6
+    },
+    {
+      "label": "intimate space",
+      "mention_count": 6
+    },
+    {
+      "label": "frango com quiabo",
+      "mention_count": 2
+    },
+    {
+      "label": "coconut flan",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:59:06Z",
+  "city": "Los Angeles",
+  "key": "wood-spoon-los-angele"
+}

@@ -26,6 +26,7 @@ coordinates:
   lng: 114.169382
 cuisine:
 - Chinese
+placeId: "0x340400f2731f48a1:0x5415c67da99c37e8"
 ---
 
 One of the best desserts in the world is the simple cantonese egg tart 蛋撻 or 蛋挞. There are a few accounts on the origins of the mini egg tarts, found today in Chinese Bakeries & Dim Sum Restaurants. I tend to believe the Portuguese story with the tart deriving from the pastel de nata.

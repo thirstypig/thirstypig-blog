@@ -23,6 +23,7 @@ region: San Gabriel Valley
 address: 8728 Valley Blvd
 cuisine:
 - Chinese
+placeId: "0x80c2da9053b2fa15:0x7a9cc6ae2361ef52"
 ---
 
 [![IMG_0326](/images/posts/hunan-mao-restaurant-sgv-los-angeles/IMG_0323.jpg "IMG_0326")](http://thirstypig.com/2016/09/15/hunan-mao-restaurant-sgv-los-angeles/img_0326/)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357ca2f4e1a29c8b:0xaee46d96f7425dc3",
+  "venue_name": "Jinjujip",
+  "chips": [
+    {
+      "label": "oxtail soup",
+      "mention_count": 88
+    },
+    {
+      "label": "seolleongtang",
+      "mention_count": 26
+    },
+    {
+      "label": "braised oxtail",
+      "mention_count": 23
+    },
+    {
+      "label": "hangover soup",
+      "mention_count": 9
+    },
+    {
+      "label": "namdaemun market hot spot",
+      "mention_count": 14
+    },
+    {
+      "label": "ox knee soup",
+      "mention_count": 6
+    },
+    {
+      "label": "tripe soup",
+      "mention_count": 6
+    },
+    {
+      "label": "cash only",
+      "mention_count": 5
+    },
+    {
+      "label": "kkakdugi",
+      "mention_count": 4
+    },
+    {
+      "label": "braised cutlassfish",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:01:23Z",
+  "city": "Seoul",
+  "key": "진주집-seoul"
+}

@@ -21,6 +21,7 @@ region: Shanghai
 address: 308 Anfu Rd
 cuisine:
 - Chinese
+placeId: "0x35b26553d06fc849:0x7e88e1f4c57c7570"
 ---
 
 

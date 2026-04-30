@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b5b6fbb00001:0x84b24813cc1b5aa5",
+  "venue_name": "Via 313 Pizza",
+  "chips": [
+    {
+      "label": "detroit style pizza",
+      "mention_count": 279
+    },
+    {
+      "label": "gluten free pizza",
+      "mention_count": 79
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 32
+    },
+    {
+      "label": "deep dish pizza",
+      "mention_count": 58
+    },
+    {
+      "label": "cinnamon sticks",
+      "mention_count": 33
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 8
+    },
+    {
+      "label": "artichoke appetizer",
+      "mention_count": 16
+    },
+    {
+      "label": "beer selection",
+      "mention_count": 32
+    },
+    {
+      "label": "bar style pizza",
+      "mention_count": 11
+    },
+    {
+      "label": "bobo brazil pizza",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:20Z",
+  "city": "Austin",
+  "key": "via-313-austin"
+}

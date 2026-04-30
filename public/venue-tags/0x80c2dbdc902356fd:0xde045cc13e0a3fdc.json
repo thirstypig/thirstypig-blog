@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbdc902356fd:0xde045cc13e0a3fdc",
+  "venue_name": "Boiling Point",
+  "chips": [
+    {
+      "label": "beef hot pot",
+      "mention_count": 8
+    },
+    {
+      "label": "individual hot pot",
+      "mention_count": 4
+    },
+    {
+      "label": "fried tofu skin",
+      "mention_count": 3
+    },
+    {
+      "label": "shabu shabu experience",
+      "mention_count": 2
+    },
+    {
+      "label": "pork blood",
+      "mention_count": 2
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 3
+    },
+    {
+      "label": "free refill rice",
+      "mention_count": 2
+    },
+    {
+      "label": "wait time",
+      "mention_count": 18
+    },
+    {
+      "label": "vermicelli",
+      "mention_count": 5
+    },
+    {
+      "label": "sharing a pot",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:22Z",
+  "city": "Sgv",
+  "key": "boiling-point-sgv"
+}

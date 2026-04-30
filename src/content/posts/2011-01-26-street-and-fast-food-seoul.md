@@ -26,6 +26,7 @@ coordinates:
   lng: 126.983875
 cuisine:
 - Korean
+placeId: "0x357ca2f04a77d20f:0xcd070b147321bafd"
 ---
 
 Among some of things I wanted to try in Seoul was the Street Food known as Pojangmacha 포장마차. I have always been fascinated with street food everywhere I go – Los Angeles, Taipei, Hong Kong, and Shanghai. I also confess that I am sucker for fast food as well. I have always liked the simple fast foods restaurants from the US.

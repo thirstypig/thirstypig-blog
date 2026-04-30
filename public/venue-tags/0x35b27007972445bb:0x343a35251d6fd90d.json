@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b27007972445bb:0x343a35251d6fd90d",
+  "venue_name": "Five-star Hainanese Chicken Rice",
+  "chips": [
+    {
+      "label": "soft chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:01Z",
+  "city": "Shanghai",
+  "key": "five-star-hainanese-chicken-rice-五星-shanghai"
+}

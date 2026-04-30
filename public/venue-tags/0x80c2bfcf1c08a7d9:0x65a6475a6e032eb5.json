@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bfcf1c08a7d9:0x65a6475a6e032eb5",
+  "venue_name": "Morton's The Steakhouse",
+  "chips": [
+    {
+      "label": "ribeye",
+      "mention_count": 24
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 14
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 11
+    },
+    {
+      "label": "lobster",
+      "mention_count": 23
+    },
+    {
+      "label": "birthday menu",
+      "mention_count": 29
+    },
+    {
+      "label": "french onion soup",
+      "mention_count": 7
+    },
+    {
+      "label": "baked potato",
+      "mention_count": 9
+    },
+    {
+      "label": "Lobster Bisque",
+      "mention_count": 4
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 6
+    },
+    {
+      "label": "creamed spinach",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:06:40Z",
+  "city": "Shanghai",
+  "key": "happy-hour-at-mortons-the-steakhous-shanghai"
+}

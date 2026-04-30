@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620afa71d4010bd:0xc23b056fd1526ab4",
+  "venue_name": "Chris Specialty Foods",
+  "chips": [
+    {
+      "label": "boudin",
+      "mention_count": 28
+    },
+    {
+      "label": "cracklins",
+      "mention_count": 20
+    },
+    {
+      "label": "chicken cracklings",
+      "mention_count": 8
+    },
+    {
+      "label": "crawfish meat",
+      "mention_count": 8
+    },
+    {
+      "label": "turducken",
+      "mention_count": 5
+    },
+    {
+      "label": "stuffed chickens",
+      "mention_count": 5
+    },
+    {
+      "label": "boudin balls",
+      "mention_count": 3
+    },
+    {
+      "label": "meat selection",
+      "mention_count": 13
+    },
+    {
+      "label": "frog legs",
+      "mention_count": 2
+    },
+    {
+      "label": "ribeyes",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:17:07Z",
+  "city": "New Orleans",
+  "key": "boudin-and-cracklin-new-orlean"
+}

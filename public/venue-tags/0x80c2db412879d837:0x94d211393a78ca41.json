@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db412879d837:0x94d211393a78ca41",
+  "venue_name": "Mebo · Hotpot",
+  "chips": [
+    {
+      "label": "crab pot",
+      "mention_count": 5
+    },
+    {
+      "label": "claypot rice",
+      "mention_count": 13
+    },
+    {
+      "label": "venison",
+      "mention_count": 6
+    },
+    {
+      "label": "pork tripe chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "malatang",
+      "mention_count": 13
+    },
+    {
+      "label": "fresh ingredients",
+      "mention_count": 12
+    },
+    {
+      "label": "Kungpao Chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "broth",
+      "mention_count": 16
+    },
+    {
+      "label": "braised pork",
+      "mention_count": 6
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:38Z",
+  "city": "Sgv",
+  "key": "chuans-sgv"
+}

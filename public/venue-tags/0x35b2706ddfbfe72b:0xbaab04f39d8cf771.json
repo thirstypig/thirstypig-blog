@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b2706ddfbfe72b:0xbaab04f39d8cf771",
+  "venue_name": "Green Massage青籁养身",
+  "chips": [
+    {
+      "label": "location",
+      "mention_count": 2
+    },
+    {
+      "label": "massage",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:12:40Z",
+  "city": "Shanghai",
+  "key": "green-massage-青籁养生-shanghai"
+}

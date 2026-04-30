@@ -23,6 +23,7 @@ region: Pasadena
 address: 70 N Raymond Ave Pasadena, CA 91103
 cuisine:
 - Bakery
+placeId: "0x14e04aa5ac74fb35:0x8344a3dd171cc5c8"
 ---
 
 [![IMG_0453](/images/posts/tea-rose-garden-pasadena-la/IMG_0453.jpg "IMG_0453")](http://thirstypig.com/2016/08/29/tea-rose-garden-pasadena-la/img_0453/)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db7b8d191665:0xe3e0e029a31cf1b1",
+  "venue_name": "Jasmine Creamery - San Gabriel",
+  "chips": [
+    {
+      "label": "durian",
+      "mention_count": 3
+    },
+    {
+      "label": "taro",
+      "mention_count": 2
+    },
+    {
+      "label": "strawberry balsamic",
+      "mention_count": 2
+    },
+    {
+      "label": "vietnamese coffee",
+      "mention_count": 2
+    },
+    {
+      "label": "pistachio ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "waffle cones",
+      "mention_count": 3
+    },
+    {
+      "label": "unique flavors",
+      "mention_count": 6
+    },
+    {
+      "label": "handcrafted flavors",
+      "mention_count": 2
+    },
+    {
+      "label": "lychee",
+      "mention_count": 2
+    },
+    {
+      "label": "real ingredients",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T05:47:51Z",
+  "city": "San Gabriel",
+  "key": "strawberry-cones-san-gabrie"
+}

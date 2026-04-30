@@ -20,6 +20,7 @@ region: Hong Kong
 address: 484 Jaffe Road
 cuisine:
 - Chinese
+placeId: "0x3404007cb69c719f:0xefe921dec63968ed"
 ---
 
 

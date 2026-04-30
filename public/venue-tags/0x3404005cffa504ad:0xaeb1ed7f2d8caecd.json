@@ -1,0 +1,29 @@
+{
+  "place_id": "0x3404005cffa504ad:0xaeb1ed7f2d8caecd",
+  "venue_name": "Che's Cantonese Restaurant",
+  "chips": [
+    {
+      "label": "dimsum",
+      "mention_count": 14
+    },
+    {
+      "label": "discount",
+      "mention_count": 4
+    },
+    {
+      "label": "ingredients",
+      "mention_count": 2
+    },
+    {
+      "label": "char siew",
+      "mention_count": 4
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:28Z",
+  "city": "Hong Kong",
+  "key": "ches-cantonese-restaurant-hong-kong"
+}

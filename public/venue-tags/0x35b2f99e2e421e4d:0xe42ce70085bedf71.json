@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b2f99e2e421e4d:0xe42ce70085bedf71",
+  "venue_name": "Boxing Cat Brewery",
+  "chips": [
+    {
+      "label": "craft beer",
+      "mention_count": 12
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 2
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 2
+    },
+    {
+      "label": "burgers",
+      "mention_count": 3
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 2
+    },
+    {
+      "label": "merch",
+      "mention_count": 2
+    },
+    {
+      "label": "wings",
+      "mention_count": 2
+    },
+    {
+      "label": "brewing",
+      "mention_count": 4
+    },
+    {
+      "label": "food menu",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:07:31Z",
+  "city": "Shanghai",
+  "key": "boxing-cat-brewery-拳击猫餐厅-shanghai"
+}

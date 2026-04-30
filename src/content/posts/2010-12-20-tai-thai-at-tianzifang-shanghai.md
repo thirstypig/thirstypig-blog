@@ -34,6 +34,7 @@ coordinates:
   lng: 121.453103
 cuisine:
 - Chinese
+placeId: "0x35b2653130660c89:0xa6df559193b76e0"
 ---
 
 First impressions are not enough for Tai Thai in Tianzifang. You’d almost miss it, if you walked by. But don’t look now, you’ll only notice a small Thai themed bar. The bar is probably not enough to get pique your interest.

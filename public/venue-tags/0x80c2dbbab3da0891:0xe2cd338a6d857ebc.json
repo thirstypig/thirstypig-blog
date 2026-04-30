@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbab3da0891:0xe2cd338a6d857ebc",
+  "venue_name": "SinBala",
+  "chips": [
+    {
+      "label": "Spicy Beef Noodle Soup",
+      "mention_count": 34
+    },
+    {
+      "label": "Sinbala Sausage Rice",
+      "mention_count": 10
+    },
+    {
+      "label": "Popcorn Chicken",
+      "mention_count": 20
+    },
+    {
+      "label": "Oyster Pancake",
+      "mention_count": 7
+    },
+    {
+      "label": "cash only",
+      "mention_count": 10
+    },
+    {
+      "label": "jellyfish salad",
+      "mention_count": 3
+    },
+    {
+      "label": "Shaved Ice",
+      "mention_count": 29
+    },
+    {
+      "label": "pork belly rice",
+      "mention_count": 2
+    },
+    {
+      "label": "Cold Chicken Noodle",
+      "mention_count": 2
+    },
+    {
+      "label": "street foods of taiwan",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:33Z",
+  "city": "Arcadia",
+  "key": "sinbala-arcadia"
+}

@@ -36,6 +36,7 @@ tags:
 - fine-dining
 cuisine:
 - Vietnamese
+placeId: "0x31752f1ec86d8a65:0xe7ba8ef8a67451c8"
 ---
 
 Ho Chi Minh City is a place where it has seen hard times in this past century. With different occupants, from the French, to the American, and to the communists. Only recently, with the trade embargo lifted and the economy starting to pick up, that Ho Chi Minh City has started to see an emergence of prosperity. With this economic growth we see luxury hotels like Intercontinental Asiana Saigon riding this wave.

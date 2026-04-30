@@ -25,6 +25,7 @@ coordinates:
   lng: 121.476977
 cuisine:
 - Chinese
+placeId: "0x35b2705ce87ba74d:0xe55924e4fa61eccb"
 ---
 
 There’s a place in Shanghai call DaBuTong Tea City. Its a massive complex, with traditional ornamental Chinese architecture. It looks as if there is a large castle on the corner of this busy street. There are shops on the street side with a large multileveled mall on the inside.

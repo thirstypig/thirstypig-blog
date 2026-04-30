@@ -1,0 +1,49 @@
+{
+  "place_id": "0x14e04aa5ac74fb35:0x8344a3dd171cc5c8",
+  "venue_name": "Tea Rose Garden",
+  "chips": [
+    {
+      "label": "scones",
+      "mention_count": 41
+    },
+    {
+      "label": "tea sandwiches",
+      "mention_count": 25
+    },
+    {
+      "label": "tea pots",
+      "mention_count": 10
+    },
+    {
+      "label": "devonshire cream",
+      "mention_count": 7
+    },
+    {
+      "label": "cucumber sandwiches",
+      "mention_count": 6
+    },
+    {
+      "label": "christmas decor",
+      "mention_count": 8
+    },
+    {
+      "label": "tea selection",
+      "mention_count": 12
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 25
+    },
+    {
+      "label": "earl grey tea",
+      "mention_count": 3
+    },
+    {
+      "label": "eclairs",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:13:27Z",
+  "city": "Pasadena",
+  "key": "tea-rose-garden-pasadena"
+}

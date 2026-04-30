@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c77d10ba0f7f:0xb80e1e528ae4739c",
+  "venue_name": "Yangji Gamjatang",
+  "chips": [
+    {
+      "label": "gamjatang",
+      "mention_count": 40
+    },
+    {
+      "label": "banchan",
+      "mention_count": 33
+    },
+    {
+      "label": "galbi jjim",
+      "mention_count": 10
+    },
+    {
+      "label": "pork neck soup",
+      "mention_count": 7
+    },
+    {
+      "label": "kimchi stew",
+      "mention_count": 7
+    },
+    {
+      "label": "hot stone bibimbap 돌솥비빔밥",
+      "mention_count": 2
+    },
+    {
+      "label": "daikon kimchi",
+      "mention_count": 4
+    },
+    {
+      "label": "fish cake",
+      "mention_count": 7
+    },
+    {
+      "label": "naengmyeon",
+      "mention_count": 5
+    },
+    {
+      "label": "glass noodles",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:14:41Z",
+  "city": "Koreatown",
+  "key": "yangji-gamjatang-koreatown"
+}

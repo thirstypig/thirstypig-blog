@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbe171e78d41:0x3fb1a08f7490abbd",
+  "venue_name": "Shabubu",
+  "chips": [
+    {
+      "label": "angus ribeye set",
+      "mention_count": 3
+    },
+    {
+      "label": "a5 wagyu",
+      "mention_count": 9
+    },
+    {
+      "label": "hot pot",
+      "mention_count": 9
+    },
+    {
+      "label": "wagyu beef tongue",
+      "mention_count": 5
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 3
+    },
+    {
+      "label": "beef options",
+      "mention_count": 3
+    },
+    {
+      "label": "dipping sauces",
+      "mention_count": 3
+    },
+    {
+      "label": "vegetable set",
+      "mention_count": 2
+    },
+    {
+      "label": "value for money",
+      "mention_count": 3
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:01:12Z",
+  "city": "Arcadia",
+  "key": "nolboo-arcadia"
+}

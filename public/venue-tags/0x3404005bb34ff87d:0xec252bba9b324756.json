@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3404005bb34ff87d:0xec252bba9b324756",
+  "venue_name": "Joy Hing Roasted Meat",
+  "chips": [
+    {
+      "label": "roasted meat",
+      "mention_count": 278
+    },
+    {
+      "label": "suckling pig",
+      "mention_count": 37
+    },
+    {
+      "label": "roast goose",
+      "mention_count": 114
+    },
+    {
+      "label": "roasted pork",
+      "mention_count": 148
+    },
+    {
+      "label": "char siu rice",
+      "mention_count": 51
+    },
+    {
+      "label": "bbq pork",
+      "mention_count": 89
+    },
+    {
+      "label": "soy sauce chicken",
+      "mention_count": 55
+    },
+    {
+      "label": "roasted chicken wings",
+      "mention_count": 18
+    },
+    {
+      "label": "three treasures rice",
+      "mention_count": 13
+    },
+    {
+      "label": "shared tables",
+      "mention_count": 19
+    }
+  ],
+  "scraped_at": "2026-04-30T06:04:47Z",
+  "city": "Hong Kong",
+  "key": "joy-hing-roasted-meat-再興燒臘飯店-hong-kong"
+}

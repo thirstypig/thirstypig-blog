@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b2653130660c89:0xa6df559193b76e0",
+  "venue_name": "Din Tai Fung",
+  "chips": [
+    {
+      "label": "xiao long bao",
+      "mention_count": 6
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T05:59:17Z",
+  "city": "Shanghai",
+  "key": "din-tai-fung-鼎泰丰-shanghai"
+}

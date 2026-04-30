@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c0dbba6bb079:0x2971a086dade9be6",
+  "venue_name": "Atwater Village Farmers’ Market",
+  "chips": [
+    {
+      "label": "fish taco",
+      "mention_count": 11
+    },
+    {
+      "label": "pupusas",
+      "mention_count": 10
+    },
+    {
+      "label": "plants",
+      "mention_count": 9
+    },
+    {
+      "label": "fresh produce",
+      "mention_count": 17
+    },
+    {
+      "label": "knife sharpening",
+      "mention_count": 3
+    },
+    {
+      "label": "cheeses",
+      "mention_count": 8
+    },
+    {
+      "label": "habanero hot sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "fresh eggs",
+      "mention_count": 3
+    },
+    {
+      "label": "food tents",
+      "mention_count": 2
+    },
+    {
+      "label": "olives",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:12Z",
+  "city": "Los Angeles",
+  "key": "bigmistas-barbecue-los-angele"
+}

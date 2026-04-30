@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b51f9fffcf8b:0xb12c453f1063a7e7",
+  "venue_name": "Odd Duck",
+  "chips": [
+    {
+      "label": "cornbread",
+      "mention_count": 146
+    },
+    {
+      "label": "kitchen view",
+      "mention_count": 7
+    },
+    {
+      "label": "quail",
+      "mention_count": 74
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 126
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 89
+    },
+    {
+      "label": "redfish",
+      "mention_count": 48
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 84
+    },
+    {
+      "label": "farm to table",
+      "mention_count": 41
+    },
+    {
+      "label": "Goat Pizza",
+      "mention_count": 14
+    },
+    {
+      "label": "pork loin",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:09Z",
+  "city": "Austin",
+  "key": "odd-duck-austin"
+}

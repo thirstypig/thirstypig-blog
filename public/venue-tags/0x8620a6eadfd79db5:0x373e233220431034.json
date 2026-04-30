@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a6eadfd79db5:0x373e233220431034",
+  "venue_name": "Big EZ Seafood",
+  "chips": [
+    {
+      "label": "crawfish",
+      "mention_count": 188
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 94
+    },
+    {
+      "label": "poboys",
+      "mention_count": 67
+    },
+    {
+      "label": "garlic butter sauce",
+      "mention_count": 11
+    },
+    {
+      "label": "yakamein",
+      "mention_count": 7
+    },
+    {
+      "label": "snow crab",
+      "mention_count": 10
+    },
+    {
+      "label": "turkey necks",
+      "mention_count": 8
+    },
+    {
+      "label": "lima bean soup",
+      "mention_count": 8
+    },
+    {
+      "label": "jalapeño poppers",
+      "mention_count": 8
+    },
+    {
+      "label": "shrimp poboy",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-04-30T06:17:17Z",
+  "city": "New Orleans",
+  "key": "big-ez-seafood-new-orlean"
+}

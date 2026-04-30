@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357ca32bafbdca89:0xbd36661be470ceb8",
+  "venue_name": "석관동떡볶이 대학로점",
+  "chips": [
+    {
+      "label": "tteokbokki",
+      "mention_count": 18
+    },
+    {
+      "label": "muljjolmyeon",
+      "mention_count": 4
+    },
+    {
+      "label": "oil tteokbokki",
+      "mention_count": 2
+    },
+    {
+      "label": "pickled radish",
+      "mention_count": 2
+    },
+    {
+      "label": "sweet and spicy combo",
+      "mention_count": 2
+    },
+    {
+      "label": "kiosk ordering",
+      "mention_count": 2
+    },
+    {
+      "label": "Oden",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy taste",
+      "mention_count": 4
+    },
+    {
+      "label": "value for money",
+      "mention_count": 4
+    },
+    {
+      "label": "store size",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T06:01:18Z",
+  "city": "Seoul",
+  "key": "석관동-떡볶이-seoul"
+}

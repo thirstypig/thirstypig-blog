@@ -23,6 +23,7 @@ region: Downtown LA
 address: 1300 Factory Pl St
 cuisine:
 - Italian
+placeId: "0x80c2c624b2cedb29:0x51a6ea7b406bd139"
 ---
 
 [![IMG_2286](/images/posts/factory-kitchen-dtla/IMG_2290.jpg "IMG_2286")](http://thirstypig.com/2015/02/20/factory-kitchen-dtla/img_2286/)

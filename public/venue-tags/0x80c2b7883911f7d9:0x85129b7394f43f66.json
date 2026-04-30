@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b7883911f7d9:0x85129b7394f43f66",
+  "venue_name": "Delicious Southern Cuisine",
+  "chips": [
+    {
+      "label": "yams",
+      "mention_count": 41
+    },
+    {
+      "label": "oxtails",
+      "mention_count": 17
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "black eyed peas",
+      "mention_count": 10
+    },
+    {
+      "label": "pork chops",
+      "mention_count": 21
+    },
+    {
+      "label": "peach cobbler",
+      "mention_count": 18
+    },
+    {
+      "label": "smothered pork chops",
+      "mention_count": 6
+    },
+    {
+      "label": "sweet potato pie",
+      "mention_count": 5
+    },
+    {
+      "label": "baked chicken",
+      "mention_count": 9
+    },
+    {
+      "label": "no restroom",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-04-30T06:05:43Z",
+  "city": "Hong Kong",
+  "key": "the-deep-fried-pork-chop-at-delicio-hong-kong"
+}

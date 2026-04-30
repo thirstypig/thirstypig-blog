@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b27069bae30e4f:0x69bed10757a4f1b8",
+  "venue_name": "People's Square",
+  "chips": [
+    {
+      "label": "museums",
+      "mention_count": 35
+    },
+    {
+      "label": "good for walking",
+      "mention_count": 15
+    },
+    {
+      "label": "bund",
+      "mention_count": 5
+    },
+    {
+      "label": "marriage market",
+      "mention_count": 3
+    },
+    {
+      "label": "horse race course",
+      "mention_count": 2
+    },
+    {
+      "label": "displayed umbrellas",
+      "mention_count": 3
+    },
+    {
+      "label": "unique architecture",
+      "mention_count": 3
+    },
+    {
+      "label": "bird feeding",
+      "mention_count": 2
+    },
+    {
+      "label": "landmark",
+      "mention_count": 8
+    },
+    {
+      "label": "large garden",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:10:45Z",
+  "city": "Shanghai",
+  "key": "the-public-shanghai"
+}

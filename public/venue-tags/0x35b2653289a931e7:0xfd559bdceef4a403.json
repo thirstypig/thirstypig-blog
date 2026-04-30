@@ -1,0 +1,33 @@
+{
+  "place_id": "0x35b2653289a931e7:0xfd559bdceef4a403",
+  "venue_name": "耶里夏丽新疆风情餐厅",
+  "chips": [
+    {
+      "label": "uyghur food",
+      "mention_count": 4
+    },
+    {
+      "label": "xinjiang cuisine",
+      "mention_count": 2
+    },
+    {
+      "label": "lamb",
+      "mention_count": 6
+    },
+    {
+      "label": "bake",
+      "mention_count": 3
+    },
+    {
+      "label": "dance",
+      "mention_count": 6
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-04-30T06:03:39Z",
+  "city": "Shanghai",
+  "key": "西域风情-xinjiang-style-restaurant-shan-shanghai"
+}

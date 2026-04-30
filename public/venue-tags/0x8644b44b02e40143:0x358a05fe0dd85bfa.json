@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b44b02e40143:0x358a05fe0dd85bfa",
+  "venue_name": "Launderette",
+  "chips": [
+    {
+      "label": "burrata",
+      "mention_count": 50
+    },
+    {
+      "label": "ice cream sandwich",
+      "mention_count": 53
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 86
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 63
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 27
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 15
+    },
+    {
+      "label": "octopus",
+      "mention_count": 33
+    },
+    {
+      "label": "Fried Chicken Sammie",
+      "mention_count": 12
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 41
+    },
+    {
+      "label": "Whole Branzino",
+      "mention_count": 18
+    }
+  ],
+  "scraped_at": "2026-04-30T06:16:29Z",
+  "city": "Austin",
+  "key": "launderette-austin"
+}

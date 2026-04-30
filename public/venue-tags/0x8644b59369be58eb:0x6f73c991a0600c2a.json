@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b59369be58eb:0x6f73c991a0600c2a",
+  "venue_name": "Salty Sow",
+  "chips": [
+    {
+      "label": "duck fat fries",
+      "mention_count": 200
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 159
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 370
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 77
+    },
+    {
+      "label": "beef shoulder",
+      "mention_count": 93
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 74
+    },
+    {
+      "label": "charcuterie board",
+      "mention_count": 64
+    },
+    {
+      "label": "beignets",
+      "mention_count": 62
+    },
+    {
+      "label": "deviled eggs",
+      "mention_count": 60
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 58
+    }
+  ],
+  "scraped_at": "2026-04-30T06:16:12Z",
+  "city": "Austin",
+  "key": "salty-sow-austin"
+}

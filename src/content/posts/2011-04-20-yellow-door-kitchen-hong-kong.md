@@ -38,6 +38,7 @@ region: Hong Kong
 address: 37 Cochrane St
 cuisine:
 - Chinese
+placeId: "0x6b7314fe43d00001:0xce6c9bcc630d7177"
 ---
 
 Located on the 6th floor in a non-descript office building in the crowded district of central is Yellow Door Kitchen. The Yellow Door Kitchen specializes the renown spicy Sichuan cuisine. The Michelin Guide recently awarded them Bib Gourmand, which emphasizes acceptable pricing standards for locals. The small restaurant, which can be reserved for private dining parties, features only a 6 tables.

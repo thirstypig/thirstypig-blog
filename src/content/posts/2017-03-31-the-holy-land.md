@@ -24,6 +24,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84"
 ---
 
 ![The holy land](/images/posts/ig-2017-03-31-the-holy-land/17876063980021808.jpg)

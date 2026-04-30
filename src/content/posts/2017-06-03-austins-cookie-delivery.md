@@ -27,6 +27,7 @@ categories:
 - Bakery
 cuisine:
 - Bakery
+placeId: "0x8644cbf395fc96e7:0x327bccf833759dfa"
 ---
 
 ![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17881830892055446.jpg)

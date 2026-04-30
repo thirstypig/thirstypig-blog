@@ -1,0 +1,45 @@
+{
+  "place_id": "0x35b27aa9e19c8e3f:0x5dee7fa14f49c409",
+  "venue_name": "Cantina Agave",
+  "chips": [
+    {
+      "label": "margarita",
+      "mention_count": 8
+    },
+    {
+      "label": "foreigner friendly",
+      "mention_count": 2
+    },
+    {
+      "label": "tex-mex",
+      "mention_count": 2
+    },
+    {
+      "label": "burritos",
+      "mention_count": 8
+    },
+    {
+      "label": "guacamole",
+      "mention_count": 2
+    },
+    {
+      "label": "food quality",
+      "mention_count": 2
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 7
+    },
+    {
+      "label": "food",
+      "mention_count": 7
+    },
+    {
+      "label": "bar",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-04-30T06:06:24Z",
+  "city": "Shanghai",
+  "key": "cantina-agave-shanghai"
+}

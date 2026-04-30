@@ -25,6 +25,7 @@ tags:
 - bbq
 cuisine:
 - Korean
+placeId: "0x35b2706ddfbfe72b:0xbaab04f39d8cf771"
 ---
 
 Green Massage (青籁养生) in Shanghai.

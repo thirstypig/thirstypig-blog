@@ -25,6 +25,7 @@ tags:
 - pizza
 cuisine:
 - Italian
+placeId: "0x35b2700dbf96ec65:0xf9be6e5a31ee0c1b"
 ---
 
 Datong Mill aka Found 158 (大同坊 / 158坊) in Shanghai.

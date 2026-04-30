@@ -23,6 +23,7 @@ city: Hong Kong
 region: Hong Kong
 cuisine:
 - Bakery
+placeId: "0x3404007b721b4563:0x22d765d151d22219"
 ---
 
 When you expect a item to taste a certain way, you are more likely to embrace it. But when it doesn’t come out the way you expect it, results, are more often than not, to be disastrous. But I am going to tell you a unique story about my egg tart at Tai Cheong Bakery.

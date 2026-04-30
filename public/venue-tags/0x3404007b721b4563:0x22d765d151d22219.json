@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3404007b721b4563:0x22d765d151d22219",
+  "venue_name": "Tai Cheong Bakery",
+  "chips": [
+    {
+      "label": "egg tart",
+      "mention_count": 1217
+    },
+    {
+      "label": "macanese style",
+      "mention_count": 61
+    },
+    {
+      "label": "buttery crust",
+      "mention_count": 47
+    },
+    {
+      "label": "hong kong style egg tart",
+      "mention_count": 33
+    },
+    {
+      "label": "custard",
+      "mention_count": 32
+    },
+    {
+      "label": "milk tart",
+      "mention_count": 22
+    },
+    {
+      "label": "cookie crust",
+      "mention_count": 17
+    },
+    {
+      "label": "crispy crust",
+      "mention_count": 16
+    },
+    {
+      "label": "egg bread",
+      "mention_count": 22
+    },
+    {
+      "label": "puff pastry egg tart",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-04-30T06:04:36Z",
+  "city": "Hong Kong",
+  "key": "tai-cheong-bakery-hong-kong"
+}

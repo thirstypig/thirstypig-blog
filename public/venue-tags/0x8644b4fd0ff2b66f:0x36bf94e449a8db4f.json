@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b4fd0ff2b66f:0x36bf94e449a8db4f",
+  "venue_name": "Perla's",
+  "chips": [
+    {
+      "label": "patio",
+      "mention_count": 249
+    },
+    {
+      "label": "lobster roll",
+      "mention_count": 76
+    },
+    {
+      "label": "people watching",
+      "mention_count": 23
+    },
+    {
+      "label": "oysters",
+      "mention_count": 168
+    },
+    {
+      "label": "grilled octopus",
+      "mention_count": 28
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 16
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 50
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 17
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 22
+    },
+    {
+      "label": "crab cake",
+      "mention_count": 19
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:04Z",
+  "city": "Austin",
+  "key": "perlassouthcongress-austin"
+}

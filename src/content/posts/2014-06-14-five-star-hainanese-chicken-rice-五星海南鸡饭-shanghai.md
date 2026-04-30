@@ -25,6 +25,7 @@ coordinates:
   lng: 121.439217
 cuisine:
 - Chinese
+placeId: "0x35b27007972445bb:0x343a35251d6fd90d"
 ---
 
 [![IMG_2502](/images/posts/five-star-hainanese-chicken-rice-五星海南鸡饭-shanghai/IMG_1257.jpg "IMG_2502")](http://thirstypig.com/2014/06/14/five-star-hainanese-chicken-rice-%e4%ba%94%e6%98%9f%e6%b5%b7%e5%8d%97%e9%b8%a1%e9%a5%ad-shanghai/img_2502/)

@@ -21,6 +21,7 @@ categories:
 - Cajun
 cuisine:
 - Cajun
+placeId: "0x8620afa71d4010bd:0xc23b056fd1526ab4"
 ---
 
 ![Boudin and Cracklin](/images/posts/ig-2017-07-05-boudin-and-cracklin/17899009894057738.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9688b247a65:0x64eb3ec24e492181",
+  "venue_name": "ROBIN'S Grill",
+  "chips": [
+    {
+      "label": "macarons",
+      "mention_count": 36
+    },
+    {
+      "label": "canelé",
+      "mention_count": 35
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 114
+    },
+    {
+      "label": "smoked salmon",
+      "mention_count": 80
+    },
+    {
+      "label": "lobster bisque",
+      "mention_count": 115
+    },
+    {
+      "label": "teppanyaki",
+      "mention_count": 96
+    },
+    {
+      "label": "salad bar",
+      "mention_count": 425
+    },
+    {
+      "label": "iberian pork",
+      "mention_count": 35
+    },
+    {
+      "label": "dessert bar",
+      "mention_count": 67
+    },
+    {
+      "label": "onion soup",
+      "mention_count": 45
+    }
+  ],
+  "scraped_at": "2026-04-30T06:06:34Z",
+  "city": "Taipei",
+  "key": "robins-grill-taipei"
+}

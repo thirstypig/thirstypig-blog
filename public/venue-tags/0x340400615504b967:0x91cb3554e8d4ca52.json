@@ -1,0 +1,49 @@
+{
+  "place_id": "0x340400615504b967:0x91cb3554e8d4ca52",
+  "venue_name": "Maxim's Palace (Central)",
+  "chips": [
+    {
+      "label": "dim sum",
+      "mention_count": 684
+    },
+    {
+      "label": "dim sum cart",
+      "mention_count": 50
+    },
+    {
+      "label": "harbor view",
+      "mention_count": 16
+    },
+    {
+      "label": "char siu bao",
+      "mention_count": 22
+    },
+    {
+      "label": "chandeliers",
+      "mention_count": 11
+    },
+    {
+      "label": "victoria harbour view",
+      "mention_count": 3
+    },
+    {
+      "label": "soybean pudding",
+      "mention_count": 16
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 13
+    },
+    {
+      "label": "chicken feet",
+      "mention_count": 15
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-04-30T06:04:42Z",
+  "city": "Hong Kong",
+  "key": "maxims-palace-美心皇宮-hong-kong"
+}

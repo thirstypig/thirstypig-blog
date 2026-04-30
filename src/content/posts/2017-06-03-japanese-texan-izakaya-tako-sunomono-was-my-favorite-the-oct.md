@@ -29,6 +29,7 @@ location: Kemuri Tatsu-Ya
 city: Austin
 cuisine:
 - Fusion
+placeId: "0x8644b43339a8b397:0x314f4d977c6845b2"
 ---
 
 ![Japanese "Texan" izakaya Tako sunomono was my favorite - the octopus was more...](/images/posts/ig-2017-06-03-japanese-texan-izakaya-tako-sunomono-was-my-favorite-the-oct/17857889098181367.jpg)

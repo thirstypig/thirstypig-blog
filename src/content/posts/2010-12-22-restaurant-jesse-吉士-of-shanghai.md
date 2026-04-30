@@ -63,6 +63,7 @@ region: Shanghai
 address: 1 Xujiahui St
 cuisine:
 - Chinese
+placeId: "0x35b26559d4908127:0xfbb144ca32c7f7b2"
 ---
 
 The best Shanghainese restaurant, arguably, is Restaurant Jesse or 吉士. With this site, I get always get asked a couple of questions. One of them being – “What is the best Shanghainese restaurant?” Jesse always comes to mind. With apologizes to 1221, [复兴汇 Fuxinghui](http://www.thethirstypig.com/2010/11/15/复兴汇-fuxinghui-shanghai/), [Fu 1088 福一零八八](http://www.thethirstypig.com/2010/10/28/fu-1088-福一零八八/), and [夏味馆 Xia Restaurant of Shanghai](http://www.thethirstypig.com/2010/09/23/sweating-at-夏味馆-xia-restaurant-of-shanghai/), Jesse is in a class of its own.

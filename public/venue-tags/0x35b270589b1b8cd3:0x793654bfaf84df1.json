@@ -1,0 +1,25 @@
+{
+  "place_id": "0x35b270589b1b8cd3:0x793654bfaf84df1",
+  "venue_name": "The Glamour Bar",
+  "chips": [
+    {
+      "label": "cocktails",
+      "mention_count": 4
+    },
+    {
+      "label": "the bund",
+      "mention_count": 5
+    },
+    {
+      "label": "ambience",
+      "mention_count": 2
+    },
+    {
+      "label": "view",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-04-30T06:12:35Z",
+  "city": "Shanghai",
+  "key": "glamour-bar-shanghai"
+}

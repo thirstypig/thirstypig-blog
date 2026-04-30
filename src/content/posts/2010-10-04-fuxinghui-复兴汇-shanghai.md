@@ -20,6 +20,7 @@ region: Shanghai
 address: 1479 Middle Fuxing Road
 cuisine:
 - Chinese
+placeId: "0x35b27074efa4ae1b:0x8c8d6f1c3c6c0e13"
 ---
 
 

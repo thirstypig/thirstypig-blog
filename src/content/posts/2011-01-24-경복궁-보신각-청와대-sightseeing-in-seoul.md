@@ -23,6 +23,7 @@ coordinates:
   lat: 37.576334
   lng: 126.976925
 cuisine: []
+placeId: "0x357ca2c74aeddea1:0x8b3046532cc715f6"
 ---
 
 Seoul is a fascinating city with historical sites that tell about Korea’s past. I was only able get a snapshot of a couple of different tourist places. Aside from the [Kimchi Museum](http://www.thethirstypig.com/2011/01/05/kimchi-museum-김치박물관-at-coex-seoul/) and food, I didn’t really know much about Korean culture and history.

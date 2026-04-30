@@ -23,6 +23,7 @@ region: Koreatown
 address: 3470 W 6th St
 cuisine:
 - Korean
+placeId: "0x80c2c77d10ba0f7f:0xb80e1e528ae4739c"
 ---
 
 [![IMG_2630](/images/posts/yangji-gamjatang-la-koreatown/IMG_2631.jpg "IMG_2630")](http://thirstypig.com/2016/10/03/yangji-gamjatang-la-koreatown/img_2630/)

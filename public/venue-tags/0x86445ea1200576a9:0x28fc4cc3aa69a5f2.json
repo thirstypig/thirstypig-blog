@@ -1,0 +1,49 @@
+{
+  "place_id": "0x86445ea1200576a9:0x28fc4cc3aa69a5f2",
+  "venue_name": "Snow's BBQ",
+  "chips": [
+    {
+      "label": "pork steak",
+      "mention_count": 95
+    },
+    {
+      "label": "brisket",
+      "mention_count": 393
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 37
+    },
+    {
+      "label": "banana pudding",
+      "mention_count": 55
+    },
+    {
+      "label": "long lines",
+      "mention_count": 103
+    },
+    {
+      "label": "jalapeño sausage",
+      "mention_count": 33
+    },
+    {
+      "label": "raffle",
+      "mention_count": 42
+    },
+    {
+      "label": "saturday only",
+      "mention_count": 27
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 26
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 52
+    }
+  ],
+  "scraped_at": "2026-04-30T06:15:25Z",
+  "city": "Austin",
+  "key": "snows-bbq-austin"
+}

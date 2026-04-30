@@ -764,6 +764,7 @@ Alhambra, CA 91801"
   query: "Mundo Cafe & Restaurant New York"
   cid: "13770102953811356094"
   cid: "13770102953811356094"
+  cid: "13770102953811356094"
 
 # [1 posts]
 - key: breakfast-gem-in-mammoth-mammoth
@@ -951,6 +952,7 @@ San Gabriel, CA 91776"
   city: "Monterey Park"
   query: "L'Amour Cafe 230 N Garfield Ave, Monterey Park, CA 91754"
   cid: "4745852388998726539"
+  cid: "4745852388998726539"
   cid: "16168677771741621090"
 
 # [1 posts]
@@ -1038,6 +1040,7 @@ San Gabriel, CA 91776"
   name: "Pizza Patron"
   city: "Los Angeles"
   query: "Pizza Patron 223 W Anaheim St, Wilmington, CA 90744"
+  cid: "16066451401356848064"
   cid: "16066451401356848064"
   cid: "16066451401356848064"
 
@@ -1328,6 +1331,8 @@ Arcadia, CA 91007"
   name: "Strawberry Cones"
   city: "San Gabriel"
   query: "Strawberry Cones San Gabriel"
+  place_id: "0x80c2db7b8d191665:0xe3e0e029a31cf1b1"
+  cid: "16420370710827692465"
   cid: "16420370710827692465"
 
 # [1 posts]
@@ -1544,12 +1549,14 @@ Arcadia, CA 91007"
   city: "Eagle Rock"
   query: "Larkin's Eagle Rock"
   cid: "10159384991101780421"
+  cid: "10159384991101780421"
 
 # [1 posts]
 - key: farmlab-downtown-l
   name: "Farmlab"
   city: "Downtown La"
   query: "Farmlab 1745 North Spring St"
+  cid: "10269898218956759526"
   cid: "10269898218956759526"
 
 # [1 posts]
@@ -1643,6 +1650,7 @@ Arcadia, CA 91007"
   name: "好樣本事 VVG Something"
   city: "Taipei"
   query: "好樣本事 VVG Something 忠孝東路四段181巷40弄13號, 台北市"
+  cid: "11000102264327876554"
   cid: "11000102264327876554"
 
 # [1 posts]
@@ -1964,6 +1972,7 @@ Los Angeles, CA 90027"
   city: "Mpk"
   query: "Silk Lounge 123 South Lincoln Ave"
   cid: "12353790477862255651"
+  cid: "12353790477862255651"
 
 # [1 posts]
 - key: studio-du-double-v-taipei
@@ -1986,6 +1995,7 @@ Los Angeles, CA 90027"
   name: "伊藤家 Itoya"
   city: "Shanghai"
   query: "伊藤家 Itoya 381 Middle Huaihai Road"
+  cid: "4156138506608595401"
   cid: "4156138506608595401"
 
 # [1 posts]
@@ -2026,6 +2036,7 @@ Los Angeles, CA 90027"
   city: "Shanghai"
   query: "Master Kong Chef's Table (康师傅私房牛肉面) 762 Tianshan Rd | 天山路762号 (Hong Xin Fashion Plaza | 泓鑫时尚广场), Xian xiá, Changning, 上海市, 200051"
   cid: "14953250910547571815"
+  cid: "14953250910547571815"
 
 # [1 posts]
 - key: 大连银行-shanghai
@@ -2033,12 +2044,14 @@ Los Angeles, CA 90027"
   city: "Shanghai"
   query: "大连银行 Changning, 上海市"
   cid: "6930454257929317394"
+  cid: "6930454257929317394"
 
 # [1 posts]
 - key: an-organic-farm-in-dalian-dalian
   name: "An Organic Farm in Dalian"
   city: "Dalian"
   query: "An Organic Farm in Dalian Dalian"
+  cid: "12342676623091873415"
   cid: "5503365376496693443"
 
 # [1 posts]
@@ -2048,3 +2061,787 @@ Los Angeles, CA 90027"
   query: "The Shanghai EDITION (上海爱迪逊酒店) 199 Nanjing Road East, Huangpu District, Huangpu District, 上海市, 上海市, 200002"
   place_id: "0x35b27059f4baa609:0xf291802532254018"
   cid: "17478892526045052952"
+
+# === Batch 8: 100 more single-post candidates (2026-04-29) ===
+- key: racks-shanghai
+  name: "Racks"
+  city: "Shanghai"
+  query: "Racks 221 Jinxian Road near Maoming Road"
+  cid: "15788979995488393023"
+
+# [1 posts]
+- key: lounging-in-shanghai-at-the-aparmen-shanghai
+  name: "Lounging in Shanghai at The Aparment"
+  city: "Shanghai"
+  query: "Lounging in Shanghai at The Aparment 47 Yongfu Rd"
+  place_id: "0x35b26552e64dd35f:0x68e76bb5ac834750"
+  cid: "7559128927592204112"
+
+# [1 posts]
+- key: 福1088-shanghai
+  name: "福1088"
+  city: "Shanghai"
+  query: "福1088 镇宁路375号 (愚园路口), Changning, 上海市, 200050"
+  place_id: "0x35b26ff873f05379:0xf6ee4c906466cb87"
+  cid: "17793243360830868359"
+
+# [1 posts]
+- key: crystal-jade-palace-翡翠皇宮酒家-shanghai
+  name: "Crystal Jade Palace (翡翠皇宮酒家)"
+  city: "Shanghai"
+  query: "Crystal Jade Palace (翡翠皇宮酒家) 张杨路500号华润时代广场8楼 | 8/F, 500 Zhangyang Rd. (近浦东南路 | at Pudong Rd. S.), 上海市, 上海市, 200000"
+  cid: "3837760882383431581"
+
+# [1 posts]
+- key: racks-shanghai-shanghai
+  name: "Racks Shanghai"
+  city: "Shanghai"
+  query: "Racks Shanghai 221 Jinxian Road near Maoming Road"
+  cid: "10745874858619455965"
+
+# [1 posts]
+- key: 复兴汇-fuxinghui-shanghai-shanghai
+  name: "复兴汇 Fuxinghui Shanghai"
+  city: "Shanghai"
+  query: "复兴汇 Fuxinghui Shanghai 1479 Middle Fuxing Road"
+  place_id: "0x35b27074efa4ae1b:0x8c8d6f1c3c6c0e13"
+  cid: "10127873304089595411"
+
+# [1 posts]
+- key: the-kunlun-jingan-靜安昆仑大酒店-shanghai
+  name: "The Kunlun Jing’an (靜安昆仑大酒店)"
+  city: "Shanghai"
+  query: "The Kunlun Jing’an (靜安昆仑大酒店) 250 Huashan Rd, Jing’an, 200040"
+  place_id: "0x35b2705bb60cffad:0x96b0a2a99f4a4414"
+  cid: "10858357550995883028"
+
+# [1 posts]
+- key: yucca-shanghai
+  name: "Yucca"
+  city: "Shanghai"
+  query: "Yucca Shanghai"
+  cid: "195548608389680141"
+
+# [1 posts]
+- key: the-best-damn-nightclub-in-shanghai-shanghai
+  name: "The Best Damn Nightclub in Shanghai"
+  city: "Shanghai"
+  query: "The Best Damn Nightclub in Shanghai 318 Fuzhou Road"
+  cid: "10715408096358829671"
+
+# [1 posts]
+- key: wood-spoon-los-angele
+  name: "Wood Spoon"
+  city: "Los Angeles"
+  query: "Wood Spoon Los Angeles"
+  place_id: "0x80c2c7cb016b0d5b:0x9db7c07b6b618846"
+  cid: "11364763821007800390"
+
+# [1 posts]
+- key: super-tortas-df-los-angele
+  name: "Super Tortas D.F."
+  city: "Los Angeles"
+  query: "Super Tortas D.F. 1098 E 41st St, Los Angeles, CA 90011"
+  place_id: "0x80c2c863c44e4407:0xf2c8f9f4aeb6ec5"
+  cid: "1093406723863703237"
+
+# [1 posts]
+- key: din-tai-fung-鼎泰丰-shanghai
+  name: "Din Tai Fung (鼎泰丰)"
+  city: "Shanghai"
+  query: "Din Tai Fung (鼎泰丰) 999 Huaihai M Rd | 淮海中路999号 (3/F-18 iapm Mall | 环贸iapm商场), Xúhuì, Xuhui, 上海市, 200031"
+  place_id: "0x35b2653130660c89:0xa6df559193b76e0"
+  cid: "751526475864962784"
+
+# [1 posts]
+- key: restaurant-jesse-吉士-of-shanghai-shanghai
+  name: "Restaurant Jesse 吉士 of Shanghai"
+  city: "Shanghai"
+  query: "Restaurant Jesse 吉士 of Shanghai 1 Xujiahui St"
+  place_id: "0x35b26559d4908127:0xfbb144ca32c7f7b2"
+  cid: "18136352809623746482"
+
+# [1 posts]
+- key: youbae-seoul
+  name: "Youbae"
+  city: "Seoul"
+  query: "Youbae Seoul"
+  place_id: "0x357ca596fdbd5b3f:0x6039747c43bd80c0"
+  cid: "6933701178374848704"
+
+# [1 posts]
+- key: gyeongbokgung-palace-경복궁-seoul
+  name: "Gyeongbokgung Palace (경복궁)"
+  city: "Seoul"
+  query: "Gyeongbokgung Palace (경복궁) 종로구 사직로 161, 종로구, 종로구, 서울특별시, 03045"
+  place_id: "0x357ca2c74aeddea1:0x8b3046532cc715f6"
+  cid: "10029593693201569270"
+
+# [1 posts]
+- key: kkongdon-food-seoul
+  name: "Kkongdon Food"
+  city: "Seoul"
+  query: "Kkongdon Food 명동"
+  place_id: "0x357ca2f04a77d20f:0xcd070b147321bafd"
+  cid: "14773789285071043325"
+
+# [1 posts]
+- key: linus-bbq-라이너스-바베큐-seoul
+  name: "Linus' BBQ (라이너스 바베큐)"
+  city: "Seoul"
+  query: "Linus' BBQ (라이너스 바베큐) 용산구 녹사평대로32길 15, 이태원1동, 서울특별시, 서울특별시, 04390"
+  place_id: "0x357ca2363085b69b:0x82ed2e235512e839"
+  cid: "9434247523697092665"
+
+# [1 posts]
+- key: cafê-marion-crêpes-카페-마리온크레페-seoul
+  name: "CAFÊ MARION CRÊPES (카페 마리온크레페)"
+  city: "Seoul"
+  query: "CAFÊ MARION CRÊPES (카페 마리온크레페) 종로구 재동 12 (북촌점), 가회동, 서울특별시, 서울특별시, 110-250"
+
+# [1 posts]
+- key: nolboo-arcadia
+  name: "Nolboo"
+  city: "Arcadia"
+  query: "Nolboo Arcadia"
+  place_id: "0x80c2dbe171e78d41:0x3fb1a08f7490abbd"
+  cid: "4589626033263651773"
+
+# [1 posts]
+- key: 석관동-떡볶이-seoul
+  name: "석관동 떡볶이"
+  city: "Seoul"
+  query: "석관동 떡볶이 중구 세종대로 18길 6 (시청점), 소공동, 중구, 서울특별시, 04526"
+  place_id: "0x357ca32bafbdca89:0xbd36661be470ceb8"
+  cid: "13634197191893503672"
+
+# [1 posts]
+- key: 진주집-seoul
+  name: "진주집"
+  city: "Seoul"
+  query: "진주집 중구 남대문시장길 22-2, 중구, 서울특별시, 04528"
+  place_id: "0x357ca2f4e1a29c8b:0xaee46d96f7425dc3"
+  cid: "12602318152450334147"
+
+# [1 posts]
+- key: orient-king-of-dumplings-东方饺子王-harbin
+  name: "Orient King of Dumplings 东方饺子王"
+  city: "Harbin"
+  query: "Orient King of Dumplings 东方饺子王 Harbin"
+  place_id: "0x5e4478c0de819465:0x3f49f8cf905e6e67"
+  cid: "4560449668053364327"
+
+# [1 posts]
+- key: russian-lunch-on-central-street-harbin
+  name: "Russian Lunch on Central Street"
+  city: "Harbin"
+  query: "Russian Lunch on Central Street Harbin"
+  place_id: "0x5e43806b35c8f305:0x1b36b022978ee161"
+  cid: "1960948350384529761"
+
+# [1 posts]
+- key: the-blvd-los-angele
+  name: "THE Blvd"
+  city: "Los Angeles"
+  query: "THE Blvd 9500 Wilshire Blvd (Beverly Wilshire Hotel), Beverly Hills, CA 90212"
+  place_id: "0x80c2bbf91db6edcf:0xd9d98d1eba692270"
+  cid: "15697733139292562032"
+
+# [1 posts]
+- key: the-lab-gastropub-los-angele
+  name: "The Lab Gastropub"
+  city: "Los Angeles"
+  query: "The Lab Gastropub 3500 S Figueroa St (University of Southern California), Los Angeles, CA 90089"
+  place_id: "0x80c2c7e19c55535f:0x33551a764be0e535"
+  cid: "3698891764336223541"
+
+# [1 posts]
+- key: bigmistas-barbecue-los-angele
+  name: "bigmista's barbecue"
+  city: "Los Angeles"
+  query: "bigmista's barbecue Atwater Village Farmers Market (Glendale Blvd & Larga), Atwater Village, CA 90039"
+  place_id: "0x80c2c0dbba6bb079:0x2971a086dade9be6"
+  cid: "2986344528981433318"
+
+# [1 posts]
+- key: tai-hing-太興-hong-kong
+  name: "Tai Hing (太興)"
+  city: "Hong Kong"
+  query: "Tai Hing (太興) 142-146 Queen's Rd C, 中西區"
+  place_id: "0x3404007cb69c719f:0xefe921dec63968ed"
+  cid: "17287385885330467053"
+
+# [1 posts]
+- key: cheung-hing-kee-shanghai-pan-fried--hong-kong
+  name: "Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包)"
+  city: "Hong Kong"
+  query: "Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包) 52 Lyndhurst Terrace, 中西區"
+  place_id: "0x3404007b725ae8d1:0xf99565d46d4821e8"
+  cid: "17984392650014859752"
+
+# [1 posts]
+- key: ches-cantonese-restaurant-hong-kong
+  name: "Che's Cantonese Restaurant"
+  city: "Hong Kong"
+  query: "Che's Cantonese Restaurant Hong Kong"
+  place_id: "0x3404005cffa504ad:0xaeb1ed7f2d8caecd"
+  cid: "12588103563958070989"
+
+# [1 posts]
+- key: din-tai-fung-鼎泰豐-hong-kong
+  name: "Din Tai Fung (鼎泰豐)"
+  city: "Hong Kong"
+  query: "Din Tai Fung (鼎泰豐) Shop 306, 3/F, Silvercord, 30 Canton Rd (Haiphong Rd), Kowloon City"
+  place_id: "0x340400f2731f48a1:0x5415c67da99c37e8"
+  cid: "6058967116715669480"
+
+# [1 posts]
+- key: 西域风情-xinjiang-style-restaurant-shan-shanghai
+  name: "西域风情 XinJiang Style Restaurant Shanghai"
+  city: "Shanghai"
+  query: "西域风情 XinJiang Style Restaurant Shanghai Shanghai"
+  place_id: "0x35b2653289a931e7:0xfd559bdceef4a403"
+  cid: "18254668037820294147"
+
+# [1 posts]
+- key: shanghais-city-of-books-上海书城-shanghai
+  name: "Shanghai's City of Books (上海书城)"
+  city: "Shanghai"
+  query: "Shanghai's City of Books (上海书城) 465 Fuzhou Rd (at M Fujian Rd), Huangpu, 上海市, 200001"
+  place_id: "0x35b2705ce87ba74d:0xe55924e4fa61eccb"
+  cid: "16526280873484610763"
+
+# [1 posts]
+- key: peninsula-lobby-lounge-半岛酒店大厅-shanghai
+  name: "Peninsula Lobby Lounge (半岛酒店大厅)"
+  city: "Shanghai"
+  query: "Peninsula Lobby Lounge (半岛酒店大厅) 中山东一路32号半岛酒店3楼 (近北京东路), 上海市, 上海市, 200002"
+  place_id: "0x35b27051234e1edd:0x126e60aeceb05d6a"
+  cid: "1328105244029115754"
+
+# [1 posts]
+- key: tai-cheong-bakery-hong-kong
+  name: "Tai Cheong Bakery"
+  city: "Hong Kong"
+  query: "Tai Cheong Bakery Hong Kong"
+  place_id: "0x3404007b721b4563:0x22d765d151d22219"
+  cid: "2510587266977636889"
+
+# [1 posts]
+- key: maxims-palace-美心皇宮-hong-kong
+  name: "Maxim's Palace (美心皇宮)"
+  city: "Hong Kong"
+  query: "Maxim's Palace (美心皇宮) 2/F, Low Block, Hong Kong City Hall, 5 Edinburgh Pl, 中西區"
+  place_id: "0x340400615504b967:0x91cb3554e8d4ca52"
+  cid: "10505549194571598418"
+
+# [1 posts]
+- key: joy-hing-roasted-meat-再興燒臘飯店-hong-kong
+  name: "Joy Hing Roasted Meat (再興燒臘飯店)"
+  city: "Hong Kong"
+  query: "Joy Hing Roasted Meat (再興燒臘飯店) 265-267 Hennessy Rd (at Stewart Rd), 灣仔區"
+  place_id: "0x3404005bb34ff87d:0xec252bba9b324756"
+  cid: "17016054847556962134"
+
+# [1 posts]
+- key: the-kee-club-shanghai-shanghai
+  name: "The Kee Club Shanghai"
+  city: "Shanghai"
+  query: "The Kee Club Shanghai 上海市, 上海市, 200000"
+  cid: "11153766614036185284"
+
+# [1 posts]
+- key: new-star-seafood-restaurant-新星海鮮酒家--hong-kong
+  name: "New Star Seafood Restaurant 新星海鮮酒家 HKG"
+  city: "Hong Kong"
+  query: "New Star Seafood Restaurant 新星海鮮酒家 HKG 33 Kwong Wa St"
+  place_id: "0x80c2dab740e88fcf:0x345ac21ab38fa3d3"
+  cid: "3772541057813685203"
+
+# [1 posts]
+- key: the-deep-fried-pork-chop-at-delicio-hong-kong
+  name: "The Deep Fried Pork Chop at Delicious Kitchen"
+  city: "Hong Kong"
+  query: "The Deep Fried Pork Chop at Delicious Kitchen 11 Cleveland St"
+  place_id: "0x80c2b7883911f7d9:0x85129b7394f43f66"
+  cid: "9588897477347786598"
+
+# [1 posts]
+- key: yellow-door-kitchen-hong-kong
+  name: "Yellow Door Kitchen"
+  city: "Hong Kong"
+  query: "Yellow Door Kitchen 37 Cochrane St"
+  place_id: "0x6b7314fe43d00001:0xce6c9bcc630d7177"
+  cid: "14874434971435364727"
+
+# [1 posts]
+- key: mapi-espresso-sandwich-bar-new-york
+  name: "Mapi Espresso & Sandwich Bar"
+  city: "New York"
+  query: "Mapi Espresso & Sandwich Bar 1 W 13th St (at 5th Ave.), New York, NY 10011"
+  cid: "250282152701229845"
+
+# [1 posts]
+- key: cantina-agave-shanghai
+  name: "Cantina Agave"
+  city: "Shanghai"
+  query: "Cantina Agave 291 Fumin Rd. (Changle Rd.), Xuhui, 上海市"
+  place_id: "0x35b27aa9e19c8e3f:0x5dee7fa14f49c409"
+  cid: "6768487620781130761"
+
+# [1 posts]
+- key: paulaners-sunday-brunch-shanghai
+  name: "Paulaner’s Sunday Brunch"
+  city: "Shanghai"
+  query: "Paulaner’s Sunday Brunch 181 Taicang Road"
+  place_id: "0x35b270fcd92c2287:0x1f40bc3a616207d"
+  cid: "140750423288324221"
+
+# [1 posts]
+- key: robins-grill-taipei
+  name: "Robin's Grill"
+  city: "Taipei"
+  query: "Robin's Grill 中山北路二段41號2樓, 中山區, 臺北市 104"
+  place_id: "0x3442a9688b247a65:0x64eb3ec24e492181"
+  cid: "7271975027577790849"
+
+# [1 posts]
+- key: happy-hour-at-mortons-the-steakhous-shanghai
+  name: "Happy Hour at Morton’s the Steakhouse"
+  city: "Shanghai"
+  query: "Happy Hour at Morton’s the Steakhouse 8 Century Ave"
+  place_id: "0x80c2bfcf1c08a7d9:0x65a6475a6e032eb5"
+  cid: "7324620297683021493"
+
+# [1 posts]
+- key: intercontinental-asiana-saigon-ho-chi-min
+  name: "Intercontinental Asiana Saigon"
+  city: "Ho Chi Minh City"
+  query: "Intercontinental Asiana Saigon Ho Chi Minh City"
+  place_id: "0x31752f1ec86d8a65:0xe7ba8ef8a67451c8"
+  cid: "16697815767025209800"
+
+# [1 posts]
+- key: boxing-cat-brewery-拳击猫餐厅-shanghai
+  name: "Boxing Cat Brewery (拳击猫餐厅)"
+  city: "Shanghai"
+  query: "Boxing Cat Brewery (拳击猫餐厅) 82 Fuxing W Rd (Yongfu Rd), Xuhui, 上海市, 200031"
+  place_id: "0x35b2f99e2e421e4d:0xe42ce70085bedf71"
+  cid: "16441770329052733297"
+
+# [1 posts]
+- key: el-mexicano-shanghai
+  name: "El Mexicano"
+  city: "Shanghai"
+  query: "El Mexicano 2 Zhengmin Rd"
+  place_id: "0x80db4fb3325e2a9b:0x6ef8ad5c54605328"
+  cid: "7996331750460511016"
+
+# [1 posts]
+- key: la-finca-庄源-shanghai
+  name: "La Finca 庄源"
+  city: "Shanghai"
+  query: "La Finca 庄源 373 South Huangpi Road"
+  cid: "16232903146078795335"
+
+# [1 posts]
+- key: whampoa-club-weekend-brunch-shanghai
+  name: "Whampoa Club Weekend Brunch"
+  city: "Shanghai"
+  query: "Whampoa Club Weekend Brunch 3 Zhongshan Dongyi Road"
+  cid: "3984649153692291017"
+
+# [1 posts]
+- key: le-sheng-shanghai
+  name: "Le Sheng"
+  city: "Shanghai"
+  query: "Le Sheng 308 Anfu Rd"
+  place_id: "0x35b26553d06fc849:0x7e88e1f4c57c7570"
+  cid: "9117785887013107056"
+
+# [1 posts]
+- key: porto-rico-shanghai
+  name: "Porto Rico"
+  city: "Shanghai"
+  query: "Porto Rico 上海市, 上海市"
+  cid: "10362902234526849418"
+
+# [1 posts]
+- key: the-public-shanghai
+  name: "The Public"
+  city: "Shanghai"
+  query: "The Public Xiang Yang Road (Nanchang Road), 上海市, 上海市"
+  place_id: "0x35b27069bae30e4f:0x69bed10757a4f1b8"
+  cid: "7619757449022861752"
+
+# [1 posts]
+- key: bikini-shanghai
+  name: "Bikini"
+  city: "Shanghai"
+  query: "Bikini 47 Yongfu Rd. (at Fuxing Rd. West), 上海市, 上海市, 200031"
+  place_id: "0x35b26552e6fa8603:0x23c569bea2bb90ea"
+  cid: "2577582629234381034"
+
+# [1 posts]
+- key: ello-amicis-shanghai
+  name: "Ello Amicis"
+  city: "Shanghai"
+  query: "Ello Amicis Shanghai"
+  cid: "10065766089000311157"
+
+# [1 posts]
+- key: southern-cross-南十字星-shanghai
+  name: "Southern Cross (南十字星)"
+  city: "Shanghai"
+  query: "Southern Cross (南十字星) 1276 Huaihai (M) Rd (at Huating Rd.), Xuhui, 上海市, 200031"
+  place_id: "0x35b27aa9611c0763:0x8e8e242b56f94148"
+  cid: "10272187568640049480"
+
+# [1 posts]
+- key: mokkos-bar-shanghai
+  name: "Mokkos Bar"
+  city: "Shanghai"
+  query: "Mokkos Bar Room 103 1245 Wuding Road West, 上海市, 上海市"
+  place_id: "0x35b26fe4b939feef:0x3d3fb92b681792e3"
+  cid: "4413449755927483107"
+
+# [1 posts]
+- key: glamour-bar-shanghai
+  name: "Glamour Bar"
+  city: "Shanghai"
+  query: "Glamour Bar 6/F, 5 Guangdong Rd, 上海市, 上海市"
+  place_id: "0x35b270589b1b8cd3:0x793654bfaf84df1"
+  cid: "545891356849491441"
+
+# [1 posts]
+- key: green-massage-青籁养生-shanghai
+  name: "Green Massage (青籁养生)"
+  city: "Shanghai"
+  query: "Green Massage (青籁养生) 300 Huaihai M Rd | 淮海中路300号 (3/F-05 K11 Art Mall | 上海K11购物艺术中心), Huáihǎi Zhōnglù, Huangpu, 上海市, 200021"
+  place_id: "0x35b2706ddfbfe72b:0xbaab04f39d8cf771"
+  cid: "13450850156438943601"
+
+# [1 posts]
+- key: datong-mill-aka-found-158-大同坊-158坊-shanghai
+  name: "Datong Mill aka Found 158 (大同坊 / 158坊)"
+  city: "Shanghai"
+  query: "Datong Mill aka Found 158 (大同坊 / 158坊) 158 Julu Rd | 巨鹿路158号 (Ruijin 1st Rd | 瑞金一路), jing, Jing'an, 上海市"
+  place_id: "0x35b2700dbf96ec65:0xf9be6e5a31ee0c1b"
+  cid: "17995942494682876955"
+
+# [1 posts]
+- key: uniqlo-优衣库-shanghai
+  name: "UNIQLO (优衣库)"
+  city: "Shanghai"
+  query: "UNIQLO (优衣库) 887 Huaihai M Rd | 淮海中路887号 (Maoming S Rd | 茂名南路), Xīntiāndì, Huangpu, 上海市"
+  place_id: "0x35b27009a063fcd3:0xb7d86fa15168146e"
+  cid: "13247461042556507246"
+
+# [1 posts]
+- key: guinness-original-launch-party-los-angele
+  name: "Guinness Original Launch Party"
+  city: "Los Angeles"
+  query: "Guinness Original Launch Party 294 Xinhua Road"
+
+# [1 posts]
+- key: king-taco-los-angele
+  name: "King Taco"
+  city: "Los Angeles"
+  query: "King Taco 2020 W Pico Blvd (S Alvarado St), Los Angeles, CA 90006"
+  place_id: "0x80c2c790b7d6456f:0x2efed3dcf9f07792"
+  cid: "3386376915868743570"
+
+# [1 posts]
+- key: five-star-hainanese-chicken-rice-五星-shanghai
+  name: "Five Star Hainanese Chicken Rice (五星海南鸡饭)"
+  city: "Shanghai"
+  query: "Five Star Hainanese Chicken Rice (五星海南鸡饭) 176 Jiaozhou Road | 胶州路176号 (Xinzha Road | 新闸路), 上海市, 上海市"
+  place_id: "0x35b27007972445bb:0x343a35251d6fd90d"
+  cid: "3763378872145402125"
+
+# [1 posts]
+- key: pho-real-shanghai
+  name: "Pho Real"
+  city: "Shanghai"
+  query: "Pho Real 166 Fumin Rd"
+  place_id: "0x35b27000b31bf943:0x957879c8fc842573"
+  cid: "10770492412993480051"
+
+# [1 posts]
+- key: the-factory-kitchen-dtla
+  name: "The Factory Kitchen"
+  city: "Dtla"
+  query: "The Factory Kitchen 1300 Factory Pl St"
+  place_id: "0x80c2c624b2cedb29:0x51a6ea7b406bd139"
+  cid: "5883647778288816441"
+
+# [1 posts]
+- key: daikokuya-dtla
+  name: "Daikokuya"
+  city: "Dtla"
+  query: "Daikokuya 327 East 1st St"
+  place_id: "0x80c2c647c36efd67:0xc53f5231ed83a07c"
+  cid: "14213169323396276348"
+
+# [1 posts]
+- key: boiling-point-sgv
+  name: "Boiling Point"
+  city: "Sgv"
+  query: "Boiling Point 206 S. First Ave. Arcadia, CA 91006"
+  place_id: "0x80c2dbdc902356fd:0xde045cc13e0a3fdc"
+  cid: "15998013761366147036"
+
+# [1 posts]
+- key: tea-rose-garden-pasadena
+  name: "Tea Rose Garden"
+  city: "Pasadena"
+  query: "Tea Rose Garden 70 N Raymond Ave Pasadena, CA 91103"
+  place_id: "0x14e04aa5ac74fb35:0x8344a3dd171cc5c8"
+  cid: "9458865287355745736"
+
+# [1 posts]
+- key: sinbala-arcadia
+  name: "SinBaLa"
+  city: "Arcadia"
+  query: "SinBaLa 651 W Duarte Rd St"
+  place_id: "0x80c2dbbab3da0891:0xe2cd338a6d857ebc"
+  cid: "16342775292433366716"
+
+# [1 posts]
+- key: chuans-sgv
+  name: "Chuan’s"
+  city: "Sgv"
+  query: "Chuan’s 5807 Rosemead Blvd Temple City, CA 91780"
+  place_id: "0x80c2db412879d837:0x94d211393a78ca41"
+  cid: "10723652600214374977"
+
+# [1 posts]
+- key: hunan-mao-restaurant-sgv
+  name: "Hunan Mao Restaurant"
+  city: "Sgv"
+  query: "Hunan Mao Restaurant 8728 Valley Blvd"
+  place_id: "0x80c2da9053b2fa15:0x7a9cc6ae2361ef52"
+  cid: "8835155020214300498"
+
+# [1 posts]
+- key: guss-bbq-pasadena
+  name: "Gus’s BBQ"
+  city: "Pasadena"
+  query: "Gus’s BBQ 808 Fair Oaks Ave South Pasadena, CA 91030"
+  place_id: "0x80c2c48dd30fc2fb:0x835d3e44293eeec6"
+  cid: "9465790454273339078"
+
+# [1 posts]
+- key: 大味鰻-shanghai
+  name: "大味鰻"
+  city: "Shanghai"
+  query: "大味鰻 342 Middle Wulumuqi Road (West Fuxing Road), 上海市, 上海市, 200000"
+  place_id: "0x35b27aad267e7d2f:0x48b13e78b2162b5c"
+  cid: "5238036529713392476"
+
+# [1 posts]
+- key: yangji-gamjatang-koreatown
+  name: "Yangji Gamjatang"
+  city: "Koreatown"
+  query: "Yangji Gamjatang 3470 W 6th St"
+  place_id: "0x80c2c77d10ba0f7f:0xb80e1e528ae4739c"
+  cid: "13262571292519068572"
+
+# [1 posts]
+- key: smorgasburg-los-angeles-dtla
+  name: "Smorgasburg Los Angeles"
+  city: "Dtla"
+  query: "Smorgasburg Los Angeles 785 Bay St Los Angeles, CA 90021"
+  place_id: "0x80c2c62f7b047c81:0x65fba4816d4a10de"
+  cid: "7348648092776403166"
+
+# [1 posts]
+- key: texas-toast-smoked-octopus-beef-bri-san-antoni
+  name: "Texas Toast, smoked octopus, beef brisket, beans"
+  city: "San Antonio"
+  query: "Texas Toast, smoked octopus, beef brisket, beans San Antonio"
+  place_id: "0x865cf7f0fde85a7d:0xe4ccb9997bf631ef"
+  cid: "16486756404757410287"
+
+# [1 posts]
+- key: franklin-bbq-austin-2
+  name: "Franklin BBQ"
+  city: "Austin"
+  query: "Franklin BBQ Austin"
+  place_id: "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84"
+  cid: "3579139785445756036"
+
+# [1 posts]
+- key: perlassouthcongress-austin
+  name: "Perlassouthcongress"
+  city: "Austin"
+  query: "Perlassouthcongress Austin"
+  place_id: "0x8644b4fd0ff2b66f:0x36bf94e449a8db4f"
+  cid: "3945035506809101135"
+
+# [1 posts]
+- key: odd-duck-austin
+  name: "Odd Duck"
+  city: "Austin"
+  query: "Odd Duck Austin"
+  place_id: "0x8644b51f9fffcf8b:0xb12c453f1063a7e7"
+  cid: "12766655180848736231"
+
+# [1 posts]
+- key: east-side-king-austin
+  name: "East Side King"
+  city: "Austin"
+  query: "East Side King Austin"
+  place_id: "0x8644b5b72a6b1869:0x1a0e365d55812123"
+  cid: "1877497869154459939"
+
+# [1 posts]
+- key: via-313-austin
+  name: "Via 313"
+  city: "Austin"
+  query: "Via 313 Austin"
+  place_id: "0x8644b5b6fbb00001:0x84b24813cc1b5aa5"
+  cid: "9561784208726907557"
+
+# [1 posts]
+- key: snows-bbq-austin
+  name: "Snow's BBQ"
+  city: "Austin"
+  query: "Snow's BBQ 516 S Main St, Lexington, TX 78947"
+  place_id: "0x86445ea1200576a9:0x28fc4cc3aa69a5f2"
+  cid: "2953319858909586930"
+
+# [1 posts]
+- key: austins-cookie-delivery-austin
+  name: "Austin's cookie delivery"
+  city: "Austin"
+  query: "Austin's cookie delivery Austin"
+  place_id: "0x8644cbf395fc96e7:0x327bccf833759dfa"
+  cid: "3637726490419109370"
+
+# [1 posts]
+- key: kemuri-tatsu-ya-austin
+  name: "Kemuri Tatsu-Ya"
+  city: "Austin"
+  query: "Kemuri Tatsu-Ya Austin"
+  place_id: "0x8644b43339a8b397:0x314f4d977c6845b2"
+  cid: "3553143944041219506"
+
+# [1 posts]
+- key: voodoo-doughnut-austin
+  name: "Voodoo Doughnut"
+  city: "Austin"
+  query: "Voodoo Doughnut Austin"
+  place_id: "0x8644b5a771205af3:0x86f416ea2f93d43c"
+  cid: "9724422690476119100"
+
+# [1 posts]
+- key: valentinas-tex-mex-bbq-austin
+  name: "Valentina's Tex Mex BBQ"
+  city: "Austin"
+  query: "Valentina's Tex Mex BBQ Austin"
+  place_id: "0x8644b50c20337d41:0x8ff870c7261d811e"
+  cid: "10374165742288208158"
+
+# [1 posts]
+- key: cow-tipping-creamery-austin
+  name: "Cow Tipping Creamery"
+  city: "Austin"
+  query: "Cow Tipping Creamery Austin"
+  place_id: "0x8644b57903cd9f01:0x9dda2bb1abcfcd8c"
+  cid: "11374451850969337228"
+
+# [1 posts]
+- key: made-a-trek-to-lockhart-lockhart
+  name: "Made a trek to Lockhart"
+  city: "Lockhart"
+  query: "Made a trek to Lockhart Lockhart"
+  place_id: "0x80c2bb7fcb4663ad:0x70a224fa659bef45"
+  cid: "8116090136340197189"
+
+# [1 posts]
+- key: veracruz-all-natural-austin
+  name: "Veracruz All Natural"
+  city: "Austin"
+  query: "Veracruz All Natural Austin"
+  place_id: "0x8644cb90ebfb24e5:0x761a3437a346cb6a"
+  cid: "8510171859437144938"
+
+# [1 posts]
+- key: 2m-smokehouse-san-antoni
+  name: "2M Smokehouse"
+  city: "San Antonio"
+  query: "2M Smokehouse San Antonio"
+  place_id: "0x865cf7285d544c3f:0xe0e431d387677804"
+  cid: "16205132143765452804"
+
+# [1 posts]
+- key: salty-sow-austin
+  name: "Salty Sow"
+  city: "Austin"
+  query: "Salty Sow Austin"
+  place_id: "0x8644b59369be58eb:0x6f73c991a0600c2a"
+  cid: "8030984187829816362"
+
+# [1 posts]
+- key: lucysfriedchick-austin
+  name: "Lucysfriedchick"
+  city: "Austin"
+  query: "Lucysfriedchick Austin"
+  place_id: "0x8644b4eff0627a33:0x84555b2a41647162"
+  cid: "9535628023070749026"
+
+# [1 posts]
+- key: pacos-tacos-austin
+  name: "Paco's Tacos"
+  city: "Austin"
+  query: "Paco's Tacos Austin"
+  place_id: "0x8644ca043a82df05:0xda7cd969907b516a"
+  cid: "15743697444799205738"
+
+# [1 posts]
+- key: launderette-austin
+  name: "Launderette"
+  city: "Austin"
+  query: "Launderette Austin"
+  place_id: "0x8644b44b02e40143:0x358a05fe0dd85bfa"
+  cid: "3857902619508366330"
+
+# [1 posts]
+- key: freedmens-bar-austin
+  name: "Freedmen's Bar"
+  city: "Austin"
+  query: "Freedmen's Bar Austin"
+  cid: "13902270027323696704"
+
+# [1 posts]
+- key: lucys-fried-chicken-austin
+  name: "Lucy's Fried Chicken"
+  city: "Austin"
+  query: "Lucy's Fried Chicken Austin"
+  place_id: "0x8644b4eff0627a33:0x84555b2a41647162"
+  cid: "9535628023070749026"
+
+# [1 posts]
+- key: boudin-and-cracklin-new-orlean
+  name: "Boudin and Cracklin"
+  city: "New Orleans"
+  query: "Boudin and Cracklin New Orleans"
+  place_id: "0x8620afa71d4010bd:0xc23b056fd1526ab4"
+  cid: "13995786244795296436"
+
+# [1 posts]
+- key: peacemaker-new-orlean
+  name: "peacemaker"
+  city: "New Orleans"
+  query: "peacemaker New Orleans"
+  place_id: "0x87d8b384d38bfa13:0x8ab09a425b8980e4"
+  cid: "9993657182929387748"
+
+# [1 posts]
+- key: big-ez-seafood-new-orlean
+  name: "Big Ez Seafood"
+  city: "New Orleans"
+  query: "Big Ez Seafood New Orleans"
+  place_id: "0x8620a6eadfd79db5:0x373e233220431034"
+  cid: "3980657818838700084"
