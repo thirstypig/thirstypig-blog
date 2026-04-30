@@ -6,6 +6,7 @@ import HitListManager, { HitListIcon } from "./HitListManager";
 import TestingDashboard, { TestingIcon } from "./TestingDashboard";
 import StyleSheet, { StyleSheetIcon } from "./StyleSheet";
 import AdminDocs, { AdminDocsIcon } from "./AdminDocs";
+import DataQuality, { DataQualityIcon } from "./DataQuality";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -112,6 +113,16 @@ export default defineConfig({
       name: "Docs",
       Component: AdminDocs,
       Icon: AdminDocsIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Cleanup screen — auto-detected data-quality issues
+    // (duplicate venues + posts where title/location disagree).
+    cms.plugins.add({
+      __type: "screen",
+      name: "Cleanup",
+      Component: DataQuality,
+      Icon: DataQualityIcon,
       layout: "fullscreen",
     });
 
