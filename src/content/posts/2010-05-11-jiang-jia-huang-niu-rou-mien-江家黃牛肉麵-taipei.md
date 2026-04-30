@@ -1,30 +1,29 @@
 ---
-title: 玖伍牛肉麵, Taipei
-pubDate: '2010-05-11'
-author: The Thirsty Pig
-source: thirstypig.com
-originalUrl: http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/
-categories:
-- Taiwanese
-tags:
-- taipei
-- taiwanese
-- noodles
-- dumplings
+title: 江家黃牛肉麵 Taipei
+pubDate: 2010-05-11T00:00:00.000Z
 description: Traditional Taiwanese breakfast from the famous Yong He Dou Jiang and Dumpling & Noodles from Jiang Jia Hung both found at one location.
-archiveUrl: https://web.archive.org/web/20161105100224/http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/
-draft: true
+author: The Thirsty Pig
+categories:
+  - Taiwanese
+tags:
+  - taipei
+  - taiwanese
+  - noodles
+  - dumplings
+cuisine:
+  - Taiwanese
 location: 玖伍牛肉麵
 city: Taipei
 region: Taipei
-address: 八德路一段82巷8號, 中正區, 臺北市 100
+address: '八德路一段82巷8號, 中正區, 臺北市 100'
 coordinates:
   lat: 25.043785
   lng: 121.531953
-cuisine:
-- Taiwanese
+originalUrl: 'http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/'
+archiveUrl: 'https://web.archive.org/web/20161105100224/http://thirstypig.com/2010/05/11/jiang-jia-huang-niu-rou-mien-%e6%b1%9f%e5%ae%b6%e9%bb%83%e7%89%9b%e8%82%89%e9%ba%b5-taipei/'
+source: thirstypig.com
+draft: true
 ---
-
 
 Traditional Taiwanese breakfast from the famous Yong He Dou Jiang and Dumpling & Noodles from Jiang Jia Hung both found at one location.
 
