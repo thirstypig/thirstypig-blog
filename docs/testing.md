@@ -119,6 +119,14 @@ At a glance:
   → True, local filesystem check) + `get_image_refs` collection across
   heroImage, images array, inline markdown, HTML img tags, plus graceful
   handling of missing/None entries.
+- **`scripts/venue-tags/test_lookup_place_ids_api.py`** (16 unit assertions) —
+  Places API parsers + venues.yaml writeback. Anchored to two silent-fail
+  modes: `extract_fid_hex` returning `None` on a valid Google Maps URI
+  (which lets a 98-venue scrape produce zero downstream artifacts), and
+  `write_yaml_field`'s regex sub no-op'ing on a key it should match (which
+  silently skips the place_id injection that makes the cid→FID scraper
+  self-healing). Module imports without Playwright, so tests run in CI's
+  plain Python without browser deps.
 - **`tests/e2e/homepage.spec.ts`** (4 E2E assertions) — hero renders, nav
   `aria-current`, skip link works, theme toggle persists
 - **`tests/e2e/hitlist.spec.ts`** (5 E2E assertions) — cards render, city

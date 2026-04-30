@@ -11,6 +11,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 			<h2>April 2026 — Performance, Accessibility, Mobile Editing & Testing</h2>
 
+			<h3>April 29–30 — Venue tags scale-up via Places API (PR #96)</h3>
+			<ul>
+				<li><strong>Places API path</strong> — New <code>scripts/venue-tags/lookup_place_ids_api.py</code> calls Google's <code>places:searchText</code> endpoint at ~100ms per venue with ~95% hit rate, including CJK / multi-match queries that DIY headed Chrome chronically failed on. Free tier (10K calls/SKU/month) covers our needs comfortably.</li>
+				<li><strong>cid→FID self-healing scraper</strong> — When the API returns only a <code>?cid=N</code> URL (the common case), the scraper navigates there, waits for Maps' delayed URL rewrite, extracts the FID hex from either the rewritten <code>location.href</code> or the URL-encoded form embedded in sign-in continuation links, and writes the FID back to <code>venues.yaml</code>. Each venue pays the resolution cost exactly once; future runs go direct via <code>?ftid=&lt;FID&gt;</code>. Full failure-mode write-up at <code>docs/solutions/api-migration/google-maps-cid-fid-self-healing-scrape.md</code>.</li>
+				<li><strong>Three batches shipped</strong> — Batches 6 (95 venues), 7 (89 venues), 8 (87 venues). Cumulative growth: <strong>65 → 336 venues with FID</strong> (+271), <strong>64 → 320 published JSONs</strong> (+256), <strong>123 → 439 posts displaying tag pills</strong> (+316). Limited-view failure rate climbs into the long tail (9% in batch 7 → 19% in batch 8) — signal that <code>curate_candidates.py</code> filters need tightening before further single-post sweeps.</li>
+				<li><strong>16 new unit tests</strong> — <code>scripts/venue-tags/test_lookup_place_ids_api.py</code> locks down <code>extract_fid_hex</code>, <code>FID_HEX_RE</code>, <code>CID_RE</code>, and <code>write_yaml_field</code>. Anchored to two real silent-fail modes lived through this session: the parser returning <code>None</code> on a valid Maps URI, and the YAML writeback regex no-op'ing on a key it should have matched. Total Python suite: 90 → 106 passing.</li>
+				<li><strong>552 single-post candidates remain</strong> in the corpus for future weekly sweeps. A weekly cron is wired but session-only — durable persistence (launchd or GitHub Actions) is a follow-up.</li>
+			</ul>
+
 			<h3>April 25–27 — Bold Red Poster redesign + supporting infra (10 PRs)</h3>
 			<ul>
 				<li><strong>Homepage rebuild as the "Bold Red Poster"</strong> — full-bleed red hero with the original pig illustration bleeding off the right edge, 168px <code>Archivo Black</code> "Eat everything. Twice." display heading, "Right off the stove" featured grid (latest published post + next 4), and a 4-up city picker driven by real region data (Shanghai · 298, San Gabriel Valley · 238, Los Angeles · 222, Everywhere else · 1,178). Header rebuilt with <code>thirsty<span class="text-amber">pig</span></code> wordmark + the new 5-item nav (Stories / Cities / Map / Best Of / About), plus Hit List restored as a 6th item after first-cut review. Light mode only; dark-mode poster theme deferred. (PR #72)</li>
