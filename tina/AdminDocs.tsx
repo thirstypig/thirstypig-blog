@@ -229,7 +229,7 @@ const InstagramSection = () => (
 					style={s.link}
 					href="https://www.instagram.com/accounts/access_tool/manage_data"
 					target="_blank"
-					rel="noreferrer"
+					rel="noopener noreferrer"
 				>
 					instagram.com/accounts/access_tool/manage_data
 				</a>
@@ -267,11 +267,8 @@ const InstagramSection = () => (
 		<h2 style={s.h2}>If something looks wrong</h2>
 		<ul style={s.ul}>
 			<li>
-				<strong>Reminders not firing</strong> — check the routine at{" "}
-				<code style={s.code}>
-					claude.ai/code/routines/trig_01N3hRwVf9FxvFPiDigDBPyo
-				</code>
-				.
+				<strong>Reminders not firing</strong> — check the IG-reminder
+				routine in <code style={s.code}>claude.ai/code → Routines</code>.
 			</li>
 			<li>
 				<strong>Watcher not triggering</strong> — check{" "}
@@ -399,15 +396,11 @@ scripts/venue-tags/venv/bin/python scripts/venue-tags/sync_post_placeids.py --ap
 
 		<h2 style={s.h2}>API key trap</h2>
 		<div style={s.calloutBad}>
-			In Google Cloud Console, "Application restrictions" must be set to{" "}
-			<strong>None</strong>. Setting it to "Websites" with an empty
-			domain list looks identical at a glance but silently 403s every
-			server-side request with{" "}
-			<code style={s.code}>
-				Requests from referer &lt;empty&gt; are blocked
-			</code>
-			. The error names the empty referer, not the misconfigured
-			restriction — slow to diagnose.
+			"Application restrictions" in Google Cloud Console must be set to{" "}
+			<strong>None</strong> for server-side use — "Websites" with an
+			empty domain list silently 403s every request and the error
+			names the empty referer, not the restriction. Full diagnosis at{" "}
+			<code style={s.code}>docs/operator/api-key-trap.md</code>.
 		</div>
 	</>
 );
@@ -416,82 +409,57 @@ const StatusSection = () => (
 	<>
 		<h1 style={s.h1}>Pipeline status</h1>
 		<p style={s.subtitle}>
-			Snapshot as of <strong>2026-04-30</strong>. Numbers drift as
-			batches ship — refresh from{" "}
-			<code style={s.code}>scripts/venue-tags/venues.yaml</code> and{" "}
-			<code style={s.code}>public/venue-tags/</code> for live counts.
+			Counts drift batch-to-batch — this section deliberately doesn't
+			hard-code numbers. Run the one-liners below for current values.
 		</p>
 
-		<h2 style={s.h2}>Venue-tags coverage</h2>
-		<div>
-			<div style={s.stat}>
-				<span style={s.statNum}>365</span>
-				<span style={s.statLabel}>venues curated</span>
-			</div>
-			<div style={s.stat}>
-				<span style={s.statNum}>336</span>
-				<span style={s.statLabel}>with FID hex</span>
-			</div>
-			<div style={s.stat}>
-				<span style={s.statNum}>320</span>
-				<span style={s.statLabel}>chip JSONs published</span>
-			</div>
-			<div style={s.stat}>
-				<span style={s.statNum}>439</span>
-				<span style={s.statLabel}>posts displaying tags</span>
-			</div>
-		</div>
+		<h2 style={s.h2}>Venue-tags coverage — count it now</h2>
+		<pre style={s.pre}>{`# Venues curated (entries in venues.yaml)
+grep -c '^- key:' scripts/venue-tags/venues.yaml
+
+# Venues with FID hex resolved
+grep -c 'place_id: "0x' scripts/venue-tags/venues.yaml
+
+# Chip JSONs published
+ls public/venue-tags/*.json | wc -l
+
+# Posts displaying tags (placeId frontmatter set)
+grep -lrE '^placeId:' src/content/posts/ | wc -l`}</pre>
 
 		<h2 style={s.h2}>Long tail remaining</h2>
 		<p style={s.p}>
-			<strong>552 single-post candidates</strong> still uncurated in the
-			post corpus (venues mentioned in exactly one post). Quality is
-			dropping as we go deeper — limited-view failure rate climbed from
-			9% in batch 7 to 19% in batch 8. Recommended: tighten{" "}
-			<code style={s.code}>curate_candidates.py</code> non-food filters
-			(add <code style={s.code}>\bservice\b</code>,{" "}
-			<code style={s.code}>\brepair\b</code>,{" "}
-			<code style={s.code}>\bauto\b</code>, length cap on
-			sentence-shaped names) before the next sweep.
+			Single-post candidates (venues mentioned in exactly one post) are
+			the long tail. Quality drops as we go deeper — limited-view
+			failure rate has been climbing batch-over-batch.{" "}
+			<strong>Tighten curator filters before the next sweep.</strong>{" "}
+			See{" "}
+			<code style={s.code}>docs/operator/curator-bugs.md</code> for the
+			specific patterns to add.
 		</p>
 
 		<h2 style={s.h2}>Known curator bug</h2>
-		<div style={s.calloutBad}>
-			The <code style={s.code}>\bpark\b</code> non-food filter pattern
-			false-matches "Park's BBQ" (real Korean BBQ in LA) because Python
-			regex treats apostrophe as a non-word boundary. Same class hits
-			any venue name where the trigger word is followed by{" "}
-			<code style={s.code}>'s</code> or punctuation. Not yet fixed.
-		</div>
+		<p style={s.p}>
+			The <code style={s.code}>\bpark\b</code> non-food filter
+			false-matches names like "Park's BBQ". Full write-up at{" "}
+			<code style={s.code}>docs/operator/curator-bugs.md</code>.
+		</p>
 
 		<h2 style={s.h2}>Genuinely unresolvable venues</h2>
 		<p style={s.p}>
-			These returned "limited view" on Google (closed or no chip data).
-			Left in venues.yaml as historical records:
+			Three venues returned "limited view" on Google and cannot be
+			tagged. Roster + revisit conditions at{" "}
+			<code style={s.code}>docs/operator/unresolvable-venues.md</code>.
 		</p>
-		<ul style={s.ul}>
-			<li>
-				<code style={s.code}>mundo-cafe-restaurant-new-york</code>
-			</li>
-			<li>
-				<code style={s.code}>lamour-cafe-monterey-p</code>
-			</li>
-			<li>
-				<code style={s.code}>pizza-patron-los-angele</code>
-			</li>
-		</ul>
 
 		<h2 style={s.h2}>Instagram sync</h2>
 		<ul style={s.ul}>
 			<li>
-				<strong>Last release:</strong> check{" "}
-				<code style={s.code}>gh release list --limit 5</code>.
+				<strong>Last release:</strong>{" "}
+				<code style={s.code}>gh release list --limit 5</code>
 			</li>
 			<li>
 				<strong>Watcher installed?</strong>{" "}
-				<code style={s.code}>launchctl list | grep thirstypig</code> —
-				as of session-end this was empty (manual upload required until
-				install).
+				<code style={s.code}>launchctl list | grep thirstypig</code>
 			</li>
 		</ul>
 	</>
@@ -508,9 +476,9 @@ const ChangelogSection = () => (
 		<h2 style={s.h2}>April 29–30 — Venue-tags scale-up via Places API (PR #96)</h2>
 		<ul style={s.ul}>
 			<li>
-				<strong>3 batches shipped.</strong> 65 → 336 venues with FID
-				(+271), 64 → 320 published JSONs (+256), 123 → 439 tagged
-				posts (+316).
+				<strong>3 batches shipped</strong> — significantly grew the
+				FID-resolved, published, and tagged-post counts. Run the
+				one-liners on the Status page for current numbers.
 			</li>
 			<li>
 				<strong>cid→FID self-healing scraper.</strong> Two-stage FID
@@ -641,6 +609,11 @@ const RoadmapSection = () => (
 // Top-level component
 // ---------------------------------------------------------------------------
 
+// SectionId / SECTIONS / SECTION_RENDERERS are kept as three coordinated
+// artifacts on purpose: the Record<SectionId, ...> map gives compile-time
+// exhaustiveness — adding a new SectionId without a renderer fails the
+// build. Collapsing into one array of {id, label, render} would lose that
+// guarantee.
 const SECTION_RENDERERS: Record<SectionId, () => React.ReactElement> = {
 	ig: InstagramSection,
 	scraping: ScrapingSection,
@@ -651,15 +624,23 @@ const SECTION_RENDERERS: Record<SectionId, () => React.ReactElement> = {
 
 const AdminDocs = () => {
 	const [active, setActive] = useState<SectionId>("ig");
-	const Section = SECTION_RENDERERS[active];
+	const ActiveSection = SECTION_RENDERERS[active];
 
 	return (
 		<div style={s.root}>
-			<nav style={s.sidebar}>
+			<aside
+				style={s.sidebar}
+				role="tablist"
+				aria-label="Documentation sections"
+			>
 				<div style={s.sidebarTitle}>Docs</div>
 				{SECTIONS.map((sec) => (
 					<button
 						key={sec.id}
+						type="button"
+						role="tab"
+						aria-selected={active === sec.id}
+						aria-controls={`docs-panel-${sec.id}`}
 						style={s.navItem(active === sec.id)}
 						onClick={() => setActive(sec.id)}
 					>
@@ -667,9 +648,14 @@ const AdminDocs = () => {
 						{sec.label}
 					</button>
 				))}
-			</nav>
-			<main style={s.main}>
-				<Section />
+			</aside>
+			<main
+				style={s.main}
+				role="tabpanel"
+				id={`docs-panel-${active}`}
+				aria-labelledby={`docs-tab-${active}`}
+			>
+				<ActiveSection />
 			</main>
 		</div>
 	);
