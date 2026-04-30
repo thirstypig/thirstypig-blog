@@ -61,6 +61,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "aggregateRegions() — homepage city tile aggregation. Posts without `region` field land in elsewhereCount (regression guard against phantom undefined-keyed top region), counts ranked desc, topN respected, sum invariant: top counts + elsewhere = posts.length, empty-list safe",
 	},
+	"src/utils/data-quality.test.ts": {
+		kind: "unit",
+		covers: "Cleanup admin screen detection heuristics — Jaccard token-overlap on (slug, title, location) triple. Regression cases: Pine & Crane / Wolf & Crane Bar contamination flagged, Rou Jia Mo / A Niang Noodles flagged (CJK preserved via Unicode property escapes), Spago BH not flagged. False-positive guards: Wayback descriptive slugs ('World's Best Hainan Chicken Rice') don't fire when title=location. Documented limitation: Garvey-class title=location-but-both-wrong is mathematically indistinguishable from a legitimate Wayback descriptive slug — explicitly NOT flagged. Edge cases: empty title/location returns null, stopwords/short-tokens dropped, apostrophes normalized.",
+	},
 	"scripts/test_sync_hitlist.py": {
 		kind: "unit",
 		covers: "Hit List vault parser — header parsing with commas in names, metadata keys, tag normalization, priority bounds, id slug + override, unknown-key drop, CJK slug handling",

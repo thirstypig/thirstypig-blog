@@ -4,6 +4,11 @@ import { join } from "node:path";
 // @ts-expect-error — js-yaml has no bundled types; runtime API is stable
 import yaml from "js-yaml";
 import { getCollection } from "astro:content";
+import {
+	SUSPECT_THRESHOLD,
+	evaluateSuspectPost,
+	slugFromId,
+} from "../utils/data-quality";
 
 /**
  * Data quality report served to the Cleanup admin dashboard.
@@ -16,13 +21,11 @@ import { getCollection } from "astro:content";
  *    confuse sync_post_placeids.py which picks "first match wins". 14
  *    real groups today (e.g., bankara-ramen-bangkok + Thai-script alias).
  *
- * 2. **Suspect posts**: posts whose slug, title, and location field
- *    significantly disagree on tokens — strong signal that the location/
- *    placeId record was contaminated by a different business during
- *    enrichment (the Pine & Crane / Wolf & Crane class). We use Jaccard
- *    similarity on cleaned token sets across three pairwise comparisons
- *    (slug↔title, slug↔location, title↔location) and flag posts where
- *    any pair scores below SUSPECT_THRESHOLD.
+ * 2. **Suspect posts**: posts whose title and location frontmatter fields
+ *    disagree on tokens — strong signal that one was contaminated by a
+ *    different business during enrichment (the Pine & Crane / Wolf & Crane
+ *    class). Detection logic lives in src/utils/data-quality.ts so it can
+ *    be unit-tested without spinning up Astro's content layer.
  *
  * Both detections run at build time. Auto-derived "open" status: if the
  * issue still fires on next build, it's open; if not, it's been fixed.
@@ -34,18 +37,6 @@ const VENUES_PATH = join(
 	REPO_ROOT,
 	"scripts/venue-tags/venues.yaml",
 );
-
-// Posts below this minimum pairwise Jaccard get flagged as suspect.
-// Calibrated so Pine & Crane (0.17) and Garvey/Open Door (0.13) both fire.
-// Tighter than 0.4 to keep false-positive volume manageable.
-const SUSPECT_THRESHOLD = 0.35;
-
-// Common stopwords that bloat token sets without signal. Keep small —
-// content tokens like "lunch", "vegan", "burger" are real signal.
-const STOPWORDS = new Set([
-	"the", "a", "an", "and", "of", "in", "at", "on", "with", "to", "for",
-	"by", "from", "is", "are", "was", "were", "be", "or", "but",
-]);
 
 interface VenueEntry {
 	key: string;
@@ -75,40 +66,6 @@ interface SuspectPost {
 	};
 	worstPair: "slugTitle" | "slugLocation" | "titleLocation";
 	worstScore: number;
-}
-
-function tokenize(s: string): Set<string> {
-	const tokens = (s || "")
-		.toLowerCase()
-		// Strip non-alphanumeric (keeps CJK because \w in JS regex doesn't
-		// — but [\p{L}\p{N}] does. Use Unicode property escapes.)
-		.replace(/[^\p{L}\p{N}\s]/gu, " ")
-		.split(/\s+/)
-		.filter((t) => t.length >= 2 && !STOPWORDS.has(t));
-	return new Set(tokens);
-}
-
-function jaccard(a: Set<string>, b: Set<string>): number {
-	if (a.size === 0 && b.size === 0) return 1;
-	const intersection = [...a].filter((x) => b.has(x)).length;
-	const union = new Set([...a, ...b]).size;
-	return union === 0 ? 0 : intersection / union;
-}
-
-function stripCityFromTitle(title: string): string {
-	// Title format is "{Venue Name}, {City}" — drop the trailing comma part
-	// so we compare venue-name tokens only, not city tokens that bias
-	// matches up.
-	const idx = title.lastIndexOf(",");
-	return idx > 0 ? title.slice(0, idx) : title;
-}
-
-function slugFromId(id: string): string {
-	// Astro post ids look like "2009-12-17-the-open-door-monterey-park" or
-	// similar. Strip leading date prefix YYYY-MM-DD- if present.
-	const noExt = id.replace(/\.md$/, "");
-	const m = noExt.match(/^\d{4}-\d{2}-\d{2}-(.+)$/);
-	return m ? m[1] : noExt;
 }
 
 function detectDuplicateVenues(): DuplicateVenueGroup[] {
@@ -152,35 +109,10 @@ async function detectSuspectPosts(): Promise<SuspectPost[]> {
 		const title = String(data.title || "");
 		const location = String(data.location || "");
 		const city = String(data.city || "");
-		// If location or title is empty, can't meaningfully compare —
-		// surface separately if you want, but skip for now.
-		if (!title || !location) continue;
-
 		const slug = slugFromId(p.id);
-		const slugTokens = tokenize(slug.replace(/-/g, " "));
-		const titleTokens = tokenize(stripCityFromTitle(title));
-		const locationTokens = tokenize(location);
 
-		const jST = jaccard(slugTokens, titleTokens);
-		const jSL = jaccard(slugTokens, locationTokens);
-		const jTL = jaccard(titleTokens, locationTokens);
-
-		// Primary flag: title and location should agree (both are venue
-		// identifiers). Wayback-era slugs are often descriptive prose
-		// ("World's Best Hainan Chicken Rice") so slug pairs are noisy
-		// and shown for context only.
-		// Secondary flag: Garvey-class — title and location agree but
-		// both disagree strongly with slug. Requires BOTH slug Jaccards
-		// to be very low.
-		const titleLocationFlag = jTL < SUSPECT_THRESHOLD;
-		const garveyClassFlag = jTL >= SUSPECT_THRESHOLD &&
-			jST < 0.2 && jSL < 0.2;
-		if (!titleLocationFlag && !garveyClassFlag) continue;
-
-		const worstPair: SuspectPost["worstPair"] = titleLocationFlag
-			? "titleLocation"
-			: jST <= jSL ? "slugTitle" : "slugLocation";
-		const worst = titleLocationFlag ? jTL : Math.min(jST, jSL);
+		const evalResult = evaluateSuspectPost(slug, title, location);
+		if (!evalResult || !evalResult.flagged) continue;
 
 		suspects.push({
 			id: p.id,
@@ -189,13 +121,9 @@ async function detectSuspectPosts(): Promise<SuspectPost[]> {
 			location,
 			city,
 			placeId,
-			jaccard: {
-				slugTitle: Number(jST.toFixed(3)),
-				slugLocation: Number(jSL.toFixed(3)),
-				titleLocation: Number(jTL.toFixed(3)),
-			},
-			worstPair,
-			worstScore: Number(worst.toFixed(3)),
+			jaccard: evalResult.jaccard,
+			worstPair: evalResult.worstPair,
+			worstScore: evalResult.worstScore,
 		});
 	}
 	// Worst (lowest score) first so reviewer sees most-suspect at top.

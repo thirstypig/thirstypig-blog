@@ -165,6 +165,15 @@ At a glance:
   field land in `elsewhereCount`, never as a phantom undefined-keyed top
   region. Counts ranked desc, `topN` respected, `sum(top) + elsewhere ==
   posts.length` invariant, empty-list safe.
+- **`src/utils/data-quality.test.ts`** (23 unit assertions) — Cleanup
+  admin screen detection heuristics. Real-bug regressions: Pine & Crane /
+  Wolf & Crane Bar contamination flagged; Rou Jia Mo / A Niang Noodles
+  flagged with CJK token preservation. False-positive guards: Wayback-era
+  descriptive slugs ("World's Best Hainan Chicken Rice") don't fire when
+  title=location. Documented limitation: Garvey-class (title=location-but-
+  both-wrong) is mathematically indistinguishable from the legitimate
+  Wayback pattern; the test pins the ambiguous-signal numbers so a future
+  body-content heuristic can verify it actually distinguishes.
 - **`tests/e2e/archive.spec.ts`** (4 E2E assertions) — `/archive/*`:
   index + year page + year-month page + Archive nav aria-current
 - **`tests/e2e/categories.spec.ts`** (3 E2E assertions) — `/categories/*`:
