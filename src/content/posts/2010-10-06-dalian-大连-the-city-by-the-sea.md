@@ -1,27 +1,26 @@
 ---
-title: 大连银行, Shanghai
-pubDate: '2010-10-06'
+title: '大连, Dalian '
+pubDate: 2010-10-06T00:00:00.000Z
+description: 'Sharehttp://www.addtoany.com/sharesave'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/
 heroImage: /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
-images:
-- /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- shanghai
-description: Sharehttp://www.addtoany.com/sharesave
-archiveUrl: https://web.archive.org/web/20111103144407/http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/
-draft: false
-location: 大连银行
-city: Shanghai
-region: Shanghai
-address: Changning, 上海市
+  - Dalian
+cuisine: []
+city: '大连, Dalian '
+region: ''
+address: ''
 coordinates:
   lat: 31.222464
   lng: 121.426095
-cuisine: []
+images:
+  - /images/posts/dalian-大连-the-city-by-the-sea/Dalian-Sight-Seeing-Day-2-02-88x88.jpg
+originalUrl: 'http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/'
+archiveUrl: 'https://web.archive.org/web/20111103144407/http://www.thethirstypig.com/2010/10/06/dalian-%e5%a4%a7%e8%bf%9e-the-city-by-the-sea/'
+source: thethirstypig.com
+draft: false
 ---
 
 I recently visited Dalian, known as the Hong Kong of the North, just as summer ended. After only a weekend, I realized Dalian is one of the nicest cities. With winter skiing available and summer beach life,
@@ -38,18 +37,18 @@ Also got to visit a rock museum. One thing I learned is that the Chinese value g
 
 Anyways, this is the first part of a series of Dalian.
 
-#gallery-2 {
+\#gallery-2 {
 margin: auto;
 }
-#gallery-2 .gallery-item {
+\#gallery-2 .gallery-item {
 float: left;
 margin-top: 10px;
 text-align: center;
 width: 25%;
 }
-#gallery-2 img {
+\#gallery-2 img {
 border: 2px solid #cfcfcf;
 }
-#gallery-2 .gallery-caption {
+\#gallery-2 .gallery-caption {
 margin-left: 0;
 }
