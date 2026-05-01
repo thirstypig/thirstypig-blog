@@ -1,29 +1,31 @@
 ---
-title: Garlic Ramen . . . OMFG – Ramenya, Sawtelle
-pubDate: '2009-03-17'
+title: 'Ramenya, Sawtelle'
+pubDate: 2009-03-17T00:00:00.000Z
+description: 'One night, I went with my friend to Ramenya. Ramenya is a Japanese Ramen house. It is a small dinky restaurant with great food. My type of place I haven’t been here in a couple of years, but I will al'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/
 heroImage: /images/posts/garlic-ramen-omfg-ramenya/0b4fb1dd014f0101_m.jpg
-images:
-- /images/posts/garlic-ramen-omfg-ramenya/0b4fb1dd014f0101_m.jpg
 categories:
-- Japanese
+  - Japanese
 tags:
-- sawtelle
-- japanese
-- ramen
-- garlic
-description: One night, I went with my friend to Ramenya. Ramenya is a Japanese Ramen house. It is a small dinky restaurant with great food. My type of place I haven’t been here in a couple of years, but I will al
-archiveUrl: https://web.archive.org/web/20110105063837/http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/
-draft: false
-city: Sawtelle
-region: Los Angeles
-address: '11555 W. Olympic Blvd.
-
-  Los Angeles, CA 90064'
+  - sawtelle
+  - japanese
+  - ramen
+  - garlic
 cuisine:
-- Japanese
+  - Japanese
+location: Ramenya
+city: Los Angeles
+region: CA
+address: '11660 Gateway Blvd, Los Angeles, CA 90064, USA'
+coordinates:
+  lat: 34.029001199999996
+  lng: -118.44278000000001
+images:
+  - /images/posts/garlic-ramen-omfg-ramenya/0b4fb1dd014f0101_m.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/'
+archiveUrl: 'https://web.archive.org/web/20110105063837/http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/'
+source: thethirstypig.com
+draft: false
 ---
 
 One night, I went with my friend to Ramenya. Ramenya is a Japanese Ramen house. It is a small dinky restaurant with great food. My type of place! I haven’t been here in a couple of years, but I will always remember this place to have good Ramen.
@@ -41,4 +43,4 @@ Ramenya
 Los Angeles, CA 90064
 310 575 9337
 11:30am – 9:30pm daily
-<http://www.ramenya-usa.com/>
+[http://www.ramenya-usa.com/](http://www.ramenya-usa.com/)
