@@ -1,23 +1,23 @@
 ---
 title: Babybacks in the Winter
-pubDate: '2008-12-30'
+pubDate: 2008-12-30T00:00:00.000Z
+description: 'I don’t know how he does it. . .but my buddy makes some of the best homemade babyback ribs. He is quite unorthodox in his bbq, yet is still tasty and tender. Here are some pictures of the BBQ.'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/
 heroImage: /images/posts/babybacks-in-the-winter/IMG_0363.JPG
-images:
-- /images/posts/babybacks-in-the-winter/IMG_0363.JPG
-- /images/posts/babybacks-in-the-winter/IMG_0364.JPG
 categories:
-- Uncategorized
+  - Uncategorized
 tags:
-- bbq
-- ribs
-description: I don’t know how he does it. . .but my buddy makes some of the best homemade babyback ribs. He is quite unorthodox in his bbq, yet is still tasty and tender. Here are some pictures of the BBQ.
-archiveUrl: https://web.archive.org/web/20110105193223/http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/
-draft: false
-location: Babybacks in the Winter
+  - bbq
+  - ribs
 cuisine: []
+location: Babybacks in the Winter
+images:
+  - /images/posts/babybacks-in-the-winter/IMG_0363.JPG
+  - /images/posts/babybacks-in-the-winter/IMG_0364.JPG
+originalUrl: 'http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/'
+archiveUrl: 'https://web.archive.org/web/20110105193223/http://www.thethirstypig.com/2008/12/30/babybacks-in-the-winter/'
+source: thethirstypig.com
+draft: true
 ---
 
 Babybacks in the Winter.
