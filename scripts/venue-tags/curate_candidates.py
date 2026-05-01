@@ -37,11 +37,16 @@ POSTS_DIR = REPO_ROOT / "src" / "content" / "posts"
 VENUES_PATH = Path(__file__).resolve().parent / "venues.yaml"
 
 # Skip venues whose name matches these patterns — they aren't restaurants.
+#
+# `\bpark(?!')\b` — Python's `\b` treats apostrophe as a non-word boundary,
+# so the naive `\bpark\b` false-matches "Park's BBQ" (a real Korean BBQ in
+# LA). The negative lookahead `(?!')` prevents matching "park" followed by
+# an apostrophe.
 NON_FOOD_PATTERNS = [
     r"\bhotel\b",
     r"\bspa\b",
     r"\bsalon\b",
-    r"\bpark\b",
+    r"\bpark(?!')\b",
     r"\bmuseum\b",
     r"\btheatre\b",
     r"\btheater\b",
@@ -59,6 +64,9 @@ NON_FOOD_PATTERNS = [
     r"\bwestin\b",
     r"\binn\b",
     r"\bresort\b",
+    r"\bservice\b",  # auto service, dry cleaning service, etc.
+    r"\brepair\b",
+    r"\bauto\b",
     r"^old town\b",  # neighborhoods
     r"^downtown\b",
     r"\bbeach$",

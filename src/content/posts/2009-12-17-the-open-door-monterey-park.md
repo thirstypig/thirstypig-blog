@@ -24,7 +24,6 @@ coordinates:
   lat: 34.062731
   lng: -118.122366
 cuisine: []
-placeId: "0x80c2dbb017406cdd:0xe61600284d290ef9"
 ---
 
 Garvey Garage Door Repair in Monterey Park.

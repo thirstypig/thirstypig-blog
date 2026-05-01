@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /posts-admin.json
+Disallow: /data-quality.json
 Disallow: /admin/
 
 Sitemap: https://thirstypig.com/sitemap-index.xml
