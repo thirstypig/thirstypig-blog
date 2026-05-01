@@ -1,26 +1,31 @@
 ---
-title: Orochon, Tokyo
-pubDate: '2009-03-02'
-author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
-heroImage: /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
-images:
-- /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
-categories:
-- Japanese
-tags:
-- tokyo
-- japanese
-- ramen
-- spicy
+title: 'Orochon Ramen, Little Tokyo'
+pubDate: 2009-03-02T00:00:00.000Z
 description: On the subject of Ramen . . . I thought I’d talk about a Orochon
-archiveUrl: https://web.archive.org/web/20110105063918/http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
-draft: false
-city: Tokyo
-region: Tokyo
+author: The Thirsty Pig
+heroImage: /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
+categories:
+  - Japanese
+tags:
+  - tokyo
+  - japanese
+  - ramen
+  - spicy
 cuisine:
-- Japanese
+  - Japanese
+location: Orochon Ramen
+city: Los Angeles
+region: CA
+address: '123 Astronaut Ellison S Onizuka St #303, Los Angeles, CA 90012, USA'
+coordinates:
+  lat: 34.0498942
+  lng: -118.24230940000001
+images:
+  - /images/posts/ass-kicking-ramen-orochon/062920071159.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/'
+archiveUrl: 'https://web.archive.org/web/20110105063918/http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/'
+source: thethirstypig.com
+draft: false
 ---
 
 On the subject of Ramen . . . I thought I’d talk about a Orochon!
@@ -39,4 +44,4 @@ Orochon Ramen
 123 Astronaut E/S Onizuka St
 Los Angeles, CA 90012
 Little Tokyo
-(213) 617-1766<http://www.orochonramen.com/>
+(213) 617-1766[http://www.orochonramen.com/](http://www.orochonramen.com/)
