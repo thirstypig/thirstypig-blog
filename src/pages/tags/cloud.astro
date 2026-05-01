@@ -84,16 +84,8 @@ const rendered: Rendered[] = allChips.map((c, i) => {
 	return { label: c.label, total: c.total, venueCount: c.venueCount, rem, rotation, palette, weight };
 });
 
-// Shuffle the rendered list deterministically so big chips don't all
-// cluster at the top-left. Sort by hash but with a slight bias keeping
-// the very largest chips relatively early — that way the cloud reads
-// dynamically but the eye still lands on hot topics first.
-const shuffled = [...rendered].sort((a, b) => {
-	const ha = hash(a.label) % 1000;
-	const hb = hash(b.label) % 1000;
-	return ha - hb;
-});
-
+// Render in popularity order: biggest tags at top, smallest at bottom.
+// `rendered` derives from `allChips` which is already sorted by total desc.
 const totalChipCount = allChips.length;
 const totalMentions = allChips.reduce((s, c) => s + c.total, 0);
 ---
@@ -118,7 +110,7 @@ const totalMentions = allChips.reduce((s, c) => s + c.total, 0);
 			</p>
 		</header>
 
-		{shuffled.length === 0 ? (
+		{rendered.length === 0 ? (
 			<div class="bg-cream-dark/50 border border-cream-dark rounded-lg p-6">
 				<p class="text-stone">
 					No chip data yet. Run the venue-tags scraper + publisher to populate{' '}
@@ -128,7 +120,7 @@ const totalMentions = allChips.reduce((s, c) => s + c.total, 0);
 		) : (
 			<div class="bg-cream-dark/30 border border-cream-dark rounded-lg p-8 sm:p-10">
 				<ul class="tag-cloud">
-					{shuffled.map(r => {
+					{rendered.map(r => {
 						const colorClass =
 							r.palette === 'rust' ? 'text-rust hover:text-amber'
 							: r.palette === 'amber' ? 'text-amber hover:text-rust'

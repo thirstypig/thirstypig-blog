@@ -19,10 +19,6 @@ interface Props {
 }
 
 const props = Astro.props;
-
-// GA4 measurement ID. Defaults to the production ID; override via
-// PUBLIC_GA4_ID env var for staging or preview environments.
-const GA4_ID = import.meta.env.PUBLIC_GA4_ID || 'G-JVG4TB1BR4';
 ---
 
 <!doctype html>
@@ -38,30 +34,6 @@ const GA4_ID = import.meta.env.PUBLIC_GA4_ID || 'G-JVG4TB1BR4';
 		<meta name="generator" content={Astro.generator} />
 		<!-- Fonts are self-hosted via @fontsource (loaded in global.css) -->
 		<SEO {...props} />
-		<!-- Google AdSense (only loads if pub ID is configured) -->
-		{import.meta.env.PUBLIC_ADSENSE_PUB_ID && (
-			<script
-				async
-				src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${import.meta.env.PUBLIC_ADSENSE_PUB_ID}`}
-				crossorigin="anonymous"
-			/>
-		)}
-		<!-- Google Analytics 4 (gtag.js) — coexists with Vercel Analytics below -->
-		{GA4_ID && (
-			<>
-				<link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
-				<script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${GA4_ID}`}></script>
-				<script is:inline define:vars={{ GA4_ID }}>
-					window.dataLayer = window.dataLayer || [];
-					function gtag(){ dataLayer.push(arguments); }
-					gtag('js', new Date());
-					gtag('config', GA4_ID, {
-						// Anonymize IP and respect Do Not Track signal where browsers still send it
-						anonymize_ip: true,
-					});
-				</script>
-			</>
-		)}
 		<!-- Inline theme init to prevent FOUC -->
 		<script is:inline>
 			(function() {
