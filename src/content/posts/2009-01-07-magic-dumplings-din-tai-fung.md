@@ -1,33 +1,34 @@
 ---
-title: Magic Dumplings, Arcadia
-pubDate: '2009-01-07'
+placeId: '0x80c2dba4bc029da7:0x9509d583d37e5ed6'
+title: 'Din Tai Fung, Arcadia'
+pubDate: 2009-01-07T00:00:00.000Z
+description: 'Steamed Pork Dumplings known as Shaio Long Bao or Xiao Long Bao is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/
 heroImage: /images/posts/magic-dumplings-din-tai-fung/12172006490.jpg
-images:
-- /images/posts/magic-dumplings-din-tai-fung/12172006490.jpg
-- /images/posts/magic-dumplings-din-tai-fung/12172006492.jpg
-- /images/posts/magic-dumplings-din-tai-fung/12172006494.jpg
 categories:
-- Chinese
+  - Chinese
 tags:
-- arcadia
-- chinese
-- dumplings
-- xiao-long-bao
-description: Steamed Pork Dumplings known as Shaio Long Bao or Xiao Long Bao is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve
-archiveUrl: https://web.archive.org/web/20110106034139/http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/
-draft: false
-location: Magic Dumplings
-city: Arcadia
-region: San Gabriel Valley
-address: '1108 S. Baldwin Ave.
-
-  Arcadia, CA 91007'
+  - arcadia
+  - chinese
+  - dumplings
+  - xiao-long-bao
 cuisine:
-- Chinese
-placeId: "0x80c2dba4bc029da7:0x9509d583d37e5ed6"
+  - Chinese
+location: Din Tai Fung 鼎泰豐
+city: Arcadia
+region: CA
+address: '400 S Baldwin Ave, Arcadia, CA 91007, USA'
+coordinates:
+  lat: 34.1347058
+  lng: -118.05227319999999
+images:
+  - /images/posts/magic-dumplings-din-tai-fung/12172006490.jpg
+  - /images/posts/magic-dumplings-din-tai-fung/12172006492.jpg
+  - /images/posts/magic-dumplings-din-tai-fung/12172006494.jpg
+originalUrl: 'http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/'
+archiveUrl: 'https://web.archive.org/web/20110106034139/http://www.thethirstypig.com/2009/01/07/magic-dumplings-din-tai-fung/'
+source: thethirstypig.com
+draft: false
 ---
 
 Steamed Pork Dumplings (known as Shaio Long Bao or Xiao Long Bao) is perfected at this mini-mall restaurant in Arcadia. This gem, Din Tai Fung, has the world’s best steamed dumplings. . . bar none. I’ve had steamed dumplings in Taipei, Hong Kong, the US, and even Shanghai. Though, arguably, people will say the original Din Tai Fung, in Taipei has the best. Everything here is made fresh and never frozen. You can see all the dumplings being made from the large glass window in the front. Anyways. . .
@@ -50,4 +51,4 @@ Din Tai Fung
 1108 S. Baldwin Ave.
 Arcadia, CA 91007
 (626) 574-7068
-<http://www.dintaifungusa.com/>
+[http://www.dintaifungusa.com/](http://www.dintaifungusa.com/)
