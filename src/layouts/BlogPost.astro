@@ -6,7 +6,6 @@ import FormattedDate from '../components/FormattedDate.astro';
 import LocationCard from '../components/LocationCard.astro';
 import VenueTags from '../components/VenueTags.astro';
 import ImageGallery from '../components/ImageGallery.astro';
-import AdSlot from '../components/AdSlot.astro';
 import { getImageInfo } from '../utils/image-dimensions.mjs';
 
 type Props = CollectionEntry<'posts'>['data'];
@@ -83,16 +82,10 @@ const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 		<!-- Venue chips (renders only when placeId has chip data published) -->
 		<VenueTags placeId={placeId} />
 
-		<!-- Ad: between location card and content -->
-		<AdSlot format="horizontal" />
-
 		<!-- Content -->
 		<div class="prose max-w-none">
 			<slot />
 		</div>
-
-		<!-- Ad: after post content -->
-		<AdSlot format="article" />
 
 		<!-- Hero Image (constrained height) -->
 		{heroImage && heroInfo && (

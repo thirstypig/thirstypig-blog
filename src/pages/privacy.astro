@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const lastUpdated = '2026-04-27';
+const lastUpdated = '2026-04-30';
 ---
 
 <BaseLayout
@@ -16,14 +16,16 @@ const lastUpdated = '2026-04-27';
 			<h2>The short version</h2>
 			<p>
 				The Thirsty Pig is a personal food blog. It does not collect, store, or
-				share personal information about you. There are no analytics, no email
-				signups, no cookies that identify you, and no third-party trackers.
+				share personal information about you. The only thing that watches traffic
+				here is <a href="https://vercel.com/docs/analytics" target="_blank" rel="noopener">Vercel
+				Analytics</a>, which is cookieless and only sees a hashed page URL and
+				your country &mdash; never your IP, browser fingerprint, or session.
 			</p>
 
 			<h2>What's actually stored</h2>
 			<ul>
 				<li>
-					<strong>A theme preference cookie</strong> &mdash; If you toggle dark mode,
+					<strong>A theme preference</strong> &mdash; If you toggle dark mode,
 					your browser stores your choice locally so the site remembers next visit.
 					This is held in <code>localStorage</code> on your device. It is not sent
 					to any server. Clearing your browser data removes it.
@@ -35,6 +37,14 @@ const lastUpdated = '2026-04-27';
 					for caching and abuse prevention. These are governed by
 					<a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener">
 						Vercel's privacy policy
+					</a>.
+				</li>
+				<li>
+					<strong>Vercel Analytics (cookieless)</strong> &mdash; Each pageview is
+					counted with a hashed URL plus a coarse country code. No cookies are set;
+					no IP is stored long-term; no cross-site profile is built. See
+					<a href="https://vercel.com/docs/analytics/privacy-policy" target="_blank" rel="noopener">
+						Vercel Analytics privacy policy
 					</a>.
 				</li>
 			</ul>
