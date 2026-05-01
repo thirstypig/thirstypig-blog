@@ -1,30 +1,34 @@
 ---
-title: Breakfast Club, Mammoth
-pubDate: '2009-01-30'
+placeId: '0x80960dcd4544a2c5:0x1bd6b7d1e34c9831'
+title: 'Breakfast Club, Mammoth'
+pubDate: 2009-01-30T00:00:00.000Z
+description: 'this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called brea'
 author: The Thirsty Pig
-source: thethirstypig.com
-originalUrl: http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/
 heroImage: /images/posts/breakfast-gem-in-mammoth/IMG_0175.JPG
-images:
-- /images/posts/breakfast-gem-in-mammoth/IMG_0175.JPG
-- /images/posts/breakfast-gem-in-mammoth/IMG_0176.JPG
-- /images/posts/breakfast-gem-in-mammoth/IMG_0177.JPG
 categories:
-- Mexican
-description: this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called brea
-archiveUrl: https://web.archive.org/web/20110105203807/http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/
-draft: false
-location: Breakfast Gem in Mammoth
-address: 2987 Main St
+  - Mexican
 tags:
-- mammoth
-- mexican
-- brunch
-- omelets
-city: Mammoth
+  - mammoth
+  - mexican
+  - brunch
+  - omelets
 cuisine:
-- Mexican
-placeId: "0x80960dcd4544a2c5:0x1bd6b7d1e34c9831"
+  - Mexican
+location: Breakfast Club
+city: Mammoth Lakes
+region: CA
+address: '2987 Main St, Mammoth Lakes, CA 93546, USA'
+coordinates:
+  lat: 37.64645
+  lng: -118.96529179999999
+images:
+  - /images/posts/breakfast-gem-in-mammoth/IMG_0175.JPG
+  - /images/posts/breakfast-gem-in-mammoth/IMG_0176.JPG
+  - /images/posts/breakfast-gem-in-mammoth/IMG_0177.JPG
+originalUrl: 'http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/'
+archiveUrl: 'https://web.archive.org/web/20110105203807/http://www.thethirstypig.com/2009/01/30/breakfast-gem-in-mammoth/'
+source: thethirstypig.com
+draft: false
 ---
 
 this is my first post, as recent dining experiences have been less than fruitful. we headed up to mammoth for a weekend of boarding. on the way back we stopped at a popular breakfast joint called breakfast club. yes it’s a cute and punny name. kinda makes me wanna barf. fortunately, the food does not.
