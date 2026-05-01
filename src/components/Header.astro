@@ -9,6 +9,7 @@ const navItems = [
 	{ href: '/posts/', label: 'Posts', testId: 'nav-posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
 	{ href: '/cities', label: 'Cities', testId: 'nav-cities', isActive: pathname.startsWith('/cities') },
 	{ href: '/map', label: 'Map', testId: 'nav-map', isActive: pathname === '/map' },
+	{ href: '/tags/cloud', label: 'Tags', testId: 'nav-tags', isActive: pathname.startsWith('/tags') },
 	{ href: '/cuisine', label: 'Cuisine', testId: 'nav-cuisine', isActive: pathname.startsWith('/cuisine') || pathname.startsWith('/best-of') },
 	{ href: '/hitlist', label: 'Hit List', testId: 'nav-hitlist', isActive: pathname === '/hitlist' },
 	{ href: '/about', label: 'About', testId: 'nav-about', isActive: pathname === '/about' },
