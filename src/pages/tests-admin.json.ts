@@ -137,6 +137,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "e2e",
 		covers: "Build-time JSON schema + self-consistency — /tests-admin.json (counters match entries; no dashboard lies), /stats.json (StatsDashboard keys + image-stats invariant), /posts-admin.json (12-field PostManager shape), /search.json (WebP metadata for every heroImage — PR #40 guard), /places-hitlist.json (priority 1-3)",
 	},
+	"tests/e2e/tag-cloud.spec.ts": {
+		kind: "e2e",
+		covers: "Tag cloud (PR #98) — Tags nav link routes to /tags/cloud and lights up aria-current, page renders ≥5 chips (smoke for venue-tags pipeline + aggregator), first chip has larger inline --rem font-size than last chip (regression guard against shuffle reintroduction or sort flip)",
+	},
 };
 
 // --- Auto-count assertions per test file -----------------------------------
