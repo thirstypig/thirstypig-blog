@@ -11,7 +11,9 @@ const REPO_NAME = "jameschang.co";
 const FILE_PATH = "bucketlist.json";
 const PUBLIC_URL = "https://jameschang.co/bucketlist/";
 const PUBLIC_JSON = "https://jameschang.co/bucketlist.json";
-const TOKEN_KEY = "bucketlist-github-pat";
+// Shared with HitListManager so one PAT entry covers both screens.
+const TOKEN_KEY = "thirstypig-admin-pat";
+const LEGACY_TOKEN_KEY = "bucketlist-github-pat";
 
 type Priority = "high" | "medium" | "low" | null;
 type Difficulty = "easy" | "hard" | null;
@@ -264,7 +266,15 @@ export default function BucketListManager() {
 
   // Initial load.
   useEffect(() => {
-    const saved = sessionStorage.getItem(TOKEN_KEY);
+    let saved = sessionStorage.getItem(TOKEN_KEY);
+    if (!saved) {
+      // Migrate from per-manager legacy key once.
+      const legacy = sessionStorage.getItem(LEGACY_TOKEN_KEY);
+      if (legacy) {
+        sessionStorage.setItem(TOKEN_KEY, legacy);
+        saved = legacy;
+      }
+    }
     if (saved) {
       setToken(saved);
       reload(saved);
@@ -496,8 +506,10 @@ export default function BucketListManager() {
         <div style={s.card}>
           <div style={s.cardTitle}>GitHub Token Required</div>
           <p style={s.helpText}>
-            Paste a fine-grained PAT scoped to <strong>{REPO_OWNER}/{REPO_NAME}</strong> with{" "}
-            <strong>Contents: Read and write</strong>. Stored in sessionStorage and cleared when this tab closes.
+            Paste a fine-grained PAT scoped to <strong>both</strong>{" "}
+            <strong>thirstypig-blog</strong> AND <strong>jameschang.co</strong> with{" "}
+            <strong>Contents: Read and write</strong>. The same token covers the Hit List Manager too.
+            Stored in sessionStorage and cleared when this tab closes.
           </p>
           <p style={s.helpText}>
             Create one at{" "}

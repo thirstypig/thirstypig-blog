@@ -13,7 +13,10 @@ export const HitListIcon = () => (
 const REPO_OWNER = "thirstypig";
 const REPO_NAME = "thirstypig-blog";
 const FILE_PATH = "src/data/places-hitlist.yaml";
-const TOKEN_KEY = "hitlist-github-pat";
+// Shared with BucketListManager so one PAT entry covers both screens.
+// Same sessionStorage key, same scope guidance (Contents: R+W on both repos).
+const TOKEN_KEY = "thirstypig-admin-pat";
+const LEGACY_TOKEN_KEY = "hitlist-github-pat";
 
 // Tina's Vite build replaces process.env with a literal containing TINA_PUBLIC_*
 // vars. Direct property access (no optional chaining) is required.
@@ -461,7 +464,16 @@ export default function HitListManager() {
   useEffect(() => {
     // sessionStorage (not localStorage) so the PAT dies when the tab closes,
     // narrowing the blast radius of any XSS on /admin.
-    const saved = sessionStorage.getItem(TOKEN_KEY);
+    let saved = sessionStorage.getItem(TOKEN_KEY);
+    if (!saved) {
+      // One-time migration from legacy key — copies forward so a user already
+      // in a session doesn't have to re-enter when this rolls out.
+      const legacy = sessionStorage.getItem(LEGACY_TOKEN_KEY);
+      if (legacy) {
+        sessionStorage.setItem(TOKEN_KEY, legacy);
+        saved = legacy;
+      }
+    }
     if (saved) setToken(saved);
     else setShowTokenForm(true);
     loadList();
@@ -658,7 +670,8 @@ export default function HitListManager() {
               github.com/settings/personal-access-tokens/new
             </a>
             <br />
-            Scope: <strong>Only select repositories → thirstypig-blog</strong>.
+            Scope: <strong>Only select repositories → thirstypig-blog</strong> AND <strong>jameschang.co</strong>{" "}
+            (so the same token also covers the Bucket List Manager).
             Permission: <strong>Repository permissions → Contents → Read and write</strong>.
           </p>
           <div style={{ ...s.row, marginTop: 12 }}>
