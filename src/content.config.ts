@@ -44,6 +44,10 @@ const hitlist = defineCollection({
 		notes: z.string().optional(),
 		links: z.record(z.string(), z.string().nullable()).default({}),
 		tags: z.array(z.string()).default([]),
+		// Google Places (New API) place ID, e.g. "ChIJN1t_tDeuEmsRUsoyG83frY4".
+		// Different format from posts.placeId (FID hex pair) — captured here so a
+		// future job can resolve it to FID and join hitlist items to /venue-tags/.
+		place_id: z.string().optional(),
 	}),
 });
 

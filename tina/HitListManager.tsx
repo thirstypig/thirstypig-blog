@@ -1,5 +1,10 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useState, useEffect, useRef, useCallback } from "react";
 import { parseDocument, visit, isScalar, isSeq, Scalar, YAMLSeq } from "yaml";
+import {
+  formToEntry,
+  type HitListEntry,
+  type HitListFormState as FormState,
+} from "../src/utils/hitlist-entry";
 
 export const HitListIcon = () => (
   <span style={{ fontSize: 16, lineHeight: 1 }}>&#x1F3AF;</span>
@@ -10,17 +15,39 @@ const REPO_NAME = "thirstypig-blog";
 const FILE_PATH = "src/data/places-hitlist.yaml";
 const TOKEN_KEY = "hitlist-github-pat";
 
-// Shape used when serializing to YAML (matches on-disk format)
-interface HitListEntry {
-  id: string;
+// Tina's Vite build replaces process.env with a literal containing TINA_PUBLIC_*
+// vars. Direct property access (no optional chaining) is required.
+const GOOGLE_API_KEY: string = process.env.TINA_PUBLIC_GOOGLE_PLACES_API_KEY || "";
+
+let googleMapsLoadPromise: Promise<void> | null = null;
+function loadGoogleMaps(): Promise<void> {
+  if (googleMapsLoadPromise) return googleMapsLoadPromise;
+  if (typeof google !== "undefined" && google.maps?.places?.Place) {
+    return Promise.resolve();
+  }
+  googleMapsLoadPromise = new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=weekly`;
+    script.async = true;
+    script.onload = () => resolve();
+    script.onerror = () => {
+      googleMapsLoadPromise = null;
+      reject(new Error("Failed to load Google Maps SDK"));
+    };
+    document.head.appendChild(script);
+  });
+  return googleMapsLoadPromise;
+}
+
+interface PlaceSuggestion {
+  placeId: string;
   name: string;
-  neighborhood?: string;
+  address: string;
+  neighborhood: string;
   city: string;
-  priority: number;
-  date_added: string;
-  notes?: string;
-  links: Record<string, string | null>;
-  tags: string[];
+  // Held to defer the Contact-tier fetchFields() call until the user picks one
+  // result instead of paying it across every search hit.
+  raw: google.maps.places.Place;
 }
 
 // Shape returned by /places-hitlist.json (camelCase, no null link values)
@@ -36,21 +63,6 @@ interface HitListDisplayItem {
   tags: string[];
 }
 
-interface FormState {
-  name: string;
-  neighborhood: string;
-  city: string;
-  priority: number;
-  notes: string;
-  yelp: string;
-  google: string;
-  instagram: string;
-  resy: string;
-  opentable: string;
-  website: string;
-  tags: string;
-}
-
 const emptyForm: FormState = {
   name: "",
   neighborhood: "",
@@ -64,6 +76,7 @@ const emptyForm: FormState = {
   opentable: "",
   website: "",
   tags: "",
+  placeId: "",
 };
 
 const s = {
@@ -177,55 +190,6 @@ const s = {
   link: { color: "#2563eb", textDecoration: "none" } as React.CSSProperties,
 };
 
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .trim()
-    .replace(/[^a-z0-9\s-]/g, "")
-    .replace(/\s+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^-|-$/g, "")
-    .slice(0, 50);
-}
-
-function formToEntry(form: FormState, existingIds: Set<string>): HitListEntry {
-  let id = slugify(form.name);
-  if (existingIds.has(id)) {
-    let n = 2;
-    while (existingIds.has(`${id}-${n}`)) n++;
-    id = `${id}-${n}`;
-  }
-  const today = new Date().toISOString().split("T")[0];
-
-  const links: Record<string, string> = {};
-  if (form.yelp.trim()) links.yelp = form.yelp.trim();
-  if (form.google.trim()) links.google = form.google.trim();
-  if (form.instagram.trim()) links.instagram = form.instagram.trim();
-  if (form.resy.trim()) links.resy = form.resy.trim();
-  if (form.opentable.trim()) links.opentable = form.opentable.trim();
-  if (form.website.trim()) links.website = form.website.trim();
-
-  const tags = form.tags
-    .split(",")
-    .map(t => t.trim().toLowerCase())
-    .filter(Boolean);
-
-  const entry: HitListEntry = {
-    id,
-    name: form.name.trim(),
-    city: form.city.trim(),
-    priority: form.priority,
-    date_added: today,
-    links,
-    tags,
-  };
-
-  if (form.neighborhood.trim()) entry.neighborhood = form.neighborhood.trim();
-  if (form.notes.trim()) entry.notes = form.notes.trim();
-
-  return entry;
-}
-
 // Decode base64 as UTF-8. `atob` returns a Latin-1 binary string; naively using
 // it as text corrupts any multi-byte char (é, í, 川…) on every round-trip.
 function base64ToUtf8(b64: string): string {
@@ -270,6 +234,213 @@ async function githubPut(token: string, newContent: string, sha: string, message
     }
   );
   if (!resp.ok) throw new Error(`GitHub PUT failed: ${resp.status} ${resp.statusText}`);
+}
+
+interface SelectedPlace {
+  name: string;
+  neighborhood: string;
+  city: string;
+  placeId: string;
+  website: string;
+  googleMapsUrl: string;
+}
+
+function NameAutocomplete(props: {
+  value: string;
+  onChange: (val: string) => void;
+  onSelect: (place: SelectedPlace) => void;
+}) {
+  const { value, onChange, onSelect } = props;
+  const [results, setResults] = useState<PlaceSuggestion[]>([]);
+  const [searching, setSearching] = useState(false);
+  const [showResults, setShowResults] = useState(false);
+  const [ready, setReady] = useState(false);
+  const [error, setError] = useState("");
+  const debounceTimer = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const [dropdownPos, setDropdownPos] = useState({ top: 0, left: 0, width: 0 });
+
+  useEffect(() => {
+    if (!GOOGLE_API_KEY) {
+      // No key configured — degrade silently to a plain text input. The error
+      // is still surfaced as helper text so the operator can fix it.
+      setError("No Google Places key set (TINA_PUBLIC_GOOGLE_PLACES_API_KEY) — autocomplete disabled.");
+      return;
+    }
+    loadGoogleMaps()
+      .then(() => setReady(true))
+      .catch(e => setError(String(e)));
+    return () => {
+      if (debounceTimer.current) clearTimeout(debounceTimer.current);
+    };
+  }, []);
+
+  const search = useCallback(async (query: string) => {
+    if (query.length < 3 || !ready) {
+      setResults([]);
+      return;
+    }
+    setSearching(true);
+    setError("");
+    try {
+      const { Place } = google.maps.places;
+      const { places } = await Place.searchByText({
+        textQuery: query,
+        // Keep this list lean — anything beyond Basic data tier multiplies cost
+        // by the result count. Contact fields (websiteURI, googleMapsURI) are
+        // fetched lazily on the row the user actually selects.
+        fields: ["id", "displayName", "formattedAddress", "addressComponents"],
+        locationBias: new google.maps.Circle({
+          center: { lat: 34.0522, lng: -118.2437 },
+          radius: 50000,
+        }),
+        maxResultCount: 5,
+        language: "en",
+      });
+      const mapped: PlaceSuggestion[] = (places || []).map((place) => {
+        const components = place.addressComponents || [];
+        const findType = (...types: string[]) =>
+          components.find((c) => types.some((t) => c.types?.includes(t)));
+        const neighborhood =
+          findType("neighborhood")?.longText ||
+          findType("sublocality_level_1", "sublocality")?.longText ||
+          "";
+        const city = findType("locality")?.longText || "";
+        return {
+          placeId: place.id || "",
+          name: place.displayName || "",
+          address: place.formattedAddress || "",
+          neighborhood,
+          city,
+          raw: place,
+        };
+      });
+      setResults(mapped);
+      setShowResults(mapped.length > 0);
+      if (inputRef.current && mapped.length > 0) {
+        const rect = inputRef.current.getBoundingClientRect();
+        setDropdownPos({ top: rect.bottom + 4, left: rect.left, width: rect.width });
+      }
+    } catch (e: unknown) {
+      const msg = e instanceof Error ? e.message : String(e);
+      if (msg.includes("ZERO_RESULTS") || msg.includes("not find")) {
+        setResults([]);
+      } else {
+        setError(`Google Places: ${msg}`);
+      }
+    } finally {
+      setSearching(false);
+    }
+  }, [ready]);
+
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const val = e.target.value;
+    onChange(val);
+    if (debounceTimer.current) clearTimeout(debounceTimer.current);
+    debounceTimer.current = setTimeout(() => search(val), 400);
+  };
+
+  const handlePick = async (suggestion: PlaceSuggestion) => {
+    setShowResults(false);
+    setResults([]);
+    let website = "";
+    let googleMapsUrl = "";
+    try {
+      // One Contact-tier call for the picked place — gives us website + canonical
+      // Google Maps URL without paying it across every search result.
+      await suggestion.raw.fetchFields({ fields: ["websiteURI", "googleMapsURI"] });
+      website = suggestion.raw.websiteURI || "";
+      googleMapsUrl = suggestion.raw.googleMapsURI || "";
+    } catch {
+      // Non-fatal — operator can paste the URLs manually.
+    }
+    onSelect({
+      name: suggestion.name,
+      neighborhood: suggestion.neighborhood,
+      city: suggestion.city,
+      placeId: suggestion.placeId,
+      website,
+      googleMapsUrl,
+    });
+  };
+
+  return (
+    <div style={{ position: "relative" }}>
+      <input
+        ref={inputRef}
+        type="text"
+        value={value}
+        onChange={handleChange}
+        onFocus={() => {
+          if (results.length > 0) setShowResults(true);
+          if (inputRef.current) {
+            const rect = inputRef.current.getBoundingClientRect();
+            setDropdownPos({ top: rect.bottom + 4, left: rect.left, width: rect.width });
+          }
+        }}
+        onBlur={() => setTimeout(() => setShowResults(false), 200)}
+        style={s.input}
+        placeholder={ready ? "Type to search Google Places..." : "Sushi Onodera"}
+        required
+      />
+      {searching && (
+        <span style={{ fontSize: 11, color: "#9ca3af", marginTop: 4 }}>Searching…</span>
+      )}
+      {error && (
+        <p style={{ fontSize: 11, color: "#b91c1c", margin: "4px 0 0" }}>{error}</p>
+      )}
+      {showResults && results.length > 0 && (
+        <div
+          style={{
+            position: "fixed",
+            top: dropdownPos.top,
+            left: dropdownPos.left,
+            width: dropdownPos.width || "100%",
+            background: "#ffffff",
+            border: "1px solid #d1d5db",
+            borderRadius: 8,
+            boxShadow: "0 8px 24px rgba(0,0,0,0.18)",
+            zIndex: 99999,
+            maxHeight: 320,
+            overflowY: "auto",
+          }}
+        >
+          {results.map((r, i) => (
+            <button
+              key={r.placeId || i}
+              type="button"
+              onMouseDown={(e) => e.preventDefault()}
+              onClick={() => handlePick(r)}
+              style={{
+                display: "block",
+                width: "100%",
+                textAlign: "left",
+                padding: "10px 14px",
+                border: "none",
+                borderBottom: i < results.length - 1 ? "1px solid #e5e7eb" : "none",
+                background: "transparent",
+                cursor: "pointer",
+                fontSize: 13,
+                lineHeight: 1.4,
+              }}
+              onMouseEnter={(e) => (e.currentTarget.style.background = "#f3f4f6")}
+              onMouseLeave={(e) => (e.currentTarget.style.background = "transparent")}
+            >
+              <div style={{ fontWeight: 600, color: "#111827", marginBottom: 2 }}>
+                {r.name}
+              </div>
+              <div style={{ color: "#6b7280", fontSize: 12 }}>{r.address}</div>
+              {(r.neighborhood || r.city) && (
+                <div style={{ color: "#9ca3af", fontSize: 11, marginTop: 2 }}>
+                  {[r.neighborhood, r.city].filter(Boolean).join(" · ")}
+                </div>
+              )}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
 }
 
 export default function HitListManager() {
@@ -522,13 +693,25 @@ export default function HitListManager() {
         <div style={s.row}>
           <div style={s.field}>
             <label style={s.label}>Name *</label>
-            <input
-              type="text"
+            <NameAutocomplete
               value={form.name}
-              onChange={e => updateForm("name", e.target.value)}
-              style={s.input}
-              placeholder="Sushi Onodera"
-              required
+              onChange={(val) =>
+                // Manual edits invalidate the previously-picked place_id —
+                // clear it so we don't ship a stale ChIJ id with a renamed venue.
+                setForm((f) => ({ ...f, name: val, placeId: "" }))
+              }
+              onSelect={(place) =>
+                setForm((f) => ({
+                  ...f,
+                  name: place.name,
+                  neighborhood: place.neighborhood || f.neighborhood,
+                  city: place.city || f.city,
+                  // Don't clobber URLs the operator already pasted.
+                  website: f.website || place.website,
+                  google: f.google || place.googleMapsUrl,
+                  placeId: place.placeId,
+                }))
+              }
             />
           </div>
           <div style={s.field}>
