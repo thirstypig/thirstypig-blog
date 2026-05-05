@@ -8,7 +8,7 @@
     },
     {
       "label": "vegan donuts",
-      "mention_count": 68
+      "mention_count": 67
     },
     {
       "label": "creme brulee donut",
@@ -43,7 +43,7 @@
       "mention_count": 26
     }
   ],
-  "scraped_at": "2026-04-29T18:47:23Z",
+  "scraped_at": "2026-05-05T16:12:39Z",
   "city": "Los Angeles",
   "key": "donut-friend-la"
 }

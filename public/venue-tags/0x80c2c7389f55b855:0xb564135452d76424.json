@@ -11,15 +11,15 @@
       "mention_count": 34
     },
     {
-      "label": "crispy rice salad",
-      "mention_count": 14
-    },
-    {
       "label": "Pad See EW Gai",
       "mention_count": 21
     },
     {
       "label": "Som Tum Papaya Salad",
+      "mention_count": 13
+    },
+    {
+      "label": "crispy rice salad",
       "mention_count": 13
     },
     {
@@ -31,19 +31,19 @@
       "mention_count": 10
     },
     {
-      "label": "natural wine",
-      "mention_count": 10
-    },
-    {
       "label": "free spring rolls",
       "mention_count": 3
     },
     {
       "label": "wings",
       "mention_count": 12
+    },
+    {
+      "label": "sweet potato massaman curry",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:13:39Z",
+  "scraped_at": "2026-05-05T16:12:28Z",
   "city": "Los Angeles",
   "key": "night-market-hollywood"
 }

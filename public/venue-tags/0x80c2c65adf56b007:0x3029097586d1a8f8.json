@@ -7,12 +7,12 @@
       "mention_count": 34
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 3
+      "label": "crawfish mac and cheese",
+      "mention_count": 18
     },
     {
-      "label": "crawfish mac and cheese",
-      "mention_count": 17
+      "label": "outdoor seating",
+      "mention_count": 3
     },
     {
       "label": "fried shrimp po boy",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-28T21:45:39Z",
+  "scraped_at": "2026-05-05T16:08:33Z",
   "city": "Los Angeles",
   "key": "little-jewel-no-la"
 }

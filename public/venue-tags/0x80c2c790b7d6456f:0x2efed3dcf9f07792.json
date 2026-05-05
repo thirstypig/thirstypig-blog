@@ -3,12 +3,12 @@
   "venue_name": "King Taco # 10",
   "chips": [
     {
-      "label": "sopes",
-      "mention_count": 101
-    },
-    {
       "label": "Tacos Al Pastor Y Carne Asada",
       "mention_count": 62
+    },
+    {
+      "label": "sopes",
+      "mention_count": 101
     },
     {
       "label": "carne asada burrito",
@@ -23,16 +23,16 @@
       "mention_count": 39
     },
     {
+      "label": "all meat burrito",
+      "mention_count": 15
+    },
+    {
       "label": "suadero tacos",
       "mention_count": 11
     },
     {
       "label": "chicharron tacos",
       "mention_count": 10
-    },
-    {
-      "label": "all meat burrito",
-      "mention_count": 7
     },
     {
       "label": "red sauce",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T06:12:56Z",
+  "scraped_at": "2026-05-05T16:38:29Z",
   "city": "Los Angeles",
   "key": "king-taco-los-angele"
 }

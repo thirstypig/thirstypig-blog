@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "hainan chicken",
-      "mention_count": 426
+      "mention_count": 427
     },
     {
       "label": "cash only",
@@ -15,16 +15,20 @@
       "mention_count": 37
     },
     {
-      "label": "ginger sauce",
-      "mention_count": 19
+      "label": "escargot",
+      "mention_count": 18
     },
     {
       "label": "indoor seating",
       "mention_count": 15
     },
     {
-      "label": "Escargot",
-      "mention_count": 18
+      "label": "ginger sauce",
+      "mention_count": 19
+    },
+    {
+      "label": "chicken soup",
+      "mention_count": 33
     },
     {
       "label": "curry",
@@ -35,15 +39,11 @@
       "mention_count": 7
     },
     {
-      "label": "dark meat",
-      "mention_count": 19
-    },
-    {
-      "label": "dipping sauces",
-      "mention_count": 14
+      "label": "spicy sauce",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-30T00:15:08Z",
+  "scraped_at": "2026-05-05T16:14:05Z",
   "city": "Hong Kong",
   "key": "worlds-best-海南雞飯-hainan-chicken-ric-hong-kong"
 }

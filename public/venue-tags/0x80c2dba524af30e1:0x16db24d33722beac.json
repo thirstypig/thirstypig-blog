@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "soup dumplings",
-      "mention_count": 250
+      "mention_count": 252
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 26
     },
     {
       "label": "quick seating",
       "mention_count": 5
     },
     {
-      "label": "spicy wontons",
-      "mention_count": 23
-    },
-    {
-      "label": "red bean buns",
-      "mention_count": 16
+      "label": "cucumber salad",
+      "mention_count": 29
     },
     {
       "label": "outdoor dining",
       "mention_count": 3
     },
     {
-      "label": "Cucumber Salad",
-      "mention_count": 29
-    },
-    {
       "label": "garlic green beans",
       "mention_count": 13
-    },
-    {
-      "label": "bar seating",
-      "mention_count": 10
     },
     {
       "label": "beef noodle soup",
       "mention_count": 28
     },
     {
+      "label": "bar seating",
+      "mention_count": 10
+    },
+    {
       "label": "potstickers",
       "mention_count": 18
+    },
+    {
+      "label": "chocolate dumplings",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-04-28T17:30:58Z",
+  "scraped_at": "2026-05-05T16:07:20Z",
   "city": "Arcadia",
   "key": "din-tai-fung-arcadia"
 }

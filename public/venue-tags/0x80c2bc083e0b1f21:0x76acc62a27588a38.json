@@ -4,18 +4,18 @@
   "chips": [
     {
       "label": "garlic noodles",
-      "mention_count": 100
+      "mention_count": 101
     },
     {
       "label": "dungeness crab",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "outdoor seating",
       "mention_count": 11
     },
     {
-      "label": "Tuna Cigars",
+      "label": "tuna cigars",
       "mention_count": 12
     },
     {
@@ -24,7 +24,11 @@
     },
     {
       "label": "beignets",
-      "mention_count": 9
+      "mention_count": 10
+    },
+    {
+      "label": "salmon sashimi",
+      "mention_count": 7
     },
     {
       "label": "lobster",
@@ -37,13 +41,9 @@
     {
       "label": "birthday celebration",
       "mention_count": 45
-    },
-    {
-      "label": "wontons",
-      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T05:22:51Z",
+  "scraped_at": "2026-05-05T16:20:01Z",
   "city": "Beverly Hills",
   "key": "crustacean-beverly-hills-beverly-hi"
 }

@@ -16,7 +16,7 @@
     },
     {
       "label": "pastrami",
-      "mention_count": 143
+      "mention_count": 144
     },
     {
       "label": "matzo ball soup",
@@ -24,7 +24,7 @@
     },
     {
       "label": "rye bread",
-      "mention_count": 43
+      "mention_count": 44
     },
     {
       "label": "potato pancakes",
@@ -36,14 +36,14 @@
     },
     {
       "label": "potato salad",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "bagels",
-      "mention_count": 25
+      "mention_count": 24
     }
   ],
-  "scraped_at": "2026-04-28T04:44:44Z",
+  "scraped_at": "2026-05-05T16:07:03Z",
   "city": "Los Angeles",
   "key": "canters-deli-la"
 }

@@ -3,10 +3,6 @@
   "venue_name": "Legacy Taipei",
   "chips": [
     {
-      "label": "performance space",
-      "mention_count": 65
-    },
-    {
       "label": "lighting",
       "mention_count": 11
     },
@@ -19,31 +15,35 @@
       "mention_count": 18
     },
     {
-      "label": "chuan music exhibition space",
-      "mention_count": 3
+      "label": "performance space",
+      "mention_count": 17
+    },
+    {
+      "label": "performance venue",
+      "mention_count": 22
     },
     {
       "label": "concert",
       "mention_count": 29
     },
     {
-      "label": "performance venue",
-      "mention_count": 21
-    },
-    {
       "label": "venue size",
       "mention_count": 12
+    },
+    {
+      "label": "performance atmosphere",
+      "mention_count": 9
     },
     {
       "label": "rock zone",
       "mention_count": 3
     },
     {
-      "label": "performance atmosphere",
-      "mention_count": 8
+      "label": "watching performances",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-29T18:05:29Z",
+  "scraped_at": "2026-05-05T16:09:13Z",
   "city": "Taipei",
   "key": "legacy-taipei-taipei"
 }

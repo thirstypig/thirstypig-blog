@@ -3,8 +3,8 @@
   "venue_name": "Bonjuk",
   "chips": [
     {
-      "label": "porridge",
-      "mention_count": 50
+      "label": "rice porridge",
+      "mention_count": 11
     },
     {
       "label": "banchan",
@@ -16,10 +16,6 @@
     },
     {
       "label": "dongchimi broth",
-      "mention_count": 2
-    },
-    {
-      "label": "rice porridge",
       "mention_count": 2
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "new location",
       "mention_count": 6
+    },
+    {
+      "label": "fresh made food",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:16:46Z",
+  "scraped_at": "2026-05-05T16:15:19Z",
   "city": "Koreatown",
   "key": "abalone-congee-koreatown"
 }

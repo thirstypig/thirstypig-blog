@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pork ribs",
-      "mention_count": 46
+      "mention_count": 47
     },
     {
       "label": "tra bento",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:29:01Z",
+  "scraped_at": "2026-05-05T16:23:45Z",
   "city": "Taipei",
   "key": "台鐵便當本鋪-taipei"
 }

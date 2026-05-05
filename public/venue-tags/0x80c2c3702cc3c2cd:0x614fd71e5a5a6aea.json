@@ -23,12 +23,12 @@
       "mention_count": 2
     },
     {
-      "label": "home cooking",
-      "mention_count": 6
-    },
-    {
       "label": "sandwich",
       "mention_count": 12
+    },
+    {
+      "label": "home cooking",
+      "mention_count": 6
     },
     {
       "label": "curry",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-29T18:10:08Z",
+  "scraped_at": "2026-05-05T16:12:14Z",
   "city": "Pasadena",
   "key": "rotisserie-chicken-of-california-pasadena"
 }

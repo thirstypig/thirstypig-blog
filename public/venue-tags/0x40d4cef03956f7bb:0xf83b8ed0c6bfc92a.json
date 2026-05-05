@@ -3,12 +3,12 @@
   "venue_name": "Favorite Uncle",
   "chips": [
     {
-      "label": "napoleon cake",
-      "mention_count": 24
-    },
-    {
       "label": "shakshuka",
       "mention_count": 43
+    },
+    {
+      "label": "napoleon cake",
+      "mention_count": 24
     },
     {
       "label": "hummus",
@@ -19,6 +19,10 @@
       "mention_count": 16
     },
     {
+      "label": "cocktails",
+      "mention_count": 107
+    },
+    {
       "label": "kebab",
       "mention_count": 36
     },
@@ -27,23 +31,19 @@
       "mention_count": 77
     },
     {
+      "label": "pitas",
+      "mention_count": 29
+    },
+    {
       "label": "delicious cuisine",
       "mention_count": 279
     },
     {
-      "label": "okroshka",
-      "mention_count": 7
-    },
-    {
-      "label": "lazy dumplings",
-      "mention_count": 7
-    },
-    {
-      "label": "babaganoush",
-      "mention_count": 7
+      "label": "desserts",
+      "mention_count": 130
     }
   ],
-  "scraped_at": "2026-04-30T05:25:50Z",
+  "scraped_at": "2026-05-05T16:22:19Z",
   "city": "Shanghai",
   "key": "my-favorite-uncle-shanghai"
 }

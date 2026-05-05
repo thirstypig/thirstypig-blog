@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "burrata",
-      "mention_count": 50
+      "mention_count": 51
     },
     {
       "label": "ice cream sandwich",
@@ -43,7 +43,7 @@
       "mention_count": 18
     }
   ],
-  "scraped_at": "2026-04-30T06:16:29Z",
+  "scraped_at": "2026-05-05T16:40:12Z",
   "city": "Austin",
   "key": "launderette-austin"
 }

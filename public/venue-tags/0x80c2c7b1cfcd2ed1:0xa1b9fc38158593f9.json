@@ -4,7 +4,15 @@
   "chips": [
     {
       "label": "friendly staff",
-      "mention_count": 49
+      "mention_count": 50
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 25
+    },
+    {
+      "label": "pool",
+      "mention_count": 15
     },
     {
       "label": "jacuzzi",
@@ -27,23 +35,15 @@
       "mention_count": 9
     },
     {
-      "label": "gym",
+      "label": "kind staff",
       "mention_count": 12
-    },
-    {
-      "label": "pool",
-      "mention_count": 7
-    },
-    {
-      "label": "cleanliness",
-      "mention_count": 11
     },
     {
       "label": "conference room",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:21:02Z",
+  "scraped_at": "2026-05-05T16:18:00Z",
   "city": "Downtown LA",
   "key": "luxury-suite-in-downtown-los-angele-downtown-l"
 }

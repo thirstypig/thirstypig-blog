@@ -12,7 +12,7 @@
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 70
+      "mention_count": 63
     },
     {
       "label": "zucchini fries",
@@ -43,7 +43,7 @@
       "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-30T00:20:51Z",
+  "scraped_at": "2026-05-05T16:17:55Z",
   "city": "Pasadena",
   "key": "my-favorite-breakfast-burrito-from--pasadena"
 }

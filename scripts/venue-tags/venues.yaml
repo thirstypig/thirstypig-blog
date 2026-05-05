@@ -930,6 +930,7 @@ San Gabriel, CA 91776"
   name: "L'Amour Cafe"
   city: "Monterey Park"
   query: "L'Amour Cafe 230 N Garfield Ave, Monterey Park, CA 91754"
+  place_id: "0x80c2c550bfcdf371:0x41dca79a6ab5438b"
   cid: "4745852388998726539"
 
 # [1 posts]
@@ -1515,6 +1516,7 @@ Arcadia, CA 91007"
   name: "Larkin's"
   city: "Eagle Rock"
   query: "Larkin's Eagle Rock"
+  place_id: "0x80c2c3e710f7bcff:0x8cfd62d29b0e81c5"
   cid: "10159384991101780421"
 
 # [1 posts]
@@ -1997,7 +1999,7 @@ Los Angeles, CA 90027"
   name: "Master Kong Chef's Table (康师傅私房牛肉面)"
   city: "Shanghai"
   query: "Master Kong Chef's Table (康师傅私房牛肉面) 762 Tianshan Rd | 天山路762号 (Hong Xin Fashion Plaza | 泓鑫时尚广场), Xian xiá, Changning, 上海市, 200051"
-  cid: "14953250910547571815"
+  cid: "8892760100048484415"
 
 # [1 posts]
 - key: 大连银行-shanghai
@@ -2011,7 +2013,7 @@ Los Angeles, CA 90027"
   name: "An Organic Farm in Dalian"
   city: "Dalian"
   query: "An Organic Farm in Dalian Dalian"
-  cid: "12342676623091873415"
+  cid: "15200083543267067922"
 
 # [1 posts]
 - key: the-shanghai-edition-上海爱迪逊酒店-shanghai
@@ -2049,7 +2051,7 @@ Los Angeles, CA 90027"
   name: "Crystal Jade Palace (翡翠皇宮酒家)"
   city: "Shanghai"
   query: "Crystal Jade Palace (翡翠皇宮酒家) 张杨路500号华润时代广场8楼 | 8/F, 500 Zhangyang Rd. (近浦东南路 | at Pudong Rd. S.), 上海市, 上海市, 200000"
-  cid: "3837760882383431581"
+  cid: "16714037993430720787"
 
 # [1 posts]
 - key: racks-shanghai-shanghai
@@ -2338,7 +2340,7 @@ Los Angeles, CA 90027"
   name: "Mapi Espresso & Sandwich Bar"
   city: "New York"
   query: "Mapi Espresso & Sandwich Bar 1 W 13th St (at 5th Ave.), New York, NY 10011"
-  cid: "250282152701229845"
+  cid: "11690757042075228518"
 
 # [1 posts]
 - key: cantina-agave-shanghai
@@ -2408,7 +2410,7 @@ Los Angeles, CA 90027"
   name: "Whampoa Club Weekend Brunch"
   city: "Shanghai"
   query: "Whampoa Club Weekend Brunch 3 Zhongshan Dongyi Road"
-  cid: "3984649153692291017"
+  cid: "7915510524102544304"
 
 # [1 posts]
 - key: le-sheng-shanghai
@@ -2804,3 +2806,19 @@ Los Angeles, CA 90027"
   query: "Big Ez Seafood New Orleans"
   place_id: "0x8620a6eadfd79db5:0x373e233220431034"
   cid: "3980657818838700084"
+
+# [2 posts]
+- key: café-habana-new-york
+  name: "Café Habana"
+  city: "New York"
+  query: "Café Habana 17 Prince St, New York, NY 10012, USA"
+  place_id: "0x89c25985f1a1033d:0xe9b438926dac6513"
+  cid: "16840147108201522451"
+
+# [2 posts]
+- key: tacos-1986-los-angele
+  name: "Tacos 1986"
+  city: "Los Angeles"
+  query: "Tacos 1986 609 S Spring St, Los Angeles, CA 90014, USA"
+  place_id: "0x80c2c7fa5d005573:0x1ff1b38c89b6c090"
+  cid: "2301818300750282896"

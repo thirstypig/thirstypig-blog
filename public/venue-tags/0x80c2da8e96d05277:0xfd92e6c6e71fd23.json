@@ -11,12 +11,16 @@
       "mention_count": 12
     },
     {
-      "label": "shakes",
-      "mention_count": 41
+      "label": "long lines",
+      "mention_count": 46
     },
     {
       "label": "outdoor seating",
       "mention_count": 9
+    },
+    {
+      "label": "shakes",
+      "mention_count": 41
     },
     {
       "label": "grilled onions",
@@ -32,18 +36,14 @@
     },
     {
       "label": "double double",
-      "mention_count": 21
-    },
-    {
-      "label": "line",
-      "mention_count": 48
+      "mention_count": 19
     },
     {
       "label": "no indoor seating",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:29:11Z",
+  "scraped_at": "2026-05-05T16:23:51Z",
   "city": "Rosemead",
   "key": "in-n-out-burger-rosemead"
 }

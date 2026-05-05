@@ -8,15 +8,15 @@
     },
     {
       "label": "rye bread",
-      "mention_count": 168
+      "mention_count": 169
     },
     {
       "label": "corned beef",
-      "mention_count": 112
+      "mention_count": 113
     },
     {
       "label": "coleslaw",
-      "mention_count": 138
+      "mention_count": 140
     },
     {
       "label": "matzo ball soup",
@@ -24,7 +24,7 @@
     },
     {
       "label": "russian dressing",
-      "mention_count": 44
+      "mention_count": 46
     },
     {
       "label": "Hot Pastrami Sandwich",
@@ -32,7 +32,7 @@
     },
     {
       "label": "swiss cheese",
-      "mention_count": 38
+      "mention_count": 39
     },
     {
       "label": "french dip",
@@ -43,7 +43,7 @@
       "mention_count": 116
     }
   ],
-  "scraped_at": "2026-04-28T17:30:49Z",
+  "scraped_at": "2026-05-05T16:07:14Z",
   "city": "Los Angeles",
   "key": "langers-deli-la"
 }

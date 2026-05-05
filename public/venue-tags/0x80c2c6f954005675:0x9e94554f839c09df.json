@@ -4,15 +4,19 @@
   "chips": [
     {
       "label": "dodgers game",
-      "mention_count": 50
+      "mention_count": 49
     },
     {
-      "label": "dodger dog",
-      "mention_count": 726
+      "label": "dodger dogs",
+      "mention_count": 725
+    },
+    {
+      "label": "dodger fans",
+      "mention_count": 17
     },
     {
       "label": "shohei ohtani",
-      "mention_count": 232
+      "mention_count": 234
     },
     {
       "label": "stadium tour",
@@ -20,30 +24,26 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 595
+      "mention_count": 592
     },
     {
       "label": "historic stadium",
       "mention_count": 84
     },
     {
-      "label": "traffic",
-      "mention_count": 569
+      "label": "baseball",
+      "mention_count": 1967
     },
     {
-      "label": "dodger fans",
-      "mention_count": 16
+      "label": "traffic",
+      "mention_count": 570
     },
     {
       "label": "hot dogs",
       "mention_count": 366
-    },
-    {
-      "label": "drone show",
-      "mention_count": 32
     }
   ],
-  "scraped_at": "2026-04-30T00:17:07Z",
+  "scraped_at": "2026-05-05T16:15:30Z",
   "city": "Los Angeles",
   "key": "afternoon-delight-at-the-dodger-gam-los-angele"
 }

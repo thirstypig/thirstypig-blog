@@ -4,19 +4,15 @@
   "chips": [
     {
       "label": "cash only",
-      "mention_count": 108
+      "mention_count": 107
     },
     {
-      "label": "Cheeseburger Combo with Grilled Onions",
-      "mention_count": 108
+      "label": "pie",
+      "mention_count": 217
     },
     {
       "label": "counter seating",
       "mention_count": 15
-    },
-    {
-      "label": "pie",
-      "mention_count": 218
     },
     {
       "label": "boysenberry pie",
@@ -35,15 +31,19 @@
       "mention_count": 20
     },
     {
-      "label": "strawberry pie",
-      "mention_count": 19
-    },
-    {
       "label": "pecan pie",
       "mention_count": 13
+    },
+    {
+      "label": "lemon meringue pie",
+      "mention_count": 12
+    },
+    {
+      "label": "chili cheese fries",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-28T17:31:56Z",
+  "scraped_at": "2026-05-05T16:08:02Z",
   "city": "Pasadena",
   "key": "pie-n-burger-pasadena"
 }

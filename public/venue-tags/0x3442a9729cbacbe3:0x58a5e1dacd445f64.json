@@ -19,10 +19,6 @@
       "mention_count": 26
     },
     {
-      "label": "sashimi",
-      "mention_count": 18
-    },
-    {
       "label": "umi sushi",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "flower sushi",
       "mention_count": 5
+    },
+    {
+      "label": "Dried scallops",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-04-30T00:21:39Z",
+  "scraped_at": "2026-05-05T16:18:20Z",
   "city": "Taipei",
   "key": "海壽司-hi-sushi-taipei"
 }

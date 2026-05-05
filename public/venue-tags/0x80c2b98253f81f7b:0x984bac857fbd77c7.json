@@ -23,6 +23,10 @@
       "mention_count": 3
     },
     {
+      "label": "brussel sprouts",
+      "mention_count": 6
+    },
+    {
       "label": "black rice",
       "mention_count": 4
     },
@@ -37,13 +41,9 @@
     {
       "label": "cocktails",
       "mention_count": 5
-    },
-    {
-      "label": "tasting menu",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-29T18:47:31Z",
+  "scraped_at": "2026-05-05T16:12:44Z",
   "city": "Los Angeles",
   "key": "lukshon-la"
 }

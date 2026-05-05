@@ -4,31 +4,23 @@
   "chips": [
     {
       "label": "kakuni",
-      "mention_count": 72
+      "mention_count": 83
     },
     {
       "label": "pork belly",
-      "mention_count": 56
+      "mention_count": 57
     },
     {
       "label": "restaurant atmosphere",
       "mention_count": 65
     },
     {
-      "label": "chashu pork",
-      "mention_count": 38
-    },
-    {
       "label": "pork bone soup",
-      "mention_count": 47
+      "mention_count": 48
     },
     {
-      "label": "gyoza",
-      "mention_count": 37
-    },
-    {
-      "label": "less oily",
-      "mention_count": 87
+      "label": "chashu pork",
+      "mention_count": 22
     },
     {
       "label": "shina soba",
@@ -41,9 +33,17 @@
     {
       "label": "siam paragon",
       "mention_count": 8
+    },
+    {
+      "label": "bankara ramen",
+      "mention_count": 16
+    },
+    {
+      "label": "authentic ramen",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-30T00:14:00Z",
+  "scraped_at": "2026-05-05T16:13:18Z",
   "city": "Bangkok",
   "key": "bankara-ramen-บงคาระ-ราเมง-bangkok"
 }

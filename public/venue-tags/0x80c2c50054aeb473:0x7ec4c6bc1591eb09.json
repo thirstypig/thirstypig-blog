@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "matcha",
-      "mention_count": 29
+      "mention_count": 30
     },
     {
       "label": "unique matcha flavors",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T00:21:07Z",
+  "scraped_at": "2026-05-05T16:18:03Z",
   "city": "Sgv",
   "key": "hot-stuff-cafe-sgv"
 }

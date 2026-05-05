@@ -3,10 +3,6 @@
   "venue_name": "Cow Tipping Creamery",
   "chips": [
     {
-      "label": "Smores Sundae",
-      "mention_count": 8
-    },
-    {
       "label": "lemon curd",
       "mention_count": 4
     },
@@ -23,6 +19,10 @@
       "mention_count": 6
     },
     {
+      "label": "Death by Chocolate Small Stacker",
+      "mention_count": 3
+    },
+    {
       "label": "fudge",
       "mention_count": 5
     },
@@ -35,15 +35,15 @@
       "mention_count": 9
     },
     {
-      "label": "Housemade Bubble Waffle Cone",
-      "mention_count": 3
-    },
-    {
       "label": "kind employees",
       "mention_count": 6
+    },
+    {
+      "label": "combinations",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-30T06:15:51Z",
+  "scraped_at": "2026-05-05T16:39:53Z",
   "city": "Austin",
   "key": "cow-tipping-creamery-austin"
 }

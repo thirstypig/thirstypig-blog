@@ -23,6 +23,10 @@
       "mention_count": 2
     },
     {
+      "label": "happy hour",
+      "mention_count": 5
+    },
+    {
       "label": "room size",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "cleanliness",
       "mention_count": 2
-    },
-    {
-      "label": "fun with friends",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:26:54Z",
+  "scraped_at": "2026-05-05T16:22:46Z",
   "city": "Koreatown",
   "key": "gaam-koreatown"
 }

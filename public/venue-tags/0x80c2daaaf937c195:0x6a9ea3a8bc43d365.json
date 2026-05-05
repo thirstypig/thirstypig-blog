@@ -27,6 +27,10 @@
       "mention_count": 2
     },
     {
+      "label": "buns",
+      "mention_count": 8
+    },
+    {
       "label": "made to order",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "food",
       "mention_count": 2
-    },
-    {
-      "label": "buns",
-      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-04-30T05:22:56Z",
+  "scraped_at": "2026-05-05T16:20:03Z",
   "city": "Monterey Park",
   "key": "noodle-house-monterey-p"
 }

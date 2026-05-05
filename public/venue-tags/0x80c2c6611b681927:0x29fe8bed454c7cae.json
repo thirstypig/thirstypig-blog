@@ -8,7 +8,7 @@
     },
     {
       "label": "short rib",
-      "mention_count": 94
+      "mention_count": 95
     },
     {
       "label": "bar seating",
@@ -16,15 +16,15 @@
     },
     {
       "label": "mushroom crispy rice",
-      "mention_count": 32
-    },
-    {
-      "label": "little gem salad",
-      "mention_count": 17
+      "mention_count": 31
     },
     {
       "label": "outdoor seating",
       "mention_count": 27
+    },
+    {
+      "label": "little gem salad",
+      "mention_count": 17
     },
     {
       "label": "crispy potatoes",
@@ -39,11 +39,11 @@
       "mention_count": 12
     },
     {
-      "label": "lo mein",
-      "mention_count": 14
+      "label": "whole plate short rib",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-28T21:45:43Z",
+  "scraped_at": "2026-05-05T16:08:38Z",
   "city": "Los Angeles",
   "key": "majordomo-dtla"
 }

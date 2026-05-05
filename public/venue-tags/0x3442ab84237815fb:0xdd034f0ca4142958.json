@@ -27,10 +27,6 @@
       "mention_count": 10
     },
     {
-      "label": "pork chop",
-      "mention_count": 39
-    },
-    {
       "label": "milk tea",
       "mention_count": 21
     },
@@ -41,9 +37,13 @@
     {
       "label": "eel rice",
       "mention_count": 4
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-04-30T00:14:47Z",
+  "scraped_at": "2026-05-05T16:13:54Z",
   "city": "Taipei",
   "key": "定食8-taipei"
 }

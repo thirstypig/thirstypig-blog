@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "dim sum",
-      "mention_count": 258
+      "mention_count": 259
     },
     {
       "label": "har gow",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T06:05:38Z",
+  "scraped_at": "2026-05-05T16:34:50Z",
   "city": "Hong Kong",
   "key": "new-star-seafood-restaurant-新星海鮮酒家--hong-kong"
 }

@@ -3,6 +3,10 @@
   "venue_name": "PLATEFIT",
   "chips": [
     {
+      "label": "platefit class",
+      "mention_count": 8
+    },
+    {
       "label": "lymphatic drainage",
       "mention_count": 7
     },
@@ -13,10 +17,6 @@
     {
       "label": "intense workout",
       "mention_count": 6
-    },
-    {
-      "label": "quick classes",
-      "mention_count": 2
     },
     {
       "label": "detox",
@@ -35,15 +35,15 @@
       "mention_count": 12
     },
     {
-      "label": "welcoming atmosphere",
-      "mention_count": 5
+      "label": "pilates alternative",
+      "mention_count": 3
     },
     {
-      "label": "motivational push",
-      "mention_count": 4
+      "label": "welcoming atmosphere",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T00:18:57Z",
+  "scraped_at": "2026-05-05T16:16:43Z",
   "city": "Los Angeles",
   "key": "plate-by-plate-2009-los-angele"
 }

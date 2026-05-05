@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c550bfcdf371:0x41dca79a6ab5438b",
+  "venue_name": "Northern Cafe",
+  "chips": [
+    {
+      "label": "beef noodle soup",
+      "mention_count": 25
+    },
+    {
+      "label": "cut noodles",
+      "mention_count": 10
+    },
+    {
+      "label": "lamb",
+      "mention_count": 29
+    },
+    {
+      "label": "beef roll",
+      "mention_count": 9
+    },
+    {
+      "label": "fresh noodles",
+      "mention_count": 11
+    },
+    {
+      "label": "garlic pork ribs",
+      "mention_count": 3
+    },
+    {
+      "label": "cold noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "potstickers",
+      "mention_count": 2
+    },
+    {
+      "label": "Rou Jia Mo",
+      "mention_count": 2
+    },
+    {
+      "label": "lanzhou hand-pulled noodles",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-05T16:16:26Z",
+  "city": "Monterey Park",
+  "key": "lamour-cafe-monterey-p"
+}

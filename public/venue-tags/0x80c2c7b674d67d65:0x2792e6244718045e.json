@@ -35,15 +35,15 @@
       "mention_count": 16
     },
     {
-      "label": "spicy orange chicken",
-      "mention_count": 5
-    },
-    {
       "label": "french toast",
       "mention_count": 9
+    },
+    {
+      "label": "egg rolls",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-04-30T05:23:12Z",
+  "scraped_at": "2026-05-05T16:20:11Z",
   "city": "Dtla",
   "key": "uncle-johns-ham-eggs-dtla"
 }

@@ -15,11 +15,11 @@
       "mention_count": 3
     },
     {
-      "label": "shabu shabu experience",
+      "label": "pork blood",
       "mention_count": 2
     },
     {
-      "label": "pork blood",
+      "label": "shabu shabu experience",
       "mention_count": 2
     },
     {
@@ -32,18 +32,18 @@
     },
     {
       "label": "wait time",
-      "mention_count": 18
+      "mention_count": 17
     },
     {
       "label": "vermicelli",
       "mention_count": 5
     },
     {
-      "label": "sharing a pot",
-      "mention_count": 2
+      "label": "taiwanese",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-30T06:13:22Z",
+  "scraped_at": "2026-05-05T16:38:43Z",
   "city": "Sgv",
   "key": "boiling-point-sgv"
 }

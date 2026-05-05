@@ -3,12 +3,12 @@
   "venue_name": "The Slaw Dogs",
   "chips": [
     {
-      "label": "bulgogi",
-      "mention_count": 2
-    },
-    {
       "label": "Chicago-Style Hot Dog",
       "mention_count": 5
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 2
     },
     {
       "label": "tater tots",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T05:28:08Z",
+  "scraped_at": "2026-05-05T16:23:18Z",
   "city": "Pasadena",
   "key": "slaw-dogs-of-pasadena-pasadena"
 }

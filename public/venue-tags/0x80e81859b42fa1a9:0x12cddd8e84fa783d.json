@@ -3,6 +3,10 @@
   "venue_name": "Kristy's Malibu",
   "chips": [
     {
+      "label": "flatbread pizza",
+      "mention_count": 12
+    },
+    {
       "label": "seafood pasta",
       "mention_count": 6
     },
@@ -15,16 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "calamari",
-      "mention_count": 8
+      "label": "pork chop",
+      "mention_count": 5
     },
     {
       "label": "live music",
       "mention_count": 4
-    },
-    {
-      "label": "pork chop",
-      "mention_count": 5
     },
     {
       "label": "macadamia nut pancakes",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-29T18:09:51Z",
+  "scraped_at": "2026-05-05T16:11:52Z",
   "city": "Malibu",
   "key": "kristys-village-cafe-malibu"
 }

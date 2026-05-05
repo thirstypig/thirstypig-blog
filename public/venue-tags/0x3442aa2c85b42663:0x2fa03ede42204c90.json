@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "you tiao",
-      "mention_count": 653
+      "mention_count": 652
     },
     {
       "label": "shaobing youtiao",
-      "mention_count": 693
+      "mention_count": 694
     },
     {
       "label": "outdoor seating",
@@ -24,7 +24,7 @@
     },
     {
       "label": "rice roll",
-      "mention_count": 264
+      "mention_count": 265
     },
     {
       "label": "turnip cake",
@@ -32,18 +32,18 @@
     },
     {
       "label": "shaobing with egg",
-      "mention_count": 53
+      "mention_count": 52
     },
     {
       "label": "dan bing",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
-      "label": "yonghe soy milk",
-      "mention_count": 18
+      "label": "Fried Dough Sticks with Egg",
+      "mention_count": 61
     }
   ],
-  "scraped_at": "2026-04-30T05:29:22Z",
+  "scraped_at": "2026-05-05T16:23:56Z",
   "city": "Taipei",
   "key": "永和豆漿大王-yong-he-do-jiang-da-wang-taipei"
 }

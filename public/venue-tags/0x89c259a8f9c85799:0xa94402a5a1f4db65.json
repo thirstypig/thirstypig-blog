@@ -4,7 +4,11 @@
   "chips": [
     {
       "label": "seolleongtang",
-      "mention_count": 142
+      "mention_count": 143
+    },
+    {
+      "label": "naengmyun",
+      "mention_count": 36
     },
     {
       "label": "kkakdugi",
@@ -15,11 +19,11 @@
       "mention_count": 17
     },
     {
-      "label": "kimchi jigae",
-      "mention_count": 10
+      "label": "galbitang",
+      "mention_count": 13
     },
     {
-      "label": "jokbal",
+      "label": "kimchi jigae",
       "mention_count": 11
     },
     {
@@ -27,23 +31,19 @@
       "mention_count": 16
     },
     {
-      "label": "galbitang",
-      "mention_count": 8
+      "label": "jokbal",
+      "mention_count": 11
+    },
+    {
+      "label": "doganitang",
+      "mention_count": 6
     },
     {
       "label": "yukgaejang",
       "mention_count": 9
-    },
-    {
-      "label": "soft tofu stew",
-      "mention_count": 8
-    },
-    {
-      "label": "samgyetang",
-      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-04-29T01:05:00Z",
+  "scraped_at": "2026-05-05T16:11:58Z",
   "city": "Koreatown",
   "key": "gammeeok-koreatown"
 }

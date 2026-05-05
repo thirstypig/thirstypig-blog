@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "brewing",
-      "mention_count": 4
+      "label": "salad",
+      "mention_count": 2
     },
     {
-      "label": "food menu",
-      "mention_count": 2
+      "label": "brewing",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T06:07:31Z",
+  "scraped_at": "2026-05-05T16:35:46Z",
   "city": "Shanghai",
   "key": "boxing-cat-brewery-拳击猫餐厅-shanghai"
 }

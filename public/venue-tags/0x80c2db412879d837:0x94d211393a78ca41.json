@@ -11,39 +11,39 @@
       "mention_count": 13
     },
     {
-      "label": "venison",
-      "mention_count": 6
+      "label": "malatang",
+      "mention_count": 18
+    },
+    {
+      "label": "fresh ingredients",
+      "mention_count": 13
     },
     {
       "label": "pork tripe chicken",
       "mention_count": 10
     },
     {
-      "label": "malatang",
-      "mention_count": 13
-    },
-    {
-      "label": "fresh ingredients",
-      "mention_count": 12
-    },
-    {
-      "label": "Kungpao Chicken",
-      "mention_count": 5
-    },
-    {
-      "label": "broth",
-      "mention_count": 16
-    },
-    {
-      "label": "braised pork",
+      "label": "venison",
       "mention_count": 6
     },
     {
+      "label": "broth",
+      "mention_count": 18
+    },
+    {
+      "label": "braised pork",
+      "mention_count": 7
+    },
+    {
       "label": "mapo tofu",
-      "mention_count": 8
+      "mention_count": 9
+    },
+    {
+      "label": "fresh seafood",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-30T06:13:38Z",
+  "scraped_at": "2026-05-05T16:38:51Z",
   "city": "Sgv",
   "key": "chuans-sgv"
 }

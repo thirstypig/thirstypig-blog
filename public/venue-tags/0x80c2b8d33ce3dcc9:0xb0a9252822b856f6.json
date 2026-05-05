@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "escargot",
-      "mention_count": 43
+      "mention_count": 42
     },
     {
       "label": "French Onion Soup",
       "mention_count": 56
     },
     {
-      "label": "counter seating",
-      "mention_count": 22
+      "label": "outdoor seating",
+      "mention_count": 32
     },
     {
       "label": "steak frites",
@@ -23,8 +23,8 @@
       "mention_count": 8
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 32
+      "label": "bar seating",
+      "mention_count": 21
     },
     {
       "label": "croque madame",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "kitchen view",
-      "mention_count": 4
+      "label": "mussels",
+      "mention_count": 17
     },
     {
       "label": "Trout Almondine",
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-29T18:47:52Z",
+  "scraped_at": "2026-05-05T16:12:36Z",
   "city": "Los Angeles",
   "key": "petit-trois-la"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "hot dogs",
-      "mention_count": 1392
+      "mention_count": 1385
     },
     {
       "label": "frog legs",
@@ -12,7 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 57
+      "mention_count": 56
     },
     {
       "label": "clams",
@@ -24,7 +24,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 252
+      "mention_count": 250
     },
     {
       "label": "chili cheese dog",
@@ -40,10 +40,10 @@
     },
     {
       "label": "sauerkraut",
-      "mention_count": 43
+      "mention_count": 44
     }
   ],
-  "scraped_at": "2026-04-30T00:17:34Z",
+  "scraped_at": "2026-05-05T16:15:44Z",
   "city": "New York",
   "key": "nathans-famous-new-york"
 }

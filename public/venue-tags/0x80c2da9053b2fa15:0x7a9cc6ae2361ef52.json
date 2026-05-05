@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "spicy food",
-      "mention_count": 16
+      "label": "dishes",
+      "mention_count": 2
     },
     {
       "label": "food",
       "mention_count": 5
     },
     {
-      "label": "dishes",
-      "mention_count": 2
+      "label": "spicy food",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-30T06:13:43Z",
+  "scraped_at": "2026-05-05T16:38:54Z",
   "city": "Sgv",
   "key": "hunan-mao-restaurant-sgv"
 }

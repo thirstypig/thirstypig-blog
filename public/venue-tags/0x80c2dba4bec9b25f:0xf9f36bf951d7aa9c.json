@@ -11,16 +11,16 @@
       "mention_count": 9
     },
     {
-      "label": "dumplings",
-      "mention_count": 12
-    },
-    {
       "label": "Wife Special Noodle",
       "mention_count": 3
     },
     {
       "label": "House Special Fried Noodle",
       "mention_count": 6
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 12
     },
     {
       "label": "Green Onion Pancake",
@@ -31,19 +31,19 @@
       "mention_count": 5
     },
     {
+      "label": "Pork and Leek Dumplings",
+      "mention_count": 3
+    },
+    {
       "label": "lamb soup",
       "mention_count": 3
     },
     {
       "label": "tender beef",
       "mention_count": 6
-    },
-    {
-      "label": "chili oil",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T05:20:44Z",
+  "scraped_at": "2026-05-05T16:18:44Z",
   "city": "Arcadia",
   "key": "liangs-kitchen-arcadia"
 }

@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "full of wok hei",
-      "mention_count": 160
+      "mention_count": 161
     },
     {
       "label": "eel noodles",
-      "mention_count": 407
+      "mention_count": 405
     },
     {
       "label": "dining environment",
-      "mention_count": 146
+      "mention_count": 142
     },
     {
       "label": "dry-fried eel noodles",
-      "mention_count": 231
+      "mention_count": 230
     },
     {
       "label": "stir-fried eel",
@@ -28,22 +28,22 @@
     },
     {
       "label": "tainan food",
-      "mention_count": 57
-    },
-    {
-      "label": "eel portion",
-      "mention_count": 26
+      "mention_count": 48
     },
     {
       "label": "eel texture",
-      "mention_count": 36
+      "mention_count": 35
+    },
+    {
+      "label": "eel portion",
+      "mention_count": 22
     },
     {
       "label": "fresh eel",
       "mention_count": 21
     }
   ],
-  "scraped_at": "2026-04-30T05:31:40Z",
+  "scraped_at": "2026-05-05T16:24:56Z",
   "city": "Taipei",
   "key": "tainan-eel-noodles-台南鱔魚意麵-taipei"
 }

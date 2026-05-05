@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "xiaolongbao",
-      "mention_count": 257
-    },
-    {
-      "label": "dumplings",
-      "mention_count": 125
+      "mention_count": 258
     },
     {
       "label": "shanghai food",
       "mention_count": 12
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 125
     },
     {
       "label": "dim sum",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T06:03:34Z",
+  "scraped_at": "2026-05-05T16:33:57Z",
   "city": "Hong Kong",
   "key": "din-tai-fung-鼎泰豐-hong-kong"
 }

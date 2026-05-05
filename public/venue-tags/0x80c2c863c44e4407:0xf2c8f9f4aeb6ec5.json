@@ -19,12 +19,12 @@
       "mention_count": 2
     },
     {
-      "label": "chipotle sauce",
-      "mention_count": 3
-    },
-    {
       "label": "sandwiches",
       "mention_count": 8
+    },
+    {
+      "label": "chipotle sauce",
+      "mention_count": 3
     },
     {
       "label": "cash only",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:59:11Z",
+  "scraped_at": "2026-05-05T16:31:40Z",
   "city": "Los Angeles",
   "key": "super-tortas-df-los-angele"
 }

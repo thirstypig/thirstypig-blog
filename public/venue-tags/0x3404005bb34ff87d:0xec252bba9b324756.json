@@ -12,11 +12,11 @@
     },
     {
       "label": "roast goose",
-      "mention_count": 114
+      "mention_count": 113
     },
     {
       "label": "roasted pork",
-      "mention_count": 148
+      "mention_count": 144
     },
     {
       "label": "char siu rice",
@@ -24,7 +24,7 @@
     },
     {
       "label": "bbq pork",
-      "mention_count": 89
+      "mention_count": 86
     },
     {
       "label": "soy sauce chicken",
@@ -39,11 +39,11 @@
       "mention_count": 13
     },
     {
-      "label": "shared tables",
-      "mention_count": 19
+      "label": "wonton noodles",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-04-30T06:04:47Z",
+  "scraped_at": "2026-05-05T16:34:29Z",
   "city": "Hong Kong",
   "key": "joy-hing-roasted-meat-再興燒臘飯店-hong-kong"
 }

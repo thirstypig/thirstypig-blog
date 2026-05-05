@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "dongpo pork",
-      "mention_count": 274
+      "mention_count": 273
     },
     {
       "label": "shaomai",
-      "mention_count": 79
+      "mention_count": 80
     },
     {
       "label": "dining environment",
-      "mention_count": 86
+      "mention_count": 89
     },
     {
       "label": "pan-fried buns",
@@ -23,6 +23,10 @@
       "mention_count": 58
     },
     {
+      "label": "lettuce shrimp floss",
+      "mention_count": 23
+    },
+    {
       "label": "xiaolongbao",
       "mention_count": 507
     },
@@ -31,19 +35,15 @@
       "mention_count": 65
     },
     {
-      "label": "crab shell yellow",
-      "mention_count": 39
-    },
-    {
-      "label": "vermicelli with fried tofu",
-      "mention_count": 31
-    },
-    {
       "label": "char siu pastry",
       "mention_count": 25
+    },
+    {
+      "label": "crab shell yellow",
+      "mention_count": 39
     }
   ],
-  "scraped_at": "2026-04-30T05:29:16Z",
+  "scraped_at": "2026-05-05T16:23:53Z",
   "city": "Taipei",
   "key": "高記-kaochi-taipei"
 }

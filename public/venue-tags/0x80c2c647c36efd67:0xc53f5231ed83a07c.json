@@ -23,8 +23,8 @@
       "mention_count": 33
     },
     {
-      "label": "counter seating",
-      "mention_count": 10
+      "label": "booth seating",
+      "mention_count": 3
     },
     {
       "label": "poke bowl",
@@ -35,15 +35,15 @@
       "mention_count": 67
     },
     {
-      "label": "wait time",
-      "mention_count": 200
+      "label": "counter seating",
+      "mention_count": 10
     },
     {
-      "label": "chashu pork bowl",
-      "mention_count": 17
+      "label": "wait time",
+      "mention_count": 198
     }
   ],
-  "scraped_at": "2026-04-30T06:13:17Z",
+  "scraped_at": "2026-05-05T16:38:41Z",
   "city": "Dtla",
   "key": "daikokuya-dtla"
 }

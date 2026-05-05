@@ -31,19 +31,19 @@
       "mention_count": 3
     },
     {
+      "label": "birria tatemada",
+      "mention_count": 2
+    },
+    {
       "label": "birria plate",
       "mention_count": 2
     },
     {
       "label": "cilantro",
       "mention_count": 6
-    },
-    {
-      "label": "beef birria",
-      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-29T18:47:35Z",
+  "scraped_at": "2026-05-05T16:12:47Z",
   "city": "Los Angeles",
   "key": "birrieria-don-boni-east-la"
 }

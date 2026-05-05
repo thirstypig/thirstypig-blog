@@ -7,19 +7,15 @@
       "mention_count": 23
     },
     {
+      "label": "green onion pancake",
+      "mention_count": 18
+    },
+    {
       "label": "beef noodle soup",
       "mention_count": 12
     },
     {
-      "label": "pan fried pork dumplings",
-      "mention_count": 10
-    },
-    {
-      "label": "onion pancake",
-      "mention_count": 8
-    },
-    {
-      "label": "chicken dumplings",
+      "label": "Beef Roll Pancake",
       "mention_count": 6
     },
     {
@@ -27,15 +23,19 @@
       "mention_count": 7
     },
     {
+      "label": "Chicken Dumpling 10",
+      "mention_count": 6
+    },
+    {
       "label": "juicy pork dumplings",
       "mention_count": 4
     },
     {
-      "label": "beef roll",
-      "mention_count": 6
+      "label": "lamb dumplings",
+      "mention_count": 3
     },
     {
-      "label": "lamb dumplings",
+      "label": "eggplant with garlic sauce",
       "mention_count": 3
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T00:14:37Z",
+  "scraped_at": "2026-05-05T16:13:48Z",
   "city": "Arcadia",
   "key": "magic-dumplings-arcadia"
 }

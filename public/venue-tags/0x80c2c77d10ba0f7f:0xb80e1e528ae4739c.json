@@ -8,31 +8,31 @@
     },
     {
       "label": "banchan",
-      "mention_count": 33
+      "mention_count": 32
     },
     {
       "label": "galbi jjim",
       "mention_count": 10
     },
     {
-      "label": "pork neck soup",
+      "label": "kimchi stew",
       "mention_count": 7
     },
     {
-      "label": "kimchi stew",
-      "mention_count": 7
+      "label": "pork neck soup",
+      "mention_count": 5
     },
     {
       "label": "hot stone bibimbap 돌솥비빔밥",
       "mention_count": 2
     },
     {
-      "label": "daikon kimchi",
-      "mention_count": 4
-    },
-    {
       "label": "fish cake",
       "mention_count": 7
+    },
+    {
+      "label": "daikon kimchi",
+      "mention_count": 4
     },
     {
       "label": "naengmyeon",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T06:14:41Z",
+  "scraped_at": "2026-05-05T16:39:18Z",
   "city": "Koreatown",
   "key": "yangji-gamjatang-koreatown"
 }

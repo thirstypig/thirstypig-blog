@@ -7,16 +7,20 @@
       "mention_count": 146
     },
     {
-      "label": "kitchen view",
-      "mention_count": 7
-    },
-    {
       "label": "quail",
       "mention_count": 74
     },
     {
+      "label": "kitchen view",
+      "mention_count": 7
+    },
+    {
       "label": "ceviche",
-      "mention_count": 126
+      "mention_count": 127
+    },
+    {
+      "label": "paloma",
+      "mention_count": 27
     },
     {
       "label": "bar seating",
@@ -27,23 +31,19 @@
       "mention_count": 48
     },
     {
-      "label": "happy hour",
-      "mention_count": 84
-    },
-    {
-      "label": "farm to table",
-      "mention_count": 41
-    },
-    {
-      "label": "Goat Pizza",
+      "label": "goat pizza",
       "mention_count": 14
     },
     {
-      "label": "pork loin",
-      "mention_count": 16
+      "label": "outdoor seating",
+      "mention_count": 35
+    },
+    {
+      "label": "capellini pasta",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-04-30T06:15:09Z",
+  "scraped_at": "2026-05-05T16:39:31Z",
   "city": "Austin",
   "key": "odd-duck-austin"
 }

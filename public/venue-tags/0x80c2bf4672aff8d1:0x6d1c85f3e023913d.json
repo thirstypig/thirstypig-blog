@@ -8,7 +8,7 @@
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 40
+      "mention_count": 39
     },
     {
       "label": "drive thru",
@@ -27,10 +27,6 @@
       "mention_count": 9
     },
     {
-      "label": "double chili cheeseburger",
-      "mention_count": 5
-    },
-    {
       "label": "original burger",
       "mention_count": 2
     },
@@ -39,11 +35,15 @@
       "mention_count": 3
     },
     {
-      "label": "greasy food",
-      "mention_count": 6
+      "label": "wait time",
+      "mention_count": 15
+    },
+    {
+      "label": "double chili cheeseburger",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T00:21:44Z",
+  "scraped_at": "2026-05-05T16:18:22Z",
   "city": "Los Angeles",
   "key": "original-tommys-hamburgers-los-angele"
 }

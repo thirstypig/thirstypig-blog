@@ -27,7 +27,7 @@
       "mention_count": 21
     },
     {
-      "label": "grilled prawns",
+      "label": "Grilled Prawns",
       "mention_count": 54
     },
     {
@@ -35,15 +35,15 @@
       "mention_count": 104
     },
     {
-      "label": "duck hummus",
-      "mention_count": 41
-    },
-    {
       "label": "middle eastern food",
       "mention_count": 44
+    },
+    {
+      "label": "lamb rack",
+      "mention_count": 33
     }
   ],
-  "scraped_at": "2026-04-29T18:10:04Z",
+  "scraped_at": "2026-05-05T16:12:06Z",
   "city": "Downtown LA",
   "key": "bavel-downtown-l"
 }

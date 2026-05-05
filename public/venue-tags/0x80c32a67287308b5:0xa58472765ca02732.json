@@ -7,11 +7,11 @@
       "mention_count": 12
     },
     {
-      "label": "peking duck pizza",
+      "label": "filet mignon",
       "mention_count": 7
     },
     {
-      "label": "filet mignon",
+      "label": "peking duck pizza",
       "mention_count": 7
     },
     {
@@ -23,16 +23,16 @@
       "mention_count": 2
     },
     {
-      "label": "pork feet",
-      "mention_count": 2
+      "label": "cantonese food",
+      "mention_count": 3
     },
     {
       "label": "baked bolognese",
       "mention_count": 2
     },
     {
-      "label": "cantonese food",
-      "mention_count": 3
+      "label": "udon",
+      "mention_count": 6
     },
     {
       "label": "black pepper sauce",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:21:10Z",
+  "scraped_at": "2026-05-05T16:18:58Z",
   "city": "Rowland Heights",
   "key": "garden-bistro-rowland-he"
 }

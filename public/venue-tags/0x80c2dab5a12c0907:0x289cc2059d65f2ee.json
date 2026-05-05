@@ -3,8 +3,8 @@
   "venue_name": "Dong Nguyen Restaurant",
   "chips": [
     {
-      "label": "chicken with rice",
-      "mention_count": 4
+      "label": "Hainam Style Chicken & Pork Chop with Rice",
+      "mention_count": 29
     },
     {
       "label": "quiet atmosphere",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:23:33Z",
+  "scraped_at": "2026-05-05T16:20:22Z",
   "city": "Alhambra",
   "key": "dong-nguyen-restaurant-alhambra"
 }

@@ -4,23 +4,19 @@
   "chips": [
     {
       "label": "no corkage fee",
-      "mention_count": 27
+      "mention_count": 28
     },
     {
       "label": "cioppino",
       "mention_count": 9
     },
     {
-      "label": "tagliatelle alla bolognese",
+      "label": "Tagliatelle Alla Bolognese",
       "mention_count": 11
     },
     {
-      "label": "fettuccine alfredo",
+      "label": "Fettuccine Alfredo Combo",
       "mention_count": 9
-    },
-    {
-      "label": "spaghetti with meatballs",
-      "mention_count": 7
     },
     {
       "label": "calamari",
@@ -31,19 +27,23 @@
       "mention_count": 2
     },
     {
-      "label": "panna cotta",
+      "label": "byob",
+      "mention_count": 25
+    },
+    {
+      "label": "Spaghetti Meatballs",
       "mention_count": 7
     },
     {
-      "label": "byob",
-      "mention_count": 25
+      "label": "panna cotta",
+      "mention_count": 7
     },
     {
       "label": "flan",
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:28:18Z",
+  "scraped_at": "2026-05-05T16:23:23Z",
   "city": "Downtown Los Angeles",
   "key": "risotto-from-colori-kitchen-downtown-l"
 }

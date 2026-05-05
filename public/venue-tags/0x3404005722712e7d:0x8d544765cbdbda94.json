@@ -27,11 +27,11 @@
       "mention_count": 2
     },
     {
-      "label": "roasted goose",
+      "label": "siu mai",
       "mention_count": 3
     },
     {
-      "label": "siu mai",
+      "label": "roasted goose",
       "mention_count": 3
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 5
     },
     {
-      "label": "suitable location",
-      "mention_count": 2
+      "label": "many waiters",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T00:16:51Z",
+  "scraped_at": "2026-05-05T16:15:22Z",
   "city": "Hong Kong",
   "key": "點心dim-sum-jade-garden-hong-kong"
 }

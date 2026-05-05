@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "panini",
-      "mention_count": 304
+      "mention_count": 305
     },
     {
       "label": "shakshuka",
-      "mention_count": 137
+      "mention_count": 131
     },
     {
       "label": "moon-viewing cream bacon pasta",
@@ -20,30 +20,30 @@
     },
     {
       "label": "philly cheesesteak panini",
-      "mention_count": 53
-    },
-    {
-      "label": "dining environment",
-      "mention_count": 247
-    },
-    {
-      "label": "tiramisu",
-      "mention_count": 123
-    },
-    {
-      "label": "hot pressed toast",
-      "mention_count": 16
+      "mention_count": 54
     },
     {
       "label": "second floor seating",
       "mention_count": 5
     },
     {
+      "label": "tiramisu",
+      "mention_count": 123
+    },
+    {
       "label": "grilled octopus legs",
-      "mention_count": 15
+      "mention_count": 19
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 219
+    },
+    {
+      "label": "hot pressed toast",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-30T05:25:40Z",
+  "scraped_at": "2026-05-05T16:22:14Z",
   "city": "Taipei",
   "key": "toasteria-cafe-taipei"
 }

@@ -3,12 +3,12 @@
   "venue_name": "Jesse Restaurant",
   "chips": [
     {
-      "label": "braised pork",
-      "mention_count": 13
-    },
-    {
       "label": "authentic shanghainese cuisine",
       "mention_count": 5
+    },
+    {
+      "label": "braised pork",
+      "mention_count": 13
     },
     {
       "label": "dongpo pork",
@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "Tomato Egg",
-      "mention_count": 2
-    },
-    {
       "label": "eels",
       "mention_count": 2
     },
     {
       "label": "korean menu",
       "mention_count": 2
+    },
+    {
+      "label": "traditional setting",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:59:22Z",
+  "scraped_at": "2026-05-05T16:31:45Z",
   "city": "Shanghai",
   "key": "restaurant-jesse-吉士-of-shanghai-shanghai"
 }

@@ -35,15 +35,15 @@
       "mention_count": 68
     },
     {
-      "label": "cookie dough",
-      "mention_count": 6
+      "label": "croissants",
+      "mention_count": 11
     },
     {
-      "label": "morning bun",
-      "mention_count": 8
+      "label": "cookie dough",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T06:15:30Z",
+  "scraped_at": "2026-05-05T16:39:42Z",
   "city": "Austin",
   "key": "austins-cookie-delivery-austin"
 }

@@ -19,19 +19,19 @@
       "mention_count": 2
     },
     {
+      "label": "hotel",
+      "mention_count": 2
+    },
+    {
       "label": "design",
       "mention_count": 8
     },
     {
       "label": "glass",
       "mention_count": 6
-    },
-    {
-      "label": "hotel",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:31:51Z",
+  "scraped_at": "2026-05-05T16:25:02Z",
   "city": "Shanghai",
   "key": "apple-shanghai-iapm-apple-上海环贸-iapm-shanghai"
 }

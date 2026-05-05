@@ -3,32 +3,28 @@
   "venue_name": "Shin-Sen-Gumi Hakata Ramen - Gardena",
   "chips": [
     {
-      "label": "Hakata Ramen with Pork Wontons",
-      "mention_count": 8
-    },
-    {
       "label": "spam musubi",
       "mention_count": 12
+    },
+    {
+      "label": "Hakata Ramen with Pork Wontons",
+      "mention_count": 8
     },
     {
       "label": "outdoor dining",
       "mention_count": 4
     },
     {
-      "label": "broth saltiness",
-      "mention_count": 2
-    },
-    {
       "label": "customizable ramen",
       "mention_count": 7
     },
     {
-      "label": "bar seating",
-      "mention_count": 5
-    },
-    {
       "label": "karage",
       "mention_count": 9
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 5
     },
     {
       "label": "wait time",
@@ -41,9 +37,13 @@
     {
       "label": "favorite ramen house",
       "mention_count": 21
+    },
+    {
+      "label": "eel bowl",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:16:09Z",
+  "scraped_at": "2026-05-05T16:14:32Z",
   "city": "Torrance",
   "key": "shinsen-gumi-ramen-torrance"
 }

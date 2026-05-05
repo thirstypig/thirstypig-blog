@@ -16,7 +16,7 @@
     },
     {
       "label": "hong kong style egg tart",
-      "mention_count": 33
+      "mention_count": 32
     },
     {
       "label": "custard",
@@ -27,6 +27,10 @@
       "mention_count": 22
     },
     {
+      "label": "egg bread taste",
+      "mention_count": 23
+    },
+    {
       "label": "cookie crust",
       "mention_count": 17
     },
@@ -35,15 +39,11 @@
       "mention_count": 16
     },
     {
-      "label": "egg bread",
-      "mention_count": 22
-    },
-    {
       "label": "puff pastry egg tart",
       "mention_count": 14
     }
   ],
-  "scraped_at": "2026-04-30T06:04:36Z",
+  "scraped_at": "2026-05-05T16:34:23Z",
   "city": "Hong Kong",
   "key": "tai-cheong-bakery-hong-kong"
 }

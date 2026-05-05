@@ -7,16 +7,16 @@
       "mention_count": 177
     },
     {
-      "label": "cornbread",
-      "mention_count": 62
+      "label": "banana pudding",
+      "mention_count": 50
     },
     {
       "label": "outdoor seating",
-      "mention_count": 51
+      "mention_count": 52
     },
     {
-      "label": "banana pudding",
-      "mention_count": 49
+      "label": "cornbread",
+      "mention_count": 62
     },
     {
       "label": "small plates",
@@ -32,7 +32,7 @@
     },
     {
       "label": "hot pockets",
-      "mention_count": 53
+      "mention_count": 54
     },
     {
       "label": "bar seating",
@@ -43,7 +43,7 @@
       "mention_count": 37
     }
   ],
-  "scraped_at": "2026-04-30T06:15:36Z",
+  "scraped_at": "2026-05-05T16:39:45Z",
   "city": "Austin",
   "key": "kemuri-tatsu-ya-austin"
 }

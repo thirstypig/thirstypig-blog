@@ -23,12 +23,12 @@
       "mention_count": 28
     },
     {
-      "label": "egg omelette",
-      "mention_count": 13
+      "label": "Purple Rice Roll",
+      "mention_count": 12
     },
     {
-      "label": "Green Onion Pancake",
-      "mention_count": 8
+      "label": "egg omelette",
+      "mention_count": 13
     },
     {
       "label": "Daikon Cake",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T00:20:57Z",
+  "scraped_at": "2026-05-05T16:17:58Z",
   "city": "Sgv",
   "key": "wan-chun-taiwanese-food-sgv"
 }

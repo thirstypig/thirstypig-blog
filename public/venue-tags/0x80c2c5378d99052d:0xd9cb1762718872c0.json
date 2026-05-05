@@ -8,7 +8,7 @@
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 86
+      "mention_count": 108
     },
     {
       "label": "outdoor seating",
@@ -20,7 +20,7 @@
     },
     {
       "label": "pastrami dip",
-      "mention_count": 32
+      "mention_count": 29
     },
     {
       "label": "roast beef sandwich",
@@ -39,11 +39,11 @@
       "mention_count": 11
     },
     {
-      "label": "burgers",
-      "mention_count": 38
+      "label": "cheeseburgers",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-04-30T00:20:10Z",
+  "scraped_at": "2026-05-05T16:17:15Z",
   "city": "Alhambra",
   "key": "the-hat-alhambra"
 }

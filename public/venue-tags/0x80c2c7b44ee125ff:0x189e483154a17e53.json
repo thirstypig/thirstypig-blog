@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "macarons",
-      "mention_count": 394
+      "mention_count": 393
     },
     {
       "label": "beignets",
@@ -20,15 +20,19 @@
     },
     {
       "label": "pastries",
-      "mention_count": 182
+      "mention_count": 185
     },
     {
       "label": "high ceilings",
-      "mention_count": 85
+      "mention_count": 86
     },
     {
       "label": "eggs benedict",
       "mention_count": 64
+    },
+    {
+      "label": "pistachio cake",
+      "mention_count": 32
     },
     {
       "label": "Tartufo Pizza",
@@ -36,14 +40,10 @@
     },
     {
       "label": "Chocolate Souffle",
-      "mention_count": 21
-    },
-    {
-      "label": "lobster hash",
-      "mention_count": 16
+      "mention_count": 20
     }
   ],
-  "scraped_at": "2026-04-30T05:24:15Z",
+  "scraped_at": "2026-05-05T16:20:44Z",
   "city": "Downtown LA",
   "key": "bottega-louie-downtown-l"
 }

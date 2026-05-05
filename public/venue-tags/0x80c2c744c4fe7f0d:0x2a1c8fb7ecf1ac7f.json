@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "ricotta toast",
-      "mention_count": 64
+      "mention_count": 65
     },
     {
-      "label": "french toast",
-      "mention_count": 46
+      "label": "pesto rice",
+      "mention_count": 20
     },
     {
       "label": "outdoor seating",
@@ -19,16 +19,12 @@
       "mention_count": 64
     },
     {
-      "label": "pesto rice",
-      "mention_count": 19
+      "label": "Scrambwavocado Toast the Woodstock",
+      "mention_count": 27
     },
     {
       "label": "people watching",
       "mention_count": 3
-    },
-    {
-      "label": "Scrambwavocado Toast the Woodstock",
-      "mention_count": 28
     },
     {
       "label": "crispy rice salad",
@@ -39,11 +35,15 @@
       "mention_count": 99
     },
     {
-      "label": "shakshuka",
-      "mention_count": 12
+      "label": "buckwheat pancake",
+      "mention_count": 9
+    },
+    {
+      "label": "quiche",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-04-29T18:47:13Z",
+  "scraped_at": "2026-05-05T16:12:25Z",
   "city": "Los Angeles",
   "key": "sqirl-silver-lake"
 }

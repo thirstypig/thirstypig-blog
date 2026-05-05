@@ -16,7 +16,11 @@
     },
     {
       "label": "shakes",
-      "mention_count": 27
+      "mention_count": 28
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 8
     },
     {
       "label": "veggie burger",
@@ -27,23 +31,19 @@
       "mention_count": 18
     },
     {
-      "label": "sweet potato fries",
-      "mention_count": 8
-    },
-    {
       "label": "onion rings",
       "mention_count": 14
     },
     {
-      "label": "cheeseburgers",
-      "mention_count": 10
+      "label": "french dip",
+      "mention_count": 5
     },
     {
       "label": "burger size",
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T00:14:21Z",
+  "scraped_at": "2026-05-05T16:13:37Z",
   "city": "Beverly Hills",
   "key": "home-of-the-pug-burger-beverly-hi"
 }

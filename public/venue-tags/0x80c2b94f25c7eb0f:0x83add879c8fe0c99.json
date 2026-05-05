@@ -16,7 +16,7 @@
     },
     {
       "label": "creamed corn",
-      "mention_count": 118
+      "mention_count": 119
     },
     {
       "label": "spinning salad",
@@ -31,19 +31,19 @@
       "mention_count": 29
     },
     {
-      "label": "Mac & Cheese Four Chesse",
+      "label": "mac n cheese",
       "mention_count": 29
     },
     {
       "label": "horseradish",
-      "mention_count": 35
+      "mention_count": 36
     },
     {
       "label": "baked alaska",
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-29T18:09:47Z",
+  "scraped_at": "2026-05-05T16:11:50Z",
   "city": "Beverly Hills",
   "key": "lawrys-the-prime-rib-beverly-hi"
 }

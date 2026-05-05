@@ -3,16 +3,20 @@
   "venue_name": "宜品福州乾拌麵",
   "chips": [
     {
-      "label": "dry noodles",
-      "mention_count": 184
+      "label": "wonton soup",
+      "mention_count": 35
     },
     {
-      "label": "chili oil and chili flakes",
-      "mention_count": 107
+      "label": "dry noodles",
+      "mention_count": 182
     },
     {
       "label": "dining environment",
       "mention_count": 20
+    },
+    {
+      "label": "chili oil and chili flakes",
+      "mention_count": 107
     },
     {
       "label": "red oil wontons",
@@ -27,10 +31,6 @@
       "mention_count": 34
     },
     {
-      "label": "wonton soup",
-      "mention_count": 35
-    },
-    {
       "label": "fool's noodles",
       "mention_count": 15
     },
@@ -40,10 +40,10 @@
     },
     {
       "label": "pan-fried chicken breast",
-      "mention_count": 18
+      "mention_count": 19
     }
   ],
-  "scraped_at": "2026-04-30T05:31:46Z",
+  "scraped_at": "2026-05-05T16:24:59Z",
   "city": "Taipei",
   "key": "宜品福州乾拌麵-taipei"
 }

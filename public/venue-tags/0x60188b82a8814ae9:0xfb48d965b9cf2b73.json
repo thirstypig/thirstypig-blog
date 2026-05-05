@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "spicy taste",
-      "mention_count": 82
+      "mention_count": 83
     },
     {
       "label": "free toppings",
@@ -16,7 +16,7 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 27
+      "mention_count": 28
     },
     {
       "label": "spicy ramen",
@@ -25,6 +25,10 @@
     {
       "label": "hakata ramen",
       "mention_count": 14
+    },
+    {
+      "label": "bean sprouts add-on",
+      "mention_count": 10
     },
     {
       "label": "vegan ramen",
@@ -36,14 +40,10 @@
     },
     {
       "label": "wait time",
-      "mention_count": 34
-    },
-    {
-      "label": "very firm noodles",
-      "mention_count": 3
+      "mention_count": 36
     }
   ],
-  "scraped_at": "2026-04-28T17:32:14Z",
+  "scraped_at": "2026-05-05T16:08:13Z",
   "city": "Tokyo",
   "key": "ippudo-tokyo"
 }

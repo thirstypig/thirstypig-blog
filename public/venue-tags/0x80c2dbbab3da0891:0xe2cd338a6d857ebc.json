@@ -3,7 +3,7 @@
   "venue_name": "SinBala",
   "chips": [
     {
-      "label": "Spicy Beef Noodle Soup",
+      "label": "beef noodle soup",
       "mention_count": 34
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T06:13:33Z",
+  "scraped_at": "2026-05-05T16:38:49Z",
   "city": "Arcadia",
   "key": "sinbala-arcadia"
 }

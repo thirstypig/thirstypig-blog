@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "salsa dancing",
-      "mention_count": 23
+      "mention_count": 22
     },
     {
       "label": "pollo a la brasa",
@@ -27,23 +27,23 @@
       "mention_count": 3
     },
     {
-      "label": "arroz con pollo",
-      "mention_count": 7
+      "label": "yuca",
+      "mention_count": 8
     },
     {
       "label": "rotisserie chicken",
-      "mention_count": 16
+      "mention_count": 17
+    },
+    {
+      "label": "arroz con pollo",
+      "mention_count": 6
     },
     {
       "label": "Aguadito Soup",
       "mention_count": 3
-    },
-    {
-      "label": "green sauce",
-      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-04-30T00:14:10Z",
+  "scraped_at": "2026-05-05T16:13:26Z",
   "city": "Gardena",
   "key": "peruvian-in-la-gardena"
 }

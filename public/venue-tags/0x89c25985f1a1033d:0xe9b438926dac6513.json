@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25985f1a1033d:0xe9b438926dac6513",
+  "venue_name": "Café Habana",
+  "chips": [
+    {
+      "label": "huevos rancheros",
+      "mention_count": 24
+    },
+    {
+      "label": "people watching",
+      "mention_count": 6
+    },
+    {
+      "label": "grilled corn",
+      "mention_count": 24
+    },
+    {
+      "label": "pork taco",
+      "mention_count": 16
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 21
+    },
+    {
+      "label": "burritos",
+      "mention_count": 54
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 14
+    },
+    {
+      "label": "street corn",
+      "mention_count": 15
+    },
+    {
+      "label": "shrimp tacos",
+      "mention_count": 12
+    },
+    {
+      "label": "eggs with chorizo",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-05T16:40:53Z",
+  "city": "New York",
+  "key": "café-habana-new-york"
+}

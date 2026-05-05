@@ -35,15 +35,15 @@
       "mention_count": 12
     },
     {
-      "label": "michelin recognition",
-      "mention_count": 10
+      "label": "tofu stew",
+      "mention_count": 8
     },
     {
-      "label": "beef tartare",
-      "mention_count": 6
+      "label": "michelin recognition",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-29T18:47:09Z",
+  "scraped_at": "2026-05-05T16:12:22Z",
   "city": "Koreatown",
   "key": "parks-bbq-koreatown"
 }

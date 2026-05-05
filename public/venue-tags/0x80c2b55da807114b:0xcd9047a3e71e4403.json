@@ -11,15 +11,15 @@
       "mention_count": 3
     },
     {
-      "label": "chicken karaage",
-      "mention_count": 4
-    },
-    {
       "label": "fire ramen",
       "mention_count": 3
     },
     {
       "label": "croquette",
+      "mention_count": 4
+    },
+    {
+      "label": "Chicken Karaage",
       "mention_count": 4
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-29T18:08:38Z",
+  "scraped_at": "2026-05-05T16:09:26Z",
   "city": "Gardena",
   "key": "asa-ramen-gardena"
 }

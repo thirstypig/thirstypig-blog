@@ -8,7 +8,7 @@
     },
     {
       "label": "lobster omelette",
-      "mention_count": 52
+      "mention_count": 53
     },
     {
       "label": "outdoor seating",
@@ -24,26 +24,26 @@
     },
     {
       "label": "pastries",
-      "mention_count": 408
+      "mention_count": 407
     },
     {
       "label": "potato pancake",
-      "mention_count": 49
+      "mention_count": 50
     },
     {
       "label": "short rib",
       "mention_count": 54
     },
     {
-      "label": "croque madame",
-      "mention_count": 52
-    },
-    {
       "label": "avocado toast",
       "mention_count": 43
+    },
+    {
+      "label": "baguette",
+      "mention_count": 147
     }
   ],
-  "scraped_at": "2026-04-28T17:31:15Z",
+  "scraped_at": "2026-05-05T16:07:31Z",
   "city": "Los Angeles",
   "key": "republique-la"
 }

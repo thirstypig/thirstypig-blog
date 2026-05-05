@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "moises",
-      "mention_count": 387
+      "mention_count": 385
     },
     {
       "label": "salad bar",
@@ -23,6 +23,10 @@
       "mention_count": 40
     },
     {
+      "label": "lamb",
+      "mention_count": 96
+    },
+    {
       "label": "ribeye",
       "mention_count": 34
     },
@@ -37,13 +41,9 @@
     {
       "label": "cheesecake",
       "mention_count": 30
-    },
-    {
-      "label": "kind staff",
-      "mention_count": 121
     }
   ],
-  "scraped_at": "2026-04-30T05:30:31Z",
+  "scraped_at": "2026-05-05T16:24:25Z",
   "city": "Beverly Hills",
   "key": "fogo-de-chao-beverly-hi"
 }

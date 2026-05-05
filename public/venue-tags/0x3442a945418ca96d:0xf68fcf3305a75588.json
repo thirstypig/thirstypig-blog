@@ -24,7 +24,7 @@
     },
     {
       "label": "crab sticky rice",
-      "mention_count": 60
+      "mention_count": 56
     },
     {
       "label": "braised pork belly",
@@ -39,11 +39,11 @@
       "mention_count": 35
     },
     {
-      "label": "peanut mochi",
-      "mention_count": 13
+      "label": "red crab rice cake",
+      "mention_count": 28
     }
   ],
-  "scraped_at": "2026-04-30T00:12:19Z",
+  "scraped_at": "2026-05-05T16:08:24Z",
   "city": "Taipei",
   "key": "shin-yeh-taipei"
 }

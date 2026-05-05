@@ -16,7 +16,7 @@
     },
     {
       "label": "brand selection",
-      "mention_count": 123
+      "mention_count": 122
     },
     {
       "label": "remodel",
@@ -24,26 +24,26 @@
     },
     {
       "label": "food options",
-      "mention_count": 203
+      "mention_count": 204
     },
     {
       "label": "variety of stores",
-      "mention_count": 176
+      "mention_count": 175
     },
     {
       "label": "christmas decorations",
       "mention_count": 35
     },
     {
-      "label": "fire pits",
-      "mention_count": 15
+      "label": "upscale mall",
+      "mention_count": 39
     },
     {
-      "label": "upscale mall",
-      "mention_count": 28
+      "label": "fire pits",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-30T00:21:13Z",
+  "scraped_at": "2026-05-05T16:18:06Z",
   "city": "San Gabriel Valley",
   "key": "what-high-school-kids-eat-to-grow-b-san-gabrie"
 }

@@ -3,10 +3,6 @@
   "venue_name": "Brooklyn Bagel & Coffee Company",
   "chips": [
     {
-      "label": "egg bagel",
-      "mention_count": 4
-    },
-    {
       "label": "nyc bagel",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "vegan options",
       "mention_count": 10
+    },
+    {
+      "label": "cannoli cream cheese",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:13:23Z",
+  "scraped_at": "2026-05-05T16:12:00Z",
   "city": "New York",
   "key": "brooklyn-bagel-coffee-company-new-york"
 }

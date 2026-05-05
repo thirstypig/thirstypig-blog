@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mac and cheese",
-      "mention_count": 83
+      "mention_count": 84
     },
     {
       "label": "texas style bbq",
@@ -16,7 +16,7 @@
     },
     {
       "label": "brisket",
-      "mention_count": 226
+      "mention_count": 228
     },
     {
       "label": "pork ribs",
@@ -31,19 +31,19 @@
       "mention_count": 9
     },
     {
-      "label": "poblano oaxaca sausage",
-      "mention_count": 10
-    },
-    {
-      "label": "banana pudding",
-      "mention_count": 16
+      "label": "beer selection",
+      "mention_count": 59
     },
     {
       "label": "kimchi fried rice",
-      "mention_count": 11
+      "mention_count": 12
+    },
+    {
+      "label": "poblano oaxaca sausage",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-29T01:05:04Z",
+  "scraped_at": "2026-05-05T16:12:19Z",
   "city": "East LA",
   "key": "moos-craft-barbecue-east-la"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "fish tacos",
-      "mention_count": 56
+      "mention_count": 57
     },
     {
       "label": "shrimp burrito",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:13:33Z",
+  "scraped_at": "2026-05-05T16:12:11Z",
   "city": "Sierra Madre",
   "key": "taco-tuesday-sierra-mad"
 }

@@ -8,11 +8,11 @@
     },
     {
       "label": "kbbq",
-      "mention_count": 22
+      "mention_count": 24
     },
     {
       "label": "banchan",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "label": "steamed egg",
@@ -28,22 +28,22 @@
     },
     {
       "label": "grill design",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "label": "jangjorim",
       "mention_count": 5
     },
     {
-      "label": "Ginseng Chicken Soup",
-      "mention_count": 16
+      "label": "congee",
+      "mention_count": 5
     },
     {
-      "label": "galbi jimm",
+      "label": "rib eye",
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T05:23:07Z",
+  "scraped_at": "2026-05-05T16:20:09Z",
   "city": "Koreatown",
   "key": "mountain-cafe-koreatown"
 }

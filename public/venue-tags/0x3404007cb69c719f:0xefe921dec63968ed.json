@@ -3,6 +3,10 @@
   "venue_name": "Tai Hing Roast Restaurant",
   "chips": [
     {
+      "label": "roasted meat rice",
+      "mention_count": 21
+    },
+    {
       "label": "roast goose",
       "mention_count": 17
     },
@@ -11,12 +15,12 @@
       "mention_count": 19
     },
     {
-      "label": "milk tea",
-      "mention_count": 22
-    },
-    {
       "label": "bbq pig",
       "mention_count": 10
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 22
     },
     {
       "label": "roasted pork belly",
@@ -25,10 +29,6 @@
     {
       "label": "dry-fried beef noodles",
       "mention_count": 3
-    },
-    {
-      "label": "roast goose rice",
-      "mention_count": 2
     },
     {
       "label": "cash only",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T06:03:18Z",
+  "scraped_at": "2026-05-05T16:33:49Z",
   "city": "Hong Kong",
   "key": "tai-hing-太興-hong-kong"
 }

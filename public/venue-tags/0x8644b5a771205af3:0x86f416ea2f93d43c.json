@@ -3,19 +3,19 @@
   "venue_name": "Voodoo Doughnut",
   "chips": [
     {
-      "label": "vegan options",
-      "mention_count": 213
+      "label": "memphis mafia donut",
+      "mention_count": 22
     },
     {
-      "label": "Bacon Maple Bar",
-      "mention_count": 77
+      "label": "vegan options",
+      "mention_count": 213
     },
     {
       "label": "live music",
       "mention_count": 10
     },
     {
-      "label": "voodoo doll",
+      "label": "Bacon Maple Bar",
       "mention_count": 77
     },
     {
@@ -24,7 +24,11 @@
     },
     {
       "label": "long lines",
-      "mention_count": 83
+      "mention_count": 82
+    },
+    {
+      "label": "unique designs",
+      "mention_count": 38
     },
     {
       "label": "butterfinger donut",
@@ -37,13 +41,9 @@
     {
       "label": "maple cream donut",
       "mention_count": 9
-    },
-    {
-      "label": "soft doughnuts",
-      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-04-30T06:15:41Z",
+  "scraped_at": "2026-05-05T16:39:48Z",
   "city": "Austin",
   "key": "voodoo-doughnut-austin"
 }

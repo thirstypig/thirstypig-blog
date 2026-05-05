@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mountain bikes",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "bike repair",
@@ -12,7 +12,7 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 103
+      "mention_count": 101
     },
     {
       "label": "bike rentals",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T06:15:57Z",
+  "scraped_at": "2026-05-05T16:39:56Z",
   "city": "Lockhart",
   "key": "made-a-trek-to-lockhart-lockhart"
 }

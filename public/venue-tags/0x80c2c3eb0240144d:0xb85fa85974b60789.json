@@ -7,6 +7,14 @@
       "mention_count": 11
     },
     {
+      "label": "asada",
+      "mention_count": 8
+    },
+    {
+      "label": "street tacos",
+      "mention_count": 4
+    },
+    {
       "label": "quesataco",
       "mention_count": 2
     },
@@ -33,17 +41,9 @@
     {
       "label": "dodgers",
       "mention_count": 2
-    },
-    {
-      "label": "affordability",
-      "mention_count": 2
-    },
-    {
-      "label": "street tacos",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-04-30T00:12:14Z",
+  "scraped_at": "2026-05-05T16:08:19Z",
   "city": "Los Angeles",
   "key": "ave-26-tacos-dtla"
 }

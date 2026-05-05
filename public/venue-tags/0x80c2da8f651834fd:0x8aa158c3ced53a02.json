@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "dim sum",
-      "mention_count": 290
+      "mention_count": 291
     },
     {
       "label": "har gow",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-04-28T17:31:33Z",
+  "scraped_at": "2026-05-05T16:07:42Z",
   "city": "Rosemead",
   "key": "sea-harbour-sgv"
 }

@@ -11,8 +11,8 @@
       "mention_count": 46
     },
     {
-      "label": "bar seating",
-      "mention_count": 5
+      "label": "dining environment",
+      "mention_count": 87
     },
     {
       "label": "nigiri sushi",
@@ -20,11 +20,11 @@
     },
     {
       "label": "sashimi",
-      "mention_count": 187
+      "mention_count": 186
     },
     {
-      "label": "dining environment",
-      "mention_count": 88
+      "label": "bar seating",
+      "mention_count": 3
     },
     {
       "label": "matcha ice cream",
@@ -35,15 +35,15 @@
       "mention_count": 24
     },
     {
-      "label": "fried durian",
+      "label": "Sea Urchin and Tuna Belly on Rice",
       "mention_count": 12
     },
     {
-      "label": "serving speed",
-      "mention_count": 86
+      "label": "fried durian",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-04-29T18:08:51Z",
+  "scraped_at": "2026-05-05T16:09:37Z",
   "city": "Taipei",
   "key": "mitsui-japanese-cuisine-三井日式料理-taipei"
 }

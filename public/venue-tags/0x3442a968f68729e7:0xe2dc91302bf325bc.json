@@ -7,16 +7,12 @@
       "mention_count": 51
     },
     {
-      "label": "peking duck",
-      "mention_count": 128
+      "label": "snow crab xi shi rice soup",
+      "mention_count": 36
     },
     {
       "label": "dining environment",
       "mention_count": 80
-    },
-    {
-      "label": "snow crab xi shi rice soup",
-      "mention_count": 36
     },
     {
       "label": "xishi pao fan",
@@ -27,23 +23,27 @@
       "mention_count": 47
     },
     {
-      "label": "crab roe mapo tofu",
-      "mention_count": 27
-    },
-    {
       "label": "shredded radish pastry",
       "mention_count": 39
+    },
+    {
+      "label": "winter melon soup",
+      "mention_count": 13
     },
     {
       "label": "michelin plate recommendation",
       "mention_count": 40
     },
     {
-      "label": "winter melon soup",
-      "mention_count": 13
+      "label": "char siu",
+      "mention_count": 105
+    },
+    {
+      "label": "crispy roasted pork",
+      "mention_count": 35
     }
   ],
-  "scraped_at": "2026-04-30T05:26:59Z",
+  "scraped_at": "2026-05-05T16:22:49Z",
   "city": "Taipei",
   "key": "晶華軒-silks-house-taipei"
 }

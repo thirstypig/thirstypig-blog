@@ -7,10 +7,6 @@
       "mention_count": 3
     },
     {
-      "label": "kimchi bean sprouts",
-      "mention_count": 2
-    },
-    {
       "label": "pork belly",
       "mention_count": 16
     },
@@ -41,9 +37,13 @@
     {
       "label": "nice workers",
       "mention_count": 2
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T00:14:58Z",
+  "scraped_at": "2026-05-05T16:13:59Z",
   "city": "Koreatown",
   "key": "honey-pig-koreatown"
 }

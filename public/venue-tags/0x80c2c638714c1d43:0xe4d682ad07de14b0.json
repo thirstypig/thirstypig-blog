@@ -11,8 +11,8 @@
       "mention_count": 6
     },
     {
-      "label": "outdoor dining",
-      "mention_count": 8
+      "label": "outdoor seating",
+      "mention_count": 6
     },
     {
       "label": "Spam Musubi",
@@ -35,15 +35,15 @@
       "mention_count": 3
     },
     {
-      "label": "wait time",
-      "mention_count": 42
-    },
-    {
       "label": "long lines",
       "mention_count": 11
+    },
+    {
+      "label": "wait time",
+      "mention_count": 40
     }
   ],
-  "scraped_at": "2026-04-30T00:14:52Z",
+  "scraped_at": "2026-05-05T16:13:57Z",
   "city": "Little Tokyo",
   "key": "shin-sen-gumi-hakata-ramen-little-t-little-tok"
 }

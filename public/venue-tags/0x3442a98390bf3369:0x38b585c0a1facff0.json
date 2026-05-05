@@ -3,10 +3,6 @@
   "venue_name": "Stop By Tea House",
   "chips": [
     {
-      "label": "tea brewing",
-      "mention_count": 13
-    },
-    {
       "label": "comfortable space",
       "mention_count": 17
     },
@@ -24,7 +20,7 @@
     },
     {
       "label": "friendly owner",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "label": "winding water banquet",
@@ -41,9 +37,13 @@
     {
       "label": "taiwanese tea ceremony",
       "mention_count": 2
+    },
+    {
+      "label": "tea selection",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-04-30T05:28:55Z",
+  "scraped_at": "2026-05-05T16:23:42Z",
   "city": "Taipei",
   "key": "串門子茶館-stop-by-tea-house-taipei"
 }

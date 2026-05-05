@@ -24,7 +24,7 @@
     },
     {
       "label": "watching games",
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "label": "happy hour",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:23:49Z",
+  "scraped_at": "2026-05-05T16:20:31Z",
   "city": "Dtla",
   "key": "big-wangs-dtla"
 }

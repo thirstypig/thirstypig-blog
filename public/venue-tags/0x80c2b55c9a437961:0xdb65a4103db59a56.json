@@ -15,16 +15,16 @@
       "mention_count": 13
     },
     {
-      "label": "beef tongue",
-      "mention_count": 9
-    },
-    {
       "label": "meatballs",
       "mention_count": 14
     },
     {
       "label": "small portions",
       "mention_count": 10
+    },
+    {
+      "label": "Beef Tongue",
+      "mention_count": 9
     },
     {
       "label": "yakitori selection",
@@ -39,11 +39,11 @@
       "mention_count": 5
     },
     {
-      "label": "scallops",
-      "mention_count": 5
+      "label": "Fried Oyster Curry",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:21:16Z",
+  "scraped_at": "2026-05-05T16:19:01Z",
   "city": "Gardena",
   "key": "shin-sen-gumi-yakitori-gardena"
 }

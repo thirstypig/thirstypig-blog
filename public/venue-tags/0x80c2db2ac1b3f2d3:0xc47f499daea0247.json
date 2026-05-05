@@ -23,11 +23,7 @@
       "mention_count": 2
     },
     {
-      "label": "fish",
-      "mention_count": 2
-    },
-    {
-      "label": "food",
+      "label": "rice cake",
       "mention_count": 4
     },
     {
@@ -35,11 +31,15 @@
       "mention_count": 3
     },
     {
-      "label": "rice cake",
+      "label": "food",
       "mention_count": 4
+    },
+    {
+      "label": "fish",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-29T18:08:34Z",
+  "scraped_at": "2026-05-05T16:09:24Z",
   "city": "San Gabriel",
   "key": "southern-mini-town-restaurant-小南國-san-gabrie"
 }

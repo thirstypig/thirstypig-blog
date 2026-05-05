@@ -8,7 +8,7 @@
     },
     {
       "label": "cash only",
-      "mention_count": 92
+      "mention_count": 91
     },
     {
       "label": "counter seating",
@@ -20,7 +20,7 @@
     },
     {
       "label": "portions",
-      "mention_count": 225
+      "mention_count": 224
     },
     {
       "label": "hashbrowns",
@@ -28,7 +28,7 @@
     },
     {
       "label": "pancakes",
-      "mention_count": 163
+      "mention_count": 160
     },
     {
       "label": "long lines",
@@ -43,7 +43,7 @@
       "mention_count": 21
     }
   ],
-  "scraped_at": "2026-04-30T00:16:36Z",
+  "scraped_at": "2026-05-05T16:15:14Z",
   "city": "Downtown LA",
   "key": "pantry-downtown-l"
 }

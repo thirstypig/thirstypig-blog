@@ -15,12 +15,12 @@
       "mention_count": 46
     },
     {
-      "label": "queso fundido sausage",
-      "mention_count": 24
-    },
-    {
       "label": "okra beans",
       "mention_count": 35
+    },
+    {
+      "label": "queso fundido sausage",
+      "mention_count": 24
     },
     {
       "label": "shaded seating",
@@ -39,11 +39,11 @@
       "mention_count": 4
     },
     {
-      "label": "texas bbq",
-      "mention_count": 20
+      "label": "pork ribs",
+      "mention_count": 31
     }
   ],
-  "scraped_at": "2026-04-30T06:14:53Z",
+  "scraped_at": "2026-05-05T16:39:23Z",
   "city": "San Antonio",
   "key": "texas-toast-smoked-octopus-beef-bri-san-antoni"
 }

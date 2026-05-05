@@ -7,6 +7,10 @@
       "mention_count": 123
     },
     {
+      "label": "eggplant dish",
+      "mention_count": 134
+    },
+    {
       "label": "xiao long bao",
       "mention_count": 101
     },
@@ -24,7 +28,7 @@
     },
     {
       "label": "siew mai",
-      "mention_count": 40
+      "mention_count": 39
     },
     {
       "label": "turnip cake",
@@ -37,13 +41,9 @@
     {
       "label": "chili dim sum",
       "mention_count": 19
-    },
-    {
-      "label": "cash only",
-      "mention_count": 26
     }
   ],
-  "scraped_at": "2026-04-30T00:13:07Z",
+  "scraped_at": "2026-05-05T16:11:00Z",
   "city": "Hong Kong",
   "key": "dimdimsum-dim-sum-specialty-store-點-hong-kong"
 }

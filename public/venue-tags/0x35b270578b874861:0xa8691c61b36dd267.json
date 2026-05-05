@@ -7,8 +7,8 @@
       "mention_count": 32
     },
     {
-      "label": "rooftop",
-      "mention_count": 20
+      "label": "rooftop bar",
+      "mention_count": 5
     },
     {
       "label": "nightclub",
@@ -23,8 +23,8 @@
       "mention_count": 2
     },
     {
-      "label": "rooftop bar",
-      "mention_count": 5
+      "label": "skyline of shanghai",
+      "mention_count": 3
     },
     {
       "label": "dress code",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-28T21:45:59Z",
+  "scraped_at": "2026-05-05T16:09:07Z",
   "city": "Shanghai",
   "key": "bar-rouge-shanghai"
 }

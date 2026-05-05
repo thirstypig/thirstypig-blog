@@ -7,10 +7,6 @@
       "mention_count": 69
     },
     {
-      "label": "braised beef",
-      "mention_count": 26
-    },
-    {
       "label": "Teuk Galbi Tang",
       "mention_count": 20
     },
@@ -31,6 +27,10 @@
       "mention_count": 11
     },
     {
+      "label": "braised beef",
+      "mention_count": 6
+    },
+    {
       "label": "purple rice",
       "mention_count": 6
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:17:23Z",
+  "scraped_at": "2026-05-05T16:15:39Z",
   "city": "San Gabriel Valley",
   "key": "seoul-food-in-san-gabriel-valley-san-gabrie"
 }

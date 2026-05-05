@@ -7,16 +7,16 @@
       "mention_count": 200
     },
     {
-      "label": "brussel sprouts",
-      "mention_count": 159
+      "label": "bone marrow",
+      "mention_count": 77
     },
     {
       "label": "happy hour",
       "mention_count": 370
     },
     {
-      "label": "bone marrow",
-      "mention_count": 77
+      "label": "brussel sprouts",
+      "mention_count": 159
     },
     {
       "label": "beef shoulder",
@@ -36,14 +36,14 @@
     },
     {
       "label": "deviled eggs",
-      "mention_count": 60
+      "mention_count": 59
     },
     {
       "label": "pork belly",
       "mention_count": 58
     }
   ],
-  "scraped_at": "2026-04-30T06:16:12Z",
+  "scraped_at": "2026-05-05T16:40:04Z",
   "city": "Austin",
   "key": "salty-sow-austin"
 }

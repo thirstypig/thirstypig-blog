@@ -3,28 +3,24 @@
   "venue_name": "鮮定味生猛活海鮮",
   "chips": [
     {
-      "label": "hakka stir-fry",
-      "mention_count": 8
-    },
-    {
       "label": "taiwanese cuisine",
-      "mention_count": 20
-    },
-    {
-      "label": "izakaya",
-      "mention_count": 33
+      "mention_count": 18
     },
     {
       "label": "spicy pork intestine hot pot",
       "mention_count": 10
     },
     {
-      "label": "bitter gourd with salted egg",
-      "mention_count": 12
+      "label": "izakaya",
+      "mention_count": 33
     },
     {
-      "label": "three-cup squid",
-      "mention_count": 6
+      "label": "hakka stir-fry",
+      "mention_count": 8
+    },
+    {
+      "label": "bitter gourd with salted egg",
+      "mention_count": 12
     },
     {
       "label": "stinky tofu",
@@ -39,11 +35,15 @@
       "mention_count": 91
     },
     {
+      "label": "ginger and large intestine",
+      "mention_count": 9
+    },
+    {
       "label": "fried oyster crisps",
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-04-30T00:16:20Z",
+  "scraped_at": "2026-05-05T16:14:38Z",
   "city": "Taipei",
   "key": "鮮定味-taipei"
 }

@@ -19,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "lamb shank",
+      "label": "half chicken",
       "mention_count": 4
     },
     {
-      "label": "combo kabob",
-      "mention_count": 2
+      "label": "lamb shank",
+      "mention_count": 4
     },
     {
       "label": "family run",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:22:30Z",
+  "scraped_at": "2026-05-05T16:19:47Z",
   "city": "Los Angeles",
   "key": "sultan-chicken-los-angele"
 }

@@ -11,20 +11,20 @@
       "mention_count": 30
     },
     {
-      "label": "mole tacos",
-      "mention_count": 15
-    },
-    {
       "label": "aguas frescas",
       "mention_count": 31
     },
     {
-      "label": "chorizo tacos",
-      "mention_count": 12
+      "label": "mole tacos",
+      "mention_count": 15
     },
     {
       "label": "handmade tortillas",
       "mention_count": 24
+    },
+    {
+      "label": "chorizo tacos",
+      "mention_count": 12
     },
     {
       "label": "sampler platter",
@@ -43,7 +43,7 @@
       "mention_count": 25
     }
   ],
-  "scraped_at": "2026-04-28T17:31:24Z",
+  "scraped_at": "2026-05-05T16:07:36Z",
   "city": "Los Angeles",
   "key": "guisados-boyle-heights"
 }

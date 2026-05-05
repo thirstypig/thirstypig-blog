@@ -4,11 +4,15 @@
   "chips": [
     {
       "label": "turkish food",
-      "mention_count": 14
+      "mention_count": 16
     },
     {
       "label": "halal food",
       "mention_count": 12
+    },
+    {
+      "label": "kebab",
+      "mention_count": 8
     },
     {
       "label": "adana kebab",
@@ -37,13 +41,9 @@
     {
       "label": "tasty food",
       "mention_count": 4
-    },
-    {
-      "label": "meat",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:38:29Z",
+  "scraped_at": "2026-05-05T16:28:05Z",
   "city": "Shanghai",
   "key": "pasha-帕夏土耳其餐厅-shanghai"
 }

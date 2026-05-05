@@ -23,12 +23,12 @@
       "mention_count": 40
     },
     {
-      "label": "au jus",
-      "mention_count": 36
-    },
-    {
       "label": "old fashioned",
       "mention_count": 41
+    },
+    {
+      "label": "au jus",
+      "mention_count": 36
     },
     {
       "label": "mac and cheese",
@@ -43,7 +43,7 @@
       "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-28T21:45:30Z",
+  "scraped_at": "2026-05-05T16:08:22Z",
   "city": "Los Angeles",
   "key": "coles-french-dip-dtla"
 }

@@ -3,8 +3,8 @@
   "venue_name": "J J Hong Kong Cafe",
   "chips": [
     {
-      "label": "Indo Fried Rice",
-      "mention_count": 4
+      "label": "hong kong style milk tea",
+      "mention_count": 6
     },
     {
       "label": "hong kong style western food",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:17:18Z",
+  "scraped_at": "2026-05-05T16:15:36Z",
   "city": "Monterey Park",
   "key": "late-night-yummies-monterey-p"
 }

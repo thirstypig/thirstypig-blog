@@ -3,6 +3,10 @@
   "venue_name": "Ravello Osteria",
   "chips": [
     {
+      "label": "Ribe Eye Steak",
+      "mention_count": 24
+    },
+    {
       "label": "cash only",
       "mention_count": 34
     },
@@ -37,13 +41,9 @@
     {
       "label": "Linguini with Lobster",
       "mention_count": 5
-    },
-    {
-      "label": "communal tables",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T05:29:27Z",
+  "scraped_at": "2026-05-05T16:23:59Z",
   "city": "Monterey Park",
   "key": "the-last-great-pizzeria-monterey-p"
 }

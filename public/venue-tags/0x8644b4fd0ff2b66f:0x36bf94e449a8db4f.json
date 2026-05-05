@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "patio",
-      "mention_count": 249
+      "mention_count": 248
     },
     {
       "label": "lobster roll",
-      "mention_count": 76
+      "mention_count": 77
     },
     {
       "label": "people watching",
@@ -19,20 +19,12 @@
       "mention_count": 168
     },
     {
-      "label": "grilled octopus",
-      "mention_count": 28
-    },
-    {
-      "label": "bar seating",
-      "mention_count": 16
-    },
-    {
       "label": "ceviche",
       "mention_count": 50
     },
     {
-      "label": "happy hour",
-      "mention_count": 17
+      "label": "bar seating",
+      "mention_count": 16
     },
     {
       "label": "brussel sprouts",
@@ -41,9 +33,17 @@
     {
       "label": "crab cake",
       "mention_count": 19
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 17
+    },
+    {
+      "label": "Ahi Tuna Tostadas",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-04-30T06:15:04Z",
+  "scraped_at": "2026-05-05T16:39:28Z",
   "city": "Austin",
   "key": "perlassouthcongress-austin"
 }

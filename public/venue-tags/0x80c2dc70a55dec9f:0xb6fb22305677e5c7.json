@@ -11,11 +11,7 @@
       "mention_count": 16
     },
     {
-      "label": "fish and chips",
-      "mention_count": 35
-    },
-    {
-      "label": "fried chicken sandwich",
+      "label": "cottage pie",
       "mention_count": 2
     },
     {
@@ -23,7 +19,7 @@
       "mention_count": 5
     },
     {
-      "label": "cottage pie",
+      "label": "fried chicken sandwich",
       "mention_count": 2
     },
     {
@@ -31,19 +27,23 @@
       "mention_count": 2
     },
     {
+      "label": "bangers and mash",
+      "mention_count": 2
+    },
+    {
       "label": "cold pint",
       "mention_count": 2
     },
     {
-      "label": "bangers and mash",
-      "mention_count": 2
+      "label": "pasties",
+      "mention_count": 3
     },
     {
       "label": "pretzel",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:28:24Z",
+  "scraped_at": "2026-05-05T16:23:26Z",
   "city": "Pasadena",
   "key": "lucky-baldwins-of-sierra-madre-pasadena"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "spam musubi",
-      "mention_count": 95
+      "mention_count": 96
     },
     {
       "label": "hawaiian food",
@@ -35,15 +35,15 @@
       "mention_count": 17
     },
     {
-      "label": "teri chicken",
-      "mention_count": 16
+      "label": "furikake",
+      "mention_count": 15
     },
     {
-      "label": "furikake",
-      "mention_count": 14
+      "label": "teri chicken",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-04-30T05:25:56Z",
+  "scraped_at": "2026-05-05T16:22:22Z",
   "city": "Los Angeles",
   "key": "broken-mouth-lees-homestyle-los-angele"
 }

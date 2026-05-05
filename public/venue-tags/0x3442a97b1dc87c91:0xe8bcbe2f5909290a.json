@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "comfortable chairs",
-      "mention_count": 93
+      "mention_count": 92
     },
     {
       "label": "artistic atmosphere",
-      "mention_count": 44
+      "mention_count": 45
     },
     {
       "label": "niche movies",
@@ -43,7 +43,7 @@
       "mention_count": 20
     }
   ],
-  "scraped_at": "2026-04-30T05:27:04Z",
+  "scraped_at": "2026-05-05T16:22:52Z",
   "city": "Taipei",
   "key": "spot-huashan-光點華山-taipei"
 }

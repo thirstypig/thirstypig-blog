@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "pan-fried buns",
-      "mention_count": 108
-    },
-    {
-      "label": "dumplings",
-      "mention_count": 27
-    },
-    {
-      "label": "limited seating",
-      "mention_count": 6
+      "mention_count": 134
     },
     {
       "label": "truffle flavor",
       "mention_count": 91
     },
     {
-      "label": "indoor seating",
-      "mention_count": 6
+      "label": "limited seating",
+      "mention_count": 4
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 27
     },
     {
       "label": "xiao long bao",
       "mention_count": 27
     },
     {
-      "label": "michelin star",
-      "mention_count": 26
+      "label": "indoor seating",
+      "mention_count": 6
     },
     {
-      "label": "truffle dim sum",
-      "mention_count": 10
+      "label": "pan fried dumplings",
+      "mention_count": 28
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 26
     },
     {
       "label": "shrimp pan-fried buns",
       "mention_count": 11
     },
     {
-      "label": "crispy bottom",
-      "mention_count": 11
+      "label": "tangbao",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T06:03:23Z",
+  "scraped_at": "2026-05-05T16:33:52Z",
   "city": "Hong Kong",
   "key": "cheung-hing-kee-shanghai-pan-fried--hong-kong"
 }

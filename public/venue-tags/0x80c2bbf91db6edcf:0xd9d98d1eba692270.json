@@ -12,7 +12,7 @@
     },
     {
       "label": "live music",
-      "mention_count": 9
+      "mention_count": 8
     },
     {
       "label": "lobster pasta",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T06:03:02Z",
+  "scraped_at": "2026-05-05T16:33:41Z",
   "city": "Los Angeles",
   "key": "the-blvd-los-angele"
 }

@@ -3,7 +3,7 @@
   "venue_name": "The Lab Gastropub",
   "chips": [
     {
-      "label": "spinach dip",
+      "label": "Spinach Dip",
       "mention_count": 12
     },
     {
@@ -23,12 +23,16 @@
       "mention_count": 2
     },
     {
-      "label": "beer selection",
-      "mention_count": 11
-    },
-    {
       "label": "pita chips",
       "mention_count": 2
+    },
+    {
+      "label": "beer selection",
+      "mention_count": 10
+    },
+    {
+      "label": "guacamole",
+      "mention_count": 4
     },
     {
       "label": "pricing",
@@ -37,13 +41,9 @@
     {
       "label": "happy hour",
       "mention_count": 16
-    },
-    {
-      "label": "guacamole",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T06:03:07Z",
+  "scraped_at": "2026-05-05T16:33:44Z",
   "city": "Los Angeles",
   "key": "the-lab-gastropub-los-angele"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "char siu bao",
-      "mention_count": 228
+      "mention_count": 229
     },
     {
       "label": "melon bread",
@@ -12,15 +12,11 @@
     },
     {
       "label": "michelin star",
-      "mention_count": 199
+      "mention_count": 197
     },
     {
       "label": "har gow",
-      "mention_count": 86
-    },
-    {
-      "label": "glutinous rice chicken",
-      "mention_count": 28
+      "mention_count": 87
     },
     {
       "label": "turnip cake",
@@ -41,9 +37,13 @@
     {
       "label": "crispy char siu bao",
       "mention_count": 15
+    },
+    {
+      "label": "beef balls",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-28T17:32:10Z",
+  "scraped_at": "2026-05-05T16:08:11Z",
   "city": "Hong Kong",
   "key": "tim-ho-wan-hk"
 }

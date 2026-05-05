@@ -3,20 +3,16 @@
   "venue_name": "INKA WASi DTLA",
   "chips": [
     {
-      "label": "complimentary soup",
-      "mention_count": 11
-    },
-    {
       "label": "picarones",
       "mention_count": 3
     },
     {
-      "label": "cozy atmosphere",
-      "mention_count": 4
-    },
-    {
       "label": "pollo a la brasa",
       "mention_count": 10
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 4
     },
     {
       "label": "chipotle",
@@ -41,9 +37,13 @@
     {
       "label": "kind staff",
       "mention_count": 8
+    },
+    {
+      "label": "food made with love",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:20:46Z",
+  "scraped_at": "2026-05-05T16:17:52Z",
   "city": "Dtla",
   "key": "mo-chica-dtla"
 }

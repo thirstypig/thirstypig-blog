@@ -16,7 +16,7 @@
     },
     {
       "label": "corn chips",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "label": "shredded beef burrito",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-30T00:12:35Z",
+  "scraped_at": "2026-05-05T16:09:10Z",
   "city": "Taipei",
   "key": "oola-taipei"
 }

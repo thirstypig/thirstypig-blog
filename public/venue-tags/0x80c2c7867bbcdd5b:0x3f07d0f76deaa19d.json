@@ -23,12 +23,12 @@
       "mention_count": 3
     },
     {
-      "label": "salads",
-      "mention_count": 12
-    },
-    {
       "label": "chicken rice wrap",
       "mention_count": 2
+    },
+    {
+      "label": "cookies",
+      "mention_count": 7
     },
     {
       "label": "roasted potatoes",
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "cookies",
-      "mention_count": 6
+      "label": "pita bread",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T00:20:36Z",
+  "scraped_at": "2026-05-05T16:17:29Z",
   "city": "Hollywood",
   "key": "california-chicken-cafe-hollywood"
 }

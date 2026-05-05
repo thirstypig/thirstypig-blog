@@ -15,12 +15,12 @@
       "mention_count": 5
     },
     {
-      "label": "scallion pancakes",
-      "mention_count": 4
-    },
-    {
       "label": "take out only",
       "mention_count": 7
+    },
+    {
+      "label": "scallion pancakes",
+      "mention_count": 4
     },
     {
       "label": "pork shumai",
@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
+      "label": "Pork Hui Tou",
+      "mention_count": 2
+    },
+    {
       "label": "minced pork noodles 卤肉面",
       "mention_count": 2
     },
     {
       "label": "chili oil",
       "mention_count": 6
-    },
-    {
-      "label": "three flavor dumplings",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-28T21:45:24Z",
+  "scraped_at": "2026-05-05T16:08:16Z",
   "city": "San Gabriel",
   "key": "hui-tou-xiang-sgv"
 }

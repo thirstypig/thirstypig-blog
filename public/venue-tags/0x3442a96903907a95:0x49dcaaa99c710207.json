@@ -20,15 +20,15 @@
     },
     {
       "label": "spicy hot pot",
-      "mention_count": 117
+      "mention_count": 116
     },
     {
       "label": "dining environment",
       "mention_count": 53
     },
     {
-      "label": "duck blood and tofu",
-      "mention_count": 32
+      "label": "duck blood",
+      "mention_count": 31
     },
     {
       "label": "beef short ribs",
@@ -43,7 +43,7 @@
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-28T04:44:52Z",
+  "scraped_at": "2026-05-05T16:07:12Z",
   "city": "Taipei",
   "key": "wulao-hotpot-taipei"
 }

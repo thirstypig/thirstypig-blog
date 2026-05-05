@@ -19,15 +19,15 @@
       "mention_count": 2
     },
     {
-      "label": "bar",
+      "label": "food",
       "mention_count": 2
     },
     {
-      "label": "food",
+      "label": "bar",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T06:12:45Z",
+  "scraped_at": "2026-05-05T16:37:56Z",
   "city": "Shanghai",
   "key": "datong-mill-aka-found-158-大同坊-158坊-shanghai"
 }

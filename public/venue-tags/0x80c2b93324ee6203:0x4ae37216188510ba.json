@@ -31,19 +31,19 @@
       "mention_count": 6
     },
     {
-      "label": "rigatoni bolognese",
-      "mention_count": 5
-    },
-    {
       "label": "meatballs",
       "mention_count": 70
     },
     {
       "label": "cavatelli",
       "mention_count": 5
+    },
+    {
+      "label": "mozzarella sticks",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-04-30T00:13:44Z",
+  "scraped_at": "2026-05-05T16:12:30Z",
   "city": "Los Angeles",
   "key": "animal-la"
 }

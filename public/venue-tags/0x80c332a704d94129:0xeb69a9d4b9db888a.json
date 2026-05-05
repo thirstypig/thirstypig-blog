@@ -23,12 +23,12 @@
       "mention_count": 2
     },
     {
-      "label": "large portions",
-      "mention_count": 8
-    },
-    {
       "label": "seafood soup",
       "mention_count": 2
+    },
+    {
+      "label": "large portions",
+      "mention_count": 7
     },
     {
       "label": "spicy level",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T05:23:02Z",
+  "scraped_at": "2026-05-05T16:20:06Z",
   "city": "Chino Hills",
   "key": "happy-kitchen-chino-hill"
 }

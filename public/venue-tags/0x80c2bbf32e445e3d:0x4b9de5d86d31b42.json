@@ -3,16 +3,16 @@
   "venue_name": "Craft Los Angeles",
   "chips": [
     {
-      "label": "potato puree",
-      "mention_count": 7
-    },
-    {
-      "label": "outdoor seating",
-      "mention_count": 9
+      "label": "wagyu",
+      "mention_count": 5
     },
     {
       "label": "kitchen tour",
       "mention_count": 5
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
     },
     {
       "label": "chocolate chip cookies",
@@ -23,27 +23,27 @@
       "mention_count": 5
     },
     {
+      "label": "flat iron steak",
+      "mention_count": 5
+    },
+    {
+      "label": "mushrooms",
+      "mention_count": 12
+    },
+    {
       "label": "Amuse Buche",
       "mention_count": 3
     },
     {
+      "label": "short ribs",
+      "mention_count": 8
+    },
+    {
       "label": "pork belly",
-      "mention_count": 5
-    },
-    {
-      "label": "granola",
-      "mention_count": 5
-    },
-    {
-      "label": "efficient staff",
-      "mention_count": 3
-    },
-    {
-      "label": "flat iron steak",
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-04-30T05:22:25Z",
+  "scraped_at": "2026-05-05T16:19:43Z",
   "city": "Los Angeles",
   "key": "craft-los-angele"
 }

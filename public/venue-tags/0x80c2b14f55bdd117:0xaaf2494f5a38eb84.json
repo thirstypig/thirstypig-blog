@@ -3,10 +3,6 @@
   "venue_name": "I Heart Mac & Cheese - Los Angeles, CA",
   "chips": [
     {
-      "label": "grilled cheese",
-      "mention_count": 10
-    },
-    {
       "label": "mac and cheese",
       "mention_count": 9
     },
@@ -41,9 +37,13 @@
     {
       "label": "gluten free options",
       "mention_count": 4
+    },
+    {
+      "label": "jalapeños",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-04-30T05:23:17Z",
+  "scraped_at": "2026-05-05T16:20:14Z",
   "city": "Dtla",
   "key": "mac-cheeza-dtla"
 }

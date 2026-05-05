@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 1184
+      "mention_count": 1185
     },
     {
       "label": "texas bbq",
@@ -16,7 +16,7 @@
     },
     {
       "label": "corn casserole",
-      "mention_count": 153
+      "mention_count": 151
     },
     {
       "label": "brussel sprouts",
@@ -32,7 +32,7 @@
     },
     {
       "label": "potato salad",
-      "mention_count": 203
+      "mention_count": 204
     },
     {
       "label": "mac and cheese",
@@ -43,7 +43,7 @@
       "mention_count": 55
     }
   ],
-  "scraped_at": "2026-04-29T18:09:43Z",
+  "scraped_at": "2026-05-05T16:11:47Z",
   "city": "Austin",
   "key": "stiles-switch-bbq-brew-austin"
 }

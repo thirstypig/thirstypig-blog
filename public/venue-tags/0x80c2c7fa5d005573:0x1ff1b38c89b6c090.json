@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7fa5d005573:0x1ff1b38c89b6c090",
+  "venue_name": "Tacos 1986",
+  "chips": [
+    {
+      "label": "adobada tacos",
+      "mention_count": 39
+    },
+    {
+      "label": "mushroom tacos",
+      "mention_count": 31
+    },
+    {
+      "label": "busy atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "al pastor",
+      "mention_count": 27
+    },
+    {
+      "label": "handmade tortillas",
+      "mention_count": 16
+    },
+    {
+      "label": "vampiro",
+      "mention_count": 10
+    },
+    {
+      "label": "standing room only",
+      "mention_count": 10
+    },
+    {
+      "label": "carne asada tacos",
+      "mention_count": 18
+    },
+    {
+      "label": "mulitas",
+      "mention_count": 8
+    },
+    {
+      "label": "fresh tortillas",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-05T16:41:00Z",
+  "city": "Los Angeles",
+  "key": "tacos-1986-los-angele"
+}

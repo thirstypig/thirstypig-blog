@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "xiaolongbao",
-      "mention_count": 119
+      "mention_count": 120
     },
     {
       "label": "salty soy milk",
@@ -23,10 +23,6 @@
       "mention_count": 25
     },
     {
-      "label": "rice ball",
-      "mention_count": 52
-    },
-    {
       "label": "japanese menu",
       "mention_count": 67
     },
@@ -41,9 +37,13 @@
     {
       "label": "taiwanese-style onigiri",
       "mention_count": 10
+    },
+    {
+      "label": "iced soy milk",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-04-30T05:29:33Z",
+  "scraped_at": "2026-05-05T16:24:02Z",
   "city": "Taipei",
   "key": "世界豆漿大王-taipei"
 }

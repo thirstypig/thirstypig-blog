@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "danzai noodles",
-      "mention_count": 443
-    },
-    {
-      "label": "tainan snacks",
-      "mention_count": 40
-    },
-    {
-      "label": "dining environment",
-      "mention_count": 88
-    },
-    {
-      "label": "traditional tofu pudding",
-      "mention_count": 46
+      "mention_count": 445
     },
     {
       "label": "stir-fried eel",
       "mention_count": 13
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 87
+    },
+    {
+      "label": "tainan snacks",
+      "mention_count": 37
+    },
+    {
+      "label": "traditional tofu pudding",
+      "mention_count": 46
     },
     {
       "label": "oyster omelette",
@@ -43,7 +43,7 @@
       "mention_count": 10
     }
   ],
-  "scraped_at": "2026-04-30T05:28:45Z",
+  "scraped_at": "2026-05-05T16:23:37Z",
   "city": "Taipei",
   "key": "braised-pork-rice-at-台南度小月-tu-hsiao-taipei"
 }

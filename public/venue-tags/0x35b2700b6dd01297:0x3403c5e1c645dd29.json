@@ -27,6 +27,10 @@
       "mention_count": 2
     },
     {
+      "label": "kokumi",
+      "mention_count": 2
+    },
+    {
       "label": "lively atmosphere",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "gourmand",
       "mention_count": 2
-    },
-    {
-      "label": "Richness",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:13:54Z",
+  "scraped_at": "2026-05-05T16:13:12Z",
   "city": "Shanghai",
   "key": "a-niang-noodles-阿娘面-shanghai"
 }

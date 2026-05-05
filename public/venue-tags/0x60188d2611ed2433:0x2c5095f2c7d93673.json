@@ -12,23 +12,19 @@
     },
     {
       "label": "table seating",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "label": "thick-cut samgyeopsal",
       "mention_count": 15
     },
     {
-      "label": "all-you-can-drink soft drinks",
-      "mention_count": 19
+      "label": "all-you-can-drink",
+      "mention_count": 18
     },
     {
       "label": "japchae",
       "mention_count": 30
-    },
-    {
-      "label": "cheese dakgalbi",
-      "mention_count": 3
     },
     {
       "label": "all-you-can-eat",
@@ -39,11 +35,15 @@
       "mention_count": 9
     },
     {
-      "label": "sundubu jjigae",
+      "label": "makgeolli",
+      "mention_count": 7
+    },
+    {
+      "label": "sundubu",
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-04-30T00:16:25Z",
+  "scraped_at": "2026-05-05T16:15:08Z",
   "city": "Tokyo",
   "key": "味ちゃん-1号店-tokyo"
 }

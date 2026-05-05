@@ -23,27 +23,27 @@
       "mention_count": 3
     },
     {
-      "label": "happy hour",
-      "mention_count": 4
-    },
-    {
       "label": "pretzels",
       "mention_count": 7
     },
     {
-      "label": "biergarten",
-      "mention_count": 5
+      "label": "happy hour",
+      "mention_count": 4
+    },
+    {
+      "label": "sausages",
+      "mention_count": 9
     },
     {
       "label": "weiss beer",
       "mention_count": 3
     },
     {
-      "label": "sausages",
-      "mention_count": 9
+      "label": "german food",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-04-30T06:06:29Z",
+  "scraped_at": "2026-05-05T16:35:20Z",
   "city": "Shanghai",
   "key": "paulaners-sunday-brunch-shanghai"
 }

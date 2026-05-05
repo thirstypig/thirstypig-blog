@@ -8,7 +8,7 @@
     },
     {
       "label": "food trucks",
-      "mention_count": 74
+      "mention_count": 75
     },
     {
       "label": "vegan options",
@@ -28,22 +28,22 @@
     },
     {
       "label": "long lines",
-      "mention_count": 53
+      "mention_count": 52
     },
     {
       "label": "food selection",
       "mention_count": 92
     },
     {
-      "label": "desserts",
-      "mention_count": 48
+      "label": "food variety",
+      "mention_count": 88
     },
     {
-      "label": "food variety",
-      "mention_count": 89
+      "label": "desserts",
+      "mention_count": 47
     }
   ],
-  "scraped_at": "2026-04-30T06:14:48Z",
+  "scraped_at": "2026-05-05T16:39:20Z",
   "city": "Dtla",
   "key": "smorgasburg-los-angeles-dtla"
 }

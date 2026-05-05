@@ -23,27 +23,27 @@
       "mention_count": 11
     },
     {
+      "label": "gukbap",
+      "mention_count": 9
+    },
+    {
       "label": "beef stew",
       "mention_count": 8
     },
     {
-      "label": "tofu soup",
+      "label": "soybean paste stew",
       "mention_count": 7
-    },
-    {
-      "label": "Yugsu Bulgogi",
-      "mention_count": 14
     },
     {
       "label": "Haemul Pajeon",
       "mention_count": 2
     },
     {
-      "label": "stir-fried octopus",
-      "mention_count": 5
+      "label": "Yugsu Bulgogi",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-04-30T05:23:44Z",
+  "scraped_at": "2026-05-05T16:20:28Z",
   "city": "Koreatown",
   "key": "seongbukdong-koreatown"
 }

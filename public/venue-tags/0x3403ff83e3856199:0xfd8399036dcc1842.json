@@ -15,10 +15,6 @@
       "mention_count": 7
     },
     {
-      "label": "minced beef claypot rice",
-      "mention_count": 10
-    },
-    {
       "label": "eel claypot rice",
       "mention_count": 5
     },
@@ -35,6 +31,10 @@
       "mention_count": 2
     },
     {
+      "label": "minced beef claypot rice",
+      "mention_count": 10
+    },
+    {
       "label": "liver sausages",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-04-30T00:19:13Z",
+  "scraped_at": "2026-05-05T16:16:51Z",
   "city": "Hong Kong",
   "key": "永合成馳名煲仔飯-hong-kong"
 }
