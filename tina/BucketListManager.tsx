@@ -1,4 +1,11 @@
 import React, { useState, useEffect, useRef } from "react";
+import {
+  githubGet,
+  githubPut,
+  safeForCommitMessage,
+  TokenRejectedError,
+  ShaConflictError,
+} from "./_shared/github-contents";
 
 export const BucketListIcon = () => (
   <span style={{ fontSize: 16, lineHeight: 1 }}>&#x1F5FB;</span>
@@ -167,47 +174,42 @@ const DIFF_CHIP: Record<string, React.CSSProperties> = {
   hard: s.chip("#991b1b", "#fee2e2"),
 };
 
-// ── Encoding helpers (UTF-8 safe round trip) ──────────────────────
-function base64ToUtf8(b64: string): string {
-  const binary = atob(b64.replace(/\n/g, ""));
-  const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-  return new TextDecoder("utf-8").decode(bytes);
-}
-function utf8ToBase64(str: string): string {
-  const bytes = new TextEncoder().encode(str);
-  let binary = "";
-  for (const byte of bytes) binary += String.fromCharCode(byte);
-  return btoa(binary);
-}
-
-// ── GitHub Contents API ───────────────────────────────────────────
-async function githubGet(token: string) {
-  const resp = await fetch(
-    `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
-    { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } }
-  );
-  if (!resp.ok) throw new Error(`GitHub GET failed: ${resp.status} ${resp.statusText}`);
-  const data = await resp.json();
-  return { content: base64ToUtf8(data.content), sha: data.sha as string };
-}
-
-async function githubPut(token: string, newContent: string, sha: string, message: string) {
-  const b64 = utf8ToBase64(newContent);
-  const resp = await fetch(
-    `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
-    {
-      method: "PUT",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ message, content: b64, sha, branch: "main" }),
-    }
-  );
-  if (!resp.ok) throw new Error(`GitHub PUT failed: ${resp.status} ${resp.statusText}`);
-  const result = await resp.json();
-  return result.content.sha as string; // new sha for next write
+// ── JSON shape validation ─────────────────────────────────────────
+//
+// `JSON.parse(content) as BucketListData` is unsafe — a hand-edited file
+// could land an `items` that's not an array, or items missing required keys.
+// This guard returns a guaranteed-shape value or throws a friendly error.
+function parseBucketList(raw: unknown): BucketListData {
+  if (!raw || typeof raw !== "object") {
+    throw new Error("bucketlist.json: expected an object");
+  }
+  const r = raw as Record<string, unknown>;
+  if (!Array.isArray(r.items)) {
+    throw new Error("bucketlist.json: `items` must be an array");
+  }
+  const items: BucketListItem[] = [];
+  for (const it of r.items) {
+    if (!it || typeof it !== "object") continue;
+    const item = it as Record<string, unknown>;
+    if (typeof item.id !== "string" || !item.id) continue;
+    if (typeof item.title !== "string" || !item.title) continue;
+    items.push({
+      id: item.id,
+      title: item.title,
+      note: typeof item.note === "string" ? item.note : "",
+      status: item.status === "done" ? "done" : "todo",
+      completed_date: typeof item.completed_date === "string" ? item.completed_date : null,
+      priority:
+        item.priority === "high" || item.priority === "medium" || item.priority === "low"
+          ? item.priority
+          : null,
+      difficulty: item.difficulty === "easy" || item.difficulty === "hard" ? item.difficulty : null,
+    });
+  }
+  return {
+    items,
+    last_updated: typeof r.last_updated === "string" ? r.last_updated : "",
+  };
 }
 
 // ── Slug helper ───────────────────────────────────────────────────
@@ -215,6 +217,8 @@ function slugify(text: string): string {
   return text
     .toLowerCase()
     .normalize("NFKD")
+    // Strip Unicode combining diacritical marks (U+0300–U+036F) — explicit
+    // escape is more portable across editors/encodings than the literal range.
     .replace(/[̀-ͯ]/g, "")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
@@ -286,13 +290,18 @@ export default function BucketListManager() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Read-only path: fetches the public file. No sha is captured here on purpose —
+  // `commit()` is gated on `if (!token) return;` so this branch is unreachable
+  // for writes. When the user later pastes a token, `saveToken()` calls
+  // `reload(trimmed)` which fetches a fresh sha via the authenticated path.
   async function loadPublicReadOnly() {
     setLoading(true);
     try {
-      const resp = await fetch(PUBLIC_JSON);
+      const resp = await fetch(PUBLIC_JSON, { cache: "reload" });
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const data = (await resp.json()) as BucketListData;
-      setItems(data.items || []);
+      const raw = await resp.json();
+      const data = parseBucketList(raw);
+      setItems(data.items);
     } catch (e) {
       setMessage({ type: "error", text: `Read-only load failed: ${(e as Error).message}` });
     } finally {
@@ -308,12 +317,20 @@ export default function BucketListManager() {
     }
     setLoading(true);
     try {
-      const { content, sha: newSha } = await githubGet(t);
-      const data = JSON.parse(content) as BucketListData;
-      setItems(data.items || []);
+      const { content, sha: newSha } = await githubGet(t, REPO_OWNER, REPO_NAME, FILE_PATH);
+      const data = parseBucketList(JSON.parse(content));
+      setItems(data.items);
       setSha(newSha);
     } catch (e) {
-      setMessage({ type: "error", text: `Failed to load from GitHub: ${(e as Error).message}` });
+      if (e instanceof TokenRejectedError) {
+        clearToken();
+        setMessage({
+          type: "error",
+          text: `Token rejected (${e.status}). Re-enter a PAT with Contents: Read+Write on thirstypig/jameschang.co.`,
+        });
+      } else {
+        setMessage({ type: "error", text: `Failed to load from GitHub: ${(e as Error).message}` });
+      }
     } finally {
       setLoading(false);
     }
@@ -338,7 +355,12 @@ export default function BucketListManager() {
 
   // Commit a new items array. Used by every mutation (add / edit / delete /
   // toggle / reorder) so the GitHub PUT logic lives in exactly one place.
-  async function commit(nextItems: BucketListItem[], message: string) {
+  // Handles three classes of failure cleanly:
+  //   - 401/403 (token expired or wrong scope) → clear token + re-prompt
+  //   - 409 (sha conflict from concurrent edit) → auto-reload + ask user to retry
+  //   - other (network, etc.) → surface generic error
+  async function commit(nextItems: BucketListItem[], commitMsg: string) {
+    if (submitting) return; // guard against rapid double-clicks
     if (!token) {
       setMessage({ type: "error", text: "Add a GitHub token first." });
       setShowTokenForm(true);
@@ -351,12 +373,34 @@ export default function BucketListManager() {
         items: nextItems,
         last_updated: new Date().toISOString(),
       };
-      const newSha = await githubPut(token, JSON.stringify(payload, null, 2) + "\n", sha, message);
+      const newSha = await githubPut(
+        token, REPO_OWNER, REPO_NAME, FILE_PATH,
+        JSON.stringify(payload, null, 2) + "\n",
+        sha, commitMsg
+      );
       setItems(nextItems);
       setSha(newSha);
-      setMessage({ type: "success", text: `Saved · ${message} · live in ~60s on jameschang.co/bucketlist/` });
+      setMessage({
+        type: "success",
+        text: `Saved · ${commitMsg} · live in ~60s on jameschang.co/bucketlist/`,
+      });
     } catch (e) {
-      setMessage({ type: "error", text: `Save failed: ${(e as Error).message} · try reloading to fetch a fresh sha.` });
+      if (e instanceof TokenRejectedError) {
+        clearToken();
+        setMessage({
+          type: "error",
+          text: `Token rejected (${e.status}). Re-enter a PAT with Contents: Read+Write on thirstypig/jameschang.co.`,
+        });
+      } else if (e instanceof ShaConflictError) {
+        // Pull the latest state so the next save uses a fresh sha.
+        await reload(token);
+        setMessage({
+          type: "error",
+          text: "Someone else (or another tab) just saved. Reloaded — please re-apply your change.",
+        });
+      } else {
+        setMessage({ type: "error", text: `Save failed: ${(e as Error).message}` });
+      }
     } finally {
       setSubmitting(false);
     }
@@ -381,7 +425,7 @@ export default function BucketListManager() {
       priority: form.priority,
       difficulty: form.difficulty,
     };
-    await commit([...items, newItem], `Add "${title}" to bucket list`);
+    await commit([...items, newItem], `Add "${safeForCommitMessage(title)}" to bucket list`);
     setForm(emptyForm);
   }
 
@@ -415,7 +459,7 @@ export default function BucketListManager() {
           }
         : i
     );
-    await commit(next, `Edit "${title}" in bucket list`);
+    await commit(next, `Edit "${safeForCommitMessage(title)}" in bucket list`);
     cancelEdit();
   }
 
@@ -432,14 +476,16 @@ export default function BucketListManager() {
     );
     await commit(
       next,
-      item.status === "todo" ? `Mark "${item.title}" done` : `Reopen "${item.title}"`
+      item.status === "todo"
+        ? `Mark "${safeForCommitMessage(item.title)}" done`
+        : `Reopen "${safeForCommitMessage(item.title)}"`
     );
   }
 
   async function handleDelete(item: BucketListItem) {
     if (!confirm(`Delete "${item.title}" from the bucket list?`)) return;
     const next = items.filter(i => i.id !== item.id);
-    await commit(next, `Remove "${item.title}" from bucket list`);
+    await commit(next, `Remove "${safeForCommitMessage(item.title)}" from bucket list`);
   }
 
   async function move(id: string, dir: -1 | 1) {
@@ -455,7 +501,7 @@ export default function BucketListManager() {
     const targetIdx = items.findIndex(i => i.id === id);
     const next = [...items];
     [next[targetIdx], next[swapIdx]] = [next[swapIdx], next[targetIdx]];
-    await commit(next, `Reorder "${target.title}"`);
+    await commit(next, `Reorder "${safeForCommitMessage(target.title)}"`);
   }
 
   // Sort for display: status first (todo over done), then by priority, then by array order.
@@ -496,7 +542,8 @@ export default function BucketListManager() {
         <a href="https://jameschang.co/now/" target="_blank" rel="noopener noreferrer" style={s.link}>
           jameschang.co/now
         </a>
-        .
+        . PAT must be scoped to <strong>thirstypig-blog</strong> AND <strong>jameschang.co</strong>{" "}
+        with Contents: Read+Write — rotate every 90 days.
       </div>
 
       {message && <div style={s.message(message.type)}>{message.text}</div>}

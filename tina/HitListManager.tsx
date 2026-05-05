@@ -5,6 +5,13 @@ import {
   type HitListEntry,
   type HitListFormState as FormState,
 } from "../src/utils/hitlist-entry";
+import {
+  githubGet as sharedGithubGet,
+  githubPut as sharedGithubPut,
+  safeForCommitMessage,
+  TokenRejectedError,
+  ShaConflictError,
+} from "./_shared/github-contents";
 
 export const HitListIcon = () => (
   <span style={{ fontSize: 16, lineHeight: 1 }}>&#x1F3AF;</span>
@@ -30,7 +37,10 @@ function loadGoogleMaps(): Promise<void> {
   }
   googleMapsLoadPromise = new Promise((resolve, reject) => {
     const script = document.createElement("script");
-    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=weekly`;
+    // Pinned to a numbered quarterly release (instead of `v=weekly`) so the SDK
+    // bundle is stable and any anomalous behavior surfaces here, not from a silent
+    // upstream rotation. Bump twice yearly after testing Places autocomplete.
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=3.62`;
     script.async = true;
     script.onload = () => resolve();
     script.onerror = () => {
@@ -193,50 +203,18 @@ const s = {
   link: { color: "#2563eb", textDecoration: "none" } as React.CSSProperties,
 };
 
-// Decode base64 as UTF-8. `atob` returns a Latin-1 binary string; naively using
-// it as text corrupts any multi-byte char (é, í, 川…) on every round-trip.
-function base64ToUtf8(b64: string): string {
-  const binary = atob(b64.replace(/\n/g, ""));
-  const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-  return new TextDecoder("utf-8").decode(bytes);
-}
-
+// GitHub Contents API helpers + commit-message sanitization live in
+// ./_shared/github-contents.ts so HitList + BucketList stay in sync on
+// security/error-handling fixes.
+//
+// Local thin wrappers narrow the (owner, repo, path) so call sites stay
+// concise. The shared module throws TokenRejectedError (401/403) and
+// ShaConflictError (409) so the catch block can surface friendlier messages.
 async function githubGet(token: string) {
-  const resp = await fetch(
-    `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
-    { headers: { Authorization: `Bearer ${token}`, Accept: "application/vnd.github+json" } }
-  );
-  // Avoid interpolating resp.text() into the error — it surfaces in the UI and,
-  // while GitHub doesn't echo the Authorization header today, a response body
-  // is a fragile place to guard token leaks. resp.statusText is predictable.
-  if (!resp.ok) throw new Error(`GitHub GET failed: ${resp.status} ${resp.statusText}`);
-  const data = await resp.json();
-  return { content: base64ToUtf8(data.content), sha: data.sha as string };
+  return sharedGithubGet(token, REPO_OWNER, REPO_NAME, FILE_PATH);
 }
-
-// UTF-8 safe string → base64 (replaces the deprecated unescape() pattern)
-function utf8ToBase64(str: string): string {
-  const bytes = new TextEncoder().encode(str);
-  let binary = "";
-  for (const byte of bytes) binary += String.fromCharCode(byte);
-  return btoa(binary);
-}
-
 async function githubPut(token: string, newContent: string, sha: string, message: string) {
-  const b64 = utf8ToBase64(newContent);
-  const resp = await fetch(
-    `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
-    {
-      method: "PUT",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        Accept: "application/vnd.github+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ message, content: b64, sha }),
-    }
-  );
-  if (!resp.ok) throw new Error(`GitHub PUT failed: ${resp.status} ${resp.statusText}`);
+  return sharedGithubPut(token, REPO_OWNER, REPO_NAME, FILE_PATH, newContent, sha, message);
 }
 
 interface SelectedPlace {
@@ -520,6 +498,25 @@ export default function HitListManager() {
     setShowTokenForm(true);
   }
 
+  // Centralized save-error handler. Distinguishes token-rejected and sha-conflict
+  // from other failures so the user sees a recovery hint, not just a 401/409 code.
+  function handleSaveError(e: unknown) {
+    if (e instanceof TokenRejectedError) {
+      clearToken();
+      setMessage({
+        type: "error",
+        text: `Token rejected (${e.status}). Re-enter a PAT scoped to thirstypig-blog AND jameschang.co with Contents: Read+Write.`,
+      });
+    } else if (e instanceof ShaConflictError) {
+      setMessage({
+        type: "error",
+        text: "Concurrent edit conflict — someone else (or another tab) just saved. Refresh the page and re-apply your change.",
+      });
+    } else {
+      handleSaveError(e);
+    }
+  }
+
   // After a successful commit, wait past Vercel's typical rebuild window and
   // re-fetch /places-hitlist.json (with cache-buster). Confirming the new id
   // is live upgrades the banner to success; if it's missing after the wait,
@@ -652,7 +649,7 @@ export default function HitListManager() {
       });
 
       const yaml = doc.toString({ lineWidth: 0 });
-      const commitMsg = `Update hit list entry: ${editForm.name}`;
+      const commitMsg = `Update hit list entry: ${safeForCommitMessage(editForm.name)}`;
 
       await githubPut(token, yaml, sha, commitMsg);
 
@@ -692,7 +689,7 @@ export default function HitListManager() {
       });
       scheduleLiveCheck(editingId!, editForm.name);
     } catch (e) {
-      setMessage({ type: "error", text: `Failed to save: ${(e as Error).message}` });
+      handleSaveError(e);
     } finally {
       setSubmitting(false);
     }
@@ -735,7 +732,7 @@ export default function HitListManager() {
       seq.items.splice(foundIndex, 1);
 
       const yaml = doc.toString({ lineWidth: 0 });
-      const commitMsg = `Remove hit list entry: ${itemName}`;
+      const commitMsg = `Remove hit list entry: ${safeForCommitMessage(itemName)}`;
 
       await githubPut(token, yaml, sha, commitMsg);
 
@@ -801,7 +798,7 @@ export default function HitListManager() {
       });
 
       const yaml = doc.toString({ lineWidth: 0 });
-      const commitMsg = `Add ${newEntry.name} to hit list`;
+      const commitMsg = `Add ${safeForCommitMessage(newEntry.name)} to hit list`;
 
       await githubPut(token, yaml, sha, commitMsg);
 
@@ -828,7 +825,7 @@ export default function HitListManager() {
       setForm(emptyForm);
       scheduleLiveCheck(newEntry.id, newEntry.name);
     } catch (e) {
-      setMessage({ type: "error", text: `Failed to save: ${(e as Error).message}` });
+      handleSaveError(e);
     } finally {
       setSubmitting(false);
     }
