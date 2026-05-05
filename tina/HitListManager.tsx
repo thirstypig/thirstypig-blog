@@ -455,6 +455,8 @@ export default function HitListManager() {
   const [token, setToken] = useState<string>("");
   const [tokenInput, setTokenInput] = useState("");
   const [showTokenForm, setShowTokenForm] = useState(false);
+  const [editingId, setEditingId] = useState<string | null>(null);
+  const [editForm, setEditForm] = useState<FormState>(emptyForm);
 
   // Holds the pending "is the new entry live yet?" check. We keep the id so we
   // can ignore stale results if the user submits another entry before the
@@ -550,6 +552,201 @@ export default function HitListManager() {
 
   function updateForm<K extends keyof FormState>(key: K, value: FormState[K]) {
     setForm(f => ({ ...f, [key]: value }));
+  }
+
+  function updateEditForm<K extends keyof FormState>(key: K, value: FormState[K]) {
+    setEditForm(f => ({ ...f, [key]: value }));
+  }
+
+  function startEdit(item: HitListDisplayItem) {
+    setEditForm({
+      name: item.name,
+      neighborhood: item.neighborhood,
+      city: item.city,
+      priority: item.priority,
+      notes: item.notes,
+      yelp: item.links.yelp || "",
+      google: item.links.google || "",
+      instagram: item.links.instagram || "",
+      website: item.links.website || "",
+      resy: item.links.resy || "",
+      opentable: item.links.opentable || "",
+      tags: item.tags.join(", "),
+      placeId: "",
+    });
+    setEditingId(item.id);
+  }
+
+  async function saveEdit() {
+    if (!token) {
+      setMessage({ type: "error", text: "Please add your GitHub token first." });
+      setShowTokenForm(true);
+      return;
+    }
+    if (!editForm.name.trim() || !editForm.city.trim()) {
+      setMessage({ type: "error", text: "Name and city are required." });
+      return;
+    }
+
+    setSubmitting(true);
+    setMessage({ type: "info", text: "Saving changes..." });
+
+    try {
+      const { content, sha } = await githubGet(token);
+      const doc = parseDocument(content);
+      if (!isSeq(doc.contents)) {
+        throw new Error("places-hitlist.yaml is not a list — refusing to overwrite. Check the file.");
+      }
+
+      const existing = doc.toJS() as HitListEntry[];
+      let foundIndex = -1;
+      for (let i = 0; i < existing.length; i++) {
+        if (existing[i]?.id === editingId) {
+          foundIndex = i;
+          break;
+        }
+      }
+
+      if (foundIndex === -1) {
+        throw new Error("Entry not found in YAML — it may have been deleted.");
+      }
+
+      // Reconstruct the updated entry object to ensure proper type conversion
+      const updatedEntry: HitListEntry = {
+        id: editingId!,
+        name: editForm.name.trim(),
+        city: editForm.city.trim(),
+        priority: editForm.priority,
+        date_added: existing[foundIndex]!.date_added,
+        links: {
+          yelp: editForm.yelp?.trim() || null,
+          google: editForm.google?.trim() || null,
+          instagram: editForm.instagram?.trim() || null,
+          website: editForm.website?.trim() || null,
+          resy: editForm.resy?.trim() || null,
+          opentable: editForm.opentable?.trim() || null,
+        },
+        tags: editForm.tags
+          .split(",")
+          .map((t: string) => t.trim().toLowerCase())
+          .filter((t: string) => t.length > 0),
+      };
+
+      if (editForm.neighborhood.trim()) updatedEntry.neighborhood = editForm.neighborhood.trim();
+      if (editForm.notes.trim()) updatedEntry.notes = editForm.notes.trim();
+      if (editForm.placeId.trim()) updatedEntry.place_id = editForm.placeId.trim();
+
+      // Delete and re-add the item to ensure yaml library properly serializes types
+      const seq = doc.contents as YAMLSeq;
+      seq.delete(foundIndex);
+      (doc.contents as YAMLSeq).add(updatedEntry);
+
+      // Ensure date_added is double-quoted for js-yaml compatibility
+      visit(doc, {
+        Pair(_key, pair) {
+          const key = isScalar(pair.key) ? pair.key.value : null;
+          if (key === "date_added" && isScalar(pair.value)) {
+            pair.value.type = Scalar.QUOTE_DOUBLE;
+          }
+        },
+      });
+
+      const yaml = doc.toString({ lineWidth: 0 });
+      const commitMsg = `Update hit list entry: ${editForm.name}`;
+
+      await githubPut(token, yaml, sha, commitMsg);
+
+      // Update local state
+      setItems(prev =>
+        prev.map(i =>
+          i.id === editingId
+            ? {
+                ...i,
+                name: editForm.name,
+                neighborhood: editForm.neighborhood,
+                city: editForm.city,
+                priority: editForm.priority,
+                notes: editForm.notes,
+                links: {
+                  yelp: editForm.yelp || "",
+                  google: editForm.google || "",
+                  instagram: editForm.instagram || "",
+                  website: editForm.website || "",
+                  resy: editForm.resy || "",
+                  opentable: editForm.opentable || "",
+                },
+                tags: editForm.tags
+                  .split(",")
+                  .map(t => t.trim())
+                  .filter(t => t.length > 0),
+              }
+            : i
+        )
+      );
+
+      setEditingId(null);
+      setEditForm(emptyForm);
+      setMessage({
+        type: "success",
+        text: `Updated "${editForm.name}". Vercel is rebuilding — checking if it's live in ~75s…`,
+      });
+      scheduleLiveCheck(editingId!, editForm.name);
+    } catch (e) {
+      setMessage({ type: "error", text: `Failed to save: ${(e as Error).message}` });
+    } finally {
+      setSubmitting(false);
+    }
+  }
+
+  async function handleDelete(itemId: string, itemName: string) {
+    if (!confirm(`Delete "${itemName}" from hit list?`)) return;
+
+    if (!token) {
+      setMessage({ type: "error", text: "Please add your GitHub token first." });
+      setShowTokenForm(true);
+      return;
+    }
+
+    setSubmitting(true);
+    setMessage({ type: "info", text: "Deleting..." });
+
+    try {
+      const { content, sha } = await githubGet(token);
+      const doc = parseDocument(content);
+      if (!isSeq(doc.contents)) {
+        throw new Error("places-hitlist.yaml is not a list — refusing to overwrite. Check the file.");
+      }
+
+      const existing = doc.toJS() as HitListEntry[];
+      let foundIndex = -1;
+      for (let i = 0; i < existing.length; i++) {
+        if (existing[i]?.id === itemId) {
+          foundIndex = i;
+          break;
+        }
+      }
+
+      if (foundIndex === -1) {
+        throw new Error("Entry not found in YAML — it may have already been deleted.");
+      }
+
+      // Remove the entry
+      const seq = doc.contents as YAMLSeq;
+      seq.items.splice(foundIndex, 1);
+
+      const yaml = doc.toString({ lineWidth: 0 });
+      const commitMsg = `Remove hit list entry: ${itemName}`;
+
+      await githubPut(token, yaml, sha, commitMsg);
+
+      // Update local state
+      setItems(prev => prev.filter(i => i.id !== itemId));
+      setMessage({ type: "success", text: `Deleted "${itemName}" from hit list.` });
+    } catch (e) {
+      setMessage({ type: "error", text: `Failed to delete: ${(e as Error).message}` });
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   async function handleSubmit(e: React.FormEvent) {
@@ -863,6 +1060,165 @@ export default function HitListManager() {
         </div>
       </form>
 
+      {/* Edit form (overlay when editing) */}
+      {editingId && (
+        <form
+          onSubmit={(e) => {
+            e.preventDefault();
+            saveEdit();
+          }}
+          style={s.card}
+        >
+          <div style={s.cardTitle}>Edit Entry</div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Name *</label>
+              <input
+                type="text"
+                value={editForm.name}
+                onChange={e => updateEditForm("name", e.target.value)}
+                style={s.input}
+                required
+              />
+            </div>
+            <div style={s.field}>
+              <label style={s.label}>Neighborhood</label>
+              <input
+                type="text"
+                value={editForm.neighborhood}
+                onChange={e => updateEditForm("neighborhood", e.target.value)}
+                style={s.input}
+              />
+            </div>
+            <div style={s.field}>
+              <label style={s.label}>City *</label>
+              <input
+                type="text"
+                value={editForm.city}
+                onChange={e => updateEditForm("city", e.target.value)}
+                style={s.input}
+                required
+              />
+            </div>
+            <div style={{ ...s.field, flex: "0 0 120px" }}>
+              <label style={s.label}>Priority</label>
+              <select
+                value={editForm.priority}
+                onChange={e => updateEditForm("priority", Number(e.target.value))}
+                style={s.select}
+              >
+                <option value={1}>1 – Must Try</option>
+                <option value={2}>2 – Want to Try</option>
+                <option value={3}>3 – Curious</option>
+              </select>
+            </div>
+          </div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Notes</label>
+              <textarea
+                value={editForm.notes}
+                onChange={e => updateEditForm("notes", e.target.value)}
+                style={s.textarea}
+              />
+            </div>
+          </div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Yelp URL</label>
+              <input
+                type="url"
+                value={editForm.yelp}
+                onChange={e => updateEditForm("yelp", e.target.value)}
+                style={s.input}
+              />
+            </div>
+            <div style={s.field}>
+              <label style={s.label}>Google Maps URL</label>
+              <input
+                type="url"
+                value={editForm.google}
+                onChange={e => updateEditForm("google", e.target.value)}
+                style={s.input}
+              />
+            </div>
+          </div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Instagram URL</label>
+              <input
+                type="url"
+                value={editForm.instagram}
+                onChange={e => updateEditForm("instagram", e.target.value)}
+                style={s.input}
+              />
+            </div>
+            <div style={s.field}>
+              <label style={s.label}>Website</label>
+              <input
+                type="url"
+                value={editForm.website}
+                onChange={e => updateEditForm("website", e.target.value)}
+                style={s.input}
+              />
+            </div>
+          </div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Resy URL</label>
+              <input
+                type="url"
+                value={editForm.resy}
+                onChange={e => updateEditForm("resy", e.target.value)}
+                style={s.input}
+              />
+            </div>
+            <div style={s.field}>
+              <label style={s.label}>OpenTable URL</label>
+              <input
+                type="url"
+                value={editForm.opentable}
+                onChange={e => updateEditForm("opentable", e.target.value)}
+                style={s.input}
+              />
+            </div>
+          </div>
+
+          <div style={s.row}>
+            <div style={s.field}>
+              <label style={s.label}>Tags (comma-separated)</label>
+              <input
+                type="text"
+                value={editForm.tags}
+                onChange={e => updateEditForm("tags", e.target.value)}
+                style={s.input}
+              />
+            </div>
+          </div>
+
+          <div style={{ display: "flex", gap: 12, justifyContent: "flex-end", marginTop: 16 }}>
+            <button
+              type="button"
+              onClick={() => {
+                setEditingId(null);
+                setEditForm(emptyForm);
+              }}
+              style={s.btn(false)}
+            >
+              Cancel
+            </button>
+            <button type="submit" disabled={submitting} style={s.btn(true, submitting)}>
+              {submitting ? "Saving..." : "Save Changes"}
+            </button>
+          </div>
+        </form>
+      )}
+
       {/* Current list */}
       <div style={s.card}>
         <div style={s.cardTitle}>Current Hit List</div>
@@ -879,6 +1235,7 @@ export default function HitListManager() {
                 <th style={s.th}>Priority</th>
                 <th style={s.th}>Added</th>
                 <th style={s.th}>Tags</th>
+                <th style={s.th}>Actions</th>
               </tr>
             </thead>
             <tbody>
@@ -895,6 +1252,33 @@ export default function HitListManager() {
                   </td>
                   <td style={s.td}>{item.dateAdded}</td>
                   <td style={s.td}>{item.tags.join(", ")}</td>
+                  <td style={s.td}>
+                    <div style={{ display: "flex", gap: 8 }}>
+                      <button
+                        onClick={() => startEdit(item)}
+                        style={{
+                          ...s.btn(false),
+                          padding: "6px 12px",
+                          fontSize: 12,
+                        }}
+                        disabled={submitting}
+                      >
+                        Edit
+                      </button>
+                      <button
+                        onClick={() => handleDelete(item.id, item.name)}
+                        style={{
+                          ...s.btn(false),
+                          padding: "6px 12px",
+                          fontSize: 12,
+                          color: "#dc2626",
+                        }}
+                        disabled={submitting}
+                      >
+                        Delete
+                      </button>
+                    </div>
+                  </td>
                 </tr>
               ))}
             </tbody>
