@@ -3,6 +3,7 @@ import LocationLookup from "./LocationLookup";
 import StatsDashboard, { StatsIcon } from "./StatsDashboard";
 import PostManager, { PostManagerIcon } from "./PostManager";
 import HitListManager, { HitListIcon } from "./HitListManager";
+import BucketListManager, { BucketListIcon } from "./BucketListManager";
 import TestingDashboard, { TestingIcon } from "./TestingDashboard";
 import StyleSheet, { StyleSheetIcon } from "./StyleSheet";
 import AdminDocs, { AdminDocsIcon } from "./AdminDocs";
@@ -85,6 +86,15 @@ export default defineConfig({
       name: "Hit List Manager",
       Component: HitListManager,
       Icon: HitListIcon,
+      layout: "fullscreen",
+    });
+
+    // Register Bucket List Manager screen — cross-repo writes to jameschang.co/bucketlist.json
+    cms.plugins.add({
+      __type: "screen",
+      name: "Bucket List Manager",
+      Component: BucketListManager,
+      Icon: BucketListIcon,
       layout: "fullscreen",
     });
 
