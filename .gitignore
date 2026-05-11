@@ -28,6 +28,9 @@ tina/google-places-config.json
 # macOS-specific files
 .DS_Store
 
+# Obsidian vault (separate git repo, lives here for convenience)
+thirstypig-hitlist-vault/
+
 # Playwright / review screenshots (generated during audits, not source)
 .playwright-mcp/
 review-*.png
