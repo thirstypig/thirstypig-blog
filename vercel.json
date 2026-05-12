@@ -4,6 +4,17 @@
   "outputDirectory": "dist",
   "headers": [
     {
+      "source": "/admin/(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://maps.googleapis.com; style-src 'self' 'unsafe-inline'; connect-src 'self' https://api.github.com https://content.tinajs.io https://identity.tinajs.io https://app.tina.io https://*.googleapis.com; img-src 'self' data: https://*.googleapis.com https://*.gstatic.com; object-src 'none'; base-uri 'self'; frame-ancestors 'none'"
+        },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    },
+    {
       "source": "/places-hitlist.json",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "https://jameschang.co" },
