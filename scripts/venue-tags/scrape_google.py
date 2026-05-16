@@ -291,7 +291,12 @@ def main() -> int:
         log("WARNING: profile dir is empty. Run bootstrap_profile.py first.")
 
     log(f"scraping {len(targets)} venue(s)")
-    failures: list[str] = []
+    # Exit codes:
+    #   0 — success (some venues may have 0 chips; that's venue-specific, not an error)
+    #   1 — transient/network/selector failures (retry may help)
+    #   2 — auth-gated ("limited view"); re-run bootstrap_profile.py and sign in
+    transient_failures: list[str] = []
+    auth_failures: list[str] = []
     clear_stale_singleton_locks()
 
     # Stealth wraps the playwright instance to mask headless-Chrome fingerprint
@@ -316,7 +321,7 @@ def main() -> int:
                 record = scrape_venue(page, query, key, place_id=place_id, cid=cid)
             except Exception as exc:
                 log(f"    ERROR: {exc}")
-                failures.append(key)
+                transient_failures.append(key)
                 continue
 
             if auth_gated(record):
@@ -325,7 +330,7 @@ def main() -> int:
                     "Google's 'limited view'. Re-run bootstrap_profile.py and "
                     "make sure you're signed in."
                 )
-                failures.append(key)
+                auth_failures.append(key)
                 continue
 
             out_path = DATA_DIR / f"{key}_chips.json"
@@ -347,10 +352,16 @@ def main() -> int:
 
         ctx.close()
 
-    if failures:
-        log(f"FAILED: {failures}")
+    if auth_failures:
+        log(f"AUTH-GATED (exit 2 — re-run bootstrap_profile.py): {auth_failures}")
+    if transient_failures:
+        log(f"FAILED (exit 1 — retry): {transient_failures}")
+    if not auth_failures and not transient_failures:
+        log("done.")
+    if auth_failures:
+        return 2
+    if transient_failures:
         return 1
-    log("done.")
     return 0
 
 
