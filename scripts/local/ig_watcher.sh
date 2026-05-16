@@ -42,6 +42,13 @@ is_stable() {
 }
 
 main() {
+    # Serialize concurrent launchd fires — mkdir is atomic on POSIX filesystems
+    local lock_dir="/tmp/thirstypig-ig-watcher.lock"
+    if ! mkdir "$lock_dir" 2>/dev/null; then
+        exit 0  # another instance already running
+    fi
+    trap 'rmdir "$lock_dir" 2>/dev/null || true' EXIT
+
     local file
     file=$(find_candidate)
     [ -z "$file" ] && exit 0  # silent: no matching file
