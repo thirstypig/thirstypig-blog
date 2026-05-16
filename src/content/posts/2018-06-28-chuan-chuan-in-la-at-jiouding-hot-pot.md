@@ -27,6 +27,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db74aadee87f:0xa68293b5fc3f965"
 ---
 
 ![Chuan Chuan in LA at JiouDing Hot Pot](/images/posts/ig-2018-06-28-chuan-chuan-in-la-at-jiouding-hot-pot/17848506211278551.jpg)

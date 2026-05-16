@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2a8ee3f59f:0x8d2abfdcaa7a196f",
+  "venue_name": "Half and Half Good Old Time",
+  "chips": [
+    {
+      "label": "authentic taiwanese food",
+      "mention_count": 23
+    },
+    {
+      "label": "boba",
+      "mention_count": 15
+    },
+    {
+      "label": "pork rice",
+      "mention_count": 5
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 6
+    },
+    {
+      "label": "soy pudding",
+      "mention_count": 4
+    },
+    {
+      "label": "guabao",
+      "mention_count": 3
+    },
+    {
+      "label": "squid soup",
+      "mention_count": 2
+    },
+    {
+      "label": "rice bowls",
+      "mention_count": 2
+    },
+    {
+      "label": "shaved ice",
+      "mention_count": 2
+    },
+    {
+      "label": "retro style",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:14Z",
+  "city": "San Gabriel Valley",
+  "key": "taiwanese-gastropub-印地安-san-gabrie"
+}

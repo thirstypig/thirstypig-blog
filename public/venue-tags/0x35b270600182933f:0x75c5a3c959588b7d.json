@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b270600182933f:0x75c5a3c959588b7d",
+  "venue_name": "Yuyuan Old Street",
+  "chips": [
+    {
+      "label": "Chinese architecture",
+      "mention_count": 17
+    },
+    {
+      "label": "souvenirs",
+      "mention_count": 94
+    },
+    {
+      "label": "lanterns",
+      "mention_count": 13
+    },
+    {
+      "label": "xiao long bao",
+      "mention_count": 28
+    },
+    {
+      "label": "bazaar",
+      "mention_count": 10
+    },
+    {
+      "label": "traditional architecture",
+      "mention_count": 8
+    },
+    {
+      "label": "evening lights",
+      "mention_count": 20
+    },
+    {
+      "label": "souvenir shops",
+      "mention_count": 18
+    },
+    {
+      "label": "city god temple",
+      "mention_count": 4
+    },
+    {
+      "label": "shopping street",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T06:17:34Z",
+  "city": "Shanghai",
+  "key": "yucca-shanghai"
+}

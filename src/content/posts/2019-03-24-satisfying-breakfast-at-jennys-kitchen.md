@@ -24,6 +24,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2d359c0ed5177:0x19a0365a2eba6dd1"
 ---
 
 ![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18048457702001458.jpg)

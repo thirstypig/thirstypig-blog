@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba298be29973:0x4dd0537f2ce8a2fb",
+  "venue_name": "Ms. Chi Cafe",
+  "chips": [
+    {
+      "label": "pot stickers",
+      "mention_count": 19
+    },
+    {
+      "label": "cheeseburger dumplings",
+      "mention_count": 19
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 3
+    },
+    {
+      "label": "scallion pancakes",
+      "mention_count": 14
+    },
+    {
+      "label": "mochi donuts",
+      "mention_count": 6
+    },
+    {
+      "label": "orange chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "bao",
+      "mention_count": 6
+    },
+    {
+      "label": "thai tea",
+      "mention_count": 5
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 10
+    },
+    {
+      "label": "cold sesame noodles",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:25Z",
+  "city": "Culver City",
+  "key": "ms-chi-culver-cit"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63e86511a9d:0x4d7642199f3a7cd5",
+  "venue_name": "Van Leeuwen Ice Cream",
+  "chips": [
+    {
+      "label": "honeycomb ice cream",
+      "mention_count": 18
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 47
+    },
+    {
+      "label": "earl grey ice cream",
+      "mention_count": 15
+    },
+    {
+      "label": "root beer float",
+      "mention_count": 4
+    },
+    {
+      "label": "pistachio",
+      "mention_count": 11
+    },
+    {
+      "label": "brown sugar cookie dough",
+      "mention_count": 2
+    },
+    {
+      "label": "mango sticky rice ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "hot fudge sundaes",
+      "mention_count": 2
+    },
+    {
+      "label": "ice cream samples",
+      "mention_count": 2
+    },
+    {
+      "label": "pints to go",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:43:50Z",
+  "city": "Koreatown",
+  "key": "van-leeuwen-ice-cream-koreatown"
+}

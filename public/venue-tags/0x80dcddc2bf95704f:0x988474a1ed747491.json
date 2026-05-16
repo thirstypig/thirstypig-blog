@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcddc2bf95704f:0x988474a1ed747491",
+  "venue_name": "Adventure Playground",
+  "chips": [
+    {
+      "label": "giant legos",
+      "mention_count": 75
+    },
+    {
+      "label": "foos ball",
+      "mention_count": 10
+    },
+    {
+      "label": "concrete slides",
+      "mention_count": 7
+    },
+    {
+      "label": "sand",
+      "mention_count": 28
+    },
+    {
+      "label": "ping pong",
+      "mention_count": 8
+    },
+    {
+      "label": "giant blocks",
+      "mention_count": 7
+    },
+    {
+      "label": "free admission",
+      "mention_count": 18
+    },
+    {
+      "label": "shade",
+      "mention_count": 18
+    },
+    {
+      "label": "jungle gym",
+      "mention_count": 6
+    },
+    {
+      "label": "changing tables",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:10Z",
+  "city": "Irvine",
+  "key": "the-adventure-playground-irvine"
+}

@@ -33,6 +33,7 @@ categories:
 - Multi
 cuisine:
 - Multi
+placeId: "0x80c295baede2fc47:0xe691704276a32287"
 ---
 
 ![Food Truck Feasting at the Rose Bowl](/images/posts/ig-2019-04-27-food-truck-feasting-at-the-rose-bowl/18029498026131655.jpg)

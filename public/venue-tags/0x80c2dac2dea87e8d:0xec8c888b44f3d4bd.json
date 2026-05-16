@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dac2dea87e8d:0xec8c888b44f3d4bd",
+  "venue_name": "Indian, The Tavern",
+  "chips": [
+    {
+      "label": "stinky tofu",
+      "mention_count": 5
+    },
+    {
+      "label": "3 flavor chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "fun atmosphere",
+      "mention_count": 8
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 2
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 2
+    },
+    {
+      "label": "pitchers",
+      "mention_count": 4
+    },
+    {
+      "label": "diverse menu",
+      "mention_count": 3
+    },
+    {
+      "label": "wait time",
+      "mention_count": 3
+    },
+    {
+      "label": "hangout spot",
+      "mention_count": 3
+    },
+    {
+      "label": "mandatory tip",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:33Z",
+  "city": "San Gabriel Valley",
+  "key": "indian-beer-house-san-gabrie"
+}

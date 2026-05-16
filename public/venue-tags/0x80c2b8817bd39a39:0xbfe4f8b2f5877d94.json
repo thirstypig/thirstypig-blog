@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8817bd39a39:0xbfe4f8b2f5877d94",
+  "venue_name": "Oo Kook Korean BBQ",
+  "chips": [
+    {
+      "label": "filet mignon",
+      "mention_count": 11
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 121
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 5
+    },
+    {
+      "label": "pork jowl",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 8
+    },
+    {
+      "label": "kobe beef belly",
+      "mention_count": 11
+    },
+    {
+      "label": "short ribs",
+      "mention_count": 24
+    },
+    {
+      "label": "brisket",
+      "mention_count": 22
+    },
+    {
+      "label": "marinated meat",
+      "mention_count": 34
+    },
+    {
+      "label": "galbitang",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:18Z",
+  "city": "Koreatown",
+  "key": "oo-kook-korean-bbq-koreatown"
+}

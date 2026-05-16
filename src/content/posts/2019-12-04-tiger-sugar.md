@@ -22,6 +22,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c32b12d76891ef:0xb1345cb11482c144"
 ---
 
 ![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17891080747436840.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c258bc949d58cf:0x84ac8a2dc2535dc2",
+  "venue_name": "Shake Shack Madison Square Park",
+  "chips": [
+    {
+      "label": "Shake Shack",
+      "mention_count": 30
+    },
+    {
+      "label": "shroom burger",
+      "mention_count": 18
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 68
+    },
+    {
+      "label": "park setting",
+      "mention_count": 20
+    },
+    {
+      "label": "long lines",
+      "mention_count": 69
+    },
+    {
+      "label": "cheese fries",
+      "mention_count": 77
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 32
+    },
+    {
+      "label": "hot dog",
+      "mention_count": 65
+    },
+    {
+      "label": "people watching",
+      "mention_count": 11
+    },
+    {
+      "label": "rats",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:00Z",
+  "city": "New York",
+  "key": "shake-shack-new-york"
+}

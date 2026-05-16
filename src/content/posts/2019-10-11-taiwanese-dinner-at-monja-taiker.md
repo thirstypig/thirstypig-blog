@@ -25,6 +25,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c32a5dc990d163:0x670b341eaf42bfc7"
 ---
 
 ![Taiwanese dinner at Monja Taiker](/images/posts/ig-2019-10-11-taiwanese-dinner-at-monja-taiker/18107338234005795.jpg)

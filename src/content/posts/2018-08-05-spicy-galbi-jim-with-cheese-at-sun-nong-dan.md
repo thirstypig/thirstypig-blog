@@ -25,6 +25,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2c7789b98c1d7:0xa2d790b8c64d1114"
 ---
 
 ![Spicy Galbi Jim with Cheese at Sun Nong Dan](/images/posts/ig-2018-08-05-spicy-galbi-jim-with-cheese-at-sun-nong-dan/17951654788116613.jpg)

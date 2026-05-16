@@ -21,6 +21,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2dbbab3da0891:0xe2cd338a6d857ebc"
 ---
 
 ![Simple Dinner at Sinbala](/images/posts/ig-2019-10-01-simple-dinner-at-sinbala/18068485573147939.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c799ced7453f:0xa68a9ddee652bcde",
+  "venue_name": "DAMA Fashion District - Downtown LA Restaurant & Bar",
+  "chips": [
+    {
+      "label": "oxtail tostada",
+      "mention_count": 21
+    },
+    {
+      "label": "Lamb Chops",
+      "mention_count": 18
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 26
+    },
+    {
+      "label": "empanadas",
+      "mention_count": 27
+    },
+    {
+      "label": "small plates",
+      "mention_count": 28
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 12
+    },
+    {
+      "label": "Seafood Tostada",
+      "mention_count": 9
+    },
+    {
+      "label": "Rib Eye Steak",
+      "mention_count": 12
+    },
+    {
+      "label": "crispy potatoes",
+      "mention_count": 11
+    },
+    {
+      "label": "mezcal drink",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:07Z",
+  "city": "Downtown LA",
+  "key": "dama-fashion-district-downtown-l"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x7c0058d3a2554717:0x14c6268d110e0918",
+  "venue_name": "Haleiwa Shave Ice",
+  "chips": [
+    {
+      "label": "shave ice",
+      "mention_count": 94
+    },
+    {
+      "label": "cash only",
+      "mention_count": 15
+    },
+    {
+      "label": "syrup flavor",
+      "mention_count": 12
+    },
+    {
+      "label": "matsumoto shave ice",
+      "mention_count": 13
+    },
+    {
+      "label": "condensed milk",
+      "mention_count": 10
+    },
+    {
+      "label": "mochi",
+      "mention_count": 4
+    },
+    {
+      "label": "snow cone",
+      "mention_count": 7
+    },
+    {
+      "label": "coconut jelly",
+      "mention_count": 2
+    },
+    {
+      "label": "lava flow",
+      "mention_count": 3
+    },
+    {
+      "label": "pineapple",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:59Z",
+  "city": "Arcadia",
+  "key": "haleiwa-shave-ice-arcadia"
+}

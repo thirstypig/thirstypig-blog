@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2be461cd333b1:0xf2dbd198c2779f49",
+  "venue_name": "French Street Bistro",
+  "chips": [
+    {
+      "label": "croissants",
+      "mention_count": 12
+    },
+    {
+      "label": "quiche",
+      "mention_count": 5
+    },
+    {
+      "label": "chocolate croissant",
+      "mention_count": 3
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 13
+    },
+    {
+      "label": "crepes",
+      "mention_count": 10
+    },
+    {
+      "label": "brownie",
+      "mention_count": 3
+    },
+    {
+      "label": "drip coffee",
+      "mention_count": 2
+    },
+    {
+      "label": "ham",
+      "mention_count": 2
+    },
+    {
+      "label": "espressos",
+      "mention_count": 2
+    },
+    {
+      "label": "jam",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:26Z",
+  "city": "Universal City",
+  "key": "crepes-on-a-tuesday-at-universal-ci-universal-"
+}

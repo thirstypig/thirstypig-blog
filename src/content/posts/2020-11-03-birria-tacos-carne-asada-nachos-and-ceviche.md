@@ -22,6 +22,7 @@ categories:
 region: San Gabriel Valley
 cuisine:
 - Mexican
+placeId: "0x80c2dabdd3fa038b:0xa3cf7b69509567c9"
 ---
 
 ![Birria tacos, carne asada nachos, and ceviche](/images/posts/ig-2020-11-03-birria-tacos-carne-asada-nachos-and-ceviche/17907961660544359.jpg)

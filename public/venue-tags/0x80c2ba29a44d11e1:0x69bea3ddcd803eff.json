@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba29a44d11e1:0x69bea3ddcd803eff",
+  "venue_name": "Honey's Kettle Fried Chicken",
+  "chips": [
+    {
+      "label": "blueberry biscuits",
+      "mention_count": 55
+    },
+    {
+      "label": "crispy skin",
+      "mention_count": 99
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "blueberry lemonade",
+      "mention_count": 23
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 242
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 15
+    },
+    {
+      "label": "pecan pie",
+      "mention_count": 12
+    },
+    {
+      "label": "catfish",
+      "mention_count": 18
+    },
+    {
+      "label": "chicken tenders",
+      "mention_count": 35
+    },
+    {
+      "label": "hot sauce",
+      "mention_count": 43
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:56Z",
+  "city": "Culver City",
+  "key": "honeys-kettle-fried-chicken-culver-cit"
+}

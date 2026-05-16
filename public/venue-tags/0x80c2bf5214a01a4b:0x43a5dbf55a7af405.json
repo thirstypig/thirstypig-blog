@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf5214a01a4b:0x43a5dbf55a7af405",
+  "venue_name": "Marvito",
+  "chips": [
+    {
+      "label": "chicken piccata",
+      "mention_count": 7
+    },
+    {
+      "label": "beef tacos",
+      "mention_count": 8
+    },
+    {
+      "label": "shrimp enchiladas",
+      "mention_count": 4
+    },
+    {
+      "label": "classic mexican food",
+      "mention_count": 8
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 3
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 3
+    },
+    {
+      "label": "macho salad",
+      "mention_count": 2
+    },
+    {
+      "label": "banana split",
+      "mention_count": 2
+    },
+    {
+      "label": "cocktails",
+      "mention_count": 13
+    },
+    {
+      "label": "automatic gratuity",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T06:48:07Z",
+  "city": "West Hollywood",
+  "key": "tasco-mexican-restaurant-west-holly"
+}

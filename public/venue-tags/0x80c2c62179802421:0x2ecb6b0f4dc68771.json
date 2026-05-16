@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c62179802421:0x2ecb6b0f4dc68771",
+  "venue_name": "Everson Royce Bar",
+  "chips": [
+    {
+      "label": "patio",
+      "mention_count": 94
+    },
+    {
+      "label": "spirits selection",
+      "mention_count": 19
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 40
+    },
+    {
+      "label": "biscuits",
+      "mention_count": 39
+    },
+    {
+      "label": "fries",
+      "mention_count": 40
+    },
+    {
+      "label": "burger",
+      "mention_count": 57
+    },
+    {
+      "label": "patty melt",
+      "mention_count": 5
+    },
+    {
+      "label": "taquitos",
+      "mention_count": 9
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 74
+    },
+    {
+      "label": "single burger",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:35Z",
+  "city": "Downtown LA",
+  "key": "erb-downtown-l"
+}

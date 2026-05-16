@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db41bc061d81:0x9bde325eefa9832",
+  "venue_name": "TSUKE Artisan Noodle",
+  "chips": [
+    {
+      "label": "dipping ramen",
+      "mention_count": 15
+    },
+    {
+      "label": "deluxe tsukemen",
+      "mention_count": 5
+    },
+    {
+      "label": "spice level",
+      "mention_count": 14
+    },
+    {
+      "label": "karaage",
+      "mention_count": 15
+    },
+    {
+      "label": "thick broth",
+      "mention_count": 6
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 4
+    },
+    {
+      "label": "matcha pudding",
+      "mention_count": 2
+    },
+    {
+      "label": "tsujita la artisan noodles",
+      "mention_count": 10
+    },
+    {
+      "label": "potstickers",
+      "mention_count": 3
+    },
+    {
+      "label": "minimalist decor",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:21Z",
+  "city": "San Gabriel Valley",
+  "key": "ramen-san-gabrie"
+}

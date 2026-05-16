@@ -25,6 +25,7 @@ categories:
 - Bakery
 cuisine:
 - Bakery
+placeId: "0x80c2db2a8b986425:0xd0d0493257b91f99"
 ---
 
 ![Peanut Butter Mochi from J](/images/posts/ig-2019-11-27-peanut-butter-mochi-from-j/18096782062109763.jpg)

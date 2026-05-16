@@ -20,6 +20,7 @@ region: Pasadena
 address: 1415 E Colorado St Glendale, CA 91205
 cuisine:
 - Mediterranean
+placeId: "0x80c2c3509937e3af:0xdf06f28513da9fdc"
 ---
 
 

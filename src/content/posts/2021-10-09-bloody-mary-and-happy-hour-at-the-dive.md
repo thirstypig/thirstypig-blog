@@ -24,6 +24,7 @@ categories:
 - Cocktails
 cuisine:
 - Cocktails
+placeId: "0x80c2db2cb973a7bf:0x1dbbc3aa2949873f"
 ---
 
 ![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17873914883576045.jpg)

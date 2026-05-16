@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c64d9fbb11d3:0xb3728c2c3bff31b0"
 ---
 
 ![The burger at Farther’s Office in DTLA’s Arts District](/images/posts/ig-2022-06-05-the-burger-at-farthers-office-in-dtlas-arts-district/17973688927540905.jpg)

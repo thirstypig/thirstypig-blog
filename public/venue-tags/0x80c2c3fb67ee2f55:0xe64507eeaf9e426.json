@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3fb67ee2f55:0xe64507eeaf9e426",
+  "venue_name": "Y&J Gourmet",
+  "chips": [
+    {
+      "label": "kung pao chicken",
+      "mention_count": 4
+    },
+    {
+      "label": "orange chicken",
+      "mention_count": 6
+    },
+    {
+      "label": "won ton",
+      "mention_count": 4
+    },
+    {
+      "label": "pork buns",
+      "mention_count": 2
+    },
+    {
+      "label": "beef chow fun",
+      "mention_count": 2
+    },
+    {
+      "label": "boba drinks",
+      "mention_count": 3
+    },
+    {
+      "label": "broccoli beef",
+      "mention_count": 2
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 3
+    },
+    {
+      "label": "potstickers",
+      "mention_count": 2
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T06:43:04Z",
+  "city": "Pasadena",
+  "key": "yummy-pasadena"
+}

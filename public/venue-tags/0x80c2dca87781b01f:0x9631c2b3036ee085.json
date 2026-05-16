@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dca87781b01f:0x9631c2b3036ee085",
+  "venue_name": "King of Ramen Pasadena",
+  "chips": [
+    {
+      "label": "karage",
+      "mention_count": 10
+    },
+    {
+      "label": "spicy king ramen",
+      "mention_count": 4
+    },
+    {
+      "label": "quiet atmosphere",
+      "mention_count": 9
+    },
+    {
+      "label": "Spicy Tonkotsu Ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "chasiu",
+      "mention_count": 4
+    },
+    {
+      "label": "curry rice",
+      "mention_count": 10
+    },
+    {
+      "label": "homemade hot sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "fried tofu",
+      "mention_count": 2
+    },
+    {
+      "label": "pork broth",
+      "mention_count": 2
+    },
+    {
+      "label": "veggie ramen",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:44Z",
+  "city": "Pasadena",
+  "key": "king-of-ramen-pasadena"
+}

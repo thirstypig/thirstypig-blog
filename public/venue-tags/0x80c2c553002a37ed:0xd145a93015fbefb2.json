@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c553002a37ed:0xd145a93015fbefb2",
+  "venue_name": "Dumpling Tops",
+  "chips": [
+    {
+      "label": "soup dumplings",
+      "mention_count": 12
+    },
+    {
+      "label": "spicy beef noodle soup",
+      "mention_count": 6
+    },
+    {
+      "label": "Scallion Pancake",
+      "mention_count": 3
+    },
+    {
+      "label": "Dandan Noodle",
+      "mention_count": 3
+    },
+    {
+      "label": "beef rib noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "vegan dumplings",
+      "mention_count": 3
+    },
+    {
+      "label": "bbq bun",
+      "mention_count": 4
+    },
+    {
+      "label": "roasted brussel sprouts",
+      "mention_count": 2
+    },
+    {
+      "label": "organic chicken soup dumplings",
+      "mention_count": 2
+    },
+    {
+      "label": "sweet and sour ribs",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:46:47Z",
+  "city": "Pasadena",
+  "key": "dumpling-station-pasadena"
+}

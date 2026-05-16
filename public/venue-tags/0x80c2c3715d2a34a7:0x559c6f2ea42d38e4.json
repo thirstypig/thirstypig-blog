@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3715d2a34a7:0x559c6f2ea42d38e4",
+  "venue_name": "One Colorado",
+  "chips": [
+    {
+      "label": "vegan restaurant",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 9
+    },
+    {
+      "label": "courtyard",
+      "mention_count": 2
+    },
+    {
+      "label": "cafes",
+      "mention_count": 8
+    },
+    {
+      "label": "alleyways",
+      "mention_count": 5
+    },
+    {
+      "label": "outdoor shopping area",
+      "mention_count": 2
+    },
+    {
+      "label": "cozy setup",
+      "mention_count": 2
+    },
+    {
+      "label": "movies",
+      "mention_count": 24
+    },
+    {
+      "label": "theater",
+      "mention_count": 17
+    },
+    {
+      "label": "people watching",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:37Z",
+  "city": "Pasadena",
+  "key": "omg-pasadena"
+}

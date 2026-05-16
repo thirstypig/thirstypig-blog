@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2bf3a0044f41f:0x78fd7b3d2c6621ff"
 ---
 
 ![Feeling healthy and went to Veggie Grilll](/images/posts/ig-2020-01-21-feeling-healthy-and-went-to-veggie-grilll/17874421813549698.jpg)

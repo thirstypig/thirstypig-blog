@@ -25,6 +25,7 @@ coordinates:
   lng: -118.045935
 cuisine:
 - Taiwanese
+placeId: "0x7c0058d3a2554717:0x14c6268d110e0918"
 ---
 
 ![Taiwanese shaved ice - with condensed milk and soft boiled peanuts](/images/posts/ig-2019-01-08-taiwanese-shaved-ice-with-condensed-milk-and-soft-boiled-pea/18019464193003441.jpg)

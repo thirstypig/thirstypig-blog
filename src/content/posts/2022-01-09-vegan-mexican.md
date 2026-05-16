@@ -27,6 +27,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2bf5214a01a4b:0x43a5dbf55a7af405"
 ---
 
 ![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/18123568900255465.jpg)

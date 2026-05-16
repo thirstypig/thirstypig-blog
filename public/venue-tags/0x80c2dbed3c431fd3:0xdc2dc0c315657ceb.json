@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbed3c431fd3:0xdc2dc0c315657ceb",
+  "venue_name": "喜粤 Joy's Express",
+  "chips": [
+    {
+      "label": "northeastern cuisine",
+      "mention_count": 12
+    },
+    {
+      "label": "guo bao rou",
+      "mention_count": 7
+    },
+    {
+      "label": "colorful cold noodles",
+      "mention_count": 4
+    },
+    {
+      "label": "cumin chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken stewed with mushrooms",
+      "mention_count": 2
+    },
+    {
+      "label": "authentic northeastern cuisine",
+      "mention_count": 3
+    },
+    {
+      "label": "lemon chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 9
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 3
+    },
+    {
+      "label": "yam",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:07Z",
+  "city": "San Gabriel",
+  "key": "chuans-san-gabrie"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2598a1316e7a7:0xd8f10512fc3c4299",
+  "venue_name": "Lombardi's",
+  "chips": [
+    {
+      "label": "cash only",
+      "mention_count": 666
+    },
+    {
+      "label": "clam pizza",
+      "mention_count": 72
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 27
+    },
+    {
+      "label": "new york pizza",
+      "mention_count": 190
+    },
+    {
+      "label": "white pizza",
+      "mention_count": 60
+    },
+    {
+      "label": "margherita pizza",
+      "mention_count": 215
+    },
+    {
+      "label": "coal oven",
+      "mention_count": 37
+    },
+    {
+      "label": "meatballs",
+      "mention_count": 186
+    },
+    {
+      "label": "Bruschetta on Rustic Bread",
+      "mention_count": 37
+    },
+    {
+      "label": "Calzone Personal",
+      "mention_count": 60
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:53Z",
+  "city": "New York",
+  "key": "lombardis-new-york"
+}

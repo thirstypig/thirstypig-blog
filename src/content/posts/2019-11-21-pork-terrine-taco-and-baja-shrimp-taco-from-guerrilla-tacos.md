@@ -25,6 +25,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2b99c5a5704bd:0x52445772f535d5c"
 ---
 
 ![Pork Terrine Taco and Baja Shrimp Taco from Guerrilla Tacos](/images/posts/ig-2019-11-21-pork-terrine-taco-and-baja-shrimp-taco-from-guerrilla-tacos/18115059424025357.jpg)

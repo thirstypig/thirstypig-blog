@@ -27,6 +27,7 @@ coordinates:
   lng: -118.106847
 cuisine:
 - Chinese
+placeId: "0x80c2dad3ff9d08a9:0x1d5b70c7513ae6e4"
 ---
 
 ![Chinese hot pot at little sheep in San Gabriel](/images/posts/ig-2018-06-26-chinese-hot-pot-at-little-sheep-in-san-gabriel/17924646253165233.jpg)

@@ -26,6 +26,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c29550c270a4c3:0xa2b39c6e901bd840"
 ---
 
 ![Cubans sandwich with a refugiado and concha](/images/posts/ig-2020-06-29-cubans-sandwich-with-a-refugiado-and-concha/18093424357172102.jpg)

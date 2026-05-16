@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b27b6d2f3ab8e7:0x96a4a64bcb76999b",
+  "venue_name": "the clinic by International Rehabilitation Specialists",
+  "chips": [
+    {
+      "label": "physiotherapy",
+      "mention_count": 11
+    },
+    {
+      "label": "sport injuries",
+      "mention_count": 8
+    },
+    {
+      "label": "knowledgeable staff",
+      "mention_count": 8
+    },
+    {
+      "label": "injury recovery",
+      "mention_count": 2
+    },
+    {
+      "label": "professional team",
+      "mention_count": 5
+    },
+    {
+      "label": "rehab",
+      "mention_count": 3
+    },
+    {
+      "label": "workout",
+      "mention_count": 2
+    },
+    {
+      "label": "professionals",
+      "mention_count": 3
+    },
+    {
+      "label": "environment",
+      "mention_count": 5
+    },
+    {
+      "label": "yoga",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:48:03Z",
+  "city": "Shanghai",
+  "key": "the-clinic-shanghai"
+}

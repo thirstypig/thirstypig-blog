@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3620c7f0ff9:0xc23a1294a28fa4d4",
+  "venue_name": "Gozen Shun Pasadena",
+  "chips": [
+    {
+      "label": "pork katsu",
+      "mention_count": 10
+    },
+    {
+      "label": "bento boxes",
+      "mention_count": 15
+    },
+    {
+      "label": "sukiyaki beef",
+      "mention_count": 5
+    },
+    {
+      "label": "kara age chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "Pork Loin Cutlet Curry",
+      "mention_count": 3
+    },
+    {
+      "label": "grilled black cod gozen",
+      "mention_count": 2
+    },
+    {
+      "label": "crispy pork katsu",
+      "mention_count": 2
+    },
+    {
+      "label": "japanese pickles",
+      "mention_count": 2
+    },
+    {
+      "label": "high quality ingredients",
+      "mention_count": 3
+    },
+    {
+      "label": "dipping sauce",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:43:08Z",
+  "city": "Pasadena",
+  "key": "gozen-shun-pasadena"
+}

@@ -28,6 +28,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2d96a19055555:0xd2072b334de6a029"
 ---
 
 ![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17920566094214043.jpg)

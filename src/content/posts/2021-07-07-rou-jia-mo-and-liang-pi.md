@@ -25,6 +25,7 @@ coordinates:
   lng: 121.484522
 cuisine:
 - Chinese
+placeId: "0x35b27040493e9b03:0x3ba2cfa22d111016"
 ---
 
 ![Rou Jia Mo and Liang Pi](/images/posts/ig-2021-07-07-rou-jia-mo-and-liang-pi/17884088138355282.jpg)

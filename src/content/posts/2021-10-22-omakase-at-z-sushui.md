@@ -28,6 +28,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2db1d34e9c8f3:0xd3dd5ffcf3128352"
 ---
 
 ![Omakase at Z Sushui](/images/posts/ig-2021-10-22-omakase-at-z-sushui/17951698534505351.jpg)

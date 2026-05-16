@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c550646063c1:0xa33fbe7dece55e3a",
+  "venue_name": "Qing Dao Bread Food",
+  "chips": [
+    {
+      "label": "dumplings",
+      "mention_count": 33
+    },
+    {
+      "label": "bao",
+      "mention_count": 11
+    },
+    {
+      "label": "frozen dumplings",
+      "mention_count": 5
+    },
+    {
+      "label": "pan fried buns",
+      "mention_count": 3
+    },
+    {
+      "label": "intestines",
+      "mention_count": 2
+    },
+    {
+      "label": "family owned",
+      "mention_count": 2
+    },
+    {
+      "label": "wonton",
+      "mention_count": 2
+    },
+    {
+      "label": "great food",
+      "mention_count": 2
+    },
+    {
+      "label": "Beef Soup",
+      "mention_count": 2
+    },
+    {
+      "label": "filling",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:15Z",
+  "city": "Monterey Park",
+  "key": "qing-dao-bread-food-monterey-p"
+}

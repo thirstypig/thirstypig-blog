@@ -19,6 +19,7 @@ categories:
 city: Orange County
 cuisine:
 - Chinese
+placeId: "0x80dcdf14238b166f:0x1d6c3b978111a22f"
 ---
 
 ![Hainan Chicken Rice in the OC](/images/posts/ig-2018-10-19-hainan-chicken-rice-in-the-oc/17891910655270970.jpg)

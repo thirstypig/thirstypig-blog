@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dafb96d84627:0x3f4a076588e6dd6",
+  "venue_name": "Summer Rolls",
+  "chips": [
+    {
+      "label": "nem cuon",
+      "mention_count": 55
+    },
+    {
+      "label": "Banh Beo",
+      "mention_count": 11
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 33
+    },
+    {
+      "label": "Bánh Xèo",
+      "mention_count": 7
+    },
+    {
+      "label": "craft beer",
+      "mention_count": 16
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 16
+    },
+    {
+      "label": "Lemon Grass Beef with Noodles",
+      "mention_count": 6
+    },
+    {
+      "label": "viet coffee",
+      "mention_count": 5
+    },
+    {
+      "label": "grilled beef",
+      "mention_count": 16
+    },
+    {
+      "label": "egg roll",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T06:41:56Z",
+  "city": "Temple City",
+  "key": "summer-rolls-temple-cit"
+}

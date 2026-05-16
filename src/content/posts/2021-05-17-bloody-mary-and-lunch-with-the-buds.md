@@ -29,6 +29,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80c2b4a1fbe406c5:0x115d055822fcc19b"
 ---
 
 ![Bloody Mary and lunch with the buds](/images/posts/ig-2021-05-17-bloody-mary-and-lunch-with-the-buds/17919066523717764.jpg)

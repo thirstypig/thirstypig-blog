@@ -25,6 +25,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2c550a81662e1:0x967bbca955c471f4"
 ---
 
 ![Traditional Hong Kong style breakfast](/images/posts/ig-2021-06-02-traditional-hong-kong-style-breakfast/17911804117740395.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x855dff88222b5f:0x1e1e805948e61c61",
+  "venue_name": "Jasper's Carpet Cleaning",
+  "chips": [
+    {
+      "label": "professional technicians",
+      "mention_count": 2
+    },
+    {
+      "label": "fair pricing",
+      "mention_count": 4
+    },
+    {
+      "label": "efficient staff",
+      "mention_count": 2
+    },
+    {
+      "label": "stain removal",
+      "mention_count": 5
+    },
+    {
+      "label": "stains",
+      "mention_count": 5
+    },
+    {
+      "label": "stairs",
+      "mention_count": 2
+    },
+    {
+      "label": "sofa cleaning",
+      "mention_count": 2
+    },
+    {
+      "label": "brand",
+      "mention_count": 3
+    },
+    {
+      "label": "punctuality",
+      "mention_count": 2
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:32Z",
+  "city": "Arcadia",
+  "key": "best-carpet-care-arcadia"
+}

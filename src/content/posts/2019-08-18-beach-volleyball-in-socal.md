@@ -23,6 +23,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c2b3eb826efffd:0x3688885d993893ce"
 ---
 
 ![Beach Volleyball in SoCal](/images/posts/ig-2019-08-18-beach-volleyball-in-socal/17932868722306989.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6392cc7321f:0x9904032de92fe17f",
+  "venue_name": "INKO NITO - Downtown",
+  "chips": [
+    {
+      "label": "beef cheek",
+      "mention_count": 4
+    },
+    {
+      "label": "cauliflower",
+      "mention_count": 6
+    },
+    {
+      "label": "four course tasting menu",
+      "mention_count": 2
+    },
+    {
+      "label": "sweet potato",
+      "mention_count": 5
+    },
+    {
+      "label": "open kitchen",
+      "mention_count": 3
+    },
+    {
+      "label": "robata",
+      "mention_count": 5
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 3
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 4
+    },
+    {
+      "label": "prawns",
+      "mention_count": 2
+    },
+    {
+      "label": "date night",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:31Z",
+  "city": "Downtown LA",
+  "key": "inko-nito-downtown-l"
+}

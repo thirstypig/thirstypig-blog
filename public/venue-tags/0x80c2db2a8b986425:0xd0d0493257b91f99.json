@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2a8b986425:0xd0d0493257b91f99",
+  "venue_name": "Yuk Dae Jang San Gabriel",
+  "chips": [
+    {
+      "label": "pork belly",
+      "mention_count": 17
+    },
+    {
+      "label": "yuk gae jang",
+      "mention_count": 13
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "bossam",
+      "mention_count": 15
+    },
+    {
+      "label": "banchan",
+      "mention_count": 8
+    },
+    {
+      "label": "original noodle soups",
+      "mention_count": 5
+    },
+    {
+      "label": "glass noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "naengmyeon",
+      "mention_count": 4
+    },
+    {
+      "label": "fish cakes",
+      "mention_count": 5
+    },
+    {
+      "label": "army stew",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:10Z",
+  "city": "San Gabriel",
+  "key": "yuk-dae-jang-san-gabrie"
+}

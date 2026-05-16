@@ -21,6 +21,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c776cbf2e187:0x3447bbdb27786b18"
 ---
 
 ![Oyaku-Don at Suehiro’s](/images/posts/ig-2019-06-02-oyaku-don-at-suehiros/18062436043078337.jpg)

@@ -24,6 +24,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x89c259533920ed1b:0xf4aba1c4a3bbbb54"
 ---
 
 ![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/18037591285135461.jpg)

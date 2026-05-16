@@ -25,6 +25,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c32b05213e7b9b:0x8e4104fb028afb93"
 ---
 
 ![Boba drinks at Class 302](/images/posts/ig-2019-12-13-boba-drinks-at-class-302/17868254041531942.jpg)

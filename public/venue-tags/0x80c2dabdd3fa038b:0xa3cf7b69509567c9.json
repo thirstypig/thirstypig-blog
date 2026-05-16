@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dabdd3fa038b:0xa3cf7b69509567c9",
+  "venue_name": "Arandinos Tacos El Patron",
+  "chips": [
+    {
+      "label": "cabeza",
+      "mention_count": 12
+    },
+    {
+      "label": "al pastor",
+      "mention_count": 15
+    },
+    {
+      "label": "mulitas",
+      "mention_count": 7
+    },
+    {
+      "label": "lengua",
+      "mention_count": 9
+    },
+    {
+      "label": "taco truck",
+      "mention_count": 15
+    },
+    {
+      "label": "lengua tacos",
+      "mention_count": 6
+    },
+    {
+      "label": "tripas",
+      "mention_count": 5
+    },
+    {
+      "label": "chorizo tacos",
+      "mention_count": 5
+    },
+    {
+      "label": "asada",
+      "mention_count": 13
+    },
+    {
+      "label": "beef taco",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:41:45Z",
+  "city": "San Gabriel Valley",
+  "key": "birria-tacos-carne-asada-nachos-san-gabrie"
+}

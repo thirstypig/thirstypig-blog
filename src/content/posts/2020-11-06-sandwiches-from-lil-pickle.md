@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80dcdf2052ea2efd:0xdb969bc0d0e89efc"
 ---
 
 ![Sandwiches from Lil Pickle](/images/posts/ig-2020-11-06-sandwiches-from-lil-pickle/17886598237793484.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80e81fd32af78209:0x3be6e90760128a84",
+  "venue_name": "Malibu Farm Restaurant at the Pier",
+  "chips": [
+    {
+      "label": "ocean view",
+      "mention_count": 21
+    },
+    {
+      "label": "lobster mac and cheese",
+      "mention_count": 10
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 12
+    },
+    {
+      "label": "sunset views",
+      "mention_count": 6
+    },
+    {
+      "label": "crab cake",
+      "mention_count": 10
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 14
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 5
+    },
+    {
+      "label": "steak flat bread",
+      "mention_count": 4
+    },
+    {
+      "label": "cocktails",
+      "mention_count": 21
+    },
+    {
+      "label": "matcha tiramisu",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:57Z",
+  "city": "Malibu",
+  "key": "malibu-farm-restaurant-bar-malibu"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db3a0edbae75:0x25e45ca2b9f1c26f",
+  "venue_name": "Dong Ting Xian",
+  "chips": [
+    {
+      "label": "stir-fried yellow beef",
+      "mention_count": 8
+    },
+    {
+      "label": "hunan cuisine",
+      "mention_count": 8
+    },
+    {
+      "label": "bullfrog",
+      "mention_count": 9
+    },
+    {
+      "label": "stir-fried pork",
+      "mention_count": 6
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 3
+    },
+    {
+      "label": "winter melon and pork rib soup",
+      "mention_count": 3
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 29
+    },
+    {
+      "label": "eggplant with century egg",
+      "mention_count": 2
+    },
+    {
+      "label": "gastroenteritis",
+      "mention_count": 3
+    },
+    {
+      "label": "fish",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:45Z",
+  "city": "San Gabriel",
+  "key": "my-in-laws-favorite-hunan-restauran-san-gabrie"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80d892612a230b8d:0xa52ae5ac0595ea4e",
+  "venue_name": "Hussong’s Cantina",
+  "chips": [
+    {
+      "label": "norteño",
+      "mention_count": 102
+    },
+    {
+      "label": "mariachi",
+      "mention_count": 147
+    },
+    {
+      "label": "live music",
+      "mention_count": 77
+    },
+    {
+      "label": "cantina",
+      "mention_count": 107
+    },
+    {
+      "label": "traditional place",
+      "mention_count": 77
+    },
+    {
+      "label": "tequila",
+      "mention_count": 33
+    },
+    {
+      "label": "peanuts",
+      "mention_count": 109
+    },
+    {
+      "label": "historic place",
+      "mention_count": 16
+    },
+    {
+      "label": "dive bar",
+      "mention_count": 10
+    },
+    {
+      "label": "emblematic place",
+      "mention_count": 18
+    }
+  ],
+  "scraped_at": "2026-05-16T06:33:28Z",
+  "city": "Ensenada",
+  "key": "the-best-meal-on-our-booze-cruise-i-ensenada"
+}

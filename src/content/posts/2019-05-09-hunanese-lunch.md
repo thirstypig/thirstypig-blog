@@ -22,6 +22,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dabc201d0c8b:0x59ac0ccdd539c95d"
 ---
 
 ![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/18064523041049308.jpg)

@@ -25,6 +25,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c9b5ceb50a99:0xd258d7e23ff91f9b"
 ---
 
 ![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17904603691723444.jpg)

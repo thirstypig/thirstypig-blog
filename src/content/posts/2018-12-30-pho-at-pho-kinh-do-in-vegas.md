@@ -26,6 +26,7 @@ images:
   - /images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18017029162028496.jpg
 source: instagram
 draft: false
+placeId: "0x80c8c7cd6704fdd3:0xa755a432fb3e9f9"
 ---
 
 ![Pho at Pho Kinh Do in Vegas](/images/posts/ig-2018-12-30-pho-at-pho-kinh-do-in-vegas/18016189561038545.jpg)

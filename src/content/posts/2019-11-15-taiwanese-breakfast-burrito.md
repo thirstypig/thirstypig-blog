@@ -26,6 +26,7 @@ coordinates:
   lng: 121.50678
 cuisine:
 - Taiwanese
+placeId: "0x3442a9002bcd8a17:0x88ab387a55fb6c76"
 ---
 
 ![Taiwanese Breakfast Burrito](/images/posts/ig-2019-11-15-taiwanese-breakfast-burrito/17887879384441531.jpg)

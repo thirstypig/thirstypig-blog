@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8d54e638cd5:0xc58bafe92e69af4d",
+  "venue_name": "Milk Bar",
+  "chips": [
+    {
+      "label": "soft serve",
+      "mention_count": 143
+    },
+    {
+      "label": "crack pie",
+      "mention_count": 56
+    },
+    {
+      "label": "cereal milk ice cream",
+      "mention_count": 49
+    },
+    {
+      "label": "cookies",
+      "mention_count": 215
+    },
+    {
+      "label": "birthday cake",
+      "mention_count": 100
+    },
+    {
+      "label": "milkshakes",
+      "mention_count": 81
+    },
+    {
+      "label": "cornflakes",
+      "mention_count": 38
+    },
+    {
+      "label": "milk bar pie",
+      "mention_count": 26
+    },
+    {
+      "label": "confetti cookie",
+      "mention_count": 16
+    },
+    {
+      "label": "truffles",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:40Z",
+  "city": "Los Angeles",
+  "key": "milk-bat-in-la-los-angele"
+}

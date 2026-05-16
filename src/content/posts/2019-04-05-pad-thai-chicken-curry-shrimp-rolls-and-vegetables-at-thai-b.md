@@ -27,6 +27,7 @@ coordinates:
   lng: -118.395369
 cuisine:
 - Fusion
+placeId: "0x80c2ba29a44d11e1:0x69bea3ddcd803eff"
 ---
 
 ![Pad Thai, chicken curry, shrimp rolls, and vegetables at Thai BBQ](/images/posts/ig-2019-04-05-pad-thai-chicken-curry-shrimp-rolls-and-vegetables-at-thai-b/17987009461223253.jpg)

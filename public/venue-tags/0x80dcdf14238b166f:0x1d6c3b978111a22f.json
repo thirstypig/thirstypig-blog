@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdf14238b166f:0x1d6c3b978111a22f",
+  "venue_name": "Chic Now Hainan Chicken Rice",
+  "chips": [
+    {
+      "label": "ginger sauce",
+      "mention_count": 5
+    },
+    {
+      "label": "chicken soup",
+      "mention_count": 4
+    },
+    {
+      "label": "tender chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "sweet chilli sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "fragrant rice",
+      "mention_count": 2
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 2
+    },
+    {
+      "label": "comfort food",
+      "mention_count": 4
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 3
+    },
+    {
+      "label": "healthy options",
+      "mention_count": 2
+    },
+    {
+      "label": "containers",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:29Z",
+  "city": "Orange County",
+  "key": "hainan-chicken-rice-in-the-oc-orange-cou"
+}

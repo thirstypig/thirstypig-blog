@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3320cec05b7:0x70861a5b2aced026",
+  "venue_name": "GRANVILLE",
+  "chips": [
+    {
+      "label": "rooftop",
+      "mention_count": 153
+    },
+    {
+      "label": "Wagyu Beef Stroganoff",
+      "mention_count": 28
+    },
+    {
+      "label": "mountain views",
+      "mention_count": 6
+    },
+    {
+      "label": "Granville Salad",
+      "mention_count": 12
+    },
+    {
+      "label": "Granville Skirt Steak",
+      "mention_count": 11
+    },
+    {
+      "label": "poke bowl",
+      "mention_count": 13
+    },
+    {
+      "label": "angel hair pasta with shrimp",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 48
+    },
+    {
+      "label": "spicy pasta",
+      "mention_count": 12
+    },
+    {
+      "label": "butternut squash soup",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:40Z",
+  "city": "Pasadena",
+  "key": "granville-pasadena"
+}

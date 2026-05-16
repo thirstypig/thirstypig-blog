@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80e954a455b76305:0x8c805a057bf22b94",
+  "venue_name": "Olsen's Danish Village Bakery",
+  "chips": [
+    {
+      "label": "apple strudel",
+      "mention_count": 30
+    },
+    {
+      "label": "butter cookies",
+      "mention_count": 46
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "danish",
+      "mention_count": 41
+    },
+    {
+      "label": "eclairs",
+      "mention_count": 20
+    },
+    {
+      "label": "kringle",
+      "mention_count": 30
+    },
+    {
+      "label": "cinnamon rolls",
+      "mention_count": 24
+    },
+    {
+      "label": "cheese danish",
+      "mention_count": 17
+    },
+    {
+      "label": "cream puff",
+      "mention_count": 11
+    },
+    {
+      "label": "meringues",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:27Z",
+  "city": "Solvang",
+  "key": "olsens-danish-village-bakery-is-sol-solvang"
+}

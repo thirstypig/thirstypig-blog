@@ -26,6 +26,7 @@ coordinates:
   lng: -118.12359
 cuisine:
 - Mediterranean
+placeId: "0x80c2c3509937e3af:0xdf06f28513da9fdc"
 ---
 
 ![Rotisserie chicken and Tri-tip shawarma plate from Zankou Chicken](/images/posts/ig-2019-11-23-rotisserie-chicken-and-tri-tip-shawarma-plate-from-zankou-ch/17845407010769144.jpg)

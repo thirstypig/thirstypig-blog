@@ -27,6 +27,7 @@ categories:
 region: Mexico
 cuisine:
 - Mexican
+placeId: "0x80d892612a230b8d:0xa52ae5ac0595ea4e"
 ---
 
 ![The best meal on our booze cruise in Ensenada, at Mahi Mahi](/images/posts/ig-2018-06-25-the-best-meal-on-our-booze-cruise-in-ensenada-at-mahi-mahi/17949623404070849.jpg)

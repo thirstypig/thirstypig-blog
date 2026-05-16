@@ -25,6 +25,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2dac2dea87e8d:0xec8c888b44f3d4bd"
 ---
 
 ![Indian Beer House](/images/posts/ig-2018-10-21-indian-beer-house/17990659756006741.jpg)

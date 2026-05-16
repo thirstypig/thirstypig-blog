@@ -25,6 +25,7 @@ categories:
 city: New York
 cuisine:
 - American
+placeId: "0x89c259c4d98dc297:0x1975f8ad02ff4b6"
 ---
 
 ![Fried Chick’n at Fuku at Hudson Yards](/images/posts/ig-2019-05-22-fried-chickn-at-fuku-at-hudson-yards/17876456308367196.jpg)

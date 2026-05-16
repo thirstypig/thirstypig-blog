@@ -28,6 +28,7 @@ coordinates:
   lng: -115.133746
 cuisine:
 - Seafood
+placeId: "0x80c8c325e05ab791:0xee6f9b797e4f6348"
 ---
 
 ![Pan Roast, clam chowder, lobster roll, and chowder tots](/images/posts/ig-2021-08-27-pan-roast-clam-chowder-lobster-roll-and-chowder-tots/17920592734758669.jpg)

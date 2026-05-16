@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdf2052ea2efd:0xdb969bc0d0e89efc",
+  "venue_name": "Ike's Love and Sandwiches",
+  "chips": [
+    {
+      "label": "dutch crunch bread",
+      "mention_count": 4
+    },
+    {
+      "label": "halal options",
+      "mention_count": 2
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 4
+    },
+    {
+      "label": "carnivores",
+      "mention_count": 2
+    },
+    {
+      "label": "courteous staff",
+      "mention_count": 2
+    },
+    {
+      "label": "salads",
+      "mention_count": 2
+    },
+    {
+      "label": "message",
+      "mention_count": 2
+    },
+    {
+      "label": "employees",
+      "mention_count": 2
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 13
+    },
+    {
+      "label": "location",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:41:48Z",
+  "city": "Costa Mesa",
+  "key": "ikes-love-sandwiches-costa-mesa"
+}

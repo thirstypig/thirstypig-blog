@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2cb973a7bf:0x1dbbc3aa2949873f",
+  "venue_name": "The Dive Oyster Bar",
+  "chips": [
+    {
+      "label": "Oyster Side",
+      "mention_count": 66
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 34
+    },
+    {
+      "label": "happy hour oysters",
+      "mention_count": 4
+    },
+    {
+      "label": "pan roast",
+      "mention_count": 31
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 19
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 17
+    },
+    {
+      "label": "cioppino",
+      "mention_count": 13
+    },
+    {
+      "label": "live music",
+      "mention_count": 3
+    },
+    {
+      "label": "bacon wrapped shrimp",
+      "mention_count": 10
+    },
+    {
+      "label": "soft shell crab",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-16T06:47:33Z",
+  "city": "San Gabriel",
+  "key": "the-dive-san-gabrie"
+}

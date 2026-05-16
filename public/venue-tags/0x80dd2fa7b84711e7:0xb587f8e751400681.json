@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dd2fa7b84711e7:0xb587f8e751400681",
+  "venue_name": "Ola Mexican Kitchen",
+  "chips": [
+    {
+      "label": "lobster tacos",
+      "mention_count": 19
+    },
+    {
+      "label": "view of the marina",
+      "mention_count": 15
+    },
+    {
+      "label": "margaritas",
+      "mention_count": 43
+    },
+    {
+      "label": "sunset view",
+      "mention_count": 14
+    },
+    {
+      "label": "carne asada tacos",
+      "mention_count": 18
+    },
+    {
+      "label": "ribeye fajitas",
+      "mention_count": 7
+    },
+    {
+      "label": "harbor view",
+      "mention_count": 5
+    },
+    {
+      "label": "pork belly tacos",
+      "mention_count": 7
+    },
+    {
+      "label": "ocean view",
+      "mention_count": 6
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-05-16T06:46:51Z",
+  "city": "Long Beach",
+  "key": "ola-mexican-kitchen-long-beach"
+}

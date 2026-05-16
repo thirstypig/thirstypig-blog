@@ -27,6 +27,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2b8817bd39a39:0xbfe4f8b2f5877d94"
 ---
 
 ![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17876924110276574.jpg)

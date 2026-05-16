@@ -1,49 +1,8 @@
 {
   "place_id": "0x80c2c550a81662e1:0x967bbca955c471f4",
   "venue_name": "HongKong Cafe 香港茶餐廳",
-  "chips": [
-    {
-      "label": "cheong fun",
-      "mention_count": 14
-    },
-    {
-      "label": "authentic cantonese food",
-      "mention_count": 8
-    },
-    {
-      "label": "pineapple bun",
-      "mention_count": 32
-    },
-    {
-      "label": "curry dishes",
-      "mention_count": 9
-    },
-    {
-      "label": "cash only",
-      "mention_count": 7
-    },
-    {
-      "label": "beef brisket noodles",
-      "mention_count": 3
-    },
-    {
-      "label": "congee",
-      "mention_count": 4
-    },
-    {
-      "label": "fried noodle",
-      "mention_count": 6
-    },
-    {
-      "label": "curry fish balls",
-      "mention_count": 3
-    },
-    {
-      "label": "nostalgic feeling",
-      "mention_count": 4
-    }
-  ],
-  "scraped_at": "2026-05-16T05:16:43Z",
-  "city": "Monterey Park",
-  "key": "hong-kong-cafe-monterey-p"
+  "chips": [],
+  "scraped_at": "2026-05-16T06:44:12Z",
+  "city": "Hong Kong",
+  "key": "traditional-hong-kong-style-breakfa-hong-kong"
 }

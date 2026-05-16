@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c748eebd79e5:0x35d71da5acdb75fa",
+  "venue_name": "BURGERS NEVER SAY DIE",
+  "chips": [
+    {
+      "label": "smash burger",
+      "mention_count": 135
+    },
+    {
+      "label": "crispy edges",
+      "mention_count": 25
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 25
+    },
+    {
+      "label": "beef tallow fries",
+      "mention_count": 13
+    },
+    {
+      "label": "soft serve",
+      "mention_count": 17
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 15
+    },
+    {
+      "label": "crispy patties",
+      "mention_count": 9
+    },
+    {
+      "label": "thin patty",
+      "mention_count": 11
+    },
+    {
+      "label": "mcdouble",
+      "mention_count": 17
+    },
+    {
+      "label": "double cheese burgers",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:36Z",
+  "city": "Los Angeles",
+  "key": "burgers-never-say-die-los-angele"
+}

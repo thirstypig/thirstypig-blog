@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c77c51682903:0xd2a45066b81a124c",
+  "venue_name": "Holy Roly Ice Cream",
+  "chips": [
+    {
+      "label": "rolled ice cream",
+      "mention_count": 46
+    },
+    {
+      "label": "marshmallow",
+      "mention_count": 11
+    },
+    {
+      "label": "toppings",
+      "mention_count": 13
+    },
+    {
+      "label": "earl grey ice cream",
+      "mention_count": 7
+    },
+    {
+      "label": "matcha",
+      "mention_count": 12
+    },
+    {
+      "label": "hazelnut ice cream",
+      "mention_count": 4
+    },
+    {
+      "label": "organic ice cream",
+      "mention_count": 3
+    },
+    {
+      "label": "toasted marshmallow",
+      "mention_count": 2
+    },
+    {
+      "label": "ice cream making process",
+      "mention_count": 3
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:24Z",
+  "city": "Arcadia",
+  "key": "holy-roly-ice-cream-arcadia"
+}

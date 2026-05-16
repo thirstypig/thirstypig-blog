@@ -22,6 +22,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2dd14e1f98c15:0x5834ede31c43cb48"
 ---
 
 ![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17900458712163390.jpg)

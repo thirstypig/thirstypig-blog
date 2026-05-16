@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2b41ace145c51:0x6e80a3da0c3a5eb1"
 ---
 
 ![Brunch at Paul Martin’s American Grill](/images/posts/ig-2019-06-02-brunch-at-paul-martins-american-grill/18062233153077215.jpg)

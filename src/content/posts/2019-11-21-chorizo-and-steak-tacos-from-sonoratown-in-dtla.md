@@ -26,6 +26,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c634ca2394e3:0x4533a5ab9644d154"
 ---
 
 ![Chorizo and Steak Tacos from Sonoratown in DTLA](/images/posts/ig-2019-11-21-chorizo-and-steak-tacos-from-sonoratown-in-dtla/17861240593594112.jpg)

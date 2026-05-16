@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdc3442c6b7d5:0xafaa452cab42b2f1",
+  "venue_name": "Capital Noodle Bar - Irvine",
+  "chips": [
+    {
+      "label": "beef chow fun",
+      "mention_count": 8
+    },
+    {
+      "label": "dim sum",
+      "mention_count": 11
+    },
+    {
+      "label": "broths",
+      "mention_count": 8
+    },
+    {
+      "label": "crispy shrimp rolls 6 酥炸虾春卷6",
+      "mention_count": 2
+    },
+    {
+      "label": "wonton noodle soup",
+      "mention_count": 3
+    },
+    {
+      "label": "thai iced tea",
+      "mention_count": 3
+    },
+    {
+      "label": "char kway teow",
+      "mention_count": 2
+    },
+    {
+      "label": "juicy pork dumplings",
+      "mention_count": 2
+    },
+    {
+      "label": "Hainan Chicken Rice",
+      "mention_count": 19
+    },
+    {
+      "label": "wok hei",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:32:54Z",
+  "city": "Irvine",
+  "key": "capital-noodle-bar-irvine"
+}

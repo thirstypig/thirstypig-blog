@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db82f8c9a3f3:0xf608f4e85761436e",
+  "venue_name": "Baking With Ish",
+  "chips": [
+    {
+      "label": "ube pastries",
+      "mention_count": 3
+    },
+    {
+      "label": "pies",
+      "mention_count": 11
+    },
+    {
+      "label": "brioche",
+      "mention_count": 3
+    },
+    {
+      "label": "ube cheese pie",
+      "mention_count": 2
+    },
+    {
+      "label": "banana bread",
+      "mention_count": 2
+    },
+    {
+      "label": "pillowy pan de sal",
+      "mention_count": 2
+    },
+    {
+      "label": "ube sesame bun",
+      "mention_count": 2
+    },
+    {
+      "label": "mango sticky rice pie",
+      "mention_count": 2
+    },
+    {
+      "label": "ube cheese pandesal",
+      "mention_count": 2
+    },
+    {
+      "label": "blueberry corn muffin",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:17Z",
+  "city": "San Gabriel",
+  "key": "baking-with-ish-san-gabrie"
+}

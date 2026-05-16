@@ -25,6 +25,7 @@ coordinates:
   lng: -117.832805
 cuisine:
 - Japanese
+placeId: "0x80dcde9d0c62d16b:0xdc719b0410c60219"
 ---
 
 ![Lunch with Shanghai friends, who now live in Irvine](/images/posts/ig-2018-06-12-lunch-with-shanghai-friends-who-now-live-in-irvine/17918734087174835.jpg)

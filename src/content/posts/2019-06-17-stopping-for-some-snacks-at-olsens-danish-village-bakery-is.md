@@ -25,6 +25,7 @@ categories:
 city: Solvang
 cuisine:
 - Bakery
+placeId: "0x80e954a455b76305:0x8c805a057bf22b94"
 ---
 
 ![Stopping for some snacks at Olsen’s Danish Village Bakery is Solvang](/images/posts/ig-2019-06-17-stopping-for-some-snacks-at-olsens-danish-village-bakery-is/18078096562023430.jpg)

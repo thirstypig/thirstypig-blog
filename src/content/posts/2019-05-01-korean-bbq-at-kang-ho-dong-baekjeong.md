@@ -28,6 +28,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2dafb95eecd69:0xd5209c2877a3cd4b"
 ---
 
 ![Korean Bbq at Kang Ho Dong Baekjeong](/images/posts/ig-2019-05-01-korean-bbq-at-kang-ho-dong-baekjeong/17890063960322863.jpg)

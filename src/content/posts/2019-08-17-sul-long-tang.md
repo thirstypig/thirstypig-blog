@@ -21,6 +21,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
 ![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17871699586441662.jpg)

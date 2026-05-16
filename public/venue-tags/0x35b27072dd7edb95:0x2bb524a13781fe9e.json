@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b27072dd7edb95:0x2bb524a13781fe9e",
+  "venue_name": "Weixiangzhai",
+  "chips": [
+    {
+      "label": "Sesame Paste Noodles",
+      "mention_count": 38
+    },
+    {
+      "label": "small beef soup",
+      "mention_count": 15
+    },
+    {
+      "label": "local atmosphere",
+      "mention_count": 5
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 15
+    },
+    {
+      "label": "fried pork chop",
+      "mention_count": 10
+    },
+    {
+      "label": "jiang mian",
+      "mention_count": 4
+    },
+    {
+      "label": "curry beef soup",
+      "mention_count": 5
+    },
+    {
+      "label": "peanut sauce",
+      "mention_count": 6
+    },
+    {
+      "label": "peanut butter noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "80-year-old noodle house",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:43:00Z",
+  "city": "Shanghai",
+  "key": "best-noodles-i-have-ever-made-shanghai"
+}

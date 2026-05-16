@@ -30,6 +30,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80dcddc2bf95704f:0x988474a1ed747491"
 ---
 
 ![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17977184170057527.jpg)

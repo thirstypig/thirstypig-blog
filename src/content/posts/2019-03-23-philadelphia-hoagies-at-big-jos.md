@@ -21,6 +21,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2bb365c769949:0x740be3648594442b"
 ---
 
 ![Philadelphia Hoagies at Big Jo’s](/images/posts/ig-2019-03-23-philadelphia-hoagies-at-big-jos/17952602071258997.jpg)

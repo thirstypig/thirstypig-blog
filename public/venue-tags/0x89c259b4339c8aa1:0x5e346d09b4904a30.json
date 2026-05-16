@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259b4339c8aa1:0x5e346d09b4904a30",
+  "venue_name": "Hudson Yards Public Square and Gardens",
+  "chips": [
+    {
+      "label": "christmas show",
+      "mention_count": 4
+    },
+    {
+      "label": "views of the river",
+      "mention_count": 2
+    },
+    {
+      "label": "large space",
+      "mention_count": 4
+    },
+    {
+      "label": "view",
+      "mention_count": 5
+    },
+    {
+      "label": "photo opts",
+      "mention_count": 2
+    },
+    {
+      "label": "vessel",
+      "mention_count": 7
+    },
+    {
+      "label": "open area",
+      "mention_count": 3
+    },
+    {
+      "label": "benches",
+      "mention_count": 2
+    },
+    {
+      "label": "joyful experience",
+      "mention_count": 2
+    },
+    {
+      "label": "walking",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:04Z",
+  "city": "New York",
+  "key": "hudson-yards-public-square-and-gard-new-york"
+}

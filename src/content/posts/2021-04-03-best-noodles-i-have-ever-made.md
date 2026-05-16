@@ -22,6 +22,7 @@ region: Shanghai
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x35b27072dd7edb95:0x2bb524a13781fe9e"
 ---
 
 ![Best noodles I have ever made](/images/posts/ig-2021-04-03-best-noodles-i-have-ever-made/17911675588685661.jpg)

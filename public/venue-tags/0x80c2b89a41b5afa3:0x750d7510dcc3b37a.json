@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b89a41b5afa3:0x750d7510dcc3b37a",
+  "venue_name": "Hanbat Sul Lung Tang",
+  "chips": [
+    {
+      "label": "radish kimchi",
+      "mention_count": 60
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 14
+    },
+    {
+      "label": "bone broth",
+      "mention_count": 32
+    },
+    {
+      "label": "brisket",
+      "mention_count": 60
+    },
+    {
+      "label": "tongue",
+      "mention_count": 19
+    },
+    {
+      "label": "glass noodles",
+      "mention_count": 8
+    },
+    {
+      "label": "tripe",
+      "mention_count": 13
+    },
+    {
+      "label": "intestines",
+      "mention_count": 6
+    },
+    {
+      "label": "kkakdugi soup",
+      "mention_count": 3
+    },
+    {
+      "label": "banchan",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:52Z",
+  "city": "Koreatown",
+  "key": "han-bat-sul-lung-tang-koreatown"
+}

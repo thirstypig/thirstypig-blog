@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 927 E Las Tunas Dr
 cuisine:
 - Korean
+placeId: "0x80c2dae0f58f48f3:0x71544a003cf26c89"
 ---
 
 

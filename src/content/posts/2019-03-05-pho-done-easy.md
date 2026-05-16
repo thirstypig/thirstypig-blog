@@ -22,6 +22,7 @@ categories:
 - Vietnamese
 cuisine:
 - Vietnamese
+placeId: "0x80c2dabdd7ecabdb:0x1181920267e42ebc"
 ---
 
 ![Pho done easy](/images/posts/ig-2019-03-05-pho-done-easy/17873676424319881.jpg)

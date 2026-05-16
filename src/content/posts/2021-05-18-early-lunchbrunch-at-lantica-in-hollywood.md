@@ -22,6 +22,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2bf55a665f29b:0xe0fcf53cb8bb407d"
 ---
 
 ![Early lunch/brunch at L’antica in Hollywood](/images/posts/ig-2021-05-18-early-lunchbrunch-at-lantica-in-hollywood/17883680465181233.jpg)

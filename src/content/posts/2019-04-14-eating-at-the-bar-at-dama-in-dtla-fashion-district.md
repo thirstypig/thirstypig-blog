@@ -33,6 +33,7 @@ coordinates:
   lng: -118.253182
 cuisine:
 - Peruvian
+placeId: "0x80c2c799ced7453f:0xa68a9ddee652bcde"
 ---
 
 ![Eating at the bar at Dama in DTLA, fashion district](/images/posts/ig-2019-04-14-eating-at-the-bar-at-dama-in-dtla-fashion-district/17979127720233083.jpg)

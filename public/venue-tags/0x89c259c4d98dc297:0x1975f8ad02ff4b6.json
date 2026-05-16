@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259c4d98dc297:0x1975f8ad02ff4b6",
+  "venue_name": "Fuku (closed at this location)",
+  "chips": [
+    {
+      "label": "waffle fries",
+      "mention_count": 46
+    },
+    {
+      "label": "fried chicken sandwich",
+      "mention_count": 14
+    },
+    {
+      "label": "jalapeño seasoning",
+      "mention_count": 9
+    },
+    {
+      "label": "chicken tenders",
+      "mention_count": 16
+    },
+    {
+      "label": "mac salad",
+      "mention_count": 5
+    },
+    {
+      "label": "spicy chicken sandwich",
+      "mention_count": 19
+    },
+    {
+      "label": "honey mustard",
+      "mention_count": 6
+    },
+    {
+      "label": "dark meat chicken sandwich",
+      "mention_count": 3
+    },
+    {
+      "label": "Chicken Wings",
+      "mention_count": 15
+    },
+    {
+      "label": "crispy chicken",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:08Z",
+  "city": "New York",
+  "key": "fried-chickn-at-fuku-at-hudson-yard-new-york"
+}

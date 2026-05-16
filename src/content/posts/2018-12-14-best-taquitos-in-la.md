@@ -21,6 +21,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c64a9166f355:0xa79202ab9195883e"
 ---
 
 ![Best Taquitos in LA](/images/posts/ig-2018-12-14-best-taquitos-in-la/17995864489129213.jpg)

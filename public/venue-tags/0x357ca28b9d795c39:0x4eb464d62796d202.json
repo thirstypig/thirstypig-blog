@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357ca28b9d795c39:0x4eb464d62796d202",
+  "venue_name": "Goryeo Samgyetang City Hall Branch",
+  "chips": [
+    {
+      "label": "ginseng chicken soup",
+      "mention_count": 63
+    },
+    {
+      "label": "abalone",
+      "mention_count": 29
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 73
+    },
+    {
+      "label": "black-bone chicken",
+      "mention_count": 22
+    },
+    {
+      "label": "kkakdugi",
+      "mention_count": 24
+    },
+    {
+      "label": "glutinous rice",
+      "mention_count": 52
+    },
+    {
+      "label": "ginseng wine",
+      "mention_count": 34
+    },
+    {
+      "label": "kimchi",
+      "mention_count": 15
+    },
+    {
+      "label": "goryeo samgyetang",
+      "mention_count": 5
+    },
+    {
+      "label": "banchan",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:50Z",
+  "city": "Seoul",
+  "key": "korea-ginseng-chicken-soup-고려삼계탕-seoul"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcde9d0c62d16b:0xdc719b0410c60219",
+  "venue_name": "Pepper Lunch",
+  "chips": [
+    {
+      "label": "Classic Beef Pepper Rice",
+      "mention_count": 8
+    },
+    {
+      "label": "sizzling plate",
+      "mention_count": 10
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "curry",
+      "mention_count": 42
+    },
+    {
+      "label": "ribeye",
+      "mention_count": 5
+    },
+    {
+      "label": "helpful cashier",
+      "mention_count": 5
+    },
+    {
+      "label": "salmon pepper rice",
+      "mention_count": 3
+    },
+    {
+      "label": "teriyaki chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "kimchi beef",
+      "mention_count": 6
+    },
+    {
+      "label": "garlic chips",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:33:10Z",
+  "city": "Irvine",
+  "key": "pepper-lunch-irvine"
+}

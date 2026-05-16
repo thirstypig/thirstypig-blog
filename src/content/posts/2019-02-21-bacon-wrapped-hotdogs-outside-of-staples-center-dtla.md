@@ -22,6 +22,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c7bb1a7c7f71:0xd1c551d7a9d47851"
 ---
 
 ![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17997782482172095.jpg)

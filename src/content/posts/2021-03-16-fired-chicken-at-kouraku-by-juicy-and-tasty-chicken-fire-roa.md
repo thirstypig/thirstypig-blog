@@ -24,6 +24,7 @@ coordinates:
   lng: 139.699851
 cuisine:
 - Japanese
+placeId: "0x60188de3c6d3e39d:0xadeb03dc0905167c"
 ---
 
 ![Fired Chicken at Kouraku by Juicy and tasty chicken fire roasted](/images/posts/ig-2021-03-16-fired-chicken-at-kouraku-by-juicy-and-tasty-chicken-fire-roa/17940584950460572.jpg)

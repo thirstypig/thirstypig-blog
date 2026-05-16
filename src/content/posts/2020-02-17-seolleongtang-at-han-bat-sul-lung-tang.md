@@ -26,6 +26,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2b89a41b5afa3:0x750d7510dcc3b37a"
 ---
 
 ![Seolleongtang at Han Bat Sul Lung Tang](/images/posts/ig-2020-02-17-seolleongtang-at-han-bat-sul-lung-tang/17882973316507294.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c527b0dff279:0xbd987c9b7cd8d763",
+  "venue_name": "Alhambra Place",
+  "chips": [
+    {
+      "label": "grocery store",
+      "mention_count": 17
+    },
+    {
+      "label": "organic food",
+      "mention_count": 13
+    },
+    {
+      "label": "food choices",
+      "mention_count": 16
+    },
+    {
+      "label": "food spots",
+      "mention_count": 8
+    },
+    {
+      "label": "relaxing atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "selection of stores",
+      "mention_count": 5
+    },
+    {
+      "label": "clothing",
+      "mention_count": 12
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 24
+    },
+    {
+      "label": "fresh produce",
+      "mention_count": 14
+    },
+    {
+      "label": "product selection",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:43Z",
+  "city": "Alhambra",
+  "key": "yet-another-alhambra"
+}

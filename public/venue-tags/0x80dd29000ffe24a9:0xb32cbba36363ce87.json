@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dd29000ffe24a9:0xb32cbba36363ce87",
+  "venue_name": "FireFly Burger California",
+  "chips": [
+    {
+      "label": "smokey burger",
+      "mention_count": 14
+    },
+    {
+      "label": "Smashed Double Burger",
+      "mention_count": 20
+    },
+    {
+      "label": "halal food",
+      "mention_count": 43
+    },
+    {
+      "label": "halal burgers",
+      "mention_count": 12
+    },
+    {
+      "label": "juicy burgers",
+      "mention_count": 13
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 14
+    },
+    {
+      "label": "mozzarella sticks",
+      "mention_count": 12
+    },
+    {
+      "label": "welcoming staff",
+      "mention_count": 30
+    },
+    {
+      "label": "beef bacon",
+      "mention_count": 9
+    },
+    {
+      "label": "firefly burger",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:32:44Z",
+  "city": "Anaheim",
+  "key": "jalapeño-pepper-burger-swiss-mushro-anaheim"
+}

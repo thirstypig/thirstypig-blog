@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2bb5b0e9d96b9:0x8c8ef0ee71eb6cd5"
 ---
 
 ![Lunch at the Terrace at the Maybourne](/images/posts/ig-2021-06-18-lunch-at-the-terrace-at-the-maybourne/18114903310242516.jpg)

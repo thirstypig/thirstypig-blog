@@ -22,6 +22,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2dca87781b01f:0x9631c2b3036ee085"
 ---
 
 ![Tonkotsu ramen at King of Ramen](/images/posts/ig-2020-01-06-tonkotsu-ramen-at-king-of-ramen/18123601645008651.jpg)

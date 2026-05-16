@@ -23,6 +23,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x89c2598a1316e7a7:0xd8f10512fc3c4299"
 ---
 
 ![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17849587021438362.jpg)

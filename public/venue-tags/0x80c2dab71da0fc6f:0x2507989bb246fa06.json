@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dab71da0fc6f:0x2507989bb246fa06",
+  "venue_name": "Blackball Taiwanese Dessert",
+  "chips": [
+    {
+      "label": "taro balls",
+      "mention_count": 8
+    },
+    {
+      "label": "aiyu jelly",
+      "mention_count": 3
+    },
+    {
+      "label": "boba",
+      "mention_count": 8
+    },
+    {
+      "label": "shaved ice",
+      "mention_count": 14
+    },
+    {
+      "label": "sweet potato",
+      "mention_count": 7
+    },
+    {
+      "label": "decor",
+      "mention_count": 2
+    },
+    {
+      "label": "grass jelly combo",
+      "mention_count": 33
+    },
+    {
+      "label": "matcha",
+      "mention_count": 9
+    },
+    {
+      "label": "drinks",
+      "mention_count": 3
+    },
+    {
+      "label": "beans",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:33Z",
+  "city": "San Gabriel",
+  "key": "blackball-desserts-san-gabrie"
+}

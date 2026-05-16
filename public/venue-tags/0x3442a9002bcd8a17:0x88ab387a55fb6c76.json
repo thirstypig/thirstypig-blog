@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9002bcd8a17:0x88ab387a55fb6c76",
+  "venue_name": "Taiwan Xiao Long Bao",
+  "chips": [
+    {
+      "label": "dumplings",
+      "mention_count": 46
+    },
+    {
+      "label": "pork bun",
+      "mention_count": 18
+    },
+    {
+      "label": "red bean bun",
+      "mention_count": 5
+    },
+    {
+      "label": "24-hour operation",
+      "mention_count": 7
+    },
+    {
+      "label": "small tables",
+      "mention_count": 7
+    },
+    {
+      "label": "soy milk",
+      "mention_count": 8
+    },
+    {
+      "label": "dumpling skin",
+      "mention_count": 4
+    },
+    {
+      "label": "bao",
+      "mention_count": 4
+    },
+    {
+      "label": "wontons",
+      "mention_count": 4
+    },
+    {
+      "label": "homemade dumplings",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:39Z",
+  "city": "Taipei",
+  "key": "taiwanese-breakfast-想彳早餐-taipei"
+}

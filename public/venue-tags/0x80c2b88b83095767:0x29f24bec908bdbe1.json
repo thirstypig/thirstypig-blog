@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b88b83095767:0x29f24bec908bdbe1",
+  "venue_name": "Feng Mao BBQ Lamb Kebab Olympic",
+  "chips": [
+    {
+      "label": "Lamb Skewers",
+      "mention_count": 33
+    },
+    {
+      "label": "Banchan",
+      "mention_count": 7
+    },
+    {
+      "label": "guo bao rou",
+      "mention_count": 6
+    },
+    {
+      "label": "colorful cold noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "beef skewers",
+      "mention_count": 10
+    },
+    {
+      "label": "cumin spice seasoning",
+      "mention_count": 6
+    },
+    {
+      "label": "cook your own kebabs",
+      "mention_count": 3
+    },
+    {
+      "label": "soju",
+      "mention_count": 5
+    },
+    {
+      "label": "cooking your own skewers",
+      "mention_count": 2
+    },
+    {
+      "label": "mala lamb skewers",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:37Z",
+  "city": "Los Angeles",
+  "key": "hunan-mao-los-angele"
+}

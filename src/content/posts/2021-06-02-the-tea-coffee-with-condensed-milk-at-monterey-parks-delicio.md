@@ -24,6 +24,7 @@ images:
   - /images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg
 source: instagram
 draft: false
+placeId: "0x80c2db2faf360339:0xfe59393108af1175"
 ---
 
 ![The tea coffee with condensed milk at Monterey Parks Delicious Food Corner](/images/posts/ig-2021-06-02-the-tea-coffee-with-condensed-milk-at-monterey-parks-delicio/17881944995243112.jpg)

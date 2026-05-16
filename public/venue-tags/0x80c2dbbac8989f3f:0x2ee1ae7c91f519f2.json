@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbac8989f3f:0x2ee1ae7c91f519f2",
+  "venue_name": "Chang's Garden",
+  "chips": [
+    {
+      "label": "kung pao chicken",
+      "mention_count": 12
+    },
+    {
+      "label": "shanghai restaurant",
+      "mention_count": 8
+    },
+    {
+      "label": "xiao long bao",
+      "mention_count": 3
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 2
+    },
+    {
+      "label": "orange chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "ribs",
+      "mention_count": 5
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 6
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 2
+    },
+    {
+      "label": "fast food quality",
+      "mention_count": 3
+    },
+    {
+      "label": "family style",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:00Z",
+  "city": "Arcadia",
+  "key": "changs-garden-arcadia"
+}

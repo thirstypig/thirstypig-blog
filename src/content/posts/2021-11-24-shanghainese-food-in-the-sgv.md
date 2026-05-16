@@ -30,6 +30,7 @@ coordinates:
   lng: 121.454507
 cuisine:
 - Chinese
+placeId: "0x35b27b6d2f3ab8e7:0x96a4a64bcb76999b"
 ---
 
 ![Shanghainese food in the SGV](/images/posts/ig-2021-11-24-shanghainese-food-in-the-sgv/18019586896338132.jpg)

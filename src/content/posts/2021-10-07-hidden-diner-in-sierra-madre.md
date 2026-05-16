@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2dc7a11842737:0xe53903848edc9c3c"
 ---
 
 ![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17925738541842115.jpg)

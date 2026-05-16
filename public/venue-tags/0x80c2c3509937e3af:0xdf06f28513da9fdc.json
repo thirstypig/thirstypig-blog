@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3509937e3af:0xdf06f28513da9fdc",
+  "venue_name": "Zankou Chicken Pasadena",
+  "chips": [
+    {
+      "label": "rotisserie chicken",
+      "mention_count": 38
+    },
+    {
+      "label": "garlic sauce",
+      "mention_count": 171
+    },
+    {
+      "label": "cucumber salad",
+      "mention_count": 21
+    },
+    {
+      "label": "tabouli",
+      "mention_count": 22
+    },
+    {
+      "label": "shish kabob",
+      "mention_count": 14
+    },
+    {
+      "label": "garlic butter",
+      "mention_count": 24
+    },
+    {
+      "label": "steak kabobs",
+      "mention_count": 11
+    },
+    {
+      "label": "chicken tarna",
+      "mention_count": 8
+    },
+    {
+      "label": "wraps",
+      "mention_count": 53
+    },
+    {
+      "label": "tahini",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:02Z",
+  "city": "Pasadena",
+  "key": "zankou-chicken-pasadena"
+}

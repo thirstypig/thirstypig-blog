@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c647fbdb7465:0x95a6abac0c1ada9f",
+  "venue_name": "TOT Little Tokyo",
+  "chips": [
+    {
+      "label": "katsu",
+      "mention_count": 21
+    },
+    {
+      "label": "bento boxes",
+      "mention_count": 17
+    },
+    {
+      "label": "spicy chicken ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "Takoyaki",
+      "mention_count": 6
+    },
+    {
+      "label": "potato croquette",
+      "mention_count": 3
+    },
+    {
+      "label": "mixed tempura",
+      "mention_count": 3
+    },
+    {
+      "label": "sukiyaki",
+      "mention_count": 4
+    },
+    {
+      "label": "teriyaki chicken",
+      "mention_count": 7
+    },
+    {
+      "label": "unagi bento",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy miso soup",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:34:02Z",
+  "city": "Los Angeles",
+  "key": "tot-little-tokyo-los-angele"
+}

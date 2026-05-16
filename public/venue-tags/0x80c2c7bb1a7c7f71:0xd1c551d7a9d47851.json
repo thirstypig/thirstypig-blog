@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7bb1a7c7f71:0xd1c551d7a9d47851",
+  "venue_name": "wild dogs grill dtla",
+  "chips": [
+    {
+      "label": "bacon wrapped hotdogs",
+      "mention_count": 2
+    },
+    {
+      "label": "al pastor tacos",
+      "mention_count": 2
+    },
+    {
+      "label": "carne asada bowl",
+      "mention_count": 2
+    },
+    {
+      "label": "food truck",
+      "mention_count": 4
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 3
+    },
+    {
+      "label": "pricing",
+      "mention_count": 5
+    },
+    {
+      "label": "fries",
+      "mention_count": 2
+    },
+    {
+      "label": "guacamole",
+      "mention_count": 2
+    },
+    {
+      "label": "hot dogs",
+      "mention_count": 4
+    },
+    {
+      "label": "food",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:18Z",
+  "city": "Dtla",
+  "key": "bacon-wrapped-hotdogs-outside-of-st-dtla"
+}

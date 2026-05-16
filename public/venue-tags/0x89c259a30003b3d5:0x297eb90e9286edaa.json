@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259a30003b3d5:0x297eb90e9286edaa",
+  "venue_name": "Five Iron Golf",
+  "chips": [
+    {
+      "label": "lesson",
+      "mention_count": 39
+    },
+    {
+      "label": "private lessons",
+      "mention_count": 3
+    },
+    {
+      "label": "club selection",
+      "mention_count": 10
+    },
+    {
+      "label": "club fitting",
+      "mention_count": 4
+    },
+    {
+      "label": "instructor",
+      "mention_count": 18
+    },
+    {
+      "label": "rental clubs",
+      "mention_count": 4
+    },
+    {
+      "label": "coaching",
+      "mention_count": 10
+    },
+    {
+      "label": "fun atmosphere",
+      "mention_count": 23
+    },
+    {
+      "label": "drills",
+      "mention_count": 2
+    },
+    {
+      "label": "swing improvement",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:57Z",
+  "city": "New York",
+  "key": "five-iron-golf-new-york"
+}

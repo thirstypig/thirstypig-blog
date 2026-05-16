@@ -21,6 +21,7 @@ categories:
 - Dessert
 cuisine:
 - Dessert
+placeId: "0x80c2dab71da0fc6f:0x2507989bb246fa06"
 ---
 
 ![Cold and hot desserts at Blackball Desserts](/images/posts/ig-2019-03-15-cold-and-hot-desserts-at-blackball-desserts/18045734860005778.jpg)

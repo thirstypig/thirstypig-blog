@@ -31,6 +31,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dbaedc85fdcb:0xc96f995e15639de"
 ---
 
 ![Northeastern Chinese Cuisine at Northern Cafe](/images/posts/ig-2022-01-13-northeastern-chinese-cuisine-at-northern-cafe/17954906215607830.jpg)

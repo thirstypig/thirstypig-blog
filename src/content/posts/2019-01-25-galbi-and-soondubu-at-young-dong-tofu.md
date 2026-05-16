@@ -25,6 +25,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2dae0f58f48f3:0x71544a003cf26c89"
 ---
 
 ![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17951856751232594.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2d96a19055555:0xd2072b334de6a029",
+  "venue_name": "LOOK Dine-In Cinemas",
+  "chips": [
+    {
+      "label": "reclining seats",
+      "mention_count": 37
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 17
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 14
+    },
+    {
+      "label": "comfortable seats",
+      "mention_count": 78
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 19
+    },
+    {
+      "label": "worn seats",
+      "mention_count": 2
+    },
+    {
+      "label": "manual recline",
+      "mention_count": 2
+    },
+    {
+      "label": "fried oreos",
+      "mention_count": 9
+    },
+    {
+      "label": "sticky floor",
+      "mention_count": 2
+    },
+    {
+      "label": "large screens",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:14Z",
+  "city": "Monrovia",
+  "key": "studio-movie-grill-monrovia-monrovia"
+}

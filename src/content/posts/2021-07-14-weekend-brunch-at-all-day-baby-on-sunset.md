@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c7b4052f15ab:0xeebc4ffcc8f75e4e"
 ---
 
 ![Weekend brunch at All Day Baby on Sunset](/images/posts/ig-2021-07-14-weekend-brunch-at-all-day-baby-on-sunset/17926895983641628.jpg)

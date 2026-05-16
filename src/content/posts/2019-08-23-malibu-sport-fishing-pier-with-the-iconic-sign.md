@@ -25,6 +25,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c2c78c5ad458fb:0xac61952781518a0f"
 ---
 
 ![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/17885517511403240.jpg)

@@ -29,6 +29,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c6392cc7321f:0x9904032de92fe17f"
 ---
 
 ![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18075864619068245.jpg)

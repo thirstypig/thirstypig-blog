@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbaf5b54797b:0xc06d475dd2650837",
+  "venue_name": "Au79 Teahouse",
+  "chips": [
+    {
+      "label": "boba",
+      "mention_count": 45
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "jasmine milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "olong milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "honey milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "pink boba",
+      "mention_count": 2
+    },
+    {
+      "label": "oolong",
+      "mention_count": 3
+    },
+    {
+      "label": "friendly employees",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:47:37Z",
+  "city": "Arcadia",
+  "key": "au79-teahouse-arcadia"
+}

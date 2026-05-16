@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dafb95eecd69:0xd5209c2877a3cd4b",
+  "venue_name": "Baekjeong Temple City",
+  "chips": [
+    {
+      "label": "Beef Combo",
+      "mention_count": 14
+    },
+    {
+      "label": "not all you can eat",
+      "mention_count": 16
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "brisket",
+      "mention_count": 8
+    },
+    {
+      "label": "corn cheese",
+      "mention_count": 19
+    },
+    {
+      "label": "egg with cheesecorn",
+      "mention_count": 5
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 6
+    },
+    {
+      "label": "sides",
+      "mention_count": 51
+    },
+    {
+      "label": "soybean soup",
+      "mention_count": 4
+    },
+    {
+      "label": "large combo",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:38Z",
+  "city": "San Gabriel",
+  "key": "kang-ho-dong-baekjeong-san-gabrie"
+}

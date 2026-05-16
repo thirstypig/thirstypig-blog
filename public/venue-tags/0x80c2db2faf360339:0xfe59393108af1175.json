@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2faf360339:0xfe59393108af1175",
+  "venue_name": "Delicious Food Corner",
+  "chips": [
+    {
+      "label": "pineapple bun",
+      "mention_count": 8
+    },
+    {
+      "label": "congee",
+      "mention_count": 4
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 6
+    },
+    {
+      "label": "Curry Fish Balls",
+      "mention_count": 3
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 12
+    },
+    {
+      "label": "cash only",
+      "mention_count": 4
+    },
+    {
+      "label": "hk style",
+      "mention_count": 3
+    },
+    {
+      "label": "minced pork rice",
+      "mention_count": 2
+    },
+    {
+      "label": "rice rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "free refills",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:43:53Z",
+  "city": "Rosemead",
+  "key": "delicious-food-corner-rosemead"
+}

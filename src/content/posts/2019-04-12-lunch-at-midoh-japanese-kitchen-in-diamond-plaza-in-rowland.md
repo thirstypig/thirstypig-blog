@@ -28,6 +28,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c32b049c7c310f:0x6818b9fb19f2c8a"
 ---
 
 ![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/18055400536063939.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80845543e475ae6f:0x108c36ec029f598",
+  "venue_name": "Bouchon Bakery",
+  "chips": [
+    {
+      "label": "macarons",
+      "mention_count": 111
+    },
+    {
+      "label": "almond croissant",
+      "mention_count": 62
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 18
+    },
+    {
+      "label": "passionfruit macarons",
+      "mention_count": 11
+    },
+    {
+      "label": "long lines",
+      "mention_count": 80
+    },
+    {
+      "label": "croissants",
+      "mention_count": 52
+    },
+    {
+      "label": "pistachio macarons",
+      "mention_count": 16
+    },
+    {
+      "label": "chocolate croissant",
+      "mention_count": 21
+    },
+    {
+      "label": "kouign amann",
+      "mention_count": 13
+    },
+    {
+      "label": "lemon tart",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:23Z",
+  "city": "Yountville",
+  "key": "bouchon-bakery-with-the-humongous-m-yountville"
+}

@@ -27,6 +27,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80dd2d395c1ae5ad:0x807fbfb3232e5e1f"
 ---
 
 ![Our third stop for Hainan Chicken Rice is at Maxwell Chicken Rice in DTLA Chi...](/images/posts/ig-2021-06-30-our-third-stop-for-hainan-chicken-rice-is-at-maxwell-chicken/17916884737790525.jpg)

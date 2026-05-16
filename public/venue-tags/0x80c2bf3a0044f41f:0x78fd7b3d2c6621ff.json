@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf3a0044f41f:0x78fd7b3d2c6621ff",
+  "venue_name": "Veggie Grill - Hollywood DOME",
+  "chips": [
+    {
+      "label": "chicken sandwiches",
+      "mention_count": 17
+    },
+    {
+      "label": "outdoor patio",
+      "mention_count": 5
+    },
+    {
+      "label": "lentil soup",
+      "mention_count": 9
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 9
+    },
+    {
+      "label": "veggie grill",
+      "mention_count": 7
+    },
+    {
+      "label": "crisp bite",
+      "mention_count": 10
+    },
+    {
+      "label": "crispy cauliflower",
+      "mention_count": 3
+    },
+    {
+      "label": "steakhouse burger",
+      "mention_count": 3
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 3
+    },
+    {
+      "label": "crab cake sando",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:48Z",
+  "city": "Hollywood",
+  "key": "veggie-grill-hollywood-dome-hollywood"
+}

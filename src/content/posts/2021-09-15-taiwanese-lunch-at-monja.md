@@ -28,6 +28,7 @@ images:
   - /images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/18250523572053409.jpg
 source: instagram
 draft: false
+placeId: "0x80c32a5dc990d163:0x670b341eaf42bfc7"
 ---
 
 ![Taiwanese lunch at Monja](/images/posts/ig-2021-09-15-taiwanese-lunch-at-monja/17926686379723739.jpg)

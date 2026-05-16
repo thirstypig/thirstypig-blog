@@ -23,6 +23,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c71b324e1a03:0x42c1779426767837"
 ---
 
 ![Chicken sando at pikunico](/images/posts/ig-2020-09-11-chicken-sando-at-pikunico/18083662414201272.jpg)

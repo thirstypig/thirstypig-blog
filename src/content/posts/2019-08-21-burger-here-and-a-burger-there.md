@@ -24,6 +24,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c64c19202c41:0x7fe23a6cb6a84284"
 ---
 
 ![Burger here and a burger there](/images/posts/ig-2019-08-21-burger-here-and-a-burger-there/17885525059398636.jpg)

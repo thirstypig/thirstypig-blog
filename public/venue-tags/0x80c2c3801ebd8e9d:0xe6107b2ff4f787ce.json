@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3801ebd8e9d:0xe6107b2ff4f787ce",
+  "venue_name": "HiroNori Craft Ramen",
+  "chips": [
+    {
+      "label": "chashu",
+      "mention_count": 16
+    },
+    {
+      "label": "tonkotsu ramen",
+      "mention_count": 51
+    },
+    {
+      "label": "vegan ramen",
+      "mention_count": 25
+    },
+    {
+      "label": "tonkatsu",
+      "mention_count": 24
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 31
+    },
+    {
+      "label": "shoyu ramen",
+      "mention_count": 10
+    },
+    {
+      "label": "pork buns",
+      "mention_count": 8
+    },
+    {
+      "label": "thick noodles",
+      "mention_count": 8
+    },
+    {
+      "label": "spicy sauce",
+      "mention_count": 19
+    },
+    {
+      "label": "karaage",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:09Z",
+  "city": "Pasadena",
+  "key": "hironori-craft-ramen-pasadena"
+}

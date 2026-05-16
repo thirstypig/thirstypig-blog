@@ -27,6 +27,7 @@ coordinates:
   lng: -118.101993
 cuisine:
 - Mexican
+placeId: "0x80c2dd77121d61a3:0x9d09eec140fa2c46"
 ---
 
 ![Had some bone marrow and birria at Pepe’s red tacos](/images/posts/ig-2021-03-15-had-some-bone-marrow-and-birria-at-pepes-red-tacos/17916530563609220.jpg)

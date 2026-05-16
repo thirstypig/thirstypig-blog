@@ -20,6 +20,7 @@ categories:
 city: Universal City
 cuisine:
 - Fusion
+placeId: "0x80c2be461cd333b1:0xf2dbd198c2779f49"
 ---
 
 ![Crepes on a Tuesday at Universal Citywalk](/images/posts/ig-2019-02-26-crepes-on-a-tuesday-at-universal-citywalk/18039546481032032.jpg)

@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c748eebd79e5:0x35d71da5acdb75fa"
 ---
 
 ![Double Cheese Smashed Burger from Burgers Never Say Die](/images/posts/ig-2019-12-21-double-cheese-smashed-burger-from-burgers-never-say-die/18042807058217404.jpg)

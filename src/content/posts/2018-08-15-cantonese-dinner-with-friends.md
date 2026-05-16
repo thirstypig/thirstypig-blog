@@ -28,6 +28,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2da33b5412d2f:0x4dd09c3c663d22b5"
 ---
 
 ![Cantonese dinner with friends](/images/posts/ig-2018-08-15-cantonese-dinner-with-friends/17962773406078568.jpg)

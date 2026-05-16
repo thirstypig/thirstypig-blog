@@ -31,6 +31,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80c2bbf91db6edcf:0xdbae3f14ee862ac7"
 ---
 
 ![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18039157528134134.jpg)

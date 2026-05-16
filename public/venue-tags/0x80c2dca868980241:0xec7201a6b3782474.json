@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dca868980241:0xec7201a6b3782474",
+  "venue_name": "Plate 38 Kitchen And Bar",
+  "chips": [
+    {
+      "label": "skirt steak",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 36
+    },
+    {
+      "label": "Croque Madame Sandwich",
+      "mention_count": 4
+    },
+    {
+      "label": "wild mushroom omelette",
+      "mention_count": 3
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 48
+    },
+    {
+      "label": "gastropub",
+      "mention_count": 6
+    },
+    {
+      "label": "Chinese Chicken Salad",
+      "mention_count": 4
+    },
+    {
+      "label": "Truffle Mushroom Burger",
+      "mention_count": 2
+    },
+    {
+      "label": "grilled fish taco",
+      "mention_count": 2
+    },
+    {
+      "label": "oysters",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:22Z",
+  "city": "Pasadena",
+  "key": "plate-38-pasadena"
+}

@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x89c258bc949d58cf:0x84ac8a2dc2535dc2"
 ---
 
 ![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18066624565024900.jpg)

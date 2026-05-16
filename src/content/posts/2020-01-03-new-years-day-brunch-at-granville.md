@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c3320cec05b7:0x70861a5b2aced026"
 ---
 
 ![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17844248404883754.jpg)

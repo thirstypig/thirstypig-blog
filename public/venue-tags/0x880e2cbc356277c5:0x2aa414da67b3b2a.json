@@ -1,0 +1,49 @@
+{
+  "place_id": "0x880e2cbc356277c5:0x2aa414da67b3b2a",
+  "venue_name": "Chicago Helicopter Experience",
+  "chips": [
+    {
+      "label": "sunset view",
+      "mention_count": 21
+    },
+    {
+      "label": "clean helicopter",
+      "mention_count": 2
+    },
+    {
+      "label": "city views",
+      "mention_count": 7
+    },
+    {
+      "label": "nighttime tour",
+      "mention_count": 3
+    },
+    {
+      "label": "fast process",
+      "mention_count": 2
+    },
+    {
+      "label": "discounted rate",
+      "mention_count": 2
+    },
+    {
+      "label": "gorgeous views",
+      "mention_count": 3
+    },
+    {
+      "label": "cool pilot",
+      "mention_count": 2
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 21
+    },
+    {
+      "label": "waiting area",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:55Z",
+  "city": "Chicago",
+  "key": "chicago-helicopter-experience-chicago"
+}

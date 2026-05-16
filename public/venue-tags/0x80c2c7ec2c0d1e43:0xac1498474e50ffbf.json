@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7ec2c0d1e43:0xac1498474e50ffbf",
+  "venue_name": "Denae’s Diner",
+  "chips": [
+    {
+      "label": "french press coffee",
+      "mention_count": 13
+    },
+    {
+      "label": "brisket hash",
+      "mention_count": 6
+    },
+    {
+      "label": "french toast",
+      "mention_count": 8
+    },
+    {
+      "label": "chicken pot pie",
+      "mention_count": 4
+    },
+    {
+      "label": "hashbrowns",
+      "mention_count": 4
+    },
+    {
+      "label": "chilaquiles",
+      "mention_count": 4
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 3
+    },
+    {
+      "label": "chicken sausage",
+      "mention_count": 2
+    },
+    {
+      "label": "shakes",
+      "mention_count": 5
+    },
+    {
+      "label": "caramelized onions",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:48:30Z",
+  "city": "Downtown LA",
+  "key": "favorite-diner-downtown-l"
+}

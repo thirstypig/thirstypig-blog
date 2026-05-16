@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2d359c0ed5177:0x19a0365a2eba6dd1",
+  "venue_name": "Jenny’s Country Kitchen",
+  "chips": [
+    {
+      "label": "chilaquiles",
+      "mention_count": 34
+    },
+    {
+      "label": "chile verde",
+      "mention_count": 22
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "biscuits and gravy",
+      "mention_count": 10
+    },
+    {
+      "label": "chicken and waffles",
+      "mention_count": 7
+    },
+    {
+      "label": "home style food",
+      "mention_count": 12
+    },
+    {
+      "label": "chile relleno omlet",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken fried steak",
+      "mention_count": 2
+    },
+    {
+      "label": "peach cobbler",
+      "mention_count": 2
+    },
+    {
+      "label": "hole in the wall",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:48Z",
+  "city": "Los Angeles",
+  "key": "jennys-kitchen-los-angele"
+}

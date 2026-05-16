@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2594164204823:0x1323b97b19eb3730",
+  "venue_name": "BEYOND THE STREETS Flagship Los Angeles",
+  "chips": [
+    {
+      "label": "graffiti",
+      "mention_count": 17
+    },
+    {
+      "label": "shepard fairey",
+      "mention_count": 2
+    },
+    {
+      "label": "modern art",
+      "mention_count": 2
+    },
+    {
+      "label": "street art",
+      "mention_count": 8
+    },
+    {
+      "label": "history of graffiti art",
+      "mention_count": 2
+    },
+    {
+      "label": "memorabilia",
+      "mention_count": 6
+    },
+    {
+      "label": "interactive rooms",
+      "mention_count": 2
+    },
+    {
+      "label": "short term art show",
+      "mention_count": 2
+    },
+    {
+      "label": "free exhibit",
+      "mention_count": 2
+    },
+    {
+      "label": "interactive pieces",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:34:48Z",
+  "city": "Downtown LA",
+  "key": "beyond-the-streets-downtown-l"
+}

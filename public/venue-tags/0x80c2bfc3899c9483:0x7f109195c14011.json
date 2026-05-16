@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bfc3899c9483:0x7f109195c14011",
+  "venue_name": "Masonic Lodge at Hollywood Forever",
+  "chips": [
+    {
+      "label": "intimate venue",
+      "mention_count": 20
+    },
+    {
+      "label": "intimate atmosphere",
+      "mention_count": 20
+    },
+    {
+      "label": "peacocks",
+      "mention_count": 2
+    },
+    {
+      "label": "small gigs",
+      "mention_count": 2
+    },
+    {
+      "label": "historic venue",
+      "mention_count": 2
+    },
+    {
+      "label": "comedy show",
+      "mention_count": 2
+    },
+    {
+      "label": "comfortable seats",
+      "mention_count": 2
+    },
+    {
+      "label": "live music venue",
+      "mention_count": 2
+    },
+    {
+      "label": "sound quality",
+      "mention_count": 5
+    },
+    {
+      "label": "standing room",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:42:19Z",
+  "city": "Hollywood",
+  "key": "masonic-lodge-at-hollywood-forever-hollywood"
+}

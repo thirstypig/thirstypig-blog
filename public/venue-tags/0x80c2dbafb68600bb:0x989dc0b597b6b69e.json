@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbafb68600bb:0x989dc0b597b6b69e",
+  "venue_name": "Boba Ave Express",
+  "chips": [
+    {
+      "label": "boba",
+      "mention_count": 60
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 25
+    },
+    {
+      "label": "drive thru",
+      "mention_count": 101
+    },
+    {
+      "label": "thai tea",
+      "mention_count": 13
+    },
+    {
+      "label": "brown sugar boba",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "lychee jelly",
+      "mention_count": 5
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 8
+    },
+    {
+      "label": "long lines",
+      "mention_count": 13
+    },
+    {
+      "label": "wait time",
+      "mention_count": 35
+    }
+  ],
+  "scraped_at": "2026-05-16T06:41:52Z",
+  "city": "Arcadia",
+  "key": "boba-ave-express-arcadia"
+}

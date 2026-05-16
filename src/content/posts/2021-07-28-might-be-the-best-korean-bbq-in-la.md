@@ -28,6 +28,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2b89b437ecda9:0xc6e1364fd48e3303"
 ---
 
 ![Might be the best Korean BBQ in LA](/images/posts/ig-2021-07-28-might-be-the-best-korean-bbq-in-la/17895131246203634.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64a9166f355:0xa79202ab9195883e",
+  "venue_name": "Guisados",
+  "chips": [
+    {
+      "label": "Cochinita Pibila",
+      "mention_count": 35
+    },
+    {
+      "label": "chicharon taco",
+      "mention_count": 28
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "handmade tortillas",
+      "mention_count": 31
+    },
+    {
+      "label": "sampler",
+      "mention_count": 145
+    },
+    {
+      "label": "sampler plate",
+      "mention_count": 20
+    },
+    {
+      "label": "tamales",
+      "mention_count": 57
+    },
+    {
+      "label": "chuleta taco",
+      "mention_count": 11
+    },
+    {
+      "label": "tinga",
+      "mention_count": 22
+    },
+    {
+      "label": "vegetarian tacos",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:44Z",
+  "city": "Los Angeles",
+  "key": "best-taquitos-in-la-los-angele"
+}

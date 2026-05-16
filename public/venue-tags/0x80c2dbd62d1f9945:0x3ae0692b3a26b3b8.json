@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbd62d1f9945:0x3ae0692b3a26b3b8",
+  "venue_name": "Yi Mei",
+  "chips": [
+    {
+      "label": "daikon cake",
+      "mention_count": 19
+    },
+    {
+      "label": "you tiao",
+      "mention_count": 9
+    },
+    {
+      "label": "purple rice rolls",
+      "mention_count": 8
+    },
+    {
+      "label": "rice roll",
+      "mention_count": 28
+    },
+    {
+      "label": "scallion pancake",
+      "mention_count": 8
+    },
+    {
+      "label": "sticky rice roll",
+      "mention_count": 5
+    },
+    {
+      "label": "xiaolongbao",
+      "mention_count": 9
+    },
+    {
+      "label": "egg omelette 蛋餅",
+      "mention_count": 3
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 7
+    },
+    {
+      "label": "frozen dumplings",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:25Z",
+  "city": "Arcadia",
+  "key": "yi-mei-arcadia"
+}

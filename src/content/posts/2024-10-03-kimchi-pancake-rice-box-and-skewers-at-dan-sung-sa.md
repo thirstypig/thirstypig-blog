@@ -32,6 +32,7 @@ coordinates:
   lng: -118.249345
 cuisine:
 - Korean
+placeId: "0x80c2c64d9fbb11d3:0xb3728c2c3bff31b0"
 ---
 
 ![Kimchi pancake, rice box, and skewers at Dan Sung Sa](/images/posts/ig-2024-10-03-kimchi-pancake-rice-box-and-skewers-at-dan-sung-sa/18140007442350961.jpg)

@@ -25,6 +25,7 @@ coordinates:
   lat: 40.754214
   lng: -74.002061
 cuisine: []
+placeId: "0x89c259b4339c8aa1:0x5e346d09b4904a30"
 ---
 
 ![Stairway in a round at Hudson Yard - The Vessel](/images/posts/ig-2019-05-20-stairway-in-a-round-at-hudson-yard-the-vessel/18037865347131531.jpg)

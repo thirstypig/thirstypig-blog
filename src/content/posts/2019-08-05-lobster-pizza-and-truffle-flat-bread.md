@@ -25,6 +25,7 @@ categories:
 - Bakery
 cuisine:
 - Bakery
+placeId: "0x80c2c76472557fc3:0xcde35f4f34c95fe3"
 ---
 
 ![Lobster Pizza and truffle Flat Bread](/images/posts/ig-2019-08-05-lobster-pizza-and-truffle-flat-bread/18059557798137502.jpg)

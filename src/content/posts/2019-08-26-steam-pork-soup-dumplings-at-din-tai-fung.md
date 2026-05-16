@@ -25,6 +25,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2dba524af30e1:0x16db24d33722beac"
 ---
 
 ![Steam Pork Soup Dumplings at Din Tai Fung](/images/posts/ig-2019-08-26-steam-pork-soup-dumplings-at-din-tai-fung/18060599182183415.jpg)

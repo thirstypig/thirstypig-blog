@@ -27,6 +27,7 @@ coordinates:
   lng: -118.034933
 cuisine:
 - Fusion
+placeId: "0x855dff88222b5f:0x1e1e805948e61c61"
 ---
 
 ![Looks may be deceiving](/images/posts/ig-2019-12-20-looks-may-be-deceiving/18009516850266426.jpg)

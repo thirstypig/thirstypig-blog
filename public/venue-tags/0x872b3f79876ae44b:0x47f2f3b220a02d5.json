@@ -1,0 +1,13 @@
+{
+  "place_id": "0x872b3f79876ae44b:0x47f2f3b220a02d5",
+  "venue_name": "Pizza Patrón Avondale",
+  "chips": [
+    {
+      "label": "enchiladas",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:04:09Z",
+  "city": "Los Angeles",
+  "key": "pizza-patron-los-angele"
+}

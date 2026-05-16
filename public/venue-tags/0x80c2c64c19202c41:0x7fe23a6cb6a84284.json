@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64c19202c41:0x7fe23a6cb6a84284",
+  "venue_name": "The Redwood Bar & Grill",
+  "chips": [
+    {
+      "label": "dive bar",
+      "mention_count": 43
+    },
+    {
+      "label": "live music",
+      "mention_count": 60
+    },
+    {
+      "label": "fish and chips",
+      "mention_count": 15
+    },
+    {
+      "label": "pirate theme",
+      "mention_count": 12
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 12
+    },
+    {
+      "label": "bands",
+      "mention_count": 58
+    },
+    {
+      "label": "nautical theme",
+      "mention_count": 4
+    },
+    {
+      "label": "chicken pesto panini",
+      "mention_count": 3
+    },
+    {
+      "label": "spicy fries",
+      "mention_count": 3
+    },
+    {
+      "label": "smoking patio",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:54Z",
+  "city": "Hollywood",
+  "key": "the-redwood-bar-grill-hollywood"
+}

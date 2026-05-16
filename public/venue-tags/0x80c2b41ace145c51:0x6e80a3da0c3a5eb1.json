@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b41ace145c51:0x6e80a3da0c3a5eb1",
+  "venue_name": "Paul Martin's American Grill",
+  "chips": [
+    {
+      "label": "ribs",
+      "mention_count": 38
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 128
+    },
+    {
+      "label": "Warm Butter Cake",
+      "mention_count": 20
+    },
+    {
+      "label": "wine selection",
+      "mention_count": 45
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 16
+    },
+    {
+      "label": "Deviled Eggs",
+      "mention_count": 15
+    },
+    {
+      "label": "Blackened Ribeye",
+      "mention_count": 8
+    },
+    {
+      "label": "spinach artichoke dip",
+      "mention_count": 12
+    },
+    {
+      "label": "salmon",
+      "mention_count": 33
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:16Z",
+  "city": "Pasadena",
+  "key": "paul-martins-american-grill-pasadena"
+}

@@ -26,6 +26,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2a8ee3f59f:0x8d2abfdcaa7a196f"
 ---
 
 ![Taiwanese Gastropub 印地安](/images/posts/ig-2019-02-14-taiwanese-gastropub-印地安/18009251029083834.jpg)

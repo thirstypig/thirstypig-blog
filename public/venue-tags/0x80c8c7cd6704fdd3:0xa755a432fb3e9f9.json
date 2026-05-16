@@ -1,0 +1,45 @@
+{
+  "place_id": "0x80c8c7cd6704fdd3:0xa755a432fb3e9f9",
+  "venue_name": "Pho Concept",
+  "chips": [
+    {
+      "label": "beef pho",
+      "mention_count": 2
+    },
+    {
+      "label": "vietnamese",
+      "mention_count": 3
+    },
+    {
+      "label": "soft opening",
+      "mention_count": 2
+    },
+    {
+      "label": "ribs",
+      "mention_count": 2
+    },
+    {
+      "label": "broth",
+      "mention_count": 4
+    },
+    {
+      "label": "vegetables",
+      "mention_count": 2
+    },
+    {
+      "label": "grilled",
+      "mention_count": 2
+    },
+    {
+      "label": "sautéed",
+      "mention_count": 2
+    },
+    {
+      "label": "ingredients",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:35:52Z",
+  "city": "Las Vegas",
+  "key": "pho-kinh-do-las-vegas"
+}

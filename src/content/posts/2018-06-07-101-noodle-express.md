@@ -25,6 +25,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80dcdc3442c6b7d5:0xafaa452cab42b2f1"
 ---
 
 ![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17889023413223345.jpg)

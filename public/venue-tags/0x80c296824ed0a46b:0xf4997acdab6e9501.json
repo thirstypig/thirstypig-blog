@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c296824ed0a46b:0xf4997acdab6e9501",
+  "venue_name": "Stoneland USA",
+  "chips": [
+    {
+      "label": "slab selection",
+      "mention_count": 5
+    },
+    {
+      "label": "stone selection",
+      "mention_count": 4
+    },
+    {
+      "label": "countertop quality",
+      "mention_count": 4
+    },
+    {
+      "label": "natural stone",
+      "mention_count": 2
+    },
+    {
+      "label": "helpful team",
+      "mention_count": 4
+    },
+    {
+      "label": "helpful reps",
+      "mention_count": 4
+    },
+    {
+      "label": "showroom",
+      "mention_count": 3
+    },
+    {
+      "label": "pricing",
+      "mention_count": 5
+    },
+    {
+      "label": "designer",
+      "mention_count": 6
+    },
+    {
+      "label": "renovation",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:48:34Z",
+  "city": "Hollywood",
+  "key": "slab-hollywood"
+}

@@ -26,6 +26,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c3801ebd8e9d:0xe6107b2ff4f787ce"
 ---
 
 ![Garlicky Tonkotsu Ramen at Hironiro Craft Ramen](/images/posts/ig-2019-09-08-garlicky-tonkotsu-ramen-at-hironiro-craft-ramen/18081230185097104.jpg)

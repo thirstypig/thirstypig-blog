@@ -21,6 +21,7 @@ categories:
 - Dessert
 cuisine:
 - Dessert
+placeId: "0x80c2c5382070ef97:0xe0c3d73506652c99"
 ---
 
 ![Shaved ice at Salju Desserts](/images/posts/ig-2019-04-14-shaved-ice-at-salju-desserts/17865340891365035.jpg)

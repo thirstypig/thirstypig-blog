@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259533920ed1b:0xf4aba1c4a3bbbb54",
+  "venue_name": "Bāng Bar",
+  "chips": [
+    {
+      "label": "u wraps",
+      "mention_count": 23
+    },
+    {
+      "label": "take out only",
+      "mention_count": 11
+    },
+    {
+      "label": "chicken teriyaki salad",
+      "mention_count": 6
+    },
+    {
+      "label": "spicy pork",
+      "mention_count": 6
+    },
+    {
+      "label": "cumin beef wrap",
+      "mention_count": 3
+    },
+    {
+      "label": "vietnamese coffee",
+      "mention_count": 3
+    },
+    {
+      "label": "waffle fries",
+      "mention_count": 4
+    },
+    {
+      "label": "spicy eggplant",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 22
+    },
+    {
+      "label": "shawarma",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:49Z",
+  "city": "New York",
+  "key": "bāng-bar-new-york"
+}

@@ -22,6 +22,7 @@ categories:
 - Peruvian
 cuisine:
 - Peruvian
+placeId: "0x80c2c76bf355aeaf:0xff88938069016fa6"
 ---
 
 ![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17921637742175976.jpg)

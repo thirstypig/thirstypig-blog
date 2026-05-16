@@ -26,6 +26,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db3a0edbae75:0x25e45ca2b9f1c26f"
 ---
 
 ![My in-laws favorite Hunan restaurant](/images/posts/ig-2019-03-24-my-in-laws-favorite-hunan-restaurant/18027293155120661.jpg)

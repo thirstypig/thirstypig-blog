@@ -22,6 +22,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2c527b0dff279:0xbd987c9b7cd8d763"
 ---
 
 ![Yet another](/images/posts/ig-2019-11-15-yet-another/17847668887733591.jpg)

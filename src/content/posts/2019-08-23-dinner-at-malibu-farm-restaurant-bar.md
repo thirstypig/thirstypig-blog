@@ -29,6 +29,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80e81fd32af78209:0x3be6e90760128a84"
 ---
 
 ![Dinner at Malibu Farm Restaurant & Bar](/images/posts/ig-2019-08-23-dinner-at-malibu-farm-restaurant-bar/18028120348200591.jpg)

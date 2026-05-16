@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb8cf82eedbb:0xf97212f3a1b6b427",
+  "venue_name": "Meizhou Dongpo Restaurant",
+  "chips": [
+    {
+      "label": "peking duck",
+      "mention_count": 78
+    },
+    {
+      "label": "sichuan cuisine",
+      "mention_count": 24
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 12
+    },
+    {
+      "label": "dan dan noodles",
+      "mention_count": 15
+    },
+    {
+      "label": "kung pao chicken",
+      "mention_count": 15
+    },
+    {
+      "label": "mongolian beef",
+      "mention_count": 9
+    },
+    {
+      "label": "soup dumplings",
+      "mention_count": 9
+    },
+    {
+      "label": "Dongpo Pork Belly with Preserved Vegetable 东坡扣肉",
+      "mention_count": 17
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 42
+    },
+    {
+      "label": "duck sliders",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:47:41Z",
+  "city": "San Gabriel Valley",
+  "key": "meizhou-roast-duckwhole整只烤鸭-spicy-c-san-gabrie"
+}

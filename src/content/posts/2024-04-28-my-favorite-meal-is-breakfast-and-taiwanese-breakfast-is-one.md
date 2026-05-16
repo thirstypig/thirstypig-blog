@@ -24,6 +24,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442a9002bcd8a17:0x88ab387a55fb6c76"
 ---
 
 ![My favorite meal is breakfast and Taiwanese breakfast is one of the best](/images/posts/ig-2024-04-28-my-favorite-meal-is-breakfast-and-taiwanese-breakfast-is-one/17921923208881498.jpg)

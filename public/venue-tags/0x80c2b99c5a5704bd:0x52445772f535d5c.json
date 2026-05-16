@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b99c5a5704bd:0x52445772f535d5c",
+  "venue_name": "Guerrilla Tacos",
+  "chips": [
+    {
+      "label": "pork belly taco",
+      "mention_count": 33
+    },
+    {
+      "label": "potato taquitos",
+      "mention_count": 38
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 13
+    },
+    {
+      "label": "lomo saltado taco",
+      "mention_count": 12
+    },
+    {
+      "label": "steak taco",
+      "mention_count": 24
+    },
+    {
+      "label": "tostadas",
+      "mention_count": 36
+    },
+    {
+      "label": "cauliflower taco",
+      "mention_count": 10
+    },
+    {
+      "label": "authentic mexican street tacos",
+      "mention_count": 8
+    },
+    {
+      "label": "gourmet tacos",
+      "mention_count": 9
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 35
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:39Z",
+  "city": "Los Angeles",
+  "key": "guerrilla-tacos-los-angele"
+}

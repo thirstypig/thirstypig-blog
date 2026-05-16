@@ -23,6 +23,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c647d2e7919b:0x37c2d4d0488a1c53"
 ---
 
 ![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17920202935815847.jpg)

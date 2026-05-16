@@ -28,6 +28,7 @@ coordinates:
   lng: -118.135786
 cuisine:
 - Chinese
+placeId: "0x80c2c553002a37ed:0xd145a93015fbefb2"
 ---
 
 ![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17928719719763336.jpg)

@@ -25,6 +25,7 @@ coordinates:
   lng: -118.149894
 cuisine:
 - Chinese
+placeId: "0x80c2c3719deff73d:0x38c484d642c95327"
 ---
 
 ![Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯](/images/posts/ig-2021-06-29-cluck-2-go-the-second-stop-on-the-chronicles-of-hainan-chick/17925314674643503.jpg)

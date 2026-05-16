@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c78c5ad458fb:0xac61952781518a0f",
+  "venue_name": "With Love Market & Cafe",
+  "chips": [
+    {
+      "label": "relaxing atmosphere",
+      "mention_count": 36
+    },
+    {
+      "label": "fresh produce",
+      "mention_count": 9
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 12
+    },
+    {
+      "label": "kids play area",
+      "mention_count": 5
+    },
+    {
+      "label": "large tables",
+      "mention_count": 8
+    },
+    {
+      "label": "chocolate chunk cookies",
+      "mention_count": 2
+    },
+    {
+      "label": "knowledgeable baristas",
+      "mention_count": 3
+    },
+    {
+      "label": "healthy food",
+      "mention_count": 11
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 4
+    },
+    {
+      "label": "smoothies",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:01Z",
+  "city": "Los Angeles",
+  "key": "with-love-market-cafe-los-angele"
+}

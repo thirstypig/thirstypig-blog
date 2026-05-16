@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c776cbf2e187:0x3447bbdb27786b18",
+  "venue_name": "Suehiro Cafe",
+  "chips": [
+    {
+      "label": "Tonkotsu Ramen",
+      "mention_count": 5
+    },
+    {
+      "label": "chazuke",
+      "mention_count": 3
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 7
+    },
+    {
+      "label": "curry rice",
+      "mention_count": 7
+    },
+    {
+      "label": "miso ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "natto",
+      "mention_count": 3
+    },
+    {
+      "label": "nabeyaki udon",
+      "mention_count": 2
+    },
+    {
+      "label": "plum wine",
+      "mention_count": 2
+    },
+    {
+      "label": "Hayashi Rice",
+      "mention_count": 2
+    },
+    {
+      "label": "Green Tea Ice Cream",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:20Z",
+  "city": "Little Tokyo",
+  "key": "suehiros-little-tok"
+}

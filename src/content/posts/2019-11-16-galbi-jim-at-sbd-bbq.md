@@ -26,6 +26,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
 ![Galbi Jim at SBD BBQ](/images/posts/ig-2019-11-16-galbi-jim-at-sbd-bbq/17893421731421402.jpg)

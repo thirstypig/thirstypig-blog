@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dad469246add:0xa7905159806b089c",
+  "venue_name": "Grapevine Arbor",
+  "chips": [
+    {
+      "label": "wedding venue",
+      "mention_count": 6
+    },
+    {
+      "label": "300-year-old grape vine",
+      "mention_count": 3
+    },
+    {
+      "label": "quaint place",
+      "mention_count": 2
+    },
+    {
+      "label": "tranquil",
+      "mention_count": 3
+    },
+    {
+      "label": "helpful staff",
+      "mention_count": 2
+    },
+    {
+      "label": "hidden gem",
+      "mention_count": 2
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    },
+    {
+      "label": "beautiful place",
+      "mention_count": 6
+    },
+    {
+      "label": "area",
+      "mention_count": 2
+    },
+    {
+      "label": "grapevine",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:41:22Z",
+  "city": "San Gabriel Valley",
+  "key": "hidden-gem-in-the-sgv-san-gabrie"
+}

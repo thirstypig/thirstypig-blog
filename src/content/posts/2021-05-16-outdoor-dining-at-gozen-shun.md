@@ -23,6 +23,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c3620c7f0ff9:0xc23a1294a28fa4d4"
 ---
 
 ![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17908499326747509.jpg)

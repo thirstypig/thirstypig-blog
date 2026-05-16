@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c702b451384f:0xb134ac392b307646",
+  "venue_name": "Konbi Ni",
+  "chips": [
+    {
+      "label": "katsu sando",
+      "mention_count": 24
+    },
+    {
+      "label": "egg salad sandwich",
+      "mention_count": 45
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 4
+    },
+    {
+      "label": "chocolate croissant",
+      "mention_count": 16
+    },
+    {
+      "label": "tamago sando",
+      "mention_count": 9
+    },
+    {
+      "label": "pork katsu",
+      "mention_count": 13
+    },
+    {
+      "label": "hojicha latte",
+      "mention_count": 7
+    },
+    {
+      "label": "eggplant sandwich",
+      "mention_count": 7
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 31
+    },
+    {
+      "label": "no cash",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:11Z",
+  "city": "Downtown LA",
+  "key": "konbi-downtown-l"
+}

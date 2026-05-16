@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dae0f58f48f3:0x71544a003cf26c89",
+  "venue_name": "Young Dong Tofu House",
+  "chips": [
+    {
+      "label": "tofu soup",
+      "mention_count": 55
+    },
+    {
+      "label": "Banchan Set",
+      "mention_count": 22
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 3
+    },
+    {
+      "label": "short ribs",
+      "mention_count": 22
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 20
+    },
+    {
+      "label": "Korean Tofu Soup",
+      "mention_count": 4
+    },
+    {
+      "label": "bibimbap",
+      "mention_count": 19
+    },
+    {
+      "label": "chicken katsu",
+      "mention_count": 7
+    },
+    {
+      "label": "purple rice",
+      "mention_count": 7
+    },
+    {
+      "label": "kbbq",
+      "mention_count": 24
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:03Z",
+  "city": "San Gabriel",
+  "key": "young-dong-tofu-san-gabrie"
+}

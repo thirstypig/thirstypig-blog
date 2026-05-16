@@ -29,6 +29,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2c55fd3e56e19:0x591700a0af7d3e0d"
 ---
 
 ![Beijing Roast Duck 北京烤鴨 at the Duck House](/images/posts/ig-2019-11-24-beijing-roast-duck-北京烤鴨-at-the-duck-house/17927957605327804.jpg)

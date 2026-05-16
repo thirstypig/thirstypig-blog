@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbcefc689e1:0x979045ee6846c5db",
+  "venue_name": "California Pizza Kitchen",
+  "chips": [
+    {
+      "label": "The Original BBQ Chicken Pizza",
+      "mention_count": 5
+    },
+    {
+      "label": "carne asada pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "bbq chicken salad",
+      "mention_count": 3
+    },
+    {
+      "label": "mall location",
+      "mention_count": 29
+    },
+    {
+      "label": "free birthday dessert",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken piccata",
+      "mention_count": 2
+    },
+    {
+      "label": "gluten free pizza",
+      "mention_count": 3
+    },
+    {
+      "label": "cpk location",
+      "mention_count": 3
+    },
+    {
+      "label": "complimentary bread",
+      "mention_count": 2
+    },
+    {
+      "label": "sangria",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:35Z",
+  "city": "San Gabriel Valley",
+  "key": "pizza-at-cpk-san-gabrie"
+}

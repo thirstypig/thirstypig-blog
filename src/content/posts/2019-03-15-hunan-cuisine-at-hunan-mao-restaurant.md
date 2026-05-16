@@ -24,6 +24,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2b88b83095767:0x29f24bec908bdbe1"
 ---
 
 ![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17864235973344775.jpg)

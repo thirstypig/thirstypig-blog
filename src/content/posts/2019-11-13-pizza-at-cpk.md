@@ -20,6 +20,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2dbbcefc689e1:0x979045ee6846c5db"
 ---
 
 ![Pizza at CPK](/images/posts/ig-2019-11-13-pizza-at-cpk/17936141692320238.jpg)

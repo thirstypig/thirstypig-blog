@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3719deff73d:0x38c484d642c95327",
+  "venue_name": "21 Choices Frozen Yogurt",
+  "chips": [
+    {
+      "label": "plain tart yogurt",
+      "mention_count": 2
+    },
+    {
+      "label": "long lines",
+      "mention_count": 8
+    },
+    {
+      "label": "peanut butter options",
+      "mention_count": 3
+    },
+    {
+      "label": "custom mix",
+      "mention_count": 2
+    },
+    {
+      "label": "wait time",
+      "mention_count": 11
+    },
+    {
+      "label": "friendly employees",
+      "mention_count": 6
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 3
+    },
+    {
+      "label": "soft serve",
+      "mention_count": 2
+    },
+    {
+      "label": "mix-ins",
+      "mention_count": 5
+    },
+    {
+      "label": "sea salt",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:45:17Z",
+  "city": "Pasadena",
+  "key": "21-choices-pasadena"
+}

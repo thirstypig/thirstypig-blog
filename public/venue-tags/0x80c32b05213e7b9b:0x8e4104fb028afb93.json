@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32b05213e7b9b:0x8e4104fb028afb93",
+  "venue_name": "Cafe BT",
+  "chips": [
+    {
+      "label": "slushes",
+      "mention_count": 11
+    },
+    {
+      "label": "ample seating",
+      "mention_count": 5
+    },
+    {
+      "label": "cozy interior",
+      "mention_count": 7
+    },
+    {
+      "label": "shaved ice",
+      "mention_count": 6
+    },
+    {
+      "label": "hot almond milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "passionfruit ade",
+      "mention_count": 2
+    },
+    {
+      "label": "hazelnut latte",
+      "mention_count": 2
+    },
+    {
+      "label": "yogurt smoothie",
+      "mention_count": 3
+    },
+    {
+      "label": "croffle",
+      "mention_count": 2
+    },
+    {
+      "label": "patio",
+      "mention_count": 25
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:29Z",
+  "city": "Rowland Heights",
+  "key": "boba-time-rowland-he"
+}

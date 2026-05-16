@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c647d2e7919b:0x37c2d4d0488a1c53",
+  "venue_name": "JiST cafe",
+  "chips": [
+    {
+      "label": "chashu hash",
+      "mention_count": 41
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 20
+    },
+    {
+      "label": "pancakes",
+      "mention_count": 61
+    },
+    {
+      "label": "omurice",
+      "mention_count": 14
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 11
+    },
+    {
+      "label": "tokyo tater tots",
+      "mention_count": 9
+    },
+    {
+      "label": "Tres Leches Pancakes",
+      "mention_count": 9
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 7
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 9
+    },
+    {
+      "label": "french toast",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T06:46:44Z",
+  "city": "Little Tokyo",
+  "key": "jist-cafe-little-tok"
+}

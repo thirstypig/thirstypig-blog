@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32b12d76891ef:0xb1345cb11482c144",
+  "venue_name": "Tiger Sugar",
+  "chips": [
+    {
+      "label": "Black Sugar Milk Boba Cream Cheese",
+      "mention_count": 36
+    },
+    {
+      "label": "boba milk tea",
+      "mention_count": 6
+    },
+    {
+      "label": "long lines",
+      "mention_count": 10
+    },
+    {
+      "label": "boba quality",
+      "mention_count": 5
+    },
+    {
+      "label": "chewy boba",
+      "mention_count": 5
+    },
+    {
+      "label": "tapioca pearls",
+      "mention_count": 7
+    },
+    {
+      "label": "brown sugar milk tea",
+      "mention_count": 6
+    },
+    {
+      "label": "lack of shade",
+      "mention_count": 4
+    },
+    {
+      "label": "mini boba",
+      "mention_count": 2
+    },
+    {
+      "label": "organic milk",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:13Z",
+  "city": "San Gabriel Valley",
+  "key": "tiger-sugar-san-gabrie"
+}

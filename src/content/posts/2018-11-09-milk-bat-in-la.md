@@ -26,6 +26,7 @@ categories:
 city: Los Angeles
 cuisine:
 - Bakery
+placeId: "0x80c2b8d54e638cd5:0xc58bafe92e69af4d"
 ---
 
 ![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17968935565182840.jpg)

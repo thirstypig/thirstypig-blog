@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32a5dc990d163:0x670b341eaf42bfc7",
+  "venue_name": "Monja Taiker",
+  "chips": [
+    {
+      "label": "char siu",
+      "mention_count": 9
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "boba tea",
+      "mention_count": 6
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 8
+    },
+    {
+      "label": "wontons",
+      "mention_count": 3
+    },
+    {
+      "label": "pork rice",
+      "mention_count": 3
+    },
+    {
+      "label": "dry noodles",
+      "mention_count": 4
+    },
+    {
+      "label": "portions",
+      "mention_count": 7
+    },
+    {
+      "label": "rice, cabbage",
+      "mention_count": 2
+    },
+    {
+      "label": "ground pork",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T06:39:20Z",
+  "city": "Rosemead",
+  "key": "monja-taiker-rosemead"
+}

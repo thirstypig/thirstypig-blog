@@ -26,6 +26,7 @@ coordinates:
   lng: -118.319801
 cuisine:
 - BBQ
+placeId: "0x80c2bfc3899c9483:0x7f109195c14011"
 ---
 
 ![Birthday lunch with some buds at APL in Hollywood](/images/posts/ig-2021-03-12-birthday-lunch-with-some-buds-at-apl-in-hollywood/17915170519611547.jpg)

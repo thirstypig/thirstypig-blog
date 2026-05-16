@@ -26,6 +26,7 @@ tags:
 - pizza
 cuisine:
 - Italian
+placeId: "0x872b3f79876ae44b:0x47f2f3b220a02d5"
 ---
 
 Here are three sites that I came across about Pizza. One is about a one man’s quest to make a great pizza – in Atlanta. Another is from men’s magazine that talks about US’s top 25 pizzas. And the last site is about a blog about pizzas in Los Angeles.

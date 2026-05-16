@@ -22,6 +22,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c7ec2c0d1e43:0xac1498474e50ffbf"
 ---
 
 ![Favorite diner](/images/posts/ig-2022-02-08-favorite-diner/17966234479500115.jpg)

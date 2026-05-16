@@ -25,6 +25,7 @@ coordinates:
   lng: -118.128163
 cuisine:
 - Chinese
+placeId: "0x80c2c52717b75009:0x8aba0fe560c2ad2e"
 ---
 
 ![This week is all about Hainan Chicken Rice](/images/posts/ig-2021-06-28-this-week-is-all-about-hainan-chicken-rice/18189336205099545.jpg)

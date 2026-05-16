@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259bc87d6b659:0x91474f386f7ed964",
+  "venue_name": "Peter McManus Cafe",
+  "chips": [
+    {
+      "label": "dive bar",
+      "mention_count": 25
+    },
+    {
+      "label": "tots",
+      "mention_count": 12
+    },
+    {
+      "label": "phone booths",
+      "mention_count": 9
+    },
+    {
+      "label": "reuben sandwich",
+      "mention_count": 10
+    },
+    {
+      "label": "jukebox",
+      "mention_count": 8
+    },
+    {
+      "label": "chicken fingers",
+      "mention_count": 7
+    },
+    {
+      "label": "steak fries",
+      "mention_count": 5
+    },
+    {
+      "label": "neighborhood bar",
+      "mention_count": 12
+    },
+    {
+      "label": "cheeseburger",
+      "mention_count": 13
+    },
+    {
+      "label": "historic building",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:37:45Z",
+  "city": "New York",
+  "key": "peter-mcmanus-cafe-new-york"
+}

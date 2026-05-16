@@ -29,6 +29,7 @@ coordinates:
   lat: 34.079202
   lng: -118.34383
 cuisine: []
+placeId: "0x89c2594164204823:0x1323b97b19eb3730"
 ---
 
 ![Beyond the Streets - street art](/images/posts/ig-2018-08-26-beyond-the-streets-street-art/17958239404112795.jpg)

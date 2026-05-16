@@ -28,6 +28,7 @@ coordinates:
   lng: 126.972917
 cuisine:
 - Korean
+placeId: "0x357ca28b9d795c39:0x4eb464d62796d202"
 ---
 
 ![Baked Chicken at Love Baked Wings on Melrose](/images/posts/ig-2019-11-21-baked-chicken-at-love-baked-wings-on-melrose/18006380785268260.jpg)

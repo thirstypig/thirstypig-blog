@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c711c1e9cfd1:0xcc1ce0096ab69ab0",
+  "venue_name": "hanchic.",
+  "chips": [
+    {
+      "label": "fusion menu",
+      "mention_count": 9
+    },
+    {
+      "label": "Oxtail Ramyeon",
+      "mention_count": 6
+    },
+    {
+      "label": "bolognese dumplings",
+      "mention_count": 6
+    },
+    {
+      "label": "spicy pork hoppang",
+      "mention_count": 5
+    },
+    {
+      "label": "mandu",
+      "mention_count": 3
+    },
+    {
+      "label": "chamchi toast",
+      "mention_count": 3
+    },
+    {
+      "label": "korean food",
+      "mention_count": 17
+    },
+    {
+      "label": "injeolmi toast",
+      "mention_count": 2
+    },
+    {
+      "label": "pork buns",
+      "mention_count": 2
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T06:44:54Z",
+  "city": "Los Angeles",
+  "key": "hanchic-los-angele"
+}

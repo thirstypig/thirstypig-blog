@@ -26,6 +26,7 @@ coordinates:
   lng: -118.052345
 cuisine:
 - Dessert
+placeId: "0x80c2c77c51682903:0xd2a45066b81a124c"
 ---
 
 ![Holy Roly ice cream](/images/posts/ig-2019-10-17-holy-roly-ice-cream/17861800174542667.jpg)

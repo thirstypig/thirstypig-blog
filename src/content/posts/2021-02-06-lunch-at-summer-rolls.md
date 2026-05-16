@@ -25,6 +25,7 @@ images:
   - /images/posts/ig-2021-02-06-lunch-at-summer-rolls/17907944926651593.jpg
 source: instagram
 draft: false
+placeId: "0x80c2dafb96d84627:0x3f4a076588e6dd6"
 ---
 
 ![Lunch at Summer Rolls](/images/posts/ig-2021-02-06-lunch-at-summer-rolls/17859699104473002.jpg)

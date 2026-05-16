@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdc349c3a2f23:0x190f6e623ccf53fc",
+  "venue_name": "MOD Pizza",
+  "chips": [
+    {
+      "label": "build your own pizza",
+      "mention_count": 12
+    },
+    {
+      "label": "cauliflower crust",
+      "mention_count": 7
+    },
+    {
+      "label": "spicy red sauce",
+      "mention_count": 6
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 7
+    },
+    {
+      "label": "crispy crust",
+      "mention_count": 4
+    },
+    {
+      "label": "toppings",
+      "mention_count": 34
+    },
+    {
+      "label": "thin crust",
+      "mention_count": 8
+    },
+    {
+      "label": "curbside pickup",
+      "mention_count": 2
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 6
+    },
+    {
+      "label": "healthy options",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:33:17Z",
+  "city": "Irvine",
+  "key": "mod-pizza-irvine"
+}

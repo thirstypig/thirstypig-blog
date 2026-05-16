@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x880e2cbc356277c5:0x2aa414da67b3b2a"
 ---
 
 ![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/18088428730149258.jpg)

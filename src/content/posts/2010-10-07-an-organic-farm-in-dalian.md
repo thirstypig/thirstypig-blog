@@ -54,6 +54,7 @@ tags:
 - farm-to-table
 - organic
 cuisine: []
+placeId: "0x35ad88b83b655917:0xb1b147a71a73763a"
 ---
 
 On my recent trip to Dalian, I was fortunate enough to visit my family friend’s farm, the Li farm. Not just any farm, but an organic and self-sustainable farm just beyond the local hills of Dalian proper.

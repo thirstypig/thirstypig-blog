@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b3eb826efffd:0x3688885d993893ce",
+  "venue_name": "Manhattan Beach Creamery",
+  "chips": [
+    {
+      "label": "flavor selection",
+      "mention_count": 26
+    },
+    {
+      "label": "ice cream sandwiches",
+      "mention_count": 43
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 6
+    },
+    {
+      "label": "bananas foster",
+      "mention_count": 8
+    },
+    {
+      "label": "cupcakes",
+      "mention_count": 7
+    },
+    {
+      "label": "chocolate covered bananas",
+      "mention_count": 6
+    },
+    {
+      "label": "cinnamon roll sundae",
+      "mention_count": 5
+    },
+    {
+      "label": "macaroons",
+      "mention_count": 5
+    },
+    {
+      "label": "sundaes",
+      "mention_count": 8
+    },
+    {
+      "label": "sticky bun sundae",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:50Z",
+  "city": "Manhattan Beach",
+  "key": "manhattan-beach-creamery-manhattan-"
+}

@@ -24,6 +24,7 @@ categories:
 city: Yountville
 cuisine:
 - Bakery
+placeId: "0x80845543e475ae6f:0x108c36ec029f598"
 ---
 
 ![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17861231473427225.jpg)

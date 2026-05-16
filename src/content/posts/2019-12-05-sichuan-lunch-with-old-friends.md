@@ -30,6 +30,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db82f8c9a3f3:0xf608f4e85761436e"
 ---
 
 ![Sichuan lunch with old friends](/images/posts/ig-2019-12-05-sichuan-lunch-with-old-friends/17842272547861280.jpg)

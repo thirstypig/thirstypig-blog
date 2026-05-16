@@ -24,6 +24,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80dd2fa7b84711e7:0xb587f8e751400681"
 ---
 
 ![Lunch at Ola Mexican at 2nd & PCH in the LBC](/images/posts/ig-2021-09-30-lunch-at-ola-mexican-at-2nd-pch-in-the-lbc/17902884575228976.jpg)

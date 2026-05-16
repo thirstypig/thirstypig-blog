@@ -29,6 +29,7 @@ categories:
 - Cajun
 cuisine:
 - Cajun
+placeId: "0x80c2da817b5ec8d7:0xd57bf7ef71cd443a"
 ---
 
 ![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17860760758256912.jpg)

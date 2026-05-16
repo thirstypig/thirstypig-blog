@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2c76bf355aeaf:0xff88938069016fa6",
+  "venue_name": "El Sazon Guerrerense",
+  "chips": [
+    {
+      "label": "stomachs",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:33:24Z",
+  "city": "Los Angeles",
+  "key": "la-guerrerense-los-angele"
+}

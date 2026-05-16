@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c55fd3e56e19:0x591700a0af7d3e0d",
+  "venue_name": "Duck House Restaurant 鹿鼎記",
+  "chips": [
+    {
+      "label": "peking duck",
+      "mention_count": 300
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 12
+    },
+    {
+      "label": "crispy skin",
+      "mention_count": 39
+    },
+    {
+      "label": "duck soup",
+      "mention_count": 7
+    },
+    {
+      "label": "duck three ways",
+      "mention_count": 6
+    },
+    {
+      "label": "bok choy",
+      "mention_count": 5
+    },
+    {
+      "label": "lobster",
+      "mention_count": 9
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 4
+    },
+    {
+      "label": "duck taste",
+      "mention_count": 5
+    },
+    {
+      "label": "duck bones",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T06:40:06Z",
+  "city": "Monterey Park",
+  "key": "duck-house-monterey-p"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dabdd7ecabdb:0x1181920267e42ebc",
+  "venue_name": "Pho Ngoon",
+  "chips": [
+    {
+      "label": "pho filet mignon",
+      "mention_count": 2
+    },
+    {
+      "label": "super bowl",
+      "mention_count": 8
+    },
+    {
+      "label": "passionfruit tea",
+      "mention_count": 3
+    },
+    {
+      "label": "beef short rib",
+      "mention_count": 3
+    },
+    {
+      "label": "thick noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "bun cha",
+      "mention_count": 4
+    },
+    {
+      "label": "fried tofu",
+      "mention_count": 2
+    },
+    {
+      "label": "beefballs",
+      "mention_count": 3
+    },
+    {
+      "label": "tendon",
+      "mention_count": 4
+    },
+    {
+      "label": "pho tai",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:30Z",
+  "city": "San Gabriel Valley",
+  "key": "pho-done-easy-san-gabrie"
+}

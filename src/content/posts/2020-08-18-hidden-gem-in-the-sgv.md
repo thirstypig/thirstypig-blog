@@ -22,6 +22,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2dad469246add:0xa7905159806b089c"
 ---
 
 ![Hidden gem in the SGV](/images/posts/ig-2020-08-18-hidden-gem-in-the-sgv/18158162833043062.jpg)

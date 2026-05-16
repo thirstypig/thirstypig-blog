@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db74aadee87f:0xa68293b5fc3f965",
+  "venue_name": "Happy AYCE Hot Pot 开心火锅",
+  "chips": [
+    {
+      "label": "dim sum",
+      "mention_count": 190
+    },
+    {
+      "label": "char sui",
+      "mention_count": 29
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 40
+    },
+    {
+      "label": "hot pot buffet",
+      "mention_count": 15
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 12
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 46
+    },
+    {
+      "label": "mushroom broth",
+      "mention_count": 10
+    },
+    {
+      "label": "winter melon tea",
+      "mention_count": 9
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 21
+    },
+    {
+      "label": "egg rolls",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T06:33:59Z",
+  "city": "Los Angeles",
+  "key": "jiouding-hot-pot-los-angele"
+}

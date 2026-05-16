@@ -29,6 +29,7 @@ coordinates:
   lng: -118.123046
 cuisine:
 - Chinese
+placeId: "0x80c2c550646063c1:0xa33fbe7dece55e3a"
 ---
 
 ![Pan fried bread pork and cabbage dumplings, pan fried pork and leek dumplings...](/images/posts/ig-2019-04-19-pan-fried-bread-pork-and-cabbage-dumplings-pan-fried-pork-an/17992250047208252.jpg)

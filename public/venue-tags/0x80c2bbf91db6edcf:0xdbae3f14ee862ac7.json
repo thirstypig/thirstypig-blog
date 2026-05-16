@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbf91db6edcf:0xdbae3f14ee862ac7",
+  "venue_name": "CUT Beverly Hills",
+  "chips": [
+    {
+      "label": "wolfgang puck",
+      "mention_count": 19
+    },
+    {
+      "label": "wagyu",
+      "mention_count": 39
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 18
+    },
+    {
+      "label": "chocolate soufflé",
+      "mention_count": 8
+    },
+    {
+      "label": "Wagyu Sliders",
+      "mention_count": 6
+    },
+    {
+      "label": "banana cream pie",
+      "mention_count": 6
+    },
+    {
+      "label": "tuna tartare",
+      "mention_count": 5
+    },
+    {
+      "label": "porterhouse steak",
+      "mention_count": 8
+    },
+    {
+      "label": "dry aged new york strip",
+      "mention_count": 4
+    },
+    {
+      "label": "Bone Marrow Flan",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T06:38:12Z",
+  "city": "Beverly Hills",
+  "key": "cut-beverly-hills-beverly-hi"
+}

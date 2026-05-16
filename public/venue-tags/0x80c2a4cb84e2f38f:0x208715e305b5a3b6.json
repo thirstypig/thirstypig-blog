@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2a4cb84e2f38f:0x208715e305b5a3b6",
+  "venue_name": "The Eli and Edythe Broad Stage",
+  "chips": [
+    {
+      "label": "intimate venue",
+      "mention_count": 18
+    },
+    {
+      "label": "ballet show",
+      "mention_count": 5
+    },
+    {
+      "label": "balcony view",
+      "mention_count": 6
+    },
+    {
+      "label": "comfortable space",
+      "mention_count": 10
+    },
+    {
+      "label": "nutcracker ballet",
+      "mention_count": 2
+    },
+    {
+      "label": "good sightlines",
+      "mention_count": 5
+    },
+    {
+      "label": "intimate theater",
+      "mention_count": 4
+    },
+    {
+      "label": "modern look",
+      "mention_count": 3
+    },
+    {
+      "label": "comfortable seats",
+      "mention_count": 11
+    },
+    {
+      "label": "box seats",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:36:52Z",
+  "city": "Santa Monica",
+  "key": "the-eli-edythe-broad-stage-santa-moni"
+}

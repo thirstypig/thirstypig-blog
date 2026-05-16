@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b89b437ecda9:0xc6e1364fd48e3303",
+  "venue_name": "Hae Jang Chon Korean BBQ Restaurant",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 92
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 268
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 6
+    },
+    {
+      "label": "kimchi fried rice",
+      "mention_count": 62
+    },
+    {
+      "label": "short ribs",
+      "mention_count": 76
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 37
+    },
+    {
+      "label": "kimchi pancakes",
+      "mention_count": 22
+    },
+    {
+      "label": "octopus",
+      "mention_count": 25
+    },
+    {
+      "label": "stone grill",
+      "mention_count": 13
+    },
+    {
+      "label": "fish cake",
+      "mention_count": 15
+    }
+  ],
+  "scraped_at": "2026-05-16T06:46:17Z",
+  "city": "Los Angeles",
+  "key": "might-be-the-best-korean-bbq-in-la-los-angele"
+}

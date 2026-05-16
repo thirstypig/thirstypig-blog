@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7789b98c1d7:0xa2d790b8c64d1114",
+  "venue_name": "Soowon Galbi",
+  "chips": [
+    {
+      "label": "galbi tang",
+      "mention_count": 12
+    },
+    {
+      "label": "short rib",
+      "mention_count": 20
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "naengmyeon",
+      "mention_count": 34
+    },
+    {
+      "label": "all you can eat korean bbq",
+      "mention_count": 22
+    },
+    {
+      "label": "marinated meat",
+      "mention_count": 38
+    },
+    {
+      "label": "banchan",
+      "mention_count": 24
+    },
+    {
+      "label": "raw ribs",
+      "mention_count": 4
+    },
+    {
+      "label": "tofu soup",
+      "mention_count": 4
+    },
+    {
+      "label": "suwon galbi",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T06:34:25Z",
+  "city": "Koreatown",
+  "key": "soowon-galbi-koreatown"
+}
