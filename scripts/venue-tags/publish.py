@@ -31,6 +31,18 @@ PUBLIC_DIR = REPO_ROOT / "public" / "venue-tags"
 # tab_labels) is internal diagnostic data that consumers don't need.
 PASSTHROUGH_FIELDS = ("place_id", "venue_name", "chips", "scraped_at")
 
+# Public schema for public/venue-tags/{place_id}.json:
+#
+#   place_id   str   FID hex pair — e.g. "0x80c2b8d33ce3dcc9:0xb0a9252822b856f6"
+#                    Note: contains ":" — URL-encode as %3A when used in paths.
+#   venue_name str   Display name from Google Maps.
+#   chips      list  [{"label": str, "mention_count": int}, ...] sorted desc by
+#                    mention_count. Consumers should not assume the sort is stable
+#                    across scrape runs.
+#   scraped_at str   ISO-8601 UTC timestamp — "%Y-%m-%dT%H:%M:%SZ".
+#   city       str   From venues.yaml (augmented at publish time).
+#   key        str   URL slug used as the source chip filename key.
+
 
 def main() -> int:
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
