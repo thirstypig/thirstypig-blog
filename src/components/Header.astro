@@ -1,5 +1,6 @@
 ---
 import { SITE_TITLE } from '../consts';
+import Wordmark from './Wordmark.astro';
 
 const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
@@ -23,15 +24,8 @@ const mobileExtras = [
 <header class="bg-cream sticky top-0 z-50 border-b border-cream-dark/50">
 	<nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8" aria-label="Main navigation">
 		<div class="flex items-center justify-between h-16 gap-4">
-			<a href="/" class="flex items-center gap-2 no-underline group text-ink shrink-0">
-				<span
-					class="block h-10 w-10 rounded-full shrink-0 bg-[#E4152B] bg-no-repeat bg-center"
-					style="background-image: url('/images/redpig-transparent.png'); background-size: 110%; box-shadow: inset 0 0 0 1px rgba(0,0,0,0.08);"
-					aria-label={SITE_TITLE}
-				></span>
-				<span class="font-[Archivo,system-ui,sans-serif] font-extrabold text-lg tracking-tight text-ink hidden sm:inline">
-					thirsty<span class="text-[#E4152B]">pig</span>
-				</span>
+			<a href="/" class="flex items-center gap-2 no-underline group text-ink shrink-0" aria-label={SITE_TITLE}>
+				<Wordmark discClass="h-10 w-10 block" textClass="text-lg hidden sm:inline" />
 			</a>
 
 			<div class="hidden md:flex items-center gap-7">
@@ -42,7 +36,7 @@ const mobileExtras = [
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
 							'text-sm font-medium transition-colors no-underline',
-							isActive ? 'text-[#E4152B]' : 'text-ink hover:text-[#E4152B]'
+							isActive ? 'text-poster-red' : 'text-ink hover:text-poster-red'
 						]}
 					>
 						{label}
@@ -57,7 +51,7 @@ const mobileExtras = [
 						name="q"
 						placeholder="Search posts/tags"
 						aria-label="Search posts/tags"
-						class="px-3 py-1.5 rounded-full border border-cream-dark/70 text-sm bg-transparent text-ink placeholder:text-stone w-44 focus:outline-none focus:border-[#E4152B]"
+						class="px-3 py-1.5 rounded-full border border-cream-dark/70 text-sm bg-transparent text-ink placeholder:text-stone w-44 focus:outline-none focus:border-poster-red"
 					/>
 				</form>
 
@@ -100,7 +94,7 @@ const mobileExtras = [
 						aria-current={isActive ? 'page' : undefined}
 						class:list={[
 							'px-3 py-2 rounded-lg text-sm font-medium no-underline',
-							isActive ? 'bg-[#E4152B]/10 text-[#E4152B]' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
+							isActive ? 'bg-poster-red/10 text-poster-red' : 'text-stone hover:text-ink hover:bg-cream-dark/50'
 						]}
 					>
 						{label}
@@ -115,17 +109,17 @@ const mobileExtras = [
 	const menuBtn = document.getElementById('mobile-menu-btn');
 	const menu = document.getElementById('mobile-menu');
 	menuBtn?.addEventListener('click', () => {
-		const isOpen = !menu?.classList.contains('hidden');
 		menu?.classList.toggle('hidden');
-		menuBtn.setAttribute('aria-expanded', String(!isOpen));
+		const isOpen = !menu?.classList.contains('hidden');
+		menuBtn.setAttribute('aria-expanded', String(isOpen));
 	});
 
 	const themeBtn = document.getElementById('theme-toggle');
 
 	function updateThemeUI() {
 		const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-		document.getElementById('theme-icon-sun')!.classList.toggle('hidden', !isDark);
-		document.getElementById('theme-icon-moon')!.classList.toggle('hidden', isDark);
+		document.getElementById('theme-icon-sun')?.classList.toggle('hidden', !isDark);
+		document.getElementById('theme-icon-moon')?.classList.toggle('hidden', isDark);
 		themeBtn?.setAttribute('aria-pressed', String(isDark));
 		themeBtn?.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
 	}

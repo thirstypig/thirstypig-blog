@@ -1,0 +1,18 @@
+---
+interface Props {
+  discClass?: string;  // size + layout classes for the disc, e.g. "h-10 w-10 block"
+  textTag?: 'span' | 'p';
+  textClass?: string;  // extra classes on the text element
+  dark?: boolean;      // true = white wordmark text (for dark backgrounds)
+}
+const { discClass = 'h-10 w-10 block', textTag: Tag = 'span', textClass = '', dark = false } = Astro.props;
+---
+
+<span
+  class={`${discClass} rounded-full shrink-0 bg-poster-red bg-no-repeat bg-center`}
+  style="background-image: url('/images/redpig-mark-160.webp'); background-size: 110%;"
+  aria-hidden="true"
+></span>
+<Tag class={`font-poster-display font-extrabold tracking-tight ${dark ? 'text-white' : 'text-ink'} ${textClass}`}>
+  thirsty<span class="text-poster-red">pig</span>
+</Tag>

@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Triggered by launchd whenever ~/Downloads changes. Looks for an Instagram
-# data export ZIP (instagram-*.zip or meta-*.zip) and uploads it as a GitHub
-# release in thirstypig/thirstypig-blog. The existing instagram-sync.yml
-# workflow auto-triggers on the release and imports new posts.
+# data export ZIP (instagram-*.zip or meta-*.zip), runs the import pipeline
+# locally, commits the new posts, and pushes — without uploading the raw ZIP
+# anywhere. The ZIP never leaves this machine.
 #
 # Idempotent: processed files are moved to ~/Downloads/.imported/ so the
 # watcher won't re-process them when launchd refires on the move event.
@@ -12,7 +12,9 @@ set -uo pipefail
 DOWNLOADS="$HOME/Downloads"
 IMPORTED="$DOWNLOADS/.imported"
 LOG="$HOME/Library/Logs/thirstypig-ig-watcher.log"
-REPO="thirstypig/thirstypig-blog"
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
 mkdir -p "$IMPORTED"
 
@@ -25,14 +27,12 @@ notify() {
 }
 
 find_candidate() {
-    # Newest matching file, in case multiple are present (rare).
     find "$DOWNLOADS" -maxdepth 1 -type f \
         \( -name "instagram-*.zip" -o -name "meta-*.zip" \) \
         2>/dev/null | head -1
 }
 
 is_stable() {
-    # File still being downloaded? Compare size before/after a short pause.
     local f="$1"
     local size1 size2
     size1=$(stat -f %z "$f" 2>/dev/null || echo "")
@@ -44,7 +44,7 @@ is_stable() {
 main() {
     local file
     file=$(find_candidate)
-    [ -z "$file" ] && exit 0  # silent: no matching file, watcher fired for something else
+    [ -z "$file" ] && exit 0  # silent: no matching file
 
     log "Found candidate: $file"
 
@@ -53,40 +53,44 @@ main() {
         exit 0
     fi
 
-    if ! command -v gh >/dev/null 2>&1; then
-        log "ERROR: gh CLI not found in PATH"
-        notify "gh CLI not found. Run: brew install gh"
-        exit 1
-    fi
-
-    if ! gh auth status >/dev/null 2>&1; then
-        log "ERROR: gh not authenticated"
-        notify "gh not authenticated. Run: gh auth login"
-        exit 1
-    fi
-
-    local tag size_mb basename_f
-    tag="ig-$(date +%Y-%m-%d-%H%M)"
-    size_mb=$(($(stat -f %z "$file") / 1024 / 1024))
+    local basename_f size_mb
     basename_f=$(basename "$file")
+    size_mb=$(($(stat -f %z "$file") / 1024 / 1024))
+    log "Processing $basename_f (${size_mb}MB) locally"
+    notify "Processing $basename_f (${size_mb}MB)..."
 
-    log "Creating release $tag with $basename_f (${size_mb}MB)"
-    notify "Uploading $basename_f (${size_mb}MB)..."
+    # Run the import pipeline from the repo root
+    cd "$REPO_ROOT"
 
-    if gh release create "$tag" "$file" \
-        --repo "$REPO" \
-        --title "Instagram data export $(date +%Y-%m-%d)" \
-        --notes "Automated upload via local IG watcher (scripts/local/ig_watcher.sh)." \
-        >> "$LOG" 2>&1; then
-        log "Release $tag created"
-        mv "$file" "$IMPORTED/"
-        log "Moved $basename_f to $IMPORTED/"
-        notify "Release $tag created. Sync workflow now running on GitHub."
-    else
-        log "ERROR: gh release create failed (see lines above in this log)"
-        notify "Release upload failed. See $LOG"
+    if ! python3 scripts/instagram/sync_pipeline.py "$file" >> "$LOG" 2>&1; then
+        log "ERROR: sync_pipeline.py failed (see lines above in this log)"
+        notify "Import failed. See $LOG"
         exit 1
     fi
+
+    # Commit and push any new posts/images
+    git add src/content/posts/ public/images/posts/ public/videos/posts/ logs/ 2>> "$LOG"
+    if git diff --staged --quiet; then
+        log "No new posts imported from $basename_f"
+        notify "No new posts found in $basename_f."
+    else
+        local posts_added images_added
+        posts_added=$(git diff --staged --name-only -- src/content/posts/ | wc -l | tr -d ' ')
+        images_added=$(git diff --staged --name-only -- public/images/ | wc -l | tr -d ' ')
+        git commit -m "Auto-import Instagram posts: ${posts_added} posts, ${images_added} images" >> "$LOG" 2>&1
+        for i in 1 2 3; do
+            if git pull --rebase origin main >> "$LOG" 2>&1 && git push >> "$LOG" 2>&1; then
+                log "Pushed: ${posts_added} new posts, ${images_added} new images"
+                notify "Imported ${posts_added} posts, ${images_added} images. Deploying…"
+                break
+            fi
+            log "Push attempt $i failed, retrying..."
+            sleep 3
+        done
+    fi
+
+    mv "$file" "$IMPORTED/"
+    log "Moved $basename_f to $IMPORTED/"
 }
 
 main
