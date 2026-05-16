@@ -54,4 +54,14 @@ describe("aggregateRegions", () => {
 	it("handles an empty post list", () => {
 		expect(aggregateRegions([], 3)).toEqual({ top: [], elsewhereCount: 0 });
 	});
+
+	it("breaks ties alphabetically so builds are deterministic", () => {
+		const posts = [
+			post("Charlie"), post("Charlie"),
+			post("Alpha"), post("Alpha"),
+			post("Bravo"), post("Bravo"),
+		];
+		const { top } = aggregateRegions(posts, 2);
+		expect(top.map(r => r.region)).toEqual(["Alpha", "Bravo"]);
+	});
 });

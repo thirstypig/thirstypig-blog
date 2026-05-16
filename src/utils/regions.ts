@@ -26,7 +26,7 @@ export function aggregateRegions<T extends PostWithRegion>(
 		if (region) counts.set(region, (counts.get(region) || 0) + 1);
 	}
 	const top = [...counts.entries()]
-		.sort((a, b) => b[1] - a[1])
+		.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
 		.slice(0, topN)
 		.map(([region, count]) => ({ region, count }));
 	const topTotal = top.reduce((sum, { count }) => sum + count, 0);
