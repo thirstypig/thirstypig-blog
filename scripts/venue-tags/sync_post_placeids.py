@@ -24,10 +24,11 @@ from pathlib import Path
 
 import yaml
 
+from venues_io import load_venues
+
 HERE = Path(__file__).resolve().parent
 REPO_ROOT = HERE.parent.parent
 POSTS_DIR = REPO_ROOT / "src" / "content" / "posts"
-VENUES_PATH = HERE / "venues.yaml"
 
 
 # Very conservative city aliases. Add as needed.
@@ -146,7 +147,7 @@ def main() -> int:
                     help="Actually write changes (default is dry-run)")
     args = ap.parse_args()
 
-    venues = yaml.safe_load(VENUES_PATH.read_text())
+    venues = load_venues()
     venues_with_id = [v for v in venues if v.get("place_id")]
     print(f"Loaded {len(venues_with_id)} venues with place_id "
           f"(of {len(venues)} total)\n")

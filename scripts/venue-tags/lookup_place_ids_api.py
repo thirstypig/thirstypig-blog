@@ -38,9 +38,10 @@ from pathlib import Path
 
 import yaml
 
+from venues_io import VENUES_PATH, load_venues
+
 HERE = Path(__file__).resolve().parent
 REPO_ROOT = HERE.parent.parent
-VENUES_PATH = HERE / "venues.yaml"
 ENV_PATH = REPO_ROOT / ".env"
 
 PLACES_API_URL = "https://places.googleapis.com/v1/places:searchText"
@@ -118,12 +119,11 @@ def extract_fid_hex(google_maps_uri: str | None) -> str | None:
 
 
 def load_missing_venues() -> list[tuple[str, str]]:
-    """Return (key, query) for every venue without a place_id."""
-    venues = yaml.safe_load(VENUES_PATH.read_text())
+    """Return (key, query) for venues that need API lookup (no place_id and no cid)."""
     return [
         (v["key"], v["query"])
-        for v in venues
-        if v.get("query") and not v.get("place_id")
+        for v in load_venues()
+        if v.get("query") and not v.get("place_id") and not v.get("cid")
     ]
 
 

@@ -40,10 +40,11 @@ import yaml
 from playwright.sync_api import Page, sync_playwright
 from playwright_stealth import Stealth
 
+from venues_io import VENUES_PATH, load_venues
+
 HERE = Path(__file__).resolve().parent
 DATA_DIR = HERE / "data"
 USER_DATA_DIR = HERE / ".chrome-profile"
-VENUES_PATH = HERE / "venues.yaml"
 
 DATA_DIR.mkdir(exist_ok=True)
 
@@ -227,9 +228,6 @@ def auth_gated(record: dict) -> bool:
     )
     return not has_reviews_tab and not record.get("chips")
 
-
-def load_venues() -> list[dict]:
-    return yaml.safe_load(VENUES_PATH.read_text())
 
 
 def _writeback_place_id(key: str, place_id: str) -> None:

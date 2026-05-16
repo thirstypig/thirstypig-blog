@@ -19,9 +19,10 @@ from pathlib import Path
 
 import yaml
 
+from venues_io import load_venues
+
 HERE = Path(__file__).resolve().parent
 DATA_DIR = HERE / "data"
-VENUES_PATH = HERE / "venues.yaml"
 REPO_ROOT = HERE.parent.parent
 PUBLIC_DIR = REPO_ROOT / "public" / "venue-tags"
 
@@ -41,7 +42,7 @@ def main() -> int:
 
     # Index venues.yaml by key so we can attach city metadata to public records
     # without consumers having to load yaml separately.
-    venues_by_key = {v["key"]: v for v in yaml.safe_load(VENUES_PATH.read_text())}
+    venues_by_key = {v["key"]: v for v in load_venues()}
 
     written: list[str] = []
     skipped: list[str] = []

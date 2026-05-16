@@ -32,9 +32,10 @@ from typing import Optional
 
 import yaml
 
+from venues_io import load_venues
+
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 POSTS_DIR = REPO_ROOT / "src" / "content" / "posts"
-VENUES_PATH = Path(__file__).resolve().parent / "venues.yaml"
 
 # Skip venues whose name matches these patterns — they aren't restaurants.
 #
@@ -118,7 +119,7 @@ def main() -> int:
     args = ap.parse_args()
 
     # Index venues already in venues.yaml so we don't re-suggest them.
-    existing_venues = yaml.safe_load(VENUES_PATH.read_text())
+    existing_venues = load_venues()
     existing_keys = {v["key"] for v in existing_venues}
     existing_query_substrs = {(v.get("name") or "").lower() for v in existing_venues}
 
