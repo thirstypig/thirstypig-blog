@@ -1,30 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { loadAllVenues } from '../../utils/venue-tags';
+import { aggregateChips } from '../../utils/aggregate-chips';
 
 const venues = loadAllVenues();
-
-// Aggregate chips across every venue. Same label at multiple venues sums
-// the mention counts. Track venue count per label too so big universal
-// terms (e.g. "tacos") rise above niche-but-loud per-venue spikes.
-const aggregate = new Map<string, { label: string; total: number; venueCount: number }>();
-for (const v of venues) {
-	for (const chip of v.chips) {
-		const existing = aggregate.get(chip.label);
-		if (existing) {
-			existing.total += chip.mention_count;
-			existing.venueCount += 1;
-		} else {
-			aggregate.set(chip.label, {
-				label: chip.label,
-				total: chip.mention_count,
-				venueCount: 1,
-			});
-		}
-	}
-}
-
-const allChips = [...aggregate.values()].sort((a, b) => b.total - a.total);
+const allChips = aggregateChips(venues);
 
 // Logarithmic font-size scale. log(min..max) -> 0.75rem..3rem so the
 // quietest chip stays readable and the loudest doesn't blot the page.
