@@ -15,6 +15,12 @@ export async function getStaticPaths() {
 		if (!slug) return;
 		const existing = bySlug.get(slug);
 		if (existing) {
+			if (existing.name !== region) {
+				console.warn(
+					`[regions] slug collision: "${region}" and "${existing.name}" both slugify to "${slug}". ` +
+					`Merging under "${existing.name}". Canonicalize the region values to fix.`
+				);
+			}
 			existing.posts.push(post);
 		} else {
 			bySlug.set(slug, { name: region, posts: [post] });
