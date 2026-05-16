@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64a3df73d39:0x55acd712d3a6fe7",
+  "venue_name": "KazuNori: The Original Hand Roll Bar",
+  "chips": [
+    {
+      "label": "hand rolls",
+      "mention_count": 128
+    },
+    {
+      "label": "bay scallop hand roll",
+      "mention_count": 15
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 6
+    },
+    {
+      "label": "toro hand roll",
+      "mention_count": 10
+    },
+    {
+      "label": "crab hand roll",
+      "mention_count": 14
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 9
+    },
+    {
+      "label": "lobster roll",
+      "mention_count": 14
+    },
+    {
+      "label": "salmon hand roll",
+      "mention_count": 12
+    },
+    {
+      "label": "crispy seaweed",
+      "mention_count": 11
+    },
+    {
+      "label": "yellow tail hand roll",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:14Z",
+  "city": "Los Angeles",
+  "key": "kazunori-the-original-hand-roll-bar-los-angele"
+}

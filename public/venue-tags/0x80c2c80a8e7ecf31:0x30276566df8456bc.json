@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c80a8e7ecf31:0x30276566df8456bc",
+  "venue_name": "Holbox",
+  "chips": [
+    {
+      "label": "octopus taco",
+      "mention_count": 135
+    },
+    {
+      "label": "tostadas",
+      "mention_count": 160
+    },
+    {
+      "label": "counter seating",
+      "mention_count": 28
+    },
+    {
+      "label": "scallop taco",
+      "mention_count": 69
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 181
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "food court location",
+      "mention_count": 136
+    },
+    {
+      "label": "scallop aguachile",
+      "mention_count": 47
+    },
+    {
+      "label": "sea urchin",
+      "mention_count": 80
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 144
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:24Z",
+  "city": "Downtown LA",
+  "key": "holbox-downtown-l"
+}

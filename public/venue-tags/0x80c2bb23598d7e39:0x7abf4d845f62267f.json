@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb23598d7e39:0x7abf4d845f62267f",
+  "venue_name": "NIKÓ サンド - Japanese fusion kitchen",
+  "chips": [
+    {
+      "label": "katsu sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "chicken katsu",
+      "mention_count": 6
+    },
+    {
+      "label": "egg sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 2
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 3
+    },
+    {
+      "label": "staff",
+      "mention_count": 2
+    },
+    {
+      "label": "milk bread",
+      "mention_count": 2
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:23Z",
+  "city": "Brentwood",
+  "key": "niko-sando-brentwood"
+}

@@ -26,6 +26,7 @@ images:
   - /images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17926712108248810.jpg
 source: instagram
 draft: false
+placeId: "0x80c2c103fb1d360b:0x6e15231eb748079e"
 ---
 
 ![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17961253870758446.jpg)

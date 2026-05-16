@@ -29,6 +29,7 @@ coordinates:
   lng: 121.506733
 cuisine:
 - Taiwanese
+placeId: "0x3442a9090d8fe9c3:0x549b1e9b5ca092c3"
 ---
 
 ![Breakfast from Pine & Crane](/images/posts/ig-2022-09-02-breakfast-from-pine-crane/17922625073452298.jpg)

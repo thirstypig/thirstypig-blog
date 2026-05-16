@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c71b8369099d:0x6a710a4078636fe5",
+  "venue_name": "Stories",
+  "chips": [
+    {
+      "label": "used books",
+      "mention_count": 12
+    },
+    {
+      "label": "cafe",
+      "mention_count": 104
+    },
+    {
+      "label": "patio",
+      "mention_count": 59
+    },
+    {
+      "label": "book selection",
+      "mention_count": 59
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 45
+    },
+    {
+      "label": "cozy place",
+      "mention_count": 10
+    },
+    {
+      "label": "cool cards",
+      "mention_count": 2
+    },
+    {
+      "label": "cute bookstore",
+      "mention_count": 2
+    },
+    {
+      "label": "zines",
+      "mention_count": 2
+    },
+    {
+      "label": "poetry",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:28Z",
+  "city": "Koreatown",
+  "key": "stories-books-cafe-koreatown"
+}

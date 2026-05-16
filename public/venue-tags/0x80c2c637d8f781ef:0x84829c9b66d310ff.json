@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c637d8f781ef:0x84829c9b66d310ff",
+  "venue_name": "SmokeTokes Vape & Smoke Packaging Wholesale",
+  "chips": [
+    {
+      "label": "smoke accessories",
+      "mention_count": 2
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 3
+    },
+    {
+      "label": "product selection",
+      "mention_count": 8
+    },
+    {
+      "label": "wholesale pricing",
+      "mention_count": 3
+    },
+    {
+      "label": "fast shipping",
+      "mention_count": 2
+    },
+    {
+      "label": "order accuracy",
+      "mention_count": 3
+    },
+    {
+      "label": "packaging",
+      "mention_count": 3
+    },
+    {
+      "label": "quality products",
+      "mention_count": 2
+    },
+    {
+      "label": "refund",
+      "mention_count": 2
+    },
+    {
+      "label": "inventory",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:33Z",
+  "city": "Los Angeles",
+  "key": "smoke-tokes-los-angele"
+}

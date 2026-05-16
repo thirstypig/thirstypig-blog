@@ -1,0 +1,49 @@
+{
+  "place_id": "0x30e2993e7a58254f:0xf335fd1e8be957ff",
+  "venue_name": "Khao Man Kai Jae Yi",
+  "chips": [
+    {
+      "label": "chicken rice",
+      "mention_count": 115
+    },
+    {
+      "label": "dipping sauce",
+      "mention_count": 156
+    },
+    {
+      "label": "restaurant atmosphere",
+      "mention_count": 10
+    },
+    {
+      "label": "fragrant rice",
+      "mention_count": 24
+    },
+    {
+      "label": "stewed chicken feet",
+      "mention_count": 16
+    },
+    {
+      "label": "tender chicken",
+      "mention_count": 27
+    },
+    {
+      "label": "Boiled Chicken Rice",
+      "mention_count": 22
+    },
+    {
+      "label": "large chicken pieces",
+      "mention_count": 10
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 18
+    },
+    {
+      "label": "soft chicken",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:57Z",
+  "city": "Bangkok",
+  "key": "jae-yee-chicken-rice-ขาวมนไกเจย-bangkok"
+}

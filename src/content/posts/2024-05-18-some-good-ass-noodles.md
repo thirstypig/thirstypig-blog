@@ -29,6 +29,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x3442a90020cf4251:0x1b573dacab1e3922"
 ---
 
 ![Some good ass noodles](/images/posts/ig-2024-05-18-some-good-ass-noodles/17962423760751790.jpg)

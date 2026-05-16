@@ -1,0 +1,49 @@
+{
+  "place_id": "0x548fbf5a0e9bffff:0x128108f8adff4709",
+  "venue_name": "Salty Girls Seafood Co",
+  "chips": [
+    {
+      "label": "clam chowder",
+      "mention_count": 161
+    },
+    {
+      "label": "crab melt",
+      "mention_count": 75
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 52
+    },
+    {
+      "label": "baked oysters",
+      "mention_count": 34
+    },
+    {
+      "label": "steamed clams",
+      "mention_count": 40
+    },
+    {
+      "label": "dungeness crab",
+      "mention_count": 31
+    },
+    {
+      "label": "grilled cheese",
+      "mention_count": 24
+    },
+    {
+      "label": "crab roll",
+      "mention_count": 26
+    },
+    {
+      "label": "tuna melt",
+      "mention_count": 21
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 67
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:28Z",
+  "city": "Sequim",
+  "key": "salty-girls-seafood-co-sequim"
+}

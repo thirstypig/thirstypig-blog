@@ -24,6 +24,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2db2b48517b31:0xf738e9710c739480"
 ---
 
 ![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18053556374107303.jpg)

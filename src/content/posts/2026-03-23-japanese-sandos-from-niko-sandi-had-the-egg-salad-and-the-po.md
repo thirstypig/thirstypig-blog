@@ -27,6 +27,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2bb23598d7e39:0x7abf4d845f62267f"
 ---
 
 ![Japanese Sandos from Niko Sandi had the egg salad and the pork cutlet](/images/posts/ig-2026-03-23-japanese-sandos-from-niko-sandi-had-the-egg-salad-and-the-po/17905240221386255.jpg)

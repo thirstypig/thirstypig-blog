@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a96be70e45c1:0x3406946f6306da40",
+  "venue_name": "小器食堂中山店",
+  "chips": [
+    {
+      "label": "salmon",
+      "mention_count": 72
+    },
+    {
+      "label": "dessert pudding",
+      "mention_count": 37
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 34
+    },
+    {
+      "label": "tamagoyaki",
+      "mention_count": 28
+    },
+    {
+      "label": "halibut",
+      "mention_count": 16
+    },
+    {
+      "label": "hamburger steak",
+      "mention_count": 35
+    },
+    {
+      "label": "grilled chicken leg",
+      "mention_count": 10
+    },
+    {
+      "label": "rice and soup refills",
+      "mention_count": 13
+    },
+    {
+      "label": "salt-grilled chicken thigh",
+      "mention_count": 5
+    },
+    {
+      "label": "tatsuta-age fried chicken",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:16Z",
+  "city": "Taipei",
+  "key": "小器食堂-xiaoqi-k-taipei"
+}

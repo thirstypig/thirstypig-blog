@@ -27,6 +27,7 @@ coordinates:
   lng: -118.482233
 cuisine:
 - Seafood
+placeId: "0x80c2bbc48d1c4195:0x830ef63dcecbb7d8"
 ---
 
 ![Seafood brunch at Crude e Nudo on Santa Monica Main Street](/images/posts/ig-2024-10-01-seafood-brunch-at-crude-e-nudo-on-santa-monica-main-street/18349980136190501.jpg)

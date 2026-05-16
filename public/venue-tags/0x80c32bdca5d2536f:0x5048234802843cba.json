@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32bdca5d2536f:0x5048234802843cba",
+  "venue_name": "Yu Ji Stone Mill Chinese Crepes",
+  "chips": [
+    {
+      "label": "mung bean",
+      "mention_count": 10
+    },
+    {
+      "label": "jian bing",
+      "mention_count": 3
+    },
+    {
+      "label": "mung bean crepe",
+      "mention_count": 4
+    },
+    {
+      "label": "mung bean flour",
+      "mention_count": 2
+    },
+    {
+      "label": "cilantro",
+      "mention_count": 3
+    },
+    {
+      "label": "scallions",
+      "mention_count": 4
+    },
+    {
+      "label": "hotdog",
+      "mention_count": 7
+    },
+    {
+      "label": "friendly owner",
+      "mention_count": 4
+    },
+    {
+      "label": "street food experience",
+      "mention_count": 3
+    },
+    {
+      "label": "sesame seeds",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:04Z",
+  "city": "Rowland Heights",
+  "key": "yu-ji-stone-mill-chinese-crepes-rowland-he"
+}

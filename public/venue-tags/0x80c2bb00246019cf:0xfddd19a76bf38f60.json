@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb00246019cf:0xfddd19a76bf38f60",
+  "venue_name": "Super Peach",
+  "chips": [
+    {
+      "label": "kimbap",
+      "mention_count": 21
+    },
+    {
+      "label": "mushroom noodles",
+      "mention_count": 8
+    },
+    {
+      "label": "baby back ribs",
+      "mention_count": 5
+    },
+    {
+      "label": "lobster noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "savory donut",
+      "mention_count": 5
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 8
+    },
+    {
+      "label": "tuna kimbap",
+      "mention_count": 4
+    },
+    {
+      "label": "david chang",
+      "mention_count": 6
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 5
+    },
+    {
+      "label": "lychee cocktail",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:00Z",
+  "city": "Los Angeles",
+  "key": "super-peach-los-angele"
+}

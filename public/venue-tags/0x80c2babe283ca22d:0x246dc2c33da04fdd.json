@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2babe283ca22d:0x246dc2c33da04fdd",
+  "venue_name": "Grow Venice",
+  "chips": [
+    {
+      "label": "gifts",
+      "mention_count": 13
+    },
+    {
+      "label": "candles",
+      "mention_count": 2
+    },
+    {
+      "label": "gift wrapping",
+      "mention_count": 2
+    },
+    {
+      "label": "cute gifts",
+      "mention_count": 2
+    },
+    {
+      "label": "gift shop",
+      "mention_count": 3
+    },
+    {
+      "label": "variety of products",
+      "mention_count": 3
+    },
+    {
+      "label": "mark up",
+      "mention_count": 2
+    },
+    {
+      "label": "fun place",
+      "mention_count": 3
+    },
+    {
+      "label": "fun items",
+      "mention_count": 2
+    },
+    {
+      "label": "garden",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:40Z",
+  "city": "Venice",
+  "key": "grow-venice-venice"
+}

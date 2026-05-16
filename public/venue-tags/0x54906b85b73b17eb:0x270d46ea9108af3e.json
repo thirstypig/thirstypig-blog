@@ -1,0 +1,49 @@
+{
+  "place_id": "0x54906b85b73b17eb:0x270d46ea9108af3e",
+  "venue_name": "Ox Burger",
+  "chips": [
+    {
+      "label": "smash burgers",
+      "mention_count": 47
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 27
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 44
+    },
+    {
+      "label": "lao burger",
+      "mention_count": 15
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 5
+    },
+    {
+      "label": "deluxe burger",
+      "mention_count": 11
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "pickled onions",
+      "mention_count": 8
+    },
+    {
+      "label": "chocolate chip cookie",
+      "mention_count": 6
+    },
+    {
+      "label": "gf bun",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:40Z",
+  "city": "Seattle",
+  "key": "ox-burger-seattle"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bd5efb94a311:0x301dbe196f253cca",
+  "venue_name": "Egg Tuck",
+  "chips": [
+    {
+      "label": "egg sandwich",
+      "mention_count": 28
+    },
+    {
+      "label": "brioche bread",
+      "mention_count": 8
+    },
+    {
+      "label": "Tater Tots",
+      "mention_count": 13
+    },
+    {
+      "label": "fluffy eggs",
+      "mention_count": 12
+    },
+    {
+      "label": "burritos",
+      "mention_count": 26
+    },
+    {
+      "label": "buttery bread",
+      "mention_count": 8
+    },
+    {
+      "label": "aioli",
+      "mention_count": 6
+    },
+    {
+      "label": "creamy egg",
+      "mention_count": 8
+    },
+    {
+      "label": "crispy toast",
+      "mention_count": 4
+    },
+    {
+      "label": "kiosk ordering",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:52Z",
+  "city": "Los Angeles",
+  "key": "egg-tuck-los-angele"
+}

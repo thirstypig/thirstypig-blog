@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2c785bf749cd9:0xaa599ff1000ab535",
+  "venue_name": "Birrieria Pavon",
+  "chips": [
+    {
+      "label": "keto tacos",
+      "mention_count": 2
+    },
+    {
+      "label": "birria",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:35Z",
+  "city": "Los Angeles",
+  "key": "birrieria-pavon-los-angele"
+}

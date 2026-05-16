@@ -30,6 +30,7 @@ categories:
 - Thai
 cuisine:
 - Thai
+placeId: "0x30e2993e7a58254f:0xf335fd1e8be957ff"
 ---
 
 ![Thai Chicken Rice at Go-Ang Pratunam Chicken Rice](/images/posts/ig-2024-04-21-thai-chicken-rice-at-go-ang-pratunam-chicken-rice/17879264823000817.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbde8f739751:0x2955b40a7852612c",
+  "venue_name": "The Derby",
+  "chips": [
+    {
+      "label": "baked alaska",
+      "mention_count": 51
+    },
+    {
+      "label": "bacon wrapped filet mignon",
+      "mention_count": 28
+    },
+    {
+      "label": "fireplace seating",
+      "mention_count": 4
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 29
+    },
+    {
+      "label": "horse racing theme",
+      "mention_count": 28
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 10
+    },
+    {
+      "label": "prime rib",
+      "mention_count": 98
+    },
+    {
+      "label": "christmas decorations",
+      "mention_count": 34
+    },
+    {
+      "label": "shrimp scampi",
+      "mention_count": 14
+    },
+    {
+      "label": "potatoes romanoff",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:55Z",
+  "city": "Arcadia",
+  "key": "the-derby-arcadia"
+}

@@ -26,6 +26,7 @@ categories:
 - Cocktails
 cuisine:
 - Cocktails
+placeId: "0x80c2c64a3df73d39:0x55acd712d3a6fe7"
 ---
 
 ![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17978416897496412.jpg)

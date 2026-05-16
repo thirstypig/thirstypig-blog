@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c65a0f2fc21f:0xc3adb108612fa238",
+  "venue_name": "Hop Li Seafood Restaurant",
+  "chips": [
+    {
+      "label": "string beans",
+      "mention_count": 13
+    },
+    {
+      "label": "Walnut Shrimp",
+      "mention_count": 10
+    },
+    {
+      "label": "kung pao chicken",
+      "mention_count": 7
+    },
+    {
+      "label": "crispy noodle chow mein",
+      "mention_count": 4
+    },
+    {
+      "label": "honey pepper fish",
+      "mention_count": 3
+    },
+    {
+      "label": "mongolian beef",
+      "mention_count": 4
+    },
+    {
+      "label": "Orange Chicken",
+      "mention_count": 7
+    },
+    {
+      "label": "egg foo young",
+      "mention_count": 2
+    },
+    {
+      "label": "Chinese Broccoli with Oyster Flavor Sauce",
+      "mention_count": 5
+    },
+    {
+      "label": "wonton soup",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:22Z",
+  "city": "Silver Lake",
+  "key": "hop-li-seafood-restaurant-silver-lak"
+}

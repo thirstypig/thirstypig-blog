@@ -23,6 +23,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2c5560d146d77:0x445b2bfa230984af"
 ---
 
 ![Sichuan food 川菜 at Xiang La Hui 香辣汇](/images/posts/ig-2022-03-07-sichuan-food-川菜-at-xiang-la-hui-香辣汇/17932683875031555.jpg)

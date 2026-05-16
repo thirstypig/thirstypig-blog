@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba0256f9f31f:0xccb5353e013a58bc",
+  "venue_name": "Sara The Wine Bar & Restaurant",
+  "chips": [
+    {
+      "label": "italian food",
+      "mention_count": 31
+    },
+    {
+      "label": "bruschetta",
+      "mention_count": 8
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 15
+    },
+    {
+      "label": "lamb gnocchi",
+      "mention_count": 6
+    },
+    {
+      "label": "tiramisu",
+      "mention_count": 6
+    },
+    {
+      "label": "homemade pasta",
+      "mention_count": 6
+    },
+    {
+      "label": "eggplant parmesan",
+      "mention_count": 5
+    },
+    {
+      "label": "pannacotta",
+      "mention_count": 3
+    },
+    {
+      "label": "lasagna",
+      "mention_count": 5
+    },
+    {
+      "label": "mushroom fettuccine",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:25Z",
+  "city": "Culver City",
+  "key": "sara-the-wine-bar-culver-cit"
+}

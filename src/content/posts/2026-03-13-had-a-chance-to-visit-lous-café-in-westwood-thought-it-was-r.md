@@ -23,6 +23,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2b9f64d2caa45:0x88865fc2459303e3"
 ---
 
 ![Had a chance to visit Lou’s Café in Westwood thought it was really good](/images/posts/ig-2026-03-13-had-a-chance-to-visit-lous-café-in-westwood-thought-it-was-r/18317145559253607.jpg)

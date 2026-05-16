@@ -27,6 +27,7 @@ source: instagram
 draft: false
 cuisine:
 - Japanese
+placeId: "0x80c2c6488ea39f65:0x1983c63f86206866"
 ---
 
 ![Shabu Shabu](/images/posts/ig-2022-06-06-shabu-shabu/17896104665546195.jpg)

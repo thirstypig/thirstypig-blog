@@ -33,6 +33,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80c2c65a0f2fc21f:0xc3adb108612fa238"
 ---
 
 ![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17843287757817907.jpg)

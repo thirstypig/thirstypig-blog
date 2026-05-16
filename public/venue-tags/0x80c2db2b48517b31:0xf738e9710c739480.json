@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db2b48517b31:0xf738e9710c739480",
+  "venue_name": "Bopomofo Cafe",
+  "chips": [
+    {
+      "label": "popcorn chicken",
+      "mention_count": 69
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "matcha latte",
+      "mention_count": 56
+    },
+    {
+      "label": "guava flavor",
+      "mention_count": 13
+    },
+    {
+      "label": "tots",
+      "mention_count": 32
+    },
+    {
+      "label": "mapo tots",
+      "mention_count": 20
+    },
+    {
+      "label": "honey walnut shrimp burger",
+      "mention_count": 14
+    },
+    {
+      "label": "taro sweet milk",
+      "mention_count": 10
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 16
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:08Z",
+  "city": "San Gabriel",
+  "key": "bopomofo-san-gabrie"
+}

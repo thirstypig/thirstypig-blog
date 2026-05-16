@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c633792b3193:0x2ce19c3f81dfd664",
+  "venue_name": "Poppy + Rose",
+  "chips": [
+    {
+      "label": "chicken and waffles",
+      "mention_count": 141
+    },
+    {
+      "label": "patio seating",
+      "mention_count": 14
+    },
+    {
+      "label": "eggs benedict",
+      "mention_count": 33
+    },
+    {
+      "label": "pulled pork hash",
+      "mention_count": 23
+    },
+    {
+      "label": "hash brown",
+      "mention_count": 24
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 37
+    },
+    {
+      "label": "limeade",
+      "mention_count": 20
+    },
+    {
+      "label": "mimosas",
+      "mention_count": 18
+    },
+    {
+      "label": "biscuits and gravy",
+      "mention_count": 16
+    },
+    {
+      "label": "bloody mary",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:43Z",
+  "city": "Downtown LA",
+  "key": "poppy-rose-downtown-l"
+}

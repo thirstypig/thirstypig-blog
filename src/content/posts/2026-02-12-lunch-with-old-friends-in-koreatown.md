@@ -29,6 +29,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2b9f64d2caa45:0x88865fc2459303e3"
 ---
 
 ![lunch with old friends in Koreatown](/images/posts/ig-2026-02-12-lunch-with-old-friends-in-koreatown/18047950916707924.jpg)

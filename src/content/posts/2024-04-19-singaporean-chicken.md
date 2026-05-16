@@ -30,6 +30,7 @@ categories:
 - Asian
 cuisine:
 - Asian
+placeId: "0x31da190d76eb2eb1:0x36f7f8582574f519"
 ---
 
 ![Singaporean chicken](/images/posts/ig-2024-04-19-singaporean-chicken/18039598642830338.jpg)

@@ -27,6 +27,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2bd5efb94a311:0x301dbe196f253cca"
 ---
 
 ![Brunch at Westwood’s Egg Tuck](/images/posts/ig-2024-11-20-brunch-at-westwoods-egg-tuck/17849863158342363.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9f64d2caa45:0x88865fc2459303e3",
+  "venue_name": "Liu's Cafe",
+  "chips": [
+    {
+      "label": "french toast",
+      "mention_count": 51
+    },
+    {
+      "label": "pork belly rice",
+      "mention_count": 17
+    },
+    {
+      "label": "braised pork belly rice",
+      "mention_count": 34
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 28
+    },
+    {
+      "label": "sesame cold noodles",
+      "mention_count": 20
+    },
+    {
+      "label": "custard filled french toast",
+      "mention_count": 13
+    },
+    {
+      "label": "pastries",
+      "mention_count": 24
+    },
+    {
+      "label": "egg tart",
+      "mention_count": 5
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 12
+    },
+    {
+      "label": "helpful cashier",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:52Z",
+  "city": "Los Angeles",
+  "key": "lius-cafe-los-angele"
+}

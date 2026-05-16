@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c586b1b0fd61:0xa862b4d2ed00e11f",
+  "venue_name": "Slab",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 36
+    },
+    {
+      "label": "patio seating",
+      "mention_count": 8
+    },
+    {
+      "label": "brisket nachos",
+      "mention_count": 4
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 15
+    },
+    {
+      "label": "rib sandwich",
+      "mention_count": 4
+    },
+    {
+      "label": "corn bread",
+      "mention_count": 6
+    },
+    {
+      "label": "pulled pork sandwich",
+      "mention_count": 7
+    },
+    {
+      "label": "spicy bbq sauce",
+      "mention_count": 3
+    },
+    {
+      "label": "ribs",
+      "mention_count": 28
+    },
+    {
+      "label": "corn on the cob",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:51Z",
+  "city": "Pasadena",
+  "key": "slabs-barbecue-pasadena"
+}

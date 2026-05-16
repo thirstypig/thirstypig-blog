@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7a9ecccab1b:0xf04e981b14f4e80b",
+  "venue_name": "NIKU X | Premium Seafood & A5 Wagyu Steak Buffet",
+  "chips": [
+    {
+      "label": "a5 wagyu",
+      "mention_count": 83
+    },
+    {
+      "label": "king crab",
+      "mention_count": 94
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 10
+    },
+    {
+      "label": "lobster tails",
+      "mention_count": 80
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 52
+    },
+    {
+      "label": "miso chilean sea bass",
+      "mention_count": 21
+    },
+    {
+      "label": "wagyu fried rice",
+      "mention_count": 14
+    },
+    {
+      "label": "king crab legs",
+      "mention_count": 50
+    },
+    {
+      "label": "seafood",
+      "mention_count": 94
+    },
+    {
+      "label": "tom yum soup",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:28Z",
+  "city": "Downtown LA",
+  "key": "niku-x-downtown-l"
+}

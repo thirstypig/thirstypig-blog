@@ -27,6 +27,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2c71b8369099d:0x6a710a4078636fe5"
 ---
 
 ![Gamjatang and Bo-Ssam](/images/posts/ig-2022-03-06-gamjatang-and-bo-ssam/17936587615963226.jpg)

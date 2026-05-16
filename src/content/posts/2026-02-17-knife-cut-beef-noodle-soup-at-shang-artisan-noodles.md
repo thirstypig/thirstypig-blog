@@ -26,6 +26,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c8c6bfd53f7235:0x5f8d97022091fcce"
 ---
 
 ![Knife cut beef noodle soup at Shang Artisan Noodles](/images/posts/ig-2026-02-17-knife-cut-beef-noodle-soup-at-shang-artisan-noodles/17921076435098554.jpg)

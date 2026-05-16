@@ -1,0 +1,49 @@
+{
+  "place_id": "0x30e299168efe7909:0x5f0bcf8291211ec0",
+  "venue_name": "Thai Food at Samranrat",
+  "chips": [
+    {
+      "label": "crab omelette",
+      "mention_count": 71
+    },
+    {
+      "label": "tom yum",
+      "mention_count": 54
+    },
+    {
+      "label": "pad thai",
+      "mention_count": 40
+    },
+    {
+      "label": "street food",
+      "mention_count": 85
+    },
+    {
+      "label": "fried morning glory",
+      "mention_count": 5
+    },
+    {
+      "label": "jay fai",
+      "mention_count": 49
+    },
+    {
+      "label": "crab fried rice",
+      "mention_count": 4
+    },
+    {
+      "label": "fresh coconut",
+      "mention_count": 4
+    },
+    {
+      "label": "garlic pork",
+      "mention_count": 3
+    },
+    {
+      "label": "fried noodles",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:49Z",
+  "city": "Bangkok",
+  "key": "thai-food-at-samranrat-bangkok"
+}

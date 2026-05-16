@@ -28,6 +28,7 @@ images:
   - /images/posts/ig-2025-05-11-brunch-in-victoria/18063758549018842.jpg
 source: instagram
 draft: false
+placeId: "0x548f749b1c819ceb:0xe72bc841dfc89912"
 ---
 
 ![Brunch in Victoria](/images/posts/ig-2025-05-11-brunch-in-victoria/18190766269309003.jpg)

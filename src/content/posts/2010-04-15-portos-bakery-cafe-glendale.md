@@ -20,6 +20,7 @@ region: San Fernando Valley
 address: 315 N Brand Blvd Glendale, CA 91203
 cuisine:
 - Cuban
+placeId: "0x80c2c054f6a8805d:0xe621dcbff857a957"
 ---
 
 

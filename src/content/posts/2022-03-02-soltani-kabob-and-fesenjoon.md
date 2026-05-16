@@ -26,6 +26,7 @@ categories:
 - Persian
 cuisine:
 - Persian
+placeId: "0x872b6b1f4735e2e3:0x9feda208fc98e2de"
 ---
 
 ![Soltani Kabob and Fesenjoon](/images/posts/ig-2022-03-02-soltani-kabob-and-fesenjoon/17901575582525287.jpg)

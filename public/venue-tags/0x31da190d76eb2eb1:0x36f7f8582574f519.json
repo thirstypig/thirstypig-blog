@@ -1,0 +1,49 @@
+{
+  "place_id": "0x31da190d76eb2eb1:0x36f7f8582574f519",
+  "venue_name": "Oven & Fried Chicken",
+  "chips": [
+    {
+      "label": "Yang Nyeom Chicken with Sweet & Spicy Seasoning",
+      "mention_count": 22
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 100
+    },
+    {
+      "label": "happy hour beer",
+      "mention_count": 4
+    },
+    {
+      "label": "korean fried chicken",
+      "mention_count": 13
+    },
+    {
+      "label": "roasted chicken",
+      "mention_count": 27
+    },
+    {
+      "label": "crispy chicken",
+      "mention_count": 18
+    },
+    {
+      "label": "kimchi pancake",
+      "mention_count": 12
+    },
+    {
+      "label": "boneless chicken",
+      "mention_count": 12
+    },
+    {
+      "label": "kimchi stew",
+      "mention_count": 13
+    },
+    {
+      "label": "soy fried chicken",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:45Z",
+  "city": "Singapore",
+  "key": "oven-fried-chicken-singapore"
+}

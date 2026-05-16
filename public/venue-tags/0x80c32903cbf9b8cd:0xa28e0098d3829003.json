@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c32903cbf9b8cd:0xa28e0098d3829003",
+  "venue_name": "GS Cafe and Ethiopian Cuisine",
+  "chips": [
+    {
+      "label": "veggie platter",
+      "mention_count": 30
+    },
+    {
+      "label": "beef and veggie platter",
+      "mention_count": 5
+    },
+    {
+      "label": "honey wine",
+      "mention_count": 18
+    },
+    {
+      "label": "family owned and operated",
+      "mention_count": 11
+    },
+    {
+      "label": "smoothie",
+      "mention_count": 9
+    },
+    {
+      "label": "spiced tea",
+      "mention_count": 3
+    },
+    {
+      "label": "platter size",
+      "mention_count": 2
+    },
+    {
+      "label": "clean bathrooms",
+      "mention_count": 2
+    },
+    {
+      "label": "beets",
+      "mention_count": 7
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 21
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:20Z",
+  "city": "Covina",
+  "key": "gs-cafe-covina"
+}

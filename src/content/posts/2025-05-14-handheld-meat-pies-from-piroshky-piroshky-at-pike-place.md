@@ -32,6 +32,7 @@ categories:
 - Russian
 cuisine:
 - Russian
+placeId: "0x54906ab2c60a5645:0x1b7dab922d998f16"
 ---
 
 ![Handheld meat pies from Piroshky Piroshky at Pike Place](/images/posts/ig-2025-05-14-handheld-meat-pies-from-piroshky-piroshky-at-pike-place/18042070673618815.jpg)

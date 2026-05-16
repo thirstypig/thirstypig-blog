@@ -30,6 +30,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c586b1b0fd61:0xa862b4d2ed00e11f"
 ---
 
 ![APL Barbecue](/images/posts/ig-2022-03-30-apl-barbecue/17945476768878177.jpg)

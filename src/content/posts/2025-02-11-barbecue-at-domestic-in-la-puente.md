@@ -24,6 +24,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c8837187262d:0x2e216ed04bd4bed3"
 ---
 
 ![Barbecue at Domestic in La Puente](/images/posts/ig-2025-02-11-barbecue-at-domestic-in-la-puente/17969206526833173.jpg)

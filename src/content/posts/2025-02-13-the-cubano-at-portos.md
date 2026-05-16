@@ -23,6 +23,7 @@ categories:
 - Bakery
 cuisine:
 - Bakery
+placeId: "0x80c2c054f6a8805d:0xe621dcbff857a957"
 ---
 
 ![The Cubano at Porto’s](/images/posts/ig-2025-02-13-the-cubano-at-portos/18037568942407973.jpg)

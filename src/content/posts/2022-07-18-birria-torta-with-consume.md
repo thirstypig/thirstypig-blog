@@ -27,6 +27,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c5c1eb2a0e17:0x2392358c351b78b6"
 ---
 
 ![Birria Torta with consume](/images/posts/ig-2022-07-18-birria-torta-with-consume/17953285099954536.jpg)

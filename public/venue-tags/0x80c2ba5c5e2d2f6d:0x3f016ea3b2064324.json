@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba5c5e2d2f6d:0x3f016ea3b2064324",
+  "venue_name": "Accomplice Bar",
+  "chips": [
+    {
+      "label": "cocktail program",
+      "mention_count": 5
+    },
+    {
+      "label": "squid ink",
+      "mention_count": 3
+    },
+    {
+      "label": "craft cocktails",
+      "mention_count": 2
+    },
+    {
+      "label": "wontons",
+      "mention_count": 2
+    },
+    {
+      "label": "creative drinks",
+      "mention_count": 4
+    },
+    {
+      "label": "baos",
+      "mention_count": 2
+    },
+    {
+      "label": "asian fusion food",
+      "mention_count": 2
+    },
+    {
+      "label": "reservations",
+      "mention_count": 2
+    },
+    {
+      "label": "cauliflower",
+      "mention_count": 6
+    },
+    {
+      "label": "bartenders",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:29Z",
+  "city": "Los Angeles",
+  "key": "accomplice-bar-los-angele"
+}

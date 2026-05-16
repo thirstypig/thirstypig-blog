@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9090d8fe9c3:0x549b1e9b5ca092c3",
+  "venue_name": "ACME｜Cafe Bar & Restaurant",
+  "chips": [
+    {
+      "label": "french toast",
+      "mention_count": 158
+    },
+    {
+      "label": "truffle fries",
+      "mention_count": 137
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 20
+    },
+    {
+      "label": "acai yogurt bowl",
+      "mention_count": 42
+    },
+    {
+      "label": "avocado toast",
+      "mention_count": 45
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 301
+    },
+    {
+      "label": "poached egg",
+      "mention_count": 48
+    },
+    {
+      "label": "camellia latte",
+      "mention_count": 37
+    },
+    {
+      "label": "sourdough bread",
+      "mention_count": 50
+    },
+    {
+      "label": "benedict tuna tower",
+      "mention_count": 39
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:37Z",
+  "city": "Taipei",
+  "key": "acme-breakfast-club-taipei"
+}

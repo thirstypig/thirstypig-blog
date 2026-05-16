@@ -27,6 +27,7 @@ source: instagram
 draft: false
 cuisine:
 - Chinese
+placeId: "0x80c32bdca5d2536f:0x5048234802843cba"
 ---
 
 ![Jian Bing from Rowland Heights](/images/posts/ig-2026-03-02-jian-bing-from-rowland-heights/18175959046381194.jpg)

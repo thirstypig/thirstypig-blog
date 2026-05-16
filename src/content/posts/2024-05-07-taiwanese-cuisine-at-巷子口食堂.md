@@ -33,6 +33,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442a96be70e45c1:0x3406946f6306da40"
 ---
 
 ![Taiwanese cuisine at 巷子口食堂](/images/posts/ig-2024-05-07-taiwanese-cuisine-at-巷子口食堂/18004420247585710.jpg)

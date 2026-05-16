@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7cb8403e51d:0x640c43bdeeda3988",
+  "venue_name": "Pine and Crane DTLA",
+  "chips": [
+    {
+      "label": "dan dan noodles",
+      "mention_count": 79
+    },
+    {
+      "label": "shrimp wontons",
+      "mention_count": 31
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 31
+    },
+    {
+      "label": "beef roll",
+      "mention_count": 35
+    },
+    {
+      "label": "Beef Noodle Soup 牛肉麵",
+      "mention_count": 41
+    },
+    {
+      "label": "Panfried Pork Buns 生煎包",
+      "mention_count": 19
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 25
+    },
+    {
+      "label": "mochi",
+      "mention_count": 21
+    },
+    {
+      "label": "bok choy dumplings",
+      "mention_count": 10
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 27
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:19Z",
+  "city": "Downtown LA",
+  "key": "pine-crane-downtown-l"
+}

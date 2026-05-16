@@ -1,0 +1,49 @@
+{
+  "place_id": "0x872b6b1f4735e2e3:0x9feda208fc98e2de",
+  "venue_name": "Robert Emmets Food & Spirits",
+  "chips": [
+    {
+      "label": "karaoke",
+      "mention_count": 39
+    },
+    {
+      "label": "dive bar",
+      "mention_count": 12
+    },
+    {
+      "label": "burgers",
+      "mention_count": 22
+    },
+    {
+      "label": "pool tables",
+      "mention_count": 6
+    },
+    {
+      "label": "darts",
+      "mention_count": 8
+    },
+    {
+      "label": "patio",
+      "mention_count": 9
+    },
+    {
+      "label": "smoking section",
+      "mention_count": 4
+    },
+    {
+      "label": "juke box",
+      "mention_count": 3
+    },
+    {
+      "label": "pool tournament",
+      "mention_count": 2
+    },
+    {
+      "label": "burger special",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:24Z",
+  "city": "Glendale",
+  "key": "robert-emmets-food-spirits-glendale"
+}

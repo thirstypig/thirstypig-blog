@@ -29,6 +29,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442abda74731abd:0xdf30078ba49979f0"
 ---
 
 ![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18026434208020236.jpg)

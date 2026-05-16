@@ -26,6 +26,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c637d8f781ef:0x84829c9b66d310ff"
 ---
 
 ![Beef Rib from Smoke Queen](/images/posts/ig-2022-08-24-beef-rib-from-smoke-queen/18021247084416064.jpg)

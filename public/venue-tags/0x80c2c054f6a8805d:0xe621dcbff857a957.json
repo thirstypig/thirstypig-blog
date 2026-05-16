@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c054f6a8805d:0xe621dcbff857a957",
+  "venue_name": "Porto's Bakery and Cafe",
+  "chips": [
+    {
+      "label": "cheese rolls",
+      "mention_count": 421
+    },
+    {
+      "label": "potato balls",
+      "mention_count": 241
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 27
+    },
+    {
+      "label": "cuban food",
+      "mention_count": 440
+    },
+    {
+      "label": "tres leches cake",
+      "mention_count": 132
+    },
+    {
+      "label": "guava strudel",
+      "mention_count": 40
+    },
+    {
+      "label": "long lines",
+      "mention_count": 289
+    },
+    {
+      "label": "meat pies",
+      "mention_count": 104
+    },
+    {
+      "label": "ropa vieja",
+      "mention_count": 73
+    },
+    {
+      "label": "savory pastries",
+      "mention_count": 92
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:20Z",
+  "city": "Glendale",
+  "key": "portos-bakery-glendale"
+}

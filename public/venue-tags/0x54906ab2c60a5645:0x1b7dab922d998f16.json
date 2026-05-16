@@ -1,0 +1,49 @@
+{
+  "place_id": "0x54906ab2c60a5645:0x1b7dab922d998f16",
+  "venue_name": "Piroshky Piroshky",
+  "chips": [
+    {
+      "label": "piroshki",
+      "mention_count": 599
+    },
+    {
+      "label": "rhubarb",
+      "mention_count": 69
+    },
+    {
+      "label": "no seating",
+      "mention_count": 12
+    },
+    {
+      "label": "savory pastries",
+      "mention_count": 256
+    },
+    {
+      "label": "long lines",
+      "mention_count": 324
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "sweet pastries",
+      "mention_count": 307
+    },
+    {
+      "label": "salmon pate",
+      "mention_count": 89
+    },
+    {
+      "label": "Apple Cinnamon Roll",
+      "mention_count": 50
+    },
+    {
+      "label": "marzipan",
+      "mention_count": 52
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:44Z",
+  "city": "Seattle",
+  "key": "piroshky-piroshky-seattle"
+}

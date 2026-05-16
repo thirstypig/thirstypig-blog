@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6385d34a359:0xcebe6f56e038061e",
+  "venue_name": "Tensho",
+  "chips": [
+    {
+      "label": "a5 wagyu",
+      "mention_count": 2
+    },
+    {
+      "label": "kaiseki course",
+      "mention_count": 3
+    },
+    {
+      "label": "Udon Noodle or Zosui Rice Soup",
+      "mention_count": 5
+    },
+    {
+      "label": "king crab",
+      "mention_count": 3
+    },
+    {
+      "label": "creme brûlée",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh seafood",
+      "mention_count": 2
+    },
+    {
+      "label": "Hot Pot",
+      "mention_count": 5
+    },
+    {
+      "label": "set menu",
+      "mention_count": 2
+    },
+    {
+      "label": "desserts",
+      "mention_count": 2
+    },
+    {
+      "label": "freshness",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:58Z",
+  "city": "Little Tokyo",
+  "key": "kagaya-little-tok"
+}

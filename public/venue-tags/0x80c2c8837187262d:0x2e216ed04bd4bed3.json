@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c8837187262d:0x2e216ed04bd4bed3",
+  "venue_name": "Domestic Uniform Rental",
+  "chips": [
+    {
+      "label": "charges",
+      "mention_count": 3
+    },
+    {
+      "label": "contract",
+      "mention_count": 17
+    },
+    {
+      "label": "scam",
+      "mention_count": 5
+    },
+    {
+      "label": "stars",
+      "mention_count": 5
+    },
+    {
+      "label": "meeting",
+      "mention_count": 4
+    },
+    {
+      "label": "signature",
+      "mention_count": 2
+    },
+    {
+      "label": "letter",
+      "mention_count": 3
+    },
+    {
+      "label": "company",
+      "mention_count": 21
+    },
+    {
+      "label": "zero",
+      "mention_count": 4
+    },
+    {
+      "label": "uniforms",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:11Z",
+  "city": "Los Angeles",
+  "key": "domestic-los-angele"
+}

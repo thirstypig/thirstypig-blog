@@ -1,0 +1,49 @@
+{
+  "place_id": "0x548f749b1c819ceb:0xe72bc841dfc89912",
+  "venue_name": "The Local",
+  "chips": [
+    {
+      "label": "patio",
+      "mention_count": 218
+    },
+    {
+      "label": "harbour view",
+      "mention_count": 26
+    },
+    {
+      "label": "poutine",
+      "mention_count": 23
+    },
+    {
+      "label": "nachos",
+      "mention_count": 66
+    },
+    {
+      "label": "watching sports",
+      "mention_count": 8
+    },
+    {
+      "label": "fish and chips",
+      "mention_count": 24
+    },
+    {
+      "label": "wings",
+      "mention_count": 25
+    },
+    {
+      "label": "people watching",
+      "mention_count": 8
+    },
+    {
+      "label": "yam fries",
+      "mention_count": 5
+    },
+    {
+      "label": "tuna tacos",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:36Z",
+  "city": "Victoria",
+  "key": "the-local-victoria"
+}

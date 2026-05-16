@@ -33,6 +33,7 @@ categories:
 - Thai
 cuisine:
 - Thai
+placeId: "0x30e2991b5afc4faf:0x7fee4b78f286b490"
 ---
 
 ![Snacking at Bangkok’s Chinatown](/images/posts/ig-2024-04-20-snacking-at-bangkoks-chinatown/17881605435048262.jpg)

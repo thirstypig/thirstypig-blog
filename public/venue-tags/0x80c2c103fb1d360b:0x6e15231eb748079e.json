@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c103fb1d360b:0x6e15231eb748079e",
+  "venue_name": "Goi Vietnamese Eats",
+  "chips": [
+    {
+      "label": "banh mi",
+      "mention_count": 17
+    },
+    {
+      "label": "spring rolls",
+      "mention_count": 14
+    },
+    {
+      "label": "calm vibe",
+      "mention_count": 4
+    },
+    {
+      "label": "pho",
+      "mention_count": 6
+    },
+    {
+      "label": "marinated pork",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "egg rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh ingredients",
+      "mention_count": 10
+    },
+    {
+      "label": "baguette texture",
+      "mention_count": 3
+    },
+    {
+      "label": "pickled veggies",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:10Z",
+  "city": "Los Angeles",
+  "key": "goi-vietnamese-eats-los-angele"
+}

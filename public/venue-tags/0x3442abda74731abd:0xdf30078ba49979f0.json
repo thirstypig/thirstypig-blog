@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442abda74731abd:0xdf30078ba49979f0",
+  "venue_name": "Ay-Chung Flour Rice Noodle - Zhongxiao",
+  "chips": [
+    {
+      "label": "intestines",
+      "mention_count": 97
+    },
+    {
+      "label": "cilantro",
+      "mention_count": 40
+    },
+    {
+      "label": "comfortable seating",
+      "mention_count": 54
+    },
+    {
+      "label": "vermicelli",
+      "mention_count": 10
+    },
+    {
+      "label": "bonito soup base",
+      "mention_count": 22
+    },
+    {
+      "label": "ah zong mian xian",
+      "mention_count": 14
+    },
+    {
+      "label": "bonito flavor",
+      "mention_count": 12
+    },
+    {
+      "label": "large intestine vermicelli",
+      "mention_count": 11
+    },
+    {
+      "label": "taipei snacks",
+      "mention_count": 5
+    },
+    {
+      "label": "taiwanese food",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:05Z",
+  "city": "Taipei",
+  "key": "阿宗麵線-ay-chung-flour-rice-noodle-taipei"
+}

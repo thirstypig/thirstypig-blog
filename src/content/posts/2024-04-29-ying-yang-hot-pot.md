@@ -32,6 +32,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442a909190baa19:0xe00f3480c3b7e765"
 ---
 
 ![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18087407305434359.jpg)

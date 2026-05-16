@@ -25,6 +25,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2bb00246019cf:0xfddd19a76bf38f60"
 ---
 
 ![David Chang’s Super Peach at century city mall](/images/posts/ig-2026-02-28-david-changs-super-peach-at-century-city-mall/18097995464314587.jpg)

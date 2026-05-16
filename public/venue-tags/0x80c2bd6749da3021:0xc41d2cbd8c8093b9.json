@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bd6749da3021:0xc41d2cbd8c8093b9",
+  "venue_name": "Liu's Cafe - Westwood",
+  "chips": [
+    {
+      "label": "sesame noodles",
+      "mention_count": 6
+    },
+    {
+      "label": "kaya toast",
+      "mention_count": 4
+    },
+    {
+      "label": "french toast",
+      "mention_count": 5
+    },
+    {
+      "label": "pandan",
+      "mention_count": 2
+    },
+    {
+      "label": "braised pork belly",
+      "mention_count": 2
+    },
+    {
+      "label": "cold sesame noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "staff",
+      "mention_count": 2
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    },
+    {
+      "label": "sugar",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:11Z",
+  "city": "Westwood",
+  "key": "lius-cafe-westwood"
+}

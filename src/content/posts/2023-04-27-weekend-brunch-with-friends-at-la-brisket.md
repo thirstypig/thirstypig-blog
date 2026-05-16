@@ -25,6 +25,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c7aadce39f13:0xbd044f5321c9adc0"
 ---
 
 ![Weekend brunch with friends at LA Brisket](/images/posts/ig-2023-04-27-weekend-brunch-with-friends-at-la-brisket/18093630853322404.jpg)

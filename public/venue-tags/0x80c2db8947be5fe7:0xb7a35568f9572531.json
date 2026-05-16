@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db8947be5fe7:0xb7a35568f9572531",
+  "venue_name": "Morning Delight Cafe",
+  "chips": [
+    {
+      "label": "batter egg pancake",
+      "mention_count": 32
+    },
+    {
+      "label": "corn soup",
+      "mention_count": 14
+    },
+    {
+      "label": "pot-stewed noodles",
+      "mention_count": 11
+    },
+    {
+      "label": "scallion pancake",
+      "mention_count": 9
+    },
+    {
+      "label": "hash brown",
+      "mention_count": 8
+    },
+    {
+      "label": "crispy pancake",
+      "mention_count": 7
+    },
+    {
+      "label": "teppanyaki noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "crispy corn chowder",
+      "mention_count": 5
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 18
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T22:48:15Z",
+  "city": "San Gabriel",
+  "key": "morning-delight-cafe-san-gabrie"
+}

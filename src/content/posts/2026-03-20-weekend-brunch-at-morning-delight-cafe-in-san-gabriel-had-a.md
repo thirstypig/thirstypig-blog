@@ -30,6 +30,7 @@ source: instagram
 draft: false
 cuisine:
 - Taiwanese
+placeId: "0x80c2db8947be5fe7:0xb7a35568f9572531"
 ---
 
 ![Weekend brunch at Morning Delight Cafe in San Gabriel had a couple of the eg...](/images/posts/ig-2026-03-20-weekend-brunch-at-morning-delight-cafe-in-san-gabriel-had-a/17851561581642751.jpg)

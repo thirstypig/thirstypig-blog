@@ -30,6 +30,7 @@ coordinates:
   lng: 100.50463
 cuisine:
 - Thai
+placeId: "0x30e299168efe7909:0x5f0bcf8291211ec0"
 ---
 
 ![Thai food at Supanniga - a Michelin rated restaurant](/images/posts/ig-2024-04-19-thai-food-at-supanniga-a-michelin-rated-restaurant/18220920673286613.jpg)

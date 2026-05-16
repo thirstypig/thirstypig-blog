@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db0002fd2317:0x414d2a32fc066af",
+  "venue_name": "Hibiki BBQ",
+  "chips": [
+    {
+      "label": "yakiniku",
+      "mention_count": 8
+    },
+    {
+      "label": "a5 wagyu",
+      "mention_count": 7
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 34
+    },
+    {
+      "label": "fried squid",
+      "mention_count": 6
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 7
+    },
+    {
+      "label": "short rib",
+      "mention_count": 4
+    },
+    {
+      "label": "meat selection",
+      "mention_count": 11
+    },
+    {
+      "label": "abalone",
+      "mention_count": 3
+    },
+    {
+      "label": "ayce",
+      "mention_count": 29
+    },
+    {
+      "label": "pickled cucumber",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:44Z",
+  "city": "San Gabriel",
+  "key": "hibiki-san-gabrie"
+}

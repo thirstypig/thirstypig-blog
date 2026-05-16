@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbc48d1c4195:0x830ef63dcecbb7d8",
+  "venue_name": "Crudo e Nudo",
+  "chips": [
+    {
+      "label": "Tuna Tartare Toast",
+      "mention_count": 17
+    },
+    {
+      "label": "squid ink fried rice",
+      "mention_count": 12
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 18
+    },
+    {
+      "label": "oysters",
+      "mention_count": 25
+    },
+    {
+      "label": "Caviar Nachos",
+      "mention_count": 9
+    },
+    {
+      "label": "crudo",
+      "mention_count": 21
+    },
+    {
+      "label": "mezze platter",
+      "mention_count": 8
+    },
+    {
+      "label": "sustainable ingredients",
+      "mention_count": 15
+    },
+    {
+      "label": "crudo trio",
+      "mention_count": 6
+    },
+    {
+      "label": "halibut",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T22:46:48Z",
+  "city": "Santa Monica",
+  "key": "crudo-e-nudo-santa-moni"
+}

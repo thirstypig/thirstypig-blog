@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dade286d704b:0xc2bc7a5cd75e3a0",
+  "venue_name": "Shakey's Pizza Parlor",
+  "chips": [
+    {
+      "label": "mojos",
+      "mention_count": 35
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 17
+    },
+    {
+      "label": "mojo potatoes",
+      "mention_count": 11
+    },
+    {
+      "label": "buffet",
+      "mention_count": 47
+    },
+    {
+      "label": "large party",
+      "mention_count": 21
+    },
+    {
+      "label": "salad bar",
+      "mention_count": 10
+    },
+    {
+      "label": "childhood pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "crispy crust",
+      "mention_count": 2
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 2
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T22:44:47Z",
+  "city": "San Gabriel",
+  "key": "shakeys-pizza-san-gabrie"
+}

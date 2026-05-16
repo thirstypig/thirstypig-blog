@@ -27,6 +27,7 @@ images:
   - /images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18020520815403650.jpg
 source: instagram
 draft: false
+placeId: "0x80c2b9004f11ed01:0x38489ced83dd9d35"
 ---
 
 ![Really good sandwich from All'Antico Vinaio](/images/posts/ig-2025-01-15-really-good-sandwich-from-allantico-vinaio/18049905596141367.jpg)

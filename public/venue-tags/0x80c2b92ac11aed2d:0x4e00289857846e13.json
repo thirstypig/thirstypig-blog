@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b92ac11aed2d:0x4e00289857846e13",
+  "venue_name": "Thanks Pizza",
+  "chips": [
+    {
+      "label": "garlic chicken pizza",
+      "mention_count": 16
+    },
+    {
+      "label": "korean pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "bulgogi pizza",
+      "mention_count": 9
+    },
+    {
+      "label": "tater tot pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "basil mascarpone pizza",
+      "mention_count": 4
+    },
+    {
+      "label": "pumpkin pizza",
+      "mention_count": 4
+    },
+    {
+      "label": "hawaiian pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "food court location",
+      "mention_count": 5
+    },
+    {
+      "label": "half and half pizza",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:00Z",
+  "city": "Los Angeles",
+  "key": "thanks-pizza-los-angele"
+}

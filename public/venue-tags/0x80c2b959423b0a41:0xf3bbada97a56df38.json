@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b959423b0a41:0xf3bbada97a56df38",
+  "venue_name": "Papi Tacos & Churros",
+  "chips": [
+    {
+      "label": "churros",
+      "mention_count": 41
+    },
+    {
+      "label": "birria",
+      "mention_count": 40
+    },
+    {
+      "label": "consome",
+      "mention_count": 17
+    },
+    {
+      "label": "quesatacos",
+      "mention_count": 4
+    },
+    {
+      "label": "birria tacos",
+      "mention_count": 12
+    },
+    {
+      "label": "mulitas",
+      "mention_count": 3
+    },
+    {
+      "label": "keto friendly",
+      "mention_count": 4
+    },
+    {
+      "label": "birria quesadilla",
+      "mention_count": 2
+    },
+    {
+      "label": "nutella",
+      "mention_count": 2
+    },
+    {
+      "label": "dipping sauce",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:06Z",
+  "city": "East LA",
+  "key": "papi-tacos-churros-east-la"
+}

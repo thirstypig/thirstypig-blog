@@ -25,6 +25,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2b959423b0a41:0xf3bbada97a56df38"
 ---
 
 ![Birria tacos and churros](/images/posts/ig-2022-06-09-birria-tacos-and-churros/18213887719145026.jpg)

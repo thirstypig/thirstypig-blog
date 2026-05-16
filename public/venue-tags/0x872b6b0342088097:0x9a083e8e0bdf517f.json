@@ -1,0 +1,49 @@
+{
+  "place_id": "0x872b6b0342088097:0x9a083e8e0bdf517f",
+  "venue_name": "The Spicery In Our 1895 Home",
+  "chips": [
+    {
+      "label": "scones",
+      "mention_count": 15
+    },
+    {
+      "label": "quiche",
+      "mention_count": 24
+    },
+    {
+      "label": "homemade roll",
+      "mention_count": 4
+    },
+    {
+      "label": "baby shower venue",
+      "mention_count": 5
+    },
+    {
+      "label": "high tea",
+      "mention_count": 8
+    },
+    {
+      "label": "chantilly cream",
+      "mention_count": 4
+    },
+    {
+      "label": "lemon curd",
+      "mention_count": 5
+    },
+    {
+      "label": "desserts",
+      "mention_count": 32
+    },
+    {
+      "label": "delicate tea cups",
+      "mention_count": 2
+    },
+    {
+      "label": "duchess tea",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:24Z",
+  "city": "Glendale",
+  "key": "portos-glendale"
+}

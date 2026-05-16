@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ddcd47a2501f:0x9df5097a7cb1d92d",
+  "venue_name": "Yakiya",
+  "chips": [
+    {
+      "label": "unique courses",
+      "mention_count": 13
+    },
+    {
+      "label": "wagyu",
+      "mention_count": 6
+    },
+    {
+      "label": "fine dining",
+      "mention_count": 5
+    },
+    {
+      "label": "yakiniku",
+      "mention_count": 3
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 4
+    },
+    {
+      "label": "caviar",
+      "mention_count": 2
+    },
+    {
+      "label": "omakase",
+      "mention_count": 2
+    },
+    {
+      "label": "wedding banquet",
+      "mention_count": 2
+    },
+    {
+      "label": "pre fix menu",
+      "mention_count": 2
+    },
+    {
+      "label": "liquor menu",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:48Z",
+  "city": "Pasadena",
+  "key": "yakiya-pasadena"
+}

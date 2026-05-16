@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c6488ea39f65:0x1983c63f86206866",
+  "venue_name": "Kushi Shabu Restaurant",
+  "chips": [
+    {
+      "label": "handmade sauces",
+      "mention_count": 2
+    },
+    {
+      "label": "hotpot",
+      "mention_count": 6
+    },
+    {
+      "label": "beef quality",
+      "mention_count": 4
+    },
+    {
+      "label": "dipping sauces",
+      "mention_count": 3
+    },
+    {
+      "label": "peanut sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "Sukiyaki",
+      "mention_count": 2
+    },
+    {
+      "label": "polite staff",
+      "mention_count": 3
+    },
+    {
+      "label": "sesame sauce",
+      "mention_count": 5
+    },
+    {
+      "label": "menu variety",
+      "mention_count": 2
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:02Z",
+  "city": "Los Angeles",
+  "key": "kushi-shabu-restaurant-los-angele"
+}

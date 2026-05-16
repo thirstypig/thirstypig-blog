@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9004f11ed01:0x38489ced83dd9d35",
+  "venue_name": "All' Antico Vinaio",
+  "chips": [
+    {
+      "label": "pistachio cream",
+      "mention_count": 11
+    },
+    {
+      "label": "italian sandwiches",
+      "mention_count": 11
+    },
+    {
+      "label": "mortadella",
+      "mention_count": 6
+    },
+    {
+      "label": "sandwich size",
+      "mention_count": 9
+    },
+    {
+      "label": "spicy eggplant",
+      "mention_count": 3
+    },
+    {
+      "label": "freshly baked bread",
+      "mention_count": 4
+    },
+    {
+      "label": "arugula",
+      "mention_count": 9
+    },
+    {
+      "label": "la paradiso sandwich",
+      "mention_count": 3
+    },
+    {
+      "label": "crunchy bread",
+      "mention_count": 3
+    },
+    {
+      "label": "roast beef",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:04Z",
+  "city": "Los Angeles",
+  "key": "all-antico-vinaio-los-angele"
+}

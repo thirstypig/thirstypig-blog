@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7aadce39f13:0xbd044f5321c9adc0",
+  "venue_name": "L.A. Brisket",
+  "chips": [
+    {
+      "label": "sweet potato fries",
+      "mention_count": 3
+    },
+    {
+      "label": "elote",
+      "mention_count": 2
+    },
+    {
+      "label": "101 sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "slaw",
+      "mention_count": 2
+    },
+    {
+      "label": "burger",
+      "mention_count": 2
+    },
+    {
+      "label": "closed",
+      "mention_count": 3
+    },
+    {
+      "label": "bowls",
+      "mention_count": 8
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 16
+    },
+    {
+      "label": "meat",
+      "mention_count": 2
+    },
+    {
+      "label": "heat",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T22:45:41Z",
+  "city": "Los Angeles",
+  "key": "la-brisket-los-angele"
+}

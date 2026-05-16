@@ -1,0 +1,49 @@
+{
+  "place_id": "0x548f7487ef06ffff:0xb5ed6a0e446dcdc",
+  "venue_name": "Jones Bar-B-Que Victoria",
+  "chips": [
+    {
+      "label": "pulled pork poutine",
+      "mention_count": 52
+    },
+    {
+      "label": "brisket",
+      "mention_count": 168
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 17
+    },
+    {
+      "label": "pork butt",
+      "mention_count": 34
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 42
+    },
+    {
+      "label": "fried chicken",
+      "mention_count": 40
+    },
+    {
+      "label": "ribs",
+      "mention_count": 143
+    },
+    {
+      "label": "pit beans",
+      "mention_count": 19
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 43
+    },
+    {
+      "label": "3 meat platter",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T22:47:32Z",
+  "city": "Victoria",
+  "key": "jones-bar-b-que-victoria-victoria"
+}
