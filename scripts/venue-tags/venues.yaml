@@ -101,12 +101,6 @@
   query: "Sea Harbour Seafood Rosemead CA"
   place_id: "0x80c2da8f651834fd:0x8aa158c3ced53a02"
 
-- key: elite-restaurant-sgv
-  name: "Elite Restaurant"
-  city: Monterey Park
-  query: "Elite Restaurant Monterey Park CA"
-  place_id: "0x80c2cf8aaa72d31f:0x94ee157fd8af2458"
-
 - key: pie-n-burger-pasadena
   name: "Pie 'n Burger"
   city: Pasadena
@@ -343,12 +337,6 @@
   query: "Little Catch Shanghai"
   place_id: "0x35b27aacc8ab837d:0x8a032bc3d12fb567"
   cid: "9944840522192368999"
-
-# [2 posts]
-- key: shanghai-tang-cafe-shanghai
-  name: "Shanghai Tang Cafe"
-  city: "Shanghai"
-  query: "Shanghai Tang Cafe 333 Huang Pi Nan Road"
 
 # [2 posts]
 - key: lisboa-restaurant-shanghai
@@ -739,13 +727,6 @@ Alhambra, CA 91801"
   cid: "16188841389436116350"
 
 # [1 posts]
-- key: mundo-cafe-restaurant-new-york
-  name: "Mundo Cafe & Restaurant"
-  city: "New York"
-  query: "Mundo Cafe & Restaurant New York"
-  cid: "13770102953811356094"
-
-# [1 posts]
 - key: breakfast-gem-in-mammoth-mammoth
   name: "Breakfast Gem in Mammoth"
   city: "Mammoth"
@@ -777,12 +758,6 @@ Gardena, CA 90247"
   query: "鮮定味 長安東路一段67號, 台北市"
   place_id: "0x3442a965a6207b45:0x6cff8cc66a0a011"
   cid: "490884441185493009"
-
-# [1 posts]
-- key: mexican-corn-los-angele
-  name: "Mexican Corn"
-  city: "Los Angeles"
-  query: "Mexican Corn 229 Elizabeth St"
 
 # [1 posts]
 - key: 味ちゃん-1号店-tokyo
@@ -1521,13 +1496,6 @@ Arcadia, CA 91007"
   cid: "10159384991101780421"
 
 # [1 posts]
-- key: farmlab-downtown-l
-  name: "Farmlab"
-  city: "Downtown La"
-  query: "Farmlab 1745 North Spring St"
-  cid: "14748678371647866861"
-
-# [1 posts]
 - key: bacari-w-adams-los-angele
   name: "Bacari W. Adams"
   city: "Los Angeles"
@@ -1612,13 +1580,6 @@ Arcadia, CA 91007"
   query: "BROKEN MOUTH | Lee's Homestyle 718 S Los Angeles St, Los Angeles, CA 90014"
   place_id: "0x80c2c7cb50cbde27:0x657b5b84be1a31ec"
   cid: "7312539045649330668"
-
-# [1 posts]
-- key: 好樣本事-vvg-something-taipei
-  name: "好樣本事 VVG Something"
-  city: "Taipei"
-  query: "好樣本事 VVG Something 忠孝東路四段181巷40弄13號, 台北市"
-  cid: "11000102264327876554"
 
 # [1 posts]
 - key: da-marcos-italian-fare-in-shanghai-shanghai
@@ -1904,12 +1865,6 @@ Los Angeles, CA 90027"
   cid: "17238085437837599375"
 
 # [1 posts]
-- key: tanya-matabei-shanghai
-  name: "Tanya Matabei"
-  city: "Shanghai"
-  query: "Tanya Matabei 581 Fuxing lu (Ruijin lu), 上海市, 上海市, 200000"
-
-# [1 posts]
 - key: chamate-一茶一坐-shanghai
   name: "Chamate (一茶一坐)"
   city: "Shanghai"
@@ -1934,13 +1889,6 @@ Los Angeles, CA 90027"
   cid: "17774800463983825591"
 
 # [1 posts]
-- key: silk-lounge-mpk
-  name: "Silk Lounge"
-  city: "Mpk"
-  query: "Silk Lounge 123 South Lincoln Ave"
-  cid: "12353790477862255651"
-
-# [1 posts]
 - key: studio-du-double-v-taipei
   name: "Studio du Double-V"
   city: "Taipei"
@@ -1955,13 +1903,6 @@ Los Angeles, CA 90027"
   query: "Pete’s Cafe & Bar Downtown Los Angeles"
   place_id: "0x80c2c64a1fa6c435:0x37c9d7d155348147"
   cid: "4019981436482519367"
-
-# [1 posts]
-- key: 伊藤家-itoya-shanghai
-  name: "伊藤家 Itoya"
-  city: "Shanghai"
-  query: "伊藤家 Itoya 381 Middle Huaihai Road"
-  cid: "4156138506608595401"
 
 # [1 posts]
 - key: 蝶园-butterfly-garden-restaurant-shanghai
@@ -2004,13 +1945,6 @@ Los Angeles, CA 90027"
   cid: "1876919019362505748"
 
 # [1 posts]
-- key: 大连银行-shanghai
-  name: "大连银行"
-  city: "Shanghai"
-  query: "大连银行 Changning, 上海市"
-  cid: "6930454257929317394"
-
-# [1 posts]
 - key: an-organic-farm-in-dalian-dalian
   name: "An Organic Farm in Dalian"
   city: "Dalian"
@@ -2027,13 +1961,6 @@ Los Angeles, CA 90027"
   cid: "17478892526045052952"
 
 # === Batch 8: 100 more single-post candidates (2026-04-29) ===
-- key: racks-shanghai
-  name: "Racks"
-  city: "Shanghai"
-  query: "Racks 221 Jinxian Road near Maoming Road"
-  cid: "15788979995488393023"
-
-# [1 posts]
 - key: lounging-in-shanghai-at-the-aparmen-shanghai
   name: "Lounging in Shanghai at The Aparment"
   city: "Shanghai"
@@ -2058,13 +1985,6 @@ Los Angeles, CA 90027"
   cid: "16714037993430720787"
 
 # [1 posts]
-- key: racks-shanghai-shanghai
-  name: "Racks Shanghai"
-  city: "Shanghai"
-  query: "Racks Shanghai 221 Jinxian Road near Maoming Road"
-  cid: "10745874858619455965"
-
-# [1 posts]
 - key: 复兴汇-fuxinghui-shanghai-shanghai
   name: "复兴汇 Fuxinghui Shanghai"
   city: "Shanghai"
@@ -2087,13 +2007,6 @@ Los Angeles, CA 90027"
   query: "Yucca Shanghai"
   place_id: "0x35b270600182933f:0x75c5a3c959588b7d"
   cid: "8486369158032296829"
-
-# [1 posts]
-- key: the-best-damn-nightclub-in-shanghai-shanghai
-  name: "The Best Damn Nightclub in Shanghai"
-  city: "Shanghai"
-  query: "The Best Damn Nightclub in Shanghai 318 Fuzhou Road"
-  cid: "10715408096358829671"
 
 # [1 posts]
 - key: wood-spoon-los-angele
@@ -2158,12 +2071,6 @@ Los Angeles, CA 90027"
   query: "Linus' BBQ (라이너스 바베큐) 용산구 녹사평대로32길 15, 이태원1동, 서울특별시, 서울특별시, 04390"
   place_id: "0x357ca2363085b69b:0x82ed2e235512e839"
   cid: "9434247523697092665"
-
-# [1 posts]
-- key: cafê-marion-crêpes-카페-마리온크레페-seoul
-  name: "CAFÊ MARION CRÊPES (카페 마리온크레페)"
-  city: "Seoul"
-  query: "CAFÊ MARION CRÊPES (카페 마리온크레페) 종로구 재동 12 (북촌점), 가회동, 서울특별시, 서울특별시, 110-250"
 
 # [1 posts]
 - key: nolboo-arcadia
@@ -2310,13 +2217,6 @@ Los Angeles, CA 90027"
   cid: "17016054847556962134"
 
 # [1 posts]
-- key: the-kee-club-shanghai-shanghai
-  name: "The Kee Club Shanghai"
-  city: "Shanghai"
-  query: "The Kee Club Shanghai 上海市, 上海市, 200000"
-  cid: "11153766614036185284"
-
-# [1 posts]
 - key: new-star-seafood-restaurant-新星海鮮酒家--hong-kong
   name: "New Star Seafood Restaurant 新星海鮮酒家 HKG"
   city: "Hong Kong"
@@ -2405,13 +2305,6 @@ Los Angeles, CA 90027"
   cid: "7996331750460511016"
 
 # [1 posts]
-- key: la-finca-庄源-shanghai
-  name: "La Finca 庄源"
-  city: "Shanghai"
-  query: "La Finca 庄源 373 South Huangpi Road"
-  cid: "16232903146078795335"
-
-# [1 posts]
 - key: whampoa-club-weekend-brunch-shanghai
   name: "Whampoa Club Weekend Brunch"
   city: "Shanghai"
@@ -2428,13 +2321,6 @@ Los Angeles, CA 90027"
   cid: "9117785887013107056"
 
 # [1 posts]
-- key: porto-rico-shanghai
-  name: "Porto Rico"
-  city: "Shanghai"
-  query: "Porto Rico 上海市, 上海市"
-  cid: "10362902234526849418"
-
-# [1 posts]
 - key: the-public-shanghai
   name: "The Public"
   city: "Shanghai"
@@ -2449,13 +2335,6 @@ Los Angeles, CA 90027"
   query: "Bikini 47 Yongfu Rd. (at Fuxing Rd. West), 上海市, 上海市, 200031"
   place_id: "0x35b26552e6fa8603:0x23c569bea2bb90ea"
   cid: "2577582629234381034"
-
-# [1 posts]
-- key: ello-amicis-shanghai
-  name: "Ello Amicis"
-  city: "Shanghai"
-  query: "Ello Amicis Shanghai"
-  cid: "10065766089000311157"
 
 # [1 posts]
 - key: southern-cross-南十字星-shanghai
@@ -2504,12 +2383,6 @@ Los Angeles, CA 90027"
   query: "UNIQLO (优衣库) 887 Huaihai M Rd | 淮海中路887号 (Maoming S Rd | 茂名南路), Xīntiāndì, Huangpu, 上海市"
   place_id: "0x35b27009a063fcd3:0xb7d86fa15168146e"
   cid: "13247461042556507246"
-
-# [1 posts]
-- key: guinness-original-launch-party-los-angele
-  name: "Guinness Original Launch Party"
-  city: "Los Angeles"
-  query: "Guinness Original Launch Party 294 Xinhua Road"
 
 # [1 posts]
 - key: king-taco-los-angele
@@ -2774,13 +2647,6 @@ Los Angeles, CA 90027"
   query: "Launderette Austin"
   place_id: "0x8644b44b02e40143:0x358a05fe0dd85bfa"
   cid: "3857902619508366330"
-
-# [1 posts]
-- key: freedmens-bar-austin
-  name: "Freedmen's Bar"
-  city: "Austin"
-  query: "Freedmen's Bar Austin"
-  cid: "13902270027323696704"
 
 # [1 posts]
 - key: lucys-fried-chicken-austin
@@ -3091,10 +2957,6 @@ Los Angeles, CA 90027"
   query: "Eggslut 317 S Broadway, Los Angeles, CA 90013"
   place_id: "0x80c2c64b8f5b0eb9:0x846e0084319313f3"
   cid: "9542565228212065267"
-- key: electric-dusk-drive-in-hollywood
-  name: "Electric Dusk Drive-In"
-  city: "Hollywood"
-  query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
 - key: the-kroft-anaheim
   name: "The Kroft"
   city: "Anaheim"
@@ -3185,10 +3047,6 @@ Los Angeles, CA 90027"
   query: "Ashley's Last Night In NYC New York, NY"
   place_id: "0x89c2f51fa85b1365:0xc314371698b1eed0"
   cid: "14056920907120766672"
-- key: carrie-bradshaws-apartment-from-sex-new-york
-  name: "Carrie Bradshaw's Apartment from Sex & the City"
-  city: "New York"
-  query: "Carrie Bradshaw's Apartment from Sex & the City 66 Perry St (btwn Bleeker & W 4th St), New York, NY 10014"
 - key: the-3rd-burger-tokyo
   name: "the 3rd Burger"
   city: "Tokyo"
