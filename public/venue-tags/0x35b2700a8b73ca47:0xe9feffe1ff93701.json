@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "cocktails",
-      "mention_count": 64
+      "mention_count": 63
     },
     {
       "label": "speakeasy",
@@ -40,10 +40,10 @@
     },
     {
       "label": "crowded",
-      "mention_count": 8
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:22:16Z",
+  "scraped_at": "2026-05-16T05:20:47Z",
   "city": "Shanghai",
   "key": "speak-low-彼楼-shanghai"
 }

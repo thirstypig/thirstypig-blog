@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "kakuni",
-      "mention_count": 83
+      "mention_count": 73
     },
     {
       "label": "pork belly",
@@ -12,19 +12,15 @@
     },
     {
       "label": "restaurant atmosphere",
-      "mention_count": 65
+      "mention_count": 67
     },
     {
       "label": "pork bone soup",
       "mention_count": 48
     },
     {
-      "label": "chashu pork",
-      "mention_count": 22
-    },
-    {
-      "label": "shina soba",
-      "mention_count": 5
+      "label": "braised pork belly",
+      "mention_count": 18
     },
     {
       "label": "large bowl",
@@ -35,6 +31,10 @@
       "mention_count": 8
     },
     {
+      "label": "shina soba",
+      "mention_count": 5
+    },
+    {
       "label": "bankara ramen",
       "mention_count": 16
     },
@@ -43,7 +43,7 @@
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-05T16:13:18Z",
+  "scraped_at": "2026-05-16T05:11:58Z",
   "city": "Bangkok",
   "key": "bankara-ramen-บงคาระ-ราเมง-bangkok"
 }

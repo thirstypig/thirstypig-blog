@@ -1,0 +1,25 @@
+{
+  "place_id": "0x89c259a30c2f5197:0xcb185535b8800f26",
+  "venue_name": "face to face nyc",
+  "chips": [
+    {
+      "label": "thoroughness",
+      "mention_count": 2
+    },
+    {
+      "label": "relaxing atmosphere",
+      "mention_count": 2
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 4
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:40Z",
+  "city": "New York",
+  "key": "face-to-face-nyc-new-york"
+}

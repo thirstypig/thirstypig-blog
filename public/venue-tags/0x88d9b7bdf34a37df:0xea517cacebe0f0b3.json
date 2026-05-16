@@ -20,30 +20,30 @@
     },
     {
       "label": "churrasco",
-      "mention_count": 67
+      "mention_count": 68
     },
     {
       "label": "empanadas",
       "mention_count": 54
     },
     {
-      "label": "attentive waitress",
-      "mention_count": 41
+      "label": "sancocho",
+      "mention_count": 28
     },
     {
-      "label": "sancocho",
-      "mention_count": 26
+      "label": "picadera",
+      "mention_count": 24
     },
     {
       "label": "tostones",
       "mention_count": 12
     },
     {
-      "label": "quipes",
-      "mention_count": 12
+      "label": "staff friendliness",
+      "mention_count": 42
     }
   ],
-  "scraped_at": "2026-05-05T16:11:41Z",
+  "scraped_at": "2026-05-16T05:10:22Z",
   "city": "Shanghai",
   "key": "mi-tierra-shanghai"
 }

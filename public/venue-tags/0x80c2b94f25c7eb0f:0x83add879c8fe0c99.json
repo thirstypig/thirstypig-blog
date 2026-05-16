@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "prime rib",
-      "mention_count": 429
+      "mention_count": 427
     },
     {
       "label": "yorkshire pudding",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:11:50Z",
+  "scraped_at": "2026-05-16T05:10:31Z",
   "city": "Beverly Hills",
   "key": "lawrys-the-prime-rib-beverly-hi"
 }

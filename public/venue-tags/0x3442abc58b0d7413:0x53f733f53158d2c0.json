@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "wonton soup",
-      "mention_count": 35
+      "mention_count": 33
     },
     {
       "label": "dry noodles",
-      "mention_count": 182
+      "mention_count": 181
     },
     {
       "label": "dining environment",
@@ -28,7 +28,7 @@
     },
     {
       "label": "fuzhou dry noodles",
-      "mention_count": 34
+      "mention_count": 33
     },
     {
       "label": "fool's noodles",
@@ -40,10 +40,10 @@
     },
     {
       "label": "pan-fried chicken breast",
-      "mention_count": 19
+      "mention_count": 20
     }
   ],
-  "scraped_at": "2026-05-05T16:24:59Z",
+  "scraped_at": "2026-05-16T05:23:29Z",
   "city": "Taipei",
   "key": "宜品福州乾拌麵-taipei"
 }

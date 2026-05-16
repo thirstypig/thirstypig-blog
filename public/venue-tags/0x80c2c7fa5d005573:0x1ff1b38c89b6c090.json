@@ -3,16 +3,20 @@
   "venue_name": "Tacos 1986",
   "chips": [
     {
+      "label": "carne asada",
+      "mention_count": 56
+    },
+    {
       "label": "adobada tacos",
       "mention_count": 39
     },
     {
-      "label": "mushroom tacos",
-      "mention_count": 31
-    },
-    {
       "label": "busy atmosphere",
       "mention_count": 6
+    },
+    {
+      "label": "mushroom tacos",
+      "mention_count": 31
     },
     {
       "label": "al pastor",
@@ -23,27 +27,23 @@
       "mention_count": 16
     },
     {
-      "label": "vampiro",
-      "mention_count": 10
-    },
-    {
       "label": "standing room only",
       "mention_count": 10
     },
     {
-      "label": "carne asada tacos",
-      "mention_count": 18
-    },
-    {
-      "label": "mulitas",
-      "mention_count": 8
+      "label": "vampiro",
+      "mention_count": 10
     },
     {
       "label": "fresh tortillas",
       "mention_count": 9
+    },
+    {
+      "label": "horchata",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:41:00Z",
+  "scraped_at": "2026-05-16T05:38:35Z",
   "city": "Los Angeles",
   "key": "tacos-1986-los-angele"
 }

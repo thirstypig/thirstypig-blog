@@ -4,15 +4,11 @@
   "chips": [
     {
       "label": "craft beer",
-      "mention_count": 12
+      "mention_count": 11
     },
     {
       "label": "sweet potato fries",
       "mention_count": 2
-    },
-    {
-      "label": "outdoor seating",
-      "mention_count": 3
     },
     {
       "label": "gumbo",
@@ -35,15 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "salad",
+      "label": "outdoor seating",
       "mention_count": 2
     },
     {
       "label": "brewing",
       "mention_count": 4
+    },
+    {
+      "label": "food menu",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:35:46Z",
+  "scraped_at": "2026-05-16T05:33:46Z",
   "city": "Shanghai",
   "key": "boxing-cat-brewery-拳击猫餐厅-shanghai"
 }

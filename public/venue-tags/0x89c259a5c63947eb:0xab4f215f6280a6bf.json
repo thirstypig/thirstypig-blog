@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259a5c63947eb:0xab4f215f6280a6bf",
+  "venue_name": "Bazár Tapas Bar and Restaurant",
+  "chips": [
+    {
+      "label": "wild mushroom croquettes",
+      "mention_count": 18
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 20
+    },
+    {
+      "label": "live music",
+      "mention_count": 15
+    },
+    {
+      "label": "crab cake",
+      "mention_count": 16
+    },
+    {
+      "label": "steak bites",
+      "mention_count": 15
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 29
+    },
+    {
+      "label": "lamb chops",
+      "mention_count": 15
+    },
+    {
+      "label": "oysters",
+      "mention_count": 22
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 13
+    },
+    {
+      "label": "brussel sprouts",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T05:46:06Z",
+  "city": "New York",
+  "key": "bazar-tapas-bar-and-restaurant-new-york"
+}

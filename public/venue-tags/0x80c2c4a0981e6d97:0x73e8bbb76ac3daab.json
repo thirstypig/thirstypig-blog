@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "cash only",
-      "mention_count": 107
+      "mention_count": 106
     },
     {
       "label": "pie",
-      "mention_count": 217
+      "mention_count": 215
     },
     {
       "label": "counter seating",
@@ -31,19 +31,19 @@
       "mention_count": 20
     },
     {
+      "label": "strawberry pie",
+      "mention_count": 19
+    },
+    {
       "label": "pecan pie",
       "mention_count": 13
     },
     {
-      "label": "lemon meringue pie",
-      "mention_count": 12
-    },
-    {
-      "label": "chili cheese fries",
-      "mention_count": 15
+      "label": "cherry pie",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-05T16:08:02Z",
+  "scraped_at": "2026-05-16T05:06:43Z",
   "city": "Pasadena",
   "key": "pie-n-burger-pasadena"
 }

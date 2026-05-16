@@ -7,12 +7,12 @@
       "mention_count": 8
     },
     {
-      "label": "beef noodle soup",
-      "mention_count": 17
-    },
-    {
       "label": "mochi pancake",
       "mention_count": 16
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 17
     },
     {
       "label": "hash browns",
@@ -23,27 +23,27 @@
       "mention_count": 12
     },
     {
-      "label": "Smoked Salmon Hash",
-      "mention_count": 5
-    },
-    {
       "label": "hanger steak",
       "mention_count": 7
+    },
+    {
+      "label": "salmon hash",
+      "mention_count": 5
     },
     {
       "label": "kale salad",
       "mention_count": 5
     },
     {
-      "label": "prawn ceviche",
-      "mention_count": 4
+      "label": "soft serve",
+      "mention_count": 7
     },
     {
       "label": "chimichurri sauce",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:08:05Z",
+  "scraped_at": "2026-05-16T05:06:46Z",
   "city": "Alhambra",
   "key": "yangs-kitchen-alhambra"
 }

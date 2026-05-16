@@ -1,6 +1,6 @@
 {
   "place_id": "0x8620a6eadfd79db5:0x373e233220431034",
-  "venue_name": "Google Maps",
+  "venue_name": "Big EZ Seafood",
   "chips": [
     {
       "label": "crawfish",
@@ -13,10 +13,6 @@
     {
       "label": "poboys",
       "mention_count": 68
-    },
-    {
-      "label": "garlic butter sauce",
-      "mention_count": 11
     },
     {
       "label": "yakamein",
@@ -41,9 +37,13 @@
     {
       "label": "boiled seafood",
       "mention_count": 11
+    },
+    {
+      "label": "shrimp poboy",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:40:45Z",
+  "scraped_at": "2026-05-16T05:38:27Z",
   "city": "New Orleans",
   "key": "big-ez-seafood-new-orlean"
 }

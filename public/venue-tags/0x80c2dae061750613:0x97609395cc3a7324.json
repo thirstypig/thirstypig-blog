@@ -7,12 +7,16 @@
       "mention_count": 69
     },
     {
-      "label": "Teuk Galbi Tang",
-      "mention_count": 20
+      "label": "braised beef",
+      "mention_count": 26
     },
     {
       "label": "ribs",
       "mention_count": 55
+    },
+    {
+      "label": "Teuk Galbi Tang",
+      "mention_count": 20
     },
     {
       "label": "oxtail",
@@ -27,8 +31,8 @@
       "mention_count": 11
     },
     {
-      "label": "braised beef",
-      "mention_count": 6
+      "label": "banchan",
+      "mention_count": 14
     },
     {
       "label": "purple rice",
@@ -37,13 +41,9 @@
     {
       "label": "beef soup",
       "mention_count": 8
-    },
-    {
-      "label": "yuk gae jang",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:15:39Z",
+  "scraped_at": "2026-05-16T05:44:49Z",
   "city": "San Gabriel Valley",
-  "key": "seoul-food-in-san-gabriel-valley-san-gabrie"
+  "key": "sun-nong-dan-san-gabrie"
 }

@@ -3,6 +3,10 @@
   "venue_name": "Robin's Woodfire BBQ",
   "chips": [
     {
+      "label": "beef ribs",
+      "mention_count": 44
+    },
+    {
       "label": "corn bread",
       "mention_count": 30
     },
@@ -23,10 +27,6 @@
       "mention_count": 10
     },
     {
-      "label": "Beef Ribs",
-      "mention_count": 44
-    },
-    {
       "label": "huge portions",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:23:12Z",
+  "scraped_at": "2026-05-16T05:21:43Z",
   "city": "Pasadena",
   "key": "robins-woodfire-bbq-of-pasadena-pasadena"
 }

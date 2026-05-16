@@ -26,6 +26,7 @@ originalUrl: 'http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/
 archiveUrl: 'https://web.archive.org/web/20110105063918/http://www.thethirstypig.com/2009/03/02/ass-kicking-ramen-orochon/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80c2c6488ea39f65:0x2d2ded446790e856"
 ---
 
 On the subject of Ramen . . . I thought I’d talk about a Orochon!

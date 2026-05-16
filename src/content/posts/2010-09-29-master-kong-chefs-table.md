@@ -30,6 +30,7 @@ coordinates:
   lng: 121.398568
 cuisine:
 - Chinese
+placeId: "0x36637afca113c711:0x7b696e31f428383f"
 ---
 
 I was going to say that I don’t usually do fast food joints, but on reflection – I have In-N-Out and Tommy’s, so doing Master Kong’s was not a stretch. This noodle chain, specializes in beef soup noodles.

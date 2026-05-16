@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2590175840815:0x4e8f69c3d9030d35",
+  "venue_name": "THE WELL New York",
+  "chips": [
+    {
+      "label": "sauna",
+      "mention_count": 36
+    },
+    {
+      "label": "yoga class",
+      "mention_count": 16
+    },
+    {
+      "label": "foot massage",
+      "mention_count": 6
+    },
+    {
+      "label": "cupping",
+      "mention_count": 4
+    },
+    {
+      "label": "spa",
+      "mention_count": 33
+    },
+    {
+      "label": "locker room",
+      "mention_count": 12
+    },
+    {
+      "label": "bone broth",
+      "mention_count": 6
+    },
+    {
+      "label": "healthy food",
+      "mention_count": 12
+    },
+    {
+      "label": "welcoming staff",
+      "mention_count": 7
+    },
+    {
+      "label": "cafe",
+      "mention_count": 10
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:13Z",
+  "city": "New York",
+  "key": "the-well-new-york"
+}

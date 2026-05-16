@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b9305a1a8653:0x505fc0afd1360a55",
+  "venue_name": "Du-Pars | Restaurant and Bakery",
+  "chips": [
+    {
+      "label": "pancakes",
+      "mention_count": 583
+    },
+    {
+      "label": "pies",
+      "mention_count": 65
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 21
+    },
+    {
+      "label": "blueberry pancakes",
+      "mention_count": 22
+    },
+    {
+      "label": "blue plate specials",
+      "mention_count": 13
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 4
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 28
+    },
+    {
+      "label": "monte cristo",
+      "mention_count": 12
+    },
+    {
+      "label": "tuna melt",
+      "mention_count": 10
+    },
+    {
+      "label": "eggs benedict",
+      "mention_count": 32
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:29Z",
+  "city": "Los Angeles",
+  "key": "du-pars-los-angele"
+}

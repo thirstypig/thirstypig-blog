@@ -30,6 +30,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
 ![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17918051288421128.jpg)

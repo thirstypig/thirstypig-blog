@@ -7,12 +7,12 @@
       "mention_count": 26
     },
     {
-      "label": "cinnamon rolls",
-      "mention_count": 11
-    },
-    {
       "label": "cash only",
       "mention_count": 13
+    },
+    {
+      "label": "cinnamon rolls",
+      "mention_count": 11
     },
     {
       "label": "machaca",
@@ -21,6 +21,10 @@
     {
       "label": "chorizo burrito",
       "mention_count": 7
+    },
+    {
+      "label": "Crab Cake Benedict",
+      "mention_count": 4
     },
     {
       "label": "huevos rancheros",
@@ -35,15 +39,11 @@
       "mention_count": 6
     },
     {
-      "label": "crab cake benedict",
-      "mention_count": 4
-    },
-    {
       "label": "biscuits and gravy",
       "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-05T16:14:29Z",
+  "scraped_at": "2026-05-16T05:13:05Z",
   "city": "Mammoth",
   "key": "breakfast-gem-in-mammoth-mammoth"
 }

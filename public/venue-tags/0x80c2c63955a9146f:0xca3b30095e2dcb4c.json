@@ -15,16 +15,20 @@
       "mention_count": 79
     },
     {
-      "label": "happy hour",
-      "mention_count": 3
-    },
-    {
       "label": "tater tots",
       "mention_count": 28
     },
     {
       "label": "ipas",
       "mention_count": 49
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 3
+    },
+    {
+      "label": "photo booth",
+      "mention_count": 11
     },
     {
       "label": "sour beer",
@@ -36,14 +40,10 @@
     },
     {
       "label": "crowded",
-      "mention_count": 52
-    },
-    {
-      "label": "dog friendly",
-      "mention_count": 14
+      "mention_count": 51
     }
   ],
-  "scraped_at": "2026-05-05T16:12:17Z",
+  "scraped_at": "2026-05-16T05:10:58Z",
   "city": "Downtown LA",
   "key": "arts-district-brewing-company-downtown-l"
 }

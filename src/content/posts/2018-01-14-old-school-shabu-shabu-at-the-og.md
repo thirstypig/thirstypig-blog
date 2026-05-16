@@ -24,6 +24,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x60188cd64ef23de3:0xce89afb6076f3136"
 ---
 
 ![Old school Shabu Shabu at the OG](/images/posts/ig-2018-01-14-old-school-shabu-shabu-at-the-og/17919581821025252.jpg)

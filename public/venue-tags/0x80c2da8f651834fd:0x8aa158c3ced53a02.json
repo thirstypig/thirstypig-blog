@@ -7,8 +7,8 @@
       "mention_count": 291
     },
     {
-      "label": "har gow",
-      "mention_count": 20
+      "label": "shrimp dumplings",
+      "mention_count": 30
     },
     {
       "label": "shumai",
@@ -32,18 +32,18 @@
     },
     {
       "label": "hong kong style dim sum",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "label": "black truffle siu mai",
       "mention_count": 4
     },
     {
-      "label": "no carts",
-      "mention_count": 7
+      "label": "wait time",
+      "mention_count": 63
     }
   ],
-  "scraped_at": "2026-05-05T16:07:42Z",
+  "scraped_at": "2026-05-16T05:06:23Z",
   "city": "Rosemead",
   "key": "sea-harbour-sgv"
 }

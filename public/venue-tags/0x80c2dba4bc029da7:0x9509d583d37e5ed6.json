@@ -7,24 +7,16 @@
       "mention_count": 23
     },
     {
-      "label": "green onion pancake",
-      "mention_count": 18
-    },
-    {
       "label": "beef noodle soup",
       "mention_count": 12
     },
     {
-      "label": "Beef Roll Pancake",
-      "mention_count": 6
+      "label": "Green Onion Pancake",
+      "mention_count": 16
     },
     {
       "label": "chili oil",
       "mention_count": 7
-    },
-    {
-      "label": "Chicken Dumpling 10",
-      "mention_count": 6
     },
     {
       "label": "juicy pork dumplings",
@@ -41,9 +33,17 @@
     {
       "label": "dumpling skin",
       "mention_count": 3
+    },
+    {
+      "label": "pork wontons in spicy sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 23
     }
   ],
-  "scraped_at": "2026-05-05T16:13:48Z",
+  "scraped_at": "2026-05-16T05:12:24Z",
   "city": "Arcadia",
   "key": "magic-dumplings-arcadia"
 }

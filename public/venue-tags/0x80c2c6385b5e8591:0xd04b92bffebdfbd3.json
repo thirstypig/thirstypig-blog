@@ -7,10 +7,6 @@
       "mention_count": 78
     },
     {
-      "label": "Matcha Soft Serve Ice Cream",
-      "mention_count": 67
-    },
-    {
       "label": "outdoor seating",
       "mention_count": 13
     },
@@ -24,7 +20,7 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 52
+      "mention_count": 54
     },
     {
       "label": "tofu donuts",
@@ -35,15 +31,19 @@
       "mention_count": 4
     },
     {
-      "label": "authentic matcha",
-      "mention_count": 3
-    },
-    {
       "label": "smoothie",
       "mention_count": 18
+    },
+    {
+      "label": "extra matcha powder",
+      "mention_count": 2
+    },
+    {
+      "label": "green tea",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:12:03Z",
+  "scraped_at": "2026-05-16T05:10:44Z",
   "city": "Downtown LA",
   "key": "tea-master-matcha-cafe-and-green-te-downtown-l"
 }

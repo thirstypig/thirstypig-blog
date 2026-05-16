@@ -21,6 +21,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
 ![Galbi Tang](/images/posts/ig-2018-02-19-galbi-tang/17927925121031855.jpg)

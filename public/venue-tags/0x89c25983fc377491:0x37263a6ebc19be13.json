@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25983fc377491:0x37263a6ebc19be13",
+  "venue_name": "Momofuku Noodle Bar",
+  "chips": [
+    {
+      "label": "garlic chicken ramen",
+      "mention_count": 43
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 30
+    },
+    {
+      "label": "bao",
+      "mention_count": 78
+    },
+    {
+      "label": "shrimp buns",
+      "mention_count": 39
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 76
+    },
+    {
+      "label": "brisket",
+      "mention_count": 51
+    },
+    {
+      "label": "mushroom ramen",
+      "mention_count": 30
+    },
+    {
+      "label": "smoked pork ramen",
+      "mention_count": 54
+    },
+    {
+      "label": "shiitake buns",
+      "mention_count": 11
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 51
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:45Z",
+  "city": "New York",
+  "key": "momofuku-noodle-bar-new-york"
+}

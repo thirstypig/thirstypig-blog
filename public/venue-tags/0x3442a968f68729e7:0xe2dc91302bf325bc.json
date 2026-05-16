@@ -15,12 +15,12 @@
       "mention_count": 80
     },
     {
-      "label": "xishi pao fan",
-      "mention_count": 116
+      "label": "king crab",
+      "mention_count": 48
     },
     {
-      "label": "king crab",
-      "mention_count": 47
+      "label": "two-course roast duck",
+      "mention_count": 32
     },
     {
       "label": "shredded radish pastry",
@@ -31,19 +31,19 @@
       "mention_count": 13
     },
     {
+      "label": "crispy roasted pork",
+      "mention_count": 32
+    },
+    {
       "label": "michelin plate recommendation",
       "mention_count": 40
     },
     {
       "label": "char siu",
-      "mention_count": 105
-    },
-    {
-      "label": "crispy roasted pork",
-      "mention_count": 35
+      "mention_count": 106
     }
   ],
-  "scraped_at": "2026-05-05T16:22:49Z",
+  "scraped_at": "2026-05-16T05:21:20Z",
   "city": "Taipei",
   "key": "晶華軒-silks-house-taipei"
 }

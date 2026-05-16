@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25a30c9da3783:0x8d7f4ba817ec34f6",
+  "venue_name": "Grimaldi's Pizzeria",
+  "chips": [
+    {
+      "label": "ny pizza",
+      "mention_count": 116
+    },
+    {
+      "label": "brick oven pizza",
+      "mention_count": 78
+    },
+    {
+      "label": "frank sinatra music",
+      "mention_count": 20
+    },
+    {
+      "label": "Brooklyn Bridge Pizza",
+      "mention_count": 103
+    },
+    {
+      "label": "cash only",
+      "mention_count": 78
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 7
+    },
+    {
+      "label": "fresh mozzarella",
+      "mention_count": 77
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 14
+    },
+    {
+      "label": "margherita pizza",
+      "mention_count": 137
+    },
+    {
+      "label": "outdoor dining",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:57Z",
+  "city": "Manhattan",
+  "key": "pizza-near-the-manhattan-bridge-nea-manhattan"
+}

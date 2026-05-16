@@ -20,6 +20,7 @@ region: Shanghai
 address: 3 Zhongshan Dongyi Road
 cuisine:
 - Chinese
+placeId: "0x31da19d78f9982ff:0x6dd98ae22cff8bb0"
 ---
 
 

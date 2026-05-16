@@ -22,6 +22,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2d906d7d537e3:0xb3eb8659a58aa6bd"
 ---
 
 ![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg)

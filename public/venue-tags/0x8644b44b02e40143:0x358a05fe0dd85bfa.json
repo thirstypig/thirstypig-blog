@@ -12,7 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 86
+      "mention_count": 88
     },
     {
       "label": "brussel sprouts",
@@ -43,7 +43,7 @@
       "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-05T16:40:12Z",
+  "scraped_at": "2026-05-16T05:37:57Z",
   "city": "Austin",
   "key": "launderette-austin"
 }

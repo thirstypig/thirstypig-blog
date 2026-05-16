@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dce7fbff271273:0xd4ac4f2f3da64060",
+  "venue_name": "The Melt",
+  "chips": [
+    {
+      "label": "patty melt",
+      "mention_count": 23
+    },
+    {
+      "label": "grilled cheese",
+      "mention_count": 81
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 8
+    },
+    {
+      "label": "garlic parmesan fries",
+      "mention_count": 19
+    },
+    {
+      "label": "bbq bacon burger",
+      "mention_count": 9
+    },
+    {
+      "label": "friendly employees",
+      "mention_count": 29
+    },
+    {
+      "label": "spicy mission burger",
+      "mention_count": 6
+    },
+    {
+      "label": "friendly cashier",
+      "mention_count": 10
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 68
+    },
+    {
+      "label": "mushroom swiss burger",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:46:17Z",
+  "city": "Irvine",
+  "key": "the-melt-irvine"
+}

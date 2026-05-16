@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620ae55de305385:0x7182bc12ac388c23",
+  "venue_name": "The Blue Crab Restaurant and Oyster Bar",
+  "chips": [
+    {
+      "label": "oysters",
+      "mention_count": 298
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 64
+    },
+    {
+      "label": "live music",
+      "mention_count": 134
+    },
+    {
+      "label": "chargrilled oysters",
+      "mention_count": 48
+    },
+    {
+      "label": "crab cakes",
+      "mention_count": 49
+    },
+    {
+      "label": "sunset views",
+      "mention_count": 44
+    },
+    {
+      "label": "crab dip",
+      "mention_count": 47
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 90
+    },
+    {
+      "label": "BBQ Shrimp and Grits",
+      "mention_count": 25
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 60
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:31Z",
+  "city": "New Orleans",
+  "key": "blackened-catfish-and-blue-crab-new-orlean"
+}

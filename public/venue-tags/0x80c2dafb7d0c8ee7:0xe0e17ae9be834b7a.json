@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dafb7d0c8ee7:0xe0e17ae9be834b7a",
+  "venue_name": "JJ Bakery & Cafe - Temple City",
+  "chips": [
+    {
+      "label": "Chinese Dough Sticks",
+      "mention_count": 4
+    },
+    {
+      "label": "bento",
+      "mention_count": 10
+    },
+    {
+      "label": "mango mousse cake",
+      "mention_count": 3
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 3
+    },
+    {
+      "label": "taiwanese food",
+      "mention_count": 12
+    },
+    {
+      "label": "creme brullee",
+      "mention_count": 2
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 2
+    },
+    {
+      "label": "strawberry cake",
+      "mention_count": 2
+    },
+    {
+      "label": "baos",
+      "mention_count": 3
+    },
+    {
+      "label": "fresh bread",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:03Z",
+  "city": "San Gabriel",
+  "key": "jj-bakery-cafe-san-gabrie"
+}

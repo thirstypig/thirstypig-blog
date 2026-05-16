@@ -31,19 +31,19 @@
       "mention_count": 6
     },
     {
-      "label": "short ribs",
-      "mention_count": 7
-    },
-    {
       "label": "sweet potato pie",
       "mention_count": 5
     },
     {
       "label": "baked chicken",
       "mention_count": 9
+    },
+    {
+      "label": "no restroom",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:34:53Z",
+  "scraped_at": "2026-05-16T05:33:08Z",
   "city": "Hong Kong",
   "key": "the-deep-fried-pork-chop-at-delicio-hong-kong"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "chocolate chip cookies",
-      "mention_count": 103
+      "mention_count": 102
     },
     {
       "label": "cinnamon roll",
@@ -32,7 +32,7 @@
     },
     {
       "label": "ice cream",
-      "mention_count": 68
+      "mention_count": 70
     },
     {
       "label": "croissants",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:39:42Z",
+  "scraped_at": "2026-05-16T05:37:27Z",
   "city": "Austin",
   "key": "austins-cookie-delivery-austin"
 }

@@ -7,16 +7,20 @@
       "mention_count": 11
     },
     {
-      "label": "pork belly buns",
+      "label": "pork belly",
       "mention_count": 23
     },
     {
       "label": "outdoor seating",
-      "mention_count": 8
+      "mention_count": 10
     },
     {
       "label": "brussel sprouts",
       "mention_count": 24
+    },
+    {
+      "label": "pork belly buns",
+      "mention_count": 11
     },
     {
       "label": "chicken karage",
@@ -37,13 +41,9 @@
     {
       "label": "food truck",
       "mention_count": 16
-    },
-    {
-      "label": "avocado buns",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:39:34Z",
+  "scraped_at": "2026-05-16T05:37:19Z",
   "city": "Austin",
   "key": "east-side-king-austin"
 }

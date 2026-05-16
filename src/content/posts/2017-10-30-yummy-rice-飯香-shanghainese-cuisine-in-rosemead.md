@@ -30,6 +30,7 @@ coordinates:
   lng: -118.07123
 cuisine:
 - Chinese
+placeId: "0x80c2da838cf5b3e7:0xaeb8443885b8ed6e"
 ---
 
 ![Yummy Rice 飯香 - Shanghainese cuisine in Rosemead](/images/posts/ig-2017-10-30-yummy-rice-飯香-shanghainese-cuisine-in-rosemead/17893210189114533.jpg)

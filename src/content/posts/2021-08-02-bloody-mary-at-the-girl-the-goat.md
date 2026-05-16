@@ -27,6 +27,7 @@ categories:
 city: Chicago
 cuisine:
 - Fusion
+placeId: "0x80c2c757501d5a5d:0x7652aeb4ecd9ad7b"
 ---
 
 ![Bloody Mary at The Girl & the Goat](/images/posts/ig-2021-08-02-bloody-mary-at-the-girl-the-goat/17910115705958074.jpg)

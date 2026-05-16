@@ -26,6 +26,7 @@ categories:
 region: Louisiana
 cuisine:
 - Cajun
+placeId: "0x8620a66e11c039bd:0x20474894d0e80ea8"
 ---
 
 ![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862310810191444.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2599371d90113:0x93a1212483085df3",
+  "venue_name": "Buvette",
+  "chips": [
+    {
+      "label": "croque madame",
+      "mention_count": 153
+    },
+    {
+      "label": "small plates",
+      "mention_count": 58
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 76
+    },
+    {
+      "label": "belgian waffle",
+      "mention_count": 43
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 44
+    },
+    {
+      "label": "almond croissant",
+      "mention_count": 49
+    },
+    {
+      "label": "french toast",
+      "mention_count": 87
+    },
+    {
+      "label": "people watching",
+      "mention_count": 6
+    },
+    {
+      "label": "saumon fume",
+      "mention_count": 33
+    },
+    {
+      "label": "Coq Au Vin",
+      "mention_count": 38
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:54Z",
+  "city": "New York",
+  "key": "buvette-new-york"
+}

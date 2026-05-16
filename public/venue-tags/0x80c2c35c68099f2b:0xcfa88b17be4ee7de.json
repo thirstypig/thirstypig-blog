@@ -27,10 +27,6 @@
       "mention_count": 7
     },
     {
-      "label": "chicken salad",
-      "mention_count": 12
-    },
-    {
       "label": "potato chips",
       "mention_count": 20
     },
@@ -39,11 +35,15 @@
       "mention_count": 3
     },
     {
+      "label": "chicken salad",
+      "mention_count": 12
+    },
+    {
       "label": "sweet potato fries",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:15:11Z",
+  "scraped_at": "2026-05-16T05:13:47Z",
   "city": "Pasadena",
   "key": "the-famous-pasadena-salad-pasadena"
 }

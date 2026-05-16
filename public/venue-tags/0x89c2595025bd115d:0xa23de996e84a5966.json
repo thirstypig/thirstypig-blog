@@ -1,0 +1,13 @@
+{
+  "place_id": "0x89c2595025bd115d:0xa23de996e84a5966",
+  "venue_name": "Matto Espresso at NYU Stern (NYU STERN BUILDING ACCESS REQUIRED)",
+  "chips": [
+    {
+      "label": "baristas",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:33:14Z",
+  "city": "New York",
+  "key": "mapi-espresso-sandwich-bar-new-york"
+}

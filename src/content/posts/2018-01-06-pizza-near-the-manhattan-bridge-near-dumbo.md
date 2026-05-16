@@ -21,6 +21,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x89c25a30c9da3783:0x8d7f4ba817ec34f6"
 ---
 
 ![Pizza near the Manhattan Bridge near DUMBO](/images/posts/ig-2018-01-06-pizza-near-the-manhattan-bridge-near-dumbo/17889135397162611.jpg)

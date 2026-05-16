@@ -28,6 +28,7 @@ categories:
 - Cuban
 cuisine:
 - Cuban
+placeId: "0x89c25985f1a1033d:0xe9b438926dac6513"
 ---
 
 ![The Cuban sandwich Also consumed Mexican Corn and Chicken Noodle Soup](/images/posts/ig-2018-01-08-the-cuban-sandwich-also-consumed-mexican-corn-and-chicken-no/17917901497057284.jpg)

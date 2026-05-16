@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pork liver",
-      "mention_count": 128
+      "mention_count": 127
     },
     {
       "label": "preserved radish omelette",
@@ -12,7 +12,7 @@
     },
     {
       "label": "dining environment",
-      "mention_count": 38
+      "mention_count": 39
     },
     {
       "label": "sweet potato porridge",
@@ -27,12 +27,12 @@
       "mention_count": 37
     },
     {
-      "label": "buddha jumps over the wall",
-      "mention_count": 17
-    },
-    {
       "label": "mullet roe fried rice",
       "mention_count": 11
+    },
+    {
+      "label": "buddha jumps over the wall",
+      "mention_count": 17
     },
     {
       "label": "braised pork belly",
@@ -43,7 +43,7 @@
       "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-05T16:12:50Z",
+  "scraped_at": "2026-05-16T05:11:31Z",
   "city": "Taipei",
   "key": "shin-yeh-taiwanese-cuisine-欣葉-taipei"
 }

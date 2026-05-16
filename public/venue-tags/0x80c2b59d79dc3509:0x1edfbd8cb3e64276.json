@@ -15,20 +15,24 @@
       "mention_count": 4
     },
     {
-      "label": "customizable ramen",
-      "mention_count": 7
+      "label": "curry rice",
+      "mention_count": 4
     },
     {
-      "label": "karage",
-      "mention_count": 9
+      "label": "customizable ramen",
+      "mention_count": 7
     },
     {
       "label": "bar seating",
       "mention_count": 5
     },
     {
+      "label": "karage",
+      "mention_count": 9
+    },
+    {
       "label": "wait time",
-      "mention_count": 44
+      "mention_count": 43
     },
     {
       "label": "fried calamari",
@@ -36,14 +40,10 @@
     },
     {
       "label": "favorite ramen house",
-      "mention_count": 21
-    },
-    {
-      "label": "eel bowl",
-      "mention_count": 2
+      "mention_count": 22
     }
   ],
-  "scraped_at": "2026-05-05T16:14:32Z",
+  "scraped_at": "2026-05-16T05:13:08Z",
   "city": "Torrance",
   "key": "shinsen-gumi-ramen-torrance"
 }

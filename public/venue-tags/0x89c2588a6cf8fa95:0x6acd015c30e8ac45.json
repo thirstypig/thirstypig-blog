@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2588a6cf8fa95:0x6acd015c30e8ac45",
+  "venue_name": "Gray's Papaya",
+  "chips": [
+    {
+      "label": "no seating",
+      "mention_count": 11
+    },
+    {
+      "label": "sauerkraut",
+      "mention_count": 85
+    },
+    {
+      "label": "cash only",
+      "mention_count": 45
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 6
+    },
+    {
+      "label": "juices",
+      "mention_count": 138
+    },
+    {
+      "label": "milkshakes",
+      "mention_count": 50
+    },
+    {
+      "label": "banana daiquiri",
+      "mention_count": 13
+    },
+    {
+      "label": "grilled hot dogs",
+      "mention_count": 11
+    },
+    {
+      "label": "chili",
+      "mention_count": 77
+    },
+    {
+      "label": "affordability",
+      "mention_count": 24
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:33Z",
+  "city": "New York",
+  "key": "grays-papaya-new-york"
+}

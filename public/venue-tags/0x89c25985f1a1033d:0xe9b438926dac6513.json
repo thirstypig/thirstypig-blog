@@ -3,47 +3,47 @@
   "venue_name": "Café Habana",
   "chips": [
     {
-      "label": "huevos rancheros",
-      "mention_count": 24
+      "label": "elote",
+      "mention_count": 57
     },
     {
       "label": "people watching",
       "mention_count": 6
     },
     {
-      "label": "grilled corn",
-      "mention_count": 24
-    },
-    {
-      "label": "pork taco",
-      "mention_count": 16
+      "label": "huevos rancheros",
+      "mention_count": 23
     },
     {
       "label": "happy hour",
       "mention_count": 21
     },
     {
-      "label": "burritos",
-      "mention_count": 54
+      "label": "shrimp tacos",
+      "mention_count": 12
+    },
+    {
+      "label": "corn",
+      "mention_count": 410
     },
     {
       "label": "outdoor seating",
       "mention_count": 14
     },
     {
-      "label": "street corn",
-      "mention_count": 15
+      "label": "corn on the cob",
+      "mention_count": 8
     },
     {
-      "label": "shrimp tacos",
-      "mention_count": 12
+      "label": "carajillos",
+      "mention_count": 5
     },
     {
-      "label": "eggs with chorizo",
-      "mention_count": 7
+      "label": "grilled corn",
+      "mention_count": 25
     }
   ],
-  "scraped_at": "2026-05-05T16:40:53Z",
+  "scraped_at": "2026-05-16T05:38:30Z",
   "city": "New York",
   "key": "café-habana-new-york"
 }

@@ -24,6 +24,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x89c25a2343ce7b2b:0x2526ddba7abd465c"
 ---
 
 ![Freezing at the Brooklyn Bridge](/images/posts/ig-2017-12-30-freezing-at-the-brooklyn-bridge/17890870741132893.jpg)

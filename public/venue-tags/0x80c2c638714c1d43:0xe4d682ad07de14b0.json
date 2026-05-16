@@ -3,20 +3,16 @@
   "venue_name": "Shin-Sen-Gumi Hakata Ramen - Little Tokyo",
   "chips": [
     {
+      "label": "Spam Musubi",
+      "mention_count": 9
+    },
+    {
       "label": "takoyaki",
       "mention_count": 17
     },
     {
-      "label": "Hakata Ramen with Soft Boiled Egg and Extra Chashu",
-      "mention_count": 6
-    },
-    {
       "label": "outdoor seating",
       "mention_count": 6
-    },
-    {
-      "label": "Spam Musubi",
-      "mention_count": 9
     },
     {
       "label": "pork broth",
@@ -27,6 +23,10 @@
       "mention_count": 12
     },
     {
+      "label": "spicy ramen",
+      "mention_count": 8
+    },
+    {
       "label": "pork belly",
       "mention_count": 13
     },
@@ -35,15 +35,15 @@
       "mention_count": 3
     },
     {
-      "label": "long lines",
-      "mention_count": 11
+      "label": "Large Beef Bowl",
+      "mention_count": 4
     },
     {
-      "label": "wait time",
-      "mention_count": 40
+      "label": "long lines",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-05T16:13:57Z",
+  "scraped_at": "2026-05-16T05:12:32Z",
   "city": "Little Tokyo",
   "key": "shin-sen-gumi-hakata-ramen-little-t-little-tok"
 }

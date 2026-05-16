@@ -8,7 +8,7 @@
     },
     {
       "label": "pineapple cake",
-      "mention_count": 24
+      "mention_count": 27
     },
     {
       "label": "cream puff",
@@ -31,19 +31,19 @@
       "mention_count": 11
     },
     {
-      "label": "pineapple bun",
-      "mention_count": 3
-    },
-    {
       "label": "green onion bread",
       "mention_count": 3
     },
     {
       "label": "hash brown bread",
       "mention_count": 3
+    },
+    {
+      "label": "variety of flavors",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:09:40Z",
+  "scraped_at": "2026-05-16T05:08:21Z",
   "city": "Taipei",
   "key": "米塔手感烘焙-mita-fancy-cafe-bakery-taipei"
 }

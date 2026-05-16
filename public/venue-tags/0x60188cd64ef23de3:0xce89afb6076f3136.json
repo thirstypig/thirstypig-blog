@@ -1,0 +1,49 @@
+{
+  "place_id": "0x60188cd64ef23de3:0xce89afb6076f3136",
+  "venue_name": "the 3rd Burger Shinjuku",
+  "chips": [
+    {
+      "label": "spacious interior",
+      "mention_count": 55
+    },
+    {
+      "label": "avocado burger",
+      "mention_count": 10
+    },
+    {
+      "label": "smoothie",
+      "mention_count": 21
+    },
+    {
+      "label": "tartar sauce",
+      "mention_count": 16
+    },
+    {
+      "label": "counter seats",
+      "mention_count": 25
+    },
+    {
+      "label": "access from shinjuku station",
+      "mention_count": 13
+    },
+    {
+      "label": "self-checkout",
+      "mention_count": 11
+    },
+    {
+      "label": "hamburger patty",
+      "mention_count": 7
+    },
+    {
+      "label": "third burger",
+      "mention_count": 8
+    },
+    {
+      "label": "touch panel ordering",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:37Z",
+  "city": "Tokyo",
+  "key": "the-3rd-burger-tokyo"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2f51fa85b1365:0xc314371698b1eed0",
+  "venue_name": "Ashley Store",
+  "chips": [
+    {
+      "label": "couch selection",
+      "mention_count": 140
+    },
+    {
+      "label": "informative staff",
+      "mention_count": 89
+    },
+    {
+      "label": "mattress selection",
+      "mention_count": 10
+    },
+    {
+      "label": "bed frame",
+      "mention_count": 9
+    },
+    {
+      "label": "sofa purchase",
+      "mention_count": 8
+    },
+    {
+      "label": "welcoming atmosphere",
+      "mention_count": 16
+    },
+    {
+      "label": "bedroom set purchase",
+      "mention_count": 4
+    },
+    {
+      "label": "coffee table",
+      "mention_count": 5
+    },
+    {
+      "label": "living room furniture",
+      "mention_count": 9
+    },
+    {
+      "label": "ottoman",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:05Z",
+  "city": "New York",
+  "key": "ashleys-last-night-in-nyc-new-york"
+}

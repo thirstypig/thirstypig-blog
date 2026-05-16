@@ -27,6 +27,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db7c0b9f247f:0x16853eb95e6b89e3"
 ---
 
 ![Family lunch at the Shanghailander Palace, in Arcadia 上海攤。Shanghainese food 2...](/images/posts/ig-2018-05-04-family-lunch-at-the-shanghailander-palace-in-arcadia-上海攤shan/17942498362030580.jpg)

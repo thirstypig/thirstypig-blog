@@ -27,6 +27,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80dcdcd5862d7969:0x1aabeaea52fc0df5"
 ---
 
 ![Sunday lunch at Shin-Sen-Gumi Hakata Ramen & Udon in Irvine](/images/posts/ig-2018-04-30-sunday-lunch-at-shin-sen-gumi-hakata-ramen-udon-in-irvine/17914899625148346.jpg)

@@ -1,0 +1,33 @@
+{
+  "place_id": "0x80c2bf7950cbdb81:0xa10223aa16458081",
+  "venue_name": "Blossom Restaurant & Rooftop",
+  "chips": [
+    {
+      "label": "live music",
+      "mention_count": 4
+    },
+    {
+      "label": "dancers",
+      "mention_count": 2
+    },
+    {
+      "label": "valentines day",
+      "mention_count": 3
+    },
+    {
+      "label": "vibe",
+      "mention_count": 3
+    },
+    {
+      "label": "table",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:05Z",
+  "city": "Los Angeles",
+  "key": "blossom-restaurant-rooftop-los-angele"
+}

@@ -33,6 +33,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dafb9ae4e323:0x6d26f8b802e7c295"
 ---
 
 ![Dim Sum brunch at Grand Harbour Restaurant in Temple City](/images/posts/ig-2018-05-12-dim-sum-brunch-at-grand-harbour-restaurant-in-temple-city/17943847807001109.jpg)

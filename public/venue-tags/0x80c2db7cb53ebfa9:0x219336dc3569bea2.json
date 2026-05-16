@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db7cb53ebfa9:0x219336dc3569bea2",
+  "venue_name": "Chiquita Bonita",
+  "chips": [
+    {
+      "label": "albondiga soup",
+      "mention_count": 4
+    },
+    {
+      "label": "chile relleno",
+      "mention_count": 11
+    },
+    {
+      "label": "taquitos",
+      "mention_count": 16
+    },
+    {
+      "label": "chicken enchilada",
+      "mention_count": 3
+    },
+    {
+      "label": "hard chicken taco",
+      "mention_count": 2
+    },
+    {
+      "label": "verde enchiladas",
+      "mention_count": 2
+    },
+    {
+      "label": "machaca",
+      "mention_count": 2
+    },
+    {
+      "label": "chimichangas",
+      "mention_count": 3
+    },
+    {
+      "label": "pozole",
+      "mention_count": 5
+    },
+    {
+      "label": "hole in the wall",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:52Z",
+  "city": "Pasadena",
+  "key": "chiquita-bonita-pasadena"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x86213045b86abc1f:0x55e32465c3486430",
+  "venue_name": "Oak Alley Plantation",
+  "chips": [
+    {
+      "label": "oak trees",
+      "mention_count": 128
+    },
+    {
+      "label": "slave quarters",
+      "mention_count": 101
+    },
+    {
+      "label": "plantation history",
+      "mention_count": 54
+    },
+    {
+      "label": "house tour",
+      "mention_count": 280
+    },
+    {
+      "label": "sugar cane plantation",
+      "mention_count": 102
+    },
+    {
+      "label": "gardens",
+      "mention_count": 201
+    },
+    {
+      "label": "slavery history",
+      "mention_count": 72
+    },
+    {
+      "label": "mint julep",
+      "mention_count": 57
+    },
+    {
+      "label": "grounds",
+      "mention_count": 360
+    },
+    {
+      "label": "mansion",
+      "mention_count": 94
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:43Z",
+  "city": "New Orleans",
+  "key": "oakalleyplantation-new-orlean"
+}

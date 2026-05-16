@@ -20,7 +20,7 @@
     },
     {
       "label": "pastries",
-      "mention_count": 185
+      "mention_count": 180
     },
     {
       "label": "high ceilings",
@@ -31,19 +31,19 @@
       "mention_count": 64
     },
     {
+      "label": "eclair",
+      "mention_count": 26
+    },
+    {
       "label": "pistachio cake",
       "mention_count": 32
     },
     {
-      "label": "Tartufo Pizza",
-      "mention_count": 25
-    },
-    {
-      "label": "Chocolate Souffle",
-      "mention_count": 20
+      "label": "croissants",
+      "mention_count": 62
     }
   ],
-  "scraped_at": "2026-05-05T16:20:44Z",
+  "scraped_at": "2026-05-16T05:19:14Z",
   "city": "Downtown LA",
   "key": "bottega-louie-downtown-l"
 }

@@ -3,12 +3,12 @@
   "venue_name": "The Factory Kitchen",
   "chips": [
     {
-      "label": "prosciutto",
-      "mention_count": 49
-    },
-    {
       "label": "handkerchief pasta",
       "mention_count": 29
+    },
+    {
+      "label": "prosciutto",
+      "mention_count": 49
     },
     {
       "label": "outdoor dining",
@@ -31,19 +31,19 @@
       "mention_count": 11
     },
     {
-      "label": "Mandilli Di Seta",
-      "mention_count": 4
-    },
-    {
-      "label": "porchetta",
-      "mention_count": 10
-    },
-    {
       "label": "casonzei",
-      "mention_count": 7
+      "mention_count": 8
+    },
+    {
+      "label": "focaccia",
+      "mention_count": 15
+    },
+    {
+      "label": "pizzata",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:38:38Z",
+  "scraped_at": "2026-05-16T05:36:22Z",
   "city": "Dtla",
   "key": "the-factory-kitchen-dtla"
 }

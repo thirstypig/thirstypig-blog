@@ -8,15 +8,15 @@
     },
     {
       "label": "pan-fried pork liver",
-      "mention_count": 84
+      "mention_count": 81
     },
     {
       "label": "dining environment",
-      "mention_count": 66
+      "mention_count": 67
     },
     {
       "label": "almond tofu",
-      "mention_count": 152
+      "mention_count": 153
     },
     {
       "label": "sweet potato porridge",
@@ -24,7 +24,7 @@
     },
     {
       "label": "crab sticky rice",
-      "mention_count": 56
+      "mention_count": 59
     },
     {
       "label": "braised pork belly",
@@ -36,14 +36,14 @@
     },
     {
       "label": "three-cup chicken",
-      "mention_count": 35
+      "mention_count": 36
     },
     {
-      "label": "red crab rice cake",
-      "mention_count": 28
+      "label": "peanut mochi",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-05T16:08:24Z",
+  "scraped_at": "2026-05-16T05:07:05Z",
   "city": "Taipei",
   "key": "shin-yeh-taipei"
 }

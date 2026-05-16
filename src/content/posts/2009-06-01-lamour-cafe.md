@@ -29,6 +29,7 @@ coordinates:
   lng: -118.122123
 cuisine:
 - Chinese
+placeId: "0x80c2c550bfcdf371:0x41dca79a6ab5438b"
 ---
 
 Located in the back of a mini mall in Monterey Park, L’Amour Cafe is a hidden gem that specializes in traditional Cantonese cuisine. Monterey Park has always been known for cantonese faire – especially with the late night cafes and dim sum palaces. But L’Amour Cafe goes away from that tradition to offer a non-cafe style ambience. They strive to offer higher quality selection without the expanse of a large banquet style dim sum restaurant.

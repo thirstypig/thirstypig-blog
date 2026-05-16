@@ -25,6 +25,7 @@ coordinates:
   lng: -118.030501
 cuisine:
 - Fusion
+placeId: "0x80c2dbc2b5b5ba31:0xae7eeca15ed23a25"
 ---
 
 ![Never get “hot” spicy level if you can’t take it](/images/posts/ig-2018-01-23-never-get-hot-spicy-level-if-you-cant-take-it/17923371760033649.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a672efa15d7d:0x1fa42be757413a44",
+  "venue_name": "Mother's Restaurant",
+  "chips": [
+    {
+      "label": "jambalaya",
+      "mention_count": 550
+    },
+    {
+      "label": "cheese grits",
+      "mention_count": 255
+    },
+    {
+      "label": "red beans and rice",
+      "mention_count": 555
+    },
+    {
+      "label": "etouffee",
+      "mention_count": 400
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 359
+    },
+    {
+      "label": "shrimp creole",
+      "mention_count": 144
+    },
+    {
+      "label": "biscuits",
+      "mention_count": 512
+    },
+    {
+      "label": "bloody mary",
+      "mention_count": 115
+    },
+    {
+      "label": "long lines",
+      "mention_count": 258
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 231
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:27Z",
+  "city": "New Orleans",
+  "key": "mothers-restaurant-new-orlean"
+}

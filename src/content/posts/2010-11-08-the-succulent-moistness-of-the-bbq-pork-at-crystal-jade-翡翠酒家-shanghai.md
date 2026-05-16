@@ -46,6 +46,7 @@ coordinates:
   lng: 121.512887
 cuisine:
 - Chinese
+placeId: "0x35b270716f36e32b:0xe7f4310010d22113"
 ---
 
 I was asking a couple of friends, one who is Shanghainese and the other from the North who’s lived in Shanghai for awhile, what are some of the better restaurants in town. Surprisingly they said they like southern cuisine, more specifically Guangdong, Cantonese, or Hong Kong dishes – could be considered the same. One of the finest in Shanghai is Crystal Jade.

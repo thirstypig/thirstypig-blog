@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dabe99d64c4d:0x7e93718d4198b0e9",
+  "venue_name": "Shaanxi Garden",
+  "chips": [
+    {
+      "label": "shaanxi food",
+      "mention_count": 6
+    },
+    {
+      "label": "biang biang noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "cold noodles",
+      "mention_count": 10
+    },
+    {
+      "label": "lamb paomo",
+      "mention_count": 6
+    },
+    {
+      "label": "lamb menu",
+      "mention_count": 12
+    },
+    {
+      "label": "roujiamo",
+      "mention_count": 5
+    },
+    {
+      "label": "Lamb Kebab",
+      "mention_count": 2
+    },
+    {
+      "label": "hand pulled noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "tofu skin",
+      "mention_count": 2
+    },
+    {
+      "label": "cash only",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:26Z",
+  "city": "San Gabriel",
+  "key": "shaanxi-garden-san-gabrie"
+}

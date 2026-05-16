@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "abalone porridge",
-      "mention_count": 48
+      "mention_count": 47
     },
     {
       "label": "kbbq",
@@ -35,15 +35,15 @@
       "mention_count": 5
     },
     {
-      "label": "congee",
-      "mention_count": 5
+      "label": "Ginseng Chicken Soup",
+      "mention_count": 16
     },
     {
-      "label": "rib eye",
+      "label": "congee",
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:20:09Z",
-  "city": "Koreatown",
-  "key": "mountain-cafe-koreatown"
+  "scraped_at": "2026-05-16T05:38:55Z",
+  "city": "Los Angeles",
+  "key": "mountain-san-bbq-los-angele"
 }

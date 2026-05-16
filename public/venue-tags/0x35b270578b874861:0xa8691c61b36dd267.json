@@ -35,15 +35,15 @@
       "mention_count": 6
     },
     {
-      "label": "closed",
-      "mention_count": 3
-    },
-    {
       "label": "party",
       "mention_count": 9
+    },
+    {
+      "label": "clientele",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:09:07Z",
+  "scraped_at": "2026-05-16T05:07:48Z",
   "city": "Shanghai",
   "key": "bar-rouge-shanghai"
 }

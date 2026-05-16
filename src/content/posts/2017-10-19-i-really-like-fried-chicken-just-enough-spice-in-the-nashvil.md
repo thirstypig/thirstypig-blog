@@ -30,6 +30,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2bf49997cdee9:0xc3b20dc5514ea01f"
 ---
 
 ![I really like fried chicken just enough spice in the Nashville style chicken...](/images/posts/ig-2017-10-19-i-really-like-fried-chicken-just-enough-spice-in-the-nashvil/17887355800092796.jpg)

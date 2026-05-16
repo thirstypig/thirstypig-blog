@@ -28,6 +28,7 @@ images:
   - /images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17886429895078855.jpg
 source: instagram
 draft: false
+placeId: "0x80c2db5f9aabcc63:0x5828969bb1844847"
 ---
 
 ![Shabu Shabu beef quality was good](/images/posts/ig-2017-08-24-shabu-shabu-beef-quality-was-good/17879788756094754.jpg)

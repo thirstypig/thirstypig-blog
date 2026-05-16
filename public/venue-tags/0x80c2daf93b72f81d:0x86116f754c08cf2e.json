@@ -3,11 +3,11 @@
   "venue_name": "Dai Ho Restaurant",
   "chips": [
     {
-      "label": "Beef Noodle Soup and Squid",
+      "label": "beef noodle soup",
       "mention_count": 68
     },
     {
-      "label": "Dan Dan Noodle",
+      "label": "dan dan noodles",
       "mention_count": 25
     },
     {
@@ -23,11 +23,11 @@
       "mention_count": 6
     },
     {
-      "label": "Minced Meat Day Nood",
-      "mention_count": 3
+      "label": "dry mixed noodles",
+      "mention_count": 4
     },
     {
-      "label": "dry mixed noodles",
+      "label": "beef tripe",
       "mention_count": 4
     },
     {
@@ -35,15 +35,15 @@
       "mention_count": 3
     },
     {
-      "label": "cold noodle",
-      "mention_count": 6
+      "label": "sesame noodle",
+      "mention_count": 4
     },
     {
-      "label": "sesame sauce",
-      "mention_count": 9
+      "label": "cold noodle",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:18:41Z",
+  "scraped_at": "2026-05-16T05:17:17Z",
   "city": "Temple City",
   "key": "dai-ho-restaurant-大和-temple-cit"
 }

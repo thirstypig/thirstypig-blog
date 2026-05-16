@@ -23,6 +23,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2dafb7d0c8ee7:0xe0e17ae9be834b7a"
 ---
 
 ![Awesome Taiwanese breakfast at JJ Bakery & Cafe](/images/posts/ig-2017-11-26-awesome-taiwanese-breakfast-at-jj-bakery-cafe/17852284981200414.jpg)

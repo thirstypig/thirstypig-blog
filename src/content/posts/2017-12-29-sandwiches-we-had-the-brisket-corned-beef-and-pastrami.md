@@ -32,6 +32,7 @@ coordinates:
   lng: -73.99284
 cuisine:
 - American
+placeId: "0x89c2590175840815:0x4e8f69c3d9030d35"
 ---
 
 ![Sandwiches we had the brisket, corned beef, and pastrami](/images/posts/ig-2017-12-29-sandwiches-we-had-the-brisket-corned-beef-and-pastrami/17858460205206311.jpg)

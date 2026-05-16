@@ -23,6 +23,7 @@ categories:
 - Vietnamese
 cuisine:
 - Vietnamese
+placeId: "0x80c2d00b64afc8f9:0xf04c268315443de2"
 ---
 
 ![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17928704200018729.jpg)

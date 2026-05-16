@@ -23,6 +23,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c3ef4fe30f67:0x7881da8e5b8db26a"
 ---
 
 ![Burgers and fish at Stinko 2](/images/posts/ig-2017-12-01-burgers-and-fish-at-stinko-2/17850818986216471.jpg)

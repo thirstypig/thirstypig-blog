@@ -28,6 +28,7 @@ coordinates:
   lng: -118.149318
 cuisine:
 - American
+placeId: "0x80c2c3719154bc13:0xf98b0dfe4f20931f"
 ---
 
 ![The 50/50 burgers and the 50/50 pizza burger](/images/posts/ig-2018-01-29-the-5050-burgers-and-the-5050-pizza-burger/17847567217242291.jpg)

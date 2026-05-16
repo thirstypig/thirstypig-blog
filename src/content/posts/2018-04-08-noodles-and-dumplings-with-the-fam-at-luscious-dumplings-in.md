@@ -28,6 +28,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2d97d8176ed69:0xfc7b1fe49faec7da"
 ---
 
 ![Noodles and dumplings with the fam at Luscious Dumplings in Monrovia](/images/posts/ig-2018-04-08-noodles-and-dumplings-with-the-fam-at-luscious-dumplings-in/17936292478004378.jpg)

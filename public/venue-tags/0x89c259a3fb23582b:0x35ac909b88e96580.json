@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259a3fb23582b:0x35ac909b88e96580",
+  "venue_name": "Verizon",
+  "chips": [
+    {
+      "label": "ipad",
+      "mention_count": 8
+    },
+    {
+      "label": "painless upgrade",
+      "mention_count": 2
+    },
+    {
+      "label": "phone upgrades",
+      "mention_count": 2
+    },
+    {
+      "label": "phone transfer",
+      "mention_count": 4
+    },
+    {
+      "label": "plan update",
+      "mention_count": 2
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 9
+    },
+    {
+      "label": "chill atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "professional team",
+      "mention_count": 11
+    },
+    {
+      "label": "efficient staff",
+      "mention_count": 5
+    },
+    {
+      "label": "phone repair",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:53Z",
+  "city": "New York",
+  "key": "dzine-it-new-york"
+}

@@ -3,24 +3,24 @@
   "venue_name": "Lucy's Fried Chicken",
   "chips": [
     {
-      "label": "chicken fried steak",
-      "mention_count": 41
-    },
-    {
       "label": "deviled eggs",
       "mention_count": 71
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 35
+      "label": "chicken fried steak",
+      "mention_count": 41
     },
     {
-      "label": "chicken and waffles",
-      "mention_count": 67
+      "label": "outdoor seating",
+      "mention_count": 33
     },
     {
       "label": "oysters",
       "mention_count": 75
+    },
+    {
+      "label": "Chicken and Waffles",
+      "mention_count": 67
     },
     {
       "label": "happy hour",
@@ -43,7 +43,7 @@
       "mention_count": 52
     }
   ],
-  "scraped_at": "2026-05-05T16:40:07Z",
+  "scraped_at": "2026-05-16T05:37:52Z",
   "city": "Austin",
   "key": "lucysfriedchick-austin"
 }

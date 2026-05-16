@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mandarin duck hot pot",
-      "mention_count": 70
+      "mention_count": 69
     },
     {
       "label": "white soup hot pot",
@@ -20,11 +20,11 @@
     },
     {
       "label": "spicy hot pot",
-      "mention_count": 116
+      "mention_count": 115
     },
     {
       "label": "dining environment",
-      "mention_count": 53
+      "mention_count": 47
     },
     {
       "label": "duck blood",
@@ -43,7 +43,7 @@
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-05T16:07:12Z",
+  "scraped_at": "2026-05-16T05:05:53Z",
   "city": "Taipei",
   "key": "wulao-hotpot-taipei"
 }

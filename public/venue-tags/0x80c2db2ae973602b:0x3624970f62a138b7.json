@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "icing",
-      "mention_count": 2
+      "label": "freshness",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:19:58Z",
+  "scraped_at": "2026-05-16T05:18:27Z",
   "city": "San Gabriel",
   "key": "happy-donut-san-gabrie"
 }

@@ -23,12 +23,12 @@
       "mention_count": 107
     },
     {
-      "label": "kebab",
-      "mention_count": 36
-    },
-    {
       "label": "cozy place",
       "mention_count": 77
+    },
+    {
+      "label": "kebab",
+      "mention_count": 36
     },
     {
       "label": "pitas",
@@ -43,7 +43,7 @@
       "mention_count": 130
     }
   ],
-  "scraped_at": "2026-05-05T16:22:19Z",
+  "scraped_at": "2026-05-16T05:20:50Z",
   "city": "Shanghai",
   "key": "my-favorite-uncle-shanghai"
 }

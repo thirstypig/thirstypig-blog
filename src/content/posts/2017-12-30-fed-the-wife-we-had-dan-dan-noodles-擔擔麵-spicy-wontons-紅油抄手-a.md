@@ -26,6 +26,7 @@ coordinates:
   lng: -73.982456
 cuisine:
 - Chinese
+placeId: "0x89c25bb4aa91dfeb:0x5c2b8a3793cc65f5"
 ---
 
 ![Fed the wife we had Dan Dan Noodles 擔擔麵, spicy wontons 紅油抄手, and pickled veg...](/images/posts/ig-2017-12-30-fed-the-wife-we-had-dan-dan-noodles-擔擔麵-spicy-wontons-紅油抄手-a/17915025034045269.jpg)

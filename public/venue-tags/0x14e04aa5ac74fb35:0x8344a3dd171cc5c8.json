@@ -8,7 +8,7 @@
     },
     {
       "label": "tea sandwiches",
-      "mention_count": 25
+      "mention_count": 26
     },
     {
       "label": "tea pots",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:38:46Z",
+  "scraped_at": "2026-05-16T05:36:30Z",
   "city": "Pasadena",
   "key": "tea-rose-garden-pasadena"
 }

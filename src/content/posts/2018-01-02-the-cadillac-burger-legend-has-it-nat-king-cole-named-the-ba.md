@@ -30,6 +30,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x89c258e461d380bb:0xe68debf701c7301e"
 ---
 
 ![The Cadillac Burger Legend has it Nat King Cole named the bacon burger the ...](/images/posts/ig-2018-01-02-the-cadillac-burger-legend-has-it-nat-king-cole-named-the-ba/17886025246171878.jpg)

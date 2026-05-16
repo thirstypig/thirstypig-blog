@@ -16,11 +16,11 @@
     },
     {
       "label": "garlic fries",
-      "mention_count": 29
+      "mention_count": 28
     },
     {
       "label": "tots",
-      "mention_count": 40
+      "mention_count": 39
     },
     {
       "label": "old fashioned",
@@ -39,11 +39,11 @@
       "mention_count": 14
     },
     {
-      "label": "beef dip",
-      "mention_count": 16
+      "label": "pecan pie",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:08:22Z",
+  "scraped_at": "2026-05-16T05:07:03Z",
   "city": "Los Angeles",
   "key": "coles-french-dip-dtla"
 }

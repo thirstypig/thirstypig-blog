@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c527a41a9f25:0x801473a606a9cc47",
+  "venue_name": "Grill 'Em All",
+  "chips": [
+    {
+      "label": "bread pudding",
+      "mention_count": 16
+    },
+    {
+      "label": "metal music",
+      "mention_count": 28
+    },
+    {
+      "label": "primate fries",
+      "mention_count": 9
+    },
+    {
+      "label": "Burger of the Month",
+      "mention_count": 9
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 13
+    },
+    {
+      "label": "chili cheese fries",
+      "mention_count": 9
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 20
+    },
+    {
+      "label": "behemoth burger",
+      "mention_count": 4
+    },
+    {
+      "label": "ozzy osbourne",
+      "mention_count": 11
+    },
+    {
+      "label": "metallica burger",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:15Z",
+  "city": "Long Beach",
+  "key": "thats-what-a-hamburgers-all-about-long-beach"
+}

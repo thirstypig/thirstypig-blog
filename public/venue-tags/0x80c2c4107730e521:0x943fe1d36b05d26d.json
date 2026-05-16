@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c4107730e521:0x943fe1d36b05d26d",
+  "venue_name": "HomeState",
+  "chips": [
+    {
+      "label": "brisket tacos",
+      "mention_count": 42
+    },
+    {
+      "label": "palomas",
+      "mention_count": 19
+    },
+    {
+      "label": "migas",
+      "mention_count": 8
+    },
+    {
+      "label": "potato taco",
+      "mention_count": 19
+    },
+    {
+      "label": "flour tortillas",
+      "mention_count": 26
+    },
+    {
+      "label": "picadillo",
+      "mention_count": 7
+    },
+    {
+      "label": "frito pie",
+      "mention_count": 5
+    },
+    {
+      "label": "patio",
+      "mention_count": 41
+    },
+    {
+      "label": "chicken taco",
+      "mention_count": 9
+    },
+    {
+      "label": "spicy paloma",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:19Z",
+  "city": "Austin",
+  "key": "homestate-austin"
+}

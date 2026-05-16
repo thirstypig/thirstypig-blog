@@ -23,6 +23,7 @@ categories:
 location: Chick'n Skin
 cuisine:
 - Thai
+placeId: "0x80c2bf14af121db1:0x9301459b13155ba2"
 ---
 
 ![Snackin’ and Feastin’ at the Tom Yum Spicy Fried Chicken skin was amazing (...](/images/posts/ig-2017-12-02-snackin-and-feastin-at-the-tom-yum-spicy-fried-chicken-skin/17896307659127499.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63534d67013:0x31648d7e378f9e23",
+  "venue_name": "Corporation Food Hall",
+  "chips": [
+    {
+      "label": "fried chicken sando",
+      "mention_count": 7
+    },
+    {
+      "label": "boba",
+      "mention_count": 5
+    },
+    {
+      "label": "fresh spring rolls",
+      "mention_count": 3
+    },
+    {
+      "label": "falafels",
+      "mention_count": 2
+    },
+    {
+      "label": "pasta",
+      "mention_count": 13
+    },
+    {
+      "label": "food selection",
+      "mention_count": 14
+    },
+    {
+      "label": "shrimp",
+      "mention_count": 3
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 2
+    },
+    {
+      "label": "food hall",
+      "mention_count": 3
+    },
+    {
+      "label": "food stalls",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:37Z",
+  "city": "Chinatown",
+  "key": "corporation-food-hall-chinatown"
+}

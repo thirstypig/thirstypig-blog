@@ -26,6 +26,7 @@ categories:
 - Cajun
 cuisine:
 - Cajun
+placeId: "0x89c259f337272b95:0x813d03ddbc95800f"
 ---
 
 ![Harlem Fried Chicken at Sylvia’s Restaurant](/images/posts/ig-2018-01-02-harlem-fried-chicken-at-sylvias-restaurant/17892095407189180.jpg)

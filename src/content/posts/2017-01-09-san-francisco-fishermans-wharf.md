@@ -23,6 +23,7 @@ coordinates:
   lng: -122.418256
 cuisine:
 - Seafood
+placeId: "0x808580e306e4b821:0xa7ecdb38f0d8ecdc"
 ---
 
 

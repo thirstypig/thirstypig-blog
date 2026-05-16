@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2baa2bf5a7289:0x96e7291be897f918",
+  "venue_name": "Venice Canal Historic District",
+  "chips": [
+    {
+      "label": "canals",
+      "mention_count": 323
+    },
+    {
+      "label": "water level",
+      "mention_count": 26
+    },
+    {
+      "label": "boardwalk",
+      "mention_count": 51
+    },
+    {
+      "label": "peaceful atmosphere",
+      "mention_count": 177
+    },
+    {
+      "label": "ducks",
+      "mention_count": 78
+    },
+    {
+      "label": "architecture",
+      "mention_count": 115
+    },
+    {
+      "label": "narrow walkways",
+      "mention_count": 15
+    },
+    {
+      "label": "residential area",
+      "mention_count": 91
+    },
+    {
+      "label": "peaceful walk",
+      "mention_count": 34
+    },
+    {
+      "label": "houses",
+      "mention_count": 191
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:59Z",
+  "city": "Venice",
+  "key": "venice-canals-venice"
+}

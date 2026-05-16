@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c72b91056adb:0x6abb044624a68d2a",
+  "venue_name": "Tatsu Ramen",
+  "chips": [
+    {
+      "label": "birria ramen",
+      "mention_count": 15
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 3
+    },
+    {
+      "label": "bold ramen",
+      "mention_count": 7
+    },
+    {
+      "label": "chicken ramen",
+      "mention_count": 12
+    },
+    {
+      "label": "hippie ramen",
+      "mention_count": 5
+    },
+    {
+      "label": "pork bun",
+      "mention_count": 5
+    },
+    {
+      "label": "pickled cucumber",
+      "mention_count": 4
+    },
+    {
+      "label": "old skool ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "kiosk ordering",
+      "mention_count": 6
+    },
+    {
+      "label": "vegan ramen",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:54Z",
+  "city": "Los Angeles",
+  "key": "one-of-my-favorite-ramen-shops-in-l-los-angele"
+}

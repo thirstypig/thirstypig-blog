@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3719154bc13:0xf98b0dfe4f20931f",
+  "venue_name": "The Blind Donkey",
+  "chips": [
+    {
+      "label": "whiskey selection",
+      "mention_count": 131
+    },
+    {
+      "label": "trivia",
+      "mention_count": 15
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "whiskey bar",
+      "mention_count": 7
+    },
+    {
+      "label": "carne asada fries",
+      "mention_count": 3
+    },
+    {
+      "label": "karaoke",
+      "mention_count": 10
+    },
+    {
+      "label": "craft cocktails",
+      "mention_count": 3
+    },
+    {
+      "label": "dive bar",
+      "mention_count": 2
+    },
+    {
+      "label": "shuffleboard",
+      "mention_count": 7
+    },
+    {
+      "label": "cocktail menu",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:14Z",
+  "city": "Pasadena",
+  "key": "the-blind-donkey-pasadena"
+}

@@ -3,7 +3,7 @@
   "venue_name": "The Donut Man",
   "chips": [
     {
-      "label": "Fresh Strawberry Donut",
+      "label": "strawberry donut",
       "mention_count": 99
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:19:55Z",
+  "scraped_at": "2026-05-16T05:18:25Z",
   "city": "Koreatown",
   "key": "the-donut-man-koreatown"
 }

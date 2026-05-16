@@ -25,6 +25,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80c2db2a0421cc0f:0x9220aa124e915c64"
 ---
 
 ![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17848873897206995.jpg)

@@ -11,16 +11,20 @@
       "mention_count": 34
     },
     {
-      "label": "Beef Pancake Wrap 牛肉捲餅",
-      "mention_count": 18
+      "label": "scallion pancake",
+      "mention_count": 29
     },
     {
       "label": "cold peanut noodles",
       "mention_count": 12
     },
     {
-      "label": "Scallion Pancake Combo",
-      "mention_count": 29
+      "label": "Beef Pancake Wrap 牛肉捲餅",
+      "mention_count": 18
+    },
+    {
+      "label": "pork belly wrap",
+      "mention_count": 11
     },
     {
       "label": "hainan chicken",
@@ -31,10 +35,6 @@
       "mention_count": 9
     },
     {
-      "label": "ox tail rice",
-      "mention_count": 8
-    },
-    {
       "label": "chili oils",
       "mention_count": 10
     },
@@ -43,7 +43,7 @@
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-05T16:18:47Z",
+  "scraped_at": "2026-05-16T05:17:22Z",
   "city": "San Gabriel",
   "key": "liangs-kitchen-梁媽媽家-san-gabrie"
 }

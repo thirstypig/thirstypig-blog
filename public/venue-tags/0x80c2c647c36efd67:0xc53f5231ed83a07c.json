@@ -15,24 +15,24 @@
       "mention_count": 22
     },
     {
-      "label": "tonkatsu ramen",
-      "mention_count": 37
+      "label": "spicy miso ramen",
+      "mention_count": 32
     },
     {
-      "label": "spicy miso ramen",
-      "mention_count": 33
+      "label": "katsu",
+      "mention_count": 37
     },
     {
       "label": "booth seating",
       "mention_count": 3
     },
     {
-      "label": "poke bowl",
-      "mention_count": 19
-    },
-    {
       "label": "vegan options",
       "mention_count": 67
+    },
+    {
+      "label": "poke bowl",
+      "mention_count": 19
     },
     {
       "label": "counter seating",
@@ -43,7 +43,7 @@
       "mention_count": 198
     }
   ],
-  "scraped_at": "2026-05-05T16:38:41Z",
+  "scraped_at": "2026-05-16T05:36:25Z",
   "city": "Dtla",
   "key": "daikokuya-dtla"
 }

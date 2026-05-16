@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c258e461d380bb:0xe68debf701c7301e",
+  "venue_name": "P.J. Clarke's Third Avenue",
+  "chips": [
+    {
+      "label": "lobster roll",
+      "mention_count": 41
+    },
+    {
+      "label": "oysters",
+      "mention_count": 85
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 20
+    },
+    {
+      "label": "guinness",
+      "mention_count": 15
+    },
+    {
+      "label": "irish pub",
+      "mention_count": 13
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "jukebox",
+      "mention_count": 12
+    },
+    {
+      "label": "raw bar",
+      "mention_count": 17
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 41
+    },
+    {
+      "label": "martinis",
+      "mention_count": 19
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:41Z",
+  "city": "New York",
+  "key": "pj-clarkes-new-york"
+}

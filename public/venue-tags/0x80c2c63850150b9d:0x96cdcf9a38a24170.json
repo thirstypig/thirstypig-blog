@@ -12,7 +12,11 @@
     },
     {
       "label": "bar seating",
-      "mention_count": 82
+      "mention_count": 83
+    },
+    {
+      "label": "fresh fish",
+      "mention_count": 67
     },
     {
       "label": "long lines",
@@ -32,18 +36,14 @@
     },
     {
       "label": "wait time",
-      "mention_count": 117
+      "mention_count": 116
     },
     {
       "label": "bluefin tuna",
       "mention_count": 7
-    },
-    {
-      "label": "fresh fish",
-      "mention_count": 67
     }
   ],
-  "scraped_at": "2026-05-05T16:07:17Z",
+  "scraped_at": "2026-05-16T05:05:58Z",
   "city": "Los Angeles",
   "key": "sushi-gen-la"
 }

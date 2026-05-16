@@ -28,6 +28,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x89c259a3fb23582b:0x35ac909b88e96580"
 ---
 
 ![I can’t believe how cold it is in NYC](/images/posts/ig-2018-01-06-i-cant-believe-how-cold-it-is-in-nyc/17912260975069351.jpg)

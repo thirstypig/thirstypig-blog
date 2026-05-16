@@ -23,8 +23,8 @@
       "mention_count": 3
     },
     {
-      "label": "sandwiches",
-      "mention_count": 17
+      "label": "mac and cheese",
+      "mention_count": 12
     },
     {
       "label": "potato salad",
@@ -39,11 +39,11 @@
       "mention_count": 10
     },
     {
-      "label": "smoked meats",
-      "mention_count": 4
+      "label": "beer selection",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:20:17Z",
+  "scraped_at": "2026-05-16T05:18:47Z",
   "city": "Pasadena",
   "key": "perdues-barbeque-pasadena"
 }

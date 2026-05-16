@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64b8f5b0eb9:0x846e0084319313f3",
+  "venue_name": "Eggslut",
+  "chips": [
+    {
+      "label": "egg sandwich",
+      "mention_count": 199
+    },
+    {
+      "label": "brioche bun",
+      "mention_count": 32
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 14
+    },
+    {
+      "label": "long lines",
+      "mention_count": 204
+    },
+    {
+      "label": "people watching",
+      "mention_count": 5
+    },
+    {
+      "label": "hash browns",
+      "mention_count": 100
+    },
+    {
+      "label": "Bacon Egg & Cheese Sandwich",
+      "mention_count": 167
+    },
+    {
+      "label": "potato puree",
+      "mention_count": 50
+    },
+    {
+      "label": "truffle hash browns",
+      "mention_count": 32
+    },
+    {
+      "label": "egg salad sandwich",
+      "mention_count": 33
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:38Z",
+  "city": "Downtown LA",
+  "key": "eggslut-downtown-l"
+}

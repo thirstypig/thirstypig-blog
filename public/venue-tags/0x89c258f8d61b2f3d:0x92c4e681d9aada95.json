@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c258f8d61b2f3d:0x92c4e681d9aada95",
+  "venue_name": "Radio City Music Hall",
+  "chips": [
+    {
+      "label": "comfortable seats",
+      "mention_count": 158
+    },
+    {
+      "label": "holiday show",
+      "mention_count": 71
+    },
+    {
+      "label": "architecture",
+      "mention_count": 119
+    },
+    {
+      "label": "backstage tour",
+      "mention_count": 38
+    },
+    {
+      "label": "art deco architecture",
+      "mention_count": 21
+    },
+    {
+      "label": "historic venue",
+      "mention_count": 29
+    },
+    {
+      "label": "crowded",
+      "mention_count": 128
+    },
+    {
+      "label": "long lines",
+      "mention_count": 36
+    },
+    {
+      "label": "acoustics",
+      "mention_count": 256
+    },
+    {
+      "label": "orchestra",
+      "mention_count": 157
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:17Z",
+  "city": "New York",
+  "key": "radio-city-music-hall-new-york"
+}

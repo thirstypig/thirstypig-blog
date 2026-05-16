@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80e81f1a4c624c0b:0xe1c1bdf43ccc96e9",
+  "venue_name": "Malibu Seafood",
+  "chips": [
+    {
+      "label": "ocean view",
+      "mention_count": 302
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 243
+    },
+    {
+      "label": "fish and chips",
+      "mention_count": 521
+    },
+    {
+      "label": "sunset view",
+      "mention_count": 43
+    },
+    {
+      "label": "beach view",
+      "mention_count": 32
+    },
+    {
+      "label": "long lines",
+      "mention_count": 120
+    },
+    {
+      "label": "ahi tuna burger",
+      "mention_count": 30
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 146
+    },
+    {
+      "label": "lobster roll",
+      "mention_count": 37
+    },
+    {
+      "label": "fish tacos",
+      "mention_count": 96
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:17Z",
+  "city": "San Marino",
+  "key": "malibu-seafood-san-marino"
+}

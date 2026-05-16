@@ -11,10 +11,6 @@
       "mention_count": 73
     },
     {
-      "label": "chilaquiles",
-      "mention_count": 17
-    },
-    {
       "label": "huevos rancheros",
       "mention_count": 12
     },
@@ -41,9 +37,13 @@
     {
       "label": "vegan options",
       "mention_count": 14
+    },
+    {
+      "label": "Corned Beef Eggs and Potatoes",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-05T16:14:08Z",
+  "scraped_at": "2026-05-16T05:12:43Z",
   "city": "Downtown LA",
   "key": "nickel-diner-downtown-l"
 }

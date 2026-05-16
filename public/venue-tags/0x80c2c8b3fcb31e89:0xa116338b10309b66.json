@@ -1,0 +1,25 @@
+{
+  "place_id": "0x80c2c8b3fcb31e89:0xa116338b10309b66",
+  "venue_name": "Mr. Speedy Plumbing & Rooter Inc.",
+  "chips": [
+    {
+      "label": "hydrojetting",
+      "mention_count": 2
+    },
+    {
+      "label": "punctuality",
+      "mention_count": 2
+    },
+    {
+      "label": "snake",
+      "mention_count": 2
+    },
+    {
+      "label": "plumbing pipe repair",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:16Z",
+  "city": "Echo Park",
+  "key": "mr-speedy-plumbing-rooter-inc-echo-park"
+}

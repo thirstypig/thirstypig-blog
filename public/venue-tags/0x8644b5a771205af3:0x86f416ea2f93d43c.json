@@ -24,11 +24,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 82
-    },
-    {
-      "label": "unique designs",
-      "mention_count": 38
+      "mention_count": 80
     },
     {
       "label": "butterfinger donut",
@@ -41,9 +37,13 @@
     {
       "label": "maple cream donut",
       "mention_count": 9
+    },
+    {
+      "label": "voodoo doll",
+      "mention_count": 77
     }
   ],
-  "scraped_at": "2026-05-05T16:39:48Z",
+  "scraped_at": "2026-05-16T05:37:32Z",
   "city": "Austin",
   "key": "voodoo-doughnut-austin"
 }

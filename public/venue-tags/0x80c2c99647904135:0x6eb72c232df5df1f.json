@@ -1,0 +1,13 @@
+{
+  "place_id": "0x80c2c99647904135:0x6eb72c232df5df1f",
+  "venue_name": "The BLT Shop",
+  "chips": [
+    {
+      "label": "good portions",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:38:58Z",
+  "city": "Los Angeles",
+  "key": "the-blt-shop-los-angele"
+}

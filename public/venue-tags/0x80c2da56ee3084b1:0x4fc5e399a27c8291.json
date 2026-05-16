@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2da56ee3084b1:0x4fc5e399a27c8291",
+  "venue_name": "Xiang Yuan Gourmet",
+  "chips": [
+    {
+      "label": "Dim Sum",
+      "mention_count": 7
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:30Z",
+  "city": "Temple City",
+  "key": "xiang-yuan-gourmet-temple-cit"
+}

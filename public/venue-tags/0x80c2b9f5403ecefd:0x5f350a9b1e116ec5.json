@@ -4,27 +4,27 @@
   "chips": [
     {
       "label": "schnitzel",
-      "mention_count": 3
+      "mention_count": 2
     },
     {
       "label": "hummus",
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "label": "cauliflower",
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "label": "pita",
-      "mention_count": 15
+      "mention_count": 13
     },
     {
       "label": "israeli",
-      "mention_count": 4
+      "mention_count": 2
     },
     {
       "label": "green beans",
-      "mention_count": 3
+      "mention_count": 2
     },
     {
       "label": "tahini",
@@ -32,7 +32,7 @@
     },
     {
       "label": "mediterranean",
-      "mention_count": 6
+      "mention_count": 4
     },
     {
       "label": "cucumber",
@@ -40,10 +40,10 @@
     },
     {
       "label": "energy",
-      "mention_count": 11
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-05T16:18:33Z",
+  "scraped_at": "2026-05-16T05:17:08Z",
   "city": "Los Angeles",
   "key": "restaurant3-los-angele"
 }

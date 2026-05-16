@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c757501d5a5d:0x7652aeb4ecd9ad7b",
+  "venue_name": "Girl & the Goat Los Angeles",
+  "chips": [
+    {
+      "label": "goat curry",
+      "mention_count": 74
+    },
+    {
+      "label": "pork shank",
+      "mention_count": 63
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 41
+    },
+    {
+      "label": "naan",
+      "mention_count": 76
+    },
+    {
+      "label": "mango sticky rice",
+      "mention_count": 39
+    },
+    {
+      "label": "chickpea fritters",
+      "mention_count": 28
+    },
+    {
+      "label": "Duck Tartare",
+      "mention_count": 23
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 73
+    },
+    {
+      "label": "grilled corn",
+      "mention_count": 17
+    },
+    {
+      "label": "Roasted Oysters",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:25Z",
+  "city": "Downtown LA",
+  "key": "girl-the-goat-downtown-l"
+}

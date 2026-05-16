@@ -29,6 +29,7 @@ coordinates:
   lng: -73.961479
 cuisine:
 - Italian
+placeId: "0x89c244c844866933:0xbde74981ea7251bf"
 ---
 
 ![Pizza with friends at Enoteca on Court, in Carroll Gardens Brooklyn](/images/posts/ig-2018-05-24-pizza-with-friends-at-enoteca-on-court-in-carroll-gardens-br/17947016962045506.jpg)

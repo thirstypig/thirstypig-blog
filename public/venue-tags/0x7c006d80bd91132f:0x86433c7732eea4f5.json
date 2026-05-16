@@ -11,7 +11,15 @@
       "mention_count": 26
     },
     {
-      "label": "kotteri ramen",
+      "label": "Kotteri Ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "Spicy Tan Tan Ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "black tonkotsu ramen",
       "mention_count": 3
     },
     {
@@ -19,15 +27,11 @@
       "mention_count": 4
     },
     {
-      "label": "garlic butter oyster",
+      "label": "Garlic Butter Oyster Ramen",
       "mention_count": 2
     },
     {
       "label": "spicy miso beef tendon",
-      "mention_count": 2
-    },
-    {
-      "label": "black tonkotsu ramen",
       "mention_count": 2
     },
     {
@@ -37,13 +41,9 @@
     {
       "label": "tenkaippin",
       "mention_count": 2
-    },
-    {
-      "label": "authentic ramen",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:16:32Z",
+  "scraped_at": "2026-05-16T05:15:06Z",
   "city": "Honolulu",
   "key": "tenkaiipin-honolulu"
 }

@@ -4,7 +4,11 @@
   "chips": [
     {
       "label": "dim sum",
-      "mention_count": 259
+      "mention_count": 260
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 29
     },
     {
       "label": "har gow",
@@ -15,16 +19,12 @@
       "mention_count": 21
     },
     {
-      "label": "cantonese food",
-      "mention_count": 29
+      "label": "chicken feet",
+      "mention_count": 16
     },
     {
       "label": "lobster",
       "mention_count": 29
-    },
-    {
-      "label": "chicken feet",
-      "mention_count": 16
     },
     {
       "label": "char siu bao",
@@ -35,15 +35,15 @@
       "mention_count": 16
     },
     {
-      "label": "scallops",
-      "mention_count": 8
+      "label": "authentic dim sum",
+      "mention_count": 7
     },
     {
-      "label": "dim sum carts",
-      "mention_count": 4
+      "label": "egg tarts",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:34:50Z",
+  "scraped_at": "2026-05-16T05:33:05Z",
   "city": "Hong Kong",
   "key": "new-star-seafood-restaurant-新星海鮮酒家--hong-kong"
 }

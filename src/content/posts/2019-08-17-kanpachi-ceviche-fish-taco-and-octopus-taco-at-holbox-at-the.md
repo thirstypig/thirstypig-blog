@@ -32,6 +32,7 @@ coordinates:
   lng: -118.280585
 cuisine:
 - Seafood
+placeId: "0x80c2c775c6e64011:0x47d00db942274440"
 ---
 
 ![Kanpachi ceviche, fish taco, and octopus taco at Holbox at the Mercado, near USC](/images/posts/ig-2019-08-17-kanpachi-ceviche-fish-taco-and-octopus-taco-at-holbox-at-the/18061059733132780.jpg)

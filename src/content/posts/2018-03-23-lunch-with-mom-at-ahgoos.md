@@ -23,6 +23,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2daf8983e6781:0x90dcd33a42f4182d"
 ---
 
 ![Lunch with mom at Ahgoo’s](/images/posts/ig-2018-03-23-lunch-with-mom-at-ahgoos/17842802371254580.jpg)

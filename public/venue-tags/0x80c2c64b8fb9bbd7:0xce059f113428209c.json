@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64b8fb9bbd7:0xce059f113428209c",
+  "venue_name": "McConnell's Fine Ice Creams - GCM",
+  "chips": [
+    {
+      "label": "earl grey",
+      "mention_count": 15
+    },
+    {
+      "label": "caramel cookies n cream",
+      "mention_count": 9
+    },
+    {
+      "label": "churro",
+      "mention_count": 16
+    },
+    {
+      "label": "Sea Salt Cream & Cookies",
+      "mention_count": 3
+    },
+    {
+      "label": "waffle cone",
+      "mention_count": 12
+    },
+    {
+      "label": "vanilla bean ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "pistachio flavor",
+      "mention_count": 3
+    },
+    {
+      "label": "churros con leche ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "cornbread ice cream",
+      "mention_count": 2
+    },
+    {
+      "label": "strawberry ice cream",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:44Z",
+  "city": "Downtown LA",
+  "key": "mcconnells-fine-ice-creams-downtown-l"
+}

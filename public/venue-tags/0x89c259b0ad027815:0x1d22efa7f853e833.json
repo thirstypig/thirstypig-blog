@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259b0ad027815:0x1d22efa7f853e833",
+  "venue_name": "Jun-Men Ramen Bar",
+  "chips": [
+    {
+      "label": "pork bone ramen",
+      "mention_count": 44
+    },
+    {
+      "label": "spicy pork ramen",
+      "mention_count": 27
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 11
+    },
+    {
+      "label": "veggie ramen",
+      "mention_count": 20
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 6
+    },
+    {
+      "label": "uni",
+      "mention_count": 12
+    },
+    {
+      "label": "Pork Bun",
+      "mention_count": 17
+    },
+    {
+      "label": "pork broth",
+      "mention_count": 3
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 21
+    },
+    {
+      "label": "spicy miso ramen",
+      "mention_count": 22
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:29Z",
+  "city": "New York",
+  "key": "jun-men-ramen-bar-new-york"
+}

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "bone marrow",
-      "mention_count": 97
+      "mention_count": 280
     },
     {
       "label": "cavatelli",
@@ -36,14 +36,14 @@
     },
     {
       "label": "lamb neck",
-      "mention_count": 30
+      "mention_count": 31
     },
     {
-      "label": "branzino",
-      "mention_count": 47
+      "label": "Grilled Branzino",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-05T16:07:34Z",
+  "scraped_at": "2026-05-16T05:06:15Z",
   "city": "Los Angeles",
   "key": "bestia-la"
 }

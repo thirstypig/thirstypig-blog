@@ -8,7 +8,7 @@
     },
     {
       "label": "flower",
-      "mention_count": 4
+      "mention_count": 5
     },
     {
       "label": "relaxing atmosphere",
@@ -17,10 +17,6 @@
     {
       "label": "tai chi",
       "mention_count": 8
-    },
-    {
-      "label": "stray cats",
-      "mention_count": 2
     },
     {
       "label": "flower beds",
@@ -41,9 +37,13 @@
     {
       "label": "walking",
       "mention_count": 13
+    },
+    {
+      "label": "fountain",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:30:39Z",
+  "scraped_at": "2026-05-16T05:28:53Z",
   "city": "Shanghai",
   "key": "复兴汇-fuxinghui-shanghai-shanghai"
 }

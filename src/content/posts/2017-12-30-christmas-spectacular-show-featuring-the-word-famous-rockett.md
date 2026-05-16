@@ -23,6 +23,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x89c258f8d61b2f3d:0x92c4e681d9aada95"
 ---
 
 ![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17898765742087459.jpg)

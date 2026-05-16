@@ -16,7 +16,7 @@
     },
     {
       "label": "torpedo sandwich",
-      "mention_count": 44
+      "mention_count": 43
     },
     {
       "label": "meatball sandwich",
@@ -24,11 +24,11 @@
     },
     {
       "label": "sandwiches",
-      "mention_count": 179
+      "mention_count": 176
     },
     {
       "label": "fresh bread",
-      "mention_count": 59
+      "mention_count": 58
     },
     {
       "label": "subs",
@@ -43,7 +43,7 @@
       "mention_count": 23
     }
   ],
-  "scraped_at": "2026-05-05T16:17:32Z",
+  "scraped_at": "2026-05-16T05:16:06Z",
   "city": "Gardena",
   "key": "guilianos-gardena"
 }

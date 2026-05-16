@@ -26,6 +26,7 @@ categories:
 - Seafood
 cuisine:
 - Seafood
+placeId: "0x80e81f1a4c624c0b:0xe1c1bdf43ccc96e9"
 ---
 
 ![Fish and fries at Malibu Seafood good price compared to San Marino seafood](/images/posts/ig-2017-10-21-fish-and-fries-at-malibu-seafood-good-price-compared-to-san/17891353981106760.jpg)

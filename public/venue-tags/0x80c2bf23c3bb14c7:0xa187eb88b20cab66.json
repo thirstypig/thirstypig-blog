@@ -4,11 +4,15 @@
   "chips": [
     {
       "label": "shakes",
-      "mention_count": 103
+      "mention_count": 104
     },
     {
       "label": "chicken tenders",
       "mention_count": 10
+    },
+    {
+      "label": "50s theme",
+      "mention_count": 2
     },
     {
       "label": "vegan milkshake",
@@ -31,10 +35,6 @@
       "mention_count": 10
     },
     {
-      "label": "50s theme",
-      "mention_count": 2
-    },
-    {
       "label": "smoked burger",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:16:37Z",
+  "scraped_at": "2026-05-16T05:15:12Z",
   "city": "Los Angeles",
   "key": "johnny-rockets-los-angele"
 }

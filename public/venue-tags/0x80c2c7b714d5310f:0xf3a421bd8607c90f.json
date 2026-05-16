@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "sourdough bread",
-      "mention_count": 172
+      "mention_count": 171
     },
     {
       "label": "cash only",
@@ -15,12 +15,16 @@
       "mention_count": 75
     },
     {
+      "label": "ham and cheese omelet",
+      "mention_count": 18
+    },
+    {
       "label": "coleslaw",
       "mention_count": 111
     },
     {
       "label": "portions",
-      "mention_count": 224
+      "mention_count": 223
     },
     {
       "label": "hashbrowns",
@@ -28,7 +32,7 @@
     },
     {
       "label": "pancakes",
-      "mention_count": 160
+      "mention_count": 159
     },
     {
       "label": "long lines",
@@ -37,13 +41,9 @@
     {
       "label": "biscuits and gravy",
       "mention_count": 30
-    },
-    {
-      "label": "chicken fried steak",
-      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-05T16:15:14Z",
+  "scraped_at": "2026-05-16T05:13:49Z",
   "city": "Downtown LA",
   "key": "pantry-downtown-l"
 }

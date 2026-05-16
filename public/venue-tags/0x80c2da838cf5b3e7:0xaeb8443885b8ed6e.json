@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2da838cf5b3e7:0xaeb8443885b8ed6e",
+  "venue_name": "Rolling Rice",
+  "chips": [
+    {
+      "label": "Combo Teriyaki Bowl",
+      "mention_count": 8
+    },
+    {
+      "label": "udon noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "cup noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "yakisoba",
+      "mention_count": 2
+    },
+    {
+      "label": "kind employees",
+      "mention_count": 3
+    },
+    {
+      "label": "welcoming atmosphere",
+      "mention_count": 2
+    },
+    {
+      "label": "healthy food",
+      "mention_count": 4
+    },
+    {
+      "label": "portion size",
+      "mention_count": 2
+    },
+    {
+      "label": "value for money",
+      "mention_count": 2
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:33Z",
+  "city": "Rosemead",
+  "key": "rolling-rice-rosemead"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db5f9aabcc63:0x5828969bb1844847",
+  "venue_name": "Oseyo Shabu Shabu",
+  "chips": [
+    {
+      "label": "miso broth",
+      "mention_count": 23
+    },
+    {
+      "label": "spicy drops",
+      "mention_count": 25
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 11
+    },
+    {
+      "label": "dipping sauces",
+      "mention_count": 19
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 8
+    },
+    {
+      "label": "veggie platter",
+      "mention_count": 5
+    },
+    {
+      "label": "green onion slices",
+      "mention_count": 5
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 3
+    },
+    {
+      "label": "udon",
+      "mention_count": 16
+    },
+    {
+      "label": "individual hot pot",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:58Z",
+  "city": "Pasadena",
+  "key": "oseyo-shabu-shabu-pasadena"
+}

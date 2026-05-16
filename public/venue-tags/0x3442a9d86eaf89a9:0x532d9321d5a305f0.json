@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "chicken white soup ramen",
-      "mention_count": 758
+      "mention_count": 761
     },
     {
       "label": "chicken soup noodles",
@@ -20,11 +20,11 @@
     },
     {
       "label": "char siu rice",
-      "mention_count": 349
+      "mention_count": 348
     },
     {
       "label": "dining environment",
-      "mention_count": 282
+      "mention_count": 290
     },
     {
       "label": "fried dumplings",
@@ -43,7 +43,7 @@
       "mention_count": 110
     }
   ],
-  "scraped_at": "2026-05-05T16:24:54Z",
+  "scraped_at": "2026-05-16T05:23:23Z",
   "city": "Taipei",
   "key": "麵屋千雲-menya-chikumo-taipei"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "lobster roll",
-      "mention_count": 374
+      "mention_count": 389
     },
     {
       "label": "hush puppies",
@@ -43,7 +43,7 @@
       "mention_count": 47
     }
   ],
-  "scraped_at": "2026-05-05T16:40:39Z",
+  "scraped_at": "2026-05-16T05:38:24Z",
   "city": "New Orleans",
   "key": "peacemaker-new-orlean"
 }

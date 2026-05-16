@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dd32891c13f1:0x5dedd85834476daf",
+  "venue_name": "Laundryagogo",
+  "chips": [
+    {
+      "label": "neatly folded items",
+      "mention_count": 2
+    },
+    {
+      "label": "fee",
+      "mention_count": 2
+    },
+    {
+      "label": "clothes treatment",
+      "mention_count": 3
+    },
+    {
+      "label": "text reminders",
+      "mention_count": 2
+    },
+    {
+      "label": "clean laundry",
+      "mention_count": 2
+    },
+    {
+      "label": "packaging",
+      "mention_count": 2
+    },
+    {
+      "label": "value for money",
+      "mention_count": 2
+    },
+    {
+      "label": "convenience",
+      "mention_count": 2
+    },
+    {
+      "label": "organization",
+      "mention_count": 3
+    },
+    {
+      "label": "website",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:36Z",
+  "city": "Pasadena",
+  "key": "chinese-laundry-truck-pasadena"
+}

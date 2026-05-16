@@ -1,0 +1,37 @@
+{
+  "place_id": "0x89c2591a54215eeb:0xb9a33ef03eb24f89",
+  "venue_name": "Baohaus",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 3
+    },
+    {
+      "label": "pork",
+      "mention_count": 3
+    },
+    {
+      "label": "duck",
+      "mention_count": 3
+    },
+    {
+      "label": "music",
+      "mention_count": 4
+    },
+    {
+      "label": "bowl",
+      "mention_count": 2
+    },
+    {
+      "label": "chairman",
+      "mention_count": 3
+    },
+    {
+      "label": "the menu",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:46Z",
+  "city": "New York",
+  "key": "baohaus-new-york"
+}

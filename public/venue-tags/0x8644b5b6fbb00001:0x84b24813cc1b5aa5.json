@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "detroit style pizza",
-      "mention_count": 280
+      "mention_count": 282
     },
     {
       "label": "gluten free pizza",
@@ -31,19 +31,19 @@
       "mention_count": 16
     },
     {
+      "label": "dairy free cheese",
+      "mention_count": 11
+    },
+    {
       "label": "beer selection",
       "mention_count": 32
     },
     {
       "label": "bobo brazil pizza",
       "mention_count": 8
-    },
-    {
-      "label": "vegan options",
-      "mention_count": 27
     }
   ],
-  "scraped_at": "2026-05-05T16:39:37Z",
+  "scraped_at": "2026-05-16T05:37:21Z",
   "city": "Austin",
   "key": "via-313-austin"
 }

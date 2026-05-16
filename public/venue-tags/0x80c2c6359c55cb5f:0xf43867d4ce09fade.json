@@ -15,16 +15,16 @@
       "mention_count": 25
     },
     {
-      "label": "chipotle aioli",
-      "mention_count": 13
-    },
-    {
       "label": "pastrami burrito",
       "mention_count": 12
     },
     {
       "label": "vegan options",
       "mention_count": 27
+    },
+    {
+      "label": "chipotle aioli",
+      "mention_count": 8
     },
     {
       "label": "hash browns",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:17:21Z",
+  "scraped_at": "2026-05-16T05:15:55Z",
   "city": "Los Angeles",
   "key": "wake-and-late-los-angele"
 }

@@ -11,16 +11,12 @@
       "mention_count": 66
     },
     {
-      "label": "danzai noodles",
-      "mention_count": 11
-    },
-    {
       "label": "freshwater clams",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "crab okowa",
-      "mention_count": 22
+      "mention_count": 21
     },
     {
       "label": "water spinach",
@@ -41,9 +37,13 @@
     {
       "label": "crispy chicken",
       "mention_count": 22
+    },
+    {
+      "label": "fried rice vermicelli",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-05T16:23:48Z",
+  "scraped_at": "2026-05-16T05:22:19Z",
   "city": "Taipei",
   "key": "umeko-梅子餐廳-taipei"
 }

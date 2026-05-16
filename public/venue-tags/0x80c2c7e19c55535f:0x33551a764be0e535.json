@@ -3,7 +3,7 @@
   "venue_name": "The Lab Gastropub",
   "chips": [
     {
-      "label": "Spinach Dip",
+      "label": "spinach dip",
       "mention_count": 12
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "label": "beer selection",
-      "mention_count": 10
+      "mention_count": 9
     },
     {
       "label": "guacamole",
@@ -43,7 +43,7 @@
       "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-05T16:33:44Z",
+  "scraped_at": "2026-05-16T05:31:58Z",
   "city": "Los Angeles",
   "key": "the-lab-gastropub-los-angele"
 }

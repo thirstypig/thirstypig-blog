@@ -20,7 +20,7 @@
     },
     {
       "label": "crispy rice salad",
-      "mention_count": 13
+      "mention_count": 12
     },
     {
       "label": "Khao Soi Jay",
@@ -31,19 +31,19 @@
       "mention_count": 10
     },
     {
+      "label": "natural wine",
+      "mention_count": 10
+    },
+    {
       "label": "free spring rolls",
       "mention_count": 3
     },
     {
       "label": "wings",
       "mention_count": 12
-    },
-    {
-      "label": "sweet potato massaman curry",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:12:28Z",
+  "scraped_at": "2026-05-16T05:11:09Z",
   "city": "Los Angeles",
   "key": "night-market-hollywood"
 }

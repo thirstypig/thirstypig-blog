@@ -22,6 +22,7 @@ categories:
 city: Long Beach
 cuisine:
 - American
+placeId: "0x80c2c527a41a9f25:0x801473a606a9cc47"
 ---
 
 ![“That’s what a hamburger’s all about](/images/posts/ig-2017-12-01-thats-what-a-hamburgers-all-about/17893658827085613.jpg)

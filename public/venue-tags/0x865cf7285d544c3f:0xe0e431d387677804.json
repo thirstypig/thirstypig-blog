@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 642
+      "mention_count": 643
     },
     {
       "label": "texas bbq",
@@ -16,7 +16,7 @@
     },
     {
       "label": "pork ribs",
-      "mention_count": 98
+      "mention_count": 99
     },
     {
       "label": "street corn",
@@ -43,7 +43,7 @@
       "mention_count": 20
     }
   ],
-  "scraped_at": "2026-05-05T16:40:01Z",
+  "scraped_at": "2026-05-16T05:37:46Z",
   "city": "San Antonio",
   "key": "2m-smokehouse-san-antoni"
 }

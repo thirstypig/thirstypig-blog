@@ -12,7 +12,7 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 101
+      "mention_count": 100
     },
     {
       "label": "bike rentals",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:39:56Z",
+  "scraped_at": "2026-05-16T05:37:41Z",
   "city": "Lockhart",
   "key": "made-a-trek-to-lockhart-lockhart"
 }

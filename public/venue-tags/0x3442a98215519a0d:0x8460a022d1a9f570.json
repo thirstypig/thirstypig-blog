@@ -4,35 +4,35 @@
   "chips": [
     {
       "label": "dongpo pork",
-      "mention_count": 273
-    },
-    {
-      "label": "shaomai",
-      "mention_count": 80
-    },
-    {
-      "label": "dining environment",
-      "mention_count": 89
-    },
-    {
-      "label": "pan-fried buns",
-      "mention_count": 685
-    },
-    {
-      "label": "turnip cake",
-      "mention_count": 58
+      "mention_count": 270
     },
     {
       "label": "lettuce shrimp floss",
       "mention_count": 23
     },
     {
+      "label": "dining environment",
+      "mention_count": 89
+    },
+    {
+      "label": "shaomai",
+      "mention_count": 80
+    },
+    {
+      "label": "pan-fried buns",
+      "mention_count": 686
+    },
+    {
+      "label": "turnip cake",
+      "mention_count": 59
+    },
+    {
       "label": "xiaolongbao",
-      "mention_count": 507
+      "mention_count": 508
     },
     {
       "label": "beef noodle soup",
-      "mention_count": 65
+      "mention_count": 63
     },
     {
       "label": "char siu pastry",
@@ -43,7 +43,7 @@
       "mention_count": 39
     }
   ],
-  "scraped_at": "2026-05-05T16:23:53Z",
+  "scraped_at": "2026-05-16T05:22:24Z",
   "city": "Taipei",
   "key": "高記-kaochi-taipei"
 }

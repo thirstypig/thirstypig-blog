@@ -7,20 +7,20 @@
       "mention_count": 445
     },
     {
-      "label": "stir-fried eel",
-      "mention_count": 13
+      "label": "tainan snacks",
+      "mention_count": 37
     },
     {
       "label": "dining environment",
       "mention_count": 87
     },
     {
-      "label": "tainan snacks",
-      "mention_count": 37
-    },
-    {
       "label": "traditional tofu pudding",
       "mention_count": 46
+    },
+    {
+      "label": "stir-fried eel",
+      "mention_count": 13
     },
     {
       "label": "oyster omelette",
@@ -31,19 +31,19 @@
       "mention_count": 45
     },
     {
-      "label": "du hsiao yueh",
-      "mention_count": 12
-    },
-    {
       "label": "water spinach",
       "mention_count": 18
     },
     {
       "label": "danzai rice noodles",
       "mention_count": 10
+    },
+    {
+      "label": "fried oysters",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:23:37Z",
+  "scraped_at": "2026-05-16T05:22:08Z",
   "city": "Taipei",
   "key": "braised-pork-rice-at-台南度小月-tu-hsiao-taipei"
 }

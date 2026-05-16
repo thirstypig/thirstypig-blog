@@ -7,12 +7,16 @@
       "mention_count": 41
     },
     {
-      "label": "long lines",
-      "mention_count": 174
+      "label": "spicy food",
+      "mention_count": 521
     },
     {
       "label": "outdoor seating",
       "mention_count": 15
+    },
+    {
+      "label": "long lines",
+      "mention_count": 169
     },
     {
       "label": "limited seating",
@@ -20,30 +24,26 @@
     },
     {
       "label": "banana pudding",
-      "mention_count": 45
-    },
-    {
-      "label": "comeback sauce",
-      "mention_count": 62
+      "mention_count": 46
     },
     {
       "label": "counter seating",
       "mention_count": 4
     },
     {
+      "label": "chicken and waffles",
+      "mention_count": 46
+    },
+    {
+      "label": "comeback sauce",
+      "mention_count": 62
+    },
+    {
       "label": "juicy chicken",
       "mention_count": 69
-    },
-    {
-      "label": "chicken tenders",
-      "mention_count": 90
-    },
-    {
-      "label": "slaw",
-      "mention_count": 88
     }
   ],
-  "scraped_at": "2026-05-05T16:07:28Z",
+  "scraped_at": "2026-05-16T05:06:09Z",
   "city": "Los Angeles",
   "key": "howlin-rays-la"
 }

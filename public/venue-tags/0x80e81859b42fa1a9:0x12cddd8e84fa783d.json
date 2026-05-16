@@ -19,12 +19,16 @@
       "mention_count": 6
     },
     {
-      "label": "pork chop",
-      "mention_count": 5
+      "label": "calamari",
+      "mention_count": 8
     },
     {
       "label": "live music",
       "mention_count": 4
+    },
+    {
+      "label": "pork chop",
+      "mention_count": 5
     },
     {
       "label": "macadamia nut pancakes",
@@ -37,13 +41,9 @@
     {
       "label": "quinoa salad",
       "mention_count": 2
-    },
-    {
-      "label": "chocolate cake",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:11:52Z",
+  "scraped_at": "2026-05-16T05:10:33Z",
   "city": "Malibu",
   "key": "kristys-village-cafe-malibu"
 }

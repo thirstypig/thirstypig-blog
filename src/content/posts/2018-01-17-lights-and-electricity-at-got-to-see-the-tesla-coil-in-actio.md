@@ -24,6 +24,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c738ab698a9b:0xf1e4091cf6c500b8"
 ---
 
 ![Lights and electricity at got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)

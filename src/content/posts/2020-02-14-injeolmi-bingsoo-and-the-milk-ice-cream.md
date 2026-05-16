@@ -26,6 +26,7 @@ categories:
 - Dessert
 cuisine:
 - Dessert
+placeId: "0x80c2c64b8fb9bbd7:0xce059f113428209c"
 ---
 
 ![Injeolmi Bingsoo and the milk ice cream](/images/posts/ig-2020-02-14-injeolmi-bingsoo-and-the-milk-ice-cream/17853631903838945.jpg)

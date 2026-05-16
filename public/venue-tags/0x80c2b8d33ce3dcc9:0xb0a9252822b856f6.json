@@ -3,16 +3,16 @@
   "venue_name": "Petit Trois",
   "chips": [
     {
+      "label": "french onion soup",
+      "mention_count": 57
+    },
+    {
       "label": "escargot",
       "mention_count": 42
     },
     {
-      "label": "French Onion Soup",
-      "mention_count": 56
-    },
-    {
       "label": "outdoor seating",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "steak frites",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:12:36Z",
+  "scraped_at": "2026-05-16T05:11:18Z",
   "city": "Los Angeles",
   "key": "petit-trois-la"
 }

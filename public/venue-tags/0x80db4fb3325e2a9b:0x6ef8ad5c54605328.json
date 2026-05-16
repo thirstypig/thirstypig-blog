@@ -3,24 +3,28 @@
   "venue_name": "El Mexicano II",
   "chips": [
     {
-      "label": "Chile Relleno Chicken Enchilada with Rice and Beans",
-      "mention_count": 4
-    },
-    {
       "label": "chile verde plate",
       "mention_count": 3
+    },
+    {
+      "label": "burrito ranchero",
+      "mention_count": 2
     },
     {
       "label": "outdoor seating",
       "mention_count": 24
     },
     {
+      "label": "micheladas",
+      "mention_count": 4
+    },
+    {
       "label": "live music",
       "mention_count": 7
     },
     {
-      "label": "burrito ranchero",
-      "mention_count": 2
+      "label": "chile relleno",
+      "mention_count": 4
     },
     {
       "label": "friendly waitress",
@@ -37,13 +41,9 @@
     {
       "label": "fish tacos",
       "mention_count": 3
-    },
-    {
-      "label": "gracious owners",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:35:49Z",
+  "scraped_at": "2026-05-16T05:33:48Z",
   "city": "Shanghai",
   "key": "el-mexicano-shanghai"
 }

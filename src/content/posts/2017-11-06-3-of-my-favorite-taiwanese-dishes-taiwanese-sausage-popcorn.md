@@ -22,6 +22,7 @@ region: San Gabriel Valley
 location: Uncle Yu Beer House
 cuisine:
 - Taiwanese
+placeId: "0x80c2db9493f7ce8f:0x216f29d69f6f8bff"
 ---
 
 ![3 of my favorite Taiwanese dishes - Taiwanese sausage, popcorn chicken, and 3...](/images/posts/ig-2017-11-06-3-of-my-favorite-taiwanese-dishes-taiwanese-sausage-popcorn/17907162253024372.jpg)

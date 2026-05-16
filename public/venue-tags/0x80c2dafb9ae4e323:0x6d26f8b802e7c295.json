@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dafb9ae4e323:0x6d26f8b802e7c295",
+  "venue_name": "凱悦 Grand Harbor",
+  "chips": [
+    {
+      "label": "lobster",
+      "mention_count": 11
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 3
+    },
+    {
+      "label": "steamed tilapia",
+      "mention_count": 2
+    },
+    {
+      "label": "hargow",
+      "mention_count": 3
+    },
+    {
+      "label": "Baked BBQ Pork Buns",
+      "mention_count": 5
+    },
+    {
+      "label": "picture menu",
+      "mention_count": 6
+    },
+    {
+      "label": "Peking Duck",
+      "mention_count": 8
+    },
+    {
+      "label": "private room",
+      "mention_count": 2
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 4
+    },
+    {
+      "label": "group dining",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:46Z",
+  "city": "Temple City",
+  "key": "grand-harbor-temple-cit"
+}

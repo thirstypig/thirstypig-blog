@@ -26,6 +26,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2c7cd595aa073:0x74030cd853b6818e"
 ---
 
 ![Dinner at Rossoblu](/images/posts/ig-2018-02-28-dinner-at-rossoblu/17921997064066420.jpg)

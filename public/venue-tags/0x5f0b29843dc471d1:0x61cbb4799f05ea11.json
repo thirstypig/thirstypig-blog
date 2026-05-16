@@ -1,0 +1,49 @@
+{
+  "place_id": "0x5f0b29843dc471d1:0x61cbb4799f05ea11",
+  "venue_name": "Tsubasa",
+  "chips": [
+    {
+      "label": "new ramen alley",
+      "mention_count": 29
+    },
+    {
+      "label": "salmon roe",
+      "mention_count": 27
+    },
+    {
+      "label": "salmon roe rice bowl",
+      "mention_count": 16
+    },
+    {
+      "label": "ultimate miso ramen",
+      "mention_count": 16
+    },
+    {
+      "label": "diced char siu",
+      "mention_count": 10
+    },
+    {
+      "label": "miso butter corn ramen",
+      "mention_count": 9
+    },
+    {
+      "label": "tsubasa ramen",
+      "mention_count": 7
+    },
+    {
+      "label": "yellow curly noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "susukino ramen yokocho",
+      "mention_count": 3
+    },
+    {
+      "label": "gyoza",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-16T05:38:43Z",
+  "city": "Sapporo",
+  "key": "味一番つばさ-tsubasa-sapporo"
+}

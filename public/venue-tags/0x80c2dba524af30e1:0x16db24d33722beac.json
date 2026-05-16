@@ -7,15 +7,15 @@
       "mention_count": 252
     },
     {
+      "label": "bar seating",
+      "mention_count": 10
+    },
+    {
       "label": "spicy wontons",
-      "mention_count": 26
+      "mention_count": 23
     },
     {
-      "label": "quick seating",
-      "mention_count": 5
-    },
-    {
-      "label": "cucumber salad",
+      "label": "Cucumber Salad",
       "mention_count": 29
     },
     {
@@ -31,19 +31,19 @@
       "mention_count": 28
     },
     {
-      "label": "bar seating",
-      "mention_count": 10
-    },
-    {
-      "label": "potstickers",
-      "mention_count": 18
+      "label": "quick seating",
+      "mention_count": 3
     },
     {
       "label": "chocolate dumplings",
       "mention_count": 11
+    },
+    {
+      "label": "wait time",
+      "mention_count": 143
     }
   ],
-  "scraped_at": "2026-05-05T16:07:20Z",
+  "scraped_at": "2026-05-16T05:06:01Z",
   "city": "Arcadia",
   "key": "din-tai-fung-arcadia"
 }

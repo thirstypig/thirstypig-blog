@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "hot dogs",
-      "mention_count": 1385
+      "mention_count": 1345
     },
     {
       "label": "frog legs",
@@ -15,35 +15,35 @@
       "mention_count": 56
     },
     {
-      "label": "clams",
-      "mention_count": 164
-    },
-    {
       "label": "corn dogs",
       "mention_count": 87
     },
     {
       "label": "long lines",
-      "mention_count": 250
+      "mention_count": 249
     },
     {
       "label": "chili cheese dog",
       "mention_count": 65
     },
     {
-      "label": "lobster roll",
-      "mention_count": 55
-    },
-    {
       "label": "cheese fries",
       "mention_count": 240
     },
     {
+      "label": "lobster roll",
+      "mention_count": 55
+    },
+    {
       "label": "sauerkraut",
       "mention_count": 44
+    },
+    {
+      "label": "cheesesteak",
+      "mention_count": 55
     }
   ],
-  "scraped_at": "2026-05-05T16:15:44Z",
+  "scraped_at": "2026-05-16T05:14:20Z",
   "city": "New York",
   "key": "nathans-famous-new-york"
 }

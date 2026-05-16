@@ -7,43 +7,43 @@
       "mention_count": 200
     },
     {
-      "label": "bone marrow",
-      "mention_count": 77
+      "label": "pork belly",
+      "mention_count": 58
     },
     {
       "label": "happy hour",
       "mention_count": 370
     },
     {
-      "label": "brussel sprouts",
-      "mention_count": 159
+      "label": "bone marrow",
+      "mention_count": 77
     },
     {
-      "label": "beef shoulder",
-      "mention_count": 93
+      "label": "brussel sprouts",
+      "mention_count": 159
     },
     {
       "label": "outdoor seating",
       "mention_count": 74
     },
     {
-      "label": "charcuterie board",
-      "mention_count": 64
+      "label": "beef shoulder",
+      "mention_count": 93
     },
     {
       "label": "beignets",
       "mention_count": 62
     },
     {
-      "label": "deviled eggs",
-      "mention_count": 59
+      "label": "charcuterie board",
+      "mention_count": 64
     },
     {
-      "label": "pork belly",
-      "mention_count": 58
+      "label": "deviled eggs",
+      "mention_count": 57
     }
   ],
-  "scraped_at": "2026-05-05T16:40:04Z",
+  "scraped_at": "2026-05-16T05:37:49Z",
   "city": "Austin",
   "key": "salty-sow-austin"
 }

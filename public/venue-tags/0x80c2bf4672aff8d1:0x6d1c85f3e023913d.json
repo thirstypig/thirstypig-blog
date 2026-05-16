@@ -8,7 +8,7 @@
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 39
+      "mention_count": 45
     },
     {
       "label": "drive thru",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:18:22Z",
+  "scraped_at": "2026-05-16T05:16:57Z",
   "city": "Los Angeles",
   "key": "original-tommys-hamburgers-los-angele"
 }

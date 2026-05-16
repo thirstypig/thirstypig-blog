@@ -23,16 +23,16 @@
       "mention_count": 198
     },
     {
-      "label": "hot dogs",
-      "mention_count": 117
+      "label": "Hot Dogs",
+      "mention_count": 115
     },
     {
       "label": "sausages",
-      "mention_count": 248
+      "mention_count": 247
     },
     {
       "label": "Bratwurst",
-      "mention_count": 181
+      "mention_count": 182
     },
     {
       "label": "rattlesnake",
@@ -43,7 +43,7 @@
       "mention_count": 74
     }
   ],
-  "scraped_at": "2026-05-05T16:09:21Z",
+  "scraped_at": "2026-05-16T05:08:02Z",
   "city": "Downtown LA",
   "key": "wurstküche-downtown-l"
 }

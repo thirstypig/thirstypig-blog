@@ -1,0 +1,25 @@
+{
+  "place_id": "0x35b270716f36e32b:0xe7f4310010d22113",
+  "venue_name": "Crystal Jade Restaurant",
+  "chips": [
+    {
+      "label": "XLB",
+      "mention_count": 3
+    },
+    {
+      "label": "dim sum",
+      "mention_count": 4
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 3
+    },
+    {
+      "label": "mall",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:28:32Z",
+  "city": "Shanghai",
+  "key": "crystal-jade-palace-翡翠皇宮酒家-shanghai"
+}

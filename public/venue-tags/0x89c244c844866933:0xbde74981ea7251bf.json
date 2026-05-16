@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c244c844866933:0xbde74981ea7251bf",
+  "venue_name": "Di Fara Pizza",
+  "chips": [
+    {
+      "label": "pie",
+      "mention_count": 434
+    },
+    {
+      "label": "ny pizza",
+      "mention_count": 31
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 17
+    },
+    {
+      "label": "fresh basil",
+      "mention_count": 50
+    },
+    {
+      "label": "square pizza",
+      "mention_count": 46
+    },
+    {
+      "label": "cash only",
+      "mention_count": 36
+    },
+    {
+      "label": "crispy crust",
+      "mention_count": 42
+    },
+    {
+      "label": "square slice",
+      "mention_count": 71
+    },
+    {
+      "label": "burnt pizza",
+      "mention_count": 20
+    },
+    {
+      "label": "wait time",
+      "mention_count": 244
+    }
+  ],
+  "scraped_at": "2026-05-16T05:46:13Z",
+  "city": "Brooklyn",
+  "key": "di-fara-pizza-brooklyn"
+}

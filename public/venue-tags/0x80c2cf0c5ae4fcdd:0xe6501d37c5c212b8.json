@@ -3,24 +3,24 @@
   "venue_name": "Moo's Craft Barbecue",
   "chips": [
     {
-      "label": "mac and cheese",
-      "mention_count": 84
-    },
-    {
       "label": "texas style bbq",
       "mention_count": 25
+    },
+    {
+      "label": "brisket",
+      "mention_count": 229
     },
     {
       "label": "outdoor seating",
       "mention_count": 18
     },
     {
-      "label": "brisket",
-      "mention_count": 228
-    },
-    {
       "label": "pork ribs",
       "mention_count": 53
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 84
     },
     {
       "label": "pork belly",
@@ -43,7 +43,7 @@
       "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-05T16:12:19Z",
+  "scraped_at": "2026-05-16T05:11:01Z",
   "city": "East LA",
   "key": "moos-craft-barbecue-east-la"
 }

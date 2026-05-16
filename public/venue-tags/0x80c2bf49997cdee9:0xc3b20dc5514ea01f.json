@@ -1,0 +1,13 @@
+{
+  "place_id": "0x80c2bf49997cdee9:0xc3b20dc5514ea01f",
+  "venue_name": "The Bird Streets Club",
+  "chips": [
+    {
+      "label": "decor",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:09Z",
+  "city": "East LA",
+  "key": "phat-birds-east-la"
+}

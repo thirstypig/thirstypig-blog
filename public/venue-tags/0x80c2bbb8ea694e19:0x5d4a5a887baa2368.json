@@ -8,15 +8,15 @@
     },
     {
       "label": "burrata pizza",
-      "mention_count": 23
+      "mention_count": 25
     },
     {
       "label": "outdoor seating",
       "mention_count": 63
     },
     {
-      "label": "moroccan eggs",
-      "mention_count": 15
+      "label": "mushroom pizza",
+      "mention_count": 13
     },
     {
       "label": "japanese sweet potato",
@@ -27,12 +27,8 @@
       "mention_count": 5
     },
     {
-      "label": "mushroom pizza",
-      "mention_count": 13
-    },
-    {
       "label": "duck hash",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "label": "chorizo pizza",
@@ -41,9 +37,13 @@
     {
       "label": "date cake",
       "mention_count": 11
+    },
+    {
+      "label": "guanciale pizza",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-05T16:23:20Z",
+  "scraped_at": "2026-05-16T05:21:51Z",
   "city": "Venice",
   "key": "hank-moodys-gjelina-of-venice-venice"
 }

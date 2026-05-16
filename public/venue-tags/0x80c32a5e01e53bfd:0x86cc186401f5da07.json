@@ -19,6 +19,10 @@
       "mention_count": 18
     },
     {
+      "label": "curry rice",
+      "mention_count": 7
+    },
+    {
       "label": "omurice",
       "mention_count": 7
     },
@@ -37,13 +41,9 @@
     {
       "label": "pork loin",
       "mention_count": 4
-    },
-    {
-      "label": "chicken katsu",
-      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:18:25Z",
+  "scraped_at": "2026-05-16T05:17:00Z",
   "city": "Rowland Heights",
   "key": "country-bistro-rowland-he"
 }

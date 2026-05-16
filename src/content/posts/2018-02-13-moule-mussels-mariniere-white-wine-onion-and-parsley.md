@@ -27,6 +27,7 @@ coordinates:
   lng: -122.423094
 cuisine:
 - French
+placeId: "0x80858098963fa0ef:0x8532bdc78c1208e9"
 ---
 
 ![Moule (mussels) mariniere (white wine, onion, and parsley)](/images/posts/ig-2018-02-13-moule-mussels-mariniere-white-wine-onion-and-parsley/17924557276002418.jpg)

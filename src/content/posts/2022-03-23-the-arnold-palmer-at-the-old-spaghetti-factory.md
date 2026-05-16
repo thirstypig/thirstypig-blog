@@ -31,6 +31,7 @@ coordinates:
   lng: -118.264778
 cuisine:
 - Italian
+placeId: "0x80c2d906d7d537e3:0xb3eb8659a58aa6bd"
 ---
 
 ![The Arnold Palmer at The Old Spaghetti Factory](/images/posts/ig-2022-03-23-the-arnold-palmer-at-the-old-spaghetti-factory/17955052444665552.jpg)

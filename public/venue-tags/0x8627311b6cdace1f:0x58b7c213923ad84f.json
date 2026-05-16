@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8627311b6cdace1f:0x58b7c213923ad84f",
+  "venue_name": "Middendorf's Manchac",
+  "chips": [
+    {
+      "label": "thin fried catfish",
+      "mention_count": 202
+    },
+    {
+      "label": "turtle soup",
+      "mention_count": 50
+    },
+    {
+      "label": "lake view",
+      "mention_count": 29
+    },
+    {
+      "label": "stuffed crab",
+      "mention_count": 50
+    },
+    {
+      "label": "seafood platter",
+      "mention_count": 91
+    },
+    {
+      "label": "sunset view",
+      "mention_count": 9
+    },
+    {
+      "label": "softshell crab",
+      "mention_count": 38
+    },
+    {
+      "label": "hush puppies",
+      "mention_count": 85
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 4
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:35Z",
+  "city": "New Orleans",
+  "key": "middendorfs-new-orlean"
+}

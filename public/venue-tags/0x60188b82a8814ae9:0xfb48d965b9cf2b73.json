@@ -20,7 +20,7 @@
     },
     {
       "label": "spicy ramen",
-      "mention_count": 30
+      "mention_count": 29
     },
     {
       "label": "hakata ramen",
@@ -31,19 +31,19 @@
       "mention_count": 10
     },
     {
-      "label": "vegan ramen",
-      "mention_count": 6
-    },
-    {
       "label": "akamaru shin-aji",
       "mention_count": 3
     },
     {
       "label": "wait time",
       "mention_count": 36
+    },
+    {
+      "label": "vegetarian ramen",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-05T16:08:13Z",
+  "scraped_at": "2026-05-16T05:06:54Z",
   "city": "Tokyo",
   "key": "ippudo-tokyo"
 }

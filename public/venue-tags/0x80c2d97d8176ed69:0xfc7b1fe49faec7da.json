@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2d97d8176ed69:0xfc7b1fe49faec7da",
+  "venue_name": "Luscious Dumplings",
+  "chips": [
+    {
+      "label": "soup dumplings",
+      "mention_count": 22
+    },
+    {
+      "label": "pan fried dumplings",
+      "mention_count": 16
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 23
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 8
+    },
+    {
+      "label": "green onion pancakes",
+      "mention_count": 6
+    },
+    {
+      "label": "michelin star",
+      "mention_count": 10
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 6
+    },
+    {
+      "label": "fish dumplings",
+      "mention_count": 3
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 7
+    },
+    {
+      "label": "Beef Tendon Noodle Soup",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:23Z",
+  "city": "Monrovia",
+  "key": "luscious-dumplings-monrovia"
+}

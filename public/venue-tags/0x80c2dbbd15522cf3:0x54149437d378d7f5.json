@@ -7,10 +7,6 @@
       "mention_count": 34
     },
     {
-      "label": "garlic rice",
-      "mention_count": 6
-    },
-    {
       "label": "dark meat",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "flavor",
       "mention_count": 2
+    },
+    {
+      "label": "soy",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:11:44Z",
+  "scraped_at": "2026-05-16T05:10:25Z",
   "city": "Arcadia",
   "key": "side-chick-arcadia"
 }

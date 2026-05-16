@@ -19,19 +19,19 @@
       "mention_count": 7
     },
     {
+      "label": "sashimi",
+      "mention_count": 4
+    },
+    {
       "label": "tuna",
       "mention_count": 2
     },
     {
       "label": "food",
       "mention_count": 4
-    },
-    {
-      "label": "sashimi",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:18:55Z",
+  "scraped_at": "2026-05-16T05:17:30Z",
   "city": "San Marino",
   "key": "yoshida-sushi-san-marino"
 }

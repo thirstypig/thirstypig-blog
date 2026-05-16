@@ -12,7 +12,7 @@
     },
     {
       "label": "soy garlic wings",
-      "mention_count": 20
+      "mention_count": 15
     },
     {
       "label": "pickled radish",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:24:22Z",
+  "scraped_at": "2026-05-16T05:22:53Z",
   "city": "Shanghai",
   "key": "kyochon-chicken-shanghai"
 }

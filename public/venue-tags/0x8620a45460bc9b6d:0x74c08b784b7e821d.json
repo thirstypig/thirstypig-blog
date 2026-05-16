@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a45460bc9b6d:0x74c08b784b7e821d",
+  "venue_name": "Creole Creamery",
+  "chips": [
+    {
+      "label": "unique flavors",
+      "mention_count": 404
+    },
+    {
+      "label": "cash only",
+      "mention_count": 105
+    },
+    {
+      "label": "creole cream cheese",
+      "mention_count": 36
+    },
+    {
+      "label": "red velvet ice cream",
+      "mention_count": 27
+    },
+    {
+      "label": "lavender",
+      "mention_count": 30
+    },
+    {
+      "label": "petit four",
+      "mention_count": 17
+    },
+    {
+      "label": "lavender honey ice cream",
+      "mention_count": 13
+    },
+    {
+      "label": "sorbet",
+      "mention_count": 24
+    },
+    {
+      "label": "sundaes",
+      "mention_count": 36
+    },
+    {
+      "label": "cookie monster",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:39Z",
+  "city": "New Orleans",
+  "key": "peanut-butter-cheesecake-and-vanill-new-orlean"
+}

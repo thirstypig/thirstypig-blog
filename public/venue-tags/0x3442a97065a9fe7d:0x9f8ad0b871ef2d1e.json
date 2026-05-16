@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "youtiao",
-      "mention_count": 3181
+      "mention_count": 3187
     },
     {
       "label": "shaobing youtiao",
-      "mention_count": 3657
+      "mention_count": 3663
     },
     {
       "label": "dining environment",
-      "mention_count": 325
+      "mention_count": 323
     },
     {
       "label": "thick flatbread",
-      "mention_count": 1195
+      "mention_count": 1193
     },
     {
       "label": "thick pancake with egg",
-      "mention_count": 810
+      "mention_count": 808
     },
     {
       "label": "rice ball",
-      "mention_count": 925
+      "mention_count": 926
     },
     {
       "label": "queue",
-      "mention_count": 1826
+      "mention_count": 1828
     },
     {
       "label": "iced soy milk",
-      "mention_count": 294
+      "mention_count": 295
     },
     {
       "label": "sweet soy milk",
-      "mention_count": 255
+      "mention_count": 257
     },
     {
       "label": "caramel sweet cake",
       "mention_count": 262
     }
   ],
-  "scraped_at": "2026-05-05T16:16:29Z",
+  "scraped_at": "2026-05-16T05:15:04Z",
   "city": "Taipei",
   "key": "fu-hang-dou-jiang-阜杭豆漿-taipei"
 }

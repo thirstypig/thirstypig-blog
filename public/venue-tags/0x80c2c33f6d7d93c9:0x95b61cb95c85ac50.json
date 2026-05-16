@@ -3,19 +3,15 @@
   "venue_name": "The Slaw Dogs",
   "chips": [
     {
-      "label": "Chicago-Style Hot Dog",
-      "mention_count": 5
-    },
-    {
       "label": "bulgogi",
       "mention_count": 2
     },
     {
-      "label": "tater tots",
-      "mention_count": 2
+      "label": "Chicago-Style Hot Dog",
+      "mention_count": 5
     },
     {
-      "label": "mac and cheese",
+      "label": "tater tots",
       "mention_count": 2
     },
     {
@@ -27,6 +23,14 @@
       "mention_count": 4
     },
     {
+      "label": "mac and cheese",
+      "mention_count": 2
+    },
+    {
+      "label": "chili",
+      "mention_count": 3
+    },
+    {
       "label": "sweet potato",
       "mention_count": 2
     },
@@ -35,15 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "chili",
-      "mention_count": 3
-    },
-    {
       "label": "garlic",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:23:18Z",
+  "scraped_at": "2026-05-16T05:21:49Z",
   "city": "Pasadena",
   "key": "slaw-dogs-of-pasadena-pasadena"
 }

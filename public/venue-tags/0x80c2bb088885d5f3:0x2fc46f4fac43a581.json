@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb088885d5f3:0x2fc46f4fac43a581",
+  "venue_name": "Ramenya",
+  "chips": [
+    {
+      "label": "laksa",
+      "mention_count": 6
+    },
+    {
+      "label": "spicy miso ramen",
+      "mention_count": 4
+    },
+    {
+      "label": "geso karaage",
+      "mention_count": 3
+    },
+    {
+      "label": "shoyu ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "Tan Tan Men",
+      "mention_count": 5
+    },
+    {
+      "label": "soondubu",
+      "mention_count": 2
+    },
+    {
+      "label": "tomato ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "ramen bowls",
+      "mention_count": 2
+    },
+    {
+      "label": "daikon",
+      "mention_count": 3
+    },
+    {
+      "label": "chashu",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:38:51Z",
+  "city": "Los Angeles",
+  "key": "ramenya-los-angele"
+}

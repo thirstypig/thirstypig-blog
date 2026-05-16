@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bf14af121db1:0x9301459b13155ba2",
+  "venue_name": "Chick & Burger",
+  "chips": [
+    {
+      "label": "smash burger",
+      "mention_count": 20
+    },
+    {
+      "label": "Fried Chicken Sandwich w Fries",
+      "mention_count": 17
+    },
+    {
+      "label": "chicken tenders",
+      "mention_count": 13
+    },
+    {
+      "label": "crispy fries",
+      "mention_count": 8
+    },
+    {
+      "label": "vegan burger",
+      "mention_count": 4
+    },
+    {
+      "label": "wings",
+      "mention_count": 12
+    },
+    {
+      "label": "homemade ranch",
+      "mention_count": 3
+    },
+    {
+      "label": "honey garlic chicken wings",
+      "mention_count": 2
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 2
+    },
+    {
+      "label": "dbl burger",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:22Z",
+  "city": "Hollywood",
+  "key": "chickn-skin-hollywood"
+}

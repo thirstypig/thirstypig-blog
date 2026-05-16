@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdcd5862d7969:0x1aabeaea52fc0df5",
+  "venue_name": "Shin-Sen-Gumi – Irvine",
+  "chips": [
+    {
+      "label": "large bowls",
+      "mention_count": 31
+    },
+    {
+      "label": "Hakata Ramen",
+      "mention_count": 4
+    },
+    {
+      "label": "Katsu Curry Odon",
+      "mention_count": 13
+    },
+    {
+      "label": "creamy uni",
+      "mention_count": 11
+    },
+    {
+      "label": "udon",
+      "mention_count": 25
+    },
+    {
+      "label": "spicy miso udon",
+      "mention_count": 3
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 7
+    },
+    {
+      "label": "customizable ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "fried squid legs",
+      "mention_count": 2
+    },
+    {
+      "label": "gyoza",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:35Z",
+  "city": "Irvine",
+  "key": "shin-sen-gumi-irvine"
+}

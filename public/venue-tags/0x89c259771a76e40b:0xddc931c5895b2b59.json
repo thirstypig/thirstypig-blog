@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259771a76e40b:0xddc931c5895b2b59",
+  "venue_name": "Mido’s",
+  "chips": [
+    {
+      "label": "halal cart",
+      "mention_count": 28
+    },
+    {
+      "label": "chicken over rice",
+      "mention_count": 25
+    },
+    {
+      "label": "spicy rice",
+      "mention_count": 15
+    },
+    {
+      "label": "lamb",
+      "mention_count": 29
+    },
+    {
+      "label": "combo over rice",
+      "mention_count": 6
+    },
+    {
+      "label": "gyro",
+      "mention_count": 9
+    },
+    {
+      "label": "food cart",
+      "mention_count": 15
+    },
+    {
+      "label": "adel's famous halal food",
+      "mention_count": 15
+    },
+    {
+      "label": "chicken and lamb rice combo",
+      "mention_count": 2
+    },
+    {
+      "label": "jalapeños",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:46:02Z",
+  "city": "New York",
+  "key": "midos-halal-food-cart-new-york"
+}

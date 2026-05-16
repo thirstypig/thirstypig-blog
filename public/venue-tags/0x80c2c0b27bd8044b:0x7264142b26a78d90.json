@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "fish tacos",
-      "mention_count": 192
+      "mention_count": 191
     },
     {
       "label": "shrimp tacos",
-      "mention_count": 84
+      "mention_count": 89
     },
     {
       "label": "outdoor seating",
@@ -17,10 +17,6 @@
     {
       "label": "potato tacos",
       "mention_count": 31
-    },
-    {
-      "label": "crema",
-      "mention_count": 19
     },
     {
       "label": "fried fish",
@@ -35,6 +31,10 @@
       "mention_count": 27
     },
     {
+      "label": "crema",
+      "mention_count": 10
+    },
+    {
       "label": "salsa bar",
       "mention_count": 18
     },
@@ -43,7 +43,7 @@
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-05T16:13:51Z",
+  "scraped_at": "2026-05-16T05:12:27Z",
   "city": "Los Angeles",
   "key": "best-fish-tacos-hands-down-los-angele"
 }

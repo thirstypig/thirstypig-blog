@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "youtiao",
-      "mention_count": 263
+      "mention_count": 261
     },
     {
       "label": "xiaolongbao",
-      "mention_count": 146
+      "mention_count": 147
     },
     {
       "label": "limited seating",
@@ -27,23 +27,23 @@
       "mention_count": 73
     },
     {
-      "label": "doujiang",
-      "mention_count": 72
+      "label": "dough fritters",
+      "mention_count": 43
     },
     {
-      "label": "dough fritters",
-      "mention_count": 42
+      "label": "doujiang",
+      "mention_count": 71
     },
     {
       "label": "rice ball",
-      "mention_count": 57
+      "mention_count": 58
     },
     {
       "label": "turnip cake",
       "mention_count": 50
     }
   ],
-  "scraped_at": "2026-05-05T16:15:33Z",
+  "scraped_at": "2026-05-16T05:14:09Z",
   "city": "Taipei",
   "key": "yonghe-chinese-type-breakfast-shop--taipei"
 }

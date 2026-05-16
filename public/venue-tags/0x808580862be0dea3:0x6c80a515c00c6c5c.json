@@ -1,0 +1,49 @@
+{
+  "place_id": "0x808580862be0dea3:0x6c80a515c00c6c5c",
+  "venue_name": "IPPUDO San Francisco",
+  "chips": [
+    {
+      "label": "veggie ramen",
+      "mention_count": 38
+    },
+    {
+      "label": "Karaka Spicy Ramen",
+      "mention_count": 9
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 8
+    },
+    {
+      "label": "pork bun",
+      "mention_count": 36
+    },
+    {
+      "label": "chicken karaage",
+      "mention_count": 30
+    },
+    {
+      "label": "poached egg",
+      "mention_count": 8
+    },
+    {
+      "label": "sake",
+      "mention_count": 39
+    },
+    {
+      "label": "pork belly chashu 豚チャーシュー",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 124
+    },
+    {
+      "label": "tamago",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:41Z",
+  "city": "San Francisco",
+  "key": "ippudo-san-franci"
+}

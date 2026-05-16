@@ -24,15 +24,15 @@
     },
     {
       "label": "pastries",
-      "mention_count": 407
+      "mention_count": 405
     },
     {
       "label": "potato pancake",
       "mention_count": 50
     },
     {
-      "label": "short rib",
-      "mention_count": 54
+      "label": "croque madame",
+      "mention_count": 52
     },
     {
       "label": "avocado toast",
@@ -40,10 +40,10 @@
     },
     {
       "label": "baguette",
-      "mention_count": 147
+      "mention_count": 149
     }
   ],
-  "scraped_at": "2026-05-05T16:07:31Z",
+  "scraped_at": "2026-05-16T05:06:12Z",
   "city": "Los Angeles",
   "key": "republique-la"
 }

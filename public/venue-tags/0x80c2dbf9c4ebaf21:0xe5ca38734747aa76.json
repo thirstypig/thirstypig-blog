@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "egg tarts",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "label": "desserts",
-      "mention_count": 39
+      "mention_count": 40
     },
     {
       "label": "outdoor patio",
@@ -19,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "tiramisu",
-      "mention_count": 6
+      "label": "mango texture",
+      "mention_count": 10
     },
     {
-      "label": "mango texture",
-      "mention_count": 9
+      "label": "tiramisu",
+      "mention_count": 6
     },
     {
       "label": "mango cake",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:15:17Z",
+  "scraped_at": "2026-05-16T05:13:52Z",
   "city": "San Gabriel Valley",
   "key": "tasty-dessert-san-gabrie"
 }

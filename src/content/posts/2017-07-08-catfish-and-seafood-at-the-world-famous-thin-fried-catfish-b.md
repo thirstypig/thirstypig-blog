@@ -33,6 +33,7 @@ coordinates:
   lng: -90.401569
 cuisine:
 - Seafood
+placeId: "0x8627311b6cdace1f:0x58b7c213923ad84f"
 ---
 
 ![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17888711638025180.jpg)

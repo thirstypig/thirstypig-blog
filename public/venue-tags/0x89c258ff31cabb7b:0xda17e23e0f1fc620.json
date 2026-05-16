@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c258ff31cabb7b:0xda17e23e0f1fc620",
+  "venue_name": "Top of The Rock",
+  "chips": [
+    {
+      "label": "empire state building",
+      "mention_count": 3756
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 2063
+    },
+    {
+      "label": "view of central park",
+      "mention_count": 2494
+    },
+    {
+      "label": "sunset views",
+      "mention_count": 2841
+    },
+    {
+      "label": "city views",
+      "mention_count": 905
+    },
+    {
+      "label": "spectacular views",
+      "mention_count": 378
+    },
+    {
+      "label": "elevator ride",
+      "mention_count": 1571
+    },
+    {
+      "label": "skyline view",
+      "mention_count": 327
+    },
+    {
+      "label": "crowded",
+      "mention_count": 533
+    },
+    {
+      "label": "360 view",
+      "mention_count": 67
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:01Z",
+  "city": "New York",
+  "key": "top-of-the-rock-observation-deck-new-york"
+}

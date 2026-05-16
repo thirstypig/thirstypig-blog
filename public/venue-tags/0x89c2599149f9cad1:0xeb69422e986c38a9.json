@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2599149f9cad1:0xeb69422e986c38a9",
+  "venue_name": "Babbo",
+  "chips": [
+    {
+      "label": "100 layer lasagna",
+      "mention_count": 11
+    },
+    {
+      "label": "tasting menu",
+      "mention_count": 54
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 7
+    },
+    {
+      "label": "italian food",
+      "mention_count": 148
+    },
+    {
+      "label": "sommelier",
+      "mention_count": 43
+    },
+    {
+      "label": "lobster busiate",
+      "mention_count": 20
+    },
+    {
+      "label": "black spaghetti",
+      "mention_count": 16
+    },
+    {
+      "label": "osso bucco",
+      "mention_count": 12
+    },
+    {
+      "label": "garganelli",
+      "mention_count": 10
+    },
+    {
+      "label": "olive oil cake",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:58Z",
+  "city": "New York",
+  "key": "babbo-new-york"
+}

@@ -23,10 +23,6 @@
       "mention_count": 35
     },
     {
-      "label": "loud music",
-      "mention_count": 5
-    },
-    {
       "label": "popcorn chicken",
       "mention_count": 24
     },
@@ -41,9 +37,13 @@
     {
       "label": "claw machines",
       "mention_count": 8
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 37
     }
   ],
-  "scraped_at": "2026-05-05T16:09:35Z",
+  "scraped_at": "2026-05-16T05:08:16Z",
   "city": "San Gabriel",
   "key": "factory-tea-bar-san-gabrie"
 }

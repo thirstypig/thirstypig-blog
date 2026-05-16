@@ -24,6 +24,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2db79340ad64d:0x4fed13b6d3fa689f"
 ---
 
 ![Best Breakfast Burrito in Southern California](/images/posts/ig-2017-10-20-best-breakfast-burrito-in-southern-california/17891569438111873.jpg)

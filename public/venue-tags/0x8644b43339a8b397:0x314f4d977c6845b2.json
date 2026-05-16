@@ -27,23 +27,23 @@
       "mention_count": 14
     },
     {
-      "label": "hotate",
-      "mention_count": 42
-    },
-    {
       "label": "hot pockets",
       "mention_count": 54
+    },
+    {
+      "label": "tapas style",
+      "mention_count": 37
     },
     {
       "label": "bar seating",
       "mention_count": 8
     },
     {
-      "label": "tapas style",
-      "mention_count": 37
+      "label": "fusion cuisine",
+      "mention_count": 109
     }
   ],
-  "scraped_at": "2026-05-05T16:39:45Z",
+  "scraped_at": "2026-05-16T05:37:30Z",
   "city": "Austin",
   "key": "kemuri-tatsu-ya-austin"
 }

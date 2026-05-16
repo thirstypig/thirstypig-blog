@@ -20,6 +20,7 @@ city: Eagle Rock
 region: Los Angeles
 cuisine:
 - American
+placeId: "0x80c2c3e710f7bcff:0x8cfd62d29b0e81c5"
 ---
 
 

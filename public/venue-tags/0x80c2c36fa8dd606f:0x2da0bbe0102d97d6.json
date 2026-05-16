@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c36fa8dd606f:0x2da0bbe0102d97d6",
+  "venue_name": "Happy Feet",
+  "chips": [
+    {
+      "label": "foot massage",
+      "mention_count": 19
+    },
+    {
+      "label": "combo massage",
+      "mention_count": 4
+    },
+    {
+      "label": "thorough massage",
+      "mention_count": 3
+    },
+    {
+      "label": "back scrub",
+      "mention_count": 2
+    },
+    {
+      "label": "couples massage",
+      "mention_count": 3
+    },
+    {
+      "label": "body massage",
+      "mention_count": 6
+    },
+    {
+      "label": "hot stones",
+      "mention_count": 3
+    },
+    {
+      "label": "tipping policy",
+      "mention_count": 2
+    },
+    {
+      "label": "deep tissue massage",
+      "mention_count": 3
+    },
+    {
+      "label": "relaxing atmosphere",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:22Z",
+  "city": "Pasadena",
+  "key": "happy-feet-massage-pasadena"
+}

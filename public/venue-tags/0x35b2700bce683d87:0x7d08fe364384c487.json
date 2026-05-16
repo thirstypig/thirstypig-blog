@@ -11,10 +11,6 @@
       "mention_count": 12
     },
     {
-      "label": "kebab",
-      "mention_count": 8
-    },
-    {
       "label": "adana kebab",
       "mention_count": 2
     },
@@ -41,9 +37,13 @@
     {
       "label": "tasty food",
       "mention_count": 4
+    },
+    {
+      "label": "meat",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:28:05Z",
+  "scraped_at": "2026-05-16T05:26:35Z",
   "city": "Shanghai",
   "key": "pasha-帕夏土耳其餐厅-shanghai"
 }

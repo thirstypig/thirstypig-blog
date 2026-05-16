@@ -19,16 +19,20 @@
       "mention_count": 5
     },
     {
+      "label": "wagyu burger",
+      "mention_count": 3
+    },
+    {
       "label": "tiramisu",
       "mention_count": 4
     },
     {
-      "label": "Arancini",
-      "mention_count": 2
-    },
-    {
       "label": "happy hour",
       "mention_count": 5
+    },
+    {
+      "label": "Arancini",
+      "mention_count": 2
     },
     {
       "label": "creative cocktails",
@@ -37,13 +41,9 @@
     {
       "label": "bone marrow",
       "mention_count": 2
-    },
-    {
-      "label": "cocktail selection",
-      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:15:25Z",
+  "scraped_at": "2026-05-16T05:14:00Z",
   "city": "Los Angeles",
   "key": "cha-cha-cha-los-angele"
 }

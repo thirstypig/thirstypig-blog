@@ -1,0 +1,49 @@
+{
+  "place_id": "0x808580668e8f3159:0x830980e627627a81",
+  "venue_name": "Hog Island Oyster Co.",
+  "chips": [
+    {
+      "label": "clam chowder",
+      "mention_count": 461
+    },
+    {
+      "label": "seafood stew",
+      "mention_count": 69
+    },
+    {
+      "label": "view of the bay bridge",
+      "mention_count": 28
+    },
+    {
+      "label": "grilled oysters",
+      "mention_count": 71
+    },
+    {
+      "label": "ocean view",
+      "mention_count": 4
+    },
+    {
+      "label": "grilled cheese",
+      "mention_count": 83
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 76
+    },
+    {
+      "label": "halibut",
+      "mention_count": 40
+    },
+    {
+      "label": "geoduck",
+      "mention_count": 26
+    },
+    {
+      "label": "outdoor heaters",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:26Z",
+  "city": "San Francisco",
+  "key": "hog-island-oyster-co-san-franci"
+}

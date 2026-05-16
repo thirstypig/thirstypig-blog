@@ -32,6 +32,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80dcdcd5862d7969:0x1aabeaea52fc0df5"
 ---
 
 ![Yakitori at Shin Sen Gumi in Gardena](/images/posts/ig-2018-11-19-yakitori-at-shin-sen-gumi-in-gardena/17986046902112201.jpg)

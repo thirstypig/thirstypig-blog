@@ -27,6 +27,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dabe99d64c4d:0x7e93718d4198b0e9"
 ---
 
 ![Shaanxi Lunch in Rou Jia Mo 肉夾饃 diced lamb pita and Liang Pi 涼皮 spicy cold n...](/images/posts/ig-2017-12-03-shaanxi-lunch-in-rou-jia-mo-肉夾饃-diced-lamb-pita-and-liang-pi/17897836879112419.jpg)

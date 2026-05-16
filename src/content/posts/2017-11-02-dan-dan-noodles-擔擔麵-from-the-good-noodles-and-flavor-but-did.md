@@ -21,6 +21,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dd32891c13f1:0x5dedd85834476daf"
 ---
 
 ![Dan Dan Noodles 擔擔麵 from the good noodles and flavor but didn’t care for the...](/images/posts/ig-2017-11-02-dan-dan-noodles-擔擔麵-from-the-good-noodles-and-flavor-but-did/17879790253166016.jpg)

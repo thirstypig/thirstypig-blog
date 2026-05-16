@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcd6300af25233:0x82ba17c99d19ffe4",
+  "venue_name": "The Kroft | Anaheim",
+  "chips": [
+    {
+      "label": "poutine",
+      "mention_count": 79
+    },
+    {
+      "label": "wagyu smash burger",
+      "mention_count": 16
+    },
+    {
+      "label": "chicken parm sandwich",
+      "mention_count": 7
+    },
+    {
+      "label": "porchetta sandwich",
+      "mention_count": 12
+    },
+    {
+      "label": "braised beef poutine",
+      "mention_count": 11
+    },
+    {
+      "label": "loco moco",
+      "mention_count": 13
+    },
+    {
+      "label": "cheese curds",
+      "mention_count": 17
+    },
+    {
+      "label": "loaded fries",
+      "mention_count": 8
+    },
+    {
+      "label": "crispy fries",
+      "mention_count": 7
+    },
+    {
+      "label": "cubano",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:10Z",
+  "city": "Anaheim",
+  "key": "the-kroft-anaheim"
+}

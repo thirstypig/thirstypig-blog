@@ -23,12 +23,16 @@
       "mention_count": 3
     },
     {
-      "label": "standing room only",
-      "mention_count": 7
+      "label": "battered fish tacos",
+      "mention_count": 17
     },
     {
       "label": "outdoor seating",
       "mention_count": 3
+    },
+    {
+      "label": "standing room only",
+      "mention_count": 7
     },
     {
       "label": "flavor of the tacos",
@@ -36,14 +40,10 @@
     },
     {
       "label": "horchata",
-      "mention_count": 8
-    },
-    {
-      "label": "street tacos",
-      "mention_count": 8
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:20:39Z",
+  "scraped_at": "2026-05-16T05:19:09Z",
   "city": "Los Feliz",
   "key": "best-fish-tacos-in-ensenada-los-feliz"
 }

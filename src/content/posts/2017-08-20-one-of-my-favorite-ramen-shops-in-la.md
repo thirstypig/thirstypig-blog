@@ -23,6 +23,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c72b91056adb:0x6abb044624a68d2a"
 ---
 
 ![One of my favorite ramen shops in LA](/images/posts/ig-2017-08-20-one-of-my-favorite-ramen-shops-in-la/17867762344172008.jpg)

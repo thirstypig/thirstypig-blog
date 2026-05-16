@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a611407488b7:0x7b8430803c35c163",
+  "venue_name": "Doctor Gumbo Tours",
+  "chips": [
+    {
+      "label": "food tour",
+      "mention_count": 58
+    },
+    {
+      "label": "knowledgeable professor",
+      "mention_count": 40
+    },
+    {
+      "label": "cocktail tour",
+      "mention_count": 26
+    },
+    {
+      "label": "new orleans history",
+      "mention_count": 47
+    },
+    {
+      "label": "informative tour",
+      "mention_count": 32
+    },
+    {
+      "label": "food and cocktail tour",
+      "mention_count": 10
+    },
+    {
+      "label": "pralines",
+      "mention_count": 14
+    },
+    {
+      "label": "funny guide",
+      "mention_count": 16
+    },
+    {
+      "label": "history lesson",
+      "mention_count": 8
+    },
+    {
+      "label": "knowledgeable staff",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:23Z",
+  "city": "New Orleans",
+  "key": "dr-gumbo-food-tour-new-orlean"
+}

@@ -28,6 +28,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2c63872c0ebd9:0x1463693280588513"
 ---
 
 ![Pizza at POT Pizza in had the pepperoni pizza and the Ktown special (with...](/images/posts/ig-2017-11-11-pizza-at-pot-pizza-in-had-the-pepperoni-pizza-and-the-ktown/17848056178219379.jpg)

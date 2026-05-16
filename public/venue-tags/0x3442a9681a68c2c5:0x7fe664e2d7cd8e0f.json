@@ -4,19 +4,23 @@
   "chips": [
     {
       "label": "xiaolongbao",
-      "mention_count": 120
+      "mention_count": 121
     },
     {
       "label": "salty soy milk",
-      "mention_count": 73
+      "mention_count": 72
     },
     {
       "label": "turnip cake",
-      "mention_count": 65
+      "mention_count": 66
     },
     {
       "label": "shaobing",
       "mention_count": 42
+    },
+    {
+      "label": "onigiri",
+      "mention_count": 38
     },
     {
       "label": "danbing",
@@ -24,7 +28,7 @@
     },
     {
       "label": "japanese menu",
-      "mention_count": 67
+      "mention_count": 66
     },
     {
       "label": "fried bread",
@@ -37,13 +41,9 @@
     {
       "label": "taiwanese-style onigiri",
       "mention_count": 10
-    },
-    {
-      "label": "iced soy milk",
-      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:24:02Z",
+  "scraped_at": "2026-05-16T05:22:32Z",
   "city": "Taipei",
   "key": "世界豆漿大王-taipei"
 }

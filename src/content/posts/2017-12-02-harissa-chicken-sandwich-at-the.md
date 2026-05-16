@@ -26,6 +26,7 @@ categories:
 - Mediterranean
 cuisine:
 - Mediterranean
+placeId: "0x80c2c775c6e64011:0x47d00db942274440"
 ---
 
 ![Harissa Chicken Sandwich at the](/images/posts/ig-2017-12-02-harissa-chicken-sandwich-at-the/17851859512212826.jpg)

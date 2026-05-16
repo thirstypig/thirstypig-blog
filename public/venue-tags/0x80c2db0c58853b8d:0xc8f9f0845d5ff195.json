@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db0c58853b8d:0xc8f9f0845d5ff195",
+  "venue_name": "Clearman's Galley",
+  "chips": [
+    {
+      "label": "red cabbage",
+      "mention_count": 58
+    },
+    {
+      "label": "cheese bread",
+      "mention_count": 118
+    },
+    {
+      "label": "watching games",
+      "mention_count": 60
+    },
+    {
+      "label": "chili cheeseburger",
+      "mention_count": 35
+    },
+    {
+      "label": "blue cheese salad",
+      "mention_count": 29
+    },
+    {
+      "label": "half and half salad",
+      "mention_count": 32
+    },
+    {
+      "label": "pastrami sandwich",
+      "mention_count": 15
+    },
+    {
+      "label": "burgers",
+      "mention_count": 62
+    },
+    {
+      "label": "sports bar",
+      "mention_count": 43
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:34Z",
+  "city": "San Gabriel Valley",
+  "key": "clearmans-boat-san-gabrie"
+}

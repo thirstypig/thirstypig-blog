@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5000cda356f:0x8edf0046a9487920",
+  "venue_name": "XiangLaLou",
+  "chips": [
+    {
+      "label": "hunan cuisine",
+      "mention_count": 52
+    },
+    {
+      "label": "stir-fried pork",
+      "mention_count": 20
+    },
+    {
+      "label": "chopped chili fish head",
+      "mention_count": 3
+    },
+    {
+      "label": "spicy and sour chicken gizzard",
+      "mention_count": 2
+    },
+    {
+      "label": "boiled live fish soup",
+      "mention_count": 2
+    },
+    {
+      "label": "winter melon clam soup",
+      "mention_count": 2
+    },
+    {
+      "label": "authentic hunan cuisine",
+      "mention_count": 10
+    },
+    {
+      "label": "twice-cooked pork",
+      "mention_count": 2
+    },
+    {
+      "label": "dried beans fried with bacon",
+      "mention_count": 2
+    },
+    {
+      "label": "chilis",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:18Z",
+  "city": "Los Angeles",
+  "key": "she-said-it-is-the-best-hunan-resta-los-angele"
+}

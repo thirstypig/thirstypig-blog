@@ -25,6 +25,7 @@ coordinates:
   lng: -118.36102
 cuisine:
 - American
+placeId: "0x80c2b9305a1a8653:0x505fc0afd1360a55"
 ---
 
 ![Reuben and meatloaf at the am LA institution - unfortunately the Reuben (gri...](/images/posts/ig-2017-10-26-reuben-and-meatloaf-at-the-am-la-institution-unfortunately-t/17888473690091393.jpg)

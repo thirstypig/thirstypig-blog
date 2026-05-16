@@ -19,15 +19,15 @@
       "mention_count": 3
     },
     {
-      "label": "dance",
-      "mention_count": 6
-    },
-    {
       "label": "food",
       "mention_count": 2
+    },
+    {
+      "label": "dance",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:34:00Z",
+  "scraped_at": "2026-05-16T05:32:15Z",
   "city": "Shanghai",
   "key": "西域风情-xinjiang-style-restaurant-shan-shanghai"
 }

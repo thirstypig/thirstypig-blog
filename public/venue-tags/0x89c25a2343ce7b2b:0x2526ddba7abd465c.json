@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25a2343ce7b2b:0x2526ddba7abd465c",
+  "venue_name": "Brooklyn Bridge",
+  "chips": [
+    {
+      "label": "iconic bridge",
+      "mention_count": 1297
+    },
+    {
+      "label": "manhattan skyline",
+      "mention_count": 420
+    },
+    {
+      "label": "statue of liberty",
+      "mention_count": 623
+    },
+    {
+      "label": "sunset views",
+      "mention_count": 1828
+    },
+    {
+      "label": "city views",
+      "mention_count": 474
+    },
+    {
+      "label": "crowded",
+      "mention_count": 1140
+    },
+    {
+      "label": "pedestrian walkway",
+      "mention_count": 176
+    },
+    {
+      "label": "stunning views",
+      "mention_count": 293
+    },
+    {
+      "label": "bike lane",
+      "mention_count": 159
+    },
+    {
+      "label": "photo opportunities",
+      "mention_count": 395
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:26Z",
+  "city": "New York",
+  "key": "under-the-brooklyn-bridge-new-york"
+}

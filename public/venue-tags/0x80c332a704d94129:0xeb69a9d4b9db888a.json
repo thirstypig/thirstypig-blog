@@ -19,6 +19,10 @@
       "mention_count": 2
     },
     {
+      "label": "korean food",
+      "mention_count": 2
+    },
+    {
       "label": "green bean dish",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "fish filet",
       "mention_count": 2
-    },
-    {
-      "label": "Fried Fish Fillet with Seaweed",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:20:06Z",
+  "scraped_at": "2026-05-16T05:18:35Z",
   "city": "Chino Hills",
   "key": "happy-kitchen-chino-hill"
 }

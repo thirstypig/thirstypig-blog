@@ -28,6 +28,7 @@ coordinates:
   lng: -117.743242
 cuisine:
 - American
+placeId: "0x80dce7fbff271273:0xd4ac4f2f3da64060"
 ---
 
 ![Grilled Cheese Sandwich lunch with co-workers at The Melt, Irvine Spectrum](/images/posts/ig-2018-06-01-grilled-cheese-sandwich-lunch-with-co-workers-at-the-melt-ir/17871782431246737.jpg)

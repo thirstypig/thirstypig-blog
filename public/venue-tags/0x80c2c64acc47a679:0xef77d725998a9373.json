@@ -4,23 +4,19 @@
   "chips": [
     {
       "label": "kabobs",
-      "mention_count": 36
+      "mention_count": 44
     },
     {
       "label": "rotisserie chicken",
-      "mention_count": 7
+      "mention_count": 9
     },
     {
       "label": "busy atmosphere",
-      "mention_count": 6
+      "mention_count": 10
     },
     {
       "label": "rib eye",
       "mention_count": 6
-    },
-    {
-      "label": "half chicken",
-      "mention_count": 4
     },
     {
       "label": "lamb shank",
@@ -35,6 +31,10 @@
       "mention_count": 3
     },
     {
+      "label": "garlic sauce",
+      "mention_count": 12
+    },
+    {
       "label": "lamb chops",
       "mention_count": 4
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:19:47Z",
+  "scraped_at": "2026-05-16T05:18:16Z",
   "city": "Los Angeles",
   "key": "sultan-chicken-los-angele"
 }

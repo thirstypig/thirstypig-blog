@@ -31,19 +31,19 @@
       "mention_count": 3
     },
     {
-      "label": "long lines",
-      "mention_count": 10
-    },
-    {
       "label": "pho tai",
       "mention_count": 4
+    },
+    {
+      "label": "long lines",
+      "mention_count": 8
     },
     {
       "label": "beef egg rolls",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:08:30Z",
+  "scraped_at": "2026-05-16T05:07:11Z",
   "city": "San Gabriel",
   "key": "golden-deli-sgv"
 }

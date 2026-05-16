@@ -15,11 +15,11 @@
       "mention_count": 3
     },
     {
-      "label": "pork blood",
+      "label": "shabu shabu experience",
       "mention_count": 2
     },
     {
-      "label": "shabu shabu experience",
+      "label": "pork blood",
       "mention_count": 2
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:38:43Z",
+  "scraped_at": "2026-05-16T05:36:27Z",
   "city": "Sgv",
   "key": "boiling-point-sgv"
 }

@@ -12,15 +12,15 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 12
-    },
-    {
-      "label": "short rib",
-      "mention_count": 17
+      "mention_count": 13
     },
     {
       "label": "beef tartare",
       "mention_count": 11
+    },
+    {
+      "label": "short rib",
+      "mention_count": 17
     },
     {
       "label": "brisket",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:13:32Z",
+  "scraped_at": "2026-05-16T05:12:13Z",
   "city": "Los Angeles",
   "key": "efficient-korean-bbq-los-angele"
 }

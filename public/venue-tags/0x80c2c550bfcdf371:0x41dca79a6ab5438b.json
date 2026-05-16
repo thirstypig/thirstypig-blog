@@ -3,7 +3,7 @@
   "venue_name": "Northern Cafe",
   "chips": [
     {
-      "label": "beef noodle soup",
+      "label": "Beef Noodle Soup Meat&Tendon",
       "mention_count": 25
     },
     {
@@ -27,6 +27,10 @@
       "mention_count": 3
     },
     {
+      "label": "pan fried dumplings",
+      "mention_count": 2
+    },
+    {
       "label": "cold noodles",
       "mention_count": 3
     },
@@ -37,13 +41,9 @@
     {
       "label": "Rou Jia Mo",
       "mention_count": 2
-    },
-    {
-      "label": "lanzhou hand-pulled noodles",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:16:26Z",
+  "scraped_at": "2026-05-16T05:15:01Z",
   "city": "Monterey Park",
   "key": "lamour-cafe-monterey-p"
 }

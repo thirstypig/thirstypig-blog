@@ -4,15 +4,19 @@
   "chips": [
     {
       "label": "gem salad",
-      "mention_count": 39
+      "mention_count": 37
     },
     {
       "label": "Spicy Fusilli Vodka Basil Parmesan",
-      "mention_count": 14
+      "mention_count": 13
     },
     {
       "label": "counter seating",
       "mention_count": 8
+    },
+    {
+      "label": "Mozzarella Sticks Italian Bread Crumbs Spicy Calabrian Pomodoro",
+      "mention_count": 12
     },
     {
       "label": "corn agnolotti",
@@ -35,15 +39,11 @@
       "mention_count": 70
     },
     {
-      "label": "cavatelli",
-      "mention_count": 5
-    },
-    {
-      "label": "mozzarella sticks",
-      "mention_count": 12
+      "label": "no wait time",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:12:30Z",
+  "scraped_at": "2026-05-16T05:11:12Z",
   "city": "Los Angeles",
   "key": "animal-la"
 }

@@ -30,6 +30,7 @@ categories:
 - Mediterranean
 cuisine:
 - Mediterranean
+placeId: "0x89c259a5c63947eb:0xab4f215f6280a6bf"
 ---
 
 ![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17932803655117274.jpg)

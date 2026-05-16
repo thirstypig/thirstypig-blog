@@ -11,16 +11,12 @@
       "mention_count": 3
     },
     {
-      "label": "soft serve",
-      "mention_count": 8
-    },
-    {
       "label": "chocolate ice cream",
       "mention_count": 6
     },
     {
-      "label": "Death by Chocolate Small Stacker",
-      "mention_count": 3
+      "label": "soft serve",
+      "mention_count": 8
     },
     {
       "label": "fudge",
@@ -41,9 +37,13 @@
     {
       "label": "combinations",
       "mention_count": 15
+    },
+    {
+      "label": "pricing",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-05T16:39:53Z",
+  "scraped_at": "2026-05-16T05:37:38Z",
   "city": "Austin",
   "key": "cow-tipping-creamery-austin"
 }

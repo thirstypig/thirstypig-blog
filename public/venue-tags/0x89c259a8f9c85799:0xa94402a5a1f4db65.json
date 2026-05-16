@@ -4,15 +4,11 @@
   "chips": [
     {
       "label": "seolleongtang",
-      "mention_count": 143
-    },
-    {
-      "label": "naengmyun",
-      "mention_count": 36
+      "mention_count": 144
     },
     {
       "label": "kkakdugi",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "label": "soondae",
@@ -27,23 +23,27 @@
       "mention_count": 11
     },
     {
+      "label": "jokbal",
+      "mention_count": 11
+    },
+    {
+      "label": "ox bone soup",
+      "mention_count": 10
+    },
+    {
       "label": "seafood pancake",
       "mention_count": 16
     },
     {
-      "label": "jokbal",
+      "label": "yukgaejang",
       "mention_count": 11
     },
     {
       "label": "doganitang",
       "mention_count": 6
-    },
-    {
-      "label": "yukgaejang",
-      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:11:58Z",
+  "scraped_at": "2026-05-16T05:10:39Z",
   "city": "Koreatown",
   "key": "gammeeok-koreatown"
 }

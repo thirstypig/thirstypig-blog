@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "char siu bao",
-      "mention_count": 229
+      "mention_count": 237
     },
     {
       "label": "melon bread",
@@ -12,11 +12,11 @@
     },
     {
       "label": "michelin star",
-      "mention_count": 197
+      "mention_count": 196
     },
     {
       "label": "har gow",
-      "mention_count": 87
+      "mention_count": 86
     },
     {
       "label": "turnip cake",
@@ -28,7 +28,7 @@
     },
     {
       "label": "pork buns",
-      "mention_count": 37
+      "mention_count": 36
     },
     {
       "label": "pork liver rice rolls",
@@ -39,11 +39,11 @@
       "mention_count": 15
     },
     {
-      "label": "beef balls",
-      "mention_count": 10
+      "label": "snow mountain char siu bao",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:08:11Z",
+  "scraped_at": "2026-05-16T05:06:52Z",
   "city": "Hong Kong",
   "key": "tim-ho-wan-hk"
 }

@@ -23,6 +23,7 @@ coordinates:
   lng: -118.36102
 cuisine:
 - American
+placeId: "0x80c2b9305a1a8653:0x505fc0afd1360a55"
 ---
 
 

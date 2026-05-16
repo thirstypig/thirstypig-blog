@@ -12,7 +12,7 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 125
+      "mention_count": 126
     },
     {
       "label": "dim sum",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:33:57Z",
+  "scraped_at": "2026-05-16T05:32:12Z",
   "city": "Hong Kong",
   "key": "din-tai-fung-鼎泰豐-hong-kong"
 }

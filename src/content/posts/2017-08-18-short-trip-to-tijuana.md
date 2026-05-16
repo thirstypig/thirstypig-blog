@@ -30,6 +30,7 @@ coordinates:
   lng: -118.253701
 cuisine:
 - Mexican
+placeId: "0x80c2c702b0edfce1:0xd281a82e3b9f53db"
 ---
 
 ![Short trip to Tijuana](/images/posts/ig-2017-08-18-short-trip-to-tijuana/17868817990161459.jpg)

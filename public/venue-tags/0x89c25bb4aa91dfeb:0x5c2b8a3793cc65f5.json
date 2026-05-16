@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25bb4aa91dfeb:0x5c2b8a3793cc65f5",
+  "venue_name": "Han Dynasty Brooklyn",
+  "chips": [
+    {
+      "label": "Dan Dan Noodle",
+      "mention_count": 43
+    },
+    {
+      "label": "wontons in chili oil",
+      "mention_count": 12
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 7
+    },
+    {
+      "label": "lo mein",
+      "mention_count": 20
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 83
+    },
+    {
+      "label": "scallion pancake",
+      "mention_count": 11
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 8
+    },
+    {
+      "label": "scallion beef",
+      "mention_count": 6
+    },
+    {
+      "label": "dry pot",
+      "mention_count": 15
+    },
+    {
+      "label": "chinese food",
+      "mention_count": 54
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:21Z",
+  "city": "Brooklyn",
+  "key": "han-dynasty-brooklyn"
+}

@@ -26,6 +26,7 @@ originalUrl: 'http://www.thethirstypig.com/2009/12/15/blt-steakhouse/'
 archiveUrl: 'https://web.archive.org/web/20110105154925/http://www.thethirstypig.com/2009/12/15/blt-steakhouse/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80c2c99647904135:0x6eb72c232df5df1f"
 ---
 
 BLT Steakhouse.

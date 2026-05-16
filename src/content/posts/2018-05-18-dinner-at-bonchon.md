@@ -28,6 +28,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2db9600aab999:0x4ca3845723fae80b"
 ---
 
 ![Dinner at Bonchon](/images/posts/ig-2018-05-18-dinner-at-bonchon/17872952473233124.jpg)

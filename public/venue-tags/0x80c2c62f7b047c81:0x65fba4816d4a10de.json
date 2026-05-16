@@ -12,7 +12,7 @@
     },
     {
       "label": "vegan options",
-      "mention_count": 133
+      "mention_count": 134
     },
     {
       "label": "beer garden",
@@ -21,6 +21,10 @@
     {
       "label": "lobsterdamus",
       "mention_count": 21
+    },
+    {
+      "label": "food variety",
+      "mention_count": 129
     },
     {
       "label": "oysters",
@@ -35,15 +39,11 @@
       "mention_count": 92
     },
     {
-      "label": "food variety",
-      "mention_count": 88
-    },
-    {
-      "label": "desserts",
-      "mention_count": 47
+      "label": "vendors",
+      "mention_count": 282
     }
   ],
-  "scraped_at": "2026-05-05T16:39:20Z",
+  "scraped_at": "2026-05-16T05:37:05Z",
   "city": "Dtla",
   "key": "smorgasburg-los-angeles-dtla"
 }

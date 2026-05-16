@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a5e09b473e4d:0xd68fe7e8e35b6f7",
+  "venue_name": "Cafe Du Monde",
+  "chips": [
+    {
+      "label": "beignets",
+      "mention_count": 11892
+    },
+    {
+      "label": "cash only",
+      "mention_count": 1380
+    },
+    {
+      "label": "live music",
+      "mention_count": 305
+    },
+    {
+      "label": "long lines",
+      "mention_count": 946
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 229
+    },
+    {
+      "label": "funnel cake",
+      "mention_count": 238
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 18
+    },
+    {
+      "label": "people watching",
+      "mention_count": 123
+    },
+    {
+      "label": "fried dough",
+      "mention_count": 298
+    },
+    {
+      "label": "jazz music",
+      "mention_count": 115
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:10Z",
+  "city": "New Orleans",
+  "key": "cafe-du-monde-new-orlean"
+}

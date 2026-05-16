@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b89a260ee503:0x9816833c1489f5f1",
+  "venue_name": "Boba Bear",
+  "chips": [
+    {
+      "label": "hookah",
+      "mention_count": 102
+    },
+    {
+      "label": "hookah bar",
+      "mention_count": 6
+    },
+    {
+      "label": "churro",
+      "mention_count": 8
+    },
+    {
+      "label": "boba drinks",
+      "mention_count": 6
+    },
+    {
+      "label": "pink lemonade",
+      "mention_count": 2
+    },
+    {
+      "label": "ceramic boba containers",
+      "mention_count": 2
+    },
+    {
+      "label": "strawberry milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "glass jars",
+      "mention_count": 11
+    },
+    {
+      "label": "jasmine milk tea",
+      "mention_count": 2
+    },
+    {
+      "label": "cute cups",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:00Z",
+  "city": "Koreatown",
+  "key": "ob-bear-koreatown"
+}

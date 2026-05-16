@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c75578a77243:0xa8e48dd257fde5f4",
+  "venue_name": "Buddha Belly",
+  "chips": [
+    {
+      "label": "bahn mi sandwich",
+      "mention_count": 3
+    },
+    {
+      "label": "pad kee mao",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy basil fried rice",
+      "mention_count": 2
+    },
+    {
+      "label": "lychee lemonade",
+      "mention_count": 2
+    },
+    {
+      "label": "thai food",
+      "mention_count": 5
+    },
+    {
+      "label": "food hall",
+      "mention_count": 2
+    },
+    {
+      "label": "portion size",
+      "mention_count": 3
+    },
+    {
+      "label": "menu",
+      "mention_count": 2
+    },
+    {
+      "label": "lemongrass",
+      "mention_count": 4
+    },
+    {
+      "label": "tofu",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:55Z",
+  "city": "Downtown LA",
+  "key": "buddha-belly-downtown-l"
+}

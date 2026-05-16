@@ -31,19 +31,19 @@
       "mention_count": 34
     },
     {
-      "label": "Deep Fried Tofu",
-      "mention_count": 12
-    },
-    {
       "label": "Salt & Pepper Shrimp",
       "mention_count": 14
+    },
+    {
+      "label": "Deep Fried Tofu",
+      "mention_count": 12
     },
     {
       "label": "steamed fish",
       "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-05T16:07:39Z",
-  "city": "San Gabriel",
-  "key": "newport-seafood-sgv"
+  "scraped_at": "2026-05-16T05:40:21Z",
+  "city": "San Gabriel Valley",
+  "key": "san-marino-seafood-san-gabrie"
 }

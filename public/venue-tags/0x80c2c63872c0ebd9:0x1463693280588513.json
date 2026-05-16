@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c63872c0ebd9:0x1463693280588513",
+  "venue_name": "Prime Pizza",
+  "chips": [
+    {
+      "label": "pizza by the slice",
+      "mention_count": 21
+    },
+    {
+      "label": "sicilian pizza",
+      "mention_count": 15
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 9
+    },
+    {
+      "label": "new york style pizza",
+      "mention_count": 10
+    },
+    {
+      "label": "grandma style pizza",
+      "mention_count": 7
+    },
+    {
+      "label": "garlic knots",
+      "mention_count": 13
+    },
+    {
+      "label": "spicy pepperoni pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "square pizza",
+      "mention_count": 6
+    },
+    {
+      "label": "crispy crust",
+      "mention_count": 8
+    },
+    {
+      "label": "greasy pizza",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:48Z",
+  "city": "Koreatown",
+  "key": "prime-pizza-koreatown"
+}

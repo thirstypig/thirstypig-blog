@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pan-fried buns",
-      "mention_count": 134
+      "mention_count": 133
     },
     {
       "label": "truffle flavor",
@@ -20,11 +20,11 @@
     },
     {
       "label": "xiao long bao",
-      "mention_count": 27
+      "mention_count": 33
     },
     {
       "label": "indoor seating",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "label": "pan fried dumplings",
@@ -36,14 +36,14 @@
     },
     {
       "label": "shrimp pan-fried buns",
-      "mention_count": 11
+      "mention_count": 10
     },
     {
-      "label": "tangbao",
-      "mention_count": 6
+      "label": "crispy bottom",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-05T16:33:52Z",
+  "scraped_at": "2026-05-16T05:32:06Z",
   "city": "Hong Kong",
   "key": "cheung-hing-kee-shanghai-pan-fried--hong-kong"
 }

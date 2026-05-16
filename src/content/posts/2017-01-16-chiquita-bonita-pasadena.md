@@ -20,6 +20,7 @@ region: Pasadena
 address: 3565 E Colorado Blvd Pasadena, CA 91107
 cuisine:
 - Mexican
+placeId: "0x80c2db7cb53ebfa9:0x219336dc3569bea2"
 ---
 
 

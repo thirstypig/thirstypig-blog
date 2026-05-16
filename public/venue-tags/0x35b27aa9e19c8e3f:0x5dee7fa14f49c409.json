@@ -31,15 +31,15 @@
       "mention_count": 7
     },
     {
-      "label": "food",
+      "label": "bar",
       "mention_count": 7
     },
     {
-      "label": "bar",
+      "label": "food",
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:35:17Z",
+  "scraped_at": "2026-05-16T05:33:17Z",
   "city": "Shanghai",
   "key": "cantina-agave-shanghai"
 }

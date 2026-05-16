@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 644
+      "mention_count": 646
     },
     {
       "label": "rye bread",
@@ -27,12 +27,12 @@
       "mention_count": 46
     },
     {
-      "label": "Hot Pastrami Sandwich",
-      "mention_count": 21
-    },
-    {
       "label": "swiss cheese",
       "mention_count": 39
+    },
+    {
+      "label": "Hot Pastrami Sandwich",
+      "mention_count": 21
     },
     {
       "label": "french dip",
@@ -43,7 +43,7 @@
       "mention_count": 116
     }
   ],
-  "scraped_at": "2026-05-05T16:07:14Z",
+  "scraped_at": "2026-05-16T05:05:55Z",
   "city": "Los Angeles",
   "key": "langers-deli-la"
 }

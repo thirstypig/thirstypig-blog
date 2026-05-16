@@ -7,10 +7,6 @@
       "mention_count": 3
     },
     {
-      "label": "pork belly",
-      "mention_count": 16
-    },
-    {
       "label": "soybean paste stew",
       "mention_count": 2
     },
@@ -41,9 +37,13 @@
     {
       "label": "all you can eat",
       "mention_count": 6
+    },
+    {
+      "label": "fried rice",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:13:59Z",
+  "scraped_at": "2026-05-16T05:12:35Z",
   "city": "Koreatown",
   "key": "honey-pig-koreatown"
 }

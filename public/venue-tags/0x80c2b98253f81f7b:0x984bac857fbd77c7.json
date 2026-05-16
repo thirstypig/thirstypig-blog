@@ -7,10 +7,6 @@
       "mention_count": 13
     },
     {
-      "label": "small plates",
-      "mention_count": 5
-    },
-    {
       "label": "patio",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "cocktails",
       "mention_count": 5
+    },
+    {
+      "label": "tasting menu",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:12:44Z",
+  "scraped_at": "2026-05-16T05:11:26Z",
   "city": "Los Angeles",
   "key": "lukshon-la"
 }

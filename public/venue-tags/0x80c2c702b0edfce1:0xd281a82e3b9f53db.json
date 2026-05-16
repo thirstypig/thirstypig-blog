@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c702b0edfce1:0xd281a82e3b9f53db",
+  "venue_name": "The Short Stop",
+  "chips": [
+    {
+      "label": "dodgers game",
+      "mention_count": 34
+    },
+    {
+      "label": "pool table",
+      "mention_count": 29
+    },
+    {
+      "label": "dancing",
+      "mention_count": 73
+    },
+    {
+      "label": "dance floor",
+      "mention_count": 20
+    },
+    {
+      "label": "photo booth",
+      "mention_count": 11
+    },
+    {
+      "label": "outside patio",
+      "mention_count": 4
+    },
+    {
+      "label": "dive bar",
+      "mention_count": 4
+    },
+    {
+      "label": "no cover charge",
+      "mention_count": 3
+    },
+    {
+      "label": "crowd",
+      "mention_count": 16
+    },
+    {
+      "label": "disco",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:50Z",
+  "city": "Los Angeles",
+  "key": "short-stop-los-angele"
+}

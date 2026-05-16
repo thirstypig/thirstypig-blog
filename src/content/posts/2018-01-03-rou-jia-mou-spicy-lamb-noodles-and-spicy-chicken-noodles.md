@@ -26,6 +26,7 @@ coordinates:
   lng: -73.998284
 cuisine:
 - Chinese
+placeId: "0x89c2596f0df71365:0x12678cf6f4c9d9e8"
 ---
 
 ![Rou Jia Mou, Spicy Lamb Noodles, and Spicy Chicken Noodles](/images/posts/ig-2018-01-03-rou-jia-mou-spicy-lamb-noodles-and-spicy-chicken-noodles/17843328583237452.jpg)

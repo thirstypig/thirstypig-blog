@@ -7,11 +7,11 @@
       "mention_count": 24
     },
     {
-      "label": "broccoli pasta salad",
+      "label": "rotisserie chicken",
       "mention_count": 6
     },
     {
-      "label": "rotisserie chicken",
+      "label": "Broccoli Pasta Salad",
       "mention_count": 6
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:17:29Z",
+  "scraped_at": "2026-05-16T05:16:04Z",
   "city": "Hollywood",
   "key": "california-chicken-cafe-hollywood"
 }

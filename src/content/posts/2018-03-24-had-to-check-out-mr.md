@@ -27,6 +27,7 @@ categories:
 - Bakery
 cuisine:
 - Bakery
+placeId: "0x80c2c8b3fcb31e89:0xa116338b10309b66"
 ---
 
 ![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17860222015234751.jpg)

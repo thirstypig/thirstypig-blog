@@ -20,6 +20,7 @@ region: Pasadena
 address: 3838 E Colorado Blvd Pasadena, CA 91107
 cuisine:
 - American
+placeId: "0x80c2db79340ad64d:0x4fed13b6d3fa689f"
 ---
 
 

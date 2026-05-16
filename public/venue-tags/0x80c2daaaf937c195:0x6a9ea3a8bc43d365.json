@@ -23,7 +23,11 @@
       "mention_count": 6
     },
     {
-      "label": "cucumber",
+      "label": "cabbage",
+      "mention_count": 3
+    },
+    {
+      "label": "made to order",
       "mention_count": 2
     },
     {
@@ -31,19 +35,15 @@
       "mention_count": 8
     },
     {
-      "label": "made to order",
+      "label": "food",
       "mention_count": 2
     },
     {
-      "label": "cabbage",
-      "mention_count": 3
-    },
-    {
-      "label": "food",
+      "label": "cucumber",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:20:03Z",
+  "scraped_at": "2026-05-16T05:18:33Z",
   "city": "Monterey Park",
   "key": "noodle-house-monterey-p"
 }

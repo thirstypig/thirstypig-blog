@@ -26,6 +26,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db92e71a1677:0xc06043bbbd89905b"
 ---
 
 ![Wu Ming Hot Pot in the](/images/posts/ig-2018-03-09-wu-ming-hot-pot-in-the/17899834027162254.jpg)

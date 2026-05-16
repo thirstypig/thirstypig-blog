@@ -32,6 +32,7 @@ coordinates:
   lng: -73.992465
 cuisine:
 - Multi
+placeId: "0x89c259a30c2f5197:0xcb185535b8800f26"
 ---
 
 ![Reflection of our trip to NYC, in all its colors](/images/posts/ig-2018-01-15-reflection-of-our-trip-to-nyc-in-all-its-colors/17889874891166710.jpg)

@@ -8,15 +8,15 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 81
-    },
-    {
-      "label": "habanero salsa",
-      "mention_count": 12
+      "mention_count": 80
     },
     {
       "label": "margaritas",
       "mention_count": 23
+    },
+    {
+      "label": "habanero salsa",
+      "mention_count": 12
     },
     {
       "label": "live music",
@@ -27,23 +27,23 @@
       "mention_count": 10
     },
     {
-      "label": "brisket taco",
-      "mention_count": 8
+      "label": "fajita tacos",
+      "mention_count": 9
     },
     {
       "label": "happy hour",
       "mention_count": 6
     },
     {
-      "label": "mimosas",
-      "mention_count": 9
+      "label": "brisket taco",
+      "mention_count": 8
     },
     {
-      "label": "salsas",
-      "mention_count": 62
+      "label": "mimosas",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-05T16:40:10Z",
+  "scraped_at": "2026-05-16T05:37:54Z",
   "city": "Austin",
   "key": "pacos-tacos-austin"
 }

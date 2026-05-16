@@ -27,6 +27,7 @@ coordinates:
   lng: -73.984265
 cuisine:
 - Japanese
+placeId: "0x89c25983fc377491:0x37263a6ebc19be13"
 ---
 
 ![Lunch we had the momofuku ramen, spicy hozon ramen, and a couple of pork buns](/images/posts/ig-2018-01-03-lunch-we-had-the-momofuku-ramen-spicy-hozon-ramen-and-a-coup/17892226279131536.jpg)

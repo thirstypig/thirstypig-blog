@@ -19,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "roast beef",
-      "mention_count": 7
-    },
-    {
       "label": "friendly staff",
       "mention_count": 41
+    },
+    {
+      "label": "roast beef",
+      "mention_count": 7
     },
     {
       "label": "provolone",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:09:15Z",
+  "scraped_at": "2026-05-16T05:07:56Z",
   "city": "San Gabriel",
   "key": "pulcianos-deli-cafe-san-gabrie"
 }

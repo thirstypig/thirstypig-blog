@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "moises",
-      "mention_count": 385
+      "mention_count": 383
     },
     {
       "label": "salad bar",
-      "mention_count": 317
+      "mention_count": 319
     },
     {
       "label": "happy hour",
@@ -16,7 +16,7 @@
     },
     {
       "label": "brazilian steakhouse",
-      "mention_count": 138
+      "mention_count": 139
     },
     {
       "label": "gauchos",
@@ -35,15 +35,15 @@
       "mention_count": 36
     },
     {
-      "label": "momo",
-      "mention_count": 21
+      "label": "cuts of meat",
+      "mention_count": 83
     },
     {
-      "label": "cheesecake",
-      "mention_count": 30
+      "label": "momo",
+      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-05T16:24:25Z",
+  "scraped_at": "2026-05-16T05:22:56Z",
   "city": "Beverly Hills",
   "key": "fogo-de-chao-beverly-hi"
 }

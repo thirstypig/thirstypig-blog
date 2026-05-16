@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7b6d98be28b:0xa29fcaf79cd7e2a9",
+  "venue_name": "Fogo de Chão Brazilian Steakhouse",
+  "chips": [
+    {
+      "label": "churrasco experience",
+      "mention_count": 49
+    },
+    {
+      "label": "salad bar",
+      "mention_count": 202
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 57
+    },
+    {
+      "label": "lamb",
+      "mention_count": 86
+    },
+    {
+      "label": "filet mignon",
+      "mention_count": 31
+    },
+    {
+      "label": "ribeye",
+      "mention_count": 26
+    },
+    {
+      "label": "caipirinhas",
+      "mention_count": 18
+    },
+    {
+      "label": "kind staff",
+      "mention_count": 93
+    },
+    {
+      "label": "cuts of meat",
+      "mention_count": 44
+    },
+    {
+      "label": "smoked salmon",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:39Z",
+  "city": "Downtown LA",
+  "key": "fogo-de-chão-downtown-l"
+}

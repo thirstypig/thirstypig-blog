@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c775c6e64011:0x47d00db942274440",
+  "venue_name": "Dynasty Typewriter",
+  "chips": [
+    {
+      "label": "comfortable seats",
+      "mention_count": 61
+    },
+    {
+      "label": "intimate venue",
+      "mention_count": 39
+    },
+    {
+      "label": "comedy venue",
+      "mention_count": 17
+    },
+    {
+      "label": "intimate theater",
+      "mention_count": 17
+    },
+    {
+      "label": "popcorn",
+      "mention_count": 56
+    },
+    {
+      "label": "old school feel",
+      "mention_count": 5
+    },
+    {
+      "label": "standup comedy",
+      "mention_count": 2
+    },
+    {
+      "label": "old theatre",
+      "mention_count": 6
+    },
+    {
+      "label": "alternative comedy",
+      "mention_count": 2
+    },
+    {
+      "label": "clean restrooms",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:18Z",
+  "city": "Los Angeles",
+  "key": "dynasty-typewriter-at-the-hayworth-los-angele"
+}

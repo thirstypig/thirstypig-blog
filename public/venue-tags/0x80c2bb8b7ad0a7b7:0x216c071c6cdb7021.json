@@ -8,7 +8,7 @@
     },
     {
       "label": "Pasticcini",
-      "mention_count": 13
+      "mention_count": 12
     },
     {
       "label": "outdoor seating",
@@ -24,7 +24,7 @@
     },
     {
       "label": "burrata",
-      "mention_count": 19
+      "mention_count": 18
     },
     {
       "label": "arugula salad",
@@ -32,7 +32,7 @@
     },
     {
       "label": "fresh pasta",
-      "mention_count": 22
+      "mention_count": 21
     },
     {
       "label": "branzino",
@@ -43,7 +43,7 @@
       "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-05T16:11:55Z",
+  "scraped_at": "2026-05-16T05:10:36Z",
   "city": "Los Angeles",
   "key": "eataly-los-angele"
 }

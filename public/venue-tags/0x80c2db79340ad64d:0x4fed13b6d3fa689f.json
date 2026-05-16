@@ -8,11 +8,11 @@
     },
     {
       "label": "drive thru",
-      "mention_count": 79
+      "mention_count": 80
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 63
+      "mention_count": 70
     },
     {
       "label": "zucchini fries",
@@ -27,10 +27,6 @@
       "mention_count": 75
     },
     {
-      "label": "bacon avocado cheeseburger",
-      "mention_count": 24
-    },
-    {
       "label": "burgers",
       "mention_count": 108
     },
@@ -41,9 +37,13 @@
     {
       "label": "tuna melt",
       "mention_count": 16
+    },
+    {
+      "label": "chicken salad",
+      "mention_count": 22
     }
   ],
-  "scraped_at": "2026-05-05T16:17:55Z",
+  "scraped_at": "2026-05-16T05:40:13Z",
   "city": "Pasadena",
-  "key": "my-favorite-breakfast-burrito-from--pasadena"
+  "key": "the-original-tops-pasadena"
 }

@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "egg tart",
-      "mention_count": 1217
+      "mention_count": 1216
     },
     {
-      "label": "macanese style",
-      "mention_count": 61
+      "label": "egg custard",
+      "mention_count": 32
     },
     {
       "label": "buttery crust",
@@ -16,11 +16,7 @@
     },
     {
       "label": "hong kong style egg tart",
-      "mention_count": 32
-    },
-    {
-      "label": "custard",
-      "mention_count": 32
+      "mention_count": 31
     },
     {
       "label": "milk tart",
@@ -41,9 +37,13 @@
     {
       "label": "puff pastry egg tart",
       "mention_count": 14
+    },
+    {
+      "label": "wife cake",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-05T16:34:23Z",
+  "scraped_at": "2026-05-16T05:32:38Z",
   "city": "Hong Kong",
   "key": "tai-cheong-bakery-hong-kong"
 }

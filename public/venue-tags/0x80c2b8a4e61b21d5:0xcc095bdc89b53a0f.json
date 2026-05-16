@@ -11,12 +11,12 @@
       "mention_count": 21
     },
     {
-      "label": "banchan",
-      "mention_count": 6
-    },
-    {
       "label": "bulgogi with broth",
       "mention_count": 7
+    },
+    {
+      "label": "banchan",
+      "mention_count": 6
     },
     {
       "label": "grilled deodeok",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-05T16:23:29Z",
+  "scraped_at": "2026-05-16T05:21:59Z",
   "city": "Los Angeles",
   "key": "hwang-hae-do-of-las-koreatown-los-angele"
 }

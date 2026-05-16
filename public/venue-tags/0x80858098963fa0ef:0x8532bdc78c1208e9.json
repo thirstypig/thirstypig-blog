@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80858098963fa0ef:0x8532bdc78c1208e9",
+  "venue_name": "Chez Maman West",
+  "chips": [
+    {
+      "label": "french onion soup",
+      "mention_count": 119
+    },
+    {
+      "label": "mussels",
+      "mention_count": 149
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 56
+    },
+    {
+      "label": "escargot",
+      "mention_count": 54
+    },
+    {
+      "label": "Beef Tartare and Dijon Mustard",
+      "mention_count": 32
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 3
+    },
+    {
+      "label": "pork chop",
+      "mention_count": 26
+    },
+    {
+      "label": "duck confit",
+      "mention_count": 34
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 5
+    },
+    {
+      "label": "crepes",
+      "mention_count": 69
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:33Z",
+  "city": "San Francisco",
+  "key": "chez-maman-san-franci"
+}

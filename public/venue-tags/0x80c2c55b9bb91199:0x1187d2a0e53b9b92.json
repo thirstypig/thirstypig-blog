@@ -7,6 +7,10 @@
       "mention_count": 6
     },
     {
+      "label": "Indo Fried Rice",
+      "mention_count": 4
+    },
+    {
       "label": "hong kong style western food",
       "mention_count": 10
     },
@@ -19,6 +23,10 @@
       "mention_count": 8
     },
     {
+      "label": "chicken stake",
+      "mention_count": 5
+    },
+    {
       "label": "Hainan Chicken w Rice",
       "mention_count": 6
     },
@@ -27,23 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "late hours",
-      "mention_count": 14
-    },
-    {
       "label": "steaks",
       "mention_count": 4
     },
     {
-      "label": "thai tea",
-      "mention_count": 2
-    },
-    {
-      "label": "black pepper sauce",
-      "mention_count": 2
+      "label": "late hours",
+      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-05T16:15:36Z",
+  "scraped_at": "2026-05-16T05:14:11Z",
   "city": "Monterey Park",
   "key": "late-night-yummies-monterey-p"
 }

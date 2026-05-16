@@ -12,7 +12,7 @@
     },
     {
       "label": "dining environment",
-      "mention_count": 67
+      "mention_count": 66
     },
     {
       "label": "fried shrimp tempura",
@@ -43,7 +43,7 @@
       "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-05T16:13:54Z",
+  "scraped_at": "2026-05-16T05:12:30Z",
   "city": "Taipei",
   "key": "定食8-taipei"
 }

@@ -29,6 +29,7 @@ coordinates:
   lng: -122.393577
 cuisine:
 - Seafood
+placeId: "0x808580668e8f3159:0x830980e627627a81"
 ---
 
 ![Oysters, clam chowder, and seafood soup](/images/posts/ig-2018-02-12-oysters-clam-chowder-and-seafood-soup/17898987214135480.jpg)

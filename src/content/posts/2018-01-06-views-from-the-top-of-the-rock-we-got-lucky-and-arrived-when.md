@@ -24,6 +24,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x89c258ff31cabb7b:0xda17e23e0f1fc620"
 ---
 
 ![Views from the Top of the Rock We got lucky and arrived when the crowds were...](/images/posts/ig-2018-01-06-views-from-the-top-of-the-rock-we-got-lucky-and-arrived-when/17916429103059677.jpg)

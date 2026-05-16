@@ -11,12 +11,12 @@
       "mention_count": 9
     },
     {
-      "label": "Tagliatelle Alla Bolognese",
-      "mention_count": 11
+      "label": "Fettuccine Alfredo Combo",
+      "mention_count": 10
     },
     {
-      "label": "Fettuccine Alfredo Combo",
-      "mention_count": 9
+      "label": "Tagliatelle Alla Bolognese",
+      "mention_count": 11
     },
     {
       "label": "calamari",
@@ -31,11 +31,11 @@
       "mention_count": 25
     },
     {
-      "label": "Spaghetti Meatballs",
+      "label": "panna cotta",
       "mention_count": 7
     },
     {
-      "label": "panna cotta",
+      "label": "Spaghetti Meatballs",
       "mention_count": 7
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-05T16:23:23Z",
+  "scraped_at": "2026-05-16T05:21:54Z",
   "city": "Downtown Los Angeles",
   "key": "risotto-from-colori-kitchen-downtown-l"
 }

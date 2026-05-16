@@ -31,19 +31,19 @@
       "mention_count": 6
     },
     {
+      "label": "mimosas",
+      "mention_count": 3
+    },
+    {
       "label": "outdoor tables",
       "mention_count": 2
     },
     {
       "label": "outdoor seating",
       "mention_count": 21
-    },
-    {
-      "label": "christmas decorations",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:33:41Z",
+  "scraped_at": "2026-05-16T05:31:55Z",
   "city": "Los Angeles",
   "key": "the-blvd-los-angele"
 }

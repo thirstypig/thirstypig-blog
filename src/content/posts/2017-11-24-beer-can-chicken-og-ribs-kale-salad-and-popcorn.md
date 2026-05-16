@@ -28,6 +28,7 @@ coordinates:
   lng: -118.466314
 cuisine:
 - BBQ
+placeId: "0x80c2baa2bf5a7289:0x96e7291be897f918"
 ---
 
 ![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17885669857137020.jpg)

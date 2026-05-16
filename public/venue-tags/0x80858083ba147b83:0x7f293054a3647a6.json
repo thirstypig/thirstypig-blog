@@ -20,7 +20,7 @@
     },
     {
       "label": "waffle fries",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "label": "555 sandwich",
@@ -43,7 +43,7 @@
       "mention_count": 34
     }
   ],
-  "scraped_at": "2026-05-05T16:18:30Z",
+  "scraped_at": "2026-05-16T05:17:05Z",
   "city": "San Francisco",
   "key": "dutch-crunch-san-franci"
 }

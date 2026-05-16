@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 344
+      "mention_count": 345
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 108
+      "mention_count": 87
     },
     {
       "label": "outdoor seating",
       "mention_count": 19
     },
     {
-      "label": "onion rings",
-      "mention_count": 44
+      "label": "pastrami dip",
+      "mention_count": 32
     },
     {
-      "label": "pastrami dip",
-      "mention_count": 29
+      "label": "onion rings",
+      "mention_count": 44
     },
     {
       "label": "roast beef sandwich",
@@ -39,11 +39,11 @@
       "mention_count": 11
     },
     {
-      "label": "cheeseburgers",
-      "mention_count": 18
+      "label": "burgers",
+      "mention_count": 38
     }
   ],
-  "scraped_at": "2026-05-05T16:17:15Z",
+  "scraped_at": "2026-05-16T05:15:50Z",
   "city": "Alhambra",
   "key": "the-hat-alhambra"
 }

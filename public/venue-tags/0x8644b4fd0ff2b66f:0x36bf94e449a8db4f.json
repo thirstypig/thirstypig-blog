@@ -16,15 +16,19 @@
     },
     {
       "label": "oysters",
-      "mention_count": 168
+      "mention_count": 167
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 16
     },
     {
       "label": "ceviche",
       "mention_count": 50
     },
     {
-      "label": "bar seating",
-      "mention_count": 16
+      "label": "happy hour",
+      "mention_count": 17
     },
     {
       "label": "brussel sprouts",
@@ -35,15 +39,11 @@
       "mention_count": 19
     },
     {
-      "label": "happy hour",
-      "mention_count": 17
-    },
-    {
-      "label": "Ahi Tuna Tostadas",
-      "mention_count": 12
+      "label": "quick seating",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:39:28Z",
+  "scraped_at": "2026-05-16T05:37:13Z",
   "city": "Austin",
   "key": "perlassouthcongress-austin"
 }

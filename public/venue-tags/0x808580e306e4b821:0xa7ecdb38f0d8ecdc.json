@@ -1,0 +1,49 @@
+{
+  "place_id": "0x808580e306e4b821:0xa7ecdb38f0d8ecdc",
+  "venue_name": "Fisherman's Wharf",
+  "chips": [
+    {
+      "label": "pier 39",
+      "mention_count": 199
+    },
+    {
+      "label": "sea lions",
+      "mention_count": 317
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 209
+    },
+    {
+      "label": "street performers",
+      "mention_count": 72
+    },
+    {
+      "label": "bay views",
+      "mention_count": 26
+    },
+    {
+      "label": "souvenir shops",
+      "mention_count": 57
+    },
+    {
+      "label": "souvenirs",
+      "mention_count": 165
+    },
+    {
+      "label": "boat tours",
+      "mention_count": 29
+    },
+    {
+      "label": "ferris wheel",
+      "mention_count": 13
+    },
+    {
+      "label": "crowded",
+      "mention_count": 125
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:45Z",
+  "city": "San Francisco",
+  "key": "fishermans-wharf-san-franci"
+}

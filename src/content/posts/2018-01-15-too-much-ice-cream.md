@@ -24,6 +24,7 @@ categories:
 - Dessert
 cuisine:
 - Dessert
+placeId: "0x80c2c64b8fb9bbd7:0xce059f113428209c"
 ---
 
 ![Too much ice cream](/images/posts/ig-2018-01-15-too-much-ice-cream/17901290287092331.jpg)

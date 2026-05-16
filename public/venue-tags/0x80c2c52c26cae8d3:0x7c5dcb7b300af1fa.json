@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c52c26cae8d3:0x7c5dcb7b300af1fa",
+  "venue_name": "Tacos Ensenada",
+  "chips": [
+    {
+      "label": "fish tacos",
+      "mention_count": 112
+    },
+    {
+      "label": "ceviche",
+      "mention_count": 17
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "asada tacos",
+      "mention_count": 9
+    },
+    {
+      "label": "carnitas tacos",
+      "mention_count": 11
+    },
+    {
+      "label": "shrimp tacos",
+      "mention_count": 19
+    },
+    {
+      "label": "tostadas",
+      "mention_count": 10
+    },
+    {
+      "label": "potato tacos",
+      "mention_count": 5
+    },
+    {
+      "label": "octopus",
+      "mention_count": 6
+    },
+    {
+      "label": "pastor tacos",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:31Z",
+  "city": "San Gabriel",
+  "key": "tacos-ensenada-san-gabrie"
+}

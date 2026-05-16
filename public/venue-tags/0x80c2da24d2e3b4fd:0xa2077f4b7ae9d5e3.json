@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2da24d2e3b4fd:0xa2077f4b7ae9d5e3",
+  "venue_name": "Chef's Coffee Shop",
+  "chips": [
+    {
+      "label": "hashbrowns",
+      "mention_count": 12
+    },
+    {
+      "label": "corn beef hash",
+      "mention_count": 7
+    },
+    {
+      "label": "biscuits and gravy",
+      "mention_count": 9
+    },
+    {
+      "label": "pies",
+      "mention_count": 24
+    },
+    {
+      "label": "portions",
+      "mention_count": 19
+    },
+    {
+      "label": "banana cream pie",
+      "mention_count": 2
+    },
+    {
+      "label": "old school diner",
+      "mention_count": 3
+    },
+    {
+      "label": "belgian waffle",
+      "mention_count": 5
+    },
+    {
+      "label": "family friendly",
+      "mention_count": 7
+    },
+    {
+      "label": "home feel",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:02Z",
+  "city": "Arcadia",
+  "key": "chefs-coffee-shop-arcadia"
+}

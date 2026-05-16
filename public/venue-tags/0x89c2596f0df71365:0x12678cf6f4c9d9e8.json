@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c2596f0df71365:0x12678cf6f4c9d9e8",
+  "venue_name": "Spicy Moon West Village",
+  "chips": [
+    {
+      "label": "dan dan noodles",
+      "mention_count": 247
+    },
+    {
+      "label": "vegan food",
+      "mention_count": 348
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 21
+    },
+    {
+      "label": "mapo tofu",
+      "mention_count": 73
+    },
+    {
+      "label": "kung pao",
+      "mention_count": 53
+    },
+    {
+      "label": "loud music",
+      "mention_count": 25
+    },
+    {
+      "label": "wontons in chili oil",
+      "mention_count": 37
+    },
+    {
+      "label": "scallion pancakes",
+      "mention_count": 38
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 92
+    },
+    {
+      "label": "brussels sprouts",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:49Z",
+  "city": "New York",
+  "key": "spicy-moon-new-york"
+}

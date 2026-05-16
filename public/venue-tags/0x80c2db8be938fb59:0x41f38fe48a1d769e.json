@@ -3,20 +3,16 @@
   "venue_name": "iWagyu BBQ 燒肉莊園",
   "chips": [
     {
-      "label": "wagyu",
-      "mention_count": 27
+      "label": "Wagyu Bibimbap",
+      "mention_count": 22
     },
     {
       "label": "beef tongue",
       "mention_count": 32
     },
     {
-      "label": "short rib",
+      "label": "wagyu short rib",
       "mention_count": 11
-    },
-    {
-      "label": "Wagyu Bibimbap",
-      "mention_count": 22
     },
     {
       "label": "beef tartare",
@@ -41,9 +37,13 @@
     {
       "label": "kalbi tip",
       "mention_count": 4
+    },
+    {
+      "label": "matcha ice cream",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:09:29Z",
+  "scraped_at": "2026-05-16T05:08:10Z",
   "city": "Rowland Heights",
   "key": "curry-house-rowland-he"
 }

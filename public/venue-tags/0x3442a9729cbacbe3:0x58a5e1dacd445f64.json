@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mentaiko squid",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "sea urchin hand roll",
@@ -16,7 +16,7 @@
     },
     {
       "label": "qr code ordering",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "label": "umi sushi",
@@ -24,7 +24,7 @@
     },
     {
       "label": "tamagoyaki",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "label": "mentaiko seared salmon",
@@ -40,10 +40,10 @@
     },
     {
       "label": "Dried scallops",
-      "mention_count": 18
+      "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-05T16:18:20Z",
+  "scraped_at": "2026-05-16T05:16:55Z",
   "city": "Taipei",
   "key": "海壽司-hi-sushi-taipei"
 }

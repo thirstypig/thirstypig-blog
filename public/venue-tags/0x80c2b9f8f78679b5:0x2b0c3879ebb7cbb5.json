@@ -11,6 +11,10 @@
       "mention_count": 4
     },
     {
+      "label": "chorizo tacos",
+      "mention_count": 2
+    },
+    {
       "label": "charcoal grill",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "arrachera",
       "mention_count": 2
-    },
-    {
-      "label": "al pastor tacos",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:13:22Z",
+  "scraped_at": "2026-05-16T05:12:03Z",
   "city": "Los Angeles",
   "key": "good-food-los-angele"
 }

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x31da19d78f9982ff:0x6dd98ae22cff8bb0",
+  "venue_name": "Whampoa Community Club",
+  "chips": [
+    {
+      "label": "badminton",
+      "mention_count": 11
+    },
+    {
+      "label": "atm machine",
+      "mention_count": 16
+    },
+    {
+      "label": "new court",
+      "mention_count": 11
+    },
+    {
+      "label": "basketball court",
+      "mention_count": 5
+    },
+    {
+      "label": "hawker centre",
+      "mention_count": 6
+    },
+    {
+      "label": "dance studio",
+      "mention_count": 2
+    },
+    {
+      "label": "pickleball",
+      "mention_count": 2
+    },
+    {
+      "label": "reading room",
+      "mention_count": 2
+    },
+    {
+      "label": "community club",
+      "mention_count": 9
+    },
+    {
+      "label": "post office",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-05-16T05:34:11Z",
+  "city": "Shanghai",
+  "key": "whampoa-club-weekend-brunch-shanghai"
+}

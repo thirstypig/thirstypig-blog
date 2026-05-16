@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c259f337272b95:0x813d03ddbc95800f",
+  "venue_name": "RH Rooftop Restaurant at RH New York",
+  "chips": [
+    {
+      "label": "lobster roll",
+      "mention_count": 93
+    },
+    {
+      "label": "rooftop",
+      "mention_count": 137
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 76
+    },
+    {
+      "label": "chandeliers",
+      "mention_count": 59
+    },
+    {
+      "label": "truffle fries",
+      "mention_count": 70
+    },
+    {
+      "label": "city views",
+      "mention_count": 7
+    },
+    {
+      "label": "burrata",
+      "mention_count": 30
+    },
+    {
+      "label": "bellini",
+      "mention_count": 27
+    },
+    {
+      "label": "breathtaking views",
+      "mention_count": 5
+    },
+    {
+      "label": "Crispy Artichokes",
+      "mention_count": 22
+    }
+  ],
+  "scraped_at": "2026-05-16T05:42:37Z",
+  "city": "New York",
+  "key": "rh-rooftop-restaurant-at-rh-new-yor-new-york"
+}

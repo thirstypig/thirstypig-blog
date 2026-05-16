@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "garlic noodles",
-      "mention_count": 101
+      "mention_count": 100
     },
     {
       "label": "dungeness crab",
@@ -15,7 +15,7 @@
       "mention_count": 11
     },
     {
-      "label": "tuna cigars",
+      "label": "Tuna Cigars",
       "mention_count": 12
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 45
     }
   ],
-  "scraped_at": "2026-05-05T16:20:01Z",
+  "scraped_at": "2026-05-16T05:18:30Z",
   "city": "Beverly Hills",
   "key": "crustacean-beverly-hills-beverly-hi"
 }

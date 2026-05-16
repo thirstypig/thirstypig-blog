@@ -27,11 +27,11 @@
       "mention_count": 3
     },
     {
-      "label": "pork belly noodle soup",
+      "label": "Pork Hui Tou",
       "mention_count": 2
     },
     {
-      "label": "Pork Hui Tou",
+      "label": "pork belly noodle soup",
       "mention_count": 2
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-05T16:08:16Z",
+  "scraped_at": "2026-05-16T05:06:57Z",
   "city": "San Gabriel",
   "key": "hui-tou-xiang-sgv"
 }

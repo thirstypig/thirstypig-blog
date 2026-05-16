@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2daf8983e6781:0x90dcd33a42f4182d",
+  "venue_name": "Ahgoo's Kitchen",
+  "chips": [
+    {
+      "label": "scallions cake",
+      "mention_count": 4
+    },
+    {
+      "label": "Beef Roll",
+      "mention_count": 2
+    },
+    {
+      "label": "green onion bread",
+      "mention_count": 3
+    },
+    {
+      "label": "Omelet with Salted & Dried Radish",
+      "mention_count": 3
+    },
+    {
+      "label": "Fried rice noodles",
+      "mention_count": 2
+    },
+    {
+      "label": "Big pancake",
+      "mention_count": 4
+    },
+    {
+      "label": "shredded potato",
+      "mention_count": 2
+    },
+    {
+      "label": "home style dishes",
+      "mention_count": 2
+    },
+    {
+      "label": "pumpkins",
+      "mention_count": 3
+    },
+    {
+      "label": "portions",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:12Z",
+  "city": "San Gabriel",
+  "key": "ahgoos-kitchen-san-gabrie"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a66e11c039bd:0x20474894d0e80ea8",
+  "venue_name": "Mulate's | The Original Cajun Restaurant",
+  "chips": [
+    {
+      "label": "zydeco music",
+      "mention_count": 110
+    },
+    {
+      "label": "live music",
+      "mention_count": 265
+    },
+    {
+      "label": "frog legs",
+      "mention_count": 73
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 173
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 6
+    },
+    {
+      "label": "crab beignets",
+      "mention_count": 22
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 51
+    },
+    {
+      "label": "live cajun music",
+      "mention_count": 5
+    },
+    {
+      "label": "dancing",
+      "mention_count": 176
+    },
+    {
+      "label": "dance floor",
+      "mention_count": 31
+    }
+  ],
+  "scraped_at": "2026-05-16T05:39:06Z",
+  "city": "New Orleans",
+  "key": "we-had-fried-green-tomatoes-fried-f-new-orlean"
+}

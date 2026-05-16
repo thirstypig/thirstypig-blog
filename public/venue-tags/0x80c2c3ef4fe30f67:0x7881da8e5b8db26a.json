@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3ef4fe30f67:0x7881da8e5b8db26a",
+  "venue_name": "Stumptown Coffee Roasters",
+  "chips": [
+    {
+      "label": "coconut cream cold brew",
+      "mention_count": 3
+    },
+    {
+      "label": "matcha latte",
+      "mention_count": 3
+    },
+    {
+      "label": "outdoor area",
+      "mention_count": 4
+    },
+    {
+      "label": "coraline fan",
+      "mention_count": 2
+    },
+    {
+      "label": "cappuccino",
+      "mention_count": 4
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 19
+    },
+    {
+      "label": "busy coffee shop",
+      "mention_count": 2
+    },
+    {
+      "label": "seasonal drink",
+      "mention_count": 2
+    },
+    {
+      "label": "pastries",
+      "mention_count": 4
+    },
+    {
+      "label": "coffee quality",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:41:11Z",
+  "city": "Pasadena",
+  "key": "stinkos-pasadena"
+}

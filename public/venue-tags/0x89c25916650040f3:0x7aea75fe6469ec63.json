@@ -1,0 +1,49 @@
+{
+  "place_id": "0x89c25916650040f3:0x7aea75fe6469ec63",
+  "venue_name": "Berlin Döner",
+  "chips": [
+    {
+      "label": "gyro",
+      "mention_count": 32
+    },
+    {
+      "label": "döner",
+      "mention_count": 39
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "homemade bread",
+      "mention_count": 18
+    },
+    {
+      "label": "lamb",
+      "mention_count": 30
+    },
+    {
+      "label": "falafel",
+      "mention_count": 11
+    },
+    {
+      "label": "chicken doner",
+      "mention_count": 8
+    },
+    {
+      "label": "pita",
+      "mention_count": 24
+    },
+    {
+      "label": "turkish food",
+      "mention_count": 13
+    },
+    {
+      "label": "baklava",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-16T05:46:09Z",
+  "city": "New York",
+  "key": "turkiss-new-york"
+}

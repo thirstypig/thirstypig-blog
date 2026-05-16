@@ -11,8 +11,8 @@
       "mention_count": 6
     },
     {
-      "label": "braised pork belly",
-      "mention_count": 4
+      "label": "pork belly",
+      "mention_count": 6
     },
     {
       "label": "authentic shanghainese cuisine",
@@ -36,14 +36,14 @@
     },
     {
       "label": "classic dishes",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
-      "label": "wine",
-      "mention_count": 3
+      "label": "décor",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:29:59Z",
+  "scraped_at": "2026-05-16T05:28:28Z",
   "city": "Shanghai",
   "key": "福1088-shanghai"
 }

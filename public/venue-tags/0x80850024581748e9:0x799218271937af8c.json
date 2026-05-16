@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80850024581748e9:0x799218271937af8c",
+  "venue_name": "Stag's Leap Wine Cellars",
+  "chips": [
+    {
+      "label": "cabernet sauvignon",
+      "mention_count": 35
+    },
+    {
+      "label": "tasting room",
+      "mention_count": 34
+    },
+    {
+      "label": "cave tour",
+      "mention_count": 11
+    },
+    {
+      "label": "knowledgeable staff",
+      "mention_count": 57
+    },
+    {
+      "label": "wine educator",
+      "mention_count": 12
+    },
+    {
+      "label": "judgment of paris",
+      "mention_count": 15
+    },
+    {
+      "label": "knowledgeable guide",
+      "mention_count": 11
+    },
+    {
+      "label": "estate tasting",
+      "mention_count": 3
+    },
+    {
+      "label": "diversity of terroir",
+      "mention_count": 5
+    },
+    {
+      "label": "historic winery",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:44:29Z",
+  "city": "Napa",
+  "key": "stags-leap-wine-cellars-napa"
+}

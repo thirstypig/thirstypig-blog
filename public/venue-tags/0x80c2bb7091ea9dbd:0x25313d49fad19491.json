@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb7091ea9dbd:0x25313d49fad19491",
+  "venue_name": "The Bombay Frankie Company",
+  "chips": [
+    {
+      "label": "tandoori paneer frankie",
+      "mention_count": 37
+    },
+    {
+      "label": "chicken tikka masala burrito",
+      "mention_count": 18
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 7
+    },
+    {
+      "label": "shahi paneer",
+      "mention_count": 30
+    },
+    {
+      "label": "beef samosa",
+      "mention_count": 12
+    },
+    {
+      "label": "chana masala",
+      "mention_count": 17
+    },
+    {
+      "label": "burritos",
+      "mention_count": 34
+    },
+    {
+      "label": "veggie samosa",
+      "mention_count": 7
+    },
+    {
+      "label": "chutney",
+      "mention_count": 21
+    },
+    {
+      "label": "kathi roll",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:27Z",
+  "city": "Los Angeles",
+  "key": "the-bombay-frankie-company-los-angele"
+}

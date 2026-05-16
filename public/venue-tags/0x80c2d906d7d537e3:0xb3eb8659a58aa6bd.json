@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2d906d7d537e3:0xb3eb8659a58aa6bd",
+  "venue_name": "The Old Spaghetti Factory",
+  "chips": [
+    {
+      "label": "mizithra",
+      "mention_count": 79
+    },
+    {
+      "label": "spumoni ice cream",
+      "mention_count": 52
+    },
+    {
+      "label": "trolley seating",
+      "mention_count": 3
+    },
+    {
+      "label": "lasagna",
+      "mention_count": 43
+    },
+    {
+      "label": "garlic cheese bread",
+      "mention_count": 22
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 9
+    },
+    {
+      "label": "spaghetti with meatballs",
+      "mention_count": 17
+    },
+    {
+      "label": "chicken parmigiana",
+      "mention_count": 13
+    },
+    {
+      "label": "seating time",
+      "mention_count": 5
+    },
+    {
+      "label": "minestrone soup",
+      "mention_count": 13
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:04Z",
+  "city": "Duarte",
+  "key": "the-old-spaghetti-factory-duarte"
+}

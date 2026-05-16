@@ -30,6 +30,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2c63872c0ebd9:0x1463693280588513"
 ---
 
 ![Pizza from Pizzeria Sei](/images/posts/ig-2025-01-17-pizza-from-pizzeria-sei/17892878778119487.jpg)

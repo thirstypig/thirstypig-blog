@@ -7,10 +7,6 @@
       "mention_count": 123
     },
     {
-      "label": "eggplant dish",
-      "mention_count": 134
-    },
-    {
       "label": "xiao long bao",
       "mention_count": 101
     },
@@ -35,6 +31,10 @@
       "mention_count": 31
     },
     {
+      "label": "chicken feet",
+      "mention_count": 52
+    },
+    {
       "label": "qr code ordering",
       "mention_count": 43
     },
@@ -43,7 +43,7 @@
       "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-05T16:11:00Z",
+  "scraped_at": "2026-05-16T05:09:41Z",
   "city": "Hong Kong",
   "key": "dimdimsum-dim-sum-specialty-store-點-hong-kong"
 }

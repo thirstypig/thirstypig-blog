@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pork ribs",
-      "mention_count": 26
+      "mention_count": 25
     },
     {
       "label": "Quesadilla Explosion Salad",
@@ -23,16 +23,16 @@
       "mention_count": 10
     },
     {
-      "label": "pasta",
-      "mention_count": 14
-    },
-    {
       "label": "chicken strips",
       "mention_count": 17
     },
     {
       "label": "spicy chicken wings",
       "mention_count": 4
+    },
+    {
+      "label": "pasta",
+      "mention_count": 14
     },
     {
       "label": "black volcano chocolate cake",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-05T16:24:28Z",
+  "scraped_at": "2026-05-16T05:22:59Z",
   "city": "Taipei",
   "key": "chilis-grill-bar-taipei"
 }

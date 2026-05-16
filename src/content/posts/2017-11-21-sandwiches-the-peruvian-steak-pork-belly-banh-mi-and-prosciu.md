@@ -26,6 +26,7 @@ coordinates:
   lng: -118.252726
 cuisine:
 - Fusion
+placeId: "0x80c2c75578a77243:0xa8e48dd257fde5f4"
 ---
 
 ![Sandwiches the Peruvian Steak, Pork Belly Banh Mi, and Prosciutto Chicken sa...](/images/posts/ig-2017-11-21-sandwiches-the-peruvian-steak-pork-belly-banh-mi-and-prosciu/17849434615221400.jpg)

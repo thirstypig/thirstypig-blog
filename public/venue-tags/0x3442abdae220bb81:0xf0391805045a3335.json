@@ -23,12 +23,12 @@
       "mention_count": 22
     },
     {
-      "label": "foie gras turnip cake",
-      "mention_count": 13
-    },
-    {
       "label": "whiskey",
       "mention_count": 52
+    },
+    {
+      "label": "foie gras turnip cake",
+      "mention_count": 13
     },
     {
       "label": "sofa area",
@@ -39,11 +39,11 @@
       "mention_count": 10
     },
     {
-      "label": "beef skewers",
-      "mention_count": 7
+      "label": "brownie",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-05T16:14:35Z",
+  "scraped_at": "2026-05-16T05:13:10Z",
   "city": "Taipei",
   "key": "bar-mood-taipei"
 }

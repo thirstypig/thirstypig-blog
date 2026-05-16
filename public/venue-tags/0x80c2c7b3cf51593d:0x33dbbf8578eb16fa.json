@@ -7,8 +7,8 @@
       "mention_count": 7
     },
     {
-      "label": "octopus",
-      "mention_count": 8
+      "label": "polpo",
+      "mention_count": 11
     },
     {
       "label": "outdoor seating",
@@ -27,10 +27,6 @@
       "mention_count": 4
     },
     {
-      "label": "polpo",
-      "mention_count": 3
-    },
-    {
       "label": "burrata",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "wine pairing",
       "mention_count": 4
+    },
+    {
+      "label": "venison",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-05T16:16:05Z",
+  "scraped_at": "2026-05-16T05:14:40Z",
   "city": "Los Angeles",
   "key": "drago-centro-los-angele"
 }

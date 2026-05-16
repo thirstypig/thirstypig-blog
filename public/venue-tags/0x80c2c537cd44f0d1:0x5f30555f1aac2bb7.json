@@ -7,16 +7,12 @@
       "mention_count": 427
     },
     {
-      "label": "cash only",
-      "mention_count": 50
-    },
-    {
       "label": "outdoor seating",
       "mention_count": 37
     },
     {
-      "label": "escargot",
-      "mention_count": 18
+      "label": "cash only",
+      "mention_count": 50
     },
     {
       "label": "indoor seating",
@@ -27,23 +23,27 @@
       "mention_count": 19
     },
     {
-      "label": "chicken soup",
-      "mention_count": 33
+      "label": "Escargot",
+      "mention_count": 18
     },
     {
       "label": "curry",
       "mention_count": 64
     },
     {
+      "label": "chili sauce",
+      "mention_count": 20
+    },
+    {
       "label": "Curry Beef Stew",
       "mention_count": 7
     },
     {
-      "label": "spicy sauce",
-      "mention_count": 16
+      "label": "dark meat",
+      "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-05T16:14:05Z",
+  "scraped_at": "2026-05-16T05:12:41Z",
   "city": "Hong Kong",
   "key": "worlds-best-海南雞飯-hainan-chicken-ric-hong-kong"
 }

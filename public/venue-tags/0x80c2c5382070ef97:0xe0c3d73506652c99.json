@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5382070ef97:0xe0c3d73506652c99",
+  "venue_name": "Salju Dessert",
+  "chips": [
+    {
+      "label": "shaved ice",
+      "mention_count": 85
+    },
+    {
+      "label": "toppings",
+      "mention_count": 21
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 7
+    },
+    {
+      "label": "matcha flavor",
+      "mention_count": 14
+    },
+    {
+      "label": "durian flavor",
+      "mention_count": 10
+    },
+    {
+      "label": "mochi",
+      "mention_count": 17
+    },
+    {
+      "label": "crepes",
+      "mention_count": 35
+    },
+    {
+      "label": "lychee flavor",
+      "mention_count": 7
+    },
+    {
+      "label": "popping boba",
+      "mention_count": 8
+    },
+    {
+      "label": "cash only",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:44Z",
+  "city": "San Gabriel Valley",
+  "key": "dragons-breath-dessert-san-gabrie"
+}

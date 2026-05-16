@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db9493f7ce8f:0x216f29d69f6f8bff",
+  "venue_name": "Yu Fish 鱼悦酸菜鱼",
+  "chips": [
+    {
+      "label": "sauerkraut fish",
+      "mention_count": 27
+    },
+    {
+      "label": "pumpkin pie",
+      "mention_count": 11
+    },
+    {
+      "label": "clean environment",
+      "mention_count": 41
+    },
+    {
+      "label": "pickled cabbage fish",
+      "mention_count": 7
+    },
+    {
+      "label": "fried tofu skin",
+      "mention_count": 4
+    },
+    {
+      "label": "fish soup",
+      "mention_count": 9
+    },
+    {
+      "label": "milk skin",
+      "mention_count": 19
+    },
+    {
+      "label": "fresh fish",
+      "mention_count": 13
+    },
+    {
+      "label": "broth",
+      "mention_count": 21
+    },
+    {
+      "label": "tender fish",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-16T05:40:40Z",
+  "city": "San Gabriel Valley",
+  "key": "uncle-yu-beer-house-san-gabrie"
+}

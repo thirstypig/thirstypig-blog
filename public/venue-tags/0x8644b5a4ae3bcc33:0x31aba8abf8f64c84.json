@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 2149
+      "mention_count": 2157
     },
     {
       "label": "pork ribs",
-      "mention_count": 290
+      "mention_count": 292
     },
     {
       "label": "outdoor seating",
@@ -16,7 +16,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 281
+      "mention_count": 278
     },
     {
       "label": "texas bbq",
@@ -28,11 +28,11 @@
     },
     {
       "label": "potato salad",
-      "mention_count": 220
+      "mention_count": 223
     },
     {
       "label": "turkey",
-      "mention_count": 366
+      "mention_count": 368
     },
     {
       "label": "pulled pork",
@@ -43,7 +43,7 @@
       "mention_count": 49
     }
   ],
-  "scraped_at": "2026-05-05T16:07:00Z",
+  "scraped_at": "2026-05-16T05:05:41Z",
   "city": "Austin",
   "key": "franklin-bbq-austin"
 }

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db7c0b9f247f:0x16853eb95e6b89e3",
+  "venue_name": "上海灘 Shanghailander Palace",
+  "chips": [
+    {
+      "label": "braised pork",
+      "mention_count": 11
+    },
+    {
+      "label": "fried pork bun",
+      "mention_count": 7
+    },
+    {
+      "label": "stir fry eel",
+      "mention_count": 4
+    },
+    {
+      "label": "spare ribs",
+      "mention_count": 6
+    },
+    {
+      "label": "private room",
+      "mention_count": 6
+    },
+    {
+      "label": "seaweed fried fish",
+      "mention_count": 2
+    },
+    {
+      "label": "jellyfish",
+      "mention_count": 3
+    },
+    {
+      "label": "whole steamed fish",
+      "mention_count": 2
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 3
+    },
+    {
+      "label": "lobster",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:45:43Z",
+  "city": "Arcadia",
+  "key": "shanghailander-palace-arcadia"
+}

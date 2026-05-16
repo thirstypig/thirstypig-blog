@@ -29,6 +29,7 @@ coordinates:
   lng: -90.066902
 cuisine:
 - Cajun
+placeId: "0x8620a672efa15d7d:0x1fa42be757413a44"
 ---
 
 ![Jerry’s Jambalaya, Mar’s Gumbo, and Bread Pudding](/images/posts/ig-2017-07-07-jerrys-jambalaya-mars-gumbo-and-bread-pudding/17847207283195764.jpg)

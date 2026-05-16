@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2c738ab698a9b:0xf1e4091cf6c500b8",
+  "venue_name": "The Pacific Seas",
+  "chips": [
+    {
+      "label": "atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "drinks",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-16T05:43:48Z",
+  "city": "Downtown LA",
+  "key": "the-gothic-bar-at-cliftons-cafeteri-downtown-l"
+}

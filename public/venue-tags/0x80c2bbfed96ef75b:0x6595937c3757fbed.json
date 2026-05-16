@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "wolfgang puck",
-      "mention_count": 96
+      "mention_count": 97
     },
     {
       "label": "salmon pizza",
@@ -43,7 +43,7 @@
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-05T16:08:08Z",
+  "scraped_at": "2026-05-16T05:06:49Z",
   "city": "Beverly Hills",
   "key": "spago-bh"
 }
