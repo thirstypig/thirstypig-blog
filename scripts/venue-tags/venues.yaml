@@ -4323,3 +4323,361 @@ Los Angeles, CA 90027"
   query: "Slab Hollywood"
   place_id: "0x80c296824ed0a46b:0xf4997acdab6e9501"
   cid: "17625253640454182145"
+- key: gs-cafe-covina
+  name: "GS Cafe"
+  city: "Covina"
+  query: "GS Cafe Covina"
+  cid: "11713300337220816899"
+
+- key: robert-emmets-food-spirits-glendale
+  name: "Robert Emmet's Food & Spirits"
+  city: "Glendale"
+  query: "Robert Emmet's Food & Spirits 6411 N 59th Ave (at W Maryland Ave), Glendale, AZ 85301"
+  cid: "11524045180992283358"
+
+- key: stories-books-cafe-koreatown
+  name: "Stories Books & Cafe"
+  city: "Koreatown"
+  query: "Stories Books & Cafe 1716 W Sunset Blvd (at Logan St), Los Angeles, CA 90026"
+  cid: "7669922912402632677"
+
+- key: xiang-la-hui-los-angele
+  name: "Xiang La Hui"
+  city: "Los Angeles"
+  query: "Xiang La Hui Los Angeles"
+  cid: "4925578970789414063"
+
+- key: birrieria-pavon-los-angele
+  name: "Birrieria Pavon"
+  city: "Los Angeles"
+  query: "Birrieria Pavon 2317 Pasadena Ave, Los Angeles, CA 90031, USA"
+  cid: "12275018116811633973"
+
+- key: kazunori-the-original-hand-roll-bar-downtown-l
+  name: "KazuNori: The Original Hand Roll Bar"
+  city: "Downtown LA"
+  query: "KazuNori: The Original Hand Roll Bar 421 S Main St (at Winston St), Los Angeles, CA 90013"
+  cid: "385846604067401703"
+
+- key: poppy-rose-downtown-l
+  name: "Poppy & Rose"
+  city: "Downtown LA"
+  query: "Poppy & Rose Downtown LA"
+  cid: "3234037804004529764"
+
+- key: shakeys-pizza-san-gabrie
+  name: "Shakey's Pizza"
+  city: "San Gabriel"
+  query: "Shakey's Pizza 866 E Las Tunas Dr (at N Charlotte Ave), San Gabriel, CA 91776"
+  cid: "877014067384279968"
+
+- key: slabs-barbecue-pasadena
+  name: "Slabs Barbecue"
+  city: "Pasadena"
+  query: "Slabs Barbecue Fair Oaks Ave and Holly St, Pasadena, CA 91103"
+  cid: "12133459164101927199"
+
+- key: the-derby-arcadia
+  name: "The Derby"
+  city: "Arcadia"
+  query: "The Derby Arcadia"
+  cid: "2978484685636788524"
+
+- key: kagaya-little-tok
+  name: "Kagaya"
+  city: "Little Tokyo"
+  query: "Kagaya 418 E 2nd St, Los Angeles, CA 90012"
+  cid: "14897467036307818014"
+
+- key: kushi-shabu-restaurant-los-angele
+  name: "Kushi Shabu Restaurant"
+  city: "Los Angeles"
+  query: "Kushi Shabu Restaurant 123 Astronaut Ellison S Onizuka St #305, Los Angeles, CA 90012, USA"
+  cid: "1838531049032804454"
+
+- key: papi-tacos-churros-east-la
+  name: "Papi Tacos & Churros"
+  city: "East LA"
+  query: "Papi Tacos & Churros 2622 W Jefferson Blvd (7th ave), Los Angeles, CA 90018"
+  cid: "17562822115274972984"
+
+- key: goi-vietnamese-eats-los-angele
+  name: "Goi Vietnamese Eats"
+  city: "Los Angeles"
+  query: "Goi Vietnamese Eats 1815 Hillhurst Ave, Los Angeles, CA 90027, USA"
+  cid: "7932284933513938846"
+
+- key: kazunori-the-original-hand-roll-bar-los-angele
+  name: "KazuNori: The Original Hand Roll Bar"
+  city: "Los Angeles"
+  query: "KazuNori: The Original Hand Roll Bar 421 S Main St (at Winston St), Los Angeles, CA 90013"
+  cid: "385846604067401703"
+
+- key: king-torta-los-angele
+  name: "King Torta"
+  city: "Los Angeles"
+  query: "King Torta 4507 Valley Blvd Ste 102, Los Angeles, CA 90032"
+  cid: "2563170014229919926"
+
+- key: hop-li-seafood-restaurant-silver-lak
+  name: "Hop Li Seafood Restaurant"
+  city: "Silver Lake"
+  query: "Hop Li Seafood Restaurant 526 Alpine St (at Yale St), Los Angeles, CA 90012"
+  cid: "14100120657915257400"
+
+- key: sara-the-wine-bar-culver-cit
+  name: "Sara the Wine Bar"
+  city: "Culver City"
+  query: "Sara the Wine Bar Culver City"
+  cid: "14750754694946773180"
+
+- key: accomplice-bar-los-angele
+  name: "Accomplice Bar"
+  city: "Los Angeles"
+  query: "Accomplice Bar 3811 Grand View Blvd, Los Angeles, CA 90066, USA"
+  cid: "4540031548711650084"
+
+- key: smoke-tokes-los-angele
+  name: "Smoke Tokes"
+  city: "Los Angeles"
+  query: "Smoke Tokes 330 E 3rd St, Los Angeles, CA 90013"
+  cid: "9548366351237845247"
+
+- key: acme-breakfast-club-taipei
+  name: "ACME Breakfast CLUB"
+  city: "Taipei"
+  query: "ACME Breakfast CLUB 3F., No. 10, Ln. 27, Chengdu Rd.,, 台北市,  108"
+  cid: "6096500173198889667"
+
+- key: la-brisket-los-angele
+  name: "LA Brisket"
+  city: "Los Angeles"
+  query: "LA Brisket Los Angeles"
+  cid: "13620098391542967744"
+
+- key: oven-fried-chicken-singapore
+  name: "Oven & Fried Chicken"
+  city: "Singapore"
+  query: "Oven & Fried Chicken 182 Telok Ayer St, 068630"
+  cid: "3960907454764872985"
+
+- key: thai-food-at-samranrat-bangkok
+  name: "Thai Food At Samranrat"
+  city: "Bangkok"
+  query: "Thai Food At Samranrat Mahachai Rd., ป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร 10200"
+  cid: "6848795818034536128"
+
+- key: floral-café-at-napasorn-bangkok
+  name: "Floral Café at Napasorn"
+  city: "Bangkok"
+  query: "Floral Café at Napasorn 67 Chak Phet Rd (at Napasorn), พระนคร, กรุงเทพมหานคร 10200"
+  cid: "9218388470111057040"
+
+- key: jae-yee-chicken-rice-ขาวมนไกเจย-bangkok
+  name: "Jae Yee Chicken Rice (ข้าวมันไก่เจ๊ยี)"
+  city: "Bangkok"
+  query: "Jae Yee Chicken Rice (ข้าวมันไก่เจ๊ยี) 457/9 Chakkraphatdiphong Rd, ป้อมปราบศัตรูพ่าย, กรุงเทพมหานคร 10200"
+  cid: "17525191832620324863"
+
+- key: my灶-taipei
+  name: "my灶"
+  city: "Taipei"
+  query: "my灶 松江路100巷9-1號, 台北市,  104"
+  cid: "16561868783091468204"
+
+- key: 阿宗麵線-ay-chung-flour-rice-noodle-taipei
+  name: "阿宗麵線 Ay-Chung Flour-Rice Noodle"
+  city: "Taipei"
+  query: "阿宗麵線 Ay-Chung Flour-Rice Noodle 忠孝東路四段17巷2號, 台北市,  106"
+  cid: "16082362565683411440"
+
+- key: komedas-coffee-客美多咖啡-taipei
+  name: "Komeda’s Coffee (客美多咖啡)"
+  city: "Taipei"
+  query: "Komeda’s Coffee (客美多咖啡) 南京東路二段204號, 中山區, 臺北市 104"
+  cid: "7789385217855132382"
+
+- key: yuan-yang-mala-hotpot-taipei
+  name: "Yuan Yang Mala Hotpot"
+  city: "Taipei"
+  query: "Yuan Yang Mala Hotpot Wanhua District,  108"
+  cid: "16145180916790585189"
+
+- key: 小器食堂-xiaoqi-k-taipei
+  name: "小器食堂 Xiaoqi +k"
+  city: "Taipei"
+  query: "小器食堂 Xiaoqi +k 赤峰街27號, 台北市,  103"
+  cid: "3748846945956190784"
+
+- key: 張家清真黃牛肉麵館-changs-halal-beef-noodles-taipei
+  name: "張家清真黃牛肉麵館 Chang's Halal beef Noodles"
+  city: "Taipei"
+  query: "張家清真黃牛肉麵館 Chang's Halal beef Noodles 延平南路23號, 中正區, 臺北市 100"
+  cid: "1970111173812435234"
+
+- key: holbox-downtown-l
+  name: "Holbox"
+  city: "Downtown LA"
+  query: "Holbox 3655 S Grand Ave, Los Angeles, CA 90007"
+  cid: "3469853530423318204"
+
+- key: niku-x-downtown-l
+  name: "NIKU X"
+  city: "Downtown LA"
+  query: "NIKU X Downtown LA"
+  cid: "17315944859369269259"
+
+- key: grow-venice-venice
+  name: "Grow Venice"
+  city: "Venice"
+  query: "Grow Venice 1650 Abbot Kinney Blvd, Los Angeles, CA 90291"
+
+- key: hibiki-san-gabrie
+  name: "Hibiki"
+  city: "San Gabriel"
+  query: "Hibiki San Gabriel"
+  cid: "294091474008565423"
+
+- key: crudo-e-nudo-santa-moni
+  name: "Crudo e Nudo"
+  city: "Santa Monica"
+  query: "Crudo e Nudo 2724 Main St, Santa Monica, CA 90405"
+  cid: "9443756213965404120"
+
+- key: egg-tuck-los-angele
+  name: "Egg Tuck"
+  city: "Los Angeles"
+  query: "Egg Tuck 1049 Gayley Ave, Los Angeles, CA 90024, USA"
+  cid: "3467136304593321162"
+
+- key: sallys-fish-house-bar-san-diego
+  name: "Sally's Fish House & Bar"
+  city: "San Diego"
+  query: "Sally's Fish House & Bar 1 Market Pl (Manchester Grand Hyatt), San Diego, CA 92101"
+  cid: "12281351598427163708"
+
+- key: thanks-pizza-los-angele
+  name: "Thanks Pizza"
+  city: "Los Angeles"
+  query: "Thanks Pizza 450 S Western Ave #305 FC-1, Los Angeles, CA 90020, USA"
+  cid: "5620536969726815763"
+
+- key: all-antico-vinaio-los-angele
+  name: "All' Antico Vinaio"
+  city: "Los Angeles"
+  query: "All' Antico Vinaio 3923 W 6th St, Los Angeles, CA 90020, USA"
+  cid: "4055664008380652853"
+
+- key: bopomofo-san-gabrie
+  name: "Bopomofo"
+  city: "San Gabriel"
+  query: "Bopomofo San Gabriel"
+  cid: "17814244997813474432"
+
+- key: domestic-los-angele
+  name: "Domestic"
+  city: "Los Angeles"
+  query: "Domestic Los Angeles"
+  cid: "3324059840880623315"
+
+- key: portos-bakery-glendale
+  name: "Porto's Bakery"
+  city: "Glendale"
+  query: "Porto's Bakery Glendale"
+  cid: "16582778020018235735"
+
+- key: portos-glendale
+  name: "Porto's"
+  city: "Glendale"
+  query: "Porto's 7141 N 59th Ave, Glendale, AZ 85301"
+  cid: "11099190061460050303"
+
+- key: salty-girls-seafood-co-sequim
+  name: "Salty Girls Seafood Co"
+  city: "Sequim"
+  query: "Salty Girls Seafood Co 210 W Washington St #3, Sequim, WA 98382, USA"
+  cid: "1333356828842477321"
+
+- key: jones-bar-b-que-victoria-victoria
+  name: "Jones Bar-B-Que Victoria"
+  city: "Victoria"
+  query: "Jones Bar-B-Que Victoria 1725 Cook St, Victoria, BC V8T 3P4, Canada"
+  cid: "819328168740969692"
+
+- key: the-local-victoria
+  name: "The Local"
+  city: "Victoria"
+  query: "The Local 1205 Wharf St, Victoria, BC V8W 1T8, Canada"
+  cid: "16657627832012806418"
+
+- key: ox-burger-seattle
+  name: "Ox Burger"
+  city: "Seattle"
+  query: "Ox Burger 1523 E Madison St (16th Ave E), Seattle, WA 98122"
+  cid: "2813983315445985086"
+
+- key: piroshky-piroshky-seattle
+  name: "Piroshky Piroshky"
+  city: "Seattle"
+  query: "Piroshky Piroshky 1908 Pike Pl (btwn Virginia & Stewart St), Seattle, WA 98101"
+  cid: "1980928055431499542"
+
+- key: yakiya-pasadena
+  name: "Yakiya"
+  city: "Pasadena"
+  query: "Yakiya 3455 E Foothill Blvd, Pasadena, CA 91107"
+  cid: "11382014054931487021"
+
+- key: lius-cafe-los-angele
+  name: "Liu's Cafe"
+  city: "Los Angeles"
+  query: "Liu's Cafe 3915 1/2 W 6th St, Los Angeles, CA 90020, USA"
+  cid: "9837655724032984035"
+
+- key: shang-artisan-noodle-las-vegas
+  name: "Shang Artisan Noodle"
+  city: "Las Vegas"
+  query: "Shang Artisan Noodle 4983 W Flamingo Rd (btwn S Edmond St & S Decatur Blvd), Las Vegas, NV 89103"
+  cid: "6885325440711523534"
+
+- key: super-peach-los-angele
+  name: "Super Peach"
+  city: "Los Angeles"
+  query: "Super Peach 10250 Santa Monica Blvd, Los Angeles, CA 90067, USA"
+  cid: "18292805468310179680"
+
+- key: yu-ji-stone-mill-chinese-crepes-rowland-he
+  name: "Yu Ji Stone Mill Chinese Crepes"
+  city: "Rowland Heights"
+  query: "Yu Ji Stone Mill Chinese Crepes 1648 S Jellick Ave, Rowland Heights, CA 91748, USA"
+  cid: "5784912513544240314"
+
+- key: kyoto-wagyu-tonkatsu-ten-no-meshi-l-los-angele
+  name: "Kyoto Wagyu Tonkatsu Ten no Meshi LA"
+  city: "Los Angeles"
+  query: "Kyoto Wagyu Tonkatsu Ten no Meshi LA 2006 Sawtelle Blvd, Los Angeles, CA 90025, USA"
+  cid: "7971141352478688887"
+
+- key: lius-cafe-westwood
+  name: "Liu's Cafe"
+  city: "Westwood"
+  query: "Liu's Cafe Westwood"
+  cid: "14131500398376162233"
+
+- key: morning-delight-cafe-san-gabrie
+  name: "Morning Delight Cafe"
+  city: "San Gabriel"
+  query: "Morning Delight Cafe 120 N San Gabriel Blvd Ste H (Las Tunas), San Gabriel, CA 91775"
+  cid: "13232514039492846897"
+
+- key: pine-crane-downtown-l
+  name: "Pine & Crane"
+  city: "Downtown LA"
+  query: "Pine & Crane 1120 S Grand Ave Unit 101, Los Angeles, CA 90015"
+  cid: "7209211586548480392"
+
+- key: niko-sando-brentwood
+  name: "Niko Sando"
+  city: "Brentwood"
+  query: "Niko Sando 912 S Barrington Ave, Los Angeles, CA 90049"
+  cid: "8844873424110233215"

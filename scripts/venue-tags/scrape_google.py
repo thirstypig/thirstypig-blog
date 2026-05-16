@@ -260,6 +260,8 @@ def venues_to_scrape(
         # Coerce cid to str — yaml may parse decimals as int
         cid = v.get("cid")
         cid = str(cid) if cid is not None else None
+        if args.new_only and (DATA_DIR / f"{v['key']}_chips.json").exists():
+            continue
         yield v["query"], v["key"], v.get("place_id"), cid
 
 
@@ -280,6 +282,12 @@ def main() -> int:
         action="store_true",
         help="Pre-flight: scrape one canary venue (Franklin BBQ) and exit 0 if "
              "auth is valid, 2 if auth-gated. Use before starting a long batch.",
+    )
+    ap.add_argument(
+        "--new-only",
+        action="store_true",
+        help="Skip venues that already have a _chips.json in data/. "
+             "Useful for incremental runs after adding new venues to venues.yaml.",
     )
     args = ap.parse_args()
 
