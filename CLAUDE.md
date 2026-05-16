@@ -11,6 +11,7 @@ My food blog from 2007–present, rebuilt from Wayback Machine archives and Inst
 - **Stack:** Astro + Tailwind v4 + Tina CMS, deployed on Vercel
 - **Content:** archive-only blog — 923 Wayback-recovered posts (2007–2017) + 1,649 Instagram posts (2011–present), all static
 - **Scripts:** Python scrapers in `scripts/` (Wayback downloader, Instagram importer, Foursquare geocoder)
+- **Trigger an IG sync programmatically:** create a GitHub release tagged `ig-*` with the IG export ZIP attached — `instagram-sync.yml` fires on that tag prefix.
 - **Live site:** https://thirstypig.com
 
 See `README.md` for the full data-source breakdown and tech stack.

@@ -55,8 +55,19 @@ if launchctl list | grep -q "$LABEL"; then
     echo
     echo "(The fake test will fail at gh release create — expected. Real exports succeed.)"
     echo
-    # Run handler once now in case there's already a matching file in Downloads.
-    bash "$HANDLER" || true
+    # If a candidate ZIP is already sitting in Downloads, prompt before running —
+    # avoid silently publishing a stale export left over from earlier testing.
+    candidate=$(find "$HOME/Downloads" -maxdepth 1 -type f \
+        \( -name "instagram-*.zip" -o -name "meta-*.zip" \) 2>/dev/null | head -1)
+    if [ -n "$candidate" ]; then
+        echo "Found existing export: $(basename "$candidate")"
+        read -r -p "Process and publish it now? [y/N] " reply
+        if [[ "$reply" =~ ^[Yy]$ ]]; then
+            bash "$HANDLER" || true
+        else
+            echo "Skipped. The watcher will process it automatically on the next ~/Downloads change."
+        fi
+    fi
 else
     echo "[error] agent didn't load. See $HOME/Library/Logs/thirstypig-ig-watcher.log"
     exit 1
