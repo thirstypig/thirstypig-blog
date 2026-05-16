@@ -50,7 +50,7 @@ def main() -> None:
 
     # Multi-resolution ICO. PIL handles downsampling internally.
     ico_path = PUBLIC / "favicon.ico"
-    square.save(ico_path, format="ICO", sizes=[(16, 16), (32, 32), (48, 48)])
+    square.save(ico_path, format="ICO", sizes=[(16, 16), (32, 32)])
     print(f"  wrote {ico_path.relative_to(REPO_ROOT)} ({ico_path.stat().st_size:,} bytes)")
 
     # Remove the old Astro-default SVG favicon — replaced by the ICO + PNG set.
