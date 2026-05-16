@@ -275,7 +275,18 @@ def main() -> int:
         "'limited view' even with valid auth — Google detects headless "
         "Chrome's fingerprint and downgrades the page. Default is headed.",
     )
+    ap.add_argument(
+        "--check-auth",
+        action="store_true",
+        help="Pre-flight: scrape one canary venue (Franklin BBQ) and exit 0 if "
+             "auth is valid, 2 if auth-gated. Use before starting a long batch.",
+    )
     args = ap.parse_args()
+
+    if args.check_auth:
+        args.query = "Franklin Barbecue Austin TX"
+        args.key = "_auth_check"
+        args.venue = None
 
     if bool(args.query) != bool(args.key):
         ap.error("--query and --key must be used together")
