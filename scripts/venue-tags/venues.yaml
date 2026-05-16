@@ -3420,3 +3420,753 @@ Los Angeles, CA 90027"
   query: "The Melt 665 Spectrum Center Dr (at Irvine Spectrum Center), Irvine, CA 92618"
   place_id: "0x80dce7fbff271273:0xd4ac4f2f3da64060"
   cid: "15324710696351318112"
+- key: jalapeño-pepper-burger-swiss-mushro-anaheim
+  name: "Jalapeño Pepper Burger, Swiss Mushroom Burger"
+  city: "Anaheim"
+  query: "Jalapeño Pepper Burger, Swiss Mushroom Burger Anaheim"
+  cid: "12910900542185918087"
+- key: capital-noodle-bar-irvine
+  name: "Capital Noodle Bar"
+  city: "Irvine"
+  query: "Capital Noodle Bar 3850 Barranca Pkwy Ste E (Barranca and Culver), Irvine, CA 92606"
+  cid: "12658005760832353009"
+- key: the-boiling-crab-rosemead
+  name: "The Boiling Crab"
+  city: "Rosemead"
+  query: "The Boiling Crab 3514 Rosemead Blvd, Rosemead, CA 91770"
+  cid: "15383161559992583226"
+- key: pepper-lunch-irvine
+  name: "Pepper Lunch"
+  city: "Irvine"
+  query: "Pepper Lunch 2750 Alton Pkwy (Jamboree Blvd), Irvine, CA 92606"
+  cid: "15884647802476036633"
+- key: mod-pizza-irvine
+  name: "MOD Pizza"
+  city: "Irvine"
+  query: "MOD Pizza 3965 Alton Pkwy, Irvine, CA 92606"
+  cid: "1805783343804929020"
+- key: la-guerrerense-los-angele
+  name: "La Guerrerense"
+  city: "Los Angeles"
+  query: "La Guerrerense Los Angeles"
+  cid: "18413129256231071654"
+- key: the-best-meal-on-our-booze-cruise-i-ensenada
+  name: "The best meal on our booze cruise in Ensenada"
+  city: "Ensenada"
+  query: "The best meal on our booze cruise in Ensenada Ensenada"
+  cid: "11901577492270803534"
+- key: mission-san-gabriel-arcángel-san-gabrie
+  name: "Mission San Gabriel Arcángel"
+  city: "San Gabriel"
+  query: "Mission San Gabriel Arcángel 428 S Mission Dr (Junipero Serra Dr.), San Gabriel, CA 91776"
+  cid: "2115408451344197348"
+- key: hussongs-ensenada
+  name: "Hussong's"
+  city: "Ensenada"
+  query: "Hussong's Ave Ruiz #113 (e/ Primera y Segunda), 22800 Ensenada, Baja California"
+  cid: "11901577492270803534"
+- key: wifes-favorite-type-of-noodles-arcadia
+  name: "Wife’s favorite type of noodles"
+  city: "Arcadia"
+  query: "Wife’s favorite type of noodles Arcadia"
+  cid: "18010858053348862620"
+- key: jiouding-hot-pot-los-angele
+  name: "JiouDing Hot Pot"
+  city: "Los Angeles"
+  query: "JiouDing Hot Pot Los Angeles"
+  cid: "749894672943675749"
+- key: tot-little-tokyo-los-angele
+  name: "TOT Little Tokyo"
+  city: "Los Angeles"
+  query: "TOT Little Tokyo 345 E 2nd St, Los Angeles, CA 90012, USA"
+  cid: "10783495113211042463"
+- key: xindalu-新大陆-shanghai
+  name: "Xindalu (新大陆)"
+  city: "Shanghai"
+  query: "Xindalu (新大陆) 199 Huangpu Rd | 黄浦路199号 (1/F Hyatt on the Bund | 上海外滩茂悦大酒店1楼大堂), Huangpu, 上海市, 200080"
+  cid: "11558675274063909629"
+- key: soowon-galbi-koreatown
+  name: "Soowon Galbi"
+  city: "Koreatown"
+  query: "Soowon Galbi 856 S Vermont Ave (btwn 8th & James M Wood), Los Angeles, CA 90005"
+  cid: "11734006477412438292"
+- key: friends-of-foster-children-arcadia
+  name: "Friends of Foster Children"
+  city: "Arcadia"
+  query: "Friends of Foster Children 1105 Arcadia Ave, Arcadia, CA 91007"
+  cid: "5607153319303520949"
+- key: beyond-the-streets-downtown-l
+  name: "Beyond The Streets"
+  city: "Downtown LA"
+  query: "Beyond The Streets 434 N La Brea Ave, Los Angeles, CA 90036"
+  cid: "1379149849272465200"
+- key: manuela-downtown-l
+  name: "Manuela"
+  city: "Downtown LA"
+  query: "Manuela 907 E 3rd St (at S Garey St), Los Angeles, CA 90013"
+  cid: "8730212914713626401"
+- key: the-adventure-playground-irvine
+  name: "The Adventure Playground"
+  city: "Irvine"
+  query: "The Adventure Playground 1 Beech Tree Ln, Irvine, CA 92612"
+  cid: "10990037229513241745"
+- key: studio-movie-grill-monrovia-monrovia
+  name: "Studio Movie Grill Monrovia"
+  city: "Monrovia"
+  query: "Studio Movie Grill Monrovia 410 South Myrtle Ave, Monrovia, CA 91016"
+  cid: "15134112572152127529"
+- key: oo-kook-korean-bbq-koreatown
+  name: "Oo Kook Korean BBQ"
+  city: "Koreatown"
+  query: "Oo Kook Korean BBQ 3385 W 8th St (at S Kingsley Dr), Los Angeles, CA 90005"
+  cid: "13827450203441429908"
+- key: walt-disney-concert-hall-los-angele
+  name: "Walt Disney Concert Hall"
+  city: "Los Angeles"
+  query: "Walt Disney Concert Hall 111 S Grand Ave (btwn 1st & 2nd St), Los Angeles, CA 90012"
+  cid: "12930551601747145136"
+- key: ms-chi-culver-cit
+  name: "Ms Chi"
+  city: "Culver City"
+  query: "Ms Chi Culver City"
+  cid: "5607073341755663099"
+- key: hainan-chicken-rice-in-the-oc-orange-cou
+  name: "Hainan Chicken Rice in the OC"
+  city: "Orange County"
+  query: "Hainan Chicken Rice in the OC Orange County"
+  cid: "2120135046476177967"
+- key: indian-beer-house-san-gabrie
+  name: "Indian Beer House"
+  city: "San Gabriel Valley"
+  query: "Indian Beer House San Gabriel Valley"
+  cid: "17045148821429146813"
+- key: omg-pasadena
+  name: "OMG"
+  city: "Pasadena"
+  query: "OMG Pasadena"
+  cid: "6168927835704342756"
+- key: milk-bat-in-la-los-angele
+  name: "Milk Bat in LA"
+  city: "Los Angeles"
+  query: "Milk Bat in LA Los Angeles"
+  cid: "14234664463275503437"
+- key: best-taquitos-in-la-los-angele
+  name: "Best Taquitos in LA"
+  city: "Los Angeles"
+  query: "Best Taquitos in LA Los Angeles"
+  cid: "12074716486838880318"
+- key: hooshik-san-gabrie
+  name: "Hooshik"
+  city: "San Gabriel"
+  query: "Hooshik San Gabriel"
+  cid: "15191534340222964009"
+- key: pho-kinh-do-las-vegas
+  name: "Pho Kinh Do"
+  city: "Las Vegas"
+  query: "Pho Kinh Do 4300 Spring Mountain Rd #101, Las Vegas, NV 89102, USA"
+  cid: "753607757264054777"
+- key: hunan-chili-king-sgv
+  name: "Hunan Chili King"
+  city: "Sgv"
+  query: "Hunan Chili King Sgv"
+  cid: "6461553643554982237"
+- key: haleiwa-shave-ice-arcadia
+  name: "Haleiwa Shave Ice"
+  city: "Arcadia"
+  query: "Haleiwa Shave Ice Los Angeles, CA 90040"
+  cid: "1496926313465645336"
+- key: young-dong-tofu-san-gabrie
+  name: "Young Dong Tofu"
+  city: "San Gabriel"
+  query: "Young Dong Tofu San Gabriel"
+  cid: "8166233389212527753"
+- key: chuans-san-gabrie
+  name: "Chuan's"
+  city: "San Gabriel"
+  query: "Chuan's San Gabriel"
+  cid: "15865549006406253803"
+- key: konbi-downtown-l
+  name: "Konbi"
+  city: "Downtown LA"
+  query: "Konbi 1463 W Sunset Blvd (Portia St), Los Angeles, CA 90026"
+  cid: "12769020205039908422"
+- key: taiwanese-gastropub-印地安-san-gabrie
+  name: "Taiwanese Gastropub 印地安"
+  city: "San Gabriel Valley"
+  query: "Taiwanese Gastropub 印地安 San Gabriel Valley"
+  cid: "10172153662843525487"
+- key: bacon-wrapped-hotdogs-outside-of-st-dtla
+  name: "Bacon wrapped hotdogs outside of Staples Center"
+  city: "Dtla"
+  query: "Bacon wrapped hotdogs outside of Staples Center Dtla"
+  cid: "15115577711048030289"
+- key: plate-38-pasadena
+  name: "Plate 38"
+  city: "Pasadena"
+  query: "Plate 38 Pasadena"
+  cid: "17037682155783201908"
+- key: crepes-on-a-tuesday-at-universal-ci-universal-
+  name: "Crepes on a Tuesday at Universal Citywalk"
+  city: "Universal City"
+  query: "Crepes on a Tuesday at Universal Citywalk Universal City"
+  cid: "17499811231106047817"
+- key: pho-done-easy-san-gabrie
+  name: "Pho done easy"
+  city: "San Gabriel Valley"
+  query: "Pho done easy San Gabriel Valley"
+  cid: "1261449909671046844"
+- key: blackball-desserts-san-gabrie
+  name: "Blackball Desserts"
+  city: "San Gabriel"
+  query: "Blackball Desserts San Gabriel"
+  cid: "2668269098718657030"
+- key: hunan-mao-los-angele
+  name: "Hunan Mao"
+  city: "Los Angeles"
+  query: "Hunan Mao Los Angeles"
+  cid: "3022561779328474081"
+- key: big-jos-santa-moni
+  name: "Big Jo's"
+  city: "Santa Monica"
+  query: "Big Jo's Santa Monica"
+  cid: "8362027154020779051"
+- key: my-in-laws-favorite-hunan-restauran-san-gabrie
+  name: "My in-laws favorite Hunan restaurant"
+  city: "San Gabriel"
+  query: "My in-laws favorite Hunan restaurant San Gabriel"
+  cid: "2730409128067449455"
+- key: jennys-kitchen-los-angele
+  name: "Jenny's Kitchen"
+  city: "Los Angeles"
+  query: "Jenny's Kitchen Los Angeles"
+  cid: "1846535608180829649"
+- key: the-eli-edythe-broad-stage-santa-moni
+  name: "The Eli & Edythe Broad Stage"
+  city: "Santa Monica"
+  query: "The Eli & Edythe Broad Stage 1310 11th St, Santa Monica, CA 90401"
+  cid: "2343866195867182006"
+- key: honeys-kettle-fried-chicken-culver-cit
+  name: "Honey's Kettle Fried Chicken"
+  city: "Culver City"
+  query: "Honey's Kettle Fried Chicken 9537 Culver Blvd, Culver City, CA 90232"
+  cid: "7619707792588291839"
+- key: changs-garden-arcadia
+  name: "Chang's Garden"
+  city: "Arcadia"
+  query: "Chang's Garden Arcadia"
+  cid: "3378173045552519666"
+- key: daiso-japanese-household-goods-rowland-he
+  name: "Daiso - Japanese Household Goods"
+  city: "Rowland Heights"
+  query: "Daiso - Japanese Household Goods 19715 Colima Rd, Rowland Heights, CA 91748"
+  cid: "468809354219302026"
+- key: dama-fashion-district-downtown-l
+  name: "Dama Fashion District"
+  city: "Downtown LA"
+  query: "Dama Fashion District 612 E 11th St, Los Angeles, CA 90015"
+  cid: "12000577737754590430"
+- key: salju-desserts-alhambra
+  name: "Salju Desserts"
+  city: "Alhambra"
+  query: "Salju Desserts Alhambra"
+  cid: "16196025307694967961"
+- key: qing-dao-bread-food-monterey-p
+  name: "Qing Dao Bread Food"
+  city: "Monterey Park"
+  query: "Qing Dao Bread Food 301 N Garfield Ave #G (at Garcelon Ave), Monterey Park, CA 91754"
+  cid: "11763330199769669178"
+- key: patty-wagon-food-truck-pasadena
+  name: "Patty Wagon Food Truck"
+  city: "Pasadena"
+  query: "Patty Wagon Food Truck Greater LA Metro Area, Los Angeles, CA 90015"
+  cid: "16614183931107025543"
+- key: kang-ho-dong-baekjeong-san-gabrie
+  name: "Kang Ho Dong Baekjeong"
+  city: "San Gabriel"
+  query: "Kang Ho Dong Baekjeong San Gabriel"
+  cid: "15357446426953239883"
+- key: hunanese-lunch-san-gabrie
+  name: "Hunanese lunch"
+  city: "San Gabriel Valley"
+  query: "Hunanese lunch San Gabriel Valley"
+  cid: "6461553643554982237"
+- key: peter-mcmanus-cafe-new-york
+  name: "Peter McManus Cafe"
+  city: "New York"
+  query: "Peter McManus Cafe 152 7th Ave (at W 19th St), New York, NY 10011"
+  cid: "10468422962653354340"
+- key: bāng-bar-new-york
+  name: "Bāng Bar"
+  city: "New York"
+  query: "Bāng Bar New York"
+  cid: "17630363032204589908"
+- key: lombardis-new-york
+  name: "Lombardi's"
+  city: "New York"
+  query: "Lombardi's New York"
+  cid: "15632281360679060121"
+- key: five-iron-golf-new-york
+  name: "Five Iron Golf"
+  city: "New York"
+  query: "Five Iron Golf 138 5th Ave (19th Street), New York, NY 10011"
+  cid: "2990030674859584938"
+- key: shake-shack-new-york
+  name: "Shake Shack"
+  city: "New York"
+  query: "Shake Shack Madison Square Park (at E 23rd St), New York, NY 10010"
+  cid: "9560168038139125186"
+- key: hudson-yards-public-square-and-gard-new-york
+  name: "Hudson Yards Public Square and Gardens"
+  city: "New York"
+  query: "Hudson Yards Public Square and Gardens Hudson Yards, New York, NY 10001"
+  cid: "6788170426805668400"
+- key: fried-chickn-at-fuku-at-hudson-yard-new-york
+  name: "Fried Chick’n at Fuku at Hudson Yards"
+  city: "New York"
+  query: "Fried Chick’n at Fuku at Hudson Yards New York"
+  cid: "114665365324166326"
+- key: cut-beverly-hills-beverly-hi
+  name: "CUT Beverly Hills"
+  city: "Beverly Hills"
+  query: "CUT Beverly Hills 9500 Wilshire Blvd ((at the Beverly Wilshire, A Four Seasons Hotel)), Beverly Hills, CA 90212"
+  cid: "15829659099387538119"
+- key: paul-martins-american-grill-pasadena
+  name: "Paul Martin's American Grill"
+  city: "Pasadena"
+  query: "Paul Martin's American Grill Pasadena"
+  cid: "7962544298094386865"
+- key: suehiros-little-tok
+  name: "Suehiro's"
+  city: "Little Tokyo"
+  query: "Suehiro's Little Tokyo"
+  cid: "3767186163253144344"
+- key: bouchon-bakery-with-the-humongous-m-yountville
+  name: "Bouchon Bakery with the humongous macaroons"
+  city: "Yountville"
+  query: "Bouchon Bakery with the humongous macaroons Yountville"
+  cid: "74524274289407384"
+- key: olsens-danish-village-bakery-is-sol-solvang
+  name: "Olsen’s Danish Village Bakery is Solvang"
+  city: "Solvang"
+  query: "Olsen’s Danish Village Bakery is Solvang Solvang"
+  cid: "10124190941929679764"
+- key: inko-nito-downtown-l
+  name: "Inko Nito"
+  city: "Downtown LA"
+  query: "Inko Nito Downtown LA"
+  cid: "11025941283430457727"
+- key: erb-downtown-l
+  name: "ERB"
+  city: "Downtown LA"
+  query: "ERB Downtown LA"
+  cid: "3371906459490486129"
+- key: guerrilla-tacos-los-angele
+  name: "Guerrilla Tacos"
+  city: "Los Angeles"
+  query: "Guerrilla Tacos 2000 E 7th St, Los Angeles, CA 90021, USA"
+  cid: "370497447548640604"
+- key: clark-street-bread-hollywood
+  name: "Clark Street Bread"
+  city: "Hollywood"
+  query: "Clark Street Bread 331 Glendale Blvd, Los Angeles, CA 90026"
+  cid: "14835806391281213411"
+- key: sul-long-tang-san-gabrie
+  name: "Sul Long Tang"
+  city: "San Gabriel Valley"
+  query: "Sul Long Tang San Gabriel Valley"
+  cid: "10907880569077134116"
+- key: manhattan-beach-creamery-manhattan-
+  name: "Manhattan Beach Creamery"
+  city: "Manhattan Beach"
+  query: "Manhattan Beach Creamery 1120 Manhattan Ave (at Manhattan Beach Blvd), Manhattan Beach, CA 90266"
+  cid: "3929540610464715726"
+- key: the-redwood-bar-grill-hollywood
+  name: "The Redwood Bar & Grill"
+  city: "Hollywood"
+  query: "The Redwood Bar & Grill 316 W 2nd St (at S Hill St), Los Angeles, CA 90012"
+  cid: "9214992026148815492"
+- key: malibu-farm-restaurant-bar-malibu
+  name: "Malibu Farm Restaurant & Bar"
+  city: "Malibu"
+  query: "Malibu Farm Restaurant & Bar 23000 Pacific Coast Hwy, Malibu, CA 90265"
+  cid: "4316393510767069828"
+- key: with-love-market-cafe-los-angele
+  name: "With Love Market & Cafe"
+  city: "Los Angeles"
+  query: "With Love Market & Cafe 1969 S Vermont Ave (btwn Cordova St & W 20th St), Los Angeles, CA 90007"
+  cid: "12421373244170406415"
+- key: din-tai-fung-san-gabrie
+  name: "Din Tai Fung"
+  city: "San Gabriel"
+  query: "Din Tai Fung San Gabriel"
+  cid: "1646950578315771564"
+- key: hironori-craft-ramen-pasadena
+  name: "Hironori Craft Ramen"
+  city: "Pasadena"
+  query: "Hironori Craft Ramen Pasadena"
+  cid: "16577885674254337998"
+- key: simple-dinner-at-sinbala-san-gabrie
+  name: "Simple Dinner at Sinbala"
+  city: "San Gabriel Valley"
+  query: "Simple Dinner at Sinbala San Gabriel Valley"
+  cid: "16342775292433366716"
+- key: california-pizza-kitchen-arcadia
+  name: "California Pizza Kitchen"
+  city: "Arcadia"
+  query: "California Pizza Kitchen 400 S Baldwin Ave Ste 115 (at Westfield Santa Anita, 2nd Fl), Arcadia, CA 91007"
+  cid: "10921305986627454427"
+- key: monja-taiker-rosemead
+  name: "Monja Taiker"
+  city: "Rosemead"
+  query: "Monja Taiker Rosemead"
+  cid: "7425085717044445127"
+- key: holy-roly-ice-cream-arcadia
+  name: "Holy Roly Ice Cream"
+  city: "Arcadia"
+  query: "Holy Roly Ice Cream 400 S Baldwin Ave, Arcadia, CA 91007"
+  cid: "15178345046251016780"
+- key: with-love-market-cafe-downtown-l
+  name: "With Love Market & Cafe"
+  city: "Downtown LA"
+  query: "With Love Market & Cafe 1969 S Vermont Ave (btwn Cordova St & W 20th St), Los Angeles, CA 90007"
+  cid: "12421373244170406415"
+- key: pizza-san-gabrie
+  name: "Pizza"
+  city: "San Gabriel Valley"
+  query: "Pizza San Gabriel Valley"
+  cid: "4926061319899621794"
+- key: pizza-at-cpk-san-gabrie
+  name: "Pizza at CPK"
+  city: "San Gabriel Valley"
+  query: "Pizza at CPK San Gabriel Valley"
+  cid: "10921305986627454427"
+- key: taiwanese-breakfast-想彳早餐-taipei
+  name: "Taiwanese Breakfast (想彳早餐)"
+  city: "Taipei"
+  query: "Taiwanese Breakfast (想彳早餐) 萬壽里,  108"
+  cid: "9848027108255427702"
+- key: yet-another-alhambra
+  name: "Yet another"
+  city: "Alhambra"
+  query: "Yet another Alhambra"
+  cid: "13661806476884760419"
+- key: galbi-jim-at-sbd-bbq-san-gabrie
+  name: "Galbi Jim at SBD BBQ"
+  city: "San Gabriel Valley"
+  query: "Galbi Jim at SBD BBQ San Gabriel Valley"
+  cid: "10907880569077134116"
+- key: korea-ginseng-chicken-soup-고려삼계탕-seoul
+  name: "Korea Ginseng Chicken Soup (고려삼계탕)"
+  city: "Seoul"
+  query: "Korea Ginseng Chicken Soup (고려삼계탕) 중구 서소문로11길 1 (시청본점), 소공동, 서울특별시, 서울특별시, 100-814"
+  cid: "5671268701716271618"
+- key: sonoratown-downtown-l
+  name: "Sonoratown"
+  city: "Downtown LA"
+  query: "Sonoratown 208 E 8th St (at S Los Angeles St), Los Angeles, CA 90014"
+  cid: "4986511368808354132"
+- key: guerrilla-tacos-downtown-l
+  name: "Guerrilla Tacos"
+  city: "Downtown LA"
+  query: "Guerrilla Tacos Los Angeles, CA"
+  cid: "370497447548640604"
+- key: zankou-chicken-pasadena
+  name: "Zankou Chicken"
+  city: "Pasadena"
+  query: "Zankou Chicken 1296 E Colorado Blvd (S Hill St.), Pasadena, CA 91106"
+  cid: "16070798973695860700"
+- key: duck-house-monterey-p
+  name: "Duck House"
+  city: "Monterey Park"
+  query: "Duck House Monterey Park"
+  cid: "6419600483978919437"
+- key: yuk-dae-jang-san-gabrie
+  name: "Yuk Dae Jang"
+  city: "San Gabriel"
+  query: "Yuk Dae Jang 704 W Las Tunas Dr, San Gabriel, CA 91776"
+  cid: "15046606835613769625"
+- key: tiger-sugar-san-gabrie
+  name: "Tiger Sugar"
+  city: "San Gabriel Valley"
+  query: "Tiger Sugar San Gabriel Valley"
+  cid: "12768932759125279044"
+- key: baking-with-ish-san-gabrie
+  name: "Baking With Ish"
+  city: "San Gabriel"
+  query: "Baking With Ish 264 S. Mission (Broadway), San Gabriel, CA 91776"
+  cid: "17728689211879539566"
+- key: ramen-san-gabrie
+  name: "Ramen"
+  city: "San Gabriel Valley"
+  query: "Ramen San Gabriel Valley"
+  cid: "701966869002360882"
+- key: yi-mei-arcadia
+  name: "Yi Mei"
+  city: "Arcadia"
+  query: "Yi Mei Arcadia"
+  cid: "4242506483363132344"
+- key: boba-time-rowland-he
+  name: "Boba Time"
+  city: "Rowland Heights"
+  query: "Boba Time 19820 E Colima Rd (at Brea Canyon Cut-off Rd), Walnut, CA 91789"
+  cid: "10250479702997924755"
+- key: best-carpet-care-arcadia
+  name: "Best Carpet Care"
+  city: "Arcadia"
+  query: "Best Carpet Care 118 San Miguel Dr, Arcadia, CA 91007"
+  cid: "2170313191402642529"
+- key: burgers-never-say-die-los-angele
+  name: "Burgers Never Say Die"
+  city: "Los Angeles"
+  query: "Burgers Never Say Die 2388 Glendale Blvd, Los Angeles, CA 90039"
+  cid: "3879602201409844730"
+- key: granville-pasadena
+  name: "Granville"
+  city: "Pasadena"
+  query: "Granville Pasadena"
+  cid: "8108197157989699622"
+- key: king-of-ramen-pasadena
+  name: "King of Ramen"
+  city: "Pasadena"
+  query: "King of Ramen Pasadena"
+  cid: "10822645453660545157"
+- key: veggie-grill-hollywood-dome-hollywood
+  name: "Veggie Grill - Hollywood DOME"
+  city: "Hollywood"
+  query: "Veggie Grill - Hollywood DOME 6374-A Sunset Boulevard (at Ivar Ave), Hollywood, CA 90028"
+  cid: "8718259956327260671"
+- key: han-bat-sul-lung-tang-koreatown
+  name: "Han Bat Sul Lung Tang"
+  city: "Koreatown"
+  query: "Han Bat Sul Lung Tang 4163 W 5th St (at Western Ave), Los Angeles, CA 90020"
+  cid: "8434526392418546554"
+- key: chicago-helicopter-experience-chicago
+  name: "Chicago Helicopter Experience"
+  city: "Chicago"
+  query: "Chicago Helicopter Experience 2420 S Halsted St, Chicago, IL 60608"
+  cid: "192037735878048554"
+- key: went-to-dory-fleet-seafood-marley-l-orange-cou
+  name: "Went to Dory Fleet Seafood Marley last Saturday"
+  city: "Orange County"
+  query: "Went to Dory Fleet Seafood Marley last Saturday Orange County"
+  cid: "3179356095088768255"
+- key: inspire-martial-arts-fitness-burbank
+  name: "Inspire Martial Arts & Fitness"
+  city: "Burbank"
+  query: "Inspire Martial Arts & Fitness 175 E Olive Ave (at San Fernando Blvd.), Burbank, CA 91502"
+  cid: "11723886253653612608"
+- key: hidden-gem-in-the-sgv-san-gabrie
+  name: "Hidden gem in the SGV"
+  city: "San Gabriel Valley"
+  query: "Hidden gem in the SGV San Gabriel Valley"
+  cid: "12074240045828737180"
+- key: pikunico-downtown-l
+  name: "Pikunico"
+  city: "Downtown LA"
+  query: "Pikunico Downtown LA"
+  cid: "4810257355192563767"
+- key: birria-tacos-carne-asada-nachos-san-gabrie
+  name: "Birria tacos, carne asada nachos"
+  city: "San Gabriel Valley"
+  query: "Birria tacos, carne asada nachos San Gabriel Valley"
+  cid: "11803788840615110601"
+- key: ikes-love-sandwiches-costa-mesa
+  name: "Ike's Love & Sandwiches"
+  city: "Costa Mesa"
+  query: "Ike's Love & Sandwiches 1835 Newport Blvd, Costa Mesa, CA 92627"
+  cid: "15823005593253748476"
+- key: boba-ave-express-arcadia
+  name: "Boba Ave Express"
+  city: "Arcadia"
+  query: "Boba Ave Express 1437 S Baldwin Ave, Arcadia, CA 91007, USA"
+  cid: "10997157751275566750"
+- key: summer-rolls-temple-cit
+  name: "Summer Rolls"
+  city: "Temple City"
+  query: "Summer Rolls 5728 Rosemead Blvd #100, Temple City, CA 91780, USA"
+  cid: "285029106583498198"
+- key: burritos-la-palma-los-angele
+  name: "Burritos La Palma"
+  city: "Los Angeles"
+  query: "Burritos La Palma Los Angeles"
+  cid: "15157101912651276187"
+- key: masonic-lodge-at-hollywood-forever-hollywood
+  name: "Masonic Lodge at Hollywood Forever"
+  city: "Hollywood"
+  query: "Masonic Lodge at Hollywood Forever 5970 Santa Monica Blvd, Los Angeles, CA 90038"
+  cid: "35765539511025681"
+- key: pepes-red-tacos-pasadena
+  name: "Pepe’s Red Tacos"
+  city: "Pasadena"
+  query: "Pepe’s Red Tacos Pasadena, CA 91107"
+  cid: "11315838052531317830"
+- key: roasted-coffee-laboratory-tokyo
+  name: "Roasted Coffee Laboratory"
+  city: "Tokyo"
+  query: "Roasted Coffee Laboratory 神南1-6-3 (神南フラッグ 1F), 渋谷区, 東京都, 150-0041"
+  cid: "12532114631667553916"
+- key: best-noodles-i-have-ever-made-shanghai
+  name: "Best noodles I have ever made"
+  city: "Shanghai"
+  query: "Best noodles I have ever made Shanghai"
+  cid: "3149463789255130782"
+- key: yummy-pasadena
+  name: "Yummy"
+  city: "Pasadena"
+  query: "Yummy Pasadena"
+  cid: "1037042320240403494"
+- key: gozen-shun-pasadena
+  name: "Gozen Shun"
+  city: "Pasadena"
+  query: "Gozen Shun Pasadena"
+  cid: "13995519221599020244"
+- key: the-boy-the-bear-coffee-roastery-redondo-be
+  name: "The Boy & The Bear - Coffee Roastery"
+  city: "Redondo Beach"
+  query: "The Boy & The Bear - Coffee Roastery 350 N Pacific Coast Hwy, Redondo Beach, CA 90277"
+  cid: "1251162147581116827"
+- key: lantica-pizzeria-da-michele-hollywood
+  name: "L'Antica Pizzeria da Michele"
+  city: "Hollywood"
+  query: "L'Antica Pizzeria da Michele Hollywood"
+  cid: "16212102399773065341"
+- key: van-leeuwen-ice-cream-koreatown
+  name: "Van Leeuwen Ice Cream"
+  city: "Koreatown"
+  query: "Van Leeuwen Ice Cream 300 S Santa Fe Ave, Los Angeles, CA 90013"
+  cid: "5581721465985334485"
+- key: delicious-food-corner-rosemead
+  name: "Delicious Food Corner"
+  city: "Rosemead"
+  query: "Delicious Food Corner 8632 Valley Blvd Ste E, Rosemead, CA 91770, USA"
+  cid: "18327743041322815861"
+- key: traditional-hong-kong-style-breakfa-hong-kong
+  name: "Traditional Hong Kong style breakfast"
+  city: "Hong Kong"
+  query: "Traditional Hong Kong style breakfast Hong Kong"
+  cid: "10843467963299033588"
+- key: porkys-carnitas-east-la
+  name: "Porky's Carnitas"
+  city: "East LA"
+  query: "Porky's Carnitas 1720 S Soto St (at E Washington Blvd), Los Angeles, CA 90023"
+  cid: "9154572462078387714"
+- key: the-maybourne-beverly-hi
+  name: "The Maybourne"
+  city: "Beverly Hills"
+  query: "The Maybourne 225 N Canon Dr, Beverly Hills, CA 90210"
+  cid: "10128297518906961109"
+- key: hanchic-los-angele
+  name: "Hanchic"
+  city: "Los Angeles"
+  query: "Hanchic Los Angeles"
+  cid: "14707876814134876848"
+- key: the-chicken-koop-alhambra
+  name: "The Chicken Koop"
+  city: "Alhambra"
+  query: "The Chicken Koop 101 W Main St (1st St), Alhambra, CA 91801"
+  cid: "9996319800747535662"
+- key: 21-choices-pasadena
+  name: "21 Choices"
+  city: "Pasadena"
+  query: "21 Choices 44 N Fair Oaks Ave (at E Union St), Pasadena, CA 91103"
+  cid: "4090540417337611047"
+- key: maxwell-chicken-rice-downtown-l
+  name: "Maxwell Chicken Rice"
+  city: "Downtown LA"
+  query: "Maxwell Chicken Rice 686 N Spring St, Los Angeles, CA 90012"
+  cid: "9259330135007321631"
+- key: jia-jia-tangbao-佳家汤包-shanghai
+  name: "Jia Jia Tangbao (佳家汤包)"
+  city: "Shanghai"
+  query: "Jia Jia Tangbao (佳家汤包) 62 Liyuan Road | 丽园路62号 (Nan Chezhan Road | 近南车站路), Huangpu, 上海市"
+  cid: "4297225289912619030"
+- key: all-day-baby-downtown-l
+  name: "All Day Baby"
+  city: "Downtown LA"
+  query: "All Day Baby Downtown LA"
+  cid: "17202712623770459726"
+- key: might-be-the-best-korean-bbq-in-la-los-angele
+  name: "Might be the best Korean BBQ in LA"
+  city: "Los Angeles"
+  query: "Might be the best Korean BBQ in LA Los Angeles"
+  cid: "14330795205766034179"
+- key: mothership-coffee-roasters-las-vegas
+  name: "Mothership Coffee Roasters"
+  city: "Las Vegas"
+  query: "Mothership Coffee Roasters 1028 Fremont St, Las Vegas, NV 89101"
+  cid: "17181122049554211656"
+- key: monja-taiker-city-of-in
+  name: "Monja Taiker"
+  city: "City of Industry"
+  query: "Monja Taiker 18558 Gale Ave #108, City of Industry, CA 91748, USA"
+  cid: "7425085717044445127"
+- key: jist-cafe-little-tok
+  name: "JiST Cafe"
+  city: "Little Tokyo"
+  query: "JiST Cafe Little Tokyo"
+  cid: "4018007808603200595"
+- key: dumpling-station-pasadena
+  name: "Dumpling Station"
+  city: "Pasadena"
+  query: "Dumpling Station South Pasadena, CA"
+  cid: "15079644951312330674"
+- key: ola-mexican-kitchen-long-beach
+  name: "Ola Mexican Kitchen"
+  city: "Long Beach"
+  query: "Ola Mexican Kitchen Long Beach"
+  cid: "13080697315105179265"
+- key: bitez-burger-hollywood
+  name: "Bitez Burger"
+  city: "Hollywood"
+  query: "Bitez Burger Hollywood"
+  cid: "6355966533814176584"
+- key: sierra-madre-playhouse-sierra-mad
+  name: "Sierra Madre Playhouse"
+  city: "Sierra Madre"
+  query: "Sierra Madre Playhouse 87 W Sierra Madre Blvd, Sierra Madre, CA 91024"
+  cid: "16517236976225393724"
+- key: the-dive-san-gabrie
+  name: "The Dive"
+  city: "San Gabriel"
+  query: "The Dive San Gabriel"
+  cid: "2142521183349344063"
+- key: au79-teahouse-arcadia
+  name: "Au79 Teahouse"
+  city: "Arcadia"
+  query: "Au79 Teahouse 815 W Naomi Ave G, Arcadia, CA 91007, USA"
+  cid: "13865817296030992439"
+- key: meizhou-roast-duckwhole整只烤鸭-spicy-c-san-gabrie
+  name: "Meizhou Roast Duck(Whole)整只烤鸭, Spicy Chicken 辣子鸡"
+  city: "San Gabriel Valley"
+  query: "Meizhou Roast Duck(Whole)整只烤鸭, Spicy Chicken 辣子鸡 San Gabriel Valley"
+  cid: "17974449900388529191"
+- key: omakase-at-z-sushui-san-gabrie
+  name: "Omakase at Z Sushui"
+  city: "San Gabriel Valley"
+  query: "Omakase at Z Sushui San Gabriel Valley"
+  cid: "15266463851870323538"
+- key: the-clinic-shanghai
+  name: "The Clinic"
+  city: "Shanghai"
+  query: "The Clinic 501, Building B, 98-118 Jiashan Rd | 徐汇区嘉善路98-118楼B座501室 (Yongkang Rd | 永康路), Xuhui, 上海市"
+  cid: "10854983846336043419"
+- key: tasco-mexican-restaurant-west-holly
+  name: "Tasco Mexican Restaurant"
+  city: "West Hollywood"
+  query: "Tasco Mexican Restaurant 1113 N Harper Ave, West Hollywood, CA 90046"
+  cid: "4874544018529907717"
+- key: northern-cafe-temple-cit
+  name: "Northern Cafe"
+  city: "Temple City"
+  query: "Northern Cafe 9608 Las Tunas Dr, Temple City, CA 91780"
+  cid: "907186797087701470"
+- key: favorite-diner-downtown-l
+  name: "Favorite diner"
+  city: "Downtown LA"
+  query: "Favorite diner Downtown LA"
+  cid: "12399703106081849279"
+- key: slab-hollywood
+  name: "Slab"
+  city: "Hollywood"
+  query: "Slab Hollywood"
+  cid: "17625253640454182145"
