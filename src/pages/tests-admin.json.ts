@@ -59,7 +59,15 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 	},
 	"src/utils/regions.test.ts": {
 		kind: "unit",
-		covers: "aggregateRegions() — homepage city tile aggregation. Posts without `region` field land in elsewhereCount (regression guard against phantom undefined-keyed top region), counts ranked desc, topN respected, sum invariant: top counts + elsewhere = posts.length, empty-list safe",
+		covers: "aggregateRegions() — homepage city tile aggregation. Posts without `region` field land in elsewhereCount (regression guard against phantom undefined-keyed top region), counts ranked desc, topN respected, sum invariant: top counts + elsewhere = posts.length, empty-list safe, tie-break alphabetical for build determinism",
+	},
+	"src/utils/aggregate-chips.test.ts": {
+		kind: "unit",
+		covers: "aggregateChips() — cross-venue chip aggregation for tag cloud. Same label at 2+ venues sums mention_count (not max), venueCount increments per loop iteration, output sorted by total desc, empty-chips venues don't crash, empty venue list returns [], case-sensitive label identity",
+	},
+	"src/utils/hitlist-entry.test.ts": {
+		kind: "unit",
+		covers: "Hit List entry schema — required/optional fields, priority bounds (1-3), city normalisation, tag array handling, invalid shapes",
 	},
 	"src/utils/data-quality.test.ts": {
 		kind: "unit",
@@ -68,6 +76,14 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 	"scripts/venue-tags/test_venues_yaml_no_duplicate_keys.py": {
 		kind: "unit",
 		covers: "venues.yaml duplicate-mapping-key lock-down — uses a StrictLoader subclass of yaml.SafeLoader that raises on duplicate keys. PyYAML accepts dupes with last-wins; js-yaml (used by /data-quality.json) rejects per YAML 1.2. Test elevates the silent-tolerance gap to a pre-commit failure on the Python side. Locked-in regression: the 33 duplicate cid: lines that accumulated across 30 venue entries before adoption.",
+	},
+	"scripts/venue-tags/test_curate_candidates.py": {
+		kind: "unit",
+		covers: "curate_candidates — venue key slug generation, non-food filter regexes (service/repair/auto/park heuristics), city normalisation, round-trip through venues.yaml fixture",
+	},
+	"scripts/venue-tags/test_lookup_place_ids_api.py": {
+		kind: "unit",
+		covers: "lookup_place_ids_api — extract_fid_hex regex (!1s and ftid= forms, URL-encoded anchors), write_yaml_field idempotency, load_missing_venues skips entries with existing place_id or cid",
 	},
 	"scripts/test_sync_hitlist.py": {
 		kind: "unit",
