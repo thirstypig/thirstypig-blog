@@ -36,7 +36,7 @@ const { region, posts } = Astro.props;
 <BaseLayout title={`${region} · Thirsty Pig`} description={`All Thirsty Pig posts from ${region}.`}>
 	<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 		<div class="mb-8">
-			<a href="/" class="text-sm text-[#E4152B] hover:underline no-underline">&larr; Home</a>
+			<a href="/" class="text-sm text-poster-red hover:underline no-underline">&larr; Home</a>
 			<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mt-2">{region}</h1>
 			<p class="text-stone">{posts.length} post{posts.length === 1 ? '' : 's'}</p>
 		</div>
