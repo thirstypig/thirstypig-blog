@@ -3,7 +3,7 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,639 posts and 1,400+ mapped restaurants live at thirstypig.com**. Just shipped venue tags at scale: a pipeline pulls topic tags from Google Maps and shows them as little pills on each post page, so a single visit to any post tells you what the place is actually known for (319 venues published, 434 posts now displaying tags). Then tightened the privacy promise — ripped out Google Analytics and AdSense (the privacy page claimed "no analytics" while quietly shipping all three) and rewrote it to actually match what's loaded. Next up: keep extending tags into the long tail of single-venue posts, and continue rolling out the Bold Red Poster redesign across the rest of the site.
+My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,639 posts and 1,400+ mapped restaurants live at thirstypig.com**. Venue tags are in full swing: 594 venues published with Google Maps topic chips, 689 posts displaying tag pills. The todo backlog was cleared this session (12 items closed). Next up: finish extending venue tags into the long tail (676 venues in venues.yaml, ~1,000+ posts still untagged), then roll out the Bold Red Poster redesign across the rest of the site.
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
@@ -49,7 +49,7 @@ When you notice a pattern, preference, decision, or piece of context that should
 
 **WHO I AM:** LA food blogger who ran The Thirsty Pig 2007–2017. Comfortable with the terminal, git, and running Python scripts — but Claude Code is doing the heavy lifting on actual code. I can catch obvious errors in context but won't reliably spot subtle type bugs or logic regressions. Personal tinkering project with no team or deadline pressure.
 
-**WHAT WE'RE BUILDING:** A fully static food blog at thirstypig.com — 1,639+ posts recovered from Wayback Machine archives and Instagram exports, deployed on Vercel. The site is archive-complete; ongoing work is enrichment (venue tags, hit list, redesign). No audience-optimization pressure — this is personal experimentation. Current focus areas: extending venue tags into the long tail (~552 single-post candidates remaining), rolling out the Bold Red Poster redesign, and eventually a comments system.
+**WHAT WE'RE BUILDING:** A fully static food blog at thirstypig.com — 1,639+ posts recovered from Wayback Machine archives and Instagram exports, deployed on Vercel. The site is archive-complete; ongoing work is enrichment (venue tags, hit list, redesign). No audience-optimization pressure — this is personal experimentation. Current focus areas: extending venue tags into the long tail (676 in venues.yaml, ~1,000+ posts still untagged — use `curate_candidates.py --min-posts 1` to find more), rolling out the Bold Red Poster redesign, and eventually a comments system.
 
 **DOMAIN-SPECIFIC CAUTION:**
 
