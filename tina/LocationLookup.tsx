@@ -55,7 +55,8 @@ function loadGoogleMaps(): Promise<void> {
 
   loadPromise = new Promise((resolve, reject) => {
     const script = document.createElement("script");
-    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=weekly`;
+    // Pinned to v=3.62 (quarterly release) — do not use v=weekly; admin holds a PAT in sessionStorage.
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${GOOGLE_API_KEY}&libraries=places&v=3.62`;
     script.async = true;
     script.onload = () => resolve();
     script.onerror = () => {
