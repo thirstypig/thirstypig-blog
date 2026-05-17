@@ -25,6 +25,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x89c2591a54215eeb:0xb9a33ef03eb24f89"
 ---
 
 ![Chairman Bao (pork belly) and dumpling bao (pork and chicken) the chairman ba...](/images/posts/ig-2017-08-05-chairman-bao-pork-belly-and-dumpling-bao-pork-and-chicken-th/17877601183090902.jpg)

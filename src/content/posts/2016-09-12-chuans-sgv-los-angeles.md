@@ -23,6 +23,7 @@ region: San Gabriel Valley
 address: 5807 Rosemead Blvd Temple City, CA 91780
 cuisine:
 - Chinese
+placeId: "0x80c2db412879d837:0x94d211393a78ca41"
 ---
 
 [![IMG_0497](/images/posts/chuans-sgv-los-angeles/IMG_0846.jpg "IMG_0497")](http://thirstypig.com/2016/09/12/chuans-sgv-los-angeles/img_0497-2/)

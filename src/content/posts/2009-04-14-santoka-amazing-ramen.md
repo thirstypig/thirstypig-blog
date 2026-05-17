@@ -22,6 +22,7 @@ tags:
 cuisine:
 - Japanese
 city: Los Angeles
+placeId: "0x80c2ba5c00ef0963:0x24e9c4f64263ddd5"
 ---
 
 Santoka.

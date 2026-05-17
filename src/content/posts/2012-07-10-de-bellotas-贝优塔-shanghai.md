@@ -22,6 +22,7 @@ coordinates:
 tags:
 - shanghai
 cuisine: []
+placeId: "0x35b27009a063fcd3:0xb7d86fa15168146e"
 ---
 
 UNIQLO (优衣库) in Shanghai.

@@ -29,6 +29,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c702b451384f:0xb134ac392b307646"
 ---
 
 ![Awesome tasting Japanese Pork Katsu sandwiches from Konbi](/images/posts/ig-2019-02-14-awesome-tasting-japanese-pork-katsu-sandwiches-from-konbi/17850584410356176.jpg)

@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c744c4fe7f0d:0x2a1c8fb7ecf1ac7f"
 ---
 
 ![Brunch at Sqirl](/images/posts/ig-2019-08-04-brunch-at-sqirl/17846595841544728.jpg)

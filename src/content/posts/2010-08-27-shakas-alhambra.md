@@ -39,6 +39,7 @@ tags:
 - poke
 - plate-lunch
 cuisine: []
+placeId: "0x80c2c870c9f2339b:0xd70233e112297867"
 ---
 
 #gallery-2 {

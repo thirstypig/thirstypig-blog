@@ -40,6 +40,7 @@ region: San Gabriel Valley
 address: 101 W Main St
 cuisine:
 - Hawaiian
+placeId: "0x80c2c870c9f2339b:0xd70233e112297867"
 ---
 
 [![shakas-alhambra-ca-08](/images/posts/shakas-alhambra/Shakas-Alhambra-CA-01-370x494.jpg "shakas-alhambra-ca-08")](http://thirstypig.com/2010/08/19/shakas-alhambra/shakas-alhambra-ca-08/)

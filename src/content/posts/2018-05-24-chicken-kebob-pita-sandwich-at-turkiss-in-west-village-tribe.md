@@ -29,6 +29,7 @@ categories:
 - Mediterranean
 cuisine:
 - Mediterranean
+placeId: "0x89c25916650040f3:0x7aea75fe6469ec63"
 ---
 
 ![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17875590688231344.jpg)

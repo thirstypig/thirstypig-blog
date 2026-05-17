@@ -31,6 +31,7 @@ categories:
 - Mediterranean
 cuisine:
 - Mediterranean
+placeId: "0x80c2c63ce6f00001:0x408b2a5b25d4727"
 ---
 
 ![Valentine’s Day dinner at Bavel](/images/posts/ig-2020-02-16-valentines-day-dinner-at-bavel/17851095541853884.jpg)

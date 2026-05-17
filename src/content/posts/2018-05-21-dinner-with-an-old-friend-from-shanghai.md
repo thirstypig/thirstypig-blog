@@ -32,6 +32,7 @@ images:
   - /images/posts/ig-2018-05-21-dinner-with-an-old-friend-from-shanghai/17932295431112209.jpg
 source: instagram
 draft: false
+placeId: "0x89c2599149f9cad1:0xeb69422e986c38a9"
 ---
 
 ![Dinner with an old friend from Shanghai](/images/posts/ig-2018-05-21-dinner-with-an-old-friend-from-shanghai/17918179489147127.jpg)

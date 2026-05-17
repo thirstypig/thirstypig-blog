@@ -32,6 +32,7 @@ coordinates:
   lng: -118.232955
 cuisine:
 - Mediterranean
+placeId: "0x80c2c63ce6f00001:0x408b2a5b25d4727"
 ---
 
 ![Wonderful dinner at Bavel, sister restaurant of Bestia](/images/posts/ig-2018-05-10-wonderful-dinner-at-bavel-sister-restaurant-of-bestia/17918798581142937.jpg)

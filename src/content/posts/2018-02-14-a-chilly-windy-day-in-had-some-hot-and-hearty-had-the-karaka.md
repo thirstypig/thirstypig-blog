@@ -27,6 +27,7 @@ coordinates:
   lng: -122.404302
 cuisine:
 - Japanese
+placeId: "0x808580862be0dea3:0x6c80a515c00c6c5c"
 ---
 
 ![A chilly windy day in Had some hot and hearty had the karaka - the spicy ...](/images/posts/ig-2018-02-14-a-chilly-windy-day-in-had-some-hot-and-hearty-had-the-karaka/17925914527010309.jpg)

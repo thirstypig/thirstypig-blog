@@ -20,6 +20,7 @@ region: Hollywood
 address: 5233 W Sunset Blvd Los Angeles, CA 90027
 cuisine:
 - Thai
+placeId: "0x80c2bf5410a61eb1:0x284d8605a71cb6f9"
 ---
 
 

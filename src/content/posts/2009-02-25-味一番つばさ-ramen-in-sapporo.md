@@ -29,6 +29,7 @@ originalUrl: 'http://www.thethirstypig.com/2009/02/25/%e5%91%b3%e4%b8%80%e7%95%a
 archiveUrl: 'https://web.archive.org/web/20110105094800/http://www.thethirstypig.com/2009/02/25/%e5%91%b3%e4%b8%80%e7%95%aa%e3%81%a4%e3%81%b0%e3%81%95-ramen-in-sapporo/'
 source: thethirstypig.com
 draft: false
+placeId: "0x5f0b29843dc471d1:0x61cbb4799f05ea11"
 ---
 
 In October 2004, my boyfriend (at that time) and I had our first oversea trip to Hokkaido. The first stop was the capital city of Hokkaido, Sapporo. (not that beer, Sapporo, my friend)

@@ -36,6 +36,7 @@ coordinates:
   lng: 121.552568
 cuisine:
 - Chinese
+placeId: "0x3442abc58b0d7413:0x53f733f53158d2c0"
 ---
 
 Fool’s Noodles is a noodle shop that features simple “dry” (soup-less or non wet noodles). A small chain, Fool’s Noodles apparently does and specializes in one thing – Sha Gua Gan Mian (傻瓜干面, a version of 熱乾麵).

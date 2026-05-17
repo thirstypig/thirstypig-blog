@@ -20,6 +20,7 @@ region: Hollywood
 address: 435 N Fairfax Ave Los Angeles, CA 90036
 cuisine:
 - American
+placeId: "0x80c2b93324ee6203:0x4ae37216188510ba"
 ---
 
 

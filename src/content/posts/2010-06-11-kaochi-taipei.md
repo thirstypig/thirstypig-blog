@@ -37,6 +37,7 @@ tags:
 - xiaolongbao
 cuisine:
 - Chinese
+placeId: "0x3442a98215519a0d:0x8460a022d1a9f570"
 ---
 
 Like its, more famous neighbor, 鼎泰豐 Din Tai Fung, 高記 KaoChi is known for it 元籠小籠包 Shanghai Steamed Pork Buns, also known as Xiao Long Buns. But locals know Kao Chi for it 上海生煎包 Shanghai style fried pork buns.

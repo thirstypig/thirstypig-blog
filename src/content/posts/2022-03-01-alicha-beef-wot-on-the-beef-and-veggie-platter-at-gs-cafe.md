@@ -23,6 +23,7 @@ categories:
 - Ethiopian
 cuisine:
 - Ethiopian
+placeId: "0x80c32903cbf9b8cd:0xa28e0098d3829003"
 ---
 
 ![Alicha Beef Wot on the Beef and Veggie Platter at GS Cafe](/images/posts/ig-2022-03-01-alicha-beef-wot-on-the-beef-and-veggie-platter-at-gs-cafe/17852451575721720.jpg)

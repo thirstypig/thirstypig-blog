@@ -21,6 +21,7 @@ city: Arcadia
 region: San Gabriel Valley
 cuisine:
 - Taiwanese
+placeId: "0x80c2dbe171e78d41:0x3fb1a08f7490abbd"
 ---
 
 In trying times, people will find ways to make do with what they have. If you look at new Chinese immigrants that came to Taiwan after the Cultural Revolution, they formed military villages can came up with blended cuisine, as seen at [Liang’s Kitchen](http://www.thethirstypig.com/2009/12/30/liangs-kitchen-梁媽媽家-arcadia/). [Hawaiian cuisine](http://www.thethirstypig.com/2010/08/27/shakas-alhambra/) is the same way with influence of spam, hamburger patty, and chili from the naval base. And just after the Korean War, the establishment of the US base, army rations were abundant and helped shape some Korean dishes. And that’s where we get Budaejeongol at Nolboo.

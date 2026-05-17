@@ -28,6 +28,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2ba298be29973:0x4dd0537f2ce8a2fb"
 ---
 
 ![The cheeseburger potsticker at Ms Chi in Culver City](/images/posts/ig-2018-10-13-the-cheeseburger-potsticker-at-ms-chi-in-culver-city/17929224838202462.jpg)

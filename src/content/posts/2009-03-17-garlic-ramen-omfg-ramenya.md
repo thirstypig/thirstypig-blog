@@ -26,6 +26,7 @@ originalUrl: 'http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/
 archiveUrl: 'https://web.archive.org/web/20110105063837/http://www.thethirstypig.com/2009/03/17/garlic-ramen-omfg-ramenya/'
 source: thethirstypig.com
 draft: false
+placeId: "0x80c2bb088885d5f3:0x2fc46f4fac43a581"
 ---
 
 One night, I went with my friend to Ramenya. Ramenya is a Japanese Ramen house. It is a small dinky restaurant with great food. My type of place! I haven’t been here in a couple of years, but I will always remember this place to have good Ramen.

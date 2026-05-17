@@ -35,6 +35,7 @@ coordinates:
   lng: 121.525298
 cuisine:
 - Taiwanese
+placeId: "0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
 ---
 
 Years ago, when I was studying Chinese at the NTNU Mandarin Training Center, I used live near a cafe where there were a bunch of cats. They even had a cat on their sign. It was in a quiet area in the bourgeois Jhong Hsiao east road alleys with other boutiques and restaurants. The little cafe had a few cats and kittens roaming around in the soft lit ambient place. And whenever I see the Kiki’s sign, it always reminded me of that place.

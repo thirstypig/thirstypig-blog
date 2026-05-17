@@ -31,39 +31,147 @@ REPO_ROOT = HERE.parent.parent
 POSTS_DIR = REPO_ROOT / "src" / "content" / "posts"
 
 
-# Very conservative city aliases. Add as needed.
+# City aliases: venue.city → tokens that must appear in post city/region/location.
+# Keep aliases broad enough to cover neighbourhood variants of the same metro,
+# but never alias two *different* cities together (would cause cross-city false
+# positives for chains).
 CITY_ALIASES = {
+    # Los Angeles metro — core city + neighbourhoods that don't have their own key
     "Los Angeles": ["los angeles", "la"],
+    "Downtown LA": ["downtown la", "dtla", "downtown los angeles", "los angeles", "la"],
+    "Dtla": ["dtla", "downtown la", "downtown los angeles", "los angeles", "la"],
+    "Downtown Los Angeles": ["downtown los angeles", "downtown la", "dtla", "los angeles", "la"],
+    "Hollywood": ["hollywood", "los angeles", "la"],
+    "Koreatown": ["koreatown", "los angeles", "la"],
+    "Little Tokyo": ["little tokyo", "los angeles", "la"],
+    "East LA": ["east la", "east los angeles", "los angeles", "la"],
+    "Eagle Rock": ["eagle rock", "los angeles", "la"],
+    "Los Feliz": ["los feliz", "los angeles", "la"],
+    "Studio City": ["studio city", "los angeles", "la"],
+    "Venice": ["venice", "los angeles", "la"],
+    "Culver City": ["culver city"],
+    "Santa Monica": ["santa monica"],
+    "Beverly Hills": ["beverly hills"],
+    "Malibu": ["malibu"],
+    "Glendale": ["glendale"],
+    "Burbank": ["burbank"],
+    # SGV / East San Gabriel Valley
     "San Gabriel": ["san gabriel", "sgv"],
+    "San Gabriel Valley": ["san gabriel valley", "sgv", "san gabriel"],
+    "Sgv": ["sgv", "san gabriel"],
     "Rosemead": ["rosemead", "sgv"],
     "Monterey Park": ["monterey park", "sgv"],
-    "Pasadena": ["pasadena"],
     "Arcadia": ["arcadia"],
     "Alhambra": ["alhambra"],
-    "Beverly Hills": ["beverly hills"],
+    "Pasadena": ["pasadena"],
+    "Temple City": ["temple city", "sgv"],
+    "Rowland Heights": ["rowland heights"],
+    "San Marino": ["san marino"],
+    "Monrovia": ["monrovia"],
+    "Sierra Madre": ["sierra madre"],
+    # South Bay / OC / other SoCal
+    "Torrance": ["torrance"],
+    "Gardena": ["gardena"],
+    "Long Beach": ["long beach"],
+    "Irvine": ["irvine"],
+    "Anaheim": ["anaheim"],
+    "Orange County": ["orange county", "oc"],
+    "San Clemente": ["san clemente"],
+    # Rest of US
     "Austin": ["austin"],
     "New York": ["new york", "nyc"],
+    "Brooklyn": ["brooklyn", "new york", "nyc"],
+    "San Francisco": ["san francisco", "sf"],
+    "Seattle": ["seattle"],
+    "Las Vegas": ["las vegas"],
+    "New Orleans": ["new orleans"],
+    "San Antonio": ["san antonio"],
+    "San Diego": ["san diego"],
+    # International
     "Shanghai": ["shanghai"],
     "Taipei": ["taipei"],
+    "Taichung": ["taichung"],
     "Tokyo": ["tokyo"],
+    "Osaka": ["osaka"],
+    "Sapporo": ["sapporo"],
     "Hong Kong": ["hong kong", "hk"],
+    "Seoul": ["seoul"],
+    "Bangkok": ["bangkok"],
+    "Singapore": ["singapore"],
+    "Ensenada": ["ensenada"],
+    "Victoria": ["victoria"],
+    # Remaining single-venue cities — each unique enough to not need metro-grouping
+    "Harbin": ["harbin"],
+    "Mammoth": ["mammoth"],
+    "Honolulu": ["honolulu"],
+    "La Jolla": ["la jolla"],
+    "Downtown La": ["downtown la", "dtla", "los angeles", "la"],
+    "Chino Hills": ["chino hills"],
+    "Mpk": ["mpk", "menlo park"],
+    "PuDong": ["pudong", "shanghai"],
+    "Dalian": ["dalian"],
+    "Ho Chi Minh City": ["ho chi minh", "saigon"],
+    "Lockhart": ["lockhart"],
+    "Manhattan": ["manhattan", "new york", "nyc"],
+    "Napa": ["napa"],
+    "Chinatown": ["chinatown", "los angeles", "la"],
+    "Duarte": ["duarte"],
+    "Echo Park": ["echo park", "los angeles", "la"],
+    "Universal City": ["universal city", "los angeles", "la"],
+    "Yountville": ["yountville"],
+    "Solvang": ["solvang"],
+    "Manhattan Beach": ["manhattan beach"],
+    "Chicago": ["chicago"],
+    "Costa Mesa": ["costa mesa"],
+    "Redondo Beach": ["redondo beach"],
+    "City of Industry": ["city of industry"],
+    "West Hollywood": ["west hollywood"],
+    "Covina": ["covina"],
+    "Silver Lake": ["silver lake", "los angeles", "la"],
+    "Sequim": ["sequim"],
+    "Westwood": ["westwood", "los angeles", "la"],
+    "Brentwood": ["brentwood", "los angeles", "la"],
 }
+
+# Short names that are too generic to safely phrase-match even with city
+# confirmation — would cause false positives on any post mentioning the
+# food type. The name-length gate is lowered to 5 chars (see below), so
+# these need explicit exclusion.
+_GENERIC_NAMES = frozenset({"ramen", "pizza", "sushi", "slab", "yummy"})
 
 
 def normalize(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (s or "").lower()).strip()
 
 
+def normalize_with_cjk(s: str) -> str:
+    """Like normalize but keeps CJK characters (U+4E00–U+9FFF, U+AC00–U+D7A3,
+    U+3040–U+30FF) so Chinese/Japanese/Korean venue names can match."""
+    return re.sub(r"[^\w一-鿿぀-ヿ가-힣]+", " ",
+                  (s or "").lower()).strip()
+
+
 def venue_match_phrase(name: str) -> str | None:
-    """The full venue name as a normalized phrase, with parens stripped.
-    Returns None if the phrase is too short (< 8 chars after normalize)
-    to be safely distinctive."""
-    # Strip parenthetical disambiguators like "(Arcadia)" from the matcher
-    # — they don't help phrase matching since the post probably says
-    # "Din Tai Fung Arcadia" without parens.
+    """Return the match phrase for a venue name, or None if it's too short
+    or too generic to match safely.
+
+    Threshold lowered from 8 → 5 ASCII chars so short well-known venue names
+    (Bavel, Bestia, Ippudo, Yakiya…) can match. City confirmation (via
+    CITY_ALIASES) is the second safety net for short names. CJK-only names
+    are matched via a separate Unicode-aware path.
+    """
     bare = re.sub(r"\([^)]*\)", "", name)
-    phrase = normalize(bare)
-    return phrase if len(phrase) >= 8 else None
+    # Try CJK-aware normalization first — if the name is primarily CJK keep it
+    phrase_cjk = normalize_with_cjk(bare).strip()
+    phrase_ascii = normalize(bare)
+    # Use CJK phrase if it contains non-ASCII chars (i.e., the CJK pass kept them)
+    phrase = phrase_cjk if phrase_cjk != phrase_ascii else phrase_ascii
+    if not phrase or phrase in _GENERIC_NAMES:
+        return None
+    # 5-char minimum for ASCII names; CJK ideographs are more distinctive so
+    # even a single character is meaningful — but require ≥ 2 for safety.
+    min_len = 2 if phrase_cjk != phrase_ascii else 5
+    return phrase if len(phrase) >= min_len else None
 
 
 def post_text(meta: dict, body_head: str) -> str:
@@ -74,11 +182,11 @@ def post_text(meta: dict, body_head: str) -> str:
         meta.get("location", ""),
         meta.get("address", ""),
     ]
-    return normalize(" ".join(str(p) for p in parts if p))
+    return normalize_with_cjk(" ".join(str(p) for p in parts if p))
 
 
 def post_city_text(meta: dict) -> str:
-    return normalize(" ".join(filter(None, [
+    return normalize_with_cjk(" ".join(filter(None, [
         str(meta.get("city", "")),
         str(meta.get("region", "")),
         str(meta.get("location", "")),

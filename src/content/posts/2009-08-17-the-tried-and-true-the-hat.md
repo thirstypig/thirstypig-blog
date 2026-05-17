@@ -26,6 +26,7 @@ city: Alhambra
 region: San Gabriel Valley
 cuisine:
 - American
+placeId: "0x80c2c5378d99052d:0xd9cb1762718872c0"
 ---
 
 The Hat is one of the places I have frequented for awhile, now. This old fashioned hamburger stand sits on the corner of Garfield and Valley in Alhambra. The Hat just celebrated its 60th anniversary a couple of years ago. Nothing’s changed much, at the original stand, over the years, except the prices. The simple outdoor seating in the back adjacent the parking lot, that might have for the 50′s style drive-in’s.

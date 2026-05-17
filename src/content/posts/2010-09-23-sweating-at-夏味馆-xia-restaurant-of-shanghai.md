@@ -36,6 +36,7 @@ coordinates:
   lng: 121.459099
 cuisine:
 - Mediterranean
+placeId: "0x35b2700bce683d87:0x7d08fe364384c487"
 ---
 
 If you aren’t comfortable in a restaurant, it won’t matter how good the food is. If you notice loud babies crying, a cockroach, or even just a squeaky chair, you’re going to feel it and affect your judgement on the dining experience. A cockroach could probably mean the death of a restaurant if just a couple of patrons see it scurrying about. Not that I saw anything crawling around, but that was almost the case with 夏味馆 Xia Restaurant.

@@ -27,6 +27,7 @@ coordinates:
   lng: 114.137744
 cuisine:
 - Chinese
+placeId: "0x3403ff83e3856199:0xfd8399036dcc1842"
 ---
 
 BBQ Pork on Rice is one of my all time favorite meals EVER. These two pictures are from Hong Kong. One is from the Hong Kong International Airport and the other is from a small place on Hong Kong Island, in an area called Wan Chai.

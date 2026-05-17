@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c7b714d5310f:0xf3a421bd8607c90f"
 ---
 
 ![Late night meal in DTLA at the Original Pantry Cafe](/images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17884093936436542.jpg)

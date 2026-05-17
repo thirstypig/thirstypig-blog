@@ -32,6 +32,7 @@ source: instagram
 draft: false
 cuisine:
 - Japanese
+placeId: "0x80c2ddcd47a2501f:0x9df5097a7cb1d92d"
 ---
 
 ![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg)

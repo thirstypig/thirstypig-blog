@@ -38,6 +38,7 @@ coordinates:
   lng: -118.414605
 cuisine:
 - American
+placeId: "0x80c2bbf32e445e3d:0x4b9de5d86d31b42"
 ---
 
 Restaurant Week Los Angeles began with me and my friends at Craft. I had been wanting to try Craft, for awhile now, but venturing to Westside is few and far between for me. And finally, Miss B was able to get us all together and set it up. Though, I kinda wish we had a later reservation. One other note, Tom Colicchio, of Top Chef fame, is founder of Craft restaurants. Top Chef, on Bravo, is a show I have been wanting to watch.

@@ -26,6 +26,7 @@ coordinates:
   lng: 121.441998
 cuisine:
 - Japanese
+placeId: "0x35b27aad267e7d2f:0x48b13e78b2162b5c"
 ---
 
 [![IMG_2522](/images/posts/unagi-大味鳗-shanghai/IMG_2525.jpg "IMG_2522")](http://thirstypig.com/2016/09/28/unagi-%e5%a4%a7%e5%91%b3%e9%b3%97-shanghai/img_2522/)

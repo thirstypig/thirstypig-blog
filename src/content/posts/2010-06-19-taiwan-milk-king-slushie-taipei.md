@@ -34,6 +34,7 @@ tags:
 - dessert
 cuisine:
 - Taiwanese
+placeId: "0x3442a9681a68c2c5:0x7fe664e2d7cd8e0f"
 ---
 
 The slushie is dessert that *all* youngsters in Taiwan grew up with. 臺一牛奶大王 Milk King, in particular, specializes in the typical Taiwanese slushie – heck that’s all they serve there.

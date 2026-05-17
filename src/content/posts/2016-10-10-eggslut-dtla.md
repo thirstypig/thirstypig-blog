@@ -19,6 +19,7 @@ city: Dtla
 region: Downtown LA
 cuisine:
 - American
+placeId: "0x80c2c64b8f5b0eb9:0x846e0084319313f3"
 ---
 
 

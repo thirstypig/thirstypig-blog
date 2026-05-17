@@ -23,6 +23,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x80c2dbd62d1f9945:0x3ae0692b3a26b3b8"
 ---
 
 ![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18096871207129836.jpg)

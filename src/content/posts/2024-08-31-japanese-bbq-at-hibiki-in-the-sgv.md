@@ -30,6 +30,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2db0002fd2317:0x414d2a32fc066af"
 ---
 
 ![Japanese BBQ at Hibiki in the SGV](/images/posts/ig-2024-08-31-japanese-bbq-at-hibiki-in-the-sgv/18122616829345569.jpg)

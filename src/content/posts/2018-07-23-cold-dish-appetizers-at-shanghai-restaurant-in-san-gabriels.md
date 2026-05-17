@@ -28,6 +28,7 @@ coordinates:
   lng: 121.488764
 cuisine:
 - Chinese
+placeId: "0x35b270ff5dfc0711:0xa068a9ebd8ab92fd"
 ---
 
 ![Cold Dish appetizers at Shanghai Restaurant in San Gabriel’s Focus Plaza](/images/posts/ig-2018-07-23-cold-dish-appetizers-at-shanghai-restaurant-in-san-gabriels/17901849697212662.jpg)

@@ -29,6 +29,7 @@ categories:
 - French
 cuisine:
 - French
+placeId: "0x89c2599371d90113:0x93a1212483085df3"
 ---
 
 ![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17920555483187954.jpg)

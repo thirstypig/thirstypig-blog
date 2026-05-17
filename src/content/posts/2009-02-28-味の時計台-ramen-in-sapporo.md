@@ -31,6 +31,7 @@ tags:
 - ramen
 cuisine:
 - Japanese
+placeId: "0x60188d2611ed2433:0x2c5095f2c7d93673"
 ---
 
 The second ramen shop we visited in Sapporo was [味の時計台](http://www.ajino-tokeidai.co.jp/). It is a chain restaurant where you can visit not only in Sapporo, also in Hokkaido, even in Haneda Airport in Tokyo!

@@ -19,6 +19,7 @@ region: Downtown LA
 address: 445 S. Figueroa St. Los Angeles, CA 90071
 cuisine:
 - Latin
+placeId: "0x80c2c7b2389525eb:0x2896b8b6a10b0c13"
 ---
 
 

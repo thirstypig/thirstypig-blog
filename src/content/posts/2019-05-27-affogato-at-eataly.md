@@ -22,6 +22,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2bb8b7ad0a7b7:0x216c071c6cdb7021"
 ---
 
 ![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/18070324510027426.jpg)

@@ -34,6 +34,7 @@ coordinates:
   lng: 121.542799
 cuisine:
 - Japanese
+placeId: "0x3442ab84237815fb:0xdd034f0ca4142958"
 ---
 
 I hardly write things in English, other than work related stuff. Since my uncle\*, Thirsty Pig, invited me to post some restaurants in Taiwan, I tried my best to write something here for the restaurant “[定食8](http://www.sushi-express.com.tw/sushi_group/set/index.php) (Teishoku 8)” I have been yesterday and today.

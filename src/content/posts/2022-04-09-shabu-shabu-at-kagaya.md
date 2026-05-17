@@ -29,6 +29,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2c6385d34a359:0xcebe6f56e038061e"
 ---
 
 ![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18045032158324153.jpg)

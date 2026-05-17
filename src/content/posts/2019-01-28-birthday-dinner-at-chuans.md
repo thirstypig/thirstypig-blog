@@ -27,6 +27,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2db412879d837:0x94d211393a78ca41"
 ---
 
 ![Birthday dinner at Chuan’s](/images/posts/ig-2019-01-28-birthday-dinner-at-chuans/18012715267104660.jpg)

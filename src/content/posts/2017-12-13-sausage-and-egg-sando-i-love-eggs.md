@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c64b8f5b0eb9:0x846e0084319313f3"
 ---
 
 ![Sausage and egg sando I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg)

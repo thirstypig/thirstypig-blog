@@ -23,6 +23,7 @@ coordinates:
   lng: 121.459099
 cuisine:
 - Mediterranean
+placeId: "0x35b2700bce683d87:0x7d08fe364384c487"
 ---
 
 

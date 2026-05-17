@@ -23,6 +23,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x8644b5b6fbb00001:0x84b24813cc1b5aa5"
 ---
 
 ![the Detroiter and Cadillac pizza](/images/posts/ig-2017-06-02-the-detroiter-and-cadillac-pizza/17882720776012057.jpg)

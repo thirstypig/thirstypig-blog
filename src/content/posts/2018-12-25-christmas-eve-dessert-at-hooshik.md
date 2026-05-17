@@ -19,6 +19,7 @@ categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2daf0f832c961:0xd2d32bfe86235129"
 ---
 
 ![Christmas Eve Dessert at hooshik](/images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353235249795.jpg)

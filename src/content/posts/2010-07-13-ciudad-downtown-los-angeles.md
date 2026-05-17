@@ -41,6 +41,7 @@ location: Ciudad
 city: Downtown Los Angeles
 cuisine:
 - Mexican
+placeId: "0x80c2c7b2389525eb:0x2896b8b6a10b0c13"
 ---
 
 Ciudad in Downtown Los Angeles.

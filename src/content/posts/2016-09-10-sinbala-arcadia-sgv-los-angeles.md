@@ -23,6 +23,7 @@ region: San Gabriel Valley
 address: 651 W Duarte Rd St
 cuisine:
 - Taiwanese
+placeId: "0x80c2dbbab3da0891:0xe2cd338a6d857ebc"
 ---
 
 [![IMG_0495](/images/posts/sinbala-arcadia-sgv-los-angeles/IMG_0316.jpg "IMG_0495")](http://thirstypig.com/2016/09/10/sinbala-arcadia-sgv-los-angeles/img_0495-2/)

@@ -29,6 +29,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c63ec988cfd5:0x7927f2642b088721"
 ---
 
 ![Saturday Brunch at Manuela DTLA](/images/posts/ig-2018-08-27-saturday-brunch-at-manuela-dtla/17945467303148472.jpg)

@@ -36,6 +36,7 @@ tags:
 - lunch-box
 cuisine:
 - Taiwanese
+placeId: "0x3442a9728f98e347:0x1b81cf1094c0496b"
 ---
 
 The High Speed Rail(HSR) of Taiwan has roots from Taiwan’s decades old train railway system. And after years of development and construction, the HSR finally opened a couple of years ago with much public fanfare and to the dismay of the domestic airlines. One tradition the HSR brought with them was the bento box meal. Whenever I was on those trains, when I was a kid, I looked forward to lunch with a bento box. I remember always looking out for the snack and bento vendor back then, as I did, recently, on the HSR.

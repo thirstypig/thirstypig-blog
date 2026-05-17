@@ -31,6 +31,7 @@ coordinates:
   lng: -118.419036
 cuisine:
 - Italian
+placeId: "0x80c2bb8b7ad0a7b7:0x216c071c6cdb7021"
 ---
 
 ![Pizza, pasta, canoli, gelato, and lasagna at the pizza crust was good, but ...](/images/posts/ig-2017-12-11-pizza-pasta-canoli-gelato-and-lasagna-at-the-pizza-crust-was/17899922182104976.jpg)

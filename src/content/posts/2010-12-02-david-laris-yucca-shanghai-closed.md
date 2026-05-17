@@ -20,6 +20,7 @@ city: Shanghai
 region: Shanghai
 cuisine:
 - Mexican
+placeId: "0x35b270600182933f:0x75c5a3c959588b7d"
 ---
 
 

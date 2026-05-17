@@ -27,6 +27,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c80a8e7ecf31:0x30276566df8456bc"
 ---
 
 ![Holbox with a Michelin star](/images/posts/ig-2024-08-13-holbox-with-a-michelin-star/18007334102347659.jpg)

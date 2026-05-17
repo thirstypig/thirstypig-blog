@@ -24,6 +24,7 @@ coordinates:
   lng: 121.439411
 cuisine:
 - Fusion
+placeId: "0x35b26552e6fa8603:0x23c569bea2bb90ea"
 ---
 
 
