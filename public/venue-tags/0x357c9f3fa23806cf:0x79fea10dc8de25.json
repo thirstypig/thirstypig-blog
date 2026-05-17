@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357c9f3fa23806cf:0x79fea10dc8de25",
+  "venue_name": "장독대김치찌개",
+  "chips": [
+    {
+      "label": "kimchi stew",
+      "mention_count": 31
+    },
+    {
+      "label": "rolled omelette",
+      "mention_count": 7
+    },
+    {
+      "label": "jjageuli",
+      "mention_count": 6
+    },
+    {
+      "label": "24-hour operation",
+      "mention_count": 8
+    },
+    {
+      "label": "samgyeopsal",
+      "mention_count": 3
+    },
+    {
+      "label": "pork",
+      "mention_count": 10
+    },
+    {
+      "label": "large portions",
+      "mention_count": 7
+    },
+    {
+      "label": "Steamed dishes",
+      "mention_count": 8
+    },
+    {
+      "label": "stir-fried pork",
+      "mention_count": 2
+    },
+    {
+      "label": "A glass of soju",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-17T19:51:14Z",
+  "city": "Seoul",
+  "key": "jangdokdae-seoul"
+}

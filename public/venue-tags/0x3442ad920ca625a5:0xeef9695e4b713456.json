@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442ad920ca625a5:0xeef9695e4b713456",
+  "venue_name": "VVG Hideaway 好樣秘境 | 周三、周日公休",
+  "chips": [
+    {
+      "label": "sofa area",
+      "mention_count": 45
+    },
+    {
+      "label": "carrot cake",
+      "mention_count": 42
+    },
+    {
+      "label": "beautiful environment",
+      "mention_count": 121
+    },
+    {
+      "label": "outdoor area",
+      "mention_count": 10
+    },
+    {
+      "label": "pound cake",
+      "mention_count": 13
+    },
+    {
+      "label": "truffle fries",
+      "mention_count": 8
+    },
+    {
+      "label": "glass house",
+      "mention_count": 23
+    },
+    {
+      "label": "pumpkin soup",
+      "mention_count": 7
+    },
+    {
+      "label": "truffle mushroom pasta",
+      "mention_count": 5
+    },
+    {
+      "label": "cinnamon roll",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-05-17T19:50:06Z",
+  "city": "Taipei",
+  "key": "vvg-something-taipei"
+}

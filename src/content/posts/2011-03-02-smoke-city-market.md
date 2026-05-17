@@ -16,8 +16,10 @@ description: When people talk about BBQ, emotions and feelings run high. You alm
 archiveUrl: https://web.archive.org/web/20110307210002/http://www.thethirstypig.com:80/2011/03/02/smoke-city-market/
 draft: false
 location: The BBQ Beef Rib at Smoke City Market
+city: Los Angeles
 cuisine:
 - BBQ
+placeId: "0x80c2975474be863d:0x870699a3635c1ee"
 ---
 
 When people talk about BBQ, emotions and feelings run high. You almost get into fighting words when comparing the different BBQ’s. With the Carolina’s you get the smokey pulled pork and with the Kansas City style, you get the saucey on baby back ribs

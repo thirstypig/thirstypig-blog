@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcdbefdefda05b:0xfdb2c259866be89d",
+  "venue_name": "Habuya Okinawan Dining",
+  "chips": [
+    {
+      "label": "okinawan food",
+      "mention_count": 44
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 10
+    },
+    {
+      "label": "White Corn Tempura with Truffle",
+      "mention_count": 3
+    },
+    {
+      "label": "bitter melon",
+      "mention_count": 5
+    },
+    {
+      "label": "miso ramen",
+      "mention_count": 10
+    },
+    {
+      "label": "fried squid",
+      "mention_count": 6
+    },
+    {
+      "label": "peanut tofu",
+      "mention_count": 5
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 8
+    },
+    {
+      "label": "awamori",
+      "mention_count": 3
+    },
+    {
+      "label": "karaage",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-05-17T19:49:58Z",
+  "city": "Tustin",
+  "key": "habuya-tustin"
+}

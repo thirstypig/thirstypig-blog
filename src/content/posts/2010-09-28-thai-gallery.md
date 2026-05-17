@@ -42,6 +42,7 @@ region: Shanghai
 address: 1 Da Tian Road
 cuisine:
 - Thai
+placeId: "0x35b27015b8e6dc79:0xf181cc8f539d0b5e"
 ---
 
 Thai Gallery features gray dark bauhaus decor with Thai influences, like other upscale Shanghai contemporaries; Lan Na Thai, Simply Thai, and Coconut Paradise. Located in the Jingan district, Thai Gallery’s interior out-shined their offering.

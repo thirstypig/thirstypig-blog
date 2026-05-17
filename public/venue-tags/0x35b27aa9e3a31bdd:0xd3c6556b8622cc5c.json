@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b27aa9e3a31bdd:0xd3c6556b8622cc5c",
+  "venue_name": "Guyi Hunan",
+  "chips": [
+    {
+      "label": "environment",
+      "mention_count": 2
+    },
+    {
+      "label": "food",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-17T19:50:32Z",
+  "city": "Shanghai",
+  "key": "guyi-hunan-shanghai"
+}

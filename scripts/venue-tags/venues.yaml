@@ -4761,3 +4761,144 @@ Los Angeles, CA 90027"
   city: "Shanghai"
   query: "Shanghai Tang Cafe 333 Huaihai Zhong Lu, Shanghai"
   cid: "7654803515819826194"
+
+- key: mambos-glendale
+  name: "Mambo"
+  city: "Glendale"
+  query: "Mambo's Cafe 1701 Victory Blvd, Glendale, CA 91201"
+  place_id: "0x80c2bff60824cfdd:0x1fb014026922bef1"
+  cid: "2283347011663216369"
+
+- key: smoke-city-market-los-angeles
+  name: "Smoke City Market"
+  city: "Los Angeles"
+  query: "Smoke City Market 14320 Vanowen St, Van Nuys, CA 91401"
+  place_id: "0x80c2975474be863d:0x870699a3635c1ee"
+  cid: "608102060750389742"
+
+- key: wood-ranch-los-angeles
+  name: "Wood Ranch"
+  city: "Los Angeles"
+  query: "Wood Ranch BBQ Grill Los Angeles CA"
+  place_id: "0x80c2bb66310502c5:0xb8efa04459cc19a2"
+  cid: "13326046037837355426"
+
+- key: lemongrass-ho-chi-minh-city
+  name: "Lemongrass"
+  city: "Ho Chi Minh City"
+  query: "Lemongrass Restaurant 4 Nguyen Thiep Ho Chi Minh City Vietnam"
+  place_id: "0x31420f7c00d21267:0xd3e32b450a6546ac"
+  cid: "15268094737243260588"
+
+- key: carnitas-kikos-jr-tijuana
+  name: "Carnitas Kikos Jr"
+  city: "Tijuana"
+  query: "Carnitas Kikos Jr Mercado Hidalgo Tijuana Mexico"
+  place_id: "0x80d94851ec553841:0x155a533f3c76d58d"
+  cid: "1538633753762911629"
+
+- key: habuya-tustin
+  name: "Habuya"
+  city: "Tustin"
+  query: "Habuya Tustin CA"
+  place_id: "0x80dcdbefdefda05b:0xfdb2c259866be89d"
+  cid: "18280887527213361309"
+
+- key: marios-peruvian-los-angeles
+  name: "Mario's Peruvian & Seafood"
+  city: "Los Angeles"
+  query: "Mario's Peruvian Seafood 5786 Melrose Ave Los Angeles CA"
+  place_id: "0x80c2b8cbd72f01eb:0xd94342b1579345dd"
+  cid: "15655430059115890141"
+
+- key: vvg-something-taipei
+  name: "好樣本事 VVG Something"
+  city: "Taipei"
+  query: "VVG Something 好樣本事 No.13 Lane 40 Alley 181 Section 4 Zhongxiao East Rd Taipei"
+  place_id: "0x3442ad920ca625a5:0xeef9695e4b713456"
+  cid: "17219910503941354582"
+
+- key: marion-crepes-seoul
+  name: "카페 마리온크레페"
+  city: "Seoul"
+  query: "Marion Crepes Seoul 종로구 재동 12 Korea"
+  cid: "4730951663741975305"
+
+- key: charcoal-yakiniku-taoyuan
+  name: "Charcoal Yakiniku"
+  city: "Taoyuan"
+  query: "Charcoal Yakiniku 石頭日式炭火燒肉 Taoyuan Taiwan"
+  place_id: "0x34681fba8f142441:0x6a4db7d4608e21cc"
+  cid: "7659980664007958988"
+
+- key: guyi-hunan-shanghai
+  name: "Gu Yi Hunan Restaurant"
+  city: "Shanghai"
+  query: "Gu Yi Hunan Restaurant Shanghai China"
+  place_id: "0x35b27aa9e3a31bdd:0xd3c6556b8622cc5c"
+  cid: "15259978307691793500"
+
+- key: thai-gallery-shanghai
+  name: "Thai Gallery 泰廊餐厅"
+  city: "Shanghai"
+  query: "Thai Gallery 1 Da Tian Road Shanghai"
+  place_id: "0x35b27015b8e6dc79:0xf181cc8f539d0b5e"
+  cid: "17402415351091497822"
+
+- key: cook-kerry-hotel-shanghai
+  name: "The Cook at the Kerry Hotel"
+  city: "Shanghai"
+  query: "The Cook Kerry Hotel Pudong 1388 Hua Mu Road Shanghai"
+  place_id: "0x35b27715d391ecc9:0xd92bd479b405ccaf"
+  cid: "15648834949405330607"
+
+- key: jangdokdae-seoul
+  name: "장독대김치찌개"
+  city: "Seoul"
+  query: "장독대김치찌개 Seoul Korea"
+  place_id: "0x357c9f3fa23806cf:0x79fea10dc8de25"
+  cid: "34338439856447013"
+
+- key: mundo-cafe-new-york
+  name: "Mundo Cafe & Restaurant"
+  city: "New York"
+  query: "Mundo Cafe Restaurant New York City"
+  cid: "13770102953811356094"
+
+- key: tanya-matabei-shanghai
+  name: "Tanya Matabei"
+  city: "Shanghai"
+  query: "Tanya Matabei 581 Fuxing Lu Shanghai"
+
+- key: itoya-shanghai
+  name: "伊藤家"
+  city: "Shanghai"
+  query: "Itoya 伊藤家 381 Middle Huaihai Road Shanghai"
+  cid: "4156138506608595401"
+
+- key: racks-shanghai
+  name: "Racks"
+  city: "Shanghai"
+  query: "Racks Shanghai 221 Jinxian Road near Maoming Road"
+  cid: "10745874858619455965"
+
+- key: la-finca-shanghai
+  name: "La Finca 庄源"
+  city: "Shanghai"
+  query: "La Finca 373 South Huangpi Road Shanghai"
+  cid: "16232903146078795335"
+
+- key: porto-rico-shanghai
+  name: "Porto Rico"
+  city: "Shanghai"
+  query: "Porto Rico Shanghai"
+
+- key: ello-amicis-shanghai
+  name: "Ello Amicis"
+  city: "Shanghai"
+  query: "Ello Amici 102 Xiangyang Nan Lu Shanghai"
+
+- key: harbin-pig-restaurant
+  name: "The Harbin Pig Restaurant"
+  city: "Harbin"
+  query: "Harbin Pig Restaurant 正宗杀猪菜 Harbin China"

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8cbd72f01eb:0xd94342b1579345dd",
+  "venue_name": "Mario's Peruvian & Seafood",
+  "chips": [
+    {
+      "label": "calamari",
+      "mention_count": 15
+    },
+    {
+      "label": "green sauce",
+      "mention_count": 45
+    },
+    {
+      "label": "fried seafood platter",
+      "mention_count": 4
+    },
+    {
+      "label": "seafood soup",
+      "mention_count": 6
+    },
+    {
+      "label": "saltado de mariscos",
+      "mention_count": 5
+    },
+    {
+      "label": "wait time",
+      "mention_count": 69
+    },
+    {
+      "label": "Arroz Chaufa De Mariscos",
+      "mention_count": 22
+    },
+    {
+      "label": "jalea",
+      "mention_count": 11
+    },
+    {
+      "label": "seafood jelly",
+      "mention_count": 3
+    },
+    {
+      "label": "macho fish",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T19:50:02Z",
+  "city": "Los Angeles",
+  "key": "marios-peruvian-los-angeles"
+}

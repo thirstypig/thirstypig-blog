@@ -1,0 +1,49 @@
+{
+  "place_id": "0x34681fba8f142441:0x6a4db7d4608e21cc",
+  "venue_name": "Stone-yakiniku",
+  "chips": [
+    {
+      "label": "fresh ingredients",
+      "mention_count": 758
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 194
+    },
+    {
+      "label": "dining environment",
+      "mention_count": 293
+    },
+    {
+      "label": "nigiri sushi",
+      "mention_count": 32
+    },
+    {
+      "label": "diverse ingredients",
+      "mention_count": 92
+    },
+    {
+      "label": "angel red shrimp",
+      "mention_count": 17
+    },
+    {
+      "label": "two-way grilling",
+      "mention_count": 27
+    },
+    {
+      "label": "serving speed",
+      "mention_count": 344
+    },
+    {
+      "label": "hot pot soup base",
+      "mention_count": 15
+    },
+    {
+      "label": "large space",
+      "mention_count": 82
+    }
+  ],
+  "scraped_at": "2026-05-17T19:50:29Z",
+  "city": "Taoyuan",
+  "key": "charcoal-yakiniku-taoyuan"
+}

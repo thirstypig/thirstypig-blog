@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb66310502c5:0xb8efa04459cc19a2",
+  "venue_name": "Wood Ranch Brentwood",
+  "chips": [
+    {
+      "label": "tri tip",
+      "mention_count": 14
+    },
+    {
+      "label": "baby back ribs",
+      "mention_count": 8
+    },
+    {
+      "label": "live music",
+      "mention_count": 10
+    },
+    {
+      "label": "garlic rolls",
+      "mention_count": 6
+    },
+    {
+      "label": "artichoke dip",
+      "mention_count": 4
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 12
+    },
+    {
+      "label": "thin onion rings",
+      "mention_count": 3
+    },
+    {
+      "label": "asparagus",
+      "mention_count": 4
+    },
+    {
+      "label": "smashed sweet potatoes",
+      "mention_count": 2
+    },
+    {
+      "label": "carolina pulled pork",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T19:49:47Z",
+  "city": "Los Angeles",
+  "key": "wood-ranch-los-angeles"
+}

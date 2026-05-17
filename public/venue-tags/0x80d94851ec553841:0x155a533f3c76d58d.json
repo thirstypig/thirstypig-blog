@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80d94851ec553841:0x155a533f3c76d58d",
+  "venue_name": "Carnitas Kiko´s",
+  "chips": [
+    {
+      "label": "carnitas",
+      "mention_count": 11
+    },
+    {
+      "label": "tacos surtido",
+      "mention_count": 2
+    },
+    {
+      "label": "chicharrón",
+      "mention_count": 2
+    },
+    {
+      "label": "quesadilla",
+      "mention_count": 3
+    },
+    {
+      "label": "clean place",
+      "mention_count": 2
+    },
+    {
+      "label": "avocado",
+      "mention_count": 2
+    },
+    {
+      "label": "accessible",
+      "mention_count": 2
+    },
+    {
+      "label": "burrito",
+      "mention_count": 2
+    },
+    {
+      "label": "flavor",
+      "mention_count": 2
+    },
+    {
+      "label": "cake",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-17T19:49:55Z",
+  "city": "Tijuana",
+  "key": "carnitas-kikos-jr-tijuana"
+}

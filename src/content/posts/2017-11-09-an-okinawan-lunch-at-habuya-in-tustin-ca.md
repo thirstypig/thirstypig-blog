@@ -19,10 +19,12 @@ tags:
 - katsu
 description: An Okinawan lunch at Habuya in Tustin, CA. Nice udon with good broth flavor, as expected. The pork katsu - was good and strangely moist, from being pre-sauced coating. The pork belly with poached egg is as decadent as it looks. But the rice was cooked with too much water - too sticky. Next time I’m gonna try the ramen.
 location: An Okinawan lunch at Habuya in Tustin
+city: Tustin
 categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80dcdbefdefda05b:0xfdb2c259866be89d"
 ---
 
 ![An Okinawan lunch at Habuya in Tustin, CA](/images/posts/ig-2017-11-09-an-okinawan-lunch-at-habuya-in-tustin-ca/17901288130064844.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bff60824cfdd:0x1fb014026922bef1",
+  "venue_name": "Mambo's Cafe 🇨🇺",
+  "chips": [
+    {
+      "label": "maduros",
+      "mention_count": 21
+    },
+    {
+      "label": "mambos chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 11
+    },
+    {
+      "label": "roast pork",
+      "mention_count": 11
+    },
+    {
+      "label": "Rice & Beans Combo with Maduros",
+      "mention_count": 2
+    },
+    {
+      "label": "mojo sauce",
+      "mention_count": 4
+    },
+    {
+      "label": "avocado salad",
+      "mention_count": 2
+    },
+    {
+      "label": "live music",
+      "mention_count": 5
+    },
+    {
+      "label": "yucca",
+      "mention_count": 6
+    },
+    {
+      "label": "friendly employees",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-17T19:49:24Z",
+  "city": "Glendale",
+  "key": "mambos-glendale"
+}

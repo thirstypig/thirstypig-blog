@@ -20,6 +20,7 @@ region: Shanghai
 address: 1388 Hua Mu Road
 cuisine:
 - Multi
+placeId: "0x35b27715d391ecc9:0xd92bd479b405ccaf"
 ---
 
 

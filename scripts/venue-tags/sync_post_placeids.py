@@ -80,6 +80,7 @@ CITY_ALIASES = {
     "Long Beach": ["long beach"],
     "Irvine": ["irvine"],
     "Anaheim": ["anaheim", "orange county", "oc"],
+    "Tustin": ["tustin", "orange county", "oc"],
     "Orange County": ["orange county", "oc"],
     "San Clemente": ["san clemente"],
     # Rest of US
@@ -95,6 +96,7 @@ CITY_ALIASES = {
     # International
     "Shanghai": ["shanghai"],
     "Taipei": ["taipei"],
+    "Taoyuan": ["taoyuan"],
     "Taichung": ["taichung"],
     "Tokyo": ["tokyo"],
     "Osaka": ["osaka"],
@@ -104,6 +106,7 @@ CITY_ALIASES = {
     "Bangkok": ["bangkok"],
     "Singapore": ["singapore"],
     "Ensenada": ["ensenada"],
+    "Tijuana": ["tijuana"],
     "Victoria": ["victoria"],
     # Remaining single-venue cities — each unique enough to not need metro-grouping
     "Harbin": ["harbin"],

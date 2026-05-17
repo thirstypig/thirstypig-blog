@@ -29,8 +29,10 @@ description: “All You Can Eat” AYCE in Taiwan and China is translated as “
 archiveUrl: https://web.archive.org/web/20110104131516/http://www.thethirstypig.com:80/2010/07/23/charcoal-yakiniku-japanese-stone/
 draft: false
 location: Charcoal Yakiniku Japanese stone 石頭日式炭火燒肉
+city: Taoyuan
 cuisine:
 - Japanese
+placeId: "0x34681fba8f142441:0x6a4db7d4608e21cc"
 ---
 
 “All You Can Eat” (AYCE) in Taiwan and China is translated as “Eat till Full” (吃到飽). Not as attractive sounding as the American English moniker – it seems a bit unappealing. Yet, these types of restaurants are popular in Taiwan and China.

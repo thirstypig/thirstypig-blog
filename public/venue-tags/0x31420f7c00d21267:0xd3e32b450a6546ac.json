@@ -1,0 +1,49 @@
+{
+  "place_id": "0x31420f7c00d21267:0xd3e32b450a6546ac",
+  "venue_name": "LEMONGRASS RESTAURANT HỘI AN",
+  "chips": [
+    {
+      "label": "lemongrass chicken",
+      "mention_count": 19
+    },
+    {
+      "label": "passion fruit fish",
+      "mention_count": 8
+    },
+    {
+      "label": "signature cocktail",
+      "mention_count": 10
+    },
+    {
+      "label": "five spice pork belly",
+      "mention_count": 5
+    },
+    {
+      "label": "platter",
+      "mention_count": 12
+    },
+    {
+      "label": "hoi an delight basket",
+      "mention_count": 3
+    },
+    {
+      "label": "vegan basket",
+      "mention_count": 3
+    },
+    {
+      "label": "beef in bamboo",
+      "mention_count": 3
+    },
+    {
+      "label": "banana leaf salad",
+      "mention_count": 3
+    },
+    {
+      "label": "balcony seating",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-17T19:49:51Z",
+  "city": "Ho Chi Minh City",
+  "key": "lemongrass-ho-chi-minh-city"
+}

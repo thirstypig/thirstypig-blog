@@ -20,6 +20,7 @@ region: Shanghai
 address: 1 Da Tian Road
 cuisine:
 - Thai
+placeId: "0x35b27015b8e6dc79:0xf181cc8f539d0b5e"
 ---
 
 

@@ -26,8 +26,10 @@ description: Unlike Shanghai Uncle and Lost Heaven, Gu Yi doesn’t attempt to m
 archiveUrl: https://web.archive.org/web/20110105192414/http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/
 draft: false
 location: Gu Yi Hunan Restaurant 古意湘味浓
+city: Shanghai
 cuisine:
 - Chinese
+placeId: "0x35b27aa9e3a31bdd:0xd3c6556b8622cc5c"
 ---
 
 Gu Yi Hunan Restaurant 古意湘味浓.

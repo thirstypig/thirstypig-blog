@@ -20,6 +20,7 @@ region: San Fernando Valley
 address: 1701 Victory Blvd Glendale, CA 91201
 cuisine:
 - Colombian
+placeId: "0x80c2bff60824cfdd:0x1fb014026922bef1"
 ---
 
 
