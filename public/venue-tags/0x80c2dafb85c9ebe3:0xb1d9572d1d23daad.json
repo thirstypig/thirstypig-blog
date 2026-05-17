@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dafb85c9ebe3:0xb1d9572d1d23daad",
+  "venue_name": "Ono Hawaiian BBQ",
+  "chips": [
+    {
+      "label": "teriyaki plate",
+      "mention_count": 10
+    },
+    {
+      "label": "bbq chicken",
+      "mention_count": 10
+    },
+    {
+      "label": "island fire chicken",
+      "mention_count": 2
+    },
+    {
+      "label": "fish plates",
+      "mention_count": 4
+    },
+    {
+      "label": "fish special",
+      "mention_count": 2
+    },
+    {
+      "label": "beef ribs",
+      "mention_count": 2
+    },
+    {
+      "label": "macaroni salad",
+      "mention_count": 14
+    },
+    {
+      "label": "rude cashier",
+      "mention_count": 2
+    },
+    {
+      "label": "spam musubi",
+      "mention_count": 5
+    },
+    {
+      "label": "online ordering",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:40Z",
+  "city": "Arcadia",
+  "key": "ono-hawaiian-grill-arcadia"
+}

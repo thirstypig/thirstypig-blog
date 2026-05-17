@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8d516c9fea7:0xbfde550408e01e5f",
+  "venue_name": "Bludso's BBQ",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 509
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 175
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 16
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 122
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 255
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 10
+    },
+    {
+      "label": "collard greens",
+      "mention_count": 87
+    },
+    {
+      "label": "rib tips",
+      "mention_count": 61
+    },
+    {
+      "label": "texas bbq",
+      "mention_count": 30
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 110
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:07Z",
+  "city": "Los Angeles",
+  "key": "bludsos-bbq-los-angeles"
+}

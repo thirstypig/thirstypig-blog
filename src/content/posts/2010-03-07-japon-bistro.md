@@ -25,9 +25,11 @@ description: 'Japon Bistro, yes – with an “O”, is located in the heart of 
 archiveUrl: https://web.archive.org/web/20111103132828/http://www.thethirstypig.com/2010/03/07/japon-bistro/
 draft: false
 location: Japon Bistro
+city: Pasadena
 region: San Gabriel Valley
 cuisine:
 - Japanese
+placeId: "0x80c2dda2736fd0f7:0x6a5cb350e2280adb"
 ---
 
 Japon Bistro.

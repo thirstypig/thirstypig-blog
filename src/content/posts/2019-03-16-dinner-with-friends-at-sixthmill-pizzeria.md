@@ -22,6 +22,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2c7a34581a33f:0xe6e8be9c2f35e000"
 ---
 
 ![Dinner with friends at Sixth+Mill pizzeria](/images/posts/ig-2019-03-16-dinner-with-friends-at-sixthmill-pizzeria/18045399874046683.jpg)

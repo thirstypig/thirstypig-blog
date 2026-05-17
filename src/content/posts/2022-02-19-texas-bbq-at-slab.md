@@ -21,6 +21,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c296824ed0a46b:0xf4997acdab6e9501"
 ---
 
 ![Texas BBQ at Slab](/images/posts/ig-2022-02-19-texas-bbq-at-slab/17923324481069639.jpg)

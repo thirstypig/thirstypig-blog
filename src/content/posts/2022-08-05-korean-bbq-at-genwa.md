@@ -19,10 +19,12 @@ tags:
 - banchan
 description: Korean BBQ at Genwa. Really good offering banchan. Beef was also good with the marbling. Wish they didn’t cook it for us since it was cooked so fast. Regardless I’d recommend and visit again. Make sure you have soju with your meal. . . . . . .
 location: Genwa
+city: Beverly Hills
 categories:
 - Korean
 cuisine:
 - Korean
+placeId: "0x80c2b8e0c7080ea9:0x4a8672de4f640156"
 ---
 
 ![Korean BBQ at Genwa](/images/posts/ig-2022-08-05-korean-bbq-at-genwa/17940304637205414.jpg)

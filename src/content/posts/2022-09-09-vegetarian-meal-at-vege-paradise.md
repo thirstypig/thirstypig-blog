@@ -20,6 +20,7 @@ categories:
 - Multi
 cuisine:
 - Multi
+placeId: "0x80c2dab740e88fcf:0x362a4f925e2d243e"
 ---
 
 ![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17977125382723596.jpg)

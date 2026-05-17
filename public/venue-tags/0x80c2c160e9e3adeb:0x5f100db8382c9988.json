@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c160e9e3adeb:0x5f100db8382c9988",
+  "venue_name": "The Oinkster",
+  "chips": [
+    {
+      "label": "pulled pork sandwich",
+      "mention_count": 46
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 36
+    },
+    {
+      "label": "ube shake",
+      "mention_count": 36
+    },
+    {
+      "label": "tater tots",
+      "mention_count": 29
+    },
+    {
+      "label": "garlic aioli",
+      "mention_count": 24
+    },
+    {
+      "label": "Chili Fries",
+      "mention_count": 25
+    },
+    {
+      "label": "bacon burger",
+      "mention_count": 24
+    },
+    {
+      "label": "chicken sandwich",
+      "mention_count": 31
+    },
+    {
+      "label": "Pork Adobo Burger",
+      "mention_count": 5
+    },
+    {
+      "label": "red cabbage slaw",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:52Z",
+  "city": "Eagle Rock",
+  "key": "oinkster-eagle-rock"
+}

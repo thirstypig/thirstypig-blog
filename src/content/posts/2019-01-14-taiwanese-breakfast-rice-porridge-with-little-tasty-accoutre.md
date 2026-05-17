@@ -21,6 +21,7 @@ categories:
 - Taiwanese
 cuisine:
 - Taiwanese
+placeId: "0x3442a9002bcd8a17:0x88ab387a55fb6c76"
 ---
 
 ![Taiwanese Breakfast - rice porridge with little tasty accoutrements](/images/posts/ig-2019-01-14-taiwanese-breakfast-rice-porridge-with-little-tasty-accoutre/18022246054051328.jpg)

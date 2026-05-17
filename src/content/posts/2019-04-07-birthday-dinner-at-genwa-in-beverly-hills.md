@@ -31,6 +31,7 @@ coordinates:
   lng: -118.399143
 cuisine:
 - Korean
+placeId: "0x80c2b8e0c7080ea9:0x4a8672de4f640156"
 ---
 
 ![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18013219483172525.jpg)

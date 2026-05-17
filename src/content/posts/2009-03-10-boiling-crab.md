@@ -23,6 +23,7 @@ location: Boiling Crab
 region: San Gabriel Valley
 cuisine:
 - Seafood
+placeId: "0x80c2da817b5ec8d7:0xd57bf7ef71cd443a"
 ---
 
 After hearing so many positive things about this place. . . I had to try it. My friends all rave about this place with its great Crustacean fare.

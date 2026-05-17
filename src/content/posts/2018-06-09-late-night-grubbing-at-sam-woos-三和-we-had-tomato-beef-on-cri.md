@@ -20,6 +20,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2c538dc7264d9:0xfaeb9e0c56a3cc43"
 ---
 
 ![Late night grubbing at Sam Woo’s 三和 we had tomato beef on crispy noodles, bee...](/images/posts/ig-2018-06-09-late-night-grubbing-at-sam-woos-三和-we-had-tomato-beef-on-cri/17922774181178978.jpg)

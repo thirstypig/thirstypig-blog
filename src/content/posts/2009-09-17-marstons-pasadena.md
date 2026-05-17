@@ -20,6 +20,7 @@ region: Pasadena
 address: 151 E Walnut St. Pasadena, CA 91103
 cuisine:
 - American
+placeId: "0x80c2c36d8a12a155:0x400f617ad367486e"
 ---
 
 

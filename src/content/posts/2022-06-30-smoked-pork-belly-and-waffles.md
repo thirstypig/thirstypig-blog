@@ -30,6 +30,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x8644b5a7f6162b03:0x616ba830e701a29c"
 ---
 
 ![Smoked pork belly and waffles](/images/posts/ig-2022-06-30-smoked-pork-belly-and-waffles/17923034231451451.jpg)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8e0c7080ea9:0x4a8672de4f640156",
+  "venue_name": "Genwa Korean BBQ (Mid Wilshire)",
+  "chips": [
+    {
+      "label": "galbi",
+      "mention_count": 32
+    },
+    {
+      "label": "wagyu beef",
+      "mention_count": 9
+    },
+    {
+      "label": "sundubu",
+      "mention_count": 5
+    },
+    {
+      "label": "glass noodles",
+      "mention_count": 5
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 22
+    },
+    {
+      "label": "banchan",
+      "mention_count": 14
+    },
+    {
+      "label": "crispy rice",
+      "mention_count": 3
+    },
+    {
+      "label": "Chicken bulgogis27",
+      "mention_count": 2
+    },
+    {
+      "label": "brisket",
+      "mention_count": 6
+    },
+    {
+      "label": "bibimbap",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:18Z",
+  "city": "Beverly Hills",
+  "key": "genwa-beverly-hills"
+}

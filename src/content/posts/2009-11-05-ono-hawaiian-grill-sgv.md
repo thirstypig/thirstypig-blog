@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 3638 Rosemead Blvd Rosemead, CA 91770
 cuisine:
 - Hawaiian
+placeId: "0x80c2dafb85c9ebe3:0xb1d9572d1d23daad"
 ---
 
 

@@ -49,6 +49,7 @@ draft: false
 location: Yet Another Japanese AYCE…日韩料理 at 吉兆日本料理
 cuisine:
 - Japanese
+placeId: "0x80c2c527b0dff279:0xbd987c9b7cd8d763"
 ---
 
 I had to make a one day trip to Suzhou for a short business trip. The manager that we were visiting took us out to lunch at a place called 吉兆日本料理, which loosely translated means Good Omen Japanese Cuisine. Not far from the center of Suzhou, Good Omen is on a, sort of, restaurant row. There was lots of neon signs and restaurants, which. I’m sure, at night would be bustling.

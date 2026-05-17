@@ -24,6 +24,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dba524af30e1:0x16db24d33722beac"
 ---
 
 ![Ate too fast (don’t want to say ate too much)](/images/posts/ig-2018-03-12-ate-too-fast-dont-want-to-say-ate-too-much/17898710233174577.jpg)

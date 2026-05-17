@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7867922c4e3:0x251a07e00238ddd0",
+  "venue_name": "Dino's Famous Chicken",
+  "chips": [
+    {
+      "label": "chili cheese fries",
+      "mention_count": 38
+    },
+    {
+      "label": "carne asada",
+      "mention_count": 18
+    },
+    {
+      "label": "soggy fries",
+      "mention_count": 18
+    },
+    {
+      "label": "vinegar sauce",
+      "mention_count": 20
+    },
+    {
+      "label": "long lines",
+      "mention_count": 47
+    },
+    {
+      "label": "half chicken",
+      "mention_count": 15
+    },
+    {
+      "label": "marinade",
+      "mention_count": 44
+    },
+    {
+      "label": "coleslaw",
+      "mention_count": 93
+    },
+    {
+      "label": "grilled chicken",
+      "mention_count": 49
+    },
+    {
+      "label": "cheese burger",
+      "mention_count": 30
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:44Z",
+  "city": "Los Angeles",
+  "key": "dinos-chicken-burgers-los-angeles"
+}

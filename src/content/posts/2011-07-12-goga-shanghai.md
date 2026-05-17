@@ -34,6 +34,7 @@ coordinates:
   lng: 121.447232
 cuisine:
 - Fusion
+placeId: "0x35b27aae0da7b709:0x6b05cd1508bdae9e"
 ---
 
 [![goga-03](/images/posts/goga-shanghai/Goga-Shanghai-01-494x370.jpg "goga-03")](http://thirstypig.com/2011/07/12/goga-shanghai/goga-03/)

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcd70002d3fb87:0xb98aaea25ccbe468",
+  "venue_name": "Thai Belly",
+  "chips": [
+    {
+      "label": "khao soi",
+      "mention_count": 16
+    },
+    {
+      "label": "tom yum noodle soup",
+      "mention_count": 7
+    },
+    {
+      "label": "cream cheese wontons",
+      "mention_count": 6
+    },
+    {
+      "label": "food court location",
+      "mention_count": 12
+    },
+    {
+      "label": "thai tea",
+      "mention_count": 27
+    },
+    {
+      "label": "mango sticky rice",
+      "mention_count": 19
+    },
+    {
+      "label": "gai ping",
+      "mention_count": 3
+    },
+    {
+      "label": "Krapow Moo Sub Khai Daow Spicy Basil",
+      "mention_count": 3
+    },
+    {
+      "label": "pad see ew",
+      "mention_count": 12
+    },
+    {
+      "label": "panang curry",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:27Z",
+  "city": "Anaheim",
+  "key": "pepper-bellies-anaheim"
+}

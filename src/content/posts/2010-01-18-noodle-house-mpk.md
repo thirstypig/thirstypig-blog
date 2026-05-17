@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 958 E Garvey Ave Monterey Park, CA 91755
 cuisine:
 - Chinese
+placeId: "0x80c2daaaf937c195:0x6a9ea3a8bc43d365"
 ---
 
 

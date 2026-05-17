@@ -27,6 +27,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2babe283ca22d:0x246dc2c33da04fdd"
 ---
 
 ![Brunch at the Rose in Venice](/images/posts/ig-2024-08-27-brunch-at-the-rose-in-venice/17872421859095642.jpg)

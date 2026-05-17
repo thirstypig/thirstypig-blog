@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bbcb0297c9ed:0xb27b7566ad015a97",
+  "venue_name": "Chego",
+  "chips": [
+    {
+      "label": "chinese broccoli",
+      "mention_count": 5
+    },
+    {
+      "label": "Pork Belly Rice",
+      "mention_count": 42
+    },
+    {
+      "label": "kung pao",
+      "mention_count": 7
+    },
+    {
+      "label": "Prime Rib Plate",
+      "mention_count": 4
+    },
+    {
+      "label": "Chicken Adobo Bowl",
+      "mention_count": 3
+    },
+    {
+      "label": "fried egg",
+      "mention_count": 5
+    },
+    {
+      "label": "mexican",
+      "mention_count": 8
+    },
+    {
+      "label": "closed location",
+      "mention_count": 2
+    },
+    {
+      "label": "sour cream",
+      "mention_count": 7
+    },
+    {
+      "label": "fat",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:48Z",
+  "city": "Los Angeles",
+  "key": "chego-los-angeles"
+}

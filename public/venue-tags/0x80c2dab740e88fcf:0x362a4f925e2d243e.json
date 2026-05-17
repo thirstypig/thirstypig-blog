@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dab740e88fcf:0x362a4f925e2d243e",
+  "venue_name": "Vege Valley Restaurant",
+  "chips": [
+    {
+      "label": "chinese food",
+      "mention_count": 23
+    },
+    {
+      "label": "black mushrooms",
+      "mention_count": 5
+    },
+    {
+      "label": "fried oyster mushrooms",
+      "mention_count": 3
+    },
+    {
+      "label": "eggplant",
+      "mention_count": 10
+    },
+    {
+      "label": "vegan chinese food",
+      "mention_count": 2
+    },
+    {
+      "label": "huge portions",
+      "mention_count": 2
+    },
+    {
+      "label": "picture menu",
+      "mention_count": 2
+    },
+    {
+      "label": "not oily",
+      "mention_count": 2
+    },
+    {
+      "label": "new location",
+      "mention_count": 3
+    },
+    {
+      "label": "food presentation",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:22Z",
+  "city": "Los Angeles",
+  "key": "vege-paradise-los-angeles"
+}

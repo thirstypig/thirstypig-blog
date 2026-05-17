@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbce4d81cdf:0x33531f6c04aac0d9",
+  "venue_name": "Haidilao Hot Pot Arcadia",
+  "chips": [
+    {
+      "label": "dancing noodles",
+      "mention_count": 28
+    },
+    {
+      "label": "sauce bar",
+      "mention_count": 55
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 10
+    },
+    {
+      "label": "pork broth",
+      "mention_count": 18
+    },
+    {
+      "label": "tom yum broth",
+      "mention_count": 15
+    },
+    {
+      "label": "quick seating",
+      "mention_count": 4
+    },
+    {
+      "label": "tomato soup base",
+      "mention_count": 19
+    },
+    {
+      "label": "handmade noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "individual pots",
+      "mention_count": 11
+    },
+    {
+      "label": "complimentary snacks",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:11Z",
+  "city": "Arcadia",
+  "key": "haidilao-arcadia"
+}

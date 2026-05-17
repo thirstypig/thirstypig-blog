@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c538dc7264d9:0xfaeb9e0c56a3cc43",
+  "venue_name": "Sam Woo Alhambra",
+  "chips": [
+    {
+      "label": "roast duck",
+      "mention_count": 68
+    },
+    {
+      "label": "bbq pork",
+      "mention_count": 46
+    },
+    {
+      "label": "cash only",
+      "mention_count": 46
+    },
+    {
+      "label": "wonton soup",
+      "mention_count": 34
+    },
+    {
+      "label": "cantonese food",
+      "mention_count": 30
+    },
+    {
+      "label": "crispy pick",
+      "mention_count": 11
+    },
+    {
+      "label": "soy sauce chicken",
+      "mention_count": 12
+    },
+    {
+      "label": "Beef Chow Fun w Soy Sauce Dry Style 干炒牛河",
+      "mention_count": 5
+    },
+    {
+      "label": "kung pao chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:59Z",
+  "city": "Alhambra",
+  "key": "sam-woo-bbq-alhambra"
+}

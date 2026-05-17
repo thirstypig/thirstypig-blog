@@ -20,6 +20,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dbbce4d81cdf:0x33531f6c04aac0d9"
 ---
 
 ![Haidilao 海底撈 hot pot](/images/posts/ig-2018-09-25-haidilao-海底撈-hot-pot/17981502436060971.jpg)

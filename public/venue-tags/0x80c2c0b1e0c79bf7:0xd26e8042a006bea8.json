@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c0b1e0c79bf7:0xd26e8042a006bea8",
+  "venue_name": "Ye Rustic Inn",
+  "chips": [
+    {
+      "label": "dive bar",
+      "mention_count": 54
+    },
+    {
+      "label": "crispy wings",
+      "mention_count": 15
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 8
+    },
+    {
+      "label": "jukebox",
+      "mention_count": 5
+    },
+    {
+      "label": "free bloody mary",
+      "mention_count": 3
+    },
+    {
+      "label": "karaoke",
+      "mention_count": 10
+    },
+    {
+      "label": "comfy booths",
+      "mention_count": 2
+    },
+    {
+      "label": "carrots and celery",
+      "mention_count": 2
+    },
+    {
+      "label": "neighborhood bar",
+      "mention_count": 8
+    },
+    {
+      "label": "blue cheese",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:01Z",
+  "city": "Los Feliz",
+  "key": "ye-rustic-inn-los-feliz"
+}

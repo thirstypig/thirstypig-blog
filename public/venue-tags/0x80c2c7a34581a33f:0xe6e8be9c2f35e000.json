@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7a34581a33f:0xe6e8be9c2f35e000",
+  "venue_name": "Pizzeria Republica",
+  "chips": [
+    {
+      "label": "cajun alfredo",
+      "mention_count": 4
+    },
+    {
+      "label": "margherita pizza",
+      "mention_count": 13
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 10
+    },
+    {
+      "label": "pizza crust",
+      "mention_count": 7
+    },
+    {
+      "label": "lago pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "late night pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "bbq chicken pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "bolognese",
+      "mention_count": 3
+    },
+    {
+      "label": "meat lovers pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "patio",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:15Z",
+  "city": "Downtown LA",
+  "key": "sixth-mill-pizzeria-dtla"
+}

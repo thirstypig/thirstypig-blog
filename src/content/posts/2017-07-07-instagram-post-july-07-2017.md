@@ -22,6 +22,7 @@ categories:
 - Cajun
 cuisine:
 - Cajun
+placeId: "0x8620a611407488b7:0x7b8430803c35c163"
 ---
 
 ![Instagram Post — July 07, 2017](/images/posts/ig-2017-07-07-instagram-post-july-07-2017/17875566577119296.jpg)

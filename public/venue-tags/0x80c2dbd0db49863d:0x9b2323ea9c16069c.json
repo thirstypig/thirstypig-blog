@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbd0db49863d:0x9b2323ea9c16069c",
+  "venue_name": "626 Ice Cream",
+  "chips": [
+    {
+      "label": "yakult",
+      "mention_count": 24
+    },
+    {
+      "label": "condensed milk ice cream",
+      "mention_count": 8
+    },
+    {
+      "label": "lychee strawberry",
+      "mention_count": 12
+    },
+    {
+      "label": "hojicha",
+      "mention_count": 13
+    },
+    {
+      "label": "unique flavors",
+      "mention_count": 44
+    },
+    {
+      "label": "soft serve",
+      "mention_count": 25
+    },
+    {
+      "label": "mochi",
+      "mention_count": 7
+    },
+    {
+      "label": "toppings",
+      "mention_count": 16
+    },
+    {
+      "label": "ube vanilla",
+      "mention_count": 4
+    },
+    {
+      "label": "mango calamansi soft serve",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:03Z",
+  "city": "Arcadia",
+  "key": "honey-mee-arcadia"
+}

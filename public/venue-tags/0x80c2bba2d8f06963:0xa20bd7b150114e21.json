@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bba2d8f06963:0xa20bd7b150114e21",
+  "venue_name": "Westside Tavern",
+  "chips": [
+    {
+      "label": "sticky toffee pudding",
+      "mention_count": 10
+    },
+    {
+      "label": "flat bread",
+      "mention_count": 9
+    },
+    {
+      "label": "short ribs",
+      "mention_count": 3
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 2
+    },
+    {
+      "label": "cheeseburger",
+      "mention_count": 8
+    },
+    {
+      "label": "pleasant staff",
+      "mention_count": 2
+    },
+    {
+      "label": "casual spot",
+      "mention_count": 2
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 2
+    },
+    {
+      "label": "mall",
+      "mention_count": 8
+    },
+    {
+      "label": "salads",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:09Z",
+  "city": "Culver City",
+  "key": "westside-tavern-culver-city"
+}

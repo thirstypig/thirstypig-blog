@@ -25,6 +25,7 @@ location: Ono Hawaiian Grill
 region: San Gabriel Valley
 cuisine:
 - Hawaiian
+placeId: "0x80c2dafb85c9ebe3:0xb1d9572d1d23daad"
 ---
 
 Ono Hawaiian Grill.

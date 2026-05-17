@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8644b5a7f6162b03:0x616ba830e701a29c",
+  "venue_name": "Bouldin Acres",
+  "chips": [
+    {
+      "label": "pickleball",
+      "mention_count": 143
+    },
+    {
+      "label": "brisket taco",
+      "mention_count": 24
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 52
+    },
+    {
+      "label": "food trucks",
+      "mention_count": 44
+    },
+    {
+      "label": "cauliflower wings",
+      "mention_count": 13
+    },
+    {
+      "label": "watching sports",
+      "mention_count": 12
+    },
+    {
+      "label": "cornhole",
+      "mention_count": 14
+    },
+    {
+      "label": "live music",
+      "mention_count": 11
+    },
+    {
+      "label": "dog friendly",
+      "mention_count": 26
+    },
+    {
+      "label": "outdoor bar",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-05-17T16:44:53Z",
+  "city": "Austin",
+  "key": "bouldin-acres-austin"
+}

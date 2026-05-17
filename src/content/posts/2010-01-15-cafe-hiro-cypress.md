@@ -23,6 +23,7 @@ location: Cafe Hiro
 region: Orange County
 cuisine:
 - Fusion
+placeId: "0x80dd2ec8e850acdb:0xe232e1af9e1d16e5"
 ---
 
 I’ve never been a big fan of risotto, let alone a take Japanese on risotto. But I must say, Cafe Hiro does it pretty good. Make sure you save room for their Pot de Crème au Chocolat.

@@ -31,12 +31,14 @@ description: 'Chef Roy Choi’s, of the Kogi Taco Trucks, newest spawn is Chego.
 archiveUrl: https://web.archive.org/web/20100417225901/http://www.thethirstypig.com:80/2010/04/02/chego-the-offspring-of-kogi/
 draft: false
 location: Chego
+city: Los Angeles
 tags:
 - fusion
 - tacos
 - korean-mexican
 cuisine:
 - Fusion
+placeId: "0x80c2bbcb0297c9ed:0xb27b7566ad015a97"
 ---
 
 ---

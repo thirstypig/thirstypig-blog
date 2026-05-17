@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcd1b2cf7757c5:0xb1245dddc06c1c73",
+  "venue_name": "Slater's 50/50",
+  "chips": [
+    {
+      "label": "50/50 burger",
+      "mention_count": 18
+    },
+    {
+      "label": "build your own burger",
+      "mention_count": 4
+    },
+    {
+      "label": "beer selection",
+      "mention_count": 9
+    },
+    {
+      "label": "s'mores milkshake",
+      "mention_count": 5
+    },
+    {
+      "label": "fried pickles",
+      "mention_count": 6
+    },
+    {
+      "label": "classic cheese burger",
+      "mention_count": 4
+    },
+    {
+      "label": "vegan burger",
+      "mention_count": 4
+    },
+    {
+      "label": "vampire dip",
+      "mention_count": 3
+    },
+    {
+      "label": "fried mac and cheese",
+      "mention_count": 6
+    },
+    {
+      "label": "karaoke bar",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:55Z",
+  "city": "Anaheim",
+  "key": "slaters-5050-anaheim"
+}

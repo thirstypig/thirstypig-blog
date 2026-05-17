@@ -26,6 +26,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2dbbcefc689e1:0x979045ee6846c5db"
 ---
 
 ![Barbecue chicken pizza and jerk chicken pizza with cauliflower crust at Calif...](/images/posts/ig-2019-09-18-barbecue-chicken-pizza-and-jerk-chicken-pizza-with-cauliflow/17912771755349107.jpg)

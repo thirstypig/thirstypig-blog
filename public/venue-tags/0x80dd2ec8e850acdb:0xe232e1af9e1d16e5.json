@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dd2ec8e850acdb:0xe232e1af9e1d16e5",
+  "venue_name": "Cafe Hiro",
+  "chips": [
+    {
+      "label": "uni pasta",
+      "mention_count": 19
+    },
+    {
+      "label": "risotto",
+      "mention_count": 20
+    },
+    {
+      "label": "scallop risotto",
+      "mention_count": 10
+    },
+    {
+      "label": "panna cotta",
+      "mention_count": 10
+    },
+    {
+      "label": "fusion options",
+      "mention_count": 23
+    },
+    {
+      "label": "osso bucco",
+      "mention_count": 5
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 6
+    },
+    {
+      "label": "ahi tuna entree",
+      "mention_count": 4
+    },
+    {
+      "label": "calamari",
+      "mention_count": 7
+    },
+    {
+      "label": "croissant bread pudding",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:32Z",
+  "city": "Cypress",
+  "key": "cafe-hiro-cypress"
+}

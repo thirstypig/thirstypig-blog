@@ -41,6 +41,7 @@ tags:
 - bacon
 cuisine:
 - American
+placeId: "0x80dcd1b2cf7757c5:0xb1245dddc06c1c73"
 ---
 
 As long as I can remember, I have always enjoyed eating hamburgers. But whenever I saw a pink color in the meat, I was told it was a “No!-No!”. Pink meant that it was non fully cooked, and perhaps unsafe to eat. And the idea of uncooked, rare, or even some pinkish medium ones, raised red flags with me. Yet, when I looked at the menu at Slater’s – their burgers are featured pink and they boast about the color. Their claim to fame is a burger that is hand packed with bacon, thereby resulting in the pink.

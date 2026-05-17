@@ -32,6 +32,7 @@ draft: false
 location: Westside Tavern
 cuisine:
 - American
+placeId: "0x80c2bba2d8f06963:0xa20bd7b150114e21"
 ---
 
 I really wanted to like this place. The name will remind us of a neighborhood bar/restaurant, in using the word “tavern”. And once you walk in, the place looks airy and yet broodingly hip. The stylized wood accents are all around, with a bar that stretches the length of the main dining room. Tonight we were celebrating a friend’s birthday in one of their two private rooms.

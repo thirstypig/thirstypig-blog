@@ -34,6 +34,7 @@ tags:
 - american
 cuisine:
 - Fusion
+placeId: "0x35b27aae0da7b709:0x6b05cd1508bdae9e"
 ---
 
 The Xuhui district, the popular tree-lined district in Shanghai, is home to Goga. Hidden just around the corner, we find this small 20 seat restaurant with roof top patio. Shanghai is home to fine culinary dining from Japan, Italy, France, as well as regional Chinese and with Goga, we see (and taste) decent American food.

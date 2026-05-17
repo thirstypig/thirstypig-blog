@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c36d8a12a155:0x400f617ad367486e",
+  "venue_name": "Marston's Pasadena",
+  "chips": [
+    {
+      "label": "french toast",
+      "mention_count": 120
+    },
+    {
+      "label": "corn flake crust",
+      "mention_count": 14
+    },
+    {
+      "label": "porch seating",
+      "mention_count": 3
+    },
+    {
+      "label": "huevos rancheros",
+      "mention_count": 13
+    },
+    {
+      "label": "pulled pork benedict",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 18
+    },
+    {
+      "label": "eggs benedict",
+      "mention_count": 32
+    },
+    {
+      "label": "pecans",
+      "mention_count": 9
+    },
+    {
+      "label": "denver omelet",
+      "mention_count": 3
+    },
+    {
+      "label": "macadamia nut pancakes",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:05Z",
+  "city": "Pasadena",
+  "key": "marstons-pasadena"
+}

@@ -13,10 +13,12 @@ tags:
 - soft-serve
 description: Soft Serve dessert at Honey Mee. Interesting. Not too sweet. Just right on a hot summer night. . . . .
 location: Soft Serve dessert at Honey Mee
+city: Arcadia
 categories:
 - Dessert
 cuisine:
 - Dessert
+placeId: "0x80c2dbd0db49863d:0x9b2323ea9c16069c"
 ---
 
 ![Soft Serve dessert at Honey Mee](/images/posts/ig-2018-07-11-soft-serve-dessert-at-honey-mee/17925580294172486.jpg)

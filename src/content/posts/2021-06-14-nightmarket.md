@@ -30,6 +30,7 @@ coordinates:
   lng: -118.389126
 cuisine:
 - Thai
+placeId: "0x80c2c7389f55b855:0xb564135452d76424"
 ---
 
 ![Night+Market](/images/posts/ig-2021-06-14-nightmarket/17891205173108412.jpg)

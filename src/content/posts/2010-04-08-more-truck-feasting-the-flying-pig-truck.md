@@ -31,6 +31,7 @@ tags:
 - dtla
 - food-trucks
 cuisine: []
+placeId: "0x80c2b99a1dfffc47:0x409513ef08e02c71"
 ---
 
 If you are looking for food trucks, you can follow my twitter list of [mobile food](http://twitter.com/ThirstyPig/mobilefood.)

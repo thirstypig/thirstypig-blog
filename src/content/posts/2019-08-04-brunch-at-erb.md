@@ -24,6 +24,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c62179802421:0x2ecb6b0f4dc68771"
 ---
 
 ![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18045829861175577.jpg)

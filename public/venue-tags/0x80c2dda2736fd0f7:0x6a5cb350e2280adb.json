@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dda2736fd0f7:0x6a5cb350e2280adb",
+  "venue_name": "Tomikawa Japanese Restaurant",
+  "chips": [
+    {
+      "label": "sushi",
+      "mention_count": 47
+    },
+    {
+      "label": "carpaccio",
+      "mention_count": 7
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 4
+    },
+    {
+      "label": "sashimi",
+      "mention_count": 8
+    },
+    {
+      "label": "all you can eat sushi",
+      "mention_count": 4
+    },
+    {
+      "label": "izakaya menu",
+      "mention_count": 4
+    },
+    {
+      "label": "baked mussels",
+      "mention_count": 3
+    },
+    {
+      "label": "rice to fish ratio",
+      "mention_count": 2
+    },
+    {
+      "label": "omakase sushi plate",
+      "mention_count": 2
+    },
+    {
+      "label": "salmon",
+      "mention_count": 9
+    }
+  ],
+  "scraped_at": "2026-05-17T16:43:36Z",
+  "city": "Pasadena",
+  "key": "japon-bistro-pasadena"
+}

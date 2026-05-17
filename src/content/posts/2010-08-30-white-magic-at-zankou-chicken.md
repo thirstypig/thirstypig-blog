@@ -31,6 +31,7 @@ tags:
 - chicken
 cuisine:
 - American
+placeId: "0x80c2c3509937e3af:0xdf06f28513da9fdc"
 ---
 
 #gallery-2 {
