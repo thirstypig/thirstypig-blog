@@ -21,6 +21,7 @@ region: Shanghai
 address: 373 South Huangpi Road
 cuisine:
 - Mediterranean
+placeId: "0x35b270719555cf0b:0xe146db67df58f647"
 ---
 
 

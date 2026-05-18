@@ -25,6 +25,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x8644b57efa7a09cd:0xc0eec8eeb6306640"
 ---
 
 ![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17861747095180115.jpg)

@@ -20,6 +20,7 @@ region: Shanghai
 address: 381 Middle Huaihai Road
 cuisine:
 - Japanese
+placeId: "0x35b270720adebe1b:0x39ad91f39bba51c9"
 ---
 
 

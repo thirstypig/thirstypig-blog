@@ -28,6 +28,7 @@ region: Shanghai
 address: 381 Middle Huaihai Road
 cuisine:
 - Japanese
+placeId: "0x35b270720adebe1b:0x39ad91f39bba51c9"
 ---
 
 With some classmates, I recently had Japanese at Itoya located in the busy district of Luwan. This location is ideal, since there is a subway station located just beneath the shopping center, of Central Plaza.

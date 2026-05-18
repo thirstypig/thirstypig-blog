@@ -222,11 +222,11 @@ def auth_gated(record: dict) -> bool:
     """Detect the 'limited view' failure mode.
 
     Logged-in places have 4 tabs (Overview/Menu/Reviews/About) and at
-    least some chips. Logged-out places have 2 tabs and no chips."""
-    has_reviews_tab = any(
-        "Reviews" in (label or "") for label in record.get("tab_labels", [])
-    )
-    return not has_reviews_tab and not record.get("chips")
+    least some chips. Logged-out places have NO tabs at all and no chips.
+    Permanently closed venues have Overview/About tabs but no Reviews tab
+    or chips — those are NOT auth-gated, just closed."""
+    tab_labels = record.get("tab_labels", [])
+    return not tab_labels and not record.get("chips")
 
 
 

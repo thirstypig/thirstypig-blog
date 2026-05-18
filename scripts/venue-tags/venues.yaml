@@ -4747,6 +4747,7 @@ Los Angeles, CA 90027"
   name: "Freedmen's Bar"
   city: "Austin"
   query: "Freedmen's Bar 2402 San Gabriel St, Austin, TX 78705"
+  place_id: "0x8644b57efa7a09cd:0xc0eec8eeb6306640"
   cid: "13902270027323696704"
 
 - key: bouldin-acres-austin
@@ -4874,6 +4875,7 @@ Los Angeles, CA 90027"
   name: "伊藤家"
   city: "Shanghai"
   query: "Itoya 伊藤家 381 Middle Huaihai Road Shanghai"
+  place_id: "0x35b270720adebe1b:0x39ad91f39bba51c9"
   cid: "4156138506608595401"
 
 - key: racks-shanghai
@@ -4886,6 +4888,7 @@ Los Angeles, CA 90027"
   name: "La Finca 庄源"
   city: "Shanghai"
   query: "La Finca 373 South Huangpi Road Shanghai"
+  place_id: "0x35b270719555cf0b:0xe146db67df58f647"
   cid: "16232903146078795335"
 
 - key: porto-rico-shanghai
