@@ -9,6 +9,17 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 		<div class="prose max-w-none">
 
+			<h2>May 2026 — Venue Tags Long-Tail Push</h2>
+
+			<h3>May 16–18 — Batches 5–7: 655 venue JSONs, 885 posts tagged</h3>
+			<ul>
+				<li><strong>Long-tail venue batches (3 sessions)</strong> — Added 68 net new venues across three batches: CITY_ALIASES extended for Tustin, Tijuana, Taoyuan, Harbin; sync phrase-matching improved for CJK venue names (Korean Hangul substring match, de-article fallback). Cumulative growth: <strong>594 → 655 published JSONs</strong>, <strong>689 → 885 posts displaying tag pills</strong>. Venues.yaml now at 699 entries.</li>
+				<li><strong>Geocoding contamination catch (harbin-pig)</strong> — API returned a <code>0x80c2</code> LA-metro place_id for a Harbin, China restaurant. Detected via CID prefix heuristic, reverted before commit. Reinforces the geocoding-autofill contamination pattern: validate region prefix against expected geography before writing.</li>
+				<li><strong>auth_gated() fix for permanently closed venues</strong> — Old heuristic (<code>not has_reviews_tab and not chips</code>) misfired on closed venues, which show Overview/About tabs but no Reviews tab. Correct signal: <code>not tab_labels and not chips</code> (no tabs at all). Three previously-stuck venues (<code>itoya-shanghai</code>, <code>la-finca-shanghai</code>, <code>freedmens-bar-austin</code>) now write 0-chip entries and resolve place_ids correctly.</li>
+				<li><strong>6 new unit tests for auth_gated()</strong> — <code>scripts/venue-tags/test_scrape_google.py</code>: parametrized table covering all three real page states (truly auth-gated, permanently closed, open venue). Critical regression case: old code returned <code>True</code> for the closed-has-tabs-no-chips fixture; new code returns <code>False</code>. Python suite: 112 → 118 passing.</li>
+				<li><strong>New solution doc category: logic-errors/</strong> — <code>docs/solutions/logic-errors/auth-gated-detection-closed-venue-false-positive.md</code> documents the heuristic-discrimination failure (correlated signal vs. discriminating signal), the three-state page model, prevention checklist, and fixture pattern for future scraper state changes.</li>
+			</ul>
+
 			<h2>April 2026 — Performance, Accessibility, Mobile Editing & Testing</h2>
 
 			<h3>April 30 — Privacy honest, tag cloud surfaced, admin docs (PRs #97–101)</h3>
