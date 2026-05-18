@@ -85,6 +85,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "lookup_place_ids_api — extract_fid_hex regex (!1s and ftid= forms, URL-encoded anchors), write_yaml_field idempotency, load_missing_venues skips entries with existing place_id or cid",
 	},
+	"scripts/venue-tags/test_scrape_google.py": {
+		kind: "unit",
+		covers: "scrape_google auth_gated() — distinguishes three real page states: (1) truly auth-gated (no tabs + no chips → True), (2) permanently closed (has Overview/About tabs, no chips → False), (3) open venue (tabs + chips → False). Regression guard: old implementation keyed on absence of a 'Reviews' tab, causing closed venues to be misclassified as auth failures and exit 2 instead of writing 0-chip entries.",
+	},
 	"scripts/test_sync_hitlist.py": {
 		kind: "unit",
 		covers: "Hit List vault parser — header parsing with commas in names, metadata keys, tag normalization, priority bounds, id slug + override, unknown-key drop, CJK slug handling",
