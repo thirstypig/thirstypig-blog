@@ -61,7 +61,7 @@ When you notice a pattern, preference, decision, or piece of context that should
 **DECISIONS ALREADY MADE — DO NOT RE-LITIGATE:**
 
 - **Stack is fixed:** Astro + Tailwind v4 + TinaCMS + Vercel. No migrations, no framework swaps.
-- **No Google Analytics or AdSense:** Ripped out deliberately — privacy page must match what's actually loaded.
+- **Google Analytics + AdSense are consent-gated (re-added 2026-06-03):** Behind a GDPR/CCPA consent banner (`vanilla-cookieconsent` v3, bundled via npm — not CDN). GA4 → `analytics` category, AdSense → `marketing` category; both load only after opt-in via native `type="text/plain" data-category=…` script-gating, and both default OFF. The privacy page must keep disclosing exactly what's loaded, and withdrawal stays reachable via the footer "Cookie preferences" button. AdSense slot IDs come from `PUBLIC_ADSENSE_SLOT_TOP`/`PUBLIC_ADSENSE_SLOT_BOTTOM` env vars. (Reverses the PR #98 "no trackers" removal; see `docs/solutions/feature-implementations/consent-gated-analytics-adsense.md`.)
 - **Venue tags via Google Places API only:** Foursquare replaced; Yelp deferred (IP-blocked, see `scripts/venue-tags/YELP.md`).
 - **Hit List schema has no visited/date_visited fields:** It's a "to try" list, not a log. Cross-site display (jameschang.co) is Phase 3.
 - **Static-only architecture:** No server-side DB, no backend. Admin writes go via GitHub REST API from the browser.
