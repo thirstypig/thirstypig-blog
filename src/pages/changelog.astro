@@ -9,6 +9,18 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 		<div class="prose max-w-none">
 
+			<h2>June 2026 — Consent-Gated Analytics &amp; Ads</h2>
+
+			<h3>June 3 — GDPR/CCPA consent banner; GA4 + AdSense return behind opt-in (PRs #106–107)</h3>
+			<ul>
+				<li><strong>Consent banner (PR #106)</strong> — Added a GDPR/CCPA consent banner via <code>vanilla-cookieconsent</code> v3 (bundled from npm, not CDN). Three categories — <code>necessary</code> (read-only), <code>analytics</code>, <code>marketing</code> — all default OFF except necessary. Withdrawal stays reachable any time via a "Cookie preferences" link in the footer (<code>data-cc="show-preferencesModal"</code>).</li>
+				<li><strong>GA4 + AdSense re-introduced, consent-gated</strong> — Reverses the April PR #98 "no trackers" removal, done correctly this time. Both are emitted as <code>type="text/plain" data-category=…</code> tags the browser treats as inert until the matching category is accepted, so nothing loads pre-consent (verified in built HTML). GA4 (<code>G-JVG4TB1BR4</code>) gates on <code>analytics</code>; AdSense gates on <code>marketing</code>. No CSP change needed — the only CSP in <code>vercel.json</code> is scoped to <code>/admin</code>; public pages have none.</li>
+				<li><strong>AdSense units + ads.txt</strong> — New <code>src/components/AdSlot.astro</code>: a CLS-safe (min-height reservation), consent-gated <code>&lt;ins&gt;</code> unit that renders nothing unless both the publisher ID and a slot ID are configured. Two placements per post (top + end of article), slot IDs from <code>PUBLIC_ADSENSE_SLOT_TOP</code>/<code>PUBLIC_ADSENSE_SLOT_BOTTOM</code>. <code>public/ads.txt</code> declares <code>ca-pub-7103672049879516</code>.</li>
+				<li><strong>Privacy page rewritten</strong> — <code>/privacy</code> now discloses Google Analytics 4, Google AdSense, and Vercel Analytics by name; lists GDPR/PECR and CCPA/CPRA rights; and describes withdrawal via the footer control. The page stays honest about exactly what loads.</li>
+				<li><strong>Pre-existing CI fix (PR #107)</strong> — <code>test_scrape_google.py</code> pulled in <code>playwright</code> transitively at collection time, but it isn't in <code>requirements-dev.txt</code>, so CI's <code>pytest scripts/</code> had been red on <code>main</code> since that test landed. Guarded with <code>pytest.importorskip("playwright")</code> — runs locally/pre-commit, skips cleanly on CI. Unblocked #106.</li>
+				<li><strong>Solution doc</strong> — <code>docs/solutions/feature-implementations/consent-gated-analytics-adsense.md</code> captures the data-category gating pattern, the array-vs-object <code>consentGiven()</code> bug avoided, the admin-only-CSP finding, why SRI doesn't apply to Google's tag scripts, and the <code>.env</code> trailing-newline corruption gotcha lived through during setup.</li>
+			</ul>
+
 			<h2>May 2026 — Venue Tags Long-Tail Push</h2>
 
 			<h3>May 16–18 — Batches 5–7: 655 venue JSONs, 885 posts tagged</h3>
