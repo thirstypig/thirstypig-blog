@@ -21,6 +21,12 @@ import pytest
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 
+# scrape_google imports playwright at module load. auth_gated() itself is pure,
+# but the import chain pulls in playwright, which isn't installed in lightweight
+# environments (e.g. CI's requirements-dev.txt). Skip cleanly there rather than
+# erroring the whole pytest collection.
+pytest.importorskip("playwright")
+
 from scrape_google import auth_gated  # noqa: E402
 
 # ---------------------------------------------------------------------------
