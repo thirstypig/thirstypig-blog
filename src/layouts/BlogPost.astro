@@ -6,6 +6,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import LocationCard from '../components/LocationCard.astro';
 import VenueTags from '../components/VenueTags.astro';
 import ImageGallery from '../components/ImageGallery.astro';
+import AdSlot from '../components/AdSlot.astro';
 import { getImageInfo } from '../utils/image-dimensions.mjs';
 
 type Props = CollectionEntry<'posts'>['data'];
@@ -30,6 +31,9 @@ const {
 } = Astro.props;
 
 const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
+
+const adSlotTop = import.meta.env.PUBLIC_ADSENSE_SLOT_TOP;
+const adSlotBottom = import.meta.env.PUBLIC_ADSENSE_SLOT_BOTTOM;
 ---
 
 <BaseLayout
@@ -82,6 +86,9 @@ const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 		<!-- Venue chips (renders only when placeId has chip data published) -->
 		<VenueTags placeId={placeId} />
 
+		<!-- Ad: top of article (renders only with marketing consent + configured slot) -->
+		<AdSlot slot={adSlotTop} />
+
 		<!-- Content -->
 		<div class="prose max-w-none">
 			<slot />
@@ -108,6 +115,9 @@ const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 
 		<!-- Image Gallery (additional images beyond hero) -->
 		<ImageGallery images={images} heroImage={heroImage} title={title} />
+
+		<!-- Ad: end of article (renders only with marketing consent + configured slot) -->
+		<AdSlot slot={adSlotBottom} />
 
 		<!-- Tags -->
 		{tags.length > 0 && (

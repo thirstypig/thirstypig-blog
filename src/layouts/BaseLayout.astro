@@ -3,6 +3,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
 import '../styles/global.css';
+import 'vanilla-cookieconsent/dist/cookieconsent.css';
 
 interface Props {
 	title: string;
@@ -19,6 +20,22 @@ interface Props {
 }
 
 const props = Astro.props;
+
+const ga4Id = import.meta.env.PUBLIC_GA4_ID;
+const adsenseId = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
+
+// Consent-gated tracker tags. Emitted as type="text/plain" so the browser
+// treats them as inert data and never executes them on load. vanilla-cookieconsent
+// flips the type to an executable script only when the matching consent category
+// is accepted (analytics → GA4, marketing → AdSense). This is the structural
+// guarantee that nothing fires before opt-in — there is no public-site CSP backstop.
+const trackerTags = [
+	ga4Id &&
+		`<script type="text/plain" data-category="analytics" src="https://www.googletagmanager.com/gtag/js?id=${ga4Id}"></script>` +
+		`<script type="text/plain" data-category="analytics">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${ga4Id}');</script>`,
+	adsenseId &&
+		`<script type="text/plain" data-category="marketing" async crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseId}"></script>`,
+].filter(Boolean).join('\n');
 ---
 
 <!doctype html>
@@ -42,6 +59,57 @@ const props = Astro.props;
 				document.documentElement.setAttribute('data-theme', saved || prefer);
 			})();
 		</script>
+		<!-- CookieConsent banner: bundled from npm (self-hosted). Loads first, then manages the gated tags below. -->
+		<script>
+			import * as CookieConsent from 'vanilla-cookieconsent';
+			CookieConsent.run({
+				categories: {
+					necessary: { enabled: true, readOnly: true },
+					analytics: { enabled: false },
+					marketing: { enabled: false },
+				},
+				language: {
+					default: 'en',
+					translations: {
+						en: {
+							consentModal: {
+								title: 'We respect your privacy',
+								description:
+									"Thirstypig uses analytics and ads to improve your experience. You control what's allowed.",
+								acceptAllBtn: 'Accept all',
+								acceptNecessaryBtn: 'Reject non-essential',
+								showPreferencesBtn: 'Manage preferences',
+							},
+							preferencesModal: {
+								title: 'Manage your privacy preferences',
+								acceptAllBtn: 'Accept all',
+								acceptNecessaryBtn: 'Reject non-essential',
+								savePreferencesBtn: 'Save my choices',
+								sections: [
+									{
+										title: 'Strictly Necessary',
+										description: 'Essential for the site to work.',
+										linkedCategory: 'necessary',
+									},
+									{
+										title: 'Analytics',
+										description: 'Google Analytics 4 — understand how you use thirstypig.',
+										linkedCategory: 'analytics',
+									},
+									{
+										title: 'Marketing',
+										description: 'Google AdSense — helps fund the blog.',
+										linkedCategory: 'marketing',
+									},
+								],
+							},
+						},
+					},
+				},
+			});
+		</script>
+		<!-- Consent-gated analytics/advertising tags (inert type="text/plain" until opt-in) -->
+		<Fragment set:html={trackerTags} />
 	</head>
 	<body class="min-h-screen flex flex-col">
 		<a
