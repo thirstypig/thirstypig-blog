@@ -35,6 +35,12 @@ const canonicalURL = new URL(Astro.url.pathname, siteBase);
 const fullTitle = title === SITE_TITLE ? title : `${title} | ${SITE_TITLE}`;
 const ogImage = image ? new URL(image, siteBase).toString() : undefined;
 
+// Trim the meta/social description to the ~155-char SERP window at a word
+// boundary. The full `description` is preserved for JSON-LD and elsewhere.
+const metaDescription = description.length > 160
+	? description.slice(0, 157).replace(/\s+\S*$/, '').replace(/[ ,.;:—-]+$/, '') + '…'
+	: description;
+
 const isHomepage = Astro.url.pathname === '/';
 const primaryCategory = categories[0];
 
@@ -108,14 +114,14 @@ const websiteLD = isHomepage ? {
 <!-- Primary Meta Tags -->
 <title>{fullTitle}</title>
 <meta name="title" content={fullTitle} />
-<meta name="description" content={description} />
+<meta name="description" content={metaDescription} />
 <link rel="canonical" href={canonicalURL} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={type} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={fullTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={metaDescription} />
 {ogImage && <meta property="og:image" content={ogImage} />}
 <meta property="og:site_name" content={SITE_TITLE} />
 
@@ -123,7 +129,7 @@ const websiteLD = isHomepage ? {
 <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
 <meta name="twitter:url" content={canonicalURL} />
 <meta name="twitter:title" content={fullTitle} />
-<meta name="twitter:description" content={description} />
+<meta name="twitter:description" content={metaDescription} />
 {ogImage && <meta name="twitter:image" content={ogImage} />}
 
 <!-- Article metadata -->
