@@ -22,6 +22,7 @@ const { Content } = await render(post);
 <BlogPost {...post.data}>
 	<Content />
 	<RelatedPosts
+		slot="related"
 		currentId={post.id}
 		categories={post.data.categories}
 		tags={post.data.tags}
