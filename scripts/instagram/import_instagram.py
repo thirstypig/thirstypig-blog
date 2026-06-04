@@ -234,9 +234,12 @@ def load_existing_posts() -> list[dict]:
         if len(parts) >= 3:
             try:
                 fm = yaml.safe_load(parts[1])
+                pub = fm.get('pubDate', '')
+                # pubDate may be a full datetime (e.g. "2026-03-04 00:00:00+00:00")
+                # after enrichment — normalize to YYYY-MM-DD so date dedup works.
                 posts.append({
                     'title': (fm.get('title', '') or '').lower(),
-                    'date': str(fm.get('pubDate', '')),
+                    'date': str(pub)[:10] if pub else '',
                     'source': fm.get('source', ''),
                     'file': os.path.basename(f),
                 })
@@ -260,14 +263,15 @@ def is_duplicate(ig_title: str, ig_date: datetime, existing_posts: list[dict]) -
         if ep['date'] != ig_date_str:
             continue
 
-        # If already imported from Instagram on same date
+        # An existing Instagram post on the same date IS the same post. Titles
+        # drift after enrichment (retitled to "Venue, City") and pubDate becomes a
+        # full datetime, so date+source is the reliable dedup key here — NOT title
+        # similarity, which the enrichment pipeline breaks.
         if ep['source'] == 'instagram':
-            # Check title similarity
-            ratio = SequenceMatcher(None, ig_norm, ep['title'][:100]).ratio()
-            if ratio > 0.6:
-                return True
+            return True
 
-        # Check against blog posts
+        # Non-Instagram post (e.g. recovered blog) on the same date: fall back to
+        # title similarity.
         ratio = SequenceMatcher(None, ig_norm, ep['title'][:100]).ratio()
         if ratio > 0.8:
             return True
@@ -449,7 +453,13 @@ def main():
     print('=' * 60)
 
     # Load Instagram data — glob for posts_*.json (Instagram splits large exports)
-    posts_files = sorted(glob.glob(os.path.join(DATA_DIR, '**', 'posts_*.json'), recursive=True))
+    # Only the user's own posts (your_instagram_activity/media/posts_*.json).
+    # The broad posts_*.json glob also matches ads_information/.../posts_viewed.json
+    # (posts you *viewed* — hundreds of foreign entries), so exclude those.
+    posts_files = sorted(
+        p for p in glob.glob(os.path.join(DATA_DIR, '**', 'posts_*.json'), recursive=True)
+        if 'ads_information' not in p and 'posts_viewed' not in os.path.basename(p)
+    )
     if not posts_files:
         print(f'ERROR: No posts_*.json found in {DATA_DIR}')
         sys.exit(1)

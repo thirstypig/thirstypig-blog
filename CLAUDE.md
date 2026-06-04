@@ -12,6 +12,7 @@ My food blog from 2007–present, rebuilt from Wayback Machine archives and Inst
 - **Content:** archive-only blog — 923 Wayback-recovered posts (2007–2017) + 1,649 Instagram posts (2011–present), all static
 - **Scripts:** Python scrapers in `scripts/` (Wayback downloader, Instagram importer, Foursquare geocoder)
 - **Trigger an IG sync programmatically:** create a GitHub release tagged `ig-*` with the IG export ZIP attached — `instagram-sync.yml` fires on that tag prefix.
+- **After importing new posts, enrich them** (address, map link, Google Places venue tags) — importing is only step 1. Follow `docs/new-post-enrichment-cadence.md`. Easy-to-forget prerequisite: set `location` (venue name) on each new post, or `curate_candidates.py` skips it and it never gets tagged.
 - **Live site:** https://thirstypig.com
 
 See `README.md` for the full data-source breakdown and tech stack.
