@@ -136,6 +136,12 @@ At a glance:
   no-results state on gibberish
 - **`tests/e2e/map.spec.ts`** (3 E2E assertions) — page shell + legend,
   Leaflet initializes and paints markers, marker count populates
+- **`tests/e2e/consent.spec.ts`** (6 E2E assertions) — privacy-critical
+  invariant: GA4 + AdSense ship inert (`type="text/plain"` + `data-category`)
+  with zero executable tracker scripts before opt-in. CI sets fake tracker env so
+  the gated tags render; skips with a reason if absent. Banner-interaction flows
+  (accept/reject, footer re-open) are verified manually — vanilla-cookieconsent's
+  modal doesn't render in headless Chromium.
 - **`tests/e2e/post-page.spec.ts`** (7 E2E assertions) — post regression
   suite: h1 singleton + no heading-level skips, hero `<picture>` + WebP +
   dimensions, body images optimized, LocationCard renders, no unexpected

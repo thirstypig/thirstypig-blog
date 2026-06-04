@@ -68,6 +68,13 @@ jobs:
         env:
           TINA_CLIENT_ID: ""
           TINA_TOKEN: ""
+          # Fake public tracker IDs so the consent-gated GA4/AdSense tags render
+          # in CI (consent.spec.ts asserts they stay inert until opt-in). Fake
+          # values keep the real GA4/AdSense properties free of CI bot traffic.
+          PUBLIC_GA4_ID: "G-TEST0000000"
+          PUBLIC_ADSENSE_PUB_ID: "ca-pub-0000000000000000"
+          PUBLIC_ADSENSE_SLOT_TOP: "0000000001"
+          PUBLIC_ADSENSE_SLOT_BOTTOM: "0000000002"
 
       - run: npm run test:e2e
 
