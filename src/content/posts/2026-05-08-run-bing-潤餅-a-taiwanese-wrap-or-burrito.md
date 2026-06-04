@@ -15,6 +15,10 @@ tags:
 location: Run Bing
 city: Arcadia
 region: San Gabriel Valley
+address: 1300 S Golden W Ave, Arcadia, CA 91007, USA
+coordinates:
+  lat: 34.1239
+  lng: -118.059193
 description: Run Bing 潤餅 - a Taiwanese Wrap or Burrito. Wrapped in a crepe like skin - a little sweet and savory, this meal in a hand is usually a celebrated during QingMing Festival. But our Ranch 99 in Arcadia offers it a year round. Packed with veggies, some egg, sauce, and either a chicken, pork, tofu, or beef protein. It is yummy and not to be missed. I don’t know of any other place that might have this in the Southern California area. If you do, please let me know.
 ---
 

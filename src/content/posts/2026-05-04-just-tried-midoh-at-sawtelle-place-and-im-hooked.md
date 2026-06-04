@@ -16,6 +16,10 @@ tags:
 location: Midoh
 city: Sawtelle
 region: Los Angeles
+address: 2130 Sawtelle Blvd #200, Los Angeles, CA 90025, USA
+coordinates:
+  lat: 34.039056
+  lng: -118.441455
 description: Just tried Midoh at Sawtelle Place, and I’m hooked. Hamburg steak is one of my favorite Japanese dishes, and they nailed it. Don’t overlook this spot, it’s worth finding. .rowlandheights.official
 placeId: "0x80c2bb35cfd4fb9d:0xac627da6aaabadc3"
 ---
