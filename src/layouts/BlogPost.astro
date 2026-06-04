@@ -35,6 +35,7 @@ const heroInfo = heroImage ? await getImageInfo(heroImage) : null;
 
 const adSlotTop = import.meta.env.PUBLIC_ADSENSE_SLOT_TOP;
 const adSlotBottom = import.meta.env.PUBLIC_ADSENSE_SLOT_BOTTOM;
+const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 ---
 
 <BaseLayout
@@ -95,9 +96,6 @@ const adSlotBottom = import.meta.env.PUBLIC_ADSENSE_SLOT_BOTTOM;
 			<slot />
 		</div>
 
-		<!-- Ad: in-article, mid-post (consent-gated marketing; loader is in BaseLayout) -->
-		<AdInArticle />
-
 		<!-- Hero Image (constrained height) -->
 		{heroImage && heroInfo && (
 			<div class="hero-container mb-6 -mx-4 sm:mx-0">
@@ -119,6 +117,9 @@ const adSlotBottom = import.meta.env.PUBLIC_ADSENSE_SLOT_BOTTOM;
 
 		<!-- Image Gallery (additional images beyond hero) -->
 		<ImageGallery images={images} heroImage={heroImage} title={title} />
+
+		<!-- Ad: in-article unit (consent-gated marketing; loader is in BaseLayout) -->
+		<AdInArticle slot={adSlotInArticle} />
 
 		<!-- Ad: end of article (renders only with marketing consent + configured slot) -->
 		<AdSlot slot={adSlotBottom} />

@@ -24,7 +24,7 @@ This is a fully-static food blog built with Astro 6 + Tailwind v4 + TinaCMS + Ve
 ## Known issues / do not re-raise
 
 - `'unsafe-inline'` in script-src is intentional — required by TinaCMS-generated index.html. Cannot be removed without breaking the admin.
-- Google Analytics and AdSense were deliberately removed. Do not suggest adding them back.
+- Google Analytics (GA4) and AdSense were re-added 2026-06-03 behind a GDPR/CCPA consent banner (vanilla-cookieconsent v3, both default OFF). Three consent-gated ad slots per post (top/in-article/bottom). Do not suggest removing them again.
 - No server-side backend is intentional. Do not suggest adding one.
 
 ## Security priorities
