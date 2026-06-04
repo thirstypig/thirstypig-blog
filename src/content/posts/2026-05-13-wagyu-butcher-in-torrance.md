@@ -22,6 +22,7 @@ tags:
 - wagyya5
 - yakiniku
 - southbay
+location: Wagyu Butcher
 city: Torrance
 region: South Bay
 description: Wagyu Butcher in Torrance. A bar only Yakiniku restaurant in omakase style with wagyu beef. We got the $70 Butcher’s menu. We had carpaccio, beef tongue, short rib, A5 wagyu, plus others. Finished with a curry rice and dessert. Can’t forget the upcoming gout attack. Was it worth the price and pain - yes. One thing I noted and I could be wrong - most of the meats were slathered with some sort of marinated - hopefully by design, rather than by covering up something. I would have preferred to see the marbling more closely. Though I did like the cook/grill-yourself aspect to get the tenderness that you would want

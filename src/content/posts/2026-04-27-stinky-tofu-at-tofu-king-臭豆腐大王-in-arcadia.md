@@ -17,6 +17,7 @@ tags:
 - taiwanesefood
 - sgv
 - arcadiaeats
+location: Tofu King
 city: Arcadia
 region: San Gabriel Valley
 description: Stinky tofu at Tofu King 臭豆腐大王 in Arcadia. Taiwanese food of the home style variety. Along with the stinky fried tofu, we had the sliced beef (served cold which is a traditional Taiwanese appetizer), beef noodle soup, rice noodle soup, a Rou yuan (a meat ball with rice). All was pretty good. Problem is. They close at 7 and they accept cash or Zelle - not a fan of. I’d try again. . .

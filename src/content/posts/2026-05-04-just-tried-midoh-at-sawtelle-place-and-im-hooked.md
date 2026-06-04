@@ -13,7 +13,7 @@ tags:
 - sawtelle
 - littleosaka
 - hamburgsteak
-location: Sawtelle Place
+location: Midoh
 city: Sawtelle
 region: Los Angeles
 description: Just tried Midoh at Sawtelle Place, and I’m hooked. Hamburg steak is one of my favorite Japanese dishes, and they nailed it. Don’t overlook this spot, it’s worth finding. .rowlandheights.official
