@@ -28,10 +28,4 @@ cuisine:
 - American
 ---
 
-![Burger, pasta, and cole slaw at House of Blues Great Burger](/images/posts/ig-2017-12-23-burger-pasta-and-cole-slaw-at-house-of-blues-great-burger/17899549465127821.jpg)
-
-![Burger, pasta, and cole slaw at House of Blues Great Burger](/images/posts/ig-2017-12-23-burger-pasta-and-cole-slaw-at-house-of-blues-great-burger/17914167454024376.jpg)
-
-![Burger, pasta, and cole slaw at House of Blues Great Burger](/images/posts/ig-2017-12-23-burger-pasta-and-cole-slaw-at-house-of-blues-great-burger/17897084557091309.jpg)
-
-Burger, pasta, and cole slaw at House of Blues @mandalaybay Great Burger! #burger #pasta #coleslaw
+Burger, pasta, and cole slaw at House of Blues @mandalaybay Great Burger!

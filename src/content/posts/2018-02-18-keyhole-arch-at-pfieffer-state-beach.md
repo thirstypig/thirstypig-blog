@@ -17,12 +17,6 @@ categories:
 cuisine: []
 ---
 
-![Keyhole arch at Pfieffer state beach](/images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17917614883073539.jpg)
-
-![Keyhole arch at Pfieffer state beach](/images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17910214210126442.jpg)
-
-![Keyhole arch at Pfieffer state beach](/images/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17853116464225909.jpg)
+Keyhole arch at Pfieffer state beach
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-02-18-keyhole-arch-at-pfieffer-state-beach/17853144649224490.mp4" type="video/mp4"></video>
-
-Keyhole arch at Pfieffer state beach @yalin_wu @jcllee

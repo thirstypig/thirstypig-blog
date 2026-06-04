@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — September 07, 2011](/images/posts/ig-2011-09-07-instagram-post-september-07-2011/17842671928049948.jpg)

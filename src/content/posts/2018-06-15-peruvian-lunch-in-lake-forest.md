@@ -27,12 +27,8 @@ cuisine:
 - Peruvian
 ---
 
-![Peruvian lunch in Lake Forest](/images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17938296484119380.jpg)
-
-![Peruvian lunch in Lake Forest](/images/posts/ig-2018-06-15-peruvian-lunch-in-lake-forest/17933098663089679.jpg)
-
 Peruvian lunch in Lake Forest. Chicken Saltado and Chicken Picante. Yum! 😋.
 .
 .
 .
-. @inkagrilloc @thirstypig @stephleecpa
+.

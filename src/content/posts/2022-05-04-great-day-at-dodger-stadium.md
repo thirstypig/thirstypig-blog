@@ -21,23 +21,8 @@ categories:
 cuisine: []
 ---
 
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17908450211456994.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17876290280676084.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17862826673688617.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17936603492113711.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17859541871732966.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17918953991290266.jpg)
-
-![Great day at Dodger Stadium](/images/posts/ig-2022-05-04-great-day-at-dodger-stadium/17961192829660739.jpg)
-
 Great day at Dodger Stadium. Good win, too. 
 .
 .
 .
 .
-@dodgers

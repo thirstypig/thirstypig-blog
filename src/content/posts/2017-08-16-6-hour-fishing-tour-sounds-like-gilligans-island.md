@@ -23,24 +23,7 @@ categories:
 cuisine: []
 ---
 
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17868971677179565.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17882013454108642.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17868205360162280.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17871867595137419.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17881937380115858.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17869081522157252.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17893798441014308.jpg)
-
-![6 hour fishing tour, sounds like Gilligan’s Island](/images/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17867195365175196.jpg)
+6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to catch some small mackerel. Got to feed some seagull some of our live bait. We will do it again! Thanks to ptwoo and Bosco
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17893353751038908.mp4" type="video/mp4"></video>
-
 <video controls width="100%"><source src="/videos/posts/ig-2017-08-16-6-hour-fishing-tour-sounds-like-gilligans-island/17894635378030437.mp4" type="video/mp4"></video>
-
-6 hour fishing tour, sounds like Gilligan’s Island. Off San Pedro pier on the Fishing boat Monte Carlo. Unfortunately, no bass or cod - we only caught ones that were too small to keep. We did get to catch some small mackerel. Got to feed some seagull some of our live bait. We will do it again! Thanks to ptwoo and Bosco #fishing #sanpedro #mackerel #sportfishing

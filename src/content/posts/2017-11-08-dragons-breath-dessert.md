@@ -23,8 +23,6 @@ cuisine:
 placeId: "0x80c2c5382070ef97:0xe0c3d73506652c99"
 ---
 
-![Dragon’s Breath dessert](/images/posts/ig-2017-11-08-dragons-breath-dessert/17908576108060148.jpg)
+Dragon’s Breath dessert. Light popcorn puffs in cold liquid nitrogen with strawberry dipping sauce. Not bad. Could be more sweeter.
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-11-08-dragons-breath-dessert/17898367180077720.mp4" type="video/mp4"></video>
-
-Dragon’s Breath dessert. Light popcorn puffs in cold liquid nitrogen with strawberry dipping sauce. Not bad. Could be more sweeter. #dessert #dragonsbreath #sgv #shotoniphone @thirstypig #thirstypig

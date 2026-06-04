@@ -20,13 +20,8 @@ cuisine:
 - Taiwanese
 ---
 
-![SOul Spicy Noodles](/images/posts/ig-2018-06-29-soul-spicy-noodles/17857973035263832.jpg)
-
-![SOul Spicy Noodles](/images/posts/ig-2018-06-29-soul-spicy-noodles/17936329222095108.jpg)
-
 SOul Spicy Noodles. 🌶 instant noodles from Taiwan 🇹🇼 tasty and good. .
 .
 .
 .
 .
-#soulspicynoodles @bigpapalious @yalin_wu @thirstypig #thirstypig #noodles #spicy #spicynoodles

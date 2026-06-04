@@ -28,8 +28,4 @@ cuisine:
 placeId: "0x80c2dad467747067:0x3b197541d80b539c"
 ---
 
-![Beef Dip Sandwich and wedge fries](/images/posts/ig-2017-10-07-beef-dip-sandwich-and-wedge-fries/17885914636083563.jpg)
-
-![Beef Dip Sandwich and wedge fries](/images/posts/ig-2017-10-07-beef-dip-sandwich-and-wedge-fries/17902511164026855.jpg)
-
-Beef Dip Sandwich and wedge fries. Clearman’s Galley - the boat is my go to place to enjoy sports. Love this place @clearmansboat
+Beef Dip Sandwich and wedge fries. Clearman’s Galley - the boat is my go to place to enjoy sports. Love this place

@@ -22,12 +22,4 @@ cuisine:
 - Vietnamese
 ---
 
-![Brisket Pho, Spring Roll, and creme brule](/images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17879864788077003.jpg)
-
-![Brisket Pho, Spring Roll, and creme brule](/images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17865930304142179.jpg)
-
-![Brisket Pho, Spring Roll, and creme brule](/images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17889145777055492.jpg)
-
-![Brisket Pho, Spring Roll, and creme brule](/images/posts/ig-2017-07-12-brisket-pho-spring-roll-and-creme-brule/17862358282168883.jpg)
-
 Brisket Pho, Spring Roll, and creme brule

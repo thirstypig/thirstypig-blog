@@ -26,14 +26,9 @@ draft: false
 placeId: "0x80c2dbaf5b54797b:0xc06d475dd2650837"
 ---
 
-![Popcorn chicken and strawberry milk tea](/images/posts/ig-2021-10-13-popcorn-chicken-and-strawberry-milk-tea/17909368310147817.jpg)
-
-![Popcorn chicken and strawberry milk tea](/images/posts/ig-2021-10-13-popcorn-chicken-and-strawberry-milk-tea/17906025947302959.jpg)
-
 Popcorn chicken and strawberry milk tea! Yum!
 .
 .
 .
 .
 .
-@au79teahouse

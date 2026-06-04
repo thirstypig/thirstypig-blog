@@ -32,20 +32,7 @@ cuisine:
 placeId: "0x80c2da817b5ec8d7:0xd57bf7ef71cd443a"
 ---
 
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17860760758256912.jpg)
-
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17937819283100422.jpg)
-
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17920803982160640.jpg)
-
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17945121571074538.jpg)
-
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17943453232078533.jpg)
-
-![Dinner at Boiling Crab](/images/posts/ig-2018-06-11-dinner-at-boiling-crab/17852225731271126.jpg)
-
 Dinner at Boiling Crab. Long ass wait for New Orleans inspired crustacean cuisine. We had crawfish, shrimp, corn, sausage, gumbo, chowder, catfish, and oysters. Personally I don’t eat a lot of shellfish since I have gout. 🤪 but I like the everything else they have. I wonder why they don’t give out disposable gloves. I thought did before. .
 .
 .
 .
-@michifu1222 @jared__lin @yalin_wu @thirstypig @boilingcrab

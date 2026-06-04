@@ -25,16 +25,9 @@ cuisine:
 placeId: "0x80c32b12d76891ef:0xb1345cb11482c144"
 ---
 
-![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17891080747436840.jpg)
-
-![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17873698645503687.jpg)
-
-![Tiger Sugar](/images/posts/ig-2019-12-04-tiger-sugar/17854558279674227.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2019-12-04-tiger-sugar/17848334533759366.mp4" type="video/mp4"></video>
-
 Tiger Sugar. Taiwanese boba or pearl milk tea. .
 .
 .
 .
-#drinks #boba #pearlmilktea @tigersugar.usa @tigersugar.usa #sgv
+
+<video controls width="100%"><source src="/videos/posts/ig-2019-12-04-tiger-sugar/17848334533759366.mp4" type="video/mp4"></video>

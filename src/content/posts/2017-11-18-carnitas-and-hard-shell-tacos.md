@@ -28,8 +28,4 @@ draft: false
 placeId: "0x80c2db7cb53ebfa9:0x219336dc3569bea2"
 ---
 
-![Carnitas and hard shell tacos](/images/posts/ig-2017-11-18-carnitas-and-hard-shell-tacos/17899658731078086.jpg)
-
-![Carnitas and hard shell tacos](/images/posts/ig-2017-11-18-carnitas-and-hard-shell-tacos/17848938547217994.jpg)
-
 Carnitas and hard shell tacos. Local Mexican restaurant that’s been around for year. Salsa kind of sucked for the chips. The carnitas was just ok.

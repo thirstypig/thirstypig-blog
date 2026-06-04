@@ -24,10 +24,6 @@ cuisine:
 placeId: "0x80c2dc7c7c245dbf:0x5b5d6e041029f0c0"
 ---
 
-![Taco Tuesday](/images/posts/ig-2018-12-11-taco-tuesday/17846682220314646.jpg)
-
-![Taco Tuesday](/images/posts/ig-2018-12-11-taco-tuesday/17979682255151684.jpg)
-
 Taco Tuesday! Best fish tacos in Sierra Madre! At Tacos Ensenada
 .
 .

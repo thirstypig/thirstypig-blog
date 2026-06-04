@@ -33,24 +33,7 @@ cuisine:
 placeId: "0x80dcddc2bf95704f:0x988474a1ed747491"
 ---
 
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17977184170057527.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17962293379119599.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17902798864235183.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17952444166140349.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17960092978127529.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17947990531155632.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17948733514150055.jpg)
-
-![Dim Sum lunch but without the iconic carts](/images/posts/ig-2018-09-05-dim-sum-lunch-but-without-the-iconic-carts/17950354264130192.jpg)
-
 Dim Sum lunch but without the iconic carts. .
 .
 .
 .
-@capitalseafood @travistu110968 @yummiapp @thirstypig @irvinespectrumcenter

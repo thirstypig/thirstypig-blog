@@ -29,18 +29,9 @@ cuisine:
 placeId: "0x80c2c64a3df73d39:0x55acd712d3a6fe7"
 ---
 
-![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17978416897496412.jpg)
-
-![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17894483699600306.jpg)
-
-![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/18001830040386685.jpg)
-
-![Great drinks and cool bar](/images/posts/ig-2022-03-21-great-drinks-and-cool-bar/17920117184171972.jpg)
-
 Great drinks and cool bar. Nice patio with outdoor bar. I would describe them as having finely crafted drinks with bitters. I’ve been told this is the place where bartenders go for drinks. 
 .
 .
 .
 .
 .
-@apothekela #drinks #bourbon #whiskey #whisky @gammagod

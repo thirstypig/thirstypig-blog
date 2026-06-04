@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — August 20, 2012](/images/posts/ig-2012-08-20-instagram-post-august-20-2012/17842695361049948.jpg)

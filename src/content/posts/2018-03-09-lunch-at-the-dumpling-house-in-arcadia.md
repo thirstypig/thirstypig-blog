@@ -30,14 +30,4 @@ cuisine:
 - Chinese
 ---
 
-![Lunch at the Dumpling House in Arcadia](/images/posts/ig-2018-03-09-lunch-at-the-dumpling-house-in-arcadia/17911499743080389.jpg)
-
-![Lunch at the Dumpling House in Arcadia](/images/posts/ig-2018-03-09-lunch-at-the-dumpling-house-in-arcadia/17913985762123431.jpg)
-
-![Lunch at the Dumpling House in Arcadia](/images/posts/ig-2018-03-09-lunch-at-the-dumpling-house-in-arcadia/17856354028232579.jpg)
-
-![Lunch at the Dumpling House in Arcadia](/images/posts/ig-2018-03-09-lunch-at-the-dumpling-house-in-arcadia/17900156614160416.jpg)
-
-![Lunch at the Dumpling House in Arcadia](/images/posts/ig-2018-03-09-lunch-at-the-dumpling-house-in-arcadia/17929636060060368.jpg)
-
-Lunch at the Dumpling House in Arcadia. I love dumplings. Water boiled ones and steamed (小籠包). The water boiled fish with Tilapia was so-so. Didn’t like the heavy thick soup. The onion pancakes and rice noodles were fine. @yalin_wu @tomatocheng
+Lunch at the Dumpling House in Arcadia. I love dumplings. Water boiled ones and steamed (小籠包). The water boiled fish with Tilapia was so-so. Didn’t like the heavy thick soup. The onion pancakes and rice noodles were fine.

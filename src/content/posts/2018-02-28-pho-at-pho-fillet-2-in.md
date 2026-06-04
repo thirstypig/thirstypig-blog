@@ -26,12 +26,4 @@ cuisine:
 placeId: "0x80c2d00b64afc8f9:0xf04c268315443de2"
 ---
 
-![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17928704200018729.jpg)
-
-![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17924991772064423.jpg)
-
-![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17900791057181129.jpg)
-
-![Pho at Pho Fillet 2 in](/images/posts/ig-2018-02-28-pho-at-pho-fillet-2-in/17928717892040531.jpg)
-
-Pho at Pho Fillet 2 in #SGV. Good alternative to Golden Deli. #pho #noodles #vietnamesefood @yalin_wu #shotoniphonex
+Pho at Pho Fillet 2 in #SGV. Good alternative to Golden Deli.

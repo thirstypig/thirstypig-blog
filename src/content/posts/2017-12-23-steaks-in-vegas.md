@@ -31,18 +31,4 @@ cuisine:
 - BBQ
 ---
 
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17901609556118658.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17909010310067091.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17855429533215569.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17888900740187786.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17884562173171391.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17914550599061465.jpg)
-
-![Steaks in Vegas](/images/posts/ig-2017-12-23-steaks-in-vegas/17891922712137173.jpg)
-
-Steaks in Vegas @stripsteaklv
+Steaks in Vegas

@@ -32,27 +32,6 @@ cuisine:
 placeId: "0x80c2c6392cc7321f:0x9904032de92fe17f"
 ---
 
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18075864619068245.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18051938200186038.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18048734059192410.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/17984767708249077.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/17862801625433095.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18049248064134815.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18079236145046689.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/17985851332247799.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18079624315019953.jpg)
-
-![Good times with old friends at Inko Nito](/images/posts/ig-2019-06-30-good-times-with-old-friends-at-inko-nito/18083056051032097.jpg)
-
 Good times with old friends at Inko Nito. Great venue and location. .
 .
 .
-@inkonitola #dtlaartsdistrict @yiu8 @calicultured @sakailife #japanesefood #sashimi #sake #beer @sotosake @orionbeer_info #eeeeeats

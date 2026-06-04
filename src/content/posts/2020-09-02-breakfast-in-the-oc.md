@@ -21,16 +21,9 @@ cuisine:
 - American
 ---
 
-![Breakfast in the OC](/images/posts/ig-2020-09-02-breakfast-in-the-oc/17856967295140032.jpg)
-
-![Breakfast in the OC](/images/posts/ig-2020-09-02-breakfast-in-the-oc/17871618490917932.jpg)
-
-![Breakfast in the OC](/images/posts/ig-2020-09-02-breakfast-in-the-oc/18023403313304561.jpg)
-
 Breakfast in the OC. Bloody Mary for breakfast! Pork belly Benedict was delectable. 
 .
 .
 .
 .
 .
-@snoozeameatery #oc @travisytu @travistu110968 #bloodymary #bloodymarys #breakfast #eggsbenedict

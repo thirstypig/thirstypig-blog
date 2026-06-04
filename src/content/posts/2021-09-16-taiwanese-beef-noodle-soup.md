@@ -28,10 +28,6 @@ cuisine:
 placeId: "0x80c2db2a8e5f5dfb:0x76e75849aac83fc3"
 ---
 
-![Taiwanese Beef Noodle Soup](/images/posts/ig-2021-09-16-taiwanese-beef-noodle-soup/18147426412170409.jpg)
-
-![Taiwanese Beef Noodle Soup](/images/posts/ig-2021-09-16-taiwanese-beef-noodle-soup/17852669033637805.jpg)
-
 Taiwanese Beef Noodle Soup. Rich and hearty soup with great noodles and large slices of beef. Yum!
 .
 .
@@ -39,4 +35,3 @@ Taiwanese Beef Noodle Soup. Rich and hearty soup with great noodles and large sl
 .
 .
 .
-@cornerbeefnoods

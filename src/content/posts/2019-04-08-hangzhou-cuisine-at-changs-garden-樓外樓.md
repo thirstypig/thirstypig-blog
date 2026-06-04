@@ -27,17 +27,7 @@ cuisine:
 placeId: "0x80c2dbbac8989f3f:0x2ee1ae7c91f519f2"
 ---
 
-![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/17847945469403157.jpg)
-
-![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/18053212126015270.jpg)
-
-![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/18013614430171624.jpg)
-
-![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/17853120454388729.jpg)
-
-![Hangzhou Cuisine at Chang’s Garden 樓外樓](/images/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/17951914714269718.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/18052314316053935.mp4" type="video/mp4"></video>
-
 Hangzhou Cuisine at Chang’s Garden 樓外樓. The big fatty pork belly, bitter melon, a big bowl lamb stew, and rice balls.
 .
+
+<video controls width="100%"><source src="/videos/posts/ig-2019-04-08-hangzhou-cuisine-at-changs-garden-樓外樓/18052314316053935.mp4" type="video/mp4"></video>

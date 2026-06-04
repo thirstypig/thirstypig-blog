@@ -29,20 +29,4 @@ cuisine:
 placeId: "0x865cf7285d544c3f:0xe0e431d387677804"
 ---
 
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17862320248140384.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17858852470173629.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17844496285195582.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17858496106193121.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17884134052013891.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17884638649062601.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17884567909063031.jpg)
-
-![Tasty pork ribs - must order](/images/posts/ig-2017-06-17-tasty-pork-ribs-must-order/17858812369188837.jpg)
-
-Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib. @2msmokehouse
+Tasty pork ribs - must order. Beef brisket was also great - nice thick cut with good bark. Chicarron Mac and cheese - good also. I liked the red cabbage cole slaw. Wish we got here earlier to have the, Saturday only, beef rib.

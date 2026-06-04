@@ -23,8 +23,4 @@ cuisine:
 placeId: "0x80c2dba4bec9b25f:0xf9f36bf951d7aa9c"
 ---
 
-![Wife’s favorite type of noodles](/images/posts/ig-2018-06-27-wifes-favorite-type-of-noodles/17956123960020275.jpg)
-
-![Wife’s favorite type of noodles](/images/posts/ig-2018-06-27-wifes-favorite-type-of-noodles/17956258699064000.jpg)
-
 Wife’s favorite type of noodles. Noodle Kang in Arcadia.

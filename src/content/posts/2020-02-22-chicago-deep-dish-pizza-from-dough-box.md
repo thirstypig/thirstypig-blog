@@ -30,14 +30,6 @@ cuisine:
 placeId: "0x880e2cbc356277c5:0x2aa414da67b3b2a"
 ---
 
-![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/18088428730149258.jpg)
-
-![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/17847259759922187.jpg)
-
-![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/17855452330800637.jpg)
-
-![Chicago Deep Dish pizza from Dough Box](/images/posts/ig-2020-02-22-chicago-deep-dish-pizza-from-dough-box/17855034280803006.jpg)
-
 Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. The crust was really good and held up. The tomato sauce seemed to be a bit watery. Too bad parking sucked and they don’t have a dining room. I would order again
 .
 .
@@ -45,4 +37,3 @@ Chicago Deep Dish pizza from Dough Box. Had the York - pepperoni and sausage. Th
 .
 .
 .
-@doughboxla

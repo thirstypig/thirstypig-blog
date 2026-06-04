@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — April 12, 2021](/images/posts/ig-2021-04-12-instagram-post-april-12-2021/18057602758303778.jpg)

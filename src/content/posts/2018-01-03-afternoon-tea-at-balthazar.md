@@ -28,10 +28,4 @@ cuisine:
 - French
 ---
 
-![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17904596176106034.jpg)
-
-![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17908235560074094.jpg)
-
-![Afternoon tea at Balthazar](/images/posts/ig-2018-01-03-afternoon-tea-at-balthazar/17903131894113072.jpg)
-
-Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider. @yalin_wu @balthazarny
+Afternoon tea at Balthazar. Pomme Frites, Profiteoles, and a bottle of Aval Cider.

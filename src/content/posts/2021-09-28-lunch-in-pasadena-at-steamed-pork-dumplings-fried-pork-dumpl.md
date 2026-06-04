@@ -31,20 +31,9 @@ cuisine:
 placeId: "0x80c2c553002a37ed:0xd145a93015fbefb2"
 ---
 
-![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17928719719763336.jpg)
-
-![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17948128018553160.jpg)
-
-![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17943094057586742.jpg)
-
-![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17884356092417137.jpg)
-
-![Lunch in Pasadena at steamed pork dumplings, fried pork dumplings, and scall...](/images/posts/ig-2021-09-28-lunch-in-pasadena-at-steamed-pork-dumplings-fried-pork-dumpl/17927685577826549.jpg)
-
 Lunch in Pasadena at @danmodernchinese steamed pork dumplings, fried pork dumplings, and scallion pancakes. Yum!
 .
 .
 .
 .
 .
-@danmodernchinese

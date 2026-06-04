@@ -27,12 +27,7 @@ cuisine:
 placeId: "0x80dcdc349c3a2f23:0x190f6e623ccf53fc"
 ---
 
-![Custom Pies at Blaze Pizza](/images/posts/ig-2018-06-14-custom-pies-at-blaze-pizza/17952222172055316.jpg)
-
-![Custom Pies at Blaze Pizza](/images/posts/ig-2018-06-14-custom-pies-at-blaze-pizza/17921703226166937.jpg)
-
 Custom Pies at Blaze Pizza. .
 .
 .
 .
-@blazepizza @thirstypig #uci #irvine #oc #theoc

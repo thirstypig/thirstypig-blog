@@ -33,22 +33,8 @@ cuisine:
 placeId: "0x89c259a5c63947eb:0xab4f215f6280a6bf"
 ---
 
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17932803655117274.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17947111309048507.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17942345395071912.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17947335508000031.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17947092520059822.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17947601785050526.jpg)
-
-![Spanish tapas dinner at Tertulia](/images/posts/ig-2018-05-22-spanish-tapas-dinner-at-tertulia/17941093696077697.jpg)
-
 Spanish tapas dinner at Tertulia. We had tortilla -Spanish omelette, radish salad, roasted potatoes, iberico ham, sardines, and a large chicken paella. Sorry for the washes out photos. .
 .
 .
 .
-. @thirstypig @yalin_wu
+.

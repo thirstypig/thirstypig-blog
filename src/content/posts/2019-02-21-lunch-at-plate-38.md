@@ -27,18 +27,6 @@ cuisine:
 placeId: "0x80c2dca868980241:0xec7201a6b3782474"
 ---
 
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17943715648260730.jpg)
-
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/18036862582021426.jpg)
-
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17904502801294552.jpg)
-
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17961083080237534.jpg)
-
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17918585749281446.jpg)
-
-![Lunch at Plate 38](/images/posts/ig-2019-02-21-lunch-at-plate-38/17847419869369189.jpg)
-
 Lunch at Plate 38. Pretty decent burger. Unexpectedly good experience .
 .
-. @yalin_wu
+.

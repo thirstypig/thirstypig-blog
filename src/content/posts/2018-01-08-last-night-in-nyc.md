@@ -34,20 +34,4 @@ cuisine:
 placeId: "0x89c2f51fa85b1365:0xc314371698b1eed0"
 ---
 
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17889966739165003.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17917857412019621.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17905017940115168.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17900013835094145.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17890659202150548.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17889454423163039.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17918473951016629.jpg)
-
-![Last night in NYC](/images/posts/ig-2018-01-08-last-night-in-nyc/17905204441111088.jpg)
-
-Last night in NYC. @lecoucou_nyc had the chicken & foie gras, lamb chop, and lobster @yalin_wu @gogomeow
+Last night in NYC. @lecoucou_nyc had the chicken & foie gras, lamb chop, and lobster

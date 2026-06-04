@@ -35,26 +35,7 @@ cuisine:
 placeId: "0x3442a909190baa19:0xe00f3480c3b7e765"
 ---
 
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18087407305434359.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18004962653259504.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/17986861217649300.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18024012724897532.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18029151040992604.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18010286609160618.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18007614185432705.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18073035460492655.jpg)
-
-![Ying Yang hot pot](/images/posts/ig-2024-04-29-ying-yang-hot-pot/18053477785612038.jpg)
-
 Ying Yang hot pot. Neighborhood/mom&pop hot pot place. This where locals in the neighborhood get their hot pot fix. 
 .
 .
 .
-@mermaid_rex @tastemakersapp #tastemakers

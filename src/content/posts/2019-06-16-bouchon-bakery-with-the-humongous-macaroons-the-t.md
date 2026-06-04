@@ -27,20 +27,7 @@ cuisine:
 placeId: "0x80845543e475ae6f:0x108c36ec029f598"
 ---
 
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17861231473427225.jpg)
-
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/18075116521004940.jpg)
-
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/18075957193060534.jpg)
-
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/18049319119087828.jpg)
-
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/18009166198215444.jpg)
-
-![Bouchon Bakery with the humongous macaroons, the T](/images/posts/ig-2019-06-16-bouchon-bakery-with-the-humongous-macaroons-the-t/17952487903287034.jpg)
-
 Bouchon Bakery with the humongous macaroons, the T.K.O. the Thomas Keller Oreo, brownie, and croissant. Yum
 .
 .
 .
-#yountville @bouchon_bakery #croissant🥐 #tko @mr_sammylo @denise_genovese @yalin_wu #macaroon

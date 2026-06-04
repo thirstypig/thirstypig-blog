@@ -30,18 +30,9 @@ cuisine:
 placeId: "0x80c2c64a3df73d39:0x55acd712d3a6fe7"
 ---
 
-![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/17966643910672514.jpg)
-
-![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/18237285613141733.jpg)
-
-![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/17955972190884112.jpg)
-
-![An Austin Original - Torchy’s Tacos](/images/posts/ig-2022-06-28-an-austin-original-torchys-tacos/17935037585198579.jpg)
-
 An Austin Original - Torchy’s Tacos. Breakfast Tacos! The South Congress location is a cool spot on the iconic street. I had the Miya’s (V), the Wrangler (with smoked beef brisket), and the #4 with jalapeño cheddar sausage, egg & cheese. And of course, for breakfast, chips and green chili queso. Queso in Austin has not been copied well in Los Angeles. I fully recommend Torchy’s.
 .
 .
 .
 .
 .
-@torchystaco @torchystacos @gaherself @christophaahhh

@@ -27,16 +27,6 @@ cuisine:
 placeId: "0x80c2b88b83095767:0x29f24bec908bdbe1"
 ---
 
-![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17864235973344775.jpg)
-
-![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/18020281306093158.jpg)
-
-![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/18046565806063370.jpg)
-
-![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17859891391358687.jpg)
-
-![Hunan cuisine at Hunan Mao Restaurant](/images/posts/ig-2019-03-15-hunan-cuisine-at-hunan-mao-restaurant/17935226233277092.jpg)
-
 Hunan cuisine at Hunan Mao Restaurant. My favorite Hunan Restaurant in LA. Preserved pork, eggplant and green beans, pork belly, steamed spare rib with steamed cake
 .
 .

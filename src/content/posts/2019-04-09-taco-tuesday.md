@@ -24,9 +24,4 @@ cuisine:
 placeId: "0x80c2dc7c7c245dbf:0x5b5d6e041029f0c0"
 ---
 
-![Taco Tuesday](/images/posts/ig-2019-04-09-taco-tuesday/17872360099346334.jpg)
-
-![Taco Tuesday](/images/posts/ig-2019-04-09-taco-tuesday/18053410984063060.jpg)
-
 Taco Tuesday! At Sierra Madre’s Tacos Ensenada. Our regular Tuesday routine with AMC $5 Tuesday’s. .
-#tacotuesday #fishtacos @tacosensenadaca @amctheatres #5dollartueadays

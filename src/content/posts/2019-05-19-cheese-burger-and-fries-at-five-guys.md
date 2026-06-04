@@ -28,12 +28,7 @@ cuisine:
 placeId: "0x89c259a30003b3d5:0x297eb90e9286edaa"
 ---
 
-![Cheese Burger and Fries at Five Guys](/images/posts/ig-2019-05-19-cheese-burger-and-fries-at-five-guys/17875650913367958.jpg)
-
-![Cheese Burger and Fries at Five Guys](/images/posts/ig-2019-05-19-cheese-burger-and-fries-at-five-guys/18049354573107558.jpg)
-
 Cheese Burger and Fries at Five Guys.
 .
 .
 .
-#eeeeeats #fiveguys @fiveguys @yalin_wu

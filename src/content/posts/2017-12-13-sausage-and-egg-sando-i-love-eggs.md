@@ -28,8 +28,4 @@ cuisine:
 placeId: "0x80c2c64b8f5b0eb9:0x846e0084319313f3"
 ---
 
-![Sausage and egg sando I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17885522434153598.jpg)
-
-![Sausage and egg sando I love eggs](/images/posts/ig-2017-12-13-sausage-and-egg-sando-i-love-eggs/17886580960187595.jpg)
-
-Sausage and egg sando @eggslut I love eggs. I could eat this every day. If I lived closer, I just might. #eggs #eggslut #dtla @bckc38
+Sausage and egg sando @eggslut I love eggs. I could eat this every day. If I lived closer, I just might.

@@ -29,15 +29,6 @@ cuisine:
 - Italian
 ---
 
-![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/17963538715271085.jpg)
-
-![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/18040082599082139.jpg)
-
-![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/17848689520439040.jpg)
-
-![Old School Italian tonight with old friends](/images/posts/ig-2019-05-14-old-school-italian-tonight-with-old-friends/17963415331268369.jpg)
-
 Old School Italian tonight with old friends. Linguine and clams in red sauce and linguine with shrimp in pesto sauce. We started with the classic fried calamari and finished with a slice of tiramisu. .
 .
 .
-@forlinis.restaurant #nyc #eeeeeats @cutekatcat @yalin_wu

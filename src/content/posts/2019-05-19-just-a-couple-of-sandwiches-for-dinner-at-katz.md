@@ -27,19 +27,8 @@ cuisine:
 placeId: "0x89c2598f7ff4aa09:0x313547e757cb8cea"
 ---
 
-![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17963389465263388.jpg)
-
-![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/18041206684085690.jpg)
-
-![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/18040869304082683.jpg)
-
-![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17859149230407345.jpg)
-
-![Just a couple of sandwiches for dinner at Katz](/images/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/17971146295260025.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/18044981230126403.mp4" type="video/mp4"></video>
-
 Just a couple of sandwiches for dinner at Katz. A Rueben and a Pastrami. .
 .
 .
-#eeeeeats #eat #nyc @katzsdeli @yalin_wu
+
+<video controls width="100%"><source src="/videos/posts/ig-2019-05-19-just-a-couple-of-sandwiches-for-dinner-at-katz/18044981230126403.mp4" type="video/mp4"></video>

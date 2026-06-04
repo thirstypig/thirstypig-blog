@@ -24,8 +24,4 @@ cuisine:
 placeId: "0x80c2dbbd15522cf3:0x54149437d378d7f5"
 ---
 
-![Roast chicken might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17856619597206857.jpg)
-
-![Roast chicken might be the best crispy chicken skin](/images/posts/ig-2017-12-19-roast-chicken-might-be-the-best-crispy-chicken-skin/17890337479138908.jpg)
-
 Roast chicken @sidechickla might be the best crispy chicken skin.

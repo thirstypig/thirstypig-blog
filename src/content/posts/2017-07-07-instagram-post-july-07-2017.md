@@ -25,10 +25,4 @@ cuisine:
 placeId: "0x8620a611407488b7:0x7b8430803c35c163"
 ---
 
-![Instagram Post — July 07, 2017](/images/posts/ig-2017-07-07-instagram-post-july-07-2017/17875566577119296.jpg)
-
-![Instagram Post — July 07, 2017](/images/posts/ig-2017-07-07-instagram-post-july-07-2017/17861558446172111.jpg)
-
-![Instagram Post — July 07, 2017](/images/posts/ig-2017-07-07-instagram-post-july-07-2017/17874619927120905.jpg)
-
-Dr. Gumbo food tour @drgumbo #cracklin #boudin #beignets @doctorgumbo
+Dr. Gumbo food tour

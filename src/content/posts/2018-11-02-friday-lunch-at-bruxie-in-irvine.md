@@ -29,17 +29,8 @@ cuisine:
 - Fusion
 ---
 
-![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17979735007115477.jpg)
-
-![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17968287289130825.jpg)
-
-![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17917323655244481.jpg)
-
-![Friday Lunch at Bruxie in Irvine](/images/posts/ig-2018-11-02-friday-lunch-at-bruxie-in-irvine/17934898546207652.jpg)
-
 Friday Lunch at Bruxie in Irvine. OMG. Didn’t know half a sandwich was so filling. Had the Irish nachos! .
 .
 .
 .
 .
-@bruxiewafflesla @bruxiewaffles #thirstypig @thirstypig

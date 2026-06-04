@@ -27,17 +27,6 @@ cuisine:
 placeId: "0x80c2dabc201d0c8b:0x59ac0ccdd539c95d"
 ---
 
-![Hunan Chili King - one of better Hunan Restaurants in the SGV](/images/posts/ig-2019-01-07-hunan-chili-king-one-of-better-hunan-restaurants-in-the-sgv/18003702640107892.jpg)
-
-![Hunan Chili King - one of better Hunan Restaurants in the SGV](/images/posts/ig-2019-01-07-hunan-chili-king-one-of-better-hunan-restaurants-in-the-sgv/17982496942170429.jpg)
-
-![Hunan Chili King - one of better Hunan Restaurants in the SGV](/images/posts/ig-2019-01-07-hunan-chili-king-one-of-better-hunan-restaurants-in-the-sgv/17941362502246686.jpg)
-
-![Hunan Chili King - one of better Hunan Restaurants in the SGV](/images/posts/ig-2019-01-07-hunan-chili-king-one-of-better-hunan-restaurants-in-the-sgv/17920725490265193.jpg)
-
-![Hunan Chili King - one of better Hunan Restaurants in the SGV](/images/posts/ig-2019-01-07-hunan-chili-king-one-of-better-hunan-restaurants-in-the-sgv/17888839498289939.jpg)
-
 Hunan Chili King - one of better Hunan Restaurants in the SGV. Pork Belly and Taro, Spicy Chicken Feet, Preserved Pork and Tofu, Fish and Tofu Soup, and Stir Fried Spicy Intestine. The soup was very good, especially for a cold rainy night. .
 .
 .
-#eeeeeats #porkbelly @hunanchiliking #hunanchiliking #spicy #authentic #thirstypig @yalin_wu @jcllee #sgv #fishsoup #chickenfeet

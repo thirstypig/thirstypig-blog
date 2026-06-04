@@ -20,14 +20,9 @@ cuisine:
 - Filipino
 ---
 
-![Taro drink and popcorn chicken](/images/posts/ig-2021-10-04-taro-drink-and-popcorn-chicken/17922266512819162.jpg)
-
-![Taro drink and popcorn chicken](/images/posts/ig-2021-10-04-taro-drink-and-popcorn-chicken/17852175668644945.jpg)
-
 Taro drink and popcorn chicken. Way too spicy for me
 .
 .
 .
 .
 .
-@fikafikacoffee

@@ -26,14 +26,4 @@ description: Basqueria in Malibu. The famed sandwich shop at Surf Canyon. Today�
 placeId: "0x80e81f7849392da9:0xa354a83fdb901c2c"
 ---
 
-![Basqueria in Malibu](/images/posts/ig-2026-05-23-basqueria-in-malibu/17937721206232191.jpg)
-
-![Basqueria in Malibu](/images/posts/ig-2026-05-23-basqueria-in-malibu/18103986536000381.jpg)
-
-![Basqueria in Malibu](/images/posts/ig-2026-05-23-basqueria-in-malibu/18078122078354518.jpg)
-
-![Basqueria in Malibu](/images/posts/ig-2026-05-23-basqueria-in-malibu/18105524362752814.jpg)
-
-![Basqueria in Malibu](/images/posts/ig-2026-05-23-basqueria-in-malibu/18103782832804055.jpg)
-
-Basqueria in Malibu. The famed sandwich shop at Surf Canyon.  Today’s sandwich was a chicken with nice crusty bread.  Sebastian said he made about 90 sandwiches and he was sold out in about 25 minutes. Crazy.  Nice selection of tinned seafood. Picked up some Spanish scallops.  @basqueria #basque #sandwich #malibu @surfcanyonmalibu
+Basqueria in Malibu. The famed sandwich shop at Surf Canyon.  Today’s sandwich was a chicken with nice crusty bread.  Sebastian said he made about 90 sandwiches and he was sold out in about 25 minutes. Crazy.  Nice selection of tinned seafood. Picked up some Spanish scallops.

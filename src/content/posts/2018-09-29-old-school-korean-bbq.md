@@ -30,15 +30,7 @@ cuisine:
 placeId: "0x80c2b8817bd39a39:0xbfe4f8b2f5877d94"
 ---
 
-![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17876924110276574.jpg)
-
-![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17985808012025457.jpg)
-
-![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17983869865019759.jpg)
-
-![Old school Korean BBQ](/images/posts/ig-2018-09-29-old-school-korean-bbq/17956923388188806.jpg)
-
 Old school Korean BBQ. Haven’t been here in ages - over 25 years. Had the premium rib and the Yu Ki Jang. .
 .
 .
-. @thirstypig #beefrib
+.

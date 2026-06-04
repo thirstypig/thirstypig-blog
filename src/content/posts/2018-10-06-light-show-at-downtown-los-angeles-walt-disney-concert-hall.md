@@ -22,13 +22,9 @@ cuisine: []
 placeId: "0x80c2c64d9fbb11d3:0xb3728c2c3bff31b0"
 ---
 
-![Light show at downtown Los Angeles Walt Disney Concert Hall](/images/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17971365199116446.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17923451935218264.mp4" type="video/mp4"></video>
-
-<video controls width="100%"><source src="/videos/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17986437949024313.mp4" type="video/mp4"></video>
-
 Light show at downtown Los Angeles Walt Disney Concert Hall. Last night tonight. .
 .
 .
-#waltdisneyconcerthall @waltdisneyconcerthall #lightshow #weekend
+
+<video controls width="100%"><source src="/videos/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17923451935218264.mp4" type="video/mp4"></video>
+<video controls width="100%"><source src="/videos/posts/ig-2018-10-06-light-show-at-downtown-los-angeles-walt-disney-concert-hall/17986437949024313.mp4" type="video/mp4"></video>

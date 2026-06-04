@@ -35,24 +35,6 @@ cuisine:
 placeId: "0x80c2c62f7b047c81:0x65fba4816d4a10de"
 ---
 
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17937880822302179.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17844365458419896.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/18039719737128714.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17887190875315982.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/18054732292005732.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/18022449019152434.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/18039484741103043.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17975095348246309.jpg)
-
-![Great Sunday with the family pigging our at LA’s Smorgasburg](/images/posts/ig-2019-04-15-great-sunday-with-the-family-pigging-our-at-las-smorgasburg/17872064959351017.jpg)
-
 Great Sunday with the family pigging our at LA’s Smorgasburg. We had Beef Rib BBQ at Moo’s, garlic fried yucca from Sus Arepas, began ice cream sandwich from Madame Shugah, vegan Mac and Cheese from Avocado Mama, Fries from Super Frites, oysters from the Jolly Oyster, Spam Musubi from Mam Musubi. And also saw Brazilian brigadiero from Maya’s Yum! 📸: @nerdspeed
 .
-@smorgasburgla @mamamusubi @mooscraftbarbecue @jollyoyster @superfritesla @madameshugah @susarepas @avocadamama @mayasbrigadeiro @fwidjaya @tran_nic @peterchang08 @nerdspeed #tobin #jarren missing @yalin_wu
+@smorgasburgla @mamamusubi @mooscraftbarbecue @jollyoyster @superfritesla @madameshugah @susarepas @avocadamama @mayasbrigadeiro @fwidjaya @tran_nic @peterchang08 @nerdspeed #tobin #jarren missing

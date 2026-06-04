@@ -30,16 +30,7 @@ draft: false
 placeId: "0x80c2c65adf56b007:0x3029097586d1a8f8"
 ---
 
-![Nee Orleans/Creole cuisine in LA](/images/posts/ig-2021-06-23-nee-orleanscreole-cuisine-in-la/18234708661062362.jpg)
-
-![Nee Orleans/Creole cuisine in LA](/images/posts/ig-2021-06-23-nee-orleanscreole-cuisine-in-la/17889938030211458.jpg)
-
-![Nee Orleans/Creole cuisine in LA](/images/posts/ig-2021-06-23-nee-orleanscreole-cuisine-in-la/17882187599288684.jpg)
-
-![Nee Orleans/Creole cuisine in LA](/images/posts/ig-2021-06-23-nee-orleanscreole-cuisine-in-la/17922090346671191.jpg)
-
 Nee Orleans/Creole cuisine in LA. Had the shrimp Po’boy, Jambalaya, hush puppies, and crayfish empanadas. I even bought a two pack of their frozen house made boudin. In the US, there are only a couple of true unique and distinctive cuisines, one being Cajun/Creole and the other being Hawaiian.
-
 I only wish Little Jewel had Cracklin.
 .
 .
@@ -47,4 +38,3 @@ I only wish Little Jewel had Cracklin.
 .
 .
 .
-@littlejewel\_la

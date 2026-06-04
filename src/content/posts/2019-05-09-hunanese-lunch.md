@@ -25,13 +25,7 @@ cuisine:
 placeId: "0x80c2dabc201d0c8b:0x59ac0ccdd539c95d"
 ---
 
-![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/18064523041049308.jpg)
-
-![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/17987947891224111.jpg)
-
-![Hunanese lunch](/images/posts/ig-2019-05-09-hunanese-lunch/18064728019019401.jpg)
-
 Hunanese lunch. Spicy chicken feet and pig ear with tofu, spicy Pig stomach, and spicy sliced potatoes. Wife loves this stuff. Dong Ting Chun 洞庭春 .
 .
 .
-. @yalin_wu #chickenfeet #pigstomach
+.

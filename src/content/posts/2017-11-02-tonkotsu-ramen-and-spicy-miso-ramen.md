@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x80c2dad467747067:0x3b197541d80b539c"
 ---
 
-![Tonkotsu Ramen and Spicy Miso Ramen](/images/posts/ig-2017-11-02-tonkotsu-ramen-and-spicy-miso-ramen/17865663568194419.jpg)
-
-![Tonkotsu Ramen and Spicy Miso Ramen](/images/posts/ig-2017-11-02-tonkotsu-ramen-and-spicy-miso-ramen/17905683475038708.jpg)
-
-![Tonkotsu Ramen and Spicy Miso Ramen](/images/posts/ig-2017-11-02-tonkotsu-ramen-and-spicy-miso-ramen/17881431472144390.jpg)
-
-![Tonkotsu Ramen and Spicy Miso Ramen](/images/posts/ig-2017-11-02-tonkotsu-ramen-and-spicy-miso-ramen/17898185032072016.jpg)
-
 Tonkotsu Ramen and Spicy Miso Ramen. Broth was good noodles were better. But the portions could have been slightly bigger. But I was full after @benten_ramen_sangabriel #ramen #sgv @thirstypig @yalin_wu @michifu1222 🐷#gododgers

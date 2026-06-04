@@ -24,10 +24,6 @@ cuisine:
 placeId: "0x80c2dab71da0fc6f:0x2507989bb246fa06"
 ---
 
-![Cold and hot desserts at Blackball Desserts](/images/posts/ig-2019-03-15-cold-and-hot-desserts-at-blackball-desserts/18045734860005778.jpg)
-
-![Cold and hot desserts at Blackball Desserts](/images/posts/ig-2019-03-15-cold-and-hot-desserts-at-blackball-desserts/18019730131082290.jpg)
-
 Cold and hot desserts at Blackball Desserts. But quite pricey. $7+ for that cup of ice with only two peanut rice balls. And $7+ for the hot desserts .
 .
 .

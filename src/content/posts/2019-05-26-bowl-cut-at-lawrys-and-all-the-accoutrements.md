@@ -34,25 +34,8 @@ cuisine:
 placeId: "0x80c2bbf91db6edcf:0xdbae3f14ee862ac7"
 ---
 
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18039157528134134.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18052307572100720.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17973732328256913.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18070670863054929.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17966484130263522.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17857485958411918.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/18032391151160760.jpg)
-
-![Bowl Cut at Lawry’s and all the accoutrements](/images/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17991903283237730.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17992572655226919.mp4" type="video/mp4"></video>
-
 Bowl Cut at Lawry’s and all the accoutrements. .
 .
 .
-#eat #eeeeeats @lawrystheprimerib
+
+<video controls width="100%"><source src="/videos/posts/ig-2019-05-26-bowl-cut-at-lawrys-and-all-the-accoutrements/17992572655226919.mp4" type="video/mp4"></video>

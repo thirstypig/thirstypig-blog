@@ -26,18 +26,9 @@ cuisine:
 placeId: "0x80c2c3620c7f0ff9:0xc23a1294a28fa4d4"
 ---
 
-![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17908499326747509.jpg)
-
-![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17901755359948648.jpg)
-
-![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/17906159665887105.jpg)
-
-![Outdoor dining at Gozen Shun](/images/posts/ig-2021-05-16-outdoor-dining-at-gozen-shun/18226549372014396.jpg)
-
 Outdoor dining at Gozen Shun. Simple Japanese lunch in Pasadena. Tonkatsu and miso Black Cod, with tempura and karage. 
 .
 .
 .
 .
 .
-@gozenshun

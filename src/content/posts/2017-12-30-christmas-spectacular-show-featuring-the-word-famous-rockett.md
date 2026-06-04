@@ -26,18 +26,8 @@ cuisine: []
 placeId: "0x89c258f8d61b2f3d:0x92c4e681d9aada95"
 ---
 
-![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17898765742087459.jpg)
-
-![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17887591723160251.jpg)
-
-![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17887382356161127.jpg)
-
-![Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio C...](/images/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17842475131238768.jpg)
+Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall. Great show of song and dance.
 
 <video controls width="100%"><source src="/videos/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17891889052137196.mp4" type="video/mp4"></video>
-
 <video controls width="100%"><source src="/videos/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17915239774028020.mp4" type="video/mp4"></video>
-
 <video controls width="100%"><source src="/videos/posts/ig-2017-12-30-christmas-spectacular-show-featuring-the-word-famous-rockett/17889267187178841.mp4" type="video/mp4"></video>
-
-Christmas Spectacular Show featuring the Word Famous Rockettes at the Radio City Music Hall. Great show of song and dance. @the.rockettes.official @radiocitymusichall #rockettes #christmas #nyc #dance

@@ -26,17 +26,8 @@ cuisine:
 placeId: "0x80c2c647d2e7919b:0x37c2d4d0488a1c53"
 ---
 
-![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17920202935815847.jpg)
-
-![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17911526555045189.jpg)
-
-![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/18131593231238372.jpg)
-
-![Breakfast at JiST cafe](/images/posts/ig-2021-09-17-breakfast-at-jist-cafe/17947766053549232.jpg)
-
 Breakfast at JiST cafe. 
 .
 .
 .
 .
-@jistcafe

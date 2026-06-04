@@ -29,18 +29,4 @@ cuisine:
 placeId: "0x8620a66e11c039bd:0x20474894d0e80ea8"
 ---
 
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862310810191444.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862833014158467.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17863284355146508.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17865074191136595.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17862598000177168.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17861638390188833.jpg)
-
-![we had fried green tomatoes, fried frog legs, popcorn crab](/images/posts/ig-2017-07-06-we-had-fried-green-tomatoes-fried-frog-legs-popcorn-crab/17861549866174639.jpg)
-
-#kpaul #neworleans we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a @abitabeer
+#kpaul #neworleans we had fried green tomatoes, fried frog legs, popcorn crab. Then we had blackened drum and blackened pork chop. To finish off with a

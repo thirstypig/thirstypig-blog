@@ -28,10 +28,4 @@ cuisine:
 placeId: "0x80c2c6385b5e8591:0xd04b92bffebdfbd3"
 ---
 
-![French cafe with great sandwiches](/images/posts/ig-2018-02-03-french-cafe-with-great-sandwiches/17893350901163496.jpg)
-
-![French cafe with great sandwiches](/images/posts/ig-2018-02-03-french-cafe-with-great-sandwiches/17906902450121408.jpg)
-
-![French cafe with great sandwiches](/images/posts/ig-2018-02-03-french-cafe-with-great-sandwiches/17895249574183031.jpg)
-
-French cafe with great sandwiches @pitchounbakery #dtla #tunasandwich #frenchbakery
+French cafe with great sandwiches

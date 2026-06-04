@@ -27,21 +27,8 @@ cuisine:
 placeId: "0x80c2db2cb973a7bf:0x1dbbc3aa2949873f"
 ---
 
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17873914883576045.jpg)
-
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/18199924957114798.jpg)
-
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17900173937179063.jpg)
-
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/18132450172220055.jpg)
-
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17898157928222525.jpg)
-
-![Bloody Mary and happy hour at The Dive](/images/posts/ig-2021-10-09-bloody-mary-and-happy-hour-at-the-dive/17894568143292875.jpg)
-
 Bloody Mary and happy hour at The Dive
 .
 .
 .
 .
-@thediveoysterbar

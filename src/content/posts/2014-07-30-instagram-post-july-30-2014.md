@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — July 30, 2014](/images/posts/ig-2014-07-30-instagram-post-july-30-2014/17842977529049948.jpg)

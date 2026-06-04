@@ -420,22 +420,20 @@ def write_instagram_post(post: dict) -> str:
     yaml_str = yaml.dump(frontmatter, default_flow_style=False,
                          allow_unicode=True, sort_keys=False, width=1000)
 
-    # Build body
+    # Build body: caption first (text-before-images for blog UX), then video
+    # tags (videos are not in frontmatter so must stay in prose). Images are
+    # intentionally omitted — BlogPost.astro renders them via heroImage +
+    # ImageGallery, so embedding them here would duplicate them in the layout.
     body_parts = []
 
-    # Images
-    for img in post.get('images', []):
-        body_parts.append(f'![{post["title"]}]({img})\n')
+    if post['caption']:
+        body_parts.append(post['caption'])
 
     # Videos
     for vid in post.get('videos', []):
         body_parts.append(f'<video controls width="100%"><source src="{vid}" type="video/mp4"></video>\n')
 
-    # Caption text
-    if post['caption']:
-        body_parts.append(post['caption'])
-
-    body = '\n'.join(body_parts)
+    body = '\n\n'.join(body_parts)
 
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write('---\n')

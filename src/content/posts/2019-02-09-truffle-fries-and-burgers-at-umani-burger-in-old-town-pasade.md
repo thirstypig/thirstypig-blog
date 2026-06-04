@@ -31,17 +31,7 @@ cuisine:
 placeId: "0x80c2c4a0981e6d97:0x73e8bbb76ac3daab"
 ---
 
-![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18032134717028066.jpg)
-
-![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/17993830567169139.jpg)
-
-![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18031458172049601.jpg)
-
-![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/17858367496327305.jpg)
-
-![Truffle Fries and burgers at Umani Burger in Old Town Pasadena](/images/posts/ig-2019-02-09-truffle-fries-and-burgers-at-umani-burger-in-old-town-pasade/18003792433131501.jpg)
-
 Truffle Fries and burgers at Umani Burger in Old Town Pasadena. We also tried the impossible vegan burger, which was pretty good. Yum!
 .
 .
-. @umamiburger #veganburger #fries #trufflefries
+.

@@ -27,8 +27,4 @@ cuisine:
 placeId: "0x80c2c64b8fb9bbd7:0xce059f113428209c"
 ---
 
-![Too much ice cream](/images/posts/ig-2018-01-15-too-much-ice-cream/17901290287092331.jpg)
-
-![Too much ice cream](/images/posts/ig-2018-01-15-too-much-ice-cream/17906648851100217.jpg)
-
-Too much ice cream. One of the most flavorful and tart strawberry ice cream!! @saltandstraw #littletokyo #artistdistrict #dtla @fongjf123 @yalin_wu #thirstypig
+Too much ice cream. One of the most flavorful and tart strawberry ice cream!!

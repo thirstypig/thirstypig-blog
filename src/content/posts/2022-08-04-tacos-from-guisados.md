@@ -30,18 +30,9 @@ cuisine:
 placeId: "0x80c2c6092c76af25:0xa94ff9fb60027ec0"
 ---
 
-![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17941084682237470.jpg)
-
-![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17986118764557237.jpg)
-
-![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17950133627084794.jpg)
-
-![Tacos from Guisados](/images/posts/ig-2022-08-04-tacos-from-guisados/17986924459557399.jpg)
-
 Tacos from Guisados. Fish tacos - grilled not fried. I love these tacos. Not a fan of fried fish tacos. Also got the 6 mini taco sampler for $8.50 - great deal. I forgot about this place. I think they are probably the best taco joint in DTLA, could go up against guerrilla tacos. 
 .
 .
 .
 .
 .
-@guisados

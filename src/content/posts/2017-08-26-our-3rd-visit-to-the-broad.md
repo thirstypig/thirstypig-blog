@@ -31,24 +31,4 @@ categories:
 cuisine: []
 ---
 
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17896304128000545.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17872513816134877.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17890339063070423.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17880135052085307.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17895308011028708.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17896040422018704.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17895918928046092.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17869376962166178.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17870182570192580.jpg)
-
-![Our 3rd visit to The Broad](/images/posts/ig-2017-08-26-our-3rd-visit-to-the-broad/17882017333120892.jpg)
-
-Our 3rd visit to The Broad. Nice little afternoon visit with a 40 minute wait. @thebroadmuseum #thebroad
+Our 3rd visit to The Broad. Nice little afternoon visit with a 40 minute wait.

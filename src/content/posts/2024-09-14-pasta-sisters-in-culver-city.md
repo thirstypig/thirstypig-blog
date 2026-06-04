@@ -28,14 +28,7 @@ cuisine:
 - Italian
 ---
 
-![Pasta Sisters in Culver City](/images/posts/ig-2024-09-14-pasta-sisters-in-culver-city/18033953075512945.jpg)
-
-![Pasta Sisters in Culver City](/images/posts/ig-2024-09-14-pasta-sisters-in-culver-city/18352976077184556.jpg)
-
-![Pasta Sisters in Culver City](/images/posts/ig-2024-09-14-pasta-sisters-in-culver-city/18459412219025729.jpg)
-
 Pasta Sisters in Culver City. Pappardelle with Pesto with Burrata Cheese. Arugula salad. And Pappardelle with a Ragu sauce. The pastas and sauces were all very good. Good chew on the pasta. The table bread was not toasted but had good olive oil and balsamic vinegar. Solid meal. I'd come back to try other things. 
 .
 .
 .
-@pasta_sisters

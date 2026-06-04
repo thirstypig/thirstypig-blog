@@ -28,10 +28,6 @@ draft: false
 placeId: "0x80c2dafb96d84627:0x3f4a076588e6dd6"
 ---
 
-![Lunch at Summer Rolls](/images/posts/ig-2021-02-06-lunch-at-summer-rolls/17859699104473002.jpg)
-
-![Lunch at Summer Rolls](/images/posts/ig-2021-02-06-lunch-at-summer-rolls/17907944926651593.jpg)
-
 Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh Beo steam rice cakes with shrimp powder. Outdoor seating with Yhe COVID pandemic. Light and healthy dish. But I guess the pork chop was a little heavy
 .
 .
@@ -40,4 +36,3 @@ Lunch at Summer Rolls. Charbroiled pork chop rice plate Com Suon Nuong. And Banh
 .
 .
 .
-@summer\_rolls\_restaurant

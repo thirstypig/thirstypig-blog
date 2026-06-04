@@ -35,24 +35,6 @@ draft: false
 placeId: "0x80dcdcd5862d7969:0x1aabeaea52fc0df5"
 ---
 
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17961381331653643.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/18010101148403769.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/18172975900204481.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17901523412577876.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17922157073339645.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17916654233401130.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17951845873828070.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17939715974058874.jpg)
-
-![Late night munchies in Alhambra](/images/posts/ig-2022-04-23-late-night-munchies-in-alhambra/17965698577626661.jpg)
-
 Late night munchies in Alhambra. Glad they’re open late. Also glad they have skewers and ramen.
 .
 .
@@ -60,4 +42,3 @@ Late night munchies in Alhambra. Glad they’re open late. Also glad they have s
 .
 .
 .
-@ssg.restaurant.gr

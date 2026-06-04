@@ -25,28 +25,9 @@ categories:
 cuisine: []
 ---
 
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17961173944980784.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17970519892824196.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17957676176171421.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17843871422894019.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17952383645251402.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17985600028657711.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17993640604588012.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17943123695433464.jpg)
-
-![Woodford Reserve Bourbon Distillery](/images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17986711732631028.jpg)
-
 Woodford Reserve Bourbon Distillery. Picturesque off a hill. The famed copper kettle distillery. Amazing place. 
 .
 .
 .
 .
 .
-@woodfordreserve @heykbing @thirstypig @tastemakersapp

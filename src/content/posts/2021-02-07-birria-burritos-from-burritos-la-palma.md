@@ -28,20 +28,6 @@ cuisine:
 placeId: "0x80c2c9b5ceb50a99:0xd258d7e23ff91f9b"
 ---
 
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17904603691723444.jpg)
-
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/18190589125010504.jpg)
-
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17922821842524398.jpg)
-
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17887877341971316.jpg)
-
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17929571014491065.jpg)
-
-![Birria Burritos from Burritos La Palma](/images/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17924902558511081.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17905178119690221.mp4" type="video/mp4"></video>
-
 Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty!
 .
 .
@@ -50,4 +36,5 @@ Birria Burritos from Burritos La Palma. Simple and little birria burritos. Tasty
 .
 .
 .
-@burritoslapalma
+
+<video controls width="100%"><source src="/videos/posts/ig-2021-02-07-birria-burritos-from-burritos-la-palma/17905178119690221.mp4" type="video/mp4"></video>

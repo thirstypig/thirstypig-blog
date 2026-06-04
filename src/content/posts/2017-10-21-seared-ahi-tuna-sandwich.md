@@ -28,16 +28,4 @@ cuisine:
 placeId: "0x80c2db2a0421cc0f:0x9220aa124e915c64"
 ---
 
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17848873897206995.jpg)
-
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17879460979150591.jpg)
-
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17864277646195276.jpg)
-
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17845206787221429.jpg)
-
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17887521574089438.jpg)
-
-![Seared ahi tuna sandwich](/images/posts/ig-2017-10-21-seared-ahi-tuna-sandwich/17877068569167717.jpg)
-
-Seared ahi tuna sandwich! @sanmarinoseafood I thought this place was a bit pricey. I liked the sandwich. But wish I wish the ahi tuna was a tad thicker. #sgv
+Seared ahi tuna sandwich! @sanmarinoseafood I thought this place was a bit pricey. I liked the sandwich. But wish I wish the ahi tuna was a tad thicker.

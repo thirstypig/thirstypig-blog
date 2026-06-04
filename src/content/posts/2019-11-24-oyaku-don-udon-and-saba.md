@@ -29,16 +29,9 @@ cuisine:
 placeId: "0x80c2c3ffca83b651:0x8226f1237187728f"
 ---
 
-![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/17886257527446610.jpg)
-
-![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/18045666271205189.jpg)
-
-![Oyaku Don, Udon, and Saba](/images/posts/ig-2019-11-24-oyaku-don-udon-and-saba/17886037276443455.jpg)
-
 Oyaku Don, Udon, and Saba. Suehiro is Little Tokyo’s Japanese Denny’s. Love this place. Can always good Japanese comfort dishes. They good rice dishes, ramen, and other dishes. Open Late. But parking sucks - only paid lots and barely any street parking available. .
 .
 .
 .
 .
 .
-@suehirocafe #littletokyo #oyakodon #udon #rice @uscott @yujiogasa @the_real_kesak @judy_powerprincess @paulitas_world

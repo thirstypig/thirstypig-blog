@@ -18,8 +18,4 @@ categories:
 cuisine: []
 ---
 
-![Taiwanese ice dessert](/images/posts/ig-2017-08-05-taiwanese-ice-dessert/17887003846066741.jpg)
-
-![Taiwanese ice dessert](/images/posts/ig-2017-08-05-taiwanese-ice-dessert/17883415594077126.jpg)
-
-Taiwanese ice dessert #Spiceology
+Taiwanese ice dessert

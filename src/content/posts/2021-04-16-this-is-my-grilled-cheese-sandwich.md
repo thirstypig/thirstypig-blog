@@ -19,14 +19,6 @@ categories:
 cuisine: []
 ---
 
-![This is my Grilled Cheese Sandwich](/images/posts/ig-2021-04-16-this-is-my-grilled-cheese-sandwich/18165930436143723.jpg)
-
-![This is my Grilled Cheese Sandwich](/images/posts/ig-2021-04-16-this-is-my-grilled-cheese-sandwich/17903065450882826.jpg)
-
-![This is my Grilled Cheese Sandwich](/images/posts/ig-2021-04-16-this-is-my-grilled-cheese-sandwich/18070711567275720.jpg)
-
-![This is my Grilled Cheese Sandwich](/images/posts/ig-2021-04-16-this-is-my-grilled-cheese-sandwich/17887763258125248.jpg)
-
 This is my Grilled Cheese Sandwich. I’m entering in @traderjoes The Great Grilled Cheese Contest. This is a simple recipe with sliced cheese the hardest part is the patience. You don’t want high heat burning your bread. #tjsgrilledcheesecontest 
 .
 .
@@ -48,4 +40,4 @@ Ingredients are. . .
 .
 .
 .
-. @traderjoes #traderjoes #specialthanksgoesto @paulitas_world
+.

@@ -18,16 +18,6 @@ categories:
 cuisine: []
 ---
 
-![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17936385863323997.jpg)
-
-![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/18016293289410444.jpg)
-
-![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17950713856875496.jpg)
-
-![First Walmart, now is the Walmart Museum](/images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17928826148242503.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17976568357542471.mp4" type="video/mp4"></video>
-
 First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton
 .
 .
@@ -35,4 +25,5 @@ First Walmart, now is the Walmart Museum. Interesting to see the history behind 
 .
 .
 .
-@walmart #walmartmuseum #bentonville #arkansas #roadtrip
+
+<video controls width="100%"><source src="/videos/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17976568357542471.mp4" type="video/mp4"></video>

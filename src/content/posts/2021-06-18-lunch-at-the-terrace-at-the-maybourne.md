@@ -30,18 +30,9 @@ cuisine:
 placeId: "0x80c2bb5b0e9d96b9:0x8c8ef0ee71eb6cd5"
 ---
 
-![Lunch at the Terrace at the Maybourne](/images/posts/ig-2021-06-18-lunch-at-the-terrace-at-the-maybourne/18114903310242516.jpg)
-
-![Lunch at the Terrace at the Maybourne](/images/posts/ig-2021-06-18-lunch-at-the-terrace-at-the-maybourne/17915937907753237.jpg)
-
-![Lunch at the Terrace at the Maybourne](/images/posts/ig-2021-06-18-lunch-at-the-terrace-at-the-maybourne/17890042583212767.jpg)
-
-![Lunch at the Terrace at the Maybourne](/images/posts/ig-2021-06-18-lunch-at-the-terrace-at-the-maybourne/17884723565227330.jpg)
-
 Lunch at the Terrace at the Maybourne. Had to have my spicy Bloody Mary. Almost too spicy. We should a rotisserie chicken salad, and handmade corn agnolotti, and pan seared red snapper. Great views and service. 
 .
 .
 .
 .
 .
-@themaybournebh @dhuang25 @travistu110968 @travisytu #thirstypig

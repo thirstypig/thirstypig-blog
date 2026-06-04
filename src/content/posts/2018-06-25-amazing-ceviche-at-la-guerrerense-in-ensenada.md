@@ -25,16 +25,10 @@ cuisine:
 placeId: "0x80c2c76bf355aeaf:0xff88938069016fa6"
 ---
 
-![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17921637742175976.jpg)
-
-![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17894019085213084.jpg)
-
-![Amazing ceviche at La Guerrerense in Ensenada](/images/posts/ig-2018-06-25-amazing-ceviche-at-la-guerrerense-in-ensenada/17865501994249614.jpg)
-
 Amazing ceviche at La Guerrerense in Ensenada. We had sea urchin, octopus, and fish ceviche. Then had crab salad and the shrimp special with avocado. Yummy. Unlike anything I ever had!
 .
 .
 .
 .
 .
-. @sochon881 @bettywyy @gammagod @yalin_wu @thirstypig
+.

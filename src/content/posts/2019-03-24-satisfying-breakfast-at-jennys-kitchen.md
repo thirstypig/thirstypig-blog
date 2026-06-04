@@ -27,14 +27,4 @@ cuisine:
 placeId: "0x80c2d359c0ed5177:0x19a0365a2eba6dd1"
 ---
 
-![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18048457702001458.jpg)
-
-![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/17986392238201832.jpg)
-
-![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/17868550345344182.jpg)
-
-![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/17848197556380549.jpg)
-
-![Satisfying breakfast at Jenny’s Kitchen](/images/posts/ig-2019-03-24-satisfying-breakfast-at-jennys-kitchen/18050378065053616.jpg)
-
-Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped with the classic photos. @jennyswhittier
+Satisfying breakfast at Jenny’s Kitchen. Chilaquiles with a couple of over easy eggs and pork chili verde. With potatoes. Buddy had the same thing. Cool little place that looks like time has stopped with the classic photos.

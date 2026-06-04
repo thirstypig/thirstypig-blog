@@ -28,12 +28,7 @@ cuisine:
 placeId: "0x80d892612a230b8d:0xa52ae5ac0595ea4e"
 ---
 
-![Margaritas at Hussongs](/images/posts/ig-2018-06-26-margaritas-at-hussongs/17954745178022702.jpg)
-
-![Margaritas at Hussongs](/images/posts/ig-2018-06-26-margaritas-at-hussongs/17935359658092652.jpg)
-
 Margaritas at Hussongs. Where the margarita was created. And the oldest and best known cantina. One of the best tasting margaritas, if not the best. And the best deal. For 70 pesos each or $3.50 each. Also had a funny USC sticker. .
 .
 .
 .
-@drinkhussongs @thirstypig @yalin_wu

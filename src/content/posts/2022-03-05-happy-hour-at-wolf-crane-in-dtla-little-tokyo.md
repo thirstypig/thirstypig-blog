@@ -28,16 +28,9 @@ cuisine:
 placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
-![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17937014233943319.jpg)
-
-![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17871106313627617.jpg)
-
-![Happy Hour at Wolf & Crane in DTLA Little Tokyo](/images/posts/ig-2022-03-05-happy-hour-at-wolf-crane-in-dtla-little-tokyo/17899709450480264.jpg)
-
 Happy Hour at Wolf & Crane in DTLA Little Tokyo. Cool spot that got crowded fast. Luckily we got there early to get a table.
 .
 .
 .
 .
 .
-@wolfandcranebar @pocketsmiles @mr\_ric365 #usc #akpsi

@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x89c259e61562f0a9:0x826e55a65b25ea65"
 ---
 
-![Yet another hot bowl of ramen noodle soup at in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17904406126129840.jpg)
-
-![Yet another hot bowl of ramen noodle soup at in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17917361095014603.jpg)
-
-![Yet another hot bowl of ramen noodle soup at in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17857040233218393.jpg)
-
-![Yet another hot bowl of ramen noodle soup at in Brooklyn](/images/posts/ig-2018-01-05-yet-another-hot-bowl-of-ramen-noodle-soup-at-in-brooklyn/17916342223019289.jpg)
-
 Yet another hot bowl of ramen noodle soup at @gansoramen in Brooklyn. Also had the boneless chicken, fried chicken wings, and a spinach salad. The boneless chicken was better than the chicken wings. The spinach salad was surprisingly good too. The noodles, the Ganso shoyu ramen, were ok, while the broth was much better.

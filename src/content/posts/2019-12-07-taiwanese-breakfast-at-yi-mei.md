@@ -26,16 +26,8 @@ cuisine:
 placeId: "0x80c2dbd62d1f9945:0x3ae0692b3a26b3b8"
 ---
 
-![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18096871207129836.jpg)
-
-![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/17874243262502455.jpg)
-
-![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/18118465162048738.jpg)
-
-![Taiwanese breakfast at Yi Mei](/images/posts/ig-2019-12-07-taiwanese-breakfast-at-yi-mei/17847144214768317.jpg)
-
 Taiwanese breakfast at Yi Mei. Rice Ball 飯糰 with an egg. Had the egg pancake 蛋皮 and fried dumplings. Yi Mei is one of the better Taiwanese breakfast restaurants. .
 .
 .
 .
-. @yalin_wu #egg #sgv #arcadia #monrovia
+.

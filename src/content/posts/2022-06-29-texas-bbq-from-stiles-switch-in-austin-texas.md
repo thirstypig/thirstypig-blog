@@ -33,22 +33,6 @@ cuisine:
 placeId: "0x8644ca48760d6971:0xa5521d488ea5860d"
 ---
 
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17946953639043815.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/18301327525011955.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/18306695038020816.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17940290942164469.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17950190320874802.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17978295079575868.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17851940324768455.jpg)
-
-![Texas BBQ from Stiles Switch in Austin Texas](/images/posts/ig-2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/17967455014671198.jpg)
-
 Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, pork ribs, sausage, Mac and cheese, and cole slaw. Yummy. When I lived in Austin, Stiles Switch was one of my favorites. They were ranked as one of the top 50 bbq joints in Texas. Fun weekend with some friends. 
 .
 .
@@ -57,4 +41,3 @@ Texas BBQ from Stiles Switch in Austin Texas. We ordered smoked beef brisket, po
 .
 .
 .
-@stilesswitchbbq @gaherself @christophaahhh

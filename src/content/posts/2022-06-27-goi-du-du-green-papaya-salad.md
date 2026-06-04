@@ -29,17 +29,8 @@ draft: false
 placeId: "0x80c2c103fb1d360b:0x6e15231eb748079e"
 ---
 
-![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17961253870758446.jpg)
-
-![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17945608862025177.jpg)
-
-![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17923523762444211.jpg)
-
-![Goi Du Du - green papaya salad](/images/posts/ig-2022-06-27-goi-du-du-green-papaya-salad/17926712108248810.jpg)
-
 Goi Du Du - green papaya salad. And Goi Guon - fresh spring rolls. Yum. Nice spot for a light dinner.
 .
 .
 .
 .
-@littlesisterrb @pcw8118 #littlesister #springrolls #eeeeeats #eats

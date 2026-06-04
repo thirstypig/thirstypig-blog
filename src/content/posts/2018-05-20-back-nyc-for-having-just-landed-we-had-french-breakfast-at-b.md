@@ -32,20 +32,7 @@ cuisine:
 placeId: "0x89c2599371d90113:0x93a1212483085df3"
 ---
 
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17920555483187954.jpg)
-
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17946363037014057.jpg)
-
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17922406597143522.jpg)
-
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17946419932049009.jpg)
-
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17869271788244671.jpg)
-
-![Back NYC for Having just landed we had French breakfast at Buvette](/images/posts/ig-2018-05-20-back-nyc-for-having-just-landed-we-had-french-breakfast-at-b/17873406961229032.jpg)
-
 Back NYC for @icff_nyc Having just landed we had French breakfast at Buvette. Cr’q Madame, smoked salmon and avocado on toast, and almond croissants. This little French diner filled up fast. .
 .
 .
 .
-@buvettenyc @yalin_wu @thirstypig

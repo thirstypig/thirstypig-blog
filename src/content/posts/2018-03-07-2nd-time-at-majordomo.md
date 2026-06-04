@@ -34,20 +34,4 @@ cuisine:
 placeId: "0x80c2c6611b681927:0x29fe8bed454c7cae"
 ---
 
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17871597709207324.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17888390995198505.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17929297516033496.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17919889132077149.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17857242601231016.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17904319381185167.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17928816397059824.jpg)
-
-![2nd time at Majordomo](/images/posts/ig-2018-03-07-2nd-time-at-majordomo/17856495883227739.jpg)
-
-2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy Bo Ssäm (for 4-6 people) arrived. Though it was flavorful - it wasn’t as moist (fatty) as we would have liked. Then the requisite veggie dish came (finally) - the Marinated Mushrooms - which was better than expected. Then they stuffed us with the Japanese shaved ice dessert kakigöri, which was the only repeat from our first visit. Yummy but so full. 謝謝 to @fongjf123 FYI pork butt = pork shoulder. @majordomola @yalin_wu
+2nd time at Majordomo. Started with the Bread Bing with Benton’s Reserve Ham to go with a couple of drinks. Next up was the Tapioca Lo Mein - which was the standout of the night. The humongous Spicy Bo Ssäm (for 4-6 people) arrived. Though it was flavorful - it wasn’t as moist (fatty) as we would have liked. Then the requisite veggie dish came (finally) - the Marinated Mushrooms - which was better than expected. Then they stuffed us with the Japanese shaved ice dessert kakigöri, which was the only repeat from our first visit. Yummy but so full. 謝謝 to @fongjf123 FYI pork butt = pork shoulder.

@@ -30,14 +30,4 @@ cuisine:
 - Indian
 ---
 
-![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17910863497118580.jpg)
-
-![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17907973207127133.jpg)
-
-![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17895432076154844.jpg)
-
-![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17899432447136030.jpg)
-
-![Modern Indian food at radhika south Pasadena](/images/posts/ig-2018-02-07-modern-indian-food-at-radhika-south-pasadena/17910268156096413.jpg)
-
-Modern Indian food at radhika south Pasadena #sopas #southpasadena #indianfood @yalin_wu #thirstypig
+Modern Indian food at radhika south Pasadena

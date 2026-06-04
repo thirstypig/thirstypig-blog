@@ -31,20 +31,9 @@ cuisine:
 placeId: "0x80c2c63850150b9d:0x96cdcf9a38a24170"
 ---
 
-![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/18021851509312292.jpg)
-
-![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/18088838317301720.jpg)
-
-![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/17910565066938684.jpg)
-
-![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/17894611148219887.jpg)
-
-![Part 2 at Sushi Gen](/images/posts/ig-2021-07-25-part-2-at-sushi-gen/17889085364229629.jpg)
-
 Part 2 at Sushi Gen. Here’s the salmon, miso cod, beer, octopus cucumber salad, and ankimo. 
 .
 .
 .
 .
 .
-@sushigendtla @fongjf123 #littletokyo #dtla

@@ -23,20 +23,9 @@ cuisine:
 - Japanese
 ---
 
-![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17958732574063545.jpg)
-
-![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17943585400107158.jpg)
-
-![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17957847829040229.jpg)
-
-![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17958841852044367.jpg)
-
-![Happy Hour at RA Sushi Bar Restaurant](/images/posts/ig-2018-07-06-happy-hour-at-ra-sushi-bar-restaurant/17943870901105236.jpg)
-
 Happy Hour at RA Sushi Bar Restaurant. Uni Sea Urchin.
 .
 .
 .
 .
 .
-@rasushi #rasushi #oc #thedistrict @thedistricttustin #thirstypig @uscott @thirstypig

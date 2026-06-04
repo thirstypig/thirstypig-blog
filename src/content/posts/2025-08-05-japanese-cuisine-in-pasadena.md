@@ -35,28 +35,10 @@ cuisine:
 placeId: "0x80c2ddcd47a2501f:0x9df5097a7cb1d92d"
 ---
 
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18070757024103417.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18303708424218060.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/17939503452045364.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/17979338618889360.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/17862102705449322.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18015560051761295.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18048601415255202.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18100678369600867.jpg)
-
-![Japanese cuisine in Pasadena](/images/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18073121564062885.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18092165344727474.mp4" type="video/mp4"></video>
-
 @yakiyausa Japanese cuisine in Pasadena. Yakiniku. The best thing we had was the beef bone marrow fried rice. The grilled beef was very good. Great service. Would return again.
 .
 .
 .
-\#yakiniku #yakiniku🐮 #beef
+\#yakiniku
+
+<video controls width="100%"><source src="/videos/posts/ig-2025-08-05-japanese-cuisine-in-pasadena/18092165344727474.mp4" type="video/mp4"></video>

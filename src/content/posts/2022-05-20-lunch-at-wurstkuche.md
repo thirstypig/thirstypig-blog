@@ -31,20 +31,9 @@ cuisine:
 placeId: "0x80c2c63938f382ff:0x7415d27e30dd5bcd"
 ---
 
-![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17937720668118068.jpg)
-
-![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17931858500085092.jpg)
-
-![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17943121106051567.jpg)
-
-![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/18018221233381704.jpg)
-
-![Lunch at Wurstkuche](/images/posts/ig-2022-05-20-lunch-at-wurstkuche/17927181287166127.jpg)
-
 Lunch at Wurstkuche. Bratwurst, Spicy Hot Link, and duck sausage and fries. 
 .
 .
 .
 .
 .
-@wurstkuche @travisytu @dhuang25
