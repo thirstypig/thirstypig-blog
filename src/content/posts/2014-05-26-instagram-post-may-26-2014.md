@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 26, 2014
+title: "Cream-Filled Fried Buns — May 2014"
+description: "Two split fried doughnut-style buns filled with a pale custard cream, plated on a dark dish."
 pubDate: '2014-05-26'
 author: The Thirsty Pig
 source: instagram

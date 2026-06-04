@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 10, 2016
+title: "Cuban Sandwich with Pickles and Fries — Jun 2016"
+description: "A pressed Cuban sandwich with ham, cheese, and pickles on a wooden board, served with pickle chips and a side of fries."
 pubDate: '2016-06-10'
 author: The Thirsty Pig
 source: instagram

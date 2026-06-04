@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 12, 2015
+title: "Lobster Roll — Jul 2015"
+description: "A toasted split-top bun overflowing with chunks of lobster meat and herbs in a black takeout tray."
 pubDate: '2015-07-12'
 author: The Thirsty Pig
 source: instagram

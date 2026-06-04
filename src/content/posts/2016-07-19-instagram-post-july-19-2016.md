@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 19, 2016
+title: "Matcha Shaved Ice with Red Bean and Mochi — Jul 2016"
+description: "A bowl of green matcha shaved ice topped with red beans, mochi balls, and condensed milk, with two orange spoons."
 pubDate: '2016-07-19'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 26, 2013
+title: "Scallion Pancakes on the Griddle — Dec 2013"
+description: "Rounds of scallion pancakes frying in oil on a large flat griddle, with rows of raw dough coils waiting to be cooked."
 pubDate: '2013-12-26'
 author: The Thirsty Pig
 source: instagram

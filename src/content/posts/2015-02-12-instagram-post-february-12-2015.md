@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 12, 2015
+title: "Cuban-Style Pork Sandwich — Feb 2015"
+description: "A pressed roll sandwich cut open to show pulled pork, melted cheese, and guacamole, on brown paper."
 pubDate: '2015-02-12'
 author: The Thirsty Pig
 source: instagram

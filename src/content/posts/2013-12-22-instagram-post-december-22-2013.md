@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 22, 2013
+title: "Fine Dining Tasting Menu Collage — Dec 2013"
+description: "A collage of plated tasting-menu courses including seared fish, shrimp with saffron rice, chocolate dessert, and a custard tart."
 pubDate: '2013-12-22'
 author: The Thirsty Pig
 source: instagram

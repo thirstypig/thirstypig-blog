@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 03, 2018
+title: "Mt. Lowe Brewing Co. Pint of Beer — Nov 2018"
+description: "A pint glass of amber beer branded Mt. Lowe Brewing Co. Arcadia CA, resting on a wooden bar top."
 pubDate: '2018-11-03'
 author: The Thirsty Pig
 source: instagram

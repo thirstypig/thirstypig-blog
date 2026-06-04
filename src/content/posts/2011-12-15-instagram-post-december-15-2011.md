@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 15, 2011
+title: "City Skyline View Over Rooftops — Dec 2011"
+description: "A hazy view across low-rise neighborhood rooftops toward a cluster of high-rise office towers in the distance."
 pubDate: '2011-12-15'
 author: The Thirsty Pig
 source: instagram

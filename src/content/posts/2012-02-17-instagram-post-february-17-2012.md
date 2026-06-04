@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 17, 2012
+title: "CaliBurger Cheeseburger and Fries — Feb 2012"
+description: "A cheeseburger oozing melted cheese with lettuce and tomato, fries, and a CaliBurger cup on a red tray."
 pubDate: '2012-02-17'
 author: The Thirsty Pig
 source: instagram

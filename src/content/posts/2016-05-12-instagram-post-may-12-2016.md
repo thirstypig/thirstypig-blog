@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 12, 2016
+title: "Tuna Melt Sandwich — May 2016"
+description: "A grilled tuna melt on thick toasted bread with melted cheese and a tomato slice on a gray plate."
 pubDate: '2016-05-12'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 24, 2016
+title: "Tacos with Lettuce and Pico de Gallo — Jun 2016"
+description: "Two tacos in corn tortillas topped with shredded lettuce, diced tomato pico de gallo, and sour cream on a white plate."
 pubDate: '2016-06-24'
 author: The Thirsty Pig
 source: instagram

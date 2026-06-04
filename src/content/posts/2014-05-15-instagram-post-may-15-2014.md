@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 15, 2014
+title: "Cold Liang Pi Noodles with Cucumber — May 2014"
+description: "Wide translucent cold noodles tossed with shredded cucumber, bean sprouts, and crumbled gluten in chili sauce."
 pubDate: '2014-05-15'
 author: The Thirsty Pig
 source: instagram

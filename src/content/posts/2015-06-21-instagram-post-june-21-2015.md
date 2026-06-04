@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 21, 2015
+title: "Hamburger Steak With Egg Over Rice — Jun 2015"
+description: "A bowl of rice topped with hamburger steak in brown gravy alongside soft scrambled egg."
 pubDate: '2015-06-21'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 16, 2022
+title: "Whiskey on a Large Ice Cube — Mar 2022"
+description: "A lowball glass of amber whiskey over one large ice cube on a reflective table with a blurred gridded window behind."
 pubDate: '2022-03-16'
 author: The Thirsty Pig
 source: instagram

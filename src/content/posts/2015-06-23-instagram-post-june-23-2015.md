@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 23, 2015
+title: "Kalua Pork Plate With Rice — Jun 2015"
+description: "A wooden plate with shredded kalua pork, two scoops of rice, noodle soup, a leaf-wrapped bundle, and salsa."
 pubDate: '2015-06-23'
 author: The Thirsty Pig
 source: instagram

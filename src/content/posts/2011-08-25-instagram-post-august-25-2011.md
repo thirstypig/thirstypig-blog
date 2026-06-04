@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 25, 2011
+title: "Nam Bo Tours River Boat — Aug 2011"
+description: "A covered wooden tour boat marked Nam Bo Tours moored on a muddy river lined with palm trees."
 pubDate: '2011-08-25'
 author: The Thirsty Pig
 source: instagram

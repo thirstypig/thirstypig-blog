@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 16, 2012
+title: "Water Town Canal with Boat — Dec 2012"
+description: "A misty canal lined with traditional tile-roofed houses, a small boat in the center, shot with a tilt-shift blur effect."
 pubDate: '2012-12-16'
 author: The Thirsty Pig
 source: instagram

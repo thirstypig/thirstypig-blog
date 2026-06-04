@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 01, 2015
+title: "Courtyard with Reflecting Pool — Jan 2015"
+description: "A modern courtyard with a stone-edged reflecting pool, a grassy lawn, and bowls of stones in the foreground."
 pubDate: '2015-01-01'
 author: The Thirsty Pig
 source: instagram

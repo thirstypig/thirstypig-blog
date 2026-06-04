@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 17, 2019
+title: "The Hitching Post II Roadside Sign — Jun 2019"
+description: "Yellow roadside sign for The Hitching Post II advertising World's Best BBQ Steaks, seafood, chicken and cocktails, with Airstream trailers behind."
 pubDate: '2019-06-17'
 author: The Thirsty Pig
 source: instagram

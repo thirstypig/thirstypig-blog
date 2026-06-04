@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 14, 2016
+title: "Beef Pho with Herb Plate — Aug 2016"
+description: "A bowl of beef pho with sliced brisket, onion, and scallion, served with a plate of Thai basil and bean sprouts and chili sauce."
 pubDate: '2016-08-14'
 author: The Thirsty Pig
 source: instagram

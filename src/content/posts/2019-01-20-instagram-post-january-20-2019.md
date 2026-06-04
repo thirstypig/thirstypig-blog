@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 20, 2019
+title: "Loco Moco Fried Rice with Fried Egg and Onions — Jan 2019"
+description: "A plate of fried rice topped with a sunny-side-up egg, gravy, crispy fried onion strings, and scallions."
 pubDate: '2019-01-20'
 author: The Thirsty Pig
 source: instagram

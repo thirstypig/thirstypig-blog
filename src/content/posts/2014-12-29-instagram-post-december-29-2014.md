@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 29, 2014
+title: "Tonkatsu Bento Box — Dec 2014"
+description: "A red bento tray with breaded fried cutlets drizzled in mayo, white rice, pickles, sauteed greens, miso soup, and orange wedges."
 pubDate: '2014-12-29'
 author: The Thirsty Pig
 source: instagram

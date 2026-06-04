@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 21, 2019
+title: "Black Sesame Shaved Ice with Ice Cream — Apr 2019"
+description: "A bowl of black sesame shaved ice topped with a scoop of ice cream, sliced almonds, and sesame rice balls."
 pubDate: '2019-04-21'
 author: The Thirsty Pig
 source: instagram

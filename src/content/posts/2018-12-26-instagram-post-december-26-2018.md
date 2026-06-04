@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 26, 2018
+title: "Tancca Brown Sugar Boba Milk Tea — Dec 2018"
+description: "A tall cup of brown sugar milk tea with tapioca pearls branded Tancca, on a marble table."
 pubDate: '2018-12-26'
 author: The Thirsty Pig
 source: instagram

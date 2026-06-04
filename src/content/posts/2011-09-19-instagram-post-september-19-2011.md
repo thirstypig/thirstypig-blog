@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 19, 2011
+title: "Eggs Benedict with Roasted Potatoes — Sep 2011"
+description: "Two poached-egg benedicts with orange hollandaise and a side of herbed roasted potatoes on a white plate."
 pubDate: '2011-09-19'
 author: The Thirsty Pig
 source: instagram

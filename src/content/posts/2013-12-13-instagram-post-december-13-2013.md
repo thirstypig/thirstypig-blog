@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 13, 2013
+title: "Tree-Lined Street with Cyclists — Dec 2013"
+description: "A wide street lined with bare plane trees in late autumn, with cyclists, parked scooters, and shopfronts along both sides."
 pubDate: '2013-12-13'
 author: The Thirsty Pig
 source: instagram

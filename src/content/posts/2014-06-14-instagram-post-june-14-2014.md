@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 14, 2014
+title: "Plate of Mixed Vegetable Sides — Jun 2014"
+description: "A plate of buffet-style sides including curried squash, penne pasta salad, cauliflower, and shredded slaw."
 pubDate: '2014-06-14'
 author: The Thirsty Pig
 source: instagram

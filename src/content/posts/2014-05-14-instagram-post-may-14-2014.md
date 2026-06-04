@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 14, 2014
+title: "Factory5 Lattice Chainring Giveaway — May 2014"
+description: "A graphic of a silver F5 lattice bicycle chainring with contest rules text for an Instagram giveaway."
 pubDate: '2014-05-14'
 author: The Thirsty Pig
 source: instagram

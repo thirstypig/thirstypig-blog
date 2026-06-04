@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 14, 2014
+title: "Overcast Sky with Street Lamp — Sep 2014"
+description: "A gray, cloudy overcast sky above a street lamp and the dark edge of a building roofline."
 pubDate: '2014-09-14'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 28, 2013
+title: "Braised Beef Shin with Marrow Bone — Dec 2013"
+description: "Glistening braised beef shank and shredded beef piled around a cut marrow bone, topped with strips of egg."
 pubDate: '2013-12-28'
 author: The Thirsty Pig
 source: instagram

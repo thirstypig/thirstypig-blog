@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 19, 2021
+title: "Mango Dessert Drinks at Hui Lau Shan — Sep 2021"
+description: "Two domed-lid cups of layered mango and coconut dessert drinks, one labeled Freshly Blended and one Hui Lau Shan, on a wood table."
 pubDate: '2021-09-19'
 author: The Thirsty Pig
 source: instagram

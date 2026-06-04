@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 21, 2012
+title: "Thin-Sliced Raw Beef for Grilling — Jan 2012"
+description: "Thin slices of marbled raw beef laid out on a metal tray, ready for tabletop grilling."
 pubDate: '2012-01-21'
 author: The Thirsty Pig
 source: instagram

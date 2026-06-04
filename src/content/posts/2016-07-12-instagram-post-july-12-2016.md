@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 12, 2016
+title: "Creamy Tomato Pasta with Parsley — Jul 2016"
+description: "A plate of linguine in a creamy tomato sauce with diced tomato, topped with a parsley sprig, at a set dining table."
 pubDate: '2016-07-12'
 author: The Thirsty Pig
 source: instagram

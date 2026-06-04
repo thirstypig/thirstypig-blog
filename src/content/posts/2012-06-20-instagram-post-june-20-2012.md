@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 20, 2012
+title: "Kiehl's Store in Airport Terminal — Jun 2012"
+description: "A lit Kiehl's storefront beside a FamilyMart in an airport terminal at night, with hanging light fixtures overhead."
 pubDate: '2012-06-20'
 author: The Thirsty Pig
 source: instagram

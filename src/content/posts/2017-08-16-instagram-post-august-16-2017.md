@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 16, 2017
+title: "Rare Beef Pho — Aug 2017"
+description: "A large bowl of beef pho with thinly sliced rare beef, scallions, sliced onion, and cilantro in clear broth."
 pubDate: '2017-08-16'
 author: The Thirsty Pig
 source: instagram

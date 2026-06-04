@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 24, 2016
+title: "Scallion Sesame Pancake Wedges — Aug 2016"
+description: "A basket of crispy golden sesame-crusted scallion pancakes cut into wedges, layered with green onion filling."
 pubDate: '2016-08-24'
 author: The Thirsty Pig
 source: instagram

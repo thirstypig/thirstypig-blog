@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 16, 2012
+title: "Brick Building with Bell Tower on a Plaza — Jan 2012"
+description: "A red brick building with arched walkways and a tall bell tower beside an empty tiled plaza under a cloudy sky."
 pubDate: '2012-01-16'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 11, 2012
+title: "Palm Trees on a Sandy Beach — Jan 2012"
+description: "Rows of tall palm trees on a wide sandy beach under a clear blue sky, with the ocean in the distance."
 pubDate: '2012-01-11'
 author: The Thirsty Pig
 source: instagram

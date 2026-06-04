@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 11, 2011
+title: "Red Enameled Dutch Oven — Jun 2011"
+description: "A red enameled cast iron Dutch oven with its lid on, sitting on a table."
 pubDate: '2011-06-11'
 author: The Thirsty Pig
 source: instagram

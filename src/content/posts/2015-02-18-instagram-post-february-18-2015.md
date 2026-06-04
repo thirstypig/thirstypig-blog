@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 18, 2015
+title: "Lunar New Year Lanterns and Dragon — Feb 2015"
+description: "Rows of red paper lanterns and an orange dragon decoration hang from a mall ceiling, with a person taking a selfie below."
 pubDate: '2015-02-18'
 author: The Thirsty Pig
 source: instagram

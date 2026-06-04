@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 03, 2018
+title: "Peppermint Candy Cane — Dec 2018"
+description: "A hand holding a red and white striped peppermint candy cane above an open box of wrapped candy canes."
 pubDate: '2018-12-03'
 author: The Thirsty Pig
 source: instagram

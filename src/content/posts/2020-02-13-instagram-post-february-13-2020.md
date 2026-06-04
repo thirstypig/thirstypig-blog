@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 13, 2020
+title: "Salt and Straw Ice Cream Cup and Cone — Feb 2020"
+description: "A hand holding a red Salt and Straw cup of ice cream beside another hand holding a scoop in a waffle cone at the shop counter."
 pubDate: '2020-02-13'
 author: The Thirsty Pig
 source: instagram

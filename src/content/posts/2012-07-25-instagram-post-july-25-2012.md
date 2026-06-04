@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 25, 2012
+title: "Highway Bridge Under Cloudy Sky — Jul 2012"
+description: "A view down a multi-lane highway toward an arched bridge, with an SUV alongside and large white clouds in a blue sky."
 pubDate: '2012-07-25'
 author: The Thirsty Pig
 source: instagram

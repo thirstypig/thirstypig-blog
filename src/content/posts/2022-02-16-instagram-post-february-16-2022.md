@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 16, 2022
+title: "Egg Fried Rice with Pork — Feb 2022"
+description: "A close-up of fried rice studded with scrambled egg, diced pork and green onion in a bowl."
 pubDate: '2022-02-16'
 author: The Thirsty Pig
 source: instagram

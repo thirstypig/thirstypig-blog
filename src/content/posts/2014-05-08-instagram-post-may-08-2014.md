@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 08, 2014
+title: "Cheeseburger with Fries — May 2014"
+description: "A tall sesame-bun cheeseburger with lettuce and tomato, topped with cucumber and a cherry tomato, served with French fries."
 pubDate: '2014-05-08'
 author: The Thirsty Pig
 source: instagram

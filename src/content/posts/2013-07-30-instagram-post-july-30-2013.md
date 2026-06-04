@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 30, 2013
+title: "Plated Chicken with Couscous and Sides — Jul 2013"
+description: "A collage of two mason-jar drinks, grilled chicken with herbed potato, and a plate of couscous, potato salad, carrots, and pasta."
 pubDate: '2013-07-30'
 author: The Thirsty Pig
 source: instagram

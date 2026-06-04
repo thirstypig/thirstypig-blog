@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 04, 2012
+title: "Dark Restaurant Counter in Black and White — Feb 2012"
+description: "A black-and-white shot of a long dining counter with empty stools and staff in the background."
 pubDate: '2012-02-04'
 author: The Thirsty Pig
 source: instagram

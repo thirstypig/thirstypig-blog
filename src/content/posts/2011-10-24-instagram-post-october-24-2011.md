@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 24, 2011
+title: "Old Stone Village by a Pond — Oct 2011"
+description: "Weathered stone village buildings reflected in a still pond, with people gathered along the far edge."
 pubDate: '2011-10-24'
 author: The Thirsty Pig
 source: instagram

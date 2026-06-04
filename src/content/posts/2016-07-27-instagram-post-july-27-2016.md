@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 27, 2016
+title: "Chicken Sandwich at Dodger Stadium — Jul 2016"
+description: "A hand holds a grilled chicken sandwich with slaw overlooking the field and crowd at Dodger Stadium during a game."
 pubDate: '2016-07-27'
 author: The Thirsty Pig
 source: instagram

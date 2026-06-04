@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 09, 2025
+title: "Wyland Orca Whale Mural — May 2025"
+description: "A large Wyland mural of orca whales painted on a waterfront building set on wooden pilings above the water under a clear sky."
 pubDate: '2025-05-09'
 author: The Thirsty Pig
 source: instagram

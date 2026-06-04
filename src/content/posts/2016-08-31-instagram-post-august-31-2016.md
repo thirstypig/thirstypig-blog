@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 31, 2016
+title: "Wonton Soup — Aug 2016"
+description: "A white bowl of clear broth filled with pork wontons and scattered with chopped green onion."
 pubDate: '2016-08-31'
 author: The Thirsty Pig
 source: instagram

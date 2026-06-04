@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 21, 2012
+title: "Red Paper Lanterns Lit Up — Feb 2012"
+description: "Glowing red paper lanterns with hanging tassels lit up in a close-up at night."
 pubDate: '2012-02-21'
 author: The Thirsty Pig
 source: instagram

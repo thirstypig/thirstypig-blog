@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 12, 2012
+title: "City Skyline at Sunset from Highway — Dec 2012"
+description: "A hazy city skyline with a construction crane at sunset, seen over a highway barrier with a passing car blurred by motion."
 pubDate: '2012-12-12'
 author: The Thirsty Pig
 source: instagram

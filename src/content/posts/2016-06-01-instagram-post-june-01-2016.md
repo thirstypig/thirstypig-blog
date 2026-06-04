@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 01, 2016
+title: "Cheeseburger on Brioche with Fries — Jun 2016"
+description: "A medium-rare cheeseburger with melted cheese and special sauce on a brioche bun, served with fries and pickles."
 pubDate: '2016-06-01'
 author: The Thirsty Pig
 source: instagram

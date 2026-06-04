@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 11, 2016
+title: "Shaved Ice with Grass Jelly and Peanuts — Aug 2016"
+description: "A tall mound of shaved ice drizzled with syrup, served with grass jelly and boiled peanuts on the side in a white dish."
 pubDate: '2016-08-11'
 author: The Thirsty Pig
 source: instagram

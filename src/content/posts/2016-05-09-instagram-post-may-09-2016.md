@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 09, 2016
+title: "Braised Pork Belly Rice Bowl — May 2016"
+description: "A black bowl of rice topped with diced braised pork belly, a braised egg, cilantro and pickled greens."
 pubDate: '2016-05-09'
 author: The Thirsty Pig
 source: instagram

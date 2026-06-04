@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 24, 2017
+title: "Texas BBQ Platter — Jun 2017"
+description: "A butcher-paper tray of smoked brisket, sausage links, pork ribs, pulled meat, coleslaw, and potato salad."
 pubDate: '2017-06-24'
 author: The Thirsty Pig
 source: instagram

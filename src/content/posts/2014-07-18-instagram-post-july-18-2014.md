@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 18, 2014
+title: "Papaya with Coconut Sago Dessert — Jul 2014"
+description: "Half a fresh papaya filled with creamy coconut milk and sago pearls, served on a glass plate."
 pubDate: '2014-07-18'
 author: The Thirsty Pig
 source: instagram

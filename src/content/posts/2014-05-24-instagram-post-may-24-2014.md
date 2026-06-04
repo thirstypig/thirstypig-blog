@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 24, 2014
+title: "Old Brick Warehouse with Toys Ghost Sign — May 2014"
+description: "A weathered multi-story brick warehouse with a faded painted Toys ghost sign on its upper wall, along an empty street."
 pubDate: '2014-05-24'
 author: The Thirsty Pig
 source: instagram

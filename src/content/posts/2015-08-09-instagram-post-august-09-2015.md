@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 09, 2015
+title: "Lox Bagels and Pastrami Reuben — Aug 2015"
+description: "A collage of bagels topped with lox and red onion, a pastrami Reuben sandwich, and a deli T-shirt display."
 pubDate: '2015-08-09'
 author: The Thirsty Pig
 source: instagram

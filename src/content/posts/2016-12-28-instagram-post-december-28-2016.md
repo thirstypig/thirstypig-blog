@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 28, 2016
+title: "Fried Egg and Avocado Sandwich — Dec 2016"
+description: "A sandwich on a roll filled with fried egg, avocado slices, and cilantro on a patio table with a green-strawed drink."
 pubDate: '2016-12-28'
 author: The Thirsty Pig
 source: instagram

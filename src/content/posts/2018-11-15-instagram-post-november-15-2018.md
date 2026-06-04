@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 15, 2018
+title: "Shake Shack Burgers, Fries and Soda — Nov 2018"
+description: "A tray of Shake Shack cheeseburgers, a chicken sandwich, crinkle-cut fries, and a soda cup on a wooden table."
 pubDate: '2018-11-15'
 author: The Thirsty Pig
 source: instagram

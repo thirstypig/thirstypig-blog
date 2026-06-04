@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 28, 2014
+title: "Fried Corn Empanadas with Salsa — Dec 2014"
+description: "Golden fried turnover pastries filled with corn and cheese, served with sour cream, pico de gallo, and red salsa."
 pubDate: '2014-12-28'
 author: The Thirsty Pig
 source: instagram

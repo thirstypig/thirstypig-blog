@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 19, 2014
+title: "Corned Beef Sandwich on Baguette — May 2014"
+description: "A crusty baguette roll filled with corned beef and topped with shaved fennel and a frond, on a white plate."
 pubDate: '2014-05-19'
 author: The Thirsty Pig
 source: instagram

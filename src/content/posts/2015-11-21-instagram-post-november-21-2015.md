@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 21, 2015
+title: "Dumplings and Scallion Oil Noodles — Nov 2015"
+description: "A collage of boiled dumplings on a plate and dark soy scallion-oil noodles lifted with chopsticks."
 pubDate: '2015-11-21'
 author: The Thirsty Pig
 source: instagram

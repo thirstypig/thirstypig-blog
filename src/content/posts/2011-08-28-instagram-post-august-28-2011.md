@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 28, 2011
+title: "Riverboat and City Skyline at Dusk — Aug 2011"
+description: "An ornate lit riverboat on the water with the Oriental Pearl Tower and skyline behind it at dusk."
 pubDate: '2011-08-28'
 author: The Thirsty Pig
 source: instagram

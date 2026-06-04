@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 10, 2011
+title: "Raked Zen Sand Garden with Rocks — Dec 2011"
+description: "A black-and-white zen garden with concentric raked sand circles around a small grouping of rocks."
 pubDate: '2011-12-10'
 author: The Thirsty Pig
 source: instagram

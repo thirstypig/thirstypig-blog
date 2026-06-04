@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 23, 2020
+title: "Matcha Green Tea Soft Serve — Jan 2020"
+description: "A tall swirl of green matcha soft serve ice cream dusted with matcha powder in a cup, held in hand with a wooden spoon."
 pubDate: '2020-01-23'
 author: The Thirsty Pig
 source: instagram

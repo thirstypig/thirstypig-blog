@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 23, 2018
+title: "Cookie and Cake Pop Platter — Sep 2018"
+description: "A platter of assorted cookies and chocolate-dipped cake pops with sprinkles arranged on a black tray."
 pubDate: '2018-09-23'
 author: The Thirsty Pig
 source: instagram

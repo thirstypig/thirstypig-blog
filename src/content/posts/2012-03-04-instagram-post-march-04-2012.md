@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 04, 2012
+title: "Roasted Chicken with Potatoes — Mar 2012"
+description: "A crispy roasted chicken leg and breast plated over potatoes with pan sauce and herb oil."
 pubDate: '2012-03-04'
 author: The Thirsty Pig
 source: instagram

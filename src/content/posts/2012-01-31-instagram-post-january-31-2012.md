@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 31, 2012
+title: "High-Speed Train at a Station Platform — Jan 2012"
+description: "A white and orange high-speed train stopped alongside a platform under an arched steel station roof."
 pubDate: '2012-01-31'
 author: The Thirsty Pig
 source: instagram

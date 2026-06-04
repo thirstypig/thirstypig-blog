@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 20, 2016
+title: "Slice of Beef Lifted from Hot Pot — Sep 2016"
+description: "Chopsticks holding a thin slice of cooked beef above a spicy hot pot, with rice and broth in the background."
 pubDate: '2016-09-20'
 author: The Thirsty Pig
 source: instagram

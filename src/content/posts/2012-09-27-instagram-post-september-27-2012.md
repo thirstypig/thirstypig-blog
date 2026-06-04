@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 27, 2012
+title: "Thirsty Pig InstaMessage Graphic — Sep 2012"
+description: "A promotional graphic reading 'Thirsty Pig - I am on InstaMessage' with a pig logo and Polaroid-style photo thumbnails."
 pubDate: '2012-09-27'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 24, 2016
+title: "Magnolia Market Sign in Waco — Dec 2016"
+description: "A black-and-white circular Magnolia Market + Garden Waco TX logo painted on a white brick wall."
 pubDate: '2016-12-24'
 author: The Thirsty Pig
 source: instagram

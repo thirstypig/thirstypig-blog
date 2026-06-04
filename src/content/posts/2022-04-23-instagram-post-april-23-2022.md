@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 23, 2022
+title: "Seolleongtang with Kimchi Banchan — Apr 2022"
+description: "A bowl of milky beef bone soup with sliced meat beside black bowls of napa cabbage kimchi and cubed radish kimchi."
 pubDate: '2022-04-23'
 author: The Thirsty Pig
 source: instagram

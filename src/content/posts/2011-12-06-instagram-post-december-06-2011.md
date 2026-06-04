@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 06, 2011
+title: "City Lights Through a Rainy Windshield — Dec 2011"
+description: "Blurred red and white city lights seen through a rain-streaked car windshield at night."
 pubDate: '2011-12-06'
 author: The Thirsty Pig
 source: instagram

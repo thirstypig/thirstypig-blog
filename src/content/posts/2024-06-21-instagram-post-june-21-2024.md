@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 21, 2024
+title: "Dodger Stadium Night Game — Jun 2024"
+description: "Night baseball game at Dodger Stadium viewed from the upper deck, with the lit field, packed stands, and the 76 scoreboard sign."
 pubDate: '2024-06-21'
 author: The Thirsty Pig
 source: instagram

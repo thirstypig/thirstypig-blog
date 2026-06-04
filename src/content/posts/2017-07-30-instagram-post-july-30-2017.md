@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 30, 2017
+title: "Bacon Cheeseburger with Onion Rings — Jul 2017"
+description: "A tall bacon cheeseburger stacked with onion rings, cheddar, lettuce, and tomato, served with seasoned fries."
 pubDate: '2017-07-30'
 author: The Thirsty Pig
 source: instagram

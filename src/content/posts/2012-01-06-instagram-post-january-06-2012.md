@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 06, 2012
+title: "Korean Air Airbus A380 at the Gate — Jan 2012"
+description: "A large Korean Air Airbus A380 jet parked at an airport gate under a clear sky."
 pubDate: '2012-01-06'
 author: The Thirsty Pig
 source: instagram

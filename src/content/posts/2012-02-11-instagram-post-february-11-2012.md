@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 11, 2012
+title: "Vintage Cars at a Beach Lot — Feb 2012"
+description: "Two restored vintage cars, one cream and one teal, parked in a beachside lot with palm trees."
 pubDate: '2012-02-11'
 author: The Thirsty Pig
 source: instagram

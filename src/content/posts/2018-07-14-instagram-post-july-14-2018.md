@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 14, 2018
+title: "Pappy Van Winkle Family Reserve 15 Year Bourbon — Jul 2018"
+description: "A held bottle of Pappy Van Winkle's Family Reserve 15-year Kentucky straight bourbon whiskey in a home setting."
 pubDate: '2018-07-14'
 author: The Thirsty Pig
 source: instagram

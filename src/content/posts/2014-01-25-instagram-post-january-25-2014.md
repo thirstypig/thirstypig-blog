@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 25, 2014
+title: "Grayscale Cityscape Painting — Jan 2014"
+description: "A man holds up a textured gray oil painting of a curving city road lined with buildings, with one small red accent."
 pubDate: '2014-01-25'
 author: The Thirsty Pig
 source: instagram

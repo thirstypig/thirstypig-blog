@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 19, 2016
+title: "Split Hot Pot with Clear and Spicy Broths — Sep 2016"
+description: "A divided metal hot pot holding a pale clear broth on one side and a red chili-and-spice mala broth on the other."
 pubDate: '2016-09-19'
 author: The Thirsty Pig
 source: instagram

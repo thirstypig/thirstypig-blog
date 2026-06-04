@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 11, 2016
+title: "Chicken Ramen in Clear Broth — Sep 2016"
+description: "A bowl of ramen in light clear broth topped with sliced white onion, green onion, chrysanthemum greens and chicken."
 pubDate: '2016-09-11'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 28, 2015
+title: "Oldest McDonald's Restaurant — Dec 2015"
+description: "A photo collage of the oldest operating McDonald's, showing its neon Speedee sign, arches, vintage menu, and old register."
 pubDate: '2015-12-28'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 10, 2014
+title: "Stir-Fried Luffa with Dried Shrimp — Jun 2014"
+description: "Chunks of bright green luffa squash in a light broth with glass noodles and dried shrimp, in a blue-and-white bowl."
 pubDate: '2014-06-10'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 25, 2018
+title: "Grilled Lobster Tail with Lemon — Jun 2018"
+description: "A grilled lobster tail plated with a rosemary sprig, half a lemon, and a small dish of drawn butter on a white plate."
 pubDate: '2018-06-25'
 author: The Thirsty Pig
 source: instagram

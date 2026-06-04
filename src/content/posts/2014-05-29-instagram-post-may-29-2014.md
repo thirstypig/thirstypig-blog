@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 29, 2014
+title: "Roasted Chicken over Panzanella — May 2014"
+description: "A browned roasted half chicken plated over a bread salad with greens, croutons, and citrus segments."
 pubDate: '2014-05-29'
 author: The Thirsty Pig
 source: instagram

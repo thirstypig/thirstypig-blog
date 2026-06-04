@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 08, 2012
+title: "Crowded Airport Departure Hall — Jan 2012"
+description: "A crowd of travelers waiting under the trussed roof of a large airport departure hall lined with check-in counters."
 pubDate: '2012-01-08'
 author: The Thirsty Pig
 source: instagram

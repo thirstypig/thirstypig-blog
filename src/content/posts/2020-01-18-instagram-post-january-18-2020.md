@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 18, 2020
+title: "The Glenrothes Whisky Maker's Cut Bottle — Jan 2020"
+description: "A boxed bottle of The Glenrothes Whisky Maker's Cut Speyside single malt Scotch whisky in bright red packaging."
 pubDate: '2020-01-18'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 29, 2015
+title: "Chicago Deep-Dish Pizza — Oct 2015"
+description: "A whole deep-dish pizza with a tall golden crust and chunky tomato sauce on top, on a metal pan."
 pubDate: '2015-10-29'
 author: The Thirsty Pig
 source: instagram

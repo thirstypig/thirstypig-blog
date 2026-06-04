@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 10, 2022
+title: "Breakfast Burrito Cut in Half — Apr 2022"
+description: "A hand holding two halves of a foil-wrapped breakfast burrito filled with potatoes, egg, sausage and melted cheese."
 pubDate: '2022-04-10'
 author: The Thirsty Pig
 source: instagram

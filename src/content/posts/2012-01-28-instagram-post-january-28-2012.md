@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 28, 2012
+title: "Indoor Mall Carousel — Jan 2012"
+description: "An ornate illuminated carousel inside a shopping mall under an exposed steel-beam ceiling."
 pubDate: '2012-01-28'
 author: The Thirsty Pig
 source: instagram

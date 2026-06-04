@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 04, 2016
+title: "Laulau Plate with Rice and Tomato Lomi — Sep 2016"
+description: "A Hawaiian spread of laulau wrapped in taro leaves, kalua pork, beef, white rice, lomi tomato salad and white poi."
 pubDate: '2016-09-04'
 author: The Thirsty Pig
 source: instagram

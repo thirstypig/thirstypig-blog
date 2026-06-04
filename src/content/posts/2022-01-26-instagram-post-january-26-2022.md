@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 26, 2022
+title: "Waffle with Banana and Ice Cream at Fika — Jan 2022"
+description: "A plate of waffle wedges with whipped cream, sliced banana, ice cream and caramel beside a Fika coffee cup on a wood table."
 pubDate: '2022-01-26'
 author: The Thirsty Pig
 source: instagram

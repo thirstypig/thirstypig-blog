@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 29, 2012
+title: "Crowded Pedestrian Street at Night — Jul 2012"
+description: "A busy tree-lined pedestrian street at night, crowded with people walking past neon-lit buildings and a green traffic light."
 pubDate: '2012-07-29'
 author: The Thirsty Pig
 source: instagram

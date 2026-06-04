@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 04, 2020
+title: "Cuban Sandwich on a Roll — Jul 2020"
+description: "A pressed Cuban-style sandwich on a crusty roll with ham, roast pork, melted cheese and pickles, resting in foil wrapping."
 pubDate: '2020-07-04'
 author: The Thirsty Pig
 source: instagram

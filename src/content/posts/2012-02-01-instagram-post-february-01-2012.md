@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 01, 2012
+title: "Stone Statue at a Temple Courtyard — Feb 2012"
+description: "A weathered stone statue of a robed figure standing in the courtyard of a red-roofed temple."
 pubDate: '2012-02-01'
 author: The Thirsty Pig
 source: instagram

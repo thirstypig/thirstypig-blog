@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 17, 2016
+title: "Cheeseburger with Caramelized Onions — May 2016"
+description: "A close-up of a cheeseburger on a soft bun with melted cheese and caramelized onions in paper wrap."
 pubDate: '2016-05-17'
 author: The Thirsty Pig
 source: instagram

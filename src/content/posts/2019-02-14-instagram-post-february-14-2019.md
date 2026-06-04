@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 14, 2019
+title: "LA Kings Hockey Game at Staples Center — Feb 2019"
+description: "A view from the upper deck of an ice hockey game at Staples Center with players on the rink and a full crowd."
 pubDate: '2019-02-14'
 author: The Thirsty Pig
 source: instagram

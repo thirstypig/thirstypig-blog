@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 15, 2015
+title: "Smoked Brisket and Pulled Pork — Nov 2015"
+description: "A collage of sliced smoky beef brisket with a pink ring and chopped pulled pork on butcher paper."
 pubDate: '2015-11-15'
 author: The Thirsty Pig
 source: instagram

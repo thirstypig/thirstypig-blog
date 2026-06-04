@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 19, 2014
+title: "Pastrami Sandwich with Fries — Jul 2014"
+description: "A thick-cut pastrami sandwich on rye bread with mustard and Swiss cheese, served with shoestring fries and slaw."
 pubDate: '2014-07-19'
 author: The Thirsty Pig
 source: instagram

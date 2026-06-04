@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 24, 2015
+title: "Pork Belly Bao Bun — Dec 2015"
+description: "A steamed bao bun filled with glazed braised pork belly and fresh cilantro on a white plate."
 pubDate: '2015-12-24'
 author: The Thirsty Pig
 source: instagram

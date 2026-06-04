@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 12, 2012
+title: "Beer with a Nighttime City Skyline View — Apr 2012"
+description: "A beer bottle on a glowing orange ledge overlooking a lit city skyline and a green-lit tower at night."
 pubDate: '2012-04-12'
 author: The Thirsty Pig
 source: instagram

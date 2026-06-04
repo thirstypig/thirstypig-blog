@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 05, 2014
+title: "Lit Freeway Overpass at Night — Jun 2014"
+description: "A blurred nighttime shot of a freeway interchange overpass strung with rows of lights, taken from a moving car."
 pubDate: '2014-06-05'
 author: The Thirsty Pig
 source: instagram

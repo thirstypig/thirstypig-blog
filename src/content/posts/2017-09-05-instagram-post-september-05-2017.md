@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 05, 2017
+title: "Strawberry and Matcha Ice Cream Macaron — Sep 2017"
+description: "A large ice cream sandwich with pink strawberry macaron shells around a green matcha ice cream center in paper."
 pubDate: '2017-09-05'
 author: The Thirsty Pig
 source: instagram

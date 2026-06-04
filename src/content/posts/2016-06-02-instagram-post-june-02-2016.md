@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 02, 2016
+title: "Pastrami Sandwich on Rye with Coleslaw — Jun 2016"
+description: "A deli sandwich stacked with pastrami and coleslaw on rye bread, with a side of macaroni salad."
 pubDate: '2016-06-02'
 author: The Thirsty Pig
 source: instagram

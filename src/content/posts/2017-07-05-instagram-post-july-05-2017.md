@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 05, 2017
+title: "Horse-Head Post on a City Street — Jul 2017"
+description: "A bronze horse-head finial atop a street post, with a blurred busy pedestrian street and signs behind it."
 pubDate: '2017-07-05'
 author: The Thirsty Pig
 source: instagram

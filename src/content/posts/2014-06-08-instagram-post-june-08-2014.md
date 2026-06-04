@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 08, 2014
+title: "Onion Rings in a Paper Tray — Jun 2014"
+description: "A pile of thick, golden battered onion rings in a brown paper food tray."
 pubDate: '2014-06-08'
 author: The Thirsty Pig
 source: instagram

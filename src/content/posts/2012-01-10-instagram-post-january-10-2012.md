@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 10, 2012
+title: "Cheesesteak Sandwich with Fries — Jan 2012"
+description: "An open hoagie roll filled with sliced steak, melted cheese, and grilled onions topped with ketchup, beside fries."
 pubDate: '2012-01-10'
 author: The Thirsty Pig
 source: instagram

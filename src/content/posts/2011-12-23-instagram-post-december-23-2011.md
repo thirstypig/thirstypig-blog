@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 23, 2011
+title: "Grand Christmas Tree in a Hotel Lobby — Dec 2011"
+description: "A tall Christmas tree decorated with red and gold ornaments in an ornate hotel lobby with chandeliers and balconies."
 pubDate: '2011-12-23'
 author: The Thirsty Pig
 source: instagram

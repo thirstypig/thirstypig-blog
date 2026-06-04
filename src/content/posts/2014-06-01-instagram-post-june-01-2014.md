@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 01, 2014
+title: "Wedding Ceremony Selfie — Jun 2014"
+description: "A smiling man in a suit takes a selfie with a bride in a veil and tiara at an outdoor wedding with seated guests behind."
 pubDate: '2014-06-01'
 author: The Thirsty Pig
 source: instagram

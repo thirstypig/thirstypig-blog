@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 18, 2016
+title: "Cumin Lamb Skewers — Oct 2016"
+description: "Several metal skewers of grilled lamb cubes coated in cumin and chili spice, resting on a white oval plate."
 pubDate: '2016-10-18'
 author: The Thirsty Pig
 source: instagram

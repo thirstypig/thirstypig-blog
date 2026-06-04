@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 04, 2017
+title: "Old Fashioned Cocktail at a Bar — Jan 2017"
+description: "An amber cocktail with two black straws and citrus garnish in a rocks glass on a wooden bar with warm lighting."
 pubDate: '2017-01-04'
 author: The Thirsty Pig
 source: instagram

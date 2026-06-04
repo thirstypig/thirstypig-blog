@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 25, 2016
+title: "Fried Pork Chop Rice with Braised Egg — Jun 2016"
+description: "A plate of Taiwanese fried pork chop over white rice with a soy-braised egg and cabbage, with a cup of tea."
 pubDate: '2016-06-25'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 22, 2020
+title: "Carne Asada Tacos with Guacamole — Jan 2020"
+description: "Three corn tortilla tacos filled with grilled steak, salsa and cilantro, topped with thick guacamole on a white plate."
 pubDate: '2020-01-22'
 author: The Thirsty Pig
 source: instagram

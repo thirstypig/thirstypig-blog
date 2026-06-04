@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 27, 2012
+title: "Stone Pagoda Lantern in a Garden — Jan 2012"
+description: "A tiered stone pagoda lantern set against lush green trees and pink blossoms in a garden."
 pubDate: '2012-01-27'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 30, 2012
+title: "Pulled Pork Sandwich on a Roll — Jan 2012"
+description: "A toasted roll stuffed with saucy pulled pork, cut in half and resting in a pool of jus."
 pubDate: '2012-01-30'
 author: The Thirsty Pig
 source: instagram

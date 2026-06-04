@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 20, 2015
+title: "Red Rock Desert Landscape — Feb 2015"
+description: "Red and white sandstone rock formations in a desert valley with distant mountains under a hazy sky."
 pubDate: '2015-02-20'
 author: The Thirsty Pig
 source: instagram

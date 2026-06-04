@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 21, 2016
+title: "Braised Pork Belly with Squid — May 2016"
+description: "A sizzling clay pot of braised pork belly cubes and squid in a glossy brown sauce with scallions."
 pubDate: '2016-05-21'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 18, 2020
+title: "Trio of Craft Cocktails — Feb 2020"
+description: "Three cocktails on a wood table: an orange-peel old fashioned, a foam-topped coupe, and a mint-garnished drink over crushed ice."
 pubDate: '2020-02-18'
 author: The Thirsty Pig
 source: instagram

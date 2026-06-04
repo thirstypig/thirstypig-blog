@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 18, 2016
+title: "Bibimbap with Fried Egg in a Stone Bowl — Sep 2016"
+description: "A Korean bibimbap bowl with a sunny fried egg, bean sprouts, carrots, cucumber, greens, beef and shredded seaweed."
 pubDate: '2016-09-18'
 author: The Thirsty Pig
 source: instagram

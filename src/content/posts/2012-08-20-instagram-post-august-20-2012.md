@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 20, 2012
+title: "Blurred Tree-Lined Street at Dusk — Aug 2012"
+description: "A motion-blurred view down a tree-lined street at dusk with green traffic lights, parked cars, and a cyclist."
 pubDate: '2012-08-20'
 author: The Thirsty Pig
 source: instagram

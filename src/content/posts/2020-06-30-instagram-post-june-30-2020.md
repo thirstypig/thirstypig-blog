@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 30, 2020
+title: "Roast Beef Sub Sandwich Halved — Jun 2020"
+description: "A hand holding two halves of a roll sandwich filled with sliced roast beef, melted cheese, lettuce and tomato, inside a car."
 pubDate: '2020-06-30'
 author: The Thirsty Pig
 source: instagram

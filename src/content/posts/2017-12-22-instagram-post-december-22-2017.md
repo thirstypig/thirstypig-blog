@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 22, 2017
+title: "Meat-Filled Rice Balls in Soup — Dec 2017"
+description: "A spoon lifting a meat-stuffed glutinous rice ball from a bowl of clear soup with leafy greens and more rice balls."
 pubDate: '2017-12-22'
 author: The Thirsty Pig
 source: instagram

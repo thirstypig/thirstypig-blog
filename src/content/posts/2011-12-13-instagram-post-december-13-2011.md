@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 13, 2011
+title: "Pink Plush Pig Bouquet — Dec 2011"
+description: "A bouquet of pink stuffed pig toys and fabric roses wrapped in lace and tulle on a counter."
 pubDate: '2011-12-13'
 author: The Thirsty Pig
 source: instagram

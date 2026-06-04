@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 20, 2016
+title: "Roast Pork and Char Siu over Rice — May 2016"
+description: "A plate of crispy roast pork and char siu over white rice with sauteed greens and a side of dark sauce."
 pubDate: '2016-05-20'
 author: The Thirsty Pig
 source: instagram

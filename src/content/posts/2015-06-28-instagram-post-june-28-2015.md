@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 28, 2015
+title: "Spicy Salmon Poke Bowl — Jun 2015"
+description: "A bowl of cubed salmon in a creamy spicy sauce over white rice, topped with chopped green onions."
 pubDate: '2015-06-28'
 author: The Thirsty Pig
 source: instagram

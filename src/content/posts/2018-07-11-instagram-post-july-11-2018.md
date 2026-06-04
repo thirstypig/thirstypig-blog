@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 11, 2018
+title: "Downtown LA Skyline at Sunset — Jul 2018"
+description: "A pink and orange sunset sky over the downtown Los Angeles skyline with palm trees and a clock tower in the foreground."
 pubDate: '2018-07-11'
 author: The Thirsty Pig
 source: instagram

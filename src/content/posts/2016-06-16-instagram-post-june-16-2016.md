@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 16, 2016
+title: "Sichuan Chili Fried Chicken — Jun 2016"
+description: "Crispy fried chicken pieces buried in a mound of dried red chilies and sesame seeds, a Sichuan-style dry-fried dish."
 pubDate: '2016-06-16'
 author: The Thirsty Pig
 source: instagram

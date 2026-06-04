@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 02, 2015
+title: "Golden Gate Bridge From the Roadway — Dec 2015"
+description: "A black-and-white view of a suspension bridge tower and cables seen while driving across the span."
 pubDate: '2015-12-02'
 author: The Thirsty Pig
 source: instagram

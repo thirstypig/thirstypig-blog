@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 26, 2012
+title: "Green Painting on Easel Outdoors — Sep 2012"
+description: "A bright green canvas painting of two small pink birds on a branch, displayed on a tripod easel on a grassy lawn."
 pubDate: '2012-09-26'
 author: The Thirsty Pig
 source: instagram

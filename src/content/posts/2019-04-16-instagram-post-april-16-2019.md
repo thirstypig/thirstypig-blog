@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 16, 2019
+title: "Honeymee Honeycomb Soft Serve Ice Cream — Apr 2019"
+description: "A cup of Honeymee milk soft-serve ice cream topped with a piece of honeycomb and a yellow spoon."
 pubDate: '2019-04-16'
 author: The Thirsty Pig
 source: instagram

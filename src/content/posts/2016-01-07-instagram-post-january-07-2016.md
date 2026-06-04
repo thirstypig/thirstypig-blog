@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 07, 2016
+title: "Pepperoni and Sausage Pizza — Jan 2016"
+description: "A close-up of a thin-crust pizza topped with pepperoni, sausage crumbles and melted cheese."
 pubDate: '2016-01-07'
 author: The Thirsty Pig
 source: instagram

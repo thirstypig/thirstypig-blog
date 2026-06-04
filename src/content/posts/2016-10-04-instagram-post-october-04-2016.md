@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 04, 2016
+title: "Cold Noodles in Chili Oil — Oct 2016"
+description: "A white bowl of thin cold noodles in red chili oil sauce, topped with sliced green onion and a single radish slice."
 pubDate: '2016-10-04'
 author: The Thirsty Pig
 source: instagram

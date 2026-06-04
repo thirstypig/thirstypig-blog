@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 03, 2012
+title: "Sunlit Shopping Mall Interior — Feb 2012"
+description: "A bright multi-level shopping mall interior with white pillars, glass railings, and a skylight."
 pubDate: '2012-02-03'
 author: The Thirsty Pig
 source: instagram

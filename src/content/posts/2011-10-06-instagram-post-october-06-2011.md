@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 06, 2011
+title: "Village Reflected in a Calm Lake — Oct 2011"
+description: "A still lake reflecting a village, an arched stone bridge, trees, and hills under a hazy golden sky."
 pubDate: '2011-10-06'
 author: The Thirsty Pig
 source: instagram

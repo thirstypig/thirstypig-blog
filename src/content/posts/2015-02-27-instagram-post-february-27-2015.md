@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 27, 2015
+title: "City Street at Night — Feb 2015"
+description: "A blurry nighttime city street scene with glowing neon lights, tall buildings, and a hazy red-lit sky."
 pubDate: '2015-02-27'
 author: The Thirsty Pig
 source: instagram

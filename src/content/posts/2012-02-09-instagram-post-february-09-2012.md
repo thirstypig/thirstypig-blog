@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 09, 2012
+title: "Painted Classical Face and Ruins Mural — Feb 2012"
+description: "A sepia-toned painting of a classical statue face beside columns and ancient ruins."
 pubDate: '2012-02-09'
 author: The Thirsty Pig
 source: instagram

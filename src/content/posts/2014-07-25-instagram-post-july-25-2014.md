@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 25, 2014
+title: "Chickpea and Spinach Curry — Jul 2014"
+description: "A pan of chickpeas with chopped spinach, red bell pepper, and a creamy green herb sauce."
 pubDate: '2014-07-25'
 author: The Thirsty Pig
 source: instagram

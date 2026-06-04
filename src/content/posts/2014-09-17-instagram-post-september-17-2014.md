@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 17, 2014
+title: "Beef Noodle Soup with Wontons — Sep 2014"
+description: "A bowl of beef noodle soup with chunks of braised beef, wide noodles, wontons, and chopped scallions."
 pubDate: '2014-09-17'
 author: The Thirsty Pig
 source: instagram

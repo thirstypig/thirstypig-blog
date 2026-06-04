@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 05, 2012
+title: "Airplane Wing Above the Clouds — Feb 2012"
+description: "View from an airplane window of the wing and winglets over a blue sky and scattered white clouds."
 pubDate: '2012-02-05'
 author: The Thirsty Pig
 source: instagram

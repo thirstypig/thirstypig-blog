@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 07, 2014
+title: "Crispy Roast Pork Belly — Jun 2014"
+description: "Sliced crispy-skinned roast pork belly arranged on a plate with parsley and a small dish of dipping sauce."
 pubDate: '2014-06-07'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 03, 2011
+title: "String Lights and Star Decorations — Sep 2011"
+description: "Canopies of warm string lights with colorful star and bunting decorations strung overhead at night."
 pubDate: '2011-09-03'
 author: The Thirsty Pig
 source: instagram

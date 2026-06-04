@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 08, 2016
+title: "Pot Pie with Puff Pastry Lid — Jan 2016"
+description: "An individual pot pie with a golden puff-pastry top set over a creamy bean-flecked stew in a white ramekin."
 pubDate: '2016-01-08'
 author: The Thirsty Pig
 source: instagram

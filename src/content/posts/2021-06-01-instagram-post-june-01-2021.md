@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 01, 2021
+title: "Kavalan Whisky Bottle and Glasses — Jun 2021"
+description: "A bottle of Kavalan whisky with its box behind two stemless glasses holding whisky over ice on a stone countertop."
 pubDate: '2021-06-01'
 author: The Thirsty Pig
 source: instagram

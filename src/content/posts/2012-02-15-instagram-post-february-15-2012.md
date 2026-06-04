@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 15, 2012
+title: "Snow-Covered Palace Gate and Wall — Feb 2012"
+description: "A traditional tiered palace gate and tiled wall topped with snow under a hazy gray sky."
 pubDate: '2012-02-15'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 10, 2014
+title: "Oatmeal Cookie Ice Cream Sandwich — May 2014"
+description: "An oatmeal cookie atop a scoop of melting vanilla ice cream and cake on a white plate."
 pubDate: '2014-05-10'
 author: The Thirsty Pig
 source: instagram

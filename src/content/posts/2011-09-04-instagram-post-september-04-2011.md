@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 04, 2011
+title: "Braised Red Pork Belly — Sep 2011"
+description: "Glossy cubes of braised pork belly in dark caramel sauce arranged on a plate."
 pubDate: '2011-09-04'
 author: The Thirsty Pig
 source: instagram

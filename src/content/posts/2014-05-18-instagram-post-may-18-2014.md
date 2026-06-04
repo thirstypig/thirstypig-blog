@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 18, 2014
+title: "Claypot Rice with Chinese Sausage — May 2014"
+description: "A clay pot of crispy-bottomed rice topped with slices of Chinese sausage and shredded ham, served with a spoon."
 pubDate: '2014-05-18'
 author: The Thirsty Pig
 source: instagram

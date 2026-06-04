@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 11, 2011
+title: "Crowded Apple Store — Sep 2011"
+description: "A busy electronics store interior packed with shoppers browsing devices at long wooden tables."
 pubDate: '2011-09-11'
 author: The Thirsty Pig
 source: instagram

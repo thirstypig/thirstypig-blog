@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 29, 2016
+title: "Grilled Korean Short Ribs — May 2016"
+description: "Charred grilled Korean-style short ribs arranged on a printed serving board."
 pubDate: '2016-05-29'
 author: The Thirsty Pig
 source: instagram

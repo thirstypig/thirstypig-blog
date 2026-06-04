@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 12, 2015
+title: "Mushroom Pizza and Brunch Plates — Dec 2015"
+description: "A collage of a wood-fired mushroom pizza, eggs with greens, and a blueberry dessert."
 pubDate: '2015-12-12'
 author: The Thirsty Pig
 source: instagram

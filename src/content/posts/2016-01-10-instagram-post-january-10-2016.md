@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 10, 2016
+title: "Tuna and Salmon Nigiri Sushi — Jan 2016"
+description: "Close-up of tuna and salmon nigiri sushi on rice with pickled ginger, served on a dark plate."
 pubDate: '2016-01-10'
 author: The Thirsty Pig
 source: instagram

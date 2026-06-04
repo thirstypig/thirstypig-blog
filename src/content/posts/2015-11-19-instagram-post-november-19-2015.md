@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 19, 2015
+title: "Carnitas Torta With Salsa — Nov 2015"
+description: "A collage of a pork carnitas torta with avocado, onion, and greens beside a bowl of red chile salsa."
 pubDate: '2015-11-19'
 author: The Thirsty Pig
 source: instagram

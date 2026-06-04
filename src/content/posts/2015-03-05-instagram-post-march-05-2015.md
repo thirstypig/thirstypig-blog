@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 05, 2015
+title: "Stir-Fried Lettuce With Chili — Mar 2015"
+description: "A metal wok dish of stir-fried lettuce with dried red chilies and bits of meat, served over a flame."
 pubDate: '2015-03-05'
 author: The Thirsty Pig
 source: instagram

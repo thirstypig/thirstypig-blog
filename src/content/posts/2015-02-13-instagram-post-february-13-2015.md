@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 13, 2015
+title: "Nighttime Selfie on the Street — Feb 2015"
+description: "A nighttime selfie of two smiling people, one flashing a peace sign, on a sidewalk outside a building."
 pubDate: '2015-02-13'
 author: The Thirsty Pig
 source: instagram

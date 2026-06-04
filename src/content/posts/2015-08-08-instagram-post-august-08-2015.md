@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 08, 2015
+title: "Ballpark Nachos in a Helmet Bowl — Aug 2015"
+description: "Tortilla chips with salsa and pickled jalapenos in a red Angels helmet bowl held above a baseball field."
 pubDate: '2015-08-08'
 author: The Thirsty Pig
 source: instagram

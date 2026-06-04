@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 05, 2016
+title: "Crème Caramel with Two Sauces — Oct 2016"
+description: "A torched crème caramel custard on a powdered-sugar-dusted plate, drizzled with red fruit coulis and vanilla cream."
 pubDate: '2016-10-05'
 author: The Thirsty Pig
 source: instagram

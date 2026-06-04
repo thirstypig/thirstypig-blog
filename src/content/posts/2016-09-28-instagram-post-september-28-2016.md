@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 28, 2016
+title: "Green Sauce Enchiladas with Rice and Beans — Sep 2016"
+description: "A plate of enchiladas suizas in green tomatillo sauce topped with sour cream and avocado, with Mexican rice and refried beans."
 pubDate: '2016-09-28'
 author: The Thirsty Pig
 source: instagram
