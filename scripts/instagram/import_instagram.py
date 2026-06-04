@@ -447,18 +447,30 @@ def write_instagram_post(post: dict) -> str:
     return filepath
 
 
+def select_post_files(paths: list[str]) -> list[str]:
+    """Keep only the user's own post exports from a posts_*.json glob.
+
+    The export's own posts live at your_instagram_activity/media/posts_*.json, but a
+    bare posts_*.json glob also matches ads_information/.../posts_viewed.json
+    (hundreds of posts the user merely VIEWED). Loading those would import foreign
+    content as if it were the author's. Exclude them. Returns a sorted list so
+    multi-part exports (posts_1, posts_2, ...) load in order.
+    """
+    return sorted(
+        p for p in paths
+        if 'ads_information' not in p and 'posts_viewed' not in os.path.basename(p)
+    )
+
+
 def main():
     print('=' * 60)
     print('  INSTAGRAM IMPORT')
     print('=' * 60)
 
-    # Load Instagram data — glob for posts_*.json (Instagram splits large exports)
-    # Only the user's own posts (your_instagram_activity/media/posts_*.json).
-    # The broad posts_*.json glob also matches ads_information/.../posts_viewed.json
-    # (posts you *viewed* — hundreds of foreign entries), so exclude those.
-    posts_files = sorted(
-        p for p in glob.glob(os.path.join(DATA_DIR, '**', 'posts_*.json'), recursive=True)
-        if 'ads_information' not in p and 'posts_viewed' not in os.path.basename(p)
+    # Load Instagram data — glob for posts_*.json (Instagram splits large exports).
+    # select_post_files filters out viewed-posts / ads_information (see its docstring).
+    posts_files = select_post_files(
+        glob.glob(os.path.join(DATA_DIR, '**', 'posts_*.json'), recursive=True)
     )
     if not posts_files:
         print(f'ERROR: No posts_*.json found in {DATA_DIR}')

@@ -16,7 +16,7 @@ from datetime import datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from import_instagram import is_duplicate  # noqa: E402
+from import_instagram import is_duplicate, select_post_files  # noqa: E402
 
 
 def _existing(title, date, source):
@@ -46,3 +46,28 @@ def test_non_instagram_same_date_falls_back_to_title_similarity():
     # A recovered blog post on the same date with an unrelated title is not a dup.
     existing = [_existing("my top 10 barbecue joints in la", "2026-03-04", "blog")]
     assert is_duplicate("Katsu at", datetime(2026, 3, 4), existing) is False
+
+
+# ---------------------------------------------------------------------------
+# select_post_files: only load the author's own posts, never viewed-posts.
+# Regression: a bare posts_*.json glob matched ads_information/posts_viewed.json
+# (~280 posts the user merely VIEWED), nearly importing foreign content.
+# ---------------------------------------------------------------------------
+
+OWN = "data/your_instagram_activity/media/posts_1.json"
+VIEWED = "data/ads_information/ads_and_topics/posts_viewed.json"
+
+
+def test_select_post_files_excludes_viewed_posts():
+    assert select_post_files([OWN, VIEWED]) == [OWN]
+
+
+def test_select_post_files_excludes_anything_under_ads_information():
+    paths = ["data/ads_information/ads_and_topics/posts_anything.json"]
+    assert select_post_files(paths) == []
+
+
+def test_select_post_files_keeps_and_sorts_multipart_own_exports():
+    p1 = "data/your_instagram_activity/media/posts_1.json"
+    p2 = "data/your_instagram_activity/media/posts_2.json"
+    assert select_post_files([p2, p1]) == [p1, p2]
