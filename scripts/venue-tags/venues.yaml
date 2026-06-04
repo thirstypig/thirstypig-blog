@@ -4900,8 +4900,48 @@ Los Angeles, CA 90027"
   name: "Ello Amicis"
   city: "Shanghai"
   query: "Ello Amici 102 Xiangyang Nan Lu Shanghai"
+  place_id: "0x35b2716259a26d89:0x595f786ecc9383ab"
+  cid: "6439998409437053867"
 
 - key: harbin-pig-restaurant
   name: "The Harbin Pig Restaurant"
   city: "Harbin"
   query: "Harbin Pig Restaurant 正宗杀猪菜 Harbin China"
+  cid: "16174442289528800169"
+
+# IG sync June 2026
+- key: tofu-king-arcadia
+  name: "Tofu King"
+  city: "Arcadia"
+  query: "Tofu King Arcadia"
+  place_id: "0x80c2dba51210a805:0xafa56b581ef9e6d8"
+  cid: "12656640354015635160"
+- key: midoh-sawtelle
+  name: "Midoh"
+  city: "Sawtelle"
+  query: "Midoh Sawtelle"
+  place_id: "0x80c2bb35cfd4fb9d:0xac627da6aaabadc3"
+  cid: "12421628877022670275"
+- key: run-bing-arcadia
+  name: "Run Bing"
+  city: "Arcadia"
+  query: "Run Bing Arcadia"
+  cid: "632958433062882893"
+- key: cocary-monterey-p
+  name: "Cocary"
+  city: "Monterey Park"
+  query: "Cocary Monterey Park"
+  place_id: "0x80c2c5bdb216e453:0x396ab0651d686cd8"
+  cid: "4137313156024790232"
+- key: wagyu-butcher-torrance
+  name: "Wagyu Butcher"
+  city: "Torrance"
+  query: "Wagyu Butcher Torrance"
+  place_id: "0x80c2b5df6c80825d:0xd321f9f661b24d10"
+  cid: "15213715852830592272"
+- key: basqueria-malibu
+  name: "Basqueria"
+  city: "Malibu"
+  query: "Basqueria Malibu"
+  place_id: "0x80e81f7849392da9:0xa354a83fdb901c2c"
+  cid: "11769216718446009388"

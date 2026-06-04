@@ -20,6 +20,7 @@ location: Dai Ho
 city: Temple City
 region: San Gabriel Valley
 description: Dai Ho restaurant, Temple City. Taiwanese beef noodle with pickled veggies and mustard greens. Also had a side order of sliced beef. Dai Ho’s version leans toward the spicier side with a rich broth and QQ noodles. Been around awhile. Always a consistent offering. Too bad they’re only open for lunch.
+placeId: "0x80c2daf93b72f81d:0x86116f754c08cf2e"
 ---
 
 ![Dai Ho restaurant, Temple City](/images/posts/ig-2026-05-17-dai-ho-restaurant-temple-city/18076139099247474.jpg)

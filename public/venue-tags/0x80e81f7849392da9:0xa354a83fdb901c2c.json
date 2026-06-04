@@ -1,0 +1,25 @@
+{
+  "place_id": "0x80e81f7849392da9:0xa354a83fdb901c2c",
+  "venue_name": "Casita Basqueria",
+  "chips": [
+    {
+      "label": "sandwiches",
+      "mention_count": 8
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 2
+    },
+    {
+      "label": "special place",
+      "mention_count": 2
+    },
+    {
+      "label": "vibe",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T03:31:37Z",
+  "city": "Malibu",
+  "key": "basqueria-malibu"
+}

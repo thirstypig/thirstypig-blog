@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5bdb216e453:0x396ab0651d686cd8",
+  "venue_name": "Cocary Shabu Shabu BBQ",
+  "chips": [
+    {
+      "label": "shabu shabu",
+      "mention_count": 3
+    },
+    {
+      "label": "unlimited soup",
+      "mention_count": 4
+    },
+    {
+      "label": "Hot Pot",
+      "mention_count": 13
+    },
+    {
+      "label": "unlimited porridge",
+      "mention_count": 2
+    },
+    {
+      "label": "unlimited rice",
+      "mention_count": 3
+    },
+    {
+      "label": "pay by the plate",
+      "mention_count": 5
+    },
+    {
+      "label": "lamb",
+      "mention_count": 4
+    },
+    {
+      "label": "meat selection",
+      "mention_count": 3
+    },
+    {
+      "label": "shabu shabu style",
+      "mention_count": 2
+    },
+    {
+      "label": "fast staff",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T03:31:29Z",
+  "city": "Monterey Park",
+  "key": "cocary-monterey-p"
+}
