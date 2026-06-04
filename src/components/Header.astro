@@ -10,12 +10,12 @@ const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 // Everything else lives in the footer nav and the mobile menu.
 const navItems = [
 	{ href: '/posts/', label: 'Posts', testId: 'nav-posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
-	{ href: '/tags/cloud', label: 'Tags', testId: 'nav-tags', isActive: pathname.startsWith('/tags') },
+	{ href: '/cities', label: 'Cities', testId: 'nav-cities', isActive: pathname.startsWith('/cities') },
 ];
 
 // Mobile hamburger exposes the full nav so nothing is unreachable on small screens.
 const mobileExtras = [
-	{ href: '/cities', label: 'Cities', testId: 'nav-cities', isActive: pathname.startsWith('/cities') },
+	{ href: '/tags/cloud', label: 'Tags', testId: 'nav-tags', isActive: pathname.startsWith('/tags') },
 	{ href: '/map', label: 'Map', testId: 'nav-map', isActive: pathname === '/map' },
 	{ href: '/cuisine', label: 'Cuisine', testId: 'nav-cuisine', isActive: pathname.startsWith('/cuisine') || pathname.startsWith('/best-of') },
 	{ href: '/hitlist', label: 'Hit List', testId: 'nav-hitlist', isActive: pathname === '/hitlist' },
