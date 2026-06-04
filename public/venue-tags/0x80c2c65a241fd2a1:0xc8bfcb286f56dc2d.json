@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c65a241fd2a1:0xc8bfcb286f56dc2d",
+  "venue_name": "Chinatown Central Plaza",
+  "chips": [
+    {
+      "label": "lanterns",
+      "mention_count": 19
+    },
+    {
+      "label": "chinatown",
+      "mention_count": 10
+    },
+    {
+      "label": "chinese culture",
+      "mention_count": 25
+    },
+    {
+      "label": "bakery",
+      "mention_count": 118
+    },
+    {
+      "label": "souvenirs",
+      "mention_count": 91
+    },
+    {
+      "label": "bruce lee",
+      "mention_count": 62
+    },
+    {
+      "label": "closed shops",
+      "mention_count": 29
+    },
+    {
+      "label": "food trucks",
+      "mention_count": 17
+    },
+    {
+      "label": "strawberry cakes",
+      "mention_count": 12
+    },
+    {
+      "label": "almond cookies",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:59Z",
+  "city": null,
+  "key": "chinatown-summer-nights-chinatown"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8e4428f9327b3627:0xa32a4ca2f06678ef",
+  "venue_name": "Palace of Culture Rafaél Uribe Uribe",
+  "chips": [
+    {
+      "label": "architecture",
+      "mention_count": 231
+    },
+    {
+      "label": "free entry",
+      "mention_count": 117
+    },
+    {
+      "label": "dome",
+      "mention_count": 22
+    },
+    {
+      "label": "estate",
+      "mention_count": 28
+    },
+    {
+      "label": "terrace",
+      "mention_count": 52
+    },
+    {
+      "label": "gallery",
+      "mention_count": 21
+    },
+    {
+      "label": "sculptures",
+      "mention_count": 19
+    },
+    {
+      "label": "history",
+      "mention_count": 241
+    },
+    {
+      "label": "historic place",
+      "mention_count": 20
+    },
+    {
+      "label": "art exhibitions",
+      "mention_count": 53
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:54Z",
+  "city": "Medellin",
+  "key": "palacio-de-la-cultura-rafael-uribe--medellin"
+}

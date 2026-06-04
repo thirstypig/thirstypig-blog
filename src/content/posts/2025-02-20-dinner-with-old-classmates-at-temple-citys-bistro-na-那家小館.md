@@ -33,6 +33,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2c650a63ca95f:0xd1e30bf58e25d678"
 ---
 
 Dinner with old classmates at Temple City’s Bistro Na 那家小館. 

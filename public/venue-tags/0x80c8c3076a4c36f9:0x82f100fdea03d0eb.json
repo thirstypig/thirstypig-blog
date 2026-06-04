@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c8c3076a4c36f9:0x82f100fdea03d0eb",
+  "venue_name": "NuWu Cannabis LV",
+  "chips": [
+    {
+      "label": "drive thru",
+      "mention_count": 207
+    },
+    {
+      "label": "tasting room",
+      "mention_count": 51
+    },
+    {
+      "label": "dab bar",
+      "mention_count": 41
+    },
+    {
+      "label": "strain selection",
+      "mention_count": 62
+    },
+    {
+      "label": "smoking lounge",
+      "mention_count": 21
+    },
+    {
+      "label": "budtender",
+      "mention_count": 329
+    },
+    {
+      "label": "no taxes",
+      "mention_count": 32
+    },
+    {
+      "label": "cash only",
+      "mention_count": 10
+    },
+    {
+      "label": "upstairs lounge",
+      "mention_count": 6
+    },
+    {
+      "label": "sky high lounge",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:42Z",
+  "city": "Las Vegas",
+  "key": "nuwu-cannabis-marketplace-las-vegas"
+}

@@ -12,6 +12,7 @@ images:
 - /images/posts/ig-2017-11-08-sichuan-hotpot-四川火鍋/17866302391196250.jpg
 - /images/posts/ig-2017-11-08-sichuan-hotpot-四川火鍋/17898254464078760.jpg
 - /images/posts/ig-2017-11-08-sichuan-hotpot-四川火鍋/17847941239210388.jpg
+location: Sichuan Hotpot 四川火鍋
 tags:
 - chinese
 - hot-pot

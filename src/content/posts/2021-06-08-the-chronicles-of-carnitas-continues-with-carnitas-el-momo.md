@@ -11,6 +11,7 @@ images:
 - /images/posts/ig-2021-06-08-the-chronicles-of-carnitas-continues-with-carnitas-el-momo/17940777760509322.jpg
 - /images/posts/ig-2021-06-08-the-chronicles-of-carnitas-continues-with-carnitas-el-momo/17934838018551453.jpg
 - /images/posts/ig-2021-06-08-the-chronicles-of-carnitas-continues-with-carnitas-el-momo/17900228780012197.jpg
+location: Carnitas El Momo
 tags:
 - los-angeles
 - mexican
@@ -22,6 +23,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c5e2268cca79:0xe9c547737b5ff392"
 ---
 
 The Chronicles of Carnitas continues with Carnitas El Momo. Probably the internet’s most well known Carnitas truck in Los Angeles. I dig the generous portions in the tacos. The torta was was also very good with the toasted bread. I will probably visit again soon. 

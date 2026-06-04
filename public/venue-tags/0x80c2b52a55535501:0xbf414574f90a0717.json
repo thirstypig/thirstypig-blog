@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b52a55535501:0xbf414574f90a0717",
+  "venue_name": "Torrance Cultural Arts Center",
+  "chips": [
+    {
+      "label": "japanese garden",
+      "mention_count": 8
+    },
+    {
+      "label": "dancing",
+      "mention_count": 8
+    },
+    {
+      "label": "pond",
+      "mention_count": 6
+    },
+    {
+      "label": "ukulele festival",
+      "mention_count": 3
+    },
+    {
+      "label": "amphitheater",
+      "mention_count": 2
+    },
+    {
+      "label": "conference room",
+      "mention_count": 3
+    },
+    {
+      "label": "patio",
+      "mention_count": 3
+    },
+    {
+      "label": "koi pond",
+      "mention_count": 4
+    },
+    {
+      "label": "photo spot",
+      "mention_count": 2
+    },
+    {
+      "label": "serene setting",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:24Z",
+  "city": "Torrance",
+  "key": "torrance-cultural-arts-center-torrance"
+}

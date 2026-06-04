@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db351e4e57af:0xf7d2e78b98001f1a",
+  "venue_name": "Chubby Cattle BBQ | Rosemead",
+  "chips": [
+    {
+      "label": "short rib",
+      "mention_count": 15
+    },
+    {
+      "label": "a5 wagyu",
+      "mention_count": 8
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 6
+    },
+    {
+      "label": "kbbq",
+      "mention_count": 14
+    },
+    {
+      "label": "salmon carpaccio",
+      "mention_count": 3
+    },
+    {
+      "label": "complimentary ice cream",
+      "mention_count": 3
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 30
+    },
+    {
+      "label": "marinated beef fingerling",
+      "mention_count": 2
+    },
+    {
+      "label": "wagyu poke rice",
+      "mention_count": 2
+    },
+    {
+      "label": "flavorful wagyu",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:44Z",
+  "city": "Rosemead",
+  "key": "chubby-cattle-rosemead"
+}

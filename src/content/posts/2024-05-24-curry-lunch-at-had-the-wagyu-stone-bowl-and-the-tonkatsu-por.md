@@ -16,6 +16,7 @@ images:
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/18396961708073154.jpg
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/17848064724194066.jpg
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/18047803003689774.jpg
+location: Had
 tags:
 - los-angeles
 - japanese

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x54900dd27ee70b31:0x60092f9c69f43561",
+  "venue_name": "Woodinville Whiskey Co.",
+  "chips": [
+    {
+      "label": "maple syrup",
+      "mention_count": 26
+    },
+    {
+      "label": "cask strength bourbon tasting",
+      "mention_count": 9
+    },
+    {
+      "label": "whiskey tasting",
+      "mention_count": 18
+    },
+    {
+      "label": "tasting room",
+      "mention_count": 10
+    },
+    {
+      "label": "whiskey making process",
+      "mention_count": 3
+    },
+    {
+      "label": "knowledgeable staff",
+      "mention_count": 77
+    },
+    {
+      "label": "high proof whiskey",
+      "mention_count": 2
+    },
+    {
+      "label": "knowledgeable tour guide",
+      "mention_count": 6
+    },
+    {
+      "label": "rye",
+      "mention_count": 27
+    },
+    {
+      "label": "double barrel",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:06Z",
+  "city": "Woodinville",
+  "key": "woodinville-whiskey-woodinvill"
+}

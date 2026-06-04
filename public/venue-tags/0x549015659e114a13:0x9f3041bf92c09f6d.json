@@ -1,0 +1,49 @@
+{
+  "place_id": "0x549015659e114a13:0x9f3041bf92c09f6d",
+  "venue_name": "Old Log Cabin Distillery",
+  "chips": [
+    {
+      "label": "spirits",
+      "mention_count": 33
+    },
+    {
+      "label": "old tom gin",
+      "mention_count": 5
+    },
+    {
+      "label": "tastings",
+      "mention_count": 12
+    },
+    {
+      "label": "tasting room",
+      "mention_count": 4
+    },
+    {
+      "label": "chicago style pizza",
+      "mention_count": 14
+    },
+    {
+      "label": "bourbon flight",
+      "mention_count": 2
+    },
+    {
+      "label": "liquor tasting",
+      "mention_count": 2
+    },
+    {
+      "label": "craft cocktails",
+      "mention_count": 3
+    },
+    {
+      "label": "distillery tour",
+      "mention_count": 2
+    },
+    {
+      "label": "coffee liqueur",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:56Z",
+  "city": "Seattle",
+  "key": "old-log-cabin-distillery-seattle"
+}

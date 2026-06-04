@@ -15,6 +15,7 @@ images:
 - /images/posts/ig-2017-11-13-shan-xi-cuisine-in-shanxi-province-where-noodles-rules-over/17898734572076084.jpg
 - /images/posts/ig-2017-11-13-shan-xi-cuisine-in-shanxi-province-where-noodles-rules-over/17848627852215215.jpg
 - /images/posts/ig-2017-11-13-shan-xi-cuisine-in-shanxi-province-where-noodles-rules-over/17883359749133769.jpg
+location: Shan Xi Cuisine Restaurant
 tags:
 - arcadia
 - chinese
@@ -27,6 +28,7 @@ categories:
 region: San Gabriel Valley
 cuisine:
 - Chinese
+placeId: "0x80c2dba4bc35aaab:0x9701ca52bceeb1a3"
 ---
 
 Shan Xi cuisine in #arcadia #sgv Shanxi province, where noodles rules over rice, is just west of Beijing. Popular for lunch and dinner, with locals, new Chinese immigrants, and those pesky millennials. We had soup-less ground pork noodles, known as Zha Jiang Mian 炸醬麵 - which is my favorite. Then we had the popular cat ear noodles soup 貓耳朵 - which seems like Italian pasta - was the most interesting. Then we also shared a knife cut vegetarian noodle 刀削麵. I love the chewiness of these noodles. You should watch how they make and cook these noodles. And the last significant dish was the fried pork meat balls. I insisted on adding this to our order, even though we were full, since I saw almost everyone ordering - plus a picture of it on Merrill Shindler’s review. Good place. Noodles had better texture than Valley Blvd’s Mian.

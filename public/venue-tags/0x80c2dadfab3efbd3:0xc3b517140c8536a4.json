@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dadfab3efbd3:0xc3b517140c8536a4",
+  "venue_name": "Si Hai Restaurant",
+  "chips": [
+    {
+      "label": "taiwanese",
+      "mention_count": 27
+    },
+    {
+      "label": "tofu pudding",
+      "mention_count": 8
+    },
+    {
+      "label": "soy milk",
+      "mention_count": 6
+    },
+    {
+      "label": "chinese speaking",
+      "mention_count": 14
+    },
+    {
+      "label": "sticky rice",
+      "mention_count": 4
+    },
+    {
+      "label": "radish cake",
+      "mention_count": 2
+    },
+    {
+      "label": "fan tuan",
+      "mention_count": 2
+    },
+    {
+      "label": "you tiao",
+      "mention_count": 13
+    },
+    {
+      "label": "gua bao",
+      "mention_count": 2
+    },
+    {
+      "label": "pot stickers",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:22:52Z",
+  "city": "Taipei",
+  "key": "four-seas-taipei"
+}

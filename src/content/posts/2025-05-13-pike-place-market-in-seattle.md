@@ -24,6 +24,7 @@ images:
   - /images/posts/ig-2025-05-13-pike-place-market-in-seattle/17920135584094378.jpg
 source: instagram
 draft: false
+placeId: "0x54906bb2f3f5ca3d:0x93f18f02f14e0a2c"
 ---
 
 Pike Place Market in Seattle. Very touristy. But I like it. Lots of local crafts and stuff to eat. Also they have these large bronze pigs scattered all around the market. You can “buy” pig foot prints as a donation for an engraving on the floor near the pig, I think for about $5k or so - for a good cause.

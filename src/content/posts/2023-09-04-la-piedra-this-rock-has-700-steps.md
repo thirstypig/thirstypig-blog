@@ -27,6 +27,7 @@ coordinates:
   lat: 6.251792
   lng: -75.568258
 cuisine: []
+placeId: "0x8e4428f9327b3627:0xa32a4ca2f06678ef"
 ---
 
 La Piedra - this rock has 700 steps. Amazing views of the Colombian rural area, about a couple hours away from Medellin. I’m embarrassed to say I only made it half way up. It is not an easy hike. My legs and knees were not up for the task. Luckily my friends made the hike. Thanks to my buds for some of the shots.

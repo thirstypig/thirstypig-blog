@@ -26,6 +26,7 @@ coordinates:
   lng: 121.241428
 cuisine:
 - Chinese
+placeId: "0x35b27009591dd64d:0x9aca23a3e93d00c4"
 ---
 
 > “Membership has its privileges”

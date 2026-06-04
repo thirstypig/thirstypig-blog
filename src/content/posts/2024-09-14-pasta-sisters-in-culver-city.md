@@ -26,6 +26,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2ba2863e5b8f9:0x37bc7327501076fd"
 ---
 
 Pasta Sisters in Culver City. Pappardelle with Pesto with Burrata Cheese. Arugula salad. And Pappardelle with a Ragu sauce. The pastas and sauces were all very good. Good chew on the pasta. The table bread was not toasted but had good olive oil and balsamic vinegar. Solid meal. I'd come back to try other things. 

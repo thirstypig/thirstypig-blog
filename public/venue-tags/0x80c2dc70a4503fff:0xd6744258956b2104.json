@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dc70a4503fff:0xd6744258956b2104",
+  "venue_name": "Mother Moo Creamery",
+  "chips": [
+    {
+      "label": "pies",
+      "mention_count": 40
+    },
+    {
+      "label": "sorbet",
+      "mention_count": 14
+    },
+    {
+      "label": "root beer floats",
+      "mention_count": 7
+    },
+    {
+      "label": "vanilla",
+      "mention_count": 8
+    },
+    {
+      "label": "homemade ice cream",
+      "mention_count": 6
+    },
+    {
+      "label": "hot waffle cone",
+      "mention_count": 5
+    },
+    {
+      "label": "organic ingredients",
+      "mention_count": 10
+    },
+    {
+      "label": "salty chocolate ice cream",
+      "mention_count": 3
+    },
+    {
+      "label": "carrot cake",
+      "mention_count": 4
+    },
+    {
+      "label": "dark chocolate mousse",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:05Z",
+  "city": "Sierra Madre",
+  "key": "moo-creamery-sierra-mad"
+}

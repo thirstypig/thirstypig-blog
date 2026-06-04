@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5e2268cca79:0xe9c547737b5ff392",
+  "venue_name": "Carnitas el Momo",
+  "chips": [
+    {
+      "label": "carnitas",
+      "mention_count": 301
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 9
+    },
+    {
+      "label": "pork tacos",
+      "mention_count": 29
+    },
+    {
+      "label": "cueritos",
+      "mention_count": 25
+    },
+    {
+      "label": "pork skin",
+      "mention_count": 14
+    },
+    {
+      "label": "pork shoulder",
+      "mention_count": 13
+    },
+    {
+      "label": "mulitas",
+      "mention_count": 33
+    },
+    {
+      "label": "buche",
+      "mention_count": 14
+    },
+    {
+      "label": "birria",
+      "mention_count": 36
+    },
+    {
+      "label": "Mulita De Mixta",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:09Z",
+  "city": "Los Angeles",
+  "key": "carnitas-el-momo-los-angele"
+}

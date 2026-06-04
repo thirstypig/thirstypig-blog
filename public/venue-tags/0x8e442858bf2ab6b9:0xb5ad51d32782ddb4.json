@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8e442858bf2ab6b9:0xb5ad51d32782ddb4",
+  "venue_name": "Memory House Museum",
+  "chips": [
+    {
+      "label": "history of colombia",
+      "mention_count": 97
+    },
+    {
+      "label": "history of Medellín",
+      "mention_count": 33
+    },
+    {
+      "label": "colombian conflict",
+      "mention_count": 118
+    },
+    {
+      "label": "free admission",
+      "mention_count": 107
+    },
+    {
+      "label": "free museum",
+      "mention_count": 29
+    },
+    {
+      "label": "audio guide",
+      "mention_count": 41
+    },
+    {
+      "label": "testimonies",
+      "mention_count": 29
+    },
+    {
+      "label": "interactive",
+      "mention_count": 92
+    },
+    {
+      "label": "english translations",
+      "mention_count": 56
+    },
+    {
+      "label": "history of violence",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:58Z",
+  "city": null,
+  "key": "images-memories-medellin"
+}

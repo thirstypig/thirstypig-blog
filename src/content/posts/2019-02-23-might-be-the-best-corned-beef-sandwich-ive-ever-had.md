@@ -13,6 +13,7 @@ images:
 - /images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18009071062131635.jpg
 - /images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18036864997044793.jpg
 - /images/posts/ig-2019-02-23-might-be-the-best-corned-beef-sandwich-ive-ever-had/18017155342126208.jpg
+location: Cravery
 tags:
 - san-gabriel
 - american

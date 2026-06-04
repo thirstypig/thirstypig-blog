@@ -7,6 +7,10 @@
       "mention_count": 11
     },
     {
+      "label": "sumai",
+      "mention_count": 3
+    },
+    {
       "label": "filet mignon",
       "mention_count": 3
     },
@@ -31,19 +35,15 @@
       "mention_count": 8
     },
     {
+      "label": "dim sum",
+      "mention_count": 58
+    },
+    {
       "label": "private room",
-      "mention_count": 2
-    },
-    {
-      "label": "birthday celebration",
-      "mention_count": 4
-    },
-    {
-      "label": "group dining",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:32:12Z",
-  "city": "Temple City",
-  "key": "grand-harbor-temple-cit"
+  "scraped_at": "2026-06-04T20:26:20Z",
+  "city": "San Gabriel",
+  "key": "grand-harbot-san-gabrie"
 }

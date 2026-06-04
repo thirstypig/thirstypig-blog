@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c5facde118f5:0x4ae7984ca72bc85a",
+  "venue_name": "Ipoh Kopitiam",
+  "chips": [
+    {
+      "label": "hainan chicken",
+      "mention_count": 179
+    },
+    {
+      "label": "bak kut teh",
+      "mention_count": 28
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 16
+    },
+    {
+      "label": "kaya toast",
+      "mention_count": 52
+    },
+    {
+      "label": "Char Kway Teow Stir Fried Flat Noodle",
+      "mention_count": 55
+    },
+    {
+      "label": "chicken curry",
+      "mention_count": 49
+    },
+    {
+      "label": "beef rendang",
+      "mention_count": 33
+    },
+    {
+      "label": "roti canai",
+      "mention_count": 62
+    },
+    {
+      "label": "wanton mee",
+      "mention_count": 20
+    },
+    {
+      "label": "hk pineapple buns",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:17Z",
+  "city": "Hong Kong",
+  "key": "pearl-river-deli-hong-kong"
+}

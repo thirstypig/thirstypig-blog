@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbbd28c9d11b:0xbd12010bbe1c5e83",
+  "venue_name": "MEIZHOU DONGPO RESTAURANT Arcadia",
+  "chips": [
+    {
+      "label": "Peking Duck",
+      "mention_count": 67
+    },
+    {
+      "label": "kung pao chicken",
+      "mention_count": 8
+    },
+    {
+      "label": "family style sichuan food",
+      "mention_count": 12
+    },
+    {
+      "label": "classic dongpo pork",
+      "mention_count": 16
+    },
+    {
+      "label": "dan dan noodle",
+      "mention_count": 7
+    },
+    {
+      "label": "duck soup",
+      "mention_count": 6
+    },
+    {
+      "label": "squirrel fish",
+      "mention_count": 4
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 6
+    },
+    {
+      "label": "string beans",
+      "mention_count": 5
+    },
+    {
+      "label": "Mapo Tofu",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-06-04T20:24:23Z",
+  "city": "Arcadia",
+  "key": "meizhou-dongpo-restaurant-arcadia"
+}

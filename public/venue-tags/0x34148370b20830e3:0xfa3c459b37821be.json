@@ -1,0 +1,25 @@
+{
+  "place_id": "0x34148370b20830e3:0xfa3c459b37821be",
+  "venue_name": "One Hundred Years Of Gulangyu Island",
+  "chips": [
+    {
+      "label": "landscape",
+      "mention_count": 3
+    },
+    {
+      "label": "environment",
+      "mention_count": 2
+    },
+    {
+      "label": "ancient sites",
+      "mention_count": 2
+    },
+    {
+      "label": "buildings",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:36Z",
+  "city": null,
+  "key": "snacking-on-piano-island-gulangyu"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbd554780781:0xa4f94285efdde121",
+  "venue_name": "Kaijin sushi (San Gabriel)",
+  "chips": [
+    {
+      "label": "vegetable tempura",
+      "mention_count": 2
+    },
+    {
+      "label": "halibut",
+      "mention_count": 2
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 5
+    },
+    {
+      "label": "ikura",
+      "mention_count": 2
+    },
+    {
+      "label": "sushi experience",
+      "mention_count": 2
+    },
+    {
+      "label": "beautiful plating",
+      "mention_count": 2
+    },
+    {
+      "label": "new menu",
+      "mention_count": 3
+    },
+    {
+      "label": "welcoming staff",
+      "mention_count": 3
+    },
+    {
+      "label": "salmon",
+      "mention_count": 5
+    },
+    {
+      "label": "new ownership",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:22Z",
+  "city": null,
+  "key": "sushi-san-gabrie"
+}

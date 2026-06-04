@@ -12,6 +12,7 @@ images:
 - /images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17890425559211214.jpg
 - /images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17889798046223179.jpg
 - /images/posts/ig-2018-06-09-drinks-with-friends-at-the-newly-opened-sake-dojo-in-little/17843977018279750.jpg
+location: Sake Dojo
 tags:
 - tokyo
 - japanese

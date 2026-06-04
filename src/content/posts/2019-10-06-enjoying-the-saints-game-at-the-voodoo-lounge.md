@@ -9,6 +9,7 @@ images:
 - /images/posts/ig-2019-10-06-enjoying-the-saints-game-at-the-voodoo-lounge/17878924783448816.jpg
 - /images/posts/ig-2019-10-06-enjoying-the-saints-game-at-the-voodoo-lounge/17844578200711297.jpg
 - /images/posts/ig-2019-10-06-enjoying-the-saints-game-at-the-voodoo-lounge/17990724145272234.jpg
+location: Voodoo Lounge
 tags:
 - cocktails
 - bloody-mary

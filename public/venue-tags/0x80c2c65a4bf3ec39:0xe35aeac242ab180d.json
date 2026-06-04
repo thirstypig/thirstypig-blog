@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c65a4bf3ec39:0xe35aeac242ab180d",
+  "venue_name": "HONG KONG BBQ RESTAURANT",
+  "chips": [
+    {
+      "label": "roast duck",
+      "mention_count": 41
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 8
+    },
+    {
+      "label": "bbq pork",
+      "mention_count": 15
+    },
+    {
+      "label": "orange chicken",
+      "mention_count": 9
+    },
+    {
+      "label": "portions",
+      "mention_count": 54
+    },
+    {
+      "label": "crispy skin",
+      "mention_count": 7
+    },
+    {
+      "label": "crispy pig",
+      "mention_count": 3
+    },
+    {
+      "label": "house special fried rice",
+      "mention_count": 3
+    },
+    {
+      "label": "Seafood with Fried to Fu Hot Pot",
+      "mention_count": 2
+    },
+    {
+      "label": "congee",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:01Z",
+  "city": null,
+  "key": "might-be-the-best-char-siu-in-la-los-angele"
+}

@@ -26,6 +26,7 @@ coordinates:
   lng: -118.343441
 cuisine:
 - Japanese
+placeId: "0x80c2b52a55535501:0xbf414574f90a0717"
 ---
 
 Roast beef set at Wadatsumi in Torrance. Japanese restaurant that specializes in steak and beef. They also have sushi bowls, too. Popular lunch and dinner spot. Get here early. 

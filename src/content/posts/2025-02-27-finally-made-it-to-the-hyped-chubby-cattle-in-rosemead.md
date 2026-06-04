@@ -11,6 +11,7 @@ images:
 - /images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/18450933781079347.jpg
 - /images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/18487991671010061.jpg
 - /images/posts/ig-2025-02-27-finally-made-it-to-the-hyped-chubby-cattle-in-rosemead/17977450556681632.jpg
+location: Chubby Cattle
 tags:
 - rosemead
 - bbq
@@ -23,6 +24,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2db351e4e57af:0xf7d2e78b98001f1a"
 ---
 
 Finally made it to the hyped Chubby Cattle in Rosemead. This place has been the rage on the interwebs with their curry restaurant and high end joint - @chubbycurryla and @nikuxla

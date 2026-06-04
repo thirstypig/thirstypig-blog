@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c54acf1ba233:0x486e115168c45a87",
+  "venue_name": "Little Swan Bakery Café",
+  "chips": [
+    {
+      "label": "durian flavor",
+      "mention_count": 5
+    },
+    {
+      "label": "cream puffs",
+      "mention_count": 6
+    },
+    {
+      "label": "wife cake",
+      "mention_count": 19
+    },
+    {
+      "label": "crepe cake",
+      "mention_count": 8
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 6
+    },
+    {
+      "label": "pork sung bread",
+      "mention_count": 3
+    },
+    {
+      "label": "vanilla fillings",
+      "mention_count": 4
+    },
+    {
+      "label": "birthday cake",
+      "mention_count": 10
+    },
+    {
+      "label": "green tea cake",
+      "mention_count": 3
+    },
+    {
+      "label": "winter melon",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:25:43Z",
+  "city": "Alhambra",
+  "key": "woos-crepe-alhambra"
+}

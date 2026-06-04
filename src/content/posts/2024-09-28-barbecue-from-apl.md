@@ -29,6 +29,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2db5803213825:0xb8ec663d042a02ef"
 ---
 
 Barbecue from APL. Beef rib, pork ribs, pulled pork, cornbread, and stuffed pig trotter. Amazing bbq from a Hall of Famer and YETI ambassador - APL Adam Perry Lang. The boneless pig trotter was stuffed with sausage with crispy skin - was absolutely amazing. We got in line at 11:30 with doors opening at 1pm. Was told a couple of their smokers were from Franklins. Would definitely visit again and would absolutely recommend. And worth it to stand in line. We stood in line for about 1.5 hours.

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2ba92da878525:0xcdf0d8911304443c",
+  "venue_name": "Beach Cities Car Wash",
+  "chips": [
+    {
+      "label": "vacuum",
+      "mention_count": 35
+    },
+    {
+      "label": "exterior wash",
+      "mention_count": 10
+    },
+    {
+      "label": "free coffee",
+      "mention_count": 5
+    },
+    {
+      "label": "mat cleaning",
+      "mention_count": 2
+    },
+    {
+      "label": "free hoover",
+      "mention_count": 2
+    },
+    {
+      "label": "automatic wash",
+      "mention_count": 2
+    },
+    {
+      "label": "decent car wash",
+      "mention_count": 3
+    },
+    {
+      "label": "quick wash",
+      "mention_count": 4
+    },
+    {
+      "label": "car cleanliness",
+      "mention_count": 9
+    },
+    {
+      "label": "early bird special",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:14Z",
+  "city": "Venice",
+  "key": "beach-cities-car-wash-detailing-venice"
+}

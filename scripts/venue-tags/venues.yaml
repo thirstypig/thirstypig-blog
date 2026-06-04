@@ -4945,3 +4945,334 @@ Los Angeles, CA 90027"
   query: "Basqueria Malibu"
   place_id: "0x80e81f7849392da9:0xa354a83fdb901c2c"
   cid: "11769216718446009388"
+
+- key: farmlab-downtown-l
+  name: "Farmlab"
+  city: "Downtown La"
+  query: "Farmlab 1745 North Spring St"
+  cid: "14748678371647866861"
+
+- key: silk-lounge-mpk
+  name: "Silk Lounge"
+  city: "Mpk"
+  query: "Silk Lounge 123 South Lincoln Ave"
+  place_id: "0x80c2c557250782a3:0xab717afc86953c23"
+  cid: "12353790477862255651"
+
+- key: racks-shanghai-shanghai
+  name: "Racks Shanghai"
+  city: "Shanghai"
+  query: "Racks Shanghai 221 Jinxian Road near Maoming Road"
+  cid: "17672342625806077884"
+
+- key: the-best-damn-nightclub-in-shanghai-shanghai
+  name: "The Best Damn Nightclub in Shanghai"
+  city: "Shanghai"
+  query: "The Best Damn Nightclub in Shanghai 318 Fuzhou Road"
+  cid: "10715408096358829671"
+
+- key: cafê-marion-crêpes-카페-마리온크레페-seoul
+  name: "CAFÊ MARION CRÊPES (카페 마리온크레페)"
+  city: "Seoul"
+  query: "CAFÊ MARION CRÊPES (카페 마리온크레페) 종로구 재동 12 (북촌점), 가회동, 서울특별시, 서울특별시, 110-250"
+
+- key: the-harbin-pig-restaurant-正宗杀猪菜-从头吃-harbin
+  name: "The Harbin Pig Restaurant 正宗杀猪菜 从头吃到尾"
+  city: "Harbin"
+  query: "The Harbin Pig Restaurant 正宗杀猪菜 从头吃到尾 Harbin"
+  place_id: "0x80c2db78f36374ed:0xe0772991036b83a9"
+  cid: "16174442289528800169"
+
+- key: the-kee-club-shanghai-shanghai
+  name: "The Kee Club Shanghai"
+  city: "Shanghai"
+  query: "The Kee Club Shanghai 上海市, 上海市, 200000"
+  place_id: "0x35b27009591dd64d:0x9aca23a3e93d00c4"
+  cid: "11153766614036185284"
+
+- key: commanders-palace-new-orlean
+  name: "Commanders Palace"
+  city: "New Orleans"
+  query: "Commanders Palace New Orleans"
+  place_id: "0x8620a5cd5976775b:0x483a92d6fcaceabb"
+  cid: "5204633771439876795"
+
+- key: shan-xi-cuisine-restaurant-arcadia
+  name: "Shan Xi Cuisine Restaurant"
+  city: "Arcadia"
+  query: "Shan Xi Cuisine Restaurant Arcadia"
+  place_id: "0x80c2dba4bc35aaab:0x9701ca52bceeb1a3"
+  cid: "10881200631409717667"
+
+- key: four-seas-taipei
+  name: "Four Seas"
+  city: "Taipei"
+  query: "Four Seas Taipei"
+  place_id: "0x80c2dadfab3efbd3:0xc3b517140c8536a4"
+  cid: "14102203183057417892"
+
+- key: electric-dusk-drive-in-hollywood
+  name: "Electric Dusk Drive-In"
+  city: "Hollywood"
+  query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
+
+- key: carrie-bradshaws-apartment-from-sex-new-york
+  name: "Carrie Bradshaw's Apartment from Sex & the City"
+  city: "New York"
+  query: "Carrie Bradshaw's Apartment from Sex & the City 66 Perry St (btwn Bleeker & W 4th St), New York, NY 10014"
+
+- key: zelo-pizza-arcadia
+  name: "Zelo Pizza"
+  city: "Arcadia"
+  query: "Zelo Pizza Arcadia"
+  place_id: "0x80c2dbe3acf6b095:0x8d34981a3547fba9"
+  cid: "10174924696467274665"
+
+- key: sake-dojo-tokyo
+  name: "Sake Dojo"
+  city: "Tokyo"
+  query: "Sake Dojo Tokyo"
+
+- key: meizhou-dongpo-restaurant-arcadia
+  name: "Meizhou Dongpo Restaurant"
+  city: "Arcadia"
+  query: "Meizhou Dongpo Restaurant Arcadia"
+  place_id: "0x80c2dbbd28c9d11b:0xbd12010bbe1c5e83"
+  cid: "13623952972694969987"
+
+- key: electric-dusk-drive-in-koreatown
+  name: "Electric Dusk Drive-In"
+  city: "Koreatown"
+  query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
+
+- key: electric-dusk-drive-in-los-angele
+  name: "Electric Dusk Drive-In"
+  city: "Los Angeles"
+  query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
+
+- key: cravery-san-gabrie
+  name: "Cravery"
+  city: "San Gabriel"
+  query: "Cravery San Gabriel"
+
+- key: halal-guys-new-york
+  name: "Halal Guys"
+  city: "New York"
+  query: "Halal Guys New York"
+  place_id: "0x89c259652b78b7cf:0xc9b18d28cbbde518"
+  cid: "14533552678857729304"
+
+- key: nomad-downtown-l
+  name: "NoMad"
+  city: "Downtown LA"
+  query: "NoMad Downtown LA"
+  place_id: "0x80c2c7f9cc8ed8ff:0x5a4ba45cbe7271df"
+  cid: "6506474804905931231"
+
+- key: woos-crepe-alhambra
+  name: "Woo's Crepe"
+  city: "Alhambra"
+  query: "Woo's Crepe Alhambra"
+  place_id: "0x80c2c54acf1ba233:0x486e115168c45a87"
+  cid: "5219128059516705415"
+
+- key: the-alley-los-angele
+  name: "The Alley"
+  city: "Los Angeles"
+  query: "The Alley Los Angeles"
+  cid: "5048428506345315566"
+
+- key: moo-creamery-sierra-mad
+  name: "Moo Creamery"
+  city: "Sierra Madre"
+  query: "Moo Creamery Sierra Madre"
+  place_id: "0x80c2dc70a4503fff:0xd6744258956b2104"
+  cid: "15453049169646395652"
+
+- key: carnitas-el-momo-los-angele
+  name: "Carnitas El Momo"
+  city: "Los Angeles"
+  query: "Carnitas El Momo Los Angeles"
+  place_id: "0x80c2c5e2268cca79:0xe9c547737b5ff392"
+  cid: "16844948542565905298"
+
+- key: carnitas-michoacán-east-la
+  name: "Carnitas Michoacán"
+  city: "East LA"
+  query: "Carnitas Michoacán East LA"
+  place_id: "0x80c2c66268718c33:0xa55c6d45bb09dbb6"
+  cid: "11915518860373646262"
+
+- key: pearl-river-deli-hong-kong
+  name: "Pearl River Deli"
+  city: "Hong Kong"
+  query: "Pearl River Deli Hong Kong"
+  place_id: "0x80c2c5facde118f5:0x4ae7984ca72bc85a"
+  cid: "5397450133416429658"
+
+- key: grand-harbot-san-gabrie
+  name: "Grand Harbot"
+  city: "San Gabriel"
+  query: "Grand Harbot San Gabriel"
+  place_id: "0x80c2dafb9ae4e323:0x6d26f8b802e7c295"
+  cid: "7865247268455563925"
+
+- key: torrance-cultural-arts-center-torrance
+  name: "Torrance Cultural Arts Center"
+  city: "Torrance"
+  query: "Torrance Cultural Arts Center 3330 Civic Center Dr N, Torrance, CA 90503"
+  place_id: "0x80c2b52a55535501:0xbf414574f90a0717"
+  cid: "13781372703427135255"
+
+- key: fixer-uppers-magnolia-market-in-wac-austin
+  name: "Fixer Upper’s Magnolia Market in Waco"
+  city: "Austin"
+  query: "Fixer Upper’s Magnolia Market in Waco Austin"
+  place_id: "0x864f8237195fa259:0xe86986e43f0ea285"
+  cid: "16747065004222489221"
+
+- key: castle-key-distillery-louisville
+  name: "Castle & Key distillery"
+  city: "Louisville"
+  query: "Castle & Key distillery Louisville"
+  place_id: "0x884273bc5ad4c861:0x5a439c1391933ad3"
+  cid: "6504213894713785043"
+
+- key: bardstown-bourbon-company-bardstown
+  name: "Bardstown Bourbon Company"
+  city: "Bardstown"
+  query: "Bardstown Bourbon Company Bardstown"
+  place_id: "0x88684ddbd798a61d:0x8a28118b5dfdbee3"
+  cid: "9955226266577518307"
+
+- key: nuwu-cannabis-marketplace-las-vegas
+  name: "NuWu Cannabis Marketplace"
+  city: "Las Vegas"
+  query: "NuWu Cannabis Marketplace 1235 Paiute Circle (Main & Washington), Las Vegas, NV 89106"
+  place_id: "0x80c8c3076a4c36f9:0x82f100fdea03d0eb"
+  cid: "9435323784870744299"
+
+- key: club-medellín-medellin
+  name: "Club Medellín"
+  city: "Medellin"
+  query: "Club Medellín Calle 50 # 43 -65, Medellín, Antioquia"
+  place_id: "0x8e442857efb8b4c3:0x7d2df8a0428b3e34"
+  cid: "9020138995887849012"
+
+- key: palacio-de-la-cultura-rafael-uribe--medellin
+  name: "Palacio De La Cultura Rafael Uribe Uribe"
+  city: "Medellin"
+  query: "Palacio De La Cultura Rafael Uribe Uribe Cra 51 # 52 - 03, Medellín, Antioquia"
+  place_id: "0x8e4428f9327b3627:0xa32a4ca2f06678ef"
+  cid: "11757294039905761519"
+
+- key: former-provisional-government-site--shanghai
+  name: "Former Provisional Government Site of the Republic of Korea (大韩民国临时政府旧址)"
+  city: "Shanghai"
+  query: "Former Provisional Government Site of the Republic of Korea (大韩民国临时政府旧址) 马当路302-304号 (复兴中路与自忠路之间), Xīntiāndì, 上海市, 上海市"
+  place_id: "0x35b270715b63830b:0xfc208071cdba7812"
+  cid: "18167662123083790354"
+
+- key: taichung-night-market-taichung
+  name: "Taichung Night Market"
+  city: "Taichung"
+  query: "Taichung Night Market Taichung"
+  place_id: "0x34693d688e719879:0x79ccdb5926a580bb"
+  cid: "8776630949785206971"
+
+- key: yakitori-joint-taipei
+  name: "Yakitori Joint"
+  city: "Taipei"
+  query: "Yakitori Joint Taipei"
+  place_id: "0x3442a982d2fc44df:0x260198e5adc56dde"
+  cid: "2738638160648302046"
+
+- key: 小埕戏-xiamen
+  name: "小埕戏"
+  city: "Xiamen"
+  query: "小埕戏 Xiamen"
+  place_id: "0x341484b6e2c388bf:0xf8e3df23ff23adeb"
+  cid: "17934423486816824811"
+
+- key: had-los-angele
+  name: "Had"
+  city: "Los Angeles"
+  query: "Had Los Angeles"
+  cid: "16298491244936825076"
+
+- key: culver-city-city-hall-culver-cit
+  name: "Culver City City Hall"
+  city: "Culver City"
+  query: "Culver City City Hall 9770 Culver Blvd (at Duquesne Ave), Culver City, CA 90232"
+  place_id: "0x80c2ba2863e5b8f9:0x37bc7327501076fd"
+  cid: "4016211580391814909"
+
+- key: apl-bbq-pop-up-los-angele
+  name: "APL BBQ Pop Up"
+  city: "Los Angeles"
+  query: "APL BBQ Pop Up 822 Washington Blvd, Venice, CA 90292, USA"
+  place_id: "0x80c2db5803213825:0xb8ec663d042a02ef"
+  cid: "13325137809731355375"
+
+- key: woodinville-whiskey-woodinvill
+  name: "Woodinville Whiskey"
+  city: "Woodinville"
+  query: "Woodinville Whiskey Woodinville"
+  place_id: "0x54900dd27ee70b31:0x60092f9c69f43561"
+  cid: "6920114651270493537"
+
+- key: troubadour-west-holly
+  name: "Troubadour"
+  city: "West Hollywood"
+  query: "Troubadour 9081 N Santa Monica Blvd, West Hollywood, CA 90069, USA"
+  place_id: "0x80c2bea892855a35:0x8937b476c332b060"
+  cid: "9887569929089232992"
+
+- key: beach-cities-car-wash-detailing-venice
+  name: "Beach Cities Car Wash & Detailing"
+  city: "Venice"
+  query: "Beach Cities Car Wash & Detailing Lincoln Blvd, Los Angeles, CA 90291, Los Angeles, CA 90291"
+  place_id: "0x80c2ba92da878525:0xcdf0d8911304443c"
+  cid: "14839598889786688572"
+
+- key: tacos-los-huic-los-angele
+  name: "Tacos Los Huic"
+  city: "Los Angeles"
+  query: "Tacos Los Huic Los Angeles"
+  place_id: "0x80c2c839b516fd97:0x431823033d7b337d"
+  cid: "4834652696805585789"
+
+- key: thien-hau-temple-los-angele
+  name: "Thien Hau Temple"
+  city: "Los Angeles"
+  query: "Thien Hau Temple 750-756 Yale St (at Alpine St.), Los Angeles, CA 90012"
+  place_id: "0x80c2c650a63ca95f:0xd1e30bf58e25d678"
+  cid: "15123945122919995000"
+
+- key: chubby-cattle-rosemead
+  name: "Chubby Cattle"
+  city: "Rosemead"
+  query: "Chubby Cattle Rosemead"
+  place_id: "0x80c2db351e4e57af:0xf7d2e78b98001f1a"
+  cid: "17857590059214053146"
+
+- key: olympic-game-farm-inc-sequim
+  name: "Olympic Game Farm Inc."
+  city: "Sequim"
+  query: "Olympic Game Farm Inc. 1423 Ward Rd, Sequim, WA 98382, USA"
+  place_id: "0x548fbe91029d767d:0x6888c6c10a33bdf7"
+  cid: "7532488909179305463"
+
+- key: pike-place-market-seattle
+  name: "Pike Place Market"
+  city: "Seattle"
+  query: "Pike Place Market 85 Pike St, Seattle, WA 98101, USA"
+  place_id: "0x54906bb2f3f5ca3d:0x93f18f02f14e0a2c"
+  cid: "10660459035763804716"
+
+- key: old-log-cabin-distillery-seattle
+  name: "Old Log Cabin Distillery"
+  city: "Seattle"
+  query: "Old Log Cabin Distillery 1417 Elliott Ave W, Seattle, WA 98119, USA"
+  place_id: "0x549015659e114a13:0x9f3041bf92c09f6d"
+  cid: "11470740541969309549"

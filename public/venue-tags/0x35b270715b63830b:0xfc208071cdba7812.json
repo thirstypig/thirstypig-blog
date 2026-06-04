@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b270715b63830b:0xfc208071cdba7812",
+  "venue_name": "大韩民国临时政府旧址",
+  "chips": [
+    {
+      "label": "no photography inside",
+      "mention_count": 13
+    },
+    {
+      "label": "archeological site",
+      "mention_count": 15
+    },
+    {
+      "label": "shanghai trip",
+      "mention_count": 7
+    },
+    {
+      "label": "shanghai landmark",
+      "mention_count": 4
+    },
+    {
+      "label": "historical significance",
+      "mention_count": 8
+    },
+    {
+      "label": "solemn atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "narrow space",
+      "mention_count": 2
+    },
+    {
+      "label": "monumental place",
+      "mention_count": 2
+    },
+    {
+      "label": "Government of the Republic of Korea",
+      "mention_count": 5
+    },
+    {
+      "label": "recommended for koreans",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:05Z",
+  "city": "Shanghai",
+  "key": "former-provisional-government-site--shanghai"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3054f0123dc1e94d:0x17f2bcfd6e3303a1",
+  "venue_name": "Supattra Thai Dining",
+  "chips": [
+    {
+      "label": "blue crab curry",
+      "mention_count": 32
+    },
+    {
+      "label": "wine selection",
+      "mention_count": 57
+    },
+    {
+      "label": "coconut ice cream",
+      "mention_count": 13
+    },
+    {
+      "label": "Lamb Massamun Curry",
+      "mention_count": 6
+    },
+    {
+      "label": "toblerone mousse",
+      "mention_count": 3
+    },
+    {
+      "label": "calamari",
+      "mention_count": 9
+    },
+    {
+      "label": "seafood in coconut",
+      "mention_count": 2
+    },
+    {
+      "label": "shrimp carpaccio",
+      "mention_count": 2
+    },
+    {
+      "label": "locally sourced ingredients",
+      "mention_count": 6
+    },
+    {
+      "label": "friendly owners",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:09Z",
+  "city": null,
+  "key": "great-outdoor-thai-restaurant-in-ko-koh-samui"
+}
