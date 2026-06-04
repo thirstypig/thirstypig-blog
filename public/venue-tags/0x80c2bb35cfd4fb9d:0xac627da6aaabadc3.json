@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb35cfd4fb9d:0xac627da6aaabadc3",
+  "venue_name": "Midoh - Sawtelle",
+  "chips": [
+    {
+      "label": "tonkatsu",
+      "mention_count": 16
+    },
+    {
+      "label": "corn soup",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "hamburg steak",
+      "mention_count": 14
+    },
+    {
+      "label": "omurice",
+      "mention_count": 11
+    },
+    {
+      "label": "Udon Tempura Shrimp",
+      "mention_count": 6
+    },
+    {
+      "label": "curry",
+      "mention_count": 25
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 3
+    },
+    {
+      "label": "japanese food",
+      "mention_count": 24
+    },
+    {
+      "label": "Seafood Doria",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T03:31:07Z",
+  "city": "Sawtelle",
+  "key": "midoh-sawtelle"
+}

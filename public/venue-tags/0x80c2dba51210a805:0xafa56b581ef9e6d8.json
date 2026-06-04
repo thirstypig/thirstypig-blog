@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dba51210a805:0xafa56b581ef9e6d8",
+  "venue_name": "Tofu King",
+  "chips": [
+    {
+      "label": "stinky tofu",
+      "mention_count": 24
+    },
+    {
+      "label": "cash only",
+      "mention_count": 15
+    },
+    {
+      "label": "beef noodle soup",
+      "mention_count": 11
+    },
+    {
+      "label": "wintermelon tea",
+      "mention_count": 4
+    },
+    {
+      "label": "minced pork rice",
+      "mention_count": 11
+    },
+    {
+      "label": "wontons",
+      "mention_count": 2
+    },
+    {
+      "label": "pickled cabbage",
+      "mention_count": 2
+    },
+    {
+      "label": "herbal tea",
+      "mention_count": 3
+    },
+    {
+      "label": "crispy chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "spicy stinky tofu",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-04T03:31:03Z",
+  "city": "Arcadia",
+  "key": "tofu-king-arcadia"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b5df6c80825d:0xd321f9f661b24d10",
+  "venue_name": "Wagyu Butcher Japanese BBQ",
+  "chips": [
+    {
+      "label": "omakase",
+      "mention_count": 24
+    },
+    {
+      "label": "yakiniku",
+      "mention_count": 5
+    },
+    {
+      "label": "a5 wagyu",
+      "mention_count": 5
+    },
+    {
+      "label": "butcher course",
+      "mention_count": 12
+    },
+    {
+      "label": "course menu",
+      "mention_count": 5
+    },
+    {
+      "label": "meat cuts",
+      "mention_count": 10
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 5
+    },
+    {
+      "label": "Beef Sashimi",
+      "mention_count": 2
+    },
+    {
+      "label": "sake pairings",
+      "mention_count": 2
+    },
+    {
+      "label": "Short Ribs",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-06-04T03:31:33Z",
+  "city": "Torrance",
+  "key": "wagyu-butcher-torrance"
+}
