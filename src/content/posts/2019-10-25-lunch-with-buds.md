@@ -30,16 +30,7 @@ cuisine:
 placeId: "0x80c2c78c5ad458fb:0xac61952781518a0f"
 ---
 
-![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/18027537859236087.jpg)
-
-![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/17859520735561481.jpg)
-
-![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/17845492258732747.jpg)
-
-![Lunch with buds](/images/posts/ig-2019-10-25-lunch-with-buds/17886645244432921.jpg)
-
 Lunch with buds. Plan Check’s patty melt, burger, and asian salad. Yum! .
 .
 .
 .
-@plancheck @dhuang25 @travisytu @travistu110968

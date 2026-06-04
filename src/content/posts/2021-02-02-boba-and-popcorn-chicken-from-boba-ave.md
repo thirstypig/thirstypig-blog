@@ -31,16 +31,6 @@ draft: false
 placeId: "0x80c2dbafb68600bb:0x989dc0b597b6b69e"
 ---
 
-![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17919479245536140.jpg)
-
-![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17855735192455258.jpg)
-
-![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/18105098170204455.jpg)
-
-![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17860236197344307.jpg)
-
-![Boba and popcorn chicken from Boba Ave](/images/posts/ig-2021-02-02-boba-and-popcorn-chicken-from-boba-ave/17872221143216063.jpg)
-
 Boba and popcorn chicken from Boba Ave. Nice little restaurant that has driv thru for boba drinks and Taiwanese popcorn chicken.
 .
 .
@@ -48,4 +38,4 @@ Boba and popcorn chicken from Boba Ave. Nice little restaurant that has driv thr
 .
 .
 .
-. @bobaave\_8090
+.

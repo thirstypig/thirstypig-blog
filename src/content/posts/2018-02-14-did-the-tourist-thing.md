@@ -27,10 +27,4 @@ cuisine:
 placeId: "0x808580e306e4b821:0xa7ecdb38f0d8ecdc"
 ---
 
-![Did the tourist thing](/images/posts/ig-2018-02-14-did-the-tourist-thing/17864939845210324.jpg)
-
-![Did the tourist thing](/images/posts/ig-2018-02-14-did-the-tourist-thing/17866565395203874.jpg)
-
-![Did the tourist thing](/images/posts/ig-2018-02-14-did-the-tourist-thing/17897043424152640.jpg)
-
-Did the tourist thing @fishermanswharf #steamedcrab #clamchowder #lobsterbisque
+Did the tourist thing

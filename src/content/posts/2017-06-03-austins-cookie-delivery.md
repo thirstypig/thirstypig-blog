@@ -30,20 +30,4 @@ cuisine:
 placeId: "0x8644cbf395fc96e7:0x327bccf833759dfa"
 ---
 
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17881830892055446.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17857907257167539.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17871131023129802.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17868471370090997.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17882301079051379.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17882509135061957.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17868141127090041.jpg)
-
-![Austin's cookie delivery](/images/posts/ig-2017-06-03-austins-cookie-delivery/17875996783068683.jpg)
-
 @tiffstreats #tiffstreats #cookies Austin's cookie delivery. #yum #desserts. Snicker doodle, chocolate chip, peanut butter, oatmeal chocolate chip, and chocolate chip peanut butter!

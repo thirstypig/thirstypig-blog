@@ -30,14 +30,6 @@ cuisine:
 placeId: "0x80c2c71b8369099d:0x6a710a4078636fe5"
 ---
 
-![Gamjatang and Bo-Ssam](/images/posts/ig-2022-03-06-gamjatang-and-bo-ssam/17936587615963226.jpg)
-
-![Gamjatang and Bo-Ssam](/images/posts/ig-2022-03-06-gamjatang-and-bo-ssam/17891139638602515.jpg)
-
-![Gamjatang and Bo-Ssam](/images/posts/ig-2022-03-06-gamjatang-and-bo-ssam/17884946486618672.jpg)
-
-![Gamjatang and Bo-Ssam](/images/posts/ig-2022-03-06-gamjatang-and-bo-ssam/17903585300398720.jpg)
-
 Gamjatang and Bo-Ssam. The Gamjatang, pork neck with potatoes had good flavor and texture. But it was a challenge to pick and eat the meat. The Bo-Ssam, the boiled pork belly, was messy but yummy with the cabbage wraps and sauces. 
 .
 .
@@ -45,4 +37,3 @@ Gamjatang and Bo-Ssam. The Gamjatang, pork neck with potatoes had good flavor an
 .
 .
 .
-@gamjagolla #gamjatang #gamjatang❤️❤️❤️ @wushu_wu #tastemakersapp #thirstypig

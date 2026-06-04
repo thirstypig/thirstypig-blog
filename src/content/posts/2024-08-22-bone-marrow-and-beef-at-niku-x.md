@@ -27,18 +27,7 @@ cuisine:
 placeId: "0x80c2c7a9ecccab1b:0xf04e981b14f4e80b"
 ---
 
-![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18298746178167857.jpg)
-
-![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/17935819850883571.jpg)
-
-![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18099496120440360.jpg)
-
-![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18054142546775230.jpg)
-
-![Bone marrow and beef at NIKU X](/images/posts/ig-2024-08-22-bone-marrow-and-beef-at-niku-x/18005314277418736.jpg)
-
 Bone marrow and beef at NIKU X. 
 .
 .
 .
-@nikuxla @tastemakersapp

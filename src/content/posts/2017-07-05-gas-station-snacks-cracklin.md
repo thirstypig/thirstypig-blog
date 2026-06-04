@@ -20,8 +20,4 @@ cuisine:
 - Cajun
 ---
 
-![Gas Station Snacks - Cracklin](/images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17878323493076163.jpg)
-
-![Gas Station Snacks - Cracklin](/images/posts/ig-2017-07-05-gas-station-snacks-cracklin/17887063366058172.jpg)
-
-Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market #cracklin #pork #thirstypig
+Gas Station Snacks - Cracklin. Yummy but not as good as The Best Stop Market

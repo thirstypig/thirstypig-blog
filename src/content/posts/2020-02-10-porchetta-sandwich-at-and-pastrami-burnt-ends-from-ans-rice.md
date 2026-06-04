@@ -30,14 +30,6 @@ cuisine:
 placeId: "0x80c2c3ffca83b651:0x8226f1237187728f"
 ---
 
-![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17856737860767277.jpg)
-
-![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/17871046597595944.jpg)
-
-![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18099179392120290.jpg)
-
-![Porchetta sandwich at and pastrami burnt ends from ans rice balls and frie...](/images/posts/ig-2020-02-10-porchetta-sandwich-at-and-pastrami-burnt-ends-from-ans-rice/18128354647060037.jpg)
-
 Porchetta sandwich at @porchettarepublic and pastrami burnt ends from @uglydrum ans rice balls @mamamusubi and fried yucca from a place I forgot the name
 .
 .
@@ -45,4 +37,3 @@ Porchetta sandwich at @porchettarepublic and pastrami burnt ends from @uglydrum 
 .
 .
 .
-@smorgasburgla @yalin_wu

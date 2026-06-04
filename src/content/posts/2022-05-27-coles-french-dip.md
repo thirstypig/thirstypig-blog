@@ -28,14 +28,9 @@ cuisine:
 placeId: "0x80c2c6359f6c9d81:0xf5d57a5a78e20b09"
 ---
 
-![Cole’s French Dip](/images/posts/ig-2022-05-27-coles-french-dip/18012507118405797.jpg)
-
-![Cole’s French Dip](/images/posts/ig-2022-05-27-coles-french-dip/17964917017713789.jpg)
-
 Cole’s French Dip. I had to have Cole’s also. But in reality, I had Cole’s first then Phillipe’s. Everyone will ask - which is better? Let’s point out the differences - thicker slices of beef at Cole’s. Larger bread roll. Larger portions, too 😀 And Cole’s serves these French dip sandwiches till 11:30pm. Plus you can get mixed drinks at Cole’s. I think the hot spicy horse radish mustard is about the same. Nice bite. I did like the gator tots. I think it comes down to personal preference. I can really do both.
 .
 .
 .
 .
 .
-@colesfrenchdip

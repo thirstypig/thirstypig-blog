@@ -36,30 +36,9 @@ cuisine:
 placeId: "0x80c2c65a0f2fc21f:0xc3adb108612fa238"
 ---
 
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17843287757817907.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17914472468565420.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17876322623673078.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17961201670891399.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/18063666082319826.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17936839061500569.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/18021499222398476.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/18034223197374319.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17944692332017280.jpg)
-
-![Seafood at](/images/posts/ig-2022-07-29-seafood-at/17940725234277588.jpg)
-
 Seafood at @foundoyster. Great little place for oysters and seafood. Lobster roll was really good. The scallops were some of the best ever. The blue crab dip with ritz crackers were great. But the Santa Barbara uni with the white chips and fresh wasabi was some of the best ever!!
 .
 .
 .
 .
 .
-@foundoyster @fongjf123

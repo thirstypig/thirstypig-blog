@@ -32,21 +32,9 @@ cuisine:
 placeId: "0x80c2c6385d34a359:0xcebe6f56e038061e"
 ---
 
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18045032158324153.jpg)
-
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17934307304102967.jpg)
-
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18157934737242923.jpg)
-
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/18001900960424078.jpg)
-
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17926962116081502.jpg)
-
-![Shabu Shabu at Kagaya](/images/posts/ig-2022-04-09-shabu-shabu-at-kagaya/17898048503509610.jpg)
-
 Shabu Shabu at Kagaya. Wagyu Beef set course at arguably the best Shabu Shabu restaurant in LA. Glad to have had it before the owner retires. But I understand the new owners are taking over right after. 
 .
 .
 .
 .
-. @riekaraoke #しゃぶしゃぶ
+.

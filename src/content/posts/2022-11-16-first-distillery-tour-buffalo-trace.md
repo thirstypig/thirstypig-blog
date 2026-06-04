@@ -27,24 +27,6 @@ city: Louisville
 cuisine: []
 ---
 
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18330931573019685.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17971403371806163.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17882270915704279.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17942373824302346.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17985509764606952.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18333331456009183.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/18010980937443520.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17954607332234439.jpg)
-
-![First Distillery tour - Buffalo Trace](/images/posts/ig-2022-11-16-first-distillery-tour-buffalo-trace/17873278358748354.jpg)
-
 First Distillery tour - Buffalo Trace. Amazing distillery with one of the hottest tours in Louisville. Buffalo Trace, Wellers, Pappy’s, Fireball, Blantons, and other bourbons are made here. Got to see where they bottle single barrel bourbon. Luckily, we got a chance to purchase a Blantons. It was here, where I learned the most about bourbon distilling. I recommend trying to get a tour appointment here first, when coming to Louisville. Reserve early!!
 .
 .
@@ -53,4 +35,3 @@ First Distillery tour - Buffalo Trace. Amazing distillery with one of the hottes
 .
 .
 .
-@buffalotrace @buffalotracedistillery @wellerbourbon @blantons_bourbon @pappyvanwinkle @fireballwhisky @heykbing @thirstypig @tastemakersapp

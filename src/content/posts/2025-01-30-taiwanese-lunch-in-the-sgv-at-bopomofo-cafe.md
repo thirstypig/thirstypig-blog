@@ -27,18 +27,7 @@ cuisine:
 placeId: "0x80c2db2b48517b31:0xf738e9710c739480"
 ---
 
-![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18053556374107303.jpg)
-
-![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18019920008449505.jpg)
-
-![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18035186168397509.jpg)
-
-![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/18021361445646196.jpg)
-
-![Taiwanese lunch in the SGV at Bopomofo cafe](/images/posts/ig-2025-01-30-taiwanese-lunch-in-the-sgv-at-bopomofo-cafe/17922238314034791.jpg)
-
 Taiwanese lunch in the SGV at Bopomofo cafe. We had the beef noodle sandwich, spicy popcorn chicken, braised pork over rice, and the mapo tots.
 .
 .
 .
-@bopomofocafe

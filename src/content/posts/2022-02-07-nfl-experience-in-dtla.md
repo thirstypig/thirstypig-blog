@@ -23,17 +23,12 @@ categories:
 cuisine: []
 ---
 
-![NFL Experience in DTLA](/images/posts/ig-2022-02-07-nfl-experience-in-dtla/17929997885057122.jpg)
-
-![NFL Experience in DTLA](/images/posts/ig-2022-02-07-nfl-experience-in-dtla/17917810115119787.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2022-02-07-nfl-experience-in-dtla/17929053773053837.mp4" type="video/mp4"></video>
-
-<video controls width="100%"><source src="/videos/posts/ig-2022-02-07-nfl-experience-in-dtla/17882398979544143.mp4" type="video/mp4"></video>
-
 NFL Experience in DTLA. Lots of cool things to do and see. Interesting. Great for kids. But unfortunately there are lots of lines
 .
 .
 .
 .
-. @nfl
+.
+
+<video controls width="100%"><source src="/videos/posts/ig-2022-02-07-nfl-experience-in-dtla/17929053773053837.mp4" type="video/mp4"></video>
+<video controls width="100%"><source src="/videos/posts/ig-2022-02-07-nfl-experience-in-dtla/17882398979544143.mp4" type="video/mp4"></video>

@@ -31,24 +31,4 @@ categories:
 cuisine: []
 ---
 
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17911166575070552.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17917173343020672.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17916416467031429.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17890940809189220.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17843551825235763.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17916725281016701.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17843552110232005.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17899968895085817.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17890482046146311.jpg)
-
-![Sculptures TIL a lot about the most well know Japanese American Sculpture](/images/posts/ig-2018-01-05-sculptures-til-a-lot-about-the-most-well-know-japanese-ameri/17919239581045160.jpg)
-
 Sculptures @noguchimuseum TIL a lot about the most well know Japanese American Sculpture. He volunteered to be interned during WWII. Amazing museum about an amazing man.

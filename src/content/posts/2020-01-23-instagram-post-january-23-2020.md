@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — January 23, 2020](/images/posts/ig-2020-01-23-instagram-post-january-23-2020/17859328369692013.jpg)

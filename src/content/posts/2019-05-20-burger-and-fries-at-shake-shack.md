@@ -30,14 +30,6 @@ cuisine:
 placeId: "0x89c258bc949d58cf:0x84ac8a2dc2535dc2"
 ---
 
-![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18066624565024900.jpg)
-
-![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18040996858085237.jpg)
-
-![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/17883322897353045.jpg)
-
-![Burger and Fries at Shake Shack](/images/posts/ig-2019-05-20-burger-and-fries-at-shake-shack/18000935188210056.jpg)
-
 Burger and Fries at Shake Shack. Had the double, mushroom burger, and combo mushroom & beef burger with a couple of orders of fries. .
 .
-. @shakeshack @rojouan @yalin_wu #thirstypig
+.

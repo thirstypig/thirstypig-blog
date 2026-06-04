@@ -29,12 +29,6 @@ cuisine:
 placeId: "0x80c2dade286d704b:0xc2bc7a5cd75e3a0"
 ---
 
-![Do you remember having fundraisers at Shakey’s? Or do you remember having th...](/images/posts/ig-2022-03-26-do-you-remember-having-fundraisers-at-shakeys-or-do-you-reme/17918289140346791.jpg)
-
-![Do you remember having fundraisers at Shakey’s? Or do you remember having th...](/images/posts/ig-2022-03-26-do-you-remember-having-fundraisers-at-shakeys-or-do-you-reme/18064501492307210.jpg)
-
-![Do you remember having fundraisers at Shakey’s? Or do you remember having th...](/images/posts/ig-2022-03-26-do-you-remember-having-fundraisers-at-shakeys-or-do-you-reme/17950177663793943.jpg)
-
 Do you remember having fundraisers at Shakey’s? Or do you remember having the yummy and unique Mojo Potatoes. Or have you had the Shakey’s lunch buffet? Tonight was having that itch scratched, when it didn’t need to, but wanted to. Tonight was about reliving college and little league days of fundraisers. And it was having pizza, chicken, and most of all - the mojo potatoes. 
 .
 .
@@ -42,4 +36,3 @@ Do you remember having fundraisers at Shakey’s? Or do you remember having the 
 .
 .
 .
-@shakeysusa @shakeyspizzasg @pizzashakeys @michifu1222 #tastemakers #thirstypig

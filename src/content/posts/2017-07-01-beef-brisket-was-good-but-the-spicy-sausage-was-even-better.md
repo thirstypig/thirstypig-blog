@@ -28,18 +28,4 @@ cuisine:
 placeId: "0x8644b57efa7a09cd:0xc0eec8eeb6306640"
 ---
 
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17861747095180115.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17865253633138198.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17877736894115169.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17880017914070511.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17886751198037742.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17873404162121569.jpg)
-
-![Beef Brisket was good but the spicy sausage was even better](/images/posts/ig-2017-07-01-beef-brisket-was-good-but-the-spicy-sausage-was-even-better/17886587242063319.jpg)
-
 @freedmens #tmbbqtop50 Beef Brisket was good but the spicy sausage was even better. Pull pork and pork ribs were ok. I like the cabbage slaw and button mushrooms. Blantons #bourbon was tasty

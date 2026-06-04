@@ -22,13 +22,8 @@ cuisine:
 - Korean
 ---
 
-![Black Sesame Korean shaved ice and Mango shaved ice](/images/posts/ig-2019-08-17-black-sesame-korean-shaved-ice-and-mango-shaved-ice/17845706059565076.jpg)
-
-![Black Sesame Korean shaved ice and Mango shaved ice](/images/posts/ig-2019-08-17-black-sesame-korean-shaved-ice-and-mango-shaved-ice/18023926420210856.jpg)
-
 Black Sesame Korean shaved ice and Mango shaved ice.
 .
 .
 .
 .
-@sulnbeans #koreandesserts #shavedice #sgv

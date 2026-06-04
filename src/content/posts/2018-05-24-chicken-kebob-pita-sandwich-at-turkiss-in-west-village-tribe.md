@@ -32,16 +32,4 @@ cuisine:
 placeId: "0x89c25916650040f3:0x7aea75fe6469ec63"
 ---
 
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17875590688231344.jpg)
-
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17928190846084975.jpg)
-
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17928257233082479.jpg)
-
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17949249376034151.jpg)
-
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17938151701079990.jpg)
-
-![Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal](/images/posts/ig-2018-05-24-chicken-kebob-pita-sandwich-at-turkiss-in-west-village-tribe/17920362100181502.jpg)
-
-Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal @turkisscatering #chickenpita @thirstypig #thirstypig #eeeeeats
+Chicken kebob pita sandwich at Turkiss in West Village Tribeca on Macdougal

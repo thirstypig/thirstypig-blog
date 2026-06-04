@@ -20,14 +20,4 @@ categories:
 cuisine: []
 ---
 
-![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17861265631174266.jpg)
-
-![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17863148581147304.jpg)
-
-![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17875365031119902.jpg)
-
-![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17872525375091285.jpg)
-
-![Hunan Food in](/images/posts/ig-2017-07-04-hunan-food-in/17862499552152344.jpg)
-
-Hunan Food in #htx #spicy #hunanfood
+Hunan Food in

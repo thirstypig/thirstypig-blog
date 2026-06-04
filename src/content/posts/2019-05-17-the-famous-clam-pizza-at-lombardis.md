@@ -26,16 +26,7 @@ cuisine:
 placeId: "0x89c2598a1316e7a7:0xd8f10512fc3c4299"
 ---
 
-![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17849587021438362.jpg)
-
-![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/18068968411002847.jpg)
-
-![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17878865440361036.jpg)
-
-![The famous clam pizza at Lombardi’s](/images/posts/ig-2019-05-17-the-famous-clam-pizza-at-lombardis/17865712708377265.jpg)
-
 The famous clam pizza at Lombardi’s. Also had the chicken parmesan, half white and sausage pizza, and an Italian salad. Solid pizza!
 .
 .
 .
-#eeeeeats #eat #nyc @lombardis_pizza_nyc @yalin_wu @kk8ee

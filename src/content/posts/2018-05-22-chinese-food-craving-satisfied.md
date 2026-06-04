@@ -30,15 +30,7 @@ cuisine:
 placeId: "0x89c259771a76e40b:0xddc931c5895b2b59"
 ---
 
-![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17869870666244992.jpg)
-
-![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17906834032197474.jpg)
-
-![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17921556490190322.jpg)
-
-![Chinese food craving satisfied](/images/posts/ig-2018-05-22-chinese-food-craving-satisfied/17932880914100041.jpg)
-
 Chinese food craving satisfied. Wife was tasked to find something she wanted to eat. Luckily it close by and pretty good. We had fish filet in a spicy sauce and three pepper chicken. With rice, in a hunan rice bowl, and wonton soup. The chicken was a favorite by our waiter and indeed it was. I dig the interior and the traditional Chinese furniture. .
 .
 .
-. @yalin_wu @thirstypig
+.

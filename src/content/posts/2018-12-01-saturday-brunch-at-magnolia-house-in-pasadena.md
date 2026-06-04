@@ -29,16 +29,7 @@ cuisine:
 - American
 ---
 
-![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/17973204751160379.jpg)
-
-![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/17991414832103685.jpg)
-
-![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/17941726252221085.jpg)
-
-![Saturday brunch at Magnolia House in Pasadena](/images/posts/ig-2018-12-01-saturday-brunch-at-magnolia-house-in-pasadena/18000880798070229.jpg)
-
 Saturday brunch at Magnolia House in Pasadena. Chicken and waffles, pork belly with egg Sandro, and chiliquilles .
 .
 .
 .
-@thirstypig @maghousepasadena @yalin_wu @tomatocheng

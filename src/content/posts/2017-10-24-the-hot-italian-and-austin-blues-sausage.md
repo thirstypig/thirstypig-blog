@@ -28,8 +28,4 @@ cuisine:
 placeId: "0x80c2c757501d5a5d:0x7652aeb4ecd9ad7b"
 ---
 
-![The hot Italian and Austin blues sausage](/images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17881408327139443.jpg)
-
-![The hot Italian and Austin blues sausage](/images/posts/ig-2017-10-24-the-hot-italian-and-austin-blues-sausage/17863963387195930.jpg)
-
-The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce. DTLA favorite @wurstkuche #yummy #sausage #thirstypig @thirstypig @yalin_wu @davidlee_72
+The hot Italian and Austin blues sausage. Large fries with chipotle ketchup dipping sauce. DTLA favorite

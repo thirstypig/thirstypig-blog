@@ -20,12 +20,6 @@ cuisine:
 - Seafood
 ---
 
-![Lunch in the valley](/images/posts/ig-2022-04-24-lunch-in-the-valley/18292137643052269.jpg)
-
-![Lunch in the valley](/images/posts/ig-2022-04-24-lunch-in-the-valley/17934793874112133.jpg)
-
-![Lunch in the valley](/images/posts/ig-2022-04-24-lunch-in-the-valley/17961100105654875.jpg)
-
 Lunch in the valley. Tuna salad. Sounds ordinary but not. 
 .
 .
@@ -33,4 +27,3 @@ Lunch in the valley. Tuna salad. Sounds ordinary but not.
 .
 .
 .
-@joeyrestaurants #woodlandhills #thevalley #tunasalad

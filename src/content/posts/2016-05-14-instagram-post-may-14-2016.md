@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — May 14, 2016](/images/posts/ig-2016-05-14-instagram-post-may-14-2016/17847604519107106.jpg)

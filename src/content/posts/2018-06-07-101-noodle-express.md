@@ -28,10 +28,4 @@ cuisine:
 placeId: "0x80dcdc3442c6b7d5:0xafaa452cab42b2f1"
 ---
 
-![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17889023413223345.jpg)
-
-![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17877230359242475.jpg)
-
-![101 Noodle Express](/images/posts/ig-2018-06-07-101-noodle-express/17945392723079793.jpg)
-
-101 Noodle Express. Dinner with family in the OC #irvine #oc #101noodleexpress @thirstypig #eeeeeats
+101 Noodle Express. Dinner with family in the OC

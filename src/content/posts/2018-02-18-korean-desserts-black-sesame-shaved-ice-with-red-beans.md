@@ -23,10 +23,4 @@ cuisine:
 - Korean
 ---
 
-![Korean desserts black sesame shaved ice with red beans](/images/posts/ig-2018-02-18-korean-desserts-black-sesame-shaved-ice-with-red-beans/17898128338193428.jpg)
-
-![Korean desserts black sesame shaved ice with red beans](/images/posts/ig-2018-02-18-korean-desserts-black-sesame-shaved-ice-with-red-beans/17896493140163871.jpg)
-
-![Korean desserts black sesame shaved ice with red beans](/images/posts/ig-2018-02-18-korean-desserts-black-sesame-shaved-ice-with-red-beans/17926186825005266.jpg)
-
-Korean desserts black sesame shaved ice with red beans. And hot pumpkin porridge @jcllee @yalin_wu #ktown #desserts
+Korean desserts black sesame shaved ice with red beans. And hot pumpkin porridge

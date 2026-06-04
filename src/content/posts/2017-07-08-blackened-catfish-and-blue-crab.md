@@ -26,12 +26,4 @@ cuisine:
 placeId: "0x8620ae55de305385:0x7182bc12ac388c23"
 ---
 
-![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17887584181008810.jpg)
-
-![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17873091766087633.jpg)
-
-![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17865255121135630.jpg)
-
-![Blackened catfish and blue crab](/images/posts/ig-2017-07-08-blackened-catfish-and-blue-crab/17879157196079650.jpg)
-
 Blackened catfish and blue crab. With corn and hush puppies. Yum!

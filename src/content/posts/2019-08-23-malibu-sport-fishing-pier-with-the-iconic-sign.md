@@ -28,18 +28,7 @@ cuisine: []
 placeId: "0x80c2c78c5ad458fb:0xac61952781518a0f"
 ---
 
-![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/17885517511403240.jpg)
-
-![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/18060516772181272.jpg)
-
-![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/18094255516025423.jpg)
-
-![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/18023745262219146.jpg)
-
-![Malibu Sport Fishing Pier with the iconic sign](/images/posts/ig-2019-08-23-malibu-sport-fishing-pier-with-the-iconic-sign/18056766679164723.jpg)
-
 Malibu Sport Fishing Pier with the iconic sign. .
 .
 .
 .
-@malibu @malibufarm @malibu #pier #socal #la #fishing @yalin_wu @cecilialix_sao

@@ -24,10 +24,4 @@ cuisine:
 placeId: "0x80c2da56ee3084b1:0x4fc5e399a27c8291"
 ---
 
-![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17884972897155499.jpg)
-
-![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17886167878187635.jpg)
-
-![Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels](/images/posts/ig-2017-12-08-dim-sum-at-xiang-yuan-gourmet-on-las-tunas-in-temple-city-cr/17871875962196270.jpg)
-
-Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels. #dimsum #chinese #taro #thirstypig
+Dim sum at Xiang Yuan Gourmet, on Las Tunas in Temple City Creative morsels.

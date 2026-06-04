@@ -24,11 +24,6 @@ cuisine:
 placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
-![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17871699586441662.jpg)
-
-![Sul Long Tang](/images/posts/ig-2019-08-17-sul-long-tang/17980461019276638.jpg)
-
 Sul Long Tang. Korean beef stew. .
 .
 .
-@sunnongdan #sgv #seolleongtang #koreanfood

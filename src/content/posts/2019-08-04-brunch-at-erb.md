@@ -27,20 +27,7 @@ cuisine:
 placeId: "0x80c2c62179802421:0x2ecb6b0f4dc68771"
 ---
 
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18045829861175577.jpg)
-
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18060995236090521.jpg)
-
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18051387724166521.jpg)
-
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/17847483856549702.jpg)
-
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/17861423884464885.jpg)
-
-![Brunch at ERB](/images/posts/ig-2019-08-04-brunch-at-erb/18054551938183585.jpg)
-
 Brunch at ERB
 .
 .
 .
-@eversonroycebar

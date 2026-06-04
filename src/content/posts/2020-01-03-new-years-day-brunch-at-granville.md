@@ -28,22 +28,9 @@ cuisine:
 placeId: "0x80c2c3320cec05b7:0x70861a5b2aced026"
 ---
 
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17844248404883754.jpg)
-
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17844202444881833.jpg)
-
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17847026686846269.jpg)
-
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/18115762327067817.jpg)
-
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17856980761713712.jpg)
-
-![New Year’s Day brunch at Granville](/images/posts/ig-2020-01-03-new-years-day-brunch-at-granville/17860610593641525.jpg)
-
 New Year’s Day brunch at Granville. Liked the Mac and cheese and the housemade potato chips
 .
 .
 .
 .
 .
-@granville

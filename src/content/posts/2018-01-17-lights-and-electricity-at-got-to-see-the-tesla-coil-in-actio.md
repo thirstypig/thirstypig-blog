@@ -27,12 +27,7 @@ cuisine:
 placeId: "0x80c2c738ab698a9b:0xf1e4091cf6c500b8"
 ---
 
-![Lights and electricity at got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17892301837150760.jpg)
-
-![Lights and electricity at got to see the Tesla Coil in action at the observa...](/images/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17919270748033006.jpg)
+Lights and electricity at @griffithobservatory_uo got to see the Tesla Coil in action at the observatory
 
 <video controls width="100%"><source src="/videos/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17901617362088812.mp4" type="video/mp4"></video>
-
 <video controls width="100%"><source src="/videos/posts/ig-2018-01-17-lights-and-electricity-at-got-to-see-the-tesla-coil-in-actio/17890445269163528.mp4" type="video/mp4"></video>
-
-Lights and electricity at @griffithobservatory_uo got to see the Tesla Coil in action at the observatory

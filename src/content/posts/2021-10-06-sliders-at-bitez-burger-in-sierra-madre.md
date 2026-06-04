@@ -25,16 +25,9 @@ cuisine:
 placeId: "0x80c2dd14e1f98c15:0x5834ede31c43cb48"
 ---
 
-![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17900458712163390.jpg)
-
-![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17894131622301689.jpg)
-
-![Sliders at Bitez Burger in Sierra Madre](/images/posts/ig-2021-10-06-sliders-at-bitez-burger-in-sierra-madre/17882416811473118.jpg)
-
 Sliders at Bitez Burger in Sierra Madre. Baked burger Pattie’s and fries. Not fried and not grilled. From what I remember, Pinks in Hollywood is the only other place I remember that also bakes their fries. Bitez also has fry sauce - unique for socal, but popular in the Midwest. 
 .
 .
 .
 .
 .
-@bitez.burger

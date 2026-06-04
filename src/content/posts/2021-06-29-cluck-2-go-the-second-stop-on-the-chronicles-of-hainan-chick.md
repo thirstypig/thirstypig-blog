@@ -28,10 +28,6 @@ cuisine:
 placeId: "0x80c2c3719deff73d:0x38c484d642c95327"
 ---
 
-![Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯](/images/posts/ig-2021-06-29-cluck-2-go-the-second-stop-on-the-chronicles-of-hainan-chick/17925314674643503.jpg)
-
-![Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯](/images/posts/ig-2021-06-29-cluck-2-go-the-second-stop-on-the-chronicles-of-hainan-chick/18236142589044190.jpg)
-
 Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞飯. Cluck2go has locations in Pasadena, Rowland Heights and Hacienda Heights. They portion is one of the larger ones among the ones I will post. One of the things that make the Hainan Chicken rice unique is that most places serve the chicken boneless, which is great! I also like how all servings include the popping hot and flavorful chicken broth. 
 .
 .
@@ -39,4 +35,3 @@ Cluck 2 Go, the second stop on the Chronicles of Hainan Chicken Rice 海南雞�
 .
 .
 .
-@cluck2go

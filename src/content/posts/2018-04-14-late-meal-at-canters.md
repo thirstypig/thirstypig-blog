@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x80c2b95d26ef9d5f:0xccd584a1af7638f9"
 ---
 
-![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17911119247147192.jpg)
-
-![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17910014314158116.jpg)
-
-![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17933356393064699.jpg)
-
-![Late meal at Canter’s](/images/posts/ig-2018-04-14-late-meal-at-canters/17936708737047222.jpg)
-
-Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes. And some pickles. @cantersdeli
+Late meal at Canter’s. 1/2 corned beef sandwich with chicken soup and chicken liver and onions with mashed potatoes and potato pancakes. And some pickles.

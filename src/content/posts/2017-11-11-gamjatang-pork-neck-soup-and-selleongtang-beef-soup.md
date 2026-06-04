@@ -23,10 +23,4 @@ cuisine:
 - Korean
 ---
 
-![Gamjatang (pork neck soup) and selleongtang (beef soup)](/images/posts/ig-2017-11-11-gamjatang-pork-neck-soup-and-selleongtang-beef-soup/17907436189036671.jpg)
-
-![Gamjatang (pork neck soup) and selleongtang (beef soup)](/images/posts/ig-2017-11-11-gamjatang-pork-neck-soup-and-selleongtang-beef-soup/17883039298134121.jpg)
-
-![Gamjatang (pork neck soup) and selleongtang (beef soup)](/images/posts/ig-2017-11-11-gamjatang-pork-neck-soup-and-selleongtang-beef-soup/17883214657135985.jpg)
-
-Gamjatang (pork neck soup) and selleongtang (beef soup). Wonderful and hearty and perfect for a chilly LA night. Gamjatang was unexpectedly spiced with flavor. Selleongtang, my go to Korean soup, was good after I salted and peppered it. Unfortunately the potatoes were raw and uncooked. But they gave us a 10% discount. Yay! 😀 @yalin_wu @michifu1222 #hearty #portraitmode
+Gamjatang (pork neck soup) and selleongtang (beef soup). Wonderful and hearty and perfect for a chilly LA night. Gamjatang was unexpectedly spiced with flavor. Selleongtang, my go to Korean soup, was good after I salted and peppered it. Unfortunately the potatoes were raw and uncooked. But they gave us a 10% discount. Yay! 😀

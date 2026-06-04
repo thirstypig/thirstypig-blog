@@ -25,12 +25,6 @@ cuisine:
 placeId: "0x80c2bb8b7ad0a7b7:0x216c071c6cdb7021"
 ---
 
-![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/18070324510027426.jpg)
-
-![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/18028174291175788.jpg)
-
-![Affogato at Eataly](/images/posts/ig-2019-05-27-affogato-at-eataly/17851535014440596.jpg)
-
 Affogato at Eataly. A new favorite drink (or dessert). What is it? It sounds like avocado (which is how I will remember it). The Classico is espresso with a couple of scoops of Fior Di Latte Gelato (a sweet heavy cream milk gelato, originally/mistakenly thought as just vanilla ice cream). This sort of Root Beer Float is pretty good. The gelato sweetens the espresso and makes a yummy icey coffee drink. .
 .
 .

@@ -24,8 +24,4 @@ cuisine:
 placeId: "0x80c2dae061750613:0x97609395cc3a7324"
 ---
 
-![Galbi Tang](/images/posts/ig-2018-02-19-galbi-tang/17927925121031855.jpg)
-
-![Galbi Tang](/images/posts/ig-2018-02-19-galbi-tang/17865448705223222.jpg)
-
-Galbi Tang @sunnongdan #koreanfood #galbitang #beef #sgv @jclee @yalin_wu #thirstypig #eeeeeats
+Galbi Tang

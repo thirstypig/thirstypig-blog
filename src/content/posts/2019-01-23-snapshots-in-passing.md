@@ -28,15 +28,6 @@ cuisine:
 - American
 ---
 
-![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/17952341554231884.jpg)
-
-![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/18010725754100273.jpg)
-
-![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/18025268992042393.jpg)
-
-![Snapshots in passing](/images/posts/ig-2019-01-23-snapshots-in-passing/17987664421174992.jpg)
-
 Snapshots in passing . . . .
 .
 .
-#trainstation @unionstationla

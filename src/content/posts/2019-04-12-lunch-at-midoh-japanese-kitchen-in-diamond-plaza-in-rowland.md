@@ -31,15 +31,4 @@ cuisine:
 placeId: "0x80c32b049c7c310f:0x6818b9fb19f2c8a"
 ---
 
-![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/18055400536063939.jpg)
-
-![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/17859144124374957.jpg)
-
-![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/17849918755395050.jpg)
-
-![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/17934528364303843.jpg)
-
-![Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights](/images/posts/ig-2019-04-12-lunch-at-midoh-japanese-kitchen-in-diamond-plaza-in-rowland/17990868013205923.jpg)
-
 Lunch at Midoh Japanese Kitchen in Diamond Plaza in Rowland Heights. Pork Cutlet and Pork Loin Cutlet with Curry Rice, with a side of soup and salad. Love this simple Japanese set. Didn’t know Loin is more fatty (and luscious) than regular cutlet. .
-#eeeeeats @midoh_japanese_kitchen @diamondplaza @travistu110968 @travisytu #thirstypig

@@ -26,12 +26,4 @@ cuisine:
 placeId: "0x8644b5a771205af3:0x86f416ea2f93d43c"
 ---
 
-![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857093546185438.jpg)
-
-![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17868428155088538.jpg)
-
-![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17858860408150868.jpg)
-
-![we had the hibiscus donut, the maple, and the Homer Simpson](/images/posts/ig-2017-06-03-we-had-the-hibiscus-donut-the-maple-and-the-homer-simpson/17857733482164089.jpg)
-
 @voodoodoughnutaustin we had the hibiscus donut, the maple, and the Homer Simpson. Can you guess which one is which?

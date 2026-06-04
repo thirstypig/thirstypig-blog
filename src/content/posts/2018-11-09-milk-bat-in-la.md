@@ -29,24 +29,8 @@ cuisine:
 placeId: "0x80c2b8d54e638cd5:0xc58bafe92e69af4d"
 ---
 
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17968935565182840.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17970135541146655.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17997933766049365.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17891249611274370.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17998214080014077.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17998491943030814.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17998679560019734.jpg)
-
-![Milk Bat in LA](/images/posts/ig-2018-11-09-milk-bat-in-la/17990250199075743.jpg)
-
 Milk Bat in LA. B’day milk quake, cereal milk, crack pie, thanksgiving croissant. Yum. Finally in LA.
 .
 .
 .
-. @yalin_wu @bettywyy @jcllee @yiu8 @thirstypig #thirstypig
+.

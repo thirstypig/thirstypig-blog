@@ -29,10 +29,4 @@ draft: false
 placeId: "0x80c2da24d2e3b4fd:0xa2077f4b7ae9d5e3"
 ---
 
-![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871704383159706.jpg)
-
-![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17872082989180613.jpg)
-
-![Corned beef and hash and lemon cream pie](/images/posts/ig-2017-09-06-corned-beef-and-hash-and-lemon-cream-pie/17871367489165187.jpg)
-
 Corned beef and hash and lemon cream pie. Classic American diner

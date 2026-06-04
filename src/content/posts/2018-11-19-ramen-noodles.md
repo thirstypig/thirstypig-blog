@@ -20,15 +20,7 @@ categories:
 cuisine: []
 ---
 
-![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/17846037169306624.jpg)
-
-![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/18002066140040630.jpg)
-
-![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/17884088284282685.jpg)
-
-![Ramen noodles](/images/posts/ig-2018-11-19-ramen-noodles/17971647328157514.jpg)
-
 Ramen noodles! Had the black sesame broth with my tonkatsu ramen. .
 .
 .
-. @yummiapp @thirstypig
+.

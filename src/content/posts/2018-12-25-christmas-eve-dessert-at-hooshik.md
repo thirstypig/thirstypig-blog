@@ -22,12 +22,9 @@ cuisine:
 placeId: "0x80c2daf0f832c961:0xd2d32bfe86235129"
 ---
 
-![Christmas Eve Dessert at hooshik](/images/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17923353235249795.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17984399914150106.mp4" type="video/mp4"></video>
-
 Christmas Eve Dessert at hooshik. Seems like more and more cool Korean foods are coming to SGV
 .
 .
 .
-#koreandessert #thirstypig #christmaseve @yalin_wu @jcllee
+
+<video controls width="100%"><source src="/videos/posts/ig-2018-12-25-christmas-eve-dessert-at-hooshik/17984399914150106.mp4" type="video/mp4"></video>

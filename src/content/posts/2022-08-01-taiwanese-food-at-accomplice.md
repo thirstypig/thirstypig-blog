@@ -30,16 +30,6 @@ draft: false
 placeId: "0x80c2ba5c5e2d2f6d:0x3f016ea3b2064324"
 ---
 
-![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17916950354481811.jpg)
-
-![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17949608573079068.jpg)
-
-![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17937741149477379.jpg)
-
-![Taiwanese food at Accomplice](/images/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17895606380598128.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17916745070546537.mp4" type="video/mp4"></video>
-
 Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. Only tried fried tofu and the scallion pancakes. But I think the sauce is more Shanghainese with the sweetness. I am more used to a spicier and less sweet sauce for tifu. And the scallion pancakes, not sure of the vinegar sauce dipping sauce. I think this is more of a china flavor. Plus I think the scallion pancakes seems deep fried rather than the traditional pan fried. I get that this catering more to an American palate. Perhaps the chef is from china, instead of Taiwan. Next time I want to the other dishes. Regardless this is a cool car with a good selection of whiskeys. Almost had the full selection of Nikki whiskeys, they were missing the takesuru and days. I had a glass of the buffalo trace bourbon. They also had a really good green cocktail that was spicy. That was really good.
 .
 .
@@ -47,4 +37,5 @@ Taiwanese food at Accomplice. Nice little neighborhood bar with Taiwanese food. 
 .
 .
 .
-@accomplice\_bar @littlefattyla @pcw8118
+
+<video controls width="100%"><source src="/videos/posts/ig-2022-08-01-taiwanese-food-at-accomplice/17916745070546537.mp4" type="video/mp4"></video>

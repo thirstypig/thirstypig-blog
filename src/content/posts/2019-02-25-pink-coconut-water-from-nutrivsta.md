@@ -19,12 +19,7 @@ cuisine:
 - Beverage
 ---
 
-![Pink Coconut Water from Nutrivsta](/images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/17856078694352176.jpg)
-
-![Pink Coconut Water from Nutrivsta](/images/posts/ig-2019-02-25-pink-coconut-water-from-nutrivsta/18012946126091381.jpg)
-
 Pink Coconut Water from Nutrivsta. Better that water when you’re dehydrated!
 .
 .
 .
-#coconutwater #pinkcoconutwater #pink @nutrivsta

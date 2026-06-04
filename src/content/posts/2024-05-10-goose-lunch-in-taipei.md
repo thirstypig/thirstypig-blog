@@ -32,20 +32,8 @@ cuisine:
 placeId: "0x3442a97b1a2206fd:0x9784ea2eb84f8a7f"
 ---
 
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18018167000208397.jpg)
-
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18119638459363934.jpg)
-
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/17994881783426475.jpg)
-
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18107941108376981.jpg)
-
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/18002416925544921.jpg)
-
-![Goose lunch in Taipei](/images/posts/ig-2024-05-10-goose-lunch-in-taipei/17908986746952189.jpg)
-
 Goose lunch in Taipei. Popular lunch spot with a long queue. Steamed stinky tofu, Taiwanese sausage with mushroom, rice noodles, and of course roast goose. 阿城鵝肉
 .
 .
 .
-#阿城鵝肉 @chen_geese #goose #geese #Taipei restaurant #taiwaneserestaurant #eats #eeeeats #thirstypig
+#阿城鵝肉 @chen_geese #goose #geese #Taipei restaurant

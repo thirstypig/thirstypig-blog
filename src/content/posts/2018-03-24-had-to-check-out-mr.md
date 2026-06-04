@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x80c2c8b3fcb31e89:0xa116338b10309b66"
 ---
 
-![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17860222015234751.jpg)
-
-![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17842390630258610.jpg)
-
-![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17843033446251911.jpg)
-
-![Had to check out Mr](/images/posts/ig-2018-03-24-had-to-check-out-mr/17935685251004401.jpg)
-
-Had to check out Mr. Holmes, since it was close by. Had the savory danish and the churro croissant. @mrholmesbakehouse
+Had to check out Mr. Holmes, since it was close by. Had the savory danish and the churro croissant.

@@ -28,16 +28,9 @@ cuisine:
 - American
 ---
 
-![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17866486280161884.jpg)
-
-![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/18057033277267261.jpg)
-
-![The Smosh Town burger](/images/posts/ig-2020-12-16-the-smosh-town-burger/17944387690407993.jpg)
-
 The Smosh Town burger. Crispy and tasty burgers! Tarot tots with chili and cheese. Yum
 .
 .
 .
 .
 .
-@smosh_town

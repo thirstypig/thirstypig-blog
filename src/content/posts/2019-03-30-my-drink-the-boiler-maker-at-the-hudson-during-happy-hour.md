@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x80c2a4cb84e2f38f:0x208715e305b5a3b6"
 ---
 
-![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18051062521018873.jpg)
-
-![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/17850067093379824.jpg)
-
-![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18029427127125524.jpg)
-
-![My drink, the Boiler Maker, at the Hudson during Happy Hour](/images/posts/ig-2019-03-30-my-drink-the-boiler-maker-at-the-hudson-during-happy-hour/18010414243175730.jpg)
-
-My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese. #happyhour @thehudsonla
+My drink, the Boiler Maker, at the Hudson during Happy Hour. Fried cauliflower and Mac’n cheese.

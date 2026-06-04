@@ -30,12 +30,4 @@ draft: false
 placeId: "0x80c2dbbab3da0891:0xe2cd338a6d857ebc"
 ---
 
-![Yummy Taiwanese lunch in Arcadia](/images/posts/ig-2019-04-07-yummy-taiwanese-lunch-in-arcadia/17976607801237186.jpg)
-
-![Yummy Taiwanese lunch in Arcadia](/images/posts/ig-2019-04-07-yummy-taiwanese-lunch-in-arcadia/18054079930047577.jpg)
-
-![Yummy Taiwanese lunch in Arcadia](/images/posts/ig-2019-04-07-yummy-taiwanese-lunch-in-arcadia/17869741333351525.jpg)
-
-![Yummy Taiwanese lunch in Arcadia](/images/posts/ig-2019-04-07-yummy-taiwanese-lunch-in-arcadia/17934912907280323.jpg)
-
 Yummy Taiwanese lunch in Arcadia. One of my old favorites. Beef noodle soup, chicken roll, pork belly on rice, and Japanese beef and onion. The beef and onion on rice is like the Yoshi Noya beef bowl. .

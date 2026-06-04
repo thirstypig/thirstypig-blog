@@ -31,14 +31,4 @@ cuisine:
 placeId: "0x80c2baa2bf5a7289:0x96e7291be897f918"
 ---
 
-![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17885669857137020.jpg)
-
-![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17869075507196299.jpg)
-
-![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17908861741001614.jpg)
-
-![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17882949430155149.jpg)
-
-![Beer can chicken, OG Ribs, kale salad, and popcorn](/images/posts/ig-2017-11-24-beer-can-chicken-og-ribs-kale-salad-and-popcorn/17880498955170586.jpg)
-
-Beer can chicken, OG Ribs, kale salad, and popcorn. The chicken was nice and crispy without heavy flour type fried chicken. Salad was refreshing and acidic - good with the chicken. @aframela @ridingshotgunla @tomatocheng @yalin_wu
+Beer can chicken, OG Ribs, kale salad, and popcorn. The chicken was nice and crispy without heavy flour type fried chicken. Salad was refreshing and acidic - good with the chicken.

@@ -24,12 +24,4 @@ cuisine:
 placeId: "0x8620a6eadfd79db5:0x373e233220431034"
 ---
 
-![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17864920108131777.jpg)
-
-![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17861040139193575.jpg)
-
-![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17881650322065588.jpg)
-
-![Instagram Post — July 06, 2017](/images/posts/ig-2017-07-06-instagram-post-july-06-2017/17886590497063176.jpg)
-
 @bigezseafood

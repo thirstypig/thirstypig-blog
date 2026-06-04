@@ -25,10 +25,4 @@ cuisine:
 placeId: "0x80c2d906d7d537e3:0xb3eb8659a58aa6bd"
 ---
 
-![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17903017936134934.jpg)
-
-![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17913962626125102.jpg)
-
-![Sunday lunch with old friends at the old spaghetti factory](/images/posts/ig-2018-03-05-sunday-lunch-with-old-friends-at-the-old-spaghetti-factory/17902058542186409.jpg)
-
-Sunday lunch with old friends at the old spaghetti factory #Duarte @oldspaghettifactory @yalin_wu #thirstypig
+Sunday lunch with old friends at the old spaghetti factory

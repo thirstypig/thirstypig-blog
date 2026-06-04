@@ -30,18 +30,9 @@ cuisine:
 placeId: "0x80c2dc7a11842737:0xe53903848edc9c3c"
 ---
 
-![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17925738541842115.jpg)
-
-![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17917544002974864.jpg)
-
-![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17870575055526638.jpg)
-
-![Hidden diner in Sierra Madre](/images/posts/ig-2021-10-07-hidden-diner-in-sierra-madre/17897645885232858.jpg)
-
 Hidden diner in Sierra Madre. Lunch in the hills of sierra madre.
 .
 .
 .
 .
 .
-@marysmarketcanyoncafe

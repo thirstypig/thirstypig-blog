@@ -33,24 +33,9 @@ cuisine:
 placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17918051288421128.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17992316908500203.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17998635313466228.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17969982214635548.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/17955037399918093.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/18133823551282705.jpg)
-
-![Pine & Crane vegan lunch](/images/posts/ig-2022-07-09-pine-crane-vegan-lunch/18009002263437020.jpg)
-
 Pine & Crane vegan lunch. Dan Dan noodles, Sha Gua noodles (stupid noodles), tofu steam buns, bok choy fried dumplings, seaweed, and fried peanut salad. And of course the traditional Taiwanese shaved ice. Yummy and healthy. Popular spot with street parking only. Outdoor seating is best. 
 .
 .
 .
 .
 .
-@pineandcrane @pcw8118

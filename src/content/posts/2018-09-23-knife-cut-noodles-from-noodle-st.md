@@ -31,21 +31,11 @@ cuisine:
 placeId: "0x80c2d96a19055555:0xd2072b334de6a029"
 ---
 
-![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17920566094214043.jpg)
-
-![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17908733944227369.jpg)
-
-![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17960908243082281.jpg)
-
-![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17919214804216248.jpg)
-
-![Knife cut noodles from Noodle St](/images/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17893024189249726.jpg)
-
-<video controls width="100%"><source src="/videos/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17983221523036860.mp4" type="video/mp4"></video>
-
 Knife cut noodles from Noodle St. in Monrovia. Knife cut noodles are my favorite 刀削麵 I had it spicy beef style. The broth was surprisingly good. The beef was tender. Pleasantly surprised and happy we went here
 .
 .
 .
 .
-. @thirstypig @peterchang08 #jarren #tobin
+.
+
+<video controls width="100%"><source src="/videos/posts/ig-2018-09-23-knife-cut-noodles-from-noodle-st/17983221523036860.mp4" type="video/mp4"></video>

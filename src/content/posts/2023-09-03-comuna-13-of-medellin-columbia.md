@@ -34,26 +34,6 @@ cuisine:
 - Colombian
 ---
 
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18030378658592135.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/17865989237988519.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18374433433029878.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/17880719597933425.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18046253467444910.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18016303987745891.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18265496869081354.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/17912413832800624.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18005151553943121.jpg)
-
-![Comuna 13 of Medellin, Columbia](/images/posts/ig-2023-09-03-comuna-13-of-medellin-columbia/18195298246273562.jpg)
-
 Comuna 13 of Medellin, Columbia. Graffiti art adorned this interesting area of Medellin. Popular area had street performers with bars and street food. Glad we went during the week, since I could imagine it would be hella crowded on weekends. Great trip with friends.
 .
 .

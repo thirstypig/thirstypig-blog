@@ -24,10 +24,6 @@ cuisine:
 placeId: "0x80c2c7b6d98be28b:0xa29fcaf79cd7e2a9"
 ---
 
-![Picanha at lunch at Fogo de Chão](/images/posts/ig-2018-05-02-picanha-at-lunch-at-fogo-de-chão/17928565228107952.jpg)
-
-![Picanha at lunch at Fogo de Chão](/images/posts/ig-2018-05-02-picanha-at-lunch-at-fogo-de-chão/17942411014018609.jpg)
-
 Picanha at lunch at Fogo de Chão. Picanha is one of the best cuts of beef. Yum!
 .
-. @fogodechaobr
+.

@@ -27,10 +27,6 @@ cuisine:
 - American
 ---
 
-![Smosh Town burgers](/images/posts/ig-2021-02-08-smosh-town-burgers/18029298583290640.jpg)
-
-![Smosh Town burgers](/images/posts/ig-2021-02-08-smosh-town-burgers/17920377805533345.jpg)
-
 Smosh Town burgers! The smashed burger patty burgers. Great texture and taste. Too bad I am going vegetarian the rest of February. 
 .
 .
@@ -39,4 +35,3 @@ Smosh Town burgers! The smashed burger patty burgers. Great texture and taste. T
 .
 .
 .
-@smosh_town

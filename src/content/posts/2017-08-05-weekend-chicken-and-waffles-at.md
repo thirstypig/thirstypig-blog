@@ -35,22 +35,4 @@ cuisine:
 placeId: "0x80c2c65af5e138b1:0x6b3390b8e0d01d0"
 ---
 
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17869764496138058.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17886124492068510.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17883651598076176.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17892322099043690.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17880593311101884.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17892765892026411.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17877160294090106.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17869859053137861.jpg)
-
-![Weekend Chicken and Waffles at](/images/posts/ig-2017-08-05-weekend-chicken-and-waffles-at/17892165865057766.jpg)
-
-Weekend Chicken and Waffles at @howlinrays @yalin_wu @chewy321 @thirstypig #thirstypig
+Weekend Chicken and Waffles at

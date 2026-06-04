@@ -33,22 +33,4 @@ cuisine:
 - Chinese
 ---
 
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17848494745266491.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17921840560193625.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17888895349205525.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17873758132241994.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17906546236195805.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17931431587126317.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17920004461183355.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17919125287157163.jpg)
-
-![Hot Pot lunch at Little Sheep in old town Pasadena](/images/posts/ig-2018-05-26-hot-pot-lunch-at-little-sheep-in-old-town-pasadena/17948139979036679.jpg)
-
 Hot Pot lunch at Little Sheep in old town Pasadena. 小肥羊

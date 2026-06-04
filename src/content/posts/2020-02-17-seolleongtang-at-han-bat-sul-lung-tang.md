@@ -29,15 +29,8 @@ cuisine:
 placeId: "0x80c2b89a41b5afa3:0x750d7510dcc3b37a"
 ---
 
-![Seolleongtang at Han Bat Sul Lung Tang](/images/posts/ig-2020-02-17-seolleongtang-at-han-bat-sul-lung-tang/17882973316507294.jpg)
-
-![Seolleongtang at Han Bat Sul Lung Tang](/images/posts/ig-2020-02-17-seolleongtang-at-han-bat-sul-lung-tang/17865932431634949.jpg)
-
-![Seolleongtang at Han Bat Sul Lung Tang](/images/posts/ig-2020-02-17-seolleongtang-at-han-bat-sul-lung-tang/17883022477502147.jpg)
-
 Seolleongtang at Han Bat Sul Lung Tang. Beef and glass noodle in a milky bone broth. Great on a winters day. You get to season it the way you like it. .
 .
 .
 .
 .
-@yalin_wu

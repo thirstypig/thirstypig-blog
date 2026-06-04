@@ -25,12 +25,6 @@ cuisine:
 placeId: "0x80c2c7bb1a7c7f71:0xd1c551d7a9d47851"
 ---
 
-![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17997782482172095.jpg)
-
-![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17961832966226322.jpg)
-
-![Bacon wrapped hotdogs outside of Staples Center, DTLA](/images/posts/ig-2019-02-21-bacon-wrapped-hotdogs-outside-of-staples-center-dtla/17854930114352512.jpg)
-
 Bacon wrapped hotdogs outside of Staples Center, DTLA. When you walk out of that arena, nothing smells better than a bacon wrapped hot dog.
 .
 .

@@ -27,14 +27,4 @@ cuisine:
 placeId: "0x80c2db0c58853b8d:0xc8f9f0845d5ff195"
 ---
 
-![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17873241091198998.jpg)
-
-![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17900318341096004.jpg)
-
-![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17899502752100562.jpg)
-
-![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17853220891212952.jpg)
-
-![We ate too much](/images/posts/ig-2017-12-10-we-ate-too-much/17853932986205436.jpg)
-
-We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember. @clearmansboat @uscott @chewy321 @chaoswrld
+We ate too much. Beef dip, pastrami burger, cheese bread, and red cabbage salad. Yum! I used to like the red cabbage salad more - it is more and more acidic, than I remember.

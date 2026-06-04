@@ -28,16 +28,10 @@ cuisine:
 - Japanese
 ---
 
-![Japanese sandwiches from Pillow Talk in Pasadena](/images/posts/ig-2020-12-05-japanese-sandwiches-from-pillow-talk-in-pasadena/17879161912897546.jpg)
-
-![Japanese sandwiches from Pillow Talk in Pasadena](/images/posts/ig-2020-12-05-japanese-sandwiches-from-pillow-talk-in-pasadena/18176662102039239.jpg)
-
-![Japanese sandwiches from Pillow Talk in Pasadena](/images/posts/ig-2020-12-05-japanese-sandwiches-from-pillow-talk-in-pasadena/17862462539267957.jpg)
-
 Japanese sandwiches from Pillow Talk in Pasadena. Egg heaven and the Okonomiyaki sandwiches. Yummy. I love eggs.
 .
 .
 .
 .
 .
-. @pillowtalk_pasadena #egg @travisytu @travistu110968
+.

@@ -32,19 +32,7 @@ cuisine:
 placeId: "0x3442abda74731abd:0xdf30078ba49979f0"
 ---
 
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18026434208020236.jpg)
-
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18335832523189706.jpg)
-
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18252075085216975.jpg)
-
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/17946882167795275.jpg)
-
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/18022605251164555.jpg)
-
-![Taiwanese braised pork on rice](/images/posts/ig-2024-04-23-taiwanese-braised-pork-on-rice/17959996961751029.jpg)
-
 Taiwanese braised pork on rice. Lu Rou Fan 滷肉飯 one of Taiwan’s more famous dishes. At 金鋒魯肉飯 This a flavorful dish that can be found in almost any street stall. This place has been around for awhile and usually has a wait. 
 .
 .
-. @heykbing @tastemakersapp @ilovebreakfastburritos @tootsiefranklin
+.

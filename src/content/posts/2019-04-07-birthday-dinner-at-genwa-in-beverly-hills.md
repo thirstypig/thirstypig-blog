@@ -34,24 +34,7 @@ cuisine:
 placeId: "0x80c2b8e0c7080ea9:0x4a8672de4f640156"
 ---
 
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18013219483172525.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18008016385196745.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/17867636725358699.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18036834568100542.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/17864585074363432.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/17988171877214545.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18053512708024813.jpg)
-
-![Birthday Dinner at Genwa in Beverly Hills](/images/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18052490758053046.jpg)
+Birthday Dinner at Genwa in Beverly Hills. So much food. .
 
 <video controls width="100%"><source src="/videos/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/18021838417157789.mp4" type="video/mp4"></video>
-
 <video controls width="100%"><source src="/videos/posts/ig-2019-04-07-birthday-dinner-at-genwa-in-beverly-hills/17990193205201066.mp4" type="video/mp4"></video>
-
-Birthday Dinner at Genwa in Beverly Hills. So much food. . @jcllee @yalin_wu

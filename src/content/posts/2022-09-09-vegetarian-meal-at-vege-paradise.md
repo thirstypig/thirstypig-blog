@@ -23,14 +23,4 @@ cuisine:
 placeId: "0x80c2dab740e88fcf:0x362a4f925e2d243e"
 ---
 
-![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17977125382723596.jpg)
-
-![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17992018405496798.jpg)
-
-![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18318857257033149.jpg)
-
-![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/18051459124354430.jpg)
-
-![Vegetarian meal at Vege Paradise](/images/posts/ig-2022-09-09-vegetarian-meal-at-vege-paradise/17938488344468238.jpg)
-
-Vegetarian meal at Vege Paradise. #vegeparadise #vegan #vegetarian
+Vegetarian meal at Vege Paradise.

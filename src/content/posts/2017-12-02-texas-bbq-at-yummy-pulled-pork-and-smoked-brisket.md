@@ -30,12 +30,4 @@ cuisine:
 placeId: "0x80c2c6380db34b9d:0x6b03103ab1b86470"
 ---
 
-![Texas BBQ at yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17881776544175032.jpg)
-
-![Texas BBQ at yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17884062706179023.jpg)
-
-![Texas BBQ at yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17913262738013916.jpg)
-
-![Texas BBQ at yummy pulled pork and smoked brisket](/images/posts/ig-2017-12-02-texas-bbq-at-yummy-pulled-pork-and-smoked-brisket/17898062173109232.jpg)
-
-Texas BBQ at @pearlsbbqla @madscientistbbq yummy pulled pork and smoked brisket. @yalin_wu @chewy321
+Texas BBQ at @pearlsbbqla @madscientistbbq yummy pulled pork and smoked brisket.

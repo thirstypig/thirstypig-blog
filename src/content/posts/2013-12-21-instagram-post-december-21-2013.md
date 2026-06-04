@@ -13,5 +13,3 @@ tags: []
 categories:
 - Uncategorized
 ---
-
-![Instagram Post — December 21, 2013](/images/posts/ig-2013-12-21-instagram-post-december-21-2013/17841795160049948.jpg)

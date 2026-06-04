@@ -26,29 +26,10 @@ region: Colombia
 cuisine: []
 ---
 
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18067209409417995.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/17954522828654343.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/17998798810919735.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/17991258584195817.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18204094915267100.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18059238976448127.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18031333258586851.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/17989234622199115.jpg)
-
-![Images, memories, and good times in Medellin](/images/posts/ig-2023-09-06-images-memories-and-good-times-in-medellin/18037345105528669.jpg)
-
 Images, memories, and good times in Medellin. Good adventure with friends and meeting new people. 
-
 Check out my Medellin food posts at @tastemakersapp 
 .
 .
 .
 .
-. @tastemakersapp #goodtimes
+.

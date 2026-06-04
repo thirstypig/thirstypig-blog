@@ -22,13 +22,8 @@ cuisine:
 - Seafood
 ---
 
-![Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière](/images/posts/ig-2022-06-11-fish-stew-cioppino-and-pablo-crusted-filet-of-sole-meunière/17874197345686086.jpg)
-
-![Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière](/images/posts/ig-2022-06-11-fish-stew-cioppino-and-pablo-crusted-filet-of-sole-meunière/17947031710888488.jpg)
-
 Fish Stew Cioppino and Pablo Crusted Filet of Sole Meunière. Good times good company good food. 
 .
 .
 .
 .
-@slaysteakandfishhouse

@@ -30,16 +30,7 @@ draft: false
 placeId: "0x80c2b99c5a5704bd:0x52445772f535d5c"
 ---
 
-![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/17906031595344082.jpg)
-
-![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/17858248453482288.jpg)
-
-![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/18070332340116792.jpg)
-
-![The pig at Guerrilla Tacos](/images/posts/ig-2019-08-04-the-pig-at-guerrilla-tacos/17859848842468429.jpg)
-
 The pig at Guerrilla Tacos. Amazing cod fish tacos, sweet potato taco, and beef taco. We only stopped by to check it out and share some tacos. But we were amazed by the tacos!
 .
 .
 .
-@guerrillatacos #dtla #artsdistrictla #fishtacos #codfishtacos @yalin\_wu #sweetpotato

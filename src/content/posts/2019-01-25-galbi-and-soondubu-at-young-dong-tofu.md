@@ -28,20 +28,7 @@ cuisine:
 placeId: "0x80c2dae0f58f48f3:0x71544a003cf26c89"
 ---
 
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17951856751232594.jpg)
-
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17994730195156953.jpg)
-
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/17996503144183199.jpg)
-
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18010044298116345.jpg)
-
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18022067536067291.jpg)
-
-![Galbi and Soondubu at Young Dong Tofu](/images/posts/ig-2019-01-25-galbi-and-soondubu-at-young-dong-tofu/18009434902113570.jpg)
-
 Galbi and Soondubu at Young Dong Tofu. The pancake appetizer, grilled chicken, and dumpling soondubu. Spicy
 .
 .
 .
-#youngdongtofu @youngdongtofu #sgv #eeeeeats #sangabriel #tofu

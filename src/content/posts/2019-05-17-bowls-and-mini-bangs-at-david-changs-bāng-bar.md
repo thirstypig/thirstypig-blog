@@ -27,18 +27,7 @@ cuisine:
 placeId: "0x89c259533920ed1b:0xf4aba1c4a3bbbb54"
 ---
 
-![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/18037591285135461.jpg)
-
-![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/17861246980395378.jpg)
-
-![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/17931637819292315.jpg)
-
-![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/18066503719037724.jpg)
-
-![Bowls and mini Bangs at David Chang’s Bāng Bar](/images/posts/ig-2019-05-17-bowls-and-mini-bangs-at-david-changs-bāng-bar/17849539087435427.jpg)
-
 Bowls and mini Bangs at David Chang’s Bāng Bar. Eggplant and Chicken bowls and chicken and spicy pork mini bangs.
 .
 .
 .
-#nyc #eeeeeats #warnercenter @davidchang @yalin_wu @rojouan

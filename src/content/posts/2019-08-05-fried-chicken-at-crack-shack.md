@@ -30,18 +30,7 @@ cuisine:
 placeId: "0x80c2c3702cc3c2cd:0x614fd71e5a5a6aea"
 ---
 
-![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17852015587518298.jpg)
-
-![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/18055895620153648.jpg)
-
-![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/18055503265179261.jpg)
-
-![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/17856784810489763.jpg)
-
-![Fried chicken at Crack Shack](/images/posts/ig-2019-08-05-fried-chicken-at-crack-shack/18055748962179540.jpg)
-
 Fried chicken at Crack Shack. Yum
 .
 .
 .
-@getcrackshacked

@@ -17,10 +17,6 @@ categories:
 cuisine: []
 ---
 
-![Whisky Friday](/images/posts/ig-2021-04-02-whisky-friday/17896043344880120.jpg)
-
-![Whisky Friday](/images/posts/ig-2021-04-02-whisky-friday/17886948122112879.jpg)
-
 Whisky Friday. A couple of new finds. Nikka whisky - The Barrel and Nikka Days. Looking forward to enjoying the smoothness. I sound like a commerical. ROLFCOPTR
 .
 .
@@ -28,4 +24,3 @@ Whisky Friday. A couple of new finds. Nikka whisky - The Barrel and Nikka Days. 
 .
 .
 .
-@nikkawhiskyusa #whisky #whisky #japanesewhisky @vendome_arcadia #whiskyfridays #thirstypig #thirsty

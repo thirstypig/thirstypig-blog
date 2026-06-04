@@ -28,12 +28,8 @@ cuisine:
 placeId: "0x80c2dad45fd40bbb:0xfb165165a6781a72"
 ---
 
-![Yet another Boba Tea Shop](/images/posts/ig-2019-12-19-yet-another-boba-tea-shop/17904606040399105.jpg)
-
-![Yet another Boba Tea Shop](/images/posts/ig-2019-12-19-yet-another-boba-tea-shop/18069255577172121.jpg)
-
 Yet another Boba Tea Shop. We were actually looking for boba ice cream bars - but they were sold out and had a one week wait for new orders. Crazy!!
 .
 .
 .
-. @teachampusa
+.

@@ -36,24 +36,4 @@ cuisine:
 placeId: "0x8627311b6cdace1f:0x58b7c213923ad84f"
 ---
 
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17888711638025180.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17887896376039181.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17863020916177200.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17873273065083819.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17862805633180757.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17887704952010716.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17863498243157654.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17887815607033754.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17863880308146342.jpg)
-
-![Catfish and seafood at the world famous thin fried catfish, boiled blue crab,...](/images/posts/ig-2017-07-08-catfish-and-seafood-at-the-world-famous-thin-fried-catfish-b/17847252823197627.jpg)
-
 Catfish and seafood at the world famous thin fried catfish, boiled blue crab, fried soft shell crab, boiled shrimp, potatoes, hush puppies, and cole slaw

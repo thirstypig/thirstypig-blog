@@ -30,14 +30,6 @@ cuisine:
 placeId: "0x80c2bf5214a01a4b:0x43a5dbf55a7af405"
 ---
 
-![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/18123568900255465.jpg)
-
-![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/17969489344498976.jpg)
-
-![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/17948568310640495.jpg)
-
-![Vegan Mexican](/images/posts/ig-2022-01-09-vegan-mexican/17934962587781153.jpg)
-
 Vegan Mexican. Potato pimento flautas, enchiladas verdes, and jack fruit carnitas tacos. @graciasmadresocal 
 .
 .
@@ -45,4 +37,3 @@ Vegan Mexican. Potato pimento flautas, enchiladas verdes, and jack fruit carnita
 .
 .
 .
-@graciasmadresocal @michifu1222 @jcllee

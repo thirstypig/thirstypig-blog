@@ -25,18 +25,7 @@ cuisine:
 - Thai
 ---
 
-![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/18075993466433237.jpg)
-
-![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/18005518418226392.jpg)
-
-![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/17992304795447862.jpg)
-
-![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/17956415006758411.jpg)
-
-![Great outdoor Thai restaurant in Koh Samui](/images/posts/ig-2024-04-17-great-outdoor-thai-restaurant-in-koh-samui/18232804981253883.jpg)
-
 Great outdoor Thai restaurant in Koh Samui. Had the crispy pork belly with rice. Also had the spicy pork neck soup and papaya salad. Yummy lunch. Really spicy and flavorful. 
 .
 .
 .
-#kohsamui #thailand @hi10spro #pork #porkneck #spicy @tastemakersapp @ilovebreakfastburritos
