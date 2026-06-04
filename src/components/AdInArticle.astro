@@ -1,0 +1,49 @@
+---
+// Consent-gated AdSense in-article (fluid) unit.
+//
+// IMPORTANT: this deliberately omits the standalone `<script async src=...adsbygoogle.js>`
+// loader from Google's snippet. That loader already lives in BaseLayout, emitted as a
+// consent-gated tag (type="text/plain" data-category="marketing") so it loads ONLY after
+// the visitor accepts the Marketing category. Adding the loader here would (a) load AdSense
+// before consent — breaking GDPR/CCPA and our privacy promise — and (b) double-load the lib.
+//
+// So we render just the <ins> plus a marketing-gated push(); vanilla-cookieconsent flips the
+// push to executable on opt-in and the gated loader fills this unit. Renders only when the
+// publisher ID is configured.
+const adClient = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
+const slot = '7855463968'; // in-article (fluid) ad unit
+---
+
+{adClient && (
+	<aside class="ad-inarticle" aria-label="Advertisement">
+		<span class="ad-label">Advertisement</span>
+		<ins
+			class="adsbygoogle"
+			style="display:block; text-align:center;"
+			data-ad-layout="in-article"
+			data-ad-format="fluid"
+			data-ad-client={adClient}
+			data-ad-slot={slot}
+		></ins>
+		<script type="text/plain" data-category="marketing" is:inline>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+	</aside>
+)}
+
+<style>
+	.ad-inarticle {
+		display: block;
+		margin: 2rem auto;
+		min-height: 200px;
+	}
+	.ad-label {
+		display: block;
+		text-align: center;
+		font-size: 0.625rem;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+		color: var(--color-stone, #78716c);
+		margin-bottom: 0.25rem;
+	}
+</style>
