@@ -129,6 +129,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "e2e",
 		covers: "Post page regression — h1 singleton + no heading-level skips, hero <picture> with WebP + dimensions, body images <picture>/lazy/dimensioned, LocationCard renders, no unexpected console errors, skip link jumps to main (WebKit uses .focus())",
 	},
+	"tests/e2e/consent.spec.ts": {
+		kind: "e2e",
+		covers: "Consent-gated trackers — GA4 + AdSense ship inert (type=text/plain + data-category analytics/marketing) with zero executable tracker scripts before opt-in. Banner-interaction flows (accept/reject, footer re-open) are verified manually: vanilla-cookieconsent's modal doesn't render in headless Chromium.",
+	},
 	"tests/e2e/closed-venues.spec.ts": {
 		kind: "e2e",
 		covers: "Closed venue rendering — dynamic fixture picks a closed post from /search.json, asserts CLOSED badge + grayscale class in results. Currently skips gracefully because all 37 closed-venue posts are marked draft:true, excluding them from the index.",
@@ -147,7 +151,7 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 	},
 	"tests/e2e/static-pages.spec.ts": {
 		kind: "e2e",
-		covers: "/about, /best-of, /changelog — each renders its heading + stable content markers; About nav link gets aria-current",
+		covers: "/about, /best-of, /changelog, /privacy — each renders its heading + stable content markers; About nav link gets aria-current; /privacy discloses GA4/AdSense/Vercel by name + GDPR/CCPA rights (guards todo #004 drift)",
 	},
 	"tests/e2e/feeds.spec.ts": {
 		kind: "e2e",

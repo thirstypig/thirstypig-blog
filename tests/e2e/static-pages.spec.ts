@@ -31,4 +31,16 @@ test.describe("static pages", () => {
 		// The April 2026 section should be near the top after PR #43/53
 		await expect(page.getByRole("heading", { level: 2, name: /April 2026/ })).toBeVisible();
 	});
+
+	test("privacy page discloses trackers and GDPR/CCPA rights", async ({ page }) => {
+		await page.goto("/privacy");
+		await expect(page.getByRole("heading", { level: 1, name: "Privacy Policy" })).toBeVisible();
+		// Must name each tracker that actually loads (guards the /privacy drift in todo #004).
+		await expect(page.getByText("Google Analytics 4")).toBeVisible();
+		await expect(page.getByText("Google AdSense")).toBeVisible();
+		await expect(page.getByText("Vercel Analytics", { exact: false })).toBeVisible();
+		// Both legal frameworks the consent banner is built for.
+		await expect(page.getByText(/GDPR/)).toBeVisible();
+		await expect(page.getByText(/CCPA/)).toBeVisible();
+	});
 });
