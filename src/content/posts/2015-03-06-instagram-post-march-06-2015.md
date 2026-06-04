@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 06, 2015
+title: "Fried Pork Over Sticky Rice — Mar 2015"
+description: "A crispy fried pork cutlet served over a mound of white sticky rice, with side dishes in the background."
 pubDate: '2015-03-06'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 01, 2019
+title: "Breakfast Burrito Cut in Half — Mar 2019"
+description: "A breakfast burrito sliced in half showing egg, melted cheese, potato, sausage, and herbs inside a tortilla."
 pubDate: '2019-03-01'
 author: The Thirsty Pig
 source: instagram

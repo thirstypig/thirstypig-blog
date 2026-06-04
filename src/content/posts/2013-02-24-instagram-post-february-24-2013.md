@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 24, 2013
+title: "Tonkotsu Ramen with Nori — Feb 2013"
+description: "A bowl of tonkotsu ramen in creamy pork broth topped with chashu, scallions, wood ear mushrooms, and sheets of nori."
 pubDate: '2013-02-24'
 author: The Thirsty Pig
 source: instagram

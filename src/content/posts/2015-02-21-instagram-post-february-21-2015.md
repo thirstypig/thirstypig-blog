@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 21, 2015
+title: "Rolled Roast Pork (Porchetta) — Feb 2015"
+description: "Sliced rolled and stuffed roast pork garnished with fresh thyme, served on a white plate with greens."
 pubDate: '2015-02-21'
 author: The Thirsty Pig
 source: instagram

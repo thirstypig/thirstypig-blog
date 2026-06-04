@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 21, 2014
+title: "Pan-Fried Tofu with Black Beans — Jun 2014"
+description: "Thick golden pan-fried tofu slices topped with chopped scallions and fermented black beans in a clay bowl."
 pubDate: '2014-06-21'
 author: The Thirsty Pig
 source: instagram

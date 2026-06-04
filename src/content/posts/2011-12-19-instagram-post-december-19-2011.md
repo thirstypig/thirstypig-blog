@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 19, 2011
+title: "Hotel Buffet Seafood Station — Dec 2011"
+description: "A chef at a buffet station with an iced seafood display, stacks of white plates, and decorative vases above."
 pubDate: '2011-12-19'
 author: The Thirsty Pig
 source: instagram

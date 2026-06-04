@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 10, 2016
+title: "Pile of Hand-Cut Salted Fries — Sep 2016"
+description: "A close-up heap of crispy golden hand-cut french fries dusted with coarse salt on parchment paper."
 pubDate: '2016-09-10'
 author: The Thirsty Pig
 source: instagram

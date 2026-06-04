@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 26, 2016
+title: "Downtown Los Angeles Skyline — Jul 2016"
+description: "A painterly-filtered view of the downtown Los Angeles skyline with high-rise towers against a teal sky."
 pubDate: '2016-07-26'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 08, 2016
+title: "Sausage with Whole-Grain Mustard and Fries — Sep 2016"
+description: "A close-up of a sausage in a bun topped with a dollop of whole-grain mustard, with hand-cut fries in the background."
 pubDate: '2016-09-08'
 author: The Thirsty Pig
 source: instagram

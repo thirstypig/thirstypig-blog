@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 04, 2016
+title: "Steamed Pork Buns — Jun 2016"
+description: "Two steamed buns on a black plate, one split open to reveal a juicy seasoned pork and scallion filling."
 pubDate: '2016-06-04'
 author: The Thirsty Pig
 source: instagram

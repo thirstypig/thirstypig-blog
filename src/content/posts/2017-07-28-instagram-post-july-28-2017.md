@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 28, 2017
+title: "Michelada and Estrella Jalisco at Dodger Stadium — Jul 2017"
+description: "A chili-rimmed michelada in a Dodgers cup beside a tall Estrella Jalisco beer can, overlooking the ballpark field."
 pubDate: '2017-07-28'
 author: The Thirsty Pig
 source: instagram

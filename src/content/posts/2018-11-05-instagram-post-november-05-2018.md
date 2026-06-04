@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 05, 2018
+title: "Korean Beef and Rice Soup in Stone Bowl — Nov 2018"
+description: "A bubbling stone bowl of Korean beef soup topped with sliced beef, rice, and scallions, with side dishes behind."
 pubDate: '2018-11-05'
 author: The Thirsty Pig
 source: instagram

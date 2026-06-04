@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 23, 2016
+title: "Carne Asada Plate with Rice and Salsa — Sep 2016"
+description: "A talavera plate of grilled carne asada topped with onion, served with Mexican rice, salsa, lime and avocado."
 pubDate: '2016-09-23'
 author: The Thirsty Pig
 source: instagram

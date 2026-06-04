@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 17, 2018
+title: "Concrete Arch Bridge in Green Hills — Feb 2018"
+description: "A concrete arch bridge spanning a ravine between steep green hillsides under a clear blue sky."
 pubDate: '2018-02-17'
 author: The Thirsty Pig
 source: instagram

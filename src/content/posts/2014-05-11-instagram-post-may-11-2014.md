@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 11, 2014
+title: "Bon Matin Paris Pudding Bread — May 2014"
+description: "A golden, custardy pudding bread torn open, beside a bakery display of the same rolls and a Bon Matin Paris sign."
 pubDate: '2014-05-11'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 09, 2015
+title: "City Skyline at Night — May 2015"
+description: "A black-and-white aerial nighttime view of a dense city skyline with lit high-rise towers and a river."
 pubDate: '2015-05-09'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 13, 2020
+title: "Hazy Sunset Over a City Skyline — Jan 2020"
+description: "The sun low on the horizon casting orange and pink light over a hazy city skyline with distant high-rise buildings."
 pubDate: '2020-01-13'
 author: The Thirsty Pig
 source: instagram

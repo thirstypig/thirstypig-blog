@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 07, 2011
+title: "Illuminated Spired Building at Night — Sep 2011"
+description: "An ornate white building with a tall lit spire glowing against a dark night sky."
 pubDate: '2011-09-07'
 author: The Thirsty Pig
 source: instagram

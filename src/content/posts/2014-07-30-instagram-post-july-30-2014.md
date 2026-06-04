@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 30, 2014
+title: "Braised Pork with Eggs — Jul 2014"
+description: "A bowl of dark, glossy braised pork belly with whole braised eggs and tendon, beside a side of greens."
 pubDate: '2014-07-30'
 author: The Thirsty Pig
 source: instagram

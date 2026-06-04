@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 27, 2017
+title: "Fried Croquettes with Bonito Flakes — Jan 2017"
+description: "Two crispy panko-breaded croquettes topped with kewpie mayo, scallions, pickled ginger, and bonito flakes."
 pubDate: '2017-01-27'
 author: The Thirsty Pig
 source: instagram

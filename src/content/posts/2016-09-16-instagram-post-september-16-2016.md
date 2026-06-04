@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 16, 2016
+title: "Fried Chicken with Gravy and Vegetables — Sep 2016"
+description: "A plate of crispy fried chicken over mashed potatoes with brown gravy and a side of mixed peas, corn and carrots."
 pubDate: '2016-09-16'
 author: The Thirsty Pig
 source: instagram

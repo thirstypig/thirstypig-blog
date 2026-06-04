@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 03, 2011
+title: "Trains at a Covered Railway Station — Oct 2011"
+description: "Several red-and-white passenger trains lined up on parallel tracks under a large arched station roof at night."
 pubDate: '2011-10-03'
 author: The Thirsty Pig
 source: instagram

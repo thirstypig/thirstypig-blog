@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 04, 2016
+title: "Colorado Street Bridge at Sunset — Jul 2016"
+description: "A view along the arched concrete Colorado Street Bridge with its iron railing, framed against a pink and orange sunset sky."
 pubDate: '2016-07-04'
 author: The Thirsty Pig
 source: instagram

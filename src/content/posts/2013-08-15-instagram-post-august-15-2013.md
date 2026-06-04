@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 15, 2013
+title: "Mango Six Iced Drink and Cake — Aug 2013"
+description: "A tall iced yellow mango drink in a Mango Six branded glass beside a plate with a slice of jelly-roll cake on a wooden table."
 pubDate: '2013-08-15'
 author: The Thirsty Pig
 source: instagram

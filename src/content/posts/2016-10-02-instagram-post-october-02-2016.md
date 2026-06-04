@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 02, 2016
+title: "Shrimp Shumai in a Bamboo Steamer — Oct 2016"
+description: "Steamed open-topped shumai dumplings filled with chopped shrimp, served in a round bamboo steamer basket."
 pubDate: '2016-10-02'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 21, 2013
+title: "Noodles with Scallion and Meat Topping — Dec 2013"
+description: "A bowl of plain white wheat noodles topped with a small mound of minced meat sauce and chopped scallions."
 pubDate: '2013-12-21'
 author: The Thirsty Pig
 source: instagram

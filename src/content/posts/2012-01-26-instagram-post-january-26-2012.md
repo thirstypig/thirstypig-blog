@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 26, 2012
+title: "Starbucks Frappuccino in Hand — Jan 2012"
+description: "A hand holding a Starbucks blended cream Frappuccino with whipped topping inside a cafe."
 pubDate: '2012-01-26'
 author: The Thirsty Pig
 source: instagram

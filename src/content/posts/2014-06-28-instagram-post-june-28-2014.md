@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 28, 2014
+title: "Pavlova with Fresh Fruit — Jun 2014"
+description: "A cream-topped pavlova dessert piled with raspberries, blueberries, and mango on a dim restaurant table."
 pubDate: '2014-06-28'
 author: The Thirsty Pig
 source: instagram

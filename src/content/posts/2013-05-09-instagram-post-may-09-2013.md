@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 09, 2013
+title: "Mango Shaved Ice Dessert — May 2013"
+description: "A tall mound of mango shaved ice drizzled with syrup in a glass bowl, served in a casual eatery."
 pubDate: '2013-05-09'
 author: The Thirsty Pig
 source: instagram

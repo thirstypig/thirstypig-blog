@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 29, 2015
+title: "Takeout Dumplings and Salmon Poke — Jun 2015"
+description: "Plastic takeout containers holding dumplings and a salmon poke bowl with wasabi, cucumber, and roe."
 pubDate: '2015-06-29'
 author: The Thirsty Pig
 source: instagram

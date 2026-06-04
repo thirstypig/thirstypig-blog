@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 27, 2011
+title: "Noodles in Spicy Broth — Jul 2011"
+description: "Chopsticks lifting thin noodles from a red bowl of spicy broth with bits of minced meat."
 pubDate: '2011-07-27'
 author: The Thirsty Pig
 source: instagram

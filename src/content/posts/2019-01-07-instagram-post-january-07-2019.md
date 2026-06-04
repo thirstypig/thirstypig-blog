@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 07, 2019
+title: "Hello Kitty Kikkoman Soy Sauce Bottles — Jan 2019"
+description: "A store shelf lined with pink special-edition Hello Kitty Kikkoman soy sauce bottles."
 pubDate: '2019-01-07'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 20, 2012
+title: "Tree-Lined Street at Night — Jul 2012"
+description: "An empty tree-lined city street at night with a car approaching, a red fire hydrant, and streetlights glowing through the branches."
 pubDate: '2012-07-20'
 author: The Thirsty Pig
 source: instagram

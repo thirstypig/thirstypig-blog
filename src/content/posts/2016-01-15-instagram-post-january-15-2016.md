@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 15, 2016
+title: "Spicy Hot Pot Broth — Jan 2016"
+description: "A metal hot pot of simmering red spicy broth with leafy greens on an induction burner."
 pubDate: '2016-01-15'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 26, 2016
+title: "Persian Koobideh Kebab with Saffron Rice — Jun 2016"
+description: "A grilled beef koobideh kebab and chicken kebab plated with saffron basmati rice, a grilled tomato, and a roasted green chili."
 pubDate: '2016-06-26'
 author: The Thirsty Pig
 source: instagram

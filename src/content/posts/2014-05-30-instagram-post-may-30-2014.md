@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 30, 2014
+title: "Fried Whole Fish Skeleton — May 2014"
+description: "The picked-clean fried skeleton and head of a whole fish on a brown plate, beside two dipping sauces."
 pubDate: '2014-05-30'
 author: The Thirsty Pig
 source: instagram

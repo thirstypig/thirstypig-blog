@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 20, 2017
+title: "Churros with Whipped Cream and Caramel — Jan 2017"
+description: "Two cinnamon-sugar churros in a paper tray topped with whipped cream and a drizzle of caramel sauce."
 pubDate: '2017-01-20'
 author: The Thirsty Pig
 source: instagram

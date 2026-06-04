@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 12, 2012
+title: "Yellow and Red Smiley Bear Socks — Jan 2012"
+description: "A foot wearing a fuzzy yellow-and-red sock printed with a smiling cartoon bear face."
 pubDate: '2012-01-12'
 author: The Thirsty Pig
 source: instagram

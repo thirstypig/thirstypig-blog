@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 17, 2016
+title: "Sichuan Boiled Fish in Chili Oil — Jun 2016"
+description: "Slices of fish in a bowl of red chili oil broth topped with dried chilies and green scallion stems."
 pubDate: '2016-06-17'
 author: The Thirsty Pig
 source: instagram

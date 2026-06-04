@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 07, 2018
+title: "Sausage Dog with Mustard and Onions — Aug 2018"
+description: "A grilled sausage in a bun topped with mustard and diced onions, served with a cup of chili on the side."
 pubDate: '2018-08-07'
 author: The Thirsty Pig
 source: instagram

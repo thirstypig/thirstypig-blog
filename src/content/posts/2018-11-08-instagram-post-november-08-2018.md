@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 08, 2018
+title: "Orange Cocktail with Sage at a Rooftop Bar — Nov 2018"
+description: "A hand holding an orange cocktail over ice garnished with a sage leaf, with a blurred rooftop bar behind."
 pubDate: '2018-11-08'
 author: The Thirsty Pig
 source: instagram

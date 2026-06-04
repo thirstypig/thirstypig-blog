@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 29, 2017
+title: "Brisket Sandwich with Slaw — Jan 2017"
+description: "A sliced smoked brisket sandwich on a bun topped with purple and green slaw in a paper tray, with pickles."
 pubDate: '2017-01-29'
 author: The Thirsty Pig
 source: instagram

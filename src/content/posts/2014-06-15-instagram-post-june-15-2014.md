@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 15, 2014
+title: "Five Star Hainanese Chicken Rice Storefront — Jun 2014"
+description: "A storefront sign reading Five Star Hainanese Chicken Rice in gold lettering above a tiled, ornate restaurant entrance."
 pubDate: '2014-06-15'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 20, 2011
+title: "City Street at Dusk — Sep 2011"
+description: "A blurred view down a city street between tall buildings with a traffic light at dusk."
 pubDate: '2011-09-20'
 author: The Thirsty Pig
 source: instagram

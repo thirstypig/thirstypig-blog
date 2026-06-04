@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 29, 2013
+title: "Cold Sesame Noodles with Cucumber — Jul 2013"
+description: "A plate of cold wheat noodles topped with sesame sauce, shredded egg, cucumber, and bean sprouts, with chopsticks lifting a bite."
 pubDate: '2013-07-29'
 author: The Thirsty Pig
 source: instagram

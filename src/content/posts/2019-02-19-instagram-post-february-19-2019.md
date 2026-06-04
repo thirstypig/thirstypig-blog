@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 19, 2019
+title: "Chinese Temple Lit Up at Night for Lunar New Year — Feb 2019"
+description: "A large Chinese temple illuminated at night with red lanterns and flowers, with people in the courtyard."
 pubDate: '2019-02-19'
 author: The Thirsty Pig
 source: instagram

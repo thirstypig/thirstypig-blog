@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 21, 2016
+title: "Yakiniku Condiments in Small Bowls — Sep 2016"
+description: "Three small dishes of grilled-meat condiments holding chopped green onion, chili paste with grated garlic, and yuzu kosho."
 pubDate: '2016-09-21'
 author: The Thirsty Pig
 source: instagram

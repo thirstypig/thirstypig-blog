@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 17, 2015
+title: "Xiao Long Bao Soup Dumpling — Feb 2015"
+description: "A single soup dumpling held on a spoon with a bamboo steamer of more dumplings behind it."
 pubDate: '2015-02-17'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 03, 2016
+title: "Burger on Pretzel Bun with Pickles — Jun 2016"
+description: "A burger on a pretzel bun with tomato, pickle, red onion and mixed greens, held outdoors over a paper tray."
 pubDate: '2016-06-03'
 author: The Thirsty Pig
 source: instagram

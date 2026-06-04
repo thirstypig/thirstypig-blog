@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 24, 2018
+title: "Soft Serve with Crunchy Topping — May 2018"
+description: "A hand holding a cup of vanilla soft serve topped with golden crunchy crumbles, in front of a menu board."
 pubDate: '2018-05-24'
 author: The Thirsty Pig
 source: instagram

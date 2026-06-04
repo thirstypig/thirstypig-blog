@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 23, 2017
+title: "Crispy Fried Pork Strips with Pickles — Nov 2017"
+description: "A plate of golden battered fried pork strips served with cucumber pickle slices and a small cup of dipping sauce."
 pubDate: '2017-11-23'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 15, 2012
+title: "Braised Beef in a Bowl — Jan 2012"
+description: "A white bowl filled with chunks of tender braised beef in a dark glossy sauce with bits of green onion."
 pubDate: '2012-01-15'
 author: The Thirsty Pig
 source: instagram

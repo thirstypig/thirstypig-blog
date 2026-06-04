@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 09, 2017
+title: "Calpico Soda Can and Iced Glass — Nov 2017"
+description: "A can of Calpico Soda beside an empty frosted plastic cup of ice on a wooden table, with Japanese decor blurred behind."
 pubDate: '2017-11-09'
 author: The Thirsty Pig
 source: instagram

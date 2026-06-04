@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 28, 2017
+title: "Fish Tacos with Slaw and Crema — Oct 2017"
+description: "Two battered fish tacos topped with shredded cabbage, pico de gallo, and white crema, with a side of pickled vegetables and lime."
 pubDate: '2017-10-28'
 author: The Thirsty Pig
 source: instagram

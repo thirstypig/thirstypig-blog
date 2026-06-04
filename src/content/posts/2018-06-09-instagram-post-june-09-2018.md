@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 09, 2018
+title: "Pig Ramen House Illustration — Jun 2018"
+description: "A whimsical cutaway illustration of a multi-story building full of cartoon pigs boxing, bathing, and making pork ramen."
 pubDate: '2018-06-09'
 author: The Thirsty Pig
 source: instagram

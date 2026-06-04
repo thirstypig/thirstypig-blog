@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 30, 2014
+title: "Starbucks Mango Smoothie — Dec 2014"
+description: "A clear Starbucks cup filled with a bright yellow-orange mango blended drink on a wooden table inside a cafe."
 pubDate: '2014-12-30'
 author: The Thirsty Pig
 source: instagram

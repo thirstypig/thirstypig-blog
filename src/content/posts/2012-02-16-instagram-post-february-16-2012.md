@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 16, 2012
+title: "Uni Sea Urchin Nigiri Sushi — Feb 2012"
+description: "A piece of sea urchin nigiri wrapped in nori seaweed, sitting on a wooden sushi counter."
 pubDate: '2012-02-16'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 21, 2011
+title: "Skyscraper Curved Facade in Black and White — Sep 2011"
+description: "A black and white upward shot of a tall skyscraper with a curved glass facade and ribbon windows."
 pubDate: '2011-09-21'
 author: The Thirsty Pig
 source: instagram

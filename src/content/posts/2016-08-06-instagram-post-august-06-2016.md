@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 06, 2016
+title: "Sichuan Eggplant in Chili Sauce — Aug 2016"
+description: "A wooden bowl of braised eggplant with red and green chilies in a savory sauce, with a spoon, among other dishes."
 pubDate: '2016-08-06'
 author: The Thirsty Pig
 source: instagram

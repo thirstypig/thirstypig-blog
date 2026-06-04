@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 05, 2013
+title: "Palm Tree Silhouette at Sunrise — Apr 2013"
+description: "A palm tree silhouetted against a hazy sunrise over the ocean, with the sun reflecting on the water and a low wall below."
 pubDate: '2013-04-05'
 author: The Thirsty Pig
 source: instagram

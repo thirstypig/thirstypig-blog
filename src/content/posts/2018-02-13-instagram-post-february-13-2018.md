@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 13, 2018
+title: "Golden Sunset Over the Beach — Feb 2018"
+description: "The sun setting low over the ocean, casting a golden reflection across wet sand and gentle breaking waves."
 pubDate: '2018-02-13'
 author: The Thirsty Pig
 source: instagram

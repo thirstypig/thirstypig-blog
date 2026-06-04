@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 30, 2012
+title: "Two Sliders with Cocktail Picks — May 2012"
+description: "Two small slider sandwiches on toasted buns with greens, speared with knotted cocktail picks, on a white plate."
 pubDate: '2012-05-30'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 05, 2012
+title: "Airport Terminal Through Tall Windows — Jan 2012"
+description: "A polished terminal floor and a wall of tall windows looking out onto an airport building with an angled white roof."
 pubDate: '2012-01-05'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 13, 2015
+title: "Shin-Sen-Gumi Tonkotsu Ramen — Sep 2015"
+description: "A bowl of tonkotsu ramen with sliced pork, green onion, and pickled red ginger in a branded bowl."
 pubDate: '2015-09-13'
 author: The Thirsty Pig
 source: instagram

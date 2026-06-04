@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 26, 2016
+title: "Modern Indonesian Food Truck at Night — Aug 2016"
+description: "A purple and red food truck labeled Modern Indonesian Cuisine with chalkboard menus, lit up and open at night."
 pubDate: '2016-08-26'
 author: The Thirsty Pig
 source: instagram

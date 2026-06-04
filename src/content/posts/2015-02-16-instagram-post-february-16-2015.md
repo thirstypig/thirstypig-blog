@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 16, 2015
+title: "Daikokuya Tonkotsu Ramen — Feb 2015"
+description: "A bowl of tonkotsu ramen with chashu pork, soft egg, bamboo shoots, bean sprouts, and scallions, chopsticks marked Daikokuya."
 pubDate: '2015-02-16'
 author: The Thirsty Pig
 source: instagram

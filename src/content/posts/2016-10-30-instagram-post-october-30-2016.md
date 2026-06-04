@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 30, 2016
+title: "Bloody Mary with Celery and Lime — Oct 2016"
+description: "A tall spice-rimmed Bloody Mary cocktail over ice garnished with celery stalks, pickled vegetables, lime and lemon."
 pubDate: '2016-10-30'
 author: The Thirsty Pig
 source: instagram

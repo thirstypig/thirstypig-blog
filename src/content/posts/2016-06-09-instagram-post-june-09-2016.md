@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 09, 2016
+title: "Noodles with Scallion Oil — Jun 2016"
+description: "A bowl of thin noodles in a dark soy-based sauce topped with crispy fried scallions."
 pubDate: '2016-06-09'
 author: The Thirsty Pig
 source: instagram

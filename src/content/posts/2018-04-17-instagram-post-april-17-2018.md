@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 17, 2018
+title: "Collection of Drink Koozies — Apr 2018"
+description: "Dozens of colorful can koozies laid out on carpet, printed with logos including Buc-ee's, Yeti, Yelp, and LA Champions."
 pubDate: '2018-04-17'
 author: The Thirsty Pig
 source: instagram

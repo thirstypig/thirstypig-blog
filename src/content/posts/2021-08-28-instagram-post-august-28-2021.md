@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 28, 2021
+title: "Dodger Stadium Baseball Game at Dusk — Aug 2021"
+description: "A view from the upper deck of Dodger Stadium at dusk, looking over the field and crowd as a baseball game is underway."
 pubDate: '2021-08-28'
 author: The Thirsty Pig
 source: instagram

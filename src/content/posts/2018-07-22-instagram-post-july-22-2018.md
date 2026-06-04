@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 22, 2018
+title: "Hot Pot Spread with Sliced Meats and Vegetables — Jul 2018"
+description: "A hot pot spread with plates of thinly sliced raw meats, seafood, noodles, corn, and leafy vegetables with dipping sauces."
 pubDate: '2018-07-22'
 author: The Thirsty Pig
 source: instagram

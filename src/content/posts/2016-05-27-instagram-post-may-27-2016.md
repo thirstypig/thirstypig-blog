@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 27, 2016
+title: "Chopped Chicken Salad — May 2016"
+description: "A mound of chopped iceberg salad with shredded chicken, slivered almonds and sesame seeds on a white plate."
 pubDate: '2016-05-27'
 author: The Thirsty Pig
 source: instagram

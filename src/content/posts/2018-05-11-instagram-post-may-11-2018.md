@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 11, 2018
+title: "Chinese BBQ Pork and Roast Pork Rice — May 2018"
+description: "A plate of white rice topped with sliced char siu barbecue pork and crispy roast pork, with broccoli on the side."
 pubDate: '2018-05-11'
 author: The Thirsty Pig
 source: instagram

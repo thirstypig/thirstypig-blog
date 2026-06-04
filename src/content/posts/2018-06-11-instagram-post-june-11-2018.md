@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 11, 2018
+title: "Hot Fudge Sundae with Cherry — Jun 2018"
+description: "A hand holding a clear cup of strawberry ice cream layered with hot fudge, whipped cream, chopped nuts, and a cherry on top."
 pubDate: '2018-06-11'
 author: The Thirsty Pig
 source: instagram

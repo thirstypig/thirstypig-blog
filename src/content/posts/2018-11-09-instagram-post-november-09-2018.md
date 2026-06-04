@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 09, 2018
+title: "Sunset Over the Freeway — Nov 2018"
+description: "An orange and blue dusk sky over a multi-lane freeway with traffic, palm trees, and distant city lights and mountains."
 pubDate: '2018-11-09'
 author: The Thirsty Pig
 source: instagram

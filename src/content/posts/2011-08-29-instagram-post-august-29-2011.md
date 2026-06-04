@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 29, 2011
+title: "Golden Seated Statue Against Blue Sky — Aug 2011"
+description: "A large golden statue of a seated robed figure on a pedestal against a clear blue sky."
 pubDate: '2011-08-29'
 author: The Thirsty Pig
 source: instagram

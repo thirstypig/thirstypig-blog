@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 13, 2016
+title: "Cookies and Cream Shaved Snow — May 2016"
+description: "A cup of shaved milk snow topped with crushed chocolate cookie crumbs and condensed milk, with a blue spoon."
 pubDate: '2016-05-13'
 author: The Thirsty Pig
 source: instagram

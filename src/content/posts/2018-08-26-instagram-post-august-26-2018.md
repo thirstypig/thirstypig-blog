@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 26, 2018
+title: "Dodger Stadium at Night — Aug 2018"
+description: "A nighttime view of a packed baseball stadium from the upper deck, with the field and crowd lit under floodlights."
 pubDate: '2018-08-26'
 author: The Thirsty Pig
 source: instagram

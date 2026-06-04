@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 11, 2015
+title: "Stone Crab Claws and Grilled Steak — Sep 2015"
+description: "A collage of cracked stone crab claws with lemon and a charred bone-in steak with herb sauce."
 pubDate: '2015-09-11'
 author: The Thirsty Pig
 source: instagram

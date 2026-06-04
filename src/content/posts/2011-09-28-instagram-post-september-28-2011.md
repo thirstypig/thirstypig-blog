@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 28, 2011
+title: "Sliced Meat over Shredded Vegetables — Sep 2011"
+description: "Thin slices of sauce-drizzled meat draped over a wooden rack above a plate of shredded vegetables and a dipping bowl."
 pubDate: '2011-09-28'
 author: The Thirsty Pig
 source: instagram

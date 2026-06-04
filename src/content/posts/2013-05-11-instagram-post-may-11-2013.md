@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 11, 2013
+title: "Roti Canai and Curry Bowls — May 2013"
+description: "Folded flaky flatbread on paper plates with curry sauce, beside bowls of a grain dish topped with sauce on a red tray."
 pubDate: '2013-05-11'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 22, 2018
+title: "Frozen Hot Chocolate with Whipped Cream — May 2018"
+description: "A coupe glass of frozen hot chocolate topped with whipped cream and chocolate shavings, served with two straws."
 pubDate: '2018-05-22'
 author: The Thirsty Pig
 source: instagram

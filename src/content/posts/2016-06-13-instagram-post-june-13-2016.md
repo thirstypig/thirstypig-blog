@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 13, 2016
+title: "Hanging Edison Bulb Lights — Jun 2016"
+description: "A row of vintage Edison filament bulbs hanging at staggered heights from cords in a dim, industrial interior."
 pubDate: '2016-06-13'
 author: The Thirsty Pig
 source: instagram

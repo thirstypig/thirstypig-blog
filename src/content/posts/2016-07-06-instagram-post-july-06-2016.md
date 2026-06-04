@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 06, 2016
+title: "Grilled Chicken Salad with Goat Cheese — Jul 2016"
+description: "A bowl of mixed greens topped with sliced grilled chicken, avocado, crumbled goat cheese, and pine nuts with a side of dressing."
 pubDate: '2016-07-06'
 author: The Thirsty Pig
 source: instagram

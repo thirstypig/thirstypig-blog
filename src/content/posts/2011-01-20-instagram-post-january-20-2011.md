@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 20, 2011
+title: "Harbin Airport at Sunset — Jan 2011"
+description: "A Harbin Airport sign on a building roofline silhouetted against an orange sunset sky."
 pubDate: '2011-01-20'
 author: The Thirsty Pig
 source: instagram

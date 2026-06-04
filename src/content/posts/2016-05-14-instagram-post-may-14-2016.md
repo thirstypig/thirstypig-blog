@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 14, 2016
+title: "Roast Pork and Fried Chicken Plate — May 2016"
+description: "A split image of a plate with rice, black beans, onions, shredded roast pork, fried chicken and plantains."
 pubDate: '2016-05-14'
 author: The Thirsty Pig
 source: instagram

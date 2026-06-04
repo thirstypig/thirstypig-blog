@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 06, 2019
+title: "Fried Chicken with Rice and Dipping Sauces — May 2019"
+description: "A takeout tray of crispy fried chicken pieces with a mound of rice topped with fried shallots and two sauces."
 pubDate: '2019-05-06'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 14, 2019
+title: "Roast Meats Over Rice with Broccoli — Dec 2019"
+description: "A takeout box of crispy roast pork, char siu and roast duck over white rice with steamed broccoli and a braised egg."
 pubDate: '2019-12-14'
 author: The Thirsty Pig
 source: instagram

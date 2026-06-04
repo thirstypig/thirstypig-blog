@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 17, 2017
+title: "Sausage Sandwich with Kimchi and Jalapeno — Jun 2017"
+description: "A grilled sausage on a soft roll topped with kimchi, red sauce, dried shrimp, sesame seeds, and jalapeno slices."
 pubDate: '2017-06-17'
 author: The Thirsty Pig
 source: instagram

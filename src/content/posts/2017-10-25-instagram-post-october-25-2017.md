@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 25, 2017
+title: "Loaded Nachos with Guacamole — Oct 2017"
+description: "Tortilla chips topped with cheese sauce, pico de gallo, sour cream, guacamole, and microgreens in a white dish."
 pubDate: '2017-10-25'
 author: The Thirsty Pig
 source: instagram

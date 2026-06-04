@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 30, 2011
+title: "Beef Noodle Soup with Greens — Aug 2011"
+description: "A bowl of dark broth noodle soup with wide noodles, braised beef, leafy greens and a red chili."
 pubDate: '2011-08-30'
 author: The Thirsty Pig
 source: instagram

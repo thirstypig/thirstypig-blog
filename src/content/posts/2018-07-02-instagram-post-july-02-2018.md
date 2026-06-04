@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 02, 2018
+title: "Spicy Sichuan Noodle Soup — Jul 2018"
+description: "Chopsticks lifting noodles from a red bowl of spicy Sichuan noodle soup with chili oil, greens, and pickled vegetables."
 pubDate: '2018-07-02'
 author: The Thirsty Pig
 source: instagram

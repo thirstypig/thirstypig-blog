@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 29, 2014
+title: "Parked Bicycle on a City Street — Jun 2014"
+description: "A bicycle with a front basket parked on a street in front of a shop, with motion-blurred passersby and traffic."
 pubDate: '2014-06-29'
 author: The Thirsty Pig
 source: instagram

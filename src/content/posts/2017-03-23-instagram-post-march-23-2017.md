@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 23, 2017
+title: "Panel Discussion in a Blue Room — Mar 2017"
+description: "Four men seated on white chairs on a panel in front of a projection screen, facing a seated audience."
 pubDate: '2017-03-23'
 author: The Thirsty Pig
 source: instagram

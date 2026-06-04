@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 14, 2015
+title: "Baseball Stadium at Dusk — Aug 2015"
+description: "A view from the stands of a baseball field at dusk with stadium lights on and players on the diamond."
 pubDate: '2015-08-14'
 author: The Thirsty Pig
 source: instagram

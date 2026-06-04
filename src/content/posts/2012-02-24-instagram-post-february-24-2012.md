@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 24, 2012
+title: "Candlelit Restaurant Table by a Window — Feb 2012"
+description: "A set dining table with wine glasses and candles by a window overlooking a lit city skyline at night."
 pubDate: '2012-02-24'
 author: The Thirsty Pig
 source: instagram

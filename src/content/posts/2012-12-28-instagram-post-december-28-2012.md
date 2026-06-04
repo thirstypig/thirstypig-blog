@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 28, 2012
+title: "Starbucks Cup at Traditional Market — Dec 2012"
+description: "A Starbucks coffee cup logo in the foreground with a traditional tiered-roof market street and pedestrians behind it."
 pubDate: '2012-12-28'
 author: The Thirsty Pig
 source: instagram

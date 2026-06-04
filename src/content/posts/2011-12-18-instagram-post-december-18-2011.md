@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 18, 2011
+title: "Bacon Egg Burger with Fries — Dec 2011"
+description: "A tall sesame-bun burger stacked with a beef patty, bacon, fried egg, and tomato, served with french fries."
 pubDate: '2011-12-18'
 author: The Thirsty Pig
 source: instagram

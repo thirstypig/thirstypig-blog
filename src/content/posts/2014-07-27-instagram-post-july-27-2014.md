@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 27, 2014
+title: "Crispy Pan-Fried Quesadillas — Jul 2014"
+description: "Wedges of golden crispy quesadillas filled with minced meat and herbs, arranged on a white plate."
 pubDate: '2014-07-27'
 author: The Thirsty Pig
 source: instagram

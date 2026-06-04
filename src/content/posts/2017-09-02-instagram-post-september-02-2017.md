@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 02, 2017
+title: "Korean BBQ Grilling at the Table — Sep 2017"
+description: "Marbled raw beef grilling on a domed tabletop Korean BBQ grill with squash, kimchi, and side dishes around it."
 pubDate: '2017-09-02'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 03, 2014
+title: "Dodger Stadium Outfield View — Jun 2014"
+description: "A nighttime view from the outfield stands at Dodger Stadium, looking across the striped grass to the infield under the lights."
 pubDate: '2014-06-03'
 author: The Thirsty Pig
 source: instagram

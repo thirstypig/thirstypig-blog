@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 30, 2016
+title: "Chicken Pho — Dec 2016"
+description: "A bowl of chicken pho with rice noodles, shredded chicken, sliced onion, and cilantro in clear broth."
 pubDate: '2016-12-30'
 author: The Thirsty Pig
 source: instagram

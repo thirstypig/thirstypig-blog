@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 28, 2012
+title: "Dusk Sky with Power Lines — Jul 2012"
+description: "A dusk sky crossed by tangled power lines above apartment towers and a glowing street lamp, with tree branches at right."
 pubDate: '2012-07-28'
 author: The Thirsty Pig
 source: instagram

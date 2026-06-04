@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 11, 2016
+title: "Scoop of Blue-Speckled Ice Cream — Jul 2016"
+description: "A scoop of pale ice cream flecked with blue specks in a white cup with a blue spoon."
 pubDate: '2016-07-11'
 author: The Thirsty Pig
 source: instagram

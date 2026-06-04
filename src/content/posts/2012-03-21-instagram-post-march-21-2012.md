@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 21, 2012
+title: "Fried Chicken and Waffles — Mar 2012"
+description: "A tall stack of crispy fried chicken pieces piled on top of a golden waffle on a white plate."
 pubDate: '2012-03-21'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 05, 2016
+title: "Sausage Rice Plate with Cabbage and Corn — Aug 2016"
+description: "A plate of white rice topped with sliced sausage, alongside scrambled egg, stir-fried cabbage, and buttered corn with peas."
 pubDate: '2016-08-05'
 author: The Thirsty Pig
 source: instagram

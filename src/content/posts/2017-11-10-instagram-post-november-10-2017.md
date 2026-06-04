@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 10, 2017
+title: "Wong Lo Kat Herbal Tea and Iced Cup — Nov 2017"
+description: "A red can of Wong Lo Kat herbal tea next to a clear plastic cup of the iced tea on a dark table in a restaurant booth."
 pubDate: '2017-11-10'
 author: The Thirsty Pig
 source: instagram

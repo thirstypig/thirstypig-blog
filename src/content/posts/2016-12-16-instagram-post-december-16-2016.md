@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 16, 2016
+title: "Spun Ice Cream Scoop — Dec 2016"
+description: "A scoop of tan-colored gelato in a paper cup with a wooden spoon, beside a teal Spun ice cream card."
 pubDate: '2016-12-16'
 author: The Thirsty Pig
 source: instagram

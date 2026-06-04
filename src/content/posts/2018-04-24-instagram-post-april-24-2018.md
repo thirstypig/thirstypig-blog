@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 24, 2018
+title: "Beef Noodle Soup with Greens — Apr 2018"
+description: "Chopsticks lifting noodles from a bowl of braised beef noodle soup with tender beef chunks, bok choy, and chopped scallions."
 pubDate: '2018-04-24'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 12, 2011
+title: "City Skyline Reflected on Water at Night — Sep 2011"
+description: "A brightly lit waterfront skyline at night with colorful tower lights reflecting on the river."
 pubDate: '2011-09-12'
 author: The Thirsty Pig
 source: instagram

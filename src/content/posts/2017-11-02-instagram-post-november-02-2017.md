@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — November 02, 2017
+title: "Glossy Varnished Pine Wood Tabletop — Nov 2017"
+description: "Close-up of a polished pine wood tabletop with visible grain, knots, and a reflective varnished surface."
 pubDate: '2017-11-02'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 26, 2019
+title: "Whiskey Flight on the Rocks — May 2019"
+description: "Four lowball glasses of whiskey, some neat and some over ice, on a wood table beside a flickering candle in a dim bar."
 pubDate: '2019-05-26'
 author: The Thirsty Pig
 source: instagram

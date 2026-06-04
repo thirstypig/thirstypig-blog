@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 12, 2016
+title: "Hainan Chicken Rice with Three Sauces — Oct 2016"
+description: "A plate of poached chicken and white rice served with a divided dish of ginger sauce, chili sauce and dark soy."
 pubDate: '2016-10-12'
 author: The Thirsty Pig
 source: instagram

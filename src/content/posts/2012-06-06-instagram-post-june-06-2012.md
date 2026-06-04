@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 06, 2012
+title: "Rainy City Street at Night from Above — Jun 2012"
+description: "An elevated night view of a wet city avenue with traffic, lit buildings, and a tall flagpole."
 pubDate: '2012-06-06'
 author: The Thirsty Pig
 source: instagram

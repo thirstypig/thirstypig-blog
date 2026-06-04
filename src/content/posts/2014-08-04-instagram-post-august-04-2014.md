@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 04, 2014
+title: "Piece of Fried Chicken — Aug 2014"
+description: "A hand holding a craggy, deep-fried piece of chicken with crispy golden-brown crust over a wood floor."
 pubDate: '2014-08-04'
 author: The Thirsty Pig
 source: instagram

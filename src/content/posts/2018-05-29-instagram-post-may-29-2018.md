@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 29, 2018
+title: "Carnitas and Chorizo Street Tacos — May 2018"
+description: "A plate of soft corn tortilla tacos filled with carnitas and chorizo, topped with onion and cilantro, with chips, lime, and salsa."
 pubDate: '2018-05-29'
 author: The Thirsty Pig
 source: instagram

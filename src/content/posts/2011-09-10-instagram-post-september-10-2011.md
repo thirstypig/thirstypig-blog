@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 10, 2011
+title: "Guacamole with Cilantro — Sep 2011"
+description: "A blue bowl of chunky guacamole topped with fresh cilantro and a sliver of red chili."
 pubDate: '2011-09-10'
 author: The Thirsty Pig
 source: instagram

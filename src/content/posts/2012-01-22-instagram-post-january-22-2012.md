@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 22, 2012
+title: "Dim Restaurant Interior with Checkered Floor — Jan 2012"
+description: "A dimly lit restaurant interior with red walls, hanging lights, and a black-and-white checkered floor."
 pubDate: '2012-01-22'
 author: The Thirsty Pig
 source: instagram

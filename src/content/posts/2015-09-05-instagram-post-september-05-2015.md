@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 05, 2015
+title: "Al Pastor Trompo at a Taco Stand — Sep 2015"
+description: "A vertical spit of stacked al pastor pork being shaved at a taco stand griddle, with tortillas nearby."
 pubDate: '2015-09-05'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 04, 2017
+title: "Hainan Chicken Rice with Sauces — Sep 2017"
+description: "Sliced poached chicken with white rice and a tray of three dipping sauces including ginger and chili."
 pubDate: '2017-09-04'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 11, 2014
+title: "Fresh Spring Rolls with Sriracha — Sep 2014"
+description: "Halved fresh spring rolls filled with greens, carrot, and pork on a black plate, with a Brookhurst hot sauce bottle behind."
 pubDate: '2014-09-11'
 author: The Thirsty Pig
 source: instagram

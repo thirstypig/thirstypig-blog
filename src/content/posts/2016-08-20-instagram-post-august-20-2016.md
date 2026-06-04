@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 20, 2016
+title: "Cheese Dak-Galbi in a Hot Pan — Aug 2016"
+description: "A sizzling pan of spicy Korean dak-galbi with cabbage, rice cakes and a heap of melting shredded mozzarella cheese on top."
 pubDate: '2016-08-20'
 author: The Thirsty Pig
 source: instagram

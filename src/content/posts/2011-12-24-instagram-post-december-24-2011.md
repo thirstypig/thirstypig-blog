@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 24, 2011
+title: "Jet Engines Above the Clouds — Dec 2011"
+description: "View from an airplane window of two jet engines on the wing over a blanket of clouds."
 pubDate: '2011-12-24'
 author: The Thirsty Pig
 source: instagram

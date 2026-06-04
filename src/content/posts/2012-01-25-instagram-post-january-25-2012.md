@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 25, 2012
+title: "Blue-Lit Rooftop Pool at Night — Jan 2012"
+description: "A rooftop infinity pool glowing blue at night, with lit city high-rise buildings in the background."
 pubDate: '2012-01-25'
 author: The Thirsty Pig
 source: instagram

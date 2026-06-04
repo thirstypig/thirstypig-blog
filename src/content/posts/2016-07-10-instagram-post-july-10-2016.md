@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 10, 2016
+title: "Mr. Baguette Banh Mi with Fried Egg — Jul 2016"
+description: "A Vietnamese banh mi sandwich on a baguette filled with ham, fried egg, and pickled carrot, on Mr. Baguette paper from Monterey Park."
 pubDate: '2016-07-10'
 author: The Thirsty Pig
 source: instagram

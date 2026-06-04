@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 13, 2017
+title: "Strawberry Shortcake — Jan 2017"
+description: "A forkful lifted from a strawberry shortcake topped with fresh sliced strawberries and whipped cream in paper."
 pubDate: '2017-01-13'
 author: The Thirsty Pig
 source: instagram

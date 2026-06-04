@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 15, 2016
+title: "Sichuan Chili Chicken with Cilantro — Jul 2016"
+description: "A platter of stir-fried chicken pieces in chili sauce with dried red chilies and fresh cilantro."
 pubDate: '2016-07-15'
 author: The Thirsty Pig
 source: instagram

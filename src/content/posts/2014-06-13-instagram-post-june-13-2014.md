@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 13, 2014
+title: "Hainanese Chicken Rice Plate — Jun 2014"
+description: "Sliced poached and roasted chicken with cilantro and tomato, a bowl of white rice, soup, and chili and ginger dipping sauces."
 pubDate: '2014-06-13'
 author: The Thirsty Pig
 source: instagram

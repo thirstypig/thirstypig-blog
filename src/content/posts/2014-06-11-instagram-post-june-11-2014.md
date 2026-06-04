@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 11, 2014
+title: "Stir-Fried Shredded Pork in Chili Oil — Jun 2014"
+description: "A plate of shredded pork and vegetables stir-fried in a glossy red chili-oil sauce, topped with chopped scallions."
 pubDate: '2014-06-11'
 author: The Thirsty Pig
 source: instagram

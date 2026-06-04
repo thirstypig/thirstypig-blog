@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 09, 2016
+title: "Plate of Steamed Shell-On Shrimp — Oct 2016"
+description: "A white oval dish piled with steamed shell-on shrimp garnished with a bit of green onion."
 pubDate: '2016-10-09'
 author: The Thirsty Pig
 source: instagram

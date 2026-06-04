@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 21, 2017
+title: "Hillside Restaurant Overlooking a Lake — Jan 2017"
+description: "A multi-level stone restaurant with terraced patios perched on a cliff above a wide lake at dusk."
 pubDate: '2017-01-21'
 author: The Thirsty Pig
 source: instagram

@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 22, 2013
+title: "Arched Highway Bridge in Haze — Feb 2013"
+description: "An arched suspension bridge with Chinese characters on its span, viewed through haze from a highway with a red bus ahead."
 pubDate: '2013-02-22'
 author: The Thirsty Pig
 source: instagram

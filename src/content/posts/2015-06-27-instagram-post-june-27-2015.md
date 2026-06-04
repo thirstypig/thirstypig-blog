@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 27, 2015
+title: "Giovanni's Garlic Shrimp Plate — Jun 2015"
+description: "A paper plate of garlic shrimp and rice in front of the graffiti-covered Giovanni's Shrimp food truck."
 pubDate: '2015-06-27'
 author: The Thirsty Pig
 source: instagram

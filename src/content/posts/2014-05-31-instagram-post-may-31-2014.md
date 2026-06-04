@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 31, 2014
+title: "Prime Rib with Creamed Spinach — May 2014"
+description: "A thick rosy slice of prime rib in au jus, plated with creamed spinach, mashed potatoes, and Yorkshire pudding."
 pubDate: '2014-05-31'
 author: The Thirsty Pig
 source: instagram

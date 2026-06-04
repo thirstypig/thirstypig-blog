@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — October 06, 2017
+title: "Pepperoni Pizza — Oct 2017"
+description: "A thin-crust pepperoni pizza with melted cheese on parchment paper in a cardboard box."
 pubDate: '2017-10-06'
 author: The Thirsty Pig
 source: instagram

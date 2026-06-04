@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 12, 2021
+title: "Fried Chicken Karaage in a Bowl — Apr 2021"
+description: "A bowl of crispy deep-fried chicken pieces topped with sliced green onions, held up by a window with orchids behind."
 pubDate: '2021-04-12'
 author: The Thirsty Pig
 source: instagram

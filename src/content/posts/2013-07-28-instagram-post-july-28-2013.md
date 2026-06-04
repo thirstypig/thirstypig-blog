@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 28, 2013
+title: "Soup Dumpling in Sauce Dish — Jul 2013"
+description: "A single large soup dumpling with a twisted top sitting in a small white dish of dark sauce, with a bamboo steamer behind."
 pubDate: '2013-07-28'
 author: The Thirsty Pig
 source: instagram

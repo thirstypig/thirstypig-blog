@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 09, 2017
+title: "Banana Split Sundae with Cherries — Dec 2017"
+description: "A towering banana split topped with whipped cream, chopped nuts, three maraschino cherries, and pineapple and strawberry toppings."
 pubDate: '2017-12-09'
 author: The Thirsty Pig
 source: instagram

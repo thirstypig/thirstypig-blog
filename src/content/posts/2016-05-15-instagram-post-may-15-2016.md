@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 15, 2016
+title: "Cheese and Fruit Board — May 2016"
+description: "A wooden board with cheeses, red grapes, figs, blackberries, crackers, olives and jams."
 pubDate: '2016-05-15'
 author: The Thirsty Pig
 source: instagram

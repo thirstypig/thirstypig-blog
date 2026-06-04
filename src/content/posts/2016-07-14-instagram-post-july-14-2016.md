@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 14, 2016
+title: "Shoestring Fries with Aioli and Ketchup — Jul 2016"
+description: "A wire basket of thin shoestring fries with herbs, served with ketchup and two cups of aioli on a marble table."
 pubDate: '2016-07-14'
 author: The Thirsty Pig
 source: instagram

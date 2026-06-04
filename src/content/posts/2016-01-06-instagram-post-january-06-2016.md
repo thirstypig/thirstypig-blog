@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 06, 2016
+title: "Tonkotsu Ramen with Pork Belly — Jan 2016"
+description: "A black bowl of pork-bone broth ramen topped with sliced pork belly, scallions, bean sprouts and chili paste."
 pubDate: '2016-01-06'
 author: The Thirsty Pig
 source: instagram

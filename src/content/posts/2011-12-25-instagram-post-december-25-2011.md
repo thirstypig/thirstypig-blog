@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 25, 2011
+title: "Giant Outdoor Christmas Tree at Night — Dec 2011"
+description: "A towering outdoor Christmas tree lit with red and white lights and topped with a gold ring, beside a red-lit building."
 pubDate: '2011-12-25'
 author: The Thirsty Pig
 source: instagram

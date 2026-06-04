@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 02, 2019
+title: "Chicken and Rice Burrito Cut in Half — Mar 2019"
+description: "A burrito sliced in half revealing chicken, rice, avocado, tomato, and cheese, held over a table with dip."
 pubDate: '2019-03-02'
 author: The Thirsty Pig
 source: instagram

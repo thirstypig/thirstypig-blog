@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 29, 2015
+title: "Charcuterie and Cheese Board — Dec 2015"
+description: "A wooden board with sliced baguette, cheese, salami, cornichons, olives, mustard seeds and chutney in sunlight."
 pubDate: '2015-12-29'
 author: The Thirsty Pig
 source: instagram

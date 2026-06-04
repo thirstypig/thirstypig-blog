@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 04, 2013
+title: "Outrigger Canoes at Sunrise on the Sea — Apr 2013"
+description: "Small outrigger canoes silhouetted on a calm sea at dawn under a cloudy sky, with a larger boat in the foreground."
 pubDate: '2013-04-04'
 author: The Thirsty Pig
 source: instagram

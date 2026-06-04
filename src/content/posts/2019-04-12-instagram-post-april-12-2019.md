@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — April 12, 2019
+title: "Factory Five Bottle Opener Keychain — Apr 2019"
+description: "A hand holding a black and chrome Factory Five branded bottle-opener keychain, in black and white."
 pubDate: '2019-04-12'
 author: The Thirsty Pig
 source: instagram

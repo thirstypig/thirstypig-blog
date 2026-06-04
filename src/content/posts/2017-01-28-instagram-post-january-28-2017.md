@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 28, 2017
+title: "Loaded Chili Cheese Fries — Jan 2017"
+description: "A metal tray of fries topped with ground meat chili, melted cheese sauce, diced onion, and sliced jalapenos."
 pubDate: '2017-01-28'
 author: The Thirsty Pig
 source: instagram

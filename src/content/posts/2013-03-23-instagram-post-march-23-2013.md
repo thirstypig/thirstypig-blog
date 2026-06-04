@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 23, 2013
+title: "Cocktail and Nuts by Candlelight — Mar 2013"
+description: "A glass of an iced drink beside a flickering candle and a dish of nuts on a dark bar table in a dim setting."
 pubDate: '2013-03-23'
 author: The Thirsty Pig
 source: instagram

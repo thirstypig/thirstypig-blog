@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — December 15, 2016
+title: "Pimento Cheese with Crackers — Dec 2016"
+description: "A scoop of pimento cheese spread topped with chopped chives, served with crispy crackers on a white plate."
 pubDate: '2016-12-15'
 author: The Thirsty Pig
 source: instagram

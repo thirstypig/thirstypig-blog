@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 05, 2019
+title: "Hainan Chicken Rice Plate — Mar 2019"
+description: "A plate of sliced poached chicken with a mound of seasoned rice, pickled vegetables, and two dipping sauces."
 pubDate: '2019-03-05'
 author: The Thirsty Pig
 source: instagram

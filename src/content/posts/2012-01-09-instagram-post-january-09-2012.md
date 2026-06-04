@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — January 09, 2012
+title: "Sunrise Over the Horizon from a Plane — Jan 2012"
+description: "An orange band of sunrise glowing along the horizon below a dark blue sky, seen from an airplane window over the wing."
 pubDate: '2012-01-09'
 author: The Thirsty Pig
 source: instagram

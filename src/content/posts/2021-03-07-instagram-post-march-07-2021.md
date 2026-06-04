@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — March 07, 2021
+title: "Grilled Cheese with Tomato Soup — Mar 2021"
+description: "A golden grilled cheese sandwich cut into triangles on a white plate beside a bowl of creamy tomato soup."
 pubDate: '2021-03-07'
 author: The Thirsty Pig
 source: instagram

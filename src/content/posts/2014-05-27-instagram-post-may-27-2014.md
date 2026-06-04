@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 27, 2014
+title: "Braised Short Ribs with Sesame — May 2014"
+description: "A close-up of glossy braised beef short ribs in dark sauce, scattered with sesame seeds and scallions."
 pubDate: '2014-05-27'
 author: The Thirsty Pig
 source: instagram

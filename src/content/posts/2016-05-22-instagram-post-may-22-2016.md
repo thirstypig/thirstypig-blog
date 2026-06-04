@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — May 22, 2016
+title: "Raw Beef and Vegetable Kebab Skewers — May 2016"
+description: "Skewers of raw seasoned beef, mushrooms, tomato and green bell pepper on foil in a backyard."
 pubDate: '2016-05-22'
 author: The Thirsty Pig
 source: instagram

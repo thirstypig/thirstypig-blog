@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — September 15, 2015
+title: "Fish and Chips — Sep 2015"
+description: "Beer-battered fried fish fillets with french fries, ketchup, and tartar sauce on a paper-lined plate."
 pubDate: '2015-09-15'
 author: The Thirsty Pig
 source: instagram

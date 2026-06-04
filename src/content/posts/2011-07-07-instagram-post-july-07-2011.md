@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — July 07, 2011
+title: "Frosted Cupcake with Pink Flower — Jul 2011"
+description: "A cupcake topped with white frosting and a pink sugar flower on a plate, with a second cupcake behind."
 pubDate: '2011-07-07'
 author: The Thirsty Pig
 source: instagram

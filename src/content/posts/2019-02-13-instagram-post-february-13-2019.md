@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — February 13, 2019
+title: "Marquis Mango Ginger Organic Energy Drink — Feb 2019"
+description: "A hand holding a can of Marquis Organic Energy mango ginger green tea and yerba mate in an office setting."
 pubDate: '2019-02-13'
 author: The Thirsty Pig
 source: instagram

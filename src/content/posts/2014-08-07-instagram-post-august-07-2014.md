@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — August 07, 2014
+title: "Sunset Sky over a Highway — Aug 2014"
+description: "A pink and orange sunset sky crossed by power lines, seen from a highway with cars and a road sign below."
 pubDate: '2014-08-07'
 author: The Thirsty Pig
 source: instagram

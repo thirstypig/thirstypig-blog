@@ -1,5 +1,6 @@
 ---
-title: Instagram Post — June 12, 2011
+title: "Spaghetti and Meatballs — Jun 2011"
+description: "A plate of spaghetti topped with large meatballs in red tomato sauce."
 pubDate: '2011-06-12'
 author: The Thirsty Pig
 source: instagram
