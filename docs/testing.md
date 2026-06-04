@@ -114,6 +114,11 @@ At a glance:
   apex-domain + subdomain URLs, HTML img tags (case-insensitive), blank-line
   collapse, mixed-content realistic scenarios. Caught a real regex bug (+
   instead of * before apex domain matcher) while writing.
+- **`scripts/instagram/test_import_instagram.py`** (7 unit assertions) — IG
+  importer: date-based dedup so re-syncs don't duplicate already-enriched posts
+  (titles drift to "Venue, City", `pubDate` becomes a full datetime — the bug
+  that would have re-published 6 March posts), plus `select_post_files` excluding
+  `ads_information/posts_viewed.json` (viewed-posts, not the author's own).
 - **`scripts/test_mark_imageless_drafts.py`** (16 unit assertions) —
   `image_exists` routing (empty/None → False, dead URLs → False, externals
   → True, local filesystem check) + `get_image_refs` collection across

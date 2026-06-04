@@ -105,6 +105,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "Dead-image cleaner — markdown images, empty-alt Blogger [](), angle-bracket autolinks, bare wp-content/blogspot URLs (apex + subdomain), HTML <img> tags (case-insensitive), blank-line collapse. Caught a regex bug (+ instead of * before apex domain) during writing.",
 	},
+	"scripts/instagram/test_import_instagram.py": {
+		kind: "unit",
+		covers: "Instagram importer — date-based dedup so re-syncs don't duplicate enriched posts (titles drift to 'Venue, City', pubDate becomes full datetime); select_post_files excludes ads_information/posts_viewed.json (viewed-posts, not the author's own) and sorts multi-part exports",
+	},
 	"scripts/test_mark_imageless_drafts.py": {
 		kind: "unit",
 		covers: "Imageless-post detector — image_exists (empty/None, dead URLs, externals, data URLs, live local, missing local) + get_image_refs (heroImage, images array, inline markdown, HTML img, missing fields, None entries)",
