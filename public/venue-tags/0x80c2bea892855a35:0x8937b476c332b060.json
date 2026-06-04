@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bea892855a35:0x8937b476c332b060",
+  "venue_name": "Troubadour",
+  "chips": [
+    {
+      "label": "new artists",
+      "mention_count": 47
+    },
+    {
+      "label": "intimate venue",
+      "mention_count": 102
+    },
+    {
+      "label": "intimate atmosphere",
+      "mention_count": 64
+    },
+    {
+      "label": "historic venue",
+      "mention_count": 29
+    },
+    {
+      "label": "lighting",
+      "mention_count": 12
+    },
+    {
+      "label": "elton john",
+      "mention_count": 12
+    },
+    {
+      "label": "view of the stage",
+      "mention_count": 10
+    },
+    {
+      "label": "shows",
+      "mention_count": 48
+    },
+    {
+      "label": "balcony",
+      "mention_count": 16
+    },
+    {
+      "label": "standing room",
+      "mention_count": 16
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:10Z",
+  "city": "West Hollywood",
+  "key": "troubadour-west-holly"
+}

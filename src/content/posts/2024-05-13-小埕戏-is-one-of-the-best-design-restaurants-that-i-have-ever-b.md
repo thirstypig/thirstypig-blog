@@ -15,6 +15,7 @@ images:
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18436199131004023.jpg
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18028170574897160.jpg
 - /images/posts/ig-2024-05-13-小埕戏-is-one-of-the-best-design-restaurants-that-i-have-ever-b/18059070817604648.jpg
+location: 小埕戏
 tags:
 - xiamen
 - chinese
@@ -26,6 +27,7 @@ categories:
 city: Xiamen
 cuisine:
 - Chinese
+placeId: "0x341484b6e2c388bf:0xf8e3df23ff23adeb"
 ---
 
 小埕戏 is one of the best design restaurants that I have ever been to. Amazing views, excellent blend of modern and traditional Chinese dining furnishings, and indoor, yet outdoor feel with a retractable roof. Fully impressed by this restaurant, and I’ve been to a lot of eateries. The food was traditional Xiamenese food featuring duck, fish, and vegetables, which reminded me of Taiwanese cooking. My ex coworkers also said the restrooms and the views were also impressive. The private rooms also feature great views. And lastly check out that cabinet full of Mao Tai!!

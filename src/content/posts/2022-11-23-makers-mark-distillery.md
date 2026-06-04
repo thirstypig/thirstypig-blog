@@ -30,6 +30,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c8c3076a4c36f9:0x82f100fdea03d0eb"
 ---
 
 Maker’s Mark Distillery. Arguably the best distillery we visited. This is what we expected when we visited Louisville and Kentucky - Americana at its best. They had Christmas decorations and lots of history. Their story was interesting with the unique design and the melted wax top. At the end of the tour they had a room that had the same colored glass flower design that is at Bellagio in Las Vegas. I’m also glad I got the bartender service mat - different from others and had a cool design.

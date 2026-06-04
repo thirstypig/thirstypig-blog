@@ -12,6 +12,7 @@ images:
 - /images/posts/ig-2018-07-14-sichuan-lunch-at-meizhou-dongpo-restaurant-at-santa-anita-we/17946670807096346.jpg
 - /images/posts/ig-2018-07-14-sichuan-lunch-at-meizhou-dongpo-restaurant-at-santa-anita-we/17926526377173587.jpg
 - /images/posts/ig-2018-07-14-sichuan-lunch-at-meizhou-dongpo-restaurant-at-santa-anita-we/17945630311107139.jpg
+location: Meizhou Dongpo Restaurant
 tags:
 - arcadia
 - chinese
@@ -24,6 +25,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dbbd28c9d11b:0xbd12010bbe1c5e83"
 ---
 
 Sichuan Lunch at Meizhou Dongpo Restaurant at Santa Anita Westfield Mall. Braised pork belly, chicken tofu soup, water boiled fish, roast duck, lion head fish ball. Much better this time around. Yum!

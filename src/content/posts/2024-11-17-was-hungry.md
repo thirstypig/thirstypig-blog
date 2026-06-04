@@ -26,6 +26,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2ba92da878525:0xcdf0d8911304443c"
 ---
 
 Was hungry . . . So we planned to trip to have barbecue at APL in Venice. They opened at 12:30ish (really at 12:45) and we decided to get there early. So. . . We arrived and got Nightclub-inthefront-baller parking (since no one was there) and got there first in line. Maybe I was dumb to expect a lot of people on this chilly Saturday morning - at 10:40. But around 11 or so, the line grew and by 12:30 the line snaked around with about 50 or so people - with all shapes and sizes and colors. Only smart thing I did was bring my tailgating chairs to relax while freezing. 

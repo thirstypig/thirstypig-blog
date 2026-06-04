@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a971b0535025:0x8c685a757aa9686d",
+  "venue_name": "The Dragon",
+  "chips": [
+    {
+      "label": "roast duck",
+      "mention_count": 102
+    },
+    {
+      "label": "yakiniku",
+      "mention_count": 80
+    },
+    {
+      "label": "environment",
+      "mention_count": 58
+    },
+    {
+      "label": "michelin",
+      "mention_count": 74
+    },
+    {
+      "label": "roasted goose four ways",
+      "mention_count": 19
+    },
+    {
+      "label": "shredded turnip cake",
+      "mention_count": 68
+    },
+    {
+      "label": "tofu skin roll",
+      "mention_count": 26
+    },
+    {
+      "label": "golden brick roasted pork",
+      "mention_count": 55
+    },
+    {
+      "label": "mango sago",
+      "mention_count": 35
+    },
+    {
+      "label": "crispy char siu",
+      "mention_count": 34
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:28Z",
+  "city": null,
+  "key": "cantonese-cuisine-and-dimsum-taipei"
+}

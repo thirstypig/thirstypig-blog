@@ -8,6 +8,7 @@ heroImage: /images/posts/ig-2018-05-27-my-favorite-pizza-joint/17858967568248905
 images:
 - /images/posts/ig-2018-05-27-my-favorite-pizza-joint/17858967568248905.jpg
 - /images/posts/ig-2018-05-27-my-favorite-pizza-joint/17934431200099982.jpg
+location: Zelo Pizza
 tags:
 - arcadia
 - italian
@@ -19,6 +20,7 @@ categories:
 - Italian
 cuisine:
 - Italian
+placeId: "0x80c2dbe3acf6b095:0x8d34981a3547fba9"
 ---
 
 My favorite pizza joint. Zelo pizza in Arcadia. Cornmeal crust! Had half the eggplant & sausage pizza and the other half pepperoni. Yum!.

@@ -15,6 +15,7 @@ images:
 - /images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17933849936009876.jpg
 - /images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17948871325781375.jpg
 - /images/posts/ig-2022-03-08-have-i-told-you-that-i-like-dim-sum-grand-harbot-hasnt-been/17981196187477870.jpg
+location: Grand Harbot
 tags:
 - san-gabriel
 - chinese
@@ -27,6 +28,7 @@ categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x80c2dafb9ae4e323:0x6d26f8b802e7c295"
 ---
 
 Have I told you that I like Dim Sum? Grand Harbot hasn’t been open that long, but is one of the finer Dim Sum restaurants in SGV. They also have a good Cantonese Roasted Meat 燒臘 shop next door, which is take out only. What I like best there is their roasted pork. They consistently have the best in SGV. 

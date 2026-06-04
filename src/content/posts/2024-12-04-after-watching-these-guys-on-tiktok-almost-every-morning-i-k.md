@@ -9,6 +9,7 @@ images:
 - /images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18015272360415790.jpg
 - /images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18032762711377060.jpg
 - /images/posts/ig-2024-12-04-after-watching-these-guys-on-tiktok-almost-every-morning-i-k/18056023111902406.jpg
+location: Tacos Los Huic
 tags:
 - los-angeles
 - mexican
@@ -21,6 +22,7 @@ categories:
 - Mexican
 cuisine:
 - Mexican
+placeId: "0x80c2c839b516fd97:0x431823033d7b337d"
 ---
 
 After watching these guys on TikTok almost every morning I knew I had to stop by a grab a burrito. This morning I took a screenshot of their TikTok feed and decided to ride a line scooter to snag one. I decided on the chorizo and egg over the steak. Never been a huge fan of asada. Anyways. The burritos was good, not great, yet filling and satisfying. 

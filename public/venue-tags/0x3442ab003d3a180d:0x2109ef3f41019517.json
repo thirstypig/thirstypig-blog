@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442ab003d3a180d:0x2109ef3f41019517",
+  "venue_name": "老井極上燒肉 台北信義店",
+  "chips": [
+    {
+      "label": "lengua",
+      "mention_count": 280
+    },
+    {
+      "label": "spacious seating",
+      "mention_count": 12
+    },
+    {
+      "label": "chicken soup",
+      "mention_count": 185
+    },
+    {
+      "label": "mood",
+      "mention_count": 349
+    },
+    {
+      "label": "changing the grill net",
+      "mention_count": 63
+    },
+    {
+      "label": "angus",
+      "mention_count": 42
+    },
+    {
+      "label": "lao jing yakiniku",
+      "mention_count": 33
+    },
+    {
+      "label": "fresh ingredients",
+      "mention_count": 183
+    },
+    {
+      "label": "seafood porridge",
+      "mention_count": 32
+    },
+    {
+      "label": "happy birthday to you",
+      "mention_count": 50
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:13Z",
+  "city": null,
+  "key": "japanese-style-bbq-taipei"
+}

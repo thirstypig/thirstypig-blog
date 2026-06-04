@@ -1,0 +1,49 @@
+{
+  "place_id": "0x864f8237195fa259:0xe86986e43f0ea285",
+  "venue_name": "Magnolia Market",
+  "chips": [
+    {
+      "label": "silos",
+      "mention_count": 259
+    },
+    {
+      "label": "food trucks",
+      "mention_count": 1327
+    },
+    {
+      "label": "cupcakes",
+      "mention_count": 722
+    },
+    {
+      "label": "bakery",
+      "mention_count": 1246
+    },
+    {
+      "label": "candles",
+      "mention_count": 100
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 368
+    },
+    {
+      "label": "corn hole",
+      "mention_count": 55
+    },
+    {
+      "label": "cookies",
+      "mention_count": 191
+    },
+    {
+      "label": "christmas decorations",
+      "mention_count": 76
+    },
+    {
+      "label": "sweet tea",
+      "mention_count": 76
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:55Z",
+  "city": "Austin",
+  "key": "fixer-uppers-magnolia-market-in-wac-austin"
+}

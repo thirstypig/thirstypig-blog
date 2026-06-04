@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c66268718c33:0xa55c6d45bb09dbb6",
+  "venue_name": "The Original Carnitas Michoacan",
+  "chips": [
+    {
+      "label": "asada nachos",
+      "mention_count": 54
+    },
+    {
+      "label": "asada fries",
+      "mention_count": 26
+    },
+    {
+      "label": "tripas",
+      "mention_count": 26
+    },
+    {
+      "label": "carne asada burrito",
+      "mention_count": 26
+    },
+    {
+      "label": "carnitas",
+      "mention_count": 94
+    },
+    {
+      "label": "al pastor tacos",
+      "mention_count": 19
+    },
+    {
+      "label": "lengua",
+      "mention_count": 14
+    },
+    {
+      "label": "super nachos",
+      "mention_count": 12
+    },
+    {
+      "label": "cabeza",
+      "mention_count": 11
+    },
+    {
+      "label": "papa nachos",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-04T20:26:13Z",
+  "city": "East LA",
+  "key": "carnitas-michoacán-east-la"
+}

@@ -13,6 +13,7 @@ images:
 - /images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/18087494518107377.jpg
 - /images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17868933847487040.jpg
 - /images/posts/ig-2019-10-15-late-night-meal-in-dtla-at-the-original-pantry-cafe/17984397859302810.jpg
+location: Original Pantry Cafe
 tags:
 - dtla
 - american

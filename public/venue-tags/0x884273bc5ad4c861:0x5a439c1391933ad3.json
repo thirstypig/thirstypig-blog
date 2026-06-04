@@ -1,0 +1,49 @@
+{
+  "place_id": "0x884273bc5ad4c861:0x5a439c1391933ad3",
+  "venue_name": "Castle & Key Distillery",
+  "chips": [
+    {
+      "label": "bourbon",
+      "mention_count": 513
+    },
+    {
+      "label": "grounds",
+      "mention_count": 448
+    },
+    {
+      "label": "bourbon trail",
+      "mention_count": 65
+    },
+    {
+      "label": "architecture",
+      "mention_count": 54
+    },
+    {
+      "label": "beautiful distillery",
+      "mention_count": 31
+    },
+    {
+      "label": "tour guide",
+      "mention_count": 376
+    },
+    {
+      "label": "restoration",
+      "mention_count": 69
+    },
+    {
+      "label": "gift shop",
+      "mention_count": 113
+    },
+    {
+      "label": "informative tour",
+      "mention_count": 44
+    },
+    {
+      "label": "historic buildings",
+      "mention_count": 21
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:34Z",
+  "city": "Louisville",
+  "key": "castle-key-distillery-louisville"
+}

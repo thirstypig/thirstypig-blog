@@ -1,0 +1,49 @@
+{
+  "place_id": "0x54906bb2f3f5ca3d:0x93f18f02f14e0a2c",
+  "venue_name": "Pike Place Market",
+  "chips": [
+    {
+      "label": "gum wall",
+      "mention_count": 375
+    },
+    {
+      "label": "crowded",
+      "mention_count": 1850
+    },
+    {
+      "label": "fish market",
+      "mention_count": 408
+    },
+    {
+      "label": "flower bouquets",
+      "mention_count": 356
+    },
+    {
+      "label": "fish throwing",
+      "mention_count": 662
+    },
+    {
+      "label": "flying fish",
+      "mention_count": 339
+    },
+    {
+      "label": "clam chowder",
+      "mention_count": 291
+    },
+    {
+      "label": "fresh produce",
+      "mention_count": 571
+    },
+    {
+      "label": "Starbucks Coffee Company",
+      "mention_count": 108
+    },
+    {
+      "label": "crowds",
+      "mention_count": 840
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:52Z",
+  "city": "Seattle",
+  "key": "pike-place-market-seattle"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c7f9cc8ed8ff:0x5a4ba45cbe7271df",
+  "venue_name": "Ristorante Per L’Ora",
+  "chips": [
+    {
+      "label": "birria pasta",
+      "mention_count": 5
+    },
+    {
+      "label": "orecchiette",
+      "mention_count": 5
+    },
+    {
+      "label": "crab cake",
+      "mention_count": 3
+    },
+    {
+      "label": "sweet corn agnolotti",
+      "mention_count": 2
+    },
+    {
+      "label": "handmade pastas",
+      "mention_count": 2
+    },
+    {
+      "label": "early opening hours",
+      "mention_count": 2
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 3
+    },
+    {
+      "label": "unauthorized tip",
+      "mention_count": 2
+    },
+    {
+      "label": "oxtail orecchiette",
+      "mention_count": 2
+    },
+    {
+      "label": "fine dining",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-04T20:25:39Z",
+  "city": "Downtown LA",
+  "key": "nomad-downtown-l"
+}

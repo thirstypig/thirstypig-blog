@@ -16,6 +16,7 @@ images:
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/17912797832941547.jpg
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/18431096119054359.jpg
 - /images/posts/ig-2024-05-09-this-was-my-friend-favorite-yakitori-joint-in-taipei/18045221551690281.jpg
+location: Yakitori Joint
 tags:
 - taipei
 - japanese
@@ -27,6 +28,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x3442a982d2fc44df:0x260198e5adc56dde"
 ---
 
 This was my friend favorite yakitori joint in Taipei. Low key and good environment with good food. Just the right price that young kids wouldn’t go to, so it had the right crowd. Outstanding service. 

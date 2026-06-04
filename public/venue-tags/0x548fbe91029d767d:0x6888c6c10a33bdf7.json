@@ -1,0 +1,49 @@
+{
+  "place_id": "0x548fbe91029d767d:0x6888c6c10a33bdf7",
+  "venue_name": "Olympic Game Farm Inc.",
+  "chips": [
+    {
+      "label": "llamas",
+      "mention_count": 170
+    },
+    {
+      "label": "bison",
+      "mention_count": 392
+    },
+    {
+      "label": "feeding animals",
+      "mention_count": 396
+    },
+    {
+      "label": "peacocks",
+      "mention_count": 64
+    },
+    {
+      "label": "elk",
+      "mention_count": 198
+    },
+    {
+      "label": "yaks",
+      "mention_count": 122
+    },
+    {
+      "label": "wolves",
+      "mention_count": 167
+    },
+    {
+      "label": "deer",
+      "mention_count": 44
+    },
+    {
+      "label": "bears",
+      "mention_count": 67
+    },
+    {
+      "label": "petting zoo",
+      "mention_count": 42
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:48Z",
+  "city": "Sequim",
+  "key": "olympic-game-farm-inc-sequim"
+}

@@ -14,6 +14,7 @@ images:
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17855790593769098.jpg
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17944721717029200.jpg
 - /images/posts/ig-2022-06-15-had-a-sha-newest-noodles-meteor-noodles/17920900889328265.jpg
+location: A-sha
 tags:
 - taiwanese
 - noodles

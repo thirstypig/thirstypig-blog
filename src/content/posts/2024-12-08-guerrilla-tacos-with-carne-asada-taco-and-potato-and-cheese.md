@@ -10,6 +10,7 @@ images:
 - /images/posts/ig-2024-12-08-guerrilla-tacos-with-carne-asada-taco-and-potato-and-cheese/18028934714197468.jpg
 - /images/posts/ig-2024-12-08-guerrilla-tacos-with-carne-asada-taco-and-potato-and-cheese/18374032525115994.jpg
 - /images/posts/ig-2024-12-08-guerrilla-tacos-with-carne-asada-taco-and-potato-and-cheese/18051801400971205.jpg
+location: Guerrilla Tacos
 tags:
 - dtla
 - mexican

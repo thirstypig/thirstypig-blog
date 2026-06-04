@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8e442857efb8b4c3:0x7d2df8a0428b3e34",
+  "venue_name": "Club Medellín",
+  "chips": [
+    {
+      "label": "pool",
+      "mention_count": 15
+    },
+    {
+      "label": "spacious",
+      "mention_count": 16
+    },
+    {
+      "label": "organized",
+      "mention_count": 10
+    },
+    {
+      "label": "swimming classes",
+      "mention_count": 2
+    },
+    {
+      "label": "study spaces",
+      "mention_count": 3
+    },
+    {
+      "label": "cozy",
+      "mention_count": 5
+    },
+    {
+      "label": "environment",
+      "mention_count": 8
+    },
+    {
+      "label": "gastronomy school",
+      "mention_count": 2
+    },
+    {
+      "label": "cozy club",
+      "mention_count": 2
+    },
+    {
+      "label": "meeting",
+      "mention_count": 18
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:50Z",
+  "city": "Medellin",
+  "key": "club-medellín-medellin"
+}

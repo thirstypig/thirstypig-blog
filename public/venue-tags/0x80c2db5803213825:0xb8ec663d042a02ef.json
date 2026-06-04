@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db5803213825:0xb8ec663d042a02ef",
+  "venue_name": "APL BBQ Pop Up",
+  "chips": [
+    {
+      "label": "ribs",
+      "mention_count": 11
+    },
+    {
+      "label": "oxtails",
+      "mention_count": 4
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 6
+    },
+    {
+      "label": "colossal beef short rib",
+      "mention_count": 2
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 2
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 6
+    },
+    {
+      "label": "rack of lamb",
+      "mention_count": 2
+    },
+    {
+      "label": "portion sizes",
+      "mention_count": 4
+    },
+    {
+      "label": "smokers",
+      "mention_count": 3
+    },
+    {
+      "label": "slaw",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:03Z",
+  "city": "Los Angeles",
+  "key": "apl-bbq-pop-up-los-angele"
+}

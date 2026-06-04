@@ -1,0 +1,49 @@
+{
+  "place_id": "0x88684ddbd798a61d:0x8a28118b5dfdbee3",
+  "venue_name": "Bardstown Bourbon Company",
+  "chips": [
+    {
+      "label": "bourbon tasting",
+      "mention_count": 44
+    },
+    {
+      "label": "barrel thieving tour",
+      "mention_count": 10
+    },
+    {
+      "label": "modern distillery",
+      "mention_count": 14
+    },
+    {
+      "label": "old fashioned",
+      "mention_count": 26
+    },
+    {
+      "label": "rickhouse",
+      "mention_count": 11
+    },
+    {
+      "label": "distillate tasting",
+      "mention_count": 6
+    },
+    {
+      "label": "bourbon making process",
+      "mention_count": 5
+    },
+    {
+      "label": "knowledgeable guide",
+      "mention_count": 27
+    },
+    {
+      "label": "master distiller",
+      "mention_count": 6
+    },
+    {
+      "label": "brisket sandwich",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:38Z",
+  "city": "Bardstown",
+  "key": "bardstown-bourbon-company-bardstown"
+}

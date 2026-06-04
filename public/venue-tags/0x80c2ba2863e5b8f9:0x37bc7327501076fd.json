@@ -1,0 +1,17 @@
+{
+  "place_id": "0x80c2ba2863e5b8f9:0x37bc7327501076fd",
+  "venue_name": "Culver City Hall",
+  "chips": [
+    {
+      "label": "building",
+      "mention_count": 2
+    },
+    {
+      "label": "walking",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:59Z",
+  "city": "Culver City",
+  "key": "culver-city-city-hall-culver-cit"
+}

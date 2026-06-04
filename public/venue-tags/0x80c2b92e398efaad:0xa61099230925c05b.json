@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b92e398efaad:0xa61099230925c05b",
+  "venue_name": "brown bag cookies",
+  "chips": [
+    {
+      "label": "canele",
+      "mention_count": 35
+    },
+    {
+      "label": "earl grey canele",
+      "mention_count": 10
+    },
+    {
+      "label": "cozy atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "desserts",
+      "mention_count": 34
+    },
+    {
+      "label": "cream scones",
+      "mention_count": 6
+    },
+    {
+      "label": "ube financier",
+      "mention_count": 2
+    },
+    {
+      "label": "matcha",
+      "mention_count": 13
+    },
+    {
+      "label": "pound cake",
+      "mention_count": 8
+    },
+    {
+      "label": "creme brule pound cake",
+      "mention_count": 7
+    },
+    {
+      "label": "madeleines",
+      "mention_count": 11
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:46Z",
+  "city": null,
+  "key": "some-of-the-best-cookies-in-la-los-angele"
+}

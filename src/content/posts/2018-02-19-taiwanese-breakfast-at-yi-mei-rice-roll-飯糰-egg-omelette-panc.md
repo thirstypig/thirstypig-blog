@@ -11,6 +11,7 @@ images:
 - /images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17865358567219180.jpg
 - /images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17894511706171435.jpg
 - /images/posts/ig-2018-02-19-taiwanese-breakfast-at-yi-mei-rice-roll-飯糰-egg-omelette-panc/17898702787154010.jpg
+location: Yi Mei
 tags:
 - taiwanese
 - rice-roll

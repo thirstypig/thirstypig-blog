@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbe3acf6b095:0x8d34981a3547fba9",
+  "venue_name": "Zelo",
+  "chips": [
+    {
+      "label": "corn pizza",
+      "mention_count": 28
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "pesto pizza",
+      "mention_count": 5
+    },
+    {
+      "label": "deep dish pizza",
+      "mention_count": 9
+    },
+    {
+      "label": "beet salad",
+      "mention_count": 14
+    },
+    {
+      "label": "sausage pizza",
+      "mention_count": 5
+    },
+    {
+      "label": "crisp crust",
+      "mention_count": 3
+    },
+    {
+      "label": "homemade pizza",
+      "mention_count": 2
+    },
+    {
+      "label": "goat cheese",
+      "mention_count": 2
+    },
+    {
+      "label": "pizza by the slice",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-04T20:23:51Z",
+  "city": "Arcadia",
+  "key": "zelo-pizza-arcadia"
+}

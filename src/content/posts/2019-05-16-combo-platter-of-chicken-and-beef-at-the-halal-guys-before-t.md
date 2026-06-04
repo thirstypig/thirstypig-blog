@@ -8,6 +8,7 @@ heroImage: /images/posts/ig-2019-05-16-combo-platter-of-chicken-and-beef-at-the-
 images:
 - /images/posts/ig-2019-05-16-combo-platter-of-chicken-and-beef-at-the-halal-guys-before-t/18031875745162725.jpg
 - /images/posts/ig-2019-05-16-combo-platter-of-chicken-and-beef-at-the-halal-guys-before-t/18064622773065186.jpg
+location: Halal Guys
 tags:
 - nyc
 - mediterranean
@@ -20,6 +21,7 @@ categories:
 - Mediterranean
 cuisine:
 - Mediterranean
+placeId: "0x89c259652b78b7cf:0xc9b18d28cbbde518"
 ---
 
 Combo Platter of chicken and beef at the Halal Guys before the sauce. White sauce is decadent and the red sauce is just a bit too spicy. Lunch on the streets of New York City. .

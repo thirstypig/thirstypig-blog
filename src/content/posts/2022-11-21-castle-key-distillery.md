@@ -24,6 +24,7 @@ categories:
 city: Louisville
 cuisine:
 - Cocktails
+placeId: "0x884273bc5ad4c861:0x5a439c1391933ad3"
 ---
 
 Castle & Key distillery. Really nice distillery at a picturesque location by a hill and stream. The Castle is the Old Taylor Distillery Company and the key is where the natural spring. The Key, is covered, and in the shape of a key. There's a cool sunken garden in the back. Unfortunately, we didn't go on a tour. Though I did purchase a bottle of their seasonal gin, that is only offered in Louisville.

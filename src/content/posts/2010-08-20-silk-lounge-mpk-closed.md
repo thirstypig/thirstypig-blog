@@ -20,6 +20,7 @@ region: San Gabriel Valley
 address: 123 South Lincoln Ave
 cuisine:
 - Cocktails
+placeId: "0x80c2c557250782a3:0xab717afc86953c23"
 ---
 
 

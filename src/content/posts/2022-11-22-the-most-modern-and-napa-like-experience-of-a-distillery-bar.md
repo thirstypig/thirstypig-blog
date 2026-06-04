@@ -15,6 +15,7 @@ images:
 - /images/posts/ig-2022-11-22-the-most-modern-and-napa-like-experience-of-a-distillery-bar/18183727972246347.jpg
 - /images/posts/ig-2022-11-22-the-most-modern-and-napa-like-experience-of-a-distillery-bar/18193326979209753.jpg
 - /images/posts/ig-2022-11-22-the-most-modern-and-napa-like-experience-of-a-distillery-bar/17998545820505493.jpg
+location: Bardstown Bourbon Company
 tags:
 - bardstown
 - cocktails
@@ -27,6 +28,7 @@ categories:
 region: Kentucky
 cuisine:
 - Cocktails
+placeId: "0x88684ddbd798a61d:0x8a28118b5dfdbee3"
 ---
 
 The most modern and Napa-like experience of a distillery - Bardstown Bourbon Company. Really nice distillery and tour. The bourbon was also really good, too. In one of the warehouses where they store the bourbon, called a Rickhouse, they have a cool showcase bar lounge. The owner and founder was in tech and had a company that merged with Earthink! 

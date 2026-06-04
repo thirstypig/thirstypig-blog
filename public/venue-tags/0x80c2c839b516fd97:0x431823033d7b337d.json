@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c839b516fd97:0x431823033d7b337d",
+  "venue_name": "Taqueria Los Güichos",
+  "chips": [
+    {
+      "label": "al pastor",
+      "mention_count": 271
+    },
+    {
+      "label": "churros",
+      "mention_count": 21
+    },
+    {
+      "label": "trompo",
+      "mention_count": 13
+    },
+    {
+      "label": "torta cubana",
+      "mention_count": 7
+    },
+    {
+      "label": "asada",
+      "mention_count": 29
+    },
+    {
+      "label": "taco truck",
+      "mention_count": 13
+    },
+    {
+      "label": "tripa",
+      "mention_count": 10
+    },
+    {
+      "label": "tripas tacos",
+      "mention_count": 4
+    },
+    {
+      "label": "cash only",
+      "mention_count": 6
+    },
+    {
+      "label": "street tacos",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-04T20:29:18Z",
+  "city": "Los Angeles",
+  "key": "tacos-los-huic-los-angele"
+}

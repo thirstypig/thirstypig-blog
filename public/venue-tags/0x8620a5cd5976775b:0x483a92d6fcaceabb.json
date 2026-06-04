@@ -1,0 +1,49 @@
+{
+  "place_id": "0x8620a5cd5976775b:0x483a92d6fcaceabb",
+  "venue_name": "Commander's Palace",
+  "chips": [
+    {
+      "label": "turtle soup",
+      "mention_count": 509
+    },
+    {
+      "label": "bread pudding souffle",
+      "mention_count": 474
+    },
+    {
+      "label": "live music",
+      "mention_count": 38
+    },
+    {
+      "label": "soufflé",
+      "mention_count": 394
+    },
+    {
+      "label": "martinis",
+      "mention_count": 291
+    },
+    {
+      "label": "gumbo",
+      "mention_count": 239
+    },
+    {
+      "label": "quail",
+      "mention_count": 95
+    },
+    {
+      "label": "strawberry shortcake",
+      "mention_count": 97
+    },
+    {
+      "label": "Pecan Crusted Gulf Fish",
+      "mention_count": 102
+    },
+    {
+      "label": "bananas foster",
+      "mention_count": 67
+    }
+  ],
+  "scraped_at": "2026-06-04T20:22:29Z",
+  "city": "New Orleans",
+  "key": "commanders-palace-new-orlean"
+}

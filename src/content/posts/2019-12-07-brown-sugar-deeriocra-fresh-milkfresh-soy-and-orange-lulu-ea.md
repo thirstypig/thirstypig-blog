@@ -8,6 +8,7 @@ heroImage: /images/posts/ig-2019-12-07-brown-sugar-deeriocra-fresh-milkfresh-soy
 images:
 - /images/posts/ig-2019-12-07-brown-sugar-deeriocra-fresh-milkfresh-soy-and-orange-lulu-ea/18084039133190158.jpg
 - /images/posts/ig-2019-12-07-brown-sugar-deeriocra-fresh-milkfresh-soy-and-orange-lulu-ea/18084326917081717.jpg
+location: The Alley
 tags:
 - los-angeles
 - taiwanese

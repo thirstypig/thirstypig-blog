@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442abccf1498bed:0xfa6241ef3631db88",
+  "venue_name": "Old Friends Chinese Restaurant 老朋友小酌熱炒",
+  "chips": [
+    {
+      "label": "beer selection",
+      "mention_count": 185
+    },
+    {
+      "label": "potluck",
+      "mention_count": 135
+    },
+    {
+      "label": "environment",
+      "mention_count": 103
+    },
+    {
+      "label": "buy one get one free beer",
+      "mention_count": 68
+    },
+    {
+      "label": "fried rice",
+      "mention_count": 68
+    },
+    {
+      "label": "taro duck",
+      "mention_count": 32
+    },
+    {
+      "label": "three cup chicken",
+      "mention_count": 34
+    },
+    {
+      "label": "stir fried beef with scallions",
+      "mention_count": 21
+    },
+    {
+      "label": "seafood old fritters",
+      "mention_count": 20
+    },
+    {
+      "label": "crispy taro duck",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:21Z",
+  "city": null,
+  "key": "lunch-at-an-old-favorite-with-an-ol-taipei"
+}

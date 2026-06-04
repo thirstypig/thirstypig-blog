@@ -1,0 +1,49 @@
+{
+  "place_id": "0x886973a08a3f1ba9:0x71c166a69db3c8f9",
+  "venue_name": "Old Forester Distilling Co.",
+  "chips": [
+    {
+      "label": "charring process",
+      "mention_count": 30
+    },
+    {
+      "label": "bourbon",
+      "mention_count": 522
+    },
+    {
+      "label": "barrel making",
+      "mention_count": 93
+    },
+    {
+      "label": "bourbon tasting",
+      "mention_count": 53
+    },
+    {
+      "label": "bourbon tour",
+      "mention_count": 45
+    },
+    {
+      "label": "informative tour guide",
+      "mention_count": 73
+    },
+    {
+      "label": "knowledgeable guide",
+      "mention_count": 177
+    },
+    {
+      "label": "cooperage",
+      "mention_count": 91
+    },
+    {
+      "label": "history of bourbon",
+      "mention_count": 25
+    },
+    {
+      "label": "distilling process",
+      "mention_count": 35
+    }
+  ],
+  "scraped_at": "2026-06-04T20:27:31Z",
+  "city": null,
+  "key": "first-distillery-tour-louisville"
+}

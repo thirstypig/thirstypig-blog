@@ -26,6 +26,7 @@ categories:
 city: Taichung
 cuisine:
 - Taiwanese
+placeId: "0x34693d688e719879:0x79ccdb5926a580bb"
 ---
 
 Taichung Night Market. Lots of yummy things to eat. Lots of people, families, and kids. It has been a long time since I have been to a Taiwanese night market. Enjoyed it but I don’t think I could stay too long. It was a warm night. Plus some of the things were a bit questionable even though they smelled good. 

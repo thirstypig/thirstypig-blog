@@ -1,0 +1,13 @@
+{
+  "place_id": "0x341484b6e2c388bf:0xf8e3df23ff23adeb",
+  "venue_name": "Xiaoyanjing Snack Booth",
+  "chips": [
+    {
+      "label": "seafood",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:32Z",
+  "city": "Xiamen",
+  "key": "小埕戏-xiamen"
+}

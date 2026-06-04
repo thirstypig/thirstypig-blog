@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a982d2fc44df:0x260198e5adc56dde",
+  "venue_name": "Yakitori Bar",
+  "chips": [
+    {
+      "label": "chicken skewers",
+      "mention_count": 33
+    },
+    {
+      "label": "wagyu",
+      "mention_count": 14
+    },
+    {
+      "label": "environment",
+      "mention_count": 73
+    },
+    {
+      "label": "chicken cartilage",
+      "mention_count": 17
+    },
+    {
+      "label": "tsukune",
+      "mention_count": 31
+    },
+    {
+      "label": "chicken thigh",
+      "mention_count": 32
+    },
+    {
+      "label": "fried oysters",
+      "mention_count": 8
+    },
+    {
+      "label": "oyster curry rice",
+      "mention_count": 7
+    },
+    {
+      "label": "all-you-can-drink",
+      "mention_count": 16
+    },
+    {
+      "label": "chicken neck meat",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:25Z",
+  "city": "Taipei",
+  "key": "yakitori-joint-taipei"
+}

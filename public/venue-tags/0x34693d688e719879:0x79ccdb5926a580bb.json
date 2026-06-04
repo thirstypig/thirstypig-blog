@@ -1,0 +1,49 @@
+{
+  "place_id": "0x34693d688e719879:0x79ccdb5926a580bb",
+  "venue_name": "Yizhong Street Night Market",
+  "chips": [
+    {
+      "label": "jipai",
+      "mention_count": 128
+    },
+    {
+      "label": "claw machine",
+      "mention_count": 160
+    },
+    {
+      "label": "fengjia night market",
+      "mention_count": 53
+    },
+    {
+      "label": "angel chicken cutlet",
+      "mention_count": 99
+    },
+    {
+      "label": "trash bins",
+      "mention_count": 214
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 79
+    },
+    {
+      "label": "cram school",
+      "mention_count": 63
+    },
+    {
+      "label": "takoyaki",
+      "mention_count": 49
+    },
+    {
+      "label": "chungyo department store",
+      "mention_count": 43
+    },
+    {
+      "label": "chicken feet jelly",
+      "mention_count": 28
+    }
+  ],
+  "scraped_at": "2026-06-04T20:28:17Z",
+  "city": "Taichung",
+  "key": "taichung-night-market-taichung"
+}
