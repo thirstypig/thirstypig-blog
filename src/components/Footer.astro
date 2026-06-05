@@ -64,18 +64,33 @@ const socialLinks = [
 			))}
 		</div>
 
-		<div class="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm mb-6">
-			<a href="/posts/" class="text-white/60 hover:text-poster-red transition-colors no-underline">Posts</a>
-			<a href="/cities" class="text-white/60 hover:text-poster-red transition-colors no-underline">Cities</a>
-			<a href="/map" class="text-white/60 hover:text-poster-red transition-colors no-underline">Map</a>
-			<a href="/tags/cloud" class="text-white/60 hover:text-poster-red transition-colors no-underline">Tags</a>
-			<a href="/cuisine" class="text-white/60 hover:text-poster-red transition-colors no-underline">Cuisine</a>
-			<a href="/hitlist" class="text-white/60 hover:text-poster-red transition-colors no-underline">Hit List</a>
-			<a href="/about" class="text-white/60 hover:text-poster-red transition-colors no-underline">About</a>
-			<a href="/rss.xml" class="text-white/60 hover:text-poster-red transition-colors no-underline">RSS</a>
-			<a href="/privacy" class="text-white/60 hover:text-poster-red transition-colors no-underline">Privacy</a>
-			<button type="button" data-cc="show-preferencesModal" class="text-white/60 hover:text-poster-red transition-colors no-underline bg-transparent border-0 p-0 cursor-pointer font-[inherit] text-sm">Cookie preferences</button>
-		</div>
+		<nav class="flex flex-wrap justify-center gap-x-16 gap-y-8 text-sm mb-8" aria-label="Footer navigation">
+			<div>
+				<p class="text-white/40 uppercase tracking-widest text-xs font-medium mb-3">Browse</p>
+				<ul class="space-y-2 list-none p-0 m-0">
+					<li><a href="/posts/" class="text-white/60 hover:text-poster-red transition-colors no-underline">Posts</a></li>
+					<li><a href="/cities" class="text-white/60 hover:text-poster-red transition-colors no-underline">Cities</a></li>
+					<li><a href="/map" class="text-white/60 hover:text-poster-red transition-colors no-underline">Map</a></li>
+					<li><a href="/tags/cloud" class="text-white/60 hover:text-poster-red transition-colors no-underline">Tags</a></li>
+					<li><a href="/cuisine" class="text-white/60 hover:text-poster-red transition-colors no-underline">Cuisine</a></li>
+				</ul>
+			</div>
+			<div>
+				<p class="text-white/40 uppercase tracking-widest text-xs font-medium mb-3">Discover</p>
+				<ul class="space-y-2 list-none p-0 m-0">
+					<li><a href="/hitlist" class="text-white/60 hover:text-poster-red transition-colors no-underline">Hit List</a></li>
+					<li><a href="/about" class="text-white/60 hover:text-poster-red transition-colors no-underline">About</a></li>
+				</ul>
+			</div>
+			<div>
+				<p class="text-white/40 uppercase tracking-widest text-xs font-medium mb-3">Info</p>
+				<ul class="space-y-2 list-none p-0 m-0">
+					<li><a href="/rss.xml" class="text-white/60 hover:text-poster-red transition-colors no-underline">RSS</a></li>
+					<li><a href="/privacy" class="text-white/60 hover:text-poster-red transition-colors no-underline">Privacy</a></li>
+					<li><button type="button" data-cc="show-preferencesModal" class="text-white/60 hover:text-poster-red transition-colors no-underline bg-transparent border-0 p-0 cursor-pointer font-[inherit] text-sm">Cookie preferences</button></li>
+				</ul>
+			</div>
+		</nav>
 
 		<div class="text-center text-xs text-white/40">
 			<p>&copy; 2007&ndash;{today.getFullYear()} The Thirsty Pig. All rights reserved.</p>
