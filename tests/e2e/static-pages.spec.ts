@@ -33,6 +33,22 @@ test.describe("static pages", () => {
 		await expect(page.getByRole("heading", { level: 2, name: /April 2026/ })).toBeVisible();
 	});
 
+	test("footer renders three grouped columns with Browse / Discover / Info headings", async ({ page }) => {
+		await page.goto("/about");
+		const footer = page.locator("footer");
+		// Column headings — DOM text is mixed-case; CSS `uppercase` is cosmetic only.
+		await expect(footer.getByText("Browse", { exact: true })).toBeVisible();
+		await expect(footer.getByText("Discover", { exact: true })).toBeVisible();
+		await expect(footer.getByText("Info", { exact: true })).toBeVisible();
+		// Browse column contains the primary content links
+		await expect(footer.getByRole("link", { name: "Posts" })).toBeVisible();
+		await expect(footer.getByRole("link", { name: "Cities" })).toBeVisible();
+		await expect(footer.getByRole("link", { name: "Cuisine" })).toBeVisible();
+		// Info column contains utility/legal links
+		await expect(footer.getByRole("link", { name: "RSS" })).toBeVisible();
+		await expect(footer.getByRole("link", { name: "Privacy" })).toBeVisible();
+	});
+
 	test("privacy page discloses trackers and GDPR/CCPA rights", async ({ page }) => {
 		await page.goto("/privacy");
 		await expect(page.getByRole("heading", { level: 1, name: "Privacy Policy" })).toBeVisible();

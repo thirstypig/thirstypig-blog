@@ -116,5 +116,16 @@ describe("getImageInfo integration", () => {
 		expect(info.width).toBeNull();
 		expect(info.webp).toBeNull();
 	});
+
+	it("returns fallback for a path that escapes publicDir via traversal sequences", async () => {
+		// path.join(publicDir, '/../../../etc/passwd') normalises to /etc/passwd,
+		// which is outside publicDir. The escape check added in PR #127 must catch
+		// this and return the null fallback rather than calling existsSync('/etc/passwd').
+		const info = await getImageInfo("/../../../etc/passwd", opts());
+		expect(info.width).toBeNull();
+		expect(info.height).toBeNull();
+		expect(info.webp).toBeNull();
+		expect(info.src).toBe("/../../../etc/passwd");
+	});
 });
 
