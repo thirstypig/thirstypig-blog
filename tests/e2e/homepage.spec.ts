@@ -17,11 +17,11 @@ test.describe("homepage", () => {
 
 	test("aria-current is set on the matching nav link when visiting an interior page", async ({ page }) => {
 		// The Bold Red Poster nav intentionally has no "Home" link — the wordmark links to /
-		// instead. So aria-current is meaningful only on interior pages. Visit /about to
-		// verify the mechanism wires up correctly.
-		await page.goto("/about");
-		// Assert via stable data-testid; survives label renames.
-		await expect(page.locator('[data-testid="nav-about"]').first())
+		// instead. So aria-current is meaningful only on interior pages. Visit /posts to
+		// verify the mechanism wires up correctly on a desktop nav item.
+		// (nav-about moved to mobile menu in PR #123; nav-posts remains in the desktop bar.)
+		await page.goto("/posts/");
+		await expect(page.locator('[data-testid="nav-posts"]').first())
 			.toHaveAttribute("aria-current", "page");
 	});
 

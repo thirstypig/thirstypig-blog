@@ -15,8 +15,9 @@ test.describe("static pages", () => {
 
 	test("about nav link gets aria-current", async ({ page }) => {
 		await page.goto("/about");
-		// Assert via stable data-testid; survives label renames.
-		await expect(page.locator('[data-testid="nav-about"]').first())
+		// nav-about moved to mobile menu in PR #123 (desktop nav: Posts + Cities only).
+		// nav-about-mobile is always in the DOM even when the menu is closed.
+		await expect(page.locator('[data-testid="nav-about-mobile"]').first())
 			.toHaveAttribute("aria-current", "page");
 	});
 

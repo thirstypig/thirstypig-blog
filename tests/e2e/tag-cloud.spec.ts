@@ -2,12 +2,12 @@ import { test, expect } from "@playwright/test";
 
 test.describe("tag cloud", () => {
 	test("Tags nav link routes to /tags/cloud and lights up aria-current", async ({ page }) => {
-		await page.goto("/");
-		const tagsLink = page.locator('[data-testid="nav-tags"]').first();
-		await expect(tagsLink).toBeVisible();
-		await tagsLink.click();
+		// nav-tags moved to mobile menu in PR #123 (desktop nav: Posts + Cities only).
+		// Navigate directly and assert aria-current on nav-tags-mobile (always in DOM).
+		await page.goto("/tags/cloud");
 		await expect(page).toHaveURL(/\/tags\/cloud\/?$/);
-		await expect(tagsLink).toHaveAttribute("aria-current", "page");
+		await expect(page.locator('[data-testid="nav-tags-mobile"]').first())
+			.toHaveAttribute("aria-current", "page");
 	});
 
 	test("renders at least 5 chips so the page is non-empty", async ({ page }) => {

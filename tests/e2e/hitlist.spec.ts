@@ -79,8 +79,9 @@ test.describe("hitlist page", () => {
 
 	test("Hit List nav link gets aria-current on this page", async ({ page }) => {
 		await page.goto("/hitlist");
-		// Assert via stable data-testid; survives label renames.
-		await expect(page.locator('[data-testid="nav-hitlist"]').first())
+		// nav-hitlist moved to mobile menu in PR #123 (desktop nav: Posts + Cities only).
+		// nav-hitlist-mobile is always in the DOM even when the menu is closed.
+		await expect(page.locator('[data-testid="nav-hitlist-mobile"]').first())
 			.toHaveAttribute("aria-current", "page");
 	});
 });

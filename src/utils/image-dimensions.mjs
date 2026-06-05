@@ -11,7 +11,7 @@
  * @typedef {{ src: string, webp: string | null, width: number | null, height: number | null }} ImageInfo
  */
 import { existsSync, statSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { join, dirname, extname } from 'node:path';
+import { join, sep, dirname, extname } from 'node:path';
 import sharp from 'sharp';
 
 const PROJECT_ROOT = process.cwd();
@@ -50,7 +50,11 @@ export function flushImageCache() {
 
 function toFsPath(src, publicDir) {
 	if (!src || !src.startsWith('/')) return null;
-	return join(publicDir, src);
+	const resolved = join(publicDir, src);
+	// Prevent path traversal: join() normalises /../ sequences, so verify the
+	// result stays inside publicDir before handing it to sharp or existsSync.
+	if (!resolved.startsWith(publicDir + sep)) return null;
+	return resolved;
 }
 
 export function webpSibling(src) {
@@ -78,7 +82,12 @@ export async function getImageInfo(src, options = {}) {
 	const fsPath = toFsPath(src, publicDir);
 	if (!fsPath || !existsSync(fsPath)) return fallback;
 
-	const mtime = statSync(fsPath).mtimeMs;
+	let mtime;
+	try {
+		mtime = statSync(fsPath).mtimeMs;
+	} catch {
+		return fallback;
+	}
 	const cached = cacheEnabled ? cache[src] : null;
 	if (cached && cached.mtime === mtime) {
 		return {

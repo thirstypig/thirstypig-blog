@@ -8,8 +8,12 @@ import { test, expect } from "@playwright/test";
  * structure that's easy to silently regress when the BlogPost layout changes.
  *
  * Uses one stable post as the fixture. Texas BBQ from Stiles Switch has a
- * hero image + 8 body images + a LocationCard, which exercises every
+ * hero image + 8 gallery images + a LocationCard, which exercises every
  * post-layout branch.
+ *
+ * Note: after IG prose migration (PR #118), inline body images moved from
+ * .prose to BlogPost.astro's gallery loop (.post-image-wrap blocks outside the
+ * prose). Tests updated in PR #127 to target the new selectors.
  */
 
 const POST_URL = "/posts/2022-06-29-texas-bbq-from-stiles-switch-in-austin-texas/";
@@ -36,9 +40,9 @@ test.describe("post page", () => {
 	test("hero image is a <picture> with a WebP <source> and explicit dimensions", async ({ page }) => {
 		await page.goto(POST_URL);
 
-		// The hero lives in .hero-container — structural selector is intentional;
-		// this is the class we'd lose if someone rewrote BlogPost.astro
-		const heroPicture = page.locator(".hero-container picture");
+		// Hero is the first .post-image-wrap — gallery images share the same class but follow it.
+		// The structural selector is intentional: this is the class we'd lose if BlogPost.astro changed.
+		const heroPicture = page.locator(".post-image-wrap picture").first();
 		await expect(heroPicture).toBeVisible();
 
 		const webpSource = heroPicture.locator('source[type="image/webp"]');
@@ -48,36 +52,47 @@ test.describe("post page", () => {
 		const heroImg = heroPicture.locator("img");
 		await expect(heroImg).toHaveAttribute("width", /\d+/);
 		await expect(heroImg).toHaveAttribute("height", /\d+/);
-		await expect(heroImg).toHaveAttribute("loading", "lazy");
+		// Hero must be eager-loaded: it's the LCP candidate (PR #120 changed this from lazy).
+		await expect(heroImg).toHaveAttribute("loading", "eager");
 	});
 
-	test("body images use <picture> with WebP sources (remark plugin output)", async ({ page }) => {
+	test("gallery images use <picture> with WebP sources (BlogPost gallery loop)", async ({ page }) => {
 		await page.goto(POST_URL);
 
-		// Markdown body images get transformed by remark-image-optimize.mjs into
-		// <picture> with a WebP source. All 8 body images in this post have webp
-		// siblings, so every one should be wrapped.
-		const bodyPictures = page.locator("article .prose picture, article > picture").filter({
-			hasNot: page.locator(".hero-container *"),
-		});
-		const count = await bodyPictures.count();
-		expect(count).toBeGreaterThan(1);
+		// After IG prose migration (PR #118): body images moved from .prose to BlogPost's
+		// gallery loop — full-size stacked .post-image-wrap blocks outside the article prose.
+		// This post has a hero + 8 gallery images, all rendered via the gallery loop.
+		const allPictures = page.locator("article .post-image-wrap picture");
+		const count = await allPictures.count();
+		expect(count).toBeGreaterThan(1); // hero + at least 1 gallery image
 
-		// Every body <img> should be lazy + async
-		const bodyImgs = page.locator("article img").filter({
-			hasNot: page.locator(".hero-container *"),
-		});
-		const lazyCount = await bodyImgs.evaluateAll(imgs =>
-			imgs.filter(img => img.getAttribute("loading") === "lazy").length
+		// Every .post-image-wrap should carry a WebP source
+		const webpSources = page.locator("article .post-image-wrap source[type='image/webp']");
+		expect(await webpSources.count()).toBe(count);
+	});
+
+	test("hero is eager-loaded (LCP); gallery images are lazy-loaded", async ({ page }) => {
+		await page.goto(POST_URL);
+
+		const allPostImgs = page.locator("article .post-image-wrap img");
+		const total = await allPostImgs.count();
+		expect(total).toBeGreaterThan(1);
+
+		// Hero (first image) must be eager for LCP
+		await expect(allPostImgs.first()).toHaveAttribute("loading", "eager");
+
+		// All gallery images after the hero must be lazy
+		const lazyCount = await allPostImgs.evaluateAll(imgs =>
+			imgs.slice(1).filter(img => img.getAttribute("loading") === "lazy").length
 		);
-		const totalBody = await bodyImgs.count();
-		expect(lazyCount).toBe(totalBody);
+		expect(lazyCount).toBe(total - 1);
 	});
 
-	test("body images have explicit width and height (CLS prevention)", async ({ page }) => {
+	test("post images have explicit width and height (CLS prevention)", async ({ page }) => {
 		await page.goto(POST_URL);
 
-		const missingDims = await page.locator("article .prose img").evaluateAll(imgs =>
+		// All images — hero and gallery — must have explicit dimensions to prevent CLS.
+		const missingDims = await page.locator("article .post-image-wrap img").evaluateAll(imgs =>
 			imgs.filter(img => !img.getAttribute("width") || !img.getAttribute("height")).length
 		);
 		expect(missingDims).toBe(0);

@@ -11,11 +11,11 @@
 // push to executable on opt-in and the gated loader fills this unit. Renders only when the
 // publisher ID is configured.
 interface Props {
-	slot?: string;
+	slotId?: string;
 }
-const { slot } = Astro.props;
+const { slotId } = Astro.props;
 const adClient = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
-const enabled = Boolean(adClient && slot);
+const enabled = Boolean(adClient && slotId);
 ---
 
 {enabled && (
@@ -27,7 +27,7 @@ const enabled = Boolean(adClient && slot);
 			data-ad-layout="in-article"
 			data-ad-format="fluid"
 			data-ad-client={adClient}
-			data-ad-slot={slot}
+			data-ad-slot={slotId}
 		></ins>
 		<script type="text/plain" data-category="marketing" is:inline>
 			(adsbygoogle = window.adsbygoogle || []).push({});

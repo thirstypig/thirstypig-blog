@@ -6,11 +6,11 @@
 // flips it to executable only after marketing consent, matching the gated loader
 // in BaseLayout. Reserves min-height to limit cumulative layout shift.
 interface Props {
-	slot: string | undefined;
+	slotId: string | undefined;
 }
-const { slot } = Astro.props;
+const { slotId } = Astro.props;
 const adClient = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
-const enabled = Boolean(adClient && slot);
+const enabled = Boolean(adClient && slotId);
 ---
 
 {enabled && (
@@ -20,7 +20,7 @@ const enabled = Boolean(adClient && slot);
 			class="adsbygoogle"
 			style="display:block"
 			data-ad-client={adClient}
-			data-ad-slot={slot}
+			data-ad-slot={slotId}
 			data-ad-format="auto"
 			data-full-width-responsive="true"
 		></ins>

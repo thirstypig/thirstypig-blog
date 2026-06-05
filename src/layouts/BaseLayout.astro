@@ -21,8 +21,12 @@ interface Props {
 
 const props = Astro.props;
 
-const ga4Id = import.meta.env.PUBLIC_GA4_ID;
-const adsenseId = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
+// Validate env var formats before interpolating into set:html — prevents a
+// misconfigured secret from producing broken HTML on every page.
+const rawGa4 = import.meta.env.PUBLIC_GA4_ID;
+const rawAdsense = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
+const ga4Id = /^G-[A-Z0-9]+$/.test(rawGa4 ?? '') ? rawGa4 : null;
+const adsenseId = /^ca-pub-\d+$/.test(rawAdsense ?? '') ? rawAdsense : null;
 
 // Consent-gated tracker tags. Emitted as type="text/plain" so the browser
 // treats them as inert data and never executes them on load. vanilla-cookieconsent

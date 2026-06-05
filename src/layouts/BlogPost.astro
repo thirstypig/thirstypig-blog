@@ -92,7 +92,7 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 		<VenueTags placeId={placeId} />
 
 		<!-- Ad: top of article -->
-		<AdSlot slot={adSlotTop} />
+		<AdSlot slotId={adSlotTop} />
 
 		<!-- 2. Caption / post body -->
 		<div class="prose max-w-none">
@@ -119,7 +119,7 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 		)}
 
 		<!-- 4. In-article ad -->
-		<AdInArticle slot={adSlotInArticle} />
+		<AdInArticle slotId={adSlotInArticle} />
 
 		<!-- 5. Remaining images — full size, same treatment as hero -->
 		{galleryImages.map((img, i) => {
@@ -130,7 +130,7 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 						{info?.webp && <source type="image/webp" srcset={info.webp} />}
 						<img
 							src={img}
-							alt={`${title} — photo ${i + 2}`}
+							alt={`${title} — photo ${heroImage ? i + 2 : i + 1}`}
 							width={info?.width ?? undefined}
 							height={info?.height ?? undefined}
 							class="post-image w-full rounded-none sm:rounded-xl shadow-lg"
@@ -143,7 +143,7 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 		})}
 
 		<!-- 6. Bottom ad -->
-		<AdSlot slot={adSlotBottom} />
+		<AdSlot slotId={adSlotBottom} />
 
 		<!-- Tags -->
 		{tags.length > 0 && (
@@ -181,15 +181,10 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 </BaseLayout>
 
 <style>
-	.post-image-wrap {
-		max-height: 600px;
-		overflow: hidden;
-	}
-
+	/* Images display at full natural dimensions — food photos deserve to be seen in full.
+	 * Cropping (the old overflow:hidden + max-height approach) was ambiguous for portrait
+	 * IG photos and is removed. Spacing/rounding handled by Tailwind classes on the elements. */
 	.post-image {
-		width: 100%;
-		height: auto;
-		max-height: 600px;
-		object-fit: cover;
+		display: block; /* prevent inline image gap */
 	}
 </style>
