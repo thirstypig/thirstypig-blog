@@ -22,12 +22,15 @@ test.describe("tag cloud", () => {
 	test("clicking a tag chip navigates to a search results page for that tag", async ({ page }) => {
 		await page.goto("/tags/cloud");
 		const firstChip = page.locator(".tag-link").first();
-		// Capture the chip's label before clicking so we can assert the search query
-		const chipLabel = await firstChip.textContent();
+		// Use the chip's href as ground truth — textContent includes a count suffix
+		// (e.g. "beignets 12,092") that is not part of the search query
+		const chipHref = (await firstChip.getAttribute('href'))!;
+		const expectedTag = new URL(chipHref, 'http://localhost').searchParams.get('q');
 		await firstChip.click();
 		// Chips link to /search/?q=<tag> (not /tags/<slug>/ — tag cloud is search-powered)
 		await expect(page).toHaveURL(/\/search\/\?q=/);
-		// Search page should render results for that query
+		// Verify the query matches the chip's actual tag label
+		expect(new URL(page.url()).searchParams.get('q')).toBe(expectedTag);
 		await expect(page.getByRole("heading", { level: 1 })).toBeVisible();
 	});
 

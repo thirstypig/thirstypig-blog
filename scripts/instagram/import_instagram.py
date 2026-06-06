@@ -423,7 +423,7 @@ def write_instagram_post(post: dict) -> str:
     # Build body: caption first (text-before-images for blog UX), then video
     # tags (videos are not in frontmatter so must stay in prose). Images are
     # intentionally omitted — BlogPost.astro renders them via heroImage +
-    # ImageGallery, so embedding them here would duplicate them in the layout.
+    # the inline gallery loop, so embedding them here would duplicate them.
     body_parts = []
 
     if post['caption']:

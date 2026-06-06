@@ -49,7 +49,7 @@ export function flushImageCache() {
 }
 
 function toFsPath(src, publicDir) {
-	if (!src || !src.startsWith('/')) return null;
+	if (!src || !src.startsWith('/') || src === '/') return null;
 	const resolved = join(publicDir, src);
 	// Prevent path traversal: join() normalises /../ sequences, so verify the
 	// result stays inside publicDir before handing it to sharp or existsSync.

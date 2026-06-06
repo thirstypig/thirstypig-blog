@@ -6,10 +6,10 @@ const pathname = Astro.url.pathname.replace(/\/$/, '') || '/';
 
 // `testId` is the stable hook for e2e assertions. Labels can rename freely
 // without breaking tests as long as the testId stays the same.
-// Desktop top bar: keep it minimal — Posts and Tags only.
+// Desktop top bar: keep it minimal — Posts and Cities only.
 // Everything else lives in the footer nav and the mobile menu.
 const navItems = [
-	{ href: '/posts/', label: 'Posts', testId: 'nav-posts', isActive: pathname === '/posts' || pathname === '/posts/' || pathname.startsWith('/archive') },
+	{ href: '/posts/', label: 'Posts', testId: 'nav-posts', isActive: pathname === '/posts' || pathname.startsWith('/archive') },
 	{ href: '/cities', label: 'Cities', testId: 'nav-cities', isActive: pathname.startsWith('/cities') },
 ];
 

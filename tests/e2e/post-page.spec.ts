@@ -56,6 +56,16 @@ test.describe("post page", () => {
 		await expect(heroImg).toHaveAttribute("loading", "eager");
 	});
 
+	test("hero WebP preload <link> is in <head> (LCP optimization)", async ({ page }) => {
+		await page.goto(POST_URL);
+		// The preload must use imagesrcset (not href) so the browser matches it against
+		// <source srcset> in the <picture> element rather than <img src>.
+		const preload = page.locator('head link[rel="preload"][as="image"]');
+		await expect(preload).toHaveCount(1);
+		const imagesrcset = await preload.getAttribute("imagesrcset");
+		expect(imagesrcset).toMatch(/\.webp$/);
+	});
+
 	test("gallery images use <picture> with WebP sources (BlogPost gallery loop)", async ({ page }) => {
 		await page.goto(POST_URL);
 

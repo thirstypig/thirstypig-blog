@@ -4,7 +4,7 @@ Migrate IG post prose: remove redundant embedded images from body and
 move caption text to the top.
 
 Background: The Instagram importer wrote posts as:
-  [image lines]  ← redundant; BlogPost.astro shows these via heroImage + ImageGallery
+  [image lines]  ← redundant; BlogPost.astro renders these via heroImage + inline gallery loop
   [video lines]  ← keep; videos are NOT in frontmatter
   [caption text] ← move to top; strip trailing @mentions / #hashtags
 

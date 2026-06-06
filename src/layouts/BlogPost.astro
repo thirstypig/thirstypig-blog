@@ -108,8 +108,8 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 					<img
 						src={heroImage}
 						alt={title}
-						width={heroInfo.width ?? undefined}
-						height={heroInfo.height ?? undefined}
+						width={heroInfo.width}
+						height={heroInfo.height}
 						class="post-image w-full rounded-none sm:rounded-xl shadow-lg"
 						loading="eager"
 						decoding="async"
@@ -125,15 +125,16 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 		<!-- 5. Remaining images — full size, same treatment as hero -->
 		{galleryImages.map((img, i) => {
 			const info = galleryInfos[i];
+			const photoNum = (heroImage ? 2 : 1) + i;
 			return (
-				<div class="post-image-wrap mt-6 -mx-4 sm:mx-0">
+				<div class="post-image-wrap mt-6 -mx-4 sm:mx-0" data-testid="gallery-image">
 					<picture>
 						{info?.webp && <source type="image/webp" srcset={info.webp} />}
 						<img
 							src={img}
-							alt={`${title} — photo ${heroImage ? i + 2 : i + 1}`}
-							width={info?.width ?? undefined}
-							height={info?.height ?? undefined}
+							alt={`${title} — photo ${photoNum}`}
+							width={info?.width}
+							height={info?.height}
 							class="post-image w-full rounded-none sm:rounded-xl"
 							loading="lazy"
 							decoding="async"
