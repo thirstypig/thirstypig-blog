@@ -18,7 +18,6 @@ interface Props {
 	city?: string;
 	region?: string;
 	heroPreloadHref?: string;
-	heroPreloadType?: string;
 }
 
 const props = Astro.props;
@@ -57,9 +56,11 @@ const trackerTags = [
 		<meta name="generator" content={Astro.generator} />
 		<!-- Fonts are self-hosted via @fontsource (loaded in global.css) -->
 		<SEO {...props} />
-		<!-- Hero image preload: start the fetch before the parser reaches <article> for faster LCP -->
+		<!-- Hero WebP preload: imagesrcset matches <source srcset> (not <img src>) so the browser
+		     starts the WebP fetch before the parser reaches <article>. Only emitted when a WebP
+		     sibling exists; JPG-only heroes rely on fetchpriority="high" on the <img> instead. -->
 		{props.heroPreloadHref && (
-			<link rel="preload" as="image" href={props.heroPreloadHref} type={props.heroPreloadType} fetchpriority="high" />
+			<link rel="preload" as="image" imagesrcset={props.heroPreloadHref} fetchpriority="high" />
 		)}
 		<!-- Inline theme init to prevent FOUC -->
 		<script is:inline>
