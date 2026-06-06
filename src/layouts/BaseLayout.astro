@@ -17,6 +17,8 @@ interface Props {
 	coordinates?: { lat: number; lng: number };
 	city?: string;
 	region?: string;
+	heroPreloadHref?: string;
+	heroPreloadType?: string;
 }
 
 const props = Astro.props;
@@ -55,6 +57,10 @@ const trackerTags = [
 		<meta name="generator" content={Astro.generator} />
 		<!-- Fonts are self-hosted via @fontsource (loaded in global.css) -->
 		<SEO {...props} />
+		<!-- Hero image preload: start the fetch before the parser reaches <article> for faster LCP -->
+		{props.heroPreloadHref && (
+			<link rel="preload" as="image" href={props.heroPreloadHref} type={props.heroPreloadType} fetchpriority="high" />
+		)}
 		<!-- Inline theme init to prevent FOUC -->
 		<script is:inline>
 			(function() {

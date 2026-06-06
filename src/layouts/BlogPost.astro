@@ -53,6 +53,8 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 	coordinates={coordinates}
 	city={city}
 	region={region}
+	heroPreloadHref={heroInfo?.webp ?? heroImage ?? undefined}
+	heroPreloadType={heroInfo?.webp ? 'image/webp' : undefined}
 >
 	<article class="max-w-3xl mx-auto px-4 sm:px-6 py-8 sm:py-12">
 		<!-- Header -->
@@ -133,7 +135,7 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 							alt={`${title} — photo ${heroImage ? i + 2 : i + 1}`}
 							width={info?.width ?? undefined}
 							height={info?.height ?? undefined}
-							class="post-image w-full rounded-none sm:rounded-xl shadow-lg"
+							class="post-image w-full rounded-none sm:rounded-xl"
 							loading="lazy"
 							decoding="async"
 						/>
