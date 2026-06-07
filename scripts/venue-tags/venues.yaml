@@ -5050,10 +5050,10 @@ Los Angeles, CA 90027"
   city: "Los Angeles"
   query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
 
-- key: cravery-san-gabrie
+- key: cravery-arcadia
   name: "Cravery"
-  city: "San Gabriel"
-  query: "Cravery San Gabriel"
+  city: "Arcadia"
+  query: "Cravery Santa Anita Park Arcadia"
 
 - key: halal-guys-new-york
   name: "Halal Guys"
@@ -5276,3 +5276,38 @@ Los Angeles, CA 90027"
   query: "Old Log Cabin Distillery 1417 Elliott Ave W, Seattle, WA 98119, USA"
   place_id: "0x549015659e114a13:0x9f3041bf92c09f6d"
   cid: "11470740541969309549"
+
+- key: bbad-pasadena
+  name: "BBAD"
+  city: "Pasadena"
+  query: "BBAD Pasadena CA"
+  place_id: "0x80c2c3da4e629101:0x708012a5b1f8b356"
+  cid: "8106499832131662678"
+
+- key: sushi-kisen-san-gabriel
+  name: "Sushi Kisen"
+  city: "San Gabriel"
+  query: "Sushi Kisen San Gabriel"
+  place_id: "0x80c2db8832b21903:0x2a6007f30a7a3340"
+  cid: "3053449287791424320"
+
+- key: heritage-barbecue-san-juan-capistrano
+  name: "Heritage Barbecue"
+  city: "San Juan Capistrano"
+  query: "Heritage Barbecue San Juan Capistrano"
+  place_id: "0x80dcf104964bc92f:0xe60f2234ab5520ea"
+  cid: "16577506362982211818"
+
+- key: smoke-queen-bbq-rowland-heights
+  name: "Smoke Queen BBQ"
+  city: "Rowland Heights"
+  query: "Smoke Queen BBQ Rowland Heights"
+  place_id: "0x80dd279f6b803c87:0xf162c920035ed5f1"
+  cid: "17393685850190960113"
+
+- key: kyu-ramen-arcadia
+  name: "Kyu Ramen"
+  city: "Arcadia"
+  query: "Kyu Ramen Arcadia"
+  place_id: "0x80c2db1b4e58abbf:0x8ed47bf6f2e9acec"
+  cid: "10291987349015997676"

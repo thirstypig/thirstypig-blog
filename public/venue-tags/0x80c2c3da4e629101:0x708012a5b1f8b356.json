@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3da4e629101:0x708012a5b1f8b356",
+  "venue_name": "bbad",
+  "chips": [
+    {
+      "label": "chile verde",
+      "mention_count": 21
+    },
+    {
+      "label": "chill atmosphere",
+      "mention_count": 11
+    },
+    {
+      "label": "mushroom chorizo burrito",
+      "mention_count": 9
+    },
+    {
+      "label": "burritos",
+      "mention_count": 18
+    },
+    {
+      "label": "pork",
+      "mention_count": 21
+    },
+    {
+      "label": "horchata latte",
+      "mention_count": 3
+    },
+    {
+      "label": "over easy egg",
+      "mention_count": 4
+    },
+    {
+      "label": "chipotle aioli",
+      "mention_count": 2
+    },
+    {
+      "label": "courtyard",
+      "mention_count": 4
+    },
+    {
+      "label": "potatoes pave",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-07T00:27:20Z",
+  "city": "Pasadena",
+  "key": "bbad-pasadena"
+}

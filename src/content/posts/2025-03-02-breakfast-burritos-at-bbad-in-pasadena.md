@@ -14,8 +14,9 @@ tags:
 - breakfast-burritos
 - bacon
 description: Breakfast burritos at BBAD in Pasadena. The basic Bae-con and the pork chile verde. Both were yumalicious. The basic had really good bacon texture and almost over-the-top bacon flavor. The crunchy pot
-location: Equinox Pasadena
+location: BBAD
 city: Pasadena
+placeId: "0x80c2c3da4e629101:0x708012a5b1f8b356"
 region: Pasadena
 categories:
 - Mexican

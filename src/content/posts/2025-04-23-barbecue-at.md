@@ -1,5 +1,5 @@
 ---
-title: Smoke Queen, unknown
+title: Smoke Queen BBQ, Rowland Heights
 pubDate: 2025-04-23 00:00:00+00:00
 description: Barbecue at . Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and gla
 author: The Thirsty Pig
@@ -7,7 +7,8 @@ heroImage: /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
 tags:
 - bbq
 - pork-belly
-location: Smoke Queen
+location: Smoke Queen BBQ
+city: Rowland Heights
 images:
 - /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
 source: instagram
@@ -16,6 +17,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80dd279f6b803c87:0xf162c920035ed5f1"
 ---
 
 Barbecue at @smokequeenbbq. Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and glad we were there on Sunday, since that’s the only day they have beef rib.

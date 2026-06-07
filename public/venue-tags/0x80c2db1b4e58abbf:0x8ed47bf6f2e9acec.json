@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db1b4e58abbf:0x8ed47bf6f2e9acec",
+  "venue_name": "Kyuramen x TBaar - Arcadia",
+  "chips": [
+    {
+      "label": "omurice",
+      "mention_count": 82
+    },
+    {
+      "label": "katsu",
+      "mention_count": 32
+    },
+    {
+      "label": "demi glace",
+      "mention_count": 15
+    },
+    {
+      "label": "honeycomb platter",
+      "mention_count": 9
+    },
+    {
+      "label": "matcha tiramisu",
+      "mention_count": 11
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 9
+    },
+    {
+      "label": "pork bao bun",
+      "mention_count": 6
+    },
+    {
+      "label": "yakitori",
+      "mention_count": 11
+    },
+    {
+      "label": "japanese cherry blossom jelly",
+      "mention_count": 5
+    },
+    {
+      "label": "yin yang ramen",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-06-06T17:59:57Z",
+  "city": "Arcadia",
+  "key": "kyu-ramen-arcadia"
+}
