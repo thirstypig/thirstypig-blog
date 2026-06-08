@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcf104964bc92f:0xe60f2234ab5520ea",
+  "venue_name": "Heritage Barbecue",
+  "chips": [
+    {
+      "label": "texas bbq",
+      "mention_count": 34
+    },
+    {
+      "label": "brisket",
+      "mention_count": 206
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 29
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 71
+    },
+    {
+      "label": "banana bread pudding",
+      "mention_count": 36
+    },
+    {
+      "label": "long lines",
+      "mention_count": 83
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 103
+    },
+    {
+      "label": "pork belly",
+      "mention_count": 37
+    },
+    {
+      "label": "jalapeño cornbread",
+      "mention_count": 18
+    },
+    {
+      "label": "potato salad",
+      "mention_count": 60
+    }
+  ],
+  "scraped_at": "2026-06-07T00:26:02Z",
+  "city": "San Juan Capistrano",
+  "key": "heritage-barbecue-san-juan-capistrano"
+}

@@ -1,5 +1,5 @@
 ---
-title: The Stables at Santa Anita Park, Arcadia
+title: Kyu Ramen, Arcadia
 pubDate: '2025-02-24'
 author: The Thirsty Pig
 source: instagram
@@ -17,7 +17,7 @@ tags:
 - ramen
 - omurice
 description: My buddy got the ramen which I think he said was ok. Nothing special. Next time I would try the ramen. They have a Ying yang bowl in which they would have 2 different broths. I think it is gimmicky, but I would try next time. . . . .official
-location: The Stables at Santa Anita Park
+location: Kyu Ramen
 city: Arcadia
 region: San Gabriel Valley
 categories:
@@ -28,6 +28,7 @@ coordinates:
   lng: -118.04792
 cuisine:
 - Japanese
+placeId: "0x80c2db1b4e58abbf:0x8ed47bf6f2e9acec"
 ---
 
 The trendy Japanese omurice dish, made famous by @kichikichi_omurice is now in the SGV Arcadia at @kyuramen.official 

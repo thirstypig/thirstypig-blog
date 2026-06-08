@@ -18,12 +18,13 @@ tags:
 - hot-dogs
 - bbq
 description: Dodger game. Watching an almost no-hitter by future all-star Tyler Anderson broken up by MVP Shohei Ohtani in the ninth. Had a grilled Dodger Dog - yum! Had a and it was tasty! . . . .
-location: Dodger game
+location: Dodger Stadium
 categories:
 - American
 city: Los Angeles
 cuisine:
 - American
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Dodger game. Watching an almost no-hitter by future all-star Tyler Anderson broken up by MVP Shohei Ohtani in the ninth. Had a grilled Dodger Dog - yum! Had a @cutwaterspirits and it was tasty!

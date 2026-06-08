@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c37168356f75:0x6fb8138b567cad7c",
+  "venue_name": "Sage Regenerative Kitchen Pasadena",
+  "chips": [
+    {
+      "label": "cauliflower wings",
+      "mention_count": 52
+    },
+    {
+      "label": "vegan food",
+      "mention_count": 177
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 23
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 17
+    },
+    {
+      "label": "pesto sauce",
+      "mention_count": 11
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 8
+    },
+    {
+      "label": "lasagna",
+      "mention_count": 16
+    },
+    {
+      "label": "loaded nachos",
+      "mention_count": 7
+    },
+    {
+      "label": "pretzels",
+      "mention_count": 9
+    },
+    {
+      "label": "gluten free options",
+      "mention_count": 17
+    }
+  ],
+  "scraped_at": "2026-06-08T06:03:52Z",
+  "city": "Pasadena",
+  "key": "sage-bistro-pasadena"
+}

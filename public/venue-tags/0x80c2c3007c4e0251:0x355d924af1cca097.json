@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c3007c4e0251:0x355d924af1cca097",
+  "venue_name": "Tendon Tempura Carlos Jr.",
+  "chips": [
+    {
+      "label": "tempura",
+      "mention_count": 34
+    },
+    {
+      "label": "shrimp tempura",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 5
+    },
+    {
+      "label": "soba",
+      "mention_count": 14
+    },
+    {
+      "label": "tempura bowl",
+      "mention_count": 4
+    },
+    {
+      "label": "kakiage",
+      "mention_count": 4
+    },
+    {
+      "label": "ikura",
+      "mention_count": 5
+    },
+    {
+      "label": "egg tempura",
+      "mention_count": 3
+    },
+    {
+      "label": "udon",
+      "mention_count": 6
+    },
+    {
+      "label": "tendon bowls",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:16Z",
+  "city": "Pasadena",
+  "key": "tendon-tempura-carlos-jr-pasadena"
+}

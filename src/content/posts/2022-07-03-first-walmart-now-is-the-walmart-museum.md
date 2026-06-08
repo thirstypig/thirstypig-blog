@@ -10,12 +10,14 @@ images:
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/18016293289410444.jpg
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17950713856875496.jpg
 - /images/posts/ig-2022-07-03-first-walmart-now-is-the-walmart-museum/17928826148242503.jpg
+city: Bentonville
 tags: []
 description: First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton . . . . . .
-location: First Walmart
+location: Walmart Museum
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x87c91a99c2cf5c35:0x4b08fab19cd5cb96"
 ---
 
 First Walmart, now is the Walmart Museum. Interesting to see the history behind Sam Walton and the Walmart empire. Bentonville has so many Walmarts and related buildings, thought they should rename the city Walton

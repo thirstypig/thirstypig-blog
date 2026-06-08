@@ -19,7 +19,7 @@ tags:
 - tempura
 - noodles
 description: Tempura from at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay location and this place does not disappointment either. Would gladly visit again, just hopefully without a line. . . .
-location: Equinox Pasadena
+location: Tendon Tempura Carlos Jr.
 city: Pasadena
 region: Pasadena
 categories:
@@ -30,6 +30,7 @@ coordinates:
   lng: -118.145536
 cuisine:
 - Japanese
+placeId: "0x80c2c3007c4e0251:0x355d924af1cca097"
 ---
 
 Tempura from @tempuracarlosjr at their latest location in Pasadena. Tempura with udon noodles, soba noodles, and their tempura sushi. People were lining up before they opened. Yummy! Had tempura at their South Bay location and this place does not disappointment either. Would gladly visit again, just hopefully without a line. 

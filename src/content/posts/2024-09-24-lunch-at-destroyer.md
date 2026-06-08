@@ -15,7 +15,7 @@ tags:
 - schnitzel
 - tart
 description: Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an industrial part of Culver’s city - Destroyer is very much an LA lunch joint Would return and try the other choices. Would also recommend. . . . .la .la
-location: The Bar At Culver Hotel
+location: Destroyer
 city: Culver City
 region: Los Angeles
 address: 9400 Culver Blvd, Culver City, CA 90232
@@ -26,6 +26,7 @@ categories:
 - Fusion
 cuisine:
 - Fusion
+placeId: "0x80c2b99ab5148abf:0xe63ca4fce42691c7"
 ---
 
 Lunch at Destroyer. Interesting name for a restaurant. Even more interesting and eclectic menu, as well. Crispy chicken schnitzel, courgette and fresh cheese tart, and red gem salad. Tucked away in an industrial part of Culver’s city - Destroyer is very much an LA lunch joint Would return and try the other choices. Would also recommend. 

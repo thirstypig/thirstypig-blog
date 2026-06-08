@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2bb99f925cbb7:0xddc5fba67f6875e1",
+  "venue_name": "Chubby Curry",
+  "chips": [
+    {
+      "label": "chicken katsu",
+      "mention_count": 29
+    },
+    {
+      "label": "wagyu",
+      "mention_count": 58
+    },
+    {
+      "label": "wagyu burger",
+      "mention_count": 21
+    },
+    {
+      "label": "wagyu steak rice bowl",
+      "mention_count": 4
+    },
+    {
+      "label": "dumpling",
+      "mention_count": 6
+    },
+    {
+      "label": "curry fries",
+      "mention_count": 7
+    },
+    {
+      "label": "duck",
+      "mention_count": 10
+    },
+    {
+      "label": "generous portions",
+      "mention_count": 23
+    },
+    {
+      "label": "all you can eat curry",
+      "mention_count": 4
+    },
+    {
+      "label": "sake selection",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:33Z",
+  "city": "Los Angeles",
+  "key": "chubby-curry-los-angeles"
+}

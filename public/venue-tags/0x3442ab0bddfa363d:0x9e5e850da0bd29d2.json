@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442ab0bddfa363d:0x9e5e850da0bd29d2",
+  "venue_name": "Yakiniku Zonzen Taipei Xinyi Branch",
+  "chips": [
+    {
+      "label": "wagyu",
+      "mention_count": 349
+    },
+    {
+      "label": "xinyi district night view",
+      "mention_count": 12
+    },
+    {
+      "label": "soufflé beer",
+      "mention_count": 71
+    },
+    {
+      "label": "seafood",
+      "mention_count": 75
+    },
+    {
+      "label": "window",
+      "mention_count": 145
+    },
+    {
+      "label": "zhongshan tea",
+      "mention_count": 51
+    },
+    {
+      "label": "mood",
+      "mention_count": 169
+    },
+    {
+      "label": "yakiniku nakayama",
+      "mention_count": 38
+    },
+    {
+      "label": "koshihikari",
+      "mention_count": 38
+    },
+    {
+      "label": "iberico",
+      "mention_count": 37
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:50Z",
+  "city": "Taipei",
+  "key": "zonzen-yakiniku-taipei"
+}

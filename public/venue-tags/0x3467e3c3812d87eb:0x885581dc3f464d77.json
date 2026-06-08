@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3467e3c3812d87eb:0x885581dc3f464d77",
+  "venue_name": "Kavalan Distillery",
+  "chips": [
+    {
+      "label": "whiskey distillery",
+      "mention_count": 43
+    },
+    {
+      "label": "whisky tasting",
+      "mention_count": 133
+    },
+    {
+      "label": "environment",
+      "mention_count": 142
+    },
+    {
+      "label": "factory tour",
+      "mention_count": 112
+    },
+    {
+      "label": "wine barrel",
+      "mention_count": 34
+    },
+    {
+      "label": "taiwanese whiskey",
+      "mention_count": 12
+    },
+    {
+      "label": "cafe",
+      "mention_count": 172
+    },
+    {
+      "label": "mr. brown coffee",
+      "mention_count": 56
+    },
+    {
+      "label": "free admission",
+      "mention_count": 105
+    },
+    {
+      "label": "whiskey making process",
+      "mention_count": 38
+    }
+  ],
+  "scraped_at": "2026-06-08T06:03:02Z",
+  "city": "Yilan",
+  "key": "kavalan-distillery-yilan"
+}

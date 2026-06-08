@@ -13,7 +13,7 @@ tags:
 - fried-chicken
 - spam-masubi
 description: Unfortunately Top Restaurant only does take out. Make sure you call in the make sure they still have chicken available. I know first hand since this wasn’t the first time I tried to get their fried chicken. I recommend this place and I would go again. . . .
-location: Equinox Pasadena
+location: Top Restaurant
 city: Pasadena
 region: Pasadena
 categories:
@@ -24,6 +24,7 @@ coordinates:
   lng: -118.145536
 cuisine:
 - Hawaiian
+placeId: "0x80c2dcab4d3c9bdf:0xc543280a26b3affe"
 ---
 
 Fried Chicken from Top Restaurant in Pasadena. Also ordered the spam masubi and the loco moco plate. Top restaurant is an interesting restaurant that offers Indonesian Hawaiian cuisine. 

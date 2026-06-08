@@ -27,6 +27,7 @@ coordinates:
   lng: -118.24076
 cuisine:
 - Bakery
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Friday donuts with the team! Trejo’s donuts. .

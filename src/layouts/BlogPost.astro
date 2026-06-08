@@ -169,8 +169,10 @@ const adSlotInArticle = import.meta.env.PUBLIC_ADSENSE_SLOT_INARTICLE;
 		)}
 	</article>
 
-	<!-- Related posts (rendered outside <article> via named slot) -->
-	<slot name="related" />
+	<!-- Related posts — same centering container as <article> above -->
+	<div class="max-w-3xl mx-auto px-4 sm:px-6">
+		<slot name="related" />
+	</div>
 
 	<!-- Hide broken images in post bodies -->
 	<script>

@@ -15,16 +15,18 @@ images:
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18042897199699236.jpg
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18018478709013364.jpg
 - /images/posts/ig-2024-04-24-roast-duck-at-silk-place/18225304483277198.jpg
+city: Yilan
 tags:
 - chinese
 - roast-duck
 - duck-soup
 description: Roast duck at Silk Place. It was pretty good. The duck skin wrapped rice with cheese was something I never had - it will be quite memorable. The standard duck in green crepe skin was familiar, yet had a thicker chewier texture - was ordinary. The fried pancake with scallion and duck was not bad. But I think the last course was the best - the duck soup with cabbage. This soup was rich with flavor and hearty. I’d come back just for the soup. . . .
-location: Roast duck at Silk Place
+location: Silk Place
 categories:
 - Chinese
 cuisine:
 - Chinese
+placeId: "0x3467e4c383b2a4a9:0x316d5b220332437d"
 ---
 
 Roast duck at Silk Place. It was pretty good. The duck skin wrapped rice with cheese was something I never had - it will be quite memorable. The standard duck in green crepe skin was familiar, yet had a thicker chewier texture - was ordinary. The fried pancake with scallion and duck was not bad. But I think the last course was the best - the duck soup with cabbage. This soup was rich with flavor and hearty. I’d come back just for the soup. 

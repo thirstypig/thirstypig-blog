@@ -20,6 +20,7 @@ description: Dodgers vs Rockies bobblehead night souvenir beer cup with need mor
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Dodgers vs Rockies @cody_bellinger bobblehead night @redturn2 #homerun souvenir beer cup with #stellacidre #dodgers #mlbmemories need more hard cider at Dodger Stadium #dodgerstadium @chewy321 @uscott #thirstypig Almost got a @darvishsefat11 T-shirt. Used a free iPhone charger from Spectrum

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b99ab5148abf:0xe63ca4fce42691c7",
+  "venue_name": "Destroyer",
+  "chips": [
+    {
+      "label": "chicken schnitzel",
+      "mention_count": 27
+    },
+    {
+      "label": "porridge",
+      "mention_count": 49
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 48
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 35
+    },
+    {
+      "label": "french toast",
+      "mention_count": 44
+    },
+    {
+      "label": "minimalistic decor",
+      "mention_count": 18
+    },
+    {
+      "label": "avocado confit",
+      "mention_count": 13
+    },
+    {
+      "label": "blueberry dish",
+      "mention_count": 17
+    },
+    {
+      "label": "kale",
+      "mention_count": 15
+    },
+    {
+      "label": "rye bread",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:22Z",
+  "city": "Culver City",
+  "key": "destroyer-culver-city"
+}

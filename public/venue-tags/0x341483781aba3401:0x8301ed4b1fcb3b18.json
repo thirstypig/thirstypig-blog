@@ -1,0 +1,49 @@
+{
+  "place_id": "0x341483781aba3401:0x8301ed4b1fcb3b18",
+  "venue_name": "Gulangyu",
+  "chips": [
+    {
+      "label": "architecture",
+      "mention_count": 50
+    },
+    {
+      "label": "gardens",
+      "mention_count": 17
+    },
+    {
+      "label": "walking",
+      "mention_count": 39
+    },
+    {
+      "label": "gulangyu",
+      "mention_count": 16
+    },
+    {
+      "label": "piano music",
+      "mention_count": 26
+    },
+    {
+      "label": "pier",
+      "mention_count": 9
+    },
+    {
+      "label": "sunlight rock",
+      "mention_count": 17
+    },
+    {
+      "label": "unesco world heritage site",
+      "mention_count": 21
+    },
+    {
+      "label": "shuzhuang garden",
+      "mention_count": 13
+    },
+    {
+      "label": "gulang stone",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:39Z",
+  "city": "Xiamen",
+  "key": "piano-island-xiamen"
+}

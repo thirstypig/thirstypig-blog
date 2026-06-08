@@ -5050,10 +5050,11 @@ Los Angeles, CA 90027"
   city: "Los Angeles"
   query: "Electric Dusk Drive-In 1000 San Julian St (11th St), Los Angeles, CA 90015"
 
-- key: cravery-san-gabrie
+- key: cravery-arcadia
   name: "Cravery"
-  city: "San Gabriel"
-  query: "Cravery San Gabriel"
+  city: "Arcadia"
+  query: "Cravery Santa Anita Park Arcadia"
+  cid: "161021943171451568"
 
 - key: halal-guys-new-york
   name: "Halal Guys"
@@ -5276,3 +5277,220 @@ Los Angeles, CA 90027"
   query: "Old Log Cabin Distillery 1417 Elliott Ave W, Seattle, WA 98119, USA"
   place_id: "0x549015659e114a13:0x9f3041bf92c09f6d"
   cid: "11470740541969309549"
+
+- key: bbad-pasadena
+  name: "BBAD"
+  city: "Pasadena"
+  query: "BBAD Pasadena CA"
+  place_id: "0x80c2c3da4e629101:0x708012a5b1f8b356"
+  cid: "8106499832131662678"
+
+- key: sushi-kisen-san-gabriel
+  name: "Sushi Kisen"
+  city: "San Gabriel"
+  query: "Sushi Kisen San Gabriel"
+  place_id: "0x80c2db8832b21903:0x2a6007f30a7a3340"
+  cid: "3053449287791424320"
+
+- key: heritage-barbecue-san-juan-capistrano
+  name: "Heritage Barbecue"
+  city: "San Juan Capistrano"
+  query: "Heritage Barbecue San Juan Capistrano"
+  place_id: "0x80dcf104964bc92f:0xe60f2234ab5520ea"
+  cid: "16577506362982211818"
+
+- key: smoke-queen-bbq-garden-grove
+  name: "Smoke Queen BBQ"
+  city: "Garden Grove"
+  query: "Smoke Queen BBQ 12941 9th St Garden Grove CA 92840"
+  place_id: "0x80dd279f6b803c87:0xf162c920035ed5f1"
+  cid: "17393685850190960113"
+
+- key: kyu-ramen-arcadia
+  name: "Kyu Ramen"
+  city: "Arcadia"
+  query: "Kyu Ramen Arcadia"
+  place_id: "0x80c2db1b4e58abbf:0x8ed47bf6f2e9acec"
+  cid: "10291987349015997676"
+
+- key: 99-ranch-market-arcadia
+  name: "99 Ranch Market"
+  city: "Arcadia"
+  query: "99 Ranch Market Arcadia CA"
+  place_id: "0x80c2dbaf55d1a355:0x159c2f03a25d29a4"
+  cid: "1557171263818770852"
+
+- key: t-mobile-park-seattle
+  name: "T-Mobile Park"
+  city: "Seattle"
+  query: "T-Mobile Park Seattle WA"
+  place_id: "0x54906a9f505dc4db:0xc6f829b3a6a6fd95"
+  cid: "14337255265305820565"
+
+- key: dodger-stadium-los-angeles
+  name: "Dodger Stadium"
+  city: "Los Angeles"
+  query: "Dodger Stadium Los Angeles CA"
+  place_id: "0x80c2c6f954005675:0x9e94554f839c09df"
+  cid: "11426851954544609759"
+
+- key: sofi-stadium-inglewood
+  name: "SoFi Stadium"
+  city: "Inglewood"
+  query: "SoFi Stadium Inglewood CA"
+  place_id: "0x80c2b786cbfb8f4f:0x5fb99cb7249e4170"
+  cid: "6897716614701924720"
+
+- key: top-restaurant-pasadena
+  name: "Top Restaurant"
+  city: "Pasadena"
+  query: "Top Restaurant Pasadena CA"
+  place_id: "0x80c2dcab4d3c9bdf:0xc543280a26b3affe"
+  cid: "14214248872975511550"
+
+- key: tendon-tempura-carlos-jr-pasadena
+  name: "Tendon Tempura Carlos Jr."
+  city: "Pasadena"
+  query: "Tendon Tempura Carlos Jr. Pasadena CA"
+  place_id: "0x80c2c3007c4e0251:0x355d924af1cca097"
+  cid: "3845390507426226327"
+
+- key: destroyer-culver-city
+  name: "Destroyer"
+  city: "Culver City"
+  query: "Destroyer restaurant Culver City CA"
+  place_id: "0x80c2b99ab5148abf:0xe63ca4fce42691c7"
+  cid: "16590316533392511431"
+
+- key: the-bike-shed-los-angeles
+  name: "The Bike Shed"
+  city: "Los Angeles"
+  query: "The Bike Shed DTLA Los Angeles"
+  place_id: "0x80c2c74fde41083b:0x9ea0379c945dccec"
+  cid: "11430196999909919980"
+
+- key: chubby-curry-los-angeles
+  name: "Chubby Curry"
+  city: "Los Angeles"
+  query: "Chubby Curry Los Angeles CA"
+  place_id: "0x80c2bb99f925cbb7:0xddc5fba67f6875e1"
+  cid: "15980455545314768353"
+
+- key: piano-island-xiamen
+  name: "Piano Island"
+  city: "Xiamen"
+  query: "Piano Island Gulangyu Xiamen China"
+  place_id: "0x341483781aba3401:0x8301ed4b1fcb3b18"
+  cid: "9440087200857013016"
+
+- key: hayashi-department-store-tainan
+  name: "Hayashi Department Store"
+  city: "Tainan"
+  query: "Hayashi Department Store 林百貨 Tainan Taiwan"
+  place_id: "0x346e7662e05c92ad:0xc3452d88c851706b"
+  cid: "14070702676288565355"
+
+- key: zonzen-yakiniku-taipei
+  name: "Zonzen Yakiniku 燒肉中山"
+  city: "Taipei"
+  query: "燒肉中山 Zonzen Yakiniku Taipei"
+  place_id: "0x3442ab0bddfa363d:0x9e5e850da0bd29d2"
+  cid: "11411704799381236178"
+
+- key: butcher-jr-taipei
+  name: "Butcher Jr"
+  city: "Taipei"
+  query: "Butcher Jr Taipei"
+  place_id: "0x3442a9fa0d2cfc7b:0xae9008e8e6f63041"
+  cid: "12578563555646124097"
+
+- key: kavalan-distillery-yilan
+  name: "Kavalan Distillery"
+  city: "Yilan"
+  query: "Kavalan Distillery Yilan Taiwan"
+  place_id: "0x3467e3c3812d87eb:0x885581dc3f464d77"
+  cid: "9823900945132965239"
+
+- key: silk-place-yilan
+  name: "Silk Place"
+  city: "Yilan"
+  query: "Silk Place Yilan Taiwan"
+  place_id: "0x3467e4c383b2a4a9:0x316d5b220332437d"
+  cid: "3561603081960571773"
+
+- key: sage-bistro-pasadena
+  name: "Sage Bistro"
+  city: "Pasadena"
+  query: "Sage Bistro Pasadena CA"
+  place_id: "0x80c2c37168356f75:0x6fb8138b567cad7c"
+  cid: "8050205823097154940"
+
+- key: wayfarer-hotel-los-angeles
+  name: "Wayfarer Hotel"
+  city: "Los Angeles"
+  query: "The Wayfarer Downtowner Los Angeles CA"
+  place_id: "0x80c2c79883b15553:0xa03ce8f71391d71a"
+  cid: "11546359692554000154"
+
+- key: the-broad-los-angeles
+  name: "The Broad"
+  city: "Los Angeles"
+  query: "The Broad museum Los Angeles CA"
+  place_id: "0x80c2c64d122ca65d:0x98f1041528d11ebf"
+  cid: "11020594252077932223"
+
+- key: woodford-reserve-distillery-louisville
+  name: "Woodford Reserve Distillery"
+  city: "Louisville"
+  query: "Woodford Reserve Distillery Versailles Kentucky"
+  place_id: "0x88427180dbb0577b:0x77f187acf3b68972"
+  cid: "8642838336793643378"
+
+- key: buffalo-trace-distillery-frankfort
+  name: "Buffalo Trace Distillery"
+  city: "Frankfort"
+  query: "Buffalo Trace Distillery Frankfort Kentucky"
+  place_id: "0x88420b4fdd43582f:0x361dd99483cf9fcc"
+  cid: "3899512084262526924"
+
+- key: louisville-slugger-museum-louisville
+  name: "Louisville Slugger Museum & Factory"
+  city: "Louisville"
+  query: "Louisville Slugger Museum Factory Louisville KY"
+  place_id: "0x886972a13ddaebf7:0xe9ab99d2a343c991"
+  cid: "16837720761816041873"
+
+- key: blakes-place-anaheim
+  name: "Blake's Place"
+  city: "Anaheim"
+  query: "Blake's Place BBQ Anaheim CA"
+  place_id: "0x80dcd68d971c2551:0x8da563562c17d50a"
+  cid: "10206673352263193866"
+
+- key: i-naba-torrance
+  name: "I Naba"
+  city: "Torrance"
+  query: "I Naba Torrance CA"
+  place_id: "0x80c2b4d3c25eb3c7:0xd0dac736e4344908"
+  cid: "15049560143382726920"
+
+- key: walmart-museum-bentonville
+  name: "Walmart Museum"
+  city: "Bentonville"
+  query: "Walmart Museum Bentonville Arkansas"
+  place_id: "0x87c91a99c2cf5c35:0x4b08fab19cd5cb96"
+  cid: "5406846993405692822"
+
+- key: 33-taps-los-angeles
+  name: "33 Taps"
+  city: "Los Angeles"
+  query: "33 Taps Los Angeles CA"
+  place_id: "0x80c2c76e2efcdb6f:0x13d69927b76a892b"
+  cid: "1429498327596697899"
+
+- key: hteao-dallas-frankford
+  name: "HTeaO"
+  city: "Dallas"
+  query: "HTeaO 18010 Marsh Ln Dallas TX"
+  place_id: "0x864c25a91d7b13b3:0x644e07123fafec2a"
+  cid: "7227722226935524394"

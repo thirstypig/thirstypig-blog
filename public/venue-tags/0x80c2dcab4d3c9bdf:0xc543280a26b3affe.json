@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dcab4d3c9bdf:0xc543280a26b3affe",
+  "venue_name": "Top Restaurant",
+  "chips": [
+    {
+      "label": "crispy fried chicken",
+      "mention_count": 11
+    },
+    {
+      "label": "take out only",
+      "mention_count": 24
+    },
+    {
+      "label": "oxtail soup",
+      "mention_count": 16
+    },
+    {
+      "label": "indonesian fried rice",
+      "mention_count": 9
+    },
+    {
+      "label": "bbq beef",
+      "mention_count": 22
+    },
+    {
+      "label": "chicken katsu curry",
+      "mention_count": 3
+    },
+    {
+      "label": "mie tektek",
+      "mention_count": 2
+    },
+    {
+      "label": "mom n pop",
+      "mention_count": 3
+    },
+    {
+      "label": "rendang",
+      "mention_count": 2
+    },
+    {
+      "label": "strip mall location",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:11Z",
+  "city": "Pasadena",
+  "key": "top-restaurant-pasadena"
+}

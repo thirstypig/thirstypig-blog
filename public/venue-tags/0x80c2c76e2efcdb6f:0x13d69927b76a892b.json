@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c76e2efcdb6f:0x13d69927b76a892b",
+  "venue_name": "33 Taps DTLA",
+  "chips": [
+    {
+      "label": "qr code ordering",
+      "mention_count": 13
+    },
+    {
+      "label": "patio seating",
+      "mention_count": 6
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 26
+    },
+    {
+      "label": "classic margarita",
+      "mention_count": 5
+    },
+    {
+      "label": "tuna melt",
+      "mention_count": 2
+    },
+    {
+      "label": "watching games",
+      "mention_count": 9
+    },
+    {
+      "label": "salmon bowl",
+      "mention_count": 2
+    },
+    {
+      "label": "paloma",
+      "mention_count": 2
+    },
+    {
+      "label": "key lime pie",
+      "mention_count": 2
+    },
+    {
+      "label": "big screens",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-08T06:21:12Z",
+  "city": "Los Angeles",
+  "key": "33-taps-los-angeles"
+}

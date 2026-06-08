@@ -24,6 +24,7 @@ images:
   - /images/posts/ig-2025-04-29-enjoying-a-dodger-dog-at-the-game/18151127368329074.jpg
 source: instagram
 draft: false
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Enjoying a Dodger Dog at the game

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dd279f6b803c87:0xf162c920035ed5f1",
+  "venue_name": "Smoke Queen Barbecue",
+  "chips": [
+    {
+      "label": "siu yuk",
+      "mention_count": 40
+    },
+    {
+      "label": "brisket",
+      "mention_count": 152
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 33
+    },
+    {
+      "label": "dirty rice",
+      "mention_count": 45
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 47
+    },
+    {
+      "label": "pork ribs",
+      "mention_count": 38
+    },
+    {
+      "label": "tallow fries",
+      "mention_count": 13
+    },
+    {
+      "label": "banana pudding",
+      "mention_count": 20
+    },
+    {
+      "label": "spicy cucumber",
+      "mention_count": 12
+    },
+    {
+      "label": "3 meat bento box",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-07T00:26:07Z",
+  "city": "Garden Grove",
+  "key": "smoke-queen-bbq-garden-grove"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80dcd68d971c2551:0x8da563562c17d50a",
+  "venue_name": "Blake’s Place",
+  "chips": [
+    {
+      "label": "brisket",
+      "mention_count": 143
+    },
+    {
+      "label": "smoked meats",
+      "mention_count": 41
+    },
+    {
+      "label": "live music",
+      "mention_count": 6
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 87
+    },
+    {
+      "label": "bbq sauce",
+      "mention_count": 48
+    },
+    {
+      "label": "ribs",
+      "mention_count": 93
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 40
+    },
+    {
+      "label": "wings",
+      "mention_count": 32
+    },
+    {
+      "label": "chicken caesar salad",
+      "mention_count": 9
+    },
+    {
+      "label": "baked beans",
+      "mention_count": 27
+    }
+  ],
+  "scraped_at": "2026-06-08T06:05:06Z",
+  "city": "Anaheim",
+  "key": "blakes-place-anaheim"
+}

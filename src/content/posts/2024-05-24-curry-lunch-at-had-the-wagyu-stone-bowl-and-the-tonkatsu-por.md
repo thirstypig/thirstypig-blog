@@ -16,7 +16,7 @@ images:
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/18396961708073154.jpg
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/17848064724194066.jpg
 - /images/posts/ig-2024-05-24-curry-lunch-at-had-the-wagyu-stone-bowl-and-the-tonkatsu-por/18047803003689774.jpg
-location: Had
+location: Chubby Curry
 tags:
 - los-angeles
 - japanese
@@ -29,6 +29,7 @@ categories:
 - Japanese
 cuisine:
 - Japanese
+placeId: "0x80c2bb99f925cbb7:0xddc5fba67f6875e1"
 ---
 
 Curry lunch at @chubbycurryla Had the Wagyu stone bowl and the tonkatsu pork curry. The combo gave us miso soup and fries and cucumber salad. Yummy. Ate too much
