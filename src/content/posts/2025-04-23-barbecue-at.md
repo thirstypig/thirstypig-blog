@@ -1,21 +1,21 @@
 ---
-title: Smoke Queen, unknown
-pubDate: 2025-04-23 00:00:00+00:00
-description: Barbecue at . Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and gla
+title: 'Smoke Queen Barbecue, Garden Grove'
+pubDate: 2025-04-23T00:00:00.000Z
+description: Barbecue at Smoke Queen Barbecue. Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and gla
 author: The Thirsty Pig
 heroImage: /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
+categories:
+  - BBQ
 tags:
-- bbq
-- pork-belly
+  - bbq
+  - pork-belly
+cuisine:
+  - BBQ
 location: Smoke Queen
 images:
-- /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
+  - /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
 source: instagram
 draft: false
-categories:
-- BBQ
-cuisine:
-- BBQ
 ---
 
 Barbecue at @smokequeenbbq. Check out that roast pork belly with the crispy skin. That was prob at the best thing we had today. The brisket and beef rib were also tremendous. The big Dino Beef Rib was great and glad we were there on Sunday, since that’s the only day they have beef rib.
