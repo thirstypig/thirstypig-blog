@@ -5299,10 +5299,10 @@ Los Angeles, CA 90027"
   place_id: "0x80dcf104964bc92f:0xe60f2234ab5520ea"
   cid: "16577506362982211818"
 
-- key: smoke-queen-bbq-rowland-heights
+- key: smoke-queen-bbq-garden-grove
   name: "Smoke Queen BBQ"
-  city: "Rowland Heights"
-  query: "Smoke Queen BBQ Rowland Heights"
+  city: "Garden Grove"
+  query: "Smoke Queen BBQ 12941 9th St Garden Grove CA 92840"
   place_id: "0x80dd279f6b803c87:0xf162c920035ed5f1"
   cid: "17393685850190960113"
 
