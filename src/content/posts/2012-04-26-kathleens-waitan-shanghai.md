@@ -13,7 +13,7 @@ tags:
 - shanghai-cuisine
 description: Kathleen’s Waitanhttp://www.kwaitan.com/ 4/F, 200 Huangpu Lu, near Qingpu Lu 黄浦路200号4楼, 近青浦路
 archiveUrl: https://web.archive.org/web/20161106105358/http://thirstypig.com/2012/04/26/kathleens-waitan-shanghai/
-draft: true
+draft: false
 location: Kathleen's Waitan
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,18 @@ coordinates:
   lng: 121.501961
 cuisine:
 - Chinese
+heroImage: /images/posts/2012-04-26-kathleens-waitan-shanghai/01.jpg
+images:
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/01.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/02.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/03.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/04.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/05.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/06.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/07.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/08.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/09.jpg
+- /images/posts/2012-04-26-kathleens-waitan-shanghai/10.jpg
 ---
 
 

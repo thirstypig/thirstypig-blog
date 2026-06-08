@@ -8,7 +8,7 @@ categories:
 - Cocktails
 description: Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten p
 archiveUrl: https://web.archive.org/web/20120116090821/http://www.thethirstypig.com:80/2011/08/25/upstairs-urbn-hotel-shanghai/
-draft: true
+draft: false
 location: URBN Boutique Hotel (雅悦酒店)
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,24 @@ tags:
 - lounge
 cuisine:
 - Cocktails
+heroImage: /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/01.jpg
+images:
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/01.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/02.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/03.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/04.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/05.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/06.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/07.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/08.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/09.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/10.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/11.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/12.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/13.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/14.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/15.jpg
+- /images/posts/2011-08-25-upstairs-urbn-hotel-shanghai/16.jpg
 ---
 
 Upstairs is the newest lounge in Shanghai at the URBN Hotel. With the weather cooling, Upstairs is the place to be. The lounge is ideal for dates, small groups, or older crowds. A bit off the beaten path, it offers a secluded setting, much like the hotel. After dining at Downstairs, the David Laris restaurant, you could mosey up to the rooftop lounge.

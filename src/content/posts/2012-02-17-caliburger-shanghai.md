@@ -12,7 +12,7 @@ tags:
 - american
 - burgers
 archiveUrl: https://web.archive.org/web/20161106011309/http://thirstypig.com/2012/02/17/caliburger-shanghai/
-draft: true
+draft: false
 location: 卡利堡 CaliBurger
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,11 @@ coordinates:
   lng: 121.439444
 cuisine:
 - American
+heroImage: /images/posts/2012-02-17-caliburger-shanghai/01.jpg
+images:
+- /images/posts/2012-02-17-caliburger-shanghai/01.jpg
+- /images/posts/2012-02-17-caliburger-shanghai/02.jpg
+- /images/posts/2012-02-17-caliburger-shanghai/03.jpg
 ---
 
 

@@ -23,6 +23,12 @@ coordinates:
 cuisine:
 - Cocktails
 placeId: "0x35b26fe4b939feef:0x3d3fb92b681792e3"
+heroImage: /images/posts/2012-05-09-mokkos-shanghai-closed/01.jpg
+images:
+- /images/posts/2012-05-09-mokkos-shanghai-closed/01.jpg
+- /images/posts/2012-05-09-mokkos-shanghai-closed/02.jpg
+- /images/posts/2012-05-09-mokkos-shanghai-closed/03.jpg
+- /images/posts/2012-05-09-mokkos-shanghai-closed/04.jpg
 ---
 
 

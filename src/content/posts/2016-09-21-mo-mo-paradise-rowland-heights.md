@@ -13,13 +13,25 @@ tags:
 - dumplings
 description: Yelp Listinghttps://www.yelp.com/biz/mo-mo-paradise-rowland-heights-2
 archiveUrl: https://web.archive.org/web/20161120162946/http://thirstypig.com/2016/09/21/mo-mo-paradise-rowland-heights/
-draft: true
+draft: false
 location: Mo-Mo-Paradise
 city: Rowland Heights
 region: San Gabriel Valley
 address: 17596 Colima Rd Rowland Heights, CA 91748
 cuisine:
 - Japanese
+heroImage: /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/01.jpg
+images:
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/01.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/02.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/03.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/04.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/05.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/06.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/07.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/08.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/09.jpg
+- /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/10.jpg
 ---
 
 

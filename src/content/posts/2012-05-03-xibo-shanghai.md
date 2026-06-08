@@ -16,6 +16,25 @@ tags:
 - shanghai
 - chinese
 - xinjiang
+heroImage: /images/posts/2012-05-03-xibo-shanghai/01.jpg
+images:
+- /images/posts/2012-05-03-xibo-shanghai/01.jpg
+- /images/posts/2012-05-03-xibo-shanghai/02.jpg
+- /images/posts/2012-05-03-xibo-shanghai/03.jpg
+- /images/posts/2012-05-03-xibo-shanghai/04.jpg
+- /images/posts/2012-05-03-xibo-shanghai/05.jpg
+- /images/posts/2012-05-03-xibo-shanghai/06.jpg
+- /images/posts/2012-05-03-xibo-shanghai/07.jpg
+- /images/posts/2012-05-03-xibo-shanghai/08.jpg
+- /images/posts/2012-05-03-xibo-shanghai/09.jpg
+- /images/posts/2012-05-03-xibo-shanghai/10.jpg
+- /images/posts/2012-05-03-xibo-shanghai/11.jpg
+- /images/posts/2012-05-03-xibo-shanghai/12.jpg
+- /images/posts/2012-05-03-xibo-shanghai/13.jpg
+- /images/posts/2012-05-03-xibo-shanghai/14.jpg
+- /images/posts/2012-05-03-xibo-shanghai/15.jpg
+- /images/posts/2012-05-03-xibo-shanghai/16.jpg
+- /images/posts/2012-05-03-xibo-shanghai/17.jpg
 ---
 
 | Location | [**Rating**](http://www.thethirstypig.com/rating-system/) |

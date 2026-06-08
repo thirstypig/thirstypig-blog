@@ -8,7 +8,7 @@ categories:
 - Multi
 description: My Dining Place is a restaurant featuring Singaporean cuisine, with also some Cantonese dishes. Located in Xujiahui’s Novel Place, My Dining Place is operated by the same group from the Singapore Pavi
 archiveUrl: https://web.archive.org/web/20111123074818/http://www.thethirstypig.com/2011/08/24/my-dining-place-shanghai/
-draft: true
+draft: false
 location: My Dining Place
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,14 @@ tags:
 - cantonese
 cuisine:
 - Multi
+heroImage: /images/posts/2011-08-24-my-dining-place-shanghai/01.jpg
+images:
+- /images/posts/2011-08-24-my-dining-place-shanghai/01.jpg
+- /images/posts/2011-08-24-my-dining-place-shanghai/02.jpg
+- /images/posts/2011-08-24-my-dining-place-shanghai/03.jpg
+- /images/posts/2011-08-24-my-dining-place-shanghai/04.jpg
+- /images/posts/2011-08-24-my-dining-place-shanghai/05.jpg
+- /images/posts/2011-08-24-my-dining-place-shanghai/06.jpg
 ---
 
 My Dining Place is a restaurant featuring Singaporean cuisine, with also some Cantonese dishes. Located in Xujiahui’s Novel Place, My Dining Place is operated by the same group from the Singapore Pavilion Expo restaurant from the 2010 Shanghai Expo.

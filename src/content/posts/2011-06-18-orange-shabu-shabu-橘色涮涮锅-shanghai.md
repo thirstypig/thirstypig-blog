@@ -13,13 +13,61 @@ tags:
 - shabu-shabu
 description: I have never associated hot pot as fine dining. Its always a festive occasion with friends and family busily cooking and eating over a communal pot. You’d never bring a customers, vendors, or even a d
 archiveUrl: https://web.archive.org/web/20161018153225/http://thirstypig.com/2011/06/18/orange-shabu-shabu-%e6%a9%98%e8%89%b2%e6%b6%ae%e6%b6%ae%e9%94%85-shanghai/
-draft: true
+draft: false
 location: Orange Shabu Shabu 橘色涮涮锅
 city: Shanghai
 region: Shanghai
 address: 55 Sinan Road
 cuisine:
 - Taiwanese
+heroImage: /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/01.jpg
+images:
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/01.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/02.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/03.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/04.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/05.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/06.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/07.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/08.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/09.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/10.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/11.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/12.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/13.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/14.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/15.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/16.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/17.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/18.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/19.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/20.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/21.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/22.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/23.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/24.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/25.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/26.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/27.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/28.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/29.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/30.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/31.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/32.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/33.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/34.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/35.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/36.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/37.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/38.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/39.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/40.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/41.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/42.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/43.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/44.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/45.jpg
+- /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/46.jpg
 ---
 
 

@@ -12,7 +12,7 @@ tags:
 - wellness
 description: The Xinyi Public Assembly Hall is a renovated and restored tourist attraction in the heart of Taipei’s Xinyi District. Dating back a few decades, this area used to be a military village for the incomi
 archiveUrl: https://web.archive.org/web/20161105051821/http://thirstypig.com/2011/07/18/xinyi-public-assembly-hall-%e4%bf%a1%e7%be%a9%e5%85%ac%e6%b0%91%e6%9c%83%e9%a4%a8-%e5%9b%9b%e5%9b%9b%e5%8d%97%e6%9d%91-taipei/
-draft: true
+draft: false
 location: Villa.like 悅禾泰式養身舒壓SPA會館
 city: Taipei
 region: Taipei
@@ -21,6 +21,47 @@ coordinates:
   lat: 25.050807
   lng: 121.522157
 cuisine: []
+heroImage: /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/01.jpg
+images:
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/01.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/02.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/03.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/04.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/05.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/06.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/07.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/08.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/09.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/10.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/11.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/12.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/13.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/14.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/15.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/16.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/17.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/18.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/19.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/20.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/21.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/22.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/23.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/24.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/25.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/26.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/27.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/28.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/29.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/30.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/31.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/32.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/33.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/34.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/35.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/36.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/37.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/38.jpg
+- /images/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei/39.jpg
 ---
 
 

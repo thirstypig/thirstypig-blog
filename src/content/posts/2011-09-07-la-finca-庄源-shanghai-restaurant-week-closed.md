@@ -22,6 +22,27 @@ address: 373 South Huangpi Road
 cuisine:
 - Mediterranean
 placeId: "0x35b270719555cf0b:0xe146db67df58f647"
+heroImage: /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/01.jpg
+images:
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/01.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/02.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/03.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/04.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/05.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/06.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/07.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/08.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/09.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/10.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/11.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/12.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/13.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/14.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/15.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/16.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/17.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/18.jpg
+- /images/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed/19.jpg
 ---
 
 

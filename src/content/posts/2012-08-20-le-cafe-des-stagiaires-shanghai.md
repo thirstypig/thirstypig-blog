@@ -12,7 +12,7 @@ tags:
 - beer
 description: What is Le Cafe des Stagiaireshttp://www.cafestagiaires.com/?
 archiveUrl: https://web.archive.org/web/20161105003516/http://thirstypig.com/2012/08/20/le-cafe-des-stagiaires-shanghai/
-draft: true
+draft: false
 location: JW Marriott Hotel Shanghai at Tomorrow Square (上海明天广场JW万豪酒店)
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,18 @@ coordinates:
   lng: 121.46526
 cuisine:
 - French
+heroImage: /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/01.jpg
+images:
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/01.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/02.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/03.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/04.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/05.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/06.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/07.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/08.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/09.jpg
+- /images/posts/2012-08-20-le-cafe-des-stagiaires-shanghai/10.jpg
 ---
 
 

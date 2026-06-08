@@ -13,7 +13,7 @@ tags:
 - dim-sum
 description: Kechara Tea House G113, Block 28, 570 Huaihai Xi Lu, near Hongqiao Lu 淮海西路570号28号楼G113, 近虹桥路
 archiveUrl: https://web.archive.org/web/20161105081059/http://thirstypig.com/2012/04/17/kechara-tea-house-shanghai/
-draft: true
+draft: false
 location: Kechara Tea House
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,16 @@ coordinates:
   lng: 121.418567
 cuisine:
 - Chinese
+heroImage: /images/posts/2012-04-17-kechara-tea-house-shanghai/01.jpg
+images:
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/01.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/02.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/03.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/04.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/05.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/06.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/07.jpg
+- /images/posts/2012-04-17-kechara-tea-house-shanghai/08.jpg
 ---
 
 

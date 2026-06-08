@@ -12,7 +12,7 @@ tags:
 - vodka
 description: Shanghai is a city of mending nationalities which is arguably more than any other. The breeding of cultures, juices, and spirits is seen no where better than at the latest hot spot lounge Craft. Singa
 archiveUrl: https://web.archive.org/web/20161106075149/http://thirstypig.com/2011/07/14/craft-shanghai/
-draft: true
+draft: false
 location: Craft
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,22 @@ coordinates:
   lng: 121.449888
 cuisine:
 - Cocktails
+heroImage: /images/posts/2011-07-14-craft-shanghai/01.jpg
+images:
+- /images/posts/2011-07-14-craft-shanghai/01.jpg
+- /images/posts/2011-07-14-craft-shanghai/02.jpg
+- /images/posts/2011-07-14-craft-shanghai/03.jpg
+- /images/posts/2011-07-14-craft-shanghai/04.jpg
+- /images/posts/2011-07-14-craft-shanghai/05.jpg
+- /images/posts/2011-07-14-craft-shanghai/06.jpg
+- /images/posts/2011-07-14-craft-shanghai/07.jpg
+- /images/posts/2011-07-14-craft-shanghai/08.jpg
+- /images/posts/2011-07-14-craft-shanghai/09.jpg
+- /images/posts/2011-07-14-craft-shanghai/10.jpg
+- /images/posts/2011-07-14-craft-shanghai/11.jpg
+- /images/posts/2011-07-14-craft-shanghai/12.jpg
+- /images/posts/2011-07-14-craft-shanghai/13.jpg
+- /images/posts/2011-07-14-craft-shanghai/14.jpg
 ---
 
 
