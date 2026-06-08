@@ -1,0 +1,49 @@
+{
+  "place_id": "0x864c25a91d7b13b3:0x644e07123fafec2a",
+  "venue_name": "HTeaO - Dallas (Frankford & Marsh)",
+  "chips": [
+    {
+      "label": "friendly staff",
+      "mention_count": 130
+    },
+    {
+      "label": "tea sampling",
+      "mention_count": 14
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 30
+    },
+    {
+      "label": "blueberry green tea",
+      "mention_count": 7
+    },
+    {
+      "label": "chai tea",
+      "mention_count": 7
+    },
+    {
+      "label": "tea selection",
+      "mention_count": 19
+    },
+    {
+      "label": "watermelon sweet tea",
+      "mention_count": 5
+    },
+    {
+      "label": "coconut tea",
+      "mention_count": 5
+    },
+    {
+      "label": "variety of flavors",
+      "mention_count": 37
+    },
+    {
+      "label": "mint tea",
+      "mention_count": 5
+    }
+  ],
+  "scraped_at": "2026-06-08T06:21:19Z",
+  "city": "Dallas",
+  "key": "hteao-dallas-frankford"
+}

@@ -8,16 +8,18 @@ heroImage: /images/posts/ig-2022-07-01-we-need-this-in-la/17942693638992461.jpg
 images:
 - /images/posts/ig-2022-07-01-we-need-this-in-la/17942693638992461.jpg
 - /images/posts/ig-2022-07-01-we-need-this-in-la/17896544921564456.jpg
+city: Dallas
 tags:
 - coffee
 - boba
 - tea
 description: We need this in LA. HTeaO. A Texas tea shop. Lots of different teas - sweeten and unsweetened. I had the sweetened coconut tea. Great combination of flavor. You can try them all. They sell lots of YETI and other goods. This franchise is all over Texas. On a hot summer day there is nothing better. . . Except a beer or an eastcider. My little brother recommended this place. Thanks! . . . . .
-location: We need this in LA
+location: HTeaO
 categories:
 - Coffee
 cuisine:
 - Coffee
+placeId: "0x864c25a91d7b13b3:0x644e07123fafec2a"
 ---
 
 We need this in LA. HTeaO. A Texas tea shop. Lots of different teas - sweeten and unsweetened. I had the sweetened coconut tea. Great combination of flavor. You can try them all. They sell lots of YETI and other goods. This franchise is all over Texas. On a hot summer day there is nothing better. . . Except a beer or an eastcider. My little brother recommended this place. Thanks!

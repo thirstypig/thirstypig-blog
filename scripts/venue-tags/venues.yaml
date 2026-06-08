@@ -5480,3 +5480,17 @@ Los Angeles, CA 90027"
   query: "Walmart Museum Bentonville Arkansas"
   place_id: "0x87c91a99c2cf5c35:0x4b08fab19cd5cb96"
   cid: "5406846993405692822"
+
+- key: 33-taps-los-angeles
+  name: "33 Taps"
+  city: "Los Angeles"
+  query: "33 Taps Los Angeles CA"
+  place_id: "0x80c2c76e2efcdb6f:0x13d69927b76a892b"
+  cid: "1429498327596697899"
+
+- key: hteao-dallas-frankford
+  name: "HTeaO"
+  city: "Dallas"
+  query: "HTeaO 18010 Marsh Ln Dallas TX"
+  place_id: "0x864c25a91d7b13b3:0x644e07123fafec2a"
+  cid: "7227722226935524394"
