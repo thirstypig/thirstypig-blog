@@ -12,7 +12,7 @@ tags:
 - lounge
 description: The recently opened lounge, Rockwell, is in Los Feliz area of Los Angeles, which is becoming more eclectic and cool. Hidden in the back of a restaurant with no sign, you wouldn’t know that there was a
 archiveUrl: https://web.archive.org/web/20161106094719/http://thirstypig.com/2009/09/26/rockwell-table-stage-los-angeles/
-draft: true
+draft: false
 location: Rockwell Table & Stage
 city: Los Angeles
 region: Hollywood
@@ -20,6 +20,22 @@ address: 1714 N. Vermont Ave Los Angeles, CA 90027
 cuisine:
 - Cocktails
 placeId: "0x80c2b9002841a967:0xccc3c49414167d1a"
+heroImage: /images/posts/2009-09-26-rockwell-table-stage-los-angeles/01.jpg
+images:
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/01.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/02.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/03.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/04.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/05.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/06.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/07.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/08.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/09.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/10.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/11.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/12.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/13.jpg
+- /images/posts/2009-09-26-rockwell-table-stage-los-angeles/14.jpg
 ---
 
 

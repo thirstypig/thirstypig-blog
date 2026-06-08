@@ -12,12 +12,15 @@ tags:
 - pizza
 description: Pizzeria Mozzahttp://pizzeriamozza.com 641 N Highland Ave Los Angeles, CA 90036 323 297-0101
 archiveUrl: https://web.archive.org/web/20161105005209/http://thirstypig.com/2012/01/27/pizzeria-mozza-los-angeles/
-draft: true
+draft: false
 location: Pizzeria Mozza
 city: Los Angeles
 address: 641 N Highland Ave Los Angeles, CA 90036
 cuisine:
 - Italian
+heroImage: /images/posts/2012-01-27-pizzeria-mozza-los-angeles/01.jpg
+images:
+- /images/posts/2012-01-27-pizzeria-mozza-los-angeles/01.jpg
 ---
 
 

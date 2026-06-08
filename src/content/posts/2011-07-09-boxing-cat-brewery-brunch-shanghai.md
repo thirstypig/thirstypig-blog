@@ -13,7 +13,7 @@ tags:
 - tex-mex
 description: Sunday Brunch in Shanghai is a big thing. It is a hugh event with the foreigner and expat crowd. Though, personally, I like to sleep in on Sundays, so I usually miss Brunch. But recently, I was up ear
 archiveUrl: https://web.archive.org/web/20161018123242/http://thirstypig.com/2011/07/09/boxing-cat-brewery-brunch-shanghai/
-draft: true
+draft: false
 location: Boxing Cat Brewery
 city: Shanghai
 region: Shanghai
@@ -24,6 +24,15 @@ coordinates:
 cuisine:
 - American
 placeId: "0x35b2f99e2e421e4d:0xe42ce70085bedf71"
+heroImage: /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/01.jpg
+images:
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/01.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/02.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/03.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/04.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/05.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/06.jpg
+- /images/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai/07.jpg
 ---
 
 

@@ -25,6 +25,12 @@ coordinates:
 cuisine:
 - Taiwanese
 placeId: "0x35b27aa9e259df0b:0xc9bda681bda19ef7"
+heroImage: /images/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed/01.jpg
+images:
+- /images/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed/01.jpg
+- /images/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed/02.jpg
+- /images/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed/03.jpg
+- /images/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed/04.jpg
 ---
 
 

@@ -23,6 +23,26 @@ coordinates:
 cuisine:
 - Cocktails
 placeId: "0x35b270589b1b8cd3:0x793654bfaf84df1"
+heroImage: /images/posts/2012-05-11-glamour-bar-shanghai-closed/01.jpg
+images:
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/01.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/02.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/03.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/04.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/05.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/06.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/07.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/08.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/09.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/10.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/11.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/12.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/13.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/14.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/15.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/16.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/17.jpg
+- /images/posts/2012-05-11-glamour-bar-shanghai-closed/18.jpg
 ---
 
 

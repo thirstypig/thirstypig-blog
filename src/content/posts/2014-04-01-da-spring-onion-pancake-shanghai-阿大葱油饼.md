@@ -11,7 +11,7 @@ tags:
 - street-food
 description: Best Cong You Bing Scallion Pancakes in Shanghai, at A Da 阿大葱油饼http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/
 archiveUrl: https://web.archive.org/web/20150502053458/http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/
-draft: true
+draft: false
 city: Shanghai
 region: Shanghai
 categories:
@@ -23,6 +23,14 @@ coordinates:
   lng: 121.451386
 cuisine:
 - Chinese
+heroImage: /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/01.jpg
+images:
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/01.jpg
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/02.jpg
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/03.jpg
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/04.jpg
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/05.jpg
+- /images/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼/06.jpg
 ---
 
 ## [Best Cong You Bing (Scallion Pancakes) in Shanghai, at A Da 阿大葱油饼](http://thirstypig.com/2014/04/01/da-spring-onion-pancake-shanghai-%e9%98%bf%e5%a4%a7%e8%91%b1%e6%b2%b9%e9%a5%bc/)

@@ -12,7 +12,7 @@ tags:
 - cupcakes
 description: In a town where culinary masters come from around the world, desserts are sometimes an unfortunate afterthought. Yet C’est Cupcake shines while bringing delectable cupcakes to Shanghai.
 archiveUrl: https://web.archive.org/web/20161018205729/http://thirstypig.com/2011/07/04/cest-cupcake-%e5%8f%a3%e8%a2%8b%e8%9b%8b%e7%b3%95-shanghai/
-draft: true
+draft: false
 location: C'est Cupcake
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,34 @@ coordinates:
   lng: 121.378896
 cuisine:
 - Dessert
+heroImage: /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/01.jpg
+images:
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/01.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/02.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/03.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/04.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/05.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/06.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/07.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/08.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/09.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/10.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/11.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/12.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/13.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/14.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/15.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/16.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/17.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/18.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/19.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/20.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/21.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/22.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/23.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/24.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/25.jpg
+- /images/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai/26.jpg
 ---
 
 

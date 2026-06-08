@@ -13,7 +13,7 @@ tags:
 - egg-tarts
 description: Late night, Korean, sobering, traditional are just some of the words to describe Mapuwu. Located on the edge of the Changning district, one of the best things about Mapowu are the late night hours – t
 archiveUrl: https://web.archive.org/web/20161019014425/http://thirstypig.com/2011/05/21/mapuwu-%e9%ba%bb%e6%b5%a6%e5%b1%8b-shanghai/
-draft: true
+draft: false
 location: Lillian Cake Shop (莉莲蛋挞饼屋)
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,15 @@ coordinates:
   lng: 121.469129
 cuisine:
 - Bakery
+heroImage: /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/01.jpg
+images:
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/01.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/02.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/03.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/04.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/05.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/06.jpg
+- /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/07.jpg
 ---
 
 

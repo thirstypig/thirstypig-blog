@@ -13,7 +13,7 @@ tags:
 - hunan
 description: 'After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With Di Shui '
 archiveUrl: https://web.archive.org/web/20160910230000/http://thirstypig.com/2011/06/05/spicy-moment-shanghai/
-draft: true
+draft: false
 location: Spicy Moment
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,48 @@ coordinates:
   lng: 121.444505
 cuisine:
 - Chinese
+heroImage: /images/posts/2011-06-05-spicy-moment-shanghai/01.jpg
+images:
+- /images/posts/2011-06-05-spicy-moment-shanghai/01.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/02.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/03.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/04.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/05.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/06.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/07.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/08.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/09.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/10.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/11.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/12.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/13.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/14.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/15.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/16.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/17.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/18.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/19.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/20.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/21.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/22.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/23.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/24.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/25.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/26.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/27.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/28.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/29.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/30.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/31.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/32.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/33.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/34.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/35.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/36.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/37.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/38.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/39.jpg
+- /images/posts/2011-06-05-spicy-moment-shanghai/40.jpg
 ---
 
 

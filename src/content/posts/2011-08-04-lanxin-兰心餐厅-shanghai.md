@@ -13,7 +13,7 @@ tags:
 - home-cooked
 description: Jinxian Lu features an abundance of places to go, to eat, to drink, and to play. From Masse formerly Racks, Bliss Lounge, Momo Paradise, Southern Barbarian, Di Shui Dong, among others. LanXin is hole-
 archiveUrl: https://web.archive.org/web/20161105184253/http://thirstypig.com/2011/08/04/lanxin-%e5%85%b0%e5%bf%83%e9%a4%90%e5%8e%85-shanghai/
-draft: true
+draft: false
 location: Lanting Restaurant (兰亭餐厅)
 city: Shanghai
 region: Shanghai
@@ -23,6 +23,20 @@ coordinates:
   lng: 121.472562
 cuisine:
 - Chinese
+heroImage: /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/01.jpg
+images:
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/01.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/02.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/03.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/04.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/05.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/06.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/07.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/08.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/09.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/10.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/11.jpg
+- /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/12.jpg
 ---
 
 

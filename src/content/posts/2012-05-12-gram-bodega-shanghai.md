@@ -13,7 +13,7 @@ tags:
 - wine
 description: Gran Bodega GF, 789 Wuyi Lu, Royalton Hotel 武夷路789号，近中山南路
 archiveUrl: https://web.archive.org/web/20161105031544/http://thirstypig.com/2012/05/12/gram-bodega-shanghai/
-draft: true
+draft: false
 location: Gran Bodega
 city: Shanghai
 region: Shanghai
@@ -22,6 +22,15 @@ coordinates:
   lng: 121.468283
 cuisine:
 - Spanish
+heroImage: /images/posts/2012-05-12-gram-bodega-shanghai/01.jpg
+images:
+- /images/posts/2012-05-12-gram-bodega-shanghai/01.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/02.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/03.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/04.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/05.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/06.jpg
+- /images/posts/2012-05-12-gram-bodega-shanghai/07.jpg
 ---
 
 
