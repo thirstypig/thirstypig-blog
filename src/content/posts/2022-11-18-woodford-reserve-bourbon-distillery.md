@@ -15,14 +15,16 @@ images:
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17993640604588012.jpg
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17943123695433464.jpg
 - /images/posts/ig-2022-11-18-woodford-reserve-bourbon-distillery/17986711732631028.jpg
+city: Louisville
 tags:
 - bourbon
 - whiskey
 description: Woodford Reserve Bourbon Distillery. Picturesque off a hill. The famed copper kettle distillery. Amazing place. . . . . .
-location: Woodford Reserve Bourbon Distillery
+location: Woodford Reserve Distillery
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x88427180dbb0577b:0x77f187acf3b68972"
 ---
 
 Woodford Reserve Bourbon Distillery. Picturesque off a hill. The famed copper kettle distillery. Amazing place. 

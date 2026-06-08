@@ -29,6 +29,7 @@ coordinates:
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c2c64d122ca65d:0x98f1041528d11ebf"
 ---
 
 A visit to see the contemporary art at the Broad. Saw works from Warhol, Koons, and Basquiat. We missed Murakami’s exhibition by a month. 

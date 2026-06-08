@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b4d3c25eb3c7:0xd0dac736e4344908",
+  "venue_name": "Inaba Japanese Restaurant",
+  "chips": [
+    {
+      "label": "chiraishi",
+      "mention_count": 7
+    },
+    {
+      "label": "cold soba",
+      "mention_count": 8
+    },
+    {
+      "label": "kaiseki",
+      "mention_count": 8
+    },
+    {
+      "label": "inaba bento box",
+      "mention_count": 7
+    },
+    {
+      "label": "1 michelin star",
+      "mention_count": 6
+    },
+    {
+      "label": "tempura",
+      "mention_count": 55
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 3
+    },
+    {
+      "label": "lightly fried tempura",
+      "mention_count": 2
+    },
+    {
+      "label": "Chawanmushi",
+      "mention_count": 4
+    },
+    {
+      "label": "udon",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-06-08T06:05:12Z",
+  "city": "Torrance",
+  "key": "i-naba-torrance"
+}

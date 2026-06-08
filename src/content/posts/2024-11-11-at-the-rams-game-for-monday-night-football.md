@@ -20,6 +20,7 @@ images:
   - /images/posts/ig-2024-11-11-at-the-rams-game-for-monday-night-football/17885630058120268.jpg
 source: instagram
 draft: false
+placeId: "0x80c2b786cbfb8f4f:0x5fb99cb7249e4170"
 ---
 
 At the Rams game for Monday Night Football. Enjoying a the Rams taking on the Dolphins and wondering why I traded away Tyreek Hill - he did ok - only 2 catches, but still my fantasy team stinks and is in last place 😢🥲.

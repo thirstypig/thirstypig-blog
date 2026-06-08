@@ -19,6 +19,7 @@ location: Great day at Dodger Stadium
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Great day at Dodger Stadium. Good win, too. 

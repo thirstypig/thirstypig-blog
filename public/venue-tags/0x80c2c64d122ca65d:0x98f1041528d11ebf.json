@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c64d122ca65d:0x98f1041528d11ebf",
+  "venue_name": "The Broad",
+  "chips": [
+    {
+      "label": "basquiat",
+      "mention_count": 231
+    },
+    {
+      "label": "infinity mirror room",
+      "mention_count": 531
+    },
+    {
+      "label": "jeff koons",
+      "mention_count": 148
+    },
+    {
+      "label": "andy warhol",
+      "mention_count": 311
+    },
+    {
+      "label": "yayoi kusama",
+      "mention_count": 247
+    },
+    {
+      "label": "roy lichtenstein",
+      "mention_count": 96
+    },
+    {
+      "label": "keith haring exhibit",
+      "mention_count": 80
+    },
+    {
+      "label": "free admission",
+      "mention_count": 932
+    },
+    {
+      "label": "long lines",
+      "mention_count": 121
+    },
+    {
+      "label": "free museum",
+      "mention_count": 74
+    }
+  ],
+  "scraped_at": "2026-06-08T06:04:44Z",
+  "city": "Los Angeles",
+  "key": "the-broad-los-angeles"
+}

@@ -17,6 +17,7 @@ cuisine: []
 tags: []
 categories:
 - Uncategorized
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Love the dodger stadium!

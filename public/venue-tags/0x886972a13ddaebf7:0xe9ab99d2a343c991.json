@@ -1,0 +1,49 @@
+{
+  "place_id": "0x886972a13ddaebf7:0xe9ab99d2a343c991",
+  "venue_name": "Louisville Slugger Museum & Factory",
+  "chips": [
+    {
+      "label": "factory tour",
+      "mention_count": 617
+    },
+    {
+      "label": "bats",
+      "mention_count": 1774
+    },
+    {
+      "label": "bat making process",
+      "mention_count": 408
+    },
+    {
+      "label": "batting cage",
+      "mention_count": 183
+    },
+    {
+      "label": "free mini bat",
+      "mention_count": 140
+    },
+    {
+      "label": "baseball history",
+      "mention_count": 188
+    },
+    {
+      "label": "personalized bat",
+      "mention_count": 104
+    },
+    {
+      "label": "souvenir bat",
+      "mention_count": 88
+    },
+    {
+      "label": "informative tour",
+      "mention_count": 142
+    },
+    {
+      "label": "family friendly",
+      "mention_count": 461
+    }
+  ],
+  "scraped_at": "2026-06-08T06:05:01Z",
+  "city": "Louisville",
+  "key": "louisville-slugger-museum-louisville"
+}

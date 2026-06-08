@@ -14,7 +14,7 @@ tags:
 - american
 - brunch
 description: Lunch at The Bike Shed in DTLA. Hanging with my brother and his family, especially with the nephews. One of my favorite venues in DTLA, arts district. . . . .
-location: Row Dtla
+location: The Bike Shed
 city: Downtown LA
 region: Los Angeles
 address: 777 Alameda St, Los Angeles, CA 90021
@@ -25,6 +25,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c74fde41083b:0x9ea0379c945dccec"
 ---
 
 Lunch at The Bike Shed in DTLA. Hanging with my brother and his family, especially with the nephews. One of my favorite venues in DTLA, arts district. 

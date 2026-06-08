@@ -12,7 +12,7 @@ images:
 tags:
 - los-angeles
 description: Los Angeles Dodgers World Series parade!8th World Series - 2024 Champs! 7 buses of champions! . . .
-location: Los Angeles Theatre
+location: Dodger Stadium
 city: Los Angeles
 categories:
 - Uncategorized
@@ -21,6 +21,7 @@ coordinates:
   lat: 34.046397
   lng: -118.252587
 cuisine: []
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 Los Angeles Dodgers World Series parade!8th World Series - 2024 Champs! 7 buses of champions!

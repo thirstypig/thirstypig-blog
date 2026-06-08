@@ -17,7 +17,7 @@ tags:
 - bbq
 - brisket
 description: BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin. Not sure about the accompanying green salsa sauce. Reminded me of salsa verde. The slaw was really good and sour - just the way I like it. The pork ribs, seemed like small portion. They taste well and had good flavor and texture (that’s the CBJ in me). The loaded fries with brisket was quite hearty, yet seemed to lack enough fries, strangely. I liked the fries a lot. The single Texas toast was good, wish they gave us another slice. Not sure if I recommend, yet. But I’d return just to try others. Brisket 7 for taste, 8 for tenderness, 7 for appearance. Pork ribs 8 taste, 8 for tenderness, and 8 for appearance. . . . . . . .chinatown
-location: Chinatown Summer Nights
+location: LA Brisket
 city: Chinatown
 region: Los Angeles
 address: 943 N Broadway, Los Angeles, CA 90012, Los Angeles, CA 90012
@@ -28,6 +28,7 @@ categories:
 - BBQ
 cuisine:
 - BBQ
+placeId: "0x80c2c7aadce39f13:0xbd044f5321c9adc0"
 ---
 
 BBQ in Chinatown. LA Brisket. We ordered the OG bowl with Beef Brisket. But it was a little too dry. And the brisket slices were unexpectedly thin. Not sure about the accompanying green salsa sauce. Reminded me of salsa verde. The slaw was really good and sour - just the way I like it. The pork ribs, seemed like small portion. They taste well and had good flavor and texture (that’s the CBJ in me). The loaded fries with brisket was quite hearty, yet seemed to lack enough fries, strangely. I liked the fries a lot. The single Texas toast was good, wish they gave us another slice. Not sure if I recommend, yet. But I’d return just to try others. Brisket 7 for taste, 8 for tenderness, 7 for appearance. Pork ribs 8 taste, 8 for tenderness, and 8 for appearance. 

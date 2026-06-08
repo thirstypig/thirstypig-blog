@@ -19,6 +19,7 @@ categories:
 city: Los Angeles
 cuisine:
 - Cocktails
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 This is how you enjoy a Moscow Mule at Dodger Stadium. With Souvenir Cup - twenty five bucks. A bit pricey, but it is pretty awesome! 😎 .

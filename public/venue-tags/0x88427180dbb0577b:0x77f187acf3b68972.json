@@ -1,0 +1,49 @@
+{
+  "place_id": "0x88427180dbb0577b:0x77f187acf3b68972",
+  "venue_name": "Woodford Reserve Distillery",
+  "chips": [
+    {
+      "label": "bourbon tasting",
+      "mention_count": 180
+    },
+    {
+      "label": "tour guide",
+      "mention_count": 1193
+    },
+    {
+      "label": "bourbon balls",
+      "mention_count": 56
+    },
+    {
+      "label": "visitor center",
+      "mention_count": 89
+    },
+    {
+      "label": "informative tour",
+      "mention_count": 137
+    },
+    {
+      "label": "bourbon making process",
+      "mention_count": 38
+    },
+    {
+      "label": "gift shop",
+      "mention_count": 315
+    },
+    {
+      "label": "grounds",
+      "mention_count": 289
+    },
+    {
+      "label": "mixology class",
+      "mention_count": 37
+    },
+    {
+      "label": "old fashioned",
+      "mention_count": 92
+    }
+  ],
+  "scraped_at": "2026-06-08T06:04:50Z",
+  "city": "Louisville",
+  "key": "woodford-reserve-distillery-louisville"
+}

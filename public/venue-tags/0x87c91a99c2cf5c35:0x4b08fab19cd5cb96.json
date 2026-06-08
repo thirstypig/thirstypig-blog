@@ -1,0 +1,49 @@
+{
+  "place_id": "0x87c91a99c2cf5c35:0x4b08fab19cd5cb96",
+  "venue_name": "The Walmart Museum",
+  "chips": [
+    {
+      "label": "hologram",
+      "mention_count": 35
+    },
+    {
+      "label": "free museum",
+      "mention_count": 26
+    },
+    {
+      "label": "interactive exhibits",
+      "mention_count": 30
+    },
+    {
+      "label": "free admission",
+      "mention_count": 85
+    },
+    {
+      "label": "sticker making",
+      "mention_count": 13
+    },
+    {
+      "label": "scavenger hunt",
+      "mention_count": 9
+    },
+    {
+      "label": "informative museum",
+      "mention_count": 9
+    },
+    {
+      "label": "gift shop",
+      "mention_count": 76
+    },
+    {
+      "label": "small museum",
+      "mention_count": 18
+    },
+    {
+      "label": "memorabilia",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-06-08T06:05:17Z",
+  "city": "Bentonville",
+  "key": "walmart-museum-bentonville"
+}

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x88420b4fdd43582f:0x361dd99483cf9fcc",
+  "venue_name": "Buffalo Trace Distillery",
+  "chips": [
+    {
+      "label": "blantons",
+      "mention_count": 227
+    },
+    {
+      "label": "free tour",
+      "mention_count": 168
+    },
+    {
+      "label": "gift shop",
+      "mention_count": 594
+    },
+    {
+      "label": "eagle rare",
+      "mention_count": 68
+    },
+    {
+      "label": "free tasting",
+      "mention_count": 90
+    },
+    {
+      "label": "root beer",
+      "mention_count": 71
+    },
+    {
+      "label": "bourbon",
+      "mention_count": 259
+    },
+    {
+      "label": "tour guide",
+      "mention_count": 533
+    },
+    {
+      "label": "bourbon making process",
+      "mention_count": 21
+    },
+    {
+      "label": "knowledgeable guide",
+      "mention_count": 120
+    }
+  ],
+  "scraped_at": "2026-06-08T06:04:55Z",
+  "city": "Frankfort",
+  "key": "buffalo-trace-distillery-frankfort"
+}

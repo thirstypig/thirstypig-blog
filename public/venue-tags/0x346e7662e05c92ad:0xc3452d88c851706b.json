@@ -1,0 +1,49 @@
+{
+  "place_id": "0x346e7662e05c92ad:0xc3452d88c851706b",
+  "venue_name": "Hayashi Department Store",
+  "chips": [
+    {
+      "label": "retro",
+      "mention_count": 1422
+    },
+    {
+      "label": "creative industries",
+      "mention_count": 2616
+    },
+    {
+      "label": "architecture",
+      "mention_count": 923
+    },
+    {
+      "label": "souvenirs",
+      "mention_count": 1262
+    },
+    {
+      "label": "roof terrace",
+      "mention_count": 296
+    },
+    {
+      "label": "antique",
+      "mention_count": 330
+    },
+    {
+      "label": "historic building",
+      "mention_count": 325
+    },
+    {
+      "label": "retro department store",
+      "mention_count": 204
+    },
+    {
+      "label": "ambience",
+      "mention_count": 349
+    },
+    {
+      "label": "rooftop shrine",
+      "mention_count": 230
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:45Z",
+  "city": "Tainan",
+  "key": "hayashi-department-store-tainan"
+}

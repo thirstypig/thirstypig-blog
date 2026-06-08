@@ -13,12 +13,14 @@ images:
 - /images/posts/ig-2022-11-14-went-to-the-louisville-slugger-museum/17974678468863274.jpg
 - /images/posts/ig-2022-11-14-went-to-the-louisville-slugger-museum/18023086768436242.jpg
 - /images/posts/ig-2022-11-14-went-to-the-louisville-slugger-museum/18031829338411126.jpg
+city: Louisville
 tags: []
 description: Went to the Louisville Slugger Museum. Amazing place of history and fascinating production of baseball bats. Saw Babe Ruth’s bat and a bunch of others. Unfortunately we missed our appointment, but luckily the nice ticket girls got us in a few days later. One of the highlights of this trip. Absolutely memorable and would fully recommend! . . . .
-location: Went to the Louisville Slugger Museum
+location: Louisville Slugger Museum & Factory
 categories:
 - Uncategorized
 cuisine: []
+placeId: "0x886972a13ddaebf7:0xe9ab99d2a343c991"
 ---
 
 Went to the Louisville Slugger Museum. Amazing place of history and fascinating production of baseball bats. Saw Babe Ruth’s bat and a bunch of others. Unfortunately we missed our appointment, but luckily the nice ticket girls got us in a few days later. One of the highlights of this trip. Absolutely memorable and would fully recommend!

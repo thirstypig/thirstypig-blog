@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442a9fa0d2cfc7b:0xae9008e8e6f63041",
+  "venue_name": "butcher jr. by lanpengyou 中山",
+  "chips": [
+    {
+      "label": "fudge",
+      "mention_count": 69
+    },
+    {
+      "label": "sea salt milk candy burger",
+      "mention_count": 51
+    },
+    {
+      "label": "mood",
+      "mention_count": 39
+    },
+    {
+      "label": "milkshake",
+      "mention_count": 187
+    },
+    {
+      "label": "beef patties",
+      "mention_count": 43
+    },
+    {
+      "label": "caramel burger",
+      "mention_count": 23
+    },
+    {
+      "label": "blueberry milkshake",
+      "mention_count": 20
+    },
+    {
+      "label": "cod burger",
+      "mention_count": 14
+    },
+    {
+      "label": "burger bun",
+      "mention_count": 29
+    },
+    {
+      "label": "fries dipping sauce",
+      "mention_count": 12
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:56Z",
+  "city": "Taipei",
+  "key": "butcher-jr-taipei"
+}

@@ -16,7 +16,7 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 574
+      "mention_count": 567
     },
     {
       "label": "historic stadium",
@@ -32,7 +32,7 @@
     },
     {
       "label": "hot dogs",
-      "mention_count": 367
+      "mention_count": 369
     },
     {
       "label": "drone show",
@@ -43,7 +43,7 @@
       "mention_count": 210
     }
   ],
-  "scraped_at": "2026-06-04T20:26:51Z",
-  "city": null,
-  "key": "dodger-game-los-angele"
+  "scraped_at": "2026-06-08T06:01:19Z",
+  "city": "Los Angeles",
+  "key": "dodger-stadium-los-angeles"
 }

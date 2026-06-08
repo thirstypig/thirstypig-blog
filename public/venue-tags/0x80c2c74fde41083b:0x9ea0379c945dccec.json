@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c74fde41083b:0x9ea0379c945dccec",
+  "venue_name": "Bike Shed Moto Co",
+  "chips": [
+    {
+      "label": "truffle fries",
+      "mention_count": 5
+    },
+    {
+      "label": "vegan options",
+      "mention_count": 25
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 12
+    },
+    {
+      "label": "motorcycle theme",
+      "mention_count": 8
+    },
+    {
+      "label": "burgers",
+      "mention_count": 47
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 8
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 4
+    },
+    {
+      "label": "bike shed burger",
+      "mention_count": 3
+    },
+    {
+      "label": "parmesan truffle fries",
+      "mention_count": 2
+    },
+    {
+      "label": "french toast",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-08T06:02:28Z",
+  "city": "Los Angeles",
+  "key": "the-bike-shed-los-angeles"
+}

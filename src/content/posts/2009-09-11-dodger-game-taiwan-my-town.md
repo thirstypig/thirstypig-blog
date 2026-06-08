@@ -23,6 +23,7 @@ archiveUrl: https://web.archive.org/web/20110106015039/http://www.thethirstypig.
 draft: false
 location: Dodger Game Taiwan My Town
 cuisine: []
+placeId: "0x80c2c6f954005675:0x9e94554f839c09df"
 ---
 
 The Dodger have a great promotion working with the different cultures and communities, called My Town. They honor the heritage backgrounds of the fans of the Dodgers. I made plans with my friends to attend the Taiwanese Heritage night at Dodger Stadium on the Sunday early evening game on September 6th, 2009.

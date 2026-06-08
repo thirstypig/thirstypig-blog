@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbaf55d1a355:0x159c2f03a25d29a4",
+  "venue_name": "99 Ranch Market",
+  "chips": [
+    {
+      "label": "bakery",
+      "mention_count": 38
+    },
+    {
+      "label": "fresh fish",
+      "mention_count": 11
+    },
+    {
+      "label": "taiwanese products",
+      "mention_count": 4
+    },
+    {
+      "label": "deli",
+      "mention_count": 14
+    },
+    {
+      "label": "egg tarts",
+      "mention_count": 2
+    },
+    {
+      "label": "produce",
+      "mention_count": 15
+    },
+    {
+      "label": "live seafood",
+      "mention_count": 2
+    },
+    {
+      "label": "food stands",
+      "mention_count": 8
+    },
+    {
+      "label": "salmon",
+      "mention_count": 2
+    },
+    {
+      "label": "dim sum",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-08T06:00:25Z",
+  "city": "Arcadia",
+  "key": "99-ranch-market-arcadia"
+}

@@ -17,7 +17,7 @@ tags:
 - brunch
 - cocktails
 description: Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. . . . . .
-location: Row Dtla
+location: Wayfarer Hotel
 city: Downtown LA
 region: Los Angeles
 address: 777 Alameda St, Los Angeles, CA 90021
@@ -28,6 +28,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2c79883b15553:0xa03ce8f71391d71a"
 ---
 
 Brunch at the Wayfarer Hotel in DTLA. Nice little rooftop restaurant. Bloody Mary was tasty and spicy. 
