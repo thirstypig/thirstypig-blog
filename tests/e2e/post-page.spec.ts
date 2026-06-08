@@ -119,11 +119,19 @@ test.describe("post page", () => {
 	test("page load produces no unexpected console errors", async ({ page }) => {
 		const errors: string[] = [];
 
-		// Known-benign patterns: Vercel Analytics beacons POST to /_vercel/insights/*
-		// which only exists when deployed to Vercel. In local preview + CI, these
-		// return 404 and browsers log a generic resource-load error. Not a real bug.
+		// Known-benign patterns:
+		// - Vercel Analytics: beacons POST to /_vercel/insights/* (404 outside Vercel)
+		// - AdSense: returns 403 on localhost (only activates on approved domains)
+		// - Astro dev toolbar: MIME error fires on fresh server restart before Vite
+		//   finishes dep optimisation — Astro internals, not our code
 		const isBenign = (text: string) =>
 			/_vercel\/insights/.test(text) ||
+			/googleads|doubleclick\.net/.test(text) ||
+			/astro\/runtime\/client\/dev-toolbar/.test(text) ||
+			// Vite 504 on fresh restart while dep-optimisation is still running
+			/504.*Outdated Optimize Dep/.test(text) ||
+			// AdSense 403 on localhost — WebKit omits the URL from the message
+			text.startsWith("Failed to load resource: the server responded with a status of 403") ||
 			text === "Failed to load resource: the server responded with a status of 404 (Not Found)";
 
 		page.on("console", msg => {
@@ -135,6 +143,26 @@ test.describe("post page", () => {
 		await page.waitForLoadState("networkidle");
 
 		expect(errors, `Unexpected console errors:\n${errors.join("\n")}`).toHaveLength(0);
+	});
+
+	test("'You might also enjoy' section is inside the max-w-3xl container, not flush to viewport edge", async ({ page }) => {
+		await page.goto(POST_URL);
+
+		const heading = page.getByRole("heading", { name: /you might also enjoy/i });
+		await expect(heading).toBeVisible();
+
+		// Guard against the regression fixed in this session: <slot name="related"> was
+		// outside <article>'s max-w-3xl wrapper, so RelatedPosts rendered full-width
+		// flush-left on desktop and edge-to-edge on mobile.
+		const isInsideMaxW = await heading.evaluate(el => {
+			let node: Element | null = el.parentElement;
+			while (node && node.tagName !== "MAIN") {
+				if (node.classList.contains("max-w-3xl")) return true;
+				node = node.parentElement;
+			}
+			return false;
+		});
+		expect(isInsideMaxW).toBe(true);
 	});
 
 	test("article landmark gets focused when skip link is activated", async ({ page, browserName }) => {
