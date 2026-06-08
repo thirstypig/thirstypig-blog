@@ -11,7 +11,13 @@ tags:
   - pork-belly
 cuisine:
   - BBQ
-location: Smoke Queen
+location: Smoke Queen Barbecue
+city: Garden Grove
+region: CA
+address: '12941 9th St, Garden Grove, CA 92840, USA'
+coordinates:
+  lat: 33.7747908
+  lng: -117.93249349999999
 images:
   - /images/posts/ig-2025-04-23-barbecue-at/18046824221114592.jpg
 source: instagram
