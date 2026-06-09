@@ -1,47 +1,33 @@
 ---
-title: Green Street Tavern, Pasadena
-pubDate: '2009-08-21'
+placeId: '0x80c2c370df9da1fb:0x393feec3386bfb82'
+title: 'Green Street Tavern, Pasadena'
+pubDate: 2009-08-21T00:00:00.000Z
+description: 'Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt'
 author: The Thirsty Pig
-source: thirstypig.com
-originalUrl: http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
+heroImage: /images/posts/2009-08-21-green-street-tavern-pasadena/01.jpg
 categories:
-- American
+  - American
 tags:
-- pasadena
-- american
-- tavern-fare
-- casual-dining
-description: Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy litt
-archiveUrl: https://web.archive.org/web/20161106043500/http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/
-draft: false
+  - pasadena
+  - american
+  - tavern-fare
+  - casual-dining
+cuisine:
+  - American
 location: Green Street Tavern
 city: Pasadena
 region: Pasadena
-address: 69 W Green St Pasadena, CA 91105
-cuisine:
-- American
-heroImage: /images/posts/2009-08-21-green-street-tavern-pasadena/01.jpg
+address: '69 W Green St Pasadena, CA 91105'
 images:
-- /images/posts/2009-08-21-green-street-tavern-pasadena/01.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/02.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/03.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/04.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/05.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/06.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/07.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/08.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/09.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/10.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/11.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/12.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/13.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/14.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/15.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/16.jpg
-- /images/posts/2009-08-21-green-street-tavern-pasadena/17.jpg
-placeId: "0x80c2c370df9da1fb:0x393feec3386bfb82"
+  - /images/posts/2009-08-21-green-street-tavern-pasadena/01.jpg
+  - /images/posts/2009-08-21-green-street-tavern-pasadena/02.jpg
+  - /images/posts/2009-08-21-green-street-tavern-pasadena/03.jpg
+  - /images/posts/2009-08-21-green-street-tavern-pasadena/04.jpg
+originalUrl: 'http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/'
+archiveUrl: 'https://web.archive.org/web/20161106043500/http://thirstypig.com/2009/08/21/green-street-tavern-pasadena/'
+source: thirstypig.com
+draft: false
 ---
-
 
 Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy little place with an ambient mood feel. Walking in brings you in a modest but small dining area, then to the side, you’ll find a nice room that can be used for private events. Decor with the dark lighting is better suited at night.
 
