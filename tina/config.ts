@@ -8,6 +8,7 @@ import TestingDashboard, { TestingIcon } from "./TestingDashboard";
 import StyleSheet, { StyleSheetIcon } from "./StyleSheet";
 import AdminDocs, { AdminDocsIcon } from "./AdminDocs";
 import DataQuality, { DataQualityIcon } from "./DataQuality";
+import { HeroImagePreview, ImageListPreview } from "./ImagePreview";
 
 // Shared cuisine options — single source of truth for both fields
 const CUISINE_OPTIONS = [
@@ -219,6 +220,9 @@ export default defineConfig({
             type: "image",
             name: "heroImage",
             label: "Hero Image",
+            ui: {
+              component: HeroImagePreview as unknown as string,
+            },
           },
           {
             type: "string",
@@ -289,6 +293,9 @@ export default defineConfig({
             name: "images",
             label: "Additional Images",
             list: true,
+            ui: {
+              component: ImageListPreview as unknown as string,
+            },
           },
           {
             type: "string",
