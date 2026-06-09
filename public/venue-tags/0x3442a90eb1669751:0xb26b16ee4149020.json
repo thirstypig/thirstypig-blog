@@ -7,8 +7,8 @@
       "mention_count": 261
     },
     {
-      "label": "xiaolongbao",
-      "mention_count": 147
+      "label": "xiao long bao",
+      "mention_count": 148
     },
     {
       "label": "limited seating",
@@ -16,14 +16,14 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 72
+      "mention_count": 74
     },
     {
       "label": "upstairs seating",
       "mention_count": 4
     },
     {
-      "label": "shaobing youtiao",
+      "label": "shaobing",
       "mention_count": 73
     },
     {
@@ -32,18 +32,18 @@
     },
     {
       "label": "doujiang",
-      "mention_count": 71
+      "mention_count": 70
     },
     {
-      "label": "rice ball",
-      "mention_count": 58
+      "label": "rice roll",
+      "mention_count": 59
     },
     {
-      "label": "turnip cake",
+      "label": "radish cake",
       "mention_count": 50
     }
   ],
-  "scraped_at": "2026-05-16T06:02:46Z",
+  "scraped_at": "2026-06-08T22:38:25Z",
   "city": "Taipei",
   "key": "yonghe-chinese-type-breakfast-shop--taipei"
 }

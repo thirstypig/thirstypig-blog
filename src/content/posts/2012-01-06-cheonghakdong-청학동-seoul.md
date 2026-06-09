@@ -37,6 +37,7 @@ images:
 - /images/posts/2012-01-06-cheonghakdong-청학동-seoul/11.jpg
 - /images/posts/2012-01-06-cheonghakdong-청학동-seoul/12.jpg
 - /images/posts/2012-01-06-cheonghakdong-청학동-seoul/13.jpg
+placeId: "0x357b79c68080184b:0xef76183b2cfb7828"
 ---
 
 

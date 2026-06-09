@@ -15,6 +15,10 @@
       "mention_count": 4
     },
     {
+      "label": "showroom",
+      "mention_count": 3
+    },
+    {
       "label": "natural stone",
       "mention_count": 2
     },
@@ -25,10 +29,6 @@
     {
       "label": "helpful reps",
       "mention_count": 4
-    },
-    {
-      "label": "showroom",
-      "mention_count": 3
     },
     {
       "label": "pricing",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:48:34Z",
+  "scraped_at": "2026-06-09T00:40:41Z",
   "city": "Hollywood",
   "key": "slab-hollywood"
 }

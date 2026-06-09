@@ -3,20 +3,16 @@
   "venue_name": "Tsubasa",
   "chips": [
     {
-      "label": "new ramen alley",
+      "label": "ganso ramen yokocho sapporo",
       "mention_count": 29
     },
     {
-      "label": "salmon roe",
+      "label": "ikura",
       "mention_count": 27
     },
     {
       "label": "salmon roe rice bowl",
-      "mention_count": 16
-    },
-    {
-      "label": "ultimate miso ramen",
-      "mention_count": 16
+      "mention_count": 15
     },
     {
       "label": "diced char siu",
@@ -28,7 +24,7 @@
     },
     {
       "label": "tsubasa ramen",
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "label": "yellow curly noodles",
@@ -41,9 +37,13 @@
     {
       "label": "gyoza",
       "mention_count": 11
+    },
+    {
+      "label": "sapporo ramen",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:26:37Z",
+  "scraped_at": "2026-06-09T00:26:21Z",
   "city": "Sapporo",
   "key": "味一番つばさ-tsubasa-sapporo"
 }

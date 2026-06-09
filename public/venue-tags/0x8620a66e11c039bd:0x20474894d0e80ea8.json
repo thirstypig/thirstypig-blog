@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "zydeco music",
-      "mention_count": 110
+      "mention_count": 112
     },
     {
       "label": "live music",
-      "mention_count": 265
+      "mention_count": 267
     },
     {
       "label": "frog legs",
-      "mention_count": 73
+      "mention_count": 75
     },
     {
-      "label": "bread pudding",
-      "mention_count": 173
+      "label": "gator",
+      "mention_count": 212
     },
     {
       "label": "quick seating",
       "mention_count": 6
     },
     {
-      "label": "crab beignets",
-      "mention_count": 22
+      "label": "bread pudding",
+      "mention_count": 179
     },
     {
-      "label": "cornbread",
-      "mention_count": 51
+      "label": "crab beignets",
+      "mention_count": 23
     },
     {
       "label": "live cajun music",
-      "mention_count": 5
+      "mention_count": 4
+    },
+    {
+      "label": "cornbread",
+      "mention_count": 53
     },
     {
       "label": "dancing",
-      "mention_count": 176
-    },
-    {
-      "label": "dance floor",
-      "mention_count": 31
+      "mention_count": 179
     }
   ],
-  "scraped_at": "2026-05-16T06:26:53Z",
+  "scraped_at": "2026-06-09T00:26:37Z",
   "city": "New Orleans",
   "key": "we-had-fried-green-tomatoes-fried-f-new-orlean"
 }

@@ -3,12 +3,8 @@
   "venue_name": "Erewhon Venice",
   "chips": [
     {
-      "label": "kombucha",
-      "mention_count": 8
-    },
-    {
       "label": "vegan options",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "label": "friendly staff",
@@ -41,9 +37,13 @@
     {
       "label": "prepared foods",
       "mention_count": 15
+    },
+    {
+      "label": "buffalo cauliflower",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:04:05Z",
+  "scraped_at": "2026-06-08T22:39:45Z",
   "city": "Venice",
   "key": "erewhon-natural-foods-market-venice"
 }

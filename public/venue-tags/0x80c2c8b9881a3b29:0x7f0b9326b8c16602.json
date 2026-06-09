@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2c8b9881a3b29:0x7f0b9326b8c16602",
   "venue_name": "Porky's Carnitas",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:44:31Z",
+  "chips": [
+    {
+      "label": "cochinita pibil",
+      "mention_count": 2
+    },
+    {
+      "label": "carnitas",
+      "mention_count": 44
+    },
+    {
+      "label": "chicharron taco",
+      "mention_count": 4
+    },
+    {
+      "label": "buche taco",
+      "mention_count": 2
+    },
+    {
+      "label": "choriqueka",
+      "mention_count": 2
+    },
+    {
+      "label": "handmade tortillas",
+      "mention_count": 3
+    },
+    {
+      "label": "carnitas burrito",
+      "mention_count": 2
+    },
+    {
+      "label": "helpful cashier",
+      "mention_count": 2
+    },
+    {
+      "label": "Wet Burrito Green or Red",
+      "mention_count": 2
+    },
+    {
+      "label": "red salsa",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:39:05Z",
   "city": "East LA",
   "key": "porkys-carnitas-east-la"
 }

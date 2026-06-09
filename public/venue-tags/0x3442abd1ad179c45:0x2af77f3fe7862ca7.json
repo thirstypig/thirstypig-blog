@@ -1,0 +1,49 @@
+{
+  "place_id": "0x3442abd1ad179c45:0x2af77f3fe7862ca7",
+  "venue_name": "Orange Shabu 1",
+  "chips": [
+    {
+      "label": "congee",
+      "mention_count": 665
+    },
+    {
+      "label": "almond tofu",
+      "mention_count": 235
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 16
+    },
+    {
+      "label": "orange shabu 2",
+      "mention_count": 52
+    },
+    {
+      "label": "environment",
+      "mention_count": 171
+    },
+    {
+      "label": "short rib",
+      "mention_count": 102
+    },
+    {
+      "label": "silkies",
+      "mention_count": 16
+    },
+    {
+      "label": "wagyu",
+      "mention_count": 105
+    },
+    {
+      "label": "iberico",
+      "mention_count": 42
+    },
+    {
+      "label": "sirloin",
+      "mention_count": 46
+    }
+  ],
+  "scraped_at": "2026-06-09T01:02:07Z",
+  "city": "Shanghai",
+  "key": "orange-shabu-shabu-橘色涮涮锅-shanghai"
+}

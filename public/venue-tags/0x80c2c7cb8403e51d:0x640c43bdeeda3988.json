@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "dan dan noodles",
-      "mention_count": 79
+      "mention_count": 82
     },
     {
       "label": "shrimp wontons",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "label": "outdoor seating",
@@ -16,11 +16,15 @@
     },
     {
       "label": "beef roll",
-      "mention_count": 35
+      "mention_count": 33
     },
     {
-      "label": "Beef Noodle Soup 牛肉麵",
-      "mention_count": 41
+      "label": "beef noodle soup",
+      "mention_count": 42
+    },
+    {
+      "label": "pork buns",
+      "mention_count": 16
     },
     {
       "label": "Panfried Pork Buns 生煎包",
@@ -37,13 +41,9 @@
     {
       "label": "bok choy dumplings",
       "mention_count": 10
-    },
-    {
-      "label": "vegan options",
-      "mention_count": 27
     }
   ],
-  "scraped_at": "2026-05-16T22:48:19Z",
+  "scraped_at": "2026-06-09T00:43:49Z",
   "city": "Downtown LA",
   "key": "pine-crane-downtown-l"
 }

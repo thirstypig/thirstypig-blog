@@ -23,6 +23,10 @@
       "mention_count": 19
     },
     {
+      "label": "beef bone",
+      "mention_count": 8
+    },
+    {
       "label": "glass noodles",
       "mention_count": 8
     },
@@ -37,13 +41,9 @@
     {
       "label": "kkakdugi soup",
       "mention_count": 3
-    },
-    {
-      "label": "banchan",
-      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:40:52Z",
+  "scraped_at": "2026-06-09T00:38:04Z",
   "city": "Koreatown",
   "key": "han-bat-sul-lung-tang-koreatown"
 }

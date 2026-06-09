@@ -24,7 +24,7 @@
     },
     {
       "label": "tapas",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "mac and cheese",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:08:19Z",
+  "scraped_at": "2026-06-08T22:43:26Z",
   "city": "Los Angeles",
   "key": "bacari-w-adams-los-angele"
 }

@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "macarons",
-      "mention_count": 111
+      "mention_count": 112
     },
     {
-      "label": "almond croissant",
-      "mention_count": 62
+      "label": "Chocolate Croissant Almond Croissant and Plain Croissants",
+      "mention_count": 65
     },
     {
       "label": "outdoor seating",
@@ -23,27 +23,27 @@
       "mention_count": 80
     },
     {
-      "label": "croissants",
-      "mention_count": 52
-    },
-    {
       "label": "pistachio macarons",
       "mention_count": 16
-    },
-    {
-      "label": "chocolate croissant",
-      "mention_count": 21
     },
     {
       "label": "kouign amann",
       "mention_count": 13
     },
     {
+      "label": "pain au chocolat",
+      "mention_count": 15
+    },
+    {
+      "label": "ham and cheese croissant",
+      "mention_count": 15
+    },
+    {
       "label": "lemon tart",
-      "mention_count": 14
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:38:23Z",
+  "scraped_at": "2026-06-09T00:35:47Z",
   "city": "Yountville",
   "key": "bouchon-bakery-with-the-humongous-m-yountville"
 }

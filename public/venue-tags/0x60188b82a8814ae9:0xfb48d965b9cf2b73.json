@@ -3,12 +3,12 @@
   "venue_name": "Ippudo - Roppongi",
   "chips": [
     {
-      "label": "spicy taste",
-      "mention_count": 83
+      "label": "spicy",
+      "mention_count": 87
     },
     {
-      "label": "free toppings",
-      "mention_count": 27
+      "label": "toppings",
+      "mention_count": 28
     },
     {
       "label": "happy hour",
@@ -16,19 +16,15 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 28
+      "mention_count": 22
     },
     {
       "label": "spicy ramen",
-      "mention_count": 29
-    },
-    {
-      "label": "hakata ramen",
-      "mention_count": 14
+      "mention_count": 28
     },
     {
       "label": "bean sprouts add-on",
-      "mention_count": 10
+      "mention_count": 8
     },
     {
       "label": "akamaru shin-aji",
@@ -36,14 +32,18 @@
     },
     {
       "label": "wait time",
-      "mention_count": 36
+      "mention_count": 35
     },
     {
-      "label": "vegetarian ramen",
-      "mention_count": 5
+      "label": "vegan ramen",
+      "mention_count": 4
+    },
+    {
+      "label": "very firm noodles",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T05:55:30Z",
+  "scraped_at": "2026-06-08T22:32:30Z",
   "city": "Tokyo",
   "key": "ippudo-tokyo"
 }

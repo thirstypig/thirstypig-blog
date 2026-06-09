@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "sandwiches",
-      "mention_count": 304
+      "mention_count": 329
     },
     {
-      "label": "meatball sandwich",
-      "mention_count": 50
+      "label": "cash only",
+      "mention_count": 92
     },
     {
       "label": "outdoor seating",
       "mention_count": 18
     },
     {
-      "label": "italian sandwich",
+      "label": "meatball sandwich",
+      "mention_count": 50
+    },
+    {
+      "label": "italian sandwiches",
       "mention_count": 44
     },
     {
       "label": "godmother sandwich",
-      "mention_count": 44
+      "mention_count": 43
     },
     {
       "label": "subs",
       "mention_count": 98
     },
     {
-      "label": "chicken parmesan sandwich",
+      "label": "caprese sandwich",
+      "mention_count": 23
+    },
+    {
+      "label": "chicken parm",
       "mention_count": 23
     },
     {
       "label": "prosciutto sandwich",
       "mention_count": 21
-    },
-    {
-      "label": "cash only",
-      "mention_count": 31
-    },
-    {
-      "label": "fresh bread",
-      "mention_count": 38
     }
   ],
-  "scraped_at": "2026-05-16T05:56:48Z",
+  "scraped_at": "2026-06-08T22:33:48Z",
   "city": "Santa Monica",
   "key": "bay-cities-italian-deli-bakery-santa-moni"
 }

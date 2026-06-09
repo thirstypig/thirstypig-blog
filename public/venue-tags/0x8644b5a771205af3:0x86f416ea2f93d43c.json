@@ -20,11 +20,11 @@
     },
     {
       "label": "fritters",
-      "mention_count": 90
+      "mention_count": 91
     },
     {
       "label": "long lines",
-      "mention_count": 80
+      "mention_count": 75
     },
     {
       "label": "butterfinger donut",
@@ -32,18 +32,18 @@
     },
     {
       "label": "creative donuts",
-      "mention_count": 19
+      "mention_count": 18
     },
     {
       "label": "maple cream donut",
       "mention_count": 9
     },
     {
-      "label": "voodoo doll",
-      "mention_count": 77
+      "label": "blueberry cake",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T06:25:34Z",
+  "scraped_at": "2026-06-09T00:25:37Z",
   "city": "Austin",
   "key": "voodoo-doughnut-austin"
 }

@@ -12,7 +12,11 @@
     },
     {
       "label": "signature cocktail",
-      "mention_count": 10
+      "mention_count": 11
+    },
+    {
+      "label": "quiet location",
+      "mention_count": 21
     },
     {
       "label": "five spice pork belly",
@@ -37,13 +41,9 @@
     {
       "label": "banana leaf salad",
       "mention_count": 3
-    },
-    {
-      "label": "balcony seating",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-17T19:49:51Z",
+  "scraped_at": "2026-06-09T00:45:57Z",
   "city": "Ho Chi Minh City",
   "key": "lemongrass-ho-chi-minh-city"
 }

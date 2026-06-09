@@ -11,12 +11,20 @@
       "mention_count": 43
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 6
+      "label": "store atmosphere",
+      "mention_count": 5
+    },
+    {
+      "label": "macaroons",
+      "mention_count": 5
     },
     {
       "label": "bananas foster",
       "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 6
     },
     {
       "label": "cupcakes",
@@ -31,19 +39,11 @@
       "mention_count": 5
     },
     {
-      "label": "macaroons",
-      "mention_count": 5
-    },
-    {
       "label": "sundaes",
       "mention_count": 8
-    },
-    {
-      "label": "sticky bun sundae",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:38:50Z",
+  "scraped_at": "2026-06-09T00:36:06Z",
   "city": "Manhattan Beach",
   "key": "manhattan-beach-creamery-manhattan-"
 }

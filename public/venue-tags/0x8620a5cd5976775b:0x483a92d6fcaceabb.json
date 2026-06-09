@@ -15,16 +15,20 @@
       "mention_count": 38
     },
     {
-      "label": "soufflé",
-      "mention_count": 394
-    },
-    {
       "label": "martinis",
       "mention_count": 291
     },
     {
+      "label": "pecan crusted fish",
+      "mention_count": 102
+    },
+    {
       "label": "gumbo",
       "mention_count": 239
+    },
+    {
+      "label": "soufflé",
+      "mention_count": 394
     },
     {
       "label": "quail",
@@ -35,15 +39,11 @@
       "mention_count": 97
     },
     {
-      "label": "Pecan Crusted Gulf Fish",
-      "mention_count": 102
-    },
-    {
       "label": "bananas foster",
       "mention_count": 67
     }
   ],
-  "scraped_at": "2026-06-04T20:22:29Z",
+  "scraped_at": "2026-06-09T00:52:52Z",
   "city": "New Orleans",
   "key": "commanders-palace-new-orlean"
 }

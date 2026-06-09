@@ -37,6 +37,7 @@ images:
 - /images/posts/2011-12-10-le-saleya-shanghai/10.jpg
 - /images/posts/2011-12-10-le-saleya-shanghai/11.jpg
 - /images/posts/2011-12-10-le-saleya-shanghai/12.jpg
+placeId: "0x35b2700638581e37:0x1c9efdc9bdc81553"
 ---
 
 

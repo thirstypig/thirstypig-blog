@@ -27,6 +27,10 @@
       "mention_count": 10
     },
     {
+      "label": "chili oil",
+      "mention_count": 8
+    },
+    {
       "label": "qr code ordering",
       "mention_count": 6
     },
@@ -35,15 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "chili oil",
-      "mention_count": 7
-    },
-    {
       "label": "Beef Tendon Noodle Soup",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:31:55Z",
+  "scraped_at": "2026-06-09T00:30:46Z",
   "city": "Monrovia",
   "key": "luscious-dumplings-monrovia"
 }

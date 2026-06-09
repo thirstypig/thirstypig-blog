@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "lobster roll",
-      "mention_count": 389
+      "mention_count": 390
     },
     {
       "label": "hush puppies",
@@ -20,7 +20,7 @@
     },
     {
       "label": "po boys",
-      "mention_count": 108
+      "mention_count": 109
     },
     {
       "label": "happy hour",
@@ -31,19 +31,19 @@
       "mention_count": 189
     },
     {
-      "label": "shrimp boil",
-      "mention_count": 39
-    },
-    {
       "label": "clam chowder",
       "mention_count": 47
     },
     {
       "label": "gumbo",
       "mention_count": 47
+    },
+    {
+      "label": "fried green tomatoes",
+      "mention_count": 55
     }
   ],
-  "scraped_at": "2026-05-16T06:26:26Z",
+  "scraped_at": "2026-06-09T00:26:10Z",
   "city": "New Orleans",
   "key": "peacemaker-new-orlean"
 }

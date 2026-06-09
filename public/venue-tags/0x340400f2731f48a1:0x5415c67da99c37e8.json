@@ -3,7 +3,7 @@
   "venue_name": "Din Tai Fung",
   "chips": [
     {
-      "label": "xiaolongbao",
+      "label": "xiao long bao",
       "mention_count": 258
     },
     {
@@ -12,14 +12,14 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 126
+      "mention_count": 127
     },
     {
       "label": "dim sum",
       "mention_count": 114
     },
     {
-      "label": "beef noodle soup",
+      "label": "beef noodles",
       "mention_count": 20
     },
     {
@@ -27,8 +27,8 @@
       "mention_count": 8
     },
     {
-      "label": "dan dan noodles",
-      "mention_count": 9
+      "label": "scallion noodles",
+      "mention_count": 6
     },
     {
       "label": "michelin star restaurant",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:20:16Z",
+  "scraped_at": "2026-06-09T00:21:58Z",
   "city": "Hong Kong",
   "key": "din-tai-fung-鼎泰豐-hong-kong"
 }

@@ -7,7 +7,7 @@
       "mention_count": 31
     },
     {
-      "label": "unique matcha flavors",
+      "label": "variety of matcha",
       "mention_count": 4
     },
     {
@@ -40,10 +40,10 @@
     },
     {
       "label": "kiosk ordering",
-      "mention_count": 3
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:05:00Z",
+  "scraped_at": "2026-06-08T22:40:38Z",
   "city": "Sgv",
   "key": "hot-stuff-cafe-sgv"
 }

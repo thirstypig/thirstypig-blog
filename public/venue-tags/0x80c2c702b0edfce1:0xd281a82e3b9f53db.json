@@ -8,11 +8,11 @@
     },
     {
       "label": "pool table",
-      "mention_count": 29
+      "mention_count": 28
     },
     {
       "label": "dancing",
-      "mention_count": 73
+      "mention_count": 75
     },
     {
       "label": "dance floor",
@@ -31,19 +31,19 @@
       "mention_count": 4
     },
     {
+      "label": "smoking area",
+      "mention_count": 5
+    },
+    {
       "label": "no cover charge",
       "mention_count": 3
     },
     {
       "label": "crowd",
       "mention_count": 16
-    },
-    {
-      "label": "disco",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:27:28Z",
+  "scraped_at": "2026-06-09T00:27:09Z",
   "city": "Los Angeles",
   "key": "short-stop-los-angele"
 }

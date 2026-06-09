@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pistachio cream",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "label": "italian sandwiches",
@@ -31,19 +31,19 @@
       "mention_count": 9
     },
     {
+      "label": "new yorker sandwich",
+      "mention_count": 2
+    },
+    {
       "label": "la paradiso sandwich",
       "mention_count": 3
     },
     {
       "label": "crunchy bread",
       "mention_count": 3
-    },
-    {
-      "label": "roast beef",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T22:47:04Z",
+  "scraped_at": "2026-06-09T00:42:54Z",
   "city": "Los Angeles",
   "key": "all-antico-vinaio-los-angele"
 }

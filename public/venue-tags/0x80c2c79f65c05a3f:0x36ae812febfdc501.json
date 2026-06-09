@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 646
+      "mention_count": 645
     },
     {
       "label": "rye bread",
-      "mention_count": 169
+      "mention_count": 172
     },
     {
       "label": "corned beef",
-      "mention_count": 113
+      "mention_count": 115
     },
     {
       "label": "coleslaw",
-      "mention_count": 140
+      "mention_count": 141
     },
     {
       "label": "matzo ball soup",
@@ -27,23 +27,23 @@
       "mention_count": 46
     },
     {
-      "label": "swiss cheese",
-      "mention_count": 39
-    },
-    {
       "label": "Hot Pastrami Sandwich",
       "mention_count": 21
     },
     {
+      "label": "swiss cheese",
+      "mention_count": 39
+    },
+    {
       "label": "french dip",
-      "mention_count": 22
+      "mention_count": 21
     },
     {
       "label": "sandwiches",
-      "mention_count": 116
+      "mention_count": 115
     }
   ],
-  "scraped_at": "2026-05-16T05:54:31Z",
+  "scraped_at": "2026-06-08T22:31:49Z",
   "city": "Los Angeles",
   "key": "langers-deli-la"
 }

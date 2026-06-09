@@ -7,6 +7,10 @@
       "mention_count": 30
     },
     {
+      "label": "cardamom buns",
+      "mention_count": 11
+    },
+    {
       "label": "avocado toast",
       "mention_count": 9
     },
@@ -19,31 +23,27 @@
       "mention_count": 10
     },
     {
-      "label": "monkey bread",
-      "mention_count": 5
-    },
-    {
       "label": "fresh bread",
       "mention_count": 15
+    },
+    {
+      "label": "monkey bread",
+      "mention_count": 5
     },
     {
       "label": "bagel",
       "mention_count": 18
     },
     {
-      "label": "baguettes",
-      "mention_count": 7
-    },
-    {
       "label": "almond croissant",
       "mention_count": 5
     },
     {
-      "label": "kouign amann",
-      "mention_count": 3
+      "label": "baguettes",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:38:42Z",
+  "scraped_at": "2026-06-09T00:36:01Z",
   "city": "Hollywood",
   "key": "clark-street-bread-hollywood"
 }

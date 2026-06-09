@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "cozy club",
-      "mention_count": 2
-    },
-    {
       "label": "meeting",
       "mention_count": 18
+    },
+    {
+      "label": "cozy club",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-04T20:27:50Z",
+  "scraped_at": "2026-06-09T00:56:38Z",
   "city": "Medellin",
   "key": "club-medellín-medellin"
 }

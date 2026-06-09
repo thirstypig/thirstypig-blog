@@ -19,6 +19,10 @@
       "mention_count": 2
     },
     {
+      "label": "espresso",
+      "mention_count": 4
+    },
+    {
       "label": "cappuccino",
       "mention_count": 4
     },
@@ -37,13 +41,9 @@
     {
       "label": "pastries",
       "mention_count": 4
-    },
-    {
-      "label": "coffee quality",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:28:25Z",
+  "scraped_at": "2026-06-09T00:28:07Z",
   "city": "Pasadena",
   "key": "stinkos-pasadena"
 }

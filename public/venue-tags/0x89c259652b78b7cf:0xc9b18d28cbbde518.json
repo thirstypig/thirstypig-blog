@@ -12,7 +12,11 @@
     },
     {
       "label": "long lines",
-      "mention_count": 313
+      "mention_count": 312
+    },
+    {
+      "label": "hot sauce",
+      "mention_count": 649
     },
     {
       "label": "cash only",
@@ -23,16 +27,12 @@
       "mention_count": 240
     },
     {
-      "label": "hot sauce",
-      "mention_count": 553
-    },
-    {
       "label": "food cart",
-      "mention_count": 310
+      "mention_count": 309
     },
     {
       "label": "chicken over rice",
-      "mention_count": 116
+      "mention_count": 115
     },
     {
       "label": "red sauce",
@@ -43,7 +43,7 @@
       "mention_count": 61
     }
   ],
-  "scraped_at": "2026-06-04T20:25:35Z",
+  "scraped_at": "2026-06-09T00:55:44Z",
   "city": "New York",
   "key": "halal-guys-new-york"
 }

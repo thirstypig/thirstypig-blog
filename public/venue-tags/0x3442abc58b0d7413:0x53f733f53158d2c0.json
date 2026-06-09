@@ -7,43 +7,43 @@
       "mention_count": 33
     },
     {
-      "label": "dry noodles",
-      "mention_count": 181
+      "label": "dry noodle",
+      "mention_count": 177
     },
     {
-      "label": "dining environment",
-      "mention_count": 20
+      "label": "environment",
+      "mention_count": 23
     },
     {
-      "label": "chili oil and chili flakes",
-      "mention_count": 107
+      "label": "chili oil",
+      "mention_count": 108
     },
     {
       "label": "red oil wontons",
       "mention_count": 63
     },
     {
-      "label": "jajangmyeon",
+      "label": "black bean noodles",
       "mention_count": 14
     },
     {
       "label": "fuzhou dry noodles",
-      "mention_count": 33
-    },
-    {
-      "label": "fool's noodles",
-      "mention_count": 15
+      "mention_count": 32
     },
     {
       "label": "fuzhou meatballs",
       "mention_count": 18
     },
     {
-      "label": "pan-fried chicken breast",
+      "label": "pan fried",
       "mention_count": 20
+    },
+    {
+      "label": "pork ball",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T06:11:49Z",
+  "scraped_at": "2026-06-08T23:34:27Z",
   "city": "Taipei",
   "key": "宜品福州乾拌麵-taipei"
 }

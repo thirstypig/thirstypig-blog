@@ -8,42 +8,42 @@
     },
     {
       "label": "carnitas",
-      "mention_count": 59
+      "mention_count": 61
     },
     {
       "label": "outdoor seating",
       "mention_count": 46
     },
     {
-      "label": "queso fundido sausage",
-      "mention_count": 24
+      "label": "okra beans",
+      "mention_count": 36
     },
     {
-      "label": "okra beans",
-      "mention_count": 35
+      "label": "queso fundido sausage",
+      "mention_count": 24
     },
     {
       "label": "shaded seating",
       "mention_count": 6
     },
     {
-      "label": "pina colada cobbler",
-      "mention_count": 8
+      "label": "brisket taco",
+      "mention_count": 24
     },
     {
-      "label": "brisket taco",
-      "mention_count": 23
+      "label": "pork ribs",
+      "mention_count": 31
     },
     {
       "label": "outdoor tables",
       "mention_count": 4
     },
     {
-      "label": "texas bbq",
-      "mention_count": 20
+      "label": "potato salad",
+      "mention_count": 56
     }
   ],
-  "scraped_at": "2026-05-16T06:25:09Z",
+  "scraped_at": "2026-06-09T00:25:12Z",
   "city": "San Antonio",
   "key": "texas-toast-smoked-octopus-beef-bri-san-antoni"
 }

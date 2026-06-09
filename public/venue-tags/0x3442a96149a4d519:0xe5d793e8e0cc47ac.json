@@ -3,39 +3,39 @@
   "venue_name": "My Stove at Songjiang Nanjing Station",
   "chips": [
     {
-      "label": "sesame oil chicken rice",
-      "mention_count": 72
+      "label": "sesame oil chicken",
+      "mention_count": 73
     },
     {
-      "label": "boiled chicken",
+      "label": "white cut chicken",
       "mention_count": 105
     },
     {
-      "label": "dining environment",
+      "label": "environment",
       "mention_count": 45
     },
     {
-      "label": "xi lu rou",
+      "label": "Xilu meat",
       "mention_count": 34
     },
     {
-      "label": "xiao er chicken roll",
-      "mention_count": 49
+      "label": "Chicken roll",
+      "mention_count": 50
     },
     {
-      "label": "general tso's chicken",
+      "label": "general tso",
       "mention_count": 12
     },
     {
-      "label": "michelin recommendation",
-      "mention_count": 46
+      "label": "michelin",
+      "mention_count": 47
     },
     {
       "label": "leek and pork liver",
-      "mention_count": 27
+      "mention_count": 26
     },
     {
-      "label": "salted egg yolk zucchini",
+      "label": "salted egg",
       "mention_count": 21
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 49
     }
   ],
-  "scraped_at": "2026-05-16T22:46:01Z",
+  "scraped_at": "2026-06-09T00:41:55Z",
   "city": "Taipei",
   "key": "my灶-taipei"
 }

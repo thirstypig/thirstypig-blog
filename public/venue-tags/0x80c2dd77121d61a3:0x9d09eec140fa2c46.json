@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2dd77121d61a3:0x9d09eec140fa2c46",
   "venue_name": "El Cabo Pepe's (Pepe's Red Tacos)",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:42:38Z",
+  "chips": [
+    {
+      "label": "birria",
+      "mention_count": 12
+    },
+    {
+      "label": "food truck",
+      "mention_count": 5
+    },
+    {
+      "label": "queso taco",
+      "mention_count": 2
+    },
+    {
+      "label": "sample platter",
+      "mention_count": 2
+    },
+    {
+      "label": "pickled red onion",
+      "mention_count": 2
+    },
+    {
+      "label": "birria tacos",
+      "mention_count": 2
+    },
+    {
+      "label": "menu layout",
+      "mention_count": 3
+    },
+    {
+      "label": "cilantro",
+      "mention_count": 3
+    },
+    {
+      "label": "tortillas",
+      "mention_count": 2
+    },
+    {
+      "label": "salsa",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:37Z",
   "city": "Pasadena",
   "key": "pepes-red-tacos-pasadena"
 }

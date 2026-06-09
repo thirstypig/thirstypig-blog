@@ -3,12 +3,12 @@
   "venue_name": "CUT Beverly Hills",
   "chips": [
     {
-      "label": "wolfgang puck",
-      "mention_count": 19
-    },
-    {
       "label": "wagyu",
       "mention_count": 39
+    },
+    {
+      "label": "wolfgang puck",
+      "mention_count": 19
     },
     {
       "label": "michelin star",
@@ -19,11 +19,11 @@
       "mention_count": 8
     },
     {
-      "label": "Wagyu Sliders",
+      "label": "banana cream pie",
       "mention_count": 6
     },
     {
-      "label": "banana cream pie",
+      "label": "Wagyu Sliders",
       "mention_count": 6
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:38:12Z",
+  "scraped_at": "2026-06-09T00:35:34Z",
   "city": "Beverly Hills",
   "key": "cut-beverly-hills-beverly-hi"
 }

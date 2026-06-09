@@ -7,6 +7,10 @@
       "mention_count": 17
     },
     {
+      "label": "mac and cheese",
+      "mention_count": 21
+    },
+    {
       "label": "outdoor patio",
       "mention_count": 5
     },
@@ -15,8 +19,16 @@
       "mention_count": 9
     },
     {
+      "label": "wings",
+      "mention_count": 23
+    },
+    {
       "label": "sweet potato fries",
       "mention_count": 9
+    },
+    {
+      "label": "veggie burger",
+      "mention_count": 19
     },
     {
       "label": "veggie grill",
@@ -27,23 +39,11 @@
       "mention_count": 10
     },
     {
-      "label": "crispy cauliflower",
-      "mention_count": 3
-    },
-    {
-      "label": "steakhouse burger",
-      "mention_count": 3
-    },
-    {
-      "label": "fish tacos",
-      "mention_count": 3
-    },
-    {
-      "label": "crab cake sando",
-      "mention_count": 2
+      "label": "carrot cake",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:40:48Z",
+  "scraped_at": "2026-06-09T00:38:01Z",
   "city": "Hollywood",
   "key": "veggie-grill-hollywood-dome-hollywood"
 }

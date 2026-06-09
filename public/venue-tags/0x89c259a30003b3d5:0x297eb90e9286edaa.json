@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "lesson",
-      "mention_count": 39
+      "mention_count": 38
+    },
+    {
+      "label": "club selection",
+      "mention_count": 11
     },
     {
       "label": "private lessons",
       "mention_count": 3
-    },
-    {
-      "label": "club selection",
-      "mention_count": 10
     },
     {
       "label": "club fitting",
@@ -32,7 +32,7 @@
     },
     {
       "label": "fun atmosphere",
-      "mention_count": 23
+      "mention_count": 21
     },
     {
       "label": "drills",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:37:57Z",
+  "scraped_at": "2026-06-09T00:35:20Z",
   "city": "New York",
   "key": "five-iron-golf-new-york"
 }

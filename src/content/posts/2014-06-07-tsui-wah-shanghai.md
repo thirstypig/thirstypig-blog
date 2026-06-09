@@ -71,6 +71,7 @@ images:
 - /images/posts/2014-06-07-tsui-wah-shanghai/44.jpg
 - /images/posts/2014-06-07-tsui-wah-shanghai/45.jpg
 - /images/posts/2014-06-07-tsui-wah-shanghai/46.jpg
+placeId: "0x35b27aa277883e03:0x6f02feec4f0918b"
 ---
 
 

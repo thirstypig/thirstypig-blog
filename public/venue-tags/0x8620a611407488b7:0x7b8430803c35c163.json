@@ -12,23 +12,19 @@
     },
     {
       "label": "cocktail tour",
-      "mention_count": 26
+      "mention_count": 25
     },
     {
       "label": "new orleans history",
-      "mention_count": 47
+      "mention_count": 48
     },
     {
       "label": "informative tour",
       "mention_count": 32
     },
     {
-      "label": "food and cocktail tour",
-      "mention_count": 10
-    },
-    {
       "label": "pralines",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "label": "funny guide",
@@ -40,10 +36,14 @@
     },
     {
       "label": "knowledgeable staff",
-      "mention_count": 23
+      "mention_count": 22
+    },
+    {
+      "label": "food tasting",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T06:27:09Z",
+  "scraped_at": "2026-06-09T00:26:43Z",
   "city": "New Orleans",
   "key": "dr-gumbo-food-tour-new-orlean"
 }

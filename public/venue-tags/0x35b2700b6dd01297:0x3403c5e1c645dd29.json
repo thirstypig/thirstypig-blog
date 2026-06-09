@@ -3,7 +3,7 @@
   "venue_name": "阿娘面馆",
   "chips": [
     {
-      "label": "yellow croaker noodles",
+      "label": "yellow croaker",
       "mention_count": 8
     },
     {
@@ -19,7 +19,7 @@
       "mention_count": 9
     },
     {
-      "label": "soy sauce based soup",
+      "label": "soy sauce",
       "mention_count": 3
     },
     {
@@ -31,7 +31,7 @@
       "mention_count": 2
     },
     {
-      "label": "queue",
+      "label": "matrix",
       "mention_count": 2
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "Milk",
+      "label": "Richness",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:00:27Z",
+  "scraped_at": "2026-06-08T22:37:05Z",
   "city": "Shanghai",
   "key": "a-niang-noodles-阿娘面-shanghai"
 }

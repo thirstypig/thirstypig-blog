@@ -3,32 +3,32 @@
   "venue_name": "Shang Artisan Noodle",
   "chips": [
     {
-      "label": "beef noodle soup",
-      "mention_count": 479
-    },
-    {
       "label": "hand pulled noodles",
-      "mention_count": 437
+      "mention_count": 441
     },
     {
-      "label": "limited seating",
-      "mention_count": 12
-    },
-    {
-      "label": "dan dan noodles",
-      "mention_count": 283
-    },
-    {
-      "label": "spicy wontons",
-      "mention_count": 225
+      "label": "beef noodle soup",
+      "mention_count": 483
     },
     {
       "label": "bar seating",
-      "mention_count": 22
+      "mention_count": 69
+    },
+    {
+      "label": "dan dan noodles",
+      "mention_count": 285
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 216
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 11
     },
     {
       "label": "knife cut noodles",
-      "mention_count": 161
+      "mention_count": 162
     },
     {
       "label": "pork belly",
@@ -39,11 +39,11 @@
       "mention_count": 120
     },
     {
-      "label": "Beef Shank Noodle with Knife Cut Noodles and Spicy Wonton",
-      "mention_count": 80
+      "label": "handmade noodles",
+      "mention_count": 91
     }
   ],
-  "scraped_at": "2026-05-16T22:47:56Z",
+  "scraped_at": "2026-06-09T00:43:32Z",
   "city": "Las Vegas",
   "key": "shang-artisan-noodle-las-vegas"
 }

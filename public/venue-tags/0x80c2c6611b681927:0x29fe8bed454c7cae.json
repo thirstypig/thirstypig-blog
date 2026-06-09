@@ -3,24 +3,32 @@
   "venue_name": "Majordomo",
   "chips": [
     {
+      "label": "bo ssam",
+      "mention_count": 29
+    },
+    {
       "label": "short rib",
       "mention_count": 96
     },
     {
-      "label": "bo ssam",
+      "label": "outdoor seating",
       "mention_count": 28
-    },
-    {
-      "label": "bar seating",
-      "mention_count": 9
     },
     {
       "label": "mushroom crispy rice",
       "mention_count": 31
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 28
+      "label": "crispy pork belly",
+      "mention_count": 23
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 7
+    },
+    {
+      "label": "fried cauliflower",
+      "mention_count": 15
     },
     {
       "label": "little gem salad",
@@ -31,19 +39,11 @@
       "mention_count": 18
     },
     {
-      "label": "pork shoulder",
-      "mention_count": 12
-    },
-    {
-      "label": "Fried Cauliflower TG",
-      "mention_count": 15
-    },
-    {
       "label": "whole plate short rib",
-      "mention_count": 16
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T05:55:55Z",
+  "scraped_at": "2026-06-08T22:32:55Z",
   "city": "Los Angeles",
   "key": "majordomo-dtla"
 }

@@ -3,47 +3,47 @@
   "venue_name": "Rossoblu",
   "chips": [
     {
-      "label": "Tortelloni",
-      "mention_count": 26
+      "label": "bolognese",
+      "mention_count": 28
     },
     {
-      "label": "tagliatelle",
-      "mention_count": 37
+      "label": "Tortelloni",
+      "mention_count": 25
     },
     {
       "label": "outdoor seating",
       "mention_count": 24
     },
     {
-      "label": "Tiramisu Cake and Pumpkin Olive Oil Cake",
-      "mention_count": 13
+      "label": "tagliatelle",
+      "mention_count": 36
     },
     {
-      "label": "brodo",
-      "mention_count": 12
+      "label": "Tiramisu Cake and Pumpkin Olive Oil Cake",
+      "mention_count": 13
     },
     {
       "label": "happy hour",
       "mention_count": 4
     },
     {
-      "label": "pork meatballs",
-      "mention_count": 7
+      "label": "brodo",
+      "mention_count": 12
     },
     {
-      "label": "bolognese",
-      "mention_count": 9
+      "label": "pork meatballs",
+      "mention_count": 7
     },
     {
       "label": "Seafood Fritto Misto Calabrian Dipping Sauce Salsa Rosa",
       "mention_count": 3
     },
     {
-      "label": "pork shoulder",
+      "label": "branzino",
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:31:33Z",
+  "scraped_at": "2026-06-09T00:30:24Z",
   "city": "Downtown LA",
   "key": "rossoblu-downtown-l"
 }

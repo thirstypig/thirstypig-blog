@@ -7,24 +7,28 @@
       "mention_count": 21
     },
     {
-      "label": "mambos chicken",
-      "mention_count": 3
+      "label": "roast pork",
+      "mention_count": 11
     },
     {
       "label": "outdoor seating",
       "mention_count": 11
     },
     {
-      "label": "roast pork",
-      "mention_count": 11
+      "label": "mambos chicken",
+      "mention_count": 3
     },
     {
       "label": "Rice & Beans Combo with Maduros",
       "mention_count": 2
     },
     {
-      "label": "mojo sauce",
-      "mention_count": 4
+      "label": "sangria",
+      "mention_count": 9
+    },
+    {
+      "label": "media noche",
+      "mention_count": 3
     },
     {
       "label": "avocado salad",
@@ -37,13 +41,9 @@
     {
       "label": "yucca",
       "mention_count": 6
-    },
-    {
-      "label": "friendly employees",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-17T19:49:24Z",
+  "scraped_at": "2026-06-09T00:45:47Z",
   "city": "Glendale",
   "key": "mambos-glendale"
 }

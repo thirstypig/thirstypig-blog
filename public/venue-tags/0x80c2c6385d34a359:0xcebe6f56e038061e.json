@@ -7,19 +7,15 @@
       "mention_count": 2
     },
     {
+      "label": "creme brûlée",
+      "mention_count": 3
+    },
+    {
       "label": "kaiseki course",
       "mention_count": 3
     },
     {
-      "label": "Udon Noodle or Zosui Rice Soup",
-      "mention_count": 5
-    },
-    {
       "label": "king crab",
-      "mention_count": 3
-    },
-    {
-      "label": "creme brûlée",
       "mention_count": 3
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "freshness",
       "mention_count": 2
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:44:58Z",
+  "scraped_at": "2026-06-09T00:41:11Z",
   "city": "Little Tokyo",
   "key": "kagaya-little-tok"
 }

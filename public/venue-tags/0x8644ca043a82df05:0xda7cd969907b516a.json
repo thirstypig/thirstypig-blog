@@ -20,7 +20,7 @@
     },
     {
       "label": "live music",
-      "mention_count": 13
+      "mention_count": 12
     },
     {
       "label": "carnitas taco",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:25:56Z",
+  "scraped_at": "2026-06-09T00:25:59Z",
   "city": "Austin",
   "key": "pacos-tacos-austin"
 }

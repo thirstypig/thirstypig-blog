@@ -4,11 +4,7 @@
   "chips": [
     {
       "label": "teriyaki plate",
-      "mention_count": 10
-    },
-    {
-      "label": "bbq chicken",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "label": "island fire chicken",
@@ -28,22 +24,26 @@
     },
     {
       "label": "macaroni salad",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "label": "rude cashier",
       "mention_count": 2
     },
     {
-      "label": "spam musubi",
-      "mention_count": 5
+      "label": "Kalbi Short Ribs",
+      "mention_count": 2
     },
     {
       "label": "online ordering",
       "mention_count": 2
+    },
+    {
+      "label": "politeness",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-17T16:43:40Z",
+  "scraped_at": "2026-06-09T00:44:28Z",
   "city": "Arcadia",
   "key": "ono-hawaiian-grill-arcadia"
 }

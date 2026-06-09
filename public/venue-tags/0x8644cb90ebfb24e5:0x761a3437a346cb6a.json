@@ -3,12 +3,16 @@
   "venue_name": "Veracruz All Natural",
   "chips": [
     {
-      "label": "agua fresca",
-      "mention_count": 131
+      "label": "al pastor taco",
+      "mention_count": 112
     },
     {
       "label": "outdoor seating",
       "mention_count": 31
+    },
+    {
+      "label": "agua fresca",
+      "mention_count": 133
     },
     {
       "label": "Migas Taco La Reyna Taco and Al Pastor Taco",
@@ -16,11 +20,11 @@
     },
     {
       "label": "vegan tacos",
-      "mention_count": 33
+      "mention_count": 31
     },
     {
       "label": "vegan options",
-      "mention_count": 110
+      "mention_count": 105
     },
     {
       "label": "smoothies",
@@ -36,14 +40,10 @@
     },
     {
       "label": "barbacoa",
-      "mention_count": 57
-    },
-    {
-      "label": "shrimp tacos",
       "mention_count": 56
     }
   ],
-  "scraped_at": "2026-05-16T06:25:45Z",
+  "scraped_at": "2026-06-09T00:25:48Z",
   "city": "Austin",
   "key": "veracruz-all-natural-austin"
 }

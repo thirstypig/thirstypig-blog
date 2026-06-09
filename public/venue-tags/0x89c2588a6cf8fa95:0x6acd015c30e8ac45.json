@@ -8,7 +8,7 @@
     },
     {
       "label": "sauerkraut",
-      "mention_count": 85
+      "mention_count": 87
     },
     {
       "label": "cash only",
@@ -20,30 +20,30 @@
     },
     {
       "label": "juices",
-      "mention_count": 138
+      "mention_count": 137
     },
     {
-      "label": "milkshakes",
-      "mention_count": 50
-    },
-    {
-      "label": "banana daiquiri",
-      "mention_count": 13
+      "label": "shake",
+      "mention_count": 51
     },
     {
       "label": "grilled hot dogs",
-      "mention_count": 11
-    },
-    {
-      "label": "chili",
-      "mention_count": 77
+      "mention_count": 18
     },
     {
       "label": "affordability",
-      "mention_count": 24
+      "mention_count": 52
+    },
+    {
+      "label": "banana daiquiri",
+      "mention_count": 12
+    },
+    {
+      "label": "chili",
+      "mention_count": 79
     }
   ],
-  "scraped_at": "2026-05-16T06:29:42Z",
+  "scraped_at": "2026-06-09T00:28:45Z",
   "city": "New York",
   "key": "grays-papaya-new-york"
 }

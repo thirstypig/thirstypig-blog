@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "hand rolls",
-      "mention_count": 24
+      "mention_count": 22
     },
     {
       "label": "bar stool seating",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:00:59Z",
+  "scraped_at": "2026-06-08T22:37:25Z",
   "city": "Studio City",
   "key": "poke-bowls-forever-studio-cit"
 }

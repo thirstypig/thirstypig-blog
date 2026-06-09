@@ -7,20 +7,12 @@
       "mention_count": 47
     },
     {
-      "label": "kbbq",
-      "mention_count": 24
-    },
-    {
       "label": "banchan",
       "mention_count": 27
     },
     {
       "label": "steamed egg",
       "mention_count": 12
-    },
-    {
-      "label": "meat quality",
-      "mention_count": 13
     },
     {
       "label": "premium beef combo",
@@ -31,19 +23,27 @@
       "mention_count": 10
     },
     {
+      "label": "kbbq",
+      "mention_count": 25
+    },
+    {
+      "label": "rib eye",
+      "mention_count": 6
+    },
+    {
       "label": "jangjorim",
       "mention_count": 5
     },
     {
-      "label": "Ginseng Chicken Soup",
-      "mention_count": 16
+      "label": "galbi jimm",
+      "mention_count": 6
     },
     {
-      "label": "congee",
-      "mention_count": 5
+      "label": "Ginseng Chicken Soup",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T06:26:45Z",
+  "scraped_at": "2026-06-09T00:26:29Z",
   "city": "Los Angeles",
   "key": "mountain-san-bbq-los-angele"
 }

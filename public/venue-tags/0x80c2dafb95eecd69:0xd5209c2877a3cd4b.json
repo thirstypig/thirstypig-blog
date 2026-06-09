@@ -20,7 +20,7 @@
     },
     {
       "label": "corn cheese",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "label": "egg with cheesecorn",
@@ -32,7 +32,7 @@
     },
     {
       "label": "sides",
-      "mention_count": 51
+      "mention_count": 52
     },
     {
       "label": "soybean soup",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:37:38Z",
+  "scraped_at": "2026-06-09T00:35:06Z",
   "city": "San Gabriel",
   "key": "kang-ho-dong-baekjeong-san-gabrie"
 }

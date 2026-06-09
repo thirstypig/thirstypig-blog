@@ -31,19 +31,19 @@
       "mention_count": 4
     },
     {
-      "label": "portions",
-      "mention_count": 7
-    },
-    {
       "label": "rice, cabbage",
       "mention_count": 2
+    },
+    {
+      "label": "portions",
+      "mention_count": 7
     },
     {
       "label": "ground pork",
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:39:20Z",
+  "scraped_at": "2026-06-09T00:36:28Z",
   "city": "Rosemead",
   "key": "monja-taiker-rosemead"
 }

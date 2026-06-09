@@ -3,47 +3,47 @@
   "venue_name": "SPOT Huashan cinema",
   "chips": [
     {
-      "label": "artistic atmosphere",
-      "mention_count": 60
+      "label": "chair",
+      "mention_count": 93
     },
     {
-      "label": "comfortable chairs",
-      "mention_count": 92
+      "label": "environment",
+      "mention_count": 48
     },
     {
       "label": "niche movies",
-      "mention_count": 29
+      "mention_count": 31
     },
     {
       "label": "art films",
-      "mention_count": 35
-    },
-    {
-      "label": "cash only",
-      "mention_count": 9
-    },
-    {
-      "label": "video selection",
       "mention_count": 34
     },
     {
-      "label": "good for strolling",
+      "label": "video",
+      "mention_count": 35
+    },
+    {
+      "label": "cash",
+      "mention_count": 9
+    },
+    {
+      "label": "strolling",
       "mention_count": 20
     },
     {
       "label": "sound effects",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "label": "size of the cinema",
       "mention_count": 10
     },
     {
-      "label": "cultural and creative products",
+      "label": "creative industries",
       "mention_count": 20
     }
   ],
-  "scraped_at": "2026-05-16T06:09:43Z",
+  "scraped_at": "2026-06-08T22:44:19Z",
   "city": "Taipei",
   "key": "spot-huashan-光點華山-taipei"
 }

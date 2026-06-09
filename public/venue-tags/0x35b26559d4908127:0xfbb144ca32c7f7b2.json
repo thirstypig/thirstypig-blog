@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "braised pork",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "label": "authentic shanghainese cuisine",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:18:03Z",
+  "scraped_at": "2026-06-09T00:13:48Z",
   "city": "Shanghai",
   "key": "restaurant-jesse-吉士-of-shanghai-shanghai"
 }

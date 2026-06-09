@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "carnitas",
-      "mention_count": 301
+      "mention_count": 300
     },
     {
       "label": "pork belly",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-06-04T20:26:09Z",
+  "scraped_at": "2026-06-09T00:56:14Z",
   "city": "Los Angeles",
   "key": "carnitas-el-momo-los-angele"
 }

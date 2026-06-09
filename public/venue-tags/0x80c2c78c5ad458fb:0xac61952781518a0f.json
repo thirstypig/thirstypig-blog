@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "relaxing atmosphere",
-      "mention_count": 36
+      "mention_count": 35
     },
     {
       "label": "fresh produce",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:39:01Z",
+  "scraped_at": "2026-06-09T00:36:14Z",
   "city": "Los Angeles",
   "key": "with-love-market-cafe-los-angele"
 }

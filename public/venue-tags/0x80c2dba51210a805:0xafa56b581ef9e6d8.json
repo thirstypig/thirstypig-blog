@@ -7,6 +7,10 @@
       "mention_count": 24
     },
     {
+      "label": "cold noodles",
+      "mention_count": 11
+    },
+    {
       "label": "cash only",
       "mention_count": 15
     },
@@ -17,10 +21,6 @@
     {
       "label": "wintermelon tea",
       "mention_count": 4
-    },
-    {
-      "label": "minced pork rice",
-      "mention_count": 11
     },
     {
       "label": "wontons",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-06-04T03:31:03Z",
+  "scraped_at": "2026-06-09T00:50:02Z",
   "city": "Arcadia",
   "key": "tofu-king-arcadia"
 }

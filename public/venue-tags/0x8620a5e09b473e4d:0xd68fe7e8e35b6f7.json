@@ -4,27 +4,27 @@
   "chips": [
     {
       "label": "beignets",
-      "mention_count": 11892
+      "mention_count": 11936
     },
     {
       "label": "cash only",
-      "mention_count": 1380
+      "mention_count": 1350
     },
     {
       "label": "live music",
-      "mention_count": 305
+      "mention_count": 302
     },
     {
-      "label": "long lines",
-      "mention_count": 946
+      "label": "donuts",
+      "mention_count": 904
     },
     {
       "label": "outdoor seating",
-      "mention_count": 229
+      "mention_count": 230
     },
     {
-      "label": "funnel cake",
-      "mention_count": 238
+      "label": "long lines",
+      "mention_count": 920
     },
     {
       "label": "quick seating",
@@ -32,18 +32,18 @@
     },
     {
       "label": "people watching",
-      "mention_count": 123
+      "mention_count": 118
     },
     {
-      "label": "fried dough",
-      "mention_count": 298
+      "label": "funnel cake",
+      "mention_count": 239
     },
     {
       "label": "jazz music",
-      "mention_count": 115
+      "mention_count": 113
     }
   ],
-  "scraped_at": "2026-05-16T06:26:56Z",
+  "scraped_at": "2026-06-09T00:26:40Z",
   "city": "New Orleans",
   "key": "cafe-du-monde-new-orlean"
 }

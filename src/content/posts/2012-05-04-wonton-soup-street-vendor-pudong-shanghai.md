@@ -35,6 +35,7 @@ images:
 - /images/posts/2012-05-04-wonton-soup-street-vendor-pudong-shanghai/08.jpg
 - /images/posts/2012-05-04-wonton-soup-street-vendor-pudong-shanghai/09.jpg
 - /images/posts/2012-05-04-wonton-soup-street-vendor-pudong-shanghai/10.jpg
+placeId: "0x35b270e712daea61:0xea0e973f87950e3d"
 ---
 
 

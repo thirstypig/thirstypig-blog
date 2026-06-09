@@ -3,20 +3,16 @@
   "venue_name": "Mitsui Japanese Restaurant",
   "chips": [
     {
-      "label": "omakase",
-      "mention_count": 330
+      "label": "set menu",
+      "mention_count": 333
     },
     {
       "label": "king crab",
       "mention_count": 46
     },
     {
-      "label": "dining environment",
-      "mention_count": 87
-    },
-    {
-      "label": "nigiri sushi",
-      "mention_count": 49
+      "label": "mood",
+      "mention_count": 85
     },
     {
       "label": "sashimi",
@@ -27,7 +23,7 @@
       "mention_count": 25
     },
     {
-      "label": "eel rice",
+      "label": "unagi don",
       "mention_count": 24
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "serving speed",
       "mention_count": 86
+    },
+    {
+      "label": "pandalidae",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T05:56:54Z",
+  "scraped_at": "2026-06-08T22:33:55Z",
   "city": "Taipei",
   "key": "mitsui-japanese-cuisine-三井日式料理-taipei"
 }

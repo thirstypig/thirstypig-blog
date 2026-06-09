@@ -12,11 +12,15 @@
     },
     {
       "label": "relaxing atmosphere",
-      "mention_count": 13
+      "mention_count": 12
     },
     {
       "label": "tai chi",
       "mention_count": 8
+    },
+    {
+      "label": "old men playing cards",
+      "mention_count": 2
     },
     {
       "label": "flower beds",
@@ -27,23 +31,19 @@
       "mention_count": 3
     },
     {
-      "label": "old men playing cards",
+      "label": "lawns",
       "mention_count": 2
-    },
-    {
-      "label": "lawn view",
-      "mention_count": 2
-    },
-    {
-      "label": "walking",
-      "mention_count": 13
     },
     {
       "label": "fountain",
       "mention_count": 4
+    },
+    {
+      "label": "walking",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:17:12Z",
+  "scraped_at": "2026-06-08T23:51:28Z",
   "city": "Shanghai",
   "key": "复兴汇-fuxinghui-shanghai-shanghai"
 }

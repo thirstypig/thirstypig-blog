@@ -4,26 +4,26 @@
   "chips": [
     {
       "label": "fried dumplings",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "label": "beef noodles",
-      "mention_count": 106
+      "mention_count": 109
     },
     {
-      "label": "clean environment",
+      "label": "environment",
       "mention_count": 12
     },
     {
-      "label": "beef soup",
+      "label": "beef-based soups",
       "mention_count": 12
     },
     {
       "label": "scallion pancake",
-      "mention_count": 25
+      "mention_count": 26
     },
     {
-      "label": "stewed beef",
+      "label": "simmered",
       "mention_count": 56
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "label": "tendon",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "soy milk",
@@ -43,7 +43,7 @@
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T22:46:20Z",
+  "scraped_at": "2026-06-09T00:42:09Z",
   "city": "Taipei",
   "key": "張家清真黃牛肉麵館-changs-halal-beef-noodles-taipei"
 }

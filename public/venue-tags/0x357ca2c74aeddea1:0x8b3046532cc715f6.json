@@ -1,8 +1,49 @@
 {
   "place_id": "0x357ca2c74aeddea1:0x8b3046532cc715f6",
   "venue_name": "Gyeongbokgung Palace",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:18:24Z",
+  "chips": [
+    {
+      "label": "hanbok",
+      "mention_count": 556
+    },
+    {
+      "label": "geunjeongjeon",
+      "mention_count": 70
+    },
+    {
+      "label": "hanbok rental",
+      "mention_count": 352
+    },
+    {
+      "label": "free entry with hanbok",
+      "mention_count": 146
+    },
+    {
+      "label": "joseon dynasty",
+      "mention_count": 17
+    },
+    {
+      "label": "gyeonghoeru",
+      "mention_count": 114
+    },
+    {
+      "label": "gwanghwamun",
+      "mention_count": 28
+    },
+    {
+      "label": "changing of the guard",
+      "mention_count": 287
+    },
+    {
+      "label": "palace",
+      "mention_count": 770
+    },
+    {
+      "label": "hyangwonjeong",
+      "mention_count": 25
+    }
+  ],
+  "scraped_at": "2026-06-09T00:13:55Z",
   "city": "Seoul",
   "key": "gyeongbokgung-palace-경복궁-seoul"
 }

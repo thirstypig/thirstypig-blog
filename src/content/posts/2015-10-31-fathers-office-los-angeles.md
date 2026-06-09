@@ -25,6 +25,7 @@ images:
 - /images/posts/2015-10-31-fathers-office-los-angeles/02.jpg
 - /images/posts/2015-10-31-fathers-office-los-angeles/03.jpg
 - /images/posts/2015-10-31-fathers-office-los-angeles/04.jpg
+placeId: "0x80c2b982519fa5ad:0xa0ca452e7a9eed4b"
 ---
 
 

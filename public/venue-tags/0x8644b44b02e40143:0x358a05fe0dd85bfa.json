@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "burrata",
-      "mention_count": 51
+      "mention_count": 53
     },
     {
       "label": "ice cream sandwich",
-      "mention_count": 53
+      "mention_count": 54
     },
     {
       "label": "outdoor seating",
@@ -24,7 +24,7 @@
     },
     {
       "label": "bar seating",
-      "mention_count": 15
+      "mention_count": 33
     },
     {
       "label": "octopus",
@@ -43,7 +43,7 @@
       "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T06:25:59Z",
+  "scraped_at": "2026-06-09T00:26:01Z",
   "city": "Austin",
   "key": "launderette-austin"
 }

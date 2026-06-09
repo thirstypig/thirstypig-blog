@@ -4,23 +4,19 @@
   "chips": [
     {
       "label": "hamachi crudo",
-      "mention_count": 11
+      "mention_count": 13
     },
     {
-      "label": "pork belly",
+      "label": "pork belly buns",
       "mention_count": 23
     },
     {
       "label": "outdoor seating",
-      "mention_count": 10
+      "mention_count": 13
     },
     {
       "label": "brussel sprouts",
       "mention_count": 24
-    },
-    {
-      "label": "pork belly buns",
-      "mention_count": 11
     },
     {
       "label": "chicken karage",
@@ -32,7 +28,7 @@
     },
     {
       "label": "beet fries",
-      "mention_count": 10
+      "mention_count": 9
     },
     {
       "label": "hand rolls",
@@ -41,9 +37,13 @@
     {
       "label": "food truck",
       "mention_count": 16
+    },
+    {
+      "label": "katsu chicken",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:25:20Z",
+  "scraped_at": "2026-06-09T00:25:23Z",
   "city": "Austin",
   "key": "east-side-king-austin"
 }

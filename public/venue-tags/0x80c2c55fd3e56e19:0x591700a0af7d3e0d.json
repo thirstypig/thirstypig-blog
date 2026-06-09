@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "peking duck",
-      "mention_count": 300
+      "mention_count": 311
     },
     {
       "label": "filet mignon",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "label": "crispy skin",
-      "mention_count": 39
+      "mention_count": 42
     },
     {
       "label": "duck soup",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:40:06Z",
+  "scraped_at": "2026-06-09T00:37:16Z",
   "city": "Monterey Park",
   "key": "duck-house-monterey-p"
 }

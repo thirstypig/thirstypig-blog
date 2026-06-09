@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "corned beef",
-      "mention_count": 51
+      "mention_count": 50
     },
     {
       "label": "jewish deli",
@@ -16,15 +16,15 @@
     },
     {
       "label": "pastrami",
-      "mention_count": 144
+      "mention_count": 145
     },
     {
       "label": "matzo ball soup",
-      "mention_count": 78
+      "mention_count": 79
     },
     {
       "label": "rye bread",
-      "mention_count": 44
+      "mention_count": 45
     },
     {
       "label": "potato pancakes",
@@ -43,7 +43,7 @@
       "mention_count": 24
     }
   ],
-  "scraped_at": "2026-05-16T05:54:19Z",
+  "scraped_at": "2026-06-08T22:31:37Z",
   "city": "Los Angeles",
   "key": "canters-deli-la"
 }

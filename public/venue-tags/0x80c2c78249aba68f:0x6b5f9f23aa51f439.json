@@ -3,47 +3,47 @@
   "venue_name": "Park's BBQ",
   "chips": [
     {
-      "label": "short rib soup",
+      "label": "galbi tang",
       "mention_count": 29
     },
     {
-      "label": "banchan",
-      "mention_count": 43
+      "label": "Boneless Beef Short Rib Cooked 갈비살",
+      "mention_count": 7
     },
     {
       "label": "outdoor seating",
       "mention_count": 9
     },
     {
-      "label": "marinated meats",
-      "mention_count": 38
+      "label": "banchan",
+      "mention_count": 43
     },
     {
       "label": "quick seating",
       "mention_count": 3
     },
     {
+      "label": "marinated meats",
+      "mention_count": 40
+    },
+    {
       "label": "ribeye",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "label": "brisket",
       "mention_count": 25
     },
     {
-      "label": "Seafood Pancake Special 해물파전",
-      "mention_count": 12
-    },
-    {
       "label": "tofu stew",
       "mention_count": 8
     },
     {
-      "label": "michelin recognition",
-      "mention_count": 10
+      "label": "Seafood Pancake Special 해물파전",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T05:59:39Z",
+  "scraped_at": "2026-06-08T22:36:17Z",
   "city": "Koreatown",
   "key": "parks-bbq-koreatown"
 }

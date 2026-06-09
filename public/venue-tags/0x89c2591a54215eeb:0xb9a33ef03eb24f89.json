@@ -3,35 +3,47 @@
   "venue_name": "Baohaus",
   "chips": [
     {
-      "label": "brisket",
-      "mention_count": 3
-    },
-    {
       "label": "pork",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "label": "duck",
       "mention_count": 3
     },
     {
-      "label": "music",
-      "mention_count": 4
+      "label": "brisket",
+      "mention_count": 3
     },
     {
-      "label": "bowl",
+      "label": "pickles",
       "mention_count": 2
+    },
+    {
+      "label": "clam",
+      "mention_count": 2
+    },
+    {
+      "label": "szechuan",
+      "mention_count": 2
+    },
+    {
+      "label": "knicks",
+      "mention_count": 3
     },
     {
       "label": "chairman",
       "mention_count": 3
     },
     {
+      "label": "game",
+      "mention_count": 3
+    },
+    {
       "label": "the menu",
-      "mention_count": 5
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:27:25Z",
+  "scraped_at": "2026-06-09T00:27:06Z",
   "city": "New York",
   "key": "baohaus-new-york"
 }

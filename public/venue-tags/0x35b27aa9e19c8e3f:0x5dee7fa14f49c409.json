@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "margarita",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "label": "foreigner friendly",
@@ -19,27 +19,27 @@
       "mention_count": 8
     },
     {
-      "label": "guacamole",
+      "label": "fish",
       "mention_count": 2
-    },
-    {
-      "label": "food quality",
-      "mention_count": 2
-    },
-    {
-      "label": "atmosphere",
-      "mention_count": 7
     },
     {
       "label": "bar",
       "mention_count": 7
     },
     {
-      "label": "food",
-      "mention_count": 7
+      "label": "guacamole",
+      "mention_count": 2
+    },
+    {
+      "label": "salsa",
+      "mention_count": 6
+    },
+    {
+      "label": "food quality",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:21:19Z",
+  "scraped_at": "2026-06-09T00:22:43Z",
   "city": "Shanghai",
   "key": "cantina-agave-shanghai"
 }

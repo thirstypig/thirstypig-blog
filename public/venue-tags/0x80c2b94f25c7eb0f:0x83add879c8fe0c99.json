@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "prime rib",
-      "mention_count": 427
+      "mention_count": 422
     },
     {
       "label": "yorkshire pudding",
-      "mention_count": 108
+      "mention_count": 109
     },
     {
       "label": "outdoor seating",
@@ -20,7 +20,7 @@
     },
     {
       "label": "spinning salad",
-      "mention_count": 55
+      "mention_count": 54
     },
     {
       "label": "live music",
@@ -31,7 +31,7 @@
       "mention_count": 29
     },
     {
-      "label": "mac n cheese",
+      "label": "carolers",
       "mention_count": 29
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T05:59:06Z",
+  "scraped_at": "2026-06-08T22:35:44Z",
   "city": "Beverly Hills",
   "key": "lawrys-the-prime-rib-beverly-hi"
 }

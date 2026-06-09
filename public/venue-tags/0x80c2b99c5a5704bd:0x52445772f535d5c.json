@@ -3,16 +3,20 @@
   "venue_name": "Guerrilla Tacos",
   "chips": [
     {
+      "label": "sweet potato taco",
+      "mention_count": 92
+    },
+    {
       "label": "pork belly taco",
       "mention_count": 33
     },
     {
-      "label": "potato taquitos",
-      "mention_count": 38
+      "label": "outdoor seating",
+      "mention_count": 11
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 13
+      "label": "potato taquitos",
+      "mention_count": 36
     },
     {
       "label": "lomo saltado taco",
@@ -37,13 +41,9 @@
     {
       "label": "gourmet tacos",
       "mention_count": 9
-    },
-    {
-      "label": "fish tacos",
-      "mention_count": 35
     }
   ],
-  "scraped_at": "2026-05-16T06:38:39Z",
+  "scraped_at": "2026-06-09T00:35:58Z",
   "city": "Los Angeles",
   "key": "guerrilla-tacos-los-angele"
 }

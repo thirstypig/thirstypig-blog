@@ -19,14 +19,6 @@
       "mention_count": 23
     },
     {
-      "label": "birthday menu",
-      "mention_count": 30
-    },
-    {
-      "label": "chocolate lava cake",
-      "mention_count": 8
-    },
-    {
       "label": "french onion soup",
       "mention_count": 7
     },
@@ -35,15 +27,23 @@
       "mention_count": 9
     },
     {
+      "label": "chocolate lava cake",
+      "mention_count": 5
+    },
+    {
       "label": "Lobster Bisque",
       "mention_count": 4
+    },
+    {
+      "label": "cheesecake",
+      "mention_count": 6
     },
     {
       "label": "creamed spinach",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:21:28Z",
+  "scraped_at": "2026-06-09T00:22:54Z",
   "city": "Shanghai",
   "key": "happy-hour-at-mortons-the-steakhous-shanghai"
 }

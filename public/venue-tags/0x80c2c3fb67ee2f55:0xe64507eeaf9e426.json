@@ -3,16 +3,20 @@
   "venue_name": "Y&J Gourmet",
   "chips": [
     {
-      "label": "kung pao chicken",
-      "mention_count": 4
-    },
-    {
       "label": "orange chicken",
       "mention_count": 6
     },
     {
+      "label": "kung pao chicken",
+      "mention_count": 4
+    },
+    {
       "label": "won ton",
       "mention_count": 4
+    },
+    {
+      "label": "Walnut Shrimp",
+      "mention_count": 2
     },
     {
       "label": "pork buns",
@@ -27,7 +31,7 @@
       "mention_count": 3
     },
     {
-      "label": "broccoli beef",
+      "label": "Broccoli Beef",
       "mention_count": 2
     },
     {
@@ -37,13 +41,9 @@
     {
       "label": "potstickers",
       "mention_count": 2
-    },
-    {
-      "label": "generous portions",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:43:04Z",
+  "scraped_at": "2026-06-09T00:38:45Z",
   "city": "Pasadena",
   "key": "yummy-pasadena"
 }

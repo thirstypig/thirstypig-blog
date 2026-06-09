@@ -3,8 +3,8 @@
   "venue_name": "Yakitori Bar",
   "chips": [
     {
-      "label": "chicken skewers",
-      "mention_count": 33
+      "label": "grilled chicken skewers",
+      "mention_count": 4
     },
     {
       "label": "wagyu",
@@ -12,7 +12,7 @@
     },
     {
       "label": "environment",
-      "mention_count": 73
+      "mention_count": 72
     },
     {
       "label": "chicken cartilage",
@@ -35,15 +35,15 @@
       "mention_count": 7
     },
     {
-      "label": "all-you-can-drink",
-      "mention_count": 16
-    },
-    {
       "label": "chicken neck meat",
       "mention_count": 8
+    },
+    {
+      "label": "short rib",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-06-04T20:28:25Z",
+  "scraped_at": "2026-06-09T00:56:49Z",
   "city": "Taipei",
   "key": "yakitori-joint-taipei"
 }

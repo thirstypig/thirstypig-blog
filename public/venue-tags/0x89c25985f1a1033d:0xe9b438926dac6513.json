@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "elote",
-      "mention_count": 57
+      "mention_count": 58
     },
     {
       "label": "people watching",
@@ -12,38 +12,38 @@
     },
     {
       "label": "huevos rancheros",
-      "mention_count": 23
+      "mention_count": 24
+    },
+    {
+      "label": "grilled corn",
+      "mention_count": 22
     },
     {
       "label": "happy hour",
       "mention_count": 21
     },
     {
-      "label": "shrimp tacos",
-      "mention_count": 12
-    },
-    {
-      "label": "corn",
-      "mention_count": 410
+      "label": "street corn",
+      "mention_count": 15
     },
     {
       "label": "outdoor seating",
       "mention_count": 14
     },
     {
+      "label": "shrimp tacos",
+      "mention_count": 12
+    },
+    {
       "label": "corn on the cob",
       "mention_count": 8
     },
     {
-      "label": "carajillos",
-      "mention_count": 5
-    },
-    {
-      "label": "grilled corn",
-      "mention_count": 25
+      "label": "huevos con chorizo",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:26:31Z",
+  "scraped_at": "2026-06-09T00:26:15Z",
   "city": "New York",
   "key": "café-habana-new-york"
 }

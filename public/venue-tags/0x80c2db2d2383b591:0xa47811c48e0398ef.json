@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "rice roll",
-      "mention_count": 17
+      "mention_count": 19
     },
     {
       "label": "fan tuan",
@@ -15,20 +15,20 @@
       "mention_count": 9
     },
     {
-      "label": "you tiao",
-      "mention_count": 8
+      "label": "soy milk",
+      "mention_count": 32
     },
     {
-      "label": "soy milk",
-      "mention_count": 29
+      "label": "Purple Rice Roll",
+      "mention_count": 15
     },
     {
       "label": "egg omelette",
       "mention_count": 13
     },
     {
-      "label": "Daikon Cake",
-      "mention_count": 15
+      "label": "you tiao",
+      "mention_count": 8
     },
     {
       "label": "salty soy milk",
@@ -39,11 +39,11 @@
       "mention_count": 4
     },
     {
-      "label": "peanut milk",
-      "mention_count": 6
+      "label": "qr code ordering",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:04:55Z",
+  "scraped_at": "2026-06-08T22:40:33Z",
   "city": "Sgv",
   "key": "wan-chun-taiwanese-food-sgv"
 }

@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "cash only",
-      "mention_count": 666
+      "mention_count": 668
     },
     {
       "label": "clam pizza",
-      "mention_count": 72
+      "mention_count": 73
     },
     {
       "label": "outdoor seating",
@@ -16,19 +16,19 @@
     },
     {
       "label": "new york pizza",
-      "mention_count": 190
+      "mention_count": 198
     },
     {
       "label": "white pizza",
-      "mention_count": 60
+      "mention_count": 63
     },
     {
       "label": "margherita pizza",
-      "mention_count": 215
+      "mention_count": 214
     },
     {
       "label": "coal oven",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "label": "meatballs",
@@ -39,11 +39,11 @@
       "mention_count": 37
     },
     {
-      "label": "Calzone Personal",
-      "mention_count": 60
+      "label": "meatball pizza",
+      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T06:37:53Z",
+  "scraped_at": "2026-06-09T00:35:17Z",
   "city": "New York",
   "key": "lombardis-new-york"
 }

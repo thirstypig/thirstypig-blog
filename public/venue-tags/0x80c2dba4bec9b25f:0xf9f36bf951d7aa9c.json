@@ -11,28 +11,20 @@
       "mention_count": 9
     },
     {
-      "label": "Wife Special Noodle",
-      "mention_count": 3
+      "label": "dumplings",
+      "mention_count": 12
     },
     {
       "label": "House Special Fried Noodle",
       "mention_count": 6
     },
     {
-      "label": "dumplings",
-      "mention_count": 12
-    },
-    {
-      "label": "Green Onion Pancake",
+      "label": "scallion pancakes",
       "mention_count": 4
     },
     {
       "label": "chewy noodles",
       "mention_count": 5
-    },
-    {
-      "label": "Pork and Leek Dumplings",
-      "mention_count": 3
     },
     {
       "label": "lamb soup",
@@ -41,9 +33,17 @@
     {
       "label": "tender beef",
       "mention_count": 6
+    },
+    {
+      "label": "chili oil",
+      "mention_count": 4
+    },
+    {
+      "label": "michelin mention",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:33:55Z",
+  "scraped_at": "2026-06-09T00:32:07Z",
   "city": "Arcadia",
   "key": "wifes-favorite-type-of-noodles-arcadia"
 }

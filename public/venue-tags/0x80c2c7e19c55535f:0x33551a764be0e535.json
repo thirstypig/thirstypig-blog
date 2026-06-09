@@ -16,7 +16,7 @@
     },
     {
       "label": "wings",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "label": "bison burger",
@@ -36,14 +36,14 @@
     },
     {
       "label": "pricing",
-      "mention_count": 27
+      "mention_count": 26
     },
     {
       "label": "happy hour",
       "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T06:20:02Z",
+  "scraped_at": "2026-06-09T00:21:44Z",
   "city": "Los Angeles",
   "key": "the-lab-gastropub-los-angele"
 }

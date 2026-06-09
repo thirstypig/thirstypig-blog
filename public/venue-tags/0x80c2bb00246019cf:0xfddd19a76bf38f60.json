@@ -4,11 +4,15 @@
   "chips": [
     {
       "label": "kimbap",
-      "mention_count": 21
+      "mention_count": 23
     },
     {
       "label": "mushroom noodles",
-      "mention_count": 8
+      "mention_count": 9
+    },
+    {
+      "label": "chicken wings",
+      "mention_count": 9
     },
     {
       "label": "baby back ribs",
@@ -23,27 +27,23 @@
       "mention_count": 5
     },
     {
-      "label": "chicken wings",
-      "mention_count": 8
-    },
-    {
       "label": "tuna kimbap",
       "mention_count": 4
     },
     {
-      "label": "david chang",
+      "label": "cheesecake",
       "mention_count": 6
     },
     {
-      "label": "cheesecake",
-      "mention_count": 5
+      "label": "david chang",
+      "mention_count": 7
     },
     {
       "label": "lychee cocktail",
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T22:48:00Z",
+  "scraped_at": "2026-06-09T00:43:35Z",
   "city": "Los Angeles",
   "key": "super-peach-los-angele"
 }

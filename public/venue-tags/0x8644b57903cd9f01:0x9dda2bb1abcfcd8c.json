@@ -19,8 +19,8 @@
       "mention_count": 8
     },
     {
-      "label": "fudge",
-      "mention_count": 5
+      "label": "food combinations",
+      "mention_count": 15
     },
     {
       "label": "southern charm",
@@ -35,15 +35,15 @@
       "mention_count": 6
     },
     {
-      "label": "combinations",
-      "mention_count": 15
-    },
-    {
       "label": "pricing",
       "mention_count": 18
+    },
+    {
+      "label": "vanilla ice cream",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:25:40Z",
+  "scraped_at": "2026-06-09T00:25:42Z",
   "city": "Austin",
   "key": "cow-tipping-creamery-austin"
 }

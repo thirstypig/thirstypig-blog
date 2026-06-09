@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "cocktails",
-      "mention_count": 63
+      "mention_count": 61
     },
     {
       "label": "speakeasy",
@@ -19,7 +19,7 @@
       "mention_count": 3
     },
     {
-      "label": "drinks with oolong tea",
+      "label": "oolong tea",
       "mention_count": 2
     },
     {
@@ -35,15 +35,15 @@
       "mention_count": 3
     },
     {
-      "label": "sliding bookshelf",
+      "label": "famous bartender",
       "mention_count": 2
     },
     {
-      "label": "crowded",
-      "mention_count": 7
+      "label": "sliding bookshelf",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:09:08Z",
+  "scraped_at": "2026-06-08T22:44:02Z",
   "city": "Shanghai",
   "key": "speak-low-彼楼-shanghai"
 }

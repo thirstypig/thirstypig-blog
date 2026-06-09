@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "ipad",
-      "mention_count": 8
+      "mention_count": 11
     },
     {
       "label": "painless upgrade",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:29:56Z",
+  "scraped_at": "2026-06-09T00:28:59Z",
   "city": "New York",
   "key": "dzine-it-new-york"
 }

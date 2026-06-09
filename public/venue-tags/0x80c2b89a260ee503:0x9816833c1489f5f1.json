@@ -27,12 +27,12 @@
       "mention_count": 2
     },
     {
-      "label": "strawberry milk tea",
-      "mention_count": 2
-    },
-    {
       "label": "glass jars",
       "mention_count": 11
+    },
+    {
+      "label": "strawberry milk tea",
+      "mention_count": 2
     },
     {
       "label": "jasmine milk tea",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:31:39Z",
+  "scraped_at": "2026-06-09T00:30:29Z",
   "city": "Koreatown",
   "key": "ob-bear-koreatown"
 }

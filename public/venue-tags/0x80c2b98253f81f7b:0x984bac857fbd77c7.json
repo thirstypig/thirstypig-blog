@@ -3,12 +3,8 @@
   "venue_name": "Lukshon",
   "chips": [
     {
-      "label": "asian fusion foods",
-      "mention_count": 13
-    },
-    {
-      "label": "patio",
-      "mention_count": 8
+      "label": "small plates",
+      "mention_count": 5
     },
     {
       "label": "fried whole fish",
@@ -19,7 +15,11 @@
       "mention_count": 3
     },
     {
-      "label": "brussel sprouts",
+      "label": "outdoor seating",
+      "mention_count": 8
+    },
+    {
+      "label": "Brussels Sprouts",
       "mention_count": 6
     },
     {
@@ -27,23 +27,19 @@
       "mention_count": 4
     },
     {
-      "label": "butterfish",
-      "mention_count": 7
-    },
-    {
       "label": "Clam Chowder",
       "mention_count": 3
     },
     {
-      "label": "cocktails",
-      "mention_count": 5
+      "label": "asian fusion",
+      "mention_count": 13
     },
     {
       "label": "tasting menu",
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:00:01Z",
+  "scraped_at": "2026-06-08T22:36:39Z",
   "city": "Los Angeles",
   "key": "lukshon-la"
 }

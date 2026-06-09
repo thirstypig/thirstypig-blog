@@ -7,16 +7,16 @@
       "mention_count": 16
     },
     {
-      "label": "corn soup",
-      "mention_count": 7
+      "label": "hamburg steak",
+      "mention_count": 14
     },
     {
       "label": "outdoor seating",
       "mention_count": 5
     },
     {
-      "label": "hamburg steak",
-      "mention_count": 14
+      "label": "corn soup",
+      "mention_count": 7
     },
     {
       "label": "omurice",
@@ -39,11 +39,11 @@
       "mention_count": 24
     },
     {
-      "label": "Seafood Doria",
+      "label": "seafood doria",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-04T03:31:07Z",
+  "scraped_at": "2026-06-09T00:50:05Z",
   "city": "Sawtelle",
   "key": "midoh-sawtelle"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "retro",
-      "mention_count": 1422
+      "mention_count": 1977
     },
     {
       "label": "creative industries",
@@ -35,15 +35,15 @@
       "mention_count": 204
     },
     {
-      "label": "ambience",
-      "mention_count": 349
+      "label": "hipster",
+      "mention_count": 348
     },
     {
-      "label": "rooftop shrine",
-      "mention_count": 230
+      "label": "ambience",
+      "mention_count": 267
     }
   ],
-  "scraped_at": "2026-06-08T06:02:45Z",
+  "scraped_at": "2026-06-09T00:59:11Z",
   "city": "Tainan",
   "key": "hayashi-department-store-tainan"
 }

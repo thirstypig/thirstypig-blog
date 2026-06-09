@@ -8,19 +8,23 @@
     },
     {
       "label": "king crab",
-      "mention_count": 94
+      "mention_count": 95
     },
     {
       "label": "bar seating",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "label": "lobster tails",
-      "mention_count": 80
+      "mention_count": 84
+    },
+    {
+      "label": "tomahawk",
+      "mention_count": 48
     },
     {
       "label": "sashimi",
-      "mention_count": 52
+      "mention_count": 53
     },
     {
       "label": "miso chilean sea bass",
@@ -28,7 +32,7 @@
     },
     {
       "label": "wagyu fried rice",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "label": "king crab legs",
@@ -37,13 +41,9 @@
     {
       "label": "seafood",
       "mention_count": 94
-    },
-    {
-      "label": "tom yum soup",
-      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T22:46:28Z",
+  "scraped_at": "2026-06-09T00:42:18Z",
   "city": "Downtown LA",
   "key": "niku-x-downtown-l"
 }

@@ -11,24 +11,28 @@
       "mention_count": 17
     },
     {
-      "label": "online ordering",
-      "mention_count": 14
+      "label": "comfortable seats",
+      "mention_count": 82
     },
     {
-      "label": "comfortable seats",
-      "mention_count": 78
+      "label": "online ordering",
+      "mention_count": 11
     },
     {
       "label": "kind staff",
       "mention_count": 19
     },
     {
-      "label": "worn seats",
+      "label": "torn seats",
       "mention_count": 2
     },
     {
       "label": "manual recline",
       "mention_count": 2
+    },
+    {
+      "label": "robots",
+      "mention_count": 6
     },
     {
       "label": "fried oreos",
@@ -37,13 +41,9 @@
     {
       "label": "sticky floor",
       "mention_count": 2
-    },
-    {
-      "label": "large screens",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:35:14Z",
+  "scraped_at": "2026-06-09T00:33:17Z",
   "city": "Monrovia",
   "key": "studio-movie-grill-monrovia-monrovia"
 }

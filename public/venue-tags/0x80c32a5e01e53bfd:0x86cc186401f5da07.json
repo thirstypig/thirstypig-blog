@@ -16,7 +16,7 @@
     },
     {
       "label": "japanese curry",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "curry rice",
@@ -27,12 +27,12 @@
       "mention_count": 7
     },
     {
-      "label": "beef tongue",
-      "mention_count": 8
-    },
-    {
       "label": "udon",
       "mention_count": 16
+    },
+    {
+      "label": "beef tongue",
+      "mention_count": 8
     },
     {
       "label": "seafood doria",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:05:22Z",
+  "scraped_at": "2026-06-08T22:41:00Z",
   "city": "Rowland Heights",
   "key": "country-bistro-rowland-he"
 }

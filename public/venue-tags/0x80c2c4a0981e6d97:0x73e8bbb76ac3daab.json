@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "cash only",
-      "mention_count": 106
+      "mention_count": 104
     },
     {
       "label": "pie",
@@ -24,7 +24,11 @@
     },
     {
       "label": "classic diner",
-      "mention_count": 112
+      "mention_count": 114
+    },
+    {
+      "label": "pie a la mode",
+      "mention_count": 13
     },
     {
       "label": "peach pie",
@@ -37,13 +41,9 @@
     {
       "label": "pecan pie",
       "mention_count": 13
-    },
-    {
-      "label": "cherry pie",
-      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T05:55:19Z",
+  "scraped_at": "2026-06-08T22:32:19Z",
   "city": "Pasadena",
   "key": "pie-n-burger-pasadena"
 }

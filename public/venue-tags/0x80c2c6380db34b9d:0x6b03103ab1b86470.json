@@ -3,6 +3,10 @@
   "venue_name": "Wolf & Crane Bar",
   "chips": [
     {
+      "label": "japanese whisky selection",
+      "mention_count": 34
+    },
+    {
       "label": "whiskey selection",
       "mention_count": 13
     },
@@ -11,8 +15,8 @@
       "mention_count": 12
     },
     {
-      "label": "hip hop music",
-      "mention_count": 6
+      "label": "djs",
+      "mention_count": 14
     },
     {
       "label": "happy hour",
@@ -27,23 +31,19 @@
       "mention_count": 2
     },
     {
+      "label": "whiskey flights",
+      "mention_count": 2
+    },
+    {
       "label": "creative cocktails",
       "mention_count": 3
     },
     {
       "label": "craft cocktails",
       "mention_count": 2
-    },
-    {
-      "label": "vibe",
-      "mention_count": 64
-    },
-    {
-      "label": "clean toilets",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T05:55:58Z",
+  "scraped_at": "2026-06-08T22:32:57Z",
   "city": "Los Angeles",
   "key": "wolf-crane-dtla"
 }

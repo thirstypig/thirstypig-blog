@@ -4,15 +4,11 @@
   "chips": [
     {
       "label": "shakes",
-      "mention_count": 104
+      "mention_count": 105
     },
     {
       "label": "chicken tenders",
-      "mention_count": 10
-    },
-    {
-      "label": "50s theme",
-      "mention_count": 2
+      "mention_count": 11
     },
     {
       "label": "vegan milkshake",
@@ -23,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "bacon cheese fries",
-      "mention_count": 4
+      "label": "50s theme",
+      "mention_count": 2
     },
     {
-      "label": "vanilla shake",
-      "mention_count": 5
+      "label": "bacon cheese fries",
+      "mention_count": 4
     },
     {
       "label": "vegan options",
@@ -39,11 +35,15 @@
       "mention_count": 2
     },
     {
+      "label": "chicken salad",
+      "mention_count": 5
+    },
+    {
       "label": "oreo shake",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:03:49Z",
+  "scraped_at": "2026-06-08T22:39:28Z",
   "city": "Los Angeles",
   "key": "johnny-rockets-los-angele"
 }

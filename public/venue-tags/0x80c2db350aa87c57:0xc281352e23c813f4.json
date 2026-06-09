@@ -7,10 +7,6 @@
       "mention_count": 2
     },
     {
-      "label": "fresh food",
-      "mention_count": 2
-    },
-    {
       "label": "fresh fish",
       "mention_count": 2
     },
@@ -23,15 +19,15 @@
       "mention_count": 4
     },
     {
-      "label": "tuna",
-      "mention_count": 2
+      "label": "food",
+      "mention_count": 3
     },
     {
-      "label": "food",
-      "mention_count": 4
+      "label": "tuna",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:05:52Z",
+  "scraped_at": "2026-06-08T22:41:30Z",
   "city": "San Marino",
   "key": "yoshida-sushi-san-marino"
 }

@@ -3,12 +3,20 @@
   "venue_name": "Ramenya",
   "chips": [
     {
+      "label": "pork fried rice",
+      "mention_count": 2
+    },
+    {
       "label": "laksa",
       "mention_count": 6
     },
     {
       "label": "spicy miso ramen",
-      "mention_count": 4
+      "mention_count": 5
+    },
+    {
+      "label": "Tan Tan Men",
+      "mention_count": 5
     },
     {
       "label": "geso karaage",
@@ -17,10 +25,6 @@
     {
       "label": "shoyu ramen",
       "mention_count": 3
-    },
-    {
-      "label": "Tan Tan Men",
-      "mention_count": 5
     },
     {
       "label": "soondubu",
@@ -37,13 +41,9 @@
     {
       "label": "daikon",
       "mention_count": 3
-    },
-    {
-      "label": "chashu",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:26:42Z",
+  "scraped_at": "2026-06-09T00:26:26Z",
   "city": "Los Angeles",
   "key": "ramenya-los-angele"
 }

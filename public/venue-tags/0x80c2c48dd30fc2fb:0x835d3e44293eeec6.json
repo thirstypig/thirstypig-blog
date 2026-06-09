@@ -3,47 +3,47 @@
   "venue_name": "Gus's BBQ",
   "chips": [
     {
-      "label": "tri tip",
-      "mention_count": 28
+      "label": "fried chicken",
+      "mention_count": 56
     },
     {
       "label": "brisket",
-      "mention_count": 148
+      "mention_count": 149
     },
     {
       "label": "happy hour",
       "mention_count": 33
     },
     {
-      "label": "cornbread",
-      "mention_count": 56
+      "label": "baby back ribs",
+      "mention_count": 35
     },
     {
-      "label": "baby back ribs",
-      "mention_count": 34
+      "label": "cornbread",
+      "mention_count": 56
     },
     {
       "label": "quick seating",
       "mention_count": 3
     },
     {
-      "label": "fried chicken",
-      "mention_count": 56
-    },
-    {
       "label": "jalapeño jelly",
       "mention_count": 27
+    },
+    {
+      "label": "creamed corn",
+      "mention_count": 30
     },
     {
       "label": "bar seating",
       "mention_count": 3
     },
     {
-      "label": "creamed corn",
-      "mention_count": 30
+      "label": "sweet potato fries",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-16T06:24:43Z",
+  "scraped_at": "2026-06-09T00:24:46Z",
   "city": "Pasadena",
   "key": "guss-bbq-pasadena"
 }

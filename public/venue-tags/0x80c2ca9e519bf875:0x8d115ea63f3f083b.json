@@ -3,7 +3,7 @@
   "venue_name": "El Pollo Inka Gardena Peruvian Restaurant & Nightclub",
   "chips": [
     {
-      "label": "salsa music",
+      "label": "salsa dancing",
       "mention_count": 22
     },
     {
@@ -23,27 +23,27 @@
       "mention_count": 3
     },
     {
-      "label": "arroz con pollo",
-      "mention_count": 7
-    },
-    {
       "label": "rotisserie chicken",
       "mention_count": 17
     },
     {
-      "label": "Aguadito Soup",
-      "mention_count": 3
+      "label": "arroz con pollo",
+      "mention_count": 6
     },
     {
       "label": "saltado de mariscos",
       "mention_count": 2
     },
     {
+      "label": "Aguadito Soup",
+      "mention_count": 3
+    },
+    {
       "label": "green sauce",
       "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-16T06:00:38Z",
+  "scraped_at": "2026-06-08T22:37:14Z",
   "city": "Gardena",
   "key": "peruvian-in-la-gardena"
 }

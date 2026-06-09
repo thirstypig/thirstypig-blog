@@ -7,6 +7,10 @@
       "mention_count": 8
     },
     {
+      "label": "filet mignon ramen soup",
+      "mention_count": 8
+    },
+    {
       "label": "dim sum",
       "mention_count": 11
     },
@@ -15,8 +19,8 @@
       "mention_count": 8
     },
     {
-      "label": "crispy shrimp rolls 6 酥炸虾春卷6",
-      "mention_count": 2
+      "label": "pad see ew",
+      "mention_count": 3
     },
     {
       "label": "wonton noodle soup",
@@ -31,10 +35,6 @@
       "mention_count": 2
     },
     {
-      "label": "juicy pork dumplings",
-      "mention_count": 2
-    },
-    {
       "label": "Hainan Chicken Rice",
       "mention_count": 19
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:32:54Z",
+  "scraped_at": "2026-06-09T00:31:30Z",
   "city": "Irvine",
   "key": "capital-noodle-bar-irvine"
 }

@@ -3,36 +3,36 @@
   "venue_name": "Bistro Jeanty",
   "chips": [
     {
-      "label": "cassoulet",
-      "mention_count": 39
-    },
-    {
       "label": "french onion soup",
       "mention_count": 77
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 45
+      "label": "tomato soup",
+      "mention_count": 163
     },
     {
-      "label": "tomato soup",
-      "mention_count": 160
+      "label": "outdoor seating",
+      "mention_count": 47
     },
     {
       "label": "beef bourguignon",
-      "mention_count": 50
-    },
-    {
-      "label": "happy hour",
-      "mention_count": 8
+      "mention_count": 51
     },
     {
       "label": "escargot",
       "mention_count": 56
     },
     {
+      "label": "happy hour",
+      "mention_count": 8
+    },
+    {
       "label": "bread pudding",
       "mention_count": 26
+    },
+    {
+      "label": "cassoulet",
+      "mention_count": 39
     },
     {
       "label": "short rib",
@@ -40,10 +40,10 @@
     },
     {
       "label": "mussels",
-      "mention_count": 48
+      "mention_count": 49
     }
   ],
-  "scraped_at": "2026-05-17T16:44:31Z",
+  "scraped_at": "2026-06-09T00:45:05Z",
   "city": "Yountville",
   "key": "bistro-jeanty-yountville"
 }

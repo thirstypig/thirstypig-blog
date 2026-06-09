@@ -3,19 +3,19 @@
   "venue_name": "Stop By Tea House",
   "chips": [
     {
-      "label": "comfortable space",
+      "label": "space",
       "mention_count": 17
     },
     {
-      "label": "taiwanese specialty teas",
+      "label": "taiwanese tea",
       "mention_count": 8
     },
     {
-      "label": "basement space",
-      "mention_count": 19
+      "label": "basement",
+      "mention_count": 21
     },
     {
-      "label": "oriental beauty tea",
+      "label": "dongfang meiren",
       "mention_count": 5
     },
     {
@@ -25,6 +25,10 @@
     {
       "label": "winding water banquet",
       "mention_count": 4
+    },
+    {
+      "label": "wagashi",
+      "mention_count": 2
     },
     {
       "label": "introductory tea class",
@@ -37,13 +41,9 @@
     {
       "label": "taiwanese tea ceremony",
       "mention_count": 2
-    },
-    {
-      "label": "tea selection",
-      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T06:10:34Z",
+  "scraped_at": "2026-06-08T22:49:15Z",
   "city": "Taipei",
   "key": "串門子茶館-stop-by-tea-house-taipei"
 }

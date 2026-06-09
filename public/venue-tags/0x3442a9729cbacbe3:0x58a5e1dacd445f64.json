@@ -3,19 +3,19 @@
   "venue_name": "Hi Sushi",
   "chips": [
     {
-      "label": "mentaiko squid",
+      "label": "mentaiko",
       "mention_count": 19
     },
     {
-      "label": "sea urchin hand roll",
+      "label": "sea urchin",
       "mention_count": 12
     },
     {
-      "label": "dining environment",
+      "label": "environment",
       "mention_count": 8
     },
     {
-      "label": "qr code ordering",
+      "label": "qr code",
       "mention_count": 27
     },
     {
@@ -23,8 +23,8 @@
       "mention_count": 8
     },
     {
-      "label": "tamagoyaki",
-      "mention_count": 11
+      "label": "tamago",
+      "mention_count": 12
     },
     {
       "label": "mentaiko seared salmon",
@@ -43,7 +43,7 @@
       "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-16T06:05:16Z",
+  "scraped_at": "2026-06-08T22:40:55Z",
   "city": "Taipei",
   "key": "海壽司-hi-sushi-taipei"
 }

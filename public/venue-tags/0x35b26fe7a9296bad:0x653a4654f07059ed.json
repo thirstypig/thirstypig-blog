@@ -23,11 +23,7 @@
       "mention_count": 2
     },
     {
-      "label": "spicy food",
-      "mention_count": 3
-    },
-    {
-      "label": "hotel",
+      "label": "food",
       "mention_count": 2
     },
     {
@@ -35,15 +31,19 @@
       "mention_count": 4
     },
     {
-      "label": "food",
-      "mention_count": 2
+      "label": "spicy food",
+      "mention_count": 3
     },
     {
       "label": "manicure",
       "mention_count": 2
+    },
+    {
+      "label": "hotel",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T05:55:44Z",
+  "scraped_at": "2026-06-08T22:32:44Z",
   "city": "Shanghai",
   "key": "haidilao-shanghai"
 }

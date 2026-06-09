@@ -3,10 +3,6 @@
   "venue_name": "Babbo",
   "chips": [
     {
-      "label": "100 layer lasagna",
-      "mention_count": 11
-    },
-    {
       "label": "tasting menu",
       "mention_count": 54
     },
@@ -23,27 +19,31 @@
       "mention_count": 43
     },
     {
-      "label": "lobster busiate",
-      "mention_count": 20
-    },
-    {
       "label": "black spaghetti",
       "mention_count": 16
     },
     {
-      "label": "osso bucco",
-      "mention_count": 12
+      "label": "lobster busiate",
+      "mention_count": 19
+    },
+    {
+      "label": "pappardelle bolognese",
+      "mention_count": 14
+    },
+    {
+      "label": "100 layer lasagna",
+      "mention_count": 11
     },
     {
       "label": "garganelli",
       "mention_count": 10
     },
     {
-      "label": "olive oil cake",
+      "label": "branzino",
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:32:20Z",
+  "scraped_at": "2026-06-09T00:31:10Z",
   "city": "New York",
   "key": "babbo-new-york"
 }

@@ -3,12 +3,16 @@
   "venue_name": "Super Tortas D.F.",
   "chips": [
     {
-      "label": "torta cubana",
+      "label": "tortas cubanas",
       "mention_count": 12
     },
     {
-      "label": "milanese",
+      "label": "milanesa",
       "mention_count": 5
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 8
     },
     {
       "label": "cuban sandwich",
@@ -19,19 +23,11 @@
       "mention_count": 2
     },
     {
-      "label": "sandwiches",
-      "mention_count": 8
-    },
-    {
-      "label": "chipotle sauce",
+      "label": "chipotle",
       "mention_count": 3
     },
     {
       "label": "cash only",
-      "mention_count": 2
-    },
-    {
-      "label": "size of the sandwiches",
       "mention_count": 2
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "food truck",
       "mention_count": 3
+    },
+    {
+      "label": "chorizo",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:17:58Z",
+  "scraped_at": "2026-06-09T00:11:54Z",
   "city": "Los Angeles",
   "key": "super-tortas-df-los-angele"
 }

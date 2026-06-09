@@ -7,6 +7,10 @@
       "mention_count": 4
     },
     {
+      "label": "yellowtail collar",
+      "mention_count": 4
+    },
+    {
       "label": "cauliflower",
       "mention_count": 6
     },
@@ -19,12 +23,16 @@
       "mention_count": 5
     },
     {
-      "label": "open kitchen",
-      "mention_count": 3
+      "label": "chirashi",
+      "mention_count": 2
     },
     {
-      "label": "robata",
-      "mention_count": 5
+      "label": "open kitchen",
+      "mention_count": 2
+    },
+    {
+      "label": "Shishito Peppers",
+      "mention_count": 2
     },
     {
       "label": "spicy food",
@@ -33,17 +41,9 @@
     {
       "label": "birthday celebration",
       "mention_count": 4
-    },
-    {
-      "label": "prawns",
-      "mention_count": 2
-    },
-    {
-      "label": "date night",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:38:31Z",
+  "scraped_at": "2026-06-09T00:35:52Z",
   "city": "Downtown LA",
   "key": "inko-nito-downtown-l"
 }

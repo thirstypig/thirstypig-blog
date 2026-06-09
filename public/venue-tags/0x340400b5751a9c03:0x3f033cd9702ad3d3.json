@@ -3,47 +3,47 @@
   "venue_name": "Tim Ho Wan",
   "chips": [
     {
-      "label": "char siu bao",
-      "mention_count": 237
+      "label": "bbq pork bun",
+      "mention_count": 245
     },
     {
-      "label": "melon bread",
+      "label": "melon pan",
       "mention_count": 33
     },
     {
       "label": "michelin star",
-      "mention_count": 196
+      "mention_count": 200
     },
     {
       "label": "har gow",
-      "mention_count": 86
+      "mention_count": 90
+    },
+    {
+      "label": "lo mai gai",
+      "mention_count": 30
     },
     {
       "label": "turnip cake",
       "mention_count": 39
     },
     {
-      "label": "malay cake",
+      "label": "malay sponge cake",
       "mention_count": 22
     },
     {
       "label": "pork buns",
-      "mention_count": 36
+      "mention_count": 38
     },
     {
-      "label": "pork liver rice rolls",
+      "label": "pork liver",
       "mention_count": 17
     },
     {
-      "label": "crispy char siu bao",
-      "mention_count": 15
-    },
-    {
-      "label": "snow mountain char siu bao",
-      "mention_count": 12
+      "label": "steamed meatball",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T05:55:27Z",
+  "scraped_at": "2026-06-08T22:32:27Z",
   "city": "Hong Kong",
   "key": "tim-ho-wan-hk"
 }

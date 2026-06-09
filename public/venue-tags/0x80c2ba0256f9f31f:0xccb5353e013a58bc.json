@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "italian food",
-      "mention_count": 31
+      "mention_count": 33
     },
     {
       "label": "bruschetta",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "label": "happy hour",
@@ -20,10 +20,6 @@
     },
     {
       "label": "tiramisu",
-      "mention_count": 6
-    },
-    {
-      "label": "homemade pasta",
       "mention_count": 6
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "mushroom fettuccine",
       "mention_count": 2
+    },
+    {
+      "label": "foccacia",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:45:25Z",
+  "scraped_at": "2026-06-09T00:41:31Z",
   "city": "Culver City",
   "key": "sara-the-wine-bar-culver-cit"
 }

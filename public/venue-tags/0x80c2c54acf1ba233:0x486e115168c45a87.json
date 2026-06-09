@@ -7,16 +7,16 @@
       "mention_count": 5
     },
     {
+      "label": "crepe",
+      "mention_count": 9
+    },
+    {
       "label": "cream puffs",
       "mention_count": 6
     },
     {
       "label": "wife cake",
       "mention_count": 19
-    },
-    {
-      "label": "crepe cake",
-      "mention_count": 8
     },
     {
       "label": "egg tarts",
@@ -35,7 +35,7 @@
       "mention_count": 10
     },
     {
-      "label": "green tea cake",
+      "label": "vanilla crepe cake",
       "mention_count": 3
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-04T20:25:43Z",
+  "scraped_at": "2026-06-09T00:55:49Z",
   "city": "Alhambra",
   "key": "woos-crepe-alhambra"
 }

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x357ca2f0170eb10d:0x74fab4159d54fc61",
+  "venue_name": "Yoogane",
+  "chips": [
+    {
+      "label": "dakgalbi",
+      "mention_count": 37
+    },
+    {
+      "label": "cheese dakgalbi",
+      "mention_count": 5
+    },
+    {
+      "label": "kimchi",
+      "mention_count": 24
+    },
+    {
+      "label": "dakgalbi portion size",
+      "mention_count": 2
+    },
+    {
+      "label": "spicy",
+      "mention_count": 30
+    },
+    {
+      "label": "spicy chicken",
+      "mention_count": 5
+    },
+    {
+      "label": "rice cake",
+      "mention_count": 2
+    },
+    {
+      "label": "fried rice",
+      "mention_count": 18
+    },
+    {
+      "label": "halal",
+      "mention_count": 3
+    },
+    {
+      "label": "side dishes",
+      "mention_count": 14
+    }
+  ],
+  "scraped_at": "2026-06-09T01:03:39Z",
+  "city": "Seoul",
+  "key": "yoogane-유가네닭갈비-seoul"
+}

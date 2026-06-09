@@ -35,15 +35,15 @@
       "mention_count": 6
     },
     {
-      "label": "area",
-      "mention_count": 2
+      "label": "history",
+      "mention_count": 4
     },
     {
-      "label": "grapevine",
-      "mention_count": 3
+      "label": "area",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:41:22Z",
+  "scraped_at": "2026-06-09T00:38:15Z",
   "city": "San Gabriel Valley",
   "key": "hidden-gem-in-the-sgv-san-gabrie"
 }

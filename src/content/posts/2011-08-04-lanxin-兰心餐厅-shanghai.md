@@ -37,6 +37,7 @@ images:
 - /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/10.jpg
 - /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/11.jpg
 - /images/posts/2011-08-04-lanxin-兰心餐厅-shanghai/12.jpg
+placeId: "0x35b270428014b4af:0x9ce78bb059eb38e9"
 ---
 
 

@@ -8,7 +8,7 @@
     },
     {
       "label": "vegan donuts",
-      "mention_count": 65
+      "mention_count": 63
     },
     {
       "label": "creme brulee donut",
@@ -21,10 +21,6 @@
     {
       "label": "passion fruit donut",
       "mention_count": 13
-    },
-    {
-      "label": "vegan ice cream",
-      "mention_count": 2
     },
     {
       "label": "customizable donuts",
@@ -41,9 +37,13 @@
     {
       "label": "unique flavors",
       "mention_count": 24
+    },
+    {
+      "label": "speculoos",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T05:59:56Z",
+  "scraped_at": "2026-06-08T22:36:34Z",
   "city": "Los Angeles",
   "key": "donut-friend-la"
 }

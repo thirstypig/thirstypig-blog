@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "iconic bridge",
-      "mention_count": 1297
+      "mention_count": 1242
     },
     {
       "label": "manhattan skyline",
-      "mention_count": 420
+      "mention_count": 418
     },
     {
       "label": "statue of liberty",
-      "mention_count": 623
+      "mention_count": 625
     },
     {
       "label": "sunset views",
-      "mention_count": 1828
+      "mention_count": 1786
     },
     {
       "label": "city views",
-      "mention_count": 474
-    },
-    {
-      "label": "crowded",
-      "mention_count": 1140
-    },
-    {
-      "label": "pedestrian walkway",
-      "mention_count": 176
-    },
-    {
-      "label": "stunning views",
-      "mention_count": 293
+      "mention_count": 468
     },
     {
       "label": "bike lane",
-      "mention_count": 159
+      "mention_count": 273
     },
     {
-      "label": "photo opportunities",
-      "mention_count": 395
+      "label": "crowded",
+      "mention_count": 1114
+    },
+    {
+      "label": "stunning views",
+      "mention_count": 289
+    },
+    {
+      "label": "photography",
+      "mention_count": 1786
+    },
+    {
+      "label": "brooklyn",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:29:37Z",
+  "scraped_at": "2026-06-09T00:28:40Z",
   "city": "New York",
   "key": "under-the-brooklyn-bridge-new-york"
 }

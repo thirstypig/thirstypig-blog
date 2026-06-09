@@ -23,14 +23,6 @@
       "mention_count": 4
     },
     {
-      "label": "lamb dumplings",
-      "mention_count": 3
-    },
-    {
-      "label": "eggplant with garlic sauce",
-      "mention_count": 3
-    },
-    {
       "label": "dumpling skin",
       "mention_count": 3
     },
@@ -41,9 +33,17 @@
     {
       "label": "spicy food",
       "mention_count": 23
+    },
+    {
+      "label": "bok choi",
+      "mention_count": 2
+    },
+    {
+      "label": "seafood noodle soup",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:01:02Z",
+  "scraped_at": "2026-06-08T22:37:27Z",
   "city": "Arcadia",
   "key": "magic-dumplings-arcadia"
 }

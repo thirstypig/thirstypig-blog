@@ -19,10 +19,6 @@
       "mention_count": 5
     },
     {
-      "label": "bulgogi",
-      "mention_count": 22
-    },
-    {
       "label": "banchan",
       "mention_count": 14
     },
@@ -41,9 +37,13 @@
     {
       "label": "bibimbap",
       "mention_count": 16
+    },
+    {
+      "label": "portion size",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-17T16:44:18Z",
+  "scraped_at": "2026-06-09T00:44:56Z",
   "city": "Beverly Hills",
   "key": "genwa-beverly-hills"
 }

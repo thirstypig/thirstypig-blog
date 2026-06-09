@@ -23,11 +23,11 @@
       "mention_count": 4
     },
     {
-      "label": "radish cake",
+      "label": "fan tuan",
       "mention_count": 2
     },
     {
-      "label": "fan tuan",
+      "label": "radish cake",
       "mention_count": 2
     },
     {
@@ -35,15 +35,15 @@
       "mention_count": 13
     },
     {
-      "label": "gua bao",
+      "label": "pot stickers",
       "mention_count": 2
     },
     {
-      "label": "pot stickers",
+      "label": "gua bao",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-04T20:22:52Z",
+  "scraped_at": "2026-06-09T00:53:13Z",
   "city": "Taipei",
   "key": "four-seas-taipei"
 }

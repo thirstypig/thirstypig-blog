@@ -3,10 +3,6 @@
   "venue_name": "Stag's Leap Wine Cellars",
   "chips": [
     {
-      "label": "cabernet sauvignon",
-      "mention_count": 35
-    },
-    {
       "label": "tasting room",
       "mention_count": 34
     },
@@ -16,7 +12,7 @@
     },
     {
       "label": "knowledgeable staff",
-      "mention_count": 57
+      "mention_count": 55
     },
     {
       "label": "wine educator",
@@ -35,15 +31,19 @@
       "mention_count": 3
     },
     {
-      "label": "diversity of terroir",
-      "mention_count": 5
+      "label": "historic winery",
+      "mention_count": 2
     },
     {
-      "label": "historic winery",
+      "label": "informative staff",
+      "mention_count": 9
+    },
+    {
+      "label": "charcuterie board",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:31:17Z",
+  "scraped_at": "2026-06-09T00:30:07Z",
   "city": "Napa",
   "key": "stags-leap-wine-cellars-napa"
 }

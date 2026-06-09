@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2dd14e1f98c15:0x5834ede31c43cb48",
   "venue_name": "Bitez",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:47:10Z",
+  "chips": [
+    {
+      "label": "baked fries",
+      "mention_count": 5
+    },
+    {
+      "label": "shakes",
+      "mention_count": 9
+    },
+    {
+      "label": "clean atmosphere",
+      "mention_count": 2
+    },
+    {
+      "label": "mushroom slider",
+      "mention_count": 3
+    },
+    {
+      "label": "size of sliders",
+      "mention_count": 2
+    },
+    {
+      "label": "food court location",
+      "mention_count": 4
+    },
+    {
+      "label": "bitez flight",
+      "mention_count": 7
+    },
+    {
+      "label": "burgers",
+      "mention_count": 9
+    },
+    {
+      "label": "wings",
+      "mention_count": 4
+    },
+    {
+      "label": "burger flight",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:40:13Z",
   "city": "Hollywood",
   "key": "bitez-burger-hollywood"
 }

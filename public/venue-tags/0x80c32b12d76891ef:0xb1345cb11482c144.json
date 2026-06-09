@@ -7,16 +7,12 @@
       "mention_count": 36
     },
     {
-      "label": "boba milk tea",
-      "mention_count": 6
-    },
-    {
       "label": "long lines",
       "mention_count": 10
     },
     {
-      "label": "boba quality",
-      "mention_count": 5
+      "label": "small boba",
+      "mention_count": 7
     },
     {
       "label": "chewy boba",
@@ -25,6 +21,14 @@
     {
       "label": "tapioca pearls",
       "mention_count": 7
+    },
+    {
+      "label": "boba quality",
+      "mention_count": 4
+    },
+    {
+      "label": "boba drinks",
+      "mention_count": 6
     },
     {
       "label": "brown sugar milk tea",
@@ -37,13 +41,9 @@
     {
       "label": "mini boba",
       "mention_count": 2
-    },
-    {
-      "label": "organic milk",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:40:13Z",
+  "scraped_at": "2026-06-09T00:37:22Z",
   "city": "San Gabriel Valley",
   "key": "tiger-sugar-san-gabrie"
 }

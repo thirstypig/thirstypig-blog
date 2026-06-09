@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "croque madame",
-      "mention_count": 153
-    },
-    {
-      "label": "small plates",
-      "mention_count": 58
+      "mention_count": 152
     },
     {
       "label": "outdoor seating",
       "mention_count": 76
+    },
+    {
+      "label": "coq au vin",
+      "mention_count": 38
     },
     {
       "label": "belgian waffle",
@@ -24,7 +24,7 @@
     },
     {
       "label": "almond croissant",
-      "mention_count": 49
+      "mention_count": 48
     },
     {
       "label": "french toast",
@@ -35,15 +35,15 @@
       "mention_count": 6
     },
     {
-      "label": "saumon fume",
-      "mention_count": 33
+      "label": "small plates",
+      "mention_count": 58
     },
     {
-      "label": "Coq Au Vin",
-      "mention_count": 38
+      "label": "tarte tatin",
+      "mention_count": 37
     }
   ],
-  "scraped_at": "2026-05-16T06:32:17Z",
+  "scraped_at": "2026-06-09T00:31:08Z",
   "city": "New York",
   "key": "buvette-new-york"
 }

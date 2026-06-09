@@ -19,6 +19,10 @@
       "mention_count": 15
     },
     {
+      "label": "ayce dim sum",
+      "mention_count": 9
+    },
+    {
       "label": "pork belly",
       "mention_count": 12
     },
@@ -37,13 +41,9 @@
     {
       "label": "dumplings",
       "mention_count": 21
-    },
-    {
-      "label": "egg rolls",
-      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:33:59Z",
+  "scraped_at": "2026-06-09T00:32:10Z",
   "city": "Los Angeles",
   "key": "jiouding-hot-pot-los-angele"
 }

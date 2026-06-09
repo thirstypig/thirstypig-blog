@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "siu yuk",
-      "mention_count": 40
+      "mention_count": 52
     },
     {
       "label": "brisket",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-07T00:26:07Z",
+  "scraped_at": "2026-06-09T00:58:08Z",
   "city": "Garden Grove",
   "key": "smoke-queen-bbq-garden-grove"
 }

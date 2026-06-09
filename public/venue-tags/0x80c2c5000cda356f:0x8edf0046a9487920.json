@@ -1,13 +1,13 @@
 {
   "place_id": "0x80c2c5000cda356f:0x8edf0046a9487920",
-  "venue_name": "XiangLaLou",
+  "venue_name": "HUNAN CUISINE 湘辣楼",
   "chips": [
     {
       "label": "hunan cuisine",
-      "mention_count": 52
+      "mention_count": 55
     },
     {
-      "label": "stir-fried pork",
+      "label": "stir fried",
       "mention_count": 20
     },
     {
@@ -27,10 +27,6 @@
       "mention_count": 2
     },
     {
-      "label": "authentic hunan cuisine",
-      "mention_count": 10
-    },
-    {
       "label": "twice-cooked pork",
       "mention_count": 2
     },
@@ -39,11 +35,15 @@
       "mention_count": 2
     },
     {
+      "label": "spicy food",
+      "mention_count": 17
+    },
+    {
       "label": "chilis",
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:31:09Z",
+  "scraped_at": "2026-06-09T00:29:59Z",
   "city": "Los Angeles",
   "key": "she-said-it-is-the-best-hunan-resta-los-angele"
 }

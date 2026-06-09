@@ -27,23 +27,23 @@
       "mention_count": 3
     },
     {
-      "label": "vegan options",
-      "mention_count": 67
-    },
-    {
       "label": "poke bowl",
       "mention_count": 19
     },
     {
-      "label": "counter seating",
-      "mention_count": 10
+      "label": "vegan options",
+      "mention_count": 68
     },
     {
-      "label": "wait time",
-      "mention_count": 198
+      "label": "bar seating",
+      "mention_count": 6
+    },
+    {
+      "label": "pork cutlet bowl",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T06:24:26Z",
+  "scraped_at": "2026-06-09T00:24:29Z",
   "city": "Dtla",
   "key": "daikokuya-dtla"
 }

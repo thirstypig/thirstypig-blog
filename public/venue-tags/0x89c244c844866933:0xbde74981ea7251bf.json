@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "pie",
-      "mention_count": 434
+      "mention_count": 435
     },
     {
       "label": "ny pizza",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "label": "limited seating",
@@ -16,15 +16,15 @@
     },
     {
       "label": "fresh basil",
-      "mention_count": 50
+      "mention_count": 52
     },
     {
       "label": "square pizza",
       "mention_count": 46
     },
     {
-      "label": "cash only",
-      "mention_count": 36
+      "label": "sicilian pizza",
+      "mention_count": 20
     },
     {
       "label": "crispy crust",
@@ -40,10 +40,10 @@
     },
     {
       "label": "wait time",
-      "mention_count": 244
+      "mention_count": 238
     }
   ],
-  "scraped_at": "2026-05-16T06:32:31Z",
+  "scraped_at": "2026-06-09T00:31:22Z",
   "city": "Brooklyn",
   "key": "di-fara-pizza-brooklyn"
 }

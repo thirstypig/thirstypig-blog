@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "empire state building",
-      "mention_count": 3756
+      "mention_count": 3771
+    },
+    {
+      "label": "central park",
+      "mention_count": 2507
     },
     {
       "label": "friendly staff",
-      "mention_count": 2063
-    },
-    {
-      "label": "view of central park",
-      "mention_count": 2494
+      "mention_count": 2047
     },
     {
       "label": "sunset views",
-      "mention_count": 2841
+      "mention_count": 2862
     },
     {
-      "label": "city views",
-      "mention_count": 905
+      "label": "skyline view",
+      "mention_count": 326
     },
     {
-      "label": "spectacular views",
-      "mention_count": 378
+      "label": "view of the city",
+      "mention_count": 883
     },
     {
       "label": "elevator ride",
       "mention_count": 1571
     },
     {
-      "label": "skyline view",
-      "mention_count": 327
+      "label": "360 view",
+      "mention_count": 97
     },
     {
       "label": "crowded",
-      "mention_count": 533
+      "mention_count": 525
     },
     {
-      "label": "360 view",
-      "mention_count": 67
+      "label": "breathtaking",
+      "mention_count": 373
     }
   ],
-  "scraped_at": "2026-05-16T06:30:01Z",
+  "scraped_at": "2026-06-09T00:29:05Z",
   "city": "New York",
   "key": "top-of-the-rock-observation-deck-new-york"
 }

@@ -3,32 +3,36 @@
   "venue_name": "King Torta",
   "chips": [
     {
-      "label": "asada fries",
-      "mention_count": 65
-    },
-    {
-      "label": "asada torta",
+      "label": "carne asada torta",
       "mention_count": 42
     },
     {
       "label": "tortas",
-      "mention_count": 125
-    },
-    {
-      "label": "asada nachos",
-      "mention_count": 14
+      "mention_count": 118
     },
     {
       "label": "hard shell tacos",
       "mention_count": 13
     },
     {
-      "label": "al pastor torta",
-      "mention_count": 8
+      "label": "asada nachos",
+      "mention_count": 10
     },
     {
       "label": "super nachos",
       "mention_count": 11
+    },
+    {
+      "label": "al pastor torta",
+      "mention_count": 8
+    },
+    {
+      "label": "chile relleno torta",
+      "mention_count": 7
+    },
+    {
+      "label": "carnitas torta",
+      "mention_count": 30
     },
     {
       "label": "tostada",
@@ -37,13 +41,9 @@
     {
       "label": "guacamole fries",
       "mention_count": 6
-    },
-    {
-      "label": "chili relleno",
-      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T22:45:18Z",
+  "scraped_at": "2026-06-09T00:41:25Z",
   "city": "Los Angeles",
   "key": "king-torta-los-angele"
 }

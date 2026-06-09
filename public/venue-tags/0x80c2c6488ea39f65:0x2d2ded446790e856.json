@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "spicy food",
-      "mention_count": 170
+      "mention_count": 171
     },
     {
       "label": "bowls",
@@ -15,16 +15,12 @@
       "mention_count": 7
     },
     {
-      "label": "Takoyaki Appetizer",
+      "label": "takoyaki",
       "mention_count": 12
     },
     {
       "label": "soy broth",
-      "mention_count": 9
-    },
-    {
-      "label": "Extra Noodles Miso",
-      "mention_count": 5
+      "mention_count": 6
     },
     {
       "label": "teriyaki chicken",
@@ -35,15 +31,19 @@
       "mention_count": 18
     },
     {
-      "label": "Salt Broth Ramen with Cha-Shu Pork and Egg",
-      "mention_count": 2
-    },
-    {
       "label": "chashu pork",
       "mention_count": 3
+    },
+    {
+      "label": "spicy ramen",
+      "mention_count": 12
+    },
+    {
+      "label": "customisable ramen",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:26:40Z",
+  "scraped_at": "2026-06-09T00:26:23Z",
   "city": "Los Angeles",
   "key": "orochon-ramen-los-angele"
 }

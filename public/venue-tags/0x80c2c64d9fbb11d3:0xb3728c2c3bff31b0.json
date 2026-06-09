@@ -3,8 +3,8 @@
   "venue_name": "Walt Disney Concert Hall",
   "chips": [
     {
-      "label": "modern architecture",
-      "mention_count": 64
+      "label": "architecture",
+      "mention_count": 944
     },
     {
       "label": "garden",
@@ -12,38 +12,38 @@
     },
     {
       "label": "audio tour",
-      "mention_count": 62
+      "mention_count": 63
+    },
+    {
+      "label": "design",
+      "mention_count": 255
+    },
+    {
+      "label": "modern architecture",
+      "mention_count": 10
     },
     {
       "label": "acoustics",
-      "mention_count": 283
-    },
-    {
-      "label": "orchestra",
-      "mention_count": 163
+      "mention_count": 272
     },
     {
       "label": "organ",
       "mention_count": 36
     },
     {
+      "label": "orchestra",
+      "mention_count": 165
+    },
+    {
       "label": "free tour",
-      "mention_count": 22
+      "mention_count": 21
     },
     {
       "label": "guided tour",
       "mention_count": 30
-    },
-    {
-      "label": "rooftop garden",
-      "mention_count": 11
-    },
-    {
-      "label": "symphony",
-      "mention_count": 50
     }
   ],
-  "scraped_at": "2026-05-16T06:35:22Z",
+  "scraped_at": "2026-06-09T00:33:23Z",
   "city": "Los Angeles",
   "key": "walt-disney-concert-hall-los-angele"
 }

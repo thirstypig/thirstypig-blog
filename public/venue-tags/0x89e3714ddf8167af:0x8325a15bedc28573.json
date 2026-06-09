@@ -20,7 +20,7 @@
     },
     {
       "label": "sushi",
-      "mention_count": 26
+      "mention_count": 27
     },
     {
       "label": "chicken lo mein",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T05:58:20Z",
+  "scraped_at": "2026-06-08T22:34:58Z",
   "city": "Shanghai",
   "key": "old-shanghai-moon-restaurant-shanghai"
 }

@@ -3,35 +3,35 @@
   "venue_name": "世界豆漿大王",
   "chips": [
     {
-      "label": "xiaolongbao",
-      "mention_count": 121
+      "label": "soup dumplings",
+      "mention_count": 123
     },
     {
       "label": "salty soy milk",
-      "mention_count": 72
+      "mention_count": 71
     },
     {
-      "label": "turnip cake",
-      "mention_count": 66
+      "label": "radish cake",
+      "mention_count": 68
     },
     {
       "label": "shaobing",
-      "mention_count": 42
+      "mention_count": 44
     },
     {
       "label": "onigiri",
-      "mention_count": 38
+      "mention_count": 44
     },
     {
       "label": "danbing",
-      "mention_count": 25
+      "mention_count": 29
     },
     {
       "label": "japanese menu",
       "mention_count": 66
     },
     {
-      "label": "fried bread",
+      "label": "agepan",
       "mention_count": 11
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T06:10:53Z",
+  "scraped_at": "2026-06-08T22:49:41Z",
   "city": "Taipei",
   "key": "世界豆漿大王-taipei"
 }

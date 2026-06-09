@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pickleball",
-      "mention_count": 143
+      "mention_count": 144
     },
     {
       "label": "brisket taco",
@@ -31,19 +31,19 @@
       "mention_count": 14
     },
     {
-      "label": "live music",
-      "mention_count": 11
+      "label": "outdoor bar",
+      "mention_count": 5
     },
     {
       "label": "dog friendly",
       "mention_count": 26
     },
     {
-      "label": "outdoor bar",
-      "mention_count": 5
+      "label": "live music",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-17T16:44:53Z",
+  "scraped_at": "2026-06-09T00:45:25Z",
   "city": "Austin",
   "key": "bouldin-acres-austin"
 }

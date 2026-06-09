@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "goat birria",
-      "mention_count": 39
+      "mention_count": 40
     },
     {
       "label": "goat meat",
@@ -15,11 +15,7 @@
       "mention_count": 36
     },
     {
-      "label": "beef birria",
-      "mention_count": 6
-    },
-    {
-      "label": "quesabirria",
+      "label": "birria tacos",
       "mention_count": 8
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "cilantro",
       "mention_count": 6
+    },
+    {
+      "label": "beef birria",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:00:04Z",
+  "scraped_at": "2026-06-08T22:36:42Z",
   "city": "Los Angeles",
   "key": "birrieria-don-boni-east-la"
 }

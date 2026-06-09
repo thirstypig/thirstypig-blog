@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "build your own pizza",
-      "mention_count": 12
+      "mention_count": 11
     },
     {
       "label": "cauliflower crust",
@@ -23,8 +23,12 @@
       "mention_count": 4
     },
     {
+      "label": "customizable pizza",
+      "mention_count": 8
+    },
+    {
       "label": "toppings",
-      "mention_count": 34
+      "mention_count": 33
     },
     {
       "label": "thin crust",
@@ -37,13 +41,9 @@
     {
       "label": "online ordering",
       "mention_count": 6
-    },
-    {
-      "label": "healthy options",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:33:17Z",
+  "scraped_at": "2026-06-09T00:31:38Z",
   "city": "Irvine",
   "key": "mod-pizza-irvine"
 }

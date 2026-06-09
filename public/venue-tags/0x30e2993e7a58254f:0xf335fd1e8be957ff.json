@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "chicken rice",
-      "mention_count": 115
+      "mention_count": 106
     },
     {
-      "label": "dipping sauce",
+      "label": "nam chim",
       "mention_count": 156
     },
     {
-      "label": "restaurant atmosphere",
+      "label": "atmosphere",
       "mention_count": 10
     },
     {
-      "label": "fragrant rice",
-      "mention_count": 24
+      "label": "jasmine rice",
+      "mention_count": 28
     },
     {
       "label": "stewed chicken feet",
@@ -28,22 +28,22 @@
     },
     {
       "label": "Boiled Chicken Rice",
-      "mention_count": 22
+      "mention_count": 21
     },
     {
       "label": "large chicken pieces",
-      "mention_count": 10
+      "mention_count": 9
     },
     {
       "label": "fried chicken",
-      "mention_count": 18
+      "mention_count": 17
     },
     {
       "label": "soft chicken",
-      "mention_count": 12
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T22:45:57Z",
+  "scraped_at": "2026-06-09T00:41:53Z",
   "city": "Bangkok",
   "key": "jae-yee-chicken-rice-ขาวมนไกเจย-bangkok"
 }

@@ -19,12 +19,12 @@
       "mention_count": 18
     },
     {
-      "label": "boba",
-      "mention_count": 35
-    },
-    {
       "label": "popcorn chicken",
       "mention_count": 24
+    },
+    {
+      "label": "boba",
+      "mention_count": 30
     },
     {
       "label": "karaoke",
@@ -40,10 +40,10 @@
     },
     {
       "label": "friendly staff",
-      "mention_count": 37
+      "mention_count": 34
     }
   ],
-  "scraped_at": "2026-05-16T05:56:51Z",
+  "scraped_at": "2026-06-08T22:33:51Z",
   "city": "San Gabriel",
   "key": "factory-tea-bar-san-gabrie"
 }

@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "hand rolls",
-      "mention_count": 128
+      "mention_count": 126
     },
     {
-      "label": "bay scallop hand roll",
-      "mention_count": 15
+      "label": "hand rolled sushi",
+      "mention_count": 18
     },
     {
       "label": "limited seating",
       "mention_count": 6
     },
     {
-      "label": "toro hand roll",
-      "mention_count": 10
+      "label": "bay scallop hand roll",
+      "mention_count": 15
     },
     {
-      "label": "crab hand roll",
-      "mention_count": 14
+      "label": "toro hand roll",
+      "mention_count": 10
     },
     {
       "label": "bar seating",
@@ -31,19 +31,19 @@
       "mention_count": 14
     },
     {
+      "label": "crab hand roll",
+      "mention_count": 12
+    },
+    {
       "label": "salmon hand roll",
       "mention_count": 12
     },
     {
       "label": "crispy seaweed",
-      "mention_count": 11
-    },
-    {
-      "label": "yellow tail hand roll",
-      "mention_count": 5
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T22:45:14Z",
+  "scraped_at": "2026-06-09T00:41:22Z",
   "city": "Los Angeles",
   "key": "kazunori-the-original-hand-roll-bar-los-angele"
 }

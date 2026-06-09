@@ -12,7 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 3
+      "mention_count": 4
     },
     {
       "label": "farmer sandwich",
@@ -21,10 +21,6 @@
     {
       "label": "lemonade",
       "mention_count": 7
-    },
-    {
-      "label": "salads",
-      "mention_count": 16
     },
     {
       "label": "steak sandwich",
@@ -41,9 +37,13 @@
     {
       "label": "banh mi",
       "mention_count": 7
+    },
+    {
+      "label": "salads",
+      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T06:07:29Z",
+  "scraped_at": "2026-06-08T22:42:57Z",
   "city": "Dtla",
   "key": "mendocino-farms-dtla"
 }

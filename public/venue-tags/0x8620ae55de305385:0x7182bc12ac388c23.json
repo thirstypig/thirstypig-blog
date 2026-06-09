@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "oysters",
-      "mention_count": 298
+      "mention_count": 299
     },
     {
       "label": "gumbo",
@@ -15,12 +15,16 @@
       "mention_count": 134
     },
     {
-      "label": "chargrilled oysters",
-      "mention_count": 48
+      "label": "happy hour",
+      "mention_count": 91
     },
     {
       "label": "crab cakes",
       "mention_count": 49
+    },
+    {
+      "label": "chargrilled oysters",
+      "mention_count": 47
     },
     {
       "label": "sunset views",
@@ -31,19 +35,15 @@
       "mention_count": 47
     },
     {
-      "label": "happy hour",
-      "mention_count": 90
+      "label": "Blue Crab Pasta",
+      "mention_count": 21
     },
     {
-      "label": "BBQ Shrimp and Grits",
-      "mention_count": 25
-    },
-    {
-      "label": "outdoor seating",
-      "mention_count": 60
+      "label": "lake view",
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T06:27:14Z",
+  "scraped_at": "2026-06-09T00:26:48Z",
   "city": "New Orleans",
   "key": "blackened-catfish-and-blue-crab-new-orlean"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "intestines",
-      "mention_count": 97
+      "mention_count": 98
     },
     {
       "label": "cilantro",
@@ -12,14 +12,10 @@
     },
     {
       "label": "comfortable seating",
-      "mention_count": 54
+      "mention_count": 15
     },
     {
-      "label": "vermicelli",
-      "mention_count": 10
-    },
-    {
-      "label": "bonito soup base",
+      "label": "katsuo dashi",
       "mention_count": 22
     },
     {
@@ -27,23 +23,27 @@
       "mention_count": 14
     },
     {
-      "label": "bonito flavor",
-      "mention_count": 12
+      "label": "chilli",
+      "mention_count": 45
     },
     {
       "label": "large intestine vermicelli",
       "mention_count": 11
     },
     {
-      "label": "taipei snacks",
-      "mention_count": 5
+      "label": "bonito flavor",
+      "mention_count": 11
     },
     {
-      "label": "taiwanese food",
-      "mention_count": 8
+      "label": "long queue",
+      "mention_count": 7
+    },
+    {
+      "label": "ac units",
+      "mention_count": 32
     }
   ],
-  "scraped_at": "2026-05-16T22:46:05Z",
+  "scraped_at": "2026-06-09T00:41:58Z",
   "city": "Taipei",
   "key": "阿宗麵線-ay-chung-flour-rice-noodle-taipei"
 }

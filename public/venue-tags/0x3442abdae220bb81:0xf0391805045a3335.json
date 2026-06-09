@@ -3,12 +3,12 @@
   "venue_name": "Bar Mood Taipei",
   "chips": [
     {
-      "label": "gabriel's call",
+      "label": "gabriel",
       "mention_count": 23
     },
     {
-      "label": "mentaiko pasta",
-      "mention_count": 35
+      "label": "mentaiko",
+      "mention_count": 34
     },
     {
       "label": "turnip cake",
@@ -23,27 +23,27 @@
       "mention_count": 22
     },
     {
+      "label": "sofa",
+      "mention_count": 21
+    },
+    {
       "label": "whiskey",
       "mention_count": 52
     },
     {
       "label": "foie gras turnip cake",
-      "mention_count": 13
+      "mention_count": 11
     },
     {
-      "label": "sofa area",
-      "mention_count": 20
-    },
-    {
-      "label": "asia's top 50 bars",
+      "label": "Asia's 50 Best Bars",
       "mention_count": 10
     },
     {
-      "label": "brownie",
+      "label": "chocolate brownie",
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:01:48Z",
+  "scraped_at": "2026-06-08T22:37:55Z",
   "city": "Taipei",
   "key": "bar-mood-taipei"
 }

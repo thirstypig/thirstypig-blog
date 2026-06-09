@@ -24,26 +24,26 @@
     },
     {
       "label": "meat quality",
-      "mention_count": 9
+      "mention_count": 7
     },
     {
       "label": "vegetarian options",
       "mention_count": 4
     },
     {
-      "label": "marinated meat",
-      "mention_count": 2
+      "label": "portions",
+      "mention_count": 6
     },
     {
-      "label": "portion size",
-      "mention_count": 7
+      "label": "marinated meat",
+      "mention_count": 2
     },
     {
       "label": "kind staff",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T05:59:58Z",
+  "scraped_at": "2026-06-08T22:36:37Z",
   "city": "Beverly Hills",
   "key": "genwa-bbq-bh"
 }

@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "dive bar",
-      "mention_count": 54
+      "mention_count": 55
     },
     {
       "label": "crispy wings",
-      "mention_count": 15
+      "mention_count": 14
     },
     {
       "label": "outdoor seating",
@@ -43,7 +43,7 @@
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-17T16:43:01Z",
+  "scraped_at": "2026-06-09T00:43:55Z",
   "city": "Los Feliz",
   "key": "ye-rustic-inn-los-feliz"
 }

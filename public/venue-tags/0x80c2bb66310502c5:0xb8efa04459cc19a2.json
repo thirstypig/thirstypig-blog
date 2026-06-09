@@ -31,19 +31,19 @@
       "mention_count": 3
     },
     {
+      "label": "buffalo cauliflower",
+      "mention_count": 2
+    },
+    {
       "label": "asparagus",
       "mention_count": 4
     },
     {
       "label": "smashed sweet potatoes",
       "mention_count": 2
-    },
-    {
-      "label": "carolina pulled pork",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-17T19:49:47Z",
+  "scraped_at": "2026-06-09T00:45:53Z",
   "city": "Los Angeles",
   "key": "wood-ranch-los-angeles"
 }

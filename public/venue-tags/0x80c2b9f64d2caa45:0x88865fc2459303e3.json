@@ -8,27 +8,23 @@
     },
     {
       "label": "pork belly rice",
-      "mention_count": 17
-    },
-    {
-      "label": "braised pork belly rice",
-      "mention_count": 34
+      "mention_count": 18
     },
     {
       "label": "spicy wontons",
-      "mention_count": 28
+      "mention_count": 31
     },
     {
-      "label": "sesame cold noodles",
+      "label": "sesame cold noodle",
       "mention_count": 20
+    },
+    {
+      "label": "Braised Pork Belly Rice",
+      "mention_count": 37
     },
     {
       "label": "custard filled french toast",
       "mention_count": 13
-    },
-    {
-      "label": "pastries",
-      "mention_count": 24
     },
     {
       "label": "egg tart",
@@ -36,14 +32,18 @@
     },
     {
       "label": "beef noodle soup",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
-      "label": "helpful cashier",
+      "label": "lu rou fan",
       "mention_count": 6
+    },
+    {
+      "label": "chicken rice",
+      "mention_count": 33
     }
   ],
-  "scraped_at": "2026-05-16T22:47:52Z",
+  "scraped_at": "2026-06-09T00:43:29Z",
   "city": "Los Angeles",
   "key": "lius-cafe-los-angele"
 }

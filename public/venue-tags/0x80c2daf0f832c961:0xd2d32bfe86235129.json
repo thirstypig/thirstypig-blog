@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "marinated beef",
-      "mention_count": 22
+      "mention_count": 23
     },
     {
       "label": "all you can eat",
@@ -17,6 +17,10 @@
     {
       "label": "filet mignon",
       "mention_count": 11
+    },
+    {
+      "label": "ribs",
+      "mention_count": 20
     },
     {
       "label": "beef tongue",
@@ -32,18 +36,14 @@
     },
     {
       "label": "salad bar",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "cook your own meat",
       "mention_count": 2
-    },
-    {
-      "label": "galbi",
-      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T06:35:48Z",
+  "scraped_at": "2026-06-09T00:33:42Z",
   "city": "San Gabriel",
   "key": "hooshik-san-gabrie"
 }

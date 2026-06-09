@@ -3,6 +3,10 @@
   "venue_name": "Chiquita Bonita",
   "chips": [
     {
+      "label": "taquitos",
+      "mention_count": 16
+    },
+    {
       "label": "albondiga soup",
       "mention_count": 4
     },
@@ -11,8 +15,8 @@
       "mention_count": 11
     },
     {
-      "label": "taquitos",
-      "mention_count": 16
+      "label": "chicken taquitos",
+      "mention_count": 3
     },
     {
       "label": "chicken enchilada",
@@ -31,19 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "chimichangas",
+      "label": "chimichanga",
       "mention_count": 3
     },
     {
       "label": "pozole",
       "mention_count": 5
-    },
-    {
-      "label": "hole in the wall",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:28:12Z",
+  "scraped_at": "2026-06-09T00:27:53Z",
   "city": "Pasadena",
   "key": "chiquita-bonita-pasadena"
 }

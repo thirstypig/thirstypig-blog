@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "smash burgers",
-      "mention_count": 47
+      "mention_count": 48
     },
     {
       "label": "chicken sandwich",
@@ -19,10 +19,6 @@
       "mention_count": 15
     },
     {
-      "label": "limited seating",
-      "mention_count": 5
-    },
-    {
       "label": "deluxe burger",
       "mention_count": 11
     },
@@ -32,18 +28,22 @@
     },
     {
       "label": "pickled onions",
-      "mention_count": 8
+      "mention_count": 9
+    },
+    {
+      "label": "gf bun",
+      "mention_count": 6
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 5
     },
     {
       "label": "chocolate chip cookie",
       "mention_count": 6
-    },
-    {
-      "label": "gf bun",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T22:47:40Z",
+  "scraped_at": "2026-06-09T00:43:21Z",
   "city": "Seattle",
   "key": "ox-burger-seattle"
 }

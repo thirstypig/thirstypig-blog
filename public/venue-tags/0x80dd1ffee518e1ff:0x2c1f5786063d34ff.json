@@ -7,12 +7,16 @@
       "mention_count": 21
     },
     {
+      "label": "fisherman seafood market",
+      "mention_count": 5
+    },
+    {
       "label": "spot prawn",
       "mention_count": 6
     },
     {
       "label": "rock crab",
-      "mention_count": 6
+      "mention_count": 5
     },
     {
       "label": "cash only",
@@ -21,10 +25,6 @@
     {
       "label": "stone crabs",
       "mention_count": 3
-    },
-    {
-      "label": "fisherman seafood market",
-      "mention_count": 4
     },
     {
       "label": "fresh crabs",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:40:59Z",
+  "scraped_at": "2026-06-09T00:38:10Z",
   "city": "Orange County",
   "key": "went-to-dory-fleet-seafood-marley-l-orange-cou"
 }

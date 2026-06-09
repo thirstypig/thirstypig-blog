@@ -31,19 +31,19 @@
       "mention_count": 5
     },
     {
+      "label": "short rib",
+      "mention_count": 5
+    },
+    {
+      "label": "sake pairing",
+      "mention_count": 2
+    },
+    {
       "label": "Beef Sashimi",
       "mention_count": 2
-    },
-    {
-      "label": "sake pairings",
-      "mention_count": 2
-    },
-    {
-      "label": "Short Ribs",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-06-04T03:31:33Z",
+  "scraped_at": "2026-06-09T00:50:29Z",
   "city": "Torrance",
   "key": "wagyu-butcher-torrance"
 }

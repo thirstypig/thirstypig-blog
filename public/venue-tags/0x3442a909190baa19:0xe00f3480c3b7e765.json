@@ -3,47 +3,47 @@
   "venue_name": "Mala Hot Pot Ximen Branch",
   "chips": [
     {
-      "label": "shabu-shabu",
+      "label": "spicy hot pot",
+      "mention_count": 95
+    },
+    {
+      "label": "shabu",
       "mention_count": 74
     },
     {
-      "label": "haagen-dazs ice cream",
-      "mention_count": 55
+      "label": "atmosphere",
+      "mention_count": 181
     },
     {
-      "label": "dining environment",
-      "mention_count": 182
+      "label": "haagen-dazs ice cream",
+      "mention_count": 53
     },
     {
       "label": "unlimited refill",
-      "mention_count": 70
+      "mention_count": 69
     },
     {
-      "label": "spicy hot pot",
-      "mention_count": 96
-    },
-    {
-      "label": "all-you-can-eat",
+      "label": "all you can eat",
       "mention_count": 107
     },
     {
-      "label": "scallops",
+      "label": "mizuhopecten yessoensis",
       "mention_count": 56
     },
     {
+      "label": "nam chim",
+      "mention_count": 33
+    },
+    {
       "label": "spicy hot pot base",
-      "mention_count": 34
+      "mention_count": 35
     },
     {
-      "label": "sauce area",
-      "mention_count": 32
-    },
-    {
-      "label": "unlimited meat refill",
-      "mention_count": 29
+      "label": "cash only",
+      "mention_count": 39
     }
   ],
-  "scraped_at": "2026-05-16T22:46:12Z",
+  "scraped_at": "2026-06-09T00:42:03Z",
   "city": "Taipei",
   "key": "yuan-yang-mala-hotpot-taipei"
 }

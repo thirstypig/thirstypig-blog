@@ -7,7 +7,7 @@
       "mention_count": 18
     },
     {
-      "label": "muljjolmyeon",
+      "label": "jjolmyeon",
       "mention_count": 4
     },
     {
@@ -23,7 +23,7 @@
       "mention_count": 2
     },
     {
-      "label": "kiosk ordering",
+      "label": "kiosk",
       "mention_count": 2
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:19:18Z",
+  "scraped_at": "2026-06-09T00:21:00Z",
   "city": "Seoul",
   "key": "석관동-떡볶이-seoul"
 }

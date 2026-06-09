@@ -31,8 +31,8 @@
       "mention_count": 5
     },
     {
-      "label": "desserts",
-      "mention_count": 32
+      "label": "croissant sandwich",
+      "mention_count": 4
     },
     {
       "label": "delicate tea cups",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:47:24Z",
+  "scraped_at": "2026-06-09T00:43:09Z",
   "city": "Glendale",
   "key": "portos-glendale"
 }

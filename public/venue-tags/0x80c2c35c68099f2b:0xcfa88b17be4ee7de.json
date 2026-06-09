@@ -8,7 +8,7 @@
     },
     {
       "label": "diane salad",
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "label": "outdoor seating",
@@ -36,14 +36,14 @@
     },
     {
       "label": "chicken salad",
-      "mention_count": 12
+      "mention_count": 11
     },
     {
       "label": "sweet potato fries",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:02:24Z",
+  "scraped_at": "2026-06-08T22:38:03Z",
   "city": "Pasadena",
   "key": "the-famous-pasadena-salad-pasadena"
 }

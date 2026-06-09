@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "lobster roll",
-      "mention_count": 93
+      "mention_count": 94
     },
     {
       "label": "rooftop",
-      "mention_count": 137
+      "mention_count": 136
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 76
-    },
-    {
-      "label": "chandeliers",
-      "mention_count": 59
+      "label": "city views",
+      "mention_count": 6
     },
     {
       "label": "truffle fries",
       "mention_count": 70
     },
     {
-      "label": "city views",
-      "mention_count": 7
+      "label": "chandeliers",
+      "mention_count": 59
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 55
     },
     {
       "label": "burrata",
-      "mention_count": 30
+      "mention_count": 31
     },
     {
-      "label": "bellini",
-      "mention_count": 27
+      "label": "crispy artichokes",
+      "mention_count": 22
     },
     {
       "label": "breathtaking views",
       "mention_count": 5
     },
     {
-      "label": "Crispy Artichokes",
-      "mention_count": 22
+      "label": "bellini",
+      "mention_count": 27
     }
   ],
-  "scraped_at": "2026-05-16T06:29:45Z",
+  "scraped_at": "2026-06-09T00:28:48Z",
   "city": "New York",
   "key": "rh-rooftop-restaurant-at-rh-new-yor-new-york"
 }

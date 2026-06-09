@@ -65,6 +65,7 @@ images:
 - /images/posts/2011-06-05-spicy-moment-shanghai/38.jpg
 - /images/posts/2011-06-05-spicy-moment-shanghai/39.jpg
 - /images/posts/2011-06-05-spicy-moment-shanghai/40.jpg
+placeId: "0x35b27aac834998f5:0x428da9a11bf389b8"
 ---
 
 

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2dbafa50b844d:0xeba98bdb1418c6b5",
+  "venue_name": "Moffett's Family Restaurant & Chicken Pie Shoppe",
+  "chips": [
+    {
+      "label": "pot pies",
+      "mention_count": 187
+    },
+    {
+      "label": "chicken pot pie",
+      "mention_count": 123
+    },
+    {
+      "label": "friendly atmosphere",
+      "mention_count": 18
+    },
+    {
+      "label": "beef pie",
+      "mention_count": 17
+    },
+    {
+      "label": "bread pudding",
+      "mention_count": 8
+    },
+    {
+      "label": "gravy",
+      "mention_count": 41
+    },
+    {
+      "label": "rhubarb pie",
+      "mention_count": 5
+    },
+    {
+      "label": "apple pie",
+      "mention_count": 6
+    },
+    {
+      "label": "mashed potatoes",
+      "mention_count": 17
+    },
+    {
+      "label": "fruit pies",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-09T01:03:47Z",
+  "city": "Arcadia",
+  "key": "moffetts-family-restaurant-chicken--arcadia"
+}

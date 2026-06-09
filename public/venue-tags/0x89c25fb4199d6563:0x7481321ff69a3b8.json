@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "cold italian sandwich",
-      "mention_count": 2
-    },
-    {
       "label": "corned beef",
       "mention_count": 3
+    },
+    {
+      "label": "muffuletta",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:09:02Z",
+  "scraped_at": "2026-06-08T22:43:57Z",
   "city": "Arcadia",
   "key": "stacked-sandwich-arcadia"
 }

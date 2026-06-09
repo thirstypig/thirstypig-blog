@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "brisket tacos",
-      "mention_count": 180
+      "mention_count": 179
     },
     {
       "label": "carnitas taco",
@@ -12,19 +12,15 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 29
+      "mention_count": 27
     },
     {
-      "label": "flour tortillas",
-      "mention_count": 62
+      "label": "queso",
+      "mention_count": 224
     },
     {
       "label": "covered seating",
       "mention_count": 4
-    },
-    {
-      "label": "queso",
-      "mention_count": 226
     },
     {
       "label": "pork ribs",
@@ -32,18 +28,22 @@
     },
     {
       "label": "pulled pork",
-      "mention_count": 143
+      "mention_count": 142
     },
     {
       "label": "smoked corn",
-      "mention_count": 26
+      "mention_count": 24
     },
     {
       "label": "tex mex bbq",
       "mention_count": 35
+    },
+    {
+      "label": "Chopped Brisket",
+      "mention_count": 27
     }
   ],
-  "scraped_at": "2026-05-16T06:25:37Z",
+  "scraped_at": "2026-06-09T00:25:39Z",
   "city": "Austin",
   "key": "valentinas-tex-mex-bbq-austin"
 }

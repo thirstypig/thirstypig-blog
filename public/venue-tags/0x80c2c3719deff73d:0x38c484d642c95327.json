@@ -11,6 +11,10 @@
       "mention_count": 8
     },
     {
+      "label": "strawberry tequila sunrise",
+      "mention_count": 2
+    },
+    {
       "label": "peanut butter options",
       "mention_count": 3
     },
@@ -37,13 +41,9 @@
     {
       "label": "mix-ins",
       "mention_count": 5
-    },
-    {
-      "label": "sea salt",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:45:17Z",
+  "scraped_at": "2026-06-09T00:39:31Z",
   "city": "Pasadena",
   "key": "21-choices-pasadena"
 }

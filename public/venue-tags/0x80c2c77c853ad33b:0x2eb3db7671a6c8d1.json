@@ -3,12 +3,8 @@
   "venue_name": "Seong Buk Dong",
   "chips": [
     {
-      "label": "braised short ribs",
-      "mention_count": 69
-    },
-    {
-      "label": "sundubu",
-      "mention_count": 34
+      "label": "galbi jjim",
+      "mention_count": 70
     },
     {
       "label": "galbi tang",
@@ -19,31 +15,35 @@
       "mention_count": 37
     },
     {
-      "label": "braised mackerel",
+      "label": "godeungeo jorim",
       "mention_count": 11
+    },
+    {
+      "label": "gukbap",
+      "mention_count": 9
+    },
+    {
+      "label": "kimchi jjigae",
+      "mention_count": 9
     },
     {
       "label": "beef stew",
       "mention_count": 8
     },
     {
-      "label": "tofu soup",
+      "label": "soybean soup",
       "mention_count": 7
-    },
-    {
-      "label": "Yugsu Bulgogi",
-      "mention_count": 15
     },
     {
       "label": "Haemul Pajeon",
       "mention_count": 2
     },
     {
-      "label": "stir-fried octopus",
-      "mention_count": 5
+      "label": "Yugsu Bulgogi",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T06:07:21Z",
+  "scraped_at": "2026-06-08T22:42:49Z",
   "city": "Koreatown",
   "key": "seongbukdong-koreatown"
 }

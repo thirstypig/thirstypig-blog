@@ -11,12 +11,12 @@
       "mention_count": 12
     },
     {
-      "label": "phone booths",
-      "mention_count": 9
+      "label": "reuben sandwich",
+      "mention_count": 12
     },
     {
-      "label": "reuben sandwich",
-      "mention_count": 10
+      "label": "phone booths",
+      "mention_count": 9
     },
     {
       "label": "jukebox",
@@ -25,6 +25,10 @@
     {
       "label": "chicken fingers",
       "mention_count": 7
+    },
+    {
+      "label": "corned beef in rye",
+      "mention_count": 4
     },
     {
       "label": "steak fries",
@@ -37,13 +41,9 @@
     {
       "label": "cheeseburger",
       "mention_count": 13
-    },
-    {
-      "label": "historic building",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:37:45Z",
+  "scraped_at": "2026-06-09T00:35:12Z",
   "city": "New York",
   "key": "peter-mcmanus-cafe-new-york"
 }

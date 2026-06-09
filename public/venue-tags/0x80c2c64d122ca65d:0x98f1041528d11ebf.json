@@ -32,7 +32,7 @@
     },
     {
       "label": "free admission",
-      "mention_count": 932
+      "mention_count": 925
     },
     {
       "label": "long lines",
@@ -40,10 +40,10 @@
     },
     {
       "label": "free museum",
-      "mention_count": 74
+      "mention_count": 80
     }
   ],
-  "scraped_at": "2026-06-08T06:04:44Z",
+  "scraped_at": "2026-06-09T01:00:01Z",
   "city": "Los Angeles",
   "key": "the-broad-los-angeles"
 }

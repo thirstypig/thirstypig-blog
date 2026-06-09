@@ -3,16 +3,12 @@
   "venue_name": "Brooklyn Bagel & Coffee Company",
   "chips": [
     {
-      "label": "egg bagel",
-      "mention_count": 4
-    },
-    {
       "label": "nyc bagel",
       "mention_count": 8
     },
     {
       "label": "everything bagel",
-      "mention_count": 74
+      "mention_count": 75
     },
     {
       "label": "fresh squeezed orange juice",
@@ -35,15 +31,19 @@
       "mention_count": 13
     },
     {
-      "label": "smoked salmon",
-      "mention_count": 9
-    },
-    {
       "label": "vegan options",
       "mention_count": 10
+    },
+    {
+      "label": "cannoli cream cheese",
+      "mention_count": 2
+    },
+    {
+      "label": "blueberry cream cheese",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T05:59:17Z",
+  "scraped_at": "2026-06-08T22:35:55Z",
   "city": "New York",
   "key": "brooklyn-bagel-coffee-company-new-york"
 }

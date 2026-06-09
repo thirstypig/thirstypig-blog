@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "red cabbage",
-      "mention_count": 58
+      "mention_count": 59
     },
     {
       "label": "cheese bread",
-      "mention_count": 118
+      "mention_count": 117
     },
     {
       "label": "watching games",
-      "mention_count": 60
+      "mention_count": 59
     },
     {
       "label": "chili cheeseburger",
@@ -31,19 +31,19 @@
       "mention_count": 15
     },
     {
+      "label": "chicken wings",
+      "mention_count": 21
+    },
+    {
       "label": "burgers",
-      "mention_count": 62
+      "mention_count": 60
     },
     {
       "label": "sports bar",
-      "mention_count": 43
-    },
-    {
-      "label": "clam chowder",
-      "mention_count": 11
+      "mention_count": 42
     }
   ],
-  "scraped_at": "2026-05-16T06:28:41Z",
+  "scraped_at": "2026-06-09T00:28:23Z",
   "city": "San Gabriel Valley",
   "key": "clearmans-boat-san-gabrie"
 }

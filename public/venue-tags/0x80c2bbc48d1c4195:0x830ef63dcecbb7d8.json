@@ -12,19 +12,19 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "oysters",
-      "mention_count": 25
-    },
-    {
-      "label": "Caviar Nachos",
-      "mention_count": 9
+      "mention_count": 19
     },
     {
       "label": "crudo",
       "mention_count": 21
+    },
+    {
+      "label": "caviar nachos",
+      "mention_count": 9
     },
     {
       "label": "mezze platter",
@@ -43,7 +43,7 @@
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T22:46:48Z",
+  "scraped_at": "2026-06-09T00:42:34Z",
   "city": "Santa Monica",
   "key": "crudo-e-nudo-santa-moni"
 }

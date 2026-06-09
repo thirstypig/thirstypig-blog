@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "bone marrow",
-      "mention_count": 280
+      "mention_count": 93
     },
     {
       "label": "cavatelli",
@@ -20,7 +20,7 @@
     },
     {
       "label": "beef tartare",
-      "mention_count": 50
+      "mention_count": 49
     },
     {
       "label": "bar seating",
@@ -28,7 +28,7 @@
     },
     {
       "label": "Squid Ink Spaghetti",
-      "mention_count": 40
+      "mention_count": 39
     },
     {
       "label": "Peruvian Scallop Crudo",
@@ -36,14 +36,14 @@
     },
     {
       "label": "lamb neck",
-      "mention_count": 31
+      "mention_count": 29
     },
     {
-      "label": "Grilled Branzino",
-      "mention_count": 18
+      "label": "branzino",
+      "mention_count": 45
     }
   ],
-  "scraped_at": "2026-05-16T05:54:50Z",
+  "scraped_at": "2026-06-08T22:32:08Z",
   "city": "Los Angeles",
   "key": "bestia-la"
 }

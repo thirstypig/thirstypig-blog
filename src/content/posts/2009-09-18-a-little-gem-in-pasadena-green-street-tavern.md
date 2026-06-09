@@ -24,6 +24,7 @@ city: Pasadena
 region: San Gabriel Valley
 cuisine:
 - American
+placeId: "0x80c2c370df9da1fb:0x393feec3386bfb82"
 ---
 
 Located on Green St. behind the bustle of Colorado Blvd in Old Town Pasadena, sits the unassuming Green Street Tavern. This little place is good place for a date. This little restaurant is a cozy little place with an ambient mood feel. Walking in brings you in a modest but small dining area, then to the side, you’ll find a nice room that can be used for private events. Decor with the dark lighting is better suited at night.

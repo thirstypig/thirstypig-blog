@@ -4,18 +4,18 @@
   "chips": [
     {
       "label": "egg tart",
-      "mention_count": 27
+      "mention_count": 28
     },
     {
       "label": "pineapple cake",
-      "mention_count": 27
+      "mention_count": 28
     },
     {
-      "label": "cream puff",
+      "label": "cream puffs",
       "mention_count": 9
     },
     {
-      "label": "pudding tart",
+      "label": "pudding",
       "mention_count": 15
     },
     {
@@ -23,7 +23,7 @@
       "mention_count": 10
     },
     {
-      "label": "scone",
+      "label": "scones",
       "mention_count": 5
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "variety of flavors",
+      "label": "flavors",
       "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T05:56:56Z",
+  "scraped_at": "2026-06-08T22:34:00Z",
   "city": "Taipei",
   "key": "米塔手感烘焙-mita-fancy-cafe-bakery-taipei"
 }

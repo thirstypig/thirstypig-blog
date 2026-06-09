@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2db955e5d94d9:0x23c109aabc70ab0",
+  "venue_name": "Santa Anita Park",
+  "chips": [
+    {
+      "label": "thoroughbred racing",
+      "mention_count": 11
+    },
+    {
+      "label": "mountain views",
+      "mention_count": 46
+    },
+    {
+      "label": "breeders cup",
+      "mention_count": 24
+    },
+    {
+      "label": "scenery",
+      "mention_count": 26
+    },
+    {
+      "label": "horses",
+      "mention_count": 17
+    },
+    {
+      "label": "carnival",
+      "mention_count": 8
+    },
+    {
+      "label": "betting",
+      "mention_count": 101
+    },
+    {
+      "label": "drone show",
+      "mention_count": 7
+    },
+    {
+      "label": "christmas decorations",
+      "mention_count": 14
+    },
+    {
+      "label": "race track",
+      "mention_count": 23
+    }
+  ],
+  "scraped_at": "2026-06-09T00:55:41Z",
+  "city": "Arcadia",
+  "key": "cravery-arcadia"
+}

@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "goat curry",
-      "mention_count": 74
+      "mention_count": 77
     },
     {
       "label": "pork shank",
-      "mention_count": 63
+      "mention_count": 66
     },
     {
       "label": "outdoor seating",
-      "mention_count": 41
+      "mention_count": 42
     },
     {
       "label": "naan",
@@ -43,7 +43,7 @@
       "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:27:52Z",
+  "scraped_at": "2026-06-09T00:27:34Z",
   "city": "Downtown LA",
   "key": "girl-the-goat-downtown-l"
 }

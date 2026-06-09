@@ -8,14 +8,18 @@
     },
     {
       "label": "cakes",
-      "mention_count": 112
+      "mention_count": 106
+    },
+    {
+      "label": "limited seating",
+      "mention_count": 6
     },
     {
       "label": "smoothies",
       "mention_count": 39
     },
     {
-      "label": "cats",
+      "label": "cat",
       "mention_count": 31
     },
     {
@@ -24,26 +28,22 @@
     },
     {
       "label": "photo spots",
-      "mention_count": 32
-    },
-    {
-      "label": "floral decor",
-      "mention_count": 12
+      "mention_count": 31
     },
     {
       "label": "Lychee Smoothie and Lemon Curd Cheesecake",
-      "mention_count": 7
-    },
-    {
-      "label": "store decoration",
-      "mention_count": 38
+      "mention_count": 6
     },
     {
       "label": "cash only",
-      "mention_count": 7
+      "mention_count": 8
+    },
+    {
+      "label": "store decoration",
+      "mention_count": 35
     }
   ],
-  "scraped_at": "2026-05-16T22:45:53Z",
+  "scraped_at": "2026-06-09T00:41:50Z",
   "city": "Bangkok",
   "key": "floral-café-at-napasorn-bangkok"
 }

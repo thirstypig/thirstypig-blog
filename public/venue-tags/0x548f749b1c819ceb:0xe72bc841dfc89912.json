@@ -8,7 +8,11 @@
     },
     {
       "label": "harbour view",
-      "mention_count": 26
+      "mention_count": 27
+    },
+    {
+      "label": "water view",
+      "mention_count": 36
     },
     {
       "label": "poutine",
@@ -24,7 +28,7 @@
     },
     {
       "label": "fish and chips",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "label": "wings",
@@ -35,15 +39,11 @@
       "mention_count": 8
     },
     {
-      "label": "yam fries",
-      "mention_count": 5
-    },
-    {
-      "label": "tuna tacos",
-      "mention_count": 5
+      "label": "burgers",
+      "mention_count": 42
     }
   ],
-  "scraped_at": "2026-05-16T22:47:36Z",
+  "scraped_at": "2026-06-09T00:43:18Z",
   "city": "Victoria",
   "key": "the-local-victoria"
 }

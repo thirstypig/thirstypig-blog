@@ -11,23 +11,23 @@
       "mention_count": 4
     },
     {
+      "label": "fried pickles",
+      "mention_count": 6
+    },
+    {
       "label": "beer selection",
-      "mention_count": 9
+      "mention_count": 8
     },
     {
       "label": "s'mores milkshake",
       "mention_count": 5
     },
     {
-      "label": "fried pickles",
-      "mention_count": 6
-    },
-    {
-      "label": "classic cheese burger",
+      "label": "vegan burger",
       "mention_count": 4
     },
     {
-      "label": "vegan burger",
+      "label": "classic cheese burger",
       "mention_count": 4
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-17T16:43:55Z",
+  "scraped_at": "2026-06-09T00:44:39Z",
   "city": "Anaheim",
   "key": "slaters-5050-anaheim"
 }

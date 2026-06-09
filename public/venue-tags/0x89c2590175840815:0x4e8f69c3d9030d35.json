@@ -15,12 +15,12 @@
       "mention_count": 6
     },
     {
-      "label": "cupping",
-      "mention_count": 4
-    },
-    {
       "label": "spa",
       "mention_count": 33
+    },
+    {
+      "label": "cupping",
+      "mention_count": 2
     },
     {
       "label": "locker room",
@@ -43,7 +43,7 @@
       "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T06:29:24Z",
+  "scraped_at": "2026-06-09T00:28:32Z",
   "city": "New York",
   "key": "the-well-new-york"
 }

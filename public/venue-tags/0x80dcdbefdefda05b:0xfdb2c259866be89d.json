@@ -11,6 +11,10 @@
       "mention_count": 10
     },
     {
+      "label": "okinawan soba",
+      "mention_count": 9
+    },
+    {
       "label": "White Corn Tempura with Truffle",
       "mention_count": 3
     },
@@ -27,10 +31,6 @@
       "mention_count": 6
     },
     {
-      "label": "peanut tofu",
-      "mention_count": 5
-    },
-    {
       "label": "chicken wings",
       "mention_count": 8
     },
@@ -39,11 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "karaage",
-      "mention_count": 7
+      "label": "hamachi carpaccio",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-17T19:49:58Z",
+  "scraped_at": "2026-06-09T00:46:04Z",
   "city": "Tustin",
   "key": "habuya-tustin"
 }

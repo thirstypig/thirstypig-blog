@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "baked alaska",
-      "mention_count": 51
+      "mention_count": 52
     },
     {
       "label": "bacon wrapped filet mignon",
-      "mention_count": 28
+      "mention_count": 29
     },
     {
       "label": "fireplace seating",
@@ -28,7 +28,7 @@
     },
     {
       "label": "prime rib",
-      "mention_count": 98
+      "mention_count": 100
     },
     {
       "label": "christmas decorations",
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T22:44:55Z",
+  "scraped_at": "2026-06-09T00:41:08Z",
   "city": "Arcadia",
   "key": "the-derby-arcadia"
 }

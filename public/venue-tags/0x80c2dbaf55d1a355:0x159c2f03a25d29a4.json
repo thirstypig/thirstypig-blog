@@ -3,12 +3,12 @@
   "venue_name": "99 Ranch Market",
   "chips": [
     {
-      "label": "bakery",
-      "mention_count": 38
+      "label": "seafood",
+      "mention_count": 49
     },
     {
-      "label": "fresh fish",
-      "mention_count": 11
+      "label": "bakery",
+      "mention_count": 38
     },
     {
       "label": "taiwanese products",
@@ -27,10 +27,6 @@
       "mention_count": 15
     },
     {
-      "label": "live seafood",
-      "mention_count": 2
-    },
-    {
       "label": "food stands",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "dim sum",
       "mention_count": 3
+    },
+    {
+      "label": "bento boxes",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-06-08T06:00:25Z",
+  "scraped_at": "2026-06-09T00:58:13Z",
   "city": "Arcadia",
   "key": "99-ranch-market-arcadia"
 }

@@ -8,27 +8,27 @@
     },
     {
       "label": "Banh Beo",
-      "mention_count": 11
+      "mention_count": 15
     },
     {
       "label": "outdoor seating",
       "mention_count": 33
     },
     {
-      "label": "Bánh Xèo",
-      "mention_count": 7
-    },
-    {
-      "label": "craft beer",
+      "label": "craft beers",
       "mention_count": 16
     },
     {
       "label": "indoor seating",
+      "mention_count": 15
+    },
+    {
+      "label": "bun bo hue",
       "mention_count": 16
     },
     {
-      "label": "Lemon Grass Beef with Noodles",
-      "mention_count": 6
+      "label": "egg roll",
+      "mention_count": 13
     },
     {
       "label": "viet coffee",
@@ -39,11 +39,11 @@
       "mention_count": 16
     },
     {
-      "label": "egg roll",
-      "mention_count": 13
+      "label": "Lemon Grass Beef with Noodles",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:41:56Z",
+  "scraped_at": "2026-06-09T00:38:29Z",
   "city": "Temple City",
   "key": "summer-rolls-temple-cit"
 }

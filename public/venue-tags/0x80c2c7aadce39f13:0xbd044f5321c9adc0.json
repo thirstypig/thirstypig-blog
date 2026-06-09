@@ -3,6 +3,10 @@
   "venue_name": "L.A. Brisket",
   "chips": [
     {
+      "label": "garlic fries",
+      "mention_count": 4
+    },
+    {
       "label": "sweet potato fries",
       "mention_count": 3
     },
@@ -27,10 +31,6 @@
       "mention_count": 3
     },
     {
-      "label": "bowls",
-      "mention_count": 8
-    },
-    {
       "label": "friendly staff",
       "mention_count": 16
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:45:41Z",
+  "scraped_at": "2026-06-09T00:41:42Z",
   "city": "Los Angeles",
   "key": "la-brisket-los-angele"
 }

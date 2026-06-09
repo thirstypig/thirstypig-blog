@@ -15,10 +15,6 @@
       "mention_count": 8
     },
     {
-      "label": "Mozzarella Sticks Italian Bread Crumbs Spicy Calabrian Pomodoro",
-      "mention_count": 12
-    },
-    {
       "label": "corn agnolotti",
       "mention_count": 6
     },
@@ -41,9 +37,13 @@
     {
       "label": "no wait time",
       "mention_count": 2
+    },
+    {
+      "label": "white lightning pizza",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T05:59:48Z",
+  "scraped_at": "2026-06-08T22:36:26Z",
   "city": "Los Angeles",
   "key": "animal-la"
 }

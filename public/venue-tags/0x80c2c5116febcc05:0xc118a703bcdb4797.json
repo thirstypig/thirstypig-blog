@@ -15,12 +15,12 @@
       "mention_count": 17
     },
     {
-      "label": "hash browns",
-      "mention_count": 15
+      "label": "cold sesame noodles",
+      "mention_count": 12
     },
     {
-      "label": "Cold Sesame Noodles",
-      "mention_count": 12
+      "label": "hash browns",
+      "mention_count": 15
     },
     {
       "label": "hanger steak",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T05:55:22Z",
+  "scraped_at": "2026-06-08T22:32:22Z",
   "city": "Alhambra",
   "key": "yangs-kitchen-alhambra"
 }

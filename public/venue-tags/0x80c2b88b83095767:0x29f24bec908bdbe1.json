@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "Lamb Skewers",
-      "mention_count": 33
+      "mention_count": 34
     },
     {
       "label": "Banchan",
@@ -12,15 +12,15 @@
     },
     {
       "label": "guo bao rou",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
-      "label": "colorful cold noodles",
+      "label": "cold noodles",
       "mention_count": 9
     },
     {
-      "label": "beef skewers",
-      "mention_count": 10
+      "label": "mala spice",
+      "mention_count": 8
     },
     {
       "label": "cumin spice seasoning",
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "mala lamb skewers",
-      "mention_count": 2
+      "label": "marinated beef",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:36:37Z",
+  "scraped_at": "2026-06-09T00:34:18Z",
   "city": "Los Angeles",
   "key": "hunan-mao-los-angele"
 }

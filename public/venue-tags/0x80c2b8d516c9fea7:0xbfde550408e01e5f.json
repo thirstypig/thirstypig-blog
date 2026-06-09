@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 509
+      "mention_count": 512
     },
     {
       "label": "cornbread",
-      "mention_count": 175
+      "mention_count": 177
     },
     {
       "label": "outdoor seating",
@@ -20,19 +20,19 @@
     },
     {
       "label": "mac and cheese",
-      "mention_count": 255
+      "mention_count": 258
     },
     {
       "label": "happy hour",
       "mention_count": 10
     },
     {
-      "label": "collard greens",
-      "mention_count": 87
-    },
-    {
       "label": "rib tips",
       "mention_count": 61
+    },
+    {
+      "label": "collard greens",
+      "mention_count": 90
     },
     {
       "label": "texas bbq",
@@ -40,10 +40,10 @@
     },
     {
       "label": "pulled pork",
-      "mention_count": 110
+      "mention_count": 111
     }
   ],
-  "scraped_at": "2026-05-17T16:44:07Z",
+  "scraped_at": "2026-06-09T00:44:48Z",
   "city": "Los Angeles",
   "key": "bludsos-bbq-los-angeles"
 }

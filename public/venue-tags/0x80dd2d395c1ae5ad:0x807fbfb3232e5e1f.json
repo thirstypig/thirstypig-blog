@@ -1,8 +1,49 @@
 {
   "place_id": "0x80dd2d395c1ae5ad:0x807fbfb3232e5e1f",
   "venue_name": "Maxwell Chicken Rice",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:45:35Z",
+  "chips": [
+    {
+      "label": "ginger scallion sauce",
+      "mention_count": 5
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 6
+    },
+    {
+      "label": "chinese chicken salad",
+      "mention_count": 5
+    },
+    {
+      "label": "char siu",
+      "mention_count": 4
+    },
+    {
+      "label": "garlic noodles",
+      "mention_count": 4
+    },
+    {
+      "label": "chicken broth",
+      "mention_count": 4
+    },
+    {
+      "label": "crispy chickens",
+      "mention_count": 2
+    },
+    {
+      "label": "tender chicken",
+      "mention_count": 4
+    },
+    {
+      "label": "flavorful rice",
+      "mention_count": 3
+    },
+    {
+      "label": "trio of sauces",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:39:34Z",
   "city": "Downtown LA",
   "key": "maxwell-chicken-rice-downtown-l"
 }

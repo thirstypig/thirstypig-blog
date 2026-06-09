@@ -8,7 +8,7 @@
     },
     {
       "label": "brioche bun",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "outdoor seating",
@@ -16,7 +16,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 204
+      "mention_count": 202
     },
     {
       "label": "people watching",
@@ -31,19 +31,19 @@
       "mention_count": 167
     },
     {
-      "label": "potato puree",
-      "mention_count": 50
-    },
-    {
       "label": "truffle hash browns",
       "mention_count": 32
     },
     {
       "label": "egg salad sandwich",
       "mention_count": 33
+    },
+    {
+      "label": "sriracha mayo",
+      "mention_count": 26
     }
   ],
-  "scraped_at": "2026-05-16T06:28:46Z",
+  "scraped_at": "2026-06-09T00:28:26Z",
   "city": "Downtown LA",
   "key": "eggslut-downtown-l"
 }

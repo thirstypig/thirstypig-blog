@@ -57,6 +57,7 @@ images:
 - /images/posts/2011-08-15-quan-lau-de-306-ho-chi-minh-city/35.jpg
 - /images/posts/2011-08-15-quan-lau-de-306-ho-chi-minh-city/36.jpg
 - /images/posts/2011-08-15-quan-lau-de-306-ho-chi-minh-city/37.jpg
+placeId: "0x31752dcce50c9cc7:0xed0cefffaf71612f"
 ---
 
 

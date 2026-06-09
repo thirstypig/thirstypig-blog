@@ -11,12 +11,24 @@
       "mention_count": 8
     },
     {
+      "label": "sausages",
+      "mention_count": 20
+    },
+    {
       "label": "cookies",
       "mention_count": 28
     },
     {
       "label": "italian sandwich",
-      "mention_count": 9
+      "mention_count": 10
+    },
+    {
+      "label": "meatball sandwich",
+      "mention_count": 6
+    },
+    {
+      "label": "subs",
+      "mention_count": 15
     },
     {
       "label": "deli meats",
@@ -29,21 +41,9 @@
     {
       "label": "fresh bread",
       "mention_count": 6
-    },
-    {
-      "label": "custom sandwiches",
-      "mention_count": 2
-    },
-    {
-      "label": "pizza sauce",
-      "mention_count": 5
-    },
-    {
-      "label": "pizza dough",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:31:03Z",
+  "scraped_at": "2026-06-09T00:29:53Z",
   "city": "Arcadia",
   "key": "claros-italian-markets-arcadia"
 }

@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "Sesame Paste Noodles",
-      "mention_count": 38
+      "mention_count": 37
     },
     {
-      "label": "small beef soup",
+      "label": "beef soup",
       "mention_count": 15
     },
     {
       "label": "local atmosphere",
-      "mention_count": 5
+      "mention_count": 7
     },
     {
-      "label": "michelin star",
-      "mention_count": 15
+      "label": "michelin",
+      "mention_count": 16
     },
     {
-      "label": "fried pork chop",
+      "label": "tonkatsu",
       "mention_count": 10
-    },
-    {
-      "label": "jiang mian",
-      "mention_count": 4
     },
     {
       "label": "curry beef soup",
       "mention_count": 5
     },
     {
+      "label": "jiang mian",
+      "mention_count": 4
+    },
+    {
       "label": "peanut sauce",
       "mention_count": 6
     },
     {
-      "label": "peanut butter noodles",
+      "label": "80-year-old noodle house",
       "mention_count": 2
     },
     {
-      "label": "80-year-old noodle house",
-      "mention_count": 2
+      "label": "chili",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:43:00Z",
+  "scraped_at": "2026-06-09T00:38:43Z",
   "city": "Shanghai",
   "key": "best-noodles-i-have-ever-made-shanghai"
 }

@@ -15,35 +15,35 @@
       "mention_count": 4
     },
     {
-      "label": "chocolate croissant",
-      "mention_count": 16
-    },
-    {
       "label": "tamago sando",
       "mention_count": 9
-    },
-    {
-      "label": "pork katsu",
-      "mention_count": 13
     },
     {
       "label": "hojicha latte",
       "mention_count": 7
     },
     {
+      "label": "pork katsu",
+      "mention_count": 12
+    },
+    {
       "label": "eggplant sandwich",
       "mention_count": 7
     },
     {
-      "label": "sandwiches",
-      "mention_count": 31
+      "label": "croissants",
+      "mention_count": 11
     },
     {
-      "label": "no cash",
-      "mention_count": 6
+      "label": "lobster sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "layer omelette",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:36:11Z",
+  "scraped_at": "2026-06-09T00:33:59Z",
   "city": "Downtown LA",
   "key": "konbi-downtown-l"
 }

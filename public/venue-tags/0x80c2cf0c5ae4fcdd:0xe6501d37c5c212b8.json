@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "texas style bbq",
-      "mention_count": 25
+      "mention_count": 27
     },
     {
       "label": "brisket",
-      "mention_count": 229
+      "mention_count": 233
     },
     {
       "label": "outdoor seating",
@@ -16,34 +16,34 @@
     },
     {
       "label": "pork ribs",
-      "mention_count": 53
+      "mention_count": 55
     },
     {
       "label": "mac and cheese",
-      "mention_count": 84
+      "mention_count": 87
     },
     {
       "label": "pork belly",
       "mention_count": 26
     },
     {
+      "label": "jalapeño sausage",
+      "mention_count": 23
+    },
+    {
       "label": "esquites",
       "mention_count": 9
     },
     {
-      "label": "beer selection",
-      "mention_count": 59
-    },
-    {
       "label": "kimchi fried rice",
-      "mention_count": 12
+      "mention_count": 14
     },
     {
       "label": "poblano oaxaca sausage",
       "mention_count": 10
     }
   ],
-  "scraped_at": "2026-05-16T05:59:37Z",
+  "scraped_at": "2026-06-08T22:36:15Z",
   "city": "East LA",
   "key": "moos-craft-barbecue-east-la"
 }

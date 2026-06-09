@@ -3,7 +3,7 @@
   "venue_name": "Lucky Baldwin's Pub",
   "chips": [
     {
-      "label": "belgian beers",
+      "label": "belgian ales",
       "mention_count": 8
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:10:17Z",
+  "scraped_at": "2026-06-08T22:45:01Z",
   "city": "Pasadena",
   "key": "lucky-baldwins-of-sierra-madre-pasadena"
 }

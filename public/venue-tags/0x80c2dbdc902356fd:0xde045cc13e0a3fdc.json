@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "beef hot pot",
-      "mention_count": 8
+      "mention_count": 7
     },
     {
       "label": "individual hot pot",
@@ -15,11 +15,11 @@
       "mention_count": 3
     },
     {
-      "label": "shabu shabu experience",
+      "label": "pork blood",
       "mention_count": 2
     },
     {
-      "label": "pork blood",
+      "label": "shabu shabu experience",
       "mention_count": 2
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:24:29Z",
+  "scraped_at": "2026-06-09T00:24:32Z",
   "city": "Sgv",
   "key": "boiling-point-sgv"
 }

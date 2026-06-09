@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "french toast",
-      "mention_count": 158
+      "mention_count": 159
     },
     {
       "label": "truffle fries",
@@ -12,38 +12,38 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 20
-    },
-    {
-      "label": "acai yogurt bowl",
-      "mention_count": 42
+      "mention_count": 16
     },
     {
       "label": "avocado toast",
       "mention_count": 45
     },
     {
-      "label": "dining environment",
-      "mention_count": 301
+      "label": "atmosphere",
+      "mention_count": 276
     },
     {
-      "label": "poached egg",
+      "label": "poached eggs",
       "mention_count": 48
     },
     {
-      "label": "camellia latte",
-      "mention_count": 37
+      "label": "sourdough",
+      "mention_count": 50
     },
     {
-      "label": "sourdough bread",
-      "mention_count": 50
+      "label": "camellia latte",
+      "mention_count": 36
     },
     {
       "label": "benedict tuna tower",
       "mention_count": 39
+    },
+    {
+      "label": "french door",
+      "mention_count": 62
     }
   ],
-  "scraped_at": "2026-05-16T22:45:37Z",
+  "scraped_at": "2026-06-09T00:41:39Z",
   "city": "Taipei",
   "key": "acme-breakfast-club-taipei"
 }

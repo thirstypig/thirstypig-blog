@@ -19,6 +19,10 @@
       "mention_count": 36
     },
     {
+      "label": "pork belly",
+      "mention_count": 20
+    },
+    {
       "label": "chicken karaage",
       "mention_count": 30
     },
@@ -31,10 +35,6 @@
       "mention_count": 39
     },
     {
-      "label": "pork belly chashu 豚チャーシュー",
-      "mention_count": 2
-    },
-    {
       "label": "spicy food",
       "mention_count": 124
     },
@@ -43,7 +43,7 @@
       "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T06:31:25Z",
+  "scraped_at": "2026-06-09T00:30:15Z",
   "city": "San Francisco",
   "key": "ippudo-san-franci"
 }

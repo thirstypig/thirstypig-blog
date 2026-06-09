@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2dc7a11842737:0xe53903848edc9c3c",
   "venue_name": "Sierra Madre Playhouse",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:47:29Z",
+  "chips": [
+    {
+      "label": "silent film",
+      "mention_count": 2
+    },
+    {
+      "label": "quaint venue",
+      "mention_count": 6
+    },
+    {
+      "label": "historic theater",
+      "mention_count": 2
+    },
+    {
+      "label": "community theater",
+      "mention_count": 3
+    },
+    {
+      "label": "vintage feel",
+      "mention_count": 2
+    },
+    {
+      "label": "small and cozy",
+      "mention_count": 3
+    },
+    {
+      "label": "talented cast",
+      "mention_count": 2
+    },
+    {
+      "label": "helpful staff",
+      "mention_count": 7
+    },
+    {
+      "label": "clean restrooms",
+      "mention_count": 2
+    },
+    {
+      "label": "good seats",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-09T00:40:16Z",
   "city": "Sierra Madre",
   "key": "sierra-madre-playhouse-sierra-mad"
 }

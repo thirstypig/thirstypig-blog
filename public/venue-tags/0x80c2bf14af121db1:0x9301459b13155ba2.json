@@ -8,11 +8,11 @@
     },
     {
       "label": "Fried Chicken Sandwich w Fries",
-      "mention_count": 17
+      "mention_count": 18
     },
     {
       "label": "chicken tenders",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "label": "crispy fries",
@@ -27,6 +27,10 @@
       "mention_count": 12
     },
     {
+      "label": "sweet potato fries",
+      "mention_count": 2
+    },
+    {
       "label": "homemade ranch",
       "mention_count": 3
     },
@@ -35,15 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "sweet potato fries",
-      "mention_count": 2
-    },
-    {
       "label": "dbl burger",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:28:33Z",
+  "scraped_at": "2026-06-09T00:28:15Z",
   "city": "Hollywood",
   "key": "chickn-skin-hollywood"
 }

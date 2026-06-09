@@ -3,16 +3,16 @@
   "venue_name": "Hunan Maojia",
   "chips": [
     {
-      "label": "fish head",
-      "mention_count": 5
-    },
-    {
       "label": "cilantro",
       "mention_count": 2
     },
     {
       "label": "stinky tofu",
       "mention_count": 2
+    },
+    {
+      "label": "fish head",
+      "mention_count": 5
     },
     {
       "label": "cured meat",
@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
+      "label": "spicy food",
+      "mention_count": 16
+    },
+    {
       "label": "food",
       "mention_count": 5
     },
     {
       "label": "dishes",
       "mention_count": 2
-    },
-    {
-      "label": "spicy food",
-      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T06:24:41Z",
+  "scraped_at": "2026-06-09T00:24:43Z",
   "city": "Sgv",
   "key": "hunan-mao-restaurant-sgv"
 }

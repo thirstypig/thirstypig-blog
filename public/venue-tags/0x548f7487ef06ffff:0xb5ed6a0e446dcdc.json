@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "pulled pork poutine",
-      "mention_count": 52
+      "mention_count": 50
     },
     {
       "label": "brisket",
-      "mention_count": 168
+      "mention_count": 169
     },
     {
       "label": "outdoor seating",
@@ -17,6 +17,10 @@
     {
       "label": "pork butt",
       "mention_count": 34
+    },
+    {
+      "label": "platter",
+      "mention_count": 65
     },
     {
       "label": "cornbread",
@@ -32,18 +36,14 @@
     },
     {
       "label": "pit beans",
-      "mention_count": 19
+      "mention_count": 18
     },
     {
       "label": "potato salad",
       "mention_count": 43
-    },
-    {
-      "label": "3 meat platter",
-      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T22:47:32Z",
+  "scraped_at": "2026-06-09T00:43:15Z",
   "city": "Victoria",
   "key": "jones-bar-b-que-victoria-victoria"
 }

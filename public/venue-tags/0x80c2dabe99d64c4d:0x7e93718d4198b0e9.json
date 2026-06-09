@@ -7,24 +7,12 @@
       "mention_count": 6
     },
     {
-      "label": "biang biang noodles",
-      "mention_count": 9
-    },
-    {
-      "label": "cold noodles",
-      "mention_count": 10
-    },
-    {
-      "label": "lamb paomo",
+      "label": "paomo",
       "mention_count": 6
     },
     {
       "label": "lamb menu",
       "mention_count": 12
-    },
-    {
-      "label": "roujiamo",
-      "mention_count": 5
     },
     {
       "label": "Lamb Kebab",
@@ -35,15 +23,27 @@
       "mention_count": 2
     },
     {
-      "label": "tofu skin",
+      "label": "cash only",
       "mention_count": 2
     },
     {
-      "label": "cash only",
+      "label": "hometown flavor",
+      "mention_count": 2
+    },
+    {
+      "label": "large portions",
+      "mention_count": 2
+    },
+    {
+      "label": "fresh food",
+      "mention_count": 2
+    },
+    {
+      "label": "polite staff",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:28:36Z",
+  "scraped_at": "2026-06-09T00:28:18Z",
   "city": "San Gabriel",
   "key": "shaanxi-garden-san-gabrie"
 }

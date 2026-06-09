@@ -1,0 +1,25 @@
+{
+  "place_id": "0x35b270097015af0b:0xf83c17a0e47b9931",
+  "venue_name": "Red House Restaurant",
+  "chips": [
+    {
+      "label": "tonkatsu",
+      "mention_count": 2
+    },
+    {
+      "label": "soup",
+      "mention_count": 5
+    },
+    {
+      "label": "food",
+      "mention_count": 2
+    },
+    {
+      "label": "Home",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T01:04:09Z",
+  "city": "Chongming Island",
+  "key": "new-red-house-restaurant-新虹樓飯莊-chongming-"
+}

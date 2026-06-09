@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2dbaedc85fdcb:0xc96f995e15639de",
   "venue_name": "Northern Cafe 兰州拉面",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:48:26Z",
+  "chips": [
+    {
+      "label": "pork potstickers",
+      "mention_count": 2
+    },
+    {
+      "label": "Spicy Beef Noodle Soup 招牌红汤牛肉面with Medium Flat Noodle",
+      "mention_count": 2
+    },
+    {
+      "label": "hand cut noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "wontons",
+      "mention_count": 2
+    },
+    {
+      "label": "cold bar",
+      "mention_count": 2
+    },
+    {
+      "label": "shrimp fried rice",
+      "mention_count": 2
+    },
+    {
+      "label": "portions",
+      "mention_count": 2
+    },
+    {
+      "label": "vibe",
+      "mention_count": 2
+    },
+    {
+      "label": "noodles",
+      "mention_count": 3
+    },
+    {
+      "label": "hair",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:40:35Z",
   "city": "Temple City",
   "key": "northern-cafe-temple-cit"
 }

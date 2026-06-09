@@ -4907,6 +4907,7 @@ Los Angeles, CA 90027"
   name: "The Harbin Pig Restaurant"
   city: "Harbin"
   query: "Harbin Pig Restaurant 正宗杀猪菜 Harbin China"
+  place_id: "0x80c2db78f36374ed:0xe0772991036b83a9"
   cid: "16174442289528800169"
 
 # IG sync June 2026
@@ -5054,6 +5055,7 @@ Los Angeles, CA 90027"
   name: "Cravery"
   city: "Arcadia"
   query: "Cravery Santa Anita Park Arcadia"
+  place_id: "0x80c2db955e5d94d9:0x23c109aabc70ab0"
   cid: "161021943171451568"
 
 - key: halal-guys-new-york
@@ -5494,3 +5496,250 @@ Los Angeles, CA 90027"
   query: "HTeaO 18010 Marsh Ln Dallas TX"
   place_id: "0x864c25a91d7b13b3:0x644e07123fafec2a"
   cid: "7227722226935524394"
+
+
+- key: pizzeria-mozza-los-angele
+  name: "Pizzeria Mozza"
+  city: "Los Angeles"
+  query: "Pizzeria Mozza 641 N Highland Ave Los Angeles, CA 90036"
+  place_id: "0x80c2b8d3a0ee6b6d:0x7fd7c9cbe4f265c7"
+  cid: "9212053440366273991"
+
+# [2 posts]
+
+- key: green-street-tavern-pasadena
+  name: "Green Street Tavern"
+  city: "Pasadena"
+  query: "Green Street Tavern 69 W Green St Pasadena, CA 91105"
+  place_id: "0x80c2c370df9da1fb:0x393feec3386bfb82"
+  cid: "4125278305927297922"
+
+# [1 posts]
+
+- key: ikes-place-san-franci
+  name: "Ike’s Place"
+  city: "San Francisco"
+  query: "Ike’s Place 2239 Market St San Francisco, CA 94114"
+  place_id: "0x808f7e1c55555555:0xb6d9db1894bf28a9"
+  cid: "13175803083470350505"
+
+# [1 posts]
+
+- key: lillian-cake-shop-莉莲蛋挞饼屋-shanghai
+  name: "Lillian Cake Shop (莉莲蛋挞饼屋)"
+  city: "Shanghai"
+  query: "Lillian Cake Shop (莉莲蛋挞饼屋) 南京西路2号B2 | B2, 2 W. Nanjing Rd. (新世界城 | New World), Huangpu, 上海市"
+  place_id: "0x35b270417ec0dad3:0x70e9143427d699c6"
+  cid: "8136056416060742086"
+
+# [1 posts]
+
+- key: umi-no-sachi-海之幸-shanghai
+  name: "Umi No Sachi 海之幸"
+  city: "Shanghai"
+  query: "Umi No Sachi 海之幸 169 Xinle Rd. (Donghu Rd.), Xuhui, 上海市"
+  place_id: "0x35b27aa9d9cab6af:0xa4d1ffcd24fbd0f0"
+  cid: "11876554948906569968"
+
+# [1 posts]
+
+- key: nepali-kitchen-shanghai
+  name: "Nepali Kitchen"
+  city: "Shanghai"
+  query: "Nepali Kitchen 4 Lane 819 Julu Rd | 巨鹿路819弄4号 (near Fumin Rd | 近富民路), Jing’an, 上海市, 200040"
+  place_id: "0x35b27000c138bbf5:0xab4aca350a06bd26"
+  cid: "12342900057912556838"
+
+# [1 posts]
+
+- key: xiao-san-tang-小三堂-shanghai
+  name: "Xiao San Tang 小三堂"
+  city: "Shanghai"
+  query: "Xiao San Tang 小三堂 25 TaiKang Rd"
+
+# [1 posts]
+
+- key: spicy-moment-shanghai
+  name: "Spicy Moment"
+  city: "Shanghai"
+  query: "Spicy Moment 上海市, 上海市, 200000"
+  place_id: "0x35b27aac834998f5:0x428da9a11bf389b8"
+  cid: "4795675687643220408"
+
+# [1 posts]
+
+- key: orange-shabu-shabu-橘色涮涮锅-shanghai
+  name: "Orange Shabu Shabu 橘色涮涮锅"
+  city: "Shanghai"
+  query: "Orange Shabu Shabu 橘色涮涮锅 55 Sinan Road"
+  place_id: "0x3442abd1ad179c45:0x2af77f3fe7862ca7"
+  cid: "3096083181284502695"
+
+# [1 posts]
+
+- key: cest-cupcake-shanghai
+  name: "C'est Cupcake"
+  city: "Shanghai"
+  query: "C'est Cupcake Changning, 上海市"
+  cid: "12341357648219042420"
+
+# [1 posts]
+
+- key: lanting-restaurant-兰亭餐厅-shanghai
+  name: "Lanting Restaurant (兰亭餐厅)"
+  city: "Shanghai"
+  query: "Lanting Restaurant (兰亭餐厅) 西藏中路180号一楼 (汕头路), Běixīn qiáo, 上海市, 上海市"
+  place_id: "0x35b270428014b4af:0x9ce78bb059eb38e9"
+  cid: "11306158979076012265"
+
+# [1 posts]
+
+- key: quán-lẩu-dê-306-ho-chi-min
+  name: "Quán Lẩu Dê 306"
+  city: "Ho Chi Minh City"
+  query: "Quán Lẩu Dê 306 Ho Chi Minh City"
+  place_id: "0x31752dcce50c9cc7:0xed0cefffaf71612f"
+  cid: "17081291368148590895"
+
+# [1 posts]
+
+- key: my-dining-place-shanghai
+  name: "My Dining Place"
+  city: "Shanghai"
+  query: "My Dining Place 2010 Shanghai Expo.
+
+My Singaporean and Malaysian friends have raved how My Dining Pl"
+
+# [1 posts]
+
+- key: le-saleya-shanghai
+  name: "Le Saleya"
+  city: "Shanghai"
+  query: "Le Saleya 570 Changle Road, 上海市, 上海市, 200040"
+  place_id: "0x35b2700638581e37:0x1c9efdc9bdc81553"
+  cid: "2062364722296526163"
+
+# [1 posts]
+
+- key: yoogane-유가네닭갈비-seoul
+  name: "Yoogane (유가네닭갈비)"
+  city: "Seoul"
+  query: "Yoogane (유가네닭갈비) 중구 명동10길 13 (명동1호점), 명동, 서울특별시, 서울특별시, 04537"
+  place_id: "0x357ca2f0170eb10d:0x74fab4159d54fc61"
+  cid: "8429247657504210017"
+
+# [1 posts]
+
+- key: 청학동-seoul
+  name: "청학동"
+  city: "Seoul"
+  query: "청학동 소공동"
+  place_id: "0x357b79c68080184b:0xef76183b2cfb7828"
+  cid: "17255005664753449000"
+
+# [1 posts]
+
+- key: moffetts-family-restaurant-chicken--arcadia
+  name: "Moffett’s Family Restaurant & Chicken Pie Shoppe"
+  city: "Arcadia"
+  query: "Moffett’s Family Restaurant & Chicken Pie Shoppe 1409 Baldwin Ave Arcadia, CA 91007"
+  place_id: "0x80c2dbafa50b844d:0xeba98bdb1418c6b5"
+  cid: "16981257643028432565"
+
+# [1 posts]
+
+- key: 卡利堡-caliburger-shanghai
+  name: "卡利堡 CaliBurger"
+  city: "Shanghai"
+  query: "卡利堡 CaliBurger B1/F 1818 West Nanjing Rd (in 1788 Square), 上海市, 上海市, 200040"
+  cid: "9852202083570375472"
+
+# [1 posts]
+
+- key: new-red-house-restaurant-新虹樓飯莊-chongming-
+  name: "New Red House Restaurant 新虹樓飯莊"
+  city: "Chongming Island"
+  query: "New Red House Restaurant 新虹樓飯莊 Chongming Island"
+  place_id: "0x35b270097015af0b:0xf83c17a0e47b9931"
+  cid: "17887197799804279089"
+
+# [1 posts]
+
+- key: yamazato-山里日餐厅-shanghai
+  name: "Yamazato (山里日餐厅)"
+  city: "Shanghai"
+  query: "Yamazato (山里日餐厅) 茂名南路58号 (花园酒店2楼), Huangpu, 上海市, 200020"
+  place_id: "0x36ac9811bf4f950b:0x4c4aed98ab8d5d18"
+  cid: "5497467535128091928"
+
+# [1 posts]
+
+- key: kechara-tea-house-shanghai
+  name: "Kechara Tea House"
+  city: "Shanghai"
+  query: "Kechara Tea House Changning, 上海市"
+  place_id: "0x35b27aa56e495511:0x6bb8eb927459a373"
+  cid: "7762212972022834035"
+
+# [1 posts]
+
+- key: kathleens-waitan-shanghai
+  name: "Kathleen's Waitan"
+  city: "Shanghai"
+  query: "Kathleen's Waitan 453 Waima Rd | 外马路453号 (5/F Cool Docks, Bldg 1 | 老码头1号库5楼), Xiǎo dōng mén, Huangpu, 上海市"
+  place_id: "0x35b270f0516a5045:0xaa6b28f47ca847e2"
+  cid: "12279953839484323810"
+
+# [1 posts]
+
+- key: fujian-qian-li-xiang-wonton-king-福建-shanghai
+  name: "Fujian Qian Li Xiang Wonton King (福建千里香馄饨王)"
+  city: "Shanghai"
+  query: "Fujian Qian Li Xiang Wonton King (福建千里香馄饨王) 265 Wulumuqi M Rd (Wuyuan Rd), Xuhui, 上海市"
+  place_id: "0x35b270e712daea61:0xea0e973f87950e3d"
+  cid: "16865583953662512701"
+
+# [1 posts]
+
+- key: gran-bodega-shanghai
+  name: "Gran Bodega"
+  city: "Shanghai"
+  query: "Gran Bodega Shanghai"
+  place_id: "0x35b2656e48c60787:0xdbb37c91377ef0ad"
+  cid: "15831134078280593581"
+
+# [1 posts]
+
+- key: tsui-wah-restaurant-翠华餐厅-shanghai
+  name: "Tsui Wah Restaurant (翠华餐厅)"
+  city: "Shanghai"
+  query: "Tsui Wah Restaurant (翠华餐厅) 618 Xujiahui Rd  | 徐家汇路618号 (1/F-A01 SML Center | 日月光中心广场), Dǎ pǔ qiáo, Huangpu, 上海市, 200025"
+  place_id: "0x35b27aa277883e03:0x6f02feec4f0918b"
+  cid: "499952261190947211"
+
+# [1 posts]
+
+- key: fathers-office-los-angele
+  name: "Father’s Office"
+  city: "Los Angeles"
+  query: "Father’s Office 3229 Helms Ave Los Angeles, CA 90034"
+  place_id: "0x80c2b982519fa5ad:0xa0ca452e7a9eed4b"
+  cid: "11586149057292070219"
+
+# [1 posts]
+
+- key: mo-mo-paradise-rowland-he
+  name: "Mo-Mo-Paradise"
+  city: "Rowland Heights"
+  query: "Mo-Mo-Paradise 17596 Colima Rd Rowland Heights, CA 91748"
+  place_id: "0x80c32a791e061b5b:0x6c821095a26d8f63"
+  cid: "7818830137929863011"
+
+# [1 posts]
+
+- key: the-living-room-by-octave-shanghai
+  name: "The Living Room by Octave"
+  city: "Shanghai"
+  query: "The Living Room by Octave Shanghai 音昱听堂"
+  place_id: "0x35b265551d5c21ef:0x7f8c8cac7b2412c1"
+  cid: "9190875611984564929"

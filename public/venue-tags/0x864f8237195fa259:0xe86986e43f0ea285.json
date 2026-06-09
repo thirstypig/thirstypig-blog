@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "silos",
-      "mention_count": 259
+      "mention_count": 258
     },
     {
       "label": "food trucks",
@@ -43,7 +43,7 @@
       "mention_count": 76
     }
   ],
-  "scraped_at": "2026-06-04T20:26:55Z",
+  "scraped_at": "2026-06-09T00:56:27Z",
   "city": "Austin",
   "key": "fixer-uppers-magnolia-market-in-wac-austin"
 }

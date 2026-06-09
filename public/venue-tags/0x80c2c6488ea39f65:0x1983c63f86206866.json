@@ -7,10 +7,6 @@
       "mention_count": 2
     },
     {
-      "label": "hotpot",
-      "mention_count": 6
-    },
-    {
       "label": "beef quality",
       "mention_count": 4
     },
@@ -21,6 +17,10 @@
     {
       "label": "peanut sauce",
       "mention_count": 2
+    },
+    {
+      "label": "Hot Pot",
+      "mention_count": 6
     },
     {
       "label": "Sukiyaki",
@@ -43,7 +43,7 @@
       "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T22:45:02Z",
+  "scraped_at": "2026-06-09T00:41:14Z",
   "city": "Los Angeles",
   "key": "kushi-shabu-restaurant-los-angele"
 }

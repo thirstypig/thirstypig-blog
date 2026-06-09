@@ -25,6 +25,7 @@ cuisine:
 heroImage: /images/posts/2011-06-01-annion-kitchen-shanghai/01.jpg
 images:
 - /images/posts/2011-06-01-annion-kitchen-shanghai/01.jpg
+placeId: "0x35b27000c138bbf5:0xab4aca350a06bd26"
 ---
 
 

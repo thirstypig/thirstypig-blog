@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2c370df9da1fb:0x393feec3386bfb82",
+  "venue_name": "Green Street Tavern",
+  "chips": [
+    {
+      "label": "bread pudding",
+      "mention_count": 4
+    },
+    {
+      "label": "wild boar",
+      "mention_count": 5
+    },
+    {
+      "label": "meatloaf",
+      "mention_count": 6
+    },
+    {
+      "label": "tagine",
+      "mention_count": 2
+    },
+    {
+      "label": "pasta",
+      "mention_count": 3
+    },
+    {
+      "label": "steak",
+      "mention_count": 2
+    },
+    {
+      "label": "party",
+      "mention_count": 5
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 4
+    },
+    {
+      "label": "appetizers",
+      "mention_count": 5
+    },
+    {
+      "label": "lamb",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-06-09T01:00:31Z",
+  "city": "Pasadena",
+  "key": "green-street-tavern-pasadena"
+}

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "detroit style pizza",
-      "mention_count": 282
+      "mention_count": 284
     },
     {
       "label": "gluten free pizza",
@@ -12,7 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "deep dish pizza",
@@ -28,22 +28,22 @@
     },
     {
       "label": "artichoke appetizer",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
       "label": "dairy free cheese",
       "mention_count": 11
     },
     {
-      "label": "beer selection",
-      "mention_count": 32
+      "label": "bar style pizza",
+      "mention_count": 11
     },
     {
       "label": "bobo brazil pizza",
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T06:25:23Z",
+  "scraped_at": "2026-06-09T00:25:26Z",
   "city": "Austin",
   "key": "via-313-austin"
 }

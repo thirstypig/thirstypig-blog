@@ -12,7 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 6
+      "mention_count": 4
     },
     {
       "label": "pork broth",
@@ -43,7 +43,7 @@
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:01:10Z",
+  "scraped_at": "2026-06-08T22:37:36Z",
   "city": "Little Tokyo",
   "key": "shin-sen-gumi-hakata-ramen-little-t-little-tok"
 }

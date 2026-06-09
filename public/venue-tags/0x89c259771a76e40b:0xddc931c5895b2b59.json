@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "halal cart",
-      "mention_count": 28
+      "mention_count": 30
     },
     {
       "label": "chicken over rice",
@@ -16,15 +16,15 @@
     },
     {
       "label": "lamb",
-      "mention_count": 29
+      "mention_count": 30
+    },
+    {
+      "label": "gyro",
+      "mention_count": 10
     },
     {
       "label": "combo over rice",
       "mention_count": 6
-    },
-    {
-      "label": "gyro",
-      "mention_count": 9
     },
     {
       "label": "food cart",
@@ -32,7 +32,7 @@
     },
     {
       "label": "adel's famous halal food",
-      "mention_count": 15
+      "mention_count": 17
     },
     {
       "label": "chicken and lamb rice combo",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:32:22Z",
+  "scraped_at": "2026-06-09T00:31:13Z",
   "city": "New York",
   "key": "midos-halal-food-cart-new-york"
 }

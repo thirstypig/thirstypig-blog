@@ -4,19 +4,15 @@
   "chips": [
     {
       "label": "poutine",
-      "mention_count": 79
+      "mention_count": 81
     },
     {
       "label": "wagyu smash burger",
-      "mention_count": 16
+      "mention_count": 18
     },
     {
       "label": "chicken parm sandwich",
       "mention_count": 7
-    },
-    {
-      "label": "porchetta sandwich",
-      "mention_count": 12
     },
     {
       "label": "braised beef poutine",
@@ -41,9 +37,13 @@
     {
       "label": "cubano",
       "mention_count": 6
+    },
+    {
+      "label": "jalapeño mayo",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:29:20Z",
+  "scraped_at": "2026-06-09T00:28:29Z",
   "city": "Anaheim",
   "key": "the-kroft-anaheim"
 }

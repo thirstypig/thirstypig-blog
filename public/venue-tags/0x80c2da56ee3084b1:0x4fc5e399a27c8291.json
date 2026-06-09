@@ -3,7 +3,7 @@
   "venue_name": "Xiang Yuan Gourmet",
   "chips": [
     {
-      "label": "Dim Sum",
+      "label": "dim sum",
       "mention_count": 7
     },
     {
@@ -11,7 +11,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:28:39Z",
+  "scraped_at": "2026-06-09T00:28:21Z",
   "city": "Temple City",
   "key": "xiang-yuan-gourmet-temple-cit"
 }

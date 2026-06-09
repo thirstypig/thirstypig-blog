@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "pier 39",
-      "mention_count": 199
+      "mention_count": 203
     },
     {
       "label": "sea lions",
-      "mention_count": 317
+      "mention_count": 325
     },
     {
       "label": "clam chowder",
-      "mention_count": 209
+      "mention_count": 211
     },
     {
       "label": "street performers",
       "mention_count": 72
     },
     {
-      "label": "bay views",
-      "mention_count": 26
+      "label": "ferry ride",
+      "mention_count": 46
     },
     {
-      "label": "souvenir shops",
-      "mention_count": 57
+      "label": "bay views",
+      "mention_count": 21
     },
     {
       "label": "souvenirs",
-      "mention_count": 165
+      "mention_count": 166
     },
     {
-      "label": "boat tours",
-      "mention_count": 29
+      "label": "souvenir shops",
+      "mention_count": 56
     },
     {
       "label": "ferris wheel",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "label": "crowded",
       "mention_count": 125
     }
   ],
-  "scraped_at": "2026-05-16T06:31:28Z",
+  "scraped_at": "2026-06-09T00:30:18Z",
   "city": "San Francisco",
   "key": "fishermans-wharf-san-franci"
 }

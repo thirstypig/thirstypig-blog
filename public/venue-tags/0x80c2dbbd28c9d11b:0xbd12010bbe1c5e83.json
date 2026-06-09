@@ -19,6 +19,10 @@
       "mention_count": 16
     },
     {
+      "label": "pork belly",
+      "mention_count": 6
+    },
+    {
       "label": "dan dan noodle",
       "mention_count": 7
     },
@@ -31,10 +35,6 @@
       "mention_count": 4
     },
     {
-      "label": "pork belly",
-      "mention_count": 6
-    },
-    {
       "label": "string beans",
       "mention_count": 5
     },
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-06-04T20:24:23Z",
+  "scraped_at": "2026-06-09T00:54:42Z",
   "city": "Arcadia",
   "key": "meizhou-dongpo-restaurant-arcadia"
 }

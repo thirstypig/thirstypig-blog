@@ -7,12 +7,20 @@
       "mention_count": 38
     },
     {
-      "label": "carne asada",
-      "mention_count": 18
+      "label": "Pastrami Burrito",
+      "mention_count": 68
     },
     {
-      "label": "soggy fries",
-      "mention_count": 18
+      "label": "carne asada",
+      "mention_count": 19
+    },
+    {
+      "label": "wet fries",
+      "mention_count": 17
+    },
+    {
+      "label": "half chicken",
+      "mention_count": 17
     },
     {
       "label": "vinegar sauce",
@@ -20,11 +28,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 47
-    },
-    {
-      "label": "half chicken",
-      "mention_count": 15
+      "mention_count": 45
     },
     {
       "label": "marinade",
@@ -35,15 +39,11 @@
       "mention_count": 93
     },
     {
-      "label": "grilled chicken",
-      "mention_count": 49
-    },
-    {
       "label": "cheese burger",
-      "mention_count": 30
+      "mention_count": 32
     }
   ],
-  "scraped_at": "2026-05-17T16:43:44Z",
+  "scraped_at": "2026-06-09T00:44:30Z",
   "city": "Los Angeles",
   "key": "dinos-chicken-burgers-los-angeles"
 }

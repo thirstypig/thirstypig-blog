@@ -11,39 +11,39 @@
       "mention_count": 34
     },
     {
-      "label": "happy hour oysters",
-      "mention_count": 4
+      "label": "happy hour",
+      "mention_count": 60
     },
     {
       "label": "pan roast",
-      "mention_count": 31
+      "mention_count": 30
     },
     {
       "label": "gumbo",
       "mention_count": 19
     },
     {
-      "label": "brussel sprouts",
-      "mention_count": 17
+      "label": "live music",
+      "mention_count": 4
     },
     {
       "label": "cioppino",
       "mention_count": 13
     },
     {
-      "label": "live music",
-      "mention_count": 3
+      "label": "brussel sprouts",
+      "mention_count": 17
+    },
+    {
+      "label": "happy hour oysters",
+      "mention_count": 4
     },
     {
       "label": "bacon wrapped shrimp",
       "mention_count": 10
-    },
-    {
-      "label": "soft shell crab",
-      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:47:33Z",
+  "scraped_at": "2026-06-09T00:40:19Z",
   "city": "San Gabriel",
   "key": "the-dive-san-gabrie"
 }

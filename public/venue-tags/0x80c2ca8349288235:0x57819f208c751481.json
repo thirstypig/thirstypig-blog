@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "italian food",
-      "mention_count": 342
+      "mention_count": 343
     },
     {
       "label": "torpedo",
@@ -12,11 +12,11 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 23
+      "mention_count": 22
     },
     {
       "label": "torpedo sandwich",
-      "mention_count": 43
+      "mention_count": 42
     },
     {
       "label": "meatball sandwich",
@@ -28,7 +28,7 @@
     },
     {
       "label": "fresh bread",
-      "mention_count": 58
+      "mention_count": 57
     },
     {
       "label": "subs",
@@ -43,7 +43,7 @@
       "mention_count": 23
     }
   ],
-  "scraped_at": "2026-05-16T06:04:28Z",
+  "scraped_at": "2026-06-08T22:40:07Z",
   "city": "Gardena",
   "key": "guilianos-gardena"
 }

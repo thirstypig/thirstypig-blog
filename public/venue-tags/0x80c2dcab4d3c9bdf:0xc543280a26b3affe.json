@@ -3,7 +3,7 @@
   "venue_name": "Top Restaurant",
   "chips": [
     {
-      "label": "crispy fried chicken",
+      "label": "Crispy Fried Chicken",
       "mention_count": 11
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "strip mall location",
-      "mention_count": 7
+      "label": "vermicelli",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-08T06:02:11Z",
+  "scraped_at": "2026-06-09T00:58:55Z",
   "city": "Pasadena",
   "key": "top-restaurant-pasadena"
 }

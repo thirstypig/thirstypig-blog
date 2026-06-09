@@ -27,6 +27,10 @@
       "mention_count": 2
     },
     {
+      "label": "spicy sauce",
+      "mention_count": 2
+    },
+    {
       "label": "bento",
       "mention_count": 3
     },
@@ -37,13 +41,9 @@
     {
       "label": "kind staff",
       "mention_count": 7
-    },
-    {
-      "label": "sushi chefs",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:10:31Z",
+  "scraped_at": "2026-06-08T22:49:12Z",
   "city": "Taipei",
   "key": "sushi-at-紗舞縭壽司屋shaburi-taipei"
 }

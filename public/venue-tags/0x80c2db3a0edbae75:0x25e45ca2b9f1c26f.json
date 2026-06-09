@@ -3,7 +3,7 @@
   "venue_name": "Dong Ting Xian",
   "chips": [
     {
-      "label": "stir-fried yellow beef",
+      "label": "stir fry beef",
       "mention_count": 8
     },
     {
@@ -15,12 +15,12 @@
       "mention_count": 9
     },
     {
-      "label": "stir-fried pork",
-      "mention_count": 6
+      "label": "stinky tofu",
+      "mention_count": 4
     },
     {
-      "label": "stinky tofu",
-      "mention_count": 3
+      "label": "stir-fried pork",
+      "mention_count": 6
     },
     {
       "label": "winter melon and pork rib soup",
@@ -43,7 +43,7 @@
       "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T06:36:45Z",
+  "scraped_at": "2026-06-09T00:34:23Z",
   "city": "San Gabriel",
   "key": "my-in-laws-favorite-hunan-restauran-san-gabrie"
 }

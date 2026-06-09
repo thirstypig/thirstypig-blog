@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b982519fa5ad:0xa0ca452e7a9eed4b",
+  "venue_name": "Father's Office",
+  "chips": [
+    {
+      "label": "burger",
+      "mention_count": 546
+    },
+    {
+      "label": "sweet potato fries",
+      "mention_count": 25
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 42
+    },
+    {
+      "label": "aioli",
+      "mention_count": 20
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 11
+    },
+    {
+      "label": "office burger",
+      "mention_count": 13
+    },
+    {
+      "label": "tots",
+      "mention_count": 13
+    },
+    {
+      "label": "fried chicken sandwich",
+      "mention_count": 8
+    },
+    {
+      "label": "blue cheese",
+      "mention_count": 20
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-09T01:05:37Z",
+  "city": "Los Angeles",
+  "key": "fathers-office-los-angele"
+}

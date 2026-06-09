@@ -16,11 +16,11 @@
     },
     {
       "label": "book selection",
-      "mention_count": 59
+      "mention_count": 57
     },
     {
       "label": "friendly staff",
-      "mention_count": 45
+      "mention_count": 44
     },
     {
       "label": "cozy place",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "zines",
-      "mention_count": 2
+      "label": "local bookstore",
+      "mention_count": 3
     },
     {
-      "label": "poetry",
-      "mention_count": 5
+      "label": "zines",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:44:28Z",
+  "scraped_at": "2026-06-09T00:40:49Z",
   "city": "Koreatown",
   "key": "stories-books-cafe-koreatown"
 }

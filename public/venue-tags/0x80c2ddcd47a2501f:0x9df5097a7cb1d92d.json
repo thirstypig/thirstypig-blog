@@ -8,11 +8,7 @@
     },
     {
       "label": "wagyu",
-      "mention_count": 6
-    },
-    {
-      "label": "fine dining",
-      "mention_count": 5
+      "mention_count": 7
     },
     {
       "label": "yakiniku",
@@ -23,8 +19,8 @@
       "mention_count": 4
     },
     {
-      "label": "caviar",
-      "mention_count": 2
+      "label": "fine dining",
+      "mention_count": 5
     },
     {
       "label": "omakase",
@@ -41,9 +37,13 @@
     {
       "label": "liquor menu",
       "mention_count": 3
+    },
+    {
+      "label": "meat quality",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T22:47:48Z",
+  "scraped_at": "2026-06-09T00:43:26Z",
   "city": "Pasadena",
   "key": "yakiya-pasadena"
 }

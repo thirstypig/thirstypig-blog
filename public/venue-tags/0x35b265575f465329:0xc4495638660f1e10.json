@@ -23,10 +23,6 @@
       "mention_count": 2
     },
     {
-      "label": "authentic italian food",
-      "mention_count": 2
-    },
-    {
       "label": "decor",
       "mention_count": 8
     },
@@ -41,9 +37,13 @@
     {
       "label": "longevity",
       "mention_count": 2
+    },
+    {
+      "label": "delicious dish",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:09:35Z",
+  "scraped_at": "2026-06-08T22:44:11Z",
   "city": "Shanghai",
   "key": "da-marcos-italian-fare-in-shanghai-shanghai"
 }
