@@ -21,6 +21,7 @@ type SectionId =
 	| "ig"
 	| "scraping"
 	| "status"
+	| "todo"
 	| "changelog"
 	| "roadmap";
 
@@ -34,7 +35,8 @@ const SECTIONS: Section[] = [
 	{ id: "ig", label: "Instagram sync", emoji: "📸" },
 	{ id: "scraping", label: "Venue-tags scraping", emoji: "🏷️" },
 	{ id: "status", label: "Pipeline status", emoji: "📊" },
-	{ id: "changelog", label: "Recent changes", emoji: "📝" },
+	{ id: "todo", label: "Todo", emoji: "✅" },
+	{ id: "changelog", label: "Completed", emoji: "📝" },
 	{ id: "roadmap", label: "Roadmap", emoji: "🗺️" },
 ];
 
@@ -465,12 +467,130 @@ grep -lrE '^placeId:' src/content/posts/ | wc -l`}</pre>
 	</>
 );
 
+const TodoSection = () => (
+	<>
+		<h1 style={s.h1}>Todo</h1>
+		<p style={s.subtitle}>
+			Smaller, actionable items. Macro initiatives live in Roadmap.
+		</p>
+
+		<h2 style={s.h2}>Photo import — backlog</h2>
+		<ul style={s.ul}>
+			<li>
+				<strong>127 MEDIUM-confidence matches</strong> — date matches, city
+				didn't match slug. Run{" "}
+				<code style={s.code}>cat /tmp/photo-matches.csv | grep MEDIUM</code>{" "}
+				and manually verify each folder before copying. Some will be right;
+				some are coincidental date collisions.
+			</li>
+			<li>
+				<strong>13 shared-folder cases</strong> — same-day folder matched to
+				multiple posts (e.g. 3 Shanghai restaurants on June 3, 2011). Need
+				manual photo selection per post — open each folder, identify which
+				photos belong to which restaurant, copy selectively.
+			</li>
+			<li>
+				<strong>257 NO_MATCH posts</strong> — no folder found. Many are
+				imageless-by-nature (editorial posts, trips without SSD photos). Review
+				the list in <code style={s.code}>/tmp/photo-matches.csv</code> to
+				confirm which genuinely have no photos vs. folder naming mismatches.
+			</li>
+			<li>
+				<strong>1,341 date-only folders</strong> on the SSD weren't matched
+				(format: <code style={s.code}>"April 1, 2007"</code>, no city prefix).
+				A second-pass date-only lookup could recover more MEDIUM-confidence
+				hits from the NO_MATCH pool.
+			</li>
+		</ul>
+
+		<h2 style={s.h2}>Venue tags — next batch</h2>
+		<ul style={s.ul}>
+			<li>
+				<strong>Tighten curator filters</strong> before next sweep. Add{" "}
+				<code style={s.code}>\bservice\b</code>,{" "}
+				<code style={s.code}>\brepair\b</code>,{" "}
+				<code style={s.code}>\bauto\b</code>; fix apostrophe-in-name
+				false-match; add length cap for sentence-shaped values. See{" "}
+				<code style={s.code}>docs/operator/curator-bugs.md</code>.
+			</li>
+			<li>
+				<strong>~664 posts still untagged.</strong> Run{" "}
+				<code style={s.code}>curate_candidates.py --min-posts 1</code> for
+				next batch. Each sweep ≈ 30 min, yields ~70–90 newly tagged posts.
+			</li>
+		</ul>
+
+		<h2 style={s.h2}>SEO P2s</h2>
+		<ul style={s.ul}>
+			<li>
+				<strong>~199 posts with duplicate titles</strong> — different posts,
+				same title string. Mostly IG posts with generic captions. Fix: set
+				a more descriptive <code style={s.code}>title</code> in frontmatter.
+			</li>
+			<li>
+				<strong>38 posts missing og:image</strong> — no{" "}
+				<code style={s.code}>heroImage</code> set. These get a default
+				og:image fallback. Fix: add a heroImage or leave as-is if truly
+				imageless.
+			</li>
+			<li>
+				<strong>431 venue posts need geocoding</strong> — have a{" "}
+				<code style={s.code}>location</code> field but no{" "}
+				<code style={s.code}>address</code> or{" "}
+				<code style={s.code}>coordinates</code>. The Google Places lookup
+				pipeline already handles this for tagged venues; these are posts
+				where <code style={s.code}>sync_post_placeids</code> hasn't run yet
+				or the venue wasn't in venues.yaml.
+			</li>
+		</ul>
+
+		<h2 style={s.h2}>Pending code todos (todos/001–003)</h2>
+		<ul style={s.ul}>
+			<li>
+				<code style={s.code}>001</code> — <strong>TinaCMS CORS errors on
+				production admin.</strong> Some admin API calls getting blocked.
+				Fix: add <code style={s.code}>TINA_PUBLIC_*</code> env vars and
+				verify allowed origins in TinaCMS cloud config.
+			</li>
+			<li>
+				<code style={s.code}>002</code> — <strong>Google Places API key
+				missing on Vercel.</strong> Key works locally via{" "}
+				<code style={s.code}>google-places-config.json</code> but isn't set
+				as a Vercel env var. Run{" "}
+				<code style={s.code}>vercel env add TINA_PUBLIC_GOOGLE_PLACES_API_KEY</code>.
+			</li>
+			<li>
+				<code style={s.code}>003</code> — <strong>Phase 2 enrichment
+				for ~820 imageless posts.</strong> AI-vision title/description pass
+				for posts that have images but generic titles. Low priority; only
+				matters for SEO.
+			</li>
+		</ul>
+
+		<h2 style={s.h2}>Code review todos pending triage (todos/015–022)</h2>
+		<p style={s.p}>
+			From the venue-tags arc. Highlights:
+		</p>
+		<ul style={s.ul}>
+			<li>
+				<code style={s.code}>021</code> — distinct exit codes for scraper
+				failure modes (auth-gated vs. network error vs. zero chips).
+			</li>
+			<li>
+				<code style={s.code}>022</code> —{" "}
+				<code style={s.code}>--check-auth</code> flag +{" "}
+				<code style={s.code}>probe_yelp.py</code> for periodic health checks.
+			</li>
+		</ul>
+	</>
+);
+
 const ChangelogSection = () => (
 	<>
-		<h1 style={s.h1}>Recent changes</h1>
+		<h1 style={s.h1}>Completed</h1>
 		<p style={s.subtitle}>
-			Operator-facing notes for the last few shipped arcs. Public
-			user-facing changelog at <code style={s.code}>/changelog</code>.
+			Shipped work, newest first. Public user-facing changelog at{" "}
+			<code style={s.code}>/changelog</code>.
 		</p>
 
 		<h2 style={s.h2}>June 9 — Admin image previews, code review, isSafeSrc tests (PRs #131–#133)</h2>
@@ -633,61 +753,39 @@ const RoadmapSection = () => (
 	<>
 		<h1 style={s.h1}>Roadmap</h1>
 		<p style={s.subtitle}>
-			What's queued, what's blocked, what's intentionally not happening.
+			Macro initiatives — large arcs, not task lists. Smaller actionable
+			items live in Todo.
 		</p>
 
-		<h2 style={s.h2}>Queued — venue-tags long tail</h2>
+		<h2 style={s.h2}>Queued</h2>
 		<ul style={s.ul}>
 			<li>
-				<strong>Tighten curator filters</strong> before next batch.
-				Add <code style={s.code}>\bservice\b</code>,{" "}
-				<code style={s.code}>\brepair\b</code>,{" "}
-				<code style={s.code}>\bauto\b</code>; fix the apostrophe-in-name
-				false-match bug; add length cap for sentence-shaped values.
+				<strong>Bold Red Poster redesign.</strong> Homepage + post layout
+				redesign is designed but not rolled out. The visual direction is
+				settled; this is an implementation arc.
 			</li>
 			<li>
-				<strong>Promote weekly cron to durable persistence.</strong>{" "}
-				The session-only cron dies when Claude restarts. Move to{" "}
-				<code style={s.code}>launchd</code> (local) or a{" "}
-				<code style={s.code}>schedule:</code> trigger in a GitHub
-				Actions workflow that does the curate→API→scrape→publish
-				cycle on Mondays.
+				<strong>Photo import — complete the long tail.</strong> 127 MEDIUM
+				and 13 shared-folder candidates from the SSD still need manual
+				review. 257 NO_MATCH posts may have photos in date-only folders.
+				Details in Todo.
 			</li>
 			<li>
-				<strong>Sweep remaining 552 single-post candidates</strong> in
-				batches of 100 once filters are tightened. Each batch ≈ 30
-				min and yields ~70–90 newly tagged posts at current quality.
-			</li>
-		</ul>
-
-		<h2 style={s.h2}>Queued — IG flow</h2>
-		<ul style={s.ul}>
-			<li>
-				<strong>Install the launchd watcher</strong> on the user's
-				Mac:{" "}
-				<code style={s.code}>
-					bash scripts/local/install_ig_watcher.sh
-				</code>
-				. Without it, the ZIP-in-Downloads → GitHub-release → workflow
-				chain is broken at step 3.
-			</li>
-		</ul>
-
-		<h2 style={s.h2}>Code review todos pending triage</h2>
-		<p style={s.p}>
-			11 P2/P3 todos created during the venue-tags arc still need
-			triage. Files in <code style={s.code}>todos/015–022</code>.
-			Highlights:
-		</p>
-		<ul style={s.ul}>
-			<li>
-				<code style={s.code}>021</code> — distinct exit codes for
-				scraper failure modes.
+				<strong>Venue tags — finish the long tail.</strong> ~664 posts
+				still untagged. Filter tightening + several more batches needed.
+				Current quality degrades below 50 Google reviews (mainland China,
+				obscure international). Accept that floor and stop pushing past it.
 			</li>
 			<li>
-				<code style={s.code}>022</code> — <code style={s.code}>--check-auth</code>{" "}
-				flag + <code style={s.code}>probe_yelp.py</code> for periodic
-				checks.
+				<strong>Comments system.</strong> Direction TBD — Webmentions /
+				Bridgy path rejected (Meta API lockdown, no-account constraint).
+				Alternative idea pending.
+			</li>
+			<li>
+				<strong>Venue tags cron — durable persistence.</strong> The
+				session-only cron dies when Claude restarts. Move to{" "}
+				<code style={s.code}>launchd</code> or a Monday GitHub Actions
+				workflow trigger.
 			</li>
 		</ul>
 
@@ -696,16 +794,14 @@ const RoadmapSection = () => (
 			<li>
 				<strong>Meta Graph API for IG sync.</strong> Walled for
 				personal-use Pages. Requires Business Verification +
-				registered business entity for a System User token. Not
-				justifiable for a personal blog. Memory at{" "}
-				<code style={s.code}>project_meta_api_wall.md</code>.
+				registered business entity. Not justifiable for a personal blog.
+				Memory at <code style={s.code}>project_meta_api_wall.md</code>.
 			</li>
 			<li>
 				<strong>Yelp scraping at scale.</strong> IP-blocked since
 				2026-04-27. Resumption playbook in{" "}
-				<code style={s.code}>scripts/venue-tags/YELP.md</code>;
-				accept that Google chips are sufficient and move on unless
-				there's a specific reason to revisit.
+				<code style={s.code}>scripts/venue-tags/YELP.md</code>; Google
+				chips are sufficient.
 			</li>
 		</ul>
 	</>
@@ -724,6 +820,7 @@ const SECTION_RENDERERS: Record<SectionId, () => React.ReactElement> = {
 	ig: InstagramSection,
 	scraping: ScrapingSection,
 	status: StatusSection,
+	todo: TodoSection,
 	changelog: ChangelogSection,
 	roadmap: RoadmapSection,
 };
