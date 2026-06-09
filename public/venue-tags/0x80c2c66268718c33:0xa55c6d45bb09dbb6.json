@@ -23,8 +23,8 @@
       "mention_count": 94
     },
     {
-      "label": "al pastor tacos",
-      "mention_count": 19
+      "label": "al pastor burrito",
+      "mention_count": 13
     },
     {
       "label": "lengua",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-06-04T20:26:13Z",
+  "scraped_at": "2026-06-09T00:56:16Z",
   "city": "East LA",
   "key": "carnitas-michoacán-east-la"
 }

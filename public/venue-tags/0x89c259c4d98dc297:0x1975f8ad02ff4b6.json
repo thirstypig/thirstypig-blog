@@ -7,8 +7,12 @@
       "mention_count": 46
     },
     {
-      "label": "fried chicken sandwich",
-      "mention_count": 14
+      "label": "spicy chicken sandwich",
+      "mention_count": 20
+    },
+    {
+      "label": "Fried Chicken Sandwich",
+      "mention_count": 13
     },
     {
       "label": "jalapeño seasoning",
@@ -21,10 +25,6 @@
     {
       "label": "mac salad",
       "mention_count": 5
-    },
-    {
-      "label": "spicy chicken sandwich",
-      "mention_count": 19
     },
     {
       "label": "honey mustard",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:38:08Z",
+  "scraped_at": "2026-06-09T00:35:28Z",
   "city": "New York",
   "key": "fried-chickn-at-fuku-at-hudson-yard-new-york"
 }

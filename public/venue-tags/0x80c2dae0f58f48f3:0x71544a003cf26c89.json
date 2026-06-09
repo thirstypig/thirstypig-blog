@@ -19,12 +19,12 @@
       "mention_count": 22
     },
     {
-      "label": "bulgogi",
-      "mention_count": 20
+      "label": "soon tofu",
+      "mention_count": 4
     },
     {
-      "label": "Korean Tofu Soup",
-      "mention_count": 4
+      "label": "bulgogi",
+      "mention_count": 20
     },
     {
       "label": "bibimbap",
@@ -43,7 +43,7 @@
       "mention_count": 24
     }
   ],
-  "scraped_at": "2026-05-16T06:36:03Z",
+  "scraped_at": "2026-06-09T00:33:53Z",
   "city": "San Gabriel",
   "key": "young-dong-tofu-san-gabrie"
 }

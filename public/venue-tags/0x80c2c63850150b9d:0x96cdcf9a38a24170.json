@@ -8,7 +8,7 @@
     },
     {
       "label": "omakase",
-      "mention_count": 31
+      "mention_count": 32
     },
     {
       "label": "bar seating",
@@ -16,11 +16,7 @@
     },
     {
       "label": "fresh fish",
-      "mention_count": 67
-    },
-    {
-      "label": "long lines",
-      "mention_count": 38
+      "mention_count": 65
     },
     {
       "label": "sashimi deluxe",
@@ -36,14 +32,18 @@
     },
     {
       "label": "wait time",
-      "mention_count": 116
+      "mention_count": 115
+    },
+    {
+      "label": "authentic sushi",
+      "mention_count": 14
     },
     {
       "label": "bluefin tuna",
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T05:54:34Z",
+  "scraped_at": "2026-06-08T22:31:51Z",
   "city": "Los Angeles",
   "key": "sushi-gen-la"
 }

@@ -27,10 +27,6 @@
       "mention_count": 12
     },
     {
-      "label": "chile relleno omlet",
-      "mention_count": 2
-    },
-    {
       "label": "chicken fried steak",
       "mention_count": 2
     },
@@ -41,9 +37,13 @@
     {
       "label": "hole in the wall",
       "mention_count": 6
+    },
+    {
+      "label": "omelette",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:36:48Z",
+  "scraped_at": "2026-06-09T00:34:26Z",
   "city": "Los Angeles",
   "key": "jennys-kitchen-los-angele"
 }

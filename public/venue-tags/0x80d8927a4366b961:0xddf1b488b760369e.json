@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "fish tacos",
-      "mention_count": 608
+      "mention_count": 606
     },
     {
-      "label": "shrimp tacos",
-      "mention_count": 377
+      "label": "prawn tacos",
+      "mention_count": 374
     },
     {
       "label": "limited seating",
-      "mention_count": 15
+      "mention_count": 14
     },
     {
       "label": "fish and shrimp tacos",
-      "mention_count": 74
+      "mention_count": 77
     },
     {
       "label": "live music",
@@ -24,7 +24,7 @@
     },
     {
       "label": "battered fish tacos",
-      "mention_count": 17
+      "mention_count": 16
     },
     {
       "label": "outdoor seating",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:07:32Z",
+  "scraped_at": "2026-06-08T22:42:59Z",
   "city": "Los Feliz",
   "key": "best-fish-tacos-in-ensenada-los-feliz"
 }

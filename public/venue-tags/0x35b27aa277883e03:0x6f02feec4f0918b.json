@@ -1,0 +1,17 @@
+{
+  "place_id": "0x35b27aa277883e03:0x6f02feec4f0918b",
+  "venue_name": "Tsui Wah Restaurant",
+  "chips": [
+    {
+      "label": "dim sum restaurant",
+      "mention_count": 2
+    },
+    {
+      "label": "milk tea",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-09T01:05:33Z",
+  "city": "Shanghai",
+  "key": "tsui-wah-restaurant-翠华餐厅-shanghai"
+}

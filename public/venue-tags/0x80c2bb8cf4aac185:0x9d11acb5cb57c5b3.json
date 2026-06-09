@@ -8,42 +8,42 @@
     },
     {
       "label": "food court",
-      "mention_count": 244
+      "mention_count": 245
     },
     {
       "label": "outdoor mall",
-      "mention_count": 136
+      "mention_count": 132
     },
     {
       "label": "brand selection",
-      "mention_count": 122
+      "mention_count": 123
     },
     {
       "label": "remodel",
-      "mention_count": 266
+      "mention_count": 261
     },
     {
       "label": "food options",
-      "mention_count": 204
+      "mention_count": 202
     },
     {
       "label": "variety of stores",
-      "mention_count": 175
+      "mention_count": 168
     },
     {
       "label": "christmas decorations",
       "mention_count": 35
     },
     {
-      "label": "modern design",
-      "mention_count": 26
+      "label": "upscale mall",
+      "mention_count": 43
     },
     {
-      "label": "upscale mall",
-      "mention_count": 38
+      "label": "movies",
+      "mention_count": 255
     }
   ],
-  "scraped_at": "2026-05-16T06:05:03Z",
+  "scraped_at": "2026-06-08T22:40:41Z",
   "city": "San Gabriel Valley",
   "key": "what-high-school-kids-eat-to-grow-b-san-gabrie"
 }

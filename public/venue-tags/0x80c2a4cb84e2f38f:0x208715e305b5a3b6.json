@@ -27,23 +27,23 @@
       "mention_count": 5
     },
     {
+      "label": "box seats",
+      "mention_count": 4
+    },
+    {
       "label": "intimate theater",
       "mention_count": 4
     },
     {
-      "label": "modern look",
+      "label": "modern design",
       "mention_count": 3
     },
     {
-      "label": "comfortable seats",
-      "mention_count": 11
-    },
-    {
-      "label": "box seats",
+      "label": "clean theater",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:36:52Z",
+  "scraped_at": "2026-06-09T00:34:29Z",
   "city": "Santa Monica",
   "key": "the-eli-edythe-broad-stage-santa-moni"
 }

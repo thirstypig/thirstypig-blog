@@ -68,6 +68,7 @@ images:
 - /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/44.jpg
 - /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/45.jpg
 - /images/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai/46.jpg
+placeId: "0x3442abd1ad179c45:0x2af77f3fe7862ca7"
 ---
 
 

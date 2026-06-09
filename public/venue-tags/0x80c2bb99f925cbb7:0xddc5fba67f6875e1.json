@@ -3,20 +3,16 @@
   "venue_name": "Chubby Curry",
   "chips": [
     {
-      "label": "chicken katsu",
-      "mention_count": 29
-    },
-    {
       "label": "wagyu",
       "mention_count": 58
     },
     {
-      "label": "wagyu burger",
-      "mention_count": 21
+      "label": "chicken katsu",
+      "mention_count": 29
     },
     {
-      "label": "wagyu steak rice bowl",
-      "mention_count": 4
+      "label": "wagyu burger",
+      "mention_count": 21
     },
     {
       "label": "dumpling",
@@ -25,6 +21,10 @@
     {
       "label": "curry fries",
       "mention_count": 7
+    },
+    {
+      "label": "wagyu steak rice bowl halal 顶流和牛牛排饭配温泉蛋",
+      "mention_count": 4
     },
     {
       "label": "duck",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-06-08T06:02:33Z",
+  "scraped_at": "2026-06-09T00:59:06Z",
   "city": "Los Angeles",
   "key": "chubby-curry-los-angeles"
 }

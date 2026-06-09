@@ -3,7 +3,7 @@
   "venue_name": "Westside Tavern",
   "chips": [
     {
-      "label": "sticky toffee pudding",
+      "label": "sticky toffee",
       "mention_count": 10
     },
     {
@@ -19,8 +19,8 @@
       "mention_count": 2
     },
     {
-      "label": "cheeseburger",
-      "mention_count": 8
+      "label": "fried chicken",
+      "mention_count": 3
     },
     {
       "label": "pleasant staff",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "mall",
-      "mention_count": 8
-    },
-    {
       "label": "salads",
       "mention_count": 2
+    },
+    {
+      "label": "mall",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-17T16:43:09Z",
+  "scraped_at": "2026-06-09T00:44:00Z",
   "city": "Culver City",
   "key": "westside-tavern-culver-city"
 }

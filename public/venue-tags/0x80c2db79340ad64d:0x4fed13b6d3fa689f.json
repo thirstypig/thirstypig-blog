@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 157
+      "mention_count": 156
     },
     {
       "label": "drive thru",
-      "mention_count": 80
+      "mention_count": 83
     },
     {
       "label": "chili cheese fries",
@@ -27,23 +27,23 @@
       "mention_count": 75
     },
     {
+      "label": "bacon avocado cheeseburger",
+      "mention_count": 22
+    },
+    {
       "label": "burgers",
       "mention_count": 108
     },
     {
-      "label": "sweet potato fries",
+      "label": "tuna melt",
       "mention_count": 17
     },
     {
-      "label": "tuna melt",
-      "mention_count": 16
-    },
-    {
-      "label": "chicken salad",
-      "mention_count": 22
+      "label": "sweet potato fries",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-16T06:27:44Z",
+  "scraped_at": "2026-06-09T00:27:25Z",
   "city": "Pasadena",
   "key": "the-original-tops-pasadena"
 }

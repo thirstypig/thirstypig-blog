@@ -12,7 +12,7 @@
     },
     {
       "label": "french toast",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "label": "chicken pot pie",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "shakes",
-      "mention_count": 5
+      "label": "caramelized onions",
+      "mention_count": 2
     },
     {
-      "label": "caramelized onions",
+      "label": "biscuit and gravy",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:48:30Z",
+  "scraped_at": "2026-06-09T00:40:38Z",
   "city": "Downtown LA",
   "key": "favorite-diner-downtown-l"
 }

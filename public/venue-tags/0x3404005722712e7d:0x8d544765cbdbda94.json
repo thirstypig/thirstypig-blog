@@ -3,19 +3,19 @@
   "venue_name": "Jade Garden (Causeway Bay)",
   "chips": [
     {
-      "label": "hong kong style dim sum",
+      "label": "yum cha",
       "mention_count": 19
     },
     {
       "label": "dim sum cart",
-      "mention_count": 10
+      "mention_count": 9
     },
     {
       "label": "comfortable environment",
-      "mention_count": 11
+      "mention_count": 10
     },
     {
-      "label": "nostalgic feeling",
+      "label": "nostalgic",
       "mention_count": 9
     },
     {
@@ -23,19 +23,19 @@
       "mention_count": 3
     },
     {
-      "label": "char siu pastry",
+      "label": "char siu",
       "mention_count": 2
-    },
-    {
-      "label": "roasted goose",
-      "mention_count": 3
     },
     {
       "label": "siu mai",
       "mention_count": 3
     },
     {
-      "label": "dish selection",
+      "label": "roast goose",
+      "mention_count": 3
+    },
+    {
+      "label": "set menu",
       "mention_count": 5
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:02:35Z",
+  "scraped_at": "2026-06-08T22:38:14Z",
   "city": "Hong Kong",
   "key": "點心dim-sum-jade-garden-hong-kong"
 }

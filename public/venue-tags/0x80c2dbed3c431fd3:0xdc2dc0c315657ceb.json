@@ -3,7 +3,7 @@
   "venue_name": "喜粤 Joy's Express",
   "chips": [
     {
-      "label": "northeastern cuisine",
+      "label": "northern chinese food",
       "mention_count": 12
     },
     {
@@ -31,19 +31,19 @@
       "mention_count": 3
     },
     {
+      "label": "abalone",
+      "mention_count": 3
+    },
+    {
+      "label": "popcorn chicken",
+      "mention_count": 2
+    },
+    {
       "label": "friendly staff",
       "mention_count": 9
-    },
-    {
-      "label": "chicken wings",
-      "mention_count": 3
-    },
-    {
-      "label": "yam",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:36:07Z",
+  "scraped_at": "2026-06-09T00:33:56Z",
   "city": "San Gabriel",
   "key": "chuans-san-gabrie"
 }

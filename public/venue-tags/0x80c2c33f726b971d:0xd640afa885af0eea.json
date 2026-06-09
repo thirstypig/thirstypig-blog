@@ -3,15 +3,7 @@
   "venue_name": "Pulpit Cupcakes Polkatots Cupcakes",
   "chips": [
     {
-      "label": "mini cupcakes",
-      "mention_count": 3
-    },
-    {
       "label": "simple ordering",
-      "mention_count": 2
-    },
-    {
-      "label": "understanding staff",
       "mention_count": 2
     },
     {
@@ -41,9 +33,17 @@
     {
       "label": "door",
       "mention_count": 3
+    },
+    {
+      "label": "understanding staff",
+      "mention_count": 2
+    },
+    {
+      "label": "phone call",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:04:20Z",
+  "scraped_at": "2026-06-08T22:39:59Z",
   "city": "Pasadena",
   "key": "polkatots-pasadena"
 }

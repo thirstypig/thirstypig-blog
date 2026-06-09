@@ -1,0 +1,49 @@
+{
+  "place_id": "0x31752dcce50c9cc7:0xed0cefffaf71612f",
+  "venue_name": "Quán Lẩu Dê Hải Nam",
+  "chips": [
+    {
+      "label": "goat",
+      "mention_count": 28
+    },
+    {
+      "label": "goat hotpot",
+      "mention_count": 7
+    },
+    {
+      "label": "okra dish",
+      "mention_count": 4
+    },
+    {
+      "label": "steamed salted chicken",
+      "mention_count": 3
+    },
+    {
+      "label": "private room",
+      "mention_count": 3
+    },
+    {
+      "label": "hot pot",
+      "mention_count": 3
+    },
+    {
+      "label": "spacious space",
+      "mention_count": 5
+    },
+    {
+      "label": "fast serving",
+      "mention_count": 2
+    },
+    {
+      "label": "dipping sauce",
+      "mention_count": 2
+    },
+    {
+      "label": "diverse menu",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-09T01:02:48Z",
+  "city": "Ho Chi Minh City",
+  "key": "quán-lẩu-dê-306-ho-chi-min"
+}

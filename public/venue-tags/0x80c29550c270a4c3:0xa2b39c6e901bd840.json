@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c29550c270a4c3:0xa2b39c6e901bd840",
   "venue_name": "Inspire Martial Arts & Fitness",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:41:18Z",
+  "chips": [
+    {
+      "label": "kickboxing trial",
+      "mention_count": 7
+    },
+    {
+      "label": "fun classes",
+      "mention_count": 8
+    },
+    {
+      "label": "black belt",
+      "mention_count": 5
+    },
+    {
+      "label": "live classes",
+      "mention_count": 2
+    },
+    {
+      "label": "dedicated instructors",
+      "mention_count": 3
+    },
+    {
+      "label": "welcoming atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "caring staff",
+      "mention_count": 3
+    },
+    {
+      "label": "reinforce values",
+      "mention_count": 2
+    },
+    {
+      "label": "leadership skills",
+      "mention_count": 3
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:12Z",
   "city": "Burbank",
   "key": "inspire-martial-arts-fitness-burbank"
 }

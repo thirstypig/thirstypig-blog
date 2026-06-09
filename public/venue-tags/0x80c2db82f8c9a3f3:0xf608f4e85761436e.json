@@ -3,20 +3,16 @@
   "venue_name": "Baking With Ish",
   "chips": [
     {
+      "label": "pies",
+      "mention_count": 12
+    },
+    {
       "label": "ube pastries",
       "mention_count": 3
     },
     {
-      "label": "pies",
-      "mention_count": 11
-    },
-    {
       "label": "brioche",
       "mention_count": 3
-    },
-    {
-      "label": "ube cheese pie",
-      "mention_count": 2
     },
     {
       "label": "banana bread",
@@ -35,6 +31,10 @@
       "mention_count": 2
     },
     {
+      "label": "ube cheese pie",
+      "mention_count": 2
+    },
+    {
       "label": "ube cheese pandesal",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:40:17Z",
+  "scraped_at": "2026-06-09T00:37:24Z",
   "city": "San Gabriel",
   "key": "baking-with-ish-san-gabrie"
 }

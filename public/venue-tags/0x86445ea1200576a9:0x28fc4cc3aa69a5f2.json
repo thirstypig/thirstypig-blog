@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "pork steak",
-      "mention_count": 96
+      "mention_count": 97
     },
     {
       "label": "brisket",
-      "mention_count": 394
+      "mention_count": 397
     },
     {
       "label": "texas bbq",
-      "mention_count": 36
+      "mention_count": 37
     },
     {
       "label": "banana pudding",
@@ -20,7 +20,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 103
+      "mention_count": 99
     },
     {
       "label": "jalapeño sausage",
@@ -43,7 +43,7 @@
       "mention_count": 52
     }
   ],
-  "scraped_at": "2026-05-16T06:25:26Z",
+  "scraped_at": "2026-06-09T00:25:28Z",
   "city": "Austin",
   "key": "snows-bbq-austin"
 }

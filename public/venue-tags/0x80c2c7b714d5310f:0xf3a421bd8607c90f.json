@@ -8,42 +8,42 @@
     },
     {
       "label": "cash only",
-      "mention_count": 91
+      "mention_count": 82
     },
     {
       "label": "counter seating",
-      "mention_count": 75
-    },
-    {
-      "label": "ham and cheese omelet",
-      "mention_count": 18
+      "mention_count": 73
     },
     {
       "label": "coleslaw",
       "mention_count": 111
     },
     {
-      "label": "portions",
-      "mention_count": 223
-    },
-    {
       "label": "hashbrowns",
       "mention_count": 48
     },
     {
+      "label": "portions",
+      "mention_count": 213
+    },
+    {
       "label": "pancakes",
-      "mention_count": 159
+      "mention_count": 149
     },
     {
       "label": "long lines",
-      "mention_count": 109
+      "mention_count": 108
     },
     {
       "label": "biscuits and gravy",
       "mention_count": 30
+    },
+    {
+      "label": "chicken fried steak",
+      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-16T06:02:27Z",
+  "scraped_at": "2026-06-08T22:38:06Z",
   "city": "Downtown LA",
   "key": "pantry-downtown-l"
 }

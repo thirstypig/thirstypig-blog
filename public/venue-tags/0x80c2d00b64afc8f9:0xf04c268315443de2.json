@@ -27,10 +27,6 @@
       "mention_count": 2
     },
     {
-      "label": "com tam",
-      "mention_count": 2
-    },
-    {
       "label": "fried fish",
       "mention_count": 3
     },
@@ -41,9 +37,13 @@
     {
       "label": "patient servers",
       "mention_count": 2
+    },
+    {
+      "label": "brisket",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:31:36Z",
+  "scraped_at": "2026-06-09T00:30:26Z",
   "city": "San Gabriel Valley",
   "key": "pho-at-pho-fillet-2-in-san-gabrie"
 }

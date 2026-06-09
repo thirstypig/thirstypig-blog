@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "Chinese architecture",
-      "mention_count": 17
-    },
-    {
-      "label": "souvenirs",
-      "mention_count": 94
-    },
-    {
-      "label": "lanterns",
-      "mention_count": 13
-    },
-    {
-      "label": "xiao long bao",
-      "mention_count": 28
-    },
-    {
-      "label": "bazaar",
-      "mention_count": 10
+      "mention_count": 18
     },
     {
       "label": "traditional architecture",
       "mention_count": 8
     },
     {
+      "label": "souvenirs",
+      "mention_count": 98
+    },
+    {
+      "label": "lanterns",
+      "mention_count": 14
+    },
+    {
+      "label": "xiao long bao",
+      "mention_count": 29
+    },
+    {
+      "label": "bazaar",
+      "mention_count": 10
+    },
+    {
       "label": "evening lights",
-      "mention_count": 20
+      "mention_count": 22
     },
     {
       "label": "souvenir shops",
       "mention_count": 18
     },
     {
-      "label": "city god temple",
-      "mention_count": 4
+      "label": "shopping street",
+      "mention_count": 8
     },
     {
-      "label": "shopping street",
-      "mention_count": 7
+      "label": "city god temple",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:17:34Z",
+  "scraped_at": "2026-06-09T00:11:48Z",
   "city": "Shanghai",
   "key": "yucca-shanghai"
 }

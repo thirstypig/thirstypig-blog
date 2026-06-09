@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "steak and eggs",
-      "mention_count": 96
+      "mention_count": 97
     },
     {
       "label": "spicy pork chops",
@@ -12,7 +12,7 @@
     },
     {
       "label": "fried rice",
-      "mention_count": 102
+      "mention_count": 103
     },
     {
       "label": "hash browns",
@@ -35,15 +35,15 @@
       "mention_count": 16
     },
     {
-      "label": "spicy orange chicken",
-      "mention_count": 5
+      "label": "french toast",
+      "mention_count": 10
     },
     {
-      "label": "french toast",
+      "label": "egg rolls",
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:07:05Z",
+  "scraped_at": "2026-06-08T22:42:32Z",
   "city": "Dtla",
   "key": "uncle-johns-ham-eggs-dtla"
 }

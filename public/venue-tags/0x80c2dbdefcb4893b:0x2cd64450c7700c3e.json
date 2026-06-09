@@ -28,7 +28,7 @@
     },
     {
       "label": "welcoming staff",
-      "mention_count": 5
+      "mention_count": 7
     },
     {
       "label": "outdoor dining",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:07:13Z",
+  "scraped_at": "2026-06-08T22:42:40Z",
   "city": "Arcadia",
   "key": "tokyo-wako-arcadia"
 }

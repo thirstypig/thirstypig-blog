@@ -23,6 +23,7 @@ coordinates:
   lng: 121.444505
 cuisine:
 - Chinese
+placeId: "0x35b27aac834998f5:0x428da9a11bf389b8"
 ---
 
 After living in Shanghai for awhile, I realize that I have developed a craving and tolerance for spicy food. Hunan’s spicy cuisine rises up to the top of my list of favored spicy dishes. With [Di Shui Dong](http://www.thethirstypig.com/2010/12/16/di-shui-dong-滴水洞-shanghai-hunan-cuisine-at-its-best/) and [Guyi](http://www.thethirstypig.com/2010/05/14/guyi-hunan-restaurant/) are the two more well-known establishments in Shanghai, now enters Spicy Moment.

@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2c71b324e1a03:0x42c1779426767837",
   "venue_name": "Pikunico",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:41:41Z",
+  "chips": [
+    {
+      "label": "chicken sandwich",
+      "mention_count": 38
+    },
+    {
+      "label": "karaage",
+      "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 3
+    },
+    {
+      "label": "onigiri",
+      "mention_count": 10
+    },
+    {
+      "label": "spicy sandwich",
+      "mention_count": 2
+    },
+    {
+      "label": "sweet potato",
+      "mention_count": 12
+    },
+    {
+      "label": "gluten free",
+      "mention_count": 13
+    },
+    {
+      "label": "egg drop soup",
+      "mention_count": 4
+    },
+    {
+      "label": "ume creme fraiche",
+      "mention_count": 3
+    },
+    {
+      "label": "daikon",
+      "mention_count": 4
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:18Z",
   "city": "Downtown LA",
   "key": "pikunico-downtown-l"
 }

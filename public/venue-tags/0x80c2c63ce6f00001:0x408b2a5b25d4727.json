@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "hummus",
-      "mention_count": 198
+      "mention_count": 197
     },
     {
       "label": "lamb neck shawarma",
@@ -24,26 +24,26 @@
     },
     {
       "label": "bar seating",
-      "mention_count": 21
+      "mention_count": 18
     },
     {
       "label": "Oyster Mushroom Kebab",
-      "mention_count": 101
+      "mention_count": 99
     },
     {
-      "label": "grilled prawns",
-      "mention_count": 55
+      "label": "Grilled Prawns",
+      "mention_count": 54
     },
     {
       "label": "duck",
-      "mention_count": 104
+      "mention_count": 103
     },
     {
       "label": "middle eastern food",
-      "mention_count": 44
+      "mention_count": 43
     }
   ],
-  "scraped_at": "2026-05-16T05:59:23Z",
+  "scraped_at": "2026-06-08T22:36:01Z",
   "city": "Downtown LA",
   "key": "bavel-downtown-l"
 }

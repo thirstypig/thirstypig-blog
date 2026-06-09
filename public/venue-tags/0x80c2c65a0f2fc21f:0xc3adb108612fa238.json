@@ -11,6 +11,10 @@
       "mention_count": 10
     },
     {
+      "label": "orange chicken",
+      "mention_count": 7
+    },
+    {
       "label": "kung pao chicken",
       "mention_count": 7
     },
@@ -27,10 +31,6 @@
       "mention_count": 4
     },
     {
-      "label": "Orange Chicken",
-      "mention_count": 7
-    },
-    {
       "label": "egg foo young",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T22:45:22Z",
+  "scraped_at": "2026-06-09T00:41:28Z",
   "city": "Silver Lake",
   "key": "hop-li-seafood-restaurant-silver-lak"
 }

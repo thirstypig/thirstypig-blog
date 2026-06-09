@@ -1,0 +1,41 @@
+{
+  "place_id": "0x35b27000c138bbf5:0xab4aca350a06bd26",
+  "venue_name": "Nepali Kitchen",
+  "chips": [
+    {
+      "label": "nepalese food",
+      "mention_count": 4
+    },
+    {
+      "label": "thali",
+      "mention_count": 2
+    },
+    {
+      "label": "curry",
+      "mention_count": 2
+    },
+    {
+      "label": "spicyness",
+      "mention_count": 2
+    },
+    {
+      "label": "polite staff",
+      "mention_count": 2
+    },
+    {
+      "label": "fresh food",
+      "mention_count": 2
+    },
+    {
+      "label": "atmosphere",
+      "mention_count": 6
+    },
+    {
+      "label": "food",
+      "mention_count": 7
+    }
+  ],
+  "scraped_at": "2026-06-09T01:01:16Z",
+  "city": "Shanghai",
+  "key": "nepali-kitchen-shanghai"
+}

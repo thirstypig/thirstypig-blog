@@ -3,11 +3,11 @@
   "venue_name": "wild dogs grill dtla",
   "chips": [
     {
-      "label": "bacon wrapped hotdogs",
+      "label": "al pastor tacos",
       "mention_count": 2
     },
     {
-      "label": "al pastor tacos",
+      "label": "bacon wrapped hotdogs",
       "mention_count": 2
     },
     {
@@ -19,12 +19,12 @@
       "mention_count": 4
     },
     {
-      "label": "bulgogi",
-      "mention_count": 3
-    },
-    {
       "label": "pricing",
       "mention_count": 5
+    },
+    {
+      "label": "teriyaki",
+      "mention_count": 2
     },
     {
       "label": "fries",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:36:18Z",
+  "scraped_at": "2026-06-09T00:34:04Z",
   "city": "Dtla",
   "key": "bacon-wrapped-hotdogs-outside-of-st-dtla"
 }

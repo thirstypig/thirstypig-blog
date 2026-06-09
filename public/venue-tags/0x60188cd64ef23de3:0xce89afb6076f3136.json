@@ -11,28 +11,20 @@
       "mention_count": 10
     },
     {
-      "label": "smoothie",
-      "mention_count": 21
-    },
-    {
-      "label": "tartar sauce",
-      "mention_count": 16
-    },
-    {
-      "label": "counter seats",
+      "label": "countertops",
       "mention_count": 25
     },
     {
-      "label": "access from shinjuku station",
+      "label": "shinjuku station",
       "mention_count": 13
     },
     {
-      "label": "self-checkout",
-      "mention_count": 11
+      "label": "spaciousness of the store",
+      "mention_count": 10
     },
     {
-      "label": "hamburger patty",
-      "mention_count": 7
+      "label": "self service",
+      "mention_count": 11
     },
     {
       "label": "third burger",
@@ -41,9 +33,17 @@
     {
       "label": "touch panel ordering",
       "mention_count": 5
+    },
+    {
+      "label": "red bean paste burger",
+      "mention_count": 4
+    },
+    {
+      "label": "grilled chicken burger",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:30:34Z",
+  "scraped_at": "2026-06-09T00:29:14Z",
   "city": "Tokyo",
   "key": "the-3rd-burger-tokyo"
 }

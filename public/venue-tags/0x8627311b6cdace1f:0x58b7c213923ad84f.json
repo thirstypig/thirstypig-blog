@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "thin fried catfish",
-      "mention_count": 202
+      "mention_count": 198
     },
     {
       "label": "turtle soup",
@@ -32,18 +32,18 @@
     },
     {
       "label": "hush puppies",
-      "mention_count": 85
+      "mention_count": 86
     },
     {
       "label": "quick seating",
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "label": "outdoor seating",
       "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:27:17Z",
+  "scraped_at": "2026-06-09T00:26:51Z",
   "city": "New Orleans",
   "key": "middendorfs-new-orlean"
 }

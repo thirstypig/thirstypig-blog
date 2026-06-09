@@ -3,20 +3,16 @@
   "venue_name": "Dong Nguyen Restaurant",
   "chips": [
     {
-      "label": "hainan chicken",
-      "mention_count": 29
-    },
-    {
       "label": "chicken with rice",
-      "mention_count": 4
-    },
-    {
-      "label": "quiet atmosphere",
       "mention_count": 4
     },
     {
       "label": "cornish hen",
       "mention_count": 2
+    },
+    {
+      "label": "quiet atmosphere",
+      "mention_count": 4
     },
     {
       "label": "cash only",
@@ -41,9 +37,13 @@
     {
       "label": "cleanliness",
       "mention_count": 2
+    },
+    {
+      "label": "salty",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:07:16Z",
+  "scraped_at": "2026-06-08T22:42:43Z",
   "city": "Alhambra",
   "key": "dong-nguyen-restaurant-alhambra"
 }

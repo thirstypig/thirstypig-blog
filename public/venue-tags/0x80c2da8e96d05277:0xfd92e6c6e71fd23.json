@@ -12,7 +12,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 46
+      "mention_count": 45
     },
     {
       "label": "outdoor seating",
@@ -32,7 +32,7 @@
     },
     {
       "label": "wait time",
-      "mention_count": 32
+      "mention_count": 30
     },
     {
       "label": "double double",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:10:42Z",
+  "scraped_at": "2026-06-08T22:49:28Z",
   "city": "Rosemead",
   "key": "in-n-out-burger-rosemead"
 }

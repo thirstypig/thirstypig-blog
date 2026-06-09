@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "ocean view",
-      "mention_count": 21
+      "mention_count": 23
     },
     {
       "label": "lobster mac and cheese",
@@ -35,15 +35,15 @@
       "mention_count": 4
     },
     {
-      "label": "cocktails",
-      "mention_count": 21
-    },
-    {
       "label": "matcha tiramisu",
       "mention_count": 3
+    },
+    {
+      "label": "cocktails",
+      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-16T06:38:57Z",
+  "scraped_at": "2026-06-09T00:36:12Z",
   "city": "Malibu",
   "key": "malibu-farm-restaurant-bar-malibu"
 }

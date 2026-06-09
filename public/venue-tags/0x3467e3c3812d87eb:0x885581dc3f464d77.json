@@ -8,7 +8,7 @@
     },
     {
       "label": "whisky tasting",
-      "mention_count": 133
+      "mention_count": 130
     },
     {
       "label": "environment",
@@ -43,7 +43,7 @@
       "mention_count": 38
     }
   ],
-  "scraped_at": "2026-06-08T06:03:02Z",
+  "scraped_at": "2026-06-09T00:59:20Z",
   "city": "Yilan",
   "key": "kavalan-distillery-yilan"
 }

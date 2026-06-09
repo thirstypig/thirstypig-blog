@@ -8,7 +8,7 @@
     },
     {
       "label": "you tiao",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
       "label": "purple rice rolls",
@@ -19,15 +19,15 @@
       "mention_count": 28
     },
     {
+      "label": "sticky rice roll",
+      "mention_count": 6
+    },
+    {
       "label": "scallion pancake",
       "mention_count": 8
     },
     {
-      "label": "sticky rice roll",
-      "mention_count": 5
-    },
-    {
-      "label": "xiaolongbao",
+      "label": "XLB",
       "mention_count": 9
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:40:25Z",
+  "scraped_at": "2026-06-09T00:37:30Z",
   "city": "Arcadia",
   "key": "yi-mei-arcadia"
 }

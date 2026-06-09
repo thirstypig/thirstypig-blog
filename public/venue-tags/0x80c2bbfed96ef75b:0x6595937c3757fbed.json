@@ -8,19 +8,19 @@
     },
     {
       "label": "salmon pizza",
-      "mention_count": 56
+      "mention_count": 57
     },
     {
       "label": "outdoor seating",
       "mention_count": 43
     },
     {
-      "label": "agnolotti",
-      "mention_count": 13
-    },
-    {
       "label": "tasting menu",
       "mention_count": 28
+    },
+    {
+      "label": "agnolotti",
+      "mention_count": 13
     },
     {
       "label": "courtyard seating",
@@ -40,10 +40,10 @@
     },
     {
       "label": "tuna cones",
-      "mention_count": 15
+      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T05:55:25Z",
+  "scraped_at": "2026-06-08T22:32:25Z",
   "city": "Beverly Hills",
   "key": "spago-bh"
 }

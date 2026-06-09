@@ -33,6 +33,7 @@ images:
 - /images/posts/2012-04-04-yuzu-柚-日式餐厅-shanghai/06.jpg
 - /images/posts/2012-04-04-yuzu-柚-日式餐厅-shanghai/07.jpg
 - /images/posts/2012-04-04-yuzu-柚-日式餐厅-shanghai/08.jpg
+placeId: "0x36ac9811bf4f950b:0x4c4aed98ab8d5d18"
 ---
 
 

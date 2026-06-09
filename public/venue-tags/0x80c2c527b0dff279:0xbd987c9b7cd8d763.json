@@ -11,28 +11,20 @@
       "mention_count": 13
     },
     {
-      "label": "food choices",
-      "mention_count": 16
-    },
-    {
-      "label": "food spots",
-      "mention_count": 8
-    },
-    {
       "label": "relaxing atmosphere",
-      "mention_count": 6
+      "mention_count": 7
+    },
+    {
+      "label": "food choices",
+      "mention_count": 14
     },
     {
       "label": "selection of stores",
       "mention_count": 5
     },
     {
-      "label": "clothing",
-      "mention_count": 12
-    },
-    {
       "label": "cleanliness",
-      "mention_count": 24
+      "mention_count": 23
     },
     {
       "label": "fresh produce",
@@ -41,9 +33,17 @@
     {
       "label": "product selection",
       "mention_count": 6
+    },
+    {
+      "label": "healthy food",
+      "mention_count": 3
+    },
+    {
+      "label": "plaza",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:39:43Z",
+  "scraped_at": "2026-06-09T00:37:00Z",
   "city": "Alhambra",
   "key": "yet-another-alhambra"
 }

@@ -4,30 +4,34 @@
   "chips": [
     {
       "label": "unlimited cabbage",
-      "mention_count": 7
-    },
-    {
-      "label": "a5 wagyu",
-      "mention_count": 13
+      "mention_count": 9
     },
     {
       "label": "pork loin",
-      "mention_count": 10
+      "mention_count": 12
+    },
+    {
+      "label": "a5 wagyu",
+      "mention_count": 14
+    },
+    {
+      "label": "unlimited rice",
+      "mention_count": 11
     },
     {
       "label": "wagyu katsu",
       "mention_count": 3
     },
     {
-      "label": "unlimited rice",
-      "mention_count": 9
+      "label": "tonkatsu",
+      "mention_count": 2
     },
     {
       "label": "ikura",
-      "mention_count": 9
+      "mention_count": 10
     },
     {
-      "label": "tonkatsu",
+      "label": "katsudon",
       "mention_count": 2
     },
     {
@@ -36,14 +40,10 @@
     },
     {
       "label": "free refills",
-      "mention_count": 3
-    },
-    {
-      "label": "scallop",
-      "mention_count": 5
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T22:48:07Z",
+  "scraped_at": "2026-06-09T00:43:40Z",
   "city": "Los Angeles",
   "key": "kyoto-wagyu-tonkatsu-ten-no-meshi-l-los-angele"
 }

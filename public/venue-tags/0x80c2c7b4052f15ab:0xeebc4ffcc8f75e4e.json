@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2c7b4052f15ab:0xeebc4ffcc8f75e4e",
   "venue_name": "Shoo Shoo Baby",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:46:13Z",
+  "chips": [
+    {
+      "label": "vibe",
+      "mention_count": 71
+    },
+    {
+      "label": "live jazz",
+      "mention_count": 4
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 11
+    },
+    {
+      "label": "burlesque show",
+      "mention_count": 3
+    },
+    {
+      "label": "live music",
+      "mention_count": 7
+    },
+    {
+      "label": "comfy seats",
+      "mention_count": 3
+    },
+    {
+      "label": "birthday party",
+      "mention_count": 9
+    },
+    {
+      "label": "lounge",
+      "mention_count": 7
+    },
+    {
+      "label": "martini",
+      "mention_count": 3
+    },
+    {
+      "label": "food trucks",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:39:39Z",
   "city": "Downtown LA",
   "key": "all-day-baby-downtown-l"
 }

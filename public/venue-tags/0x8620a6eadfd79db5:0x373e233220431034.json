@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "crawfish",
-      "mention_count": 187
+      "mention_count": 189
     },
     {
       "label": "gumbo",
-      "mention_count": 95
+      "mention_count": 96
     },
     {
       "label": "poboys",
       "mention_count": 68
     },
     {
-      "label": "yakamein",
-      "mention_count": 7
+      "label": "garlic butter sauce",
+      "mention_count": 11
+    },
+    {
+      "label": "turkey necks",
+      "mention_count": 9
     },
     {
       "label": "snow crab",
       "mention_count": 10
     },
     {
-      "label": "turkey necks",
-      "mention_count": 8
-    },
-    {
       "label": "lima bean soup",
       "mention_count": 8
     },
     {
-      "label": "jalapeño poppers",
+      "label": "jalapeno poppers",
       "mention_count": 8
     },
     {
-      "label": "boiled seafood",
-      "mention_count": 11
+      "label": "crawfish flavor",
+      "mention_count": 6
     },
     {
-      "label": "shrimp poboy",
-      "mention_count": 6
+      "label": "Dungeness Crab Live",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T06:26:29Z",
+  "scraped_at": "2026-06-09T00:26:12Z",
   "city": "New Orleans",
   "key": "big-ez-seafood-new-orlean"
 }

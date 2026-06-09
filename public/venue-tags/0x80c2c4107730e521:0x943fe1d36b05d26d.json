@@ -23,27 +23,27 @@
       "mention_count": 26
     },
     {
-      "label": "picadillo",
-      "mention_count": 7
-    },
-    {
       "label": "frito pie",
       "mention_count": 5
+    },
+    {
+      "label": "picadillo",
+      "mention_count": 7
     },
     {
       "label": "patio",
       "mention_count": 41
     },
     {
-      "label": "chicken taco",
-      "mention_count": 9
-    },
-    {
       "label": "spicy paloma",
       "mention_count": 3
+    },
+    {
+      "label": "trinity taco",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:31:52Z",
+  "scraped_at": "2026-06-09T00:30:43Z",
   "city": "Austin",
   "key": "homestate-austin"
 }

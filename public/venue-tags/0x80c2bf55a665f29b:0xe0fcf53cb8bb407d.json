@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2bf55a665f29b:0xe0fcf53cb8bb407d",
   "venue_name": "L’Antica Pizzeria da Michele",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:43:46Z",
+  "chips": [
+    {
+      "label": "neapolitan pizza",
+      "mention_count": 66
+    },
+    {
+      "label": "margherita pizza",
+      "mention_count": 131
+    },
+    {
+      "label": "patio",
+      "mention_count": 106
+    },
+    {
+      "label": "italian food",
+      "mention_count": 161
+    },
+    {
+      "label": "thin crust",
+      "mention_count": 23
+    },
+    {
+      "label": "zucchini flowers",
+      "mention_count": 17
+    },
+    {
+      "label": "calamari",
+      "mention_count": 29
+    },
+    {
+      "label": "cacio e pepe",
+      "mention_count": 16
+    },
+    {
+      "label": "tiramisu",
+      "mention_count": 19
+    },
+    {
+      "label": "margherita sbagliata",
+      "mention_count": 6
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:54Z",
   "city": "Hollywood",
   "key": "lantica-pizzeria-da-michele-hollywood"
 }

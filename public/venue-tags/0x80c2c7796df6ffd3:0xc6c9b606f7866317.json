@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "Medium Bossam",
-      "mention_count": 178
+      "mention_count": 179
     },
     {
       "label": "Seafood Pancake Haemul Pajeon",
@@ -20,14 +20,14 @@
     },
     {
       "label": "napa cabbage",
-      "mention_count": 10
-    },
-    {
-      "label": "kimchi pancake",
-      "mention_count": 13
+      "mention_count": 11
     },
     {
       "label": "Chung Guk Jang",
+      "mention_count": 13
+    },
+    {
+      "label": "kimchi pancake",
       "mention_count": 13
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 16
     },
     {
-      "label": "jokbal",
-      "mention_count": 7
+      "label": "kalbi",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:06:45Z",
+  "scraped_at": "2026-06-08T22:42:13Z",
   "city": "Los Angeles",
   "key": "kobawoo-house-los-angele"
 }

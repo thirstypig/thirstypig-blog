@@ -23,12 +23,16 @@
       "mention_count": 3
     },
     {
+      "label": "hotdog",
+      "mention_count": 8
+    },
+    {
       "label": "scallions",
       "mention_count": 4
     },
     {
-      "label": "hotdog",
-      "mention_count": 7
+      "label": "portion size",
+      "mention_count": 6
     },
     {
       "label": "friendly owner",
@@ -37,13 +41,9 @@
     {
       "label": "street food experience",
       "mention_count": 3
-    },
-    {
-      "label": "sesame seeds",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T22:48:04Z",
+  "scraped_at": "2026-06-09T00:43:37Z",
   "city": "Rowland Heights",
   "key": "yu-ji-stone-mill-chinese-crepes-rowland-he"
 }

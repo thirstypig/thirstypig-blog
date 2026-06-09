@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "Xiaolongbao",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "label": "pan fried dumplings",
@@ -15,20 +15,16 @@
       "mention_count": 5
     },
     {
-      "label": "take out only",
-      "mention_count": 7
-    },
-    {
       "label": "scallion pancakes",
       "mention_count": 4
     },
     {
-      "label": "pork shumai",
-      "mention_count": 3
+      "label": "take out only",
+      "mention_count": 7
     },
     {
-      "label": "Pork Hui Tou",
-      "mention_count": 2
+      "label": "pork shumai",
+      "mention_count": 3
     },
     {
       "label": "pork belly noodle soup",
@@ -41,9 +37,13 @@
     {
       "label": "chili oil",
       "mention_count": 6
+    },
+    {
+      "label": "steamed dumplings",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T05:55:33Z",
+  "scraped_at": "2026-06-08T22:32:33Z",
   "city": "San Gabriel",
   "key": "hui-tou-xiang-sgv"
 }

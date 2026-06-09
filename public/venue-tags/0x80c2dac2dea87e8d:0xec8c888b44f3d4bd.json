@@ -3,8 +3,8 @@
   "venue_name": "Indian, The Tavern",
   "chips": [
     {
-      "label": "stinky tofu",
-      "mention_count": 5
+      "label": "taiwanese food",
+      "mention_count": 18
     },
     {
       "label": "3 flavor chicken",
@@ -13,6 +13,10 @@
     {
       "label": "fun atmosphere",
       "mention_count": 8
+    },
+    {
+      "label": "stinky tofu",
+      "mention_count": 5
     },
     {
       "label": "cantonese food",
@@ -37,13 +41,9 @@
     {
       "label": "hangout spot",
       "mention_count": 3
-    },
-    {
-      "label": "mandatory tip",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:35:33Z",
+  "scraped_at": "2026-06-09T00:33:31Z",
   "city": "San Gabriel Valley",
   "key": "indian-beer-house-san-gabrie"
 }

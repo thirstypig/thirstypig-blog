@@ -20,18 +20,18 @@
     },
     {
       "label": "wait time",
-      "mention_count": 95
+      "mention_count": 94
     },
     {
       "label": "spiciness",
-      "mention_count": 28
+      "mention_count": 29
     },
     {
       "label": "gumbo",
       "mention_count": 6
     },
     {
-      "label": "micheladas",
+      "label": "michelada",
       "mention_count": 6
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:33:03Z",
+  "scraped_at": "2026-06-09T00:31:33Z",
   "city": "Rosemead",
   "key": "the-boiling-crab-rosemead"
 }

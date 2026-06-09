@@ -8,7 +8,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 4
+      "mention_count": 3
     },
     {
       "label": "popcorn chicken",
@@ -20,7 +20,7 @@
     },
     {
       "label": "indoor seating",
-      "mention_count": 9
+      "mention_count": 8
     },
     {
       "label": "olong milk tea",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:47:37Z",
+  "scraped_at": "2026-06-09T00:40:22Z",
   "city": "Arcadia",
   "key": "au79-teahouse-arcadia"
 }

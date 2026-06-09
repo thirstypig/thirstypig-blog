@@ -11,11 +11,7 @@
       "mention_count": 3
     },
     {
-      "label": "product selection",
-      "mention_count": 8
-    },
-    {
-      "label": "wholesale pricing",
+      "label": "supplies selection",
       "mention_count": 3
     },
     {
@@ -35,15 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "refund",
+      "label": "product selection",
+      "mention_count": 7
+    },
+    {
+      "label": "wholesale pricing",
       "mention_count": 2
     },
     {
-      "label": "inventory",
-      "mention_count": 3
+      "label": "refund",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:45:33Z",
+  "scraped_at": "2026-06-09T00:41:36Z",
   "city": "Los Angeles",
   "key": "smoke-tokes-los-angele"
 }

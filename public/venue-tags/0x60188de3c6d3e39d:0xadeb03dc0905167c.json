@@ -1,8 +1,49 @@
 {
   "place_id": "0x60188de3c6d3e39d:0xadeb03dc0905167c",
   "venue_name": "Roasted COFFEE LABORATORY Shibuya Jinnnan store",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:42:57Z",
+  "chips": [
+    {
+      "label": "pancakes",
+      "mention_count": 197
+    },
+    {
+      "label": "scones",
+      "mention_count": 53
+    },
+    {
+      "label": "terrace seating",
+      "mention_count": 40
+    },
+    {
+      "label": "biscuit pancakes",
+      "mention_count": 21
+    },
+    {
+      "label": "maple syrup",
+      "mention_count": 15
+    },
+    {
+      "label": "power plug",
+      "mention_count": 21
+    },
+    {
+      "label": "carrot cake",
+      "mention_count": 10
+    },
+    {
+      "label": "basque cheesecake",
+      "mention_count": 7
+    },
+    {
+      "label": "matcha",
+      "mention_count": 20
+    },
+    {
+      "label": "espresso",
+      "mention_count": 24
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:40Z",
   "city": "Tokyo",
   "key": "roasted-coffee-laboratory-tokyo"
 }

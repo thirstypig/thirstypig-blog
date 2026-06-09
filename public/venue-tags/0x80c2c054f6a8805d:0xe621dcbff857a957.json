@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "cheese rolls",
-      "mention_count": 421
+      "mention_count": 423
     },
     {
-      "label": "potato balls",
-      "mention_count": 241
+      "label": "cuban sandwich",
+      "mention_count": 255
     },
     {
       "label": "outdoor seating",
       "mention_count": 27
     },
     {
-      "label": "cuban food",
-      "mention_count": 440
+      "label": "potato balls",
+      "mention_count": 239
     },
     {
       "label": "tres leches cake",
@@ -28,7 +28,7 @@
     },
     {
       "label": "long lines",
-      "mention_count": 289
+      "mention_count": 285
     },
     {
       "label": "meat pies",
@@ -40,10 +40,10 @@
     },
     {
       "label": "savory pastries",
-      "mention_count": 92
+      "mention_count": 93
     }
   ],
-  "scraped_at": "2026-05-16T22:47:20Z",
+  "scraped_at": "2026-06-09T00:43:06Z",
   "city": "Glendale",
   "key": "portos-bakery-glendale"
 }

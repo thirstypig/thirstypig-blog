@@ -8,7 +8,15 @@
     },
     {
       "label": "halal food",
-      "mention_count": 12
+      "mention_count": 13
+    },
+    {
+      "label": "kabab",
+      "mention_count": 9
+    },
+    {
+      "label": "mezze",
+      "mention_count": 3
     },
     {
       "label": "adana kebab",
@@ -33,17 +41,9 @@
     {
       "label": "beer",
       "mention_count": 3
-    },
-    {
-      "label": "tasty food",
-      "mention_count": 4
-    },
-    {
-      "label": "meat",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:14:55Z",
+  "scraped_at": "2026-06-08T23:50:08Z",
   "city": "Shanghai",
   "key": "pasha-帕夏土耳其餐厅-shanghai"
 }

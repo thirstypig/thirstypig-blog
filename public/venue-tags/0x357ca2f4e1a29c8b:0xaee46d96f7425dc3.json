@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "oxtail soup",
-      "mention_count": 88
+      "mention_count": 87
     },
     {
       "label": "seolleongtang",
@@ -12,18 +12,18 @@
     },
     {
       "label": "braised oxtail",
-      "mention_count": 23
+      "mention_count": 21
     },
     {
       "label": "hangover soup",
       "mention_count": 9
     },
     {
-      "label": "namdaemun market hot spot",
-      "mention_count": 14
+      "label": "namdaemun market",
+      "mention_count": 15
     },
     {
-      "label": "ox knee soup",
+      "label": "doganitang",
       "mention_count": 6
     },
     {
@@ -31,7 +31,7 @@
       "mention_count": 6
     },
     {
-      "label": "cash only",
+      "label": "cash",
       "mention_count": 5
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 4
     },
     {
-      "label": "braised cutlassfish",
+      "label": "soju snack",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:19:20Z",
+  "scraped_at": "2026-06-09T00:21:03Z",
   "city": "Seoul",
   "key": "진주집-seoul"
 }

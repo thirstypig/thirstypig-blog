@@ -3,6 +3,10 @@
   "venue_name": "Golden Deli San Gabriel",
   "chips": [
     {
+      "label": "egg rolls",
+      "mention_count": 139
+    },
+    {
       "label": "cha gio",
       "mention_count": 20
     },
@@ -15,6 +19,10 @@
       "mention_count": 8
     },
     {
+      "label": "bahn mi",
+      "mention_count": 22
+    },
+    {
       "label": "shrimp paste",
       "mention_count": 9
     },
@@ -23,27 +31,19 @@
       "mention_count": 3
     },
     {
-      "label": "bahn mi",
-      "mention_count": 21
-    },
-    {
       "label": "durian smoothie",
       "mention_count": 3
-    },
-    {
-      "label": "pho tai",
-      "mention_count": 4
     },
     {
       "label": "long lines",
       "mention_count": 8
     },
     {
-      "label": "beef egg rolls",
-      "mention_count": 2
+      "label": "pho tai",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T05:55:47Z",
+  "scraped_at": "2026-06-08T22:32:46Z",
   "city": "San Gabriel",
   "key": "golden-deli-sgv"
 }

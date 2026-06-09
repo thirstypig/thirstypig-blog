@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "pancakes",
-      "mention_count": 583
+      "mention_count": 587
     },
     {
       "label": "pies",
-      "mention_count": 65
+      "mention_count": 63
     },
     {
       "label": "outdoor seating",
       "mention_count": 21
     },
     {
-      "label": "blueberry pancakes",
-      "mention_count": 22
+      "label": "chicken pot pie",
+      "mention_count": 19
     },
     {
       "label": "blue plate specials",
@@ -28,7 +28,7 @@
     },
     {
       "label": "hash browns",
-      "mention_count": 28
+      "mention_count": 29
     },
     {
       "label": "monte cristo",
@@ -43,7 +43,7 @@
       "mention_count": 32
     }
   ],
-  "scraped_at": "2026-05-16T06:27:55Z",
+  "scraped_at": "2026-06-09T00:27:37Z",
   "city": "Los Angeles",
   "key": "du-pars-los-angele"
 }

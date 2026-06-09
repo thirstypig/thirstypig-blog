@@ -4,14 +4,14 @@
   "chips": [
     {
       "label": "Clay Pot Rice with Beef and Fried Egg",
-      "mention_count": 127
+      "mention_count": 129
     },
     {
       "label": "rice crust",
-      "mention_count": 35
+      "mention_count": 36
     },
     {
-      "label": "indoor seating",
+      "label": "environment",
       "mention_count": 7
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:04:02Z",
+  "scraped_at": "2026-06-08T22:39:42Z",
   "city": "Hong Kong",
   "key": "永合成馳名煲仔飯-hong-kong"
 }

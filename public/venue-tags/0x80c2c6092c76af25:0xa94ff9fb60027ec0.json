@@ -3,7 +3,7 @@
   "venue_name": "Guisados",
   "chips": [
     {
-      "label": "fried pork rinds",
+      "label": "chicharron",
       "mention_count": 33
     },
     {
@@ -11,12 +11,12 @@
       "mention_count": 30
     },
     {
-      "label": "aguas frescas",
-      "mention_count": 31
-    },
-    {
       "label": "mole tacos",
       "mention_count": 15
+    },
+    {
+      "label": "aguas frescas",
+      "mention_count": 31
     },
     {
       "label": "chorizo tacos",
@@ -24,7 +24,7 @@
     },
     {
       "label": "handmade tortillas",
-      "mention_count": 24
+      "mention_count": 23
     },
     {
       "label": "sampler platter",
@@ -39,11 +39,11 @@
       "mention_count": 8
     },
     {
-      "label": "tamales",
-      "mention_count": 25
+      "label": "vegan options",
+      "mention_count": 27
     }
   ],
-  "scraped_at": "2026-05-16T05:54:53Z",
+  "scraped_at": "2026-06-08T22:32:11Z",
   "city": "Los Angeles",
   "key": "guisados-boyle-heights"
 }

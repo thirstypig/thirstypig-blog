@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "skeeball",
-      "mention_count": 177
+      "mention_count": 179
     },
     {
       "label": "arcade games",
@@ -19,16 +19,8 @@
       "mention_count": 28
     },
     {
-      "label": "ipas",
-      "mention_count": 49
-    },
-    {
       "label": "happy hour",
       "mention_count": 3
-    },
-    {
-      "label": "photo booth",
-      "mention_count": 11
     },
     {
       "label": "sour beer",
@@ -40,10 +32,18 @@
     },
     {
       "label": "crowded",
-      "mention_count": 51
+      "mention_count": 49
+    },
+    {
+      "label": "dog friendly",
+      "mention_count": 13
+    },
+    {
+      "label": "board games",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T05:59:34Z",
+  "scraped_at": "2026-06-08T22:36:12Z",
   "city": "Downtown LA",
   "key": "arts-district-brewing-company-downtown-l"
 }

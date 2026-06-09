@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "you tiao",
-      "mention_count": 654
+      "mention_count": 661
     },
     {
-      "label": "shaobing youtiao",
-      "mention_count": 695
+      "label": "shaobing",
+      "mention_count": 705
     },
     {
       "label": "outdoor seating",
       "mention_count": 5
     },
     {
-      "label": "xiaolongbao",
-      "mention_count": 308
+      "label": "xiao long bao",
+      "mention_count": 311
     },
     {
-      "label": "dining environment",
-      "mention_count": 73
+      "label": "environment",
+      "mention_count": 74
     },
     {
       "label": "rice roll",
-      "mention_count": 267
+      "mention_count": 269
     },
     {
-      "label": "turnip cake",
-      "mention_count": 118
+      "label": "radish cake",
+      "mention_count": 119
     },
     {
       "label": "shaobing with egg",
-      "mention_count": 52
+      "mention_count": 51
     },
     {
       "label": "dan bing",
-      "mention_count": 36
+      "mention_count": 42
     },
     {
       "label": "yonghe soy milk",
-      "mention_count": 18
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-16T06:10:47Z",
+  "scraped_at": "2026-06-08T22:49:35Z",
   "city": "Taipei",
   "key": "永和豆漿大王-yong-he-do-jiang-da-wang-taipei"
 }

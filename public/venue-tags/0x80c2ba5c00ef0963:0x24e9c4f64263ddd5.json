@@ -3,8 +3,8 @@
   "venue_name": "Hokkaido Ramen Santouka",
   "chips": [
     {
-      "label": "Spicy Miso Ramen Medium",
-      "mention_count": 6
+      "label": "spicy miso ramen",
+      "mention_count": 27
     },
     {
       "label": "cash only",
@@ -27,12 +27,12 @@
       "mention_count": 2
     },
     {
-      "label": "shio ramen",
-      "mention_count": 8
-    },
-    {
       "label": "affordability",
       "mention_count": 3
+    },
+    {
+      "label": "tonkotsu",
+      "mention_count": 6
     },
     {
       "label": "portions",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:02:40Z",
+  "scraped_at": "2026-06-08T22:38:20Z",
   "city": "Los Angeles",
   "key": "santoka-los-angele"
 }

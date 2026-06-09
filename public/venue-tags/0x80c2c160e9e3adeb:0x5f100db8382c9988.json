@@ -3,6 +3,10 @@
   "venue_name": "The Oinkster",
   "chips": [
     {
+      "label": "pastrami",
+      "mention_count": 318
+    },
+    {
       "label": "pulled pork sandwich",
       "mention_count": 46
     },
@@ -24,7 +28,7 @@
     },
     {
       "label": "Chili Fries",
-      "mention_count": 25
+      "mention_count": 24
     },
     {
       "label": "bacon burger",
@@ -37,13 +41,9 @@
     {
       "label": "Pork Adobo Burger",
       "mention_count": 5
-    },
-    {
-      "label": "red cabbage slaw",
-      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-17T16:43:52Z",
+  "scraped_at": "2026-06-09T00:44:36Z",
   "city": "Eagle Rock",
   "key": "oinkster-eagle-rock"
 }

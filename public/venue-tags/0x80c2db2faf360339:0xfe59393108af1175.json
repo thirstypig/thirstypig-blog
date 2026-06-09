@@ -15,12 +15,12 @@
       "mention_count": 6
     },
     {
-      "label": "Curry Fish Balls",
-      "mention_count": 3
-    },
-    {
       "label": "milk tea",
       "mention_count": 12
+    },
+    {
+      "label": "curry fish balls",
+      "mention_count": 3
     },
     {
       "label": "cash only",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "rice rolls",
-      "mention_count": 3
+      "label": "beef stew plate",
+      "mention_count": 2
     },
     {
-      "label": "free refills",
-      "mention_count": 4
+      "label": "rice rolls",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:43:53Z",
+  "scraped_at": "2026-06-09T00:38:59Z",
   "city": "Rosemead",
   "key": "delicious-food-corner-rosemead"
 }

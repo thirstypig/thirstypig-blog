@@ -7,10 +7,6 @@
       "mention_count": 15
     },
     {
-      "label": "caramel cookies n cream",
-      "mention_count": 9
-    },
-    {
       "label": "churro",
       "mention_count": 16
     },
@@ -23,12 +19,12 @@
       "mention_count": 12
     },
     {
-      "label": "vanilla bean ice cream",
-      "mention_count": 2
+      "label": "pistachio",
+      "mention_count": 3
     },
     {
-      "label": "pistachio flavor",
-      "mention_count": 3
+      "label": "vanilla bean ice cream",
+      "mention_count": 2
     },
     {
       "label": "churros con leche ice cream",
@@ -41,9 +37,13 @@
     {
       "label": "strawberry ice cream",
       "mention_count": 3
+    },
+    {
+      "label": "root beer float",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:30:40Z",
+  "scraped_at": "2026-06-09T00:29:22Z",
   "city": "Downtown LA",
   "key": "mcconnells-fine-ice-creams-downtown-l"
 }

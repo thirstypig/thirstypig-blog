@@ -3,20 +3,12 @@
   "venue_name": "Gozen Shun Pasadena",
   "chips": [
     {
-      "label": "pork katsu",
-      "mention_count": 10
-    },
-    {
       "label": "bento boxes",
       "mention_count": 15
     },
     {
       "label": "sukiyaki beef",
       "mention_count": 5
-    },
-    {
-      "label": "kara age chicken",
-      "mention_count": 3
     },
     {
       "label": "Pork Loin Cutlet Curry",
@@ -41,9 +33,17 @@
     {
       "label": "dipping sauce",
       "mention_count": 3
+    },
+    {
+      "label": "fresh fish",
+      "mention_count": 7
+    },
+    {
+      "label": "friendly team",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:43:08Z",
+  "scraped_at": "2026-06-09T00:38:48Z",
   "city": "Pasadena",
   "key": "gozen-shun-pasadena"
 }

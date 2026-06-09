@@ -3,12 +3,12 @@
   "venue_name": "Sonoratown",
   "chips": [
     {
-      "label": "flour tortillas",
-      "mention_count": 167
+      "label": "chivichanga",
+      "mention_count": 124
     },
     {
-      "label": "chivichanga",
-      "mention_count": 123
+      "label": "flour tortillas",
+      "mention_count": 168
     },
     {
       "label": "outdoor seating",
@@ -16,7 +16,7 @@
     },
     {
       "label": "bean and cheese burrito",
-      "mention_count": 30
+      "mention_count": 32
     },
     {
       "label": "limited seating",
@@ -24,7 +24,7 @@
     },
     {
       "label": "tripa tacos",
-      "mention_count": 33
+      "mention_count": 32
     },
     {
       "label": "spicy salsa",
@@ -32,18 +32,18 @@
     },
     {
       "label": "tripas",
-      "mention_count": 35
+      "mention_count": 32
+    },
+    {
+      "label": "shredded beef chivichanga",
+      "mention_count": 22
     },
     {
       "label": "carne asada tacos",
       "mention_count": 50
-    },
-    {
-      "label": "caramelo",
-      "mention_count": 25
     }
   ],
-  "scraped_at": "2026-05-16T06:39:54Z",
+  "scraped_at": "2026-06-09T00:37:08Z",
   "city": "Downtown LA",
   "key": "sonoratown-downtown-l"
 }

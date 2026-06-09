@@ -7,12 +7,12 @@
       "mention_count": 15
     },
     {
-      "label": "bar seating",
-      "mention_count": 3
+      "label": "Bold Ramen",
+      "mention_count": 7
     },
     {
-      "label": "bold ramen",
-      "mention_count": 7
+      "label": "bar seating",
+      "mention_count": 3
     },
     {
       "label": "chicken ramen",
@@ -39,11 +39,11 @@
       "mention_count": 6
     },
     {
-      "label": "vegan ramen",
-      "mention_count": 4
+      "label": "gluten free options",
+      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:27:31Z",
+  "scraped_at": "2026-06-09T00:27:12Z",
   "city": "Los Angeles",
   "key": "one-of-my-favorite-ramen-shops-in-l-los-angele"
 }

@@ -7,24 +7,16 @@
       "mention_count": 35
     },
     {
-      "label": "good for walking",
-      "mention_count": 15
-    },
-    {
-      "label": "bund",
-      "mention_count": 5
-    },
-    {
-      "label": "marriage market",
-      "mention_count": 3
+      "label": "strolling",
+      "mention_count": 14
     },
     {
       "label": "horse race course",
       "mention_count": 2
     },
     {
-      "label": "displayed umbrellas",
-      "mention_count": 3
+      "label": "marriage market",
+      "mention_count": 2
     },
     {
       "label": "unique architecture",
@@ -35,15 +27,23 @@
       "mention_count": 2
     },
     {
-      "label": "landmark",
-      "mention_count": 8
-    },
-    {
       "label": "large garden",
       "mention_count": 2
+    },
+    {
+      "label": "cozy space",
+      "mention_count": 4
+    },
+    {
+      "label": "quiet spot",
+      "mention_count": 4
+    },
+    {
+      "label": "Pigeon",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:22:52Z",
+  "scraped_at": "2026-06-09T00:23:41Z",
   "city": "Shanghai",
   "key": "the-public-shanghai"
 }

@@ -7,16 +7,12 @@
       "mention_count": 32
     },
     {
-      "label": "soft shell crab",
-      "mention_count": 22
+      "label": "crawfish mac and cheese",
+      "mention_count": 18
     },
     {
       "label": "outdoor seating",
       "mention_count": 3
-    },
-    {
-      "label": "crawfish mac and cheese",
-      "mention_count": 18
     },
     {
       "label": "fried shrimp po boy",
@@ -41,9 +37,13 @@
     {
       "label": "cochon de lait",
       "mention_count": 8
+    },
+    {
+      "label": "remoulade",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T05:55:49Z",
+  "scraped_at": "2026-06-08T22:32:49Z",
   "city": "Los Angeles",
   "key": "little-jewel-no-la"
 }

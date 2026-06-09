@@ -3,15 +3,15 @@
   "venue_name": "Pane E Vino",
   "chips": [
     {
-      "label": "pasta",
+      "label": "truffle",
       "mention_count": 2
     },
     {
-      "label": "truffle",
+      "label": "pasta",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T05:56:00Z",
+  "scraped_at": "2026-06-08T22:33:00Z",
   "city": "Shanghai",
   "key": "pane-e-vino-shanghai"
 }

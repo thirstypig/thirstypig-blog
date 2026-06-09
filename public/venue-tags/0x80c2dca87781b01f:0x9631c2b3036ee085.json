@@ -1,7 +1,19 @@
 {
   "place_id": "0x80c2dca87781b01f:0x9631c2b3036ee085",
-  "venue_name": "King of Ramen Pasadena",
+  "venue_name": "Ginjo Ramen",
   "chips": [
+    {
+      "label": "spicy level",
+      "mention_count": 24
+    },
+    {
+      "label": "Spicy Tonkotsu Ramen",
+      "mention_count": 2
+    },
+    {
+      "label": "quiet atmosphere",
+      "mention_count": 9
+    },
     {
       "label": "karage",
       "mention_count": 10
@@ -11,20 +23,8 @@
       "mention_count": 4
     },
     {
-      "label": "quiet atmosphere",
-      "mention_count": 9
-    },
-    {
-      "label": "Spicy Tonkotsu Ramen",
-      "mention_count": 2
-    },
-    {
       "label": "chasiu",
       "mention_count": 4
-    },
-    {
-      "label": "curry rice",
-      "mention_count": 10
     },
     {
       "label": "homemade hot sauce",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:40:44Z",
+  "scraped_at": "2026-06-09T00:37:59Z",
   "city": "Pasadena",
   "key": "king-of-ramen-pasadena"
 }

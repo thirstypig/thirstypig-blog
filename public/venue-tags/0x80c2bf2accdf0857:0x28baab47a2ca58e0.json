@@ -4,23 +4,19 @@
   "chips": [
     {
       "label": "chili dog",
-      "mention_count": 406
+      "mention_count": 412
     },
     {
       "label": "long lines",
-      "mention_count": 315
+      "mention_count": 311
     },
     {
       "label": "outdoor seating",
-      "mention_count": 120
+      "mention_count": 121
     },
     {
       "label": "onion rings",
-      "mention_count": 317
-    },
-    {
-      "label": "pastrami",
-      "mention_count": 151
+      "mention_count": 321
     },
     {
       "label": "limited seating",
@@ -28,22 +24,26 @@
     },
     {
       "label": "celebrity photos",
-      "mention_count": 271
+      "mention_count": 274
     },
     {
       "label": "wait time",
-      "mention_count": 238
-    },
-    {
-      "label": "hot dog stand",
-      "mention_count": 77
+      "mention_count": 231
     },
     {
       "label": "chili cheese fries",
       "mention_count": 90
+    },
+    {
+      "label": "polish pastrami dog",
+      "mention_count": 12
+    },
+    {
+      "label": "vegetarian options",
+      "mention_count": 53
     }
   ],
-  "scraped_at": "2026-05-16T06:10:06Z",
+  "scraped_at": "2026-06-08T22:44:42Z",
   "city": "Los Angeles",
   "key": "pinks-hot-dogs-los-angele"
 }

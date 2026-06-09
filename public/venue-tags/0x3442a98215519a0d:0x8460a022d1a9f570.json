@@ -7,43 +7,43 @@
       "mention_count": 270
     },
     {
-      "label": "lettuce shrimp floss",
-      "mention_count": 23
-    },
-    {
-      "label": "dining environment",
-      "mention_count": 89
-    },
-    {
-      "label": "shaomai",
+      "label": "siew mai",
       "mention_count": 80
     },
     {
-      "label": "pan-fried buns",
-      "mention_count": 686
+      "label": "atmosphere",
+      "mention_count": 86
     },
     {
-      "label": "turnip cake",
-      "mention_count": 59
+      "label": "shengjian mantou",
+      "mention_count": 689
     },
     {
-      "label": "xiaolongbao",
-      "mention_count": 508
+      "label": "radish cake",
+      "mention_count": 60
+    },
+    {
+      "label": "xiao long bao",
+      "mention_count": 509
     },
     {
       "label": "beef noodle soup",
-      "mention_count": 63
+      "mention_count": 61
     },
     {
-      "label": "char siu pastry",
+      "label": "char siu sou",
       "mention_count": 25
     },
     {
-      "label": "crab shell yellow",
+      "label": "Crab shell yellow",
       "mention_count": 39
+    },
+    {
+      "label": "vermicelli with fried tofu",
+      "mention_count": 29
     }
   ],
-  "scraped_at": "2026-05-16T06:10:45Z",
+  "scraped_at": "2026-06-08T22:49:31Z",
   "city": "Taipei",
   "key": "高記-kaochi-taipei"
 }

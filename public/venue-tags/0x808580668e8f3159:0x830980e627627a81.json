@@ -4,27 +4,27 @@
   "chips": [
     {
       "label": "clam chowder",
-      "mention_count": 461
-    },
-    {
-      "label": "seafood stew",
-      "mention_count": 69
-    },
-    {
-      "label": "view of the bay bridge",
-      "mention_count": 28
+      "mention_count": 462
     },
     {
       "label": "grilled oysters",
       "mention_count": 71
     },
     {
+      "label": "view of the bay",
+      "mention_count": 22
+    },
+    {
+      "label": "seafood stew",
+      "mention_count": 67
+    },
+    {
       "label": "ocean view",
-      "mention_count": 4
+      "mention_count": 13
     },
     {
       "label": "grilled cheese",
-      "mention_count": 83
+      "mention_count": 81
     },
     {
       "label": "outdoor seating",
@@ -32,18 +32,18 @@
     },
     {
       "label": "halibut",
-      "mention_count": 40
+      "mention_count": 41
+    },
+    {
+      "label": "view of bay bridge",
+      "mention_count": 7
     },
     {
       "label": "geoduck",
       "mention_count": 26
-    },
-    {
-      "label": "outdoor heaters",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:31:14Z",
+  "scraped_at": "2026-06-09T00:30:04Z",
   "city": "San Francisco",
   "key": "hog-island-oyster-co-san-franci"
 }

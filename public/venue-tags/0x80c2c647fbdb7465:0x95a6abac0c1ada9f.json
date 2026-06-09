@@ -4,23 +4,31 @@
   "chips": [
     {
       "label": "katsu",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "bento boxes",
       "mention_count": 17
     },
     {
-      "label": "spicy chicken ramen",
+      "label": "bowls",
+      "mention_count": 15
+    },
+    {
+      "label": "Tempura Gozen",
+      "mention_count": 17
+    },
+    {
+      "label": "Spicy Chicken Ramen",
+      "mention_count": 3
+    },
+    {
+      "label": "potato croquette",
       "mention_count": 3
     },
     {
       "label": "Takoyaki",
       "mention_count": 6
-    },
-    {
-      "label": "potato croquette",
-      "mention_count": 3
     },
     {
       "label": "mixed tempura",
@@ -33,17 +41,9 @@
     {
       "label": "teriyaki chicken",
       "mention_count": 7
-    },
-    {
-      "label": "unagi bento",
-      "mention_count": 2
-    },
-    {
-      "label": "spicy miso soup",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:34:02Z",
+  "scraped_at": "2026-06-09T00:32:13Z",
   "city": "Los Angeles",
   "key": "tot-little-tokyo-los-angele"
 }

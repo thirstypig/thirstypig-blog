@@ -28,22 +28,22 @@
     },
     {
       "label": "redfish",
-      "mention_count": 48
+      "mention_count": 49
+    },
+    {
+      "label": "goat pizza",
+      "mention_count": 14
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 34
     },
     {
       "label": "capellini pasta",
       "mention_count": 13
-    },
-    {
-      "label": "outdoor seating",
-      "mention_count": 35
-    },
-    {
-      "label": "farm to table",
-      "mention_count": 41
     }
   ],
-  "scraped_at": "2026-05-16T06:25:18Z",
+  "scraped_at": "2026-06-09T00:25:20Z",
   "city": "Austin",
   "key": "odd-duck-austin"
 }

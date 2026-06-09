@@ -3,47 +3,47 @@
   "venue_name": "Ramen Chikumo Linsen Branch",
   "chips": [
     {
-      "label": "chicken white soup ramen",
-      "mention_count": 761
+      "label": "chicken soup",
+      "mention_count": 604
     },
     {
-      "label": "chicken soup noodles",
-      "mention_count": 595
+      "label": "chicken white soup ramen",
+      "mention_count": 757
     },
     {
       "label": "bar seating",
       "mention_count": 8
     },
     {
-      "label": "chicken meatballs",
+      "label": "char siew rice",
+      "mention_count": 415
+    },
+    {
+      "label": "tsukune",
       "mention_count": 495
     },
     {
-      "label": "char siu rice",
-      "mention_count": 348
+      "label": "internal environment",
+      "mention_count": 280
     },
     {
-      "label": "dining environment",
-      "mention_count": 290
-    },
-    {
-      "label": "fried dumplings",
+      "label": "sesame balls",
       "mention_count": 218
     },
     {
-      "label": "sous vide meat",
+      "label": "sous vide",
       "mention_count": 220
     },
     {
       "label": "chicken chashu",
-      "mention_count": 170
+      "mention_count": 169
     },
     {
       "label": "yuzu aroma",
-      "mention_count": 110
+      "mention_count": 102
     }
   ],
-  "scraped_at": "2026-05-16T06:11:44Z",
+  "scraped_at": "2026-06-08T23:34:20Z",
   "city": "Taipei",
   "key": "麵屋千雲-menya-chikumo-taipei"
 }

@@ -12,11 +12,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 7
-    },
-    {
-      "label": "naengmyeon",
-      "mention_count": 34
+      "mention_count": 6
     },
     {
       "label": "all you can eat korean bbq",
@@ -35,15 +31,19 @@
       "mention_count": 4
     },
     {
-      "label": "tofu soup",
-      "mention_count": 4
-    },
-    {
       "label": "suwon galbi",
       "mention_count": 2
+    },
+    {
+      "label": "long queue",
+      "mention_count": 6
+    },
+    {
+      "label": "bulgogi",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T06:34:25Z",
+  "scraped_at": "2026-06-09T00:32:33Z",
   "city": "Koreatown",
   "key": "soowon-galbi-koreatown"
 }

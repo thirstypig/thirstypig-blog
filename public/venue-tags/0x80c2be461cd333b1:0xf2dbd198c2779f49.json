@@ -7,10 +7,6 @@
       "mention_count": 12
     },
     {
-      "label": "quiche",
-      "mention_count": 5
-    },
-    {
       "label": "chocolate croissant",
       "mention_count": 3
     },
@@ -41,9 +37,13 @@
     {
       "label": "jam",
       "mention_count": 2
+    },
+    {
+      "label": "cleanliness",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:36:26Z",
+  "scraped_at": "2026-06-09T00:34:10Z",
   "city": "Universal City",
   "key": "crepes-on-a-tuesday-at-universal-ci-universal-"
 }

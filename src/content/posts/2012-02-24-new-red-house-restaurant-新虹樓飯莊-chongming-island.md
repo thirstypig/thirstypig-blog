@@ -32,6 +32,7 @@ images:
 - /images/posts/2012-02-24-new-red-house-restaurant-新虹樓飯莊-chongming-island/11.jpg
 - /images/posts/2012-02-24-new-red-house-restaurant-新虹樓飯莊-chongming-island/12.jpg
 - /images/posts/2012-02-24-new-red-house-restaurant-新虹樓飯莊-chongming-island/13.jpg
+placeId: "0x35b270097015af0b:0xf83c17a0e47b9931"
 ---
 
 

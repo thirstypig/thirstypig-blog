@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 345
+      "mention_count": 344
     },
     {
       "label": "chili cheese fries",
-      "mention_count": 87
+      "mention_count": 86
     },
     {
       "label": "outdoor seating",
@@ -16,7 +16,7 @@
     },
     {
       "label": "pastrami dip",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "onion rings",
@@ -43,7 +43,7 @@
       "mention_count": 38
     }
   ],
-  "scraped_at": "2026-05-16T06:04:12Z",
+  "scraped_at": "2026-06-08T22:39:50Z",
   "city": "Alhambra",
   "key": "the-hat-alhambra"
 }

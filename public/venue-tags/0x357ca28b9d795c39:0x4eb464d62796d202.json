@@ -4,22 +4,22 @@
   "chips": [
     {
       "label": "ginseng chicken soup",
-      "mention_count": 63
+      "mention_count": 61
     },
     {
       "label": "abalone",
-      "mention_count": 29
+      "mention_count": 30
     },
     {
-      "label": "michelin star",
+      "label": "michelin",
       "mention_count": 73
     },
     {
-      "label": "black-bone chicken",
-      "mention_count": 22
+      "label": "silkie",
+      "mention_count": 23
     },
     {
-      "label": "kkakdugi",
+      "label": "radish kimchi",
       "mention_count": 24
     },
     {
@@ -27,12 +27,8 @@
       "mention_count": 52
     },
     {
-      "label": "ginseng wine",
+      "label": "insam-ju",
       "mention_count": 34
-    },
-    {
-      "label": "kimchi",
-      "mention_count": 15
     },
     {
       "label": "goryeo samgyetang",
@@ -41,9 +37,13 @@
     {
       "label": "banchan",
       "mention_count": 15
+    },
+    {
+      "label": "kimchi",
+      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T06:39:50Z",
+  "scraped_at": "2026-06-09T00:37:05Z",
   "city": "Seoul",
   "key": "korea-ginseng-chicken-soup-고려삼계탕-seoul"
 }

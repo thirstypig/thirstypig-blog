@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 32
+      "mention_count": 35
     },
     {
       "label": "cornbread",
@@ -13,6 +13,10 @@
     {
       "label": "brisket chopped cheese",
       "mention_count": 5
+    },
+    {
+      "label": "chimichurri sandwich",
+      "mention_count": 3
     },
     {
       "label": "baked beans with bacon",
@@ -24,26 +28,22 @@
     },
     {
       "label": "mac and cheese",
-      "mention_count": 12
+      "mention_count": 13
+    },
+    {
+      "label": "pulled pork",
+      "mention_count": 11
     },
     {
       "label": "potato salad",
       "mention_count": 9
     },
     {
-      "label": "chimichurri sandwich",
-      "mention_count": 2
-    },
-    {
-      "label": "pulled pork",
-      "mention_count": 10
-    },
-    {
-      "label": "beer selection",
-      "mention_count": 6
+      "label": "smoked meats",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:07:10Z",
+  "scraped_at": "2026-06-08T22:42:38Z",
   "city": "Pasadena",
   "key": "perdues-barbeque-pasadena"
 }

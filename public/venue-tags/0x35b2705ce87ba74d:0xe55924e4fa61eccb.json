@@ -7,16 +7,16 @@
       "mention_count": 2
     },
     {
-      "label": "new book store",
-      "mention_count": 3
+      "label": "stationery",
+      "mention_count": 4
     },
     {
       "label": "must-visit for bookworms",
       "mention_count": 3
     },
     {
-      "label": "stationery",
-      "mention_count": 4
+      "label": "large bookstore",
+      "mention_count": 2
     },
     {
       "label": "cozy atmosphere",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:20:21Z",
+  "scraped_at": "2026-06-09T00:22:03Z",
   "city": "Shanghai",
   "key": "shanghais-city-of-books-上海书城-shanghai"
 }

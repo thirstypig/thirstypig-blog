@@ -3,12 +3,8 @@
   "venue_name": "Radio City Music Hall",
   "chips": [
     {
-      "label": "comfortable seats",
-      "mention_count": 158
-    },
-    {
       "label": "holiday show",
-      "mention_count": 71
+      "mention_count": 72
     },
     {
       "label": "architecture",
@@ -20,30 +16,34 @@
     },
     {
       "label": "art deco architecture",
-      "mention_count": 21
-    },
-    {
-      "label": "historic venue",
-      "mention_count": 29
+      "mention_count": 20
     },
     {
       "label": "crowded",
-      "mention_count": 128
+      "mention_count": 129
     },
     {
-      "label": "long lines",
-      "mention_count": 36
+      "label": "historic venue",
+      "mention_count": 28
     },
     {
       "label": "acoustics",
-      "mention_count": 256
+      "mention_count": 257
     },
     {
-      "label": "orchestra",
-      "mention_count": 157
+      "label": "long lines",
+      "mention_count": 35
+    },
+    {
+      "label": "iconic venue",
+      "mention_count": 43
+    },
+    {
+      "label": "christmas spectacular",
+      "mention_count": 43
     }
   ],
-  "scraped_at": "2026-05-16T06:29:31Z",
+  "scraped_at": "2026-06-09T00:28:34Z",
   "city": "New York",
   "key": "radio-city-music-hall-new-york"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "french onion soup",
-      "mention_count": 57
+      "mention_count": 59
     },
     {
       "label": "escargot",
@@ -16,7 +16,7 @@
     },
     {
       "label": "steak frites",
-      "mention_count": 28
+      "mention_count": 30
     },
     {
       "label": "bordelaise sauce",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "mussels",
-      "mention_count": 17
+      "label": "baguette",
+      "mention_count": 29
     },
     {
-      "label": "Trout Almondine",
-      "mention_count": 5
+      "label": "mussels",
+      "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-16T05:59:53Z",
+  "scraped_at": "2026-06-08T22:36:31Z",
   "city": "Los Angeles",
   "key": "petit-trois-la"
 }

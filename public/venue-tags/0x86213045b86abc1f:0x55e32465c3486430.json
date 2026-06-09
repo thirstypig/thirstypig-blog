@@ -4,19 +4,23 @@
   "chips": [
     {
       "label": "oak trees",
-      "mention_count": 128
+      "mention_count": 120
     },
     {
       "label": "slave quarters",
-      "mention_count": 101
+      "mention_count": 100
     },
     {
       "label": "plantation history",
-      "mention_count": 54
+      "mention_count": 53
     },
     {
       "label": "house tour",
-      "mention_count": 280
+      "mention_count": 276
+    },
+    {
+      "label": "history of slavery",
+      "mention_count": 70
     },
     {
       "label": "sugar cane plantation",
@@ -24,26 +28,22 @@
     },
     {
       "label": "gardens",
-      "mention_count": 201
-    },
-    {
-      "label": "slavery history",
-      "mention_count": 72
+      "mention_count": 202
     },
     {
       "label": "mint julep",
-      "mention_count": 57
+      "mention_count": 55
     },
     {
       "label": "grounds",
-      "mention_count": 360
+      "mention_count": 353
     },
     {
       "label": "mansion",
-      "mention_count": 94
+      "mention_count": 95
     }
   ],
-  "scraped_at": "2026-05-16T06:27:22Z",
+  "scraped_at": "2026-06-09T00:27:00Z",
   "city": "New Orleans",
   "key": "oakalleyplantation-new-orlean"
 }

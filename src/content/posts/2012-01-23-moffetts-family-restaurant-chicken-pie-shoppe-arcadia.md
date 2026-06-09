@@ -27,6 +27,7 @@ images:
 - /images/posts/2012-01-23-moffetts-family-restaurant-chicken-pie-shoppe-arcadia/03.jpg
 - /images/posts/2012-01-23-moffetts-family-restaurant-chicken-pie-shoppe-arcadia/04.jpg
 - /images/posts/2012-01-23-moffetts-family-restaurant-chicken-pie-shoppe-arcadia/05.jpg
+placeId: "0x80c2dbafa50b844d:0xeba98bdb1418c6b5"
 ---
 
 

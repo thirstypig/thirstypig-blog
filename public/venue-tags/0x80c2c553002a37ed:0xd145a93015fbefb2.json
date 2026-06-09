@@ -4,18 +4,18 @@
   "chips": [
     {
       "label": "soup dumplings",
-      "mention_count": 12
+      "mention_count": 13
     },
     {
       "label": "spicy beef noodle soup",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
-      "label": "Scallion Pancake",
+      "label": "scallion pancake",
       "mention_count": 3
     },
     {
-      "label": "Dandan Noodle",
+      "label": "dan dan noodles",
       "mention_count": 3
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:46:47Z",
+  "scraped_at": "2026-06-09T00:40:03Z",
   "city": "Pasadena",
   "key": "dumpling-station-pasadena"
 }

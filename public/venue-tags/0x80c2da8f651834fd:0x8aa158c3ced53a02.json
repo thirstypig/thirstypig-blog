@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "dim sum",
-      "mention_count": 291
+      "mention_count": 292
     },
     {
-      "label": "shrimp dumplings",
-      "mention_count": 30
+      "label": "har gow",
+      "mention_count": 20
     },
     {
       "label": "shumai",
@@ -31,7 +31,7 @@
       "mention_count": 8
     },
     {
-      "label": "hong kong style dim sum",
+      "label": "yum cha",
       "mention_count": 25
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 63
     }
   ],
-  "scraped_at": "2026-05-16T05:54:59Z",
+  "scraped_at": "2026-06-08T22:32:16Z",
   "city": "Rosemead",
   "key": "sea-harbour-sgv"
 }

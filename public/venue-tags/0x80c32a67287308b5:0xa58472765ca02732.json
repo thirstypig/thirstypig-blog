@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "udon",
-      "mention_count": 6
-    },
-    {
       "label": "black pepper sauce",
       "mention_count": 2
     },
     {
       "label": "free drink refills",
       "mention_count": 2
+    },
+    {
+      "label": "udon",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:05:55Z",
+  "scraped_at": "2026-06-08T22:41:33Z",
   "city": "Rowland Heights",
   "key": "garden-bistro-rowland-he"
 }

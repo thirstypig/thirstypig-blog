@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "soup dumplings",
-      "mention_count": 252
+      "mention_count": 253
     },
     {
       "label": "bar seating",
@@ -15,20 +15,20 @@
       "mention_count": 23
     },
     {
-      "label": "Cucumber Salad",
-      "mention_count": 29
+      "label": "cucumber salad",
+      "mention_count": 30
     },
     {
       "label": "outdoor dining",
       "mention_count": 3
     },
     {
-      "label": "garlic green beans",
-      "mention_count": 13
-    },
-    {
       "label": "beef noodle soup",
       "mention_count": 28
+    },
+    {
+      "label": "potstickers",
+      "mention_count": 18
     },
     {
       "label": "quick seating",
@@ -39,11 +39,11 @@
       "mention_count": 11
     },
     {
-      "label": "wait time",
-      "mention_count": 143
+      "label": "garlic green beans",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:39:05Z",
+  "scraped_at": "2026-06-09T00:36:17Z",
   "city": "San Gabriel",
   "key": "din-tai-fung-san-gabrie"
 }

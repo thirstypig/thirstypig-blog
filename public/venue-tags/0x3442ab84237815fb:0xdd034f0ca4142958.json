@@ -7,15 +7,15 @@
       "mention_count": 30
     },
     {
-      "label": "all-you-can-eat",
+      "label": "buffet",
       "mention_count": 23
     },
     {
-      "label": "dining environment",
+      "label": "environment",
       "mention_count": 66
     },
     {
-      "label": "fried shrimp tempura",
+      "label": "fried shrimp",
       "mention_count": 13
     },
     {
@@ -27,6 +27,10 @@
       "mention_count": 10
     },
     {
+      "label": "shredded cabbage",
+      "mention_count": 20
+    },
+    {
       "label": "milk tea",
       "mention_count": 21
     },
@@ -35,15 +39,11 @@
       "mention_count": 4
     },
     {
-      "label": "eel rice",
-      "mention_count": 4
-    },
-    {
-      "label": "sashimi",
+      "label": "kuai",
       "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:01:07Z",
+  "scraped_at": "2026-06-08T22:37:33Z",
   "city": "Taipei",
   "key": "定食8-taipei"
 }

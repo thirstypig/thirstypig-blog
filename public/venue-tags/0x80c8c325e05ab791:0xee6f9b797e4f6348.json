@@ -3,20 +3,20 @@
   "venue_name": "Mothership Coffee - Fergusons Downtown",
   "chips": [
     {
-      "label": "lavender latte",
-      "mention_count": 12
+      "label": "blueberry scone",
+      "mention_count": 16
     },
     {
       "label": "outdoor seating",
       "mention_count": 33
     },
     {
-      "label": "live music",
-      "mention_count": 3
+      "label": "lavender latte",
+      "mention_count": 12
     },
     {
-      "label": "matcha",
-      "mention_count": 28
+      "label": "live music",
+      "mention_count": 3
     },
     {
       "label": "people watching",
@@ -24,7 +24,7 @@
     },
     {
       "label": "espresso",
-      "mention_count": 24
+      "mention_count": 25
     },
     {
       "label": "oat milk",
@@ -43,7 +43,7 @@
       "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T06:46:21Z",
+  "scraped_at": "2026-06-09T00:39:47Z",
   "city": "Las Vegas",
   "key": "mothership-coffee-roasters-las-vegas"
 }

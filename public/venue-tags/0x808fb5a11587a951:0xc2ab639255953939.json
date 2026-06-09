@@ -8,42 +8,42 @@
     },
     {
       "label": "hand pulled noodles",
-      "mention_count": 34
+      "mention_count": 33
     },
     {
-      "label": "scallion pancake",
-      "mention_count": 29
+      "label": "Beef Pancake Wrap 牛肉捲餅",
+      "mention_count": 19
     },
     {
       "label": "cold peanut noodles",
       "mention_count": 12
     },
     {
-      "label": "Beef Pancake Wrap 牛肉捲餅",
-      "mention_count": 18
+      "label": "charcoal bao",
+      "mention_count": 2
     },
     {
-      "label": "pork belly wrap",
-      "mention_count": 11
+      "label": "Scallion Pancake Combo",
+      "mention_count": 29
     },
     {
       "label": "hainan chicken",
       "mention_count": 13
     },
     {
-      "label": "spicy wontons",
-      "mention_count": 9
-    },
-    {
       "label": "chili oils",
       "mention_count": 10
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 8
     },
     {
       "label": "dry noodles",
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:05:44Z",
+  "scraped_at": "2026-06-08T22:41:22Z",
   "city": "San Gabriel",
   "key": "liangs-kitchen-梁媽媽家-san-gabrie"
 }

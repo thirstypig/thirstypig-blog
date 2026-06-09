@@ -8,42 +8,42 @@
     },
     {
       "label": "kaya toast",
-      "mention_count": 4
-    },
-    {
-      "label": "french toast",
       "mention_count": 5
     },
     {
+      "label": "french toast",
+      "mention_count": 8
+    },
+    {
+      "label": "spicy wontons",
+      "mention_count": 2
+    },
+    {
+      "label": "pork belly rice",
+      "mention_count": 2
+    },
+    {
       "label": "pandan",
-      "mention_count": 2
-    },
-    {
-      "label": "braised pork belly",
-      "mention_count": 2
-    },
-    {
-      "label": "cold sesame noodles",
       "mention_count": 3
     },
     {
-      "label": "staff",
-      "mention_count": 2
+      "label": "cold sesame noodles",
+      "mention_count": 4
     },
     {
-      "label": "milk tea",
-      "mention_count": 2
+      "label": "new location",
+      "mention_count": 3
     },
     {
-      "label": "food",
-      "mention_count": 2
+      "label": "chicken rice",
+      "mention_count": 3
     },
     {
-      "label": "sugar",
+      "label": "seating arrangement",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:48:11Z",
+  "scraped_at": "2026-06-09T00:43:44Z",
   "city": "Westwood",
   "key": "lius-cafe-westwood"
 }

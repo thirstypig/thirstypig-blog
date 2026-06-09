@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 643
+      "mention_count": 647
     },
     {
       "label": "texas bbq",
@@ -16,7 +16,11 @@
     },
     {
       "label": "pork ribs",
-      "mention_count": 99
+      "mention_count": 100
+    },
+    {
+      "label": "mac and cheese",
+      "mention_count": 191
     },
     {
       "label": "street corn",
@@ -27,23 +31,19 @@
       "mention_count": 28
     },
     {
-      "label": "serrano sausage",
-      "mention_count": 24
-    },
-    {
       "label": "bbq sauce",
       "mention_count": 98
     },
     {
-      "label": "macaroni",
-      "mention_count": 83
-    },
-    {
       "label": "chopped brisket sandwich",
       "mention_count": 20
+    },
+    {
+      "label": "turkey",
+      "mention_count": 113
     }
   ],
-  "scraped_at": "2026-05-16T06:25:48Z",
+  "scraped_at": "2026-06-09T00:25:50Z",
   "city": "San Antonio",
   "key": "2m-smokehouse-san-antoni"
 }

@@ -31,19 +31,19 @@
       "mention_count": 4
     },
     {
+      "label": "chile verde with braised pork",
+      "mention_count": 2
+    },
+    {
       "label": "chipotle aioli",
       "mention_count": 2
     },
     {
       "label": "courtyard",
       "mention_count": 4
-    },
-    {
-      "label": "potatoes pave",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-07T00:27:20Z",
+  "scraped_at": "2026-06-09T00:57:59Z",
   "city": "Pasadena",
   "key": "bbad-pasadena"
 }

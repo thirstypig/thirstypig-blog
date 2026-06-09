@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "dan dan noodles",
-      "mention_count": 247
+      "mention_count": 250
     },
     {
       "label": "vegan food",
-      "mention_count": 348
+      "mention_count": 351
     },
     {
       "label": "outdoor seating",
@@ -16,7 +16,7 @@
     },
     {
       "label": "mapo tofu",
-      "mention_count": 73
+      "mention_count": 74
     },
     {
       "label": "kung pao",
@@ -36,14 +36,14 @@
     },
     {
       "label": "dumplings",
-      "mention_count": 92
+      "mention_count": 93
     },
     {
       "label": "brussels sprouts",
       "mention_count": 23
     }
   ],
-  "scraped_at": "2026-05-16T06:29:53Z",
+  "scraped_at": "2026-06-09T00:28:57Z",
   "city": "New York",
   "key": "spicy-moon-new-york"
 }

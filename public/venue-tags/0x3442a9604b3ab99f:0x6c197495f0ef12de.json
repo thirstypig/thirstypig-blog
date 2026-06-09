@@ -1,49 +1,49 @@
 {
   "place_id": "0x3442a9604b3ab99f:0x6c197495f0ef12de",
-  "venue_name": "Komeda‘s Coffee Nanjing Jianguo",
+  "venue_name": "Komeda‘s Coffee - Nanjing Jianguo Store",
   "chips": [
     {
-      "label": "pork chop sandwich",
+      "label": "katsu sandwich",
       "mention_count": 111
     },
     {
-      "label": "miso pork cutlet sandwich",
-      "mention_count": 45
+      "label": "red bean",
+      "mention_count": 140
     },
     {
-      "label": "comfortable environment",
-      "mention_count": 124
+      "label": "environment",
+      "mention_count": 121
     },
     {
-      "label": "power outlets",
-      "mention_count": 116
-    },
-    {
-      "label": "single seating",
-      "mention_count": 18
-    },
-    {
-      "label": "red bean toast",
-      "mention_count": 36
-    },
-    {
-      "label": "egg salad",
-      "mention_count": 45
+      "label": "fried chicken",
+      "mention_count": 70
     },
     {
       "label": "sofa seating",
       "mention_count": 6
     },
     {
-      "label": "matcha latte",
-      "mention_count": 30
+      "label": "miso-katsu",
+      "mention_count": 45
     },
     {
-      "label": "danish pastry",
-      "mention_count": 12
+      "label": "single seating",
+      "mention_count": 17
+    },
+    {
+      "label": "plug",
+      "mention_count": 116
+    },
+    {
+      "label": "red bean toast",
+      "mention_count": 35
+    },
+    {
+      "label": "egg salad",
+      "mention_count": 45
     }
   ],
-  "scraped_at": "2026-05-16T22:46:08Z",
+  "scraped_at": "2026-06-09T00:42:01Z",
   "city": "Taipei",
   "key": "komedas-coffee-客美多咖啡-taipei"
 }

@@ -3,11 +3,11 @@
   "venue_name": "Wulao Hotpot Taipei Zhongshan Branch",
   "chips": [
     {
-      "label": "mandarin duck hot pot",
+      "label": "mandarin duck",
       "mention_count": 69
     },
     {
-      "label": "white soup hot pot",
+      "label": "plain hot water",
       "mention_count": 61
     },
     {
@@ -16,34 +16,34 @@
     },
     {
       "label": "ice cream tofu",
-      "mention_count": 54
+      "mention_count": 52
     },
     {
       "label": "spicy hot pot",
-      "mention_count": 115
+      "mention_count": 114
     },
     {
-      "label": "dining environment",
-      "mention_count": 47
+      "label": "atmosphere",
+      "mention_count": 49
     },
     {
       "label": "duck blood",
       "mention_count": 31
     },
     {
-      "label": "beef short ribs",
-      "mention_count": 32
+      "label": "short ribs",
+      "mention_count": 33
+    },
+    {
+      "label": "tofu soup",
+      "mention_count": 15
     },
     {
       "label": "wulao guo",
-      "mention_count": 17
-    },
-    {
-      "label": "tofu soup base",
-      "mention_count": 15
+      "mention_count": 16
     }
   ],
-  "scraped_at": "2026-05-16T05:54:27Z",
+  "scraped_at": "2026-06-08T22:31:46Z",
   "city": "Taipei",
   "key": "wulao-hotpot-taipei"
 }

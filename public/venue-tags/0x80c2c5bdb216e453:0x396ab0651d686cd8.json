@@ -7,12 +7,12 @@
       "mention_count": 3
     },
     {
-      "label": "unlimited soup",
-      "mention_count": 4
-    },
-    {
       "label": "Hot Pot",
       "mention_count": 13
+    },
+    {
+      "label": "unlimited soup",
+      "mention_count": 4
     },
     {
       "label": "unlimited porridge",
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "fast staff",
+      "label": "low cost",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-04T03:31:29Z",
+  "scraped_at": "2026-06-09T00:50:26Z",
   "city": "Monterey Park",
   "key": "cocary-monterey-p"
 }

@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 177
+      "mention_count": 178
     },
     {
       "label": "banana pudding",
-      "mention_count": 50
+      "mention_count": 51
     },
     {
       "label": "outdoor seating",
-      "mention_count": 52
+      "mention_count": 51
     },
     {
       "label": "cornbread",
-      "mention_count": 62
+      "mention_count": 63
     },
     {
       "label": "small plates",
-      "mention_count": 55
+      "mention_count": 56
     },
     {
       "label": "happy hour",
@@ -32,7 +32,7 @@
     },
     {
       "label": "tapas style",
-      "mention_count": 37
+      "mention_count": 38
     },
     {
       "label": "bar seating",
@@ -40,10 +40,10 @@
     },
     {
       "label": "fusion cuisine",
-      "mention_count": 109
+      "mention_count": 108
     }
   ],
-  "scraped_at": "2026-05-16T06:25:31Z",
+  "scraped_at": "2026-06-09T00:25:34Z",
   "city": "Austin",
   "key": "kemuri-tatsu-ya-austin"
 }

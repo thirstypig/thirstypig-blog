@@ -11,20 +11,16 @@
       "mention_count": 15
     },
     {
+      "label": "mapo tots",
+      "mention_count": 50
+    },
+    {
       "label": "matcha latte",
       "mention_count": 56
     },
     {
       "label": "guava flavor",
       "mention_count": 13
-    },
-    {
-      "label": "tots",
-      "mention_count": 32
-    },
-    {
-      "label": "mapo tots",
-      "mention_count": 20
     },
     {
       "label": "honey walnut shrimp burger",
@@ -41,9 +37,13 @@
     {
       "label": "online ordering",
       "mention_count": 23
+    },
+    {
+      "label": "spicy food",
+      "mention_count": 35
     }
   ],
-  "scraped_at": "2026-05-16T22:47:08Z",
+  "scraped_at": "2026-06-09T00:42:58Z",
   "city": "San Gabriel",
   "key": "bopomofo-san-gabrie"
 }

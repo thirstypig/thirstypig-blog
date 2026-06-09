@@ -27,6 +27,10 @@
       "mention_count": 6
     },
     {
+      "label": "helmet selection",
+      "mention_count": 3
+    },
+    {
       "label": "gravel bike",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "tube replacement",
       "mention_count": 2
-    },
-    {
-      "label": "local bike shop",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:25:42Z",
+  "scraped_at": "2026-06-09T00:25:45Z",
   "city": "Lockhart",
   "key": "made-a-trek-to-lockhart-lockhart"
 }

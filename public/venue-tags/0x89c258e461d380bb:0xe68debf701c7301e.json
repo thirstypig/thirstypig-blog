@@ -3,12 +3,12 @@
   "venue_name": "P.J. Clarke's Third Avenue",
   "chips": [
     {
-      "label": "lobster roll",
-      "mention_count": 41
+      "label": "oysters",
+      "mention_count": 86
     },
     {
-      "label": "oysters",
-      "mention_count": 85
+      "label": "lobster roll",
+      "mention_count": 41
     },
     {
       "label": "happy hour",
@@ -27,23 +27,23 @@
       "mention_count": 3
     },
     {
+      "label": "raw bar",
+      "mention_count": 18
+    },
+    {
       "label": "jukebox",
       "mention_count": 12
     },
     {
-      "label": "raw bar",
-      "mention_count": 17
-    },
-    {
       "label": "cheesecake",
-      "mention_count": 41
+      "mention_count": 42
     },
     {
       "label": "martinis",
       "mention_count": 19
     }
   ],
-  "scraped_at": "2026-05-16T06:29:48Z",
+  "scraped_at": "2026-06-09T00:28:51Z",
   "city": "New York",
   "key": "pj-clarkes-new-york"
 }

@@ -28,6 +28,7 @@ images:
 - /images/posts/2012-01-05-yoogane-chicken-galbi-유가네-닭갈비-seoul/01.jpg
 - /images/posts/2012-01-05-yoogane-chicken-galbi-유가네-닭갈비-seoul/02.jpg
 - /images/posts/2012-01-05-yoogane-chicken-galbi-유가네-닭갈비-seoul/03.jpg
+placeId: "0x357ca2f0170eb10d:0x74fab4159d54fc61"
 ---
 
 

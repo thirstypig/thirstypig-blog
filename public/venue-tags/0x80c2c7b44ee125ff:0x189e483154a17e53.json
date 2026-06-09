@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "macarons",
-      "mention_count": 393
+      "mention_count": 391
     },
     {
       "label": "beignets",
@@ -20,30 +20,30 @@
     },
     {
       "label": "pastries",
-      "mention_count": 180
+      "mention_count": 179
     },
     {
       "label": "high ceilings",
-      "mention_count": 86
+      "mention_count": 85
     },
     {
       "label": "eggs benedict",
-      "mention_count": 64
-    },
-    {
-      "label": "eclair",
-      "mention_count": 26
+      "mention_count": 63
     },
     {
       "label": "pistachio cake",
-      "mention_count": 32
+      "mention_count": 33
     },
     {
       "label": "croissants",
-      "mention_count": 62
+      "mention_count": 61
+    },
+    {
+      "label": "Tartufo Pizza",
+      "mention_count": 25
     }
   ],
-  "scraped_at": "2026-05-16T06:07:38Z",
+  "scraped_at": "2026-06-08T22:43:05Z",
   "city": "Downtown LA",
   "key": "bottega-louie-downtown-l"
 }

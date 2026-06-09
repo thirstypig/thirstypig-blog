@@ -7,43 +7,43 @@
       "mention_count": 72
     },
     {
-      "label": "dessert pudding",
+      "label": "pudding",
       "mention_count": 37
     },
     {
-      "label": "dining environment",
+      "label": "environment",
       "mention_count": 34
     },
     {
-      "label": "tamagoyaki",
-      "mention_count": 28
-    },
-    {
       "label": "halibut",
-      "mention_count": 16
+      "mention_count": 17
     },
     {
-      "label": "hamburger steak",
+      "label": "patty",
       "mention_count": 35
     },
     {
-      "label": "grilled chicken leg",
-      "mention_count": 10
+      "label": "tamagoyaki",
+      "mention_count": 14
+    },
+    {
+      "label": "chicken leg",
+      "mention_count": 24
     },
     {
       "label": "rice and soup refills",
       "mention_count": 13
     },
     {
-      "label": "salt-grilled chicken thigh",
-      "mention_count": 5
+      "label": "food presentation",
+      "mention_count": 30
     },
     {
       "label": "tatsuta-age fried chicken",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T22:46:16Z",
+  "scraped_at": "2026-06-09T00:42:06Z",
   "city": "Taipei",
   "key": "小器食堂-xiaoqi-k-taipei"
 }

@@ -4,31 +4,31 @@
   "chips": [
     {
       "label": "brisket",
-      "mention_count": 92
-    },
-    {
-      "label": "all you can eat",
-      "mention_count": 268
-    },
-    {
-      "label": "outdoor seating",
-      "mention_count": 6
+      "mention_count": 91
     },
     {
       "label": "kimchi fried rice",
       "mention_count": 62
     },
     {
+      "label": "outdoor seating",
+      "mention_count": 6
+    },
+    {
       "label": "short ribs",
-      "mention_count": 76
+      "mention_count": 75
     },
     {
       "label": "beef tongue",
-      "mention_count": 37
+      "mention_count": 36
     },
     {
       "label": "kimchi pancakes",
       "mention_count": 22
+    },
+    {
+      "label": "all you can eat",
+      "mention_count": 54
     },
     {
       "label": "octopus",
@@ -36,14 +36,14 @@
     },
     {
       "label": "stone grill",
-      "mention_count": 13
+      "mention_count": 12
     },
     {
       "label": "fish cake",
       "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T06:46:17Z",
+  "scraped_at": "2026-06-09T00:39:42Z",
   "city": "Los Angeles",
   "key": "might-be-the-best-korean-bbq-in-la-los-angele"
 }

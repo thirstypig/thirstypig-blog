@@ -23,16 +23,16 @@
       "mention_count": 10
     },
     {
+      "label": "build your own bowl",
+      "mention_count": 6
+    },
+    {
       "label": "free matcha popcorn",
       "mention_count": 2
     },
     {
       "label": "crispy onions",
       "mention_count": 2
-    },
-    {
-      "label": "build your own bowl",
-      "mention_count": 4
     },
     {
       "label": "black rice",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:05:14Z",
+  "scraped_at": "2026-06-08T22:40:52Z",
   "city": "Santa Monica",
   "key": "sweetfin-poké-santa-moni"
 }

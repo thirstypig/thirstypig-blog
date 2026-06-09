@@ -19,7 +19,7 @@
       "mention_count": 10
     },
     {
-      "label": "vegan chinese food",
+      "label": "chinese vegetarian food",
       "mention_count": 2
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-17T16:44:22Z",
+  "scraped_at": "2026-06-09T00:44:59Z",
   "city": "Los Angeles",
   "key": "vege-paradise-los-angeles"
 }

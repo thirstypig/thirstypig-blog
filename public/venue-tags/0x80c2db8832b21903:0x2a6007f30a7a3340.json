@@ -3,12 +3,16 @@
   "venue_name": "江戸前鮨 㐂扇 Sushi Kisen",
   "chips": [
     {
-      "label": "ootoro",
+      "label": "sushi rice",
       "mention_count": 6
     },
     {
       "label": "bar seating",
       "mention_count": 11
+    },
+    {
+      "label": "otoro",
+      "mention_count": 6
     },
     {
       "label": "monk fish liver",
@@ -17,10 +21,6 @@
     {
       "label": "lychee sherbet",
       "mention_count": 3
-    },
-    {
-      "label": "sushi rice",
-      "mention_count": 6
     },
     {
       "label": "traditional sushi",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-06-07T00:25:56Z",
+  "scraped_at": "2026-06-09T00:58:02Z",
   "city": "San Gabriel",
   "key": "sushi-kisen-san-gabriel"
 }

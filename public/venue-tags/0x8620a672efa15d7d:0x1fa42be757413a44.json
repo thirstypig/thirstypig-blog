@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "jambalaya",
-      "mention_count": 550
+      "mention_count": 551
     },
     {
       "label": "cheese grits",
@@ -12,15 +12,15 @@
     },
     {
       "label": "red beans and rice",
-      "mention_count": 555
+      "mention_count": 559
     },
     {
       "label": "etouffee",
-      "mention_count": 400
+      "mention_count": 404
     },
     {
       "label": "bread pudding",
-      "mention_count": 359
+      "mention_count": 362
     },
     {
       "label": "shrimp creole",
@@ -31,19 +31,19 @@
       "mention_count": 512
     },
     {
+      "label": "crawfish etouffee",
+      "mention_count": 127
+    },
+    {
       "label": "bloody mary",
-      "mention_count": 115
+      "mention_count": 117
     },
     {
       "label": "long lines",
-      "mention_count": 258
-    },
-    {
-      "label": "potato salad",
-      "mention_count": 231
+      "mention_count": 250
     }
   ],
-  "scraped_at": "2026-05-16T06:27:11Z",
+  "scraped_at": "2026-06-09T00:26:46Z",
   "city": "New Orleans",
   "key": "mothers-restaurant-new-orlean"
 }

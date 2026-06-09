@@ -4,15 +4,11 @@
   "chips": [
     {
       "label": "lobster",
-      "mention_count": 133
+      "mention_count": 131
     },
     {
       "label": "house special lobster",
       "mention_count": 23
-    },
-    {
-      "label": "crab",
-      "mention_count": 28
     },
     {
       "label": "clams",
@@ -41,9 +37,13 @@
     {
       "label": "steamed fish",
       "mention_count": 19
+    },
+    {
+      "label": "lobster with noodles",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:27:50Z",
+  "scraped_at": "2026-06-09T00:27:31Z",
   "city": "San Gabriel Valley",
   "key": "san-marino-seafood-san-gabrie"
 }

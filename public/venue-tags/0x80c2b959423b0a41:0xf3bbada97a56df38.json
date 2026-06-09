@@ -4,27 +4,27 @@
   "chips": [
     {
       "label": "churros",
-      "mention_count": 41
+      "mention_count": 39
     },
     {
       "label": "birria",
-      "mention_count": 40
+      "mention_count": 41
+    },
+    {
+      "label": "Og Plate",
+      "mention_count": 2
     },
     {
       "label": "consome",
-      "mention_count": 17
+      "mention_count": 16
     },
     {
-      "label": "quesatacos",
-      "mention_count": 4
+      "label": "quesotaco",
+      "mention_count": 3
     },
     {
       "label": "birria tacos",
-      "mention_count": 12
-    },
-    {
-      "label": "mulitas",
-      "mention_count": 3
+      "mention_count": 11
     },
     {
       "label": "keto friendly",
@@ -35,15 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "nutella",
+      "label": "red tacos",
       "mention_count": 2
     },
     {
-      "label": "dipping sauce",
-      "mention_count": 7
+      "label": "nutella",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:45:06Z",
+  "scraped_at": "2026-06-09T00:41:17Z",
   "city": "East LA",
   "key": "papi-tacos-churros-east-la"
 }

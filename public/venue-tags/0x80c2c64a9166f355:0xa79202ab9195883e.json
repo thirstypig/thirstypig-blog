@@ -15,20 +15,20 @@
       "mention_count": 4
     },
     {
+      "label": "taco sampler",
+      "mention_count": 25
+    },
+    {
       "label": "handmade tortillas",
       "mention_count": 31
     },
     {
-      "label": "sampler",
-      "mention_count": 145
+      "label": "tamales",
+      "mention_count": 57
     },
     {
       "label": "sampler plate",
-      "mention_count": 20
-    },
-    {
-      "label": "tamales",
-      "mention_count": 57
+      "mention_count": 18
     },
     {
       "label": "chuleta taco",
@@ -43,7 +43,7 @@
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:35:44Z",
+  "scraped_at": "2026-06-09T00:33:39Z",
   "city": "Los Angeles",
   "key": "best-taquitos-in-la-los-angele"
 }

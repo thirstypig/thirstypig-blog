@@ -12,14 +12,14 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 15
+      "mention_count": 17
     },
     {
       "label": "cacio e pepe",
       "mention_count": 13
     },
     {
-      "label": "cannoli",
+      "label": "Cannolis",
       "mention_count": 25
     },
     {
@@ -35,15 +35,15 @@
       "mention_count": 21
     },
     {
-      "label": "branzino",
-      "mention_count": 8
+      "label": "margherita pizza",
+      "mention_count": 18
     },
     {
-      "label": "margherita pizza",
-      "mention_count": 17
+      "label": "branzino",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T05:59:12Z",
+  "scraped_at": "2026-06-08T22:35:50Z",
   "city": "Los Angeles",
   "key": "eataly-los-angele"
 }

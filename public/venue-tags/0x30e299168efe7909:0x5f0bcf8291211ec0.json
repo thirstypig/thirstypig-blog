@@ -12,11 +12,15 @@
     },
     {
       "label": "pad thai",
-      "mention_count": 40
+      "mention_count": 38
+    },
+    {
+      "label": "thai food",
+      "mention_count": 120
     },
     {
       "label": "street food",
-      "mention_count": 85
+      "mention_count": 87
     },
     {
       "label": "fried morning glory",
@@ -24,7 +28,7 @@
     },
     {
       "label": "jay fai",
-      "mention_count": 49
+      "mention_count": 50
     },
     {
       "label": "crab fried rice",
@@ -37,13 +41,9 @@
     {
       "label": "garlic pork",
       "mention_count": 3
-    },
-    {
-      "label": "fried noodles",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T22:45:49Z",
+  "scraped_at": "2026-06-09T00:41:47Z",
   "city": "Bangkok",
   "key": "thai-food-at-samranrat-bangkok"
 }

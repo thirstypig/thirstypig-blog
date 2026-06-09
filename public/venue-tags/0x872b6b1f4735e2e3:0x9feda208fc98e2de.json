@@ -19,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "darts",
-      "mention_count": 8
-    },
-    {
       "label": "patio",
       "mention_count": 9
+    },
+    {
+      "label": "darts",
+      "mention_count": 8
     },
     {
       "label": "smoking section",
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "burger special",
+      "label": "ice cold beer",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:44:24Z",
+  "scraped_at": "2026-06-09T00:40:46Z",
   "city": "Glendale",
   "key": "robert-emmets-food-spirits-glendale"
 }

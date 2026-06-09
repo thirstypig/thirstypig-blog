@@ -3,7 +3,7 @@
   "venue_name": "Hwang Hae Doe",
   "chips": [
     {
-      "label": "dumpling hot pot",
+      "label": "jeongol",
       "mention_count": 5
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:10:20Z",
+  "scraped_at": "2026-06-08T22:45:04Z",
   "city": "Los Angeles",
   "key": "hwang-hae-do-of-las-koreatown-los-angele"
 }

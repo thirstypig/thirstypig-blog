@@ -31,19 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "milk bread",
-      "mention_count": 2
-    },
-    {
       "label": "sandwiches",
       "mention_count": 2
     },
     {
-      "label": "food",
+      "label": "egg",
       "mention_count": 4
+    },
+    {
+      "label": "milk bread",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:48:23Z",
+  "scraped_at": "2026-06-09T00:43:52Z",
   "city": "Brentwood",
   "key": "niko-sando-brentwood"
 }

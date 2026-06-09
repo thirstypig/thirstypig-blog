@@ -3,16 +3,16 @@
   "venue_name": "Fu 1088",
   "chips": [
     {
-      "label": "private rooms",
-      "mention_count": 4
-    },
-    {
-      "label": "michelin one-star",
-      "mention_count": 6
+      "label": "michelin",
+      "mention_count": 7
     },
     {
       "label": "pork belly",
       "mention_count": 6
+    },
+    {
+      "label": "private rooms",
+      "mention_count": 4
     },
     {
       "label": "authentic shanghainese cuisine",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:16:48Z",
+  "scraped_at": "2026-06-08T23:51:22Z",
   "city": "Shanghai",
   "key": "福1088-shanghai"
 }

@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "wings",
-      "mention_count": 203
+      "mention_count": 202
     },
     {
       "label": "crispy chicken",
-      "mention_count": 33
+      "mention_count": 31
     },
     {
       "label": "soy garlic wings",
-      "mention_count": 15
+      "mention_count": 25
+    },
+    {
+      "label": "honey wings",
+      "mention_count": 23
     },
     {
       "label": "pickled radish",
       "mention_count": 18
-    },
-    {
-      "label": "honey wings",
-      "mention_count": 14
     },
     {
       "label": "potato wedges",
@@ -35,15 +35,15 @@
       "mention_count": 9
     },
     {
-      "label": "whole chicken",
-      "mention_count": 10
+      "label": "broccoli salad",
+      "mention_count": 5
     },
     {
       "label": "korean fried chicken",
-      "mention_count": 6
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:11:13Z",
+  "scraped_at": "2026-06-08T22:50:24Z",
   "city": "Shanghai",
   "key": "kyochon-chicken-shanghai"
 }

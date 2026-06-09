@@ -3,7 +3,15 @@
   "venue_name": "Daiso - Japanese Household Goods",
   "chips": [
     {
+      "label": "affordability",
+      "mention_count": 10
+    },
+    {
       "label": "plushies",
+      "mention_count": 2
+    },
+    {
+      "label": "friendly cashier",
       "mention_count": 2
     },
     {
@@ -19,10 +27,6 @@
       "mention_count": 15
     },
     {
-      "label": "affordability",
-      "mention_count": 2
-    },
-    {
       "label": "organized store",
       "mention_count": 3
     },
@@ -31,19 +35,15 @@
       "mention_count": 3
     },
     {
+      "label": "store size",
+      "mention_count": 5
+    },
+    {
       "label": "cute stuff",
       "mention_count": 9
-    },
-    {
-      "label": "store size",
-      "mention_count": 4
-    },
-    {
-      "label": "quality items",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:37:03Z",
+  "scraped_at": "2026-06-09T00:34:37Z",
   "city": "Rowland Heights",
   "key": "daiso-japanese-household-goods-rowland-he"
 }

@@ -23,6 +23,14 @@
       "mention_count": 47
     },
     {
+      "label": "friendly bartenders",
+      "mention_count": 12
+    },
+    {
+      "label": "pulled pork sandwich",
+      "mention_count": 4
+    },
+    {
       "label": "mac and cheese",
       "mention_count": 8
     },
@@ -31,19 +39,11 @@
       "mention_count": 4
     },
     {
-      "label": "bike shed burger",
+      "label": "chicken and waffles",
       "mention_count": 3
-    },
-    {
-      "label": "parmesan truffle fries",
-      "mention_count": 2
-    },
-    {
-      "label": "french toast",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-06-08T06:02:28Z",
+  "scraped_at": "2026-06-09T00:59:03Z",
   "city": "Los Angeles",
   "key": "the-bike-shed-los-angeles"
 }

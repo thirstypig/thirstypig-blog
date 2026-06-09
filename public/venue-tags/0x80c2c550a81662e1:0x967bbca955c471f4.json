@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2c550a81662e1:0x967bbca955c471f4",
   "venue_name": "HongKong Cafe 香港茶餐廳",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:44:12Z",
+  "chips": [
+    {
+      "label": "cheong fun",
+      "mention_count": 14
+    },
+    {
+      "label": "fried noodle",
+      "mention_count": 6
+    },
+    {
+      "label": "authentic cantonese food",
+      "mention_count": 8
+    },
+    {
+      "label": "pineapple bun",
+      "mention_count": 32
+    },
+    {
+      "label": "curry dishes",
+      "mention_count": 9
+    },
+    {
+      "label": "fried chicken steak and egg",
+      "mention_count": 5
+    },
+    {
+      "label": "cash only",
+      "mention_count": 7
+    },
+    {
+      "label": "ovaltine french toast",
+      "mention_count": 2
+    },
+    {
+      "label": "congee",
+      "mention_count": 4
+    },
+    {
+      "label": "curry fish balls",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-09T00:39:02Z",
   "city": "Hong Kong",
   "key": "traditional-hong-kong-style-breakfa-hong-kong"
 }

@@ -20,7 +20,7 @@
     },
     {
       "label": "unique flavors",
-      "mention_count": 44
+      "mention_count": 50
     },
     {
       "label": "soft serve",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-17T16:44:03Z",
+  "scraped_at": "2026-06-09T00:44:45Z",
   "city": "Arcadia",
   "key": "honey-mee-arcadia"
 }

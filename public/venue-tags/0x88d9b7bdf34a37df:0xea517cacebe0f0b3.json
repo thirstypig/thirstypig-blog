@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mofongo",
-      "mention_count": 214
+      "mention_count": 220
     },
     {
       "label": "dominican food",
@@ -12,11 +12,11 @@
     },
     {
       "label": "happy hour",
-      "mention_count": 25
+      "mention_count": 26
     },
     {
       "label": "chicharrón de pollo",
-      "mention_count": 42
+      "mention_count": 43
     },
     {
       "label": "churrasco",
@@ -27,12 +27,12 @@
       "mention_count": 54
     },
     {
-      "label": "sancocho",
-      "mention_count": 28
+      "label": "attentive waitress",
+      "mention_count": 41
     },
     {
-      "label": "picadera",
-      "mention_count": 24
+      "label": "sancocho",
+      "mention_count": 30
     },
     {
       "label": "tostones",
@@ -43,7 +43,7 @@
       "mention_count": 42
     }
   ],
-  "scraped_at": "2026-05-16T05:58:58Z",
+  "scraped_at": "2026-06-08T22:35:36Z",
   "city": "Shanghai",
   "key": "mi-tierra-shanghai"
 }

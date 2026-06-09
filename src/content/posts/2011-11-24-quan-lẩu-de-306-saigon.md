@@ -18,6 +18,7 @@ tags:
 city: Saigon
 cuisine:
 - Vietnamese
+placeId: "0x31752dcce50c9cc7:0xed0cefffaf71612f"
 ---
 
 Goat, I’ve thought, was never that strange of a meat to eat. Its a domesticated animal much like a pig or a cow. Goats aren’t exotic creatures like pangolins, snakes, or even rabbits. But it still doesn’t answer the question – why we don’t eat goat in the US or in Asia. In Latin American, they consume goat, but not in China. So, when I was told I was going to have goat, I thought nothing of it. But after thinking about it, I was thinking, why I haven’t had it before.

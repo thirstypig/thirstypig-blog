@@ -12,7 +12,7 @@
     },
     {
       "label": "earl grey ice cream",
-      "mention_count": 15
+      "mention_count": 16
     },
     {
       "label": "root beer float",
@@ -23,6 +23,10 @@
       "mention_count": 11
     },
     {
+      "label": "hot fudge sundaes",
+      "mention_count": 2
+    },
+    {
       "label": "brown sugar cookie dough",
       "mention_count": 2
     },
@@ -31,19 +35,15 @@
       "mention_count": 2
     },
     {
-      "label": "hot fudge sundaes",
-      "mention_count": 2
-    },
-    {
-      "label": "ice cream samples",
-      "mention_count": 2
+      "label": "samples",
+      "mention_count": 7
     },
     {
       "label": "pints to go",
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:43:50Z",
+  "scraped_at": "2026-06-09T00:38:56Z",
   "city": "Koreatown",
   "key": "van-leeuwen-ice-cream-koreatown"
 }

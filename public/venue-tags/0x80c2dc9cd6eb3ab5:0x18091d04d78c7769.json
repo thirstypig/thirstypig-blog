@@ -7,10 +7,6 @@
       "mention_count": 44
     },
     {
-      "label": "corn bread",
-      "mention_count": 30
-    },
-    {
       "label": "tri tip sandwich",
       "mention_count": 14
     },
@@ -31,7 +27,11 @@
       "mention_count": 2
     },
     {
-      "label": "closed for retirement",
+      "label": "cornbread",
+      "mention_count": 30
+    },
+    {
+      "label": "retirement",
       "mention_count": 4
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:10:04Z",
+  "scraped_at": "2026-06-08T22:44:39Z",
   "city": "Pasadena",
   "key": "robins-woodfire-bbq-of-pasadena-pasadena"
 }

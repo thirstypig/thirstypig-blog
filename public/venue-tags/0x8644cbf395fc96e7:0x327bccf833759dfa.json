@@ -11,10 +11,6 @@
       "mention_count": 25
     },
     {
-      "label": "no seating",
-      "mention_count": 5
-    },
-    {
       "label": "sugar cookie",
       "mention_count": 13
     },
@@ -32,18 +28,22 @@
     },
     {
       "label": "ice cream",
-      "mention_count": 70
+      "mention_count": 71
     },
     {
-      "label": "croissants",
-      "mention_count": 11
+      "label": "morning bun",
+      "mention_count": 8
+    },
+    {
+      "label": "brownie",
+      "mention_count": 10
     },
     {
       "label": "cookie dough",
-      "mention_count": 6
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:25:29Z",
+  "scraped_at": "2026-06-09T00:25:31Z",
   "city": "Austin",
   "key": "austins-cookie-delivery-austin"
 }

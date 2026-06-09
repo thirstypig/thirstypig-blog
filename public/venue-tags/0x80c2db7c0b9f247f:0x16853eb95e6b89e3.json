@@ -3,12 +3,8 @@
   "venue_name": "上海灘 Shanghailander Palace",
   "chips": [
     {
-      "label": "braised pork",
+      "label": "braised pork belly",
       "mention_count": 11
-    },
-    {
-      "label": "fried pork bun",
-      "mention_count": 7
     },
     {
       "label": "stir fry eel",
@@ -23,12 +19,12 @@
       "mention_count": 6
     },
     {
-      "label": "seaweed fried fish",
-      "mention_count": 2
+      "label": "jelly fish",
+      "mention_count": 3
     },
     {
-      "label": "jellyfish",
-      "mention_count": 3
+      "label": "seaweed fried fish",
+      "mention_count": 2
     },
     {
       "label": "whole steamed fish",
@@ -41,9 +37,13 @@
     {
       "label": "lobster",
       "mention_count": 2
+    },
+    {
+      "label": "authentic asian food",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:32:09Z",
+  "scraped_at": "2026-06-09T00:30:59Z",
   "city": "Arcadia",
   "key": "shanghailander-palace-arcadia"
 }

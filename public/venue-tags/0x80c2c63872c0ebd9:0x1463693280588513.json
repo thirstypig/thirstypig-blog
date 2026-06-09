@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pizza by the slice",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "sicilian pizza",
@@ -23,12 +23,12 @@
       "mention_count": 7
     },
     {
-      "label": "garlic knots",
-      "mention_count": 13
+      "label": "spicy pepperoni pizza",
+      "mention_count": 7
     },
     {
-      "label": "spicy pepperoni pizza",
-      "mention_count": 6
+      "label": "garlic knots",
+      "mention_count": 13
     },
     {
       "label": "square pizza",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:28:09Z",
+  "scraped_at": "2026-06-09T00:27:50Z",
   "city": "Koreatown",
   "key": "prime-pizza-koreatown"
 }

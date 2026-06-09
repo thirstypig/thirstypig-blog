@@ -8,7 +8,7 @@
     },
     {
       "label": "fresh fruits",
-      "mention_count": 7
+      "mention_count": 4
     },
     {
       "label": "social distancing",
@@ -39,11 +39,11 @@
       "mention_count": 2
     },
     {
-      "label": "variety",
-      "mention_count": 6
+      "label": "plants",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:04:00Z",
+  "scraped_at": "2026-06-08T22:39:39Z",
   "city": "Santa Monica",
   "key": "santa-monica-farmers-market-santa-moni"
 }

@@ -23,10 +23,6 @@
       "mention_count": 2
     },
     {
-      "label": "skyline of shanghai",
-      "mention_count": 3
-    },
-    {
       "label": "dress code",
       "mention_count": 2
     },
@@ -35,15 +31,19 @@
       "mention_count": 6
     },
     {
+      "label": "dancing",
+      "mention_count": 2
+    },
+    {
       "label": "party",
       "mention_count": 9
     },
     {
-      "label": "clientele",
-      "mention_count": 3
+      "label": "roof",
+      "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T05:56:24Z",
+  "scraped_at": "2026-06-08T22:33:23Z",
   "city": "Shanghai",
   "key": "bar-rouge-shanghai"
 }

@@ -8,18 +8,18 @@
     },
     {
       "label": "mariachi",
-      "mention_count": 147
+      "mention_count": 148
     },
     {
       "label": "live music",
-      "mention_count": 77
+      "mention_count": 76
     },
     {
       "label": "cantina",
-      "mention_count": 107
+      "mention_count": 102
     },
     {
-      "label": "traditional place",
+      "label": "traditional chinese",
       "mention_count": 77
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 18
     }
   ],
-  "scraped_at": "2026-05-16T06:33:28Z",
+  "scraped_at": "2026-06-09T00:31:44Z",
   "city": "Ensenada",
   "key": "the-best-meal-on-our-booze-cruise-i-ensenada"
 }

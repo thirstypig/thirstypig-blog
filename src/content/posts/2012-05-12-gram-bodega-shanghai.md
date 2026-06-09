@@ -31,6 +31,7 @@ images:
 - /images/posts/2012-05-12-gram-bodega-shanghai/05.jpg
 - /images/posts/2012-05-12-gram-bodega-shanghai/06.jpg
 - /images/posts/2012-05-12-gram-bodega-shanghai/07.jpg
+placeId: "0x35b2656e48c60787:0xdbb37c91377ef0ad"
 ---
 
 

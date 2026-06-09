@@ -7,6 +7,10 @@
       "mention_count": 13
     },
     {
+      "label": "korean independence movement",
+      "mention_count": 19
+    },
+    {
       "label": "archeological site",
       "mention_count": 15
     },
@@ -37,13 +41,9 @@
     {
       "label": "Government of the Republic of Korea",
       "mention_count": 5
-    },
-    {
-      "label": "recommended for koreans",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-06-04T20:28:05Z",
+  "scraped_at": "2026-06-09T00:56:44Z",
   "city": "Shanghai",
   "key": "former-provisional-government-site--shanghai"
 }

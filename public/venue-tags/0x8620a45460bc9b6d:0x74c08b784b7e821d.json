@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "unique flavors",
-      "mention_count": 404
+      "mention_count": 405
     },
     {
       "label": "cash only",
@@ -20,7 +20,7 @@
     },
     {
       "label": "lavender",
-      "mention_count": 30
+      "mention_count": 31
     },
     {
       "label": "petit four",
@@ -43,7 +43,7 @@
       "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:27:20Z",
+  "scraped_at": "2026-06-09T00:26:54Z",
   "city": "New Orleans",
   "key": "peanut-butter-cheesecake-and-vanill-new-orlean"
 }

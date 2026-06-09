@@ -32,6 +32,7 @@ images:
 - /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/08.jpg
 - /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/09.jpg
 - /images/posts/2016-09-21-mo-mo-paradise-rowland-heights/10.jpg
+placeId: "0x80c32a791e061b5b:0x6c821095a26d8f63"
 ---
 
 

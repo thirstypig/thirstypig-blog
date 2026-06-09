@@ -24,7 +24,7 @@
     },
     {
       "label": "cocktails",
-      "mention_count": 31
+      "mention_count": 30
     },
     {
       "label": "flatbreads",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:05:49Z",
+  "scraped_at": "2026-06-08T22:41:27Z",
   "city": "La Jolla",
   "key": "whisknladle-la-jolla"
 }

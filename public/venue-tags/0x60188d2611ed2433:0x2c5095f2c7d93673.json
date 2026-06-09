@@ -7,12 +7,12 @@
       "mention_count": 95
     },
     {
-      "label": "chijimi",
+      "label": "korean pancake",
       "mention_count": 41
     },
     {
-      "label": "table seating",
-      "mention_count": 14
+      "label": "ambience",
+      "mention_count": 15
     },
     {
       "label": "thick-cut samgyeopsal",
@@ -27,7 +27,7 @@
       "mention_count": 30
     },
     {
-      "label": "all-you-can-eat",
+      "label": "all you can eat",
       "mention_count": 8
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 7
     },
     {
-      "label": "sundubu",
+      "label": "tofu stew",
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:02:21Z",
+  "scraped_at": "2026-06-08T22:38:01Z",
   "city": "Tokyo",
   "key": "味ちゃん-1号店-tokyo"
 }

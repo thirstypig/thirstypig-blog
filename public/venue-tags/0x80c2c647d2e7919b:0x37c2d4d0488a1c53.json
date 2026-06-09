@@ -8,7 +8,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 20
+      "mention_count": 21
     },
     {
       "label": "pancakes",
@@ -23,11 +23,11 @@
       "mention_count": 11
     },
     {
-      "label": "tokyo tater tots",
+      "label": "Tres Leches Pancakes",
       "mention_count": 9
     },
     {
-      "label": "Tres Leches Pancakes",
+      "label": "Tokyo Tater Tots",
       "mention_count": 9
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 9
     },
     {
-      "label": "french toast",
-      "mention_count": 4
+      "label": "coconut cream pie pancakes",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:46:44Z",
+  "scraped_at": "2026-06-09T00:39:57Z",
   "city": "Little Tokyo",
   "key": "jist-cafe-little-tok"
 }

@@ -31,8 +31,8 @@
       "mention_count": 33
     },
     {
-      "label": "roti canai",
-      "mention_count": 62
+      "label": "milk tea",
+      "mention_count": 48
     },
     {
       "label": "wanton mee",
@@ -43,7 +43,7 @@
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-06-04T20:26:17Z",
+  "scraped_at": "2026-06-09T00:56:19Z",
   "city": "Hong Kong",
   "key": "pearl-river-deli-hong-kong"
 }

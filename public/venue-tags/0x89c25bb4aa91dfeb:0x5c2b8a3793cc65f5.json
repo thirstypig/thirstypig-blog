@@ -3,7 +3,7 @@
   "venue_name": "Han Dynasty Brooklyn",
   "chips": [
     {
-      "label": "Dan Dan Noodle",
+      "label": "dan dan noodles",
       "mention_count": 43
     },
     {
@@ -28,22 +28,22 @@
     },
     {
       "label": "mapo tofu",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "label": "scallion beef",
       "mention_count": 6
     },
     {
-      "label": "dry pot",
-      "mention_count": 15
-    },
-    {
       "label": "chinese food",
       "mention_count": 54
+    },
+    {
+      "label": "double cooked pork",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:29:34Z",
+  "scraped_at": "2026-06-09T00:28:37Z",
   "city": "Brooklyn",
   "key": "han-dynasty-brooklyn"
 }

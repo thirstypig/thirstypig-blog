@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2b4a1fbe406c5:0x115d055822fcc19b",
   "venue_name": "The Boy & The Bear - Coffee Roastery",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:43:27Z",
+  "chips": [
+    {
+      "label": "pour over",
+      "mention_count": 16
+    },
+    {
+      "label": "wait time",
+      "mention_count": 23
+    },
+    {
+      "label": "comfy couches",
+      "mention_count": 4
+    },
+    {
+      "label": "cold brew",
+      "mention_count": 13
+    },
+    {
+      "label": "croissants",
+      "mention_count": 7
+    },
+    {
+      "label": "mocha",
+      "mention_count": 13
+    },
+    {
+      "label": "pistachio croissant",
+      "mention_count": 2
+    },
+    {
+      "label": "almond latte",
+      "mention_count": 2
+    },
+    {
+      "label": "whole bean coffee",
+      "mention_count": 2
+    },
+    {
+      "label": "espresso",
+      "mention_count": 41
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:51Z",
   "city": "Redondo Beach",
   "key": "the-boy-the-bear-coffee-roastery-redondo-be"
 }

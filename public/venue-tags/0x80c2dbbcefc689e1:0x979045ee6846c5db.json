@@ -15,8 +15,16 @@
       "mention_count": 3
     },
     {
+      "label": "cpk location",
+      "mention_count": 4
+    },
+    {
       "label": "mall location",
       "mention_count": 29
+    },
+    {
+      "label": "thai crunch salad",
+      "mention_count": 2
     },
     {
       "label": "free birthday dessert",
@@ -31,19 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "cpk location",
-      "mention_count": 3
-    },
-    {
       "label": "complimentary bread",
-      "mention_count": 2
-    },
-    {
-      "label": "sangria",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:39:35Z",
+  "scraped_at": "2026-06-09T00:36:39Z",
   "city": "San Gabriel Valley",
   "key": "pizza-at-cpk-san-gabrie"
 }

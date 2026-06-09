@@ -1,0 +1,49 @@
+{
+  "place_id": "0x80c2b8d3a0ee6b6d:0x7fd7c9cbe4f265c7",
+  "venue_name": "Pizzeria Mozza",
+  "chips": [
+    {
+      "label": "budino",
+      "mention_count": 26
+    },
+    {
+      "label": "burrata",
+      "mention_count": 27
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 19
+    },
+    {
+      "label": "prosciutto",
+      "mention_count": 18
+    },
+    {
+      "label": "Butterscotch Budino",
+      "mention_count": 28
+    },
+    {
+      "label": "Squash Blossom Fritti with Ricotta GF",
+      "mention_count": 50
+    },
+    {
+      "label": "meatballs",
+      "mention_count": 54
+    },
+    {
+      "label": "fennel sausage pizza",
+      "mention_count": 5
+    },
+    {
+      "label": "Margherita",
+      "mention_count": 31
+    },
+    {
+      "label": "bone marrow",
+      "mention_count": 8
+    }
+  ],
+  "scraped_at": "2026-06-09T01:00:27Z",
+  "city": "Los Angeles",
+  "key": "pizzeria-mozza-los-angele"
+}

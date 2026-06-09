@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2db1d34e9c8f3:0xd3dd5ffcf3128352",
   "venue_name": "Omaniku",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:47:59Z",
+  "chips": [
+    {
+      "label": "wagyu",
+      "mention_count": 6
+    },
+    {
+      "label": "tasting menu",
+      "mention_count": 14
+    },
+    {
+      "label": "seafood",
+      "mention_count": 14
+    },
+    {
+      "label": "Bone Marrow Rice",
+      "mention_count": 3
+    },
+    {
+      "label": "Scallops",
+      "mention_count": 2
+    },
+    {
+      "label": "meat menu",
+      "mention_count": 3
+    },
+    {
+      "label": "small portions",
+      "mention_count": 3
+    },
+    {
+      "label": "birthday celebration",
+      "mention_count": 2
+    },
+    {
+      "label": "plating",
+      "mention_count": 2
+    },
+    {
+      "label": "date night",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:40:27Z",
   "city": "San Gabriel Valley",
   "key": "omakase-at-z-sushui-san-gabrie"
 }

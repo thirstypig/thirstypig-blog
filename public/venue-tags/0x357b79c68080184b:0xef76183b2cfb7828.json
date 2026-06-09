@@ -1,0 +1,21 @@
+{
+  "place_id": "0x357b79c68080184b:0xef76183b2cfb7828",
+  "venue_name": "청학동 행정복지센터",
+  "chips": [
+    {
+      "label": "building",
+      "mention_count": 2
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 3
+    },
+    {
+      "label": "silver",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T01:03:43Z",
+  "city": "Seoul",
+  "key": "청학동-seoul"
+}

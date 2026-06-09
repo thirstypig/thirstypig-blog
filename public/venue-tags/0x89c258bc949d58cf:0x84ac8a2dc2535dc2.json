@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "Shake Shack",
-      "mention_count": 30
+      "mention_count": 31
     },
     {
       "label": "shroom burger",
@@ -12,19 +12,23 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 68
+      "mention_count": 70
     },
     {
       "label": "park setting",
-      "mention_count": 20
+      "mention_count": 15
     },
     {
       "label": "long lines",
-      "mention_count": 69
+      "mention_count": 63
     },
     {
       "label": "cheese fries",
       "mention_count": 77
+    },
+    {
+      "label": "people watching",
+      "mention_count": 10
     },
     {
       "label": "chicken sandwich",
@@ -35,15 +39,11 @@
       "mention_count": 65
     },
     {
-      "label": "people watching",
-      "mention_count": 11
-    },
-    {
-      "label": "rats",
-      "mention_count": 13
+      "label": "seating in the park",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:38:00Z",
+  "scraped_at": "2026-06-09T00:35:23Z",
   "city": "New York",
   "key": "shake-shack-new-york"
 }

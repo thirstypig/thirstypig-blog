@@ -32,6 +32,7 @@ images:
 - /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/05.jpg
 - /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/06.jpg
 - /images/posts/2011-05-21-mapuwu-麻浦屋-shanghai/07.jpg
+placeId: "0x35b270417ec0dad3:0x70e9143427d699c6"
 ---
 
 

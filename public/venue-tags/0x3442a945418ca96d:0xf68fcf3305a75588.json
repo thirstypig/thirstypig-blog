@@ -3,23 +3,23 @@
   "venue_name": "Shin Yeh Main Restaurant",
   "chips": [
     {
-      "label": "preserved radish omelette",
+      "label": "chhài-pó͘-nn̄g",
       "mention_count": 95
     },
     {
       "label": "pan-fried pork liver",
-      "mention_count": 81
+      "mention_count": 80
     },
     {
-      "label": "dining environment",
+      "label": "mood",
       "mention_count": 67
     },
     {
       "label": "almond tofu",
-      "mention_count": 153
+      "mention_count": 155
     },
     {
-      "label": "sweet potato porridge",
+      "label": "sweet potato",
       "mention_count": 101
     },
     {
@@ -27,23 +27,23 @@
       "mention_count": 59
     },
     {
-      "label": "braised pork belly",
-      "mention_count": 59
+      "label": "kakuni",
+      "mention_count": 60
     },
     {
-      "label": "mullet roe",
-      "mention_count": 57
+      "label": "karasumi",
+      "mention_count": 56
     },
     {
-      "label": "three-cup chicken",
-      "mention_count": 36
+      "label": "three cup chicken",
+      "mention_count": 37
     },
     {
       "label": "peanut mochi",
       "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T05:55:41Z",
+  "scraped_at": "2026-06-08T22:32:41Z",
   "city": "Taipei",
   "key": "shin-yeh-taipei"
 }

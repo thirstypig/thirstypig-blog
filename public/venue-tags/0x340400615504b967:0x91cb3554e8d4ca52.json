@@ -4,18 +4,18 @@
   "chips": [
     {
       "label": "dim sum",
-      "mention_count": 628
+      "mention_count": 694
     },
     {
       "label": "dim sum cart",
       "mention_count": 50
     },
     {
-      "label": "harbor view",
+      "label": "victoria harbour",
       "mention_count": 16
     },
     {
-      "label": "char siu bao",
+      "label": "char siew bao",
       "mention_count": 23
     },
     {
@@ -23,16 +23,8 @@
       "mention_count": 11
     },
     {
-      "label": "victoria harbour view",
-      "mention_count": 3
-    },
-    {
       "label": "soybean pudding",
       "mention_count": 16
-    },
-    {
-      "label": "yum cha",
-      "mention_count": 118
     },
     {
       "label": "egg tarts",
@@ -41,9 +33,17 @@
     {
       "label": "chicken feet",
       "mention_count": 15
+    },
+    {
+      "label": "radish cake",
+      "mention_count": 10
+    },
+    {
+      "label": "siu mai",
+      "mention_count": 39
     }
   ],
-  "scraped_at": "2026-05-16T06:20:44Z",
+  "scraped_at": "2026-06-09T00:22:27Z",
   "city": "Hong Kong",
   "key": "maxims-palace-美心皇宮-hong-kong"
 }

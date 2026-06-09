@@ -8,27 +8,27 @@
     },
     {
       "label": "metal music",
-      "mention_count": 28
+      "mention_count": 25
     },
     {
       "label": "primate fries",
       "mention_count": 9
     },
     {
-      "label": "Burger of the Month",
-      "mention_count": 9
-    },
-    {
       "label": "outdoor seating",
-      "mention_count": 13
+      "mention_count": 11
     },
     {
-      "label": "chili cheese fries",
-      "mention_count": 9
+      "label": "beachfront location",
+      "mention_count": 10
     },
     {
       "label": "vegan options",
       "mention_count": 20
+    },
+    {
+      "label": "Burger of the Month",
+      "mention_count": 7
     },
     {
       "label": "behemoth burger",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:28:28Z",
+  "scraped_at": "2026-06-09T00:28:10Z",
   "city": "Long Beach",
   "key": "thats-what-a-hamburgers-all-about-long-beach"
 }

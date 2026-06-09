@@ -3,12 +3,12 @@
   "venue_name": "Hollywood Burger & Sandwich Co.",
   "chips": [
     {
-      "label": "burgers",
-      "mention_count": 121
+      "label": "tater tots",
+      "mention_count": 22
     },
     {
-      "label": "Tater Tots",
-      "mention_count": 22
+      "label": "burgers",
+      "mention_count": 115
     },
     {
       "label": "outdoor seating",
@@ -16,34 +16,34 @@
     },
     {
       "label": "shakes",
-      "mention_count": 28
-    },
-    {
-      "label": "veggie burger",
-      "mention_count": 14
+      "mention_count": 29
     },
     {
       "label": "chicken strips",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "sweet potato fries",
       "mention_count": 8
     },
     {
-      "label": "chili cheese fries",
-      "mention_count": 7
+      "label": "veggie burger",
+      "mention_count": 14
     },
     {
       "label": "onion rings",
       "mention_count": 14
     },
     {
-      "label": "cheeseburgers",
-      "mention_count": 11
+      "label": "french dip",
+      "mention_count": 5
+    },
+    {
+      "label": "burger size",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:00:53Z",
+  "scraped_at": "2026-06-08T22:37:19Z",
   "city": "Beverly Hills",
   "key": "home-of-the-pug-burger-beverly-hi"
 }

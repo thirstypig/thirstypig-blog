@@ -33,6 +33,7 @@ images:
 - /images/posts/2012-04-17-kechara-tea-house-shanghai/06.jpg
 - /images/posts/2012-04-17-kechara-tea-house-shanghai/07.jpg
 - /images/posts/2012-04-17-kechara-tea-house-shanghai/08.jpg
+placeId: "0x35b27aa56e495511:0x6bb8eb927459a373"
 ---
 
 

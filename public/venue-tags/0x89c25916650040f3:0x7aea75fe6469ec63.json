@@ -8,7 +8,7 @@
     },
     {
       "label": "döner",
-      "mention_count": 39
+      "mention_count": 37
     },
     {
       "label": "outdoor seating",
@@ -31,19 +31,19 @@
       "mention_count": 8
     },
     {
+      "label": "shawarma",
+      "mention_count": 9
+    },
+    {
       "label": "pita",
       "mention_count": 24
     },
     {
       "label": "turkish food",
       "mention_count": 13
-    },
-    {
-      "label": "baklava",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:32:28Z",
+  "scraped_at": "2026-06-09T00:31:19Z",
   "city": "New York",
   "key": "turkiss-new-york"
 }

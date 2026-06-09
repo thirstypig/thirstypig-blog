@@ -4,15 +4,23 @@
   "chips": [
     {
       "label": "rolled ice cream",
-      "mention_count": 46
-    },
-    {
-      "label": "marshmallow",
-      "mention_count": 11
+      "mention_count": 45
     },
     {
       "label": "toppings",
       "mention_count": 13
+    },
+    {
+      "label": "toasted marshmallow",
+      "mention_count": 2
+    },
+    {
+      "label": "oreo",
+      "mention_count": 16
+    },
+    {
+      "label": "ferrero rocher ice cream",
+      "mention_count": 9
     },
     {
       "label": "earl grey ice cream",
@@ -31,19 +39,11 @@
       "mention_count": 3
     },
     {
-      "label": "toasted marshmallow",
-      "mention_count": 2
-    },
-    {
-      "label": "ice cream making process",
+      "label": "cash only",
       "mention_count": 3
-    },
-    {
-      "label": "vegan options",
-      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:39:24Z",
+  "scraped_at": "2026-06-09T00:36:31Z",
   "city": "Arcadia",
   "key": "holy-roly-ice-cream-arcadia"
 }

@@ -7,12 +7,16 @@
       "mention_count": 144
     },
     {
-      "label": "kkakdugi",
-      "mention_count": 27
+      "label": "radish kimchi",
+      "mention_count": 28
     },
     {
       "label": "soondae",
       "mention_count": 17
+    },
+    {
+      "label": "Gammeeok Bibimbap",
+      "mention_count": 37
     },
     {
       "label": "galbitang",
@@ -37,13 +41,9 @@
     {
       "label": "yukgaejang",
       "mention_count": 11
-    },
-    {
-      "label": "doganitang",
-      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T05:59:15Z",
+  "scraped_at": "2026-06-08T22:35:53Z",
   "city": "Koreatown",
   "key": "gammeeok-koreatown"
 }

@@ -3,6 +3,10 @@
   "venue_name": "Smorgasburg (Los Angeles)",
   "chips": [
     {
+      "label": "lobsterdamus",
+      "mention_count": 58
+    },
+    {
       "label": "smorgasburg",
       "mention_count": 17
     },
@@ -12,38 +16,34 @@
     },
     {
       "label": "vegan options",
-      "mention_count": 134
+      "mention_count": 136
     },
     {
       "label": "beer garden",
       "mention_count": 40
     },
     {
-      "label": "lobsterdamus",
-      "mention_count": 21
-    },
-    {
       "label": "food variety",
-      "mention_count": 129
-    },
-    {
-      "label": "oysters",
-      "mention_count": 20
+      "mention_count": 127
     },
     {
       "label": "long lines",
-      "mention_count": 52
+      "mention_count": 51
     },
     {
       "label": "food selection",
-      "mention_count": 92
+      "mention_count": 90
     },
     {
       "label": "vendors",
       "mention_count": 282
+    },
+    {
+      "label": "dumplings",
+      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-16T06:25:07Z",
+  "scraped_at": "2026-06-09T00:25:09Z",
   "city": "Dtla",
   "key": "smorgasburg-los-angeles-dtla"
 }

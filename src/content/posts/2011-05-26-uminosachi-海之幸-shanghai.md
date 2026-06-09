@@ -28,6 +28,7 @@ images:
 - /images/posts/2011-05-26-uminosachi-海之幸-shanghai/02.jpg
 - /images/posts/2011-05-26-uminosachi-海之幸-shanghai/03.jpg
 - /images/posts/2011-05-26-uminosachi-海之幸-shanghai/04.jpg
+placeId: "0x35b27aa9d9cab6af:0xa4d1ffcd24fbd0f0"
 ---
 
 

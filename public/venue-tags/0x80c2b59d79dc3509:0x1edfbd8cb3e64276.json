@@ -15,20 +15,16 @@
       "mention_count": 4
     },
     {
-      "label": "curry rice",
-      "mention_count": 4
-    },
-    {
       "label": "customizable ramen",
       "mention_count": 7
     },
     {
-      "label": "bar seating",
-      "mention_count": 5
-    },
-    {
       "label": "karage",
       "mention_count": 9
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 5
     },
     {
       "label": "wait time",
@@ -40,10 +36,14 @@
     },
     {
       "label": "favorite ramen house",
-      "mention_count": 22
+      "mention_count": 23
+    },
+    {
+      "label": "eel bowl",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:01:45Z",
+  "scraped_at": "2026-06-08T22:37:52Z",
   "city": "Torrance",
   "key": "shinsen-gumi-ramen-torrance"
 }

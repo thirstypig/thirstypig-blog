@@ -3,16 +3,16 @@
   "venue_name": "JJ Bakery & Cafe - Temple City",
   "chips": [
     {
-      "label": "Chinese Dough Sticks",
-      "mention_count": 4
-    },
-    {
       "label": "bento",
       "mention_count": 10
     },
     {
       "label": "mango mousse cake",
-      "mention_count": 3
+      "mention_count": 4
+    },
+    {
+      "label": "youtiao",
+      "mention_count": 4
     },
     {
       "label": "egg tarts",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:28:20Z",
+  "scraped_at": "2026-06-09T00:28:01Z",
   "city": "San Gabriel",
   "key": "jj-bakery-cafe-san-gabrie"
 }

@@ -28,7 +28,7 @@
     },
     {
       "label": "mood",
-      "mention_count": 169
+      "mention_count": 180
     },
     {
       "label": "yakiniku nakayama",
@@ -43,7 +43,7 @@
       "mention_count": 37
     }
   ],
-  "scraped_at": "2026-06-08T06:02:50Z",
+  "scraped_at": "2026-06-09T00:59:14Z",
   "city": "Taipei",
   "key": "zonzen-yakiniku-taipei"
 }

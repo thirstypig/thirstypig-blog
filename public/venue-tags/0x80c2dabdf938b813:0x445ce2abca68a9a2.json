@@ -3,8 +3,16 @@
   "venue_name": "Petrillo's Pizza",
   "chips": [
     {
-      "label": "Large Pepperoni and Sausage Pizza with Extra Cheese",
-      "mention_count": 19
+      "label": "italian food",
+      "mention_count": 66
+    },
+    {
+      "label": "fettuccine",
+      "mention_count": 8
+    },
+    {
+      "label": "thick crust pizza",
+      "mention_count": 4
     },
     {
       "label": "lasagna",
@@ -15,10 +23,6 @@
       "mention_count": 14
     },
     {
-      "label": "thick crust",
-      "mention_count": 5
-    },
-    {
       "label": "black olives",
       "mention_count": 6
     },
@@ -27,23 +31,19 @@
       "mention_count": 13
     },
     {
-      "label": "wait time",
-      "mention_count": 15
+      "label": "sausage",
+      "mention_count": 36
     },
     {
       "label": "eggplant parmesan",
       "mention_count": 2
     },
     {
-      "label": "chicken alfredo",
-      "mention_count": 2
-    },
-    {
-      "label": "raviolis",
-      "mention_count": 10
+      "label": "wait time",
+      "mention_count": 14
     }
   ],
-  "scraped_at": "2026-05-16T06:39:32Z",
+  "scraped_at": "2026-06-09T00:36:36Z",
   "city": "San Gabriel Valley",
   "key": "pizza-san-gabrie"
 }

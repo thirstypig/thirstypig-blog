@@ -7,8 +7,8 @@
       "mention_count": 37
     },
     {
-      "label": "chicken tikka masala burrito",
-      "mention_count": 18
+      "label": "burritos",
+      "mention_count": 136
     },
     {
       "label": "outdoor seating",
@@ -19,6 +19,10 @@
       "mention_count": 30
     },
     {
+      "label": "chicken tikka masala burrito",
+      "mention_count": 12
+    },
+    {
       "label": "beef samosa",
       "mention_count": 12
     },
@@ -27,12 +31,8 @@
       "mention_count": 17
     },
     {
-      "label": "burritos",
-      "mention_count": 34
-    },
-    {
       "label": "veggie samosa",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "label": "chutney",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:31:58Z",
+  "scraped_at": "2026-06-09T00:30:48Z",
   "city": "Los Angeles",
   "key": "the-bombay-frankie-company-los-angele"
 }

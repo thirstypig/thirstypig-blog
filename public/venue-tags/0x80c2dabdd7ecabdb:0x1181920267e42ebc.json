@@ -8,7 +8,7 @@
     },
     {
       "label": "super bowl",
-      "mention_count": 8
+      "mention_count": 9
     },
     {
       "label": "passionfruit tea",
@@ -23,12 +23,12 @@
       "mention_count": 2
     },
     {
-      "label": "bun cha",
-      "mention_count": 4
-    },
-    {
       "label": "fried tofu",
       "mention_count": 2
+    },
+    {
+      "label": "bun cha",
+      "mention_count": 4
     },
     {
       "label": "beefballs",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:36:30Z",
+  "scraped_at": "2026-06-09T00:34:12Z",
   "city": "San Gabriel Valley",
   "key": "pho-done-easy-san-gabrie"
 }

@@ -25,6 +25,7 @@ heroImage: /images/posts/2012-02-28-pizzeria-mozza-los-angeles/01.jpg
 images:
 - /images/posts/2012-02-28-pizzeria-mozza-los-angeles/01.jpg
 - /images/posts/2012-02-28-pizzeria-mozza-los-angeles/02.jpg
+placeId: "0x80c2b8d3a0ee6b6d:0x7fd7c9cbe4f265c7"
 ---
 
 **What is Mozza**

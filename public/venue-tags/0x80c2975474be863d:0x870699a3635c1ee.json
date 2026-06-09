@@ -1,8 +1,17 @@
 {
   "place_id": "0x80c2975474be863d:0x870699a3635c1ee",
   "venue_name": "Power Smokes",
-  "chips": [],
-  "scraped_at": "2026-05-17T19:49:43Z",
+  "chips": [
+    {
+      "label": "drink",
+      "mention_count": 2
+    },
+    {
+      "label": "employee",
+      "mention_count": 3
+    }
+  ],
+  "scraped_at": "2026-06-09T00:45:50Z",
   "city": "Los Angeles",
   "key": "smoke-city-market-los-angeles"
 }

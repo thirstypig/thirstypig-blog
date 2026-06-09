@@ -4,23 +4,23 @@
   "chips": [
     {
       "label": "octopus taco",
-      "mention_count": 135
+      "mention_count": 139
     },
     {
       "label": "tostadas",
-      "mention_count": 160
+      "mention_count": 166
     },
     {
       "label": "counter seating",
-      "mention_count": 28
+      "mention_count": 24
     },
     {
       "label": "scallop taco",
-      "mention_count": 69
+      "mention_count": 71
     },
     {
       "label": "michelin star",
-      "mention_count": 181
+      "mention_count": 183
     },
     {
       "label": "outdoor seating",
@@ -28,22 +28,22 @@
     },
     {
       "label": "food court location",
-      "mention_count": 136
+      "mention_count": 138
     },
     {
       "label": "scallop aguachile",
-      "mention_count": 47
+      "mention_count": 51
     },
     {
       "label": "sea urchin",
-      "mention_count": 80
+      "mention_count": 82
     },
     {
       "label": "ceviche",
       "mention_count": 144
     }
   ],
-  "scraped_at": "2026-05-16T22:46:24Z",
+  "scraped_at": "2026-06-09T00:42:13Z",
   "city": "Downtown LA",
   "key": "holbox-downtown-l"
 }

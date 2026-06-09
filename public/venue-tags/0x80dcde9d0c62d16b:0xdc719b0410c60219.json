@@ -7,20 +7,16 @@
       "mention_count": 8
     },
     {
-      "label": "sizzling plate",
-      "mention_count": 10
-    },
-    {
       "label": "outdoor seating",
       "mention_count": 9
     },
     {
-      "label": "curry",
-      "mention_count": 42
+      "label": "sizzling plate",
+      "mention_count": 10
     },
     {
-      "label": "ribeye",
-      "mention_count": 5
+      "label": "curry",
+      "mention_count": 44
     },
     {
       "label": "helpful cashier",
@@ -35,15 +31,19 @@
       "mention_count": 5
     },
     {
-      "label": "kimchi beef",
-      "mention_count": 6
+      "label": "steak",
+      "mention_count": 22
     },
     {
-      "label": "garlic chips",
+      "label": "ribeye",
       "mention_count": 2
+    },
+    {
+      "label": "kimchi beef",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:33:10Z",
+  "scraped_at": "2026-06-09T00:31:35Z",
   "city": "Irvine",
   "key": "pepper-lunch-irvine"
 }

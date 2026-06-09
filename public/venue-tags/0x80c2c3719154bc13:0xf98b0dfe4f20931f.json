@@ -12,11 +12,15 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 4
+      "mention_count": 3
+    },
+    {
+      "label": "old fashioned",
+      "mention_count": 18
     },
     {
       "label": "whiskey bar",
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "label": "carne asada fries",
@@ -37,13 +41,9 @@
     {
       "label": "shuffleboard",
       "mention_count": 7
-    },
-    {
-      "label": "cocktail menu",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:31:06Z",
+  "scraped_at": "2026-06-09T00:29:56Z",
   "city": "Pasadena",
   "key": "the-blind-donkey-pasadena"
 }

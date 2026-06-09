@@ -7,20 +7,20 @@
       "mention_count": 8
     },
     {
-      "label": "taiwanese cuisine",
-      "mention_count": 18
+      "label": "taiwanese food",
+      "mention_count": 20
     },
     {
       "label": "izakaya",
       "mention_count": 33
     },
     {
-      "label": "spicy pork intestine hot pot",
+      "label": "wu geng chang wang",
       "mention_count": 10
     },
     {
-      "label": "bitter gourd with salted egg",
-      "mention_count": 12
+      "label": "three-cup squid",
+      "mention_count": 6
     },
     {
       "label": "stinky tofu",
@@ -31,19 +31,19 @@
       "mention_count": 11
     },
     {
-      "label": "three-cup squid",
-      "mention_count": 6
-    },
-    {
       "label": "serving speed",
-      "mention_count": 92
+      "mention_count": 91
     },
     {
-      "label": "ginger and large intestine",
-      "mention_count": 9
+      "label": "fried oyster crisps",
+      "mention_count": 8
+    },
+    {
+      "label": "33 Ward hot fried raw seafood",
+      "mention_count": 25
     }
   ],
-  "scraped_at": "2026-05-16T06:01:51Z",
+  "scraped_at": "2026-06-08T22:37:58Z",
   "city": "Taipei",
   "key": "鮮定味-taipei"
 }

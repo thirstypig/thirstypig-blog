@@ -26,6 +26,7 @@ categories:
 - American
 cuisine:
 - American
+placeId: "0x80c2db955e5d94d9:0x23c109aabc70ab0"
 ---
 
 Might be the best corned beef sandwich I’ve ever had. Certainly the best in a long time. And I’ve had a long of sandwiches. Right in my backyard at the Santa Anita racetrack - Cravery Has a cool day watching the ponies. Cheering #1, #7, and #10 for the exacta in race number 5. Too bad #10 came in last. .

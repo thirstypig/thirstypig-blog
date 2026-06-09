@@ -4,11 +4,15 @@
   "chips": [
     {
       "label": "fish tacos",
-      "mention_count": 57
+      "mention_count": 55
     },
     {
       "label": "shrimp burrito",
       "mention_count": 8
+    },
+    {
+      "label": "indoor seating",
+      "mention_count": 4
     },
     {
       "label": "taco tuesday",
@@ -37,13 +41,9 @@
     {
       "label": "seafood",
       "mention_count": 14
-    },
-    {
-      "label": "meat tacos",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T05:59:28Z",
+  "scraped_at": "2026-06-08T22:36:06Z",
   "city": "Sierra Madre",
   "key": "taco-tuesday-sierra-mad"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "shave ice",
-      "mention_count": 94
+      "mention_count": 93
     },
     {
       "label": "cash only",
@@ -43,7 +43,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:35:59Z",
+  "scraped_at": "2026-06-09T00:33:50Z",
   "city": "Arcadia",
   "key": "haleiwa-shave-ice-arcadia"
 }

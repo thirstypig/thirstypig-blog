@@ -4,19 +4,15 @@
   "chips": [
     {
       "label": "patio",
-      "mention_count": 94
-    },
-    {
-      "label": "spirits selection",
-      "mention_count": 19
-    },
-    {
-      "label": "happy hour",
-      "mention_count": 40
+      "mention_count": 93
     },
     {
       "label": "biscuits",
       "mention_count": 39
+    },
+    {
+      "label": "happy hour",
+      "mention_count": 40
     },
     {
       "label": "fries",
@@ -24,26 +20,30 @@
     },
     {
       "label": "burger",
-      "mention_count": 57
+      "mention_count": 55
     },
     {
       "label": "patty melt",
       "mention_count": 5
     },
     {
-      "label": "taquitos",
-      "mention_count": 9
+      "label": "friendly staff",
+      "mention_count": 73
     },
     {
-      "label": "friendly staff",
-      "mention_count": 74
+      "label": "potato taquitos",
+      "mention_count": 4
     },
     {
       "label": "single burger",
       "mention_count": 4
+    },
+    {
+      "label": "green michelada",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:38:35Z",
+  "scraped_at": "2026-06-09T00:35:55Z",
   "city": "Downtown LA",
   "key": "erb-downtown-l"
 }

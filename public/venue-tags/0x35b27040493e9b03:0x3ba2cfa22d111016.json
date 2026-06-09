@@ -1,8 +1,49 @@
 {
   "place_id": "0x35b27040493e9b03:0x3ba2cfa22d111016",
   "venue_name": "Jia Jia Tang Bao",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:45:54Z",
+  "chips": [
+    {
+      "label": "xiao long bao",
+      "mention_count": 251
+    },
+    {
+      "label": "crab noodles",
+      "mention_count": 34
+    },
+    {
+      "label": "scallion noodles",
+      "mention_count": 9
+    },
+    {
+      "label": "crab dumplings",
+      "mention_count": 18
+    },
+    {
+      "label": "qr code ordering",
+      "mention_count": 14
+    },
+    {
+      "label": "crab roe xiaolongbao",
+      "mention_count": 6
+    },
+    {
+      "label": "alipay",
+      "mention_count": 6
+    },
+    {
+      "label": "queue",
+      "mention_count": 43
+    },
+    {
+      "label": "soup dumplings",
+      "mention_count": 16
+    },
+    {
+      "label": "friendly staff",
+      "mention_count": 24
+    }
+  ],
+  "scraped_at": "2026-06-09T00:39:36Z",
   "city": "Shanghai",
   "key": "jia-jia-tangbao-佳家汤包-shanghai"
 }

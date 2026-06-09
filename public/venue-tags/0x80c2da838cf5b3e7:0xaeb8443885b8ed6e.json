@@ -3,8 +3,12 @@
   "venue_name": "Rolling Rice",
   "chips": [
     {
-      "label": "Combo Teriyaki Bowl",
+      "label": "teriyaki bowl",
       "mention_count": 8
+    },
+    {
+      "label": "california rolls",
+      "mention_count": 2
     },
     {
       "label": "udon noodles",
@@ -27,8 +31,8 @@
       "mention_count": 2
     },
     {
-      "label": "healthy food",
-      "mention_count": 4
+      "label": "healthy",
+      "mention_count": 3
     },
     {
       "label": "portion size",
@@ -37,13 +41,9 @@
     {
       "label": "value for money",
       "mention_count": 2
-    },
-    {
-      "label": "cleanliness",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:27:58Z",
+  "scraped_at": "2026-06-09T00:27:39Z",
   "city": "Rosemead",
   "key": "rolling-rice-rosemead"
 }

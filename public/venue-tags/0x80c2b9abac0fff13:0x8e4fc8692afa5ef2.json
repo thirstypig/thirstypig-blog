@@ -1,6 +1,6 @@
 {
   "place_id": "0x80c2b9abac0fff13:0x8e4fc8692afa5ef2",
-  "venue_name": "Sticky Rice on 3rd",
+  "venue_name": "Sticky Rice",
   "chips": [
     {
       "label": "khao soi",
@@ -12,7 +12,7 @@
     },
     {
       "label": "bar seating",
-      "mention_count": 13
+      "mention_count": 7
     },
     {
       "label": "crispy tofu",
@@ -27,23 +27,23 @@
       "mention_count": 4
     },
     {
+      "label": "drunken noodles",
+      "mention_count": 19
+    },
+    {
       "label": "mango sticky rice",
-      "mention_count": 27
+      "mention_count": 28
+    },
+    {
+      "label": "crying tiger",
+      "mention_count": 8
     },
     {
       "label": "boat noodles",
       "mention_count": 5
-    },
-    {
-      "label": "drunken noodles",
-      "mention_count": 17
-    },
-    {
-      "label": "pad woon sen",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T05:56:35Z",
+  "scraped_at": "2026-06-08T22:33:34Z",
   "city": "Los Angeles",
   "key": "sticky-rice-los-angele"
 }

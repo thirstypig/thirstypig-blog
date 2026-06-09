@@ -8,19 +8,23 @@
     },
     {
       "label": "lobster roll",
-      "mention_count": 77
+      "mention_count": 78
+    },
+    {
+      "label": "bar seating",
+      "mention_count": 26
+    },
+    {
+      "label": "oysters",
+      "mention_count": 163
+    },
+    {
+      "label": "grilled octopus",
+      "mention_count": 28
     },
     {
       "label": "people watching",
       "mention_count": 23
-    },
-    {
-      "label": "oysters",
-      "mention_count": 167
-    },
-    {
-      "label": "bar seating",
-      "mention_count": 16
     },
     {
       "label": "ceviche",
@@ -35,15 +39,11 @@
       "mention_count": 22
     },
     {
-      "label": "crab cake",
-      "mention_count": 19
-    },
-    {
-      "label": "quick seating",
-      "mention_count": 4
+      "label": "calamari",
+      "mention_count": 52
     }
   ],
-  "scraped_at": "2026-05-16T06:25:15Z",
+  "scraped_at": "2026-06-09T00:25:17Z",
   "city": "Austin",
   "key": "perlassouthcongress-austin"
 }

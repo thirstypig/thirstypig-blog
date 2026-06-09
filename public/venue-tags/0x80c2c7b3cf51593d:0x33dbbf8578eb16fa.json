@@ -7,8 +7,8 @@
       "mention_count": 7
     },
     {
-      "label": "polpo",
-      "mention_count": 11
+      "label": "octopus",
+      "mention_count": 8
     },
     {
       "label": "outdoor seating",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:03:17Z",
+  "scraped_at": "2026-06-08T22:38:57Z",
   "city": "Los Angeles",
   "key": "drago-centro-los-angele"
 }

@@ -11,16 +11,20 @@
       "mention_count": 171
     },
     {
-      "label": "cucumber salad",
-      "mention_count": 21
-    },
-    {
       "label": "tabouli",
       "mention_count": 22
     },
     {
       "label": "shish kabob",
       "mention_count": 14
+    },
+    {
+      "label": "cucumber salad",
+      "mention_count": 21
+    },
+    {
+      "label": "roasted chicken",
+      "mention_count": 22
     },
     {
       "label": "garlic butter",
@@ -35,15 +39,11 @@
       "mention_count": 8
     },
     {
-      "label": "wraps",
-      "mention_count": 53
-    },
-    {
-      "label": "tahini",
-      "mention_count": 16
+      "label": "whole chicken",
+      "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T06:40:02Z",
+  "scraped_at": "2026-06-09T00:37:13Z",
   "city": "Pasadena",
   "key": "zankou-chicken-pasadena"
 }

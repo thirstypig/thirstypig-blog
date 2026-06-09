@@ -8,7 +8,7 @@
     },
     {
       "label": "spring rolls",
-      "mention_count": 14
+      "mention_count": 16
     },
     {
       "label": "calm vibe",
@@ -16,7 +16,7 @@
     },
     {
       "label": "pho",
-      "mention_count": 6
+      "mention_count": 7
     },
     {
       "label": "marinated pork",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:45:10Z",
+  "scraped_at": "2026-06-09T00:41:20Z",
   "city": "Los Angeles",
   "key": "goi-vietnamese-eats-los-angele"
 }

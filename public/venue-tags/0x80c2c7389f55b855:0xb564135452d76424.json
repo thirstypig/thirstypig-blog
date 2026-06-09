@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "larb gai",
-      "mention_count": 28
+      "mention_count": 29
     },
     {
       "label": "chicken sandwich",
@@ -12,7 +12,7 @@
     },
     {
       "label": "Pad See EW Gai",
-      "mention_count": 21
+      "mention_count": 22
     },
     {
       "label": "Som Tum Papaya Salad",
@@ -24,7 +24,7 @@
     },
     {
       "label": "Khao Soi Jay",
-      "mention_count": 19
+      "mention_count": 20
     },
     {
       "label": "coconut rice",
@@ -43,7 +43,7 @@
       "mention_count": 12
     }
   ],
-  "scraped_at": "2026-05-16T05:59:45Z",
+  "scraped_at": "2026-06-08T22:36:23Z",
   "city": "Los Angeles",
   "key": "night-market-hollywood"
 }

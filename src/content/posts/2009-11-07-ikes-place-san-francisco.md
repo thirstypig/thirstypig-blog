@@ -111,6 +111,7 @@ images:
 - /images/posts/2009-11-07-ikes-place-san-francisco/88.jpg
 - /images/posts/2009-11-07-ikes-place-san-francisco/89.jpg
 - /images/posts/2009-11-07-ikes-place-san-francisco/90.jpg
+placeId: "0x808f7e1c55555555:0xb6d9db1894bf28a9"
 ---
 
 

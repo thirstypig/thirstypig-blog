@@ -23,16 +23,16 @@
       "mention_count": 30
     },
     {
+      "label": "chow fun",
+      "mention_count": 12
+    },
+    {
       "label": "crispy pick",
       "mention_count": 11
     },
     {
       "label": "soy sauce chicken",
       "mention_count": 12
-    },
-    {
-      "label": "Beef Chow Fun w Soy Sauce Dry Style 干炒牛河",
-      "mention_count": 5
     },
     {
       "label": "kung pao chicken",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-17T16:43:59Z",
+  "scraped_at": "2026-06-09T00:44:42Z",
   "city": "Alhambra",
   "key": "sam-woo-bbq-alhambra"
 }

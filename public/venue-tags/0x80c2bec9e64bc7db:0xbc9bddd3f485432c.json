@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "pink wall",
-      "mention_count": 17
+      "mention_count": 14
     },
     {
       "label": "instagrammable backdrop",
@@ -27,23 +27,23 @@
       "mention_count": 2
     },
     {
+      "label": "jackets",
+      "mention_count": 3
+    },
+    {
+      "label": "pink decor",
+      "mention_count": 2
+    },
+    {
       "label": "exterior design",
       "mention_count": 2
     },
     {
-      "label": "instagram effect",
-      "mention_count": 11
-    },
-    {
       "label": "card holder",
-      "mention_count": 2
-    },
-    {
-      "label": "crowded",
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:08:57Z",
+  "scraped_at": "2026-06-08T22:43:52Z",
   "city": "Los Angeles",
   "key": "frysmith-los-angele"
 }

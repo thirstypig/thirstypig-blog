@@ -1,8 +1,49 @@
 {
   "place_id": "0x80c2c9b5ceb50a99:0xd258d7e23ff91f9b",
   "venue_name": "Burritos La Palma",
-  "chips": [],
-  "scraped_at": "2026-05-16T06:42:15Z",
+  "chips": [
+    {
+      "label": "bean and cheese burrito",
+      "mention_count": 12
+    },
+    {
+      "label": "chicken tinga",
+      "mention_count": 8
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 4
+    },
+    {
+      "label": "chicharron",
+      "mention_count": 5
+    },
+    {
+      "label": "michelin star bean burrito",
+      "mention_count": 3
+    },
+    {
+      "label": "deshebrada burrito",
+      "mention_count": 3
+    },
+    {
+      "label": "birria quesadilla",
+      "mention_count": 2
+    },
+    {
+      "label": "flour tortillas",
+      "mention_count": 4
+    },
+    {
+      "label": "shredded beef",
+      "mention_count": 5
+    },
+    {
+      "label": "frozen burritos",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T00:38:32Z",
   "city": "Los Angeles",
   "key": "burritos-la-palma-los-angele"
 }

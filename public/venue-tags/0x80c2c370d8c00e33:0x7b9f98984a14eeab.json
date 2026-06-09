@@ -7,12 +7,16 @@
       "mention_count": 26
     },
     {
-      "label": "chicken parm",
-      "mention_count": 31
+      "label": "spaghetti with meatballs",
+      "mention_count": 15
     },
     {
       "label": "quick seating",
       "mention_count": 9
+    },
+    {
+      "label": "chicken parm",
+      "mention_count": 31
     },
     {
       "label": "spicy chicken rigatoni",
@@ -37,13 +41,9 @@
     {
       "label": "family style",
       "mention_count": 17
-    },
-    {
-      "label": "kind server",
-      "mention_count": 15
     }
   ],
-  "scraped_at": "2026-05-16T06:05:11Z",
+  "scraped_at": "2026-06-08T22:40:49Z",
   "city": "Pasadena",
   "key": "buca-di-beppo-pasadena"
 }

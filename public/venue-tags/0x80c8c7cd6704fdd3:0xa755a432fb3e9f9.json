@@ -4,42 +4,42 @@
   "chips": [
     {
       "label": "beef pho",
-      "mention_count": 2
-    },
-    {
-      "label": "vietnamese",
-      "mention_count": 3
-    },
-    {
-      "label": "soft opening",
-      "mention_count": 2
-    },
-    {
-      "label": "ribs",
-      "mention_count": 2
-    },
-    {
-      "label": "broth",
       "mention_count": 4
     },
     {
-      "label": "vegetables",
-      "mention_count": 2
+      "label": "brisket",
+      "mention_count": 8
     },
     {
-      "label": "grilled",
-      "mention_count": 2
+      "label": "pork patty",
+      "mention_count": 3
     },
     {
-      "label": "sautéed",
-      "mention_count": 2
+      "label": "oxtail",
+      "mention_count": 4
     },
     {
-      "label": "ingredients",
-      "mention_count": 2
+      "label": "vietnamese",
+      "mention_count": 17
+    },
+    {
+      "label": "bun bo hue",
+      "mention_count": 3
+    },
+    {
+      "label": "broth",
+      "mention_count": 17
+    },
+    {
+      "label": "coconut",
+      "mention_count": 5
+    },
+    {
+      "label": "bowl",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:35:52Z",
+  "scraped_at": "2026-06-09T00:33:45Z",
   "city": "Las Vegas",
   "key": "pho-kinh-do-las-vegas"
 }

@@ -27,23 +27,23 @@
       "mention_count": 2
     },
     {
-      "label": "gorgeous views",
-      "mention_count": 3
-    },
-    {
-      "label": "cool pilot",
-      "mention_count": 2
+      "label": "waiting area",
+      "mention_count": 7
     },
     {
       "label": "friendly staff",
-      "mention_count": 21
+      "mention_count": 20
     },
     {
-      "label": "waiting area",
-      "mention_count": 7
+      "label": "amazing view",
+      "mention_count": 4
+    },
+    {
+      "label": "value for money",
+      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:40:55Z",
+  "scraped_at": "2026-06-09T00:38:07Z",
   "city": "Chicago",
   "key": "chicago-helicopter-experience-chicago"
 }

@@ -15,19 +15,11 @@
       "mention_count": 12
     },
     {
-      "label": "homemade pop tarts",
-      "mention_count": 10
-    },
-    {
       "label": "homemade jam",
-      "mention_count": 9
+      "mention_count": 8
     },
     {
       "label": "duck and cluck",
-      "mention_count": 6
-    },
-    {
-      "label": "bacon donut",
       "mention_count": 6
     },
     {
@@ -39,11 +31,19 @@
       "mention_count": 14
     },
     {
-      "label": "Corned Beef Eggs and Potatoes",
-      "mention_count": 8
+      "label": "onion rings",
+      "mention_count": 7
+    },
+    {
+      "label": "polenta",
+      "mention_count": 4
+    },
+    {
+      "label": "Erry French Toast",
+      "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:01:21Z",
+  "scraped_at": "2026-06-08T22:37:47Z",
   "city": "Downtown LA",
   "key": "nickel-diner-downtown-l"
 }

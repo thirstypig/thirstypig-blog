@@ -27,6 +27,10 @@
       "mention_count": 3
     },
     {
+      "label": "fries",
+      "mention_count": 4
+    },
+    {
       "label": "cleanliness",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "restaurants",
       "mention_count": 2
-    },
-    {
-      "label": "shopping mall",
-      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:04:15Z",
+  "scraped_at": "2026-06-08T22:39:53Z",
   "city": "Los Angeles",
   "key": "taste-food-hall-los-angele"
 }

@@ -15,11 +15,15 @@
       "mention_count": 5
     },
     {
-      "label": "Mac N Cheese Ballls",
-      "mention_count": 14
+      "label": "pork ribs",
+      "mention_count": 19
     },
     {
-      "label": "gravy sauce",
+      "label": "fried mac balls",
+      "mention_count": 9
+    },
+    {
+      "label": "gravy",
       "mention_count": 10
     },
     {
@@ -27,23 +31,19 @@
       "mention_count": 9
     },
     {
-      "label": "barbecue",
-      "mention_count": 40
+      "label": "bbq food",
+      "mention_count": 38
     },
     {
       "label": "original platter",
       "mention_count": 5
     },
     {
-      "label": "texas bbq",
+      "label": "texas barbecue",
       "mention_count": 5
-    },
-    {
-      "label": "baked beans",
-      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:18:44Z",
+  "scraped_at": "2026-06-09T00:20:55Z",
   "city": "Seoul",
   "key": "linus-bbq-라이너스-바베큐-seoul"
 }

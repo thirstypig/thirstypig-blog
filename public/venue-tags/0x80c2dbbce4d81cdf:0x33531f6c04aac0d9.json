@@ -4,11 +4,11 @@
   "chips": [
     {
       "label": "dancing noodles",
-      "mention_count": 28
+      "mention_count": 27
     },
     {
       "label": "sauce bar",
-      "mention_count": 55
+      "mention_count": 54
     },
     {
       "label": "happy hour",
@@ -16,15 +16,15 @@
     },
     {
       "label": "pork broth",
-      "mention_count": 18
-    },
-    {
-      "label": "tom yum broth",
-      "mention_count": 15
+      "mention_count": 19
     },
     {
       "label": "quick seating",
       "mention_count": 4
+    },
+    {
+      "label": "tom yum broth",
+      "mention_count": 15
     },
     {
       "label": "tomato soup base",
@@ -43,7 +43,7 @@
       "mention_count": 17
     }
   ],
-  "scraped_at": "2026-05-17T16:44:11Z",
+  "scraped_at": "2026-06-09T00:44:50Z",
   "city": "Arcadia",
   "key": "haidilao-arcadia"
 }

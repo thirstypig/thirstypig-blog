@@ -8,7 +8,7 @@
     },
     {
       "label": "fried chicken",
-      "mention_count": 100
+      "mention_count": 99
     },
     {
       "label": "happy hour beer",
@@ -24,7 +24,7 @@
     },
     {
       "label": "crispy chicken",
-      "mention_count": 18
+      "mention_count": 17
     },
     {
       "label": "kimchi pancake",
@@ -43,7 +43,7 @@
       "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T22:45:45Z",
+  "scraped_at": "2026-06-09T00:41:44Z",
   "city": "Singapore",
   "key": "oven-fried-chicken-singapore"
 }

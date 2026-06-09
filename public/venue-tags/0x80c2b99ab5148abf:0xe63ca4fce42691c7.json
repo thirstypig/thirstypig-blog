@@ -12,15 +12,15 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 48
-    },
-    {
-      "label": "beef tartare",
-      "mention_count": 35
+      "mention_count": 49
     },
     {
       "label": "french toast",
       "mention_count": 44
+    },
+    {
+      "label": "beef tartare",
+      "mention_count": 35
     },
     {
       "label": "minimalistic decor",
@@ -35,15 +35,15 @@
       "mention_count": 17
     },
     {
-      "label": "kale",
-      "mention_count": 15
-    },
-    {
       "label": "rye bread",
       "mention_count": 12
+    },
+    {
+      "label": "matcha latte",
+      "mention_count": 10
     }
   ],
-  "scraped_at": "2026-06-08T06:02:22Z",
+  "scraped_at": "2026-06-09T00:59:00Z",
   "city": "Culver City",
   "key": "destroyer-culver-city"
 }

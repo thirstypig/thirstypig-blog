@@ -9,9 +9,13 @@
     {
       "label": "product lineup",
       "mention_count": 2
+    },
+    {
+      "label": "floors",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:23:45Z",
+  "scraped_at": "2026-06-09T00:24:15Z",
   "city": "Shanghai",
   "key": "uniqlo-优衣库-shanghai"
 }

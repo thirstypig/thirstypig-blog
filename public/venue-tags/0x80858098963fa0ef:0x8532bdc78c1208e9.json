@@ -19,31 +19,31 @@
       "mention_count": 54
     },
     {
-      "label": "Beef Tartare and Dijon Mustard",
-      "mention_count": 32
+      "label": "pork chop",
+      "mention_count": 26
     },
     {
       "label": "quick seating",
       "mention_count": 3
     },
     {
-      "label": "pork chop",
-      "mention_count": 26
+      "label": "Beef Tartare and Dijon Mustard",
+      "mention_count": 32
     },
     {
-      "label": "duck confit",
-      "mention_count": 34
+      "label": "croque madame",
+      "mention_count": 19
     },
     {
       "label": "bar seating",
       "mention_count": 5
     },
     {
-      "label": "crepes",
-      "mention_count": 69
+      "label": "duck confit",
+      "mention_count": 34
     }
   ],
-  "scraped_at": "2026-05-16T06:31:19Z",
+  "scraped_at": "2026-06-09T00:30:10Z",
   "city": "San Francisco",
   "key": "chez-maman-san-franci"
 }

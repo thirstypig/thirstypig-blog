@@ -16,7 +16,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 7
+      "mention_count": 6
     },
     {
       "label": "german beer",
@@ -31,19 +31,19 @@
       "mention_count": 4
     },
     {
-      "label": "biergarten",
-      "mention_count": 5
-    },
-    {
       "label": "sausages",
       "mention_count": 9
     },
     {
       "label": "weiss beer",
       "mention_count": 3
+    },
+    {
+      "label": "german food",
+      "mention_count": 11
     }
   ],
-  "scraped_at": "2026-05-16T06:21:22Z",
+  "scraped_at": "2026-06-09T00:22:49Z",
   "city": "Shanghai",
   "key": "paulaners-sunday-brunch-shanghai"
 }

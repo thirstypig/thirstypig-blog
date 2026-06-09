@@ -32,7 +32,7 @@
     },
     {
       "label": "tour guide",
-      "mention_count": 533
+      "mention_count": 531
     },
     {
       "label": "bourbon making process",
@@ -43,7 +43,7 @@
       "mention_count": 120
     }
   ],
-  "scraped_at": "2026-06-08T06:04:55Z",
+  "scraped_at": "2026-06-09T01:00:06Z",
   "city": "Frankfort",
   "key": "buffalo-trace-distillery-frankfort"
 }

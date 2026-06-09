@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "patty melt",
-      "mention_count": 23
+      "mention_count": 24
     },
     {
       "label": "grilled cheese",
@@ -19,12 +19,16 @@
       "mention_count": 19
     },
     {
+      "label": "shakes",
+      "mention_count": 54
+    },
+    {
       "label": "bbq bacon burger",
       "mention_count": 9
     },
     {
       "label": "friendly employees",
-      "mention_count": 29
+      "mention_count": 31
     },
     {
       "label": "spicy mission burger",
@@ -37,13 +41,9 @@
     {
       "label": "mac and cheese",
       "mention_count": 68
-    },
-    {
-      "label": "mushroom swiss burger",
-      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:32:36Z",
+  "scraped_at": "2026-06-09T00:31:24Z",
   "city": "Irvine",
   "key": "the-melt-irvine"
 }

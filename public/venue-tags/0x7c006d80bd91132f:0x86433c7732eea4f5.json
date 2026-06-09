@@ -7,15 +7,11 @@
       "mention_count": 16
     },
     {
-      "label": "spicy mix",
+      "label": "spicy dishes",
       "mention_count": 26
     },
     {
-      "label": "Kotteri Ramen",
-      "mention_count": 3
-    },
-    {
-      "label": "Spicy Tan Tan Ramen",
+      "label": "kotteri ramen",
       "mention_count": 3
     },
     {
@@ -27,7 +23,7 @@
       "mention_count": 4
     },
     {
-      "label": "Garlic Butter Oyster Ramen",
+      "label": "garlic butter oyster",
       "mention_count": 2
     },
     {
@@ -41,9 +37,13 @@
     {
       "label": "tenkaippin",
       "mention_count": 2
+    },
+    {
+      "label": "authentic ramen",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:03:43Z",
+  "scraped_at": "2026-06-08T22:39:23Z",
   "city": "Honolulu",
   "key": "tenkaiipin-honolulu"
 }

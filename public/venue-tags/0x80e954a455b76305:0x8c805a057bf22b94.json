@@ -19,31 +19,31 @@
       "mention_count": 41
     },
     {
-      "label": "eclairs",
-      "mention_count": 20
-    },
-    {
       "label": "kringle",
       "mention_count": 30
     },
     {
-      "label": "cinnamon rolls",
-      "mention_count": 24
+      "label": "eclairs",
+      "mention_count": 13
     },
     {
       "label": "cheese danish",
       "mention_count": 17
     },
     {
-      "label": "cream puff",
-      "mention_count": 11
+      "label": "Cream Puff",
+      "mention_count": 13
     },
     {
       "label": "meringues",
       "mention_count": 9
+    },
+    {
+      "label": "cinnamon crisp",
+      "mention_count": 8
     }
   ],
-  "scraped_at": "2026-05-16T06:38:27Z",
+  "scraped_at": "2026-06-09T00:35:50Z",
   "city": "Solvang",
   "key": "olsens-danish-village-bakery-is-sol-solvang"
 }

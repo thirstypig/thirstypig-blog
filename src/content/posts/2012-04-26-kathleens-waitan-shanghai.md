@@ -35,6 +35,7 @@ images:
 - /images/posts/2012-04-26-kathleens-waitan-shanghai/08.jpg
 - /images/posts/2012-04-26-kathleens-waitan-shanghai/09.jpg
 - /images/posts/2012-04-26-kathleens-waitan-shanghai/10.jpg
+placeId: "0x35b270f0516a5045:0xaa6b28f47ca847e2"
 ---
 
 

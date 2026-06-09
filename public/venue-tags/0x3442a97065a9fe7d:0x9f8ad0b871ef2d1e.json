@@ -1,49 +1,49 @@
 {
   "place_id": "0x3442a97065a9fe7d:0x9f8ad0b871ef2d1e",
-  "venue_name": "Fuhang Soy Milk",
+  "venue_name": "Fu Hang Soy Milk",
   "chips": [
     {
       "label": "youtiao",
-      "mention_count": 3187
+      "mention_count": 3213
     },
     {
-      "label": "shaobing youtiao",
-      "mention_count": 3663
+      "label": "shaobing",
+      "mention_count": 3683
     },
     {
-      "label": "dining environment",
-      "mention_count": 323
+      "label": "mood",
+      "mention_count": 342
     },
     {
-      "label": "thick flatbread",
-      "mention_count": 1193
+      "label": "flat bread",
+      "mention_count": 1191
     },
     {
       "label": "thick pancake with egg",
-      "mention_count": 808
+      "mention_count": 799
     },
     {
-      "label": "rice ball",
-      "mention_count": 926
-    },
-    {
-      "label": "queue",
-      "mention_count": 1828
+      "label": "matrix",
+      "mention_count": 1829
     },
     {
       "label": "iced soy milk",
-      "mention_count": 295
-    },
-    {
-      "label": "sweet soy milk",
-      "mention_count": 257
+      "mention_count": 290
     },
     {
       "label": "caramel sweet cake",
-      "mention_count": 262
+      "mention_count": 260
+    },
+    {
+      "label": "shredded turnip cake",
+      "mention_count": 234
+    },
+    {
+      "label": "wait",
+      "mention_count": 2118
     }
   ],
-  "scraped_at": "2026-05-16T06:03:40Z",
+  "scraped_at": "2026-06-08T22:39:20Z",
   "city": "Taipei",
   "key": "fu-hang-dou-jiang-阜杭豆漿-taipei"
 }

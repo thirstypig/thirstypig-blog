@@ -3,16 +3,16 @@
   "venue_name": "Deli Board",
   "chips": [
     {
-      "label": "49er sandwich",
-      "mention_count": 21
-    },
-    {
-      "label": "no seating",
-      "mention_count": 16
+      "label": "pastrami",
+      "mention_count": 88
     },
     {
       "label": "corned beef",
       "mention_count": 27
+    },
+    {
+      "label": "no seating",
+      "mention_count": 16
     },
     {
       "label": "take out only",
@@ -20,7 +20,11 @@
     },
     {
       "label": "waffle fries",
-      "mention_count": 27
+      "mention_count": 28
+    },
+    {
+      "label": "49er sandwich",
+      "mention_count": 22
     },
     {
       "label": "555 sandwich",
@@ -37,13 +41,9 @@
     {
       "label": "deli sandwich",
       "mention_count": 12
-    },
-    {
-      "label": "pickles",
-      "mention_count": 34
     }
   ],
-  "scraped_at": "2026-05-16T06:05:27Z",
+  "scraped_at": "2026-06-08T22:41:05Z",
   "city": "San Francisco",
   "key": "dutch-crunch-san-franci"
 }

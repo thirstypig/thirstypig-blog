@@ -3,16 +3,16 @@
   "venue_name": "The Piero Apartments",
   "chips": [
     {
-      "label": "jacuzzi",
-      "mention_count": 9
-    },
-    {
       "label": "friendly staff",
       "mention_count": 49
     },
     {
       "label": "cleanliness",
       "mention_count": 25
+    },
+    {
+      "label": "jacuzzi",
+      "mention_count": 3
     },
     {
       "label": "security",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:04:57Z",
+  "scraped_at": "2026-06-08T22:40:35Z",
   "city": "Downtown LA",
   "key": "luxury-suite-in-downtown-los-angele-downtown-l"
 }

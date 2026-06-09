@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "couch selection",
-      "mention_count": 140
+      "mention_count": 143
     },
     {
       "label": "informative staff",
@@ -43,7 +43,7 @@
       "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:30:04Z",
+  "scraped_at": "2026-06-09T00:29:09Z",
   "city": "New York",
   "key": "ashleys-last-night-in-nyc-new-york"
 }

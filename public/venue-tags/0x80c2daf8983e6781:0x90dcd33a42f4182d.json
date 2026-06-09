@@ -3,28 +3,24 @@
   "venue_name": "Ahgoo's Kitchen",
   "chips": [
     {
+      "label": "green onion bread",
+      "mention_count": 5
+    },
+    {
       "label": "scallions cake",
       "mention_count": 4
+    },
+    {
+      "label": "salted egg",
+      "mention_count": 3
     },
     {
       "label": "Beef Roll",
       "mention_count": 2
     },
     {
-      "label": "green onion bread",
-      "mention_count": 3
-    },
-    {
-      "label": "Omelet with Salted & Dried Radish",
-      "mention_count": 3
-    },
-    {
-      "label": "Fried rice noodles",
+      "label": "smoke duck",
       "mention_count": 2
-    },
-    {
-      "label": "Big pancake",
-      "mention_count": 4
     },
     {
       "label": "shredded potato",
@@ -35,15 +31,19 @@
       "mention_count": 2
     },
     {
-      "label": "pumpkins",
+      "label": "pancake",
+      "mention_count": 10
+    },
+    {
+      "label": "Hot and Sour Soup",
       "mention_count": 3
     },
     {
-      "label": "portions",
-      "mention_count": 3
+      "label": "wait time",
+      "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:31:47Z",
+  "scraped_at": "2026-06-09T00:30:37Z",
   "city": "San Gabriel",
   "key": "ahgoos-kitchen-san-gabrie"
 }

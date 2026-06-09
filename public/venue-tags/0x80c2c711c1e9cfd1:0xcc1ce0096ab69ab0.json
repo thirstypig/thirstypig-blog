@@ -3,8 +3,8 @@
   "venue_name": "hanchic.",
   "chips": [
     {
-      "label": "fusion menu",
-      "mention_count": 9
+      "label": "galbi jjim",
+      "mention_count": 8
     },
     {
       "label": "Oxtail Ramyeon",
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:44:54Z",
+  "scraped_at": "2026-06-09T00:39:25Z",
   "city": "Los Angeles",
   "key": "hanchic-los-angele"
 }

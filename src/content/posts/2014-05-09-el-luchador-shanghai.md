@@ -40,6 +40,7 @@ images:
 - /images/posts/2014-05-09-el-luchador-shanghai/13.jpg
 - /images/posts/2014-05-09-el-luchador-shanghai/14.jpg
 - /images/posts/2014-05-09-el-luchador-shanghai/15.jpg
+placeId: "0x35b265551d5c21ef:0x7f8c8cac7b2412c1"
 ---
 
 ## [My Favorite Mexican Restaurant in Shanghai – El Luchador](http://thirstypig.com/2014/05/09/el-luchador-shanghai/)

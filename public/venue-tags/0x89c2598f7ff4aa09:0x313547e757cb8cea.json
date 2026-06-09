@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "pastrami",
-      "mention_count": 9544
+      "mention_count": 9548
     },
     {
       "label": "corned beef",
-      "mention_count": 1591
+      "mention_count": 1604
     },
     {
       "label": "brisket",
-      "mention_count": 745
-    },
-    {
-      "label": "matzo ball soup",
-      "mention_count": 606
-    },
-    {
-      "label": "pickles",
-      "mention_count": 1438
-    },
-    {
-      "label": "sandwiches",
-      "mention_count": 2755
+      "mention_count": 759
     },
     {
       "label": "rye bread",
-      "mention_count": 1052
+      "mention_count": 1069
+    },
+    {
+      "label": "matzo ball soup",
+      "mention_count": 611
+    },
+    {
+      "label": "pickles",
+      "mention_count": 1448
+    },
+    {
+      "label": "sandwiches",
+      "mention_count": 2729
     },
     {
       "label": "long lines",
-      "mention_count": 1630
+      "mention_count": 1633
     },
     {
       "label": "wait time",
-      "mention_count": 1158
+      "mention_count": 1142
     },
     {
-      "label": "portion size",
-      "mention_count": 866
+      "label": "fries",
+      "mention_count": 786
     }
   ],
-  "scraped_at": "2026-05-16T05:54:22Z",
+  "scraped_at": "2026-06-08T22:31:40Z",
   "city": "New York",
   "key": "katzs-deli-nyc"
 }

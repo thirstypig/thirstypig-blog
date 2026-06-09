@@ -4,7 +4,11 @@
   "chips": [
     {
       "label": "Hainan Chicken Rice",
-      "mention_count": 34
+      "mention_count": 35
+    },
+    {
+      "label": "garlic rice",
+      "mention_count": 6
     },
     {
       "label": "dark meat",
@@ -37,13 +41,9 @@
     {
       "label": "flavor",
       "mention_count": 2
-    },
-    {
-      "label": "soy",
-      "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T05:59:01Z",
+  "scraped_at": "2026-06-08T22:35:39Z",
   "city": "Arcadia",
   "key": "side-chick-arcadia"
 }

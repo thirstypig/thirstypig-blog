@@ -15,6 +15,10 @@
       "mention_count": 11
     },
     {
+      "label": "sweet potato fries",
+      "mention_count": 20
+    },
+    {
       "label": "veggie ramen",
       "mention_count": 20
     },
@@ -37,13 +41,9 @@
     {
       "label": "chicken wings",
       "mention_count": 21
-    },
-    {
-      "label": "spicy miso ramen",
-      "mention_count": 22
     }
   ],
-  "scraped_at": "2026-05-16T06:29:39Z",
+  "scraped_at": "2026-06-09T00:28:43Z",
   "city": "New York",
   "key": "jun-men-ramen-bar-new-york"
 }

@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "gamjatang",
-      "mention_count": 40
+      "mention_count": 41
     },
     {
       "label": "banchan",
@@ -15,20 +15,16 @@
       "mention_count": 10
     },
     {
-      "label": "kimchi stew",
+      "label": "kimchi jjigae",
       "mention_count": 7
     },
     {
-      "label": "pork neck soup",
-      "mention_count": 5
+      "label": "bibimbap",
+      "mention_count": 14
     },
     {
       "label": "hot stone bibimbap 돌솥비빔밥",
       "mention_count": 2
-    },
-    {
-      "label": "naengmyeon",
-      "mention_count": 5
     },
     {
       "label": "daikon kimchi",
@@ -39,11 +35,15 @@
       "mention_count": 7
     },
     {
-      "label": "glass noodles",
+      "label": "naengmyeon",
+      "mention_count": 5
+    },
+    {
+      "label": "pork neck soup",
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:25:04Z",
+  "scraped_at": "2026-06-09T00:25:06Z",
   "city": "Koreatown",
   "key": "yangji-gamjatang-koreatown"
 }

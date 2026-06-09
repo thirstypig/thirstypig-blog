@@ -11,6 +11,10 @@
       "mention_count": 5
     },
     {
+      "label": "kids",
+      "mention_count": 18
+    },
+    {
       "label": "disneyland",
       "mention_count": 17
     },
@@ -21,10 +25,6 @@
     {
       "label": "vacation",
       "mention_count": 5
-    },
-    {
-      "label": "kids",
-      "mention_count": 18
     },
     {
       "label": "adults",
@@ -39,7 +39,7 @@
       "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:06:31Z",
+  "scraped_at": "2026-06-08T22:42:05Z",
   "city": "Downtown Los Angeles",
   "key": "espn-zone-downtown-l"
 }

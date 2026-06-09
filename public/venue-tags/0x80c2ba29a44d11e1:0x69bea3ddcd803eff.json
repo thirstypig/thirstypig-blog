@@ -15,35 +15,35 @@
       "mention_count": 9
     },
     {
-      "label": "blueberry lemonade",
-      "mention_count": 23
+      "label": "fried chicken",
+      "mention_count": 237
     },
     {
-      "label": "fried chicken",
-      "mention_count": 242
+      "label": "blueberry lemonade",
+      "mention_count": 23
     },
     {
       "label": "cornbread",
       "mention_count": 15
     },
     {
-      "label": "pecan pie",
-      "mention_count": 12
-    },
-    {
       "label": "catfish",
       "mention_count": 18
     },
     {
-      "label": "chicken tenders",
-      "mention_count": 35
+      "label": "pecan pie",
+      "mention_count": 12
     },
     {
       "label": "hot sauce",
       "mention_count": 43
+    },
+    {
+      "label": "thighs",
+      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-16T06:36:56Z",
+  "scraped_at": "2026-06-09T00:34:32Z",
   "city": "Culver City",
   "key": "honeys-kettle-fried-chicken-culver-cit"
 }

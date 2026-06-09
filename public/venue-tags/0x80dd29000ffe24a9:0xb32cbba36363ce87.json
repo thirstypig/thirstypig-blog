@@ -7,12 +7,12 @@
       "mention_count": 14
     },
     {
-      "label": "Smashed Double Burger",
-      "mention_count": 20
+      "label": "smash burger",
+      "mention_count": 21
     },
     {
       "label": "halal food",
-      "mention_count": 43
+      "mention_count": 44
     },
     {
       "label": "halal burgers",
@@ -24,7 +24,7 @@
     },
     {
       "label": "chicken sandwich",
-      "mention_count": 14
+      "mention_count": 15
     },
     {
       "label": "mozzarella sticks",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:32:44Z",
+  "scraped_at": "2026-06-09T00:31:27Z",
   "city": "Anaheim",
   "key": "jalapeño-pepper-burger-swiss-mushro-anaheim"
 }

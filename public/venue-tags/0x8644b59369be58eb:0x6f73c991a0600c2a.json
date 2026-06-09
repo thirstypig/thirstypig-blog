@@ -15,8 +15,8 @@
       "mention_count": 370
     },
     {
-      "label": "bone marrow",
-      "mention_count": 77
+      "label": "deviled eggs",
+      "mention_count": 148
     },
     {
       "label": "brussel sprouts",
@@ -27,23 +27,23 @@
       "mention_count": 74
     },
     {
-      "label": "beef shoulder",
-      "mention_count": 93
+      "label": "bone marrow",
+      "mention_count": 77
     },
     {
-      "label": "beignets",
-      "mention_count": 62
+      "label": "beef shoulder",
+      "mention_count": 93
     },
     {
       "label": "charcuterie board",
       "mention_count": 64
     },
     {
-      "label": "deviled eggs",
-      "mention_count": 57
+      "label": "beignets",
+      "mention_count": 62
     }
   ],
-  "scraped_at": "2026-05-16T06:25:51Z",
+  "scraped_at": "2026-06-09T00:25:53Z",
   "city": "Austin",
   "key": "salty-sow-austin"
 }

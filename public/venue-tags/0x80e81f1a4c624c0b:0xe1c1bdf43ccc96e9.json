@@ -4,15 +4,15 @@
   "chips": [
     {
       "label": "ocean view",
-      "mention_count": 302
+      "mention_count": 304
     },
     {
       "label": "clam chowder",
-      "mention_count": 243
+      "mention_count": 244
     },
     {
       "label": "fish and chips",
-      "mention_count": 521
+      "mention_count": 522
     },
     {
       "label": "sunset view",
@@ -20,11 +20,11 @@
     },
     {
       "label": "beach view",
-      "mention_count": 32
+      "mention_count": 31
     },
     {
       "label": "long lines",
-      "mention_count": 120
+      "mention_count": 117
     },
     {
       "label": "ahi tuna burger",
@@ -32,7 +32,7 @@
     },
     {
       "label": "outdoor seating",
-      "mention_count": 146
+      "mention_count": 145
     },
     {
       "label": "lobster roll",
@@ -43,7 +43,7 @@
       "mention_count": 96
     }
   ],
-  "scraped_at": "2026-05-16T06:27:47Z",
+  "scraped_at": "2026-06-09T00:27:28Z",
   "city": "San Marino",
   "key": "malibu-seafood-san-marino"
 }

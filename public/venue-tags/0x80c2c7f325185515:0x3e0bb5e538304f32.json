@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "strawberry donut",
-      "mention_count": 99
+      "mention_count": 100
     },
     {
       "label": "strawberry filled donut",
@@ -12,7 +12,7 @@
     },
     {
       "label": "French Cruller",
-      "mention_count": 10
+      "mention_count": 11
     },
     {
       "label": "peach donut",
@@ -21,6 +21,10 @@
     {
       "label": "fresh strawberries",
       "mention_count": 11
+    },
+    {
+      "label": "bavarian cream donut",
+      "mention_count": 9
     },
     {
       "label": "tiger tail",
@@ -35,15 +39,11 @@
       "mention_count": 11
     },
     {
-      "label": "bavarian cream donut",
-      "mention_count": 8
-    },
-    {
       "label": "cream cheese donut",
       "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:06:48Z",
+  "scraped_at": "2026-06-08T22:42:15Z",
   "city": "Koreatown",
   "key": "the-donut-man-koreatown"
 }

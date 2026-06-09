@@ -19,16 +19,16 @@
       "mention_count": 9
     },
     {
-      "label": "carnitas tacos",
-      "mention_count": 11
-    },
-    {
       "label": "shrimp tacos",
       "mention_count": 19
     },
     {
       "label": "tostadas",
       "mention_count": 10
+    },
+    {
+      "label": "fish burrito",
+      "mention_count": 4
     },
     {
       "label": "potato tacos",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-16T06:32:01Z",
+  "scraped_at": "2026-06-09T00:30:51Z",
   "city": "San Gabriel",
   "key": "tacos-ensenada-san-gabrie"
 }

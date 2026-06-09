@@ -15,10 +15,6 @@
       "mention_count": 2
     },
     {
-      "label": "spicy fish fillet 香辣龙利鱼片",
-      "mention_count": 2
-    },
-    {
       "label": "steamed fish",
       "mention_count": 2
     },
@@ -35,15 +31,19 @@
       "mention_count": 3
     },
     {
-      "label": "wait time",
-      "mention_count": 22
-    },
-    {
       "label": "value",
       "mention_count": 20
+    },
+    {
+      "label": "wait time",
+      "mention_count": 21
+    },
+    {
+      "label": "male waiter's attitude",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:37:41Z",
+  "scraped_at": "2026-06-09T00:35:09Z",
   "city": "San Gabriel Valley",
   "key": "hunanese-lunch-san-gabrie"
 }

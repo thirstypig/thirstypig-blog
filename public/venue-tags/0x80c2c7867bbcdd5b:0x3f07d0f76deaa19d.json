@@ -4,14 +4,14 @@
   "chips": [
     {
       "label": "wraps",
-      "mention_count": 24
+      "mention_count": 26
     },
     {
-      "label": "rotisserie chicken",
+      "label": "broccoli pasta salad",
       "mention_count": 6
     },
     {
-      "label": "Broccoli Pasta Salad",
+      "label": "rotisserie chicken",
       "mention_count": 6
     },
     {
@@ -23,8 +23,16 @@
       "mention_count": 3
     },
     {
+      "label": "dark meat specials",
+      "mention_count": 3
+    },
+    {
       "label": "chicken rice wrap",
       "mention_count": 2
+    },
+    {
+      "label": "pita bread",
+      "mention_count": 4
     },
     {
       "label": "cookies",
@@ -33,17 +41,9 @@
     {
       "label": "roasted potatoes",
       "mention_count": 2
-    },
-    {
-      "label": "combo wrap",
-      "mention_count": 2
-    },
-    {
-      "label": "pita bread",
-      "mention_count": 3
     }
   ],
-  "scraped_at": "2026-05-16T06:04:26Z",
+  "scraped_at": "2026-06-08T22:40:04Z",
   "city": "Hollywood",
   "key": "california-chicken-cafe-hollywood"
 }

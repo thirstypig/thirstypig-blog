@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "mojos",
-      "mention_count": 35
+      "mention_count": 34
     },
     {
       "label": "fried chicken",
@@ -27,10 +27,6 @@
       "mention_count": 10
     },
     {
-      "label": "childhood pizza",
-      "mention_count": 2
-    },
-    {
       "label": "crispy crust",
       "mention_count": 2
     },
@@ -41,9 +37,13 @@
     {
       "label": "happy hour",
       "mention_count": 6
+    },
+    {
+      "label": "live music",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:44:47Z",
+  "scraped_at": "2026-06-09T00:41:03Z",
   "city": "San Gabriel",
   "key": "shakeys-pizza-san-gabrie"
 }

@@ -1,0 +1,49 @@
+{
+  "place_id": "0x35b270417ec0dad3:0x70e9143427d699c6",
+  "venue_name": "Lillian Cake Shop",
+  "chips": [
+    {
+      "label": "egg tarts",
+      "mention_count": 47
+    },
+    {
+      "label": "durian",
+      "mention_count": 8
+    },
+    {
+      "label": "cheese tart",
+      "mention_count": 10
+    },
+    {
+      "label": "tarts",
+      "mention_count": 3
+    },
+    {
+      "label": "croissant",
+      "mention_count": 2
+    },
+    {
+      "label": "soft egg tart",
+      "mention_count": 2
+    },
+    {
+      "label": "caramel",
+      "mention_count": 3
+    },
+    {
+      "label": "delicious food",
+      "mention_count": 4
+    },
+    {
+      "label": "packaging",
+      "mention_count": 3
+    },
+    {
+      "label": "travel",
+      "mention_count": 2
+    }
+  ],
+  "scraped_at": "2026-06-09T01:00:54Z",
+  "city": "Shanghai",
+  "key": "lillian-cake-shop-莉莲蛋挞饼屋-shanghai"
+}

@@ -8,7 +8,7 @@
     },
     {
       "label": "margherita pizza",
-      "mention_count": 13
+      "mention_count": 14
     },
     {
       "label": "happy hour",
@@ -43,7 +43,7 @@
       "mention_count": 4
     }
   ],
-  "scraped_at": "2026-05-17T16:44:15Z",
+  "scraped_at": "2026-06-09T00:44:54Z",
   "city": "Downtown LA",
   "key": "sixth-mill-pizzeria-dtla"
 }

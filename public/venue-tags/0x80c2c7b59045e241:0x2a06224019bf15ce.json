@@ -11,16 +11,24 @@
       "mention_count": 9
     },
     {
-      "label": "Fettuccine Alfredo Combo",
+      "label": "tagliatelle alla bolognese",
+      "mention_count": 12
+    },
+    {
+      "label": "fettuccine alfredo",
       "mention_count": 10
     },
     {
-      "label": "Tagliatelle Alla Bolognese",
-      "mention_count": 11
+      "label": "spaghetti with meatballs",
+      "mention_count": 7
     },
     {
       "label": "calamari",
       "mention_count": 21
+    },
+    {
+      "label": "panna cotta",
+      "mention_count": 9
     },
     {
       "label": "mushroom risotto",
@@ -28,22 +36,14 @@
     },
     {
       "label": "byob",
-      "mention_count": 25
+      "mention_count": 26
     },
     {
-      "label": "panna cotta",
-      "mention_count": 7
-    },
-    {
-      "label": "Spaghetti Meatballs",
-      "mention_count": 7
-    },
-    {
-      "label": "flan",
-      "mention_count": 3
+      "label": "clams",
+      "mention_count": 6
     }
   ],
-  "scraped_at": "2026-05-16T06:10:15Z",
+  "scraped_at": "2026-06-08T22:44:57Z",
   "city": "Downtown Los Angeles",
   "key": "risotto-from-colori-kitchen-downtown-l"
 }

@@ -39,6 +39,7 @@ images:
 - /images/posts/2009-08-21-green-street-tavern-pasadena/15.jpg
 - /images/posts/2009-08-21-green-street-tavern-pasadena/16.jpg
 - /images/posts/2009-08-21-green-street-tavern-pasadena/17.jpg
+placeId: "0x80c2c370df9da1fb:0x393feec3386bfb82"
 ---
 
 

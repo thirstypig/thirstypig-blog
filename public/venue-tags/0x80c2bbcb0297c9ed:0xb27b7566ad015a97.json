@@ -3,12 +3,12 @@
   "venue_name": "Chego",
   "chips": [
     {
-      "label": "chinese broccoli",
-      "mention_count": 5
-    },
-    {
       "label": "Pork Belly Rice",
       "mention_count": 42
+    },
+    {
+      "label": "chinese broccoli",
+      "mention_count": 5
     },
     {
       "label": "kung pao",
@@ -23,7 +23,7 @@
       "mention_count": 3
     },
     {
-      "label": "fried egg",
+      "label": "meatballs",
       "mention_count": 5
     },
     {
@@ -43,7 +43,7 @@
       "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-17T16:43:48Z",
+  "scraped_at": "2026-06-09T00:44:33Z",
   "city": "Los Angeles",
   "key": "chego-los-angeles"
 }

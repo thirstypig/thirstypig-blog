@@ -11,16 +11,12 @@
       "mention_count": 2
     },
     {
-      "label": "outdoor seating",
-      "mention_count": 24
-    },
-    {
-      "label": "micheladas",
-      "mention_count": 4
-    },
-    {
       "label": "live music",
       "mention_count": 7
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 22
     },
     {
       "label": "chile relleno",
@@ -41,9 +37,13 @@
     {
       "label": "fish tacos",
       "mention_count": 3
+    },
+    {
+      "label": "gracious owners",
+      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:21:51Z",
+  "scraped_at": "2026-06-09T00:23:18Z",
   "city": "Shanghai",
   "key": "el-mexicano-shanghai"
 }

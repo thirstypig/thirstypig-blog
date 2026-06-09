@@ -3,19 +3,19 @@
   "venue_name": "Tai Cheong Bakery",
   "chips": [
     {
-      "label": "egg tart",
-      "mention_count": 1216
-    },
-    {
-      "label": "egg custard",
-      "mention_count": 32
+      "label": "egg tarts",
+      "mention_count": 1223
     },
     {
       "label": "buttery crust",
-      "mention_count": 47
+      "mention_count": 49
     },
     {
       "label": "hong kong style egg tart",
+      "mention_count": 31
+    },
+    {
+      "label": "custard",
       "mention_count": 31
     },
     {
@@ -23,7 +23,7 @@
       "mention_count": 22
     },
     {
-      "label": "egg bread taste",
+      "label": "gyeran-ppang",
       "mention_count": 23
     },
     {
@@ -39,11 +39,11 @@
       "mention_count": 14
     },
     {
-      "label": "wife cake",
+      "label": "sweetheart cake",
       "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:20:42Z",
+  "scraped_at": "2026-06-09T00:22:24Z",
   "city": "Hong Kong",
   "key": "tai-cheong-bakery-hong-kong"
 }

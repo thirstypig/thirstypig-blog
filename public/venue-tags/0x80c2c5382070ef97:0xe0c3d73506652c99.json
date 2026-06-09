@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "shaved ice",
-      "mention_count": 85
+      "mention_count": 86
     },
     {
       "label": "toppings",
@@ -13,10 +13,6 @@
     {
       "label": "cozy atmosphere",
       "mention_count": 7
-    },
-    {
-      "label": "matcha flavor",
-      "mention_count": 14
     },
     {
       "label": "durian flavor",
@@ -32,7 +28,7 @@
     },
     {
       "label": "lychee flavor",
-      "mention_count": 7
+      "mention_count": 8
     },
     {
       "label": "popping boba",
@@ -41,9 +37,13 @@
     {
       "label": "cash only",
       "mention_count": 7
+    },
+    {
+      "label": "kiwi",
+      "mention_count": 5
     }
   ],
-  "scraped_at": "2026-05-16T06:37:11Z",
+  "scraped_at": "2026-06-09T00:34:43Z",
   "city": "Alhambra",
   "key": "salju-desserts-alhambra"
 }

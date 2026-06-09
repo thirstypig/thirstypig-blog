@@ -4,27 +4,27 @@
   "chips": [
     {
       "label": "roasted meat",
-      "mention_count": 278
-    },
-    {
-      "label": "suckling pig",
-      "mention_count": 38
+      "mention_count": 277
     },
     {
       "label": "roast goose",
-      "mention_count": 113
+      "mention_count": 112
     },
     {
       "label": "roasted pork",
-      "mention_count": 148
+      "mention_count": 147
     },
     {
       "label": "char siu rice",
       "mention_count": 51
     },
     {
+      "label": "suckling pig",
+      "mention_count": 38
+    },
+    {
       "label": "bbq pork",
-      "mention_count": 85
+      "mention_count": 81
     },
     {
       "label": "soy sauce chicken",
@@ -43,7 +43,7 @@
       "mention_count": 13
     }
   ],
-  "scraped_at": "2026-05-16T06:20:47Z",
+  "scraped_at": "2026-06-09T00:22:30Z",
   "city": "Hong Kong",
   "key": "joy-hing-roasted-meat-再興燒臘飯店-hong-kong"
 }

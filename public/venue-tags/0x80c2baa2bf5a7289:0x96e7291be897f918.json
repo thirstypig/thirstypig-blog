@@ -4,46 +4,46 @@
   "chips": [
     {
       "label": "canals",
-      "mention_count": 323
+      "mention_count": 314
     },
     {
       "label": "water level",
       "mention_count": 26
     },
     {
-      "label": "boardwalk",
-      "mention_count": 51
-    },
-    {
       "label": "peaceful atmosphere",
-      "mention_count": 177
-    },
-    {
-      "label": "ducks",
-      "mention_count": 78
+      "mention_count": 175
     },
     {
       "label": "architecture",
       "mention_count": 115
     },
     {
-      "label": "narrow walkways",
-      "mention_count": 15
+      "label": "peaceful walk",
+      "mention_count": 38
     },
     {
       "label": "residential area",
       "mention_count": 91
     },
     {
-      "label": "peaceful walk",
-      "mention_count": 34
+      "label": "narrow walkways",
+      "mention_count": 15
+    },
+    {
+      "label": "romantic",
+      "mention_count": 88
+    },
+    {
+      "label": "bridges",
+      "mention_count": 51
     },
     {
       "label": "houses",
-      "mention_count": 191
+      "mention_count": 188
     }
   ],
-  "scraped_at": "2026-05-16T06:28:17Z",
+  "scraped_at": "2026-06-09T00:27:59Z",
   "city": "Venice",
   "key": "venice-canals-venice"
 }

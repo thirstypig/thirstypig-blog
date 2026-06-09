@@ -15,6 +15,10 @@
       "mention_count": 2
     },
     {
+      "label": "orange chicken",
+      "mention_count": 2
+    },
+    {
       "label": "seaweed fish",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "spicy level",
       "mention_count": 3
-    },
-    {
-      "label": "fish filet",
-      "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T06:06:59Z",
+  "scraped_at": "2026-06-08T22:42:26Z",
   "city": "Chino Hills",
   "key": "happy-kitchen-chino-hill"
 }

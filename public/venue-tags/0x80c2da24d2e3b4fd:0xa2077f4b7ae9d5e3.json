@@ -19,6 +19,10 @@
       "mention_count": 24
     },
     {
+      "label": "french toast",
+      "mention_count": 5
+    },
+    {
       "label": "portions",
       "mention_count": 19
     },
@@ -35,15 +39,11 @@
       "mention_count": 5
     },
     {
-      "label": "family friendly",
-      "mention_count": 7
-    },
-    {
-      "label": "home feel",
-      "mention_count": 3
+      "label": "comfort food",
+      "mention_count": 9
     }
   ],
-  "scraped_at": "2026-05-16T06:27:36Z",
+  "scraped_at": "2026-06-09T00:27:17Z",
   "city": "Arcadia",
   "key": "chefs-coffee-shop-arcadia"
 }

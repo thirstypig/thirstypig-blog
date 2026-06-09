@@ -4,19 +4,19 @@
   "chips": [
     {
       "label": "mapo tofu",
-      "mention_count": 11
+      "mention_count": 12
     },
     {
       "label": "dan dan noodles",
       "mention_count": 8
     },
     {
-      "label": "toothpick lamb",
-      "mention_count": 5
-    },
-    {
       "label": "string beans",
       "mention_count": 9
+    },
+    {
+      "label": "toothpick lamb",
+      "mention_count": 5
     },
     {
       "label": "duck blood with mixed innards",
@@ -43,7 +43,7 @@
       "mention_count": 2
     }
   ],
-  "scraped_at": "2026-05-16T22:44:31Z",
+  "scraped_at": "2026-06-09T00:40:52Z",
   "city": "Los Angeles",
   "key": "xiang-la-hui-los-angele"
 }

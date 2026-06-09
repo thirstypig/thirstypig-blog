@@ -27,6 +27,10 @@
       "mention_count": 3
     },
     {
+      "label": "injera explanation",
+      "mention_count": 2
+    },
+    {
       "label": "platter size",
       "mention_count": 2
     },
@@ -37,13 +41,9 @@
     {
       "label": "beets",
       "mention_count": 7
-    },
-    {
-      "label": "vegan options",
-      "mention_count": 21
     }
   ],
-  "scraped_at": "2026-05-16T22:44:20Z",
+  "scraped_at": "2026-06-09T00:40:44Z",
   "city": "Covina",
   "key": "gs-cafe-covina"
 }

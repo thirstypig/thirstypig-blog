@@ -11,10 +11,6 @@
       "mention_count": 15
     },
     {
-      "label": "margaritas",
-      "mention_count": 43
-    },
-    {
       "label": "sunset view",
       "mention_count": 14
     },
@@ -40,10 +36,14 @@
     },
     {
       "label": "ceviche",
-      "mention_count": 17
+      "mention_count": 16
+    },
+    {
+      "label": "outdoor seating",
+      "mention_count": 40
     }
   ],
-  "scraped_at": "2026-05-16T06:46:51Z",
+  "scraped_at": "2026-06-09T00:40:09Z",
   "city": "Long Beach",
   "key": "ola-mexican-kitchen-long-beach"
 }

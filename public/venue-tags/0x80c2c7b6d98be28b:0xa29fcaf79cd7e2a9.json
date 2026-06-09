@@ -4,7 +4,7 @@
   "chips": [
     {
       "label": "churrasco experience",
-      "mention_count": 49
+      "mention_count": 50
     },
     {
       "label": "salad bar",
@@ -12,11 +12,11 @@
     },
     {
       "label": "happy hour",
-      "mention_count": 57
+      "mention_count": 60
     },
     {
       "label": "lamb",
-      "mention_count": 86
+      "mention_count": 87
     },
     {
       "label": "filet mignon",
@@ -28,7 +28,7 @@
     },
     {
       "label": "caipirinhas",
-      "mention_count": 18
+      "mention_count": 19
     },
     {
       "label": "kind staff",
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:32:06Z",
+  "scraped_at": "2026-06-09T00:30:57Z",
   "city": "Downtown LA",
   "key": "fogo-de-chão-downtown-l"
 }

@@ -22,6 +22,7 @@ coordinates:
   lng: 121.451386
 cuisine:
 - Cocktails
+placeId: "0x35b265551d5c21ef:0x7f8c8cac7b2412c1"
 ---
 
 In large metropolitan cities, some of the best night clubs are located at the top of high-rises. Towering nighttime views offer excitement, romance, and allure. The Music Room at the Park Hyatt in Pudong, Shanghai is one of those clubs, like [M1NT](http://www.thethirstypig.com/2010/12/02/the-best-damn-nightclub-in-shanghai-m1nt/) and Flair. With breathtaking views, the Music Room that bring this element to the festive atmosphere.

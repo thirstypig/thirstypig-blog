@@ -7,12 +7,12 @@
       "mention_count": 31
     },
     {
-      "label": "Hakata Ramen",
-      "mention_count": 4
+      "label": "Katsu Curry Odon",
+      "mention_count": 14
     },
     {
-      "label": "Katsu Curry Odon",
-      "mention_count": 13
+      "label": "Hakata Ramen",
+      "mention_count": 4
     },
     {
       "label": "creamy uni",
@@ -40,10 +40,10 @@
     },
     {
       "label": "gyoza",
-      "mention_count": 23
+      "mention_count": 24
     }
   ],
-  "scraped_at": "2026-05-16T06:32:03Z",
+  "scraped_at": "2026-06-09T00:30:54Z",
   "city": "Irvine",
   "key": "shin-sen-gumi-irvine"
 }

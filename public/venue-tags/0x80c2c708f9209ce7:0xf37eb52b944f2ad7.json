@@ -7,6 +7,10 @@
       "mention_count": 13
     },
     {
+      "label": "fun atmosphere",
+      "mention_count": 15
+    },
+    {
       "label": "karaoke bar",
       "mention_count": 4
     },
@@ -31,10 +35,6 @@
       "mention_count": 2
     },
     {
-      "label": "vibe",
-      "mention_count": 16
-    },
-    {
       "label": "cleanliness",
       "mention_count": 2
     },
@@ -43,7 +43,7 @@
       "mention_count": 7
     }
   ],
-  "scraped_at": "2026-05-16T06:09:38Z",
+  "scraped_at": "2026-06-08T22:44:13Z",
   "city": "Koreatown",
   "key": "gaam-koreatown"
 }
