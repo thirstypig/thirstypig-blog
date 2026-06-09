@@ -473,6 +473,88 @@ const ChangelogSection = () => (
 			user-facing changelog at <code style={s.code}>/changelog</code>.
 		</p>
 
+		<h2 style={s.h2}>June 8 — Photo import from SSD + venue-tags batch (PRs #128, #129)</h2>
+		<ul style={s.ul}>
+			<li>
+				<strong>49 draft posts published</strong> with photos matched from
+				the external SSD — exact date + city-slug matching (HIGH confidence
+				only). Date range: 2009-08-21 → 2016-09-21. ~930 JPEGs copied into{" "}
+				<code style={s.code}>public/images/posts/&lt;slug&gt;/</code>,
+				renamed <code style={s.code}>01.jpg…NN.jpg</code>. Each post got{" "}
+				<code style={s.code}>heroImage</code> + <code style={s.code}>images[]</code>{" "}
+				frontmatter and <code style={s.code}>draft: false</code>.
+			</li>
+			<li>
+				<strong>Match pipeline:</strong> parsed 3,240 SSD folders →
+				matched on date + city string in slug → 79 HIGH (49 clean 1:1),
+				127 MEDIUM, 60 LOW, 257 NO_MATCH. Shared-folder and MEDIUM matches
+				deferred for manual review.{" "}
+				<code style={s.code}>/tmp/photo-matches.csv</code> has the full
+				candidate list.
+			</li>
+			<li>
+				<strong>28 new venues</strong> added to venues.yaml (PR #129),
+				27/28 place_ids resolved. 33 posts got placeId synced. Rich chips
+				for Father's Office (burger×546) and Mo-Mo-Paradise (shabu×59).
+			</li>
+		</ul>
+		<details>
+			<summary style={{ cursor: "pointer", color: "#B45309", marginBottom: 8 }}>
+				View all 49 published posts ▸
+			</summary>
+			<ul style={{ ...s.ul, columns: 2, columnGap: 32 }}>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2009-08-21-green-street-tavern-pasadena" target="_blank">Green Street Tavern, Pasadena</a> — 2009-08-21</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2009-09-02-pien-burger-pasadena-los-angeles" target="_blank">Pie'n Burger, Pasadena</a> — 2009-09-02</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2009-09-25-westside-tavern-los-angeles" target="_blank">Westside Tavern, Los Angeles</a> — 2009-09-25</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2009-09-26-rockwell-table-stage-los-angeles" target="_blank">Rockwell Table &amp; Stage, Los Angeles</a> — 2009-09-26</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2009-11-07-ikes-place-san-francisco" target="_blank">Ike's Place, San Francisco</a> — 2009-11-07</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-03-18-hai-di-lao-海底捞火锅-shanghai" target="_blank">Haidilao Hot Pot, Shanghai</a> — 2011-03-18</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-05-21-mapuwu-麻浦屋-shanghai" target="_blank">Lillian Cake Shop, Shanghai</a> — 2011-05-21</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-05-26-uminosachi-海之幸-shanghai" target="_blank">Umi No Sachi 海之幸, Shanghai</a> — 2011-05-26</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-06-01-annion-kitchen-shanghai" target="_blank">Annion Kitchen, Shanghai</a> — 2011-06-01</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-06-04-xiao-san-tang-小三堂-shanghai" target="_blank">Xiao San Tang, Shanghai</a> — 2011-06-04</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-06-05-spicy-moment-shanghai" target="_blank">Spicy Moment, Shanghai</a> — 2011-06-05</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-06-18-orange-shabu-shabu-橘色涮涮锅-shanghai" target="_blank">Orange Shabu Shabu, Shanghai</a> — 2011-06-18</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-07-04-cest-cupcake-口袋蛋糕-shanghai" target="_blank">C'est Cupcake, Shanghai</a> — 2011-07-04</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-07-09-boxing-cat-brewery-brunch-shanghai" target="_blank">Boxing Cat Brewery, Shanghai</a> — 2011-07-09</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-07-14-craft-shanghai" target="_blank">Craft, Shanghai</a> — 2011-07-14</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-07-18-xinyi-public-assembly-hall-信義公民會館-四四南村-taipei" target="_blank">Xinyi Public Assembly Hall, Taipei</a> — 2011-07-18</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-04-lanxin-兰心餐厅-shanghai" target="_blank">Lanting Restaurant, Shanghai</a> — 2011-08-04</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-14-love-bun-ho-chi-minh-city" target="_blank">I Love Bún, Ho Chi Minh City</a> — 2011-08-14</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-15-quan-lau-de-306-ho-chi-minh-city" target="_blank">Quán Lẩu Dê 306, Ho Chi Minh City</a> — 2011-08-15</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-24-my-dining-place-shanghai" target="_blank">My Dining Place, Shanghai</a> — 2011-08-24</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-25-upstairs-urbn-hotel-shanghai" target="_blank">Upstairs, Shanghai</a> — 2011-08-25</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-08-29-noodle-bull-狠牛-shanghai-closed" target="_blank">Noodle Bull, Shanghai</a> — 2011-08-29</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-09-07-la-finca-庄源-shanghai-restaurant-week-closed" target="_blank">La Finca, Shanghai</a> — 2011-09-07</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-09-10-whampoa-club-黄浦会-weekend-brunch-shanghai" target="_blank">Whampoa Club Weekend Brunch, Shanghai</a> — 2011-09-10</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-12-10-le-saleya-shanghai" target="_blank">Le Saleya, Shanghai</a> — 2011-12-10</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2011-12-23-long-bar-waldorf-astoria-hotel-shanghai" target="_blank">Long Bar, Waldorf Astoria, Shanghai</a> — 2011-12-23</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-01-05-yoogane-chicken-galbi-유가네-닭갈비-seoul" target="_blank">Yoogane, Seoul</a> — 2012-01-05</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-01-06-cheonghakdong-청학동-seoul" target="_blank">청학동, Seoul</a> — 2012-01-06</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-01-23-moffetts-family-restaurant-chicken-pie-shoppe-arcadia" target="_blank">Moffett's Family Restaurant, Arcadia</a> — 2012-01-23</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-01-27-pizzeria-mozza-los-angeles" target="_blank">Pizzeria Mozza, Los Angeles</a> — 2012-01-27</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-02-17-caliburger-shanghai" target="_blank">CaliBurger, Shanghai</a> — 2012-02-17</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-02-24-new-red-house-restaurant-新虹樓飯莊-chongming-island" target="_blank">New Red House Restaurant, Chongming Island</a> — 2012-02-24</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-02-28-pizzeria-mozza-los-angeles" target="_blank">Pizzeria Mozza (revisit), Los Angeles</a> — 2012-02-28</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-04-04-yuzu-柚-日式餐厅-shanghai" target="_blank">Yamazato, Shanghai</a> — 2012-04-04</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-04-17-kechara-tea-house-shanghai" target="_blank">Kechara Tea House, Shanghai</a> — 2012-04-17</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-04-26-kathleens-waitan-shanghai" target="_blank">Kathleen's Waitan, Shanghai</a> — 2012-04-26</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-05-03-xibo-shanghai" target="_blank">Xibo, Shanghai</a> — 2012-05-03</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-05-04-wonton-soup-street-vendor-pudong-shanghai" target="_blank">Fujian Wonton King, Shanghai</a> — 2012-05-04</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-05-09-mokkos-shanghai-closed" target="_blank">Mokkos Bar, Shanghai</a> — 2012-05-09</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-05-11-glamour-bar-shanghai-closed" target="_blank">Glamour Bar, Shanghai</a> — 2012-05-11</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-05-12-gram-bodega-shanghai" target="_blank">Gran Bodega, Shanghai</a> — 2012-05-12</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2012-08-20-le-cafe-des-stagiaires-shanghai" target="_blank">Le Café des Stagiaires, Shanghai</a> — 2012-08-20</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2014-04-01-da-spring-onion-pancake-shanghai-阿大葱油饼" target="_blank">Da Spring Onion Pancake, Shanghai</a> — 2014-04-01</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2014-05-09-el-luchador-shanghai" target="_blank">El Luchador, Shanghai</a> — 2014-05-09</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2014-06-07-tsui-wah-shanghai" target="_blank">Tsui Wah Restaurant, Shanghai</a> — 2014-06-07</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2015-10-31-fathers-office-los-angeles" target="_blank">Father's Office, Los Angeles</a> — 2015-10-31</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2015-11-15-kang-ho-dong-baekjeong-k-town-los-angeles" target="_blank">Kang Ho Dong Baekjeong, K-Town</a> — 2015-11-15</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2016-09-18-young-dong-tofu-san-gabriel" target="_blank">Young Dong Tofu, San Gabriel</a> — 2016-09-18</li>
+				<li><a style={s.link} href="https://thirstypig.com/posts/2016-09-21-mo-mo-paradise-rowland-heights" target="_blank">Mo-Mo-Paradise, Rowland Heights</a> — 2016-09-21</li>
+			</ul>
+		</details>
+
 		<h2 style={s.h2}>April 29–30 — Venue-tags scale-up via Places API (PR #96)</h2>
 		<ul style={s.ul}>
 			<li>
