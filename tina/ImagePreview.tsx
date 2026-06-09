@@ -1,8 +1,15 @@
 import React from "react";
 
-interface InputProps {
-  value: string;
+// ── Shared types ──────────────────────────────────────────────────────────────
+
+interface StringInputProps {
+  value: string | null | undefined;
   onChange: (val: string) => void;
+}
+
+interface StringListInputProps {
+  value: string[] | null | undefined;
+  onChange: (val: string[]) => void;
 }
 
 interface FieldProps {
@@ -10,34 +17,55 @@ interface FieldProps {
   label?: string;
 }
 
+// ── Shared style constants ────────────────────────────────────────────────────
+
+const S_LABEL: React.CSSProperties = {
+  display: "block",
+  fontSize: 13,
+  fontWeight: 600,
+  color: "#374151",
+  marginBottom: 6,
+};
+
+const S_EMPTY: React.CSSProperties = {
+  background: "#f3f4f6",
+  border: "1px dashed #d1d5db",
+  borderRadius: 6,
+  color: "#9ca3af",
+  fontSize: 13,
+  marginBottom: 8,
+};
+
+const S_MONO_INPUT: React.CSSProperties = {
+  border: "1px solid #d1d5db",
+  borderRadius: 4,
+  fontFamily: "monospace",
+  color: "#374151",
+};
+
+// Reject data: URIs and external hosts — all legitimate paths start with /
+const isSafeSrc = (s: string) =>
+  s === "" || s.startsWith("/") || s.startsWith("https://thirstypig.com");
+
 // ── Single image (heroImage) ──────────────────────────────────────────────────
 
 export const HeroImagePreview = ({
   input,
   field,
 }: {
-  input: InputProps;
+  input: StringInputProps;
   field: FieldProps;
 }) => {
   const src = input.value || "";
   return (
     <div style={{ marginBottom: 16 }}>
-      <label
-        style={{
-          display: "block",
-          fontSize: 13,
-          fontWeight: 600,
-          color: "#374151",
-          marginBottom: 6,
-        }}
-      >
-        {field.label || field.name}
-      </label>
+      <label style={S_LABEL}>{field.label || field.name}</label>
 
-      {src ? (
+      {src && isSafeSrc(src) ? (
         <img
           src={src}
           alt="Hero image preview"
+          decoding="async"
           style={{
             display: "block",
             maxWidth: "100%",
@@ -48,19 +76,27 @@ export const HeroImagePreview = ({
             marginBottom: 8,
           }}
         />
-      ) : (
+      ) : src && !isSafeSrc(src) ? (
         <div
           style={{
+            ...S_EMPTY,
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
             height: 80,
-            background: "#f3f4f6",
-            border: "1px dashed #d1d5db",
-            borderRadius: 6,
-            color: "#9ca3af",
-            fontSize: 13,
-            marginBottom: 8,
+            color: "#ef4444",
+          }}
+        >
+          ⚠ Invalid path (must start with /)
+        </div>
+      ) : (
+        <div
+          style={{
+            ...S_EMPTY,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            height: 80,
           }}
         >
           No hero image set
@@ -73,13 +109,10 @@ export const HeroImagePreview = ({
         onChange={(e) => input.onChange(e.target.value)}
         placeholder="/images/posts/slug/01.jpg"
         style={{
+          ...S_MONO_INPUT,
           width: "100%",
           padding: "6px 8px",
-          border: "1px solid #d1d5db",
-          borderRadius: 4,
           fontSize: 12,
-          fontFamily: "monospace",
-          color: "#374151",
           boxSizing: "border-box",
         }}
       />
@@ -93,78 +126,89 @@ export const ImageListPreview = ({
   input,
   field,
 }: {
-  input: { value: string[]; onChange: (val: string[]) => void };
+  input: StringListInputProps;
   field: FieldProps;
 }) => {
-  const images: string[] = input.value || [];
+  const [localImages, setLocalImages] = React.useState<string[]>(
+    input.value || []
+  );
+
+  // Sync if TinaCMS resets the field externally
+  React.useEffect(() => {
+    setLocalImages(input.value || []);
+  }, [input.value]);
 
   const update = (index: number, val: string) => {
-    const next = [...images];
+    const next = [...localImages];
     next[index] = val;
-    input.onChange(next);
+    setLocalImages(next);
   };
 
+  const flush = () => input.onChange(localImages);
+
   const remove = (index: number) => {
-    input.onChange(images.filter((_, i) => i !== index));
+    const next = localImages.filter((_, i) => i !== index);
+    setLocalImages(next);
+    input.onChange(next);
   };
 
   return (
     <div style={{ marginBottom: 16 }}>
-      <label
-        style={{
-          display: "block",
-          fontSize: 13,
-          fontWeight: 600,
-          color: "#374151",
-          marginBottom: 8,
-        }}
-      >
+      <label style={{ ...S_LABEL, marginBottom: 8 }}>
         {field.label || field.name}{" "}
         <span style={{ fontWeight: 400, color: "#9ca3af" }}>
-          ({images.length})
+          ({localImages.length})
         </span>
       </label>
 
-      {images.length === 0 && (
-        <div
-          style={{
-            padding: "12px 16px",
-            background: "#f3f4f6",
-            border: "1px dashed #d1d5db",
-            borderRadius: 6,
-            color: "#9ca3af",
-            fontSize: 13,
-            marginBottom: 8,
-          }}
-        >
-          No images
-        </div>
+      {localImages.length === 0 && (
+        <div style={{ ...S_EMPTY, padding: "12px 16px" }}>No images</div>
       )}
 
-      {/* Thumbnail strip */}
-      {images.length > 0 && (
-        <div
-          style={{
-            display: "flex",
-            flexWrap: "wrap",
-            gap: 6,
-            marginBottom: 12,
-          }}
-        >
-          {images.map((src, i) => (
-            <div key={i} style={{ position: "relative", flexShrink: 0 }}>
-              <img
-                src={src}
-                alt={`Image ${i + 1}`}
-                style={{
-                  width: 72,
-                  height: 72,
-                  objectFit: "cover",
-                  borderRadius: 4,
-                  border: "1px solid #d1d5db",
-                  display: "block",
-                }}
-              />
+      {/* Single pass: thumbnail + path input + remove button per row */}
+      <div style={{ display: "flex", flexDirection: "column", gap: 6 }}>
+        {localImages.map((src, i) => (
+          <div
+            key={src + "_" + i}
+            style={{ display: "flex", alignItems: "center", gap: 8 }}
+          >
+            {/* Thumbnail */}
+            <div style={{ position: "relative", flexShrink: 0 }}>
+              {src && isSafeSrc(src) ? (
+                <img
+                  src={src}
+                  alt={`Image ${i + 1}`}
+                  loading="lazy"
+                  decoding="async"
+                  width={72}
+                  height={72}
+                  style={{
+                    width: 72,
+                    height: 72,
+                    objectFit: "cover",
+                    borderRadius: 4,
+                    border: "1px solid #d1d5db",
+                    display: "block",
+                  }}
+                />
+              ) : (
+                <div
+                  style={{
+                    width: 72,
+                    height: 72,
+                    borderRadius: 4,
+                    border: "1px solid #d1d5db",
+                    background: "#f3f4f6",
+                    display: "flex",
+                    alignItems: "center",
+                    justifyContent: "center",
+                    fontSize: 10,
+                    color: "#9ca3af",
+                  }}
+                >
+                  {src ? "⚠" : "–"}
+                </div>
+              )}
               <span
                 style={{
                   position: "absolute",
@@ -181,28 +225,22 @@ export const ImageListPreview = ({
                 {i + 1}
               </span>
             </div>
-          ))}
-        </div>
-      )}
 
-      {/* Editable path list */}
-      <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-        {images.map((src, i) => (
-          <div key={i} style={{ display: "flex", alignItems: "center", gap: 6 }}>
+            {/* Path input */}
             <input
               type="text"
               value={src}
               onChange={(e) => update(i, e.target.value)}
+              onBlur={flush}
               style={{
+                ...S_MONO_INPUT,
                 flex: 1,
                 padding: "4px 8px",
-                border: "1px solid #d1d5db",
-                borderRadius: 4,
                 fontSize: 11,
-                fontFamily: "monospace",
-                color: "#374151",
               }}
             />
+
+            {/* Remove */}
             <button
               type="button"
               onClick={() => remove(i)}
