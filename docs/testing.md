@@ -185,6 +185,13 @@ At a glance:
   both-wrong) is mathematically indistinguishable from the legitimate
   Wayback pattern; the test pins the ambiguous-signal numbers so a future
   body-content heuristic can verify it actually distinguishes.
+- **`src/utils/image-validation.test.ts`** (10 unit assertions) —
+  `isSafeSrc()` admin image URL security guard. Allows empty, relative, and
+  same-origin absolute paths. Rejects `data:` URIs (SVG+script injection),
+  `javascript:`, `blob:`, arbitrary `https://` hosts, `http:`, and
+  subdomain-spoofing (`https://thirstypig.com.evil.com/`). The last case
+  caught a real bug during test writing: the original `startsWith("https://thirstypig.com")`
+  allowed spoofed subdomains; fixed to require the trailing slash.
 - **`tests/e2e/archive.spec.ts`** (4 E2E assertions) — `/archive/*`:
   index + year page + year-month page + Archive nav aria-current
 - **`tests/e2e/categories.spec.ts`** (3 E2E assertions) — `/categories/*`:
@@ -225,10 +232,7 @@ Remaining opportunistic follow-ups (none urgent):
 2. **Flip a few closed venues to `draft: false`** — content decision. Would
    activate the `isClosed` rendering branches on the live site and
    auto-un-skip `tests/e2e/closed-venues.spec.ts`.
-3. **Flip a few closed venues to `draft: false`** — content decision. Would
-   activate the `isClosed` rendering branches on the live site and
-   auto-un-skip `tests/e2e/closed-venues.spec.ts`.
-5. **Browser matrix expansion** — Playwright currently runs Chromium only.
+3. **Browser matrix expansion** — Playwright currently runs Chromium only.
    Adding Firefox + WebKit is one config edit but ~3× the CI minutes. Worth
    revisiting if a Safari-specific bug ever slips through.
 6. **Visual regression** — Playwright snapshot assertions on stable pages.

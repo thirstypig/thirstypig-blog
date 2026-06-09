@@ -65,6 +65,10 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "aggregateChips() — cross-venue chip aggregation for tag cloud. Same label at 2+ venues sums mention_count (not max), venueCount increments per loop iteration, output sorted by total desc, empty-chips venues don't crash, empty venue list returns [], case-sensitive label identity",
 	},
+	"src/utils/image-validation.test.ts": {
+		kind: "unit",
+		covers: "isSafeSrc() — admin image URL security guard. Allows empty string, relative paths (/), and same-origin absolute URLs. Rejects data: (caught SVG+script injection vector), javascript:, blob:, arbitrary https hosts, http: (non-TLS), and subdomain-spoofing (https://thirstypig.com.evil.com/ — real bug caught by test, fixed trailing-slash in startsWith guard)",
+	},
 	"src/utils/hitlist-entry.test.ts": {
 		kind: "unit",
 		covers: "Hit List entry schema — required/optional fields, priority bounds (1-3), city normalisation, tag array handling, invalid shapes",
