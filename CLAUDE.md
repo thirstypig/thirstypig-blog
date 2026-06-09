@@ -3,13 +3,13 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,636 posts live at thirstypig.com** (453 Wayback + 1,183 IG published; 485 drafts pending). Venue tags: 711 JSONs published, 939 posts tagged, 755 venues in venues.yaml, ~697 posts still untagged. Test suite: 178 pytest + 94 Vitest = **272 tests**. Recent work: in-article AdSense unit (3-slot setup now), IG prose migration (caption-first layout), full-size post gallery replacing thumbnails, nav slimmed to Posts + Cities. Next up: keep extending venue tags (use `curate_candidates.py --min-posts 1`), then roll out the Bold Red Poster redesign.
+My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,686 posts live at thirstypig.com** (502 Wayback + 1,184 IG published; 441 drafts pending). Venue tags: 766 JSONs published, ~1,022 posts tagged, 814 venues in venues.yaml, ~664 posts still untagged. Test suite: 178 pytest + 105 Vitest = **283 tests**. Recent work: SSD photo import (49 posts published with ~930 photos, HIGH-confidence date+city matching), admin image previews with lazy loading + security guard (`isSafeSrc` in `src/utils/image-validation.ts`), venue tags batch (+28 venues). Next up: keep extending venue tags (use `curate_candidates.py --min-posts 1`), then roll out the Bold Red Poster redesign.
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
 
 - **Stack:** Astro + Tailwind v4 + Tina CMS, deployed on Vercel
-- **Content:** archive-only blog — 453 Wayback-recovered posts (2007–2017) + 1,183 Instagram posts (2011–present) published; 485 drafts. Total 2,127 .md files in `src/content/posts/`.
+- **Content:** archive-only blog — 502 Wayback-recovered posts (2007–2017) + 1,184 Instagram posts (2011–present) published; 441 drafts. Total 2,127 .md files in `src/content/posts/`.
 - **Scripts:** Python scrapers in `scripts/` (Wayback downloader, Instagram importer, Foursquare geocoder)
 - **Trigger an IG sync programmatically:** create a GitHub release tagged `ig-*` with the IG export ZIP attached — `instagram-sync.yml` fires on that tag prefix.
 - **After importing new posts, enrich them** (address, map link, Google Places venue tags) — importing is only step 1. Follow `docs/new-post-enrichment-cadence.md`. Easy-to-forget prerequisite: set `location` (venue name) on each new post, or `curate_candidates.py` skips it and it never gets tagged.
@@ -50,7 +50,7 @@ When you notice a pattern, preference, decision, or piece of context that should
 
 **WHO I AM:** LA food blogger who ran The Thirsty Pig 2007–2017. Comfortable with the terminal, git, and running Python scripts — but Claude Code is doing the heavy lifting on actual code. I can catch obvious errors in context but won't reliably spot subtle type bugs or logic regressions. Personal tinkering project with no team or deadline pressure.
 
-**WHAT WE'RE BUILDING:** A fully static food blog at thirstypig.com — 1,636 posts recovered from Wayback Machine archives and Instagram exports, deployed on Vercel. The site is archive-complete; ongoing work is enrichment (venue tags, hit list, redesign). No audience-optimization pressure — this is personal experimentation. Current focus areas: extending venue tags into the long tail (755 in venues.yaml, ~697 posts still untagged — use `curate_candidates.py --min-posts 1` to find more), rolling out the Bold Red Poster redesign, and eventually a comments system.
+**WHAT WE'RE BUILDING:** A fully static food blog at thirstypig.com — 1,686 posts recovered from Wayback Machine archives and Instagram exports, deployed on Vercel. The site is archive-complete; ongoing work is enrichment (venue tags, hit list, redesign). No audience-optimization pressure — this is personal experimentation. Current focus areas: extending venue tags into the long tail (814 in venues.yaml, ~664 posts still untagged — use `curate_candidates.py --min-posts 1` to find more), rolling out the Bold Red Poster redesign, and eventually a comments system.
 
 **DOMAIN-SPECIFIC CAUTION:**
 

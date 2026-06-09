@@ -473,6 +473,30 @@ const ChangelogSection = () => (
 			user-facing changelog at <code style={s.code}>/changelog</code>.
 		</p>
 
+		<h2 style={s.h2}>June 9 — Admin image previews, code review, isSafeSrc tests (PRs #131–#133)</h2>
+		<ul style={s.ul}>
+			<li>
+				<strong>TinaCMS admin image previews</strong> — heroImage and images[]
+				fields now show thumbnails instead of bare text inputs.{" "}
+				<code style={s.code}>tina/ImagePreview.tsx</code>: lazy-loaded 72×72
+				thumbnail strip + editable path inputs per row. CE code review found
+				8 issues (4 P2, 4 P3); all resolved in PR #133 — including eager-load
+				memory blowout fix, per-keystroke re-render debounce, and{" "}
+				<code style={s.code}>isSafeSrc()</code> URL guard.
+			</li>
+			<li>
+				<strong>Security:</strong> <code style={s.code}>data:</code> URI removed
+				from admin <code style={s.code}>img-src</code> CSP; <code style={s.code}>/admin/</code>{" "}
+				trailing-slash CSP gap fixed in <code style={s.code}>vercel.json</code>.
+			</li>
+			<li>
+				<strong>10 new unit tests</strong> for <code style={s.code}>isSafeSrc()</code>{" "}
+				(extracted to <code style={s.code}>src/utils/image-validation.ts</code>).
+				Tests caught a real subdomain-spoofing bypass during writing.
+				Suite now 283 total (178 pytest + 105 Vitest).
+			</li>
+		</ul>
+
 		<h2 style={s.h2}>June 8 — Photo import from SSD + venue-tags batch (PRs #128, #129)</h2>
 		<ul style={s.ul}>
 			<li>

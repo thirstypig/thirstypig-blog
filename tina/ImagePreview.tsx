@@ -1,4 +1,5 @@
 import React from "react";
+import { isSafeSrc } from "../src/utils/image-validation";
 
 // ── Shared types ──────────────────────────────────────────────────────────────
 
@@ -43,9 +44,6 @@ const S_MONO_INPUT: React.CSSProperties = {
   color: "#374151",
 };
 
-// Reject data: URIs and external hosts — all legitimate paths start with /
-const isSafeSrc = (s: string) =>
-  s === "" || s.startsWith("/") || s.startsWith("https://thirstypig.com");
 
 // ── Single image (heroImage) ──────────────────────────────────────────────────
 
