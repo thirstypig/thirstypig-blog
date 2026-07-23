@@ -29,7 +29,7 @@ gate (DOC-003).
 | ID | Item | Why it matters | Links |
 |---|---|---|---|
 | **RM-001** | **Venue tags — the long tail** | ~1,105 posts still show no chips. The real blocker is upstream: ~492 posts have no `location` field, so the pipeline can't see them. A backfill likely unlocks more than any scraper work. | PRD-001 |
-| **RM-002** | **Bold Red Poster redesign** | The largest unstarted item. Changes the whole visual identity. <!-- TODO(james): no design doc exists anywhere in the repo. Is there one outside it? --> | *needs PRD* |
+| **RM-002** | **Bold Red Poster redesign — site-wide rollout** | ⚠️ **Partly shipped.** The *homepage* redesign landed in PR #72 (`index.astro` uses `bg-poster-red` + `font-poster-display` + the redpig hero; nav renamed in #79). What remains is rolling the poster identity across the rest of the site (dark-mode poster theme was explicitly deferred). Corrects the earlier "unstarted" reading (C-013). <!-- TODO(james): confirm what "site-wide rollout" still includes, and whether dark-mode poster is in or out. --> | *needs PRD* |
 | **RM-003** | **Comments system** | Would turn a one-way archive into something with a reader loop. The Webmentions/Bridgy path was explored and rejected; an alternative direction is pending. | *needs PRD* |
 | **RM-004** | **Photo import — long tail** | 127 MEDIUM + 13 shared-folder + 257 NO_MATCH posts still imageless, plus 1,341 unparsed date-only SSD folders. Recovers images the Wayback archive lost. | *needs PRD* |
 | **RM-005** | **Hit List cross-site display** | Show the Hit List on jameschang.co. Documented as "Phase 3" of that feature. | *needs PRD* |

@@ -22,9 +22,9 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `2261775a` |
-| Date | 2026-06-09 |
-| Branch | `main` |
+| Commit | `439f985b` |
+| Date | 2026-07-23 |
+| Branch | `feat/docs-board` |
 
 <!-- This is the last local commit, NOT a confirmed Vercel deploy. Reading real
      deploy state needs the Vercel API and a token; deliberately not wired. -->

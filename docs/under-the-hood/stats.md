@@ -27,7 +27,7 @@ Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
 |---|---|
 | Post markdown files | 2127 |
 | Published venue chip JSONs | 766 |
-| Tracked files (all) | 19379 |
+| Tracked files (all) | 19416 |
 
 ## Routes
 
@@ -35,21 +35,21 @@ Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
 |---|---|
 | Static pages | 16 |
 | Dynamic routes | 5 |
-| Build-time JSON/XML endpoints | 9 |
-| **Total files in src/pages** | **30** |
+| Build-time JSON/XML endpoints | 10 |
+| **Total files in src/pages** | **31** |
 
 ## Lines of code by type
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2242 | 90,804 |
-| JSON | 776 | 63,792 |
+| Markdown | 2268 | 93,186 |
+| JSON | 778 | 64,008 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,266 |
 | TypeScript (React) | 10 | 5,925 |
+| TypeScript | 50 | 4,472 |
 | Astro | 37 | 3,889 |
-| TypeScript | 45 | 3,592 |
-| JavaScript (ESM) | 8 | 743 |
+| JavaScript (ESM) | 10 | 1,440 |
 | CSS | 4 | 404 |
 | JavaScript | 22 | 102 |
 

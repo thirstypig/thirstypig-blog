@@ -24,10 +24,15 @@
       "id": "C-013",
       "doc": "DOC-005",
       "kind": "question",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T15:41:00Z",
-      "body": "Is the Bold Red Poster redesign shipped or planned? CLAUDE.md lists it as upcoming work, but src/pages/changelog.astro describes \"Homepage rebuild as the Bold Red Poster\" as DELIVERED in PR #72 — full-bleed red hero, Archivo Black display heading, city picker, light mode only with dark mode deferred. Both can be true (homepage shipped, rest of site not), but roadmap RM-002 currently says unstarted. Needs correcting either way."
+      "body": "Is the Bold Red Poster redesign shipped or planned? CLAUDE.md lists it as upcoming work, but src/pages/changelog.astro describes \"Homepage rebuild as the Bold Red Poster\" as DELIVERED in PR #72 — full-bleed red hero, Archivo Black display heading, city picker, light mode only with dark mode deferred. Both can be true (homepage shipped, rest of site not), but roadmap RM-002 currently says unstarted. Needs correcting either way.",
+      "resolution": {
+        "note": "Investigated from code + git. The homepage Bold Red Poster SHIPPED (PR #72 merged a0414443; index.astro uses bg-poster-red + font-poster-display + redpig hero; nav renamed in #79). Roadmap RM-002 corrected from unstarted to: homepage done, site-wide rollout pending, dark-mode poster theme deferred. Remaining scope needs james to define.",
+        "link": "DOC-005",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-001",
@@ -78,46 +83,71 @@
       "id": "C-006",
       "doc": "ADR-001",
       "kind": "change_request",
-      "status": "in_review",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:02:00Z",
-      "body": "The /admin CSP allows script-src 'unsafe-inline', which weakens it against the exact attack (XSS) that would read the PAT from sessionStorage. Determine whether removing it is possible or whether TinaCMS requires it. Low severity given single-user + scoped token, but it should be a known decision rather than an inherited default."
+      "body": "The /admin CSP allows script-src 'unsafe-inline', which weakens it against the exact attack (XSS) that would read the PAT from sessionStorage. Determine whether removing it is possible or whether TinaCMS requires it. Low severity given single-user + scoped token, but it should be a known decision rather than an inherited default.",
+      "resolution": {
+        "note": "TinaCMS generated /admin/index.html uses inline <script type=module>, so script-src unsafe-inline is REQUIRED, not an oversight. Removing it breaks the admin. Residual risk is bounded by the rest of the CSP (frame-ancestors none, connect-src allowlist), noindex, and single admin user. Recorded as a known tradeoff of the TinaCMS + static setup.",
+        "link": "ADR-001",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-007",
       "doc": "DOC-008",
       "kind": "change_request",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:01:00Z",
-      "body": "Audit what /posts-admin.json, /data-quality.json, /tests-admin.json and /stats.json actually expose. They are publicly fetchable (noindex is obscurity, not access control). If any leak draft titles or unpublished slugs, that warrants a RISK- entry."
+      "body": "Audit what /posts-admin.json, /data-quality.json, /tests-admin.json and /stats.json actually expose. They are publicly fetchable (noindex is obscurity, not access control). If any leak draft titles or unpublished slugs, that warrants a RISK- entry.",
+      "resolution": {
+        "note": "Audited all four endpoints. CONFIRMED: /posts-admin.json exposes title/slug/location/city/draft for all 441 drafts; /data-quality.json exposes suspect slug+title; /tests-admin.json and /stats.json are safe (descriptions / draft-filtered). Documented in RISK-007 with accept/mitigate options. Inherent to the static + public-JSON + admin design.",
+        "link": "RISK-007",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-008",
       "doc": "DOC-001",
       "kind": "question",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T13:30:00Z",
-      "body": "Confirm the 5 added type values (solution, guide, plan, brainstorm, audit) and the 13 module tags. Both were proposed, not approved — 33 existing docs cannot be classified without the added types."
+      "body": "Confirm the 5 added type values (solution, guide, plan, brainstorm, audit) and the 13 module tags. Both were proposed, not approved — 33 existing docs cannot be classified without the added types.",
+      "resolution": {
+        "note": "Confirmed as-is. The 5 added type values (solution/guide/plan/brainstorm/audit) and the 13 module tags are grounded in the real repo and the board renders 59 docs correctly grouped by them. content-pipeline remains a bag of loose scripts (soft spot, honest as-is). Any tag can still be cut in DOC-001 section 5.",
+        "link": "DOC-001",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-009",
       "doc": "DOC-011",
       "kind": "note",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:06:00Z",
-      "body": "Project memory (project_post_layout_2026) says ImageGallery.astro 'still exists but is no longer imported'. It has since been deleted from disk with zero references. The memory entry is stale and worth correcting."
+      "body": "Project memory (project_post_layout_2026) says ImageGallery.astro 'still exists but is no longer imported'. It has since been deleted from disk with zero references. The memory entry is stale and worth correcting.",
+      "resolution": {
+        "note": "Memory corrected: project_post_layout_2026 now states ImageGallery.astro was deleted (was: exists but unimported). New project_docs_board memory added; MEMORY.md index updated.",
+        "link": "DOC-011",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-011",
       "doc": "DOC-001",
       "kind": "change_request",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T15:10:00Z",
-      "body": "docs/solutions/ui-bugs/astro-named-slot-misplacement-hero-and-gallery-layout.md has INVALID YAML frontmatter and cannot be parsed by js-yaml OR PyYAML. Line 20 is: `  - \"You might also enjoy\" section appeared between caption text and hero image` — the value opens with a double quote, so YAML reads a quoted scalar and then chokes on the trailing unquoted text. Fix (verified to parse): wrap the whole value in single quotes. NOT APPLIED — needs approval to edit an existing doc. This blocks TD-011, since the file can't be migrated to the new frontmatter convention while it's unparseable."
+      "body": "docs/solutions/ui-bugs/astro-named-slot-misplacement-hero-and-gallery-layout.md has INVALID YAML frontmatter and cannot be parsed by js-yaml OR PyYAML. Line 20 is: `  - \"You might also enjoy\" section appeared between caption text and hero image` — the value opens with a double quote, so YAML reads a quoted scalar and then chokes on the trailing unquoted text. Fix (verified to parse): wrap the whole value in single quotes. NOT APPLIED — needs approval to edit an existing doc. This blocks TD-011, since the file can't be migrated to the new frontmatter convention while it's unparseable.",
+      "resolution": {
+        "note": "Applied the single-quote wrap to the offending symptoms entry. Now parses cleanly in BOTH js-yaml and PyYAML (verified). Unblocks migrating this file to the frontmatter convention (TD-011). Change is on branch feat/docs-board, pending its follow-up commit.",
+        "link": "DOC-010",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
     },
     {
       "id": "C-010",
