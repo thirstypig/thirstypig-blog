@@ -27,7 +27,7 @@ Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
 |---|---|
 | Post markdown files | 2127 |
 | Published venue chip JSONs | 766 |
-| Tracked files (all) | 19416 |
+| Tracked files (all) | 19415 |
 
 ## Routes
 
@@ -42,8 +42,8 @@ Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2268 | 93,186 |
-| JSON | 778 | 64,008 |
+| Markdown | 2267 | 93,134 |
+| JSON | 778 | 64,018 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,266 |
 | TypeScript (React) | 10 | 5,925 |
@@ -95,7 +95,7 @@ list exists in the repo. This is reported as-is rather than invented.
 <!-- TODO(james): if you want phases tracked, define them in roadmap.md and set
      `phase:` on the relevant docs. Otherwise delete this section. -->
 
-Roadmap items (macro): **6** · To-dos (micro): **12**
+Roadmap items (macro): **6** · To-dos (micro): **13**
 
 Per-row status is not yet tracked — roadmap and to-do rows have IDs but no
 `status` column, so "shipped" cannot be computed. The doc-level `status` counts

@@ -93,7 +93,7 @@ linkable: a to-do's `links` may name the `RM-` item and `PRD-` it serves.
 | Type | Why it's needed | Covers |
 |---|---|---|
 | `solution` | The board has a "Troubleshooting / solved problems" section, but no type mapped to it | the 22 files in `docs/solutions/` |
-| `guide` | How-to docs that aren't specs | this file, `testing.md`, `new-post-enrichment-cadence.md`, `local-ig-automation.md`, `hitlist-vault-setup.md` |
+| `guide` | How-to docs that aren't specs | this file, `testing-strategy.md`, `new-post-enrichment-cadence.md`, `local-ig-automation.md`, `hitlist-vault-setup.md` |
 | `plan` | Forward-looking work plans | `docs/plans/` (2 files) |
 | `brainstorm` | Exploratory, pre-decision thinking | `docs/brainstorms/` (3 files) |
 | `audit` | Point-in-time assessments | `seo-audit-2026-06-03.md` |

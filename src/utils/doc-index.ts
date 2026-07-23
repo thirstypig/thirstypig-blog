@@ -130,7 +130,7 @@ export function sectionFor(type: string, path: string, hasFrontmatter = true): S
 /**
  * Remove fenced code blocks before any content matching.
  *
- * This is not optional. `docs/testing.md` and `README.md` both contain bash
+ * This is not optional. `docs/engineering/testing-strategy.md` and `README.md` both contain bash
  * blocks whose comment lines start with "# ", e.g.
  *     # Typecheck everything (src/, tina/, scripts/*.mjs)
  * Without stripping, that becomes the document title.

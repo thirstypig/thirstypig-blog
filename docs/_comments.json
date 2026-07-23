@@ -15,10 +15,15 @@
       "id": "C-012",
       "doc": "DOC-016",
       "kind": "change_request",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T15:40:00Z",
-      "body": "THREE changelogs now exist and none are linked: src/pages/changelog.astro (public, 209 lines hardcoded HTML), tina/AdminDocs.tsx:588 ChangelogSection (admin, hardcoded JSX), and docs/under-the-hood/changelog.md (new). I deliberately left the new one EMPTY rather than copy history into a third place that will drift. Decide which is the single source of truth before populating anything."
+      "body": "THREE changelogs now exist and none are linked: src/pages/changelog.astro (public, 209 lines hardcoded HTML), tina/AdminDocs.tsx:588 ChangelogSection (admin, hardcoded JSX), and docs/under-the-hood/changelog.md (new). I deliberately left the new one EMPTY rather than copy history into a third place that will drift. Decide which is the single source of truth before populating anything.",
+      "resolution": {
+        "note": "Resolved: docs/under-the-hood/changelog.md is now CANONICAL, populated from the former hardcoded content of src/pages/changelog.astro (8 month-sections, 2008-2026). The public /changelog page still hardcodes its own copy — rewiring it to render from the markdown is tracked as TD-013 (markdown-lite.ts renderer already exists for it).",
+        "link": "DOC-016",
+        "resolved_at": "2026-07-23T16:45:00Z"
+      }
     },
     {
       "id": "C-013",
@@ -38,10 +43,15 @@
       "id": "C-001",
       "doc": "DOC-010",
       "kind": "change_request",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:05:00Z",
-      "body": "docs/testing.md (311 lines) should probably move to docs/engineering/testing-strategy.md so the board indexes one testing doc instead of two. Not done — a file move needs explicit approval. Decide: move it, or keep DOC-010 as a pointer permanently."
+      "body": "docs/testing.md (311 lines) should probably move to docs/engineering/testing-strategy.md so the board indexes one testing doc instead of two. Not done — a file move needs explicit approval. Decide: move it, or keep DOC-010 as a pointer permanently.",
+      "resolution": {
+        "note": "Moved. docs/testing.md (311 lines) merged into engineering/testing-strategy.md (DOC-010) as the spine, with the ugly-cases table + docs-system-tests section retained and the two new test files (doc-index, markdown-lite) added to the coverage list. Standalone testing.md deleted (git rm). Stale references in doc-index.ts / CLAUDE.md / README-DOCS.md repointed to testing-strategy.md.",
+        "link": "DOC-010",
+        "resolved_at": "2026-07-23T16:45:00Z"
+      }
     },
     {
       "id": "C-002",

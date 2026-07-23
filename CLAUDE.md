@@ -104,7 +104,7 @@ updated: "2026-07-23"  # QUOTED — bare dates become Date objects in YAML 1.1
 
 `venue-tags` · `instagram` · `photo-import` · `content-pipeline` · `admin` · `hitlist` · `seo` · `ads-consent` · `post-layout` · `taxonomy` · `images` · `build-deploy` · `docs-system`
 
-**Titles come from the first `# H1`, not the filename** — and code fences must be stripped before matching, or a `#` bash comment becomes the title. `docs/testing.md` and `README.md` both contain this trap.
+**Titles come from the first `# H1`, not the filename** — and code fences must be stripped before matching, or a `#` bash comment becomes the title. `docs/engineering/testing-strategy.md` and `README.md` both contain this trap.
 
 **"Done" is a status, never a folder move.** Moving files breaks `links`.
 
