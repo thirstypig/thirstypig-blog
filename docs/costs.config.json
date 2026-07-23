@@ -1,0 +1,47 @@
+{
+  "_readme": "Inputs for docs/under-the-hood/costs.md. Edit THIS file, then run `npm run docs:refresh`. Never hand-edit costs.md — it is overwritten.",
+
+  "_departures_from_spec": {
+    "why": "The specified shape modelled a per-user SaaS (planPriceUsd, unitsPerUserPerMonth, perUserMonthAuth, perUserMonthDb, payment fees, revenue = users x plan). This project has no users, no plan, no auth provider, no database, and takes no payments — see ADR-001. Filling that shape honestly would produce a table of zeros in every column.",
+    "kept": "The three top-level keys (assumptions, unitCosts, tiers), the rule that assumptions print above the table, and the VERIFY convention so no guess is ever shown as fact.",
+    "changed": "Tiers are monthly PAGEVIEW levels, not user counts. Revenue is AdSense (RPM-based), not subscription. The main variable cost is Google Places API calls, not per-user infra.",
+    "dropped": "perUserMonthAuth, perUserMonthDb, paymentPctFee, paymentFlatFee — no auth provider, no DB, no payment processor exists. Re-add them if that ever changes."
+  },
+
+  "assumptions": {
+    "unitLabel": "pageviews",
+    "monthlyPageviews": 0,
+    "adImpressionsPerPageview": 3,
+    "unitSizeLabel": "Google Places API calls",
+    "placesApiCallsPerMonth": 0,
+    "deployMinutesPerBuild": 10,
+    "buildsPerMonth": 0
+  },
+
+  "unitCosts": {
+    "adsenseRpmUsd": 0,
+    "placesApiPerCall": 0,
+    "hostingFlatMonth": 0,
+    "domainPerMonth": 0
+  },
+
+  "tiers": [1000, 10000, 100000],
+
+  "verify": [
+    "monthlyPageviews",
+    "placesApiCallsPerMonth",
+    "buildsPerMonth",
+    "adsenseRpmUsd",
+    "placesApiPerCall",
+    "hostingFlatMonth",
+    "domainPerMonth"
+  ],
+
+  "_notes": {
+    "adImpressionsPerPageview": "3 consent-gated AdSense slots per post (top, in-article, bottom). This is a CONFIRMED count from the code, not a guess — but actual impressions are lower, since ads only load after opt-in.",
+    "deployMinutesPerBuild": "~10 min, driven by 722 MB of committed WebP images. Confirmed in project docs. Not a direct dollar cost on all plans, but it is the real constraint on iteration speed.",
+    "adsenseRpmUsd": "Revenue per 1,000 pageviews. AdSense account was IN REVIEW as of 2026-06; if it never approved, revenue is 0 and should stay 0.",
+    "hostingFlatMonth": "Vercel. UNKNOWN whether this project is on Hobby (free) or Pro. Check the Vercel dashboard.",
+    "placesApiPerCall": "Google Places pricing changes and is tier-dependent with a monthly free allowance. Do not fill this from memory — read the current pricing page and the actual GCP bill."
+  }
+}
