@@ -42,13 +42,13 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2267 | 93,110 |
+| Markdown | 2267 | 93,112 |
 | JSON | 778 | 64,038 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,266 |
 | TypeScript (React) | 10 | 5,925 |
 | TypeScript | 50 | 4,472 |
-| Astro | 37 | 3,889 |
+| Astro | 37 | 3,739 |
 | JavaScript (ESM) | 10 | 1,440 |
 | CSS | 4 | 404 |
 | JavaScript | 22 | 102 |

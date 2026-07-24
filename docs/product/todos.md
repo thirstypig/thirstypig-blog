@@ -39,7 +39,7 @@ you're doing work nobody asked for.
 | **TD-010** | Default `og:image` for the 38 heroless posts | — | SEO P2. Mostly 2009 closed-venue text posts that are genuinely imageless. |
 | **TD-011** | Backfill frontmatter on the 15 docs that have none | RM-006 | They are invisible to the board until they have it. See DOC-001 §4. |
 | **TD-012** | Decide: commit or gitignore `posts-audit.csv` + `venue-tags-todo.csv` | RM-006 | Both are untracked pipeline inputs sitting in the repo root. Same `/tmp` lesson as TD-001 — pipeline memory shouldn't live somewhere disposable. |
-| **TD-013** | Wire the public `/changelog` page to render from `docs/under-the-hood/changelog.md` | RM-006 | `changelog.md` is now canonical (C-012), but `src/pages/changelog.astro` still hardcodes its own HTML copy. Until rewired, the two drift. Fix: have `changelog.astro` read the markdown and render it (the `markdown-lite.ts` renderer already exists). Then delete the hardcoded HTML. |
+| ~~**TD-013**~~ | ~~Wire the public `/changelog` to render from `changelog.md`~~ | RM-006 | ✅ **Done 2026-07-24.** `changelog.astro` went 209 → 59 lines; it now reads `docs/under-the-hood/changelog.md`, slices at the `<!-- PUBLIC:START -->` marker, and renders via `markdown-lite`. Build throws if the marker is missing or fewer than 5 sections are found. One copy, no drift. |
 
 <!-- Prompt-to-self: if an item sits here more than a couple of months untouched, it's -->
 <!-- not actually a to-do. Move it to roadmap.md or delete it. -->

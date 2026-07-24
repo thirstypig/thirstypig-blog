@@ -11,14 +11,16 @@ updated: "2026-07-23"
 
 # Changelog
 
-What shipped, and when. **This is now the canonical changelog** (C-012 decision,
-2026-07-23) — populated from the former hardcoded content of `src/pages/changelog.astro`.
+What shipped, and when. **This is the canonical changelog** (C-012) — and since TD-013
+(2026-07-24) the public `/changelog` page renders *directly from this file*. There is
+exactly one copy. Edit here; the site picks it up on the next build.
 
-> **Follow-up (TD-013):** the public `/changelog` page still renders its own hardcoded
-> HTML copy. Until it's rewired to render *from* this file, the two must be kept in sync
-> by hand. The rewire is the driftless end state — see the to-do.
+Newest first. New entries go at the top, just below the marker.
 
-Newest first. New entries go at the top.
+<!-- PUBLIC:START -->
+<!-- ⚠️ Everything BELOW this marker renders on the PUBLIC /changelog page, via
+     src/pages/changelog.astro. Everything above it is internal-only and never ships.
+     Do not remove this marker — the build throws if it's missing. -->
 
 ## June 2026 — Consent-Gated Analytics & Ads
 
