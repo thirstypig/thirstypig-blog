@@ -107,7 +107,7 @@ place; changing that flow means re-checking all four.
 | Option | Why not |
 |---|---|
 | SSR + database | Reintroduces a server, a bill, and a backup story for a site whose content is already a git repo. **[inferred]** |
-| Serverless function to proxy writes | Would hide the PAT server-side — a genuine security win — but adds a deployment target and a secret to manage. **[unknown]** whether this was ever weighed. |
+| Serverless function to proxy writes | Would hide the PAT server-side — a genuine security win — but adds a deployment target and a secret to manage. **[confirmed]** (James, 2026-07-23, C-005) — **not a deliberately-weighed decision.** James doesn't recall evaluating it; the static-only path was taken directly. So this is an option that *could* revisit RISK-003, not one that was considered and rejected. |
 | Tina Cloud for content writes | In use for post editing; the two list managers bypass it. **[unknown]** — why? Possibly schema fit, possibly cost. |
 
 ## Revisit if

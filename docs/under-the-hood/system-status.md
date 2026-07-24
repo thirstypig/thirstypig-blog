@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [build-deploy, admin]
 links: [DOC-001]
-updated: "2026-07-23"
+updated: "2026-07-24"
 ---
 
 <!-- GENERATED FILE — do not hand-edit.
@@ -22,7 +22,7 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `aa51fd85` |
+| Commit | `1bdf6efe` |
 | Date | 2026-07-23 |
 | Branch | `feat/docs-board` |
 

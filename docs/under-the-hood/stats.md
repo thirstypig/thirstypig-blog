@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [docs-system]
 links: [DOC-001]
-updated: "2026-07-23"
+updated: "2026-07-24"
 ---
 
 <!-- GENERATED FILE — do not hand-edit.
@@ -19,7 +19,7 @@ updated: "2026-07-23"
 > features and phases shipped, not lines written.** A refactor that deletes 2,000
 > lines is progress. Read the content and docs counts below as the meaningful ones.
 
-Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
+Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 
 ## Content
 
@@ -42,8 +42,8 @@ Generated 2026-07-23 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2267 | 93,134 |
-| JSON | 778 | 64,018 |
+| Markdown | 2267 | 93,110 |
+| JSON | 778 | 64,038 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,266 |
 | TypeScript (React) | 10 | 5,925 |

@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [docs-system]
 links: [DOC-001]
-updated: "2026-07-23"
+updated: "2026-07-24"
 ---
 
 <!-- GENERATED FILE — do not hand-edit.
@@ -15,52 +15,24 @@ updated: "2026-07-23"
 
 # Inbox
 
-**4 open** · 9 resolved. Change requests first, then questions, then notes — newest first within each group.
+**0 open** · 13 resolved. Change requests first, then questions, then notes — newest first within each group.
 
 Read this at the start of a session. Act on change requests, answer questions, then write a resolution (note + link) so the item clears. A resolution without a link is indistinguishable from having ignored it.
 
 ---
 
-## Change requests (1)
-
-*Something is wrong or missing. These imply work.*
-
-### C-002 — on `DOC-005`
-
-The roadmap ranking (RM-001 through RM-005) is [inferred] from the project profile, not stated by James. Needs correcting to reflect actual priority.
-
-<sub>claude · 2026-07-23</sub>
+✅ **Inbox zero.** Nothing open.
 
 ---
 
-## Questions (3)
-
-*Needs an answer — and the answer belongs in the doc, not just in a reply.*
-
-### C-003 — on `PRD-001`
-
-What venue-tag coverage counts as 'done'? Currently 1,022/2,127 posts (48.0%). Nothing in 34 commits or the README states a target, so the PRD records this as [unknown] rather than inventing a number.
-
-<sub>claude · 2026-07-23</sub>
-
-### C-004 — on `PRD-001`
-
-Was tastemakers-ios the primary driver for venue tags, or thirstypig.com? The README names both consumers in one sentence, so the ordering is genuinely ambiguous from the code.
-
-<sub>claude · 2026-07-23</sub>
-
-### C-005 — on `ADR-001`
-
-Was a serverless write-proxy ever weighed as an alternative to holding the PAT in sessionStorage? It would move the token server-side. Also: why do HitListManager and BucketListManager bypass Tina Cloud when post editing uses it?
-
-<sub>claude · 2026-07-23</sub>
-
----
-
-## Recently resolved (9)
+## Recently resolved (13)
 
 | ID | Doc | Resolution | Link | When |
 |---|---|---|---|---|
+| C-002 | `DOC-005` | James reviewed; no strong priority preference right now. The [inferred] ranking in roadmap.md (RM-001 venue tags, then RM-004 photo import, RM-002 redesign, RM-003 comments, RM-005 cross-site) stands as the working default. Consciously deferred, not ignored — revisit if priorities firm up. | `DOC-005` | 2026-07-23 |
+| C-003 | `PRD-001` | James: no numeric done-target. Venue tags are not considered finished, and there is no threshold to hit; 48% is simply the current state of ongoing enrichment. Coverage is a progress signal, not a goal. PRD-001 §5a and the open-questions checklist updated. | `PRD-001` | 2026-07-23 |
+| C-004 | `PRD-001` | James: tastemakers-ios was the DRIVER, not thirstypig.com. The blog consuming the chips is the secondary benefit. PRD-001 §1 and §2 rewritten to reframe thirstypig as a consumer of a capability built for the iOS app — which explains the public/ + CORS shape. | `PRD-001` | 2026-07-23 |
+| C-005 | `ADR-001` | James not sure a serverless write-proxy was ever weighed — so it was NOT a deliberately-considered-and-rejected alternative; the static-only path was taken directly. ADR-001 alternatives table updated. It remains an option that could revisit RISK-003 (PAT in sessionStorage), not a closed question. | `ADR-001` | 2026-07-23 |
 | C-012 | `DOC-016` | Resolved: docs/under-the-hood/changelog.md is now CANONICAL, populated from the former hardcoded content of src/pages/changelog.astro (8 month-sections, 2008-2026). The public /changelog page still hardcodes its own copy — rewiring it to render from the markdown is tracked as TD-013 (markdown-lite.ts renderer already exists for it). | `DOC-016` | 2026-07-23 |
 | C-001 | `DOC-010` | Moved. docs/testing.md (311 lines) merged into engineering/testing-strategy.md (DOC-010) as the spine, with the ugly-cases table + docs-system-tests section retained and the two new test files (doc-index, markdown-lite) added to the coverage list. Standalone testing.md deleted (git rm). Stale references in doc-index.ts / CLAUDE.md / README-DOCS.md repointed to testing-strategy.md. | `DOC-010` | 2026-07-23 |
 | C-013 | `DOC-005` | Investigated from code + git. The homepage Bold Red Poster SHIPPED (PR #72 merged a0414443; index.astro uses bg-poster-red + font-poster-display + redpig hero; nav renamed in #79). Roadmap RM-002 corrected from unstarted to: homepage done, site-wide rollout pending, dark-mode poster theme deferred. Remaining scope needs james to define. | `DOC-005` | 2026-07-23 |

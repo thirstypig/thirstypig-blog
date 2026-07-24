@@ -57,37 +57,57 @@
       "id": "C-002",
       "doc": "DOC-005",
       "kind": "change_request",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:04:00Z",
-      "body": "The roadmap ranking (RM-001 through RM-005) is [inferred] from the project profile, not stated by James. Needs correcting to reflect actual priority."
+      "body": "The roadmap ranking (RM-001 through RM-005) is [inferred] from the project profile, not stated by James. Needs correcting to reflect actual priority.",
+      "resolution": {
+        "note": "James reviewed; no strong priority preference right now. The [inferred] ranking in roadmap.md (RM-001 venue tags, then RM-004 photo import, RM-002 redesign, RM-003 comments, RM-005 cross-site) stands as the working default. Consciously deferred, not ignored — revisit if priorities firm up.",
+        "link": "DOC-005",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
     },
     {
       "id": "C-003",
       "doc": "PRD-001",
       "kind": "question",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:03:00Z",
-      "body": "What venue-tag coverage counts as 'done'? Currently 1,022/2,127 posts (48.0%). Nothing in 34 commits or the README states a target, so the PRD records this as [unknown] rather than inventing a number."
+      "body": "What venue-tag coverage counts as 'done'? Currently 1,022/2,127 posts (48.0%). Nothing in 34 commits or the README states a target, so the PRD records this as [unknown] rather than inventing a number.",
+      "resolution": {
+        "note": "James: no numeric done-target. Venue tags are not considered finished, and there is no threshold to hit; 48% is simply the current state of ongoing enrichment. Coverage is a progress signal, not a goal. PRD-001 §5a and the open-questions checklist updated.",
+        "link": "PRD-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
     },
     {
       "id": "C-004",
       "doc": "PRD-001",
       "kind": "question",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:03:00Z",
-      "body": "Was tastemakers-ios the primary driver for venue tags, or thirstypig.com? The README names both consumers in one sentence, so the ordering is genuinely ambiguous from the code."
+      "body": "Was tastemakers-ios the primary driver for venue tags, or thirstypig.com? The README names both consumers in one sentence, so the ordering is genuinely ambiguous from the code.",
+      "resolution": {
+        "note": "James: tastemakers-ios was the DRIVER, not thirstypig.com. The blog consuming the chips is the secondary benefit. PRD-001 §1 and §2 rewritten to reframe thirstypig as a consumer of a capability built for the iOS app — which explains the public/ + CORS shape.",
+        "link": "PRD-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
     },
     {
       "id": "C-005",
       "doc": "ADR-001",
       "kind": "question",
-      "status": "open",
+      "status": "resolved",
       "author": "claude",
       "created": "2026-07-23T14:02:00Z",
-      "body": "Was a serverless write-proxy ever weighed as an alternative to holding the PAT in sessionStorage? It would move the token server-side. Also: why do HitListManager and BucketListManager bypass Tina Cloud when post editing uses it?"
+      "body": "Was a serverless write-proxy ever weighed as an alternative to holding the PAT in sessionStorage? It would move the token server-side. Also: why do HitListManager and BucketListManager bypass Tina Cloud when post editing uses it?",
+      "resolution": {
+        "note": "James not sure a serverless write-proxy was ever weighed — so it was NOT a deliberately-considered-and-rejected alternative; the static-only path was taken directly. ADR-001 alternatives table updated. It remains an option that could revisit RISK-003 (PAT in sessionStorage), not a closed question.",
+        "link": "ADR-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
     },
     {
       "id": "C-006",

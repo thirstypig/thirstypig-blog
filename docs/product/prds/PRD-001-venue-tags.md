@@ -31,19 +31,21 @@ whether it's still worth going. The post is a diary entry, not a recommendation.
 The archive is large (2,127 posts) and old (2007–present), so hand-writing a "known for"
 line per venue is not feasible. **[inferred]**
 
-**[unknown]** — Was this reader-facing from the start, or was the original motive to feed
-`tastemakers-ios`? The README names both consumers in the same sentence, which makes the
-ordering genuinely ambiguous.
+**[confirmed]** (James, 2026-07-23, C-004) — **`tastemakers-ios` was the driver**, not
+thirstypig.com. The chips existing on the blog is the secondary benefit; the feature was
+built to feed the iOS app. That reframes the whole PRD: thirstypig.com is a *consumer* of
+a capability built for another product, which is why it publishes to `public/` over CORS
+rather than to an internal data dir.
 
 ## 2. Strategic rationale
 <!-- Prompt-to-self: why now, why worth it? Tie to the core value of the project. -->
 
-**[intended]** — Cross-product reuse was designed in from day one, not retrofitted. The
-README's opening paragraph states the output is "consumable by **both** thirstypig.com
-(via per-venue files served from `/public/venue-tags/`) **and** tastemakers-ios (via the
-same URLs over CORS)." Publishing to `public/` rather than an internal data dir is a
-deliberate cost paid for that second consumer — an internal-only feature would not have
-been shaped this way.
+**[confirmed]** — Cross-product reuse wasn't just designed in, it was the **point**. The
+driver was tastemakers-ios (§1); thirstypig.com reuses the same per-venue JSON over CORS.
+The README states the output is "consumable by **both** thirstypig.com (via per-venue files
+served from `/public/venue-tags/`) **and** tastemakers-ios (via the same URLs over CORS)."
+Publishing to `public/` rather than an internal data dir is the deliberate cost paid for
+that cross-product design — an internal-only blog feature would not have been shaped this way.
 
 **[inferred]** — It fits the project's static-only constraint: chips are scraped offline,
 committed as JSON, and read at build time. No runtime API call, no server, no key exposed
@@ -73,8 +75,10 @@ rather than relying on one visit from years ago.
 ### (a) What the metric *should* be
 <!-- Prompt-to-self: the bet you'd have made. A number and a direction. -->
 
-**[inferred]** — Coverage: share of venue posts showing chips. **[unknown]** — the target.
-There is no stated goal anywhere in the repo, so any number here would be invented.
+**[confirmed]** (James, 2026-07-23, C-003) — **There is no numeric "done" target.** It's
+not considered finished, and 48% is where it stands — ongoing enrichment, not a milestone
+to hit. So coverage is a *progress* signal, not a goal with a threshold. Don't treat 48%
+as a failure against some target; there is no target.
 
 **[unknown]** — Was there ever an engagement bet (chips → more clicks, longer dwell), or
 was coverage always the only goal?
@@ -184,8 +188,8 @@ build. **Worth adding.**
 
 ## Open questions for James
 
-- [ ] Was `tastemakers-ios` the primary driver, or thirstypig.com? (§1, §2)
-- [ ] What coverage % counts as "done"? Is 48% a failure or roughly expected? (§5a)
+- [x] ~~Was `tastemakers-ios` the primary driver, or thirstypig.com?~~ **Answered (2026-07-23): tastemakers-ios was the driver.** (§1, §2)
+- [x] ~~What coverage % counts as "done"?~~ **Answered: no numeric target; ongoing, not "done"; 48% stands.** (§5a)
 - [ ] Should chips ever be re-scraped, and on what trigger? (A2, §9.5)
 - [ ] Is the untested `venue-tags.ts` loader an accepted risk? (§8)
 - [ ] Do the ~96 Shanghai venues actually render useful chips, given thin coverage? (A3)
