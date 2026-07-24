@@ -8,6 +8,8 @@
   "scripts": {
     "dev": "tinacms dev -c \"astro dev\"",
     "validate:hitlist": "node scripts/validate_hitlist.mjs",
+    "docs:refresh": "node scripts/refresh-docs.mjs",
+    "docs:check": "node scripts/refresh-docs.mjs --check && node scripts/sync-inbox.mjs --check",
     "build": "npm run validate:hitlist && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
     "preview": "astro preview",
     "astro": "astro",
@@ -44,8 +46,10 @@
     "@astrojs/check": "^0.9.8",
     "@playwright/test": "^1.59.1",
     "@types/google.maps": "^3.64.0",
+    "@types/js-yaml": "^4.0.9",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "js-yaml": "^4.3.0",
     "typescript": "^5.9.3",
     "vitest": "^4.1.4"
   }

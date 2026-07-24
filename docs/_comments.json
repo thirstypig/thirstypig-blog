@@ -1,0 +1,197 @@
+{
+  "_readme": "Comment store for the docs board. Read by scripts/sync-inbox.mjs, which regenerates docs/INBOX.md. Hand-editable today; see the TODO in sync-inbox.mjs for the intended write path. Schema is documented in docs/README-DOCS.md section 9.",
+  "_schema": {
+    "id": "C-### — stable, never reused",
+    "doc": "a doc ID (PRD-001, ADR-001, DOC-007), not a file path",
+    "kind": "question | change_request | note",
+    "status": "open | in_review | resolved",
+    "author": "name",
+    "created": "ISO 8601",
+    "body": "free text",
+    "resolution": "{ note, link, resolved_at } — REQUIRED when status is resolved"
+  },
+  "comments": [
+    {
+      "id": "C-012",
+      "doc": "DOC-016",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T15:40:00Z",
+      "body": "THREE changelogs now exist and none are linked: src/pages/changelog.astro (public, 209 lines hardcoded HTML), tina/AdminDocs.tsx:588 ChangelogSection (admin, hardcoded JSX), and docs/under-the-hood/changelog.md (new). I deliberately left the new one EMPTY rather than copy history into a third place that will drift. Decide which is the single source of truth before populating anything.",
+      "resolution": {
+        "note": "Resolved: docs/under-the-hood/changelog.md is now CANONICAL, populated from the former hardcoded content of src/pages/changelog.astro (8 month-sections, 2008-2026). The public /changelog page still hardcodes its own copy — rewiring it to render from the markdown is tracked as TD-013 (markdown-lite.ts renderer already exists for it).",
+        "link": "DOC-016",
+        "resolved_at": "2026-07-23T16:45:00Z"
+      }
+    },
+    {
+      "id": "C-013",
+      "doc": "DOC-005",
+      "kind": "question",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T15:41:00Z",
+      "body": "Is the Bold Red Poster redesign shipped or planned? CLAUDE.md lists it as upcoming work, but src/pages/changelog.astro describes \"Homepage rebuild as the Bold Red Poster\" as DELIVERED in PR #72 — full-bleed red hero, Archivo Black display heading, city picker, light mode only with dark mode deferred. Both can be true (homepage shipped, rest of site not), but roadmap RM-002 currently says unstarted. Needs correcting either way.",
+      "resolution": {
+        "note": "Investigated from code + git. The homepage Bold Red Poster SHIPPED (PR #72 merged a0414443; index.astro uses bg-poster-red + font-poster-display + redpig hero; nav renamed in #79). Roadmap RM-002 corrected from unstarted to: homepage done, site-wide rollout pending, dark-mode poster theme deferred. Remaining scope needs james to define.",
+        "link": "DOC-005",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-001",
+      "doc": "DOC-010",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:05:00Z",
+      "body": "docs/testing.md (311 lines) should probably move to docs/engineering/testing-strategy.md so the board indexes one testing doc instead of two. Not done — a file move needs explicit approval. Decide: move it, or keep DOC-010 as a pointer permanently.",
+      "resolution": {
+        "note": "Moved. docs/testing.md (311 lines) merged into engineering/testing-strategy.md (DOC-010) as the spine, with the ugly-cases table + docs-system-tests section retained and the two new test files (doc-index, markdown-lite) added to the coverage list. Standalone testing.md deleted (git rm). Stale references in doc-index.ts / CLAUDE.md / README-DOCS.md repointed to testing-strategy.md.",
+        "link": "DOC-010",
+        "resolved_at": "2026-07-23T16:45:00Z"
+      }
+    },
+    {
+      "id": "C-002",
+      "doc": "DOC-005",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:04:00Z",
+      "body": "The roadmap ranking (RM-001 through RM-005) is [inferred] from the project profile, not stated by James. Needs correcting to reflect actual priority.",
+      "resolution": {
+        "note": "James reviewed; no strong priority preference right now. The [inferred] ranking in roadmap.md (RM-001 venue tags, then RM-004 photo import, RM-002 redesign, RM-003 comments, RM-005 cross-site) stands as the working default. Consciously deferred, not ignored — revisit if priorities firm up.",
+        "link": "DOC-005",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
+    },
+    {
+      "id": "C-003",
+      "doc": "PRD-001",
+      "kind": "question",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:03:00Z",
+      "body": "What venue-tag coverage counts as 'done'? Currently 1,022/2,127 posts (48.0%). Nothing in 34 commits or the README states a target, so the PRD records this as [unknown] rather than inventing a number.",
+      "resolution": {
+        "note": "James: no numeric done-target. Venue tags are not considered finished, and there is no threshold to hit; 48% is simply the current state of ongoing enrichment. Coverage is a progress signal, not a goal. PRD-001 §5a and the open-questions checklist updated.",
+        "link": "PRD-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
+    },
+    {
+      "id": "C-004",
+      "doc": "PRD-001",
+      "kind": "question",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:03:00Z",
+      "body": "Was tastemakers-ios the primary driver for venue tags, or thirstypig.com? The README names both consumers in one sentence, so the ordering is genuinely ambiguous from the code.",
+      "resolution": {
+        "note": "James: tastemakers-ios was the DRIVER, not thirstypig.com. The blog consuming the chips is the secondary benefit. PRD-001 §1 and §2 rewritten to reframe thirstypig as a consumer of a capability built for the iOS app — which explains the public/ + CORS shape.",
+        "link": "PRD-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
+    },
+    {
+      "id": "C-005",
+      "doc": "ADR-001",
+      "kind": "question",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:02:00Z",
+      "body": "Was a serverless write-proxy ever weighed as an alternative to holding the PAT in sessionStorage? It would move the token server-side. Also: why do HitListManager and BucketListManager bypass Tina Cloud when post editing uses it?",
+      "resolution": {
+        "note": "James not sure a serverless write-proxy was ever weighed — so it was NOT a deliberately-considered-and-rejected alternative; the static-only path was taken directly. ADR-001 alternatives table updated. It remains an option that could revisit RISK-003 (PAT in sessionStorage), not a closed question.",
+        "link": "ADR-001",
+        "resolved_at": "2026-07-23T17:10:00Z"
+      }
+    },
+    {
+      "id": "C-006",
+      "doc": "ADR-001",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:02:00Z",
+      "body": "The /admin CSP allows script-src 'unsafe-inline', which weakens it against the exact attack (XSS) that would read the PAT from sessionStorage. Determine whether removing it is possible or whether TinaCMS requires it. Low severity given single-user + scoped token, but it should be a known decision rather than an inherited default.",
+      "resolution": {
+        "note": "TinaCMS generated /admin/index.html uses inline <script type=module>, so script-src unsafe-inline is REQUIRED, not an oversight. Removing it breaks the admin. Residual risk is bounded by the rest of the CSP (frame-ancestors none, connect-src allowlist), noindex, and single admin user. Recorded as a known tradeoff of the TinaCMS + static setup.",
+        "link": "ADR-001",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-007",
+      "doc": "DOC-008",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:01:00Z",
+      "body": "Audit what /posts-admin.json, /data-quality.json, /tests-admin.json and /stats.json actually expose. They are publicly fetchable (noindex is obscurity, not access control). If any leak draft titles or unpublished slugs, that warrants a RISK- entry.",
+      "resolution": {
+        "note": "Audited all four endpoints. CONFIRMED: /posts-admin.json exposes title/slug/location/city/draft for all 441 drafts; /data-quality.json exposes suspect slug+title; /tests-admin.json and /stats.json are safe (descriptions / draft-filtered). Documented in RISK-007 with accept/mitigate options. Inherent to the static + public-JSON + admin design.",
+        "link": "RISK-007",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-008",
+      "doc": "DOC-001",
+      "kind": "question",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T13:30:00Z",
+      "body": "Confirm the 5 added type values (solution, guide, plan, brainstorm, audit) and the 13 module tags. Both were proposed, not approved — 33 existing docs cannot be classified without the added types.",
+      "resolution": {
+        "note": "Confirmed as-is. The 5 added type values (solution/guide/plan/brainstorm/audit) and the 13 module tags are grounded in the real repo and the board renders 59 docs correctly grouped by them. content-pipeline remains a bag of loose scripts (soft spot, honest as-is). Any tag can still be cut in DOC-001 section 5.",
+        "link": "DOC-001",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-009",
+      "doc": "DOC-011",
+      "kind": "note",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T14:06:00Z",
+      "body": "Project memory (project_post_layout_2026) says ImageGallery.astro 'still exists but is no longer imported'. It has since been deleted from disk with zero references. The memory entry is stale and worth correcting.",
+      "resolution": {
+        "note": "Memory corrected: project_post_layout_2026 now states ImageGallery.astro was deleted (was: exists but unimported). New project_docs_board memory added; MEMORY.md index updated.",
+        "link": "DOC-011",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-011",
+      "doc": "DOC-001",
+      "kind": "change_request",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T15:10:00Z",
+      "body": "docs/solutions/ui-bugs/astro-named-slot-misplacement-hero-and-gallery-layout.md has INVALID YAML frontmatter and cannot be parsed by js-yaml OR PyYAML. Line 20 is: `  - \"You might also enjoy\" section appeared between caption text and hero image` — the value opens with a double quote, so YAML reads a quoted scalar and then chokes on the trailing unquoted text. Fix (verified to parse): wrap the whole value in single quotes. NOT APPLIED — needs approval to edit an existing doc. This blocks TD-011, since the file can't be migrated to the new frontmatter convention while it's unparseable.",
+      "resolution": {
+        "note": "Applied the single-quote wrap to the offending symptoms entry. Now parses cleanly in BOTH js-yaml and PyYAML (verified). Unblocks migrating this file to the frontmatter convention (TD-011). Change is on branch feat/docs-board, pending its follow-up commit.",
+        "link": "DOC-010",
+        "resolved_at": "2026-07-23T16:20:00Z"
+      }
+    },
+    {
+      "id": "C-010",
+      "doc": "DOC-006",
+      "kind": "note",
+      "status": "resolved",
+      "author": "claude",
+      "created": "2026-07-23T13:55:00Z",
+      "body": "The photo-import backlog referenced /tmp/photo-matches.csv as its source of record for 444 pending decisions. /tmp is purged on reboot and the file dates from 2026-06-09.",
+      "resolution": {
+        "note": "Captured as TD-001 with a time-sensitive flag, and TD-006/007/008 marked as blocked on it. Also recorded as a general lesson in testing-strategy ugly-case U1.",
+        "link": "DOC-006",
+        "resolved_at": "2026-07-23T14:00:00Z"
+      }
+    }
+  ]
+}

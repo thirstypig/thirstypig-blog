@@ -3,7 +3,7 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,686 posts live at thirstypig.com** (502 Wayback + 1,184 IG published; 441 drafts pending). Venue tags: 766 JSONs published, ~1,022 posts tagged, 814 venues in venues.yaml, ~664 posts still untagged. Test suite: 178 pytest + 105 Vitest = **283 tests**. Recent work: SSD photo import (49 posts published with ~930 photos, HIGH-confidence date+city matching), admin image previews with lazy loading + security guard (`isSafeSrc` in `src/utils/image-validation.ts`), venue tags batch (+28 venues). Next up: keep extending venue tags (use `curate_candidates.py --min-posts 1`), then roll out the Bold Red Poster redesign.
+My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,686 posts live at thirstypig.com** (2,127 .md on disk; 441 drafts pending). Venue tags: 766 JSONs published, 1,022 posts tagged, 814 venues in venues.yaml (48 catalogued-but-unpublished), ~1,105 posts still untagged. Test suite: 178 pytest + 187 Vitest = **365 tests** + E2E. Recent work (2026-07-23/24, PR #136, unmerged): **docs board** — `/admin → Docs` rewritten from 867 lines of hardcoded JSX into a markdown-driven viewer that auto-walks `docs/` and reads frontmatter (see `docs/README-DOCS.md`, DOC-001); retroactive PRD-001 + ADR-001; comment-inbox loop; `npm run docs:refresh` generators; public `/changelog` now renders from the canonical markdown. Next up: merge #136, then keep extending venue tags (`curate_candidates.py --min-posts 1`). **Note:** the Bold Red Poster *homepage* already shipped (PR #72) — what remains is the site-wide rollout (RM-002).
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
@@ -73,3 +73,69 @@ When you notice a pattern, preference, decision, or piece of context that should
 - **Desktop top nav: Posts + Cities only.** Everything else (Map, Tags, Cuisine, Hit List, About) lives in the footer nav and the mobile hamburger. Changed 2026-06-04.
 
 **TONE:** Direct and decision-oriented. No padding. When there's a choice to make, name the tradeoff and give a recommendation — don't present a neutral menu.
+
+---
+
+## Docs system
+
+Docs under `docs/` are an indexed knowledge base, not loose notes. **Full spec: `docs/README-DOCS.md` (DOC-001)** — read it before changing the convention. The essentials:
+
+**Every authored doc opens with this frontmatter.** No frontmatter → invisible to the board.
+
+```yaml
+---
+id: PRD-001          # stable, never reused
+type: prd            # prd|adr|tech-spec|api-docs|decision-log|testing|component-lib|
+                     #   launch-spec|intake-rules|glossary|roadmap|todos|changelog|risk|
+                     #   experiment|privacy|runbook|stats|costs|status|solution|guide|
+                     #   plan|brainstorm|audit
+status: draft        # draft | active | locked | done | deprecated
+phase: null
+owner: james
+tags: [venue-tags]   # module tags ONLY, from the fixed list below
+links: [ADR-001]     # related doc IDs — never file paths
+updated: "2026-07-23"  # QUOTED — bare dates become Date objects in YAML 1.1
+---
+```
+
+**ID scheme:** `PRD-###` (product) · `ADR-###` (big, costly-to-reverse decisions; small ones go in `decision-log.md`) · `DOC-###` (everything else) · `RISK-###` / `EXP-###` / `RM-###` / `TD-###` (rows inside a file, not separate files).
+
+**Tags are feature-module names, fixed at 13. Never invent one** — a new tag means a new module, added to DOC-001 §5 in the same commit:
+
+`venue-tags` · `instagram` · `photo-import` · `content-pipeline` · `admin` · `hitlist` · `seo` · `ads-consent` · `post-layout` · `taxonomy` · `images` · `build-deploy` · `docs-system`
+
+**Titles come from the first `# H1`, not the filename** — and code fences must be stripped before matching, or a `#` bash comment becomes the title. `docs/engineering/testing-strategy.md` and `README.md` both contain this trap.
+
+**"Done" is a status, never a folder move.** Moving files breaks `links`.
+
+### Session ritual — read the inbox
+
+**At the start of a session, read `docs/INBOX.md`.** Act on `change_request` items, answer `question` items, then write a resolution (`status: resolved` + a note **and** a link — a commit SHA or doc ID) so the item clears. A resolution without a link is indistinguishable from having ignored it. Comments live in `docs/_comments.json`.
+
+### Commands
+
+```bash
+npm run docs:refresh   # regenerate stats/costs/system-status + README & CLAUDE.md snippet
+npm run docs:check     # exit 1 if any generated doc is stale
+node scripts/sync-inbox.mjs   # rebuild docs/INBOX.md from _comments.json
+```
+
+**Run `docs:refresh` before every push.** Generated files (`stats.md`, `costs.md`, `system-status.md`, `INBOX.md`) are overwritten — hand edits are lost silently. Edit `docs/costs.config.json` for cost inputs, never `costs.md`.
+
+---
+
+## Current status (generated)
+
+<!-- DOCS:STATUS:START -->
+<!-- Generated by `npm run docs:refresh`. Do not edit between these markers. -->
+
+**Current phase:** none defined · **Updated:** 2026-07-24
+
+**Next 3 to-dos:**
+1. **TD-001** — ⏰ Check whether `/tmp/photo-matches.csv` still exists
+2. **TD-002** — Tighten curator filters before the next sweep
+3. **TD-003** — Run the next venue-tag sweep
+
+Full list: [roadmap](docs/product/roadmap.md) · [to-dos](docs/product/todos.md) · [docs map](docs/README-DOCS.md)
+
+<!-- DOCS:STATUS:END -->

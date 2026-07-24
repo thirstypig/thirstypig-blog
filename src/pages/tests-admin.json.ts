@@ -77,6 +77,18 @@ const metadata: Record<string, { kind: TestKind; covers: string }> = {
 		kind: "unit",
 		covers: "Cleanup admin screen detection heuristics — Jaccard token-overlap on (slug, title, location) triple. Regression cases: Pine & Crane / Wolf & Crane Bar contamination flagged, Rou Jia Mo / A Niang Noodles flagged (CJK preserved via Unicode property escapes), Spago BH not flagged. False-positive guards: Wayback descriptive slugs ('World's Best Hainan Chicken Rice') don't fire when title=location. Documented limitation: Garvey-class title=location-but-both-wrong is mathematically indistinguishable from a legitimate Wayback descriptive slug — explicitly NOT flagged. Edge cases: empty title/location returns null, stopwords/short-tokens dropped, apostrophes normalized.",
 	},
+	"src/utils/doc-index.test.ts": {
+		kind: "unit",
+		covers: "Docs-board index helpers — code-fence-guarded H1 title extraction (the regression that matters: a `# comment` inside a bash block must NOT become the doc title; docs/engineering/testing-strategy.md and README.md both contain that shape), tidyFilename fallback incl. the ID-only filename edge case (ADR-001.md must not de-hyphenate to 'ADR 001' — real bug caught while writing), section-by-intent routing with path overrides beating type, frontmatter split anchored at byte 0 so a fenced ```yaml block mid-document isn't mistaken for frontmatter, template/dotfile exclusions, section grouping order, and search matching across title/id/path/tag.",
+	},
+	"src/utils/markdown-lite.test.ts": {
+		kind: "unit",
+		covers: "Dependency-free markdown renderer used by the docs board and the public /changelog. Half the suite is adversarial XSS: script tags render as escaped text, img onerror neutralised, javascript:/data:/protocol-relative links refused, no attribute breakout via injected quotes, HTML escaped inside fences and table cells, and a blockquote round-trip that cannot reintroduce raw HTML. These are the justification for dangerouslySetInnerHTML / set:html. Rest covers headings, tables, lists, task checkboxes, inline code that resists further transforms, and a guard that prose resembling the internal NUL sentinel isn't corrupted.",
+	},
+	"scripts/validate_hitlist.test.mjs": {
+		kind: "unit",
+		covers: "Two guards in one file. (1) js-yaml PARSER CONTRACT — bare ISO date must parse to a Date (YAML 1.1 !!timestamp), quoted date stays a string, space-separated timestamp parses (19 real posts use that form), duplicate keys throw, !!js/function throws. Nothing asserted this before, which is why an accidental js-yaml v5 (YAML 1.2) resolution passed every gate on 2026-07-24 — see docs/solutions/build-errors/js-yaml-v5-major-bump-splits-parser-semantics.md. (2) validate_hitlist.mjs itself, which gates `npm run build` but had zero tests and is NOT in CI's unit job; driven as a subprocess via its argv[2] path arg. Covers the motivating bug (unquoted date_added -> Date -> fails Astro's z.string()), duplicate ids, priority bounds, missing fields, non-list root, malformed YAML, multi-error reporting, plus the committed places-hitlist.yaml passing as-is.",
+	},
 	"scripts/venue-tags/test_venues_yaml_no_duplicate_keys.py": {
 		kind: "unit",
 		covers: "venues.yaml duplicate-mapping-key lock-down — uses a StrictLoader subclass of yaml.SafeLoader that raises on duplicate keys. PyYAML accepts dupes with last-wins; js-yaml (used by /data-quality.json) rejects per YAML 1.2. Test elevates the silent-tolerance gap to a pre-commit failure on the Python side. Locked-in regression: the 33 duplicate cid: lines that accumulated across 30 venue entries before adoption.",

@@ -1,7 +1,6 @@
 import type { APIRoute } from "astro";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
-// @ts-expect-error — js-yaml has no bundled types; runtime API is stable
 import yaml from "js-yaml";
 import { getCollection } from "astro:content";
 import {

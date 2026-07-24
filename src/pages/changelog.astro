@@ -1,5 +1,48 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { renderMarkdown } from '../utils/markdown-lite';
+
+/**
+ * The public changelog renders FROM docs/under-the-hood/changelog.md (DOC-016),
+ * which is the canonical source (C-012 / TD-013). This page holds no changelog
+ * content of its own — editing the markdown is the only way to change it.
+ *
+ * Everything above the PUBLIC:START marker in that file is internal (the doc's
+ * own frontmatter, H1, and maintenance notes) and is deliberately not shipped.
+ *
+ * Safety: renderMarkdown() escapes its input BEFORE applying any markdown
+ * transform, so raw HTML in the source renders as visible text and cannot
+ * execute. That is what makes `set:html` acceptable here — same reasoning as
+ * the admin docs board. See src/utils/markdown-lite.test.ts for the
+ * adversarial cases.
+ */
+const MARKER = '<!-- PUBLIC:START -->';
+const SOURCE = 'docs/under-the-hood/changelog.md';
+
+const raw = readFileSync(join(process.cwd(), SOURCE), 'utf-8');
+
+const markerAt = raw.indexOf(MARKER);
+if (markerAt === -1) {
+	throw new Error(
+		`[changelog] ${SOURCE} is missing its ${MARKER} marker. ` +
+			`Refusing to build rather than publish the internal preamble.`
+	);
+}
+
+const body = raw.slice(markerAt + MARKER.length);
+const html = renderMarkdown(body);
+
+// Count assertion. A silently-empty changelog would look like a styling bug and
+// could ship unnoticed; this project has been bitten by succeed-as-no-op before.
+const sectionCount = (body.match(/^## /gm) || []).length;
+if (sectionCount < 5) {
+	throw new Error(
+		`[changelog] Only ${sectionCount} sections found in ${SOURCE} (expected >= 5). ` +
+			`The source looks truncated — refusing to build.`
+	);
+}
 ---
 
 <BaseLayout title="Changelog" description="History of updates to The Thirsty Pig blog.">
@@ -7,200 +50,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 		<h1 class="font-serif text-3xl sm:text-4xl font-bold text-ink mb-2">Changelog</h1>
 		<p class="text-stone mb-10">A history of updates to this site.</p>
 
-		<div class="prose max-w-none">
-
-			<h2>June 2026 — Consent-Gated Analytics &amp; Ads</h2>
-
-			<h3>June 3 — GDPR/CCPA consent banner; GA4 + AdSense return behind opt-in (PRs #106–107)</h3>
-			<ul>
-				<li><strong>Consent banner (PR #106)</strong> — Added a GDPR/CCPA consent banner via <code>vanilla-cookieconsent</code> v3 (bundled from npm, not CDN). Three categories — <code>necessary</code> (read-only), <code>analytics</code>, <code>marketing</code> — all default OFF except necessary. Withdrawal stays reachable any time via a "Cookie preferences" link in the footer (<code>data-cc="show-preferencesModal"</code>).</li>
-				<li><strong>GA4 + AdSense re-introduced, consent-gated</strong> — Reverses the April PR #98 "no trackers" removal, done correctly this time. Both are emitted as <code>type="text/plain" data-category=…</code> tags the browser treats as inert until the matching category is accepted, so nothing loads pre-consent (verified in built HTML). GA4 (<code>G-JVG4TB1BR4</code>) gates on <code>analytics</code>; AdSense gates on <code>marketing</code>. No CSP change needed — the only CSP in <code>vercel.json</code> is scoped to <code>/admin</code>; public pages have none.</li>
-				<li><strong>AdSense units + ads.txt</strong> — New <code>src/components/AdSlot.astro</code>: a CLS-safe (min-height reservation), consent-gated <code>&lt;ins&gt;</code> unit that renders nothing unless both the publisher ID and a slot ID are configured. Two placements per post (top + end of article), slot IDs from <code>PUBLIC_ADSENSE_SLOT_TOP</code>/<code>PUBLIC_ADSENSE_SLOT_BOTTOM</code>. <code>public/ads.txt</code> declares <code>ca-pub-7103672049879516</code>.</li>
-				<li><strong>Privacy page rewritten</strong> — <code>/privacy</code> now discloses Google Analytics 4, Google AdSense, and Vercel Analytics by name; lists GDPR/PECR and CCPA/CPRA rights; and describes withdrawal via the footer control. The page stays honest about exactly what loads.</li>
-				<li><strong>Pre-existing CI fix (PR #107)</strong> — <code>test_scrape_google.py</code> pulled in <code>playwright</code> transitively at collection time, but it isn't in <code>requirements-dev.txt</code>, so CI's <code>pytest scripts/</code> had been red on <code>main</code> since that test landed. Guarded with <code>pytest.importorskip("playwright")</code> — runs locally/pre-commit, skips cleanly on CI. Unblocked #106.</li>
-				<li><strong>Solution doc</strong> — <code>docs/solutions/feature-implementations/consent-gated-analytics-adsense.md</code> captures the data-category gating pattern, the array-vs-object <code>consentGiven()</code> bug avoided, the admin-only-CSP finding, why SRI doesn't apply to Google's tag scripts, and the <code>.env</code> trailing-newline corruption gotcha lived through during setup.</li>
-			</ul>
-
-			<h2>May 2026 — Venue Tags Long-Tail Push</h2>
-
-			<h3>May 16–18 — Batches 5–7: 655 venue JSONs, 885 posts tagged</h3>
-			<ul>
-				<li><strong>Long-tail venue batches (3 sessions)</strong> — Added 68 net new venues across three batches: CITY_ALIASES extended for Tustin, Tijuana, Taoyuan, Harbin; sync phrase-matching improved for CJK venue names (Korean Hangul substring match, de-article fallback). Cumulative growth: <strong>594 → 655 published JSONs</strong>, <strong>689 → 885 posts displaying tag pills</strong>. Venues.yaml now at 699 entries.</li>
-				<li><strong>Geocoding contamination catch (harbin-pig)</strong> — API returned a <code>0x80c2</code> LA-metro place_id for a Harbin, China restaurant. Detected via CID prefix heuristic, reverted before commit. Reinforces the geocoding-autofill contamination pattern: validate region prefix against expected geography before writing.</li>
-				<li><strong>auth_gated() fix for permanently closed venues</strong> — Old heuristic (<code>not has_reviews_tab and not chips</code>) misfired on closed venues, which show Overview/About tabs but no Reviews tab. Correct signal: <code>not tab_labels and not chips</code> (no tabs at all). Three previously-stuck venues (<code>itoya-shanghai</code>, <code>la-finca-shanghai</code>, <code>freedmens-bar-austin</code>) now write 0-chip entries and resolve place_ids correctly.</li>
-				<li><strong>6 new unit tests for auth_gated()</strong> — <code>scripts/venue-tags/test_scrape_google.py</code>: parametrized table covering all three real page states (truly auth-gated, permanently closed, open venue). Critical regression case: old code returned <code>True</code> for the closed-has-tabs-no-chips fixture; new code returns <code>False</code>. Python suite: 112 → 118 passing.</li>
-				<li><strong>New solution doc category: logic-errors/</strong> — <code>docs/solutions/logic-errors/auth-gated-detection-closed-venue-false-positive.md</code> documents the heuristic-discrimination failure (correlated signal vs. discriminating signal), the three-state page model, prevention checklist, and fixture pattern for future scraper state changes.</li>
-			</ul>
-
-			<h2>April 2026 — Performance, Accessibility, Mobile Editing & Testing</h2>
-
-			<h3>April 30 — Privacy honest, tag cloud surfaced, admin docs (PRs #97–101)</h3>
-			<ul>
-				<li><strong>Privacy page now matches reality (PR #98)</strong> — The page claimed "no analytics, no ads, no behavioural trackers" while <code>BaseLayout.astro</code> shipped Google Analytics 4 (always-on, hardcoded fallback ID), conditional AdSense, and Vercel Analytics. Path C of the privacy todo: dropped GA4 + AdSense entirely, kept cookieless Vercel Analytics, rewrote <code>/privacy</code> to disclose what's actually loaded with a link to Vercel's analytics privacy policy. Followups outside the PR: delete <code>PUBLIC_GA4_ID</code> + <code>PUBLIC_ADSENSE_PUB_ID</code> from Vercel env (now dead config); optionally remove the <code>G-JVG4TB1BR4</code> property from analytics.google.com.</li>
-				<li><strong>Tag cloud surfaced in main nav + reordered (PR #98)</strong> — <code>/tags/cloud</code> existed but was only reachable from a footer link on <code>/tags/map</code>. Added <code>Tags</code> to main nav between <code>Map</code> and <code>Cuisine</code>; active state lights up on any <code>/tags</code> route. Removed the deterministic shuffle that was scrambling the rust → amber → ink → stone palette gradient; cloud now reads top-to-bottom as a heat gradient with biggest tags at the top.</li>
-				<li><strong>TinaCMS Docs + Cleanup admin screens (PR #97)</strong> — New <code>/admin → Docs</code> screen (<code>tina/AdminDocs.tsx</code>) is the operator-facing handbook for IG sync, venue-tags scraping, pipeline status, and roadmap. Companion <code>/admin → Cleanup</code> screen (<code>tina/DataQuality.tsx</code>) auto-detects two issue classes: 14 duplicate-venue groups (entries sharing a place_id) and ~170 suspect posts where <code>title</code> and <code>location</code> frontmatter disagree on tokens (Jaccard &lt; 0.35) — a real contamination signal from confident geocoding auto-fill picking a confusable nearby business. Build-time JSON at <code>/data-quality.json</code>, pure helpers in <code>src/utils/data-quality.ts</code> with 23 unit tests using the paired bug/legit fixture pattern.</li>
-				<li><strong>Scheduled production verification (2026-05-14)</strong> — A one-time remote agent will fetch <code>thirstypig.com</code>, <code>/about</code>, and <code>/privacy</code> two weeks after merge, grep the served HTML for <code>googletagmanager.com</code> / <code>googlesyndication.com</code> / <code>gtag(</code> / <code>adsbygoogle</code> / <code>G-JVG4TB1BR4</code>, and confirm the privacy page contains "Vercel Analytics" but not "no analytics." Comments PR #98 if clean, opens an issue if anything regressed. The drift-was-3-days story we lived through with the original page is exactly what this routine prevents.</li>
-				<li><strong>3-test E2E spec for the tag cloud (PR #100)</strong> — <code>tests/e2e/tag-cloud.spec.ts</code>: Tags nav routes correctly with <code>aria-current</code>, cloud renders ≥5 chips (smoke for the venue-tags pipeline), and first chip's inline <code>--rem</code> font-size exceeds the last chip's (regression guard against shuffle reintroduction). 9 cells (3 tests × chromium/firefox/webkit) green in 11.1s.</li>
-				<li><strong>Curator filter tightening + dupe-key lockdown (PR #97)</strong> — <code>curate_candidates.py</code> gained <code>\bservice\b</code>, <code>\brepair\b</code>, <code>\bauto\b</code> filters plus <code>\bpark(?!')\b</code> so Park's BBQ stops being false-filtered (Python <code>\b</code> treats apostrophe as a word boundary). Lock-down test <code>test_venues_yaml_no_duplicate_keys.py</code> elevates silent PyYAML dupe-key tolerance to a pre-commit failure — js-yaml refused to load 33 silent <code>cid:</code> field duplicates that PyYAML had been quietly merging. Two solution docs capture the meta-pattern of "stricter consumer caught a latent bug as a side-effect."</li>
-				<li><strong>Code-review backlog committed (PRs #99, #101)</strong> — 9 review-finding todos from the multi-agent pass on PR #97 landed under <code>todos/015–022, 030</code>: TagGraph script-injection latent, placeId Zod regex, <code>loadAllVenues()</code> helper extraction, public venue-tags JSON schema doc, taxonomy.yaml deletion, scraper exit codes, auth-mode startup probe. PR #101 added <code>todo #031</code> capturing the cross-venue chip aggregator unit-test gap surfaced after PR #100 shipped.</li>
-				<li><strong>Five PRs merged in roughly 90 minutes</strong> — #97 (admin Docs + Cleanup + 7 review findings), #98 (privacy + tag cloud + nav), #99 (review backlog + provenance SVG), #100 (E2E coverage), #101 (todo #031). Linear history on main, all squash-merged.</li>
-			</ul>
-
-			<h3>April 29–30 — Venue tags scale-up via Places API (PR #96)</h3>
-			<ul>
-				<li><strong>Places API path</strong> — New <code>scripts/venue-tags/lookup_place_ids_api.py</code> calls Google's <code>places:searchText</code> endpoint at ~100ms per venue with ~95% hit rate, including CJK / multi-match queries that DIY headed Chrome chronically failed on. Free tier (10K calls/SKU/month) covers our needs comfortably.</li>
-				<li><strong>cid→FID self-healing scraper</strong> — When the API returns only a <code>?cid=N</code> URL (the common case), the scraper navigates there, waits for Maps' delayed URL rewrite, extracts the FID hex from either the rewritten <code>location.href</code> or the URL-encoded form embedded in sign-in continuation links, and writes the FID back to <code>venues.yaml</code>. Each venue pays the resolution cost exactly once; future runs go direct via <code>?ftid=&lt;FID&gt;</code>. Full failure-mode write-up at <code>docs/solutions/api-migration/google-maps-cid-fid-self-healing-scrape.md</code>.</li>
-				<li><strong>Three batches shipped</strong> — Batches 6 (95 venues), 7 (89 venues), 8 (87 venues). Cumulative growth: <strong>65 → 336 venues with FID</strong> (+271), <strong>64 → 320 published JSONs</strong> (+256), <strong>123 → 439 posts displaying tag pills</strong> (+316). Limited-view failure rate climbs into the long tail (9% in batch 7 → 19% in batch 8) — signal that <code>curate_candidates.py</code> filters need tightening before further single-post sweeps.</li>
-				<li><strong>16 new unit tests</strong> — <code>scripts/venue-tags/test_lookup_place_ids_api.py</code> locks down <code>extract_fid_hex</code>, <code>FID_HEX_RE</code>, <code>CID_RE</code>, and <code>write_yaml_field</code>. Anchored to two real silent-fail modes lived through this session: the parser returning <code>None</code> on a valid Maps URI, and the YAML writeback regex no-op'ing on a key it should have matched. Total Python suite: 90 → 106 passing.</li>
-				<li><strong>552 single-post candidates remain</strong> in the corpus for future weekly sweeps. A weekly cron is wired but session-only — durable persistence (launchd or GitHub Actions) is a follow-up.</li>
-			</ul>
-
-			<h3>April 25–27 — Bold Red Poster redesign + supporting infra (10 PRs)</h3>
-			<ul>
-				<li><strong>Homepage rebuild as the "Bold Red Poster"</strong> — full-bleed red hero with the original pig illustration bleeding off the right edge, 168px <code>Archivo Black</code> "Eat everything. Twice." display heading, "Right off the stove" featured grid (latest published post + next 4), and a 4-up city picker driven by real region data (Shanghai · 298, San Gabriel Valley · 238, Los Angeles · 222, Everywhere else · 1,178). Header rebuilt with <code>thirsty<span class="text-amber">pig</span></code> wordmark + the new 5-item nav (Stories / Cities / Map / Best Of / About), plus Hit List restored as a 6th item after first-cut review. Light mode only; dark-mode poster theme deferred. (PR #72)</li>
-				<li><strong>Region landing pages</strong> — 38 new statically-generated pages under <code>/regions/[region]/</code>, one per unique region in post frontmatter. The homepage city tiles link here. <code>aggregateRegions()</code> extracted to <code>src/utils/regions.ts</code> with 5 unit tests guarding the "posts without region land in elsewhereCount, never as a phantom undefined-keyed top region" invariant. (PR #72)</li>
-				<li><strong>Sharper hero pig</strong> — chroma-keyed transparent PNG produced by <code>scripts/chroma_key_logo.py</code> (HSV threshold + 1px alpha erosion + 4× LANCZOS upscale); the version actually shipped came from a higher-fidelity AI-rendered source via <code>thirsty-pig-exact.svg</code>. (PR #72)</li>
-				<li><strong>Favicon swap</strong> — replaced the Astro-default rocket favicon with the redpig branding. Generated a full modern set: <code>favicon.ico</code> (16+32+48 multi-resolution), <code>favicon-32.png</code>, <code>apple-touch-icon.png</code> (180×180), <code>icon-192.png</code>, <code>icon-512.png</code>. Pipeline lives at <code>scripts/build_favicon.py</code>. (PR #75)</li>
-				<li><strong>Local IG-watcher launchd agent</strong> — <code>scripts/local/ig_watcher.sh</code> + a launchd plist: when an Instagram data export ZIP lands in <code>~/Downloads</code>, automatically uploads it as a GitHub release, which triggers the existing <code>instagram-sync.yml</code> workflow. Trims the manual export loop from "request → wait → download → manually create release → attach ZIP" to "request → wait → click email link → done." Companion <code>weekly-monday-9am</code> reminder routine nudges you to do the export. (PR #76)</li>
-				<li><strong>Facebook Page sync attempt + walled by Meta</strong> — built and shipped a full Graph API pipeline (token helper, sync workflow, schema enum, Privacy page, setup docs). Empirically confirmed the wall: Meta's "new Pages experience" requires a System User token for <code>pages_read_engagement</code>, which gates on full Business Verification (registered business entity, tax ID). Not justifiable for a personal blog. Cleaned the code back out; left the Privacy page in place; documented the dead end so future agents don't re-explore. (PRs #73 + #74)</li>
-				<li><strong>E2E suite caught up to the redesign</strong> — first post-redesign CI run failed 4 tests across 3 browsers because nav-aria-current and homepage-heading assertions still expected old labels. Updated <code>tests/e2e/&#123;homepage,archive,categories&#125;.spec.ts</code> to match the new "Stories" / "Cities" / "Eat everything. Twice." / "Right off the stove" markers. Bonus discovery: a stale <code>astro dev</code> server on :4321 will leak dev-toolbar h1 elements into local Playwright runs via <code>reuseExistingServer: !CI</code>. Captured the whole pattern at <code>docs/solutions/test-failures/e2e-coupled-to-ui-text-after-rename.md</code> as a compoundable lesson. (PRs #79 + #80)</li>
-				<li><strong>Hit list at 10 entries</strong> — Miopane (Old Town Pasadena) visited and removed; the curated link list lives in the commit message for when the dedicated post gets written. (PR #77)</li>
-				<li><strong>Privacy page</strong> — minimal <code>/privacy</code> page added so the Meta App Settings could point at <code>thirstypig.com/privacy</code>. Note: the page's "no analytics" claims conflict with AdSense + GA4 + Vercel Analytics shipping in <code>BaseLayout.astro</code>; that drift is captured as a P1 todo (#004 in <code>todos/</code>) for triage.</li>
-				<li><strong>11 code review todos created</strong> — multi-agent <code>/ce:review</code> sweep of the session's work surfaced 4 P1 / 4 P2 / 3 P3 findings across security, performance, design-system, and reliability. Top items: privacy-policy drift, IG export ZIPs world-readable on a public repo, the 553KB hero PNG used as 40px nav favicon on every page, Bold Red Poster design tokens defined but never referenced. Triage scheduled for May 4. Full inventory in <code>todos/004-014</code>.</li>
-			</ul>
-
-			<h3>April 24 — Logo swap</h3>
-			<ul>
-				<li><strong>Site logo</strong> — Swapped the placeholder mark in the Header and Footer for the original Thirsty Pig pig illustration. <code>object-cover</code> on a forced-square box keeps the 350×309 source from squashing inside the 40×40 nav slot. (PR #71)</li>
-			</ul>
-
-			<h3>April 18–20 — Testing stack (8 PRs)</h3>
-			<ul>
-				<li><strong>Testing foundation</strong> — Vitest (JS/TS unit) + Playwright (E2E) + GitHub Actions CI on every PR, plus a TinaCMS admin screen at <code>/admin → Testing</code> showing file-by-file inventory, assertion counts, and cadence. Shipped 3 example tests as proof-of-shape.</li>
-				<li><strong>Python parser tests</strong> — pytest added to the stack with <code>requirements-dev.txt</code>; 43 assertions locking in the Hit List vault parser + shared <code>post_utils.py</code> helpers. Meta-tests guard the intentional narrow-vs-broad dead-domain list distinction.</li>
-				<li><strong>E2E batch for feature pages</strong> — <code>/hitlist</code>, <code>/search</code>, <code>/map</code> each got spec files with 3–5 assertions: filter behavior, debounced search, WebP source emission, Leaflet marker paint, legend render.</li>
-				<li><strong>Post-page regression suite + bugs caught</strong> — First-run surfaced two real production bugs: <code>RelatedPosts</code> skipped heading level h2 (WCAG violation), and its thumbnails missed PR #35's WebP pipeline. Both fixed in the same PR; the test is now a permanent regression guard.</li>
-				<li><strong>Vault seeder round-trip tests</strong> — 14 assertions (7 unit on <code>entry_to_md</code>, 7 integration loading the real YAML → md → re-parsed → semantic equivalence). Locks in the invariant that switching to vault-editing can never silently rename existing entry ids.</li>
-				<li><strong>Pre-commit hook (tier 1)</strong> — <code>.githooks/pre-commit</code> runs <code>validate:hitlist + test:unit + test:py</code> in ~1.7 s before every commit. Plain shell hook, activated via <code>npm run setup:hooks</code>. Zero new deps.</li>
-				<li><strong>Final backlog + nightly production cron (tier 3)</strong> — Image-dimensions integration tests (with in-test fixture generation via sharp); closed-venue E2E (skips cleanly — revealed all 37 closed posts are <code>draft: true</code>); <code>.github/workflows/nightly.yml</code> runs full E2E against <code>thirstypig.com</code> daily at 11:00 UTC.</li>
-				<li><strong>Typecheck script</strong> — <code>npm run typecheck</code> (plain <code>tsc --noEmit</code> with 4 GB heap; <code>astro check</code> OOMs on 2,120 post routes). Installed React + Google Maps types, fixed 2 pre-existing TS errors in <code>tina/*</code> files.</li>
-				<li><strong>Totals</strong> — 12 test files, 105 assertions (24 JS + 57 Python + 24 E2E), ~6 s wall time. 3 of 4 cadence tiers live (pre-commit, CI on PR, nightly). Full details at <code>/admin → Testing</code>.</li>
-			</ul>
-
-			<h3>April 17 — Hit List mobile editing, Post Manager cleanup</h3>
-			<ul>
-				<li><strong>Hit List Phase 4</strong> — Obsidian vault sync pipeline: separate vault repo holds a mobile-friendly markdown checklist; GitHub Action pulls, converts to YAML, validates, and commits. Ships a parser, a seeder (yaml → md), the workflow, and setup docs.</li>
-				<li><strong>Client-rendered search WebP</strong> — <code>/search.json</code> now ships pre-computed WebP paths + dimensions per post so client-rendered result cards emit <code>&lt;picture&gt;</code> elements instead of plain <code>&lt;img&gt;</code>. +14 KB gzipped JSON cost, ~700 KB saved per search session.</li>
-				<li><strong>Post Manager P1 fixes</strong> — Fixed <code>content.index("---", 3)</code> crash risk on malformed frontmatter in two Python scripts; consolidated <code>DEAD_DOMAINS</code> registry into <code>scripts/post_utils.py</code> with two intentionally-scoped lists; replaced <code>as any</code> casts in <code>PostManager.tsx</code> with proper union types.</li>
-			</ul>
-
-			<h3>April 16–17 — Senior Front-End Audit (6 PRs)</h3>
-			<ul>
-				<li><strong>SVG logo</strong> — 25 KB JPG replaced with 650 B SVG (<code>currentColor</code> for theme adaptation). Every page loads lighter.</li>
-				<li><strong>Image pipeline</strong> — New remark plugin transforms every markdown <code>!&#91;&#93;()</code> into <code>&lt;picture&gt;</code> with WebP source + explicit width/height (read via <code>sharp</code>) + <code>loading="lazy"</code>. <code>PostCard</code> and <code>BlogPost</code> hero get the same treatment via a shared <code>getImageInfo()</code> utility. 7,503 previously-unused WebPs now actually serve.</li>
-				<li><strong>Accessibility pass</strong> — Skip link, <code>aria-current="page"</code> on active nav, <code>aria-expanded</code>/<code>aria-pressed</code> on toggles, dynamic <code>aria-label</code> on the theme button, <code>:focus-visible</code> outline rule, <code>@media (prefers-reduced-motion)</code> override.</li>
-				<li><strong>Contrast fixes</strong> — Light-mode <code>--color-stone</code> darkened from #78716C to #655F5B (4.3:1 → 5.6:1 on cream). Dark-mode <code>--color-amber</code> lightened from #D97706 to #F59E0B (4.3:1 → 5.3:1). All WCAG AA failures closed. <code>@media (prefers-contrast: more)</code> override added.</li>
-				<li><strong>Map hardening</strong> — Leaflet bundled via npm (removes <code>unpkg.com</code> CDN dependency); closed venues now render as dashed hollow rings so color-blind users can distinguish them; visible legend added.</li>
-				<li><strong>Build cleanup</strong> — Latin-only <code>@fontsource</code> imports (33 woff2 + 33 woff files → 6 + 6, ~1.1 MB → 324 KB font bytes in <code>dist</code>); print stylesheet that hides chrome, switches to system fonts, and reveals external link URLs.</li>
-				<li><strong>Quick wins</strong> — <code>scroll-padding-top: 5rem</code> so anchors stop hiding under the sticky header; <code>/posts-admin.json</code> deindexed via <code>robots.txt</code> Disallow + <code>X-Robots-Tag: noindex</code>; orphaned <code>BaseHead.astro</code> deleted.</li>
-				<li><strong>Expected impact</strong> — Post-page mobile Lighthouse Performance ~45 → ~78, LCP ~5 s → ~2 s, CLS ~0.22 → &lt;0.05, Accessibility ~85 → ~96.</li>
-			</ul>
-
-			<h2>March 2026 — The Rebuild</h2>
-
-			<h3>March 30 — Location Data Enrichment & Map Expansion</h3>
-			<ul>
-				<li><strong>@mention venue extraction</strong> — Identified 65+ restaurant names from Instagram @handles in post bodies (e.g., @franklinbbq → Franklin BBQ, @snowsbbq → Snow's BBQ)</li>
-				<li><strong>Location field cleanup</strong> — Fixed 451 posts with messy location/city fields where full captions had been dumped into venue name fields</li>
-				<li><strong>Texas & Louisiana coverage</strong> — Added city/region data for 16 Texas posts (Austin, Lockhart, San Antonio) and 8 New Orleans posts that were missing from the map</li>
-				<li><strong>Map expansion</strong> — cityCoords lookup table expanded from 46 to 104 cities, adding Austin, New Orleans, Medellin, Osaka, Chicago, and 50+ more</li>
-				<li><strong>Additional geocoding</strong> — 185 more venues geocoded via Foursquare, bringing total to 841 precise GPS coordinates</li>
-				<li><strong>Map pins</strong> — Map now shows 1,384 pins with 841 exact GPS locations across LA, Texas, Louisiana, New York, San Francisco, Asia, and beyond</li>
-			</ul>
-
-			<h3>March 29 — Venue Geocoding & Data Cleanup</h3>
-			<ul>
-				<li><strong>Foursquare geocoding</strong> — Batch-resolved 655 venues to precise addresses and GPS coordinates via Foursquare Places API</li>
-				<li><strong>Dead image cleanup</strong> — Stripped 5,631 dead wp.com Photon CDN image references from 397 posts, eliminating all 403 console errors</li>
-				<li><strong>Instagram venue extraction</strong> — Parsed restaurant names and cities from 147 Instagram captions using pattern matching and hashtag analysis</li>
-				<li><strong>Address extraction</strong> — Parsed 20 street addresses from blog post body content (#### heading blocks)</li>
-				<li><strong>Map upgrade</strong> — Map now shows 1,600+ pins (up from ~1,000), with 656 precise GPS locations</li>
-				<li><strong>Solution docs</strong> — Added <code>docs/solutions/</code> for documenting technical solutions and runbooks</li>
-			</ul>
-
-			<h3>March 28 — Archive, Dark Mode & Map Enhancements</h3>
-			<ul>
-				<li><strong>Year/month archive</strong> — Browse all 2,100+ posts by year and month at <a href="/archive/">/archive</a></li>
-				<li><strong>Dark mode</strong> — Toggle between light and dark themes; respects system preference and saves choice</li>
-				<li><strong>Broken image handling</strong> — Gracefully hides broken image references in old posts instead of showing broken icons</li>
-				<li><strong>GPS coordinates</strong> — Instagram posts now save exact GPS from EXIF data for precise map pins</li>
-				<li><strong>Venue/city extraction</strong> — Automatically extracts restaurant names and cities from Instagram captions and hashtags</li>
-				<li><strong>Map enhancements</strong> — Map now shows venue names, exact GPS pins (📍), and supports more posts</li>
-				<li><strong>Location backfill</strong> — Script to retroactively add GPS and city data to already-imported Instagram posts</li>
-				<li><strong>robots.txt</strong> — Added for proper search engine crawling</li>
-				<li><strong>SEO complete</strong> — Open Graph, Twitter Cards, JSON-LD, sitemap, RSS, canonical URLs all in place</li>
-			</ul>
-
-			<h3>March 28 — Features & Polish</h3>
-			<ul>
-				<li><strong>Search</strong> — Added client-side instant search across all 2,100+ posts</li>
-				<li><strong>Restaurant Map</strong> — Interactive map showing 782 restaurant locations using Leaflet.js and OpenStreetMap</li>
-				<li><strong>Best Of pages</strong> — Curated lists organized by cuisine, type, and region</li>
-				<li><strong>Related Posts</strong> — "You might also enjoy" recommendations on every post, matched by city, cuisine, and category</li>
-				<li><strong>Closed restaurant badges</strong> — 39 closed restaurants detected and marked with CLOSED badge and grayscale thumbnail</li>
-				<li><strong>Restaurant categorization</strong> — Extracted restaurant names (1,649), cities (1,034), and regions (810) from post content</li>
-				<li><strong>Image optimization</strong> — All 7,503 images converted to WebP format (40% size reduction)</li>
-			</ul>
-
-			<h3>March 27 — Content Import</h3>
-			<ul>
-				<li><strong>Instagram import</strong> — 1,649 posts imported from Instagram data export, including 4,664 images and 213 videos</li>
-				<li><strong>Thirsty Pig logo</strong> — Added the pig-with-beer logo to header and footer</li>
-				<li><strong>Social media links</strong> — Instagram, X, Facebook, TikTok, YouTube, and Vimeo links in footer</li>
-				<li><strong>WordPress cleanup</strong> — Removed AKPC, Popularity, AddToAny, and LinkWithin plugin remnants from 900+ posts</li>
-				<li><strong>Tina CMS</strong> — Added configuration for visual content editing at /admin</li>
-				<li><strong>GitHub + Vercel</strong> — Repository pushed to GitHub, deployed to Vercel with custom domain</li>
-				<li><strong>DNS setup</strong> — thirstypig.com (primary), thethirstypig.com (redirect), and www variants configured</li>
-			</ul>
-
-			<h3>March 26 — Foundation</h3>
-			<ul>
-				<li><strong>Wayback Machine scraper</strong> — Built Python scraper to recover content from three archived domains</li>
-				<li><strong>Content recovery</strong> — 1,166 posts fetched, 1,157 parsed, 228 duplicates removed = 923 unique blog posts</li>
-				<li><strong>Image recovery</strong> — 2,846 images recovered across two passes (Wayback Machine + Blogspot CDN + CDX search)</li>
-				<li><strong>Astro site</strong> — Scaffolded with Tailwind CSS v4, Content Collections, sitemap, RSS feed</li>
-				<li><strong>SEO</strong> — Open Graph tags, Twitter Cards, JSON-LD structured data, canonical URLs</li>
-				<li><strong>Pages</strong> — Homepage, post detail, paginated archive, category pages, about page</li>
-			</ul>
-
-			<hr />
-
-			<h2>2017 — Original Blog Ends</h2>
-			<p>
-				Final post published on thirstypig.com in March 2017. Instagram becomes the primary
-				platform for The Thirsty Pig's food content.
-			</p>
-
-			<h2>2013 — Migration to thirstypig.com</h2>
-			<p>
-				Blog migrated from thethirstypig.com to thirstypig.com on WordPress.
-				Content coverage expanded to include restaurants in Shanghai, Taipei, Tokyo,
-				Seoul, Hong Kong, Bangkok, and other international cities.
-			</p>
-
-			<h2>2009 — Migration to WordPress</h2>
-			<p>
-				Blog moved from Blogspot to WordPress at thethirstypig.com. Added categories,
-				tags, a pig rating system, and the Cocktail of the Week series.
-			</p>
-
-			<h2>2008 — The Beginning</h2>
-			<p>
-				The Thirsty Pig launched on Blogspot at blog.thethirstypig.com. First posts
-				covered LA dining favorites, Korean BBQ, ramen, and the emerging food truck scene.
-			</p>
-
-		</div>
+		<div class="prose max-w-none" set:html={html} />
 
 		<p class="mt-10">
 			<a href="/about" class="text-sm text-amber hover:text-rust no-underline">&larr; Back to About</a>

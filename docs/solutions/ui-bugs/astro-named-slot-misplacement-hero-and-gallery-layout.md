@@ -17,7 +17,7 @@ components:
   - src/components/ImageGallery.astro
 symptoms:
   - Hero image appeared missing or pushed ~1400px below the fold
-  - "You might also enjoy" section appeared between caption text and hero image
+  - '"You might also enjoy" section appeared between caption text and hero image'
   - Gallery images rendered as small thumbnails requiring a click + new tab
   - After prose migration removed inline images, food photos appeared to have vanished entirely
 root_cause: >
