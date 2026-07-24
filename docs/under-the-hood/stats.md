@@ -27,7 +27,7 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 |---|---|
 | Post markdown files | 2127 |
 | Published venue chip JSONs | 766 |
-| Tracked files (all) | 19415 |
+| Tracked files (all) | 19416 |
 
 ## Routes
 
@@ -42,12 +42,12 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2267 | 93,112 |
+| Markdown | 2268 | 93,326 |
 | JSON | 778 | 64,038 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,266 |
 | TypeScript (React) | 10 | 5,925 |
-| TypeScript | 50 | 4,472 |
+| TypeScript | 50 | 4,484 |
 | Astro | 37 | 3,739 |
 | JavaScript (ESM) | 10 | 1,440 |
 | CSS | 4 | 404 |

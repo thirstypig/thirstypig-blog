@@ -22,7 +22,7 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `97b9c344` |
+| Commit | `deb59f27` |
 | Date | 2026-07-24 |
 | Branch | `feat/docs-board` |
 

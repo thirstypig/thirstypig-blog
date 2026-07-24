@@ -36,7 +36,7 @@ failures, routing breakage, accessibility regressions.
 the user still sees a broken page. An E2E test can pass on the happy path while an
 edge-case bug lurks in a function nobody exercises.
 
-Current totals: **172 Vitest + 178 pytest** unit assertions, plus the E2E suite.
+Current totals: **187 Vitest + 178 pytest = 365** unit assertions, plus the E2E suite.
 
 ## Ugly cases — the failure modes that have actually bitten us
 
@@ -46,7 +46,8 @@ Not "what do we test" but "what has hurt us, and is it guarded now?"
 |---|---|---|
 | U1 | **Silent-success pipeline steps** — a script runs clean and produces zero output | ❌ Only by hand. The lesson is *count assertions*, applied inconsistently. |
 | U2 | **Cross-parser strictness** — PyYAML accepts what js-yaml rejects (duplicate keys) | ✅ `test_venues_yaml_no_duplicate_keys.py` |
-| U3 | **YAML type coercion** — bare dates become Date objects; UTF-8 corrupts through `atob` | ⚠️ Partial. Encoding centralized in `github-contents.ts`, but untested. |
+| U3a | **YAML type coercion** — bare dates become Date objects under YAML 1.1; a js-yaml major bump silently flips it | ✅ **Closed 2026-07-24.** `scripts/validate_hitlist.test.mjs` pins the parser contract (bare date → Date, quoted → string, duplicate keys throw, `!!js/function` throws) and drives `validate_hitlist.mjs` end-to-end. |
+| U3b | **UTF-8 corruption through `atob`/`btoa`** in the admin's GitHub write path | ⚠️ Still open. Encoding is centralized in `tina/_shared/github-contents.ts` (ADR-001 invariant I1) but has no test. |
 | U4 | **Geocoding autofill contamination** — a confident wrong-business match writes name, address, coords, place_id together | ✅ `data-quality.test.ts` guards the detection heuristic |
 | U5 | **Docs pointing at deleted files** — `components:` frontmatter naming retired code | ❌ Nothing validates those paths. Cheap to add to `docs:refresh`. |
 | U6 | **Silent render-nothing** — `venue-tags.ts` returns `null` on unreadable JSON; page renders empty with a green build | ❌ Still no test. See TD-005. |
@@ -118,6 +119,11 @@ everyone. If the hook is legitimately broken, fix the hook before merging.
 
 Live inventory: `/admin → Testing`, or `src/pages/tests-admin.json.ts`. At a glance:
 
+- **`scripts/validate_hitlist.test.mjs`** (15) — two guards. The **js-yaml parser
+  contract** (bare date → `Date`, quoted → string, duplicate keys throw, `!!js/function`
+  throws), which nothing asserted before an accidental v5 resolution passed every gate on
+  2026-07-24; and **`validate_hitlist.mjs` itself**, which gates `npm run build` but had
+  zero tests and still isn't in CI's unit job — driven as a subprocess via its `argv[2]`.
 - **`src/utils/doc-index.test.ts`** (31) — docs-board routing/title/section logic: the
   code-fence-guarded H1 extraction, section-by-intent mapping, path overrides, exclusions.
 - **`src/utils/markdown-lite.test.ts`** (36) — the docs-board markdown renderer, including
