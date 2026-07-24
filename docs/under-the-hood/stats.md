@@ -55,7 +55,7 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 
 ## Docs
 
-**23 indexed** (frontmatter present; `_templates/` excluded).
+**24 indexed** (frontmatter present; `_templates/` excluded).
 
 | Type | Count |
 |---|---:|
@@ -73,6 +73,7 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 | prd | 1 |
 | roadmap | 1 |
 | todos | 1 |
+| solution | 1 |
 | changelog | 1 |
 | costs | 1 |
 | experiment | 1 |
@@ -86,6 +87,7 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 | active | 20 |
 | draft | 2 |
 | locked | 1 |
+| done | 1 |
 
 ## Phase and shipped features
 

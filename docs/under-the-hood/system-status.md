@@ -22,8 +22,8 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `3c17b1b6` |
-| Date | 2026-07-23 |
+| Commit | `97b9c344` |
+| Date | 2026-07-24 |
 | Branch | `feat/docs-board` |
 
 <!-- This is the last local commit, NOT a confirmed Vercel deploy. Reading real
