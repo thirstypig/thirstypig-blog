@@ -6,12 +6,12 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "dev": "tinacms dev -c \"astro dev\"",
+    "dev": "tinacms dev -c \"astro dev --port 4321\"",
     "validate:hitlist": "node scripts/validate_hitlist.mjs",
     "docs:refresh": "node scripts/refresh-docs.mjs",
     "docs:check": "node scripts/refresh-docs.mjs --check && node scripts/sync-inbox.mjs --check",
     "build": "npm run validate:hitlist && npx tinacms build --skip-cloud-checks && cp tina/admin-custom.css public/admin/custom.css && astro build",
-    "preview": "astro preview",
+    "preview": "astro preview --port 4321",
     "astro": "astro",
     "test": "npm run typecheck && npm run test:unit && npm run test:py && npm run test:e2e",
     "typecheck": "NODE_OPTIONS=\"--max-old-space-size=4096\" tsc --noEmit",
