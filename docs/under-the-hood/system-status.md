@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [build-deploy, admin]
 links: [DOC-001]
-updated: "2026-07-24"
+updated: "2026-11-05"
 ---
 
 <!-- GENERATED FILE — do not hand-edit.
@@ -22,9 +22,9 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `deb59f27` |
-| Date | 2026-07-24 |
-| Branch | `feat/docs-board` |
+| Commit | `b3cee73d` |
+| Date | 2026-11-05 |
+| Branch | `chore/housekeeping-nov-2026` |
 
 <!-- This is the last local commit, NOT a confirmed Vercel deploy. Reading real
      deploy state needs the Vercel API and a token; deliberately not wired. -->

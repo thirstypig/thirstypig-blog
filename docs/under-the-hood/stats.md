@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [docs-system]
 links: [DOC-001]
-updated: "2026-07-24"
+updated: "2026-11-05"
 ---
 
 <!-- GENERATED FILE — do not hand-edit.
@@ -19,7 +19,7 @@ updated: "2026-07-24"
 > features and phases shipped, not lines written.** A refactor that deletes 2,000
 > lines is progress. Read the content and docs counts below as the meaningful ones.
 
-Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
+Generated 2026-11-05 from `git ls-files` (so .gitignore is respected exactly).
 
 ## Content
 
@@ -27,7 +27,7 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 |---|---|
 | Post markdown files | 2127 |
 | Published venue chip JSONs | 766 |
-| Tracked files (all) | 19416 |
+| Tracked files (all) | 19415 |
 
 ## Routes
 
@@ -42,14 +42,14 @@ Generated 2026-07-24 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2268 | 93,326 |
+| Markdown | 2266 | 93,181 |
 | JSON | 778 | 64,038 |
 | Python | 64 | 11,420 |
-| YAML | 6 | 6,266 |
+| YAML | 6 | 6,279 |
 | TypeScript (React) | 10 | 5,925 |
 | TypeScript | 50 | 4,484 |
 | Astro | 37 | 3,739 |
-| JavaScript (ESM) | 10 | 1,440 |
+| JavaScript (ESM) | 11 | 1,646 |
 | CSS | 4 | 404 |
 | JavaScript | 22 | 102 |
 
@@ -97,7 +97,7 @@ list exists in the repo. This is reported as-is rather than invented.
 <!-- TODO(james): if you want phases tracked, define them in roadmap.md and set
      `phase:` on the relevant docs. Otherwise delete this section. -->
 
-Roadmap items (macro): **6** · To-dos (micro): **13**
+Roadmap items (macro): **6** · To-dos (micro): **10**
 
 Per-row status is not yet tracked — roadmap and to-do rows have IDs but no
 `status` column, so "shipped" cannot be computed. The doc-level `status` counts
