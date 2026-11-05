@@ -1,16 +1,17 @@
-name: Nightly E2E (production)
+name: Weekly E2E (production)
 
-# Runs the full E2E suite against the live site every night. Catches
+# Runs the full E2E suite against the live site once a week (Mondays). Catches
 # regressions from deploys, CDN issues, upstream API drift (Leaflet tiles,
 # Vercel Analytics, etc.) that wouldn't surface in CI-against-preview.
 #
-# Tier 3 of the cadence in docs/testing.md. Schedule: 11:00 UTC
-# (3am PT before DST, 4am PDT after). Can also be kicked off manually via
-# the Actions tab.
+# Tier 3 of the cadence in docs/engineering/testing-strategy.md. Schedule:
+# Mondays 11:00 UTC. Was nightly until 2026-11-05 — dropped to weekly because
+# the site isn't mission-critical and nightly failure emails were noise.
+# Can also be kicked off manually via the Actions tab.
 
 on:
   schedule:
-    - cron: "0 11 * * *"
+    - cron: "0 11 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +19,13 @@ permissions:
 
 jobs:
   e2e-production:
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest became 26.04 on ~2026-11-02 and Playwright 1.59
+    # refuses to install browsers there. Unpin after a Playwright upgrade that
+    # supports 26.04.
+    runs-on: ubuntu-24.04
+    # Normal run is ~5 min. Cap it so a stalled apt mirror (seen 2026-11-05:
+    # a 54-min browser install) fails fast instead of burning up to 6 hours.
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
