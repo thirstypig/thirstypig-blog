@@ -152,6 +152,10 @@ function parseRows(file, prefix) {
     const idCell = cells[1] ?? "";
     const id = idCell.match(new RegExp(`${prefix}-\\d+`))?.[0];
     if (!id) continue;
+    // Done convention (todos.md "Done" section): a finished row strikes its ID
+    // cell through in place — `| ~~**TD-013**~~ | ...`. Skip it, or a done item
+    // keeps showing up in the "Next 3 to-dos" snippet and the open count.
+    if (idCell.includes("~~")) continue;
     const title = (cells[2] ?? "").replace(/\*\*/g, "").replace(/<!--[\s\S]*?-->/g, "").trim();
     rows.push({ id, title });
   }

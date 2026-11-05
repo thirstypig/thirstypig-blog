@@ -75,3 +75,11 @@ tina/__generated__/
 # Cross-project port registry: kept on disk, never published (names private projects).
 # Synced from ~/Projects/MASTER-PORTS.md by ~/Projects/sync-master-ports.sh.
 MASTER-PORTS.md
+
+# One-off pipeline snapshots (machine-generated, regenerate when needed — TD-012)
+/posts-audit.csv
+/venue-tags-todo.csv
+
+# Ad-hoc visual-verification screenshots
+/verify-*.jpeg
+/verify-*.png

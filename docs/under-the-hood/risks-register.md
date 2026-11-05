@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [docs-system, build-deploy, admin, venue-tags]
 links: [ADR-001, PRD-001, DOC-010]
-updated: "2026-07-23"
+updated: "2026-11-05"
 ---
 
 # Risks register
@@ -26,7 +26,7 @@ archive, and saying so explicitly is better than leaving them to nag.
 
 | ID | Risk | Impact | Likelihood | Status | Owner |
 |---|---|---|---|---|---|
-| **RISK-001** | **Photo-import backlog lives in `/tmp`.** 444 pending match decisions were written to `/tmp/photo-matches.csv` on 2026-06-09. macOS purges `/tmp`. If it's gone, the whole matching pass must be re-run. | Medium — rework, not data loss (the SSD is intact) | **High** — six weeks elapsed | `open` | james |
+| **RISK-001** | **Photo-import backlog lives in `/tmp`.** 444 pending match decisions were written to `/tmp/photo-matches.csv` on 2026-06-09. macOS purges `/tmp`. If it's gone, the whole matching pass must be re-run. | Medium — rework, not data loss (the SSD is intact) | **Materialized 2026-11-05** — file confirmed purged (TD-001) | `closed` | james |
 | **RISK-002** | **Venue-tag scraping depends on a hostile third party.** Google gates the Reviews UI behind a signed-in session. `playwright-stealth`, a real Chrome channel, and a persistent profile all failed to defeat it; the pipeline needs a bootstrapped profile and can return exit code 2 at any time. | High — the whole venue-tags feature stops | Medium — it has already broken once | `open` | james |
 | **RISK-003** | **Admin PAT sits in `sessionStorage` under a CSP that allows `script-src 'unsafe-inline'`.** That's the exact weakness against the attack (XSS) that would read the token. | Medium — token is user-owned, scoped to Contents R+W on 2 repos | Low — single user, `/admin` is `noindex`, `frame-ancestors 'none'` | `open` | james |
 | **RISK-004** | **722 MB of images committed to git** makes every deploy ~10 minutes. Repo size only grows. | Low now, Medium later — throttles iteration speed | Certain — it's the current state | `accepted` | james |
