@@ -97,7 +97,7 @@ list exists in the repo. This is reported as-is rather than invented.
 <!-- TODO(james): if you want phases tracked, define them in roadmap.md and set
      `phase:` on the relevant docs. Otherwise delete this section. -->
 
-Roadmap items (macro): **6** · To-dos (micro): **10**
+Roadmap items (macro): **6** · To-dos (micro): **8**
 
 Per-row status is not yet tracked — roadmap and to-do rows have IDs but no
 `status` column, so "shipped" cannot be computed. The doc-level `status` counts

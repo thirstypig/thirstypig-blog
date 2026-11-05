@@ -10,9 +10,9 @@ A food, drink, and dining adventure blog exploring restaurants, street food, coc
 **Current phase:** none defined · **Updated:** 2026-11-05
 
 **Next 3 to-dos:**
-1. **TD-002** — Tighten curator filters before the next sweep
-2. **TD-003** — Run the next venue-tag sweep
-3. **TD-004** — Reconcile the 48 catalogued-but-unpublished venues
+1. **TD-004** — Reconcile the 48 catalogued-but-unpublished venues
+2. **TD-005** — Add a test for `src/utils/venue-tags.ts`
+3. **TD-006** — Verify the 127 MEDIUM photo matches
 
 Full list: [roadmap](docs/product/roadmap.md) · [to-dos](docs/product/todos.md) · [docs map](docs/README-DOCS.md)
 

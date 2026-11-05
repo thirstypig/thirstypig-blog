@@ -22,7 +22,7 @@ reports whether a key is *set*, never what it contains.
 
 | | |
 |---|---|
-| Commit | `b3cee73d` |
+| Commit | `b400a0f1` |
 | Date | 2026-11-05 |
 | Branch | `chore/housekeeping-nov-2026` |
 

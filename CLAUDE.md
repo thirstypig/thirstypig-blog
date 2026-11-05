@@ -3,7 +3,7 @@
 ## Current status
 
 <!-- now-tldr -->
-My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,686 posts live at thirstypig.com** (2,127 .md on disk; 441 drafts pending). Venue tags: 766 JSONs published, 1,022 posts tagged, 814 venues in venues.yaml (48 catalogued-but-unpublished), ~1,105 posts still untagged. Test suite: 178 pytest + 187 Vitest = **365 tests** + E2E. Recent work: **CI fix (2026-11-05, PR #140)** — E2E jobs pinned to `ubuntu-24.04` (Playwright 1.59 won't install on `ubuntu-latest` = 26.04), production E2E dropped to weekly (Mondays), 30-min job cap. Before that (2026-07-24, PR #136, merged): **docs board** — `/admin → Docs` rewritten from 867 lines of hardcoded JSX into a markdown-driven viewer that auto-walks `docs/` and reads frontmatter (see `docs/README-DOCS.md`, DOC-001); retroactive PRD-001 + ADR-001; comment-inbox loop; `npm run docs:refresh` generators; public `/changelog` now renders from the canonical markdown. Next up: keep extending venue tags (TD-002 curator filters, then TD-003 sweep) (`curate_candidates.py --min-posts 1`); photo import (RM-004) needs the matching pass re-run with the SSD mounted. **Note:** the Bold Red Poster *homepage* already shipped (PR #72) — what remains is the site-wide rollout (RM-002).
+My food blog from 2007–present, rebuilt from Wayback Machine archives and Instagram exports — **1,686 posts live at thirstypig.com** (2,127 .md on disk; 441 drafts pending). Venue tags: 766 JSONs published, 1,022 posts tagged, 814 venues in venues.yaml (48 catalogued-but-unpublished), ~1,105 posts still untagged. Test suite: 178 pytest + 187 Vitest = **365 tests** + E2E. Recent work: **CI fix (2026-11-05, PR #140)** — E2E jobs pinned to `ubuntu-24.04` (Playwright 1.59 won't install on `ubuntu-latest` = 26.04), production E2E dropped to weekly (Mondays), 30-min job cap. Before that (2026-07-24, PR #136, merged): **docs board** — `/admin → Docs` rewritten from 867 lines of hardcoded JSX into a markdown-driven viewer that auto-walks `docs/` and reads frontmatter (see `docs/README-DOCS.md`, DOC-001); retroactive PRD-001 + ADR-001; comment-inbox loop; `npm run docs:refresh` generators; public `/changelog` now renders from the canonical markdown. Next up: project is parked (low priority). The `curate_candidates.py` long tail is **exhausted** (2026-11-05 dry run: 12 candidates, all caption junk) — further venue tagging needs venue names *supplied* (caption → venue proposer → Google Sheet review), not curator tuning; photo import (RM-004) needs the matching pass re-run with the SSD mounted. **Note:** the Bold Red Poster *homepage* already shipped (PR #72) — what remains is the site-wide rollout (RM-002).
 <!-- /now-tldr -->
 
 ## Quick orientation for Claude Code
@@ -132,9 +132,9 @@ node scripts/sync-inbox.mjs   # rebuild docs/INBOX.md from _comments.json
 **Current phase:** none defined · **Updated:** 2026-11-05
 
 **Next 3 to-dos:**
-1. **TD-002** — Tighten curator filters before the next sweep
-2. **TD-003** — Run the next venue-tag sweep
-3. **TD-004** — Reconcile the 48 catalogued-but-unpublished venues
+1. **TD-004** — Reconcile the 48 catalogued-but-unpublished venues
+2. **TD-005** — Add a test for `src/utils/venue-tags.ts`
+3. **TD-006** — Verify the 127 MEDIUM photo matches
 
 Full list: [roadmap](docs/product/roadmap.md) · [to-dos](docs/product/todos.md) · [docs map](docs/README-DOCS.md)
 
