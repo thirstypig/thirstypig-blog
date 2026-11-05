@@ -69,13 +69,13 @@ Vitest and Playwright are the Astro-ecosystem defaults. pytest was added specifi
 ```
 Tier 1  pre-commit     ~1.7 s    every local commit          ACTIVE
 Tier 2  CI on PR/push  ~2 min    every PR, every main push   ACTIVE
-Tier 3  nightly cron   ~2 min    11:00 UTC against prod       ACTIVE
+Tier 3  weekly cron    ~3 min    Mon 11:00 UTC against prod   ACTIVE (was nightly → 2026-11-05)
 Tier 4  pre-deploy     ~30 s     before Vercel promotes      SKIPPED (over-engineered)
 ```
 
 - **Tier 1** runs `validate:hitlist + test:unit + test:py` via `.githooks/pre-commit`. 1.7 s cold, zero new deps. Activated per-clone via `npm run setup:hooks` which writes `core.hooksPath = .githooks` to the local git config.
 - **Tier 2** runs all of the above plus E2E via `.github/workflows/test.yml` — three parallel jobs on every PR and push to main.
-- **Tier 3** runs the E2E suite against `https://thirstypig.com` via `.github/workflows/nightly.yml`, triggered by cron at 11:00 UTC. Catches deploy regressions, CDN drift, upstream API issues. The `PLAYWRIGHT_BASE_URL` env var in `playwright.config.ts` flips the target from local preview to production without changing test code.
+- **Tier 3** runs the E2E suite against `https://thirstypig.com` via `.github/workflows/nightly.yml`, triggered by cron at 11:00 UTC on Mondays (daily until 2026-11-05 — see the update below). Catches deploy regressions, CDN drift, upstream API issues. The `PLAYWRIGHT_BASE_URL` env var in `playwright.config.ts` flips the target from local preview to production without changing test code.
 - **Tier 4** is intentionally skipped. Vercel doesn't have a pre-promote hook that fits our needs, and the scale doesn't warrant the complexity.
 
 ### Admin visibility
@@ -152,3 +152,20 @@ The `isClosed` branches in `PostCard`, `search.astro`, and `RelatedPosts` check 
 - **Browser matrix** — Chromium only today; adding Firefox and WebKit is a one-line config change but ~3× CI minutes.
 - **Content decision** — flip a few closed venues to `draft: false` to activate the `isClosed` rendering branches on the live site (auto-un-skips `closed-venues.spec.ts`).
 - **Typecheck as CI job** — 14 s not suitable for pre-commit, but would be a good addition to `.github/workflows/test.yml` as a fourth parallel job.
+
+## Update 2026-11-05 — `ubuntu-latest` moved under us (PR #140)
+
+**Symptom:** nightly production E2E failed every night from 2026-11-02, after weeks of green, with no commits since 2026-09-12. Failure emails looked like site regressions.
+
+**Actual cause:** zero tests ran. GitHub repointed `ubuntu-latest` to Ubuntu 26.04, and Playwright 1.59 refuses to install browsers there — the run died in setup with `Playwright does not support chromium on ubuntu26.04-x64`. The PR `e2e` job in `test.yml` uses the same image and would have failed on the next PR.
+
+**Fix:**
+- Both E2E jobs pinned to `runs-on: ubuntu-24.04`. Unpin only together with a Playwright upgrade that supports 26.04.
+- `timeout-minutes: 30` on both jobs. The verification run spent **54 minutes** in `apt` downloads from a stalled Azure Ubuntu mirror (normal: 43 s) before passing; without a cap a hung mirror holds a runner for GitHub's 6-hour default.
+- Tier 3 cadence dropped from daily to **weekly (Mondays)** — project is low priority; the owner explicitly chose weekly over disabling.
+
+**Verified:** `workflow_dispatch` on the branch → **168 passed (2.7 min)** against production; PR CI green (e2e 8m20s).
+
+**Lessons:**
+- A failure that starts on a date with no repo changes points outside the repo — check the *step* that failed before reading any test code. Here the failing step was "Install Playwright browsers", not "Run E2E".
+- `ubuntu-latest` is a moving alias. For a low-attention project, a pinned image trades an occasional deliberate upgrade for not being surprised.

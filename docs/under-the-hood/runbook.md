@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [build-deploy, admin, venue-tags, instagram]
 links: [ADR-001, DOC-017, DOC-007]
-updated: "2026-07-23"
+updated: "2026-11-05"
 ---
 
 # Runbook
@@ -126,7 +126,7 @@ didn't and the build is still slow, check the Vercel dashboard before assuming t
 |---|---|
 | `instagram-sync.yml` | Fires on `ig-*` release tags |
 | `hitlist-sync.yml` | Hit List sync |
-| `nightly.yml` | <!-- TODO(james): what does this do? --> |
+| `nightly.yml` | **Weekly E2E (production)** — full Playwright suite against `https://thirstypig.com`, Mondays 11:00 UTC (+ manual `workflow_dispatch`). Emails on failure. Pinned to `ubuntu-24.04`, 30-min cap. Filename kept as `nightly.yml` so the workflow ID/history don't reset. |
 | `test.yml` | CI test tiers |
 
 ## Recovery

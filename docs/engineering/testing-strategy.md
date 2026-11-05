@@ -6,7 +6,7 @@ phase: null
 owner: james
 tags: [build-deploy, docs-system]
 links: [DOC-007, PRD-001]
-updated: "2026-07-23"
+updated: "2026-11-05"
 ---
 
 # Testing strategy
@@ -103,7 +103,7 @@ Four tiers, of which we currently run tiers 1–3.
 |---|---|---|---|---|
 | 1 | Pre-commit hook | `validate_hitlist` + JS unit + Python unit | ~0.5 s | **Active** — `.githooks/pre-commit` (opt-in via `npm run setup:hooks`) |
 | 2 | GitHub Actions on every PR + push to `main` | JS unit + Python unit + E2E (parallel) | ~1-3 min | **Active** — `.github/workflows/test.yml` |
-| 3 | Nightly cron against production | E2E suite hitting `thirstypig.com` | ~1-3 min | **Active** — `.github/workflows/nightly.yml`, 11:00 UTC daily |
+| 3 | Weekly cron against production | E2E suite hitting `thirstypig.com` | ~3 min (+ browser install) | **Active** — `.github/workflows/nightly.yml` (workflow name "Weekly E2E (production)"), **Mondays 11:00 UTC**. Was daily until 2026-11-05 (PR #140) — dropped to weekly because the project is low priority and nightly failure emails were noise. Runner pinned to `ubuntu-24.04`. |
 | 4 | Pre-deploy smoke | Handful of critical E2E | ~30 s | **Skip** — over-engineered for this scale |
 
 ### Bypassing the pre-commit hook
