@@ -42,7 +42,7 @@ Generated 2026-11-05 from `git ls-files` (so .gitignore is respected exactly).
 
 | Type | Files | Lines |
 |---|---:|---:|
-| Markdown | 2266 | 93,181 |
+| Markdown | 2266 | 93,198 |
 | JSON | 778 | 64,038 |
 | Python | 64 | 11,420 |
 | YAML | 6 | 6,279 |
