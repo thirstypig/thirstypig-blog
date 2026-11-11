@@ -139,3 +139,7 @@ node scripts/sync-inbox.mjs   # rebuild docs/INBOX.md from _comments.json
 Full list: [roadmap](docs/product/roadmap.md) · [to-dos](docs/product/todos.md) · [docs map](docs/README-DOCS.md)
 
 <!-- DOCS:STATUS:END -->
+
+## Status file
+
+STATUS.md is read by Jimmy's claude.ai assistant as the source of truth. Whenever a change affects scope, stack, hosting, URLs, shipped features, open bugs, or next phases, update STATUS.md and its Last updated date in the SAME commit.
